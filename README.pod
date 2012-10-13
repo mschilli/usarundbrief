@@ -1,5 +1,69 @@
 =head1 USArundbrief.com Content
 
-This repo contains the text content of usarundbrief.com.
+This Github project contains the raw text content of 
+http://usarundbrief.com, 
+a site of two Germans living in San Francisco and blogging their 
+experiences in a foreign country.
 
-It is being used for collaboration between authors and translators.
+This repo helps the authors and translators of the site to collaborate. 
+In the "de" subdirectory, you'll find the source of the German originals,
+in the "en" subdirectory, the English translations completed so far.
+
+The files are named "000.txt", "001.txt", and so forth, reflecting the
+corresponding newsletter editions.
+
+=head2 Formatting
+
+The content files use a specific markup language. There's only
+a few tags to remember, if you volunteer to translate a specific 
+edition, please keep those tags intact, so that the automatic formatter
+can render the translation appropriately.
+
+Also, please keep the paragraphs intact and use short lines, not 
+exceeding 50 characters. This makes sure we can fix typos and get
+easy-to-read "diff" files.
+
+=head3 The Pic Tag
+
+Fotos embedded in the content are referenced by the C<pic> tag:
+
+    <pic images/diego.ps German Text>
+
+If you translate such a tag, please keep the image name and just
+translate the caption:
+
+    <pic images/diego.ps This is the English caption text.>
+
+Also, as an exception to the 50-char limit on lines, please keep 
+the tag and caption in a single line.
+
+=head3 Emphasized Content
+
+Content to be displayed in italics is marked up with the C<em> tag:
+
+    <em>Angelika</em>
+    Nun will ich ...
+
+This is used often to indicate who wrote a specific paragraph.
+
+=head3 Headlines
+
+Headlines start with the character sequence C<@Z:> and should be
+kept intact:
+
+    @Z: Erdbeben
+
+=head3 HTMLONLY and other tags
+
+Occasionally, there's other tags being used for more obscure formatting,
+please keep those intact as well and keep corresponding tags (e.g.
+C<E<lt>RBLINKE<gt>...E<lt>/RBLINKE<gt> on I<one> line), another
+exception to the 50-char limit rule above.
+
+=head2 Finally ...
+
+That's about it, thanks for your contributions and send us an email if 
+you want to contribute. Email addresses are listed in the "Impressum"
+section of the site!
+
+Mike and Angelika
