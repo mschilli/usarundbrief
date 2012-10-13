@@ -1,0 +1,220 @@
+München, den 15.12.96
+
+
+<pic images/minga.ps München. Ausgangspunkt aufregender Geschichten.>
+
+<HTMLONLY><blockquote></HTMLONLY>
+<PRINTONLY>\begin{quote}</PRINTONLY>
+<em>It's an odd thing that anyone who disappears is said to be 
+seen in SAN FRANCISCO.</em>
+
+<PRINTONLY>\vspace{0.1cm}</PRINTONLY>
+
+<em>Es ist merkwürdig, aber von jedem, der verschwindet, 
+heißt es, er sei hinterher in San Francisco gesehen worden.</em>
+
+<PRINTONLY>\vspace{0.1cm}</PRINTONLY>
+
+Oscar Wilde
+<PRINTONLY>\end{quote}</PRINTONLY>
+
+<HTMLONLY></blockquote></HTMLONLY>
+
+Ihr Lieben!
+
+<HTMLONLY><I>(Angelika)</I></HTMLONLY>
+Lange habe ich überlegt, wie dieses Jahr meine 
+Weihnachtspost aussehen soll, aber da ich mitten in den 
+Umzugskisten sitze, habe ich mich für einen vielleicht 
+etwas unpersönlichen Rundbrief entschieden. Bei einem 
+Rundbrief lässt es sich leider nicht vermeiden, dass 
+einige von euch Dinge erfahren, die ihr schon lange wisst, 
+aber wie heißt es doch so schön: "Doppelt hält besser!"
+
+<pic images/wriehl.ps Die Wilhelm-Riehl-Straße in München. Hier starten Weltkarrieren.>
+
+Hinter uns liegt ein sehr ereignisreiches Jahr mit vielen 
+unvergesslichen Highlights. Ich denke da vor allen Dingen 
+an unsere Hochzeit im August. Viele von euch haben mit uns 
+gefeiert bzw. liebevoll an uns gedacht. Die Feier und die 
+Hochzeitsreise nach Australien werden für uns noch lange 
+unvergessen bleiben und wir schwelgen oft in Erinnerungen.
+
+<pic images/bungle.ps Der Bungle-Bungle in Australien.>
+
+<pic images/redsand.ps Der rote Sand einer staubigen Straße, auf der nur alle 500km eine Tankstelle kommt.>
+
+Vor und nach der Hochzeit hat Michael fleißig an seinem 
+Buch geschrieben. Da er im Januar zwei Artikel für eine 
+Computerzeitschrift geschrieben hatte, war der Verlag 
+Addison-Wesley mit der Bitte an ihn herangetreten, doch ein 
+Buch über das in den Artikeln erörterte Thema zu 
+schreiben. Da es schon lange ein Traum von Michael war, 
+einmal ein Buch zu verfassen, hat er sich nicht lange 
+bitten lassen. So hat er neben seiner normalen Arbeit 
+unermüdlich geschrieben. Anfang Dezember ist das Buch mit 
+dem Titel "Effektives Programmieren mit Perl 5" erschienen. 
+Und ich muss zugeben, dass ich, obwohl ich bis auf das 
+Vorwort nichts verstehe, jedes Mal ganz aufgeregt bin, wenn 
+ich das Buch in den Regalen einer Buchhandlung stehen sehe.
+
+<pic images/effektiv.ps Das Buch "Effektives Programmieren mit Perl 5" aus dem Hause Schilli>
+
+@Z: Ab nach San Francisco, Kalifornien
+
+Ja, und dann geht noch ein ganz großer Traum für uns in 
+Erfüllung: Wir werden für einige Zeit in San Francisco 
+leben. Geplant haben wir, zwei bis drei Jahre zu bleiben. 
+Viele fragen uns immer wieder, wie es dazu gekommen ist, 
+dass Michael ein Stellenangebot in San Francisco erhalten 
+hat, und da diese Geschichte fast ein wenig abenteuerlich 
+ist, schreibe ich sie schnell noch einmal auf. Wer sie 
+schon kennt, überspringt einfach den nächsten Absatz.
+
+Im April rief ein ehemaliger Kollege bei uns an, um Michael 
+zu fragen, ob er nicht für seine jetzige Münchener Firma 
+arbeiten kommen wolle. Michael lehnte dieses Angebot 
+zunächst ab, da er nicht schon wieder seine Arbeitsstelle 
+wechseln wollte, er war zu diesem Zeitpunkt nämlich erst 
+eineinhalb Jahre bei Softlab beschäftigt. Außerdem 
+begründete er seine Ablehnung damit, dass er so gerne für 
+einige Zeit in den USA arbeiten und leben wolle und auf ein 
+entsprechendes Angebot warten würde. Der Kollege sagte 
+dann nur: "Kein Problem, dann gehst du eben zu unserer 
+Niederlassung nach San Francisco." Zunächst haben wir 
+alles nicht so richtig ernst genommen, aber einige Tage 
+später rief dann der Geschäftsführer an und wiederholte 
+das Angebot für San Francisco. So kam der Ball ins Rollen. 
+Schließlich hatte Michael einen festen Arbeitsvertrag in 
+der Tasche.
+
+Michael hat einen amerikanischen Arbeitsvertrag, was 
+bedeutet, dass er vollständig nach amerikanischen 
+Konditionen arbeitet, d.h. z.B. 10 Tage Urlaub im Jahr, 
+amerikanische Krankenversicherung usw. Die Firma, für die 
+Michael arbeiten wird, entwickelt neue Ideen für das 
+Internet. Michael sagt immer: "Jetzt bekomme ich für mein 
+Hobby auch noch Geld."
+
+@Z: Arbeit für Angelika?
+
+Was mich betrifft, so werde ich ersteinmal nicht arbeiten 
+dürfen. Die Amerikaner sind sehr, sehr streng mit ihren 
+Arbeitsgenehmigungen und ich habe nur ein Begleitvisum 
+(Michael nennt es das "Rockzipfelvisum".) erhalten. Falls 
+ich vor Ort und Stelle ein Stellenangebot erhalten sollte, 
+muss der Arbeitgeber nachweisen, dass ich keinem Amerikaner 
+die Stelle wegnehme, was praktisch bedeutet, dass man einen 
+Rechtsanwalt beauftragen muss, um die Arbeitsgenehmigung zu 
+erwirken. Ob eine Einrichtung diese Mühen und Kosten auf 
+sich nimmt, ist fraglich; der soziale Bereich schwimmt ja 
+bekanntlich nicht im Geld. So habe ich mir vorgenommen, 
+verschiedene Praktika unentgeldlich abzuleisten, was 
+natürlich erlaubt ist.
+
+Es fällt mir schon schwer, meine Arbeit aufzugeben, zumal 
+ich eine ganz gute Position in meiner Einrichtung hatte. 
+Der Abschied fällt mir aber besonders schwer, weil ich 
+sehr an den Kindern hänge, die ich betreue. Nun ja, man 
+kann nicht alles haben. Schließlich werde ich nicht als 
+Hausfrau versauern, dafür bin ich einfach nicht geschaffen.
+
+Natürlich wollen Michael und ich auch die Zeit nutzen und 
+möglichst viel vom Land sehen. Kalifornien bietet da ja so 
+einiges. Ich freue mich besonders auf den Ozean, der ja 
+sozusagen vor der Haustür liegt.
+
+Michael ist übrigens bereits am 9.11. nach San Francisco 
+geflogen, da er seit 11.11. drüben arbeitet. Ich werde 
+dann am 30.12. folgen. Weihnachten verbringe ich dann noch 
+in Oldenburg bei meinen Eltern. Es ist schon komisch, ohne 
+Michael zu sein, aber nun sind es ja nur noch zwei Wochen 
+und dann sehen wir uns wieder.
+
+<pic images/costco.ps Michael kauft im Costco-Supermarkt, was er zum Leben braucht: Einen Fernseher, Klopapier und Bier.>
+
+Silvester werden Michael und ich mit unseren Freunden 
+Sylvia und Richard verbringen. Richard und Sylvia leben in 
+San Jose, was ca. eine Autostunde von San Francisco 
+entfernt ist. Silvester werden wir aber zusammen in San 
+Francisco sein. Wir haben ein "Candle-Light-Dinner" auf 
+einem Boot gebucht und werden in der Bucht von San 
+Francisco herumschippern. Genial, nicht?
+
+@Z: Die Wohnung
+
+Michael hat übrigens in San Francisco schon eine Wohnung 
+gefunden. Die Wohnungen in der Stadt sind recht teuer, aber 
+wir haben uns trotzdem dafür entschieden, dort zu wohnen, 
+wo das Leben tobt. Wären wir in die Vorstädte gezogen, 
+hätten wir auf jeden Fall zwei Autos gebraucht, und ich 
+wäre unter Umständen sehr isoliert gewesen, da ich ja 
+nicht arbeite. In Amerika ist ein weiteres Problem, dass 
+man für die Sicherheit der Gegend zahlen muss, d.h. eine 
+Wohnung in einer sicheren Wohngegend ist entsprechend 
+teuer. Das Problem stellt sich natürlich in der Stadt mehr 
+als in ländlichen amerikanischen Gegenden.
+
+Damit ihr euch vorstellen könnt, wie unsere Wohnung 
+ausschaut, zitiere ich noch schnell aus einem Brief von 
+Michael:
+
+"Im Haus wohnen lauter junge Leute, die ich teilweise schon 
+kennen gelernt habe, und die sind alle ganz nett. Der Blick 
+aus dem Fenster ist atemberaubend: Ich bin im zweiten Stock 
+und kann über ganz San Francisco blicken, einschließlich 
+Teile der Skyline. Man sieht diese verwinkelten Häuser, 
+echt affenstark.
+
+Die Umgebung ist besser als Berkeley und alles, was ich 
+bisher von S.F. gesehen habe: Unzählige kleine Läden für 
+Schmuck, Klamotten und Lebensmittel, ein großer 
+Supermarkt, der von sechs Uhr morgens bis 12 Uhr nachts 
+geöffnet ist, Frisöre und natürlich mindestens 20 
+Restaurants, von japanisch über italienisch. Ich war echt 
+gerührt, als ich heute das erste Mal um den Block gegangen 
+bin. Und das alles eine Straßenecke weiter! Trotzdem ist 
+die Wohnung total ruhig, da sie hintenraus geht. Besser 
+geht es nicht, glaube ich!
+
+Noe Valley, wie der Stadtteil heißt, ist absolut sicher. 
+Noe Valley ist ungefähr wie Schwabing, nur halt 
+amerikanisch.
+
+Die Küche in der Wohnung ist so dunkelbraun-amerikanisch, 
+leicht hässlich, aber schon zu gebrauchen..."
+
+Ich hoffe, diese Ausführungen von Michael bewegen euch 
+dazu, uns möglichst bald besuchen zu kommen.
+
+Übrigens vergaß ich zu erwähnen, dass wir eine 
+Zwei-Zimmer-Wohnung bewohnen (drei Zimmer sind 
+unbezahlbar), die $ 1100 kostet.
+
+Zum Abschluss komme ich noch einmal zu den Umzugskisten 
+zurück: Am 23.12. werden die meisten unserer Sachen bei 
+Michaels Onkel, der in der Nähe von Augsburg wohnt, auf 
+einem großen Dachboden untergestellt. Für Amerika haben 
+wir eine sechs Kubikmeter große Kiste verschifft. Wir 
+haben vorwiegend Bücher, Geschirr, Klamotten und einige 
+persönliche Dinge eingepackt. Auch unser Bett und die 
+guten alten Ikea-Regale aus Studentenzeiten sind mit auf 
+die lange Reise geschickt worden. Die Kiste ist letzte 
+Woche gepackt worden und wird voraussichtlich in vier 
+Wochen in San Francisco eintreffen.
+
+<pic images/kisteein.ps Die Umzugskiste wird eingeladen. Zwei Monate später wird sie in San Francisco auftauchen. Das Unternehmen Forster in München können wir nur empfehlen, die sind Weltklasse.>
+
+So, das wären die wichtigsten Informationen. Ich wünsche 
+allen ein wunderschönes Weihnachtsfest und hoffe sehr, 
+dass der ein oder andere uns 1997 besuchen kommt. 
+Natürlich gehe ich mit einem lachenden und einem weinenden 
+Auge. Damit wir uns in der neuen Welt nicht einsam fühlen, 
+wären wir sehr glücklich, wenn ihr uns fleißig schreiben 
+würdet.
+
+Mein nächster Brief wird dann aus San Francisco kommen.
+
+Alles, alles Liebe!
+
+Angelika (in München) und Michael (in San Francisco) 
