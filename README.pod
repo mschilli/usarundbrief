@@ -1,0 +1,5 @@
+=head1 USArundbrief.com Content
+
+This repo contains the text content of usarundbrief.com.
+
+It is being used for collaboration between authors and translators.
