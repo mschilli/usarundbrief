@@ -57,7 +57,7 @@ kept intact:
 
 Occasionally, there's other tags being used for more obscure formatting,
 please keep those intact as well and keep corresponding tags (e.g.
-C<E<lt>RBLINKE<gt>...E<lt>/RBLINKE<gt>> on I<one> line), another
+C<E<lt>RBLINKE<gt>...E<lt>/RBLINKE<gt>>) on I<one> line, another
 exception to the 50-char limit rule above.
 
 =head2 Finally ...
