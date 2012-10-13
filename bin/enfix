@@ -1,0 +1,17 @@
+#!/usr/local/bin/perl -w
+###########################################
+# xx -- 
+# Mike Schilli, 2012 (m@perlmeister.com)
+###########################################
+use strict;
+use Sysadm::Install qw(:all);
+
+my( $file ) = @ARGV;
+
+if( !defined $file ) {
+    die "usage: $0 file";
+}
+
+my $data = slurp $file;
+$data =~ s/\x{3f}/'/g;
+print $data;
