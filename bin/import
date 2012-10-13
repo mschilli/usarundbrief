@@ -1,0 +1,28 @@
+#!/usr/local/bin/perl -w
+###########################################
+# import - import rb issues to gh
+# Mike Schilli, 2012 (m@perlmeister.com)
+###########################################
+use strict;
+use Sysadm::Install qw(:all);
+
+(my $home) = glob "~";
+my $rb_dir = "$home/git/usarundbrief/src/";
+
+my( $file ) = @ARGV;
+
+if( !defined $file ) {
+    die "usage: $0 number";
+}
+
+if( $file !~ /^(\d+)$/ ) {
+    die "usage: $0 number";
+}
+
+my $out_file = sprintf "%03d.txt", $file;
+
+my $data = slurp( "$rb_dir/$file/angelika.txt" );
+
+$data =~ s#<CONFIDENTIAL>.*?</CONFIDENTIAL>##gs;
+
+blurt $data, $out_file;
