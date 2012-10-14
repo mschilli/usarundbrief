@@ -34,6 +34,15 @@ and we often reminisce about it.
 
 <pic images/redsand.ps The red sand on a dusty road with a gas station only every 300 miles.>
 
+Before and after our wedding Michael has worked hard on his book. In January he
+had written two articles for a computer magazine that's why the press
+company Addison-Wesley asked him to write a book about the issues
+that have been outlined in the articles. And he agreed since it had always
+been a dream of him to write a book. So he wrote all the time while still
+doing his main job. In the beginning of December they published 
+'Go to Perl 5.'  And I have to admit that I'm pretty excited whenever I see the
+book on the shelves of a bookstore even though I can't follow the issue
+except of the preposition.                                                        
 <pic images/effektiv.ps The book 'Go to Perl 5' made by Schilli>
 
 @Z: Let's go to San Francisco, CA
