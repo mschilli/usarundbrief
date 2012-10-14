@@ -2,7 +2,7 @@
 
 Munich, 12-15-1996
 
-<pic images/minga.ps Munich. Jumping-off point of plenty of exciting happenings.>
+<pic images/minga.ps Munich. Starting point of exciting stories.>
 
 <HTMLONLY><blockquote></HTMLONLY>
 <PRINTONLY>\begin{quote}</PRINTONLY>
@@ -11,178 +11,177 @@ Munich, 12-15-1996
 
 <PRINTONLY>\vspace{0.1cm}</PRINTONLY>
 
-My dears!!
+Dear friends,
 
 <em>Angelika</em> 
 I've been thinking for a long time,
 how my xmas mail this year  should look like. But due
-to my process of packing boxes to move I decided to
+to being busy packing boxes to move, I decided to
 write a possibly rather impersonal newsletter. On
 doing this I can't avoid to tell things some of you
 may already know, but better twice than not at all. 
 
-<pic images/wriehl.ps Wilhelm-Riehl-street in Munich. This is were international careers start.>
+<pic images/wriehl.ps Wilhelm-Riehl Street in Munich. This is were international careers start.>
 
 We've experienced a year full of events with many
 unforgettable highlights such a our wedding in
-august.Many of you joined the celebration respectively
-kept us in mind.. We'll always remember our
-celebration as well as our  honey moon to Australia
-and we often reminisce about it. 
+August. Many of you joined the celebration respectively
+kept us in mind. We'll always remember our
+celebration as well as our honeymoon to Australia
+and we often reminisce about it.
 
 <pic images/bungle.ps The Bungle-Bungle in Australia.>
 
-<pic images/redsand.ps The red sand on a dusty route with a gas station only each 300 miles.>
+<pic images/redsand.ps The red sand on a dusty road with a gas station only every 300 miles.>
 
 <pic images/effektiv.ps The book 'Go to Perl 5' made by Schilli>
 
 @Z: Let's go to San Francisco, CA
 
-So a big dream comes true: We're gonna live in S.F.
+So a big dream comes true for us: We're going to live in San Francisco
 for a while. Our plan is to stay there for two to
 three years. A lot of people keep asking how come
-Michael got job offer in S.F. . Due to this story
-being kind of adventurous I'm gonna tell you right
+Michael got a job offer in San Francisco. Because this story
+is kind of adventurous I'm going to tell you right
 here. Those who already know just skip the next
-passage. 
+paragraph. 
 
-In april a former colleague gave us a call to ask
+In April a former colleague gave us a call to ask
 Michael if he was willing to work for his current
-company in Munich.Michael initially declined because
-he didn't want to change his job another time. Indeed
-he had only been employed to Softlab for one and a
-half years. Moreover he explained his denial because
+company in Munich. Michael initially declined because
+he didn't want to change his job again. Indeed
+he had only been employed at Softlab for one and a
+half years. Moreover, he explained that he couldn't do it because
 he wanted to work in the U.S. for some time and he was
-waiting for such offer. The colleague was like: 'No
-problem, just work at our branch in San Francisco. At
-first we didn't take it that serious but a few days
-after the manager called and repeated the offer.
-That's how it all got started. Finally Michael had a
-fixed job contract.. 
+waiting for such an offer. The colleague was like: "No
+problem, just work at our branch in San Francisco." At
+first we didn't take it seriously, but a few days
+later the manager called and repeated the offer.
+That's how it all got started. Finally, Michael had a
+firm job contract.
 
-Michael has an American contract meaning he follows
-totally American work conditions. That is for instance
-10 days of vacations a year, American medical
-insurance and so on. The company Michael is going to
-work for develops new ideas for the internet. Michael
-says:'Now I get money for what I like to do.' 
+Michael has an American contract, meaning he follows
+American working conditions. That is, for instance,
+10 days of vacation a year, American medical
+insurance, and so on. The company Michael is going to
+work for develops new ideas for the Internet. Michael
+says:'Now I get money for what I like to do anyways.' 
 
 @Z: A job for Angelika?
 
 One of my main concerns is that I'm not going to be allowed to work.
 Americans are very, very strict with work permits and
 I only do have a visa to come with Michael. (Michael
-calls it a coattail visa) In case I got a job offer
-there the employer had to give proof that I wouldn't
-take the job from any American, in fact having to
-authorize a lawyer to receive the work permit.. If an
-institution takes the effort and finances is doubtful.
-The social area isn't known for being overfinanced.
-That's why I decided to do some voluntary inturnships
-which is allowed of course.
+calls it a coattail visa). In case I got a job offer
+there, the employer would have to show proof that I wouldn't
+take the job from any American, which means I'd have to
+hire a lawyer to obtain a work permit. It is questionable
+if any organisation would the spend time and resources
+necessary, as the social area isn't exactly known for swimming in money.
+That's why I decided to do some voluntary internships,
+which is legal, of course.
 
-Sure enough it's a hard thing for me to quit my job
-above all having been in a superior position in that
+Sure enough, it's hard for me to quit my job,
+above all, having been in a supervisor position in that
 institution. Saying goodbye is even harder because I'm
-quite attached tot he kids I teach. Well, You can't
-have it all. Ultimately I'm not gonna waste away
-that's not the way I am.
+quite attached to the kids I teach. Well, you can't
+have it all. Ultimately, I don't think I'm going to waste away
+as a housewife, that's not the way I am.
 
-Certainly  Michael and me will use the time to
-experience a lot of the landscape since California has
-a lot to offer. I'm absolutely looking forward tot he
+Certainly, Michael and I will use the time to
+experience a lot of the landscape, since California has
+a lot to offer. I'm absolutely looking forward to the
 ocean that will be literally in our backyard over
 there. 
 
-By the way Michael already had a flight to San
-Francisco on nov 11th because he's been working over
-there since nov 11th. I'm going to join on dec 30th
-after having spent christmas in Oldenburg with my
+By the way, Michael already flew to San
+Francisco on Nov 9th, because he's been working over
+there since Nov 11th. I'm going to join on Dec 30th,
+after having spent Christmas in Oldenburg with my
 parents. It's a strange feeling, to stay without
-Michael, but since it's only for another two weeks and
+Michael, but it's only for another two weeks and
 we'll see each other.
 
-<pic images/costco.ps Michael buys things needed for a living at Costco: a TV, toilet paper and beer.>
+<pic images/costco.ps Michael buys living essentials at Costco: a TV, toilet paper and beer.>
 
-We're gonna spend New Year's Eve with our friends
-Sylvia and Richard. Richard and Sylvia live in San
+We're going to spend New Year's Eve with our friends
+Sylvia and Richard. Richard and Sylvia are living in San
 Jose, an hour drive away from San Francisco. But we're
-gonna spend New Year's Eve together in San Francisco.
+going to spend New Year's Eve together in San Francisco.
 We've booked a candle light dinner on a boat and will
-be cruising in the bay of San Francisco. Sounds great,
+be cruising in the Bay of San Francisco. Sounds great,
 huh?
 
 @Z: The Appartment
 
-By the way Michael has already found an appartment in
-San Francisco. Accomodations in the city ae pretty
+By the way, Michael has already found an appartment in
+San Francisco. Accomodations in the city are pretty
 expensive but nevertheless we made the decision to
-live where something's going on. If we'd moved into
-the suburbs we would have needed two cars for sure and
+live where something's going on. If we'd moved to
+the suburbs, we would have needed two cars for sure and
 I might've been very isolated since I don't work. In
-America another problem is that you gotta pay for your
+America another problem is that you have to pay for your
 safety. That means that appartments in safer areas are
-consequently more expensive.  For sure that's a more
+consequently more expensive. For sure, that's a more
 common problem in cities than it is in rural areas. 
 
-In ordert o give you an idea how our appartment looks
-like I briefly quote Michael when he wrote a letter:
+In order to give you an idea how our appartment looks
+like, I briefly quote Michael when he wrote a letter:
 
-<em>Plenty of young people are living in the house
-that I partly already got to know and they're quite
-nice people. The view of the window is breathtaking:
-I'm on the third floor and have a look all over San
-Francisco including parts of the skyline: You can see
-all these winding buildings, real awesome.
+<em>Plenty of young people are living in the house,
+some of them I already got to know, and they're quite
+nice people. The view out of the window is breathtaking:
+I'm on the third floor and have a view all over San
+Francisco, including parts of the skyline: You can see
+all these Victorian buildings, really awesome.
 
 The surrounding is better than Berkeley and anything
-I've seen so far from San Francisco: Innumerable small
-shops for jewellery, clothes and grocery, a large
-supermarket that opens from 6am till 12pm, hair salons
+I've seen so far from San Francisco: Inumerable small
+shops for jewellery, clothes and groceries, a large
+supermarket that has open from 6am till 12pm, hair salons
 and of course 20 restaurants at least, among them
-Japanese ones as well as Italian ones. I was kind of
-touches when I went around the block fort he first
-time. And it's all just a corner away! Though the
-appartment is absolutely calm cuase it leads tot he
-atrium. You can't top that I guess!
+Japanese as well as Italian. I was really kind of
+moved when I went around the corner for the first
+time. And it's all just a block away! Despite that, the
+appartment is absolutely quiet, it faces the back.
+You can't top that, I guess!
 
-Noe Valley, how the quarter is called, is totally
+Noe Valley, how the neighborhood is called, is totally
 safe. Noe Valley is equivalent to Schwabing, just the
-American version oft it.
+American version of it.
 
 The appartment's kitchen is type of a
 darkish-brown-American style, kind of ugly but
 usable."
 </em>
 
-I hope these descriptions make you wanna visit us
+I hope these descriptions make you want to visit us
 soon.
 
-Not to forget we live in a two-bedroom appartment
-(three bedroom are not affordable) that has a monthly
+Not to forget, we'll live in a two-bedroom appartment
+(three bedrooms are not affordable) that has a monthly
 rent of $ 1100.
 
-To end with I'm telling you bout our storage boxes: On
-December 23rd most of our stuff are going to be stored
+Finally, I'm telling you about our storage boxes: On
+December 23rd, most of our stuff is going to be stored
 on the big attic of Michael's uncle who lives close to
-Augsburg. For the U.S. we have shipped a container of
-the size of approx. 200 ft' It's mostly books, dishes,
-clothes and some personal stuff i n there. Plus our
+Augsburg. For the U.S., we have shipped a container, which is
+approximately 200 cubic feet in size. It's mostly books, dishes,
+clothes and some personal stuff. Plus, our
 bed and the good, old IKEA shelves from former student
-times have been sent with it. The container was loaded
+times have been included. The container was loaded
 last week and will presumably arrive in San Francisco
-in four weeks. 
+in four weeks.
 
 <pic images/kisteein.ps The container is getting shipped. In two months it is going to appear in San Francisco. We can definitely recommend the company Forster in Munich.>
 
-Well, that's the most important update. I wish you a
-wonderful christmas and hope that  some of you might
-visit us in 1997. Of course I'll leave with mixed
-emotions. Not to feel lonely in the new worls, we'd
-appreciate you to mail us on the regular.
+Well, that's the most important updates. I wish you a
+wonderful Christmas and hope that  some of you might
+visit us in 1997. Of course, I'll leave with mixed
+emotions. We'll appreciate hearing from you regularily, 
+so we won't be feeling lonely in the new world.
 
-My next newsletter will be sent from San Francisco
-then.
+My next newsletter will be sent from San Francisco.
 
 Love,
 
