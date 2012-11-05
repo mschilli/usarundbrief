@@ -1,7 +1,7 @@
-München, den 15.12.96
+MÃ¼nchen, den 15.12.96
 
 
-<pic images/minga.ps München. Ausgangspunkt aufregender Geschichten.>
+<pic images/minga.ps MÃ¼nchen. Ausgangspunkt aufregender Geschichten.>
 
 <HTMLONLY><blockquote></HTMLONLY>
 <PRINTONLY>\begin{quote}</PRINTONLY>
@@ -10,8 +10,8 @@ seen in SAN FRANCISCO.</em>
 
 <PRINTONLY>\vspace{0.1cm}</PRINTONLY>
 
-<em>Es ist merkwürdig, aber von jedem, der verschwindet, 
-heißt es, er sei hinterher in San Francisco gesehen worden.</em>
+<em>Es ist merkwÃ¼rdig, aber von jedem, der verschwindet, 
+heiÃŸt es, er sei hinterher in San Francisco gesehen worden.</em>
 
 <PRINTONLY>\vspace{0.1cm}</PRINTONLY>
 
@@ -23,36 +23,36 @@ Oscar Wilde
 Ihr Lieben!
 
 <HTMLONLY><I>(Angelika)</I></HTMLONLY>
-Lange habe ich überlegt, wie dieses Jahr meine 
+Lange habe ich Ã¼berlegt, wie dieses Jahr meine 
 Weihnachtspost aussehen soll, aber da ich mitten in den 
-Umzugskisten sitze, habe ich mich für einen vielleicht 
-etwas unpersönlichen Rundbrief entschieden. Bei einem 
-Rundbrief lässt es sich leider nicht vermeiden, dass 
+Umzugskisten sitze, habe ich mich fÃ¼r einen vielleicht 
+etwas unpersÃ¶nlichen Rundbrief entschieden. Bei einem 
+Rundbrief lÃ¤sst es sich leider nicht vermeiden, dass 
 einige von euch Dinge erfahren, die ihr schon lange wisst, 
-aber wie heißt es doch so schön: "Doppelt hält besser!"
+aber wie heiÃŸt es doch so schÃ¶n: "Doppelt hÃ¤lt besser!"
 
-<pic images/wriehl.ps Die Wilhelm-Riehl-Straße in München. Hier starten Weltkarrieren.>
+<pic images/wriehl.ps Die Wilhelm-Riehl-StraÃŸe in MÃ¼nchen. Hier starten Weltkarrieren.>
 
 Hinter uns liegt ein sehr ereignisreiches Jahr mit vielen 
 unvergesslichen Highlights. Ich denke da vor allen Dingen 
 an unsere Hochzeit im August. Viele von euch haben mit uns 
 gefeiert bzw. liebevoll an uns gedacht. Die Feier und die 
-Hochzeitsreise nach Australien werden für uns noch lange 
+Hochzeitsreise nach Australien werden fÃ¼r uns noch lange 
 unvergessen bleiben und wir schwelgen oft in Erinnerungen.
 
 <pic images/bungle.ps Der Bungle-Bungle in Australien.>
 
-<pic images/redsand.ps Der rote Sand einer staubigen Straße, auf der nur alle 500km eine Tankstelle kommt.>
+<pic images/redsand.ps Der rote Sand einer staubigen StraÃŸe, auf der nur alle 500km eine Tankstelle kommt.>
 
-Vor und nach der Hochzeit hat Michael fleißig an seinem 
-Buch geschrieben. Da er im Januar zwei Artikel für eine 
+Vor und nach der Hochzeit hat Michael fleiÃŸig an seinem 
+Buch geschrieben. Da er im Januar zwei Artikel fÃ¼r eine 
 Computerzeitschrift geschrieben hatte, war der Verlag 
 Addison-Wesley mit der Bitte an ihn herangetreten, doch ein 
-Buch über das in den Artikeln erörterte Thema zu 
+Buch Ã¼ber das in den Artikeln erÃ¶rterte Thema zu 
 schreiben. Da es schon lange ein Traum von Michael war, 
 einmal ein Buch zu verfassen, hat er sich nicht lange 
 bitten lassen. So hat er neben seiner normalen Arbeit 
-unermüdlich geschrieben. Anfang Dezember ist das Buch mit 
+unermÃ¼dlich geschrieben. Anfang Dezember ist das Buch mit 
 dem Titel "Effektives Programmieren mit Perl 5" erschienen. 
 Und ich muss zugeben, dass ich, obwohl ich bis auf das 
 Vorwort nichts verstehe, jedes Mal ganz aufgeregt bin, wenn 
@@ -62,70 +62,70 @@ ich das Buch in den Regalen einer Buchhandlung stehen sehe.
 
 @Z: Ab nach San Francisco, Kalifornien
 
-Ja, und dann geht noch ein ganz großer Traum für uns in 
-Erfüllung: Wir werden für einige Zeit in San Francisco 
+Ja, und dann geht noch ein ganz groÃŸer Traum fÃ¼r uns in 
+ErfÃ¼llung: Wir werden fÃ¼r einige Zeit in San Francisco 
 leben. Geplant haben wir, zwei bis drei Jahre zu bleiben. 
 Viele fragen uns immer wieder, wie es dazu gekommen ist, 
 dass Michael ein Stellenangebot in San Francisco erhalten 
 hat, und da diese Geschichte fast ein wenig abenteuerlich 
 ist, schreibe ich sie schnell noch einmal auf. Wer sie 
-schon kennt, überspringt einfach den nächsten Absatz.
+schon kennt, Ã¼berspringt einfach den nÃ¤chsten Absatz.
 
 Im April rief ein ehemaliger Kollege bei uns an, um Michael 
-zu fragen, ob er nicht für seine jetzige Münchener Firma 
+zu fragen, ob er nicht fÃ¼r seine jetzige MÃ¼nchener Firma 
 arbeiten kommen wolle. Michael lehnte dieses Angebot 
-zunächst ab, da er nicht schon wieder seine Arbeitsstelle 
-wechseln wollte, er war zu diesem Zeitpunkt nämlich erst 
-eineinhalb Jahre bei Softlab beschäftigt. Außerdem 
-begründete er seine Ablehnung damit, dass er so gerne für 
+zunÃ¤chst ab, da er nicht schon wieder seine Arbeitsstelle 
+wechseln wollte, er war zu diesem Zeitpunkt nÃ¤mlich erst 
+eineinhalb Jahre bei Softlab beschÃ¤ftigt. AuÃŸerdem 
+begrÃ¼ndete er seine Ablehnung damit, dass er so gerne fÃ¼r 
 einige Zeit in den USA arbeiten und leben wolle und auf ein 
-entsprechendes Angebot warten würde. Der Kollege sagte 
+entsprechendes Angebot warten wÃ¼rde. Der Kollege sagte 
 dann nur: "Kein Problem, dann gehst du eben zu unserer 
-Niederlassung nach San Francisco." Zunächst haben wir 
+Niederlassung nach San Francisco." ZunÃ¤chst haben wir 
 alles nicht so richtig ernst genommen, aber einige Tage 
-später rief dann der Geschäftsführer an und wiederholte 
-das Angebot für San Francisco. So kam der Ball ins Rollen. 
-Schließlich hatte Michael einen festen Arbeitsvertrag in 
+spÃ¤ter rief dann der GeschÃ¤ftsfÃ¼hrer an und wiederholte 
+das Angebot fÃ¼r San Francisco. So kam der Ball ins Rollen. 
+SchlieÃŸlich hatte Michael einen festen Arbeitsvertrag in 
 der Tasche.
 
 Michael hat einen amerikanischen Arbeitsvertrag, was 
-bedeutet, dass er vollständig nach amerikanischen 
+bedeutet, dass er vollstÃ¤ndig nach amerikanischen 
 Konditionen arbeitet, d.h. z.B. 10 Tage Urlaub im Jahr, 
-amerikanische Krankenversicherung usw. Die Firma, für die 
-Michael arbeiten wird, entwickelt neue Ideen für das 
-Internet. Michael sagt immer: "Jetzt bekomme ich für mein 
+amerikanische Krankenversicherung usw. Die Firma, fÃ¼r die 
+Michael arbeiten wird, entwickelt neue Ideen fÃ¼r das 
+Internet. Michael sagt immer: "Jetzt bekomme ich fÃ¼r mein 
 Hobby auch noch Geld."
 
-@Z: Arbeit für Angelika?
+@Z: Arbeit fÃ¼r Angelika?
 
 Was mich betrifft, so werde ich ersteinmal nicht arbeiten 
-dürfen. Die Amerikaner sind sehr, sehr streng mit ihren 
+dÃ¼rfen. Die Amerikaner sind sehr, sehr streng mit ihren 
 Arbeitsgenehmigungen und ich habe nur ein Begleitvisum 
 (Michael nennt es das "Rockzipfelvisum".) erhalten. Falls 
 ich vor Ort und Stelle ein Stellenangebot erhalten sollte, 
 muss der Arbeitgeber nachweisen, dass ich keinem Amerikaner 
 die Stelle wegnehme, was praktisch bedeutet, dass man einen 
 Rechtsanwalt beauftragen muss, um die Arbeitsgenehmigung zu 
-erwirken. Ob eine Einrichtung diese Mühen und Kosten auf 
+erwirken. Ob eine Einrichtung diese MÃ¼hen und Kosten auf 
 sich nimmt, ist fraglich; der soziale Bereich schwimmt ja 
 bekanntlich nicht im Geld. So habe ich mir vorgenommen, 
 verschiedene Praktika unentgeldlich abzuleisten, was 
-natürlich erlaubt ist.
+natÃ¼rlich erlaubt ist.
 
-Es fällt mir schon schwer, meine Arbeit aufzugeben, zumal 
+Es fÃ¤llt mir schon schwer, meine Arbeit aufzugeben, zumal 
 ich eine ganz gute Position in meiner Einrichtung hatte. 
-Der Abschied fällt mir aber besonders schwer, weil ich 
-sehr an den Kindern hänge, die ich betreue. Nun ja, man 
-kann nicht alles haben. Schließlich werde ich nicht als 
-Hausfrau versauern, dafür bin ich einfach nicht geschaffen.
+Der Abschied fÃ¤llt mir aber besonders schwer, weil ich 
+sehr an den Kindern hÃ¤nge, die ich betreue. Nun ja, man 
+kann nicht alles haben. SchlieÃŸlich werde ich nicht als 
+Hausfrau versauern, dafÃ¼r bin ich einfach nicht geschaffen.
 
-Natürlich wollen Michael und ich auch die Zeit nutzen und 
-möglichst viel vom Land sehen. Kalifornien bietet da ja so 
+NatÃ¼rlich wollen Michael und ich auch die Zeit nutzen und 
+mÃ¶glichst viel vom Land sehen. Kalifornien bietet da ja so 
 einiges. Ich freue mich besonders auf den Ozean, der ja 
-sozusagen vor der Haustür liegt.
+sozusagen vor der HaustÃ¼r liegt.
 
-Michael ist übrigens bereits am 9.11. nach San Francisco 
-geflogen, da er seit 11.11. drüben arbeitet. Ich werde 
+Michael ist Ã¼brigens bereits am 9.11. nach San Francisco 
+geflogen, da er seit 11.11. drÃ¼ben arbeitet. Ich werde 
 dann am 30.12. folgen. Weihnachten verbringe ich dann noch 
 in Oldenburg bei meinen Eltern. Es ist schon komisch, ohne 
 Michael zu sein, aber nun sind es ja nur noch zwei Wochen 
@@ -143,78 +143,78 @@ Francisco herumschippern. Genial, nicht?
 
 @Z: Die Wohnung
 
-Michael hat übrigens in San Francisco schon eine Wohnung 
+Michael hat Ã¼brigens in San Francisco schon eine Wohnung 
 gefunden. Die Wohnungen in der Stadt sind recht teuer, aber 
-wir haben uns trotzdem dafür entschieden, dort zu wohnen, 
-wo das Leben tobt. Wären wir in die Vorstädte gezogen, 
-hätten wir auf jeden Fall zwei Autos gebraucht, und ich 
-wäre unter Umständen sehr isoliert gewesen, da ich ja 
+wir haben uns trotzdem dafÃ¼r entschieden, dort zu wohnen, 
+wo das Leben tobt. WÃ¤ren wir in die VorstÃ¤dte gezogen, 
+hÃ¤tten wir auf jeden Fall zwei Autos gebraucht, und ich 
+wÃ¤re unter UmstÃ¤nden sehr isoliert gewesen, da ich ja 
 nicht arbeite. In Amerika ist ein weiteres Problem, dass 
-man für die Sicherheit der Gegend zahlen muss, d.h. eine 
+man fÃ¼r die Sicherheit der Gegend zahlen muss, d.h. eine 
 Wohnung in einer sicheren Wohngegend ist entsprechend 
-teuer. Das Problem stellt sich natürlich in der Stadt mehr 
-als in ländlichen amerikanischen Gegenden.
+teuer. Das Problem stellt sich natÃ¼rlich in der Stadt mehr 
+als in lÃ¤ndlichen amerikanischen Gegenden.
 
-Damit ihr euch vorstellen könnt, wie unsere Wohnung 
+Damit ihr euch vorstellen kÃ¶nnt, wie unsere Wohnung 
 ausschaut, zitiere ich noch schnell aus einem Brief von 
 Michael:
 
 "Im Haus wohnen lauter junge Leute, die ich teilweise schon 
 kennen gelernt habe, und die sind alle ganz nett. Der Blick 
 aus dem Fenster ist atemberaubend: Ich bin im zweiten Stock 
-und kann über ganz San Francisco blicken, einschließlich 
-Teile der Skyline. Man sieht diese verwinkelten Häuser, 
+und kann Ã¼ber ganz San Francisco blicken, einschlieÃŸlich 
+Teile der Skyline. Man sieht diese verwinkelten HÃ¤user, 
 echt affenstark.
 
 Die Umgebung ist besser als Berkeley und alles, was ich 
-bisher von S.F. gesehen habe: Unzählige kleine Läden für 
-Schmuck, Klamotten und Lebensmittel, ein großer 
+bisher von S.F. gesehen habe: UnzÃ¤hlige kleine LÃ¤den fÃ¼r 
+Schmuck, Klamotten und Lebensmittel, ein groÃŸer 
 Supermarkt, der von sechs Uhr morgens bis 12 Uhr nachts 
-geöffnet ist, Frisöre und natürlich mindestens 20 
-Restaurants, von japanisch über italienisch. Ich war echt 
-gerührt, als ich heute das erste Mal um den Block gegangen 
-bin. Und das alles eine Straßenecke weiter! Trotzdem ist 
+geÃ¶ffnet ist, FrisÃ¶re und natÃ¼rlich mindestens 20 
+Restaurants, von japanisch Ã¼ber italienisch. Ich war echt 
+gerÃ¼hrt, als ich heute das erste Mal um den Block gegangen 
+bin. Und das alles eine StraÃŸenecke weiter! Trotzdem ist 
 die Wohnung total ruhig, da sie hintenraus geht. Besser 
 geht es nicht, glaube ich!
 
-Noe Valley, wie der Stadtteil heißt, ist absolut sicher. 
-Noe Valley ist ungefähr wie Schwabing, nur halt 
+Noe Valley, wie der Stadtteil heiÃŸt, ist absolut sicher. 
+Noe Valley ist ungefÃ¤hr wie Schwabing, nur halt 
 amerikanisch.
 
-Die Küche in der Wohnung ist so dunkelbraun-amerikanisch, 
-leicht hässlich, aber schon zu gebrauchen..."
+Die KÃ¼che in der Wohnung ist so dunkelbraun-amerikanisch, 
+leicht hÃ¤sslich, aber schon zu gebrauchen..."
 
-Ich hoffe, diese Ausführungen von Michael bewegen euch 
-dazu, uns möglichst bald besuchen zu kommen.
+Ich hoffe, diese AusfÃ¼hrungen von Michael bewegen euch 
+dazu, uns mÃ¶glichst bald besuchen zu kommen.
 
-Übrigens vergaß ich zu erwähnen, dass wir eine 
+Ãœbrigens vergaÃŸ ich zu erwÃ¤hnen, dass wir eine 
 Zwei-Zimmer-Wohnung bewohnen (drei Zimmer sind 
 unbezahlbar), die $ 1100 kostet.
 
 Zum Abschluss komme ich noch einmal zu den Umzugskisten 
-zurück: Am 23.12. werden die meisten unserer Sachen bei 
-Michaels Onkel, der in der Nähe von Augsburg wohnt, auf 
-einem großen Dachboden untergestellt. Für Amerika haben 
-wir eine sechs Kubikmeter große Kiste verschifft. Wir 
-haben vorwiegend Bücher, Geschirr, Klamotten und einige 
-persönliche Dinge eingepackt. Auch unser Bett und die 
+zurÃ¼ck: Am 23.12. werden die meisten unserer Sachen bei 
+Michaels Onkel, der in der NÃ¤he von Augsburg wohnt, auf 
+einem groÃŸen Dachboden untergestellt. FÃ¼r Amerika haben 
+wir eine sechs Kubikmeter groÃŸe Kiste verschifft. Wir 
+haben vorwiegend BÃ¼cher, Geschirr, Klamotten und einige 
+persÃ¶nliche Dinge eingepackt. Auch unser Bett und die 
 guten alten Ikea-Regale aus Studentenzeiten sind mit auf 
 die lange Reise geschickt worden. Die Kiste ist letzte 
 Woche gepackt worden und wird voraussichtlich in vier 
 Wochen in San Francisco eintreffen.
 
-<pic images/kisteein.ps Die Umzugskiste wird eingeladen. Zwei Monate später wird sie in San Francisco auftauchen. Das Unternehmen Forster in München können wir nur empfehlen, die sind Weltklasse.>
+<pic images/kisteein.ps Die Umzugskiste wird eingeladen. Zwei Monate spÃ¤ter wird sie in San Francisco auftauchen. Das Unternehmen Forster in MÃ¼nchen kÃ¶nnen wir nur empfehlen, die sind Weltklasse.>
 
-So, das wären die wichtigsten Informationen. Ich wünsche 
-allen ein wunderschönes Weihnachtsfest und hoffe sehr, 
+So, das wÃ¤ren die wichtigsten Informationen. Ich wÃ¼nsche 
+allen ein wunderschÃ¶nes Weihnachtsfest und hoffe sehr, 
 dass der ein oder andere uns 1997 besuchen kommt. 
-Natürlich gehe ich mit einem lachenden und einem weinenden 
-Auge. Damit wir uns in der neuen Welt nicht einsam fühlen, 
-wären wir sehr glücklich, wenn ihr uns fleißig schreiben 
-würdet.
+NatÃ¼rlich gehe ich mit einem lachenden und einem weinenden 
+Auge. Damit wir uns in der neuen Welt nicht einsam fÃ¼hlen, 
+wÃ¤ren wir sehr glÃ¼cklich, wenn ihr uns fleiÃŸig schreiben 
+wÃ¼rdet.
 
-Mein nächster Brief wird dann aus San Francisco kommen.
+Mein nÃ¤chster Brief wird dann aus San Francisco kommen.
 
 Alles, alles Liebe!
 
-Angelika (in München) und Michael (in San Francisco) 
+Angelika (in MÃ¼nchen) und Michael (in San Francisco) 
