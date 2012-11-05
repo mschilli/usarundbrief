@@ -361,7 +361,7 @@ Deutschland, und 12Mbit Internet.
 Am vereinbarten Termin schalteten die 
 Sonic-Leute die Leitung beinahe nahtlos um und nach einigen kleineren 
 Problemen, die der Kundenservice mühelos behob, brausen wir nun fast
-zehnmal so schnell im Internet herum und sparen $30 im Monat. Sehr
+zehnmal  so schnell im Internet herum und sparen $30 im Monat. Sehr
 zu empfehlen, diese Sonic-Leute. Und nach einem kürzlich erschienenen
 Zeitungsartikel testen sie sogar noch 
 <LINK>http://arstechnica.com/tech-policy/news/2012/02/gigabit-internet-for-80-the-unlikely-success-of-californias-sonicnet.ars|hundert Mal schnellere Internetverbindungen</LINK>. Wenn sie sich damit nur nicht überheben, mir reicht mein
