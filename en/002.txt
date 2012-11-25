@@ -119,6 +119,7 @@ observations, there are certainly exceptions.
 
 @Z: Wiring Money
 
+<em>Angelika</em> 
 The American banking system is quite different from 
 the German system in that recurring debits
 ("Lastschriftverfahren") are virtually unknown and
@@ -148,26 +149,30 @@ of your balance and you are desperately looking for a
 missing asset because you made a miscalculation in your
 booklet or you forgot to fill in something. 
 
-TODO
-
 As a last resort, you
 ask for the last bookings via phone banking. Phone banking
-is quite popular in the U.S. anyway since there is no
-inconvenient check writing included. Though, this kind of
-business is suspect to Europeans and doesn’t make you keep
-track on the finances. Michael states that the American
-mail company is only that cheap because there is an
-enormous amount of checks being sent via mail.  Normally
-any American is an artist what concerns finances because he
-barely pays in cash but with a large variety of credit
-cards or personal checks plus it’s getting more and more
-common to use ATM cards. This leads to losing track at the
-end of the month and many Americans have to pay their debts
-on a credit card with a different one or are in debt
-because of this.  By the way it’s not possible for a
-foreigner to receive an American credit card in an instant.
-That’s because you don’t have a credit record yet. The
-credit record tells if you’re trustworthy and if credits
+is quite popular in the U.S., since it saves writing
+a check.
+On the other hand, this kind of
+business sounds fishy to Europeans and doesn’t make you keep
+track of your finances. Michael states that the cost
+of mailing a letter in the U.S. is only as cheap as
+it is because there is an
+enormous number of checks being sent via mail every month.
+
+Generally, Americans are jugglers concerning 
+their finances, they
+barely pay in cash, but with a large variety of credit
+cards or personal checks. Also, it’s getting more and more
+common to use ATM cards. They often lose track of
+their balance at the end of the month and have to 
+revolve charges by paying one credit card with a different
+one. Many are in debt because of this.
+
+By the way, it’s not possible for a
+foreigner to receive an American credit card instantly.
+That’s because they don’t have a credit record yet. The
+credit record tells if you’re trustworthy and if loans
 that have been taken once, have been paid back as planned.
 Even if one owns a German credit card you don’t have an
 American credit record due to the fact that both the
@@ -176,8 +181,12 @@ other. So we have to deal with the fact that any 18-year
 old American has a bunch of credit cards but we have to
 wait for a year to get such a plastic card. After a year
 we’re going to be residents of California and are thus
-trustworthy. Why is that? I can’t tell you to be honest.
-Public Transportation Another curiosity is public
+trustworthy. Why is that? To be honest, I can’t tell you.
+
+@Z: Public Transportation
+
+<em>Angelika</em> 
+Another curiosity is public
 transportation in San Francisco. The good news first: San
 Francisco has either buses, trams and an underground. The
 underground is quite reliable meaning it runs after a
