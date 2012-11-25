@@ -238,37 +238,56 @@ lights.
 @Z: Vegetable Fat and "Spiritus"
 
 <em>Angelika</em> 
-
-TODO
-There is another funny story about daily
-life: We planned to have a fondue dinner on the evening of
-my birthday as it is kind of a tradition with us. We
-assumed that would not lead to any problems but it did. So
-we wanted to buy some high-heatable fat. Most of the fats
+There is another funny story about everyday things:
+We planned to have a fondue dinner on the evening of
+my birthday, as it is kind of a tradition with us. We
+assumed that this would not lead to any problems,
+but it did. So,
+we wanted to buy some high heat fat. Most of the fats
 being sold here are either fat-reduced or even fat-free (I
-have no clue how Americans do this) You just can’t heat it
+have no clue how Americans do this). You just can’t heat it
 enough. So what’s the plan? I finally asked my friend
 Sylvia who has been living in the U.S. for a while for some
-advice. She told me to get Crisco, a vegetable fat that we
-would find in the baking department of stores. Moreover she
-explained to us that there is no spiritus in the U.S. but
-only a so-called cooking fuel that looks like a charcoal
-lighters.  Unfortunately we couldn’t find some. Well, we
-had already bought the meat and the other ingredients. So
-we moved the stove and the table in the center of the
-kitchen fondue-pan on the stove. It obviously wasn’t really
-romantic but very funny.  So what else have we done over
-the past 6 weeks?  Seaworld San Diego We were on tour a
+advice. She told me to get "Crisco", a vegetable fat that we
+would find in the baking department of stores. 
+
+Moreover, she
+explained to us that there is no 
+<LINK>http://en.wikipedia.org/wiki/Denatured_alcohol|"Spiritus"</LINK> 
+(high percentage denaturated flammable alcohol) 
+for fondue burners in the U.S., but
+only a so-called "cooking fuel" that looks like a charcoal
+lighter fluid. Unfortunately, we couldn’t find any. Well, we
+had already bought the meat and the other fondue 
+ingredients. So
+we moved the both our stove and the dining table into 
+the center of the
+kitchen, and put the fondue-pan on the stove. 
+It obviously wasn’t very
+romantic, but pretty funny. 
+
+So what else have we done over
+the past six weeks? 
+
+@Z: Seaworld San Diego
+
+<em>Angelika</em> 
+We were on tour a
 lot. We spent a weekend in San Diego with Sylvia and
-Richard.  Through Richard’s company we got a beautiful
-house in the noble quarter La Jolla (comparable to Beverly
-Hills in Los Angeles). We didn’t have to pay for the house
-even though it was extremely large and luxurious (including
-a pool and a hot tub). What a luxurious estate!
+Richard. Through Richard’s company we got to stay 
+at a beautiful
+house in the fancy neighborhood La Jolla 
+(comparable to Beverly Hills in Los Angeles). 
+We didn’t have to pay for the house,
+even though it was extremely large and had all kinds
+of amenities, including a pool and a hot tub). 
+A total mansion!
 
-Illustration [3]: Seaworld: Where the whales are… 
+<pic images/seaworld.ps Seaworld: Where the whales are jumping ... >
 
-Illustration [4]: …and people!
+<pic images/jump.ps ... and humans!>
+
+TODO
 
 Richard and I had a swim in the ocean at the end of
 February, imagine. Michael borrowed roller blades (kind of
