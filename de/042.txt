@@ -1,0 +1,41 @@
+
+San Francisco, den 24.12.2002
+
+<pic images/w2002.ps Angelikas Collage zu Weihnachten>
+
+@Z: Weihnachten 2002
+
+Es weihnachtet sehr und unser Weihnachtsrundbrief
+ist fällig. Da dieses Jahr uns unsere Greencard
+bescherte und wir häufig gefragt werden, wie
+lange wir denn nun noch in Amerika bleiben wollen,
+nutzen wir die Stunde und ziehen nach sechs Jahren
+einmal wieder Bilanz. Michael und ich stellten
+eine Pro- und Contra-Liste zusammen, die euch
+hoffentlich das ein oder andere Schmunzeln
+abringt.
+Grobe Verallgemeinerungen sind voll
+beabsichtigt. Natürlich verraten wir nicht, wer
+was geschrieben hat. Da dürft ihr selbst ein
+wenig rätseln. Wir wünschen euch auf jeden Fall
+ein frohes und friedliches Weihnachtsfest und
+hoffen, im Jahr 2003 zahlreich von euch zu hören.
+Und, wir bleiben noch ein wenig hier, denn
+schließlich müssen wir unsere Greencard
+ausnutzen nach all den Strapazen, die wir 
+ausgestanden haben, um sie zu bekommen.
+
+Die besten Grüße an euch alle -- bis nächstes Jahr!
+
+Angelika und Michael
+
+<PRINTONLY>\raggedbottom \begin{thebibliography}{99}\bibitem{link1} TiVo:\newline{} {\em http://usarundbrief.com/30/index.html\symbol{35}10} \end{thebibliography} \newpage</PRINTONLY>
+
+@Z: 30 Gründe, nicht in den USA zu leben:
+
+<tbl contra.tbl 30>
+
+@Z: 30 Gründe, in den USA zu leben:
+
+<tbl pro.tbl 30>
+

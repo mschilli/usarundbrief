@@ -1,0 +1,815 @@
+
+San Francisco, den 01.08.2003
+
+@Z: Straßenampeln im Weltraumzeitalter
+
+<pic images/ampel.ps Die Ampel zählt die Sekunden: 5, 4, 3 ...>
+
+<em>(Michael)</em>
+Wer schon mal in Amerika war, weiß, dass dort die Ampeln anders funktionieren
+als in Deutschland: Erstens gibt es für Autofahrer keine Gelbphase, wenn die
+Ampel von Rot auf Grün umspringt. Das geht einfach zack! und liegt
+wahrscheinlich an den vielen Autos mit automatischer Gangschaltung:
+Niemand muss zum Anfahren den Gang einlegen. 
+
+Bevor die Ampel am Ende der Grünphase aber wieder
+auf Rot umschnackelt, gibt's natürlich eine Sekunde Gelb, damit man noch
+rechtzeitig abbremsen kann. Das ist lebenswichtig: Sobald nämlich
+die eine Ampel auf Rot umspringt, ist die in der Querrichtung schon
+Grün! Es gibt keine Kulanzphase wie in Deutschland -- wer noch schnell bei Rot
+durchdrückt, dem knallt nicht selten schon das erste querkommende
+Fahrzeug in die Seitentür.
+
+Allerdings sind Amerikaner notorisch schlechte Autofahrer und viele
+telefonieren, schrauben am Autoradio rum oder trinken Kaffee und man
+sieht häufig völlig abwesende Geisterfahrer durch rote Ampeln rauschen.
+Wir haben es uns echt angewöhnt, vorsichtig bei Grün loszufahren und
+in die Seitenstraße zu spitzeln, ob die Autos dort auch wirklich halten.
+
+Die fehlende Kulanzphase betrifft auch Fußgänger: Die müssen tierisch
+aufpassen, dass sie es bis zur anderen Seite schaffen, bevor die
+Fußgängerampel von "Walk" auf "Stop" umspringt -- denn dann haben die
+Autos sofort (!) Grün. Damit man's ungefähr abschätzen kann, 
+fängt typischerweise eine elektrische Hand zu einem Zeitpunkt zu blinken an,
+zu dem's ein sportlicher
+Läufer gerade noch zum anderen Ufer schafft. Alte Leute bleiben dann
+meist stehen, wir jungen Hüpfer schalten dann in den 100-Meter-Sprint-Modus.
+
+Natürlich hilft das Geblinke nicht immer, denn jede Kreuzung hat
+unterschiedliche Einstellungen.
+Man muss sich auf den Ampelmechaniker verlassen, der das irgendwann 
+ausgemessen hat. Deswegen gibt's jetzt etwas Neues: Ampeln mit 
+großen Digitalanzeigen,
+die die Anzahl der Sekunden bis zum "Stop" herunterzählen. Genial!
+
+Nicht nur Fußgänger lieben die neue Technik, sondern auch die in der
+gleichen Richtung vorbeibrausenden Autofahrer, die nun rüberspitzeln
+und die exakte Sekundenzahl ablesen können, bevor auch ihre Autoampel 
+auf "Gelb" springt! Das
+erleichtert oft Entscheidungen wie "Soll ich schnell die Spur wechseln,
+um den Schnarcher vor mir abzuhängen, oder komme ich auch hinter ihm 
+noch durch?".
+Vor einem Jahr gab's diese Super-Ampeln nur vereinzelt an sehr breiten
+Kreuzungen in San Francisco, aber mittlerweile schießen
+sie überall aus dem Boden, und alle sind begeistert. Bravo, San Francisco!
+
+@Z: Kalifornische Knarrengesetze
+
+Entgegen der wohl in Deutschland vorherrschenden Meinung marschieren
+nicht alle Amerikaner mit geladenem Revolver im Gürtel herum oder 
+ballern nach spannenden Sportveranstaltungen aus dem Autofenster in die Luft. 
+Nein, Schußwaffenbesitz und -gebrauch sind streng geregelt.
+Im <RBLINK>20010117#1</RBLINK>
+haben wir schon einmal die Theorie amerikanischer Waffengesetze 
+angerissen. Heute nehmen wir mal durch, wie das im kalifornischen Alltag 
+aussieht.
+
+<pic images/hg.ps Beliebte Waffenzeitschrift: "Handgunner">
+
+Das ist gar nicht so einfach, denn die Vorschriften variieren stark von
+Bundesstaat zu Bundesstaat, unterliegen ständigen Änderungen
+seitens des Gesetzgebers und werden dann noch stark schwankend von
+den Gerichten interpretiert. Also: Nicht die Rundbriefredaktion verklagen,
+wenn etwas nicht genau stimmt, sondern im Zweifelsfall vorher einen
+juristischen Blutsauger eurer Wahl anheuern und um Rat fragen.
+
+Kalifornien unterscheidet zwei Waffenvorschriften: Eine bestimmt, wann
+man eine Waffe versteckt (Conceiled Gun Law, CGL) führen darf und die
+andere bezieht sich auf geladene Waffen (Loaded Gun Law, LGL). Beide
+Gesetze wenden die Gerichte streng getrennt an: Wer zum Beispiel
+mit einem geladenen Revolver im Mantel in ein Regierungsgebäude
+marschiert, kriegt gleich zweimal einen auf den Deckel: Einmal wegen
+einer <em>versteckten</em> Waffe, und einmal wegen einer <em>geladenen</em> 
+Waffe.
+"Geladen" heißt im juristischen Sinn dabei, dass die Munition sich 
+in der Waffe befindet: Es reicht, dass das Magazin in der Pistole
+steckt, es spielt keine Rolle, ob die Waffe durchgeladen oder
+entsichert ist.
+
+<pic images/rebate.ps Anzeige: Diese Knarre ist im Sonderangebot, 40 Dollar gespart!>
+
+Fast niemand darf in einer kalifornischen Großstadt mit einer
+unter der Kleidung verborgenen Waffe herumspazieren -- nicht einmal,
+wenn sie nicht geladen ist. Wer damit erwischt wird (und nicht unter
+die nachfolgend beschriebenen Ausnahmen fällt), begeht eine Straftat,
+die mit Geldstrafe oder Gefängnis geahndet wird. Ausnahme: Eine
+so genannte CCW-(Carry Conceiled Weapons)-Genehmigung, die der Sheriff
+des jeweiligen Landkreises nur ausstellt, wenn jemand nachweist, dass
+er die Waffe beruflich braucht (zum Beispiel ein Bounty-Hunter, der
+ausgebüchsten Verbrechern nachjagt) oder sonstwie ernstlich bedroht
+ist. Typischerweise werden diese CCWs aber nur in ländlichen Gebieten
+ausgestellt, die Großstädte lehnen Anträge fast immer ab.
+
+Weitere Ausnahme: Im eigenen Heim darf jeder Normalbürger eine
+geladene Schusswaffe verstecken. Dies gilt aber 
+nicht für Vorbestrafte, illegale
+Einwanderer, unehrenhaft aus dem Militär entlassene und dergleichen.
+Als "Heim" gilt übrigens auch der eigene Garten, ein angemietes
+Motelzimmer oder ein Campingplatz. Auch Ladeneigentümer (nur die
+Eigentümer, nicht die Angestellten) dürfen in ihrem Geschäft eine
+geladene Waffe liegen haben. Als kleine juristische Eigenheit darf man
+aber nicht mit einer unter der Kleidung versteckten Waffe in der
+eigenen Hauseinfahrt herummarschieren. Die Waffe darf im "Heim"
+versteckt sein, aber nicht "Am Mann". 
+
+US-Bürger, die mindestens 18 Jahre alt sind, dürfen Schusswaffen im
+Auto transportieren, wenn sie entladen und in einem abgeschlossenen
+Kasterl sind (nicht im Handschuhfach!). Wer zwar in den USA wohnt,
+aber nicht die US-Staatsbürgerschaft besitzt, darf
+Waffen im Auto nur auf dem direkten Weg zwischen Domizilen mit
+Ausnahmeregelungen transportieren (zum Beispiel vom Heim zu einem
+Schießklub, bei dem man Mitglied ist, oder vom Waffenhändler, bei dem
+das Teil gekauft wurde, zum Büro, dessen Eigentümer man ist).
+
+<pic images/uhose.ps Anzeige: Der Ballermann in der Unterhose>
+
+Nehmen wir mal an, ein Ladeneigentümer hat eine geladene Waffe in
+seiner Schublade. Fährt er abends heim und will den Ballermann
+mitnehmen, muss er das Magazin mit den Patronen rausnehmen und die
+Pistole in ein tragbares, verschließbares Kästchen
+legen und zusperren. Trägt er beides zum Auto, muss er
+das Magazin mit den Patronen entweder offen tragen (andernfalls wäre
+das ein Verstoß gegen das "Conceiled Gun Law", denn das Magazin ist
+Teil der Waffe) oder die Patronen rausnehmen und das Magazin auch im
+Kasten einschließen. Daheim angekommen,
+darf der Ladenbesitzer die Knarre aus dem Auto in die Wohnung nehmen
+und dann dort laden. Allerdings muss er sicherstellen, dass seine Kinder
+nicht drankommen.
+
+Eine ungeladene Schusswaffe offen zu tragen, ist lustigerweise fast überall
+erlaubt. Man könnte ohne weiteres mit einem Colt in einem (offenen)
+Cowboy-Halfter durch die Innenstadt von San Francisco marschieren --
+ausgenommen sind nur waffenfreie Zonen wie Regierungsgebäude, Schulen
+oder Flughäfen. Ist die Waffe hingegen geladen, darf man mit ihr auch
+dann nicht auf die Straße, wenn man sie offen trägt. Gewehre fallen
+nicht unter das CGL, da man sie nur sehr schwer unter der Kleidung
+verstecken kann, aber unter das LGL: Niemand darf mit einem geladenen
+Gewehr auf der Straße stehen.
+
+Wer eine Waffe offen trägt, den darf die Polizei jederzeit kontrollieren.
+Das ist den Polizisten in den USA normalerweise verboten -- wer nichts
+angestellt hat, den darf niemand auch nur nach dem Ausweis fragen.
+"Routinekontrollen" wie in Deutschland wären rechtswidrig. Sieht ein
+Polizist aber, dass jemand eine Waffe trägt, darf er nachsehen und
+sicherstellen, dass diese nicht geladen ist.
+
+<pic images/gun.ps "Wie man eine Schusswaffe besitzt und nicht ins Gefängis kommt">
+
+Was tun mit der Knarre? Man darf sein Heim, sich selbst und andere Leute
+gegen Bösewichte verteidigen. Es besteht, und das ist wichtig, keine
+Pflicht, zurückzuweichen, wenn sich damit eine Konfrontation vermeiden 
+ließe. Schießen darf man allerdings nur dann, wenn vom Bösewicht eine 
+unmittelbare Gefahr gegen Leib und Leben von Personen ausgeht. Wenn
+ein Dieb mit dem Fernseher unter dem Arm durchs Fenster abhaut, wäre
+es eine Straftat, hinterher zu ballern. Greift der Dieb allerdings gerade
+mit einem Baseballschläger an, darf man schießen.
+
+Die Regeln sind sehr kompliziert und verlangen es, juristisch genau zu
+abstrahieren, welche Vorschrift in welchem Fall genau gilt. Kaum ein
+Einwohner Kaliforniens (außer vielleicht der Polizei und professionellen 
+Waffenhändlern)
+kennt diese Regeln genau. Ich habe mir das mittlerweile vergriffene
+Buch "How to Own a Gun in California and Stay Out of Jail" von John
+Machtinger gekauft, der 1999 mal alle wichtigen Fakten
+zusammengetragen hat. Sehr schön!
+
+Für die Bilder im Rundbrief habe ich extra zwei Waffenmagazine bei 
+unserem Zeitschriftenhändler um die Ecke gekauft. Zu meinem Erstaunen hatte
+der klitzekleine Laden satte zehn verschiedene Magazine. Der Verkäufer
+sagte, viel verkaufe er in diesem Viertel allerdings nicht, und er legt sie
+immer ins oberste Regal, dass die kleinen Kinder nicht rankommen.
+Wahrscheinlich hält er mich jetzt für einen Waffennarren, aber damit
+muss ich leben.
+
+@Z: Kalifornisches Kasperltheater
+
+<pic images/davis.ps Nachrichten: Gouverneur Gray Davis wird zurückgepfiffen>
+
+<em>(Angelika)</em>
+Nachdem sich Kalifornien durch die Energiekrise mit diversen
+Stromausfällen (wir berichteten), das Platzen der Internetblase mit
+Firmenschließungen und steigender Arbeitslosigkeit quälte und sich
+jetzt einem Haushaltsdefizit von 38 Milliarden Dollar gegenüberstehen
+sieht, macht sich Unmut in der Bevölkerung breit. Wie die Deutschen
+auf Schröder und Co. schimpfen, erzürnen sich viele Kalifornier
+über Gray Davis, den erst Ende 2002 wiedergewählten demokratischen
+Gouverneur (vergleichbar mit dem Ministerpräsidenten) von
+Kalifornien. 
+
+Obwohl die Energiekrise u.a. auf das Konto des
+republikanischen Gouverneurs Pete Wilson (Amtszeit vor Gray Davis)
+geht und Davis nicht die allgemein schlechte amerikanische
+Wirtschaftslage verursachte, eignet er sich für die meisten
+Kalifornier als Sündenbock. Das mag auch damit zusammenhängen, dass
+Davis recht farblos und steif wirkt und der Funke nicht überspringt.
+Nun bedeutet Demokratie aber einmal: Gewählt ist gewählt für eine
+Amtsperiode und wem Davis nicht passt, der kann seinen Unmut bei der
+nächsten Wahl zum Ausdruck bringen. Weit gefehlt: In Kalifornien (und
+auch in anderen amerikanischen Bundesstaaten) gibt es die Möglichkeit
+der so genannten Abberufung ("recall"): Die Wähler können einen
+Politiker vor Ende seiner Amtsperiode wieder abwählen. Ursprünglich
+schon 1911 in die kalifornische Verfassung aufgenommen, um korrupten
+Politikern das Handwerk zu legen, sorgt die Abberufungsinitiative
+jetzt für das reinste Affentheater in Kalifornien. 
+In Deutschland
+kratzt ihr euch jetzt wahrscheinlich die Köpfe: "Recall - nie
+gehört!" Dann will ich einmal versuchen zu erklären, was es damit
+auf sich hat.
+
+<pic images/davis2.ps Demonstranten gegen Gray Davis>
+
+Damit es zum Abwahlverfahren kommt, muss eine bestimmte
+Anzahl von Unterschriften von kalifornischen Wählern vorliegen, die
+eine Abberufung befürworten. In Kalifornien sind das 12% aller
+abgegebenen Stimmen bei der letzten bundesstaatlichen Wahl - sprich
+897.158 Unterschriften. Im Vergleich zu anderen Bundesstaaten sind
+das extrem wenig, die meisten anderen, 
+die Abrufverfahren erlauben, wollen satte 25% sehen. 
+
+So rannten wir in den letzten Monaten und Wochen auf
+dem Weg zum Supermarkt oder zur U-Bahn überall in
+Unterschriftensammler. In San Francisco befürworten die
+Abberufungsinitiative aber nur wenige, da Schätzungen besagen, dass
+die Sonderwahl den schon gebeutelten Staat schlappe 30 Millionen
+Dollar kosten wird, so dass gleich parallel von anderen Gruppen
+Unterschriften <em>für</em> Davis
+gesammelt wurden. Allerdings rechnet man die Unterschriften für und
+gegen den "Recall" nicht gegeneinander auf. An einem bestimmten
+Stichtag müssen dann die Unterschriften zur Verifizierung vorliegen,
+was letzte Woche geschah. Unter der Federführung des
+republikanischen, aber als windig geltenden Politikers Darrell Issa
+-- die Polizei verhaftete ihn vor geraumer Zeit zweimal wegen des
+Verdachts auf Autodiebstahl -- kamen mit 1.3 Millionen gültigen
+Unterschriften weit mehr als nötig zusammen.
+
+Issa finanzierte die
+"Recall"-Unterschriftensammelei mit 1.5 Millionen Dollar. 
+Denn ohne Geld geht in Amerika
+nichts. Auch der Wahltermin steht bereits fest. Am 7. Oktober
+entscheiden die Wähler, ob Davis geht oder bleibt und wählen
+gleichzeitig aus einer Liste von Kandidaten ihren bevorzugten neuen
+Gouverneur. Etwas irre scheint mir dabei, dass ein Wähler selbst dann
+für einen Kandidaten stimmen darf, wenn er sich gegen den Rücktritt
+von Davis ausspricht. 
+
+Jeder Hinz und Kunz, egal von welcher Partei, kann
+sich aufstellen lassen. Nur Gray Davis zieht den schwarzen Peter. Er
+darf nicht kandidieren. Um beim Gouverneursrennen mitzuspielen,
+braucht man nur amerikanischer Staatsbürger zu sein, 3500 Dollar
+Verwaltungsgebühr berappen und 65 gültige Unterschriften von
+Befürwortern vorweisen. Hat der Kandidat die 3500 Dollar nicht zur
+Hand, erhöhen sich die 65 Unterschriften auf 10.000. Ihr könnt euch
+vielleicht vorstellen, dass da jeder Depp "mitspielen" will. Die
+Gefahr dieser Sonderwahl ist dann auch, dass neben einer
+wahrscheinlich schlechten Wahlbeteiligung, ein völlig Unerfahrener
+zum Gouverneur aufsteigt, denn es reicht die einfache Mehrheit, um zu
+gewinnen, was in der Praxis bedeutet, dass man mit extrem wenig
+Stimmen siegen kann. 
+
+Bisher erscheint als sicher, das besagter Darrell
+Issa mit dabei sein möchte. Aber auch der republikanische
+Geschäftsmann Bill Simon, der Davis bei der letzten Wahl unterlag,
+wittert seine Chance. Und die Gerüchteküche brodelt, dass der als
+Muskelmann bekannt gewordene Filmstar Arnold Schwarzenegger,
+seines Zeichens ebenfalls der republikanischen Partei angehörig und
+gebürtiger Österreicher mit amerikanischem Pass, antreten könnte.
+So absurd, wie das klingt, ist das bei weitem nicht. Bei Umfragen
+in Nachrichtensendungen im Fernsehen bekennen sich durchaus normal aussehende 
+Kalifornier dazu, dem "Terminator" ihre Stimme leihen zu wollen.
+Arnie hält sich zur Zeit bedeckt und die Presse munkelt, dass seine
+Frau Maria Shriver, eine Demokratin, die auch noch zum Kennedy-Clan
+gehört, abrät. Ich sage euch, wenn ich neben dem Cowboy Bush auch
+noch "I'll be back"-Arnold ertragen muss, drehe ich durch.
+
+@Z: Topprodukt
+
+<pic images/sticker.ps Kleideretiketten>
+
+<em>(Michael)</em>
+Sicher habt ihr auch schon mal auf ein Etikett in einem Kleidungsstück
+gestarrt: "Uuuh, Giorgio Armani ...", was das wohl gekostet hat? "Ah, Prada!"
+Der Pulli sieht zwar aus wie aus der Altkleidersammlung, aber, hey, war 
+sicher teuer!
+In einem Zaubererladen in Las Vegas entdeckte ich neulich etwas, um
+diesem Unfug ein Ende zu bereiten: Einnähbare Etiketten, auf denen
+fabrizierter Blödsinn steht: 
+"100% Pure Shit" <CONFIDENTIAL>(100% Reine Scheiße)</CONFIDENTIAL>
+steht auf einem, 
+"100% Cow Dung" <CONFIDENTIAL>(100% Kuhmist)</CONFIDENTIAL>
+auf einem anderen. Und ich hab's mir sofort eigenhändig
+in den Fasipelz-Pulli eingenäht, den ich seit Jahren jeden Tag trage. 
+Nur schwierig, das Etikett jemandem zu zeigen, aber hey, Humor kommt
+von innen ...
+
+@Z: Wie lange noch?
+
+<pic images/bags.ps 500 Mülltüten -- reichen 6,5 Jahre>
+
+Über meine Obsession, bei meinem Lieblingssupermarkt "Costco" einzukaufen,
+habe ich schon oft berichtet. Aber nur alteingesessene
+Stammleser mit Elefantengedächtnis 
+wissen, dass ich vor sechseinhalb Jahren dort als eine der
+ersten Aktionen in San Francisco eine 500er-Packung
+Mülltüten gekauft habe. Im <RBLINK>961215#2</RBLINK> 
+steht's beschrieben und auf diesem 
+<LINK>http://perlmeister.com/rundbrief.archiv/961215/images/costco.html|Foto</LINK>
+könnt ihr es sehen: Vor dem damals ebenfalls neugekauften 
+Sharp-Fernsehkasten, der schon lange den Geist aufgegeben hat, 
+und links neben dem Corona-Bier-Tragl, das sich noch
+weniger lange hielt, sieht man dort eine Packung der Firma Kirkland
+mit 500 Mülltüten. Warum ich das schreibe? 
+Vor einigen Tagen haben wir die letzte verbraucht.
+Das fußt allerdings nicht auf der Tatsache, 
+dass wir extrem wenig Müll produzierten,
+sondern nur darauf, dass man in den USA im Supermarkt
+immer mit Plastiktüten zugeschüttet wird, die man dann später für den
+Abfall hernimmt, sodass man kaum selber gekaufte Mülltüten verbraucht.
+Nun stehe ich vor der Frage: Soll ich nochmal einen 500er-Pack kaufen,
+bleiben wir nochmal 6,5 Jahre?
+
+@Z: Das marode Rentensystem
+
+Im Gegensatz zu den Deutschen, die zu meinem nicht geringen Erstaunen
+immer noch gerne von staatlicher Rente träumen, haben die Amerikaner
+bereits die Wahrheit kapiert, und niemand, der heutzutage jünger als
+35 ist, ordentlich Geld verdient und einigermaßen bei Verstand ist,
+erwartet vom Staat irgendwelche signifikanten Rentenzahlungen.
+
+Ich weiß nicht genau, auf welcher Phantasiemathematik deutsche
+Politiker ihre Kalkulationen basieren, aber versuchen wir's mal mit
+einer ganz einfachen Rechnung: Während heute in den USA 15 Arbeiter
+die Rente für einen Rentner zahlen, sind's in 40 Jahren nur noch zwei.
+In Deutschland wird das Problem wegen dem viel geringeren
+Ausländeranteil noch gravierender. Das kann nicht funktionieren. Wer
+sich in 40 Jahren zur Ruhe setzt, muss sich selbst von privat (!)
+Erspartem durchfüttern können. Die brutale Wahrheit ist, dass niemand
+50% seines Gehalts an uns gierige Rentner abdrücken wird.
+Der Generationenvertrag ist tot, tot, tot.
+
+<pic images/oma.ps Oma Meume muss sich ihre Rente in der Gameshow erspielen>
+
+Im Gegensatz zu Deutschland, wo die so genannte Riester-Rente keinen
+großen Anklang findet, ist das amerikanische Äquivalent, der
+so genannte 401k-("for-ouh-won-key")-Plan praktisch eine
+Selbstverständlichkeit für jeden, der nicht vorhat, im Alter in einer
+Pappschachtel unter einer Brücke zu nächtigen. Der lustige Name leitet
+sich aus Steuergesetz Nummer 401, Absatz (k), ab.
+
+Typischerweise bieten Arbeitgeber für mittlere bis besserbezahlte Jobs
+einen 401k-Plan an. Dabei drückt der Arbeitnehmer monatlich
+automatisch eine bestimmte Summe vom Bruttogehalt (also steuerfrei!)
+ab, die dann an private Investmentunternehmen wie Fidelity
+(www.401k.com) überwiesen wird. Der Arbeitnehmer hat üblicherweise die
+Wahl, das Geld mehr oder minder risikobehaftet anzulegen: Money Market
+Fonds (ähnlich sicher wie Festgeld), Bonds (Pfandbriefe) oder
+Aktienfonds. Manchmal gibt's aber auch nur die Aktien des Arbeitgebers
+zu kaufen, das ist dann nicht so doll.
+
+Auch wenn das Geld bei privaten Firmen wie Fidelity liegt, unterliegt
+es den gesetzlichen Regulierungen für 401k-Pläne. Das Geld wächst
+steuerfrei an, denn eventuell anfallende Pfandbriefzinsen und die
+Aktienfondsgewinne werden nicht versteuert. Man darf in dem Depot nach
+Herzenslust herumfuhrwerken und das virtuelle Geld -- typischerweise 
+per Internet -- zwischen verschiedenen Anlageformen hin- und herschieben.
+
+Wechselt man den Arbeitgeber, legt
+man dort einen neuen 401k-Plan an und führt den zusätzlich zum alten.
+Insgesamt dürfen maximal 12.000 Dollar im Jahr in den 401k-Plan
+wandern, ab 2006 werden es 15.000 sein. Wenn man 59 ist, darf man
+seine Bündel anreißen und Geld daraus entfernen -- allerdings muss
+jeder Cent davon dann entsprechend dem dann eingenommenen
+Jahreseinkommen versteuert werden.
+
+Üblicherweise braucht man als Greis weniger Geld, deswegen ist die
+Steuerrate dann niedriger als während des Arbeitslebens. Geht man zu
+einem Finanzberater, rechnet der einem üblicherweise aus, wieviel Geld
+man monatlich einzahlen muss, und wann man aufhören darf zu arbeiten,
+damit das Geld dann bei einer positiven Aktienentwicklung, sagen wir
+10% im Jahr, bis zur durchschnittlichen Lebenserwartung reicht. Wird
+man älter oder kracht die Börse, geht's ab unter die Brücke.
+
+Wegen dem Börsenkrach von 2000 und der bis heute anhaltenden schlechten
+Anlagestimmung wanderten die 401k-Anlagen vieler Amerikaner in die falsche
+Richtung: Statt der geforderten 10% Wachstum pro Jahr sackten besonders
+die Altersvorsorgekonten derjenigen in den Keller, die ihre Rente in
+so genannte "Aggressive Fonds" angelegt hatten. Vielen ging zur selben
+Zeit auch noch das Haushaltsgeld aus -- und deswegen rissen nicht wenige ihr
+Bündel vorzeitig an, und nahmen die damit sofort fällige Versteuerung
+und eine Strafgebühr in Kauf.
+
+Ein guter Arbeitgeber unterstützt die Altersversorgung seiner
+Mitarbeiter auch noch mit Zuschüssen mit bis zu 50% auf die Zahlungen,
+bis zu 6% des Gehalts -- das ist geschenktes Geld, und obendrein auch
+noch steuerfrei, was, wie die Tabelle in <RBLINK>991120#2</RBLINK> zeigt, 
+ganz schön reinhaut.
+Die <LINK>http://www.401k.com/401k/about/about.htm|401k-Webseite</LINK> 
+verzweigt zu allerlei 401k-Feinheiten.
+
+Außer dem 401k-Plan gibt's auch noch andere Vorsorgevarianten, wie zum
+Beispiel dem "Roth-IRA", benannt nach einem Senator namens "William V.
+Roth", der sich für diesen Plan stark machte. Den Roth-IRA kann man
+durchaus parallel zum 401k führen. In den Plan zahlt man jährlich bis
+zu $3000 bereits versteuertes Geld ein, entrichtet dann aber auf Zins-
+und Aktiengewinne sowie entnommenes Geld im Alter keinerlei Steuern
+mehr. Spitzenverdiener, die alleine $110.000 oder als Ehepaar $160.000
+im Jahr ranschaffen, sind aber vom Roth-Ira ausgeschlossen, siehe
+<LINK>http://www.fairmark.com/rothira/roth101.htm</LINK>. Die genauen
+Regelungen sind sehr kompliziert, und wie alle Steuergesetze nur zu
+verstehen, wenn man dicke Wälzer liest und regelmäßig die jeweils
+neusten Änderungen verinnerlicht.
+
+Und, wie immer in den USA, gibt's keine
+Gleichberechtigung: Ober- und Mittelklässler führen üblicherweise einen 
+401k-Plan und/oder einen Roth-IRA, wer weniger verdient, braucht 
+alles zum Leben,
+kann nichts für die Rente zurücklegen, und ist auf die staatliche
+Rentennotversicherung "Social Security" angewiesen, in die
+Arbeitgeber und Arbeitnehmer jeweils 6.2 Prozent des Bruttogehalts 
+einzahlen, bis zur Höchstgrenze von (Stand: 2003) 87.000 Dollar Jahresgehalt. 
+Allerdings kann man heute schon das Pleitedatum dieser Versicherung 
+ausrechnen: 2032.
+
+Ein interessanter Twist folgt aus der
+Bevölkerungsverteilung in der Alterspyramide: In 30 Jahren
+werden hauptsächlich ausländische Zuwanderer, besonders aus
+lateinamerikanischen Ländern, in die Rentenversicherung einzahlen und
+damit die Rente einer hauptsächlich weißen Bevölkerungsgruppe
+finanzieren -- da sind Rassenkonflikte vorprogrammiert.
+
+@Z: Das amerikanische Schulsystem
+
+<pic images/school.ps Vorsicht, Schule!>
+
+<em>(Angelika)</em>
+Ferienzeit in Deutschland: Wie passend, mal etwas 
+über das amerikanische Schulsystem zu schreiben. Jeder meint, es 
+aus amerikanischen Fernsehsendungen zu kennen. 
+Aber glaubt ihr auch, dass in Amerika private Schulen dominieren?
+Falsch, nur 11% der amerikanischen Schüler drückten die 
+Schulbank einer privaten Schule im Jahr 2002 - sagt 
+jedenfalls die Statistik des "National Center for Education 
+Statistics". 
+
+Private Schulen kosten Schulgeld -- zwischen 200 und 1000 Dollar
+pro Kind und Monat.
+Öffentliche Schulen (genannt "public schools") sind 
+hingegen kostenlos. Ungefähr 80% der privaten Schulen 
+befinden sich in der Hand von Kirchen und anderen 
+religiösen Vereinigungen. Während in öffentlichen 
+amerikanischen Schulen Religionsunterricht nicht auf dem 
+Lehrplan stehen darf (Trennung von Kirche und Staat), ist 
+er fester Bestandteil in religiös geprägten privaten 
+Schulen. 
+
+Die Idee der kostenlosen Bildung für alle ist 
+uramerikanisch. Man wollte sicherstellen, dass die noch 
+junge Nation mit wenig Gemeinsamkeiten schneller 
+zusammenwächst, was vor allen Dingen den 
+Immigrantenkindern der großen Einwanderungswellen zwischen 
+1890 und 1930 zugute kam. 
+
+Wie auch in anderen Bereichen in 
+Amerika spielt Vater Staat nur eine untergeordnete Rolle im 
+Bildungssystem. Es gibt z.B. keinen national
+einheitlichen Lehrplan, was nicht bedeutet, dass in jeder 
+amerikanischen Schule nach eigener Facon unterrichtet 
+wird. So gibt es bestimmte Fächer, mit der sich jeder 
+amerikanische Schüler mehr oder weniger lange herumquält, 
+egal ob er in Hawaii oder Alaska wohnt: Mathematik, 
+Englisch (Schreiben, Lesen Grammatik, Literatur), 
+Naturwissenschaften, Geographie, Geschichte, Sozialkunde, 
+Kunst, Musik. 
+
+<pic images/edison1.ps Eine privatisierte öffentliche Schule> 
+
+Andererseits ist das Erlernen einer 
+Fremdsprache über eine bestimmte Anzahl von Jahren - so 
+wie man es in Deutschland kennt - <em>nicht</em> Pflicht. Viele 
+amerikanische Schüler fangen erst in der High School (in 
+der Regel 9. bis 12. Klasse) mit irgendeiner Fremdsprache 
+an. Witzigerweise meinen Amerikaner aber oft, dass es 
+reiche, eine Fremdsprache, wie zum Beispiel Deutsch, 2 Jahre 
+lang zu lernen, um sie gut anwenden zu können. 
+Ich treffe immer wieder Leute, die 
+protzen, dass sie Deutsch sprechen, weil es in ihrer 
+"High School" für zwei Jahre auf dem Programm stand. Mehr 
+als Floskeln kriegt man dann aber nicht zu hören. 
+
+Auch 
+wenn der Staat keine zentrale Rolle einnimmt, hält er sich 
+doch nicht ganz heraus. Die Gesetzesinitiative "No 
+Child Left Behind" (frei übersetzt: "Kein Kind wird 
+vergessen"), die Präsident Bush Anfang 2002 
+unterzeichnete, ist ein gutes Beispiel für diese Art von 
+Einmischung. Das Gesetz hat, grob gesagt, zum Ziel, höhere 
+Standards an öffentlichen Schulen durch verstärktes 
+Testen von Schülern, Einstellen von qualifizierten 
+Lehrern, Qualitätskontrollen an einzelnen Schulen usw. zu 
+erreichen. 
+
+Allgemein obligt die Schulhoheit in Amerika den einzelnen 
+Bundesstaaten (wie in Deutschland den Bundesländern). Die 
+Bundesstaaten sind in einzelne, so genannte School Districts 
+(Schulbezirke) aufgeteilt. Die Schulbezirke haben großen 
+Einfluss, denn die Kontrolle der öffentlichen Schulen soll 
+möglichst in lokaler Hand bleiben. Der Schulausschuss 
+("School Board"), der aus gewählten Mitbürgern besteht, 
+leitet den Schulbezirk. Auch die privaten Schulen müssen 
+bestimmten Richtlinien, die der einzelne Bundesstaat für 
+sie setzt, folgen, haben aber auf der anderen Seite mehr 
+Freiheiten als öffentliche Schulen z.B. in ihrer 
+Schülerwahl. Neben privaten und öffentlichen Schulen 
+gibt es die Möglichkeit, seine Kinder selbst zu 
+unterrichten, und dieses Verfahren erfreut sich
+wachsender Beliebtheit in Amerika, das ist das so 
+genannte "Home Schooling". Ehrlich gesagt, ich weiß ja 
+nicht, ob das so "das Gelbe von der Post" ist.
+
+Die Finanzierung der öffentlichen Schulen erfolgt durch 
+Steuergelder, wobei den Löwenanteil der Bundesstaat, die 
+Städte und Landkreise aufbringen (etwa 90%) und der Staat 
+nur die restlichen 10 % zubuttert. In der Regel fließt die 
+Grund- und Vermögenssteuer ("Property Tax"), die 
+Amerikaner zahlen, wenn sie ein Haus besitzen, direkt den 
+lokalen Schulen zu. Und hier beginnt das Elend: 
+Denn wohnt man in einer noblen Wohngegend, in der die 
+Häuser und Grundstücke teuer sind, zahlt man viel Steuern und die 
+Schulen im Viertel kriegen viel Geld.
+Hat man das Pech, in einer ärmeren Gegend 
+aufzuwachsen, schauen die Schulen diesbezüglich in die 
+Röhre. Von Chancengleichheit keine Rede.
+
+Nun brennt ihr aber sicherlich darauf, zu wissen, wie die 
+amerikanische Schule strukturiert ist. Die Mädels und 
+Jungs gehen in der Regel 12 Jahre zur Schule, egal ob zur 
+öffentlichen oder privaten Schule, oder auch bei Mama und 
+Papa zu Hause im "Home Schooling". Die Schulpflicht variert 
+etwas in den einzelnen Bundesstaaten: So endet die 
+Schulpflicht für die Jugendlichen in 30 Staaten mit 16 Jahren, 
+mit 17 Jahren in neun Bundesstaaten und mit 18 Jahren in den restlichen 11 
+Staaten. Mit sechs Jahren (kleine Abweichungen von 
+Bundesstaat zu Bundesstaat sind auch hier möglich) wird 
+ein amerikanisches Kind in die "Elementary School" 
+(vergleichbar etwa mit der deutschen Grundschule) 
+eingeschult. 
+
+Im Gegensatz zum deutschen Kindergarten meint 
+der Amerikaner, wenn er vom Kindergarten spricht, das Jahr 
+<em>unmittelbar</em> vor der Einschulung. In den meisten
+Bundesstaaten besteht noch keine Kindergartenpflicht, so 
+auch in Kalifornien. Da aber im Kindergarten das erste 
+Lernen von Buchstaben und Mengen auf dem Programm steht und 
+es allgemein schon recht verschult zugeht (es gibt Hausaufgaben!), 
+besuchen fast 
+alle Kinder einen "Kindergarten". Die Kindergärten befinden 
+sich in der Regel im Gebäude der "Elementary School" und 
+sind ein fester Bestandteil der Schule (ähnlich wie die 
+etwas aus der Mode gekommenen Schulkindergärten in 
+Deutschland). 
+
+Viele Kinder besuchen vor dem Kindergarten 
+eine so genannte "Preschool" oder "Nursery School" 
+(Vorschule). Die "Elementary School" erstreckt sich je nach 
+Bundesstaat oder auch Schuldistrikt von der ersten bis zur 
+vierten, fünften, sechsten, siebten oder achten Klasse ("8th Grade").
+Danach kann sich nach der vierten Klasse 
+oder respektive nach der fünften Klasse eine "Middle 
+School" (Mittelschule) bis zur achten Klasse anschließen. 
+In San Francisco halten sich die öffentlichen Schulen an folgendes Modell:
+Fünf Jahre "Elementary School", drei Jahre "Middle School" und
+vier Jahre "High School".
+
+Bitte verwechselt die amerikanische "Middle School" aber 
+nicht mit der deutschen Realschule. In den USA gibt es kein 
+dreigliedriges Schulsystem sondern nur ein 
+Gesamtschulsystem. Der Begriff "Middle School" bezieht sich 
+rein auf den Zeitpunkt, wann die Kinder diese Schule 
+besuchen, nämlich zwischen "Elementary School" und "High 
+School". 
+
+Ab der neunten Klasse beginnt in der Regel die 
+"High School", die mit der 12. Klasse endet. In einigen 
+Schuldistrikten gibt es auch die Unterscheidung der 
+"Junior High School" (oft 7. - 9. Klasse) und "Senior High 
+School" (10. - 12. Klasse). Schließt der Schüler die 12. 
+Klasse mit Erfolg ab, erhält er das "High School Diploma" 
+(Highschool-Abschluss), was ihr nicht mit dem Abitur 
+verwechseln dürft. 
+
+<pic images/school3.ps Erste Schreibkünste: Dekoriertes Schulfenster>
+
+Verlässt ein Schüler allerdings die 
+Schule, bevor er die zwölfte Klasse beendet, weil er die 
+Schulplicht erfüllt hat, bekommt er gar nichts und gilt 
+als Schulabbrecher. Es besteht zwar die Möglichkeit, 
+später im Erwachsenenleben den Abschluss nachzuholen, aber 
+Highschool-Abbrecher stehen nicht gerade oben auf der 
+sozialen Leiter in Amerika. Der nachgeholte Abschluss hat 
+dann auch einen eigenen Namen, nämlich "General 
+Educational Development" (Allgemeine Bildungsentwicklung), 
+im Volksmund als GED bekannt.
+
+Die amerikanische Schule ist eine Ganztagsschule und 
+beginnt zwischen 7:30 Uhr und 8:30 Uhr und endet zwischen 
+15 und 16 Uhr. Wie in Deutschland gibt es verschiedene 
+Schulstunden ("Periods" genannt) und Pausen ("Recess"). 
+Samstags und Sonntags ruhen auch amerikanische Kinder. Das 
+Schuljahr dauert meist 9 Monate (oder 180 Schultage pro 
+Jahr) und geht von ca. Anfang September bis Mitte Juni. 
+
+Im 
+Gegensatz zu Deutschland sind die Ferien weniger über das 
+Jahr verteilt. Die meisten Schulen gönnen ihren Schülern 
+eine Woche Frühlingsferien ("spring break") und einige 
+Tage um Weihnachten herum. Die Sommerferien erstrecken sich 
+dann aber über ca. 9 Wochen. Noch vor nicht allzu langer 
+Zeit bekamen amerikanische Schüler fast 3 Monate 
+Sommerferien, ein historisches Erbe aus den Zeiten, in 
+denen die Kinder im Sommer auf den Feldern helfen mussten, 
+was man mittlerweile doch als überholt erkannte. 
+
+Um die 
+Eltern in den langen Sommerferien nicht zum Wahnsinn zu 
+treiben und ihnen weiter das Arbeiten zu ermöglichen, ohne 
+die Kinder gleich ins Büro mitzunehmen, findet man 
+überall Sommerprogramme, die z.B. gemeinnützige 
+Einrichtungen anbieten. Auch das berühmte amerikanische 
+Ferienlager ("Summer Camp") darf nicht vergessen werden. 
+Viele Schulen bieten die so genannte "Summer School" 
+(Sommerschule) an, d.h. nix ist mit Ferien und Faulenzen:
+Gelernt wird. Da man in Amerika das Konzept des 
+Sitzenbleibens kaum kennt, erhalten Schüler hier die 
+Gelegenheit, Lücken aufzuholen. Auch besteht die 
+Möglichkeit, Fächer, in denen der Schüler durchfiel, zu 
+wiederholen. 
+
+Ältere Schüler suchen sich auch häufig Jobs 
+den Sommer über oder arbeiten ehrenamtlich. Im Tenderloin, 
+wo ich als Springkraft tätig bin, tummeln sich z. B. zur 
+Zeit ein Haufen Teenager, die ihre Ferien nutzen, um uns 
+mit den Kindern auszuhelfen. Unsere Einrichtung schließt 
+im Sommer nämlich nur für eine Woche. 
+
+<pic images/school2.ps Zeichnung und Inschrift an einer Schule. Die Schüler schwärmen für die Lehrerin.>
+
+Aber zurück zur 
+Schule: In der Grundschulstufe unterrichtet ein Lehrer die 
+Basisfächer und wird eventuell unterstützt durch einige 
+Fachlehrer. In höheren Klassen werden die Schüler von 
+unterschiedlichen Lehrern (je nach Fach) unterrichtet und 
+ziehen dazu von Klassenraum zu Klassenraum, denn in Amerika 
+zieht nicht der Lehrer von Klasse zu Klasse, sondern bleibt 
+in seinem Klassenzimmer. Das liegt auch daran, dass Lehrer 
+häufig ihre gesammten Unterrichtsmaterialien in der Schule 
+aufbewahren. Der Lehrer gestaltet deshalb sein eigenes 
+Klassenzimmer. 
+
+In der "High School" (in der Regel ab der 9. 
+Klasse) trifft der amerikanische Schüler dann auf das 
+reine Kurssystem mit einem sehr breit angelegten 
+Fächerangebot. Auch in den USA hält die Diskussion an, 
+wieviel Freiheit dem einzelnen Schüler bei der Fächerwahl 
+zusteht. Allgemein muss jeder Schüler aber bestimmte 
+Pflichtkurse absolvieren, die durch Wahlfächer zu 
+ergänzen sind. Das Kurssystem der USA legt den Schüler 
+wenig auf eine bestimmte Richtung bezüglich der späteren 
+Berufswahl/Laufbahn fest. Allerdings bieten fast alle "High 
+Schools" mehr akademisch ausgerichtete Kurse an, die 
+stärker auf den College- oder Universitätsbesuch 
+vorbereiten. 
+
+Noten und Hausaufgaben gibt es wohl fast überall auf der 
+Welt -- so auch in den USA. Noten werden allerdings nicht 
+numerisch sondern mit Hilfe von Buchstaben ausgedrückt: A, 
+B, C, D, F. Das A entspricht dabei der besten Note, 
+vergleichbar mit der Note eins, B gilt als gut, C kommt 
+wohl der Note 3 am nächsten und D der 4. Erhält der 
+Schüler ein F, bedeutet dies, dass er nicht bestanden hat. 
+Allerdings gilt es in Amerika als völlig unmöglich, einen
+schlechten Schüler durch schlechte Noten zu demotivieren. 
+Deswegen kriegt kaum jemand etwas anderes als ein "A" oder "B".
+
+Lehrer gelten in Amerika als ganz normale Angestellte und 
+können genauso schnell entlassen werden, wie jeder Andere 
+auch, außerdem verdienen sie relativ schlecht. Das 
+durchschnittliche Jahresgehalt eines Lehrers betrug im 
+Schuljahr 2001/2002 $44.367, wobei das Anfangsgehalt im 
+Durchschnitt nur $30.719 betrug. Zum Vergleich: Soviel verdient
+ein Bus- oder U-Bahnfahrer auch.
+Die Gehälter unterliegen starken Schwankungen von Bundesstaat zu 
+Bundesstaat. Lehrer haben 
+in den USA einen besseren Ruf als in Deutschland. Oft hört man 
+Geschichten über besonders engagierte Lehrer, die sogar 
+ihr eigenes Geld opfern, um davon fehlende Materialien für 
+ihre Schüler zu kaufen. Das muss übrigens ziemlich oft 
+vorkommen, denn seit 2002 können Lehrer einen gewissen 
+Anteil dieser "Ausgaben" von den Steuern absetzen. 
+
+<pic images/edison3.ps Edison Charter Schools>
+
+Zum Schluss möchte ich noch über eine neue amerikanische 
+Kuriosität im Schulsystem berichten, die so genannten 
+"Charter Schools" (Vertragsschulen). Charter Schools
+zählen zu den öffentlichen Schulen und finanzieren sich 
+somit auch durch Steuergelder. Nur dass in diesem Fall der 
+Schulbezirk bzw. der Bundesstaat der betreffenden Schule 
+den Bildungsauftrag per Vertrag überträgt. 
+2.799 Charter-Schools gibt es bereits in den USA 
+(428 in Kalifornien) und sie bildeten im Schuljahr 2002/2003 
+landesweit insgesamt 685.000 Schüler aus. 
+<LINK>http://www.uscharterschools.org|www.uscharterschools.org</LINK>
+zeigt Details.
+
+Charter-Schulen haben in der Regel mehr Freiheiten als 
+traditionelle öffentliche Schulen. Die Idee ist, dass die 
+größere Freiheit zu kreativerem Unterrichten und besseren 
+Schulleistungen bei den einzelnen Schülern führt. 
+Theoretisch können sich also Eltern oder auch Lehrer 
+zusammen tun und ihre eigene Charter-Schule gründen. 
+
+Dies 
+hört sich im Prinzip ja nicht schlecht an. Bloß setzt 
+sich in Amerika seit Anfang der 90er Jahre der Trend durch, 
+dass Charter-Schulen von Unternehmen geleitet werden, die 
+nicht nur zum Ziel die Verbesserung der öffentlichen 
+Schulen haben, sondern damit auch noch Gewinn machen wollen. 
+
+Eines der bekanntesten dieser Charter-Schulunternehmen 
+heißt "Edison Schools Inc." und operiert mittlerweile in 20 
+Bundesstaaten. In der Regel übernimmt Edison 
+völlig heruntergekommene öffentliche Schulen. Zur
+Ehrenrettung des Unternehmens muss man erwähnen, dass 
+tatsächlich zunächst Geld in die Schulen investiert wird. 
+Die Philosophie des Firmengründers Chris Whittle besteht 
+darin, dass die Gelder, die traditionelle öffentliche 
+Schulen erhalten, durch die bestehende Bürokratie 
+aufgefressen wird und er dies durch vernünftiges 
+Management an seinen Schulen nicht nur verhindern kann,
+sondern auch noch in Gewinn umwandeln wird. 
+
+Der Gewinn 
+lässt allerdings auf sich warten -- Edison Schools 
+Inc. steckt in großen Finanzschwierigkeiten. Kritiker 
+argumentieren, dass die Schulen allgemein keinen Gewinn 
+erwirtschaften dürfen, da sie sich aus öffentlichen 
+Mitteln finanzieren. Viele charakterisieren die 
+Edison-Schulen auch als Kette (sozusagen der Starbucks der 
+Schulen), wie man sie sonst nur in jeder amerikanischen 
+Einkaufsmeile antrifft, denn die Edison-Schulen arbeiten 
+mit einem standardisierten Lehrplan, den man an allen ihren 
+Schulen findet, egal was für regionale Unterschiede es 
+gibt. Ich meine ja, dass mit Bildung und Gesundheit kein 
+Geld zu machen ist. Das funktioniert einfach nicht.
+Im nächsten Rundbrief gibt's noch etwas mehr zum Thema "Schule".
+
+@Z: San Francisco Lokal: U-Bahn zum Flughafen
+
+<pic images/bart1.ps Der rasende Rundbriefreporter testet die U-Bahn zum Flughafen>
+
+Und hier wieder der Lokalteil aus San Francisco.
+Nach 30!-jährigem Debattieren und Planen fuhr Ende Juni endlich
+die erste U-Bahn, im Volksmund BART (= Bay Area Rapid Transportation
+System) genannt, auf neuerbauter Strecke zu San Franciscos Flughafen SFO. 
+Nun mag euch
+Europäern das etwas hinterwäldlerisch anmuten. Doch
+wer die USA schon auf so mancher
+Reise kennen lernte, weiß, dass selbst große Flughäfen meist über
+keine U-Bahn-Anbindung in die Innenstadt verfügen; geschweige denn
+die Städte über ein vernünftiges öffentliches Verkehrs\-system. So
+stellt sich das San-Francisco-Modell als bahnbrechend dar. Wie in den
+meisten amerikanischen Städten gab es bis dato nur die Möglichkeit,
+mit dem Taxi, dem eigenen Auto oder dem so genannten
+"Door-to-Door-Shuttle" ("von-Tür-zu-Tür") zum Flughafen zu gelangen.
+
+Bis vor kurzem griffen wir immer auf das letztere zurück, denn der
+"Door-to-Door-Shuttle" holt einen, wie der Name schon sagt, vor der
+eigenen Haustür ab. Besonders praktisch, wenn man mit viel Gepäck
+reist. Bei dem "Door-to-Door-Shuttle" handelt es sich um einen
+Kleinbus mit Fahrer. Da in einem Kleinbus mehr Leute Platz finden, die
+sich die Fahrt teilen, verbilligt das diese. Es gibt in San Francisco
+mehrere Unternehmen, die diesen Service anbieten. Der ganze Spaß
+kostet je nach Anbieter zwischen 12 und 17 Dollar für eine Person,
+manche geben auf weitere Gruppenreisende etwa 50% Rabatt.
+Trinkgeld gibt man dem Fahrer natürlich auch. Ein Taxi kostet vom
+Flughafen in die Innenstadt zum Vergleich ca. 37 Dollar plus
+Trinkgeld, während die U-Bahn-Fahrt von unserer Station, der 24th
+Street, 4.60 Dollar kostet. 
+
+<pic images/bart3.ps Die rasende Rundbriefreporterin im "Airtrain" von der Bart zur Abflughalle>
+
+Wir Alteuropäer probierten diesen neuen
+Bart-Service umgehend aus, als wir uns zur Perl-Konferenz nach
+Portland aufmachten. Mit Hilfe unseres rollenden Turbogepäcks war
+der Weg auf der steilen 24sten Straße hinunter zur U-Bahn-Station eine 
+Leichtigkeit und tatsächlich klappte
+alles wie am Schnürchen. Die Bart zoomte in die nagelneue,
+hypermoderne SFO-Station, dann ging es über ein
+paar Rolltreppen zum AirTrain, die interne Flughafenbahn, die
+Terminals, Parkgaragen usw. miteinander verbindet. Zum Schluss
+fühlten wir uns aber doch wieder etwas wie in der Provinz, denn das
+Terminal für inneramerikanische Abflüge erreichen die Passagiere
+nur, indem sie die Parkgarage durchqueren. Was haben wir gelacht.
+
+Bis nächsten Monat! Eure Amerika-Füchse:
+
+Michael und Angelika

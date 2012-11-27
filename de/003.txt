@@ -4,29 +4,29 @@ San Francisco, den 01.06.97
 
 Hallo, ihr Lieben!
 
-<em>Angelika</em> Nun sind schon wieder einige Wochen
-vergangen und ich will endlich meinen dritten
-Rundbrief beginnen. Michael ist jetzt bereits seit
-guten sechs Monaten in San Francisco und ich lebe hier
-seit fast fünf Monaten. Trotz dieser Zeit ist das
-Leben auch weiterhin neu und spannend für uns, und es
-macht uns immer noch viel Spaß, Land und Leute zu
-entdecken. Die erste größere Krise haben wir auch
-gerade überstanden. 
+<HTMLONLY><I>(Angelika)</I></HTMLONLY>
+Nun sind schon wieder einige Wochen vergangen und ich will 
+endlich meinen dritten Rundbrief beginnen. Michael ist 
+jetzt bereits seit guten sechs Monaten in San Francisco und 
+ich lebe hier seit fast fünf Monaten. Trotz dieser Zeit 
+ist das Leben auch weiterhin neu und spannend für uns, 
+und es macht uns immer noch viel Spaß, Land und Leute zu 
+entdecken. Die erste größere Krise haben wir auch gerade 
+überstanden. 
 
 @Z: Finanzkrise in der Firma
 
-<HTMLONLY>Die</HTMLONLY> 
+<CONFIDENTIAL>Blaxxun, das ist die</CONFIDENTIAL><HTMLONLY>Die</HTMLONLY> 
 Firma für die Michael 
 arbeitet, hat nämlich gerade ihr Büro in San Francisco 
 geschlossen. Aber ich muss dafür etwas weiter ausholen, 
 sonst versteht mich ja kein Mensch.
 
 Zunächst einmal muss man wissen, dass 
-<HTMLONLY>die Firma</HTMLONLY> durch 
+<CONFIDENTIAL>Blaxxun</CONFIDENTIAL><HTMLONLY>die Firma</HTMLONLY> durch 
 einen amerikanischen Geldgeber finanziert wird, und zwar 
 sowohl das Büro in München als auch das Büro in San 
-Francisco. Da <HTMLONLY>es</HTMLONLY> 
+Francisco. Da <CONFIDENTIAL>Blaxxun</CONFIDENTIAL><HTMLONLY>es</HTMLONLY> 
 eine relativ neue und kleine Firma 
 ist und ganz neue Software entwickelt, ist die Finanzlage 
 nicht so krisensicher wie bei Weltfirmen wie z.B. Siemens 
@@ -35,7 +35,7 @@ jetzt die Haare raufen, da er nicht gerade ein Fan dieser
 Unternehmen ist). Im Klartext heißt dies, dass irgendwann 
 auch etwas verkauft werden muss. Leider sind die 
 Amerikaner gerade nicht so interessiert an den Sachen die 
- <HTMLONLY>die Firma</HTMLONLY>
+<CONFIDENTIAL>Blaxxun</CONFIDENTIAL> <HTMLONLY>die Firma</HTMLONLY>
 entwickelt; dafür aber die Deutschen. So hat der 
 amerikanische Sponsor kurzerhand beschlossen, dass das 
 Büro in San Francisco geschlossen wird und alle seine 
@@ -46,7 +46,7 @@ eigentlich bedeutet, dass wir sofort unsere Koffer hätten
 packen müssen (und ich hatte gerade erst alles richtig 
 ausgepackt und die Bilder an die Wand gehängt), da unsere 
 Aufenthaltsgenehmigung und Michaels Arbeitsgenehmigung ja 
-völlig an die Firma  
+völlig an die Firma <CONFIDENTIAL>Blaxxun</CONFIDENTIAL> 
 Amerika gekoppelt sind. 
 
 <pic images/homeoff.ps Michael setzt dem bösen Blick auf, weil er beim Arbeiten unterbrochen wurde>
@@ -56,7 +56,7 @@ noch hier sind. Keine Angst, ich komme gleich dazu, ich
 wollte es nur etwas spannend machen. Also, wir haben 
 einfach unendliches Glück gehabt. Michael und sein Kollege 
 Peter sind die einzigen, die auch weiterhin für 
-<HTMLONLY>die Firma</HTMLONLY>
+<CONFIDENTIAL>Blaxxun</CONFIDENTIAL><HTMLONLY>die Firma</HTMLONLY>
 Amerika arbeiten. Dies ist deshalb möglich, weil der 
 amerikanische Firmensitz auch weiterhin besteht. Die Firma 
 in Amerika hat jetzt eben nur noch zwei Mitarbeiter und 
@@ -77,7 +77,7 @@ alles recht sein.
 
 Michael wird jetzt in Ruhe die Situation abwarten. Alle 
 hoffen natürlich darauf, dass 
-<HTMLONLY>die Firma</HTMLONLY>
+<CONFIDENTIAL>Blaxxun</CONFIDENTIAL><HTMLONLY>die Firma</HTMLONLY>
 den großen 
 Durchbruch schafft. Sollte sich die Situation aber 
 weiterhin verschlechtern, wird Michael versuchen, hier in 
@@ -160,7 +160,7 @@ eigenen College-Zeitung veröffentlicht worden sind. Wir
 hatten die Aufgabe, über unsere Träume zu schreiben. Ein 
 Text ist von mir und einer von einer Klassenkameradin aus 
 Nicaragua. Der Text von 
-<HTMLONLY>Maria</HTMLONLY>
+<HTMLONLY>Maria</HTMLONLY><CONFIDENTIAL>Ana</CONFIDENTIAL>
  zeigt auch gut, wie das Leben 
 hier als Immigrant sein kann und mit was für 
 unterschiedlichen Erfahrungen und Vorstellungen jeder 
@@ -169,9 +169,9 @@ einzene in die USA kommt.
 <pic images/cityc.ps Teilnehmer des Englischkurses am City-College>
 
 My Dream -- by 
-<HTMLONLY>Maria</HTMLONLY> B.
+<HTMLONLY>Maria</HTMLONLY><CONFIDENTIAL>Ana</CONFIDENTIAL> B.
 
-A 15 year-old dating a U.S. citizien in Nicaragua' Oh, yes! 
+A 15 year-old dating a U.S. citizien in Nicaragua? Oh, yes! 
 How we dream when we are 15! I had a yellow moon, shining 
 stars and red hearts. I had a marriage, a white picket 
 fence, a pink and blue pastel-colored home, some children, 
@@ -210,10 +210,10 @@ General Education Degree, which I'm about to get.
 Den Text kann man ungefähr wie folgt übersetzen:
 
 Mein Traum -- von 
-<HTMLONLY>Maria</HTMLONLY> B.
+<HTMLONLY>Maria</HTMLONLY><CONFIDENTIAL>Ana</CONFIDENTIAL> B.
 
 Eine Fünfzehnjährige, die mit einem 
-Amerikaner in Nicaragua ausgeht' Oh, ja! Was für Träume 
+Amerikaner in Nicaragua ausgeht? Oh, ja! Was für Träume 
 wir haben, wenn wir 15 sind. Ich hatte (in meinen Träumen) 
 einen gelben Mond, glänzende Sterne und rote Herzen im 
 Sinn. Ich hatte eine Ehe, einen weißen Gartenzaun, ein 

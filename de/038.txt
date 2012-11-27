@@ -1,0 +1,867 @@
+
+San Francisco, den 23.07.2002
+
+<pic images/gca.ps Am Ziel: Die Greencard>
+
+Und hier sind wir wieder -- eure rasenden Rundbriefreporter
+Angelika und Michael, die nun schon seit mehr als fünf Jahren
+in einer der aufregendsten Städte der USA leben, Land und Leute studieren 
+und sich noch immer redlich bemühen, nicht total zu
+veramerikanisieren! Und ich platze gleich mit der Sensation heraus: 
+Wir haben neulich, nach Jahren des Hoffens und Bangens endlich
+per Post die Greencard erhalten! Angelika wird ganz genau schildern, 
+wie die letzten Schritte abgingen -- zuerst jedoch noch einige
+Lokalnachrichten:
+
+@Z: Nachtrag zur Fußball-WM
+
+Im Fernsehen halte ich ja nur selten ein Fußballspiel durch. Während
+ich auf dem Fußballplatz stundenlang herumtoben kann, fehlt mir
+vor dem Fernseher einfach die Geduld, dem üblichen Klein-Klein
+im Mittelfeld zuzusehen. Da denke
+ich mir immer: Mei oh mei, die Zeit, die Zeit! Ich könnte schon wieder
+drei Perlprogramme schreiben!
+
+Bei der diesjährigen WM jedoch konnten wir uns nicht entziehen: Wir sind
+tatsächlich um 4:30 morgens aufgestanden und haben's uns
+live angesehen. Wohl weil's hier keiner macht. Die USA
+haben sich zwar diesmal ins Achtelfinale gespielt, 
+aber "Soccer", wie's die Amis nennen, bleibt ein Exotensport.
+
+<pic images/soccer.ps David Beckham und ich tragen dieselben Fußballschuhe>
+
+Außer unserem
+mexikanischen Nachbarn natürlich, der begeistert zuschaute. 
+Und mitlitt, als Mexiko gegen die USA verlor. 
+Mexikaner sind in den USA nicht hoch 
+angesehen, da die meisten mangels Alternativen 
+in Mindestlohnjobs arbeiten müssen
+und es nur ganz wenige schaffen, dem Teufelskreis 
+zu entfliehen.
+
+In Kalifornien ernten Mexikaner 
+Südfrüchte und Weintrauben, decken Dächer und führen private
+Abrissarbeiten durch, putzen Autos, mähen den Rasen und spülen 
+in Gaststätten das Geschirr.
+
+<pic images/chavez.ps Gewerkschaftsführer Cesar Chavez auf einer Briefmarke>
+
+Ohne Mexikaner würde die kalifornische Wirtschaft sofort zusammenbrechen.
+In der Cesar-Chavez-Strasse in San Francisco, die ironischerweise
+den Namen eines Mannes trägt, der sich dafür eingesetzt hat, dass 
+Niedriglohnarbeiter gerechtere Löhne bekommen, stehen jeden Tag
+hunderte von Mexikanern, die darauf warten, dass ein reicher
+Hausbesitzer im Pickup-Truck vorbeifährt, und drei, vier Leute
+auflädt, damit sie für fünf, sechs Dollar die Stunde Arbeiten
+erledigen, die sonst keiner machen will.
+Aber im Fußball hatten sie bislang die Nase vorn -- und da kommen
+die ausbeutenden USA und gewinnen, das war bitter und wurde hier
+und in Mexiko auch so diskutiert.
+
+<pic images/wasch2.ps In Kalifornien waschen fast nur Mexikaner Autos>
+
+Was ich eigentlich sagen wollte:
+Die Mexikaner sind hier absolut fußballbegeistert und sprechen in
+den höchsten Tönen von der deutschen Mannschaft.
+Unser Nachbar hat mir neulich erzählt, dass
+der deutsche Super-Torwart Oliver Kahn im spanischen Sender in San
+Francisco "el gato volador" genannt wird -- die "fliegende Katze", die 
+raubtierhaft umherschnellt und die Bälle nur so rausbugsiert. 
+Seit neuestem ziehen die mexikanischen
+Kommentatoren im Fernsehen übrigens nicht mehr nur das Wort
+"Gooooool" über 20 Sekunden in die Länge (kein Schmarr'n, ich hab's 
+gestoppt), nein topaktuell ist es "Gol Gol Gol Gol Gol Gol" zu skantieren,
+das klingt dann wie eine amerikanische Polizeisirene. Übrigens ist es
+egal, welche Mannschaft das Tor schießt, ge-goool!-t wird in jedem Fall.
+
+Und in San Francisco gibt's bekanntlich mehr Ausländer als Amerikaner
+und deswegen hatten sogar einige Bars in den frühen Morgenstunden geöffnet,
+um den Fußballfans Gelegenheit zu geben, die Spiele live zu verfolgen.
+Bier gab's allerdings keins, denn zwischen 2 und 6 herrscht in San Francisco
+Ausschankverbot, das strikt eingehalten wird.
+
+@Z: Personalisierte Strafzettel
+
+Neulich dachte ich mir:
+Es wäre doch schön, wenn wir als Andenken 
+an unsere Zeit in San Francisco einen Strafzettel bekämen, auf dem
+"PERL MAN" steht -- das personalisierte polizeiliche Kennzeichen unseres 
+Autos (<RBLINK>000309#1</RBLINK>).
+Am Sonntag Nachmittag war es dann soweit: Ich kam 
+vom Supermarkt heim und stellte den treuen "PERL MAN"
+dreist auf den Gehsteig, um ihn auszuladen. Oben in der Wohnung signalisierte
+mir Angelika, dass sie mit Oldenburg am Telefon sei und wir in zwei
+Minuten zu einer Unternehmung aufbrechen könnten. Ausgelassen schaltete
+ich den Fernseher an. Eine Stunde später war's dann soweit und wir hatten 
+einen Strafzettel am Auto, hurra! Für $25 zwar nicht ganz billig, aber
+ein einmaliges Souvenir, wie ihr in Abbildung (#3) seht!
+
+<pic images/ticket.ps (#3) Ein Strafzettel für PERL MAN>
+
+Darauf seht ihr auch, dass es 250 Dollar kostet, falls man an einer
+Bushaltestelle parkt oder $275, falls man ein Auto ohne Behindertenausweis
+auf einen Behindertenparkplatz stellt --
+oder einer Behindertenrampe nur drei Fuß (etwa einen Meter) zu nahe kommt!
+Ähnlich drakonische Strafen werden für das Fahren in der
+Car-Pool-Lane (<RBLINK>20010701#1</RBLINK>)
+verhängt ($274), wenn man allein im Auto sitzt.
+"Parking within 18 inches of curb" kostet 23 Dollar -- ich nehme an, 
+dass damit gemeint ist, dass man nicht weiter als 18 Zoll (45.54 cm)
+vom Randstein weg parken darf.
+Und vor einem Hydranten
+zu parken, kostet nur den Dauerniedrigpreis
+von $33 -- das kann ich mir leisten, wartet ab, vielleicht
+demnächst im Rundbrief!
+
+Auf der
+<LINK>http://www.monkeydyne.com/soren/tips/dmv-numbers.html|
+Website von Søren F. Ragsdale</LINK>
+stehen übrigens alle absurden Zahlenwerte, die der kalifornische 
+Autofahrer kennen muss, wenn er einen Führerschein beantragt: 
+Parken darf man nur 7,5 Fuß von Eisenbahnschienen entfernt,
+15 Fuß von einem Feuerhydranten und 3 Fuß von einer Gehsteigrampe.
+
+@Z: Der rasende PERL MAN
+
+In der Woche um den amerikanischen Nationalfeiertag am 4. Juli hatten
+viele Firmen im Silicon Valley wegen der gerade vorherrschenden
+Wirtschaftskrise geschlossen und die Straßen waren ungewöhnlich
+leer, also fuhr ich morgens mal zügig mit dem Auto ins Büro, das
+60km südlich von San Francisco in Mountain View liegt. Auf der
+Autobahn 101, wie immer in der linkesten von vier Spuren, 
+kurz vor der Abfahrt Mountain View sah ich plötzlich im 
+Rückspiegel einen Polizeiwagen auftauchen und bremste routinemäßig 
+auf die vorgeschriebenen 65 Meilen pro Stunde (etwa 100 km/h) ab.
+
+Nachdem er eine Weile hinter dem "PERL MAN" hinterhergefahren war,
+der sich aber nichts anmerken ließ und gemütlich seinen 
+Kaffee aus der Commuter-Tasse trank, schaltete der Cop plötzlich seine
+Sirene an. Zunächst vermutete ich, er wollte nur vorbei und wechselte
+auf die nächstrechte Spur. Doch er folgte nach und das heißt in den USA:
+Rechts auf dem Seitenstreifen anhalten und sich kontrollieren lassen.
+Nachdem Routinekontrollen in den USA nicht erlaubt sind, heißt das
+im allgemeinen: Man hat etwas falsch gemacht und muss Strafe zahlen.
+
+Also wechselte ich Spur um Spur nach links, verlangsamte
+und hielt schließlich auf dem ungeteerten Seitenstreifen des Highway 101
+an. Als der Cop ausstieg und sich dem Wagen auf der Beifahrerseite näherte,
+kurbelte ich das Fenster herunter und holte schon mal Führerschein, 
+Versicherungsbescheinigung und Fahrzeugregistrierung aus dem
+Geldbeutel. Der Cop beugte sich durchs Fenster herein und teilte mir
+mit, dass er mich angehalten hätte, weil jemand im Polizeirevier angerufen
+und sich über den "PERL MAN" wegen "reckless driving" 
+("rücksichtsloses, waghalsiges Fahren") beschwert hätte. 
+Ich war mir keiner Schuld bewusst, beteuerte, dass ich so schnell wie 
+üblich gefahren wäre und auf die Frage, ob ich in der Frühe Alkohol
+getrunken oder Drogen genommen hätte, antwortete ich wahrheitsgemäß mit
+"nein". Dann wünschte er mir noch "sichere Feiertage" und ich durfte
+weiterbrausen, was ich auch tat, dass es auf dem Seitenstreifen nur
+so staubte. 
+
+Ein Wahnsinn, das muss man sich mal vorstellen! 
+Da ruft ein offensichtlich geistig Unterbelichteter bei der Polizei an,
+weil er sich das personalisierte Kennzeichen "PERL MAN" merken kann
+und die Polizei findet es auch noch unter zehntausenden von Autos auf
+einem der meistbefahrenen Highways der Welt heraus! Wenn das noch 
+häufiger passiert, muss ich das Kennzeichen wieder zurückgeben und unter
+etwas wie "4-ZAP 437" im Tarnflug rasen.
+
+@Z: Das Rundbrief-Top-Produkt
+
+<pic images/abfl1.ps (#5) Ein bisschen Obstabfall vom Juicer in den Ausguss gekippt ...>
+
+Heute: Der Garbage-Disposer E20 von Emerson. Schon mal habe ich geschrieben,
+dass es in amerikanischen Küchen üblich ist, dass unter der Spüle 
+ein sogenannter Garbage-Disposer hängt. Zwischen Abfluss 
+und Abflussrohr ist ein kleines Häckselwerk, das auf Knopfdruck anspringt
+und rohrverstopfende Abfälle so klein verkleinert, dass sie durch das
+Abflussrohr passen. Was man in der Küche so schnetzelt, kippt man einfach
+in die Spüle, stellt das Wasser an und das Schnetzelwerk -- und schwupps,
+rauscht es ins Abwasser!
+
+<pic images/abfl5.ps (#6) ... verstopft natürlich die Leitung.>
+
+Abbildung (#5) zeigt, wie ich Obstabfall in den Ausguss gekippt habe,
+in Abbildung (#6) seht ihr die daraus resultierende mittelmäßige
+Rohrverstopfung.
+Ein sattes halbes PS 
+im Triebwerk des Emerson macht aber auch hartnäckigem Abfall gnadenlos
+den Garaus (Abbildung (#7)). Kraftvoll. Zuverlässig. Emerson.
+
+<pic images/abfl3.ps (#7) Auf Knopfdruck schaufelt der Emerson E20 die Leitung wieder frei!>
+
+Vor einiger Zeit habe ich's mal übertrieben und zuviel Unrat reingekippt,
+und prompt stellte Emerson seine Arbeit ein. Oh nein, dachte ich, jetzt
+muss ich den Vermieter anrufen und warten, bis sich ein 
+Disposer-Spezialist erbarmt, bei uns verbeizuschauen. Ein Blick unter
+die Spüle offenbarte aber, dass dem Emerson E20 ein kleiner Imbusschlüssel
+beiliegt, den man einfach nur unten reinsteckt, einmal im Kreis dreht und
+manuell den Abfall verkleinert, schon läuft er wieder! Ein Super-Produkt!
+
+<pic images/abfl4.ps Das Rundbrief-Top-Produkt: Der Emerson E20>
+
+@Z: Die CD des Monats
+
+<pic images/strokes.ps Die Platte "Is this it?" von den Strokes>
+
+Mit Spannung erwartet, doch in letzter Zeit absent: Es gab einfach keine
+überzeugenden neuen Platten. Doch heute ist's passiert: Ich habe
+mir die Scheibe "This Is It" von "The Strokes" gekauft, 
+die schon vor einem halben Jahr erschienen ist! Das Lied "Last Nite"
+kannte ich schon aus dem Radio, aber ich hatte keine Ahnung, dass
+"Hard to explain" und "SOMA" auch drauf sind -- zu beiden Songs fährt man
+am besten an einem heißen Tag in San Francisco in einem 11 Jahre
+alten Acura Integra ohne Klimaanlage mit heruntergekurbeltem Fenster
+mit kurzen Hosen und barfuß mit Vollgas
+das Hügel-Dreierset auf der Church Street
+zwischen 17ter und 22ster Straße hoch. Dann klingt's, als wäre die Musik
+in Kalifornien erfunden, dabei kommt sie aus New York City! 
+Sofort kaufen und pausenlos anhören! Bis wir im nächsten
+Rundbrief die neue von den "Red Hot Chili Peppers", meiner Lieblingsgruppe,
+besprechen.
+
+@Z: The Osbournes im Fernsehkasten
+
+Die zur Zeit
+populärste Sendung im amerikanischen Fernsehen heißt "The Osbournes".
+Der Fernsehsender
+MTV hatte die Idee, im Haus von Ozzy Osbourne, 
+dem ehemaligen Sänger der Gruppe "Black Sabbath", ein 
+Kamerateam abzustellen, das Ozzy, seine Frau Sharon und ihre
+beiden rabiaten Teenager-Kinder auf Schritt und Tritt verfolgt
+und den Alltag in diesem ungewöhnlichen Haushalt aufnimmt. 
+
+<pic images/o1.ps Im Wohnzimmer der Osbournes>
+
+Die Osbournes sind Briten, wohnen aber in einem hässlichen Schloss
+für Neureiche im Nobelvorort Beverly Hills in Los Angeles. 
+Ozzy Osbourne ist heute 53 Jahre alt und ein totales Wrack. 
+Bei "Black Sabbath" -- in den Siebzigern
+absolute Superstars der Hardrockszene -- ging's rund:
+Ozzy zog sich die Drogen rein wie eine Kreiselpumpe. Heute schlurft er
+wie ein Zombie in der Wohnung rum, murmelt wirres Zeug
+und schreit nach seiner Frau
+(Sharon! Shaarooooon!!) wenn er was nicht findet, der Fernseher spinnt
+oder der Hund mal wieder auf den Teppich gekackt hat.
+
+<pic images/o6.ps Das luxuriöse Haus der Osbournes>
+
+Eltern wie Kinder benutzen ständig schlimme Schimpfwörter,
+die nicht mal in einer Ghettofamilie ungestraft durchgingen.
+Bei den Osbournes ist es aber ganz normal, dass man das das
+so genannte F-Wort benutzt.
+Das Fernsehen muss deswegen (wie schon mal in 
+<RBLINK>20001204#5</RBLINK> beschrieben) die Dialoge mit
+Pieptönen zensieren:
+Ozzy: "What the --BLEEP-- is that?" Tochter Kelly: "The --BLEEP--ing dog 
+--BLEEP-- on the --BLEEP-ing carpet again!".
+
+<pic images/o4.ps Fluchend jagt Ozzy der Katze nach, die sich im Gebüsch versteckt hat.>
+
+Interessant wird's, wenn sich der von oben bis unten tätowierte Ozzy seinem
+Nachwuchs gegenüber als der verantwortungsbewusste Vater präsentiert
+und beispielsweise
+darauf besteht, dass die Kinder um eine bestimmte Uhrzeit von einer
+Party nach Hause kommen. Oder wenn er seiner liebenswürdigen Frau
+im mittelenglischen Arbeiterdialekt gesteht: "Sharon, I louv yoo 
+moh than leyf itself ..." ("Sharon, I mog di liaba oisas Leb'n selba"). 
+Das macht die Sendung so charmant.
+
+<pic images/o3.ps Der trotzige 16-jährige Sohn will auf den Rave, darf aber nicht!>
+
+MTV hatte sie mit kleinem Budget produziert, und überhaupt nicht mit
+Erfolg gerechnet. Sie schlug aber ein wie eine Bombe --
+und verdrängte sogar die Mega-Millionen-Produktionen auf den anderen 
+Kanälen in den Einschaltquoten.
+MTV verlängerte den Vertrag mit den Osbournes kürzlich für eine
+zweite Staffel. Die Verantwortlichen berichteten, die Verhandlungen
+seien total chaotisch verlaufen, Ozzys Frau Sharon habe die
+MTV-Leute immer wieder hingehalten und sich wild hin- und herentschieden.
+Ozzy selbst kriegt sowieso nur die Hälfte mit und wird sicher mit
+der verhandelten Gage zufrieden sein. Unter 
+<LINK>http://www.mtv.com/onair/osbournes|The Osbournes</LINK> findet ihr mehr zu
+dieser ungewöhnlichen Familie.
+
+Bahn frei für Angelika!
+
+@Z: Endlich die Greencard
+
+Hurra! Hurra! Die Greencard ist da! Es geschehen noch 
+Zeichen und Wunder. Wir sind jetzt "Permanent Resident Aliens",
+wie es im schönsten Beamtenamerikanisch heißt.
+Wir fassen es immer noch nicht. Das Wort "Alien" amüsiert uns 
+dabei immer köstlich, denn kein Mensch bezeichnet einen 
+Ausländer im normalen Sprachgebrauch als "Alien", das 
+riefe Stirnrunzeln hervor und wäre politisch unkorrekt.
+Es heißt "Foreigner". Bei 
+"Alien" denkt hier jeder an Außerirdische und den Film 
+"ET", aber das "INS" (INS = Immigration and Naturalization 
+Services = amerikanische Einwanderungsbehörde) schert dies 
+wenig. Huch, ich schweife ab.
+
+Vor geraumer Zeit kündigte ich an, über unseren dritten 
+und letzten - äußerst nervenaufreibenden - Greencard-Schritt 
+zu berichten. Wer meine 
+vorherigen Ausführungen über die Greencard noch einmal 
+nachlesen möchte, kann im
+<RBLINK>20010905#7</RBLINK> sein Gedächtnis auffrischen.
+
+Und da ich mal nicht so sein will, hier noch schnell 
+eine Kurzzusammenfassung der Schritte eins und zwei:
+Wir durften die Greencard beantragen,
+weil Michaels berufliche Qualifikationen 
+der amerikanischen Wirtschaft von Nutzen sind, da ein 
+Mangel an amerikanischen Software-Ingenieuren herrscht 
+(bzw. herrschte), den man mit gut ausgebildeten Ausländern 
+zu beseitigen suchte -- eine so genannte Einwanderung aus 
+Beschäftigungsgründen ("green card through employment"). 
+
+AOL beantragte also Michaels Greencard. Im ersten Schritt 
+galt es, gegenüber den zuständigen Arbeitsbehörden zu beweisen, dass 
+Michael keinem Amerikaner den Arbeitsplatz wegnimmt, d.h. 
+dass tatsächlich ein Arbeitskräfte-Mangel in seiner 
+Branche vorliegt. Die Behörden stellten das heiß begehrte 
+"Labor Certificate" (= das Arbeitszertifikat) 
+aus, das man braucht, um zum zweiten 
+Schritt vorzudringen. Es ist mittlerweile übrigens 
+wesentlich schwieriger geworden, ein Arbeitszertfikat zu erhalten. 
+Durch die abgeschwächte amerikanische Wirtschaft kam es zu
+vielen Entlassungen, so dass sich der Mangel in Luft 
+auflöste, also genügend Amerikaner auf den Arbeitsmarkt 
+drängen. 
+
+Im zweiten Schritt prüfte die amerikanische 
+Einwanderungsbehörde, ob Michael wirklich die notwendigen 
+Qualifikationen besitzt, um den Posten bei AOL 
+auszufüllen. Der dritte und letzte Schritt diente nun dazu, vom 
+Nicht-Immigranten-Status (Leute mit Visa-Status) in 
+den Immigranten-Status (Leute mit Greencards) 
+überzugehen. Der Antrag wird in der Regel bei der 
+zuständigen Einwanderungsbehörde in Amerika gestellt und 
+heißt dann "Adjustment of Status" (= Anpassung des 
+Status). Ich zog in diesem ganzen Prozess einmal wieder die 
+Rockzipfelkarte (Orginalton Michael). Michael meint damit, 
+dass ich die Greencard nur deshalb bekam, weil ich mit ihm 
+verheiratet bin. Familie schreibt man in Amerika groß.
+
+Auch beim letzten 
+Schritt hieß es: Formlare über Formulare ausfüllen. 
+Wecktet ihr mich aus dem Tiefschlaf, ratterte ich euch 
+immer noch aus dem Stehgreif herunter von wann bis wann 
+Michael seine Bundeswehrzeit absolvierte, für welche 
+Firmen er jemals gearbeitet hat und wie lange; einschließlich 
+der entsprechenden Firmenadressen, wie lange wir wo unter 
+welcher Adresse wohnten usw. Aber ihr braucht jetzt nicht 
+die Panik kriegen, ich werde nicht über jedes einzelne 
+Formular des dritten Schrittes schreiben. Nur mit den 
+Meilensteinen beglücke ich euch.
+
+@Z: Priority Date (Vorzugsdatum) 
+
+Bevor wir überhaupt den 
+dritten Schritt beginnen konnten, musste unser so genanntes 
+"Priority Date" aktuell sein. Stellt euch das am besten wie 
+den Platz in der Warteschlange der Greencards vor; ganz so,
+wie man in einigen Lebensmittelgeschäften und Behörden 
+Nummern zieht. Da die meisten Greencards in den 
+unterschiedlichen Kategorien einer jährlichen Quote 
+unterliegen, kommt es zu Engpässen, wenn die Quote in dem 
+entsprechenden Jahr erreicht ist - die Warteschlange 
+wächst und wächst. Die Anzahl der Greencards, 
+die die Einwanderungsbehörde pro Jahr ausgibt, wird dann 
+auch noch gleichmäßig auf die einzelnen Länder verteilt. 
+Leute aus Indien warten zum Beispiel in der Regel länger, 
+da die USA viele Anträge von indischen Staatsbürgern 
+erhält - die jährlich zur Verfügung gestellten 
+Greencards sind logischerweise schneller weg. Kommt man aus 
+deutschen Landen, zählt man zu den Glücklichen, die ohne 
+Wartezeit sozusagen gleich an den Tresen hervorpreschen, 
+denn es gibt nicht so viele Deutsche, die 
+Greencard-Anträge stellen. 
+
+@Z: Die medizinische Untersuchung
+
+Ich habe schon erwähnt,
+dass es das INS gar nicht mag, wenn Einwanderer mit 
+ansteckenden Krankheiten wie Tuberkolose Amerika 
+bevölkern. Deshalb hieß es auch für uns, ab zum Arzt im 
+Schritt Nummer drei, um dieses auszuschließen. Die ganze 
+Geschichte stellt ihr euch am besten so ähnlich wie eine 
+amtsärztliche Untersuchung vor. Wir durften nicht etwa zu 
+unserem Hausarzt, sondern mussten aus einer vom INS
+herausgegebenen Liste einen aussuchen, 
+der die Untersuchung nach den INS-Bestimmungen ausführen und 
+auch noch das entsprechende Formular richtig ausfüllen 
+konnte.
+Diese Ärzte arbeiten nicht nur für die Einwanderungsbehörde,
+üblicherweise führen sie eine ganz normale freie Praxis. 
+Allerdings springt bei der Untersuchung für sie nicht viel Geld
+heraus, deshalb finden sich auf der Liste hauptsächlich 
+"Armenärzte" aus typischen Einwanderungsländern.
+
+<pic images/doktor.ps Die Arztpraxis des philippinischen Greencard-Arztes in der Mission>
+
+Kurzer Hand suchte ich einen Doktor in unserer unmittelbaren 
+Nähe heraus und landete deshalb in der tiefsten Mission, 
+dem südamerikanische Viertel, das ja bekanntlich bei uns 
+um die Ecke liegt. Wir gingen getrennt hin, und jeder erzählte
+nachher dieselbe Geschichte: Im Wartezimmer sprach niemand 
+außer der Sprechstundenhilfe Englisch, aber der von den Philippinen
+stammende Arzt konnte es recht gut und machte einen erfahrenen Eindruck.
+
+Er absolvierte zunächst eine ganz 
+allgemeine Untersuchung. Ihr wisst schon: in den Hals 
+gucken, abhorchen, Blutdruck messen, Grösse und Gewicht 
+bestimmen etc. Dann spritzte er uns das Zeug für den 
+Tuberkolose-Test unter die Haut und besprach ausführlich, 
+welche Impfungen wir im Kindes-und Erwachsenenalter 
+durchzogen bzw. welche Kinderkrankheiten wir durchlitten hatten.
+Auf seiner Liste standen für unsere Altersgruppe: Mumps, 
+Masern, Röteln, Tetanus, Diphterie, Polio, Keuchhusten, 
+Windpocken. Ach, wie freuten wir uns, dass ich ordentlicher 
+Mensch alle Imfpässe (sogar die aus Kindertagen)
+vorweisen konnte. Michael biss allerdings in den sauren 
+Apfel: Röteln übersprang er als Kind und bekam deshalb 
+eine Impfung aufgedrückt. Für meine Untersuchung 
+drückten wir $125 ab, für Michaels wegen der 
+zusätzlichen Impfung $175.
+
+<pic images/mission.ps Typisch: Stadtteil "Mission">
+
+Dann ging es ab zum Aidstest. In den USA schickt einen 
+der Arzt für Blutuntersuchungen übrigens in spezielle 
+Labors. Das ist zwar ein wenig lästig, aber die Leute sind 
+Blutabnehm-Profis, denn die machen ja den ganzen Tag nichts 
+anderes. Uns schickte der Arzt zu einer Außenstelle des 
+St.Lukes-Krankenhauses mitten auf der Mission Street. Als 
+ich dort ankam, dachte ich zunächst, irgendetwas stimmt 
+hier nicht. Denn ich musste an Schaufensterauslagen vorbei, 
+die in typischer Missiontradition billige, bunte Waren mit 
+südamerikanischen Einschlag anpriesen, einen dunklen Gang 
+hinunter gehen und stand schließlich vor einer Bürotür. 
+Nach Labor sah das Ganze nicht aus. Das Schild an der Tür 
+besagte allerdings, dass ich richtig sei. Mutig trat ich 
+ein und befand mich in einem winzigen Raum, in dem sich ein 
+Schreibtisch, ein Tisch mit Kanülen zum Blutabnehmen, ein 
+Stuhl und eine Person im weißen Kittel befand. Der erste 
+Gedanken, der mir durch den Kopf ging: Oh je, hoffentlich 
+arbeiten die hier gewissenhaft und ich hole mir nicht 
+irgendetwas (Michael hatte die gleichen Sorgen). Haltet uns 
+jetzt nicht für arrogant, aber das amerikanische 
+Gesundheitssystem liegt wirklich dermaßen im Argen, 
+ihr macht euch keine Vorstellungen, was ich schon erlebt habe,
+aber davon vielleicht ein anderes Mal mehr.
+
+<pic images/test.ps Das Testlabor in der Mission>
+
+Bevor sich die Arzthelferin ans 
+Blutabnehmen machte, unterschrieb ich, dass ich verstanden 
+hatte, dass es sich um einen Aidstest handelte. Das 
+unterschreibt übrigens jeder und nicht nur die 
+Greencard-Anwärter. Allgemein ist es ja fraglich, solch 
+einen möglicherweise alles verändernden Test zu 
+absolvieren nur weil man ihn für die Greencard braucht. 
+Man stelle sich nur das Szenario vor, bei dem Aidstest 
+positiv zu testen. Bezahlen mussten wir selbstverständlich 
+auch im Voraus. Das Ganze kostete für jeden $126.90, wobei allein $77 
+auf den Aidstest entfielen. Den Rest berappten wir für 
+den Test, der Syphilis aufspürt und einige andere 
+undurchsichtige Posten. Typisch 
+Amerikanisch gab es Rabatt, wenn wir bar oder mit Scheck 
+bezahlten, und zwar satte 40%. Machten wir natürlich. 
+"Aids-test on sale!"
+
+<pic images/mission2.ps Typisch Stadtteil "Mission">
+
+Einige Tage später machten wir uns erneut auf den Weg zum 
+Doktor, damit dieser unseren Tuberkulose-Hauttest 
+begutachten konnte. Natürlich interessierte uns auch das 
+Ergebnis der Blutuntersuchung. Als wir beim 
+Doktor ankamen, fragte ich die Sprechstundenhilfe nach den 
+Ergebnissen. Die wühlte wild in unserer Akte herum und 
+sagte freudestrahlend, dass ihnen schriftlich noch nichts 
+vorliege, sie aber gleich im St.Lukes-Krankenhaus anriefe, 
+um die Ergebnisse zu erfragen, worauf sie das Telefon 
+zückte und wählte. Ich erblasste etwas, als sie das 
+Telefon auf Lautsprecher stellte, denn schließlich befand 
+ich mich im vollen Wartezimmer. Sie besann sich aber und 
+stellte den Lautsprecher ab, als sich jemand am 
+anderen Ende meldete. Leider dauerte es eine Ewigkeit, bis 
+die betreffende Person die Ergebnisse fand und mir lief es 
+dann doch kalt und heiß den Rücken runter - man weiß ja 
+nie. Schließlich beendete die Sprechstundenhilfe das 
+Telefongespräch, bequemte sich aber nicht, mir die 
+Ergebnisse mitzuteilen. Schüchtern fragte ich nach und sie 
+zuckte lapidar mit den Schulter und sagte, dass alles okay 
+wäre. Der Wahnsinn! Der Rest verlief dann kurz und 
+schmerzlos: Der Arzt las den TB-Test ab und füllte das 
+Formular für die Einwanderungsbehörde mit zittrigen 
+Händen aus, wobei die Sprechstundenhilfe ihn hin und 
+wieder korrigierte. Wir wundern uns heute noch, dass alles
+richtig war.
+
+Wir hatten nämlich schon die ein 
+oder andere Horrorstory auf dem Internet gelesen, dass die 
+Einwanderungsbehörde beim späteren Begutachten des 
+Formulars fehlerhaftes Ausfüllen bemängelte und die 
+Greencard-Anwärter nicht nur die ärztliche Untersuchung 
+wiederholen mussten, sondern sich dadurch auch der Prozess 
+weiter in die Länge zog. Der Trick bei der Sache ist 
+nämlich, dass das Formular in einen Briefumschlag wandert 
+und der Arzt den Briefumschlag mit Stempel versiegelt. 
+Nur die ehrenwerte Einwanderungsbehörde darf den Brief wieder 
+öffnen.
+
+Übrigens führt nicht jegliches Aufdecken einer Erkrankung 
+dazu, dass der Greencard-Anwärter die rote Karte zieht. 
+Handelt es sich um eine heilbare Krankheit, gilt 
+nachzuweisen, dass der Betreffende wieder zu den Gesunden 
+zählt, was allerdings wieder bedeutet: Papierkram, 
+Papierkram, Papierkram.
+
+@Z: Lichtbilder
+
+Kein Greencard-Antrag ohne Lichtbilder. Und die
+Greencard-Fotos unterliegen den strengen Vorschriften
+der Einwanderungsbehörde. Der Rechtsanwalt 
+gab uns ein maschinengetipptes DIN-A-4-Merkblatt mit
+Anweisungen samt einer Liste der Fotogeschäfte, 
+die um die 100 und eins Bestimmungen wissen und Erfahrung mit
+deren Umsetzung haben.
+Hier einige Auszüge aus dem Merkblatt zu eurer 
+Erheiterung: Brille, Ohrringe und Haarspangen sind tabu. 
+Das Foto sollte 30 mm (1 3/16 inches) - vom Haar bis 
+unterhalb des Kinns - lang und 26 mm (1 inch) - vom rechten 
+Ohr zur linken Wange - breit sein. Der Hintergrund muss 
+weiß sein. Das Foto darf keine Schatten haben oder 
+retouchiert sein. Polaroid-Film #5 ist akzeptabel, 
+SX-70-Film hingegen nicht. Das Foto muss das gesamte 
+Gesicht der Person zeigen (3/4 Pose). Das rechte Ohr und 
+linke Auge müssen zu sehen sein.
+
+@Z: Affidavit of Support
+
+Und es falle niemand dem amerikanischen Staat auf die 
+Tasche: die "Affidavit of Support"
+(lässt sich am ehesten mit "eidesstattlicher Versicherung 
+über finanzielle Unterstützung" übersetzen) eines 
+meiner Lieblingsformulare in unserem Greencard-Prozess. Ihr 
+erinnert euch: Ich bekam die Greencard aufgrund der 
+Tatsache, dass ich mit Michael verheiratet bin. Michael 
+musste nun nicht nur versichern, dass er mich aushält, so 
+dass ich dem amerikanischen Staat nicht zur Last falle, 
+sondern auch dass er über genügend finanzielle Mittel 
+verfügt, um uns beide durchzubringen: eine hochoffizielle 
+Angelegenheit mit Notar und Schwur.
+
+Im dritten Schritt eröffnet sich außerdem die Gelegenheit, eine 
+vorläufige Arbeitsgenehmigung ("Employment Authorization Document") zu 
+beantragen, bis der eigentliche Greencard-Antrag genehmigt 
+ist. Denn der dritte Schritt dauert 
+erfahrungsgemäß sehr lange und für viele Antragsteller kommt der 
+Zeitpunkt, an dem das Visum und die damit verbundenen 
+Arbeitsgehmigungen auslaufen, bevor die Greencard durch 
+ist. Die Karte erlaubt es einem,
+temporär wie mit einer Greencard zu arbeiten.
+Der einzige Haken bei der Sache: Benutzt man das 
+Arbeitsdokument, verliert man seinen H-1B-Visa-Status auch 
+dann, wenn das Visum noch gilt. Deshalb beantragten wir 
+zwar die vorläufige Arbeitsgenehmigung (für den 
+Notfall), benutzten sie aber nicht.
+
+Befindet man sich im Prozess des "Adjustment of Status" 
+darf man ohne besondere Erlaubnis der Einwanderungsbehörde 
+die USA nicht verlassen. Das gilt auch für Reisen nach 
+Kanada und Mexico. Deshalb beantragt man besser die so 
+genannte "Advance Parole". Übersetzen lässt sich das am 
+besten mit vorläufiger Entlassung. Es handelt sich um ein Reisedokument, 
+das man braucht, um wieder zurück ins 
+Land zu kommen. Übrigens heißt es in Amerika auch 
+"Parole", wenn ein Häftling auf Bewährung aus dem 
+Gefängnis entlassen wird. H- und L-Visainhaber fallen 
+unter eine Ausnahmeregelung: Solange die Visa noch gültig 
+sind, ist die Ein- und Ausreise auf ihnen erlaubt.
+
+Nicht nur die 
+Einwanderungsbehörde quälte uns mit Formularen, auch das 
+Finanzamt (in Amerika "Internal Revenue Service" genannt, 
+abgekürzt IRS) bestand darauf, an unserem 
+Greencard-Prozess teilzunehmen. Die Finanzbehörde prüft 
+nämlich, ob wir auch brav in Amerika unsere Steuern 
+zahlten und eine Steuererklärung abgaben. Dazu 
+beantworteten wir Fragen auf dem Formular "IRS 
+Form 9003". Die Einwanderungsbehörde gab die Angaben, die 
+wir dort machten, dann ans Finanzamt weiter.
+
+@Z: Fingerabdrücke
+
+Bevor man die Greencard erhält, möchte die amerikanische 
+Einwanderungsbehörde sicherstellen, dass der Antragsteller 
+keine Straftaten begangen hat oder gar als gesuchter Terrorist 
+auf einer Liste steht. So wie man in Deutschland ein 
+Führungszeugnis beantragt, werden einem 
+in Amerika die Fingerabdrücke abgenommen. Für die 
+Greencard prüft das FBI mit Hilfe der Fingerabdrücke, ob 
+man ein gesetzestreuer Bürger war und ist. In der Praxis 
+läuft das wie folgt: Nachdem unser Rechtsanwalt die oben 
+aufgeführten benötigten Papiere (und noch einige mehr) an 
+das Immigration Office eingeschickt hatte, warteten wir geduldig 
+auf die Eingangsbestätigung. Wir bissen diesbezüglich 
+allerdings wieder in den sauren Apfel, denn unzählige 
+Anträge überfluteten die zuständige 
+Einwanderungsbehörde in Kalifornien, so dass sich das 
+Öffnen der Eingangspost um Wochen verzögerte und so auch 
+das Aussenden der Eingangsbestätigung. Nur damit ihr mir 
+auch glaubt: Unsere Unterlagen für den dritten Schritt 
+gingen bei der Einwanderungsbehörde am 23. Juli 2001 ein, 
+die Bestätigung des Eingangs schickte die Behörde am 6. 
+September 2001 raus. Wieder Wochen später erhielten wir 
+einen Brief mit dem Termin (30. November 2001) für das 
+Abnehmen unserer Fingerabdrücke. Jeder wartet sehnsüchtig 
+auf diesen Brief, denn dadurch weiß man, dass die eigene 
+Akte nicht auf einem großen Stapel verstaubt, sondern sich 
+etwas tut. Die Fingerabdrücke nimmt das FBI übrigens 
+nicht direkt ab, sondern die Einwanderungsbehörde schickt 
+die Antragsteller zu einem designierten Zentrum vor Ort. 
+Das Abnehmen der Fingerabdrücke erfolgt digital:
+keine lästige Tinte an den Fingern. Die Fingerabdrücke 
+erscheinen gleich auf dem Bildschirm und werden postwendend 
+zum FBI gezoomt. Das FBI arbeitet diesbezüglich recht 
+effizient und schickt die Ergebnisse relativ schnell 
+zurück an die Einwanderungsbehörde.
+
+Nach der Fingerabdrücke-Prozedur heißt es wieder warten. Die
+Einwanderungsbehörde sitzt tatsächlich manchmal technisch nicht in der 
+Steinzeit, es besteht nämlich die Möglichkeit, telefonisch 
+abzufragen, wie die Bearbeitung des eigenen Falles 
+voranschreitet. Dazu wählt man sich per Telefon in ein 
+automatisches System ein, hört sich minutenlang 
+irgendwelche Ansagen an, tippt irgendwann die eigene 
+Fallnummer ein, um schließlich einer Computerstimme zu 
+lauschen. Im Januar 2002 hörten wir die Stimme sagen, dass 
+die Ergebnisse der Überprüfung unserer Fingerabdrücke 
+der Einwanderungsbehörde vorliegen und unser Fall weiter 
+bearbeitet wird. Das System hört sich genial an, oder? Die 
+Sache hat allerdings einen Pferdefuß, denn erstens ist die 
+Nummer ständig besetzt (nachts um 2 kommt man in der Regel 
+gut durch) und die Ansage ist nicht immer auf dem neusten 
+Stand der Dinge. Wir hielten schon längst den Zuschlag 
+für unsere Greencard in den Händen und die Ansage steckte 
+immer noch bei den Fingerabdrücken fest. 
+
+@Z: Der Zuschlag und ein Stempel im Pass 
+
+Wer glaubt, dass uns die 
+Einwanderungsbehörde gleich die eigentliche Greencard 
+zusandte, täuscht sich schwer. Das wäre ja viel zu 
+einfach. Zunächst flattert einem ein Bescheid ins Haus, 
+dass der Antrag genehmigt wurde. Im April 2002 beglückte 
+uns unser Briefträger mit dem besagten Bescheid. Neben der 
+freudigen Nachricht forderte uns der Brief auf, uns bei der 
+Einwanderungsbehörde in San Francisco mit zwei brandneuen 
+Passbildern, unserem Pass etc. einzufinden. Ziel war es, 
+einen Stempel in den Pass zu bekommen, der als vorläufige 
+Greencard gilt und zum Arbeiten und Reisen berechtigt:
+
+An einem Dienstag im April machen wir uns also mit dicken 
+Jacken, allen notwendigen Papieren und Lektüre bewaffnet 
+frümorgens auf, um uns in die Schlange der 
+Einwanderungsbehörde in San Francisco einzureihen. Wir 
+hatten bereits gehört, dass es in San Francisco zwei 
+Schlangen gibt: eine für Leute mit einem Termin (z.B. zum 
+Interview) und die andere für die armen Tröpfe ohne einen 
+solchen (erfahrungsgemäß superlang). Leider herrschte 
+Unklarheit darüber, in welcher Schlange wir uns 
+einzufinden hätten. Die Einwanderungsbehörde liegt in San 
+Franciscos "Financial District", genauer gesagt an der Ecke 
+Sansome und Washington Street -- ein riesiges Gebaüde. Um gleich in
+der Frühe dranzukommen, kreuzen wir 
+um 6:10 Uhr am INS-Gebäude auf. Die Schlange, in 
+der sich alle ohne Termin anstellen müssen, windet sich 
+schon um den Häuserblock herum. Kein Mensch steht an dem 
+anderen Eingang, durch den die Leute mit Termin geschleust 
+werden. Brav reihen wir uns hinter etwa 80 Leuten ein, froh 
+um unsere warmen Jacken, denn der Wind pfeift ziemlich um 
+die Ecke. Natürlich befragen wir die vor und hinter 
+uns in der Schlange Stehenden sofort. Vor 
+uns steht ein verheiratetes Paärchen. Er ist Amerikaner 
+und sie Ausländerin, im Prozess, die Greencard durch die 
+Eheschließung zu erhalten. Beide erscheinen uns wie 
+Profis, denn sie stehen nicht das erste Mal an. Sie 
+versichern uns, dass wir in der richtigen Schlange stehen. 
+Hinter uns steht ein Software-Ingenieur aus Indien, der 
+genau wie Michael den Zuschlag für die Greencard durch den 
+amerikanischen Arbeitgeber bekam, also im gleichen Boot 
+sitzt wie wir. Er ist sich genauso unsicher wie wir, was 
+das Schlangenproblem betrifft.
+
+<pic images/queue2.ps Die Schlange am INS-Gebäude in San Francisco>
+
+Nach 10 Minuten beschließe ich, zu dem anderen Eingang 
+hinüberzuwandern, in der Hoffnung jemanden Kompetenten
+zu finden, der das Schlangenrätsel für uns löst, obwohl 
+die Türen für das Fußvolk noch geschlossen sind 
+(Erwähnte ich schon, dass nirgendwo Schilder stehen, die 
+Hinweise geben?). Ich treffe auf Sicherheitspersonal, das 
+am Eingang steht. Geduldig erkläre ich, dass die 
+Einwanderungsbehörde unser I-485 (man wirft immer mit den 
+Abkürzungen der Formulare um sich; es sieht dann so aus, 
+als wüsste man wovon man spricht) genehmigt hätte und dass wir 
+hier wären, um unseren Stempel in unseren Pass zu 
+bekommen. Prompte Rückfrage: "Haben Sie einen Termin?" 
+Etwas verzweifelte Antwort: "Nein, nicht wirklich", denn 
+auf dem Schreiben, das wir in den Händen halten, ist kein 
+konkretes Datum und keine spezifische Uhrzeit für unser 
+Erscheinen angegeben. Zu erwartende Antwort: "Dann müssen 
+Sie sich mit allen anderen anstellen!" Schwupps, und ich 
+stehe wieder in der Schlange neben Michael, die stetig 
+wächst. Während wir geduldig warten, frage ich mich, 
+warum noch keiner auf die Idee kam, Kaffee und Bagels (so 
+etwas Ähnliches wie ein Brötchen mit Loch) an die 
+Wartenden zu verkaufen. Eine echte Marktlücke. 
+Hinter unserem indischen Mitstreiter steht ein
+weiterer indischer Landsmann mit 
+seiner Familie und seinem Kind -- jeder
+muss persönlich beim INS aufkreuzen. Erneut kommt das 
+Schlangenproblem auf, wieder wandert jemand zum anderen 
+Eingang, fragt die Fragen, die schon ich stellte, und kommt 
+mit der gleichen Antwort zurück. Langsam weicht unsere 
+Skepsis und wir beginnen zu glauben, dass wir tatsächlich 
+in der richtigen Schlange stehen.
+
+Um 6:45 Uhr kommt Bewegung in den Pulk der Menschen. Die 
+Türen öffnen sich. Etwa 10 Leute erhalten jeweils Eingang 
+ins Gebäude. Jeder muss sich ausweisen, Taschen werden 
+durchleuchtet und man geht durch den Metalldetektor.
+Die Schlange bewegt sich eher im 
+Schneckentempo, denn es gibt nur einen Metalldetektor und 
+eine Durchleuchtungsmaschine. Hurra, um 7:30 Uhr betreten 
+wir die heiligen Hallen. Die Sicherheitsleute kassieren 
+Michaels digitale Kamera ein (keine Sorge, er bekam sie 
+zurück, als wir das Gebäude wieder verließen) und wir gehen 
+durch ein Labyrinth von Absperrungen, stoßen 
+schließlich auf drei Schalter. Wir reichen dem Mann hinter 
+dem Schalter unsere Papiere. Der schaut uns zunächst etwas 
+verstört an, will uns aber dann zum nächsten Schalter 
+schleusen, an dem es scheinbar Wartenummern gibt. Plötzlich 
+schaltet sich ein anderer INS-Beamter (scheinbar ein 
+Vorgesetzter) neben ihm ein und belehrt ihn, dass wir 
+gleich zum Büro 200-B gehen könnten, denn unser positiver 
+Bescheid käme einem Termin gleich. Ihr ahnt, was das 
+bedeutet: Wir hatten in der falschen Schlange angestanden. Nach 
+einigen leisen Stoßseufzern bahnen wir uns den Weg durch 
+das Labyrinth von Gängen und stehen vor der Bürotür 
+200-B. Es ist mittlerweile 7:50 Uhr. An der Bürotür hängt 
+ein Schild, das uns auffordert, den Brief, der unseren 
+Termin anzeigt, durch den vorgesehenen Schlitz in der Tür 
+zu schmeißen. Einziges Problem: Wir haben keinen 
+festgesetzten Termin. Viele Leute sitzen mittlerweile im 
+Vorraum - einige mit Termin, einige ohne - und die 
+Diskussion beginnt, was die Leute ohne festen Termin in den 
+Schlitz werfen sollen, denn wie wissen die zuständigen 
+Beamten sonst, dass wir vor der Tür warten? Es 
+bleibt nur die Möglichkeit, das Original (!) des positiven Bescheids, den 
+wir in den Händen halten, einzuwerfen. Viele verzweifeln 
+darüber allerdings, denn der Bescheid ist der einzige 
+Beweis, dass die Einwanderungsbehörde dem Greencard-Antrag 
+zustimmte. Michael macht natürlich dumme Witze, dass sich 
+hinter dem Schlitz ein Reißwolf befindet, der alle Papiere 
+vernichtet.
+
+Kurz vor 8 Uhr schlüpft eine Beamtin aus einer der 
+hinteren Türen und obwohl überall Schilder hängen mit 
+der Aufschrift "NO QUESTIONS, NO INFORMATION" (KEINE 
+FRAGEN, KEINE INFORMATION), spreche ich sie mutig an, um 
+herauszufinden, was wir in den Schlitz einwerfen sollen. 
+Zunächst schweigt sie beharrlich, aber nachdem ich sie 
+verzweifelt anschaue, zeigt sie sich von ihrer 
+großzügigen Seite -- der offizielle Bescheid ist 
+einzuwerfen. Um 8 Uhr öffnet sich die Bürotür und 
+INS-Beamte rufen die ersten Leute ins Interview, ganz so 
+wie in dem Film "Green Card". Die Wartenden halten nicht 
+nur Familien-Fotoalben bereit, um zum Beispiel zu beweisen, 
+dass die Ehe mit einem amerikanischen Staatsbürger 
+wirklich existiert, sondern haben in der Regel auch einen 
+Rechtsanwalt im Schlepptau. Beantragt man eine Greencard 
+mit Hilfe des Arbeitgebers, entfällt in der Regel das 
+Interview, so wie auch in unserem Fall.
+
+Um 8:05 beordert ein weiterer Beamter alle Personen, die 
+bereits über einen positiven Greencard-Bescheid verfügen 
+(also auch uns), in den Wartebereich eines anderen 
+Schalters und beginnt seine Arbeit. Um 8:30 Uhr ruft er uns 
+auf. Wir geben unsere Pässe und Lichtbilder ab, von einem 
+einzelnem Finger wird zweimal ein Fingerabdruck genommen 
+(diesmal mit Tinte) und wir unterschreiben ein dafür 
+vorgesehenes Formblatt zweimal. Fingerabdruck, Unterschrift 
+und Lichtbild befinden sich später auf der eigentlichen 
+Greencard. Der Beamte bestätigt noch unsere Adresse, an 
+die die Greencard geschickt werden soll, dann nehmen wir
+wieder im Warteraum Platz.
+Bis die Greencard dann im Briefkasten liegt, zieht man übrigens 
+besser nicht um,
+denn Greencards darf die 
+Post nicht nachsenden. Es besteht zwar die Möglichkeit, 
+eine Adressenänderung der Einwanderungsbehörde 
+mitzuteilen, aber das Risiko würden wir nach unseren 
+Erfahrungen nicht im Traum eingehen, wer weiß, wo die 
+Mitteilungen landen.
+
+Um 9:30 Uhr ruft uns eine andere Beamtin auf. Sie hält 
+unsere Pässe in den Händen, zeigt uns den Stempel, der 
+als vorläufige Greencard gilt und ein Jahr (mit der
+Möglichkeit auf Verlängerung nach Ablauf des Jahres) 
+gültig ist. Sie informiert uns noch, dass die eigentliche 
+Greencard in sechs bis zwölf Monaten bei uns eintrudeln 
+wird. Michael behauptet später, dass der rote Stempel wie 
+Kartoffeldruck aussieht, was stimmt. Unsere Namen sind 
+dabei handschriftlich unter den Stempel gesetzt, fast ein 
+wenig enttäuschend nach all der Wartezeit. Um 9:40 Uhr 
+verlassen wir das Gebäude glückstrahlend und gehen zur 
+Feier des Tages fürstlich frühstücken, bevor Michael ins
+Büro fährt.
+
+@Z: In der gleichen Schlange mit dem Herrn Amerikaner 
+
+Unseren 
+begehrten Stempel testeten wir das erste Mal, als wir aus 
+Japan kommend wieder in die USA einreisten. Bei der 
+Einwanderungsbehörde am Flughafen gibt es in der Regel 
+zwei Schlangen: eine für amerikanische Staatsbürger und 
+Greencard-Besitzer und die andere für Visa-Inhaber und 
+Touristen, also eine kurze und eine ellenlange. Dieses Mal 
+reihten wir uns also mit den Amerikanern ein und waren in 
+Windeseile durch die "Immigration". Michael zweifelte 
+zunächst an unserem "Kartoffeldruckstempel", aber alles 
+klappte wie am Schnürchen. Der Herr von der 
+Einwanderungsbehörde grummelte nur, wo wir den Stempel 
+herhätten. Wir antworteten brav: "Aus San Francisco!" Und ich 
+hielt mich mit meiner Bemerkung zurück, dass das doch aus 
+dem Stempel hervorgeht, denn Michael hatte mich aufs 
+Schärfste instruiert, nicht mit dem Diskutieren 
+anzufangen. 
+
+@Z: Ende gut - alles gut 
+
+Am 8. Juli war es 
+endlich soweit: Gedankenverloren öffnete ich unseren 
+Briefkasten und zwei Briefe der Einwanderungsbehörde 
+strahlten mir entgegen. Ich ahnte es schon: Der mühevolle 
+Weg des Greencard-Prozesses hatte sein endgültiges Ende 
+gefunden. Und richtig, ich öffnete die Post und fand 
+unsere nagelneuen Greencard-Plastikkarten. Hurra! Die 
+werden übrigens mir der ganz normalen Post geschickt und 
+nicht etwa per Einschreiben.
+
+Kaum zu glauben, dass wir schon im Juli 1999 mit den Formalitäten
+für den Greencard-Antrag begonnen haben! Im Juli 2002 war der
+Prozess dann schließlich abgeschlossen. Mit drei Jahren
+muss man momentan rechnen, das ist ziemlich durchschnittlich. 
+Allerdings steht zu befürchten, dass es bald wieder längere Wartezeiten
+gibt, denn durch die verschärften Sicherheitsbestimmungen nach dem 
+11. September stapeln sich bei der Einwanderungsbehörde die Akten.
+Wir sind jedenfalls heilfroh, dass der Formularwahnsinn nun ein Ende hat und
+wir noch ein bisschen frei und ungezwungen in Kalifornien rumhängen 
+können. Stay tuned!
+
+-- Michael und Angelika

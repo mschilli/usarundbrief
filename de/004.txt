@@ -165,7 +165,12 @@ man diese Diskussion noch auf die anderen Sozialleistungen
 in Amerika (z.B. Arbeitslosenversicherung, 
 Rentenversicherung, Sozialhilfe, Urlaubsanspruch) ausweiten
 würde!
-
+<CONFIDENTIAL>
+Um eine Vorstellung von 
+den teilweise extrem schlechten Arbeitsbedingungen in den 
+USA zu bekommen, hätte man nur aufmerksam verfolgen 
+müssen, warum UPS in Amerika gestreikt hat.
+</CONFIDENTIAL>
 
 Um meinen Standpunkt noch einmal ganz klar zu machen: Ich 
 halte es für extrem wichtig, dass die Sozialleistungen 
@@ -351,7 +356,27 @@ Aktivitäten verlegt, bei denen man natürlch auch
 kräftigst Englisch sprechen muss und sicher auch lernen 
 kann.
 
-
+<CONFIDENTIAL>
+Dann habe ich, so glaube ich, noch nicht davon berichtet, 
+dass ich seit einiger Zeit private Übersetzungen vom 
+Englischen ins Deutsche mache. Der Kontakt ist über fünf 
+Ecken zustande gekommen. Die Frau von Michaels Kollegen 
+Peter ist zuerst angesprochen worden, hatte aber keine Zeit 
+und Lust dazu, so ist die Aufgabe dann an mich 
+weitergereicht worden. Die Frau, für die ich die 
+Übersetzungen mache, ist nämlich vor geraumer Zeit auf 
+einem Containerschiff mit deutscher Besatzung gereist und 
+hat sich nun eingebildet, dass sie ihre Briefe für die 
+Deutschen auch auf deutsch haben möchte, obwohl 
+diejenigen, denen sie schreibt, ziemlich gut die englische 
+Sprache beherrschen. Mir soll es recht sein, denn so 
+verdiene ich schwarz etwas Geld. Es hat sich jetzt auch 
+noch herausgestellt, dass sie in einen der Matrosen 
+verliebt ist und nun möchte sie unbedingt, dass ich ihr 
+die deutsche Sprache näher bringe. Auf jeden Fall scheint 
+bei der Frau Geld keine Rolle zu spielen und mir ist auch 
+geholfen, weil ich mein Englisch wieder aufpolieren kann.
+</CONFIDENTIAL>
 
 <pic images/jenner.ps Am Meer bei Timber Cove.>
 
@@ -388,13 +413,13 @@ mehr.
 
 Zum Abschluss dieses Rundbriefes möchte ich euch noch mit 
 zwei unendlichen Geschichten unterhalten: die eine 
-betrifft Michaels Firma , 
+betrifft Michaels Firma <CONFIDENTIAL>Blaxxun</CONFIDENTIAL>, 
 die andere meinen 
 amerikanischen Führerschein.
 
 @Z: Arbeitssuche in den USA
 
-Zunächst aber 
+Zunächst aber <CONFIDENTIAL>zu Blaxxun</CONFIDENTIAL>
 <HTMLONLY>zur Firma</HTMLONLY>.
 Die meisten sind 
 diesbezüglich schon auf dem neuesten Stand, aber einige 
@@ -402,9 +427,9 @@ von euch eben noch nicht, deshalb schreibe ich
 vollständigkeitshalber die Geschichte noch einmal schnell 
 auf. In meinem letzten Rundbrief habe ich ja ausführlich 
 beschrieben, dass Michael jetzt zu Hause arbeitet, weil das 
-Büro  
+Büro <CONFIDENTIAL>von Blaxxun</CONFIDENTIAL> 
 in San Francisco geschlossen worden 
-ist, dass die Finanzierung 
+ist, dass die <CONFIDENTIAL>Blaxxun-</CONFIDENTIAL>Finanzierung 
 aber bis Anfang 1998 
 gesichert ist. Nachdem Michael nun gerade alle Computer in 
 unserer Wohnung installiert und ich mich daran gewöhnt 
@@ -412,9 +437,9 @@ hatte, dass er unsere Wohnung in ein Großraumbüro
 verwandelt, kam die nächste Schreckensmeldung (kurz vor 
 meinem Abflug nach Deutschland), nämlich, dass die 
 Finanzierung wieder gekippt wurde und 
- die Firma
+<CONFIDENTIAL>Blaxxun</CONFIDENTIAL> die Firma
 wahrscheinlich Ende Juni oder Ende Juli alle 
-<HTMLONLY>ihre</HTMLONLY>
+<CONFIDENTIAL>seine</CONFIDENTIAL><HTMLONLY>ihre</HTMLONLY>
 Tore schließt (also auch das Büro in München). Michael hat 
 man dann geraten, sich bei einer anderen Firma in San 
 Francisco oder Umgebung zu bewerben, da bei ihm ja die 
@@ -478,16 +503,21 @@ Der Visumsantrag läuft bereits und so warten wir auf einen
 positiven Bescheid.
 
 Die Geschichte ist aber noch nicht zu Ende: Zum guten 
-Schluss kommt jetzt nämlich ein weiterer 
+Schluss kommt jetzt nämlich ein weiterer <CONFIDENTIAL>Blaxxun-</CONFIDENTIAL>
 Knaller: 
 Die Firma hat sich wieder berappelt und die 
 Finanzierung steht wieder bis Anfang 1998. Gut daran ist, 
 dass Michael, bis das neue Visum durch ist, 
-weiter 
+weiter <CONFIDENTIAL>für Blaxxun</CONFIDENTIAL>
 arbeiten kann und wir nicht am Hungertuch nagen 
 müssen.
 
-
+<CONFIDENTIAL>
+Und noch etwas Lustiges von Blaxxun: Es heisst jetzt 
+Blaxxun. Die Leute, die mir mailen, können aber noch 
+weiterhin die alte Schreibweise benutzen. Ich sage euch, 
+mit dieser Firma erlebt man echt tausend Abenteuer.
+</CONFIDENTIAL>
 
 @Z: Behördenschlamperei bei der Führerscheinstelle
 

@@ -1,0 +1,692 @@
+San Francisco, den 23.09.2008
+
+@Z: Goldrausch im Klondike 
+
+<pic images/dago1.ps Auch Onkel Dagobert war damals im Klondike dabei.>
+
+<em>Michael</em>
+Wenn ihr wie ich früher gerne Donald-Duck-Hefte gelesen habt, erinnert
+ihr euch sicher, dass Onkel Dagobert den Grund\-stock zu seinem
+Fantas\-til\-lionen\-vermögen im Klondike gelegt hat. 
+In diesem Zu\-sam\-men\-hang 
+betont Dago\-bert dann immer, dass es im Klondike nur die härtesten
+und ausgebufftesten Goldsucher schafften und dass dieses kalte
+und unwirtliche Gebiet im kanadischen Yukon-Territory nichts für
+Jammerlappen ist.
+
+<pic images/paper.ps Eine Zeitung von Anno Tobak meldet Goldfunde im Klondike.>
+
+In Seattle waren wir neulich im "Klondike-Museum" und haben uns darüber 
+informiert, wie das anno 1897 ablief. Erst drangen Gerüchte über 
+Goldfunde aus den nördlichen Territorien in die Hafenstädte Amerikas, und
+da die amerikanische Wirtschaft in den letzten 10 Jahren des 19. 
+Jahrhunderts ziemlich brachlag, machten sich Hunderttausende auf, um
+in Alaska Gold zu suchen. Sie gaben ihre Jobs als Verkäufer, Fabrikarbeiter
+oder Bankangestellte auf, machten ihre Habseligkeiten zu Geld, fuhren
+nach Seattle und kauften dort Proviant für ein Jahr mitsamt 
+Goldgräberausrüstung. Schiffe brachten die
+sogenannten "Stampeder" (von stampede = trampelnde Büffelherde)
+dann von Seattle im Nordwesten der USA hoch bis nach Alaska. 
+
+<HTMLONLY>
+<script type="text/javascript">
+function load() {
+  if (GBrowserIsCompatible()) {
+      var baseIcon = new GIcon();
+      baseIcon.shadow = 'http' + '://www.google.com/mapfiles/shadow50.png';
+      baseIcon.iconSize = new GSize(20, 34);
+      baseIcon.shadowSize = new GSize(37, 34);
+      baseIcon.iconAnchor = new GPoint(9, 34);
+      baseIcon.infoWindowAnchor = new GPoint(9, 2);
+      baseIcon.infoShadowAnchor = new GPoint(18, 25);
+      function createMarker(x, y, letter) {
+          var point = new GLatLng(x, y);
+          var icon = new GIcon(baseIcon);
+          icon.image = 'http' + '://www.google.com/mapfiles/marker' +
+                       letter + '.png';
+          var marker = new GMarker(point, icon);
+          return marker;
+      }
+      var map = new GMap2(document.getElementById('map'));
+      map.setCenter(new GLatLng(57.5, -125), 4);
+      map.addControl(new GLargeMapControl());
+      map.addControl(new GMapTypeControl());
+      map.addOverlay(createMarker(64.06, -139.43, 'D'));
+      map.addOverlay(createMarker(47.50, -122.30, 'S'));
+      map.addOverlay(createMarker(59.50, -135.30, 'X'));
+  }
+}
+</script>
+
+    <div id="map" style="width: 500px; height: 400px"></div>
+
+<B>
+Von Seattle (S) machten sich die Goldgräber mit dem Schiff auf nach 
+Alaska, landeten in Skagway oder Dyea (X), und dann ging's zu Fuß und mit 
+dem Floß auf dem Klondike River nach Dawson City (D) im Yukon-Territory.
+</B>
+<P>
+</HTMLONLY>
+<PRINTONLY>
+<pic images/map.ps Von Seattle (S) machten sich die Goldgräber mit dem Schiff auf nach Alaska, landeten in Skagway oder Dyea (X), und dann ging's zu Fuß und mit dem Floß auf dem Klondike River nach Dawson City (D) im Yukon-Territory.>
+</PRINTONLY>
+
+In Skagway und <LINK>http://en.wikipedia.org/wiki/Dyea|Dyea</LINK> 
+(gesprochen: "Dei-ii"), zwei Flecken auf der
+Landkarte ohne richtigen Hafen, entluden sie den Proviant, gingen von
+Bord und mussten erst einmal zu Fuß einen verschlammten 70 Kilometer langen
+Gebirgspass überwinden, um zum Lake Bennett zu gelangen, wo es mit 
+selbstgebauten Booten und Flößen weiterging. 
+Im Yukon-Gebiet gab's natürlich nichts zu 
+beißen, also musste der mitgebrachte Proviant für ein Jahr reichen und 
+der wog dementsprechend etwa eine Tonne pro Mann. Viele liefen den Pass
+bis zu 50 mal, um ihr Gepäck auf die andere Seite zu schaffen, das dauerte
+bei manchen Leuten bis zu drei Monaten! Der Pass 
+war vollgepfropft mit Karawanen von Männern und
+gesäumt mit toten Pferden. Die hartherzigen Goldsucher gingen nicht 
+gerade freundlich miteinander um. Ich habe gelesen, dass Männer, die sich 
+kurz am Wegesrand ausruhten, oft stundenlang nicht mehr in die Karawane
+hineingelassen wurden, die sich Mann-an-Mann den Gebirgspass hochschlängelte.
+So sind sie, die Amis, das ist heutzutage im Straßenverkehr noch genauso!
+
+<pic images/skagway.ps Goldgräber mit Proviant nach der Landung in Skagway.>
+<pic images/chilkoot.ps Jeder Goldgräber schleppt einen Teil seiner Ausrüstung den Chilkoot-Pass hoch.>
+
+Viele stellten fest, dass sie zuwenig Proviant dabei hatten oder den 
+Strapazen nicht gewachsen waren, verscherbelten ihre Ausrüstung und fuhren
+enttäuscht wieder heim. Andere erkannten, dass man in den Zwischenlagern
+durch den Verkauf von Ausrüstungsgegenständen oder das Anbieten von
+Serviceleistungen eher zu Geld kommen konnte und blieben in Skagway und Dyea,
+ohne jemals den Yukon gesehen zu haben.
+Als das Eis auf den Gewässern
+nach dem langen Winter endlich am 29. Mai 1898 
+brach, setzten sich binnen 48 Stunden 7124 aus den Baumbeständen der Umgebung
+zusammengezimmerte Seefahrzeuge in Bewegung, um auf dem Klondike River
+zu der Goldgräber-Zeltstadt Dawson City im Yukon zu gelangen.
+Aus der notdürftigen Siedlung wurde bis zum Sommer
+eine brummende Stadt mit Holzhäusern, Straßen und 30.000 Einwohnern.
+Sie existiert noch heute, obwohl der Goldrausch in Dawson schon nach
+zwei Jahren wieder beendet war.
+
+<pic images/dago2.ps Nichts für Jammerlappen: Goldschürfen im Klondike.>
+
+Reich wurden im Klondike nur ganz wenige, und die ließen es dann gehörig
+krachen, auch wenn in Dawson City für alltägliche Waren teilweise das 
+Hundertfache des damals üblichen Preises verlangt wurde. Angebot und
+Nachfrage halt. So hatten viele Dosenfrüchte dabei oder Mehl, aber nur
+wenige dachten daran, einen Besen mitzunehmen. Letztere wurden dann auch
+für 17 Dollar gehandelt, ein absurder Preis, wenn man bedenkt, dass damals 
+etwa ein Friseurbesuch mit Rasieren und Haareschneiden 25 Cents kostete.
+In Dawson City allerdings auch schon $1.25.
+
+Aber nach den ersten Goldfunden
+steckten einige geschäftstüchtige Leute alle goldbringenden Claims ab.
+Wer später dazukam, dem blieb meist nichts anderes übrig, als für einen
+Tagelohn für jemand anders zu schuften.
+In dem Fotoband
+<LINK>http://www.amazon.com/dp/1550464531|"The Klondike Quest"</LINK> 
+steht alles genau beschrieben, eine aufregende Geschichte!
+Und über den kalifornischen Goldrausch anno 1849 und
+übrig\-gebliebene Geisterstädte haben wir schon mal im 
+<RBLINK>20020201#6</RBLINK> kurz berichtet.
+
+@Z: Arnie in Not
+
+<pic images/bankrupt.ps Die Taschen des Bundsstaates Kalifornien sind leer.>
+
+<em>Angelika</em>
+Während der Wahlkampf um die Präsidentschaft in seine
+schmutzigste Phase geht, kämpft unser "Governator" Arnold
+Schwarzenegger in Kalifornien seinen ganz eigenen Kampf:
+Denn das Parlament unseres Sonnesstaates
+schaffte es bis vor kurzem nicht, ein Haushaltsbudget zu
+verabschieden.
+
+Der Haushalt muss
+eigentlich immer am 1.Juli, an dem das Finanzjahr in Kalifornien beginnt,
+unter Dach und Fach sein. Aber erst diese Woche, also über 80 Tage
+später, einigten sich die Politiker mit Arnie auf einen Kompromiss.
+Zur Verabschiedung des Haushalts braucht es in Kalifornien eine
+Zweidrittelmehrheit, sowohl im Senat als auch im Repräsentantenhaus
+des Bundesstaates. Es geht also zur Zeit nicht ohne überparteiliche
+Zusammenarbeit.
+
+Der Streit drehte sich darum, wie das
+15.2 Milliarden Dollar umfassende Haushaltsloch zu stopfen sei.
+Die Demokraten wollten unsere
+kalifornische Verkaufssteuer ("sales tax"), die in Kalifornien bei
+mindestens 7.25 % liegt auf 8.25% erhöhen (San Francisco: von 8.5% auf
+9.5%). Die Republikaner, die
+Steuererhöhungen als eines der größten Übel der Menschheit
+ansehen, konnten sich mit diesem Gedanken allerdings überhaupt nicht
+anfreunden. Ihre Lösung bestand dann in Kürzungen staatlicher Gelder
+und der Beleihung zukünftiger Erlöse aus der staatlichen Lotterie. 
+
+<pic images/capitol.ps Das Capitol in Sacramento: Hier sollte der Haushalt verabschiedet werden.>
+
+Schwarzenegger, der,
+wie ihr alle wisst, selbst der republikanischen Partei angehört, fand
+die vorgeschlagene Steuer\-erhöhung der Demo\-kraten zwar okay. Aller\-dings
+wollte er die Erhöhung nur über drei Jahre zulassen, um dann im vierten
+Jahr die Ver\-kaufs\-steuer gering\-fügig unter den gegen\-wärtigen Satz
+von 7.25% zu senken. Das wiederum ließ die Demokraten toben.
+
+"Lass die sich in Sacramento ruhig die Köpfe einschlagen", dachte
+sich da so mancher. Allerdings bedeutet ein nicht
+verabschiedeter Haushalt, dass der Bundesstaat Kalifornien seinen
+Verpflichtungen u.a. gegenüber Altenheimen und öffentlichen Schulen
+nur noch ungenügend nachkommt. 
+Die Schulen bekamen wegen des fehlenden
+Haushalts nämlich nur ungefähr 70% von dem, was ihnen eigent\-lich
+zusteht. Studenten warteten vergeb\-lich auf ihre kali\-fornischen
+Studenten\-darlehen (also das Bafög des Bundes\-staates) und die
+Angestellten des Bundes\-staates Kali\-forniens mussten eine
+vorüber\-gehende Gehalts\-kürzung auf den nationalen gesetz\-lichen
+Mindest\-lohn ("federal minimum wage") von $6.55 pro Stunde hinnehmen.
+
+Die Gewerkschaft der ebenfalls betrof\-fenen Ange\-stellten im Straf\-vollzug 
+erzürnte dies gleich so, dass sie eine "Recall"-Aktion (Ab\-beru\-fung) gegen
+Gouver\-neur Schwarzen\-egger ins Leben rief. Dies ist nun fast wieder komisch,
+denn Arnie hat ja anno 2005 unseren damals amtie\-renden
+Gouver\-neur durch einen "Recall" aus dem Amt 
+vertrieben (<RBLINK>20031008#1</RBLINK>). 
+Aller\-dings stieß die Aktion der Gefäng\-nis\-wärter bei der 
+Bevöl\-kerung Kali\-forniens auf taube Ohren. 
+
+Aber zurück zum
+Haushalt. Am 16. September fand sich endlich eine Zweidrittelmehrheit
+für einen vierten Vorschlag. Neben Kürzungen sollte das Loch durch
+vorgezogene Steuereinkünfte gestopft werden. Kalifornien
+erzielt seine Steuereinkünfte hauptsächlich durch Abgaben auf Einkommen 
+oder Gewerbe. Deswegen wollten die Politiker ab 1. Januar 2009 ganze 10 Prozent
+mehr kalifornische Steuer vom Gehalt und Betrieben einbehalten. Allerdings
+ohne den Steuersatz effektiv zu erhöhen, denn der Steuerzahler bekäme zu
+viel Gezahltes, wenn er Monate später die kalifornische Steuererklärung 
+einreicht, wieder zurück. 
+Es handelte sich also letzendlich um
+einen buchhalterischen Trick und ein zinsloses Darlehen der Bürger an
+den Staat Kalifornien. Die Politiker rechtfertigten ihn mit dem Argument,
+dass die meisten Steuerzahler in Kalifornien zu wenig
+Steuern vorauszahlen und erst mit der Steuererklärung nachentrichten.
+
+<pic images/arnie2.ps Gouverneur Arnie hat's nicht leicht, leistet aber gute Arbeit.>
+
+Mehr Geld in die Kassen bringt das letzendlich aber auch
+nicht. Schwarzenegger tobte unter anderem wegen der Absurdi\-tät der
+finanz\-tech\-nischen Mätzchen in dem Vorschlag und drohte sein Veto
+einzulegen, also den Haushalt nicht zu unter\-schreiben. Daraufhin schrieen
+die Abge\-ordneten, sie würden sein Veto dann wieder rück\-gängig
+machen, wozu in Kalifornien wiederum eine Zwei\-drittel\-mehrheit
+nötig ist.
+
+Dazu kam es dann aber doch nicht. Das vorgezogene Einbehalten
+von kalifornischer Einkommenssteuer durch erhöhte Abzüge vom Gehalt
+ist vom Tisch. Allerdings sollen Unternehmen empfindliche Strafen
+zahlen, wenn sie nicht genug kalifornische Steuern vorauszahlen. Auch
+stellte Schwarzenegger sicher, dass der "Rainy Day Fund" (also der
+Topf, in dem Rücklagen für schlechte Zeiten liegen)
+gestärkt wird und es strengere Regeln gibt, wann dieser angezapft
+werden darf. Das Beleihen von voraussichtlichen Erlösen aus der Lotterie 
+blieb im Haushalt enthalten, braucht allerdings noch die Zustimmung der
+kalifornischen Wähler. Manchmal glaubt man, wir leben in einer
+Bananenrepublik und nicht in dem Bundesstaat, der zur Zeit als achtgrößte 
+Wirtschaftsnation der Welt gilt.
+
+
+@Z: Toppprodukt: Wannenabflussverhinderer
+
+<pic images/bath1.ps (#1) Ein normaler Wannenauslasshebel mit Notabfluss (unsichtbar am unteren Rand).>
+
+<em>Michael</em>
+In amerikanischen Mietwohnungen und billigen Hotels sind die Badewannen 
+oft lächerlich klein. Unsere Wanne ist zum Beispiel 134cm lang, 58cm breit
+und 30cm tief. Jemand wie ich, der 1,85m groß ist, muss sich da schon ganz 
+schön verrenken, um reinzupassen. Das wäre noch nicht so schlimm, aber
+zu allem Übel ist da noch ein Hebel (Abbildung (#1)), der den 
+Badewannenabfluss auf- und zumacht, und dessen Metallverkleidung
+weist unten ein Notabflussloch auf. Das hat zur Folge, dass das Wasser in 
+einer nur 30cm tiefen Badewanne nur 21cm hochsteigen kann, dann läuft es durch
+den Notabfluss ab!
+
+Das ist natürlich ein Irrsinn, nur ein trainierter Yogafritze 
+könnte so mit allen
+Körperteilen unter Wasser bleiben. Als wir vor kurzem in einem Fachgeschäft 
+für Badezimmerbedarf waren ("Bed, Bath and Beyond"), fiel mir an der Kasse
+ein neuartiger Artikel auf: der Wannen\-abfluss\-verhinderer. Es handelt sich
+um eine Kappe aus weichem Plastik, die man über dem Notabfluss anbringt
+und mit auf der Rückseite anliegenden Saug\-näpfen am Wannen\-rand 
+befestigt (Abbildung (#2)).
+
+<pic images/bath2.ps (#2) Der Wannenabflussverhinderer in Aktion>
+
+Der Wannenabflussverhinderer hat oben ein Loch, durch das das Wasser im 
+Notfall hineinsickern und durch den Notabfluss des Auslasshebels abfließen
+kann. Der Vorteil: Der Wasserspiegel kann nun statt 20cm ganze 
+29cm steigen, das ist 50% mehr herrlich heißes Wannen\-vergnügen!
+Heißes Wasser ist bei uns wie in vielen Wohnungen bereits in der Miete 
+enthalten, deswegen steht der Wannenabflussverhinderer sicher auf der 
+Abschussliste
+aller Vermieter und Hotelbesitzer in San Francisco. Bestimmt wird er bald
+verboten und ist nur noch auf dem Schwarzmarkt erhältlich, also kauft
+noch schnell einen für den nächsten USA-Urlaub!
+Kostet 6 Dollar by "Bed Bath and Beyond", ein Mondpreis für ein
+Stück Plastik, aber für die Idee zahle ich gerne.
+
+@Z: Amerikaner bloggen über Deutschland
+
+<pic images/nfu.ps Amerikaner bloggen über Deutschland: Nichts für ungut.>
+
+<em>Michael</em>
+Wenn ihr es großartig findet, dass zwei Deutsche wie wir, die in Amerika wohnen,
+über Amerika bloggen, wird es euch sicher auch interessieren, dass es das
+umgekehrte Phänomen gibt: Amerikaner, die in Deutschland wohnen und über
+Deutschland bloggen.
+
+In Düsseldorf wohnt zum Beispiel Andrew Hammel, ein ame\-rika\-nischer Anwalt
+und Rechts\-professor. In seinem Blog, 
+<LINK>http://andrewhammel.typepad.com/german_joys|German Joys</LINK>
+berichtet er auf Englisch über allerhand aus amerikanischer Sicht absurde
+Dinge, die sich in Deutschland zutragen.
+Hammel hat zum Beispiel minutiös über den Obama-Besuch in Deutschland berichtet und auch die Sicher\-heits\-vorkeh\-rungen geschildert, nach denen jeder, der
+zu Obama wollte, durch einen Metalldetektor wandern, mitgeführte 
+elektronische Geräte kurz anstellen und einen Schluck aus mitgebrachten
+Getränken nehmen musste.
+
+Eine weitere bemerkenswerte Publikation ist 
+<LINK>http://nothingforungood.com|Nothingforungood.com</LINK>, also die 
+bewusst falsche Übersetzung von "Nichts für ungut".
+Die Schreiber stellen zum Beispiel richtig fest, 
+dass man zwar in Deutschland zu später Stunde problemlos an Alkohol 
+kommt, dass man aber durch die ganze Stadt fahren muss, um eine Notapotheke
+aufzusuchen, in der man Aspirin kaufen kann, die man in Amerika in jedem
+Supermarkt bekäme. Oder dass man auf amerikanischen
+Parties am besten Songs spielt, die die Leute noch nie gehört haben, während
+es in Deutschland eher ankommt, wenn man Musik spielt, die die Leute in-
+und auswendig kennen und in betrunkenem Zustand mitsingen können, wie wahr!
+
+@Z: Das Telefonmonopol
+
+<pic images/babybells.ps (#9) In den Achtzigern wird das Tele\-fon\-monopol von AT\&T in die "Baby Bells" zerschlagen.>
+
+<em>Michael</em>
+Die Geschichte der Telefongesellschaften reicht in Amerika bis ins Jahr
+1875 zurück, als Alexander Graham Bell die "Bell Telephone Company" 
+gründete, aus der später "Bell Systems" wurde. Für Ferngespräche 
+über Bundesstaatsgrenzen hinweg
+(Long Distance) kam
+zehn Jahre später die Firma AT\&T auf den Markt und schluckte Bell Systems
+im Jahre 1899. Beinahe hundert Jahre lang betrieb AT\&T ein staatlich
+reguliertes Monopol, bis im Jahre 1984 ein Richter in einem Kartellverfahren
+entschied, dass der Koloss in die später sogenannten "Baby Bells" 
+(Abbildung (#9)) aufzuteilen sei. Sie hießen
+"Pacific Bell", "Southwestern Bell", "US West", "Ameritech", "BellSouth",
+"Bell Atlantic" und "NYNEX".
+Die 50 Bundesstaaten wurden in sieben 
+Bereiche aufgeteilt, in denen sich jeweils eines der neuen Kinder niederließ,
+um sich dort exklusiv um das Telefongeschäft zu kümmern.
+
+Die Mutter AT\&T blieb weiterhin im Ferngesprächsgeschäft und die Babys
+widmeten sich der lokalen Telefonie. 1996 entschied sich allerdings im 
+"Telecommunications Deregulation Act", dass sich auch die Babys im
+Long-Distance-Geschäft engagieren durften.
+
+Als wir 1996 nach Kalifornien zogen, hatten wir eine lokale
+Telefongesellschaft namens "Pac Bell", bei der wir etwa $20 im Monat für 
+einen Telefonanschluss latzten. Damit waren Ortsgespräche ("Local Calls")
+bereits eingeschlossen, und für "Local Toll Calls", also Gespräche in der
+näheren Umgebung, 
+berappten wir pro Minute einige Cents an Pac Bell.
+
+Für Ferngespräche (long distance calls) konnten wir uns zwischen drei
+verschiedenen Anbietern entscheiden: AT\&T, MCI und Sprint.
+Die konkurrierenden Telefongesellschaften versuchten auf Teufel komm raus, den 
+Mitbewerbern Kunden abzuluchsen. Sie riefen die Kunden ihrer Mitbewerber
+zur Abendbrotzeit an, verwickelten sie in harmlos wirkende Gespräche und
+am Ende fand sich der Telefonkunde bei einer anderen Telefongesellschaft
+wieder. Dieses sogenannte
+<LINK>http://en.wikipedia.org/wiki/Telephone_slamming|Slamming</LINK>
+war natürlich illegal und die Aufsichtsbehörde FCC schritt nach einiger
+Zeit ein, um den Telefongesellschaften auf die Finger zu klopfen.
+
+Einer der drei Long-Distance-Anbieter, MCI, ging 2002 pleite. Ihr Chef 
+<LINK>http://en.wikipedia.org/wiki/Bernard_Ebbers|Bernie Ebbers</LINK> bekam 
+wegen Betrugs 25 Jahre aufgebrummt
+und sitzt heute mit der <HTMLONLY><LINK>http://www.bop.gov/iloc2/InmateFinderServlet?Transaction=IDSearch&needingMoreList=false&IDType=IRN&IDNumber=56022-054&x=0&y=0|Häftlingsnummer #56022-054</LINK></HTMLONLY><PRINTONLY>Häftlingsnummer #56022-054</PRINTONLY> im Gefängnis in
+Oaksdale, Lousiana. Voraussichtliches Entlassungsdatum: 2028.
+
+Und jetzt passt gut auf: Im Jahr 1995 benannte sich die für 
+fünf Staaten rund um Texas zuständige 
+AT\&T-Tochter "Soutwestern Bell" in "SBC" um und kaufte 1996 
+"Pacific Bell", die Kalifornien und Nevada bediente. 
+Später schluckte sie noch
+"Ameritech" und, haltet euch fest: die eigene Mutter AT\&T.
+
+Das muss man sich mal vorstellen: Eine Firma wird zwangs\-aufge\-splittet
+und nach einigen Jahren kauft ein Kind die Mutter. Und nicht nur das,
+die wiedervereinte Familie benannte sich auch noch frech in AT\&T um,
+beinahe so, als hätte die Zwangszerschlagung nie stattgefunden.
+Ein 
+<LINK>http://www.youtube.com/watch?v=I6nuwQmhrZ8|Video von Stephen Colbert</LINK> illustriert die Geschichte anschaulich und humorvoll 
+(Besten Dank an Rundbriefleser Daniel Scheibli für den Link).
+
+<HTMLONLY><pic images/attletter.ps (#10) AT\&T erläutert, dass jetzt nur noch eine Telefonrechnung kommt.></HTMLONLY>
+
+So flatterte bei uns 
+denn auch bald ein Schreiben 
+<HTMLONLY>(Abbildung (#10))</HTMLONLY> ins Haus, das
+erklärte, dass demnächst nur noch eine Rechnung für Telefon, Long
+Distance und Internetanschluss (war früher ebenfalls bei Pac Bell) zu 
+bezahlen sei. Die auf der Rechnung (Abbildung (#11)) angegebenen drei
+verschiedenen Telefonnummern für die drei Angebote geben aber einen
+Vorgeschmack darauf, dass es sich sehr wohl um drei verschiedene
+Firmen unter einem Deckmantel handelt.
+Und als ich neulich einmal unseren Long-Distance-Sparplan etwas umändern
+wollte (man zahlt ein paar Dollar im Monat vorab und kriegt dann die 
+Minuten nach z.B. Deutschland günstiger), bekam ich das Ausmaß des
+Chaos in diesem Laden zu spüren.
+
+<pic images/attcall.ps (#11) Auf der Telefonrechnung wird offenbar, dass man in Wirklichkeit mit vier verschiedenen Firmen zu tun hat.>
+
+Das fängt damit an, dass man eine kostenlose 1-800-Nummer wählt, einer
+Automatenstimme erzählt, was man möchte und dann eine Stunde lang 
+Idiotenmusik hört, bis ein Mensch an die Leitung kommt. Ich übertreibe 
+nicht, ich habe mitgestoppt. 
+
+Wo kommt man raus? In Indien oder Mexiko, wie man am Akzent des Sprechers 
+leicht erkennen kann. Also erklärte ich mein Begehr und man sagte mir, 
+dass der Plan nicht bei "AT\&T Legacy" ("AT\&T Altlast"), bei dem ich meinen
+Long-Distance-Plan hätte, verfügbar wäre, aber dass ich den Plan gerne
+beim neuen AT\&T bekommen könne. Also gut, sagte ich, wurde durchgestellt
+und erklärte einem neuen Sachbearbeiter mein Anliegen. Alles klar, sagte
+der, dann werde er die Ferngespräche auf das neue AT\&T mit dem von
+mir gewünschten Sparplan umstellen, und damit auch alles mit rechten Dingen
+zugehe, würde er mich jetzt an eine "Third Party" (unbeteiligten Dritten)
+weiterleiten, der das bestätigen solle und dann wäre alles im Lack. 
+Das leuchtete mir ein, diese Regelung wurde eingeführt, um dem "Slamming"
+einen Riegel vorzuschieben.
+
+Es knackste in der Leitung und ein total genervter Herr mit roboterhafter
+Stimme erzählte mir, dass er mir jetzt einige Fragen stelle, die ich nur
+mit "ja" oder "nein" beantworten dürfe. Ob ich meine Long-Distance-Calls
+umstellen wolle. "Ja". Ob ich meine "Local Tolls" umstelle wolle. "Nein",
+sagte ich, denn davon hatte mir der Fritze vorher überhaupt nichts erzählt.
+Na dann könne er nichts machen, sagte der unfreundliche Herr, man hätte mich
+wohl mit falschen Informationen zu ihm gesandt. Schnell warf ich noch ein,
+ob er mich denn zurück zu dem Planverkäufer verbinden könne, damit ich
+nicht nochmal eine Stunde in der Leitung warten müsse. Nein, sagte das
+Monster und hängte den Hörer auf. Wahnsinn! 
+
+Ich rief nicht noch einmal an, denn eine Stunde später mussten wir los 
+zum Flughafen. Nach einer Woche kamen wir aus dem Urlaub zurück und ich 
+rief nochmals an. Der
+AT\&T-Verkäufer sagte mir, dass mein Auftrag auf Eis läge, da die 
+Bestätigung ausgeblieben war und erklärte mir, dass "Long Distance"
+und "Local Toll" zugleich vom neuen AT\&T übernommen werden, stellte mich
+nochmals zur "Third Party" durch, wo ich auf alle Fragen mit "ja" antwortete
+und ich bekam meinen gewünschten Plan.
+
+<pic images/attcard.ps (#12) AT\&T schickt verwirrende Kärtchen heim.>
+
+Das ist halt das Problem mit Monopolen: Der Kunde sieht in die Röhre. Oder
+die Postkarte in Abbildung (#12), die wir neulich
+im Briefkasten fanden. AT\&T sandte
+uns da eine wirre Nachricht und auch ein Anruf unter der angegebenen Nummer
+löste bei mir nur Lachkrämpfe aus. Zu eurer Unterhaltung habe ich die
+<LINK>images/att.mp3|Navigation durch das Telefonlabyrinth</LINK> aufgezeichnet und ins Internet gestellt. Völlig irre!
+
+@Z: Deutsche Spezialitäten in USA
+
+<pic images/nutella.ps Sogar im Mega\-super\-markt Costco gibt's das ame\-ri\-ka\-ni\-sche Nu\-tella zum Schla\-ger\-preis. Doppel\-pack: 7.99 Dollar>
+
+<em>Michael</em>
+Wir Deutschen im Exil lechzen ja öfter mal nach uns vertrauten Lebensmitteln, 
+die es aber in Amerika nicht gibt. Beispiele: Frische Semmeln und Brezen, 
+Duplo, Blutwurst, Erdnuss-Flips und den haselnusshaltigen
+Schokoladenaufstrich Nutella. In US-Großstädten steht zwar öfter mal
+ein täuschend echt nachgemachtes Schrottprodukt im Supermarktregal, das 
+aber nicht mit dem deutschen Nutella zu vergleichen ist.
+
+Neulich hatten Reisende aus Deutschland ein Glas Nutella mit\-gebracht und 
+wir machten den Blind\-test: Ein Unter\-schied wie Tag und Nacht. Das deutsche
+Nutella schmeckt viel intensiver nach Schokolade und Nüssen, die
+ameri\-kanische Fäl\-schung dagegen richtig lasch und fahl.
+Im
+<LINK>http://en.wikipedia.org/wiki/Nutella|Nutella-Eintrag auf Wikipedia</LINK>
+steht sogar, was die einzelnen Länder für Zutaten verwenden.
+Wusstet ihr übrigens, dass Nutella ursprünglich nicht aus Deutschland 
+sondern aus Italien kommt?
+
+<pic images/dittmers.ps Der deutsche Metzger "Dittmer's" in Mountain View>
+
+Und neulich habe ich beim <HTMLONLY><LINK>http://maps.google.com/maps?q=crossroads+market+mountain+view\&latlng=12804843315766316757|Crossroads-Market</LINK></HTMLONLY><PRINTONLY>Crossroads-Market</PRINTONLY> 
+in Mountain-View
+nach mehr als zehn Jahren erfolgloser Suche doch glatt Erdnuss-Flips 
+gefunden. Und sie wurden 
+von Erdnuss-Flips-Conneusseur Angelika
+tatsächlich als ununterscheidbar zum Original eingestuft. Der Iraner,
+der den Crossroads-Laden betreibt, verkauft hauptsächlich russische Fisch- und 
+Wurstspezialitäten, führt aber auch Jacobs Kaffee Krönung, Kinderschokolade,
+Pfanni Kartoffelknödelpackungen
+und Blut- und Leberwurst deutscher Machart.
+
+<pic images/esthers2.ps Die deutsche Bäckerei "Esther's" in Mountain View>
+
+Und etwas weiter die San-Antonio-Road runter ist der deutsche Metzger
+<LINK>http://dittmers.com|Dittmer's</LINK>, 
+der Leberkäs, Kassler, Kalbsleberwurst,
+Landjäger, Weißwürste, Händlmaier-Senf (8 Dollar das Glas!) hat. 
+Das Weißwurstmachen hat er nicht so richtig drauf, aber sonst sind die Sachen
+erstklassig. Die nahegelegene deutsche
+Bäckerei <LINK>http://www.esthersbakery.com/|Esther's Bakery</LINK> beliefert
+den Metzger mit Semmeln und Brezen, allerdings schmecken die oft, als
+wären sie vom Vortag, aber was kann man für $1.80 pro Breze in der
+Diaspora schon verlangen? In Deutschland würde der Brezen Baur die
+Esther allerdings wegfegen wie ein Tornado einen losen Dornbusch.
+
+Das Faszinierenste an der Dittmer-Metzgerei sind
+die durchweg mexikanischen Verkäufer. Während diese in Kalifornien
+öfter mal nur gebrochen Englisch können, sprechen die Dittmer-Angestellten
+nicht nur perfektes Englisch sondern verstehen sofort, was gemeint ist,
+wenn ich "Kalbsleberwurst", "Landjäger" oder "Leberkäs" sage. Da scheint 
+der Dittmer eine Spezialschulung durchzuführen! Der Dittmer selbst ist 
+übrigens so in unserem Alter, Sohn deutscher Einwanderer und spricht selbst
+nur noch wenig Deutsch.
+
+Im Kofferraum unseres Autos befindet sich eine spezielle Kühltasche und der 
+Dittmer verkauft Flaschen mit gefrorenem Mineralwasser, so dass ich die 
+heißbegehrten Fleisch- und Wurstwaren trotz kalifornischer Hitze unbeschadet
+ins 50 Kilometer nördlich gelegene San Francisco transportieren kann.
+Was macht man nicht alles!
+
+@Z: Wahlkampf
+
+<pic images/vote.ps Der Wahlkampf für die Präsiwahl im November läuft auf vollen Touren.>
+
+<em>Angelika</em>
+Amerikanische Parteitage sind per\-fekt durch\-organi\-sierte
+Inszenie\-rungen. Dort wird der Präsi\-dent\-schafts\-kandidat offiziell
+nomi\-niert, im besten Licht darge\-stellt und die eigene
+Partei gefei\-ert. Es herrscht ein Personen\-kult sonder\-gleichen und die
+Reden strot\-zen vor Selbst\-beweih\-räucherung. Frauen und
+Kinder der Kandi\-daten verleihen dem Ganzen noch eine
+persön\-liche Note. Sie werden auf die Bühne gezerrt und 
+stellen heraus, warum der Kandi\-dat sich zum Präsi\-denten eignet.
+Da lobe ich mir doch den
+Ehemann von Angela Merkel, der sein eigenes Ding macht und stets im
+Hinter\-grund bleibt bzw. gar nicht auftaucht. 
+
+Trotzdem habe ich mir den
+demokratischen und den republikanischen Parteitag auszugsweise im
+Fernsehen angeschaut
+und so manches Mal mit den Zähnen geknirscht. Traditionell hält die
+Partei des amtierenten Präsidenten ihren Parteitag nach dem der
+oppositionellen Partei ab. Da Bush der republikanischen Partei
+angehört, hatten Obama und die Demokraten den Vortritt und hielten
+ihren Parteitag in der letzten Augustwoche in Denver ab. 
+
+Hillary
+Clinton zeigte auch gute Miene zum bösen Spiel und ließ keinen
+Zweifel daran, dass der erbitterte Vorwahlkampf zwischen ihr und
+Barack Obama vergeben und vergessen war. Sie schmollte auch nicht mehr
+darüber, dass Obama den langjährigen Senator Joe Biden vom
+Bundesstaat Delaware und nicht sie zu seinem Vizekandidaten erhoben
+hat.
+Clinton orchestrierte sogar die informelle Abstimmung per Akklamation
+(per Zuruf/Beifall/Handzeichen), um Barack Obamas Nominierung zu
+bestätigen und den langwierigen Prozess der namentlichen Abstimmumg
+abzukürzen. 
+
+Ihr erinnert euch vielleicht, dass sie während der
+knappen Vorwahlen einige Male damit gedroht hatte, es beim Parteitag
+mit Hilfe der Superdelegierten darauf ankommen zu lassen, doch noch
+nominiert zu werden. Der Höhepunkt war dann der Auftritt des
+todkranken Senators Ted Kennedy, der trotz eines bösartigen
+Gehirntumors erschien. Er verkörpert wie kein anderer die amerikanische
+demokratische Partei und der Kennedy-Clan übt noch immer eine 
+enorme Anziehungskraft auf die amerikanische Bevölkerung aus. 
+Was für England das Königshaus, das ist für viele
+Amerikaner die Kennedy-Familie. Aber ich schweife ab. 
+
+<pic images/obama.ps Barack Obama im Fernsehen.>
+
+Barack Obama
+arbeitete gekonnt die für die Demokraten wichtigen Themen wie
+Krankenversicherung, Energiepolitik, Bildungswesen, Wirtschaftslage
+und Außenpolitik plus Irakkrieg in seine Rede ein. Er vergaß auch
+nicht, die bessere Versorgung und Unterstützung der amerikanischen
+Soldaten miteinzuflechten. Ein Muss, wenn man es ins Weiße Haus
+schaffen will. 
+
+Auch versuchte er, das Image, elitär zu sein,
+abzuschütteln, das ihm die Republikaner nur allzu gerne andichten. So
+erzählte er von seiner alleinerziehenden Mutter, die zeitweise
+Essensmarken ("food stamps") bezog, um über die Runden zu kommen.
+Solche persönlichen Anekdoten erwartet die breite Masse in den USA,
+um sich mit dem Kandidaten identifizieren zu können. Das Zitieren des
+amerikanischen Traums (oder die "Idee Amerika", wie es Obama
+formulierte) durfte natürlich ebenfalls nicht fehlen. Wobei das für
+Barack Obama sogar zutrifft, denn er schaffte es als erster Schwarzer,
+die Präsident\-schafts\-nominierung einer der großen Parteien zu 
+gewinnen.
+
+Die rommäßige Säulenkulisse als Bühnenbild für seine Rede fand
+ich allerdings etwas merkwürdig. Die demokratische Partei badete sich
+noch im Erfolg ihres Parteitages und zelebrierte die historische
+Dimension dieser Nominierung, als John McCain ihnen die
+Show stahl und Alaskas Gouverneurin, Sarah Palin, zu seiner
+Vizepräsidentin bestimmte. 
+
+Die linker angehauchte Presse war
+fassungslos und die rechte in Jubelstimmung. Sarah Palin verkörpert
+wohl wie keine andere den Mythos der amerikanischen Kleinstadt: Mutter von
+fünf Kindern, äußerst religiös, erzkonservative Ansichten, wenn es
+um Abtreibung, gleichgeschlechtliche Ehen, Sexualkundeunterricht in der
+Schule und Darwins Lehre geht. Sie kann nicht nur mit einem Gewehr
+umgehen, sondern auch gleich einen Elch enthäuten und legte sich mit
+der Ölindustrie in Alaska an. 
+
+Nun ist Alaska ein ganz besonderer
+Bundesstaat: flächenmässig riesig, extrem dünn besiedelt, durch
+Kanada getrennt von den übrigen USA, reich an Bodenschätzen und
+voller Individualisten, die sich nicht gern von Regierungsbeamten
+vorschreiben lassen, wie sie zu leben haben. Obwohl Palin aus Alaska
+kommt und angeblich die Naturschönheit ihres Bundesstaates über
+alles liebt, glaubt sie nicht daran, dass die Erderwärmung durch
+menschliches Verhalten enstanden ist. Und das, obwohl der Permaforst in
+einigen Gegenden Alaskas durch die Erderwärmung so aufgeweicht ist,
+dass darauf entstandene Dörfer dramatisch absacken und
+umgesiedelt werden müssen. Auch hätte sie keinerlei Skrupel, im
+geschützten Arctic Wildlife Refuge nach Öl bohren zu lassen. 
+
+<pic images/mccain.ps John McCain im Fernsehen.>
+
+McCain
+erkor Palin natürlich aus rein taktischen Erwägungen zur
+Vizepräsidentin. Zunächst einmal ist sie eine Frau, und McCain
+erhofft sich, dass vergrämte Hillary-Befürworter zu Palin
+überspringen. Allerdings haben Hillary Clinton and Sarah Palin
+unterschiedliche Ansichten wie Tag und Nacht, gerade wenn es um
+Frauenfragen geht. Und dann wollte McCain natürlich die 
+christlich-fundamentale
+Basis der republikanischen Partei durch Palin auf seine Seite ziehen.
+McCain ist dort nicht gerade beliebt, da er in seiner
+langjährigen Politikerkarriere schon oft Entscheidungen getroffen hat, die
+deren Weltbild widersprachen.
+
+Was ich allerdings überhaupt nicht verstehe,
+ist, dass seine Rechnung auch noch aufzugehen scheint. Denn seitdem er
+Palin an seine Seite gestellt hat, ist er in den Umfragen
+teilweise vor Barack Obama gerutscht. Wie einer meiner Lieblingskolumnisten,
+<LINK>http://www.nytimes.com/2008/09/13/opinion/13herbert.html|Bob Herbert von der New York Times</LINK>, ganz
+richtig feststellte, geht es hier nicht darum, das nächste "American
+Idol" (in Deutschland ist das Äquivalent "Deutschland sucht den
+Superstar") zu wählen, sondern eine qualifizierte Vizepräsidentin zu
+finden, die unter Umständen als Präsidentin einspringen kann.
+McCain zählt ja bekanntlich nicht mehr zu den Jüngsten und hat schon einige
+ernsthafte Krankheiten hinter sich. 
+
+Palin hat keinerlei
+außenpolitische Erfahrung und soll bis vor kurzem nicht einmal einen
+Reisepass besessen haben. Sie findet, dass es reicht, dass Alaska nah
+an Kanada und Russland liegt. Ihre Plattitüden kommen aber gut an.
+Beim Parteitag der Republikaner betonte sie immer wieder, dass sie
+nicht für die Alteingesessenen in Washington steht. Nur leider gehört
+McCain fast seit 30 Jahren dazu. Auch der Slogan "Drill, Baby, Drill"
+(= nach Öl bohren, Baby, nach Öl bohren) erhob sich zu Palins und
+McCains Mantra. Mc Cain war übrigens vor dem Wahlkampf gegen das
+Bohren von Öl in den Küstenregionen der USA.
+
+Wenn Sarah Palin nicht
+vorgefertigte Sätze versprüht, kommt sie allerdings des öfteren ins
+Schleudern. So wusste sie im Interview mit Charlie Gibson vom
+Sender ABC nicht, was sich hinter der Bush-Doktrin verbirgt. Ich will
+ja nicht angeben, aber als Zeitungsleser weiß ich, dass die 
+Bush-Doktrin u.a. besagt, dass Länder, die eine Gefahr für die USA
+darstellen, präventiv angegriffen werden können. Aber
+wahrscheinlich lesen Sarah Palin und ich nicht die gleichen Zeitungen.
+Allgemein lassen die McCain-Berater Palin nur wenig Interviews geben
+und für die Debatten, die sie mit Joe Biden
+führen wird, ist ein weniger offenes Format vorgesehen, denn Biden gilt 
+als erfahrerer Debattierer mit spitzer Zunge. 
+
+Was mich aber am meisten ärgert,
+ist die Scheinheiligkeit der Erzkonserativen. Kurz nachdem McCain
+Palin zu seiner Vizepräsidentin ernannt hatte, sickerte durch, dass ihre 17-
+jährige Tochter schwanger ist. Nun finde ich, dass das in der Tat
+nichts mit Palins Qualifikation auf ein hohes politisches Amt zu tun
+hat, aber keiner der religiösen Rechten regte sich über diesen
+"Sündenfall" auf. Das kommt ja in den besten Familien vor und solange
+das Mädele nur nicht abtreibt, ist ja alles in Butter. Hätte Obama
+eine 17-jährige schwangere Tochter, würden sich die ultrarechten
+Kommentatoren die Mäuler nur so zerreißen. Palin erboste sich
+erst, dass ihre Familie tabu sei, um gleich darauf ihre schwangere
+Tochter samt Freund medienwirksam beim Pateitag auf die Bühne zu
+stellen. Ihr behindertes Baby packte sie gleich noch dazu. Ich hoffe
+nur, dass mich dieses Land doch noch überrascht und den ersten
+schwarzen Präsidenten im November wählt. Das wäre doch mal was.
+
+@Z: Spendenfreudige Amerikaner
+
+<pic images/fundraiser.ps Eine Webseite zeigt an, wer in unserem Viertel wieviel an welchen Politiker gespendet hat.>
+
+<em>Michael</em>
+Amerikaner sind ja sehr offen, was ihre politische Einstellung angeht, die
+meisten haben kein Problem damit, zu erzählen, welchem Kandidaten sie ihre
+Stimme bei der im November anstehenden Präsidentenwahl geben. Und spenden sie
+einem Kandidaten Geld, sind diese Daten öffentlich zugänglich und es war
+eigentlich nur eine Frage der Zeit, bis sich jemand die Mühe gemacht
+hat, dies auf einer Landkarte im Internet anzuzeigen. 
+
+Auf <LINK>http://fundrace.huffingtonpost.com/neighbors.php|fundrace.huffingtonpost.com</LINK> 
+kann man leicht herausfinden, welche Nachbarn konservativ wählen oder 
+welches Stadtviertel am meisten Geld an welche Partei spendet. Wer spendet,
+findet dort nicht nur seinen Namen und die Adresse, sondern daneben auch noch
+seinen Beruf, den gespendeten Betrag, welche Partei ihn erhielt und
+vor welcher Wahl dies geschehen ist. So habe ich zum Beispiel herausgefunden,
+dass einer meiner Arbeitskollegen im Jahre 2004 sage und schreibe 
+$1000 an John Kerry gespendet hat, der damals gegen Bush verlor! Ich habe 
+ihn damit natürlich gehörig aufgezogen, das versteht sich von selbst.
+
+Grüße von zwei Nichtwählern wider Willen:
+
+Angelika \& Michael

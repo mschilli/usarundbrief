@@ -1,0 +1,712 @@
+San Francisco, den 21.04.2006
+
+@Z: Fastrak
+
+<pic images/fastrak.ps Der Fastrak-Transponder für's Auto>
+
+<em>(Michael)</em>
+San Francisco liegt ja bekanntermaßen an der Spitze einer "Peninsula" 
+genannten Halbinsel. Will man nach Norden, geht's über die Golden Gate 
+Bridge nach Marin. Will man nach Osten, fährt man auf die graue 
+Bay Bridge nach Oakland. Im Westen liegt der Pazifik und nur nach Süden
+kann man sich ohne Brückenbenutzung von San Francisco entfernen.
+
+<HTMLONLY>
+<script type="text/javascript">
+function load() {
+  if (GBrowserIsCompatible()) {
+      var map = new GMap2(document.getElementById('map'));
+      map.setCenter(new GLatLng(37.7547, -122.4556), 10);
+      map.addControl(new GLargeMapControl());
+      map.addControl(new GMapTypeControl());
+  }
+}
+</script>
+<div id="map" style="width: 440px; height: 300px"></div>
+</HTMLONLY>
+
+Fährt man über eine Brücke aus der Stadt heraus, ist die Benutzung
+kostenlos. Fährt man allerdings stadteinwärts, kostet das nicht nur
+horrende Summen ($5 auf der Golden Gate, $3 auf der Bay Bridge),
+sondern auch der Verkehr staut sich, denn jeder muss anhalten und die
+Gebühr in bar an einem kleinen Kassenhäuschen entrichten.
+Das Schlimmste: Der Herr Amerikaner beeilt sich dabei natürlich
+nicht, schleicht im Schneckentempo ans Kassenhäuschen heran,
+kruschtelt dann erst umständlich ein paar Scheine aus dem Geldbeutel
+hervor und würgt dann vielleicht noch sein SUV ab.
+
+Das macht mich wa-hn-sin-nig. Deswegen habe ich neulich Fastrak
+bestellt, die amerikanische Antwort auf "Toll Collect" und die
+Vignette. Man kriegt einen kleinen Transponderkasten ins
+Auto, der Signale der Mautstelle auffängt und den fälligen Betrag
+automatisch vom kreditkartengefütterten Konto abbucht.
+
+Typisch amerikanisch funktioniert der Kasten natürlich nicht immer. Das
+erste Mal fuhren wir von einem Tagesausflug ins Napa Valley abends zurück
+in die Stadt. Lässig wählte ich eine der beiden "Fastrak Only"-Fahrspuren,
+überholte damit die ganzen Schleicher, die sich anstellen mussten und
+wir näherten uns aufgeregt der Mautstelle. Wegen eines Schildes mit der
+Aufschrift "Max 5 mph" bremste ich auf 5 Meilen pro Stunde ab. Okay,
+es können auch ein paar Meilen mehr gewesen sein. Jedenfalls sollte
+der kleine Kasten im Auto piepsen und die Mautstelle "Fastrak valid"
+anzeigen. Statt dessen piepste nichts und die Anzeige leuchtete mit
+"Call Fastrak" auf. Na servus.
+
+<pic images/bayb.ps Oben links und Mitte: Die zwei Teile der Bay Bridge, von unserem Fenster aus fotografiert.>
+
+Daheim angekommen, rief ich die kostenlose 1-800-Nummer an, aber dort
+wies nur eine automatische Ansage darauf hin, dass Anrufe nur von Montag bis
+Freitag entgegengenommen werden. Ja, wo sind wir eigentlich? Am Montag 
+rief ich nochmal an, und eine freundliche Dame teilte mir mit, dass das
+schon mal vorkäme und ich sollte es einfach "noch ein paarmal" probieren.
+Funktioniert nämlich der Transponder nicht, nimmt eine Kamera das
+Nummernschild auf und die Abbuchung erfolgt über das bei Fastrak ebenfalls
+registrierte Nummernschild.
+
+Das trat dann tatsächlich ein, einige Wochen später konnte ich auf der
+Webseite auf http://www.bayareafastrak.org 
+sehen, dass der Betrag von $4 (Fastrak-Nutzer kriegen auf
+der Golden Gate Bridge gegenüber
+Barzahlern einen Dollar Rabatt) abgebucht wurde.
+Als Angelika dann einige Zeit später über die Bay Bridge fuhr, piepste der
+Kasten anständig, und auch bei der Heimkehr von einem neuerlichen 
+Ausflug nach Marin funktionierte es tadellos. Geht halt alles
+nicht so genau in Amerika, aber letztendlich kriegen sie's schon hin.
+
+<pic images/ftf.ps Auf der Website von Fastrak kann man ablesen, wie oft man über welche Brücken gefahren ist.>
+
+@Z: Calistoga Indian Springs
+
+<pic images/isoview.ps Indian Springs>
+
+<em>(Angelika)</em>
+Fasziniert und verwundert zugleich haben uns schon mehrere Amerikaner
+nach dem deutschen Kursystem gefragt. Bezahlte Kuren empfindet der
+Amerikaner als das Tüpfelchen auf dem I des deutschen Sozialstaates.
+Die Enttäuschung folgte dann aber gleich auf dem Fuße, als ich berichtete,
+dass bezahlte Kuren im traditionellen Sinne in Deutschland schon lange am
+Aussterben sind. 
+
+Nichts desto trotz gibt es auch in Amerika so etwas wie
+Kurorte. Diese zeichnen sich meist durch besonderes Wasser aus. In
+Kalifornien findet man gleich mehrere solcher Orte, denn durch
+Kaliforniens vulkanische Geschichte bedingt sprudelt immer noch hier und
+da angenehm warmes Wasser aus Geysiren und dergleichen. Calistoga ist
+zum Beispiel so ein Ort; und er hat dabei noch den netten Vorzug,
+mitten im Weingebiet "Napa Valley" zu liegen.
+ 
+Calistoga befindet sich ungefähr 120 Kilometer nördlich von San
+Francisco. Das Städtchen hat sich seinen kalifornischen Charme bewahrt
+und verfügt über einige gute Restaurants und viele so genannte Spas
+(Einzahl: "Spa"). Ich glaube, ihr bezeichnet diese jetzt 
+neudeutsch als Wellness-Center. In denen kann
+der vom Alltag geplagte Mensch sich bei einer Massage oder
+einem Schlammbad ("Mud Bath") entspannen. Für seine
+Schlammbäder ist Calistoga nämlich berühmt. 
+
+Michael grauste es bisher davor,
+sich in den Schlamm aus vulkanischer Asche bis zum Hals
+einbuddeln zu lassen, weil der Schlamm von einem Kurgast zum
+nächsten nicht ausgewechselt wird. Etwas zartbesaitet, der Mann! 
+Ich hingegen habe schon solch ein Bad genossen, für das
+ich mich mutig in so etwas wie eine Badewanne legte und mich mit Schlamm
+zudecken ließ. Der Schlamm ist recht heiß und schon nach kurzer Zeit
+rinnt einem der Schweiß von der Stirn wie nichts Gutes. Aber das ist
+wohl der Sinn der Sache: Den Körper zu entschlacken und die Mineralien
+des Schlammes aufzunehmen.
+ 
+<pic images/isturban.ps Hadschi Halef Omar im Bademantel>
+
+Samuel Brannan eröffnete um 1860 das erste Hotel mit Spa in Calistoga,
+weil er sich ein zweites Saratoga Springs (ein berühmter Kurort im
+Staate New York) erträumte. Angeblich stammt daher der Name Calistoga,
+eine Kombination aus den Worten Kalifornien und Saratoga. Die Idee eines
+Hotels/Motels mit Spa ist natürlich genial und auch heute noch weit
+verbreitet in Calistoga. Der Gast nistet sich ins Hotel ein und braucht
+das Hotel nicht einmal für ein paar entspannende Anwendungen zu
+verlassen.
+
+Unsere Lieblingsunterkunft in Calistoga ist das "Indian Springs
+Resort", das auf dem ursprünglich von Sam Brannan erworbenen
+Gelände sitzt. Dorthin locken uns aber nicht
+die Massagen oder Schlammbäder, sondern der von der natürlich heißen
+Quelle gespeiste Swimmingpool. Der Pool hat olympische Ausmaße und seine
+Wassertemperatur schwankt je nach Jahreszeit zwischen 32 bis 39 Grad
+Celsius. 
+
+<pic images/ispoolv.ps Der schöne große heiße Pool bei Nacht>
+
+Der Geheimtipp ist, sich in den kalifornischen Wintermonaten
+(November bis Februar) ins Indian Springs einzumieten, denn dann verfügt
+Calistoga in der Regel über recht frische Nächte. Und es gibt nichts
+Besseres, als durch die kalte Nacht zum Swimmingpool zu huschen und dann
+ins warme Wasser zu gleiten, so dass gleich die Beine kribbeln wegen des
+Temperaturunterschiedes. Als Hotelgast darf man den Pool nämlich bis
+Mitternacht benutzen. Ich komme mir dann jedes Mal wie in einem
+Hitchcock-Film vor. Der Pool ist nur dürftig beleuchtet und das Wasser
+dampft. Nur ab und zu sieht man durch die Nebelschwaden die Umrisse eines
+Menschen. Schaurig-schön!
+
+<pic images/ispool.ps Angelika auf Kur>
+ 
+Allerdings ist der Spaß nicht ganz billig. Um sich in eines der kleinen
+Häuschen einzumieten, muss man das Geld schon recht locker in der Tasche
+sitzen haben, vor allen Dingen in den Sommer- und Herbstmonaten. Die noch
+ziemlich neue so genannte "Lodge" auf dem Gelände schmerzt zwar
+das Portemonnaie nicht ganz so, aber dafür gibt es in den geschmackvoll
+eingerichteten Zimmer auch keinen Kühlschrank oder gar eine Küche wie
+in den mietbaren Häuschen.
+Übrigens kann Calistoga sogar mit einem eigenen Mineralwasser aufwarten,
+das aus dem natürlichen Quellwasser gewonnen wird. Die Firma heißt auch
+Calistoga und gehört mittlerweile leider zur großen Nestle-Gruppe. Wenn
+ihr in Nordkalifornien auf Reisen seid und ein Mineralwasser bestellt,
+kann durchaus die Rückfrage kommen, ob ein Calistoga okay sei. Nun wisst
+ihr, was damit gemeint ist.
+
+@Z: Bürokratie in der Straßenverkehrsordnung
+
+<pic images/garage.ps Die Parkgarage von Yahoo>
+
+<em>(Michael)</em>
+Eines der größten Vorurteile über Amerika ist ja, dass es keine
+Bürokratie gäbe. Sobald man aber mit Behörden zu tun hat, ist das 
+Gegenteil der Fall, dort wiehert der Amtsschimmel schlimmer als
+in Deutschland. Das gilt sicher für die wahnsinnig komplizierte
+Steuererklärung, aber es gibt noch interessantere Beispiele.
+
+Wusstet ihr zum Beispiel, dass es in Kalifornien spezielle
+<LINK>http://www.dmv.ca.gov/pubs/vctop/d11/vc22456.htm|Vorschriften für fahrende Eisverkäufer</LINK> gibt? 
+Der Hintergrund: Anno 1999 rannte ein 4-jähriges Mädchen in San Bernardino 
+(bei Los Angeles) auf einen Eiswagen zu und wurde von einem vorbeibrausenden
+Auto erfasst und getötet. Zwei Jahre später unterzeichnete der damalige
+Gouverneur von Kalifornien, Gray Davis (später von Arnie Schwarzenegger 
+abgesägt) das nach dem verunglückten Mädchen "Destiny Nicole Stout 
+Memorial Act" benannte Gesetz, das spezielle Vorschriften für fahrende
+Eisverkäufer einführte. Laut Straßenverkehrsordnung darf ein
+Eismann bis heute nicht auf Straßen anhalten, auf denen Autos
+schneller als 25 Meilen/Stunde fahren. Und er muss
+großformatige Schilder mit der Aufschrift "WARNING" and "CHILDREN
+CROSSING" sowohl vorne als auch hinten am Eiswagen anbringen. Und die
+Schilder müssen mindestens 12 mal 48 Zoll (30cm x 123cm) groß sein,
+damit man sie auch von weitem lesen kann. Der 
+<LINK>http://perlmeister.com/cgi/u/21|Zeitungsbericht</LINK> zu den Straßenverkehrsordnungsänderungen erklärt noch weitere Details.
+
+Eine weitere Besonderheit ist die Anwendung der Straßenverkehrsordnung
+auf privaten Parkplätzen. Wer zum Beispiel auf dem
+Supermarktparkplatz sein Auto unverfroren auf dem Behindertenparkplatz
+abstellt, dem kann die Polizei einen Strafzettel verpassen.
+Allerdings nur, wenn am Eingang des Geländes ein Schild aufgestellt ist, 
+auf dem steht, dass auch auf dem Privatgelände die Straßenverkehrsordnung
+gilt. Das ist eine Einladung des Supermarkts an vorbeifahrende
+Politessen (die in den USA oft männlich sind), und die sonst auf
+Privatgrundstücken nichts zu suchen haben.
+
+@Z: Ycantpark
+
+Diese Verordnungen habe ich deswegen ausgegraben, da neulich auf
+dem Yahoo-Parkplatz
+ein Polizeiauto vorgefahren kam und allen Autos, die ohne
+Behindertenausweis auf Behindertenparkplätzen parkten, saftige
+Strafzettel verpasste. Die sind nicht billig, jeder kostet
+ungefähr 300 Dollar! Ich kann über diese Probleme freilich nur lachen,
+denn ich fahre so gut wie immer mit dem Fahrrad oder dem von Yahoo!
+bereitgestellten Shuttlebus zur Arbeit.
+
+Yahoo! hat in den letzten Jahren soviele Leute eingestellt, dass die
+Parkplatzsituation manchmal etwas angespannt ist. Kommt man nach 10
+Uhr morgens
+auf den Parkplatz gefahren, findet man oft keine Parklücke mehr und muss
+entweder zum Valet Parker (<RBLINK>990603#7</RBLINK>) oder auf einen etwas
+entfernteren Ausweichparkplatz. Da stößt es den Yahoos natürlich sauer auf,
+wenn einige Leute durch dummes Parken gleich zwei Parkplätze belegen und
+so durch Unachtsamkeit die Situation noch verschlimmern.
+
+<pic images/yticket.ps (#1) Yahoo!-Strafzettel für Falschparker>
+
+Im Zeitalter allzeit präsenter Handy-Kameras werden deshalb die
+Übeltäter sofort fotografiert und auf dem von Yahoo! gekauften
+Bilderdienst Flickr unter dem Tag
+<LINK>http://www.flickr.com/photos/ycantpark|"ycantpark"</LINK> im
+Internet schonungslos an den Pranger gestellt. Ein Höllenspaß! 
+Auf den internen Mailinglisten wird das dann auch oft ausgiebig diskutiert.
+Zum Beispiel sind manche Parkplätze als "Compact" ausgeschildert und
+dort sollte man nur Kleinwagen und keine Monster-SUVs abstellen, und
+falls doch, regen sich die Leute tierisch auf!
+Normalerweise kriegt man bei Parkvergehen bei Yahoo! einen hausinternen
+Strafzettel (Abbildung (#1)), der nichts kostet, aber, wie gesagt,
+neulich kam die Polizei und für viele Falschparker gab es ein böses
+Erwachen.
+
+@Z: San Francisco im Pass
+
+<pic images/pass2.ps Endlich ist San Francisco als Wohnort in meinem Pass eingetragen.>
+
+<em>Michael</em>
+Als ich vor einigen Jahren zu Besuch in Deutschland war und nach einer
+Woche wieder in die USA abdüsen wollte, fragte mich der deutsche
+Grenzbeamte, ob ich in San Francisco wohnhaft wäre. Das war recht
+naheliegend, denn Angelika war kurz zuvor durch die Ausreisekontrolle
+marschiert und in ihrem deutschen Pass stand San Francisco als Wohnort.
+
+Ich hingegen hatte zum damaligen Zeitpunkt noch keinen neuen Pass
+beantragt, da mein alter noch gültig war, und dementsprechend stand dort
+als Wohnort "München" drin. "Ja", sagte ich, "ich wohne in San 
+Francisco". Plötzlich regte sich der Zöllner auf und rief, "Das
+geht doch nicht!" und "Niemand weiß, wo Sie wohnen!". 
+
+<pic images/konsulat1.ps Das deutsche Konsulat in San Francisco>
+
+Diese beiden Sätze sind die Renner auf jeder amerikanischen Party, auf
+der ich diese Geschichte erzähle. Die Amis kriegen sich oft gar nicht
+mehr ein vor Lachen! Ich versprach jedenfalls hoch und heilig, bei
+nächster Gelegenheit einen neuen Pass mit dem korrekten Eintrag zu
+beantragen.
+
+Und das tat ich dann auch. Wohnt man außerhalb Deutschlands, ist
+für neue Pässe das deutsche Konsulat in dem Land zuständig, in dem man wohnt.
+Praktischerweise hat San Francisco ein Konsulat (übrigens neben
+Los Angeles das einzige
+an der gesamten Westküste der USA) in dem schönen Villenviertel
+"Russian Hill". Dort ging ich hin, zahlte 50 Dollar in bar (Schecks oder
+Kreditkarten wurden nicht akzeptiert), legte die Abmeldebescheinigung
+des Einwohnermeldeamtes München, sowie eine Geburts-, eine
+Heiratsurkunde und meine Greencard vor, füllte ein Formular aus 
+und bekam von der natürlich deutsch sprechenden Angestellten 
+zugesichert, dass man
+mich zuhause anrufen würde, wenn der Pass nach etwa vier Wochen 
+fertig wäre. Ich bekam nicht mal eine Quittung, aber auf deutsche Behörden
+kann man sich ja verlassen, und tatsächlich wurde ich nach Ablauf der
+Frist angerufen und konnte meinen neuen Pass abholen. Und in dem stand
+tatsächlich korrekt "San Francisco CA/USA" als Wohnort drin.
+Der Eintrag ist wichtig, wenn man in Deutschland
+mehrwertsteuerfrei einkaufen möchte, wie wir schon einmal im
+<RBLINK>20010310#6</RBLINK> beschrieben haben.
+
+Vor einigen Jahren habe ich öfter mal mit einem Mitarbeiter des Konsulats
+in San Francisco Schafkopf gespielt und deswegen weiß ich, dass dort ein
+Anrufbeantworter steht, den die Beamten sogar am Wochenende alle paar
+Stunden abhören müssen. Ist ein Deutscher in Amerika in Schwierigkeiten,
+muss das Konsulat sofort helfen. Guter Laden, das deutsche Konsulat
+in San Francisco, kann ich nur empfehlen.
+
+<em>(Angelika)</em>
+Seit neuestem hat der deutsche Pass ja biometrische Merkmale
+gespeichert, was den ganzen Spaß gleich 88 Dollar kosten lässt, wie
+ich neulich im Konsulat beim Beantragen meines neuen Passes 
+feststellen konnte. Natürlich haben die Amis an dem Firlefanz mit den
+biometrischen Daten Schuld, denn deutsche Pässe, die nach dem 25.
+Oktober 2006 ausgestellt werden, müssen die biometrischen Daten
+vorweisen, wenn man weiterhin als Deutscher ohne Touristenvisum in die
+USA einreisen will. 
+
+Für Deutsche, die die amerikanische Greencard
+besitzen, gilt diese Regel zwar nicht, aber bei neuen Passanträgen
+werden auch jetzt schon generell die biometrischen Merkmale in
+Chipform gespeichert. Da es sich bei den Merkmalen hauptsächlich um
+Gesichtsfelderkennung handelt, unterliegt das Passbild mittlerweile
+sehr strengen Richtlinien. Das Konsulat gibt gleich ein Merkblatt mit
+Beispielen heraus, wie das Bild auszusehen hat. Das Gesicht auf dem
+Passfoto darf zum Beispiel nicht kleiner als 32 mm, aber auch nicht
+größer als 36 mm sein. Ah!!! Das Foto sieht deshalb nun dermaßen
+bescheuert aus, weil außer dem Kopf nichts drauf ist. Die freundliche
+Konsulatsmitarbeiterin war dann auch etwas besorgt, weil meine Augen
+nicht haargenau auf einer Ebene sind, meinte aber, die
+Bundesdruckerrei in Berlin würde es schon akzeptieren. Ich habe
+übrigens gelesen, dass die Gesichtsfelderkennung eine ziemlich hohe
+Fehlerquote aufweist. Na, Prost Mahlzeit.
+
+Übrigens braucht man natürlich nicht gleich einen neuen Pass zu
+beantragen, wenn der Wohnort im Pass durch Umzug nicht mehr stimmt.
+Das Konsulat ändert kostenlos den Wohnort im Pass, wenn die schon
+erwähnte Abmeldebestätigung vom deutschen Einwohnermeldeamt sowie
+eine Telefon- oder Stromrechnung, 
+die die aktuelle US-Adresse zeigt, und die Greencard
+oder amerikanische Aufenthaltsgnehmigung vorgelegt wird. Ein kleines
+Formular "Wohnortänderung" ist selbstredend auch noch auszufüllen.
+
+Der Pass wird dann einfach in eine altmodische Schreibmaschine
+eingespannt und der Wohnort korrigiert. In meinem Pass stand schon
+lange San Francisco als Wohnort. Da ich ja öfter einmal nach
+Deutschland reise und dann fleißig mehrwertsteuerfrei einkaufe, war
+ich es irgendwann leid, mich mit den Zöllnern in Deutschland
+herumzustreiten, die trotz meiner Greencard und meinem kalifornischen
+Führerschein mit amerikanischer Adresse sich über den noch
+deutschen Wohnort im Pass aufregten. Ein Beamter auf dem Flughafen in
+Bremen stellte sich einmal besonders stur und meinte, da könnte ja
+jeder kommen.
+
+@Z: Pflichtkrankenkasse in Massachusetts
+
+<pic images/cc.ps Das Buch "Critical Condition" von Donald Bartlett und James Steele>
+
+<em>(Angelika)</em>
+Manchmal geschehen in diesem Land tatsächlich Sachen, die ich nie im
+Leben für möglich gehalten hätte. Anfang April beschlossen die
+Politiker (Demokraten wie Republikaner), im Bundesstaat Massachusetts
+ab Juli 2007 eine Krankenkassenplicht für ihre Bürger einzuführen.
+
+Ein historischer Moment, denn das gibt es bisher noch in keinem
+amerikanischen Bundesstaat. Da das Krankenkassendebakel in den USA
+immer schlimmer wird, die Zahl der Nicht-Versicherten steigt und die
+Kosten bei schlechten Bedingungen explodieren, beschloss Massachusetts,
+die Sache in die eigene Hand zu nehmen. Die Idee ist: Bundesstaaten
+verplichten ihre Autofahrer ja auch dazu, eine Haftpflichtversicherung
+abzuschließen, wenn sie ein Auto besitzen. Wieso sollte das anders
+sein, wenn es um die eigene Gesundheit geht? Hut ab, Massachusetts!
+Erst die Schwulenehe (<RBLINK>20040301#01</RBLINK>) 
+und nun die Pflichtkrankenkasse.
+
+Die Details hinsichtlich der Pflichtversicherung sind zwar noch nicht
+ganz ausgearbeitet, aber im Prinzip muss jeder, der sich eine
+Krankenversicherung leisten kann, eine abschließen. Bürger, die zu
+den ärmeren Bevölkerungsschichten gehören, können auf staatlich
+subventionierte Modelle zugreifen bei gleichzeitiger Erweiterung von
+Medicaid (Gesundheitsfürsorgeprogramm für einkommensschwache
+Gruppen, <RBLINK>20050319#9</RBLINK>).
+
+Viele hoffen nun, dass andere Bundesstaaten dem guten Beispiel von
+Massachusetts folgen werden. Sollte ich es doch noch erleben, dass
+irgendwann Krankenkassenplicht in ganz Amerika besteht?
+Wer von euch übrigens ein gutes Buch über den desolaten Zustand des
+amerikanischen Gesundheitssystems lesen möchte, sollte sich "Critical
+Condition" von den Jornalisten Donald Bartlett und James Steele zu
+Gemüte führen. Das Buch ist allerdings bisher nur auf Englisch
+erschienen. Im Prolog beschreiben die Autoren zum Beispiel, dass die
+Preispolitik der Krankenkassen in Amerika einem Supermarkt
+entspräche, der für eine Schachtel Cornflakes jedem Kunden einen
+anderen Preis berechnet. Ihr ahnt, dass die Autoren mehr dem liberalen
+Flügel angehören und sie eine amerikanische nationale
+Pflichtversicherung befürworten.
+
+@Z: Five-Second-Rule
+
+<pic images/schoko.ps Auf den Teppich gefallene Schokolade - Essen oder nicht?>
+
+<em>(Michael)</em>
+In unserer Reihe "bekannte amerikanische Regeln für Kinder, die in
+Deutschland niemand kennt", heute: die Five-Second-Rule 
+(Fünf-Sekunden-Regel). Fällt etwas Essbares, zum Beispiel ein
+Stück Schokolade auf den Boden, fängt die Uhr an zu ticken: Wenn
+es gelingt, das heruntergefallene Stück innerhalb von fünf Sekunden
+zu bergen, kann es bedenkenlos gegessen werden. Verstreichen mehr
+als fünf Sekunden, muss es in den Abfalleimer. Die Idee dahinter ist
+offensichtlich: Das gute Stück kann innerhalb von fünf Sekunden nicht
+genug Bakterien ansammeln, um gesundheitsschädlich zu wirken.
+
+In der Sendung Mythbusters (<RBLINK>20040301#6</RBLINK>), die wir schon einmal
+im Rundbrief besprochen haben, und die es mittlerweile sogar im deutschen
+Fernsehen auf RTL2 gibt, wurde diese Regel einmal wissenschaftlich
+untersucht. Allerdings fanden Adam Savage and Jamie Hyneman mit 
+Bakterienkulturen in Testgläsern heraus, dass es keinen Unterschied
+macht, ob ein Teil fünf Sekunden oder länger am Boden liegt. Die Anzahl der
+angesammelten Bakterien ist in beiden Fällen ungefähr gleich. Dennoch
+wird die Five-Second-Rule von vielen Kindern und sogar manchen
+Erwachsenen angewendet. Guten Appetit! Und sogar die
+<LINK>http://en.wikipedia.org/wiki/Five_second_rule|Wikipedia kennt die Five-Second-Rule</LINK>. Dort steht sogar, dass es ein deutsches
+Sprichwort "Dreck macht Speck!" gäbe, das Ähnliches bedeutet.
+Lächerlich! Und ebenfalls laut Wikipedia gilt in den Unterkünften
+amerikanischer Universitäten für die dauernd betrunkenen und damit
+langsamer reagierenden Studenten die -- ihr ahnt es -- "10-Second-Rule".
+
+@Z: Benimm-Regeln
+
+Manche Sachen haben sich in Amerika 
+seit den Zeiten des Wilden Westens
+nicht geändert: Noch immer hält der Herr der Dame die Türe auf. Das
+ist nicht nur bei hochformellen Anlässen so, sondern auch im Alltag 
+gang und gäbe. Es kommt auch häufig vor, dass der Erste in einer
+Gruppe von Leuten zum Beispiel eine Restauranttür nach außen aufzieht,
+und sie offenhält, während der Rest der Truppe hineinschreitet.
+
+Betreten ein Herr und eine Dame ein Restaurant, hält der Herr der Dame
+die Tür auf und lässt sie zuerst(!) das Lokal betreten. Diese Regel diente
+in den Zeiten des Wilden Westens dazu, dass der Herr, während die Dame durch
+die Tür trat, noch schnell hinter ihrem Rücken nachzählen konnte, ob
+er genug Geld dabei hatte, um die Dame auszuführen. Denn selbst im
+sehr modernen San Francisco gilt es als völlig unmöglich, wenn der
+Herr nicht die gesamte Rechnung für einen romantischen Zweier\-tisch übernimmt.
+
+Oder wenn man, vom Restaurant kommend, zu zweit wieder ins Auto einsteigt:
+Da sperrt der Herr zuerst der Dame von außen (!) die Beifahrertür auf,
+hält sie auf, lässt die Dame einsteigen und wirft dann die Tür zu, um
+endlich ums Auto herum zur Fahrerseite zu schreiten und selbst
+einzusteigen. Laut Freunden, die noch in der 
+Dating-(Partnersuche)-Szene aktiv sind,
+lässt sich aus dem Verhalten der Dame in dieser Situation das weitere
+Geschehen des Abends ableiten. Entriegelt sie dem Herrn die Fahrertür
+vom Beifahrersitz aus, "geht" an dem Abend "noch was". Wartet sie
+hingegen, bis der Herr die Tür seinerseits von außen mit dem Schlüssel
+aufsperrt, ist außer Spesen nichts gewesen.
+
+Will man mit jemandem ernsthaft anbandeln, geht man insgesamt 
+höchstens dreimal miteinander zum Abendessen aus. "Lunch" (Mittagessen)
+ist eher freundschaftlich, daraus lassen sich keinerlei amouröse Absichten
+ableiten, höchstens vage Sondierungsversuche.
+"Dinner and a Movie" (Abendessen und Kino) ist aber eine gängige 
+Dating-Kombination, da sollte man als Dame 
+schon die Glocken läuten hören. Wie im
+Baseball werden diese drei Abende "First Base", "Second Base" und
+"Third Base" genannt. Spätestens auf der
+<LINK>http://en.wikipedia.org/wiki/Baseball_euphemism|"Second Base"</LINK>
+muss zumindest
+leicht gekuschelt werden. Passiert nach dem dritten Mal immer noch nichts,
+wird der Vorgang abrupt abgebrochen. Aber eigentlich wird es schon als
+Zumutung empfunden, wenn eine Dame sich dreimal einladen lässt und
+sich anschließend spröde stellt. Wie kompliziert das alles ist! Ein
+Wunder, dass sich dieses Volk überhaupt fortpflanzt.
+
+@Z: Narnia-Rap und WestCoast-Rebuttal
+
+<pic images/narnia.ps Chris Parnell and Andy Samberg im Video "Lazy Sunday">
+
+Hier gibt es ja diese Fernsehsendung "Saturday Night Live", die,
+wie der Name verrät, samstagabends ausgestrahlt wird und recht
+witzig sein soll. War sie jedenfalls früher mal, zu den Zeiten
+als "Wayne's World" in eben dieser Show seinen Anfang nahm und
+schließlich ein Riesenknüller wurde.
+
+In einer neulich ausgestrahlten Folge
+erschütterte ein Lachknüller erster Ordnung die Nation:
+Zwei weiße Kommödianten führten ein Rap-Stück auf, ganz im Stil
+der schwarzen Gangsta-Rapper, aber es ging nicht um Drogen und 
+Gang-Ballereien, sondern um einen sonntagnachmittäglichen Kinobesuch 
+des Kinderfilms "Chronicles of Narnia", allerdings mit dem
+in schwarzen Gang-Kreisen üblichen Slang, entsprechenden Handgesten
+und Gangsta-Musik. 
+Ich habe
+<LINK>http://www.nbc.com/Video/videos/snl_1432_narnia.shtml|das Video "Lazy Sunday"</LINK> schon ungefähr hundertmal
+angeschaut und könnte mich immer noch jedesmal kaputtlachen.
+Der <LINK>http://www.narniafans.com/?id=682|Text zum "Narnia Rap"</LINK> ist für ungeübte Englischsprecher nicht leicht zu verstehen,
+deswegen haben ihn fleißige Leute auf dem Internet niedergeschrieben.
+Wohl wegen der Stelle 
+"Let's hit up Yahoo Maps to find the dopest route" und 
+"Google Maps is the best! True that! Double true!"
+wurde das Video intern bei Yahoo (und wohl auch bei Google) rauf
+und runtergespielt, ein Riesenlacher.
+
+Die Nachricht über das Video verbreitete sich wie in Lauffeuer im Internet
+und auch die Leute, die die Sendung "Saturday Night Live" nicht gesehen
+hatten, kamen durch Video-Share-Sites wie youtube.com in den Genuss.
+Bis die Anwälte des Fernsehsenders NBC einschritten und die Verbreitung
+verboten. Mittlerweile gibt's das Video wieder auf nbc.com, aber es
+funktioniert auf vielen Rechnern nicht richtig.
+Bei NBC arbeiten anscheinend nur Schnarchsäcke!
+
+Egal, jedenfalls löste das Video ein so genanntes Westküsten-Rebuttal
+aus. Ost- und Westküste der USA sind sich nämlich nicht grün, etwa
+so wie Ostfriesen und Bayern. Und "Rebuttal" heißt soviel wie 
+"Gegenrede". Zwei Typen aus Los Angeles riefen
+<LINK>http://youtube.com/watch?v=jTEBA768p9U|das Video "Lazy
+Monday"</LINK> ins Leben, das fast noch witziger ist! Zwei jüdische 
+Kalifornier von nebenan, die die alltäglichsten Dinge mit Gangsta-Ton
+unterlegen. Über die Szene,
+in der Adam Stein das Buch "A Brief History of Time" lässig wegwirft,
+könnte ich mich jedes Mal schlapplachen. Und die 
+Kaffeehausketten-Rabattkarte 
+"To get our 1% in!" ist so typisch kalifornisch wie die
+Bonanza-Räder oder der "Color me mine"-Laden, wo man seine eigenen
+Lehmkonstruktionen bemalen kann. Ein Lachknüller jagt den nächsten!
+Und: Leben wir nicht in einer großartigen Zeit, in der ein paar
+aufgeweckte Leute an <em>einem</em> Wochenende ohne allzuviel Zaster
+ein Rap-Video abdrehen
+und über die ganze Welt verbreiten können? Wer möchte in einer
+anderen Zeit leben!
+
+<pic images/wcr.ps Mark Feuerstein und Adam Stein in "Lazy Monday">
+
+Und der Trend geht jetzt um die Welt, "Lazy Sunday UK" gibt es schon
+in England und bald wird es wohl sowas wie 
+"Lazy Dienstag, Digger" aus Deutschland
+geben. Hier im Rundbrief hört ihr es, wie immer, zuerst!
+
+@Z: Deutscher und amerikanischer Humor
+
+<pic images/schmidt.ps Dank onlinetvrecorder.com auch in San Francisco abrufbar: Die Harald-Schmidt-Show>
+
+Deutscher Humor genießt ja international keinen guten Ruf. Gemeinhin
+wird den Deutschen jegliche Fähigkeit zum Lustigsein abgesprochen.
+Lediglich über die unfreiwillige Komik deutscher Versteiftheit amüsiert
+man sich gern. Schaut euch mal die neueste 
+<LINK>http://youtube.com/watch?v=mjgpzDJY1O0|VW-Werbung</LINK> in den USA an.
+Da tritt ein durchgeknallter Typ im weißen Kittel auf, 
+spricht englisch mit aufgesetztem deutschen Akzent und mimt 
+amerikanische Verhaltensweisen nach. Das findet der Amerikaner witzig. 
+
+Der deutsche Humor wird aber nicht nur innerhalb Europas geringgeschätzt,
+wo Holländer und Engländer gerne denken, alle Deutschen wären verbiestert,
+sondern vor allem in den USA. Dort
+werden Deutsche zwar wegen ihrer Strebsamkeit, Ausdauer und Liebe zu
+technischer Perfektion bewundert, aber niemals würde ein deutscher Komiker
+es in den USA auch nur ins Fernsehen schaffen. 
+
+Ich finde, das ist nicht gerecht. Sicher, es gibt in Deutschland eine Menge
+populärer Schnarchhumoristen, die den deutschen Ruf ruinieren. 
+Über <LINK>http://onlinetvrecorder.com|onlinetvrecorder.com</LINK> 
+kann man sich neuerdings deutsche
+Fernsehsendungen aufnehmen lassen und dann runterladen, und so kam ich
+neulich in den Genuss der Harald-Schmidt-Show. Die war so bodenlos 
+unwitzig, dass man wirklich glauben könnte, in Deutschland sei die
+Witzdürre ausgebrochen. Dagegen ist der hier als lahmarschig
+angesehene Letterman eine Lachatombombe.
+
+Aber wenn
+man sich Erzeugnisse wie die Zeitschrift "Titanic" (ich habe natürlich ein
+Auslandsabo für 95 Euro im Jahr) oder die Bücher von Max Goldt oder
+Rattelschneck ansieht, muss man sagen, dass sie auch international gut
+mithalten können und im Lachkraftvergleich oft überlegen dastehen. Die
+Titanic wird zwar seit Jahrzehnten stetig schlechter, aber Kolumnen 
+wie die "Humorkritik" von Robert Gernhard (unter dem Pseudonym Hans Mentz)
+suchen ihresgleichen immer noch vergeblich.
+
+Amerikanischer Humor ist eher auf der seichteren Seite zu finden. Ich kriege
+das auch in der Arbeit häufiger zu hören. Ihr glaubt ja nicht, wie oft die
+Episode der Simpsons am Mittagstisch zitiert wird, in der ein Haufen
+deutscher Rucksacktouristen das Haus der Simpsons bevölkern. Eines der
+beliebtesten Zitate: "Number 37 of what's wrong with America: No national
+health insurance. What is this, the age of Charlemagne?" ("Nummer 37
+der Dinge, die in den USA falsch laufen: Keine gesetzliche
+Krankenversicherung. Wo sind wir, im Zeitalter Karls des Großen?").
+
+Oder das Thema David Hasselhoff. Glaubt mir, dass der drittklassige
+Schauspieler 
+<LINK>http://de.wikipedia.org/wiki/Hasselhoff|David Hasselhoff</LINK>
+(aus der Serie "Nightrider") in den Achzigern
+in Deutschland mit "I've been Looking for Freedom" monatelang an der Spitze
+der Hitparade stand, hat den Ruf des deutschen Musikgeschmacks 
+in den USA ein für allemal ruiniert.
+David Hasselhoff ist hier in den USA eine totale
+Lachfigur. Neulich wurde in der Fernsehserie "The Office" jemand, der sein
+Hemd etwas zu aufgeknöpft trug, als "Hasselhoff" bezeichnet, und das war
+bombenlustig! Und auch bei Yahoo muss ich öfter mal Häme einstecken, wenn
+ich mal wieder von unterbelichteten amerikanischen Verhaltensweisen erzähle
+und dann jemand trocken zum Ausgleich das Thema "Hasselhoff" anschneidet.
+Ein besonders peinliches 
+<LINK>http://youtube.com/watch?v=0OJCWak3BsA|Hasselhoff-Video</LINK> 
+aus dem deutschen Fernsehen, das ein Yahoo-Kollege aus unserer 
+Mittagstischgruppe neulich herumgeschickt hat, könnt ihr euch gerne ansehen.
+Mit sowas muss ich leben! Ich bin schon geschlagen.
+
+@Z: Point Reyes
+
+<pic images/rey1.ps Point Reyes: Die Küste>
+
+<em>(Angelika)</em>
+Einer der unschlagbaren Vorzüge von San Francisco ist seine Lage. Wo
+andere Leute Urlaub machen und sich dafür stundenlang ins Flugzeug
+setzen, brausen wir in ein paar Stündchen mit dem Auto hin. Kalifornien
+zeichnet sich bekanntlich durch seine Größe und Vielfalt aus und viele
+Touristen schaffen es zeitlich nicht, von den klassischen Routen
+abzuweichen. So fahren die meisten den als Traumstraße Amerikas
+bekannten "Highway 1" von San Francisco aus in Richtung Süden die Küste
+entlang, was natürlich nicht zu verachten ist, vernachlässigen aber
+sträflich die Nordküste. Das darf meinethalben auch ruhig
+so bleiben, schließlich wollen wir bei unseren Ausflügen nicht hinter
+Autokolonnen herschleichen. Der Streckenabschnitt zwischen San Francisco
+und Eureka lässt mein Herz auf jeden Fall höher schlagen. Es gibt
+nichts Schöneres, als an einem lauschigen Sonnentag die kurvenreiche
+Strecke zu fahren und die atemberaubenden Ausblicke auf den glitzernden
+Pazifik zu genießen. Der Norden ist rauer, vielleicht auch ein wenig
+verschlafener und man trifft verstärkt die Kategorie Menschen, die ich
+gerne als Seebären bezeichne. Da fühlt sich meine norddeutsche Seele
+wohl. Seufz!
+
+<pic images/rey2.ps Point Reyes: Der Leuchtturm>
+
+Wenn ich mich nach Steilklippen sehne, nach 
+einsamen Stränden, an denen der Wind
+pfeift und die Wellen sich mit tosender Gewalt am Strand brechen,
+Wanderwegen, die zum Weinen schöne Blicke aufs Meer freigeben, dann
+machen wir uns auf nach 
+<LINK>http://www.nps.gov/pore/index.htm|Point Reyes</LINK>.
+Hinter "Point Reyes National Seashore" verbirgt sich ein
+landzungenartiges Naturschutzgebiet, das etwa 50 km nördlich 
+von San Francisco liegt und über 20 km weit in den Ozean reicht. Wir
+haben
+Point Reyes schon im Rundbrief erwähnt, meist weil wir dort oft auf
+irgendein Getier wie Schlangen oder Wale treffen. Um auf die
+Landzunge zu gelangen, muss man den Highway 1 verlassen, deshalb 
+brausen Touristen in der Regel an Point Reyes vorbei. 
+Außerdem heißt es hier: Raus
+aus dem Auto und die Wanderschuhe anziehen. Dem ehemaligen
+Präsidenten John F. Kennedy verdanken wir es, dass dieser
+Küstenstreifen im Jahr 1962 geschützt wurde.
+
+Die dramatische Landschaft ist, wie so häufig in Kalifornien,
+mit einer Erdbebenspalte eng verbunden. Das ist der San-Andreas-Graben,
+die gleiche Falte, die auch durch San Francisco läuft. Die Erde bewegt
+sich hier ständig: Die Landzunge schiebt sich jedes Jahr ca. 5
+Zentimeter weiter in Richtung Norden, immer am San-Andreas-Graben
+entlang. Vor 7 Millionen Jahren befand sich Point Reyes deshalb auch noch
+ca. 120 km weiter südlich und -- unter Wasser. Und da die pazifische und
+die nordamerikanische Platte am San-Andreas-Graben aneinander reiben, rumpelt
+es auch in Point Reyes des Öfteren. 
+
+Gerade diese Woche wurden in San
+Francisco allerlei Feierlichkeiten begangen, um an das schwere Erdbeben
+vor 100 Jahren, nämlich am 18. April 1906, zu erinnern. Die Reibung am
+San-Andreas-Graben war damals für das Erdbeben verantwortlich und ebenso
+für das "Loma Prieta" genannte Beben von 1989. 
+Ein kurzer, ganz witziger Rundweg ("Earthquake
+Trail") in der Nähe des Besucherzentrums in Point Reyes erklärt die
+Vorgänge an dieser Spalte mit dem zusätzlichen Nervenkitzel, dass sich
+der Spaziergänger praktisch auf dem San-Andreas-Graben entlang bewegt.
+Ein geteilter Zaun demonstriert, wie weit die Oberfläche durch das Beben
+1906 auseinander gerissen wurde. Mehr als 5 Meter, wie Abbildung (#5) zeigt!
+
+<pic images/rey3.ps (#5) Point Reyes: Nachbildung eines 1906 beim Erdbeben auseinander gezogenen Zauns>
+
+Für eingefleischte Leuchtturmliebhaber empfiehlt es sich,  ganz bis an
+die Spitze der Landzunge zu fahren. Der Leuchtturm sitzt
+auf dem letzten Felsen vor dem offenen Meer und ist über 300
+abwärtsführende Stufen zu erreichen. In der Walsaison gilt die Umgebung
+um den Leuchtturm herum als bester Aussichtspunkt für die
+vorbeiziehenden kalifornischen Grauwale, die Mitte Januar von Alaska 
+südwärts zur
+Baja California (Mexiko) schwimmen und Mitte März die umgekehrte Route
+nach Norden
+zurücklegen. 
+
+Wale zu beobachten ist in Point Reyes so beliebt,
+dass Besucher zwischen Ende Dezember und Mitte April 
+an Wochenenden und Feiertagen einen Bus
+vom Parkplatz am "Drakes Beach" benutzen müssen, um
+zum Leuchtturm zu gelangen. An einem Wochenende im Januar konnten Michael
+und ich uns davon überzeugen, dass das System hervorragend
+funktioniert. Wale sahen wir zwar keine, obwohl an dem Tag angeblich eine
+Handvoll gesichtet wurden, dafür aber Seeelefanten mit ihren Jungen.
+
+Und wer von der Natur genug hat oder hungrig ist, kann in den Ort "Point
+Reyes Station" ins "Station House Cafe" fahren. Das Restaurant verfügt
+über einen riesigen Garten zum Draußensitzen, der fast an einen
+Biergarten herankommt. Allerdings ist es bei schönem Wetter eine echte
+Herausforderung, draußen einen Platz zu ergattern. Und die Bedienungen
+in dem Laden sind die langsamsten von Nordamerika. Übrigens stößt man
+in der Umgebung um Point Reyes überall auf Austern auf der Speisekarte.
+Das liegt daran, dass es im Großraum Point Reyes vier Betriebe gibt, die
+Austern züchten. Frischer geht es nicht mehr!
+
+@Z: Schlangengetier
+
+<pic images/snake.ps Gefährliche Schlange! Die Rundbriefreporter in Gefahr!>
+
+<em>(Michael)</em>
+Neulich kaufte ich bei <LINK>http://rei.com|REI</LINK> in San Francisco
+neue Bergschuhe. Um sie einzulaufen, fuhren wir
+trotz etwas unbeständigen Wetters in die Marin Headlands. Nach etwa 7
+Kilometern Wanderweg, auf dem uns ein Mountain-Biker zurief, dass er
+einen Koyoten gesehen hätte, waren wir schon fast wieder am Auto angelangt.
+Im stetigen Marschschritt nahm ich plötzlich am Boden eine hektische Bewegung
+war. Eine Schlange schlängelte sich nur Zentimeter an meinen Schuhen vorbei
+über den Weg. Ich führte naturgemäß einen Bärentanz auf, der sich
+gewaschen hatte! 
+
+Angelika lachte natürlich, offensichtlich erfasste ihr
+kindliches Gemüt den Ernst der Lage nicht! Das Schlangentier entfernte sich
+danach nicht einmal, sondern lauerte weiterhin auf dem Weg herum. Mit
+dem Teleobjektiv auf der höchsten Zoom-Einstellung fotografierte ich das
+widerliche Reptil deshalb. Schaut euch mal die bunte Musterung an.
+Sicher eine Giftschlange, der Tod tritt in Sekunden ein!
+
+Nochmal davongekommen:
+
+Angelika \& Michael
