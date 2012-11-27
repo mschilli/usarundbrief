@@ -5,18 +5,18 @@ San Francisco, den 29.05.2006
 @Z: Alaska
 
 (<em>Michael</em>)
-Immer wieder haben uns Leute von Alaska vorgeschwärmt. Im Mai
-war es soweit und wir sind für fast zwei Wochen hingefahren. Alaska ist
+Immer wieder haben uns Leute von Alaska vorgeschwÃ¤rmt. Im Mai
+war es soweit und wir sind fÃ¼r fast zwei Wochen hingefahren. Alaska ist
 allerdings riesig und da das Terrain teilweise sehr unwegsam ist, haben
-wir uns auf einen klitzekleinen Ausschnitt in der Nähe von 
+wir uns auf einen klitzekleinen Ausschnitt in der NÃ¤he von 
 Anchorage konzentriert.
 
-Wie groß Alaska ist und welchen Bruchteil wir in zwei 
+Wie groÃŸ Alaska ist und welchen Bruchteil wir in zwei 
 Wochen abgedeckt haben, zeigt die
 Landkarte
 <HTMLONLY>unten</HTMLONLY><PRINTONLY>oben</PRINTONLY>. Wir sind nach
 Anchorage (A) eingeflogen, nach Kenai gefahren (K), runter nach Homer
-(H) und rüber nach Seward (S). Ruckzuck waren 700 Meilen auf dem
+(H) und rÃ¼ber nach Seward (S). Ruckzuck waren 700 Meilen auf dem
 Mietautotacho.
 
 <PRINTONLY><pic images/amap.ps Satellitenbild von Alaska und die Orte, an denen wir waren.></PRINTONLY>
@@ -61,89 +61,89 @@ function load() {
 (<em>Angelika</em>)
 Schon beim Landeanflug auf Anchorage wurde uns klar, wie menschenleer 
 Alaska ist. Aus dem Fenster schauend, sahen wir rechts nur endlose Weite: 
-keinerlei Häuser oder Straßen in Sicht. 
+keinerlei HÃ¤user oder StraÃŸen in Sicht. 
 Links lag Anchorage mit seinen 260.000 Einwohnern. Es ist
-die größte Stadt Alaskas, in der 40 Prozent der
-Gesamtbevölkerung leben. 
+die grÃ¶ÃŸte Stadt Alaskas, in der 40 Prozent der
+GesamtbevÃ¶lkerung leben. 
 
-Ganz Alaska zählt schlappe 660.000
+Ganz Alaska zÃ¤hlt schlappe 660.000
 Einwohner und -- nach meiner Rechnung -- mindestens genauso viele
-Bären. Da Alaska ja von den anderen Bundesstaaten durch Kanada
-abgetrennt ist, sprechen waschechte Einheimische übrigens von den
+BÃ¤ren. Da Alaska ja von den anderen Bundesstaaten durch Kanada
+abgetrennt ist, sprechen waschechte Einheimische Ã¼brigens von den
 "Lower 48" ("die unteren 48"), wenn sie sich auf die
 kontinentale USA beziehen. Hawaii, der weit im Ozean liegende 50.
-Bundesstaat, fällt dabei unter den Tisch. 
+Bundesstaat, fÃ¤llt dabei unter den Tisch. 
 
 <pic images/frozenlake2.ps Zugefrorener See auf der Strecke von Anchorage nach Homer> 
 
 Alaska kam (anders als zum Beispiel Kalifornien)
-übrigens nicht als Eroberungsbeute zu den USA, sondern
-wurde im Jahr 1867 von den Russen für 7,2 Millionen Dollar 
-an die Amis wie ein Grundstück verkauft.
-Der arme amerikanische Außenminister William Seward, der das Geschäft
-besiegelte, holte sich damals böse Schelte ein. Das muss damals ein Haufen
-Geld gewesen sein, das man sicher für "vernünftigere" Dinge
-ausgeben hätte wollen. Aus heutiger Sicht ist der Betrag natürlich
-lächerlich, es gibt Häuser in San Francisco, die soviel kosten. Der
-Kauf war, wie Michael mehrmals während unseres Urlaubes bemerkte,
+Ã¼brigens nicht als Eroberungsbeute zu den USA, sondern
+wurde im Jahr 1867 von den Russen fÃ¼r 7,2 Millionen Dollar 
+an die Amis wie ein GrundstÃ¼ck verkauft.
+Der arme amerikanische AuÃŸenminister William Seward, der das GeschÃ¤ft
+besiegelte, holte sich damals bÃ¶se Schelte ein. Das muss damals ein Haufen
+Geld gewesen sein, das man sicher fÃ¼r "vernÃ¼nftigere" Dinge
+ausgeben hÃ¤tte wollen. Aus heutiger Sicht ist der Betrag natÃ¼rlich
+lÃ¤cherlich, es gibt HÃ¤user in San Francisco, die soviel kosten. Der
+Kauf war, wie Michael mehrmals wÃ¤hrend unseres Urlaubes bemerkte,
 jeden Cent wert.
 
 <pic images/plane3.ps Privatflugzeuge in Anchorage>
 
-Weite Teile des Landes sind nur per Flugzeug zugänglich. Deswegen gibt
-es in Anchorage den größten Wasserflugzeughafen der Welt. Man kann
+Weite Teile des Landes sind nur per Flugzeug zugÃ¤nglich. Deswegen gibt
+es in Anchorage den grÃ¶ÃŸten Wasserflugzeughafen der Welt. Man kann
 Angeltouren in Gegenden buchen, in die man mit dem Wasserflugzeug hinfliegt,
 ein paar Stunden angelt und dann mit hoffentlich fetter Beute wieder
-zurückfliegt.
+zurÃ¼ckfliegt.
 
 Bei einem Land, in dem im Schnitt 7 Monate im Jahr winterliche
 Temperaturen herrschen, verbunden mit nur wenigen Stunden Tageslicht,
 konzentriert sich der Tourismus auf die Sommermonate Juni
-bis August. Das führt dann in den leichter erreichbaren Gegenden in
+bis August. Das fÃ¼hrt dann in den leichter erreichbaren Gegenden in
 Alaska zu einer Touristenschwemme, die der Alaska-Tourist in der Regel
 tunlichst vermeiden will. 
 
 Die von uns besuchte Kenai-Peninsula 
-sollen die Wohnmobile im Sommer zum Beispiel schlicht erdrücken. Da die
+sollen die Wohnmobile im Sommer zum Beispiel schlicht erdrÃ¼cken. Da die
 Gegend aber auch schon im Mai bereisbar ist, beschlossen wir, dem
-vielleicht noch etwas unbeständigerem Wetter zu trotzen. Ein
-goldrichtige Entscheidung. Es waren nämlich kaum Touristen unterwegs, und
-alle zeigten sich erfreut, uns zu sehen und hielten so manches längere
-Schwätzchen mit uns. Das Wetter zeigte sich am Anfang zwar noch von
-seiner etwas kühleren Seite, was Michael doch tatsächlich zu einem
-Mützenkauf verführte, vermutlich der ersten seit Kindertagen. Aber
+vielleicht noch etwas unbestÃ¤ndigerem Wetter zu trotzen. Ein
+goldrichtige Entscheidung. Es waren nÃ¤mlich kaum Touristen unterwegs, und
+alle zeigten sich erfreut, uns zu sehen und hielten so manches lÃ¤ngere
+SchwÃ¤tzchen mit uns. Das Wetter zeigte sich am Anfang zwar noch von
+seiner etwas kÃ¼hleren Seite, was Michael doch tatsÃ¤chlich zu einem
+MÃ¼tzenkauf verfÃ¼hrte, vermutlich der ersten seit Kindertagen. Aber
 dann strahlte die Sonne sogar vom Himmel. Hurra!
 
 <pic images/rv.ps Wohnmobil in Homer> 
 
 (<em>Michael</em>)
-Wegen des langen und harten Winters sind die Alaskaner im Frühjahr
-überglücklich und rennen beim ersten Sonnenstrahl (aber immer noch 5
-Grad Kälte) im T-Shirt und kurzen Hosen auf der Straße herum. Die
+Wegen des langen und harten Winters sind die Alaskaner im FrÃ¼hjahr
+Ã¼berglÃ¼cklich und rennen beim ersten Sonnenstrahl (aber immer noch 5
+Grad KÃ¤lte) im T-Shirt und kurzen Hosen auf der StraÃŸe herum. Die
 beste Reisezeit ist in vielen Gegenden im Mai oder im September. 
 Dann ist es zwar teilweise
-noch (oder schon wieder) etwas kalt, aber es gibt weder Mücken-
-noch Touristenschwärme.
+noch (oder schon wieder) etwas kalt, aber es gibt weder MÃ¼cken-
+noch TouristenschwÃ¤rme.
 
-<pic images/anch2.ps Keine Weltstadt, aber die Leute gehen bis spät in die Nacht aus: Anchorage> 
+<pic images/anch2.ps Keine Weltstadt, aber die Leute gehen bis spÃ¤t in die Nacht aus: Anchorage> 
 
 Im Mai geht in Alaska die Sonne um 5:30 auf, aber erst um 22:30 unter.
 Und danach bleibt es noch mindestens eine Stunde hell.
-Das ist toll für Urlauber, denn man kann noch bis spät abends
+Das ist toll fÃ¼r Urlauber, denn man kann noch bis spÃ¤t abends
 wandern, ohne Angst, den Wanderweg wegen hereinbrechender Dunkelheit nicht
-beenden zu können. Auch gehen die Leute in Alaska sehr spät essen.
+beenden zu kÃ¶nnen. Auch gehen die Leute in Alaska sehr spÃ¤t essen.
 Es ist keine Seltenheit, dass man in Anchorage um zehn Uhr abends noch
-volle Restaurants sieht, während dies in San Francisco eher die
+volle Restaurants sieht, wÃ¤hrend dies in San Francisco eher die
 Ausnahme ist.
 
 (<em>Angelika</em>)
 Anchorage ist eine aus dem Boden gestampfte typisch amerikanische Stadt.
-Neben der schönen Lage und einigen wirklich guten Restaurants kann die
+Neben der schÃ¶nen Lage und einigen wirklich guten Restaurants kann die
 Stadt mit einem super Fahrradweg aufwarten, dem "Tony Knowles Coastal
-Trail". Er ist 11 Meilen lang (etwa 17 Kilometer), führt immer am
+Trail". Er ist 11 Meilen lang (etwa 17 Kilometer), fÃ¼hrt immer am
 Wasser entlang und ist gut von jeglichem Autoverkehr abgeschirmt.
-<LINK>http://en.wikipedia.org/wiki/Tony_Knowles_%28politician%29|Tony Knowles</LINK> ist übrigens nicht, wie Michael vermutet hatte, ein
-berühmter Skateboarder 
+<LINK>http://en.wikipedia.org/wiki/Tony_Knowles_%28politician%29|Tony Knowles</LINK> ist Ã¼brigens nicht, wie Michael vermutet hatte, ein
+berÃ¼hmter Skateboarder 
 (vgl. <LINK>http://en.wikipedia.org/wiki/Tony_hawk|Tony Hawk</LINK>),
 sondern ein ehemaliger Gouverneur von Alaska.
 
@@ -152,10 +152,10 @@ sondern ein ehemaliger Gouverneur von Alaska.
 Also liehen Michael und ich uns jeder ein Fahrrad aus und strampelten in
 die Pedale. Der Fahrradladenmann hatte uns dann gleich noch eine Route
 beschrieben, die das Ganze zu einem, zwar weiteren Rundweg machte, aber
-dafür fuhren wir dann auch noch an dem riesigen Flugplatz für
-Kleinflugzeuge vorbei. Hut ab, über dieses erstaunlich gute Netz von
-Fahrradwegen, das wir übrigens neben Anchorage sogar in der viel
-kleineren Stadt Homer fanden. Wer hätte das in Alaska vermutet?
+dafÃ¼r fuhren wir dann auch noch an dem riesigen Flugplatz fÃ¼r
+Kleinflugzeuge vorbei. Hut ab, Ã¼ber dieses erstaunlich gute Netz von
+Fahrradwegen, das wir Ã¼brigens neben Anchorage sogar in der viel
+kleineren Stadt Homer fanden. Wer hÃ¤tte das in Alaska vermutet?
 
 @Z: Kajak im Eismeer
 
@@ -165,42 +165,42 @@ kleineren Stadt Homer fanden. Wer hätte das in Alaska vermutet?
 Um das Eismeer hautnah zu erleben, buchten wir in Homer eine
 Kajaktour, an der auch noch ein weiteres Urlauberpaar aus dem
 Bundesstaat Arizona teilnahm. Angelika und ich
-bekamen einen Doppelkajak, mit zwei Einstiegslöchern. Angelika saß
+bekamen einen Doppelkajak, mit zwei EinstiegslÃ¶chern. Angelika saÃŸ
 vorne und ich hinten am Ruder, jeder erhielt ein Doppelpaddel. Jeder
-musste ein Kleidungsstück anziehen, das wie das Tutu einer Ballerina
-aussah. Dieses Röckchen aus wasserdichtem Neopren spannt man nach dem
-(vorsichtigen) Einsteigen im Wasser übers Einstiegsloch, damit beim
+musste ein KleidungsstÃ¼ck anziehen, das wie das Tutu einer Ballerina
+aussah. Dieses RÃ¶ckchen aus wasserdichtem Neopren spannt man nach dem
+(vorsichtigen) Einsteigen im Wasser Ã¼bers Einstiegsloch, damit beim
 Rudern von oben kein Wasser ins Kajakinnere hineinspritzt.
 
 Kippt ein Kajak im eiskalten Wasser um und beide Ruderer zeigen
-plötzlich mit dem Kopf nach unten, muss man möglichst schnell
+plÃ¶tzlich mit dem Kopf nach unten, muss man mÃ¶glichst schnell
 aussteigen, indem man an einer Schlaufe zieht, die das
-Plastikröckchen vom Einstiegsloch ablöst. Dann kommt der
-Kajakführer angepaddelt, hilft, das Boot zu drehen und zu
-stabilisieren, damit man wieder vorsichtig zurück ins vollgelaufene
+PlastikrÃ¶ckchen vom Einstiegsloch ablÃ¶st. Dann kommt der
+KajakfÃ¼hrer angepaddelt, hilft, das Boot zu drehen und zu
+stabilisieren, damit man wieder vorsichtig zurÃ¼ck ins vollgelaufene
 Boot steigen kann. Mit einer Handpumpe muss man dann an Ort und Stelle
-das Wasser rauspumpen. Das ist in 5 Grad kaltem Wasser natürlich
+das Wasser rauspumpen. Das ist in 5 Grad kaltem Wasser natÃ¼rlich
 etwas nervig. Dann wird an Land gepaddelt und man muss die nassen
-Klamotten aus- und einen lächerlich gemusterten trockenen Overall
-anziehen, den der Kajakführer für solche Notfälle bereithält.
+Klamotten aus- und einen lÃ¤cherlich gemusterten trockenen Overall
+anziehen, den der KajakfÃ¼hrer fÃ¼r solche NotfÃ¤lle bereithÃ¤lt.
 Angeblich muss man damit dann auch noch in die Kneipe, in der eine so
-jäh abgebrochene Tour begossen wird! Laut unserer Führerin, die
-schon viele Jahre Touren fährt, ist dies unter ihrer Leitung bislang
-exakt sieben Mal passiert, meist mit übermütigen Teenagern. Zum
-Glück blieben wir von solchen Notmanövern verschont, denn das Meer
+jÃ¤h abgebrochene Tour begossen wird! Laut unserer FÃ¼hrerin, die
+schon viele Jahre Touren fÃ¤hrt, ist dies unter ihrer Leitung bislang
+exakt sieben Mal passiert, meist mit Ã¼bermÃ¼tigen Teenagern. Zum
+GlÃ¼ck blieben wir von solchen NotmanÃ¶vern verschont, denn das Meer
 war gut gelaunt und ruhig an diesem Tag.
 
-<pic images/kayak3.ps Links die Kajakführerin, rechts die anderen Teilnehmer der Kajaktour> 
-<pic images/vulcano.ps Der Vulkan "Augustine" pufft in der Nähe von Homer vor sich hin.>
+<pic images/kayak3.ps Links die KajakfÃ¼hrerin, rechts die anderen Teilnehmer der Kajaktour> 
+<pic images/vulcano.ps Der Vulkan "Augustine" pufft in der NÃ¤he von Homer vor sich hin.>
 
-Da drängt sich natürlich die Frage auf: Wie kamen die Kajakbilder
+Da drÃ¤ngt sich natÃ¼rlich die Frage auf: Wie kamen die Kajakbilder
 zustande? Oder: Wie cool muss jemand sein, um eine Nikon D-70 in
 einen Plastikbeutel zu stecken, auf einen Kajak zu schnallen, und dann
-auf dem Meer herauszuziehen und auf dem wackeligen Bötchen damit zu
-fotografieren? Antwort: Ziemlich cool, der Urlaub hätte ruckzuck um
-einiges teurer werden können.
+auf dem Meer herauszuziehen und auf dem wackeligen BÃ¶tchen damit zu
+fotografieren? Antwort: Ziemlich cool, der Urlaub hÃ¤tte ruckzuck um
+einiges teurer werden kÃ¶nnen.
 
-<pic images/otter.ps Der kleine Seeotter scheint das eiskalte Wasser zu mögen.>
+<pic images/otter.ps Der kleine Seeotter scheint das eiskalte Wasser zu mÃ¶gen.>
 <pic images/otter3a.ps So nahe kann man mit dem Kajak an die Otter ranfahren.>
 
 @Z: Fischfang
@@ -216,130 +216,130 @@ der meistgefangene Fisch der
 <LINK>http://en.wikipedia.org/wiki/Pollock|Pollock</LINK>
 (deutsch: <LINK>http://de.wikipedia.org/wiki/Seelachs|Seelachs</LINK>),
 ein unscheinbarer, relativ kleiner 
-Meeresbewohner, aus dem Fischstäbchen und die Fischmäcs von 
+Meeresbewohner, aus dem FischstÃ¤bchen und die FischmÃ¤cs von 
 McDonalds hergestellt werden.
 
 <pic images/kcrab.ps Eine "King Crab" im Aquarium von Seward> 
 
-Der Ort Seward ist einer der größten Umschlagplätze für
+Der Ort Seward ist einer der grÃ¶ÃŸten UmschlagplÃ¤tze fÃ¼r
 Frischfisch, da kommen die Fischerboote mit ihrem Fang an,
-Hafenarbeiter verpacken die zum Teil abenteuerlich großen Geräte in
+Hafenarbeiter verpacken die zum Teil abenteuerlich groÃŸen GerÃ¤te in
 Boxen, verladen sie schnell auf schon bereitstehende Lastwagen und
 ab geht die Post.
 Kurioserweise verbleibt kaum Ware
 im Ort. Nur ein winzig kleiner Laden verkaufte Frischfisch, und wir
 mussten lange herumfragen, bis wir ihn fanden. Als wir aus Versehen 
-durch die Hintertür eintraten, sah ich eine Kiste mit Heringen
-und jubelte schon, denn Heringe sind in den USA (außer bei Ikea) 
+durch die HintertÃ¼r eintraten, sah ich eine Kiste mit Heringen
+und jubelte schon, denn Heringe sind in den USA (auÃŸer bei Ikea) 
 ziemlich schwer 
 zu bekommen. Ein
 brummeliger Fischersmann wies mich allerdings darauf hin, dass die
-Heringe in dem Trog nicht für den menschlichen Genuss geeignet seien, 
-sondern als "Bait" (Köder) dienten, um größere Fische zu fangen!
-Wir kauften Heilbuttbäckchen (die fetten Backen der Flachfische) und
+Heringe in dem Trog nicht fÃ¼r den menschlichen Genuss geeignet seien, 
+sondern als "Bait" (KÃ¶der) dienten, um grÃ¶ÃŸere Fische zu fangen!
+Wir kauften HeilbuttbÃ¤ckchen (die fetten Backen der Flachfische) und
 ein paar "King Crab Legs", 45 Zentimeter lange fleischige
-Krabbenbeine. Die Hütte, in der wir abhingen, hatte einen Gasgrill,
-auf dem ich die Leckereien nicht etwa verkochen ließ (wie das leider in
+Krabbenbeine. Die HÃ¼tte, in der wir abhingen, hatte einen Gasgrill,
+auf dem ich die Leckereien nicht etwa verkochen lieÃŸ (wie das leider in
 vielen amerikanischen Restaurants geschieht), sondern meisterhaft
-zubereitete. Das Ganze war zwar ziemlich teuer ($50 für den Fisch),
+zubereitete. Das Ganze war zwar ziemlich teuer ($50 fÃ¼r den Fisch),
 aber sehr lecker.
 
 @Z: Homesteading in der Wildnis
 
-<pic images/blhouse.ps Häuser bei Homer, Alaska> 
+<pic images/blhouse.ps HÃ¤user bei Homer, Alaska> 
 
 (<em>Angelika</em>)
-Als wir mit unseren Kajaks in den Gewässern der "Katchemak Bay"
+Als wir mit unseren Kajaks in den GewÃ¤ssern der "Katchemak Bay"
 herumpaddelten, fiel uns auf, dass hier und da kleine, recht rustikale
-Hütten hinter den Bäumen auftauchten. Wir dachten natürlich sofort an
-Sommerhäuschen, lernten aber von unserer Kajakführerin Alison, dass
-einige davon ursprünglich im Zuge des so genannten
+HÃ¼tten hinter den BÃ¤umen auftauchten. Wir dachten natÃ¼rlich sofort an
+SommerhÃ¤uschen, lernten aber von unserer KajakfÃ¼hrerin Alison, dass
+einige davon ursprÃ¼nglich im Zuge des so genannten
 "Homesteading" gebaut wurden. 
 
 Um den Westen Amerikas zu
-besiedeln, beschloss nämlich der amerikanische Kongress unter Präsident
+besiedeln, beschloss nÃ¤mlich der amerikanische Kongress unter PrÃ¤sident
 Abraham Lincoln im Jahre 1862, dass jeder Amerikaner, 
 der mindestens 21 Jahre alt
-war, 160 "Acres" (etwa 64 Hektar) Land gegen eine Gebühr von 18
+war, 160 "Acres" (etwa 64 Hektar) Land gegen eine GebÃ¼hr von 18
 Dollar bestellen durfte. Ziel war es, den Boden nutzbar zu machen. Nach
-fünf Jahren konnte der Siedler das Land sein eigen nennen. Er musste nur
-nachweisen, dass er auf dem Land lebte, eine Hütte hingestellt hatte und
+fÃ¼nf Jahren konnte der Siedler das Land sein eigen nennen. Er musste nur
+nachweisen, dass er auf dem Land lebte, eine HÃ¼tte hingestellt hatte und
 das Land beackerte. 
 
 <pic images/dog1.ps Hund in Homer> 
 
-Das Programm wurde 1976 endgültig eingestampft, nur
-Alaska erhielt eine Verlängerung bis 1986. Trotz dieser großzügigen
+Das Programm wurde 1976 endgÃ¼ltig eingestampft, nur
+Alaska erhielt eine VerlÃ¤ngerung bis 1986. Trotz dieser groÃŸzÃ¼gigen
 Landvergabe sind nur 1% des Landes in Alaska in Privatbesitz. 
-60% gehören Vater Staat (z.B. die Nationalparks), 20% dem Bundestaat
-Alaska und der Rest wurde 1971 an die Ureinwohner zurück gegeben.
+60% gehÃ¶ren Vater Staat (z.B. die Nationalparks), 20% dem Bundestaat
+Alaska und der Rest wurde 1971 an die Ureinwohner zurÃ¼ck gegeben.
 
 Uns fiel auf, dass die
-vereinzelten Häuslein am Rande der Landstraßen alle eines
-gemeinsam haben: Auf dem Grundstück ums Haus herum sieht's aus wie bei
-Hempels unterm Sofa. Verschrottete Autos, alte Kühlschränke und
-Waschmaschinen. Man gewinnt den Eindruck, als wäre es üblich, ein
-Ersatzteillager im Garten anzulegen, wenn man ein neues Gerät oder
-Gefährt erwirbt.
+vereinzelten HÃ¤uslein am Rande der LandstraÃŸen alle eines
+gemeinsam haben: Auf dem GrundstÃ¼ck ums Haus herum sieht's aus wie bei
+Hempels unterm Sofa. Verschrottete Autos, alte KÃ¼hlschrÃ¤nke und
+Waschmaschinen. Man gewinnt den Eindruck, als wÃ¤re es Ã¼blich, ein
+Ersatzteillager im Garten anzulegen, wenn man ein neues GerÃ¤t oder
+GefÃ¤hrt erwirbt.
 
-<HTMLONLY><pic images/yard.ps Gerümpel rund ums Haus (in Homer)></HTMLONLY>
-<pic images/yard1.ps Gerümpel rund ums Haus (in Ninilchik)> 
+<HTMLONLY><pic images/yard.ps GerÃ¼mpel rund ums Haus (in Homer)></HTMLONLY>
+<pic images/yard1.ps GerÃ¼mpel rund ums Haus (in Ninilchik)> 
 
 Leider ist auch Alaska in den besiedelteren Gebieten nicht vom
 obligatorischen "McDonald's", "Safeway" und "Starbucks" 
 verschont geblieben. Selbst dem ungebrochenen
 amerikanischen Willen, auch in die noch so atemberaubenste Landschaft ein
-hässliches Einkaufszentrum zu setzen, konnte es nichts entgegensetzen.
+hÃ¤ssliches Einkaufszentrum zu setzen, konnte es nichts entgegensetzen.
 
 Auf der anderen Seite trifft man
 wie in wohl keinem anderen amerikanischen Bundesstaat Individualisten,
 die sich ihren Traum vom Leben in der letzten Wildnis
 verwirklichen wollen.
 Alaska hat ja deshalb auch den Beinamen "Last Frontier". Unsere
-Kajakführerin Alison stammte zum Beispiel aus New York City und lebt
-jetzt etwas abseits von Homer in einem Haus ohne fließend Wasser, das
-nur über einen halbstündigen Fußmarsch zu erreichen ist. 
+KajakfÃ¼hrerin Alison stammte zum Beispiel aus New York City und lebt
+jetzt etwas abseits von Homer in einem Haus ohne flieÃŸend Wasser, das
+nur Ã¼ber einen halbstÃ¼ndigen FuÃŸmarsch zu erreichen ist. 
 Auf unserer
-Kajaktour fragten wir sie dann auch, was für sie Urlaub bedeute, da
+Kajaktour fragten wir sie dann auch, was fÃ¼r sie Urlaub bedeute, da
 sie ja schon das beruflich macht, was andere als Abenteuer in ihren
 Ferien suchen. Sie antwortete, dass sie sich gerne 
 in ein gutes Hotel in Anchorage einmietet, um ein Vollbad zu nehmen.
 
-<pic images/shackv.ps Die Schlafzimmeraussicht von unserem Häuschen in Homer> 
+<pic images/shackv.ps Die Schlafzimmeraussicht von unserem HÃ¤uschen in Homer> 
 
-Eine weitere interessante Geschichte hörten wir
-von der Vermieterin unseres Häuschens in Seward: Sie arbeitete vor
-vielen Jahren in einem Süßwarengeschäft in New York City und stieß
+Eine weitere interessante Geschichte hÃ¶rten wir
+von der Vermieterin unseres HÃ¤uschens in Seward: Sie arbeitete vor
+vielen Jahren in einem SÃ¼ÃŸwarengeschÃ¤ft in New York City und stieÃŸ
 dort auf eine Postkarte, die Alaska zeigte. Sie sagte, dass ihr
-von diesem Zeitpunkt an klar gewesen sei, dass sie einmal dort leben würde. 
+von diesem Zeitpunkt an klar gewesen sei, dass sie einmal dort leben wÃ¼rde. 
 Nach der Trennung von
 ihrem ersten Mann packte sie ihre Sachen und fuhr mit ihrem Hund im
-Gepäck die Straßen Alaskas ab. Die Umgebung um Seward gefiel ihr
+GepÃ¤ck die StraÃŸen Alaskas ab. Die Umgebung um Seward gefiel ihr
 gleich und so beschloss sie, ihre private Altersvorsorge (den so
 genannten 401k (siehe <RBLINK>20030801#6</RBLINK>) schon 
 vor der Rente anzugreifen, sich davon Land zu
-kaufen und Blockhütten, die sie nun an Touristen vermietet, darauf zu
-setzen. Der Mann, der ihr die Hütten baute, wurde dabei gleich
+kaufen und BlockhÃ¼tten, die sie nun an Touristen vermietet, darauf zu
+setzen. Der Mann, der ihr die HÃ¼tten baute, wurde dabei gleich
 auch noch ihre neue Liebe. Als sie damals mit Sack und Pack nach Alaska zog,
-war sie übrigens schon jenseits der 40! Nur in Amerika.
+war sie Ã¼brigens schon jenseits der 40! Nur in Amerika.
 
 <pic images/atv.ps Junger Bursch vertreibt sich die Zeit mit einem All Terrain Vehicle (ATV).> 
 
-Allerdings können romantische Vorstellungen über die Wildnis Alaskas
-durchaus auch zur Katastrophe führen. So gibt es wohl immer wieder
+Allerdings kÃ¶nnen romantische Vorstellungen Ã¼ber die Wildnis Alaskas
+durchaus auch zur Katastrophe fÃ¼hren. So gibt es wohl immer wieder
 Leute, die vom Robinson-Crusoe-Syndrom befallen werden und meinen, dass
 ein Einsiedlerleben jenseits jeglicher Zivilisation in der Pampa
-einfach zu bewerkstelligen wäre.
+einfach zu bewerkstelligen wÃ¤re.
 
 Die meisten Einheimischen in Alaska halten diese
-Typen eher für verrückt und sind nicht gut auf sie zu sprechen.
-Wer zu diesem Thema ein sehr interessantes Buch lesen möchte,
-sollte sich "Into the Wild" von Jon Krakauer zu Gemüte führen.
+Typen eher fÃ¼r verrÃ¼ckt und sind nicht gut auf sie zu sprechen.
+Wer zu diesem Thema ein sehr interessantes Buch lesen mÃ¶chte,
+sollte sich "Into the Wild" von Jon Krakauer zu GemÃ¼te fÃ¼hren.
 Der deutsche Titel des Buches ist 
 <LINK>http://www.amazon.de/exec/obidos/ASIN/3492247296/perlmeistercom04|"In die Wildnis. Allein nach Alaska"</LINK>.
-Krakauer erzählt die wahre Geschichte des Christopher McCandless,
+Krakauer erzÃ¤hlt die wahre Geschichte des Christopher McCandless,
 der 1992 allein in die Wildnis Alaskas wandert und dessen Leiche nach
-einigen Monaten von Jägern gefunden wurde.
+einigen Monaten von JÃ¤gern gefunden wurde.
 
 @Z: Bushlines
 
@@ -350,50 +350,50 @@ zuzuspielen, gibt es die so genannten "Bushlines", Textzeilen ("lines"), die
 der Rundfunkmoderator eines lokalen Mittelwellen-Senders ein paarmal
 am Tag jeweils zur vollen Stunde in den "Bush" (also die Pampa) durchgibt.
 
-Damit auch persönliche Nachrichten und heiße Liebesschwüre durch
-den Äther gehen können, ohne dass gleich die halbe Welt davon weiß, haben
-viele Empfänger Code-Namen. Es ist angeblich ein beliebter Volkssport,
-den Bushlines zuzuhören und zu raten, wer da wieder mal mit wem
+Damit auch persÃ¶nliche Nachrichten und heiÃŸe LiebesschwÃ¼re durch
+den Ã„ther gehen kÃ¶nnen, ohne dass gleich die halbe Welt davon weiÃŸ, haben
+viele EmpfÃ¤nger Code-Namen. Es ist angeblich ein beliebter Volkssport,
+den Bushlines zuzuhÃ¶ren und zu raten, wer da wieder mal mit wem
 anbandelt. Exklusiv im Rundbrief stellen wir euch eine 
-aktuelle <LINK>http://usarundbrief.com/61/images/bushlines.mp3|Radio-Aufnahme der Bushlines</LINK> vor. Wie ihr euch überzeugen könnt, nutzen manche
-den Service wohl aus Nostalgiegründen -- wenn jemand eine Internet-URL 
-durchgibt, ist es wohl offensichtlich, dass der Empfänger auch
+aktuelle <LINK>http://usarundbrief.com/61/images/bushlines.mp3|Radio-Aufnahme der Bushlines</LINK> vor. Wie ihr euch Ã¼berzeugen kÃ¶nnt, nutzen manche
+den Service wohl aus NostalgiegrÃ¼nden -- wenn jemand eine Internet-URL 
+durchgibt, ist es wohl offensichtlich, dass der EmpfÃ¤nger auch
 ein Telefon hat, oder?
 
 @Z: Alaska Permanent Fund
  
-<pic images/puffins.ps Die süßen Puffins> 
+<pic images/puffins.ps Die sÃ¼ÃŸen Puffins> 
 
 (<em>Angelika</em>)
 Jeder, der mindestens ein Jahr lang in Alaska gelebt hat, bekommt Geld
-dafür. Der "Alaska Permanent Fund" macht
-es möglich. Er zahlt nämlich jährlich eine Dividende an die Bewohner
+dafÃ¼r. Der "Alaska Permanent Fund" macht
+es mÃ¶glich. Er zahlt nÃ¤mlich jÃ¤hrlich eine Dividende an die Bewohner
 Alaskas, egal welchen Alters, aus. 
 
 Der Hintergrund: 1976 wurde per Volksentscheid die
-Verfassung Alaskas dahingehend geändert, dass 25% der staatlichen Erlöse
-aus dem Abbau von Bodenschätzen (in Alaska ist das hauptsächlich Öl) in
+Verfassung Alaskas dahingehend geÃ¤ndert, dass 25% der staatlichen ErlÃ¶se
+aus dem Abbau von BodenschÃ¤tzen (in Alaska ist das hauptsÃ¤chlich Ã–l) in
 einen Fond 
-eingezahlt und investiert werden müssen. In dem Fond befinden
-sich mittlerweile 33 Milliarden Dollar. Nach der Höhe der Rendite
-richtet sich der Betrag der jährlich ausgeschütteten 
+eingezahlt und investiert werden mÃ¼ssen. In dem Fond befinden
+sich mittlerweile 33 Milliarden Dollar. Nach der HÃ¶he der Rendite
+richtet sich der Betrag der jÃ¤hrlich ausgeschÃ¼tteten 
 Dividende. Im Schnitt sind es
-600 bis 1500 Dollar pro Person. Das Jahr 2000 schoß aber bisher den
+600 bis 1500 Dollar pro Person. Das Jahr 2000 schoÃŸ aber bisher den
 Vogel ab. Es gab fast 2000 Dollar pro Kopf!
  
 Politiker versuchen immer wieder durchzusetzen, den Fond anders zu
-nutzen, d.h. anstatt das Geld an jeden auszuzahlen, es für kommunale
-Zwecke wie die Finanzierung von Schulen und Krankenhäusern zu verwenden.
-Das mag die Bevölkerung aber so gar nicht. Die Einheimischen erzählten
+nutzen, d.h. anstatt das Geld an jeden auszuzahlen, es fÃ¼r kommunale
+Zwecke wie die Finanzierung von Schulen und KrankenhÃ¤usern zu verwenden.
+Das mag die BevÃ¶lkerung aber so gar nicht. Die Einheimischen erzÃ¤hlten
 uns: Kommt ein Politiker mit dieser unbeliebten Idee im Wahlkampf daher,
-zahlt er an den Wahlurnen bitter dafür.
+zahlt er an den Wahlurnen bitter dafÃ¼r.
  
-Mit dem Öl ist in Alaska allerdings nicht mehr das große Geld zu
-machen, denn die Ölfelder an der Prudhoe Bay trocknen aus. Bush und
+Mit dem Ã–l ist in Alaska allerdings nicht mehr das groÃŸe Geld zu
+machen, denn die Ã–lfelder an der Prudhoe Bay trocknen aus. Bush und
 Konsorten sowie so mancher Politiker in Alaska wollen allerdings das
 einzigartige Naturschutzgebiet "Arctic National Wildlife Refuge"
-hoch im Norden Alaskas zum Ölbohren freigeben. Bisher sind die
-Vorstöße durch mancherlei politische Klimmzüge aber Gott sei Dank
+hoch im Norden Alaskas zum Ã–lbohren freigeben. Bisher sind die
+VorstÃ¶ÃŸe durch mancherlei politische KlimmzÃ¼ge aber Gott sei Dank
 gescheitert.
 
 @Z: Gletschertouren
@@ -402,16 +402,16 @@ gescheitert.
 
 (<em>Angelika</em>)
 In Alaska ist der Weg wirklich das Ziel, denn vielfach stellt es die
-eigentliche Herausforderung dar, zunächst irgendwo hinzukommen. Es gibt
-nur wenig Straßen in Alaska und kleine Flugzeuge, wie z.B. die netten
-Wasserflugzeuge und Boote sowie Fähren, erweisen sich als das
-Transportmittel der Wahl. Im Reiseführer las ich auch, dass nur wenige
+eigentliche Herausforderung dar, zunÃ¤chst irgendwo hinzukommen. Es gibt
+nur wenig StraÃŸen in Alaska und kleine Flugzeuge, wie z.B. die netten
+Wasserflugzeuge und Boote sowie FÃ¤hren, erweisen sich als das
+Transportmittel der Wahl. Im ReisefÃ¼hrer las ich auch, dass nur wenige
 Gebiete in Alaska gut beschilderte Wanderwege haben. In unserer Ecke sei
 die Beschilderung aber vorbildlich. Hmm! Problematisch wird es nur, wenn
-der Winterschnee die Schilder und Bäume umhaut und der Trupp der
+der Winterschnee die Schilder und BÃ¤ume umhaut und der Trupp der
 Freiwilligen vor der Sommersaison noch nicht aufgebrochen ist, um den
-Wanderweg aufzuräumen. Auch scheint man in Alaska Unwegsamkeiten etwas
-anders einzuschätzen.
+Wanderweg aufzurÃ¤umen. Auch scheint man in Alaska Unwegsamkeiten etwas
+anders einzuschÃ¤tzen.
 
 <pic images/two.ps Auf dem Wassertaxi> 
 
@@ -419,121 +419,121 @@ So wollten wir von Homer aus den "Glacier Lake Trail"
 (Gletschersee-Wanderweg) im Kachemak Bay State Park laufen. Dazu mussten
 wir allerdings erst ein Wassertaxi (sprich Boot) mieten, das uns von
 Homer aus auf die andere Seite der Bucht brachte, um uns am Anfang des
-Weges abzusetzen und fünf Stunden später am Ende des Rundweges in einer
+Weges abzusetzen und fÃ¼nf Stunden spÃ¤ter am Ende des Rundweges in einer
 anderen kleinen Bucht wieder abzuholen. 
 
 Die Wassertaxis sind wirklich
 praktisch, aber nicht ganz billig. Wir zahlten pro Nase 65 Dollar, um an
 unseren Wanderweg zu gelangen. Der Besitzer (ein Mann namens Mako) von "Mako's
 Water Taxi" informierte uns freundlich, dass der Wanderweg dieses Jahr
-zwar noch nicht offiziell geräumt sei, dass ein Schild an einer
-Abzweigung am Boden liege und dass wir über einige umgeknickte Bäume zu
-klettern hätten. Na, und ein bisschen Schnee liege noch hier und da.
+zwar noch nicht offiziell gerÃ¤umt sei, dass ein Schild an einer
+Abzweigung am Boden liege und dass wir Ã¼ber einige umgeknickte BÃ¤ume zu
+klettern hÃ¤tten. Na, und ein bisschen Schnee liege noch hier und da.
 Aber alles kein Problem.
 
 <pic images/mwander.ps Michael auf dem Wanderweg> 
 
 Und ich sage euch, wir kletterten und kletterten. Da die Sonne
 herrlich warm schien, hatte sich der harte Schnee auf dem Weg stellenweise
-eher in ein Bächlein verwandelt, aber unsere wasserdichten
-Turbo-Wanderschuhe hielten durch. Die Belohnung war der wunderschöne,
+eher in ein BÃ¤chlein verwandelt, aber unsere wasserdichten
+Turbo-Wanderschuhe hielten durch. Die Belohnung war der wunderschÃ¶ne,
 teilweise noch zugefrorene Gletschersee mit dem Grewingk-Gletscher im
 Hintergrund, den wir uns mit niemandem teilen mussten. 
 
 Am Tag zuvor hatte Michael die groben Koordinaten der einzelnen Wegpunkte
 aus dem Internet geholt und nach wilden Koordinatentransformationen auf
 seinem tragbaren GPS-System eingespeichert. So wussten wir stets, wie
-weit es noch bis zur nächsten Abzweigung war, das war sehr beruhigend.
+weit es noch bis zur nÃ¤chsten Abzweigung war, das war sehr beruhigend.
 
 <pic images/glaclake.ps Am Ziel: Glacier Lake> 
 
 Als wir schon fast unserer vereinbarten Treffpunkt mit dem Wassertaxi
-erreicht hatten, kletterten wir abermals über einen riesigen Nadelbaum
+erreicht hatten, kletterten wir abermals Ã¼ber einen riesigen Nadelbaum
 und schwupps, war der Weg nicht mehr auszumachen. Michael ging ein paar
 Schritte voraus und stand im dichten Unterholz. Kein Weg weit und breit.
-Nach einigen unangenehmen Minuten beschloss ich, einfach wieder über den
-Baum zurück zu klettern, denn vor dem Baum hatten wir den Weg noch
-gesehen. Und richtig, der zweite Versuch führte zum Erfolg. Wenig 
-später holte uns das Wassertaxi am vereinbarten Zielpunkt ab.
-Michael hatte während der Wanderung schon das Szenario entworfen, was wir
-machen würden, wenn das Taxi nicht käme. Ich hingegen konzentrierte
-mich lieber auf die Bärengefahr.
+Nach einigen unangenehmen Minuten beschloss ich, einfach wieder Ã¼ber den
+Baum zurÃ¼ck zu klettern, denn vor dem Baum hatten wir den Weg noch
+gesehen. Und richtig, der zweite Versuch fÃ¼hrte zum Erfolg. Wenig 
+spÃ¤ter holte uns das Wassertaxi am vereinbarten Zielpunkt ab.
+Michael hatte wÃ¤hrend der Wanderung schon das Szenario entworfen, was wir
+machen wÃ¼rden, wenn das Taxi nicht kÃ¤me. Ich hingegen konzentrierte
+mich lieber auf die BÃ¤rengefahr.
 
-<pic images/wtaxi.ps Das Wassertaxi holt uns am verabredeten Treffpunkt pünktlich wieder ab.> 
+<pic images/wtaxi.ps Das Wassertaxi holt uns am verabredeten Treffpunkt pÃ¼nktlich wieder ab.> 
 
-@Z: Bären
+@Z: BÃ¤ren
 
-<pic images/bear2.ps Ein Schwarzbär, etwa hundert Meter entfernt> 
+<pic images/bear2.ps Ein SchwarzbÃ¤r, etwa hundert Meter entfernt> 
 
 (<em>Michael</em>)
-Wie gesagt ist es ziemlich normal, in Alaska auf Bären zu treffen.
-Mit ihnen ist nicht zu spaßen. Sie hauen zwar normalerweise sofort
-ab, falls sie Menschen sehen, besonders wenn diese groß sind und/oder
-in Gruppen auftreten. Das setzt aber voraus, dass man den Bären nicht
-überrumpelt, denn das mag er nicht, da wird er grummelig. Wie etwa
-wenn man um eine unübersichtliche Ecke biegt und schwupp! steht ein
-Bär vor einem. Deswegen soll man dauernd Krach machen, und wem das
-auf die Nerven geht, der kann ein kleines Glöckchen ("Bear Bell")
-tragen, das dauernd leise bimmelt und so Bären in der näheren
-Umgebung laufend über die Position des Wanderers informiert und
-etwaige Überraschungen erspart. Der Bär geht Konfrontationen
-normalerweise weiträumig aus dem Weg, wenn ihm das ohne Mühe
-möglich ist. Aber Bären halten ja während der Wintermonate einen
-Winterschlaf und sind nach dem Aufstehen im Frühjahr einige Zeit lang
+Wie gesagt ist es ziemlich normal, in Alaska auf BÃ¤ren zu treffen.
+Mit ihnen ist nicht zu spaÃŸen. Sie hauen zwar normalerweise sofort
+ab, falls sie Menschen sehen, besonders wenn diese groÃŸ sind und/oder
+in Gruppen auftreten. Das setzt aber voraus, dass man den BÃ¤ren nicht
+Ã¼berrumpelt, denn das mag er nicht, da wird er grummelig. Wie etwa
+wenn man um eine unÃ¼bersichtliche Ecke biegt und schwupp! steht ein
+BÃ¤r vor einem. Deswegen soll man dauernd Krach machen, und wem das
+auf die Nerven geht, der kann ein kleines GlÃ¶ckchen ("Bear Bell")
+tragen, das dauernd leise bimmelt und so BÃ¤ren in der nÃ¤heren
+Umgebung laufend Ã¼ber die Position des Wanderers informiert und
+etwaige Ãœberraschungen erspart. Der BÃ¤r geht Konfrontationen
+normalerweise weitrÃ¤umig aus dem Weg, wenn ihm das ohne MÃ¼he
+mÃ¶glich ist. Aber BÃ¤ren halten ja wÃ¤hrend der Wintermonate einen
+Winterschlaf und sind nach dem Aufstehen im FrÃ¼hjahr einige Zeit lang
 noch total deppert im Kopf.
 
-<pic images/bearshit.ps Frische Bärenkacke auf dem Wanderweg!> 
-<pic images/beartrace.ps Bärentatzenabdruck auf dem Wanderweg> 
+<pic images/bearshit.ps Frische BÃ¤renkacke auf dem Wanderweg!> 
+<pic images/beartrace.ps BÃ¤rentatzenabdruck auf dem Wanderweg> 
 
 Wer den ausgezeichneten Film "Grizzly Man" (Regie: Werner Herzog)
-gesehen hat, weiß aber, dass Bären, wenn's ganz blöd läuft,
-Menschen durchaus töten und auffressen. Es gibt zwei verschiedene
-Bärenarten, den schwarzen "Black Bear" und den braunen "Grizzly". Sie
+gesehen hat, weiÃŸ aber, dass BÃ¤ren, wenn's ganz blÃ¶d lÃ¤uft,
+Menschen durchaus tÃ¶ten und auffressen. Es gibt zwei verschiedene
+BÃ¤renarten, den schwarzen "Black Bear" und den braunen "Grizzly". Sie
 werden bis zu einer halben Tonne schwer und reichen bis zu drei Meter
 hoch, wenn sie sich aufstellen. Der braune Grizzly ist berechenbarer,
-falls er doch einmal angreift, soll man sich totstellen, dann lässt
+falls er doch einmal angreift, soll man sich totstellen, dann lÃ¤sst
 er normalerweise von einem ab. Der "Black Bear" ist allerdings gemeiner,
-er verfolgt schon mal Wanderer, die dann alle möglichen Tricks
-anwenden müssen (groß machen, Rucksack aufn Kopf, schreien,
+er verfolgt schon mal Wanderer, die dann alle mÃ¶glichen Tricks
+anwenden mÃ¼ssen (groÃŸ machen, Rucksack aufn Kopf, schreien,
 fuchteln), um ihn zu vertreiben. Greift der "Black Bear" an, darf man
 sich keinesfalls totstellen, sondern muss ihm in die Schnauze boxen.
-Oder, wie uns ein Einheimischer erklärte: "A Grizzly will kill you. A
+Oder, wie uns ein Einheimischer erklÃ¤rte: "A Grizzly will kill you. A
 Black Bear will kill you and then eat you".
 
-<pic images/bearbell.ps Eine Bärenklingel> 
-<pic images/bearspray.ps "Counter Assault", das Anti-Bärenspray> 
+<pic images/bearbell.ps Eine BÃ¤renklingel> 
+<pic images/bearspray.ps "Counter Assault", das Anti-BÃ¤renspray> 
 
-Zur Selbstverteidigung für den äußerst seltenen Ernstfall kann man
-entweder eine doppelläufige Flinte mit Riesenkaliber mitschleppen
-("Bärentöter", siehe Karl May) oder ein speziell für die
-Bärenverteidigung hergestelltes Pfefferspray mit dem martialischen
+Zur Selbstverteidigung fÃ¼r den Ã¤uÃŸerst seltenen Ernstfall kann man
+entweder eine doppellÃ¤ufige Flinte mit Riesenkaliber mitschleppen
+("BÃ¤rentÃ¶ter", siehe Karl May) oder ein speziell fÃ¼r die
+BÃ¤renverteidigung hergestelltes Pfefferspray mit dem martialischen
 Namen "Counter Assault". Das Spray ist allerdings irre teuer ($37.95),
-zum Glück hatte es der Bergsteigersupermarkt REI in Anchorage gerade
+zum GlÃ¼ck hatte es der Bergsteigersupermarkt REI in Anchorage gerade
 im Sonderangebot ($24.95). Angeblich wirkt es auf bis zu neun Meter
 Entfernung. Weht der Wind aber in die falsche Richtung, entwickelt
 sich das Spray zum Bummerang. 
 
-<pic images/goat.ps Bärenfutter: Bergziegen> 
+<pic images/goat.ps BÃ¤renfutter: Bergziegen> 
 
 Wir hatten die Dose entsichert und auf
-unseren Wanderungen stets griffbereit, mussten sie aber zum Glück nie
-anwenden, da uns auf unseren Wegen kein Bär überraschte. Allerdings
-sahen wir auf einer Bootstour schätzungsweise zehn (!) verschiedene
-Schwarzbären an verschiedenen Stellen, teilweise sogar an recht
-steilen Berghängen. Diese werden auch von Bergziegen frequentiert,
-der Leibspeise der Bären. Jedenfalls solange wie der Lachs noch nicht
-springt. Auch erfahrene Wanderer haben uns bestätigt, dass es laufend
-vorkommt, dass Bären den Weg kreuzen und auch die Dame, die uns ein
-Cottage vermietete, legte ein Bärenheft hinein und schrieb groß
+unseren Wanderungen stets griffbereit, mussten sie aber zum GlÃ¼ck nie
+anwenden, da uns auf unseren Wegen kein BÃ¤r Ã¼berraschte. Allerdings
+sahen wir auf einer Bootstour schÃ¤tzungsweise zehn (!) verschiedene
+SchwarzbÃ¤ren an verschiedenen Stellen, teilweise sogar an recht
+steilen BerghÃ¤ngen. Diese werden auch von Bergziegen frequentiert,
+der Leibspeise der BÃ¤ren. Jedenfalls solange wie der Lachs noch nicht
+springt. Auch erfahrene Wanderer haben uns bestÃ¤tigt, dass es laufend
+vorkommt, dass BÃ¤ren den Weg kreuzen und auch die Dame, die uns ein
+Cottage vermietete, legte ein BÃ¤renheft hinein und schrieb groÃŸ
 darauf, dass wir das ja durchlesen sollten, bevor wir irgendwelche
-Wanderungen unternähmen.
+Wanderungen unternÃ¤hmen.
 
 @Z: Schmelzende Gletscher
 
 <pic images/glac4.ps "Exit Glacier" in Seward> 
 
 (<em>Angelika</em>)
-In der Stadt Seward stellten wir überrascht fest, 
+In der Stadt Seward stellten wir Ã¼berrascht fest, 
 dass Besucher des "Kenai Fjords Nationalparks" mit geringstem 
 Aufwand an den so genannten 
 "Exit"-Gletscher gelangen.
@@ -542,54 +542,54 @@ Kilometer vom Parkplatz entfernt.
 Aber Alaska bleibt Alaska. Als wir vor dem
 Gletscher standen, rumpelte es ein paar Mal bedrohlich in seinem Inneren,
 wie als kleine Warnung, dass wir vor einem aktiven Gletscher stehen, der
-nicht zu unterschätzen ist.
+nicht zu unterschÃ¤tzen ist.
 
-Die globale Erwärmung ist dort übrigens recht klar sichtbar. Der Gletscher
+Die globale ErwÃ¤rmung ist dort Ã¼brigens recht klar sichtbar. Der Gletscher
 hat sich in den letzten Jahren immer weiter und schneller 
-zurückgezogen, im Jahr 1970
+zurÃ¼ckgezogen, im Jahr 1970
 war er noch fast am Parkplatz, etwa einen halben Kilometer von dem Punkt
-entfernt, an dem er heute endet. In fünfzig Jahren wird's ihn wohl nicht
+entfernt, an dem er heute endet. In fÃ¼nfzig Jahren wird's ihn wohl nicht
 mehr geben.
 
-<pic images/glac.ps Gletscher-Eis ist tatsächlich blau> 
+<pic images/glac.ps Gletscher-Eis ist tatsÃ¤chlich blau> 
 
-Wir konnten auch schön sehen, dass Gletscher an manchen Stellen
-tatsächlich blau sind. 
+Wir konnten auch schÃ¶n sehen, dass Gletscher an manchen Stellen
+tatsÃ¤chlich blau sind. 
 Das liegt laut einer im Nationalpark aufgestellten Tafel daran, dass
 die Schneemassen, aus denen sie bestehen, 
-über die Jahre so zusammengestaucht werden, dass eine dichte
-Eismasse entsteht, die alles Licht außer dem energiereichen
+Ã¼ber die Jahre so zusammengestaucht werden, dass eine dichte
+Eismasse entsteht, die alles Licht auÃŸer dem energiereichen
 <LINK>http://de.wikipedia.org/wiki/Licht|Blauanteil</LINK> 
-vollständig absorbiert, sodass Gletscher-Eis aussieht wie das
+vollstÃ¤ndig absorbiert, sodass Gletscher-Eis aussieht wie das
 gleichnamige Lutschbonbon!
 
-Auch die so genannten Moränen, vom Gletscher kleingeschnetzeltes und
+Auch die so genannten MorÃ¤nen, vom Gletscher kleingeschnetzeltes und
 vorneher geschobenes Gestein, konnte man gut sehen und sogar darauf
-herumspazieren. Mein alter Erdkundelehrer wäre ausgerastet!
+herumspazieren. Mein alter Erdkundelehrer wÃ¤re ausgerastet!
 
 @Z: Killerwale zum Anfassen nahe
 
 <pic images/orca3.ps Killerwal> 
 
 (<em>Michael</em>)
-Natürlich dürft ihr jetzt nicht denken, dass man einfach auf einem
+NatÃ¼rlich dÃ¼rft ihr jetzt nicht denken, dass man einfach auf einem
 Boot herumschippert und einen Wal sichtet. Das ist auch in Alaska sehr
-selten, manchmal sieht man auf einer ganztägigen Tour nur ein paar
-jämmerliche Seeotter. Wir hingegen hatten sogar zweimal Glück:
-Einmal auf dem Rückweg mit dem Wassertaxi von der Kajaktour und ein
-andermal auf einer ganztägigen Bootstour. Da waren etwa ein Dutzend
-Leute auf einem mittelgroßen Schiff, ich starrte auf die
-Wasseroberfläche und bemerkte plötzlich ein paar riesige
+selten, manchmal sieht man auf einer ganztÃ¤gigen Tour nur ein paar
+jÃ¤mmerliche Seeotter. Wir hingegen hatten sogar zweimal GlÃ¼ck:
+Einmal auf dem RÃ¼ckweg mit dem Wassertaxi von der Kajaktour und ein
+andermal auf einer ganztÃ¤gigen Bootstour. Da waren etwa ein Dutzend
+Leute auf einem mittelgroÃŸen Schiff, ich starrte auf die
+WasseroberflÃ¤che und bemerkte plÃ¶tzlich ein paar riesige
 Schwanzflossen in weiter Ferne, die aber gleich wieder verschwanden.
 Da ich aus Kalifornien bereits Wale kannte, schrie ich: "Whales, 10
-o'clock!!" (für Nicht-Nautiker: "Wale, 60 Grad links!"). Der Skipper
+o'clock!!" (fÃ¼r Nicht-Nautiker: "Wale, 60 Grad links!"). Der Skipper
 drosselte den Motor und lenkte das Boot in die angegebene Richtung,
 und nach 30 Sekunden tauchten etwa 7 Killerwale (auch Schwertwale
 genannt) auf, alle mindestens
-fünf bis sieben Meter lang. Sie schwammen auf das Boot zu, tauchten
-darunter hindurch und klatschten anschließend mit ihren
+fÃ¼nf bis sieben Meter lang. Sie schwammen auf das Boot zu, tauchten
+darunter hindurch und klatschten anschlieÃŸend mit ihren
 Schwanzflossen ins Wasser. Die Leute waren begeistert und ein Herr aus
-Texas klopfte mir mindestens fünfmal hintereinander auf die Schulter
+Texas klopfte mir mindestens fÃ¼nfmal hintereinander auf die Schulter
 und alle lobten das "Good eye, good eye" des jungen Herrn aus San
 Francisco.
 
@@ -597,45 +597,45 @@ Francisco.
 
 @Z: Elche
 
-<pic images/eagle4.ps Weißkopfadler an der Hafeneinfahrt von Homer> 
+<pic images/eagle4.ps WeiÃŸkopfadler an der Hafeneinfahrt von Homer> 
 
 (<em>Angelika</em>)
-In Alaska gibt es nun nicht nur Bären und haufenweise
-Weißkopfseeadler ("bald eagle", das Wappentier der USA)
-zu bewundern, sondern auch Elche ("moose") hüpfen
+In Alaska gibt es nun nicht nur BÃ¤ren und haufenweise
+WeiÃŸkopfseeadler ("bald eagle", das Wappentier der USA)
+zu bewundern, sondern auch Elche ("moose") hÃ¼pfen
 freundlich durch die Landschaft. 
 
-Besonders wenn in den höheren Lagen
-noch Schnee liegt, kommen sie auch in die Nähe der menschlichen
+Besonders wenn in den hÃ¶heren Lagen
+noch Schnee liegt, kommen sie auch in die NÃ¤he der menschlichen
 Behausungen in den niedriger gelegenen Gefilden. Elche sind in einer
-noch nicht grünenden Landschaft allerdings schwer auszumachen, da
+noch nicht grÃ¼nenden Landschaft allerdings schwer auszumachen, da
 sich ihr braunes Fell perfekt der Umgebung anpasst. Da ich aber im
-zarten Jugendalter öfter in Finnland war, wusste ich, nach was wir
+zarten Jugendalter Ã¶fter in Finnland war, wusste ich, nach was wir
 Ausschau halten mussten. 
 
 <pic images/moose1.ps Ein Elch bei Anchorage auf einem Waldweg> 
 
 Gleich am ersten Tag, als wir mit unseren
-ausgeliehenen Fahrrädern den Coastal Trail in Anchorage abfuhren,
-entdeckte ich einen riesigen Elch, der gemütlich an einigen Zweigen am
+ausgeliehenen FahrrÃ¤dern den Coastal Trail in Anchorage abfuhren,
+entdeckte ich einen riesigen Elch, der gemÃ¼tlich an einigen Zweigen am
 Waldesrand knabberte. Allerdings sausten wir gerade bergab und ich
 ging etwas unsanft in die Bremse, was Michael nicht nur zu einem
-abrupten Bremmsmanöver seinerseits zwang, sondern auch zu ein paar
-Flüchen bezüglich meiner leichtsinnigen Fahrweise. 
+abrupten BremmsmanÃ¶ver seinerseits zwang, sondern auch zu ein paar
+FlÃ¼chen bezÃ¼glich meiner leichtsinnigen Fahrweise. 
 
 Elche sehen ja
 etwas treu-doof aus, was wohl einige Alaska-Touristen immer wieder
-dazu verleitet, sich ihnen zu sehr zu nähern, aber wir hielten
+dazu verleitet, sich ihnen zu sehr zu nÃ¤hern, aber wir hielten
 respektvollen Abstand, als wir die langen Beine des Tieres sahen. Ein
-Sechsjähriger hätte da bequem drunter durchlaufen können. Während
+SechsjÃ¤hriger hÃ¤tte da bequem drunter durchlaufen kÃ¶nnen. WÃ¤hrend
 Michael den Elch fotografierte, strampelten einige Fahrradfahrer an
 uns vorbei und Michael gestulierte ihnen wild, dass sich im Wald ein
-Elch befände. Die hielten aber nicht mal an, es handelte sich wohl um
-Ortsansässige. Nach zwei Wochen Urlaub und einigen weiteren 
+Elch befÃ¤nde. Die hielten aber nicht mal an, es handelte sich wohl um
+OrtsansÃ¤ssige. Nach zwei Wochen Urlaub und einigen weiteren 
 Elchentdeckungen verstanden auch wir: Einen Elch zu sichten,
 ist in Alaska ganz normal.
 
-Eiskalte Grüße:
+Eiskalte GrÃ¼ÃŸe:
 
 Angelika \& Michael
 

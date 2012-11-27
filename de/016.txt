@@ -5,53 +5,53 @@ Neues aus der Welt der Arbeit berichten:
 
 @Z: Neu bei Netscape
 
-Bei Netscape gab's neulich eine kleine Einführungsveranstaltung für
+Bei Netscape gab's neulich eine kleine EinfÃ¼hrungsveranstaltung fÃ¼r
 die neuen Mitarbeiter von AOL -- einen sogenannten "Beer-Bash". Zu solchen
-Anlässen wird leckeres Essen aufgefahren und ein Bierfass angezapft, und
+AnlÃ¤ssen wird leckeres Essen aufgefahren und ein Bierfass angezapft, und
 damit die Leute untereinander schneller in Kontakt kommen, bekam jeder
-Neuling ein sogenanntes Nerf-Gun ausgehändigt, das, so wurde uns gesagt,
-zur traditionellen Ausrüstung eines Netscape-Hackers gehört. "Nerf" ist
-übrigens der Name der Firma, die das Gerät herstellt. Es
-handelt sich hierbei um eine ziemlich große Spielzeugpistole,
-deren Druckkammer man aufpumpt und die anschließend kleine Schaumstoff-Pfeile
-mit Saugnäpfen abschießt. Die Alteingesessenen brachten auch ihre
-Ausrüstung mit -- und los ging die Schlacht, ich konnte einige gute
+Neuling ein sogenanntes Nerf-Gun ausgehÃ¤ndigt, das, so wurde uns gesagt,
+zur traditionellen AusrÃ¼stung eines Netscape-Hackers gehÃ¶rt. "Nerf" ist
+Ã¼brigens der Name der Firma, die das GerÃ¤t herstellt. Es
+handelt sich hierbei um eine ziemlich groÃŸe Spielzeugpistole,
+deren Druckkammer man aufpumpt und die anschlieÃŸend kleine Schaumstoff-Pfeile
+mit SaugnÃ¤pfen abschieÃŸt. Die Alteingesessenen brachten auch ihre
+AusrÃ¼stung mit -- und los ging die Schlacht, ich konnte einige gute
 Treffer anbringen. Eine Stunde lang tobte alles!
 
 Das Photo in Abbildung
-1 wurde übrigens digital verändert. Nachdem Tom Cruise und Nicole Kidman
-im letzten Film von Stanley Kubrick auch digital verändert wurden,
-wollten auch wir nicht nachstehen. Für die Computer-Geeks
+1 wurde Ã¼brigens digital verÃ¤ndert. Nachdem Tom Cruise und Nicole Kidman
+im letzten Film von Stanley Kubrick auch digital verÃ¤ndert wurden,
+wollten auch wir nicht nachstehen. FÃ¼r die Computer-Geeks
 unter euch: Das Programm
-heißt "Gimp" und ist die kostenlose Variante von "Photoshop" unter Linux.
+heiÃŸt "Gimp" und ist die kostenlose Variante von "Photoshop" unter Linux.
 Doch genug Techno-Babble!
 
-<pic images/nn2.ps Der Netscape-Hacker mit seiner Ausrüstung>
+<pic images/nn2.ps Der Netscape-Hacker mit seiner AusrÃ¼stung>
 
 Auch nehme ich mir mittlerweile jeden Tag eine halbe Stunde Zeit, um
 endlich gescheit Basketball zu lernen -- einer der Basketball-Courts liegt
-direkt vor dem Gebäude, in dem ich arbeite, und in meinem Cubicle liegt,
+direkt vor dem GebÃ¤ude, in dem ich arbeite, und in meinem Cubicle liegt,
 seit ich beim Target-Supermarkt einen gekauft habe,
 stets ein Basketball bereit. Gespielt wird Mann gegen Mann, wie
-in New-York-Harlem auf der Straße! Es ist unglaublich, wie gut manche
-Amerikaner Basketball spielen können, ich habe zwar noch keinen gesehen,
+in New-York-Harlem auf der StraÃŸe! Es ist unglaublich, wie gut manche
+Amerikaner Basketball spielen kÃ¶nnen, ich habe zwar noch keinen gesehen,
 der einen Slam-Dunk hinlegen konnte (dazu muss man so hoch springen, wie
-der Korb hängt, und den Ball mit einer Hand reinknallen), aber
-das Spielniveau ist viel höher als in Europa. Jeder hat zumindest ein
+der Korb hÃ¤ngt, und den Ball mit einer Hand reinknallen), aber
+das Spielniveau ist viel hÃ¶her als in Europa. Jeder hat zumindest ein
 paar Tricks auf Lager, und ich kann noch nicht recht viel, aber es
-wird täglich besser. Das Problem ist nur, dass, wenn ich in der
+wird tÃ¤glich besser. Das Problem ist nur, dass, wenn ich in der
 Sommerhitze, und im Silicon Valley hat's im Sommer schon mal 40 Grad,
-auf dem Basketball-Court rumhetze und danach in mein Cubicle zurückkehre,
+auf dem Basketball-Court rumhetze und danach in mein Cubicle zurÃ¼ckkehre,
 ich schwitzen muss wie ein Schwein.
-Neulich kam ich grade von einem anstrengenden Match zurück und
+Neulich kam ich grade von einem anstrengenden Match zurÃ¼ck und
 gleich darauf kam jemand an meinem Cubicle mit einer Frage an, also
-setzte ich an, ein technisches Problem zu erläutern, und während ich
+setzte ich an, ein technisches Problem zu erlÃ¤utern, und wÃ¤hrend ich
 redete, merkte ich, dass ich brutal anfing zu schwitzen. Es trieb mir
-richtig die Schweißtropfen aus den Poren raus, und der Kollege begann sich
+richtig die SchweiÃŸtropfen aus den Poren raus, und der Kollege begann sich
 schon zu wundern und mich fragend anzusehen, da er ja nicht wusste, dass ich
 ja noch Minuten vorher auf dem Sportplatz rumgetobt hatte. Das war dann
-sehr lustig, als ich erzählte, dass das nicht an seiner Frage
-gelegen hatte, sondern an der körperlichen Anstrengung.
+sehr lustig, als ich erzÃ¤hlte, dass das nicht an seiner Frage
+gelegen hatte, sondern an der kÃ¶rperlichen Anstrengung.
 Erst neulich gelang es mir
 in einer einzigartigen Aktion, einen meiner Kollegen mit 5:4 zu besiegen
 -- zu seiner Verteidigung muss man sagen, dass er wegen eines
@@ -61,52 +61,52 @@ der bei Netscape herumstehenden Sofas nur zwei Stunden geschlafen hatte
 
 <pic images/bbb.ps Basketball bei Netscape>
 
-Mein Kollege Dan bei Netscape hat eine Schlange im Büro. Sie heißt
+Mein Kollege Dan bei Netscape hat eine Schlange im BÃ¼ro. Sie heiÃŸt
 "Slash". Ich hatte
 ja schon von den Hunden berichtet, die manche Mitarbeiter mitbringen.
 Beliebt sind auch Aquarien in den Cubicles. Und Dan hat eben
 ein Terrarium mit einer Schlange, nur 60cm lang, aber immerhin. Einmal
 im Monat bekommt sie eine Maus zu fressen. Vor ein paar Tagen war's
 soweit: In der Mittagspause besorgte Dan eine Maus aus einer Tierhandlung
-und warf sie zur Schlange hinein. Diese verhielt sich zunächst ganz ruhig
-und beobachtete seelenruhig, wie die Maus hin- und herrann. Dann plötzlich
+und warf sie zur Schlange hinein. Diese verhielt sich zunÃ¤chst ganz ruhig
+und beobachtete seelenruhig, wie die Maus hin- und herrann. Dann plÃ¶tzlich
 sperrte sie
 den Rachen auf, schnappte nach der Maus und bohrte ihre langen
-Zähne hinein. Die Maus hatte bald ausgezappelt und die Schlange, deren
-Kopf vielleicht zwei Zentimeter groß ist, begann ihr Maul über
-die viel größere Maus zu stülpen, es dauerte ein paar Minuten und
-dann verschwand die Maus langsam in der Schlange, deren Körper sich
-entsprechend auswölbte. Nichts für schwache Nerven.
+ZÃ¤hne hinein. Die Maus hatte bald ausgezappelt und die Schlange, deren
+Kopf vielleicht zwei Zentimeter groÃŸ ist, begann ihr Maul Ã¼ber
+die viel grÃ¶ÃŸere Maus zu stÃ¼lpen, es dauerte ein paar Minuten und
+dann verschwand die Maus langsam in der Schlange, deren KÃ¶rper sich
+entsprechend auswÃ¶lbte. Nichts fÃ¼r schwache Nerven.
 
-Die Netscapeler haben übrigens bessere Urlaubsbedingungen als wir von
+Die Netscapeler haben Ã¼brigens bessere Urlaubsbedingungen als wir von
 AOL. Wer vier Jahre bei der Firma ist, darf 4 Wochen lang ein sogenanntes
-"Sabbatical" nehmen. Im Wörterbuch steht, dass das das "Ferienjahr eines
+"Sabbatical" nehmen. Im WÃ¶rterbuch steht, dass das das "Ferienjahr eines
 Professors" ist. Es soll dazu dienen, dass man alle paar Jahre mal
-in sich geht und darüber nachdenkt, wie es so weitergeht im Leben.
+in sich geht und darÃ¼ber nachdenkt, wie es so weitergeht im Leben.
 Viele Netscapeler nehmen sich noch die zwei Wochen Jahresurlaub dazu
-und haben dann sechs Wochen frei, was für amerikanische Verhältnisse
-schier unglaublich ist. Da ich immer noch für AOL arbeite, bleibt's für mich
+und haben dann sechs Wochen frei, was fÃ¼r amerikanische VerhÃ¤ltnisse
+schier unglaublich ist. Da ich immer noch fÃ¼r AOL arbeite, bleibt's fÃ¼r mich
 bei zwei Wochen im Jahr -- zum Heulen!
 
-Unser letztes Preisrätsel war wohl zu einfach für euch -- schon rund
-eineinhalb Stunden, nachdem die Email-Version des Rundbriefs draußen war,
+Unser letztes PreisrÃ¤tsel war wohl zu einfach fÃ¼r euch -- schon rund
+eineinhalb Stunden, nachdem die Email-Version des Rundbriefs drauÃŸen war,
 ging die erste richtige Antwort ein: Nach 3 Strikes ist der Hitter aus,
 jaja.
 Der gute Thomas Wiest aus Augsburg hat die
-CD gewonnen, die, wie gewünscht, mit Liedern bestückt wurde, die
-zur Hälfte Angelika und zur Hälfte ich ausgesucht hatten. Auch der liebe
-"Dr." Günter Speckhofer, aus Baden/Schweiz meinte, nur durch ein
+CD gewonnen, die, wie gewÃ¼nscht, mit Liedern bestÃ¼ckt wurde, die
+zur HÃ¤lfte Angelika und zur HÃ¤lfte ich ausgesucht hatten. Auch der liebe
+"Dr." GÃ¼nter Speckhofer, aus Baden/Schweiz meinte, nur durch ein
 Unbill des Schicksals nicht gewonnen zu haben -- angeblich hatte sein
-Internet-Provider einen Störfall und deswegen konnte er die Email nicht
+Internet-Provider einen StÃ¶rfall und deswegen konnte er die Email nicht
 rechtzeitig absenden. Um uns kostentreibende Gerichtsprozesse zu ersparen,
 bekam der Herr Doktor halt auch noch eine CD, da sind wir nicht so. Dass aber
-ein gewisser Willi R. aus Erding bei München die Tatsache, dass ein
+ein gewisser Willi R. aus Erding bei MÃ¼nchen die Tatsache, dass ein
 Augsburger gewonnen hatte, mit "Hamma glei denkt, dass die Schwobmzipfel
 wieda zamhalten!" (O-Ton) kommentierte, fanden wir gar nicht lustig!
 Also, Sachen gibt's ... Und auch dieses Mal gibt's wieder was zu
-gewinnen: Die Frage lautet: Welches der abgedruckten Bilder (außer dem
+gewinnen: Die Frage lautet: Welches der abgedruckten Bilder (auÃŸer dem
 ersten) wurde sonst noch manipuliert? Wie immer gibt's zwei Preise:
-Einen für die schnellste Email, einen für den schnellsten Brief/Postkarte.
+Einen fÃ¼r die schnellste Email, einen fÃ¼r den schnellsten Brief/Postkarte.
 
 @Z: X-Games in San Francisco 
 
@@ -114,61 +114,61 @@ Die Meisterschaften im Felsklettern, Snowboard, Skateboard,
 Rollerblade und Fahrrad fahren
 fanden heuer in San Francisco statt. Auf einer Veranstaltung, die
 "X-Games" genannt wird, fahren die Leute wie wild in sogenannten
-Half-Pipes hin und her. Das sind halbe, da oben offene Röhren
-mit etwa fünf Metern Durchmesser und zehn Meter Länge,
+Half-Pipes hin und her. Das sind halbe, da oben offene RÃ¶hren
+mit etwa fÃ¼nf Metern Durchmesser und zehn Meter LÃ¤nge,
 in denen sich's auf der einen Seite
-runter- und auf der anderen wieder hochbrausen lässt. Die
+runter- und auf der anderen wieder hochbrausen lÃ¤sst. Die
 Fahrradl-, Rollschuh- und Skateboardfahrer zeigen dabei allerhand
-Kunststücke, überschlagen und drehen sich, schlittern auf den
-Kanten entlang, schießen über den Rand hinaus und
+KunststÃ¼cke, Ã¼berschlagen und drehen sich, schlittern auf den
+Kanten entlang, schieÃŸen Ã¼ber den Rand hinaus und
 springen zwei, drei Meter in die Luft -- und, wer die
 besten Tricks auf Lager hat, gewinnt. Am Samstag ging ich mit einem
-Kumpel von AOL schon in der Frühe hin,
-und die Schlange am Eingang war ungefähr einen
+Kumpel von AOL schon in der FrÃ¼he hin,
+und die Schlange am Eingang war ungefÃ¤hr einen
 Kilometer lang, alles Leute in ihren Zwanzigern, wir waren glaube ich
 die Einzigen, die nicht eine Baseballkappe verkehrtherum aufhatten.
 Ich kam mir vor wie ein Opa, mit 34 ist man ja auch nicht mehr der
-Jüngste, öche, öche. Mit der mitgebrachten Kamera konnte ich einige
-Schnappschüsse machen: Bitte sehr, die Abbildungen 3 und 4 zeigen
+JÃ¼ngste, Ã¶che, Ã¶che. Mit der mitgebrachten Kamera konnte ich einige
+SchnappschÃ¼sse machen: Bitte sehr, die Abbildungen 3 und 4 zeigen
 den herumwirbelnden Bike-Meister -- live bei den X-Games 1999!
 Once in a lifetime, Baby.
 
 <pic images/x3.ps Der Radler in der Half-Pipe>
-<pic images/x4.ps Der hat nicht mal die Hände am Lenker!>
+<pic images/x4.ps Der hat nicht mal die HÃ¤nde am Lenker!>
 
 @Z: Sonderangebote einkaufen
 
 Ein Thema, das auch in Deutschland sicher bald aktuell wird,
-weil ja alles irgendwann rüberschwappt,
-sind die Geschäftsgebaren der hiesigen Händler. Alles muss
-immer billig sein, das ist ganz wichtig in Amerika. Während
-es in Deutschland etwas belächelt wird, wenn man für ein
-paar Mark Unterschied ein paar Läden abklappert, gilt hier
-jemand, der für etwas mehr zahlt als unbedingt notwendig,
-als verrückt. Auf einer Party darf man durchaus damit angeben,
+weil ja alles irgendwann rÃ¼berschwappt,
+sind die GeschÃ¤ftsgebaren der hiesigen HÃ¤ndler. Alles muss
+immer billig sein, das ist ganz wichtig in Amerika. WÃ¤hrend
+es in Deutschland etwas belÃ¤chelt wird, wenn man fÃ¼r ein
+paar Mark Unterschied ein paar LÃ¤den abklappert, gilt hier
+jemand, der fÃ¼r etwas mehr zahlt als unbedingt notwendig,
+als verrÃ¼ckt. Auf einer Party darf man durchaus damit angeben,
 ein bestimmtes Produkt besonders billig erstanden zu haben.
-Dementsprechend werben die hiesigen Kaufhäuser auch für
-Angebote, z.B. Fernseher für
+Dementsprechend werben die hiesigen KaufhÃ¤user auch fÃ¼r
+Angebote, z.B. Fernseher fÃ¼r
 100 Dollar -- aber davon haben sie dann genau einen auf Lager. Kommt
-man in den Laden, ist der natürlich weg, aber der freundliche
-Verkäufer zeigt einem gerne das etwas bessere -- aber auch
-teurere -- Modell. Oder beim Autokauf: Der Händler wirbt mit
-einem supergünstigen Angebot: $9.995 für einen Kleinwagen.
-Was aber tatsächlich verfügbar ist, ist ein einziger Karren
-in einer völlig unmöglichen Farbe, den nur ein Verrückter kaufen würde.
+man in den Laden, ist der natÃ¼rlich weg, aber der freundliche
+VerkÃ¤ufer zeigt einem gerne das etwas bessere -- aber auch
+teurere -- Modell. Oder beim Autokauf: Der HÃ¤ndler wirbt mit
+einem supergÃ¼nstigen Angebot: $9.995 fÃ¼r einen Kleinwagen.
+Was aber tatsÃ¤chlich verfÃ¼gbar ist, ist ein einziger Karren
+in einer vÃ¶llig unmÃ¶glichen Farbe, den nur ein VerrÃ¼ckter kaufen wÃ¼rde.
 Ist man erstmal im Laden angelangt, und stellt fest, dass das
-Einzelexemplar entweder schon weg oder völlig abstoßend
-ausgestattet ist, findet sich sogleich ein Verkäufer, der
+Einzelexemplar entweder schon weg oder vÃ¶llig abstoÃŸend
+ausgestattet ist, findet sich sogleich ein VerkÃ¤ufer, der
 einem die teureren Modelle zeigt. Da man 30km zu dem Laden
-hingefahren ist, schaut man sich das natürlich an, denn
-wenn man schon mal da ist ... so läuft es: Die Kunden werden
-mit Methoden, die in Deutschland wahrscheinlich illegal wären,
-in die Läden gelockt, und kaufen dann -- aus Frustration oder
+hingefahren ist, schaut man sich das natÃ¼rlich an, denn
+wenn man schon mal da ist ... so lÃ¤uft es: Die Kunden werden
+mit Methoden, die in Deutschland wahrscheinlich illegal wÃ¤ren,
+in die LÃ¤den gelockt, und kaufen dann -- aus Frustration oder
 Langeweile -- doch Produkte, die keineswegs billiger als anderswo
 sind. Wir haben uns mittlerweile schon so an diesen Zirkus
-gewöhnt, ich glaube, ich wäre echt überrascht, in einen
+gewÃ¶hnt, ich glaube, ich wÃ¤re echt Ã¼berrascht, in einen
 Laden zu kommen, in dem das ausgeschriebene Produkt auch
-tatsächlich soviel kostet wie angezeigt.
+tatsÃ¤chlich soviel kostet wie angezeigt.
 
 @Z: Autos mieten
 
@@ -178,171 +178,171 @@ direkt billig, denkt man, und ruft bei der
 angegebenen Nummer an, aber, wenn man dann die Telefonzentrale,
 in der meistens Leute aus Teilen der USA sitzen, in die sich
 sonst niemand hin verirrt (Iowa zum Beispiel), und die einen
-fürchterlichen Dialekt sprechen, kann es sein, dass man erfährt,
+fÃ¼rchterlichen Dialekt sprechen, kann es sein, dass man erfÃ¤hrt,
 dass das Angebot nur in Florida gilt, oder nur, falls man das Auto
 von einem bestimmten Flughafen abholt. Sagt man erst gar
 nicht, dass man
 das Angebot in einer Zeitung gelesen hat, kriegt man ganz andere
-Preise genannt: $34.95 sind üblich. Gibt man aber den sogenannten
+Preise genannt: $34.95 sind Ã¼blich. Gibt man aber den sogenannten
 Ad-Code (den in der Anzeige (Advertisement)
 abgedruckten Code, so etwas wie "Q-95"
-oder "ZX") finden die Leute am Computer plötzlich den billigeren
-Preis. Gleich darauf kriegt man mitgeteilt, dass das Auto für diesen
+oder "ZX") finden die Leute am Computer plÃ¶tzlich den billigeren
+Preis. Gleich darauf kriegt man mitgeteilt, dass das Auto fÃ¼r diesen
 Preis freilich nur ein "Economy Car" sei, also so etwas wie ein Golf,
 man solle doch lieber das "Full Size Car" nehmen, mit mehr PS und
-größerem Innenraum. Ist man schlau, bleibt man bei der kleinen Kiste,
+grÃ¶ÃŸerem Innenraum. Ist man schlau, bleibt man bei der kleinen Kiste,
 kriegt seine Reservierungsnummer und darf am vereinbarten Termin
 bei der Autovermietungsfirma vorbeischauen. Dort geht der Reigen von
-vorne los: Die beste Meldung, die ich je gehört habe, stammte von einem
-Verkäufer der Firma Alamo, der mir klarmachen wollte, dass das von
-mir bestellte Auto nur einen Motor mit drei Zylindern besäße und
-wir damit unmöglich die von uns geplanten hügeligen Strecken überwinden
-könnten -- worauf ich erwiderte, dass das schon in Ordnung wäre, solange
+vorne los: Die beste Meldung, die ich je gehÃ¶rt habe, stammte von einem
+VerkÃ¤ufer der Firma Alamo, der mir klarmachen wollte, dass das von
+mir bestellte Auto nur einen Motor mit drei Zylindern besÃ¤ÃŸe und
+wir damit unmÃ¶glich die von uns geplanten hÃ¼geligen Strecken Ã¼berwinden
+kÃ¶nnten -- worauf ich erwiderte, dass das schon in Ordnung wÃ¤re, solange
 noch alle drei Zylinder liefen. Das fand der Herr allerdings nicht so
-komisch, denn schließlich werden die Leute in den Autovermietungen
-für sogenannte Up-Sales bezahlt, d.h. wenn der Kunde mit dem von ihm
-bestellten Auto vom Parkplatz fährt, anstatt auf ein größeres -- natürlich
+komisch, denn schlieÃŸlich werden die Leute in den Autovermietungen
+fÃ¼r sogenannte Up-Sales bezahlt, d.h. wenn der Kunde mit dem von ihm
+bestellten Auto vom Parkplatz fÃ¤hrt, anstatt auf ein grÃ¶ÃŸeres -- natÃ¼rlich
 gegen Aufpreis -- umzusteigen, lief etwas falsch und der Manager steigt
-dem Verkäufer aufs Dach, falls das öfter vorkommt. Lustigerweise
+dem VerkÃ¤ufer aufs Dach, falls das Ã¶fter vorkommt. Lustigerweise
 kriegt der, der stur bleibt und auf seinem kleinen Auto besteht,
 dann meistens doch ein
-großes, und zwar ohne Aufpreis, da die Autovermietungen meist gar
-keine kleinen Wägen auf Lager haben, da sich fast jeder ein
-größeres aufschwatzen lässt. Als wir noch kein eigenes Auto
+groÃŸes, und zwar ohne Aufpreis, da die Autovermietungen meist gar
+keine kleinen WÃ¤gen auf Lager haben, da sich fast jeder ein
+grÃ¶ÃŸeres aufschwatzen lÃ¤sst. Als wir noch kein eigenes Auto
 hatten und alle paar Wochen einen Mietwagen besorgten, konnten
-wir regelmäßig deutschen Touristen zusehen, die nach Strich und
+wir regelmÃ¤ÃŸig deutschen Touristen zusehen, die nach Strich und
 Faden abgezockt wurden.
 
 @Z: Einkaufen bei Fry's
 
 Eine Art Hassliebe verbindet mich mittlerweile mit dem Computersupermarkt
-"Fry's Electronics". Das ist eine Kette von Läden, die auf
-fußballfeldgroßen Verkaufsflächen Computersachen anbieten und im
-"San Jose Mercury", der Zeitung im Silicon-Valley regelmäßig
+"Fry's Electronics". Das ist eine Kette von LÃ¤den, die auf
+fuÃŸballfeldgroÃŸen VerkaufsflÃ¤chen Computersachen anbieten und im
+"San Jose Mercury", der Zeitung im Silicon-Valley regelmÃ¤ÃŸig
 sechsseitige farbige Anzeigen schalten.
-Auf der einen Seite sind sie ziemlich billig, auf der anderen weiß aber jeder,
-dass sie mit dubiosen Geschäftspraktiken arbeiten, und z.B. zurückgegebene
-Waren wieder in die Original-Plastikfolie einschweißen und als neu verkaufen,
+Auf der einen Seite sind sie ziemlich billig, auf der anderen weiÃŸ aber jeder,
+dass sie mit dubiosen GeschÃ¤ftspraktiken arbeiten, und z.B. zurÃ¼ckgegebene
+Waren wieder in die Original-Plastikfolie einschweiÃŸen und als neu verkaufen,
 und dergleichen Scherze mehr. Die Preisgestaltung ist ebenfalls dubios,
-und so zeigen die Preisschilder an den Regalen öfter mal einen
+und so zeigen die Preisschilder an den Regalen Ã¶fter mal einen
 viel niedrigeren Preis an, als den, den dann der Kassierer von einem
-verlangt. So stand auch ich an der Kasse und sollte plötzlich 30 Dollar
-mehr für eine 200-Dollar-Festplatte zahlen. Ich führte mich natürlich
-auf wie Rotz und Feuer, das dürfte klar sein. Schließlich kam der
-Manager an und sagte, wenn ich darauf bestünde, würde mich ein Angestellter
+verlangt. So stand auch ich an der Kasse und sollte plÃ¶tzlich 30 Dollar
+mehr fÃ¼r eine 200-Dollar-Festplatte zahlen. Ich fÃ¼hrte mich natÃ¼rlich
+auf wie Rotz und Feuer, das dÃ¼rfte klar sein. SchlieÃŸlich kam der
+Manager an und sagte, wenn ich darauf bestÃ¼nde, wÃ¼rde mich ein Angestellter
 zum Regal begleiten, um mir das Preisschild dort zu zeigen -- und ich sagte,
 genau das wolle ich. Ein Fry's-Scherge begleitete mich dann durch den ganzen
-Laden zurück zum Regal, in dem ich die Festplatte gefunden hatte, zeigte
-mir das Preisschild, und, siehe da, da stand unter dem riesengroß
+Laden zurÃ¼ck zum Regal, in dem ich die Festplatte gefunden hatte, zeigte
+mir das Preisschild, und, siehe da, da stand unter dem riesengroÃŸ
 geschriebenen billigeren Preis ein Haufen Kleingedrucktes.
 Nachdem ich bis auf 50cm an das Schild
-herangetreten war, konnte ich lesen, dass sich der günstigere Preis abzüglich
-eines Mail-In-Rabattes verstand, man musste also, wie in einem früheren
-Rundbrief schon mal erläutert, an der Kasse mehr zahlen, und
-anschließend bei der Firma einen Coupon einschicken, die einem dann
-einen Scheck über $30 per Post zuschickte. Das war mir natürlich
+herangetreten war, konnte ich lesen, dass sich der gÃ¼nstigere Preis abzÃ¼glich
+eines Mail-In-Rabattes verstand, man musste also, wie in einem frÃ¼heren
+Rundbrief schon mal erlÃ¤utert, an der Kasse mehr zahlen, und
+anschlieÃŸend bei der Firma einen Coupon einschicken, die einem dann
+einen Scheck Ã¼ber $30 per Post zuschickte. Das war mir natÃ¼rlich
 richtig peinlich, also entschuldigte ich mich tausendfach, ging mit
-dem Kerl wieder zur Kasse zurück und kaufte das Teil zum höheren Preis.
+dem Kerl wieder zur Kasse zurÃ¼ck und kaufte das Teil zum hÃ¶heren Preis.
 Damals hatten wir noch kein Auto, ich war mit dem Fahrrad und dem Zug
 nach der Arbeit zum Fry's nach Palo Alto gefahren. Heimgekommen, machte
 ich die Packung auf und musste mit Entsetzen feststellen, dass kein
-Coupon für den Mail-In-Rabatt beilag. Oh Jammer oh Not! Ich war daraufhin
+Coupon fÃ¼r den Mail-In-Rabatt beilag. Oh Jammer oh Not! Ich war daraufhin
 eine ganze Zeit lang nicht mehr bei Fry's, hatte diesen Vorfall
 schon vergessen, da ergab es sich, dass ich, als wir einmal bei unseren
 Freunden Syllus und Richard in Portland zu Besuch waren, bei einer
 Fry's-Filiale vorbeischaute. Ich sah dort, dass die Mail-In-Coupons von
-den Angestellten an Käufer ausgehändigt wurden. Ich wartete, bis ein
-Verkäufer seinen Stand verlassen hatte und schnappte mir einen Coupon.
+den Angestellten an KÃ¤ufer ausgehÃ¤ndigt wurden. Ich wartete, bis ein
+VerkÃ¤ufer seinen Stand verlassen hatte und schnappte mir einen Coupon.
 Leider waren seit meinem Kauf ein paar Monate vergangen und der neue
-Coupon war nur für Käufe im aktuellen Monat gültig. Mit dem Coupon
+Coupon war nur fÃ¼r KÃ¤ufe im aktuellen Monat gÃ¼ltig. Mit dem Coupon
 musste man eine Kopie der Ladenrechnung einschicken, also machte ich
 eine betont schlechte Kopie, auf der man das Datum nicht gescheit
 erkennen konnte, schickte den Krempel ein -- und, siehe da: Nach
-sechs Wochen kam der Scheck. Mein Siegesgebrüll konnte man bis
-Palo Alto hören.
+sechs Wochen kam der Scheck. Mein SiegesgebrÃ¼ll konnte man bis
+Palo Alto hÃ¶ren.
 
 @Z: Teppichreiniger
 
 Noch ein G'schichterl hab ich: Als ich vor ca. zweieinhalb Jahren
 unsere jetzige Wohnung in San Francisco bezog -- Angelika weilte noch
-in Deutschland -- müffelte es in den Räumen ein wenig, später
+in Deutschland -- mÃ¼ffelte es in den RÃ¤umen ein wenig, spÃ¤ter
 haben wir von unseren Nachbarn herausgefunden, dass unser Vormieter
 Katzen hatte, die wohl auf den Teppich gepinkelt hatten. Nachdem ich den
 Mietvertrag unterschrieben hatte, fragte ich den Maklermenschen, ob
-ich denn eine Teppichreinigungsfirma kommen lassen könne, und er sagte ja,
+ich denn eine Teppichreinigungsfirma kommen lassen kÃ¶nne, und er sagte ja,
 da habe er doch glatt in der Zeitung gelesen, dass die Firma Sears (eine
-große Kaufhauskette in den USA, wie etwa Karstadt in Deutschland) gerade
-eine Anzeige laufen habe, dass sie jede Wohnung für $19.95 reinigten.
+groÃŸe Kaufhauskette in den USA, wie etwa Karstadt in Deutschland) gerade
+eine Anzeige laufen habe, dass sie jede Wohnung fÃ¼r $19.95 reinigten.
 Ich rief dort an, vereinbarte einen Termin, der Teppichmann kam, sah
 sich in der Wohnung um, verzog das Gesicht und sagte in vollem Ernst,
-dass wir einen außergewöhnlichen Teppich, einen "Berber-Teppich",
-hätten, der eine Sonderbehandlung erforderlich mache, für $19.95 sei
+dass wir einen auÃŸergewÃ¶hnlichen Teppich, einen "Berber-Teppich",
+hÃ¤tten, der eine Sonderbehandlung erforderlich mache, fÃ¼r $19.95 sei
 das nicht drin. Dazu muss man sagen, dass unser Teppich wohl der
 durchschnittlichste Teppich von ganz Amerika ist. Ich war kein
 Fachmann auf dem Gebiet, neu im Land, und obendrein relativ gelassen,
-da ja der Vermieter versprochen hatte, die Kosten zu übernehmen. Der
+da ja der Vermieter versprochen hatte, die Kosten zu Ã¼bernehmen. Der
 Teppichmann stellte noch einige Fragen, ob ich die Teppiche
 super-tiefengereinigt
-und spezialparfümiert haben wolle, und ich sagte: "Ja, ja, ja, alles
+und spezialparfÃ¼miert haben wolle, und ich sagte: "Ja, ja, ja, alles
 will ich haben, die volle Ladung!". Die Rechnung belief sich dann
-auf ungefähr 120 Dollar -- was haben wir gelacht! Und der Maklermensch
+auf ungefÃ¤hr 120 Dollar -- was haben wir gelacht! Und der Maklermensch
 zahlte auch alles. Aber halt, die Geschichte geht noch weiter,
-ungefähr ein Jahr später bekamen wir
-einen Brief von einem Rechtsanwalt, dem es anscheinend ähnlich
+ungefÃ¤hr ein Jahr spÃ¤ter bekamen wir
+einen Brief von einem Rechtsanwalt, dem es anscheinend Ã¤hnlich
 ergangen war, der hatte die Firma Sears wegen dieser
-Geschäftspraktiken verklagt, vor Gericht gewonnen, und legte seinem
-Brief ein Formular bei, das man nur auszufüllen brauchte und
-daraufhin einen Anteil an der hohen Entschädigungssumme bekam, die Sears
+GeschÃ¤ftspraktiken verklagt, vor Gericht gewonnen, und legte seinem
+Brief ein Formular bei, das man nur auszufÃ¼llen brauchte und
+daraufhin einen Anteil an der hohen EntschÃ¤digungssumme bekam, die Sears
 zahlen musste.  Alles ist halt doch nicht
-erlaubt, auch im Land der unbegrenzten Möglichkeiten nicht.
+erlaubt, auch im Land der unbegrenzten MÃ¶glichkeiten nicht.
 
 @Z: Feuerwehrmann Angelika
 
 Angelika hat ja ihren Erdbebenkurs bei der Feuerwehr erfolgreich
 abgeschlossen und -- wie ein verantwortungsbewusster Feuerwehrmann --
-gleich alles in die Praxis umgesetzt und zwei Erdbeben-Böxle
-(O-Ton Angelika) gepackt und alte Schuhe (im Schlaf überrascht,
+gleich alles in die Praxis umgesetzt und zwei Erdbeben-BÃ¶xle
+(O-Ton Angelika) gepackt und alte Schuhe (im Schlaf Ã¼berrascht,
 muss man schnell Schuhe anziehen, damit man durch Glasscherben laufen
-kann), Wasser für drei Tage, ein bisserl was zu essen,
-Kleidung und Notschlafsäcke aus Alufolie hineingetan.
-Falls es kein Erdbeben gibt, sind die Boxen auch für
-die Jahrtausendwende gut, denn viele Leute befürchten, dass der
+kann), Wasser fÃ¼r drei Tage, ein bisserl was zu essen,
+Kleidung und NotschlafsÃ¤cke aus Alufolie hineingetan.
+Falls es kein Erdbeben gibt, sind die Boxen auch fÃ¼r
+die Jahrtausendwende gut, denn viele Leute befÃ¼rchten, dass der
 Strom oder das Wasser oder, noch schlimmer, mein
-Internetanschluss ausfallen könnte -- oder gleich alles zusammen,
+Internetanschluss ausfallen kÃ¶nnte -- oder gleich alles zusammen,
 weil alles von Computern
 gesteuert wird und diese bekanntlich wegen potentieller Programmierfehler
-Schwierigkeiten haben könnten, heil rüber
+Schwierigkeiten haben kÃ¶nnten, heil rÃ¼ber
 ins neue Jahrtausend zu kommen. Year-2000 oder Y2K-Fehler,
 sagen die Fachleute.
-Ein Arbeitskollege hat mir erzählt, dass er sich fassweise Mineralwasser
-gekauft hat -- samt einer Pistole, um seine Vorräte notfalls zu
+Ein Arbeitskollege hat mir erzÃ¤hlt, dass er sich fassweise Mineralwasser
+gekauft hat -- samt einer Pistole, um seine VorrÃ¤te notfalls zu
 verteidigen.
 
 @Z: Angelikas Fotokunst
 
-Angelika hängt Tag und Nacht in der Dunkelkammer des Fotolabors herum und
-fröhnt ihrem Hobby. Die Dame hat schon mehrere Phasen ihrer Fotokarriere
+Angelika hÃ¤ngt Tag und Nacht in der Dunkelkammer des Fotolabors herum und
+frÃ¶hnt ihrem Hobby. Die Dame hat schon mehrere Phasen ihrer Fotokarriere
 hinter sich: Zuerst fotografierte sie die Kinder im Tenderloin-Kindergarten,
-dann folgte die von mir so genannte Gemüse-Periode: Stilleben von
-Rettichen, Blumenkohl und ähnlichem, arrangiert in stundenlangen
-Sitzungen mit wechselnden Lichtverhältnissen, aufgenommen nach den
+dann folgte die von mir so genannte GemÃ¼se-Periode: Stilleben von
+Rettichen, Blumenkohl und Ã¤hnlichem, arrangiert in stundenlangen
+Sitzungen mit wechselnden LichtverhÃ¤ltnissen, aufgenommen nach den
 neuesten Erkenntnissen der Fototechnik -- mehr kann ich leider nicht
 dazu sagen, ich bin ja nur ein dummer Software-Ingenieur. Dann folgten,
-für einen Kurs, Menschen in der Stadt, was ja in San Francisco sehr
+fÃ¼r einen Kurs, Menschen in der Stadt, was ja in San Francisco sehr
 aufregend ist, da wirklich alle Hautfarben vertreten sind. Zur Zeit
 sind's wieder arrangierte Bilder, der neueste Schrei sind Kompositionen
 mit Eiern und Bleistiften.
 Ich mag ja immer noch die Bilder vom
-Kindergarten, aber die Frau Künstlerin wird fuchsteufelswild, wenn man
-sie auf die überwundenen Phasen ihrer Karriere anspricht. Demnächst
+Kindergarten, aber die Frau KÃ¼nstlerin wird fuchsteufelswild, wenn man
+sie auf die Ã¼berwundenen Phasen ihrer Karriere anspricht. DemnÃ¤chst
 werden ihre Werke in den Hallen der Uni ausgestellt, da ist sie schon
-ganz aufgeregt und ich muss zur Eröffnung mit, eieiei ... Drei
+ganz aufgeregt und ich muss zur ErÃ¶ffnung mit, eieiei ... Drei
 Bilder aus ihrem Opus lege ich bei: 
 <CONFIDENTIAL>Drei</CONFIDENTIAL> <HTMLONLY>Zwei</HTMLONLY>
 Racker vom Kindergarten,
 das Stilleben von Bleistiften mit Ei und ein
-Selbsportrait -- durch Drucker und Kopierer gejagt natürlich
-nicht, wie die Frau Künstlerin betont, zu vergleichen mit den
+Selbsportrait -- durch Drucker und Kopierer gejagt natÃ¼rlich
+nicht, wie die Frau KÃ¼nstlerin betont, zu vergleichen mit den
 Originalen, aber immerhin!
 
 <CONFIDENTIAL>
@@ -354,24 +354,24 @@ Originalen, aber immerhin!
 <pic images/a3.ps Angelika: "Selbstportrait">
 
 Der neue Austin-Powers-Film "The Spy Who Shagged Me" (die deutsche
-Übersetzung wird bestimmt spannend) ist draußen und Angelika und
+Ãœbersetzung wird bestimmt spannend) ist drauÃŸen und Angelika und
 ich haben ihn an einem Wochenende in einem Kino in Japantown gesehen,
 was haben wir gelacht, und danach haben wir uns mal wieder japanische Suppen
 mit Udon-Nudeln reingezogen, schmackofatz! Der Film ist voller Anspielungen
-auf die amerikanische Gesellschaft, so ist das Zentrum des Bösen im
+auf die amerikanische Gesellschaft, so ist das Zentrum des BÃ¶sen im
 Film die Zentrale der von allen San-Franciscoianern gehassten Kaffeehauskette
 "Starbucks", die aus Seattle stammt, der Stadt, die keiner aus San Francisco
-ausstehen kann. Die schiefen Zähne des Superhelden sind übrigens eine
-Anspielung auf Europa: Austin Powers ist ja Engländer und spricht mit
+ausstehen kann. Die schiefen ZÃ¤hne des Superhelden sind Ã¼brigens eine
+Anspielung auf Europa: Austin Powers ist ja EnglÃ¤nder und spricht mit
 britischem Akzent, und im Gegensatz
-zu Amerika, wo jedes Kind eine Zahnspange trägt, wird in Europa
+zu Amerika, wo jedes Kind eine Zahnspange trÃ¤gt, wird in Europa
 auch ein wenig Wildwuchs geduldet,
-worüber sich die Amerikaner gerne lustig machen.
+worÃ¼ber sich die Amerikaner gerne lustig machen.
 Auch in den Sprachalltag sind einige Dialoge aus dem
 Film bereits eingeflossen: Will man, dass jemand ruhig ist, versucht man's
 erst mit schhhh! und dann mit "double-u-double-u-double-u-dot-schhhh!-dot-com"
 (www.schhhh!.com)! Sehr guter Film, ein Muss! -- Oder wie die Werbung
-für den Film vorschlägt: "Falls Sie diesen Sommer nur einen Film
+fÃ¼r den Film vorschlÃ¤gt: "Falls Sie diesen Sommer nur einen Film
 sehen -- schau'n Sie sich 'Krieg der Sterne' an. Falls Sie sich zu zweien
 aufraffen: Gehen Sie auch noch in 'The Spy Who Shagged Me'. Bescheidener
 geht's nicht.
@@ -381,79 +381,79 @@ geht's nicht.
 @Z: Perl Power
 
 Mein Buch "Perl Power", das ja seit Januar in den Buchhandlungen
-englischsprachiger Länder lungert, erfreut sich steigender Beliebtheit.
-Immer öfter kommen Leute bei Netscape an meinem Cubicle vorbei
-und wollen, dass ich ihre Ausgabe signiere, was ich natürlich
+englischsprachiger LÃ¤nder lungert, erfreut sich steigender Beliebtheit.
+Immer Ã¶fter kommen Leute bei Netscape an meinem Cubicle vorbei
+und wollen, dass ich ihre Ausgabe signiere, was ich natÃ¼rlich
 gerne mache.
-Wann immer wir bei unseren Wochenendausflügen an einem Buchladen
-vorbeikommen, muss ich natürlich reinschauen -- und nachsehen, ob
+Wann immer wir bei unseren WochenendausflÃ¼gen an einem Buchladen
+vorbeikommen, muss ich natÃ¼rlich reinschauen -- und nachsehen, ob
 sie "Perl Power" auch haben. Meistens stehen zwei, drei Exemplare
 irgendwo, die plaziere ich, wenn keiner herschaut, immer schnell in
 den "Angebot der Woche"-Regalen. Wenn man sich nicht um alles
-selber kümmert ... Neulich bekam ich, ohne Schmarrn, eine E-Mail
+selber kÃ¼mmert ... Neulich bekam ich, ohne Schmarrn, eine E-Mail
 von einem Herrn
-McKenzie aus Reykjavik/Island, der sich darüber beklagte, dass eines der
+McKenzie aus Reykjavik/Island, der sich darÃ¼ber beklagte, dass eines der
 im Buch abgedruckten Programme bei ihm nicht funktionierte. Wahrscheinlich
 ein Stromausfall im Iglu ... nein, er hatte nur ein Modul nicht richtig
 installiert.
 
 @Z: Der Bike-Nazi
 
-Auch ins Netscape-Büro nach Mountain View fahre ich gerne mit dem
-Fahrrad und dem Zug, da kann ich auf dem Hin- und Rückweg jeweils
-eine Stunde lang die ganzen Computerhefte und -bücher lesen, die
-sich zu Hause stapeln. Außerdem gibt's auf der Fahrt mit dem Zug
+Auch ins Netscape-BÃ¼ro nach Mountain View fahre ich gerne mit dem
+Fahrrad und dem Zug, da kann ich auf dem Hin- und RÃ¼ckweg jeweils
+eine Stunde lang die ganzen Computerhefte und -bÃ¼cher lesen, die
+sich zu Hause stapeln. AuÃŸerdem gibt's auf der Fahrt mit dem Zug
 immer was zu lachen. Wie ich schon mal geschrieben habe, kann jeder
-Zug 24 Fahrräder befördern, und die Schaffner achten normalerweise
+Zug 24 FahrrÃ¤der befÃ¶rdern, und die Schaffner achten normalerweise
 gewissenhaft darauf, dass nicht mehr reinkommen, bei jeder Haltestelle
-rennen sie ins sogenannte Bike-Car und stellen sich an der Tür auf,
-um hereindrängende Fahrradfahrer zurückzuweisen, falls der Wagen
+rennen sie ins sogenannte Bike-Car und stellen sich an der TÃ¼r auf,
+um hereindrÃ¤ngende Fahrradfahrer zurÃ¼ckzuweisen, falls der Wagen
 schon voll ist. Manche Schaffner, und das sind die Lieblinge der
 Fahrradfahrer, die wie Helden gefeiert werden,
 scheuen allerdings die Konfrontation und lassen sich
-einfach nie im Bike-Car blicken, wenn der Zug hält,
+einfach nie im Bike-Car blicken, wenn der Zug hÃ¤lt,
 was zur Folge hat, dass an jeder
 Station neue Radler an Bord kommen -- einmal habe ich's erlebt, dass
-35 Fahrräder drin waren, da konnte man dann kaum noch atmen, aber
+35 FahrrÃ¤der drin waren, da konnte man dann kaum noch atmen, aber
 immer wenn so etwas passiert, ist Super-Stimmung im Bike-Car, denn die
-Fahrradler in San Francisco und Silicon Valley sind eine unterdrückte
-Minderheit, und da stellt sich dann ein schönes
-Zusammengehörigkeitsgefühl ein. Da werden Geschichten darüber
-erzählt, wer die spektakulärsten Unfälle hatte und wie doof die
+Fahrradler in San Francisco und Silicon Valley sind eine unterdrÃ¼ckte
+Minderheit, und da stellt sich dann ein schÃ¶nes
+ZusammengehÃ¶rigkeitsgefÃ¼hl ein. Da werden Geschichten darÃ¼ber
+erzÃ¤hlt, wer die spektakulÃ¤rsten UnfÃ¤lle hatte und wie doof die
 Autofahrer sind. Ein Schaffner allerdings -- er wird von den Radlern
 "Bike-Nazi" genannt -- nimmt's besonders genau und
-achtet peinlich darauf, dass jeder sein Fahrrad in genau den Ständer
+achtet peinlich darauf, dass jeder sein Fahrrad in genau den StÃ¤nder
 stellt, den er ihm zuweist. Der Bike-Nazi legt da irgendwelche
-obskuren Berechnungen zugrunde, nachdem es günstiger ist, wenn
+obskuren Berechnungen zugrunde, nachdem es gÃ¼nstiger ist, wenn
 der, der zuerst aussteigt, sein Fahrrad ganz vorne hat. Ich lache
 dann immer in mich hinein und sage nichts, aber neulich ging einem
-Fahrgast die Sicherung durch und er beschimpfte den Bike-Nazi wüst.
+Fahrgast die Sicherung durch und er beschimpfte den Bike-Nazi wÃ¼st.
 Er, der Schaffner, sei der Einzige, der diesen "Shit" mache,
-und er würde sich beschweren, er werde schon sehen, wenn er bald seinen
-"pink slip" (Kündigungsschreiben) in Händen halte. Ich
+und er wÃ¼rde sich beschweren, er werde schon sehen, wenn er bald seinen
+"pink slip" (KÃ¼ndigungsschreiben) in HÃ¤nden halte. Ich
 musste schmunzeln, als ich in meinem Buch weiterlas. Auch gibt es
-in San Francisco bestimmte Routen für Fahrradfahrer, über die man
+in San Francisco bestimmte Routen fÃ¼r Fahrradfahrer, Ã¼ber die man
 von A nach B kommt,
-ohne einen der kraftraubenden Hügel überqueren zu müssen. Die Strecken
+ohne einen der kraftraubenden HÃ¼gel Ã¼berqueren zu mÃ¼ssen. Die Strecken
 erhalten dann lustige Namen, die nur die Radfahrer kennen, und die
-in mündlicher Tradition von Biker zu Biker weitergegeben werden. Der
+in mÃ¼ndlicher Tradition von Biker zu Biker weitergegeben werden. Der
 <LINK>http://en.wikipedia.org/wiki/The_Wiggle|Duboce-Shuffle</LINK> zum 
 Beispiel, eine verzwickte Route von der Market Street
-zum Golden-Gate-Park -- ohne viel Autoverkehr und fast ohne Hügel.
+zum Golden-Gate-Park -- ohne viel Autoverkehr und fast ohne HÃ¼gel.
 Oder der "John-Benton-Overpath", von der Bahnstation an der
-22sten Straße nach Noe Valley, wo wir wohnen. Ausgedacht hat sich
+22sten StraÃŸe nach Noe Valley, wo wir wohnen. Ausgedacht hat sich
 die Strecke ein Herr namens John Benton, ein Caltrain-Biker,
-den ich die Ehre habe, persönlich zu kennen.
+den ich die Ehre habe, persÃ¶nlich zu kennen.
 Euer Michael -- "Man of the people, friend to the stars!".
 
 So, schon sind wir am Ende angelangt, die Frau Fotografin hat 
-versprochen, nächstes Mal auch wieder was Geschriebenes zu 
+versprochen, nÃ¤chstes Mal auch wieder was Geschriebenes zu 
 liefern -- denkt daran, dass es auch
 diesmal wieder was zu gewinnen gibt:
-Welches außer dem ersten abgedruckten Bild wurde
-noch digital verändert, ist also eine plumpe Fälschung?
-Die erste richtige Email und der erste Brief, der über den normalen
+Welches auÃŸer dem ersten abgedruckten Bild wurde
+noch digital verÃ¤ndert, ist also eine plumpe FÃ¤lschung?
+Die erste richtige Email und der erste Brief, der Ã¼ber den normalen
 Postweg eingeht, gewinnt den exklusiven Preis: Jeweils ein handentwickeltes
-Original (auf Wunsch handsigniert) der Künstlerin,
+Original (auf Wunsch handsigniert) der KÃ¼nstlerin,
 im Format 25cm x 20cm. Macht jede Studentenbude zum 
 Intellektuellen-Loft. Bis die Tage! Michael und Angelika

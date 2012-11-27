@@ -4,37 +4,37 @@ San Francisco, den 15.12.2006
 
 <em>Angelika</em><HTMLONLY><BR></HTMLONLY>
 Paukenschlag und Trommelwirbel: Unser Rundbrief ist gerade 10 geworden. Vor
-genau 10 Jahren habe ich den Rundbrief mit der Nummer 0 geschrieben, in München 
+genau 10 Jahren habe ich den Rundbrief mit der Nummer 0 geschrieben, in MÃ¼nchen 
 zwischen Umzugskisten 
 sitzend. Michael weilte da schon in San Francisco. So dachte ich mir,
-ein Rückblick wäre fällig und äußerst passend aus gegebenem Anlass.
-Ihr kennt ja die Jahresrückblicke, die zwischen Weihnachten und Neujahr
+ein RÃ¼ckblick wÃ¤re fÃ¤llig und Ã¤uÃŸerst passend aus gegebenem Anlass.
+Ihr kennt ja die JahresrÃ¼ckblicke, die zwischen Weihnachten und Neujahr
 die Zeitungen und Fernsehsendungen dominieren. Dem wollten wir nicht
 nachstehen, nur dass wir gleich mit deutschen und amerikanischen
 Ereignissen aus 10 Jahren auffahren:
  
 @Z: 1996
  
-<pic images/ksf.ps Die Umzugskiste aus München kommt in San Francisco an.>
+<pic images/ksf.ps Die Umzugskiste aus MÃ¼nchen kommt in San Francisco an.>
 
-Das Traditionsunternehmen AEG geht pleite. Im Frühling wird der Vater
+Das Traditionsunternehmen AEG geht pleite. Im FrÃ¼hling wird der Vater
 von Steffi Graf wegen Steuerhinterziehung angeklagt. Deutschland gewinnt
-die Fußball-EM in England. Die Olympischen Spiele finden in der
+die FuÃŸball-EM in England. Die Olympischen Spiele finden in der
 US-Metropole Atlanta statt und werden von einem Bombenattentat
-überschattet. Im Juli wird die deutsche Rechtschreibreform in Wien
+Ã¼berschattet. Im Juli wird die deutsche Rechtschreibreform in Wien
 verabschiedet. Auf den Einmarsch irakischer Truppen in die
-Kurdenschutzzone antworten die USA mit einem Millitärschlag im
-September. Im November wird Bill Clinton für weitere vier Jahre zum
-US-Präsidenten gewählt. Ein neues Ladenschutzgesetz tritt in
-Deutschland in Kraft: Geschäfte können von Montag bis Freitag bis 20
-Uhr und am Samstag bis 16 Uhr ihre Türen für Kunden öffnen. Die
-Deutsche Telekom AG geht an die Börse. Im August heiraten wir. Michaels
+Kurdenschutzzone antworten die USA mit einem MillitÃ¤rschlag im
+September. Im November wird Bill Clinton fÃ¼r weitere vier Jahre zum
+US-PrÃ¤sidenten gewÃ¤hlt. Ein neues Ladenschutzgesetz tritt in
+Deutschland in Kraft: GeschÃ¤fte kÃ¶nnen von Montag bis Freitag bis 20
+Uhr und am Samstag bis 16 Uhr ihre TÃ¼ren fÃ¼r Kunden Ã¶ffnen. Die
+Deutsche Telekom AG geht an die BÃ¶rse. Im August heiraten wir. Michaels
 Buch "Effektives Prgrammieren mit Perl 5" wird gedruckt. Michael fliegt
-am 9. November nach San Francisco und fängt als Softwareentwickler bei
+am 9. November nach San Francisco und fÃ¤ngt als Softwareentwickler bei
 der Startup-Firma "Black Sun Interactive" an. Angelika organisiert den
-Umzug. Am 9.12. wird die Holzkiste für den Container nach Amerika
+Umzug. Am 9.12. wird die Holzkiste fÃ¼r den Container nach Amerika
 gepackt. Am 23.12. holt die Umzugsfirma die restlichen Sachen zur
-Einlagerung ab. Es herrscht dabei Eisregen in München. Michael findet
+Einlagerung ab. Es herrscht dabei Eisregen in MÃ¼nchen. Michael findet
 eine Wohnung im Stadtteil Noe Valley. Am 30.12. landet Angelika in San
 Francisco.
  
@@ -43,145 +43,145 @@ Francisco.
 
 <pic images/lm.ps Michaels Kolumne "Perl-Snapshot" im Linuxmagazin geht ins zehnte Jahr: Die Ausgaben 10/1997 und 01/2007.>
  
-Im Februar öffnet die umstrittene Ausstellung zu Verbrechen der
-Wehrmacht ihre Tore. Im Mai wird in Bremen ein Teil des berümten
+Im Februar Ã¶ffnet die umstrittene Ausstellung zu Verbrechen der
+Wehrmacht ihre Tore. Im Mai wird in Bremen ein Teil des berÃ¼mten
 Bernsteinzimmers gefunden. Der Sommer bringt dem deutschen Radprofi Jan
-Ullrich den Tour-de-France-Sieg. Der Münchener Schauspieler Helmut
-Fischer ("Monaco Franze") stirbt im Alter von 70 Jahren in München. Der
-ehemalige Staatschef der DDR Egon Krenz wird zu 6 1/2 Jahren Gefängnis
-verurteilt. Im September beschließt der Bundestag die Reform des
+Ullrich den Tour-de-France-Sieg. Der MÃ¼nchener Schauspieler Helmut
+Fischer ("Monaco Franze") stirbt im Alter von 70 Jahren in MÃ¼nchen. Der
+ehemalige Staatschef der DDR Egon Krenz wird zu 6 1/2 Jahren GefÃ¤ngnis
+verurteilt. Im September beschlieÃŸt der Bundestag die Reform des
 Kindschaftsrechts zur weitgehenden Gleichstellung ehelicher und nicht
-ehelicher Kinder. Roy Lichtenstein, einer der größten
-Pop-Art-Künstler, stirbt in New York. Im Oktober feiert Siemens sein
-150-jähriges Bestehen, und der deutsche Bundestag verabschiedet die
+ehelicher Kinder. Roy Lichtenstein, einer der grÃ¶ÃŸten
+Pop-Art-KÃ¼nstler, stirbt in New York. Im Oktober feiert Siemens sein
+150-jÃ¤hriges Bestehen, und der deutsche Bundestag verabschiedet die
 Rentenreform. Angelika besucht Englischkurse im City College. Die
-Umzugskisten treffen in San Francisco ein. Angelika fällt beim ersten
-Versuch durch die praktische kalifornische Führerscheinprüfung, beim
-zweiten Anlauf klappt es. Im September fängt Angelika als ehrenamtliche
+Umzugskisten treffen in San Francisco ein. Angelika fÃ¤llt beim ersten
+Versuch durch die praktische kalifornische FÃ¼hrerscheinprÃ¼fung, beim
+zweiten Anlauf klappt es. Im September fÃ¤ngt Angelika als ehrenamtliche
 Mitarbeiterin im Tenderloin Childcare Center an. Michael wechselt zu AOL,
-da Black Sun sein Büro in San Francisco vollständig schließt. 
+da Black Sun sein BÃ¼ro in San Francisco vollstÃ¤ndig schlieÃŸt. 
 Angelika schreibt sich in ihren ersten Fotokurs ein.
 Michael schreibt die erste Ausgabe des "Perl-Snapshot", einer bis
 heute monatlich laufenden Kolumne im Linux-Magazin. 
  
 @Z: 1998
  
-<pic images/kohl.ps Und tschüss: Der Kanzler, den sie "Birne" nannten.>
+<pic images/kohl.ps Und tschÃ¼ss: Der Kanzler, den sie "Birne" nannten.>
 
-Im US-Bundestaat Texas wird zum ersten Mal seit über 100 Jahren wieder
+Im US-Bundestaat Texas wird zum ersten Mal seit Ã¼ber 100 Jahren wieder
 eine Frau, Karla Faye Tucker, hingerichtet. Im Juni ereignet sich ein
-schweres Zugunglück in Deutschland. Der ICE "Wilhelm Conrad Röntgen"
-entgleist auf der Stecke von München nach Hamburg bei Eschede. Mehr als
+schweres ZugunglÃ¼ck in Deutschland. Der ICE "Wilhelm Conrad RÃ¶ntgen"
+entgleist auf der Stecke von MÃ¼nchen nach Hamburg bei Eschede. Mehr als
 100 Menschen sterben. In Kenia und Tanzania werden im August Terrorakte
-auf amerikanische Botschaften verübt, denen Hunderte zum Opfer fallen.
-Während Helmut Kohl die Wahl zum Bundeskanzler im Herbst gegen Gerhard
-Schröder verliert, entschuldigt sich Präsident Bill Clinton öffentlich
-für seine Affäre mit der ehemaligen Praktikantin
+auf amerikanische Botschaften verÃ¼bt, denen Hunderte zum Opfer fallen.
+WÃ¤hrend Helmut Kohl die Wahl zum Bundeskanzler im Herbst gegen Gerhard
+SchrÃ¶der verliert, entschuldigt sich PrÃ¤sident Bill Clinton Ã¶ffentlich
+fÃ¼r seine AffÃ¤re mit der ehemaligen Praktikantin
 Monica Lewinsky. Trotzdem wird im Oktober das
 Amtsenthebungsverfahren ("impeachment") gegen ihn eingeleitet. Die Wahlen
 im November bescheren der demokratische Partei Clintons dennoch leichte
-Stimmengewinne im Repräsentantenhaus, es reicht aber nicht zur Mehrheit.
+Stimmengewinne im ReprÃ¤sentantenhaus, es reicht aber nicht zur Mehrheit.
 Vor Ausklang des Jahres ordnet Clinton Luftangriffe auf
-Schlüsselstellungen im Irak an, um Saddam Husseins Möglichkeiten zum
-Herstellen von Massenvernichtungswaffen einzuschränken. Angelika belegt
-diverse Kurse an der Universität Berkeley Extension. Die zweite,
-überarbeitete Auflage von Michaels deutschem Buch sowie die englische
-Übersetzung "Perl Power" erscheinen.
+SchlÃ¼sselstellungen im Irak an, um Saddam Husseins MÃ¶glichkeiten zum
+Herstellen von Massenvernichtungswaffen einzuschrÃ¤nken. Angelika belegt
+diverse Kurse an der UniversitÃ¤t Berkeley Extension. Die zweite,
+Ã¼berarbeitete Auflage von Michaels deutschem Buch sowie die englische
+Ãœbersetzung "Perl Power" erscheinen.
  
 @Z: 1999
 
 <pic images/perly.ps Eines der besten Autos der Welt: PERLMAN.>
  
-Die Währungsunion tritt in Kraft: In Deutschland und anderen EU-Staaten
+Die WÃ¤hrungsunion tritt in Kraft: In Deutschland und anderen EU-Staaten
 rechnet man von nun ab in Euros. Der amerikanische Senat spricht
-US-Präsident Bill Clinton im Februar von den Vorwürfen des Meineids und
-der Behinderung der Justiz in der Affäre um
-Monica Lewinsky frei. Im April hält der Bundestag seine
-Eröffnungssitzung im renovierten Reichstag in Berlin. Zwei Jugendliche
+US-PrÃ¤sident Bill Clinton im Februar von den VorwÃ¼rfen des Meineids und
+der Behinderung der Justiz in der AffÃ¤re um
+Monica Lewinsky frei. Im April hÃ¤lt der Bundestag seine
+ErÃ¶ffnungssitzung im renovierten Reichstag in Berlin. Zwei Jugendliche
 der Columbine High School in Littleton bei Denver dringen mit Waffen in
-ihre Schule ein und töten 12 Schüler und einen Lehrer. Im Sommer zieht
-sich Steffi Graf aus dem Profitennis zurück. Deutschland wird 10 Jahre
+ihre Schule ein und tÃ¶ten 12 SchÃ¼ler und einen Lehrer. Im Sommer zieht
+sich Steffi Graf aus dem Profitennis zurÃ¼ck. Deutschland wird 10 Jahre
 nach dem Mauerfall wieder von Berlin aus regiert. Der Herbst bringt
-Günter Grass den Nobelpreis für Literatur. Das Jahr 1999 geht und das
-befürchtete Jahr-2000-Computerproblem bleibt aus. Angelika absolviert
+GÃ¼nter Grass den Nobelpreis fÃ¼r Literatur. Das Jahr 1999 geht und das
+befÃ¼rchtete Jahr-2000-Computerproblem bleibt aus. Angelika absolviert
 ein Erdbebentraining. Wir kaufen unser Auto, den 
 "Perlman".
 Michael
-läuft das erste Mal beim Stadtrennen 
+lÃ¤uft das erste Mal beim Stadtrennen 
 "Bay-to-Breakers" mit. Angelika
-fängt als Helferin in der Dunkelkammer der UC Berkeley Extension an.
+fÃ¤ngt als Helferin in der Dunkelkammer der UC Berkeley Extension an.
  
 @Z: 2000
  
 <pic images/cow.ps 2000: Der BSE-Skandal kommt nach Deutschland.>
 
-Anfang des Jahres läuft die CDU-Spendenaffäre um Helmut Kohl und die
+Anfang des Jahres lÃ¤uft die CDU-SpendenaffÃ¤re um Helmut Kohl und die
 verdeckten Konten auf Hochtouren. Im Februar stirbt der "Snoopy"- und
 "Peanuts"-Erfinder Charles M. Schulz in Kalifornien. Amerikanische
-Forscher entschüsseln das Erbgut des Menschen vollständig. Im Mai
-öffnet die Weltausstellung "Mensch-Natur-Technik - eine neue Welt
+Forscher entschÃ¼sseln das Erbgut des Menschen vollstÃ¤ndig. Im Mai
+Ã¶ffnet die Weltausstellung "Mensch-Natur-Technik - eine neue Welt
 entsteht" in Hannover ihre Tore. Im Sommer kommt es zur Unterzeichnung
-der Verträge zur Entschädigung von NS-Zwangsarbeitern. Von nun an gibt
+der VertrÃ¤ge zur EntschÃ¤digung von NS-Zwangsarbeitern. Von nun an gibt
 es eine deutsche Greencard.  Der November beschert der Welt einen noch
-nicht da gewesenen US-Wahlkrimi. Erst nach über einem Monat und einigem
-gerichtlichen Hickhack, welche Stimmen wann, wie und wieoft gezählt
-werden dürfen, steht der neue amerikanische Präsident fest: George W.
-Bush "schlägt" den Demokraten Al Gore. Friedrich Merz streitet hingegen
+nicht da gewesenen US-Wahlkrimi. Erst nach Ã¼ber einem Monat und einigem
+gerichtlichen Hickhack, welche Stimmen wann, wie und wieoft gezÃ¤hlt
+werden dÃ¼rfen, steht der neue amerikanische PrÃ¤sident fest: George W.
+Bush "schlÃ¤gt" den Demokraten Al Gore. Friedrich Merz streitet hingegen
 um die deutsche Leitkultur. Die erste Kuh testet auf deutschem Boden
-positiv auf BSE. Unser Visum muss verlängert werden.
+positiv auf BSE. Unser Visum muss verlÃ¤ngert werden.
  
 @Z: 2001
 
-<pic images/sfm.ps 2001: Michael läuft den San Francisco Marathon in 4:38:20>
+<pic images/sfm.ps 2001: Michael lÃ¤uft den San Francisco Marathon in 4:38:20>
  
 In 2001 treten erstmals in der Geschichte der Bundeswehr Frauen den
 Dienst mit der Waffe an. Im April fliegt der erste Tourist ins
-Weltall: Der Amerikaner Dennis Tito lässt sich den Spaß 20 Millionen
+Weltall: Der Amerikaner Dennis Tito lÃ¤sst sich den SpaÃŸ 20 Millionen
 Dollar kosten. Im Juni einigen sich Vertreter der Bundesregierung und
 Energiewirtschaft auf den schrittweisen Ausstieg aus der Kernenergie. Die
-so genannte Homo-Ehe tritt in Deutschland in Kraft. Das Jüdische Museum
-in Berlin eröffnet feierlich. Am 11. September erleben die USA die
-schlimmsten Terroranschläge. Terroristen fliegen zwei Flugzeuge in das
-World Trade Center in New York. Die Türme stürzen daraufhin ein und
-reißen 3000 Menschen in den Tod. Ein weiteres gekapertes Flugzeug wird
-auf das Pentagon gelenkt. Das vierte stürzt bei Pittsburgh ab. Osama Bin
-Laden gilt als Drahtzieher der Anschläge. Wenig später tauchen in den
+so genannte Homo-Ehe tritt in Deutschland in Kraft. Das JÃ¼dische Museum
+in Berlin erÃ¶ffnet feierlich. Am 11. September erleben die USA die
+schlimmsten TerroranschlÃ¤ge. Terroristen fliegen zwei Flugzeuge in das
+World Trade Center in New York. Die TÃ¼rme stÃ¼rzen daraufhin ein und
+reiÃŸen 3000 Menschen in den Tod. Ein weiteres gekapertes Flugzeug wird
+auf das Pentagon gelenkt. Das vierte stÃ¼rzt bei Pittsburgh ab. Osama Bin
+Laden gilt als Drahtzieher der AnschlÃ¤ge. Wenig spÃ¤ter tauchen in den
 USA Briefe auf, die mit Milzbranderregern verseucht sind. Mehrere
 Menschen sterben an Lungenmilzbrand. Im Oktober kommt es zu ersten
 amerikanischen Luftangriffen auf Afghanistan. Bin Ladens
-Terrororganisation soll zerschlagen werden. Gerhard Schröder stellt im
-November die Vertrauensfrage und verknüpft diese mit der Abstimmung
-über eine Beteiligung der Bundeswehr im Anti-Terror-Kampf. Im Dezember
+Terrororganisation soll zerschlagen werden. Gerhard SchrÃ¶der stellt im
+November die Vertrauensfrage und verknÃ¼pft diese mit der Abstimmung
+Ã¼ber eine Beteiligung der Bundeswehr im Anti-Terror-Kampf. Im Dezember
 wird am Funtensee im Nationalpark Berchtesgaden die tiefste Temperatur
 seit Beginn der Wetteraufzeichnungen in Deutschland gemessen, - 45.9
-Celsius. Michael kommt nach über vier Jahren das erste Mal zu Besuch
+Celsius. Michael kommt nach Ã¼ber vier Jahren das erste Mal zu Besuch
 nach Deutschland. Angelika hat eine Fotoausstellung mit ihrer Fotogruppe
 im Rathaus von San Francisco. Wir fangen an, japanisch zu lernen. Michael
-läuft den San-Francisco-Marathon.
+lÃ¤uft den San-Francisco-Marathon.
  
 @Z: 2002
 
 <pic images/gca.ps 2002: Wir bekommen die amerikanische Greencard>
  
-Zu Beginn des Jahres löst der Euro die vertraute D-Mark als Bargeld ab.
-In Kuba errichten die USA ein Gefangenenlager namens Guantanamo Bay für
-Taliban- und Al-Quaida-Kämpfer ein. Salt Lake City im US-Bundesstaat
-Utah begrüßt im Februar Athleten aus aller Welt zu den Olympischen
+Zu Beginn des Jahres lÃ¶st der Euro die vertraute D-Mark als Bargeld ab.
+In Kuba errichten die USA ein Gefangenenlager namens Guantanamo Bay fÃ¼r
+Taliban- und Al-Quaida-KÃ¤mpfer ein. Salt Lake City im US-Bundesstaat
+Utah begrÃ¼ÃŸt im Februar Athleten aus aller Welt zu den Olympischen
 Winterspielen und versucht, sein Image als konservative Mormonenstadt
-abzuschütteln. Im April tötet ein 19-jähriger ehemaliger Schüler des
+abzuschÃ¼tteln. Im April tÃ¶tet ein 19-jÃ¤hriger ehemaliger SchÃ¼ler des
 Gutenberg-Gymnasiums in Erfurt 17 Menschen bei seinem Amoklauf in der
-Schule. Bei der Fußballweltmeisterschaft in Japan und Südkorea schafft
+Schule. Bei der FuÃŸballweltmeisterschaft in Japan und SÃ¼dkorea schafft
 es die deutsche Mannschaft, bis ins Finale zu kommen, verliert
 dann aber gegen Brasilien. Der August bringt ein Jahrhundert-Hochwasser
-an der Elbe und richtet große Schäden in Ostdeutschland an.
-Bundeskanzler Schröder schafft es im Herbst, seinen Bundeskanzlerposten
-zu verteidigen. Allerdings gewinnen die SPD und die Grünen mit nur
-knapper Mehrheit. In Washington und Umgebung hält der Heckenschütze
-John Allen Williams die Bevölkerung in Atem. Er erschießt wahllos
+an der Elbe und richtet groÃŸe SchÃ¤den in Ostdeutschland an.
+Bundeskanzler SchrÃ¶der schafft es im Herbst, seinen Bundeskanzlerposten
+zu verteidigen. Allerdings gewinnen die SPD und die GrÃ¼nen mit nur
+knapper Mehrheit. In Washington und Umgebung hÃ¤lt der HeckenschÃ¼tze
+John Allen Williams die BevÃ¶lkerung in Atem. Er erschieÃŸt wahllos
 Menschen aus seinem Auto heraus. Deutschland trauert im November um den
 Spiegel-Herausgeber Rudolf Augstein. Zum Jahresausklang wird bekannt,
-dass der ehemalige US-Präsident Jimmy Carter den Friedensnobelpreis
-erhält. Im April erhalten wir die amerikanische Greencard. Wir entdecken
+dass der ehemalige US-PrÃ¤sident Jimmy Carter den Friedensnobelpreis
+erhÃ¤lt. Im April erhalten wir die amerikanische Greencard. Wir entdecken
 Japan im Mai. Ab September arbeitet Angelika als Springkraft im
 Tenderloin Childcare Center und nicht mehr ehrenamtlich.
  
@@ -189,44 +189,44 @@ Tenderloin Childcare Center und nicht mehr ehrenamtlich.
  
 <pic images/roy.ps 2003: Roy von "Siegfried und Roy" wird vom Tiger gebissen.>
 
-Im Februar geht die amerikanische Raumfähre Columbia beim Eintritt in
-die Erdatmosphäre in Flammen auf und reißt sieben Astronauten in den
-Tod. US-Außenminister Powell legt im UN-Sicherheitsrat angebliche
-Beweise vor, dass der Irak über Massenvernichtungswaffen verfügt.
+Im Februar geht die amerikanische RaumfÃ¤hre Columbia beim Eintritt in
+die ErdatmosphÃ¤re in Flammen auf und reiÃŸt sieben Astronauten in den
+Tod. US-AuÃŸenminister Powell legt im UN-Sicherheitsrat angebliche
+Beweise vor, dass der Irak Ã¼ber Massenvernichtungswaffen verfÃ¼gt.
 Weltweit demonstrieren Millionen von Menschen gegen den bevorstehenden
-Irak-Krieg. Am 20.3. erklärt Präsident Bush dem Irak den Krieg und die
+Irak-Krieg. Am 20.3. erklÃ¤rt PrÃ¤sident Bush dem Irak den Krieg und die
 ersten Bomben fallen auf Bagdad. Im Sommer begeht der ehemalige FDP-
-Politiker Jürgen Möllemann Selbstmord, indem er mit seinem Fallschirm 
-in den Tod springt. Stromausfälle legen den Nordosten der USA lahm und sorgen
-für Chaos. Im Oktober wird der deutschstämmige Roy von "Siegfried und Roy" 
-während einer Show in Las Vegas von einem seiner weißen Tiger
+Politiker JÃ¼rgen MÃ¶llemann Selbstmord, indem er mit seinem Fallschirm 
+in den Tod springt. StromausfÃ¤lle legen den Nordosten der USA lahm und sorgen
+fÃ¼r Chaos. Im Oktober wird der deutschstÃ¤mmige Roy von "Siegfried und Roy" 
+wÃ¤hrend einer Show in Las Vegas von einem seiner weiÃŸen Tiger
 angegriffen und schwer verletzt. Das beliebte Duo kann seither nicht
 mehr auftreten. Der goldene Herbst bringt Kalifornien verheerende
-Waldbrände und einen neuen Gouverneur. Arnold Schwarzenegger wird nach
-einem spektakulären Abwahlverfahren ("recall") der erste Mann im
-bevölkerungsreichsten US-Bundesstaat. Im Dezember entdecken US-Soldaten
+WaldbrÃ¤nde und einen neuen Gouverneur. Arnold Schwarzenegger wird nach
+einem spektakulÃ¤ren Abwahlverfahren ("recall") der erste Mann im
+bevÃ¶lkerungsreichsten US-Bundesstaat. Im Dezember entdecken US-Soldaten
 Saddam Hussein in einem Erdloch, das ihm als Versteck diente, und
 verhaften ihn. Bei AOL kommt es zu erneuten Entlassungen. Michael ist
-zum Glück nicht betroffen.
+zum GlÃ¼ck nicht betroffen.
  
 @Z: 2004
 
 <pic images/yahoo.ps 2004: Michael wechselt zu Yahoo!>
  
-Im Januar wird in Deutschland die Praxisgebühr eingeführt. 10 Euro im
-Quartal müssen Patienten von nun an bei einem Arztbesuch aufbringen.
+Im Januar wird in Deutschland die PraxisgebÃ¼hr eingefÃ¼hrt. 10 Euro im
+Quartal mÃ¼ssen Patienten von nun an bei einem Arztbesuch aufbringen.
 Eine amerikanische Sonde landet auf dem Mars und sendet erste
-Bilder zur Erde. Im Frühling gehen Fotos um die Welt, die amerikanische
-Soldaten bei Folterungen an Gefangenen im irakischen Gefängnis Abu-Graib
-zeigen. Im Mai wählt Deutschland einen neuen Bundespräsidenten. Er
-heißt Horst Köhler. In Kalifornien erliegt der ehemalige US-Präsident
-Ronald Reagan seiner schweren Alzheimer-Erkrankung. Im Oktober kündigt
+Bilder zur Erde. Im FrÃ¼hling gehen Fotos um die Welt, die amerikanische
+Soldaten bei Folterungen an Gefangenen im irakischen GefÃ¤ngnis Abu-Graib
+zeigen. Im Mai wÃ¤hlt Deutschland einen neuen BundesprÃ¤sidenten. Er
+heiÃŸt Horst KÃ¶hler. In Kalifornien erliegt der ehemalige US-PrÃ¤sident
+Ronald Reagan seiner schweren Alzheimer-Erkrankung. Im Oktober kÃ¼ndigt
 Opels Mutterkonzern General Motors an, 12.000 Stellen, davon die meisten
 in Deutschland, abzubauen. 
-Der Demokrat John Kerry verliert im November die Wahl zum Präsidenten,
-George W. Bush bleibt für weitere vier Jahre im Amt.
-Im Sommer ziehen wir eine Straßenecke weiter in eine
-Dreizimmerwohnung. Michael kündigt am 1.9.2004 bei AOL und fängt am
+Der Demokrat John Kerry verliert im November die Wahl zum PrÃ¤sidenten,
+George W. Bush bleibt fÃ¼r weitere vier Jahre im Amt.
+Im Sommer ziehen wir eine StraÃŸenecke weiter in eine
+Dreizimmerwohnung. Michael kÃ¼ndigt am 1.9.2004 bei AOL und fÃ¤ngt am
 27.9. bei Yahoo! an.
  
 @Z: 2005
@@ -234,27 +234,27 @@ Dreizimmerwohnung. Michael kündigt am 1.9.2004 bei AOL und fängt am
 <pic images/canada.ps 2005: Angelika presst an einem kanadischen Briefkasten Sonnenmilch aus der Flasche.>
 
 Das neue Jahr bringt Deutschland die Arbeitsmarktreform Hartz IV und ein
-neues Zuwanderungsgestz. Gleichzeitig übersteigt die Zahl der
+neues Zuwanderungsgestz. Gleichzeitig Ã¼bersteigt die Zahl der
 Arbeitslosen die 5-Millionen-Grenze. Der Modemacher Rudolph Moshammer
-wird in München heimtückisch ermordet. Im März dominiert die
+wird in MÃ¼nchen heimtÃ¼ckisch ermordet. Im MÃ¤rz dominiert die
 amerikanische Komapatientin Terri Schiavo die Presse, denn ihr Ehemann
 erwirkt per Gerichtsbeschluss gegen den Willen ihrer Eltern, dass
 ihre Magensonde entfernt wird. Sie stirbt daraufhin, nachdem sie
 15 Jahre im Koma gelegen hat. 
-Nach dem Tod von Johannes Paul II wählt das Konklave in Rom den
-deutschen Kardinal Joseph Ratzinger zum neuen Papst. Im Mai eröffnet das
-Holocaustmahnmal in Berlin. Im Sommer löst Bundespräsient Horst
-Köhler den Bundestag vorzeitig auf. Die deutsche Rechtschreibreform
+Nach dem Tod von Johannes Paul II wÃ¤hlt das Konklave in Rom den
+deutschen Kardinal Joseph Ratzinger zum neuen Papst. Im Mai erÃ¶ffnet das
+Holocaustmahnmal in Berlin. Im Sommer lÃ¶st BundesprÃ¤sient Horst
+KÃ¶hler den Bundestag vorzeitig auf. Die deutsche Rechtschreibreform
 tritt verbindlich in Kraft. Der Amerikaner Lance Armstrong gewinnt zum siebten
-Mal die Tour de France. Hurrikan Katrina treibt sein Unwesen und verwüstet 
+Mal die Tour de France. Hurrikan Katrina treibt sein Unwesen und verwÃ¼stet 
 weite Landstriche der Bundesstaaten Mississippi und Lousiana, sowie die 
 Stadt New Orleans. Tagelang warten verzweifelte
 Menschen vergeblich auf staatliche Hilfe. Bei den vorgezogenen
 Bundestagswahlen in Deutschland im September erzielen weder 
-Rot-Grün noch Schwarz-Gelb
+Rot-GrÃ¼n noch Schwarz-Gelb
 eine Mehrheit. Der November bringt den Deutschen den neuen Pass mit
 eingespeicherten biometrischen Daten und die erste weibliche
-Bundeskanzlerin: Angela Merkel steht von nun an der großen Koaltion vor.
+Bundeskanzlerin: Angela Merkel steht von nun an der groÃŸen Koaltion vor.
 Wir reisen zum ersten Mal in das Nachbarland Kanada und fahren zum 8. Mal
 nach Hawaii.
  
@@ -262,42 +262,42 @@ nach Hawaii.
 
 <pic images/crnp.ps Die zwei rasenden Rundbriefreporter im Capitol Reef National Park im Bundesstaat Utah>
  
-Der frühere Bundespräsident Johannes Rau stirbt im Alter von 75 Jahren.
-Im Februar weist man auf der Insel Rügen in toten Schwänen den 
-Vogelgrippenvirus H5N1 nach. Im März versinkt Bayern im Schnee. 
+Der frÃ¼here BundesprÃ¤sident Johannes Rau stirbt im Alter von 75 Jahren.
+Im Februar weist man auf der Insel RÃ¼gen in toten SchwÃ¤nen den 
+Vogelgrippenvirus H5N1 nach. Im MÃ¤rz versinkt Bayern im Schnee. 
 Wegen seiner Beteiligung
-an den Anschlägen am 11. September wird Zacarias Massaoui in den USA im
-Mai zu lebenslanger Haft verurteilt. In Berlin eröffnet der neue
-Berliner Hauptbahnhof. Während der Feierlichkeiten sticht ein
-16-Jähriger 41 Menschen nieder. Der Bär Bruno treibt sein Unwesen. Er
-ist seit 170 Jahren der erste freilebende Bär auf deutschem Boden und
-wird später erschossen. Im Juni heißt es "Zu Gast bei Freunden": In
-Deutschland findet die Fußballweltmeisterschaft statt. Die deutschen
+an den AnschlÃ¤gen am 11. September wird Zacarias Massaoui in den USA im
+Mai zu lebenslanger Haft verurteilt. In Berlin erÃ¶ffnet der neue
+Berliner Hauptbahnhof. WÃ¤hrend der Feierlichkeiten sticht ein
+16-JÃ¤hriger 41 Menschen nieder. Der BÃ¤r Bruno treibt sein Unwesen. Er
+ist seit 170 Jahren der erste freilebende BÃ¤r auf deutschem Boden und
+wird spÃ¤ter erschossen. Im Juni heiÃŸt es "Zu Gast bei Freunden": In
+Deutschland findet die FuÃŸballweltmeisterschaft statt. Die deutschen
 Kicker erreichen mit Klinsmann den dritten Platz und das Gastgeberland
-präsentiert sich der Welt mit Charme. Im Sommer beendet Joschka Fischer
+prÃ¤sentiert sich der Welt mit Charme. Im Sommer beendet Joschka Fischer
 seine lange Politikerkarriere, und Rudi Carrell stirbt an den Folgen
-seiner Krebserkrankung. Deutschland entgeht zwei Terroranschlägen: Zwei
-in Koffern versteckte Bomben in Regionalzügen zünden nicht. Im August
-verlässt Ulrich Wickert nach 15 Jahren die "Tagesthemen". Im Herbst
-veröffentlicht die Bild-Zeitung Fotos von Bundeswehrsoldaten, die mit
+seiner Krebserkrankung. Deutschland entgeht zwei TerroranschlÃ¤gen: Zwei
+in Koffern versteckte Bomben in RegionalzÃ¼gen zÃ¼nden nicht. Im August
+verlÃ¤sst Ulrich Wickert nach 15 Jahren die "Tagesthemen". Im Herbst
+verÃ¶ffentlicht die Bild-Zeitung Fotos von Bundeswehrsoldaten, die mit
 menschlichen Knochen vor der Kamera posieren. Bei den Kongress- und
-Senatswahlen in den USA erobern die Demokraten im November beide Häuser
-zurück. Schwarzenegger wird in Kalifornien wieder gewählt. Nancy Pelosi
+Senatswahlen in den USA erobern die Demokraten im November beide HÃ¤user
+zurÃ¼ck. Schwarzenegger wird in Kalifornien wieder gewÃ¤hlt. Nancy Pelosi
 schafft es als erste Frau auf den Sessel der Vorsitzenden im
-Repräsentantenhaus. US-Verteidigungsminister Donald Rumsfeld tritt einen
-Tag nach der Wahl zurück. In Deutschland kommen Schmiergeldzahlungen bei
-Siemens ans Licht. Im Mai bereisen wir den nördlichsten Bundesstaat der
+ReprÃ¤sentantenhaus. US-Verteidigungsminister Donald Rumsfeld tritt einen
+Tag nach der Wahl zurÃ¼ck. In Deutschland kommen Schmiergeldzahlungen bei
+Siemens ans Licht. Im Mai bereisen wir den nÃ¶rdlichsten Bundesstaat der
 USA: Alaska. Im Dezember ist der Bundesstaat Utah dran.
-Ende des Jahres hört Angelika nach 9 Jahren im 
+Ende des Jahres hÃ¶rt Angelika nach 9 Jahren im 
 Tenderloin
-Childcare Center auf und wechselt zu einer Frühförderungseinrichtung,
+Childcare Center auf und wechselt zu einer FrÃ¼hfÃ¶rderungseinrichtung,
 um mit einem autistischen Kind in einem asiatischen Viertel San Franciscos 
-zu arbeiten. Das zweite Jahrzehnt eines eigentlich für ein Jahr
+zu arbeiten. Das zweite Jahrzehnt eines eigentlich fÃ¼r ein Jahr
 geplanten Auslandsaufenthalts bricht an.
 
 <PRINTONLY>\vspace{0.2cm}</PRINTONLY>
 
-Unserer treuen Leserschaft wünschen wir von Herzen ein fröhliches
+Unserer treuen Leserschaft wÃ¼nschen wir von Herzen ein frÃ¶hliches
 Weihnachtsfest!
  
 <PRINTONLY>\vspace{0.2cm}</PRINTONLY>

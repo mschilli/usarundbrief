@@ -8,17 +8,17 @@ San Francisco, den 10.06.2007
 <em>Michael</em>
 Wir waren mal wieder im Urlaub. Nachdem wir Hawaii schon in- und 
 auswendig kennen, flogen wir diesmal in die andere Richtung. Erst quer
-über den Kontinent nach New York und dann noch 2 Stunden weiter östlich.
+Ã¼ber den Kontinent nach New York und dann noch 2 Stunden weiter Ã¶stlich.
 Dort liegt die englische Kolonie Bermuda, eine nur 3km breite
-und 35km lange Tropeninsel mit türkisem Wasser und langen, 
-einsamen Sandstränden.
+und 35km lange Tropeninsel mit tÃ¼rkisem Wasser und langen, 
+einsamen SandstrÃ¤nden.
 
-Bermuda liegt etwa 800 Meilen vor der Ostküste Amerikas im Atlantik.
+Bermuda liegt etwa 800 Meilen vor der OstkÃ¼ste Amerikas im Atlantik.
 Auf der Landkarte 
 <HTMLONLY>unten</HTMLONLY><PRINTONLY>in Abbildung (#3)</PRINTONLY>
 seht ihr drei Markierungen:
 "B" ist Bermuda, "P" die Karibikinsel Puerto Rico 
-und "M" die US-Großstadt Miami.
+und "M" die US-GroÃŸstadt Miami.
 Diese drei Punkte bilden das sogenannte Bermudadreieck, um das sich
 zahlreiche Legenden ranken.
 
@@ -72,137 +72,137 @@ function load() {
 </PRINTONLY>
 
 Auf Bermuda leben nur etwa 65.000 Leute, aber viel Platz ist dort nicht.
-Laut Reiseführer wird die Besiedelungsdichte Bermudas nur
-von Ballungszentren wie Hongkong übertroffen. 
-Touristen dürfen kein Auto mieten, sondern nur Motorroller oder sie weichen 
-auf die relativ gut funktionierenden öffentlichen Verkehrsmittel aus.
+Laut ReisefÃ¼hrer wird die Besiedelungsdichte Bermudas nur
+von Ballungszentren wie Hongkong Ã¼bertroffen. 
+Touristen dÃ¼rfen kein Auto mieten, sondern nur Motorroller oder sie weichen 
+auf die relativ gut funktionierenden Ã¶ffentlichen Verkehrsmittel aus.
 Nach dem Einkauf im Supermarkt die Kassiererin zu fragen, ob sie ein
-Taxi rufen könne, und dann mit fünf großen Papiertüten 20 Minuten
+Taxi rufen kÃ¶nne, und dann mit fÃ¼nf groÃŸen PapiertÃ¼ten 20 Minuten
 auf dem Parkplatz zu warten, geht allerdings auf die Nerven und deswegen 
 mieteten wir uns ein kleines Moped.
 
 <pic images/scooter.ps Die todesmutigen Rundbriefreporter auf einem geliehenen Moped auf Bermuda.>
-<HTMLONLY><pic images/tscoot.ps Scooter für Touristen bei der Scootervermietungsfirma></HTMLONLY>
+<HTMLONLY><pic images/tscoot.ps Scooter fÃ¼r Touristen bei der Scootervermietungsfirma></HTMLONLY>
 
-Das war ein Spaß! Angelika saß hintendrauf und ich bin ja bekanntlich
+Das war ein SpaÃŸ! Angelika saÃŸ hintendrauf und ich bin ja bekanntlich
 in meinen Jugendjahren Motorrad gefahren, sodass es nach einigen haarigen
-Manövern im Linksverkehr eigentlich recht gut lief. Der Bermuder braust
-auch im Auto recht zügig durch die Gegend, aber das mag daran liegen,
+ManÃ¶vern im Linksverkehr eigentlich recht gut lief. Der Bermuder braust
+auch im Auto recht zÃ¼gig durch die Gegend, aber das mag daran liegen,
 dass wir nach zehn Jahren Kalifornien etwas verlangsamt sind und auch
-schon eine gewisse Wurstigkeit im Straßenverkehr an den Tag legen. 
+schon eine gewisse Wurstigkeit im StraÃŸenverkehr an den Tag legen. 
 Die Busfahrer
 fahren jedenfalls wie die Henker, und wenn man auf dem Moped einen riesigen
 lachsfarbenen Bus im Genick hat, wird einem manchmal mulmig zumute!
 
-<pic images/hamilton.ps Die Hauptstraße der Hauptstadt Hamilton>
+<pic images/hamilton.ps Die HauptstraÃŸe der Hauptstadt Hamilton>
 
-Hätte jeder erwachsene Einwohner Bermudas ein Auto, käme der Verkehr ruckzuck 
+HÃ¤tte jeder erwachsene Einwohner Bermudas ein Auto, kÃ¤me der Verkehr ruckzuck 
 zum Erliegen. Deswegen wird jedem Haushalt eine "Access Number" zugeteilt, 
 und nur ein Auto per Access Number ist erlaubt. Ein Zweitauto gibt's nicht. 
-Wollen der Ehepartner oder zuhause wohnende Jugendliche ein Gefährt, 
-gibt's nur ein schwachbrüstiges Moped, das schwindelerregende $4.000 kostet!
-Die Zulassung für ein mittelgroßes Auto kostet übrigens im Jahr $1.200.
+Wollen der Ehepartner oder zuhause wohnende Jugendliche ein GefÃ¤hrt, 
+gibt's nur ein schwachbrÃ¼stiges Moped, das schwindelerregende $4.000 kostet!
+Die Zulassung fÃ¼r ein mittelgroÃŸes Auto kostet Ã¼brigens im Jahr $1.200.
 Und im Auto muss immer ein Familienmitglied mitfahren. Wer beim Verleihen
 seines Autos erwischt wird, kriegt eine auf den Deckel. Das Moped darf man
-als Tourist ohne Führerschein fahren, Einheimische müssen eine Fahrerlaubnis
+als Tourist ohne FÃ¼hrerschein fahren, Einheimische mÃ¼ssen eine Fahrerlaubnis
 beantragen, die sie ab sechzehn Jahren nach einer erfolgreichen 
-Fahrprüfung erhalten.
+FahrprÃ¼fung erhalten.
 
 <pic images/taxi.ps Taxis sind sehr gefragt, da kein Tourist ein Auto mieten darf.>
 
 Die jugendlichen Mopedbesitzer fahren allerdings wie die 
 Geisteskranken. Dauernd auf der
-Überholspur, und es ereignen sich nicht wenige Unfälle. Die Vermieterin
+Ãœberholspur, und es ereignen sich nicht wenige UnfÃ¤lle. Die Vermieterin
 der Bude, in die wir uns eingenistet hatten, schaute jeden Tag, ob das 
 Moped noch heil war und lobte unsere unfallfreie Fahrweise. Anscheinend
-kommen Touristen öfter mal mit Schürfwunden und zerbeultem Gefährt 
+kommen Touristen Ã¶fter mal mit SchÃ¼rfwunden und zerbeultem GefÃ¤hrt 
 nach Hause.
 
 <pic images/beach.ps Angelika wandelt am Strand entlang.>
 
 <em>Angelika</em>
 Beim Betrachten von Ozeanen und
-bei langen Strandspaziergängen fange ich immer das Philosophieren an: Wie
-kommt das Salz ins Meer? Warum ist der Sand weiß? Auf Bermuda quälten
-mich gleich zwei Fragen: Warum ist das Meer so wunderschöen türkis und
+bei langen StrandspaziergÃ¤ngen fange ich immer das Philosophieren an: Wie
+kommt das Salz ins Meer? Warum ist der Sand weiÃŸ? Auf Bermuda quÃ¤lten
+mich gleich zwei Fragen: Warum ist das Meer so wunderschÃ¶en tÃ¼rkis und
 wieso wirbt die Tourismusbranche auf Bermuda mit den rosafarbenen
-Stränden? Denn beim ersten Hinschauen schimmert der Sand in den feinsten
-gelblich-weißen Tönen, keine Spur von rosa. Aber beim genaueren
-Betrachten kommt man dem Ganzen auf die Spur. Überall im Sand verstreut
+StrÃ¤nden? Denn beim ersten Hinschauen schimmert der Sand in den feinsten
+gelblich-weiÃŸen TÃ¶nen, keine Spur von rosa. Aber beim genaueren
+Betrachten kommt man dem Ganzen auf die Spur. Ãœberall im Sand verstreut
 befinden sich kleine rosafarbene Muschelteilchen, die den Sand teilweise
 rosa erscheinen lassen. Sie kommen von einem im Meer lebenden Tierchen
-namens "Foraminifere", das eine rötliche Schale hat. Wenn dieser
+namens "Foraminifere", das eine rÃ¶tliche Schale hat. Wenn dieser
 Organismus das Zeitliche segnet, zermalmen die Wellen die Schale in
-Kleinstteile und spülen diese an Bermudas Strände. Je nach Wetterlage
-wirkt der Sand mal mehr oder weniger rosa. Die wunderschöne Wasserfarbe
+Kleinstteile und spÃ¼len diese an Bermudas StrÃ¤nde. Je nach Wetterlage
+wirkt der Sand mal mehr oder weniger rosa. Die wunderschÃ¶ne Wasserfarbe
 entsteht, weil es kaum Phytoplanktons im Ozean von Bermuda gibt.
 Phytoplanktons sind kleine pflanzliche Organismen, die im Wasser
-herumschweben. Ohne diese können die Sonnenstrahlen ungehindert auf den
-Sandboden stoßen und reflektiert werden, was das Wasser türkis
-erscheinen lässt.
+herumschweben. Ohne diese kÃ¶nnen die Sonnenstrahlen ungehindert auf den
+Sandboden stoÃŸen und reflektiert werden, was das Wasser tÃ¼rkis
+erscheinen lÃ¤sst.
  
 <pic images/lhouse.ps Blick vom Leuchtturm bei Warwick>
 
-Und noch etwas fällt dem aufmerksamen Touristen auf: Alle Dächer der
-Häuser auf Bermuda erstrahlen blendend weiß und haben eine lustige
+Und noch etwas fÃ¤llt dem aufmerksamen Touristen auf: Alle DÃ¤cher der
+HÃ¤user auf Bermuda erstrahlen blendend weiÃŸ und haben eine lustige
 Treppchenform. Das hat einen ganz pragmatischen Grund. Das Trinkwasser
-ist knapp auf der Insel, denn es gibt keine Flüsse und Seen und deshalb
+ist knapp auf der Insel, denn es gibt keine FlÃ¼sse und Seen und deshalb
 wird das Regenwasser mit Hilfe der besonderen Dachkonstruktion gesammelt.
-Die eingebauten Stufen im Dach sind ein ausgetüfteltes System von
+Die eingebauten Stufen im Dach sind ein ausgetÃ¼fteltes System von
 Regenrinnen. 
 
-<pic images/roofs.ps Alle Häuser auf Bermuda haben von Gesetzes wegen weiße Dächer.>
+<pic images/roofs.ps Alle HÃ¤user auf Bermuda haben von Gesetzes wegen weiÃŸe DÃ¤cher.>
 
-Hinter dem weißen Anstrich steht eine spezielle Farbe, die
-dafür sorgt, dass das kostbare Regenwasser bei der Sammelaktion auf dem
+Hinter dem weiÃŸen Anstrich steht eine spezielle Farbe, die
+dafÃ¼r sorgt, dass das kostbare Regenwasser bei der Sammelaktion auf dem
 Dach nicht verdreckt. Sehr ausgefuchst! Nun werdet ihr euch fragen,
 wie oft es denn auf Bermuda regnet. Da es sich um suptropische und nicht
-tropische Inseln handelt, fällt der Regen ziemlich gleichmäßig über
+tropische Inseln handelt, fÃ¤llt der Regen ziemlich gleichmÃ¤ÃŸig Ã¼ber
 das Jahr verteilt. Und die Temperaturen sinken in den Wintermonaten
 (November bis April) ab und pendeln um die 20 Grad Celsius herum, in den
 Sommermonaten Juli bis September klettert das Thermometer dann auf 30
 Grad. Den Einheimischen ist das Wasser im Mai mit 18 Grad noch
-zu kalt, aber wir sind täglich geschwommen.
+zu kalt, aber wir sind tÃ¤glich geschwommen.
 
 <pic images/cship.ps Ein riesiges Kreuzfahrtschiff legt in Hamilton an.>
 
 <em>Michael</em>
-Nach Bermuda kommen hauptsächlich große Kreuzfahrtschiffe, die an den
+Nach Bermuda kommen hauptsÃ¤chlich groÃŸe Kreuzfahrtschiffe, die an den
 drei Hauptanlegestellen am Dockyard, in Hamilton und in St. George anlegen
-und dann jeweils Horden von 2.000 Leute für ein paar Stunden 
-in die kleinen Städtchen ablassen.
-Weicht man diesen Ungetümen aus, ist man in der Frühsaison meist 
+und dann jeweils Horden von 2.000 Leute fÃ¼r ein paar Stunden 
+in die kleinen StÃ¤dtchen ablassen.
+Weicht man diesen UngetÃ¼men aus, ist man in der FrÃ¼hsaison meist 
 ganz allein.
 
 <pic images/cannon.ps Michael probiert die alte Kanone am Bermuda Maritime Museum aus.>
 
-In den Museen des Landes kann man alte Kanonen bestaunen und alle möglichen
-Schätze, die die um Bermuda gestrandeten Schiffswracks freigegeben haben.
-Um Bermuda zieht sich ein Korallenriffgürtel, auf dem schon
-unzählige Schiffe gestrandet sind. Zur Freude der Bewohner, die sich 
-anschließend an die Bergung der Wracks machten. 
+In den Museen des Landes kann man alte Kanonen bestaunen und alle mÃ¶glichen
+SchÃ¤tze, die die um Bermuda gestrandeten Schiffswracks freigegeben haben.
+Um Bermuda zieht sich ein KorallenriffgÃ¼rtel, auf dem schon
+unzÃ¤hlige Schiffe gestrandet sind. Zur Freude der Bewohner, die sich 
+anschlieÃŸend an die Bergung der Wracks machten. 
 
-Auffällig viele Leute auf Bermuda haben den Nachnamen "Tucker". Es gibt
+AuffÃ¤llig viele Leute auf Bermuda haben den Nachnamen "Tucker". Es gibt
 auch eine "Tucker's Town", allerdings ist diese nicht nach einem
-auf Bermuda berühmten Taucher namens Teddy Tucker benannt, so unser
-Taxifahrer, der übrigens auch "Tucker" hieß. Teddy Tucker, der 
+auf Bermuda berÃ¼hmten Taucher namens Teddy Tucker benannt, so unser
+Taxifahrer, der Ã¼brigens auch "Tucker" hieÃŸ. Teddy Tucker, der 
 Bermudische Nationalheld und Wracktaucher hat
-unzählige Schätze aus gesunkenen Schiffen geborgen, unter
+unzÃ¤hlige SchÃ¤tze aus gesunkenen Schiffen geborgen, unter
 anderem ein goldenes Kreuz aus dem 16. Jahrhundert 
 mit Edelsteinen dran. Das stand bis 1975 im Museum, 
 doch jemand hat es gestohlen und durch eine Kopie aus Plastik ersetzt,
 sodass heute im Glaskasten ein Plastikkreuz steht, zum Totlachen!
 
-<pic images/reef.ps Auf den Riffgürtel rund um Bermuda ist schon manches Schiff aufgelaufen.>
+<pic images/reef.ps Auf den RiffgÃ¼rtel rund um Bermuda ist schon manches Schiff aufgelaufen.>
 
-Außerdem war Bermuda zur Zeit des Sklavenhandels direkt in das grausige
-Geschäft involviert.
-Das Museum am Dockyard zeigt eine detaillierte Ausstellung darüber, wie
+AuÃŸerdem war Bermuda zur Zeit des Sklavenhandels direkt in das grausige
+GeschÃ¤ft involviert.
+Das Museum am Dockyard zeigt eine detaillierte Ausstellung darÃ¼ber, wie
 die Sklaven aus Afrika abgeholt und dann unter unmenschlichen Bedingungen
 auf Sklavenschiffen nach Europa und Amerika transportiert wurden. Bermuda
 war eine der ersten Anlaufstellen, bevor die Schiffe weiter nach Amerika
 fuhren. Viele Bermuder sind Nachkommen einstiger Sklaven. Interessant war,
-dass das Thema sehr ausführlich und schonungslos präsentiert wurde, während
+dass das Thema sehr ausfÃ¼hrlich und schonungslos prÃ¤sentiert wurde, wÃ¤hrend
 es in den USA normalerweise husch-husch vom Tisch gewischt wird.
 
 <pic images/slaves.ps Zur Zeit des Sklavenhandels war Bermuda ein wichtiger Umschlagplatz.>
@@ -211,31 +211,31 @@ Die Lage des Bermudadreiecks variiert mit der Literatur,
 aber normalerweise ist der Bereich in der oben gezeigten Landkarte
 gemeint. 
 Die Insel Bermuda ist an der Spitze des Dreiecks.
-In diesem Bereich geschehen merkwürdige Dinge, so wird von einem Flug
-berichtet, der in den Bereich eintrat und für 15 Minuten jegliche
-Funkverbindung verlor. Als das Flugzeug später in Amerika landete,
+In diesem Bereich geschehen merkwÃ¼rdige Dinge, so wird von einem Flug
+berichtet, der in den Bereich eintrat und fÃ¼r 15 Minuten jegliche
+Funkverbindung verlor. Als das Flugzeug spÃ¤ter in Amerika landete,
 stellte man fest, dass der Kontrolltower vom Abbruch der Verbindung
 nichts mitbekommen hatte und die Uhren von Besatzung und Passagieren
 15 Minuten vorgingen! Unter dem
 <LINK>http://en.wikipedia.org/wiki/Bermuda_triangle|Eintrag "Bermuda-
-Dreieck" auf der Wikipedia</LINK> könnt ihr noch weitere
-Dokumentationen seltsamer Vorgänge nachlesen. Die beiden 
+Dreieck" auf der Wikipedia</LINK> kÃ¶nnt ihr noch weitere
+Dokumentationen seltsamer VorgÃ¤nge nachlesen. Die beiden 
 Rund\-brief\-repor\-ter kamen allerdings ungeschoren davon.
 
-<pic images/shorts.ps Als Nationaltracht trägt der Bermuder lange Kniestrümpfe und kurze Hotpants.>
+<pic images/shorts.ps Als Nationaltracht trÃ¤gt der Bermuder lange KniestrÃ¼mpfe und kurze Hotpants.>
 
-Die vornehmen Restaurants auf Bermuda fordern von ihren Gästen die Einhaltung
+Die vornehmen Restaurants auf Bermuda fordern von ihren GÃ¤sten die Einhaltung
 bestimmter Bekleidungsstandards. So darf man in einigen feinen Etablissements
 nur mit Krawatte und Jackett essen! Allerdings haben wir von unserer Vermieterin
 erfahren, dass einige Besitzer die Vorschriften lockern mussten, weil
-der stocksteife britische Kappes den hauptsächlich touristischen Gästen
+der stocksteife britische Kappes den hauptsÃ¤chlich touristischen GÃ¤sten
 auf den Zeiger ging. 
 
-<pic images/dresscode.ps (#2) Tafel vor einem Restaurant, das einen gewissen Bekleidungsstandard von seinen Gästen fordert.>
+<pic images/dresscode.ps (#2) Tafel vor einem Restaurant, das einen gewissen Bekleidungsstandard von seinen GÃ¤sten fordert.>
 
-Und die in Bermuda für Herren üblichen Hotpants 
-mit langen schwarzen Kniestrümpfen trägt natürlich auch niemand,
-der modetechnisch einigermaßen bewandert ist.
+Und die in Bermuda fÃ¼r Herren Ã¼blichen Hotpants 
+mit langen schwarzen KniestrÃ¼mpfen trÃ¤gt natÃ¼rlich auch niemand,
+der modetechnisch einigermaÃŸen bewandert ist.
 Das Restaurant dessen Schild in Abbildung (#2) "smart casual" verlangt, was
 nach unserer Auffassung so etwas wie Lederschuhe und Polo-Shirt war, kam
 ich in meinem typischen Aufzug mit Gangsterrapper-T-Shirt und 
@@ -245,88 +245,88 @@ Die Preise auf Bermuda sind echt abenteuerlich. Es ist keine Seltenheit, dass
 ein Hauptgericht in einer 
 relativ normalen Wirtschaft $30 kostet. Dagegen ist selbst
 San Francisco preiswert! So recht vom Hocker gehauen hat uns das Essen nicht,
-obwohl einige im Reiseführer empfohlenen Restaurants schon recht gut waren.
-Außerdem schlägt der Kellner ungefragt 15% Trinkgeld auf die Rechnung, was
+obwohl einige im ReisefÃ¼hrer empfohlenen Restaurants schon recht gut waren.
+AuÃŸerdem schlÃ¤gt der Kellner ungefragt 15% Trinkgeld auf die Rechnung, was
 bei Amerikaneren ausgesprochen umbeliebt ist.
 
-<pic images/bus.ps Die Busse sind alle von der deutschen Firma MAN und fahren pünktlich nach Fahrplan.>
+<pic images/bus.ps Die Busse sind alle von der deutschen Firma MAN und fahren pÃ¼nktlich nach Fahrplan.>
 
 <em>Angelika</em>
-Bermuda kommt recht britisch daher. Michael erwähnte ja schon den
+Bermuda kommt recht britisch daher. Michael erwÃ¤hnte ja schon den
 Linksverkehr und die Kleidervorschriften. Unsere Vermieterin warnte uns
 dann auch gleich, dass wir auf Bermuda nichts erreichen, wenn wir nicht
-die britische Höflichkeit an den Tag legen. Dem Busfahrer nur ein
+die britische HÃ¶flichkeit an den Tag legen. Dem Busfahrer nur ein
 einfaches "Excuse me, is this the bus to the Dockyard?"
-(Entschuldigung, fährt dieser Bus zum Dockyard?) entgegen zu schleudern,
-würde als ungehobelt gelten. Nein, es muss zunächst heißen "Good
+(Entschuldigung, fÃ¤hrt dieser Bus zum Dockyard?) entgegen zu schleudern,
+wÃ¼rde als ungehobelt gelten. Nein, es muss zunÃ¤chst heiÃŸen "Good
 afternoon. How do you do?", bevor man sein eigentliches Anliegen
-loswerden kann. Michael rebellierte natürlich etwas gegen diese steife
-Förmlichkeit, denn er hat schließlich 10 Jahre lockeres Kalifornien
+loswerden kann. Michael rebellierte natÃ¼rlich etwas gegen diese steife
+FÃ¶rmlichkeit, denn er hat schlieÃŸlich 10 Jahre lockeres Kalifornien
 hinter sich.
 
 <pic images/dandan.ps "My name is Dan Dan", ein Matrosensong zum Segelaufziehen.>
 
-Wie schafften es die Engländer überhaupt Bermuda zu entdecken? Der
-spanische Kapitän Juan de Bermudez, nach dem die Inseln benannt sind,
+Wie schafften es die EnglÃ¤nder Ã¼berhaupt Bermuda zu entdecken? Der
+spanische KapitÃ¤n Juan de Bermudez, nach dem die Inseln benannt sind,
 schipperte schon 1503 um die Inseln herum, zeigte aber kein Interesse,
 die nicht bewohnten Inseln zu kolonisieren. 1609 setzte dann
 der englische Admiral George Somers, der im Auftrag der britischen 
 "Virginia Company" herumsegelte, sein Schiff "Sea Venture" auf dem
 Weg nach Jamestown/Virginia auf eines der Riffe vor Bermuda. 
 Er musste daraufhin mit seiner Mannschaft auf Bermuda
-ausharren, um neue Schiffe zu bauen und ließ gleich ein paar Mannen
-zurück, als er wieder in Richtung Nordamerika aufbrach. Der "Virgina
+ausharren, um neue Schiffe zu bauen und lieÃŸ gleich ein paar Mannen
+zurÃ¼ck, als er wieder in Richtung Nordamerika aufbrach. Der "Virgina
 Company" gefiel die Idee, das bis dato unbewohnte Bermuda zu
 vereinnahmen und schickte 1612 noch 60 Siedler hinterher.
  
-Das britische Pfund hat sich allerdings nicht als Währung durchgesetzt.
+Das britische Pfund hat sich allerdings nicht als WÃ¤hrung durchgesetzt.
 Es gibt den Bermuda Dollar, der 1:1 zum amerikanischen Dollar gehandelt
-wird. Der US-Dollar ist gleichwertiges Zahlungsmittel, denn überall
-konnten wir unsere grünen amerikanischen Scheine an den Mann bringen. Es
-ist üblich, dass einem sowohl Bermuda-Dollars als auch US-Dollars
+wird. Der US-Dollar ist gleichwertiges Zahlungsmittel, denn Ã¼berall
+konnten wir unsere grÃ¼nen amerikanischen Scheine an den Mann bringen. Es
+ist Ã¼blich, dass einem sowohl Bermuda-Dollars als auch US-Dollars
 herausgegeben werden. Auch bei den Inselbewohnern wird das so gehandhabt.
 Nur der Geldautomat spuckt exklusiv Bermuda-Dollars aus.
 
 <pic images/stgeorge.ps Haus in St. George>
 
-Bermuda ist ein teures Pflaster, denn wie auf Inseln üblich muss nicht
-nur alles von weit her angeschleppt werden. Zusätzlich erhebt Bermuda
-noch hohe Zölle auf die importierten Waren. Die meisten
+Bermuda ist ein teures Pflaster, denn wie auf Inseln Ã¼blich muss nicht
+nur alles von weit her angeschleppt werden. ZusÃ¤tzlich erhebt Bermuda
+noch hohe ZÃ¶lle auf die importierten Waren. Die meisten
 Lebensmittel im Supermarkt kommen aus den USA. Aber auch britische
 Produkte fanden wir, die oft billiger erschienen, was am geringeren
 Zoll auf bestimmte Produkte aus England liegt. Die irische Butter war
-zum Beispiel unschlagbar günstig. 
+zum Beispiel unschlagbar gÃ¼nstig. 
 
 Wohnraum ist aufgrund des mangelnden
-Platzes auf Bermuda knapp und begehrt. Mieten, so stöhnten uns unsere
+Platzes auf Bermuda knapp und begehrt. Mieten, so stÃ¶hnten uns unsere
 diversen Taxifahrer vor, sind extrem hoch, die kommen locker an die von San
-Francisco heran. Und dann baut sich noch jeder reiche Schnösel tolle
-Ferienhäuser (oder besser gesagt Villen) auf Bermuda, die dann die
+Francisco heran. Und dann baut sich noch jeder reiche SchnÃ¶sel tolle
+FerienhÃ¤user (oder besser gesagt Villen) auf Bermuda, die dann die
 meiste Zeit des Jahres leer stehen. Michael Douglas und Catherine Zeta-Jones
 haben zum Beispiel ein Haus auf der Insel.
-Da für Firmen Bermuda ein
+Da fÃ¼r Firmen Bermuda ein
 Steuerparadies darstellt, haben viele ihre Scheinsitze hier. Trotz
 der hohen Lebenshaltungskosten ist der Lebensstandard aber hoch,
-wie einem jeder stolz erzählt.
+wie einem jeder stolz erzÃ¤hlt.
 
 <pic images/popler.ps Auch auf Bermuda bohren Lastwagenfahrer in der Nase.>
 
 <em>Michael</em>
 Wir haben die eine uns zur Erholung zustehende Woche optimal ausgenutzt und
-sind am Freitagabend um 22 Uhr losgeflogen, und am nächsten Morgen
+sind am Freitagabend um 22 Uhr losgeflogen, und am nÃ¤chsten Morgen
 (mit vier Stunden Zeitverschiebung) waren wir auf der Insel.
-Zurück ging's eine gute Woche später, am Sonntag, und am Tag darauf 
+ZurÃ¼ck ging's eine gute Woche spÃ¤ter, am Sonntag, und am Tag darauf 
 standen wir wieder braungebrannt im Berufsleben.
-Ach ja, wir vermissen schon deutsche Urlaubsverhältnisse ...
+Ach ja, wir vermissen schon deutsche UrlaubsverhÃ¤ltnisse ...
 
 @Z: Smogtest auf dem Internet
 
 <pic images/perlman.ps Hat keine Probleme mit dem Smogtest: Der gute alte Perlman.>
 
 <em>Michael</em>
-Im <RBLINK>20050701#5</RBLINK> haben wir schon einmal darüber berichtet, 
-dass es in Amerika keinen TÜV, aber eine zweijährliche Abgasuntersuchung
-gibt. Und nachdem heutzutage alles auf dem Internet verfügbar ist, 
+Im <RBLINK>20050701#5</RBLINK> haben wir schon einmal darÃ¼ber berichtet, 
+dass es in Amerika keinen TÃœV, aber eine zweijÃ¤hrliche Abgasuntersuchung
+gibt. Und nachdem heutzutage alles auf dem Internet verfÃ¼gbar ist, 
 haben sich die Verantwortlichen in Kalifornien
 gedacht: Hau'n wir mal alle Ergebnisse 
 drauf, mitsamt Nummernschild und der Kraftfahrzeugnummer des jeweiligen
@@ -336,26 +336,26 @@ Autos.
 
 Unter <LINK>http://www.smogcheck.ca.gov/vehtests/pubtstqry.aspx</LINK> 
 kann man nun die Abgasuntersuchungen kalifornischer Autos
-öffentlich bestaunen. Man kann sowohl nach Nummernschild als auch
+Ã¶ffentlich bestaunen. Man kann sowohl nach Nummernschild als auch
 nach der KFZ-Nummer (VIN = Vehicle Identification Number) suchen.
 Sucht man nach dem Nummerschild, gibt die Website praktischerweise
 mit den Abgaswerten gleich die KFZ-Nummer mit an. Was zur
-Folge hat, dass man anschließend nach der KFZ-Nummer
-suchen kann, und alle Kennzeichen erhält, mit denen dieses Fahrzeug
-über die Jahre unterwegs war. Und Autodiebe nutzen den Service laut
+Folge hat, dass man anschlieÃŸend nach der KFZ-Nummer
+suchen kann, und alle Kennzeichen erhÃ¤lt, mit denen dieses Fahrzeug
+Ã¼ber die Jahre unterwegs war. Und Autodiebe nutzen den Service laut
 einem 
 <LINK>http://www.snopes.com/crime/warnings/vin.asp|Bericht auf Snopes.com</LINK>
-manchmal dazu, Ersatzschlüssel für irgendein
-Auto auf der Straße zu bestellen. Erforderlich ist hierzu oftmals nur die
+manchmal dazu, ErsatzschlÃ¼ssel fÃ¼r irgendein
+Auto auf der StraÃŸe zu bestellen. Erforderlich ist hierzu oftmals nur die
 KFZ-Nummer.
-Gebt einfach "PERLMAN" ein und dann könnt ihr sehen, dass unser guter alter
+Gebt einfach "PERLMAN" ein und dann kÃ¶nnt ihr sehen, dass unser guter alter
 PERLMAN seit 1993 alle Smogtests mit Bravour bestanden hat!
 
 <HTMLONLY>
 Nachtrag: Wie aus in Abbildung (#5) ersichtlich, sperrte der DMV die Ausgabe 
 der VIN kurze Zeit nach dem Erscheinen des Beitrags.
 
-<pic images/fixed.ps (#5) Zwei Monate später: Der DMV gibt die VIN nicht mehr aus.>
+<pic images/fixed.ps (#5) Zwei Monate spÃ¤ter: Der DMV gibt die VIN nicht mehr aus.>
 </HTMLONLY>
 
 @Z: Lichtschutzfaktor Sonnencreme
@@ -368,32 +368,32 @@ Strand gelegen und einen Fetzen-Sonnenbrand kassiert? Ha! Das ist uns
 auch schon passiert. Offensichtlich war das keine "wirkliche" 20er.
 
 Lustigerweise findet sich auf dem Internet zu
-diesem Thema nur spekulatives Gewäsch. Manche behaupten, der
+diesem Thema nur spekulatives GewÃ¤sch. Manche behaupten, der
 deutsche Lichtschutzfaktor (LSF) und der amerikanische Sun
-Protection Factor (SPF) würden nach dem gleichen Verfahren
+Protection Factor (SPF) wÃ¼rden nach dem gleichen Verfahren
 ermittelt. Andere berichten von drastischen Abweichungen, der amerikanische
-Wert sei zwischen 50% und 100% überhöht. Seriöse
+Wert sei zwischen 50% und 100% Ã¼berhÃ¶ht. SeriÃ¶se
 wissenschaftliche Berichte gibt's keine -- die Mediziner-Pappnasen
-der Welt veröffentlichen ihre Doktorarbeiten offensichtlich noch
+der Welt verÃ¶ffentlichen ihre Doktorarbeiten offensichtlich noch
 nicht im Internet. Hallo, aufwachen!
 
 Allerdings sind wir auch nicht auf den Kopf gefallen.
-Gestützt durch langjährige Forschungsprojekte an den wichtigsten
-Stränden der Welt streifen wir heute unsere weißen
-Laborkittel über und behaupten dreist: Der auf amerikanischen
+GestÃ¼tzt durch langjÃ¤hrige Forschungsprojekte an den wichtigsten
+StrÃ¤nden der Welt streifen wir heute unsere weiÃŸen
+Laborkittel Ã¼ber und behaupten dreist: Der auf amerikanischen
 Sonnencremepackungen angegebene "SPF" entspricht einem ca. 30%
 niedrigeren "Lichtschutzfaktor". Kauft man also eine 20er in Amerika,
-hat man letztendlich eine 12er nach deutschen Maßstäben. Damit würde
+hat man letztendlich eine 12er nach deutschen MaÃŸstÃ¤ben. Damit wÃ¼rde
 ich mich an keinen kalifornischen Strand legen, da ist der Sonnenbrand
 vorprogrammiert.
 
 Neulich gab's beim Costco zwei Tuben der Neutrogena-Sonnencreme
 (Abbildung (#1)) mit dem SPF 55 (also etwa eine 35er nach deutschen
-Maßstäben) für $13.99. Ein Schlagerpreis! Neutrogena stellt eine der
-besten Sonnencremes der Welt her. Überhaupt nicht gipsartig, wie sonst
-bei Sonnencremes im höheren Lichtschutzbereich üblich. Seidig auf der
-Haut und fettet überhaupt nicht! Ich musste gleich einen
-Hamsterkauf tätigen.
+MaÃŸstÃ¤ben) fÃ¼r $13.99. Ein Schlagerpreis! Neutrogena stellt eine der
+besten Sonnencremes der Welt her. Ãœberhaupt nicht gipsartig, wie sonst
+bei Sonnencremes im hÃ¶heren Lichtschutzbereich Ã¼blich. Seidig auf der
+Haut und fettet Ã¼berhaupt nicht! Ich musste gleich einen
+Hamsterkauf tÃ¤tigen.
 
 @Z: Sudafed PE und Sudafed
 
@@ -402,98 +402,98 @@ Hamsterkauf tätigen.
 <em>Angelika</em>
 Michael hat im <RBLINK>20061124#10</RBLINK> das
 Rachenpflaster Sudafed PE ja als Schrottprodukt bewertet. Wir dachten
-damals, die schlechte Qualität läge an der Verabreichung als Streifen
-statt der bewährten Pillenform. Neulich erwähnte ein Kollege von
-Michael aber, dass er es langsam leid wäre, immer seinen Ausweis
-vorzeigen zu müssen, wenn er das Original "Sudafed" kauft, um
-seine chronischen Nebenhöhlenprobleme zu bekämpfen. Hmm, das machte uns
+damals, die schlechte QualitÃ¤t lÃ¤ge an der Verabreichung als Streifen
+statt der bewÃ¤hrten Pillenform. Neulich erwÃ¤hnte ein Kollege von
+Michael aber, dass er es langsam leid wÃ¤re, immer seinen Ausweis
+vorzeigen zu mÃ¼ssen, wenn er das Original "Sudafed" kauft, um
+seine chronischen NebenhÃ¶hlenprobleme zu bekÃ¤mpfen. Hmm, das machte uns
 stutzig und ich ging zur Drogeriekette "Walgreens", um der Sache auf
 den Grund zu gehen.
 
-Zunächst
-müsst ihr wissen, dass weder Sudafed noch Sudafed PE in Amerika
+ZunÃ¤chst
+mÃ¼sst ihr wissen, dass weder Sudafed noch Sudafed PE in Amerika
 verschreibungspflichtig sind. Nicht rezeptpflichtige Medikamente stehen
-in Amerika in Drogerien und Supermärkten in der Regel wie die Zahnpasta
+in Amerika in Drogerien und SupermÃ¤rkten in der Regel wie die Zahnpasta
 einfach im Regal. Der Kunde schnappt sich das Medikament und geht zum
-Bezahlen an eine beliebige Kasse in dem jeweiligen Geschäft. Für
+Bezahlen an eine beliebige Kasse in dem jeweiligen GeschÃ¤ft. FÃ¼r
 verschreibungspflichtige Medikamente muss man hingegen 
 das Rezept vom Doktor an einem Tresen abgeben und das Medikament
 wird wie in deutschen Apotheken von Angestellten aus Regalen hinter
 dem Tresen geholt.
  
-Aber nun zurück zu meiner Walgreens-Recherche. Ich suchte also brav die
-Gänge mit den Medikamenten nach Sudafed ab und fand auch ziemlich
+Aber nun zurÃ¼ck zu meiner Walgreens-Recherche. Ich suchte also brav die
+GÃ¤nge mit den Medikamenten nach Sudafed ab und fand auch ziemlich
 schnell Sudafed PE in Schachtelform. Beim Original-Sudafed steckte
-allerdings nur ein Kärtchen im Regal, auf dem stand, dass man mit diesem
+allerdings nur ein KÃ¤rtchen im Regal, auf dem stand, dass man mit diesem
 zum "Apothekertresen" gehen solle. Ich gab das
-Kärtchen daraufhin bei der freundlichen Dame hinter dem Tresen ab,
+KÃ¤rtchen daraufhin bei der freundlichen Dame hinter dem Tresen ab,
 woraufhin diese mich nach einem Ausweis ("ID") fragte. 
 Also kramte ich
-meinen kalifornischen Führerschein hervor, der von ihr mit dem
+meinen kalifornischen FÃ¼hrerschein hervor, der von ihr mit dem
 Magnetstreifen durch die Kasse gezogen wurde. Dann tippte sie noch
 wild etwas in den Computer ein, ich musste eine Unterschrift leisten
 und endlich durfte ich das Sudafed bezahlen und mitnehmen. 
 
 <pic images/suda2.ps Das wahre Sudafed -- gibt es nur noch gegen Vorlage eines Ausweises.>
 
-Nun werdet ihr euch fragen, was der ganze Blödsinn soll. Der
-Wirkstoff ist des Rätsels Lösung. Das Original Sudafed enthält
-nämlich "Pseudoephedrin", aus dem relativ einfach die Droge
+Nun werdet ihr euch fragen, was der ganze BlÃ¶dsinn soll. Der
+Wirkstoff ist des RÃ¤tsels LÃ¶sung. Das Original Sudafed enthÃ¤lt
+nÃ¤mlich "Pseudoephedrin", aus dem relativ einfach die Droge
 Methamphetamin (Meth oder auch Crystal genannt) hergestellt werden
-kann, während Sudafed PE den Wirkstoff Phenylephrin beinhaltet, bei
+kann, wÃ¤hrend Sudafed PE den Wirkstoff Phenylephrin beinhaltet, bei
 dem das nicht funktioniert.
 
-Um zu verhindern, dass Methabhängige Sudafed in großen
-Mengen kaufen, um im Hinterstübchen ihre Droge zusammenzubrauen, ist
+Um zu verhindern, dass MethabhÃ¤ngige Sudafed in groÃŸen
+Mengen kaufen, um im HinterstÃ¼bchen ihre Droge zusammenzubrauen, ist
 der Kauf von Produkten mit Pseudoephedrin oder auch Ephedrin seit
 neuestem reglementiert in den USA. Das Gesetz "The Combat
-Metham\-pheta\-mine Epidemic Act" machte es auf nationaler Ebene möglich,
-nachdem einige Bundesstaaten schon länger ähnliche Bestimmungen
-praktizierten. Seit September 2006 darf jeder Kunde wöchentlich nur 3.6
+Metham\-pheta\-mine Epidemic Act" machte es auf nationaler Ebene mÃ¶glich,
+nachdem einige Bundesstaaten schon lÃ¤nger Ã¤hnliche Bestimmungen
+praktizierten. Seit September 2006 darf jeder Kunde wÃ¶chentlich nur 3.6
 Gramm Pseudoephedrin oder Ephedrin kaufen bzw. 9 Gramm im Monat.
 Deshalb der Firlefanz mit dem Vorzeigen meines Ausweises und der
 Registrierung, wieviel Sudafed ich wann gekauft habe.
  
 Die Droge "Meth" hat sich epidemieartig in den USA ausgebreitet.
-Sie wirkt stark aufputschend und sorgt dafür, das große Mengen des
-Neurotransmitters "Dopamin" ausgeschüttet werden, was zu
-euphorischen Glückszuständen führt. Das Problem an der Sache ist, dass
-die Leute abhängig von dem Zeug werden und ohne die Droge dann keine
-Glücksgefühle mehr erleben können, weil die Dopamin-Rezeptoren im
-Gehirn geschädigt werden. Schlaganfälle, Nervenschäden, Psychosen,
-faulende Zähne sind bei längerem Mißbrauch ebenfalls keine Seltenheit.
-Zur Abschreckung zeigt das Fernsehen hier öfter einmal Fotos von
-Meth\-abhängigen. Wenn euch nichts so leicht umhaut, schaut euch mal die die 
+Sie wirkt stark aufputschend und sorgt dafÃ¼r, das groÃŸe Mengen des
+Neurotransmitters "Dopamin" ausgeschÃ¼ttet werden, was zu
+euphorischen GlÃ¼ckszustÃ¤nden fÃ¼hrt. Das Problem an der Sache ist, dass
+die Leute abhÃ¤ngig von dem Zeug werden und ohne die Droge dann keine
+GlÃ¼cksgefÃ¼hle mehr erleben kÃ¶nnen, weil die Dopamin-Rezeptoren im
+Gehirn geschÃ¤digt werden. SchlaganfÃ¤lle, NervenschÃ¤den, Psychosen,
+faulende ZÃ¤hne sind bei lÃ¤ngerem MiÃŸbrauch ebenfalls keine Seltenheit.
+Zur Abschreckung zeigt das Fernsehen hier Ã¶fter einmal Fotos von
+Meth\-abhÃ¤ngigen. Wenn euch nichts so leicht umhaut, schaut euch mal die die 
 <LINK>http://en.wikipedia.org/wiki/Meth_mouth|Wikipedia-Seite zum Thema "Meth Mouth"</LINK> an. Mahlzeit!
 
-@Z: Toppprodukt: Helm-Rückspiegel
+@Z: Toppprodukt: Helm-RÃ¼ckspiegel
 
-<pic images/mirror.ps Der kleine Rückspiegel am Helm hilft, unfähige Autofahrer im Auge zu behalten.>
+<pic images/mirror.ps Der kleine RÃ¼ckspiegel am Helm hilft, unfÃ¤hige Autofahrer im Auge zu behalten.>
 
 <em>Michael</em>
-Durch San Francisco mit dem Fahrrad zu fahren, erfordert höchste
-Aufmerksamkeit. Laut meiner persönlichen Statistik fehlen 70% der 
-autofahrenden Bevölkerung die technischen Fähigkeiten zum Autofahren.
+Durch San Francisco mit dem Fahrrad zu fahren, erfordert hÃ¶chste
+Aufmerksamkeit. Laut meiner persÃ¶nlichen Statistik fehlen 70% der 
+autofahrenden BevÃ¶lkerung die technischen FÃ¤higkeiten zum Autofahren.
 Das sind Leute, die beim Abbiegen den Randstein mitnehmen, ihr Auto nicht
-in der Spur halten können und bei Rot über die Kreuzung fahren, da
-sie das Umschalten der Ampel nicht zeitrichtig einschätzen können.
+in der Spur halten kÃ¶nnen und bei Rot Ã¼ber die Kreuzung fahren, da
+sie das Umschalten der Ampel nicht zeitrichtig einschÃ¤tzen kÃ¶nnen.
 Ist so jemand dann auch noch am Handy, ist doppelt Vorsicht geboten.
 
 Solchen Leuten muss man als Fahrradfahrer Entscheidungen abnehmen,
 damit kein Unfall passiert. Fahren Sie hinter einem her und wollen
-überholen, ist aber offensichtlich kein Platz, um das Manöver
-gefahrlos zu vollenden, fährt man als Fahrradfahrer einfach in der
+Ã¼berholen, ist aber offensichtlich kein Platz, um das ManÃ¶ver
+gefahrlos zu vollenden, fÃ¤hrt man als Fahrradfahrer einfach in der
 Mitte der Spur, bis die Lage bereinigt ist. Sich aber dauernd umzudrehen,
-um zu sehen, was vorgeht, ist uncool und sogar gefährlich, sodass
+um zu sehen, was vorgeht, ist uncool und sogar gefÃ¤hrlich, sodass
 ich mir vor einigen Monaten einen Helmspiegel gekauft habe.
 
 Damit sieht man zwar aus wie ein "Borg" vom Raumschiff Enterprise, aber
-der Spiegel hilft so gut beim Einschätzen der Straßenlage, dass ich gar nicht
-weiß, wie ich ohne ihn noch zurechtkäme!
+der Spiegel hilft so gut beim EinschÃ¤tzen der StraÃŸenlage, dass ich gar nicht
+weiÃŸ, wie ich ohne ihn noch zurechtkÃ¤me!
 
 Es gibt viele verschiedene Helmspiegel, aber ich habe mir das Modell 
 <LINK>http://www.mtbr.com/reviews/Extras/product_86204.shtml|"Take A Look" von der Firma "Bike Peddler"</LINK> aus Colorado gekauft. Er ist denkbar simpel 
-aufgebaut, macht einen äußerst stabilen Eindruck und lässt sich
+aufgebaut, macht einen Ã¤uÃŸerst stabilen Eindruck und lÃ¤sst sich
 leicht justieren. Kostenpunkt $15. Toppprodukt!
 
 @Z: Post vom Wasserwerk
@@ -502,23 +502,23 @@ leicht justieren. Kostenpunkt $15. Toppprodukt!
 
 <em>Angelika</em>
 Der kalifornische Winter des Jahres 2006/2007 brachte uns zu wenig Regen,
-sodass die Wasserreservoire nicht ausreichend gefüllt wurden. Im Sommer kann
-das, vor allen Dingen in Südkalifornien, zu Wasserknappheit führen.
+sodass die Wasserreservoire nicht ausreichend gefÃ¼llt wurden. Im Sommer kann
+das, vor allen Dingen in SÃ¼dkalifornien, zu Wasserknappheit fÃ¼hren.
 Deshalb flatterte uns neulich eine 
-<LINK>http://usarundbrief.com/68/images/wc.pdf|Broschüre vom Wasserwerk</LINK> 
+<LINK>http://usarundbrief.com/68/images/wc.pdf|BroschÃ¼re vom Wasserwerk</LINK> 
 ins Haus,
 die Tipps zum Wassersparen enthielt. 
 
-Ihr wisst schon, Sparduschköpfe
-einbauen, die Spülmaschine immer nur anstellen, wenn sie voll beladen
-ist, beim Zähneputzen nicht den Wasserhahn laufen lassen. Nun sind
-regenarme Winter schon öfter in Kalifornien vorgekommen. Spannend fand
-ich allerdings beim Lesen der Broschüre, dass auf den globalen
+Ihr wisst schon, SparduschkÃ¶pfe
+einbauen, die SpÃ¼lmaschine immer nur anstellen, wenn sie voll beladen
+ist, beim ZÃ¤hneputzen nicht den Wasserhahn laufen lassen. Nun sind
+regenarme Winter schon Ã¶fter in Kalifornien vorgekommen. Spannend fand
+ich allerdings beim Lesen der BroschÃ¼re, dass auf den globalen
 Klimawandel hingewiesen wurde, der uns laut Wissenschaftlern in Zukunft
 trockenere Winter bringen wird. Ha, habe ich es nicht im letzten
-Rundbrief schon verkündet, dass das Thema der globalen Erderwärmung
-salonfähig geworden ist in den USA? Selbst Bush konnte nicht umhin,
-zähneknirschend beim G-8 Gipfel in Heiligendamm die Klimaerwärmung als
+Rundbrief schon verkÃ¼ndet, dass das Thema der globalen ErderwÃ¤rmung
+salonfÃ¤hig geworden ist in den USA? Selbst Bush konnte nicht umhin,
+zÃ¤hneknirschend beim G-8 Gipfel in Heiligendamm die KlimaerwÃ¤rmung als
 Tatsache anzuerkennen, obwohl er sie bis vor kurzem noch bestritten hat.
 Nun macht ihn das noch nicht gleich zum Greenpeace-Aktivisten, aber 
 aller Anfang ist schwer.
@@ -527,51 +527,51 @@ aller Anfang ist schwer.
 
 <em>Angelika</em>
 Im letzten <RBLINK>20070427#1</RBLINK> habe ich berichtet,
-dass San Francisco als erste Stadt Amerikas seine Plastiktüten
+dass San Francisco als erste Stadt Amerikas seine PlastiktÃ¼ten
 verbannt hat. Aber San Francisco hat nicht nur beim Thema Umweltschutz
 die Nase vorn, sondern auch wenn es um soziale Errungenschaften geht.
-Seit Februar diesen Jahres müssen jedem, der in San Francisco arbeitet,
+Seit Februar diesen Jahres mÃ¼ssen jedem, der in San Francisco arbeitet,
 Krankheitstage bezahlt werden. San Francisco ist damit wiederum die
 erste Stadt Amerikas, die Lohnfortzahlung im Krankheitsfall auf lokaler
-Ebene gesetzlich vorschreibt. Es gibt in Amerika nämlich diesbezüglich
+Ebene gesetzlich vorschreibt. Es gibt in Amerika nÃ¤mlich diesbezÃ¼glich
 keine verbindlichen gesetzlichen Regelungen auf nationaler Ebene.
-Schätzungen zufolge bekommen fast die Hälfte der
-Ganztagsbeschäftigten in den USA (laut Presse etwa 57 Millionen) kein
-Gehalt, wenn sie sich krank melden.  Am häufigsten betroffen sind vor
+SchÃ¤tzungen zufolge bekommen fast die HÃ¤lfte der
+GanztagsbeschÃ¤ftigten in den USA (laut Presse etwa 57 Millionen) kein
+Gehalt, wenn sie sich krank melden.  Am hÃ¤ufigsten betroffen sind vor
 allen Dingen Leute, die in Lohnniedrigjobs arbeiten, obwohl diese sich
-Lohnausfälle natürlich am wenigsten leisten können.
+LohnausfÃ¤lle natÃ¼rlich am wenigsten leisten kÃ¶nnen.
  
-Bessere Firmen gewähren in der Regel bezahlte Krankheitstage, wobei es
+Bessere Firmen gewÃ¤hren in der Regel bezahlte Krankheitstage, wobei es
 dabei je nach Firma ganz unterschiedliche Modelle gibt. Manche
-Arbeitgeber gewähren zum Beispiel 1 bis 2 Tage pro Monat, die bis zu
-einer bestimmten Höchstgrenze angespart werden können. Yahoo erlaubt
+Arbeitgeber gewÃ¤hren zum Beispiel 1 bis 2 Tage pro Monat, die bis zu
+einer bestimmten HÃ¶chstgrenze angespart werden kÃ¶nnen. Yahoo erlaubt
 seinen Mitarbeitern kurzfristige Abwesenheit (maximal 5 Tage
 hintereinander) aufgrund von eigener Krankheit oder Krankheit eines
 Familenmitgliedes (z.B. Kinder) bis zu 5 mal in 12 Monaten. Ist man bei
-Yahoo länger krank, springt die sogenannte "Short-Term Disability
-Insurance" (etwa: kurzfristige Berufsunfähigkeitsversicherung) ein, die
-von Yahoo für die Mitarbeiter bezahlt wird. Andere Firmen
+Yahoo lÃ¤nger krank, springt die sogenannte "Short-Term Disability
+Insurance" (etwa: kurzfristige BerufsunfÃ¤higkeitsversicherung) ein, die
+von Yahoo fÃ¼r die Mitarbeiter bezahlt wird. Andere Firmen
 unterscheiden nicht zwischen Urlaub, Krankheit oder Abwesenheit aufgrund
-von Arztbesuchen. Der Arbeitnehmer erhält ein sogenanntes "Paid Time
+von Arztbesuchen. Der Arbeitnehmer erhÃ¤lt ein sogenanntes "Paid Time
 Off"-Konto (Paid Time Off = bezahlte Abwesenheit), und er entscheidet
-selbst, für was er die angesparten Stunden hernimmt (Urlaub oder
+selbst, fÃ¼r was er die angesparten Stunden hernimmt (Urlaub oder
 Krankheit).
  
 San Franciscos Modell funktioniert wie folgt: Jeder, der in San Francisco
-(unabhängig davon, wo die Firma sitzt) arbeitet, erhält pro 30
+(unabhÃ¤ngig davon, wo die Firma sitzt) arbeitet, erhÃ¤lt pro 30
 Arbeitsstunden eine bezahlte Stunde im Krankheitsfall. 
-Die so angesparte Zeit kann für eigene Krankheiten, notwendige Arztbesuche 
-oder Pflege von kranken Angehörigen bzw. des Lebenspartners genutzt werden.
+Die so angesparte Zeit kann fÃ¼r eigene Krankheiten, notwendige Arztbesuche 
+oder Pflege von kranken AngehÃ¶rigen bzw. des Lebenspartners genutzt werden.
 Dabei spielt es keine Rolle, ob der Arbeitnehmer ganz- oder
-halbtags bzw. zeitlich befristet angestellt ist. Für Arbeiter ohne
+halbtags bzw. zeitlich befristet angestellt ist. FÃ¼r Arbeiter ohne
 Arbeitsgenehmigung und Papiere ("Undocumented Workers") gelten
-die gleichen Regeln. Arbeitet man für eine kleine Firma (bis zu 10
-Vollzeit- oder Teilzeitangestellte), können bis zu 40 Stunden angespart
+die gleichen Regeln. Arbeitet man fÃ¼r eine kleine Firma (bis zu 10
+Vollzeit- oder Teilzeitangestellte), kÃ¶nnen bis zu 40 Stunden angespart
 werden, sonst 72 Stunden. Die Stunden verfallen nicht am Ende des Jahres,
-aber wenn die Höchstgrenze erreicht ist (40 bzw. 72 Stunden) akkumuliert
+aber wenn die HÃ¶chstgrenze erreicht ist (40 bzw. 72 Stunden) akkumuliert
 nichts mehr auf, bis ein Krankheitsfall eintritt und die Stunden abgebaut
-werden. Danach kann das Konto wieder bis zur Grenze anwachsen. Hört sich
-kompliziert an, ist aber ehrlich gesagt gut durchdacht. Ein Hurra für
+werden. Danach kann das Konto wieder bis zur Grenze anwachsen. HÃ¶rt sich
+kompliziert an, ist aber ehrlich gesagt gut durchdacht. Ein Hurra fÃ¼r
 San Francisco.
 
 @Z: Mexikanische Polka
@@ -580,11 +580,11 @@ San Francisco.
 
 <em>Michael</em>
 Geht man durchs mexikanische Viertel "Mission" gleich bei uns um die
-Ecke, hört man oft aus fahrenden Autos oder offenstehenden
+Ecke, hÃ¶rt man oft aus fahrenden Autos oder offenstehenden
 Wohnungsfenstern eine Humpa-Dumpa-Musik, die der deutschen 
-Volksmusik nicht unähnlich ist. Schaut man näher hin, sind das
+Volksmusik nicht unÃ¤hnlich ist. Schaut man nÃ¤her hin, sind das
 ganz normale Leute, die sich an dieser offensichtlich total bekloppten
-Musik erfreuen. Sachen gibt's! Ich dachte, das gäb's nur in Deutschland
+Musik erfreuen. Sachen gibt's! Ich dachte, das gÃ¤b's nur in Deutschland
 im Musikantenstadel. 
 
 <HTMLONLY><pic images/mariachi.ps Eine Mariachi-Band im Fernsehen.></HTMLONLY>
@@ -595,23 +595,23 @@ Nationaltracht herein. Einer hatte eine Gitarre dabei, einer ein
 Akkordeon und der dritte einen Kontrabass (vgl. "Drei Chinesen mit 
 dem Kontrabass"). Nachdem sie kurz
 beim Wirt um Erlaubnis gefragt hatten und dieser zustimmte, fingen
-die drei lautstark mit ihrem Humpa-Dumpa-Getöse an. Ich schaltete
-mein digitales Diktiergerät ein, um die Szene zu dokumentieren, als
+die drei lautstark mit ihrem Humpa-Dumpa-GetÃ¶se an. Ich schaltete
+mein digitales DiktiergerÃ¤t ein, um die Szene zu dokumentieren, als
 die Bedienung kam, um unsere Bestellung aufzunehmen. Und so kommt
-ihr heute in den Genuss einer Rarität: Eine
+ihr heute in den Genuss einer RaritÃ¤t: Eine
 <LINK>http://usarundbrief.com/68/images/mexpolka.mp3|Bestellung in einem spanischen Restaurant mit Polkabeschallung</LINK> als MP3.
 
 <pic images/jarocho.ps Ein Jarocho-Musiker in der Mission.>
 
 Amerikaner nennen die mexikanischen Musiker meist "Mariachis", nicht
 wissend, dass es sich bei den Musikern in der San Francisco Mission 
-meist um sogenannte "Jarochos" handelt. Während Mariachis runde Sombreros
+meist um sogenannte "Jarochos" handelt. WÃ¤hrend Mariachis runde Sombreros
 tragen und mit Trompeten und Violinen spielen, tragen die Jarochos 
-Cowboyhüte und spielen meist nur Bass, Gitarre und Akkordeon.
+CowboyhÃ¼te und spielen meist nur Bass, Gitarre und Akkordeon.
 Wenn ihr also in Zukunft Liedtexte wie 
 "See the vegetable man / In the vegetable van / With a horn that's 
 honking / Like a mariachi band" von dem bekannten Rockmusiker Beck
-hört, wisst ihr Bescheid. 
+hÃ¶rt, wisst ihr Bescheid. 
 
 <HTMLONLY><pic images/jar2.ps Noch ein gitarrespielender Musiker in der Mission.></HTMLONLY>
 
@@ -619,11 +619,11 @@ Apropos Beck: Der hat nicht nur vor kurzem
 <LINK>http://youtube.com/watch?v=XEqGIZ-X-L8|bei Yahoo vor der Cafeteria</LINK>
 gespielt, sondern vor einigen Jahren in
 einer billigen aber guten
-<LINK>http://www.dennisyang.com/archive/2005/07/18/beck-at-pancho-villa|Taqueria bei uns um die Ecke</LINK>. Leider haben wir den Überraschungsevent
-nicht mitbekommen und angeblich erkannten die meisten Gäste Beck gar nicht,
-denn die standen auf Humpa-Dumpa-Musik und waren damit beschäftigt, die
-legendär guten Burritos des Ladens zu verputzen!
+<LINK>http://www.dennisyang.com/archive/2005/07/18/beck-at-pancho-villa|Taqueria bei uns um die Ecke</LINK>. Leider haben wir den Ãœberraschungsevent
+nicht mitbekommen und angeblich erkannten die meisten GÃ¤ste Beck gar nicht,
+denn die standen auf Humpa-Dumpa-Musik und waren damit beschÃ¤ftigt, die
+legendÃ¤r guten Burritos des Ladens zu verputzen!
 
-Immer mit den Stars auf Tuchfühlung:
+Immer mit den Stars auf TuchfÃ¼hlung:
 
 Angelika und Michael

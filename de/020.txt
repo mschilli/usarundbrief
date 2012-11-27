@@ -4,7 +4,7 @@ San Francisco, den 09.03.00
 <pic images/pm3.ps Unser Auto mit neuem Nummernschild>
 
 Mit Schrecken haben wir festgestellt, dass wieder 
-einmal ein neuer Rundbrief fällig ist. Eijeijei, wie die 
+einmal ein neuer Rundbrief fÃ¤llig ist. Eijeijei, wie die 
 Zeit vergeht! Michael macht den Anfang:
 
 @Z: Personalisierte Nummernschilder
@@ -16,18 +16,18 @@ und daraus geht nicht, wie in deutschen Landen,
 hervor, aus welcher Stadt das Auto kommt, sondern nur das Design
 und die Farbe des Nummernschildes zeigt an, in welchem Bundesstaat das
 Auto angemeldet wurde.
-In Kalifornien steht "California" drauf, in Oregon sind Wälder
-abgebildet. Außerdem hat jeder Staat einen Slogan: Arizona -- Sunshine
+In Kalifornien steht "California" drauf, in Oregon sind WÃ¤lder
+abgebildet. AuÃŸerdem hat jeder Staat einen Slogan: Arizona -- Sunshine
 State. Hawaii -- Aloha State. Oregon -- where it rains all year long. 
 Haha. Kleiner Scherz. Aber:
-Einige Nummernschilder weisen nicht die üblichen 
+Einige Nummernschilder weisen nicht die Ã¼blichen 
 Zahlen-Buchstaben-Kombinationen auf, sondern lauten einfach 
-"CLINTON" oder "ARNOLD" oder "YEAH". Das geht folgendermaßen: Ganz
-wie man in Deutschland in München das Nummernschild "M-AX 1964" bekommt, 
-indem man eine Gebühr an die KFZ-Meldestelle entrichtet, kann
-man in Amerika beliebige (ich betone: beliebige!) Nummernschilder für sein
+"CLINTON" oder "ARNOLD" oder "YEAH". Das geht folgendermaÃŸen: Ganz
+wie man in Deutschland in MÃ¼nchen das Nummernschild "M-AX 1964" bekommt, 
+indem man eine GebÃ¼hr an die KFZ-Meldestelle entrichtet, kann
+man in Amerika beliebige (ich betone: beliebige!) Nummernschilder fÃ¼r sein
 Auto bekommen. Das kostet, je nach Design,
-zwischen 20 und 30 Dollar im Jahr, die an einen wohltätigen Zweck gehen.
+zwischen 20 und 30 Dollar im Jahr, die an einen wohltÃ¤tigen Zweck gehen.
 Nun wollte ich ja schon immer der "PERL MAN" sein, ja, in der Tat
 hat mir Angelika mal ein nachgemachtes Nummernschild mit diesem 
 Aufdruck geschenkt -- da fragte ich mich: Warum nicht in echt? 
@@ -38,141 +38,141 @@ Ich ging zur Internet-Seite der KFZ-Registrierungsstelle
 Kalifornien und sah nach -- in der Tat war es noch zu haben. Auf dem
 Internet kann man auch ein Anmeldeformular ausdrucken lassen, das man dann per
 Post an die zentrale KFZ-Registrierungsstelle in Sacramento/Kalifornien
-schickt, und kaum vier Wochen später liegt eine Nachricht im 
-Briefkasten, dass man nämlich das Nummernschild von einer KFZ-Meldestelle
+schickt, und kaum vier Wochen spÃ¤ter liegt eine Nachricht im 
+Briefkasten, dass man nÃ¤mlich das Nummernschild von einer KFZ-Meldestelle
 abholen kann. Ich vereinbarte telefonisch einen Termin, da ich schon
 wusste, dass man dort sonst immer lange warten muss. Das geht mit einem
 automatisierten System, mit dem man einen Computer am anderen
 Ende anweist, einen Termin herauszusuchen.
-Anschließend bekommt man eine
+AnschlieÃŸend bekommt man eine
 Kontrollnummer, mit der man dann am vorgeschlagenen Zeitpunkt bei
 der KFZ-Meldestelle aufkreuzt. Der Mann am Schalter brach fast zusammen
-vor Lachen, als er den Umschlag mit meinen neuen Nummernschildern öffnete,
-auf denen in großen Lettern "PERL MAN" stand. Er fragte, ob sich das auf die
-Rock-Gruppe "PEARL JAM" bezöge, und ich klärte ihn darüber auf, 
+vor Lachen, als er den Umschlag mit meinen neuen Nummernschildern Ã¶ffnete,
+auf denen in groÃŸen Lettern "PERL MAN" stand. Er fragte, ob sich das auf die
+Rock-Gruppe "PEARL JAM" bezÃ¶ge, und ich klÃ¤rte ihn darÃ¼ber auf, 
 dass dies ein Hinweis auf eine Programmiersprache sei. 
 
-<pic images/plate.ps Die Internetsoftware erlaubt gegenwärtig noch superlustige Nummernschilder>
+<pic images/plate.ps Die Internetsoftware erlaubt gegenwÃ¤rtig noch superlustige Nummernschilder>
 
-Ich erhielt außerdem einen
+Ich erhielt auÃŸerdem einen
 neuen Kraftfahrzeugschein -- alles muss seine Ordnung haben --, 
 und ging hinaus, um mit einem mitgebrachten
 Schraubenzieher die neuen Nummernschilder am Auto zu befestigen. Seitdem 
-bin ich der "PERL MAN". Jeder bei Netscape weiß, wer da kommt. 
+bin ich der "PERL MAN". Jeder bei Netscape weiÃŸ, wer da kommt. 
 Aber noch andere gibt's:
 Der Chef der Computerwartungsabteilung bei Netscape, der schon
-länger dabei ist und recht gut verdient hat, fährt 
-übrigens einen Porsche Carrera (kostet hier ungefähr 80.000 Dollar) 
+lÃ¤nger dabei ist und recht gut verdient hat, fÃ¤hrt 
+Ã¼brigens einen Porsche Carrera (kostet hier ungefÃ¤hr 80.000 Dollar) 
 mit dem Nummernschild "THX AOL" ("Danke, AOL"). 
 Ein ehemaliger Arbeitskollege von mir 
-ist Spezialist in der Programmiersprache Java und fährt "MMM JAVA" in
-seinem M3er-BMW umeinander. Ja, Spaß muss sein.
+ist Spezialist in der Programmiersprache Java und fÃ¤hrt "MMM JAVA" in
+seinem M3er-BMW umeinander. Ja, SpaÃŸ muss sein.
 Wenn ihr rausfinden wollt, welche Nummernschilder in Kalifornien noch
-erhältlich sind, schaut einfach unter http://plates.ca.gov/search
-nach. Ihr werdet es sehen -- "PERL MAN" ist weg, da wart ihr zu spät dran!
+erhÃ¤ltlich sind, schaut einfach unter http://plates.ca.gov/search
+nach. Ihr werdet es sehen -- "PERL MAN" ist weg, da wart ihr zu spÃ¤t dran!
 
 @Z: Terminkalender
 
 <pic images/franklin.ps Der Franklin-Kalender im Einsatz>
 
-Bei Netscape lief neulich ein Ganztageskurs über Time-Management,
-für den ich mich einschrieb. Die Firma
+Bei Netscape lief neulich ein Ganztageskurs Ã¼ber Time-Management,
+fÃ¼r den ich mich einschrieb. Die Firma
 "Franklin/Covey" bietet Kurse an, in denen man lernt,
 wie man das von ihnen angebotene Kalendersystem bedient.
 Wie man seine Zeit sinnvoll einteilt, Aufgaben priorisiert und
 Wichtiges von Unwichtigem trennt, um in weniger Zeit mehr zu schaffen.
 Es war eine eindrucksvolle Vorstellung. Typisch amerikanisch war der
 Kurs nicht irgendein langweiliger Vortrag, sondern gespickt mit,
-ja, ich würde sogar sagen, bewegenden Momenten. So etwa, als die
-Kursleiterin uns aufforderte, anonym auf kleine Kärtchen zu schreiben, was 
-wir denn tun würden, wenn wir mehr Zeit hätten. Später, wir hatten
-die eingesammelten Kärtchen schon fast vergessen, 
-ließ sie ein Video laufen, in dem 
-dargestellt wurde, wie kurz das Leben sei und wie wichtig es wäre, sich
+ja, ich wÃ¼rde sogar sagen, bewegenden Momenten. So etwa, als die
+Kursleiterin uns aufforderte, anonym auf kleine KÃ¤rtchen zu schreiben, was 
+wir denn tun wÃ¼rden, wenn wir mehr Zeit hÃ¤tten. SpÃ¤ter, wir hatten
+die eingesammelten KÃ¤rtchen schon fast vergessen, 
+lieÃŸ sie ein Video laufen, in dem 
+dargestellt wurde, wie kurz das Leben sei und wie wichtig es wÃ¤re, sich
 auf die wichtigen Dinge zu konzentrieren. Als das Video endete, wurde der
 Bildschirm dunkel, aber die Musik lief weiter und sie begann, den
-Inhalt der Kärtchen vorzulesen. Da standen dann Dinge wie "Wenn ich mehr
-Zeit hätte, würde ich den Half-Dome im Yosemite-Park erklimmen".
-"Wenn ich mehr Zeit hätte, würde ich die meistbesuchte Website der
-Welt konstruieren". "Wenn ich mehr Zeit hätte, würde ich mit
+Inhalt der KÃ¤rtchen vorzulesen. Da standen dann Dinge wie "Wenn ich mehr
+Zeit hÃ¤tte, wÃ¼rde ich den Half-Dome im Yosemite-Park erklimmen".
+"Wenn ich mehr Zeit hÃ¤tte, wÃ¼rde ich die meistbesuchte Website der
+Welt konstruieren". "Wenn ich mehr Zeit hÃ¤tte, wÃ¼rde ich mit
 meiner Familie ganz Europa bereisen". 
-"Wenn ich mehr Zeit hätte, würde ich einen
-Science-Fiction-Roman schreiben". Eines der Kärtchen war natürlich von
-mir und ihr dürft raten, welches. Jedenfalls -- ich war bewegt. 
+"Wenn ich mehr Zeit hÃ¤tte, wÃ¼rde ich einen
+Science-Fiction-Roman schreiben". Eines der KÃ¤rtchen war natÃ¼rlich von
+mir und ihr dÃ¼rft raten, welches. Jedenfalls -- ich war bewegt. 
 Und der Kalender gefiel mir so gut, so dass ich seitdem nur noch
-mit einem mehr als DIN-A-5 großen Terminplaner herumrenne und alles, 
+mit einem mehr als DIN-A-5 groÃŸen Terminplaner herumrenne und alles, 
 ja, alles hineinschreibe. Echt raffiniert, das Teil, ich schaffe mittlerweile
 wirklich mehr und vergesse nichts mehr, da alles im Kalender steht.
 Der wesentliche Punkt ist, dass man private Ereignisse nicht von
-geschäftlichen trennt, der Hochzeitstag oder ein 
+geschÃ¤ftlichen trennt, der Hochzeitstag oder ein 
 Geburtstagsgeschenk sind also genauso wichtig wie
-berufliche Vorgänge.
+berufliche VorgÃ¤nge.
 Wen's interessiert: Unter http://www.franklincovey.com kann man das 
 Zeug bestellen, ist zwar nicht ganz billig, aber sehr gut gemacht.
-Natürlich nur geeignet für Leute mit Selbstdisziplin, die sich nicht
-scheuen, sich nachts um zwölf noch hinzusetzen, um 
-die Taskliste des vergangenen Tages abzuhaken und die Aufgaben für den
-nächsten Tag durchzugehen, sowie einmal pro Woche einen Wochenplan
+NatÃ¼rlich nur geeignet fÃ¼r Leute mit Selbstdisziplin, die sich nicht
+scheuen, sich nachts um zwÃ¶lf noch hinzusetzen, um 
+die Taskliste des vergangenen Tages abzuhaken und die Aufgaben fÃ¼r den
+nÃ¤chsten Tag durchzugehen, sowie einmal pro Woche einen Wochenplan
 mit den wichtigsten Zielen zu erstellen. Angelika ist auch gleich
 auf den Zug aufgesprungen, und fordert den gleichen Kalender, den
 es nur in einem bestimmten Laden in San Francisco zu kaufen gibt. Leider hat
 sie diese Aufgabe mangels Kalendersystems noch nicht 
 in eine entsprechende Liste eingetragen, so dass dieses Projekt immer noch 
 seiner Erledigung entgegenharrt, aber sie arbeitet daran ... (Anmerkung
-der Rundbrief-Redaktion: Zu Angelikas Geburtstag am 2. März lag ein
+der Rundbrief-Redaktion: Zu Angelikas Geburtstag am 2. MÃ¤rz lag ein
 kleines Kalenderlein auf dem Gabentisch ...).
 
 @Z: Turnschuhwahn
 
 <pic images/shoes.ps Michaels Turnschuhe>
 
-Ich ziehe ja bekanntermaßen nur noch Turnschuhe an. Natürlich nicht
+Ich ziehe ja bekanntermaÃŸen nur noch Turnschuhe an. NatÃ¼rlich nicht
 irgendwelche Billig-Botten vom Supermarkt, sondern Top-High-Tech-Treter
 von Mizuno. Vergesst Addidas. Vergesst Nike. Vergesst Rebook. 
-Ich erkläre hiermit "Mizuno Waverider" zum Schuh der Saison. Des
+Ich erklÃ¤re hiermit "Mizuno Waverider" zum Schuh der Saison. Des
 Jahres. Des Jahrzehnts vielleicht sogar. Zum Turnschuh-Fimmel muss ich 
-etwas weiter ausholen. Hier in Amerika trägt jeder Turnschuhe, vom 
+etwas weiter ausholen. Hier in Amerika trÃ¤gt jeder Turnschuhe, vom 
 Teenager bis 
 zum Tattergreis, das ist ganz normal. Und, wenn man in der
-Software-Branche arbeitet, ist der Turnschuh mehr als nur eine Fußbekleidung. 
-Wer Programmierer ist, trägt Turnschuhe. Punkt. Wer im Verkauf oder Marketing
-arbeitet, nicht. Genau wie man in Deutschland Schlips- und Nichtschlipsträger
-unterscheidet. Das neueste Insiderwort ist übrigens "Marketroid" für
+Software-Branche arbeitet, ist der Turnschuh mehr als nur eine FuÃŸbekleidung. 
+Wer Programmierer ist, trÃ¤gt Turnschuhe. Punkt. Wer im Verkauf oder Marketing
+arbeitet, nicht. Genau wie man in Deutschland Schlips- und NichtschlipstrÃ¤ger
+unterscheidet. Das neueste Insiderwort ist Ã¼brigens "Marketroid" fÃ¼r
 die Marketingmenschen, eine Mischung aus Marketing-Mensch und "Android", 
-also Roboter. Das nur nebenbei. Zurück zu den Turnschuhen: Vor mehr als einem
+also Roboter. Das nur nebenbei. ZurÃ¼ck zu den Turnschuhen: Vor mehr als einem
 Jahr kaufte ich mir ein Paar "Mizuno Waverider" und war hellauf begeistert.
-Turnschuhe haben bei mir einen Lebenszyklus von etwa zwölf Monaten, also
+Turnschuhe haben bei mir einen Lebenszyklus von etwa zwÃ¶lf Monaten, also
 machte ich mich neulich auf, ein Paar neue einzukaufen, da die alten sich
-langsam dem Vergammelungs-Stadium näherten. Doch, oh weh! Die vermaledeite
+langsam dem Vergammelungs-Stadium nÃ¤herten. Doch, oh weh! Die vermaledeite
 Turnschuh-Kette "Footlocker", die sonst eine recht gute Auswahl bietet,
-führte das Modell einfach nicht mehr. So versuchte ich mich krampfhaft 
-daran zurückzuerinnern, in welcher Filiale des Schuh-Giganten ich denn
+fÃ¼hrte das Modell einfach nicht mehr. So versuchte ich mich krampfhaft 
+daran zurÃ¼ckzuerinnern, in welcher Filiale des Schuh-Giganten ich denn
 das Paar damals gekauft hatte. Und wie Schuppen fiel es mir aus den Haaren: 
 Im Valley-Fair-Shopping-Center bei San Jose, wo wir uns damals mit Sylvia
 und Richard trafen. Eines Wochenendes, als wir uns wieder einmal in der
 South-Bay herumtrieben, fuhren wir an diesem Shopping-Center vorbei
-und ich überredete Angelika, mal dort reinzuschauen -- und siehe da: 
+und ich Ã¼berredete Angelika, mal dort reinzuschauen -- und siehe da: 
 dort war immer noch ein kleiner "Footlocker", der auch noch ein Paar
-"Waveriders" da hatte. Gebannt fragte ich den Verkäufer, ob er denn auch 
-ein Paar in meiner Größe 10 1/2 da hätte (nach deutschen Maßstäben 44)
+"Waveriders" da hatte. Gebannt fragte ich den VerkÃ¤ufer, ob er denn auch 
+ein Paar in meiner GrÃ¶ÃŸe 10 1/2 da hÃ¤tte (nach deutschen MaÃŸstÃ¤ben 44)
 und dieser verschwand im Lager, um kurz darauf mit einem ebensolchen 
-Paar zurückzukehren. Obwohl ich in "Mizuno Waverider"-Turnschuhen 
-derselben Größe angereist war, probierte ich kurz die neuen, und, siehe
+Paar zurÃ¼ckzukehren. Obwohl ich in "Mizuno Waverider"-Turnschuhen 
+derselben GrÃ¶ÃŸe angereist war, probierte ich kurz die neuen, und, siehe
 da, sie passten genau wie die alten. Ich war begeistert. Vorsichtig fragte
-ich den jungen Verkäufer, ob er denn auch noch auch noch ein zweites Paar
-derselben Größe da hätte. Wieder verschwand er kurz im Lager und brachte
+ich den jungen VerkÃ¤ufer, ob er denn auch noch auch noch ein zweites Paar
+derselben GrÃ¶ÃŸe da hÃ¤tte. Wieder verschwand er kurz im Lager und brachte
 ein zweites Paar daher. Ich jubelte. Er fragte, ob das das beste 
-Turnschuhmodell meines Lebens wäre und ich sagte "ja".
-Die Freude war jedenfalls groß, und ich denke, der Verkäufer durfte sich
-für den Rest des Nachmittages freinehmen. Ich glaubte, Sektkorken im Lager
-knallen zu hören, als wir den Laden verließen.
-Auf meinem neuen Perlbuch wird übrigens auf der Titelseite ein kleines
+Turnschuhmodell meines Lebens wÃ¤re und ich sagte "ja".
+Die Freude war jedenfalls groÃŸ, und ich denke, der VerkÃ¤ufer durfte sich
+fÃ¼r den Rest des Nachmittages freinehmen. Ich glaubte, Sektkorken im Lager
+knallen zu hÃ¶ren, als wir den Laden verlieÃŸen.
+Auf meinem neuen Perlbuch wird Ã¼brigens auf der Titelseite ein kleines
 Logo von Mizuno stehen mit dem Vermerk "Written in Mizuno Shoes". Jaha.
 Na, ihr glaubt aber auch alles.
 
 @Z: Schafkopf im Valley
 
-Ich hatte euch ja schon von meinem Arbeitskollegen Dieter erzählt, der
+Ich hatte euch ja schon von meinem Arbeitskollegen Dieter erzÃ¤hlt, der
 in Santa Cruz wohnt und auch bei Netscape arbeitet -- ihr wisst schon,
 der mit der Bayernfahne am Cubicle. 
 Nun stellte sich heraus, dass der Dieter auch noch den
@@ -182,168 +182,168 @@ bei Netscape gibt es also sage und schreibe drei Deutsche.
 Wir trafen uns alle mal zum 
 Mittagessen in einem mexikanischen Burrito-Laden
 und es stellte sich heraus, dass der Christian auch
-an der TU München studiert hat und während seiner Studienzeit
+an der TU MÃ¼nchen studiert hat und wÃ¤hrend seiner Studienzeit
 (er hat fast zur gleichen Zeit wie ich studiert)
-des öfteren in der Cafeteria Karten gespielt hat -- was
-euer lieber Erzähler, ahem, auch mit Vorliebe tat. So planten wir,
+des Ã¶fteren in der Cafeteria Karten gespielt hat -- was
+euer lieber ErzÃ¤hler, ahem, auch mit Vorliebe tat. So planten wir,
 noch einen vierten Bayern, den Ernst vom Siemens,
 aufzutun und zum Schafkopfspielen im
-Silicon Valley zu bewegen. Eine Kneipe wurde auch sofort ausgewählt:
+Silicon Valley zu bewegen. Eine Kneipe wurde auch sofort ausgewÃ¤hlt:
 "Hardy's Bavaria" in Sunnyvale, wo ein Bayer der Wirt ist und, 
-so ließen Insiderkreise verlauten, man Karten spielen 
-darf -- möglicherweise
+so lieÃŸen Insiderkreise verlauten, man Karten spielen 
+darf -- mÃ¶glicherweise
 die einzige Kneipe in ganz Amerika, in der das geht.
 
-<pic images/schaf.ps Acht Trümpfe auf der Hand -- das wohl einfachste Spiel beim Schafkopf.>
+<pic images/schaf.ps Acht TrÃ¼mpfe auf der Hand -- das wohl einfachste Spiel beim Schafkopf.>
 
 Drei Wochen lang gingen dann die Emails hin und her, immer konnte
-einer nicht. Dann schließlich, an einem Montag, hatten plötzlich alle
+einer nicht. Dann schlieÃŸlich, an einem Montag, hatten plÃ¶tzlich alle
 Zeit. Nur: "Hardy's Bavaria" hat am Montag zu! Also spielten wir
-beim Christian zu Hause in Cupertino, für die Fachleute unter euch:
-Sauspiel 10 Cents, Solo 25, Läufer beim Solo ab drei, beim Wenz
+beim Christian zu Hause in Cupertino, fÃ¼r die Fachleute unter euch:
+Sauspiel 10 Cents, Solo 25, LÃ¤ufer beim Solo ab drei, beim Wenz
 ab zwei, jeder darf legen, ohne Farbwenz, mit Stock
-wenn keiner spielt, Schuss übernimmt. 
+wenn keiner spielt, Schuss Ã¼bernimmt. 
 Ein gelungener Abend ... und Christian hat jetzt
 beim Netscape die Mailing-Liste schafkopf@netscape.com eingerichtet, 
-dort wird ausgemacht, wann die nächste Spielrunde stattfindet, also, 
-falls ihr mal in der Nähe und des Schafkopfspielens mächtig seid, 
+dort wird ausgemacht, wann die nÃ¤chste Spielrunde stattfindet, also, 
+falls ihr mal in der NÃ¤he und des Schafkopfspielens mÃ¤chtig seid, 
 tragt euch ein. Ich kann nur sagen, dass ich so gut wie eh und je spiele,
-und ich konnte gegen die versierten Kartler, die sogar Augen und (!) Trümpfe
-mitzählten, gut mithalten, obwohl ich nach wie vor nur "nach Gefühl"
-spiele. Es geht eben nichts über eine sechsjährige 
+und ich konnte gegen die versierten Kartler, die sogar Augen und (!) TrÃ¼mpfe
+mitzÃ¤hlten, gut mithalten, obwohl ich nach wie vor nur "nach GefÃ¼hl"
+spiele. Es geht eben nichts Ã¼ber eine sechsjÃ¤hrige 
 Intensiv-Ausbildung! Ein amerikanischer Kollege bei Netscape fragte
-mich neulich, wie lange es denn dauere, bis man ein einigermaßen guter
-Schafkopfspieler werde, und ich erwiderte nach einigem Überlegen, dass
-dazu schon sieben, acht Jahre kontinuierliches Training erforderlich wären.
-Entrüstet wandte er sich ab! Keine Geduld, diese Leute.
+mich neulich, wie lange es denn dauere, bis man ein einigermaÃŸen guter
+Schafkopfspieler werde, und ich erwiderte nach einigem Ãœberlegen, dass
+dazu schon sieben, acht Jahre kontinuierliches Training erforderlich wÃ¤ren.
+EntrÃ¼stet wandte er sich ab! Keine Geduld, diese Leute.
 Aber ehrlich, es ist wirklich wahr.
-Die Regeln lernt man natürlich schneller, aber, um tatsächlich zu 
+Die Regeln lernt man natÃ¼rlich schneller, aber, um tatsÃ¤chlich zu 
 gewinnen, braucht's mehr. Viel mehr. Oh, ja. Ha! Ich kann euch sagen ...
 
-<pic images/pit.ps Die fröhliche Schafkopfrunde im Silicon Valley>
+<pic images/pit.ps Die frÃ¶hliche Schafkopfrunde im Silicon Valley>
 
 @Z: Internetanschluss im Weltraumzeitalter
 
-Im Internetzeithalter gibt es natürlich kein Rasten oder Zaudern --
+Im Internetzeithalter gibt es natÃ¼rlich kein Rasten oder Zaudern --
 da muss man der Konkurrenz immer einen Schritt vorauseilen. Und
 aus Europa (genaugenommen von einem Herrn aus der Schweiz) vernahm
 ich leichten Spott, was meine Internetverbindung betraf. Weil ich
 immer noch ein normales Modem nutzte, wo man doch heutzutage 
-(Grüße nach Oldenburg: Auch ISDN ist Steinzeittechnologie!) 
+(GrÃ¼ÃŸe nach Oldenburg: Auch ISDN ist Steinzeittechnologie!) 
 entweder Kabelmodem 
 oder DSL hat. "Genug!", schrie ich und rief bei unserer Telefongesellschaft
 "Pacific Bell" an. Nachdem ich 20 Minuten in der Leitung gehangen hatte, 
-nahm eine freundliche Dame meinen Auftrag für DSL entgegen. 
+nahm eine freundliche Dame meinen Auftrag fÃ¼r DSL entgegen. 
 Als ich dann allerdings
 sagte, dass ich die Internetverbindung keineswegs unter Windows 98 
 sondern auf dem Mega-In-Betriebssystem Linux haben wolle, kam sie ein
 wenig ins Schleudern, fragte bei einem Spezialisten nach, der aber
-bestätigte, das sei kein Problem. Dazu muss man sagen, dass Linux
+bestÃ¤tigte, das sei kein Problem. Dazu muss man sagen, dass Linux
 derzeit als echte (und kostenlose!) Alternative zu Microsoft-Produkten
-wie Windows 95 oder 98 oder was auch immer im Gespräch ist. 
+wie Windows 95 oder 98 oder was auch immer im GesprÃ¤ch ist. 
 Kein Tag vergeht, ohne dass es in der Zeitung oder in 
-den Fernsehnachrichten auftaucht. Das Phänomen: Dieses Teil wurde von
-Leuten auf dem Internet in ihrer Freizeit entwickelt und der Öffentlichkeit
-kostenlos zur Verfügung gestellt -- noch hat es Ecken und Kanten, aber
-dieses Modell der Software-Entwicklung, dass man sich nämlich in 
-seiner Freizeit hinsetzt und für die "Community" (die Gemeinschaft
+den Fernsehnachrichten auftaucht. Das PhÃ¤nomen: Dieses Teil wurde von
+Leuten auf dem Internet in ihrer Freizeit entwickelt und der Ã–ffentlichkeit
+kostenlos zur VerfÃ¼gung gestellt -- noch hat es Ecken und Kanten, aber
+dieses Modell der Software-Entwicklung, dass man sich nÃ¤mlich in 
+seiner Freizeit hinsetzt und fÃ¼r die "Community" (die Gemeinschaft
 des Internet) seinen Beitrag leistet, dringt bis in die Presse vor.
-Nebenbei sei erwähnt, dass der Autor dieser Zeilen Linux seit ungefähr
+Nebenbei sei erwÃ¤hnt, dass der Autor dieser Zeilen Linux seit ungefÃ¤hr
 8 Jahren nutzt und selbst in seiner Freizeit Sachen entwickelt, die er,
-ohne dafür Geld zu verlangen, an die "Community" rausgibt. Doch genug Hype!
+ohne dafÃ¼r Geld zu verlangen, an die "Community" rausgibt. Doch genug Hype!
 Jedenfalls ist Linux noch immer nicht so bekannt wie Windows -- aber
-die Frau von Pac Bell sagte, das ginge in Ordnung. In 14 Tagen käme jemand
+die Frau von Pac Bell sagte, das ginge in Ordnung. In 14 Tagen kÃ¤me jemand
 vorbei, ich durfte mich entscheiden, ob ich vormittags (8-12) oder nachmittags
 (12-5) auf den Mechaniker warten wollte. Dazu muss man sagen, dass 
-"Pac Bell" hier in Kalifornien ungefähr denselben Klang hat, wie wenn
-man in Deutschland "Siemens" sagt. Huch, ich wollte natürlich sagen:
-"Deutsche Bundespost". Aber ich hörte, dass die auch privatisiert wurde.
-Egal, ihr wisst, was ich meine. Eine Woche später, an einem Freitag,
-hieß es dann plötzlich, am Montag schon käme jemand vorbei. Ich durfte
+"Pac Bell" hier in Kalifornien ungefÃ¤hr denselben Klang hat, wie wenn
+man in Deutschland "Siemens" sagt. Huch, ich wollte natÃ¼rlich sagen:
+"Deutsche Bundespost". Aber ich hÃ¶rte, dass die auch privatisiert wurde.
+Egal, ihr wisst, was ich meine. Eine Woche spÃ¤ter, an einem Freitag,
+hieÃŸ es dann plÃ¶tzlich, am Montag schon kÃ¤me jemand vorbei. Ich durfte
 am Montag von zu Hause aus arbeiten und konnte so auf den Servicemenschen
 warten. Der kam dann auch um 2 Uhr nachmittags und hatte zwar schon
-von "Linux" gehört, aber sagte, ihm fehle es an Erfahrung, darauf
+von "Linux" gehÃ¶rt, aber sagte, ihm fehle es an Erfahrung, darauf
 DSL zu installieren. Gut, 
 sagte ich, dann eben auf Windows, das ich als zweites Betriebssystem auf
 meiner Maschine fahre. Das ging dann auch problemlos -- fast, denn
-er verletzte sich am Finger, als er ein Kabel abzwickte, zum Glück hatte
+er verletzte sich am Finger, als er ein Kabel abzwickte, zum GlÃ¼ck hatte
 ich Pflaster und Desinfektionsmittel im Haus, er wurde an Ort und
 Stelle verarztet. Ich bekam
 ein Modem, das aussieht, wie ein Warp-Generator aus dem Raumschiff
 Enterprise, und durch die normale Telefonleitung kommt nun
-sowohl ein Datensignal für den Computer neben dem normalen Telefonverkehr --
-kurz: Man kann telefonieren, während der Computer Online ist. 
-Da wir noch eine zweite Telefonleitung haben, könnten jetzt
+sowohl ein Datensignal fÃ¼r den Computer neben dem normalen Telefonverkehr --
+kurz: Man kann telefonieren, wÃ¤hrend der Computer Online ist. 
+Da wir noch eine zweite Telefonleitung haben, kÃ¶nnten jetzt
 sogar zwei Leute gleichzeitig telefonieren und einer im Internet herumbrausen!
-Und man surft ungefähr 50 mal
+Und man surft ungefÃ¤hr 50 mal
 so schnell wie mit einem Modem durchs Internet. Das ist
 wirklich beeindruckend: Man klickt irgendwo hin und -- zack! -- ist die
-Seite da. Das liegt natürlich auch daran, dass die wichtigsten
+Seite da. Das liegt natÃ¼rlich auch daran, dass die wichtigsten
 Teile des Internet hier in
 Kalifornien beheimatet sind und z.B. Yahoo nur ein paar Meilen um die
 Ecke liegt. Ach ja: Mit Hilfe des Internet
 konnte ich dann das Ganze auch noch auf Linux nachziehen, kein Problem. 
-Natürlich weil mir Leute auf dem Internet geholfen haben. 
+NatÃ¼rlich weil mir Leute auf dem Internet geholfen haben. 
 Kostenlos. Wenn es irgendwo eine Gesellschaft des 21. Jahrhunderts gibt,
 dann hier. Im Cyberspace.
-Übrigens entsteht dieser
-Rundbrief auf Linux. Und auch alle meine Zeitschriftenbeiträge und
-Bücher. 
-Zurück zum DSL-Anschluss: Ich musste einen Einjahresvertrag abschließen,
-49 Dollar im Monat kostet der Spaß. Naja, ich kann's ja von der Steuer
-absetzen. Übrigens nicht von der normalen Einkommenssteuer, da dem
-Herrn Amerikaner die Werbungskosten für den Beruf fremd sind, sondern
-wegen meiner Autorentätigkeit, deren bescheidene Einnahmen ich auch 
+Ãœbrigens entsteht dieser
+Rundbrief auf Linux. Und auch alle meine ZeitschriftenbeitrÃ¤ge und
+BÃ¼cher. 
+ZurÃ¼ck zum DSL-Anschluss: Ich musste einen Einjahresvertrag abschlieÃŸen,
+49 Dollar im Monat kostet der SpaÃŸ. Naja, ich kann's ja von der Steuer
+absetzen. Ãœbrigens nicht von der normalen Einkommenssteuer, da dem
+Herrn Amerikaner die Werbungskosten fÃ¼r den Beruf fremd sind, sondern
+wegen meiner AutorentÃ¤tigkeit, deren bescheidene Einnahmen ich auch 
 hier in den USA versteuern muss, aber das nur nebenbei.
 
-Einige Tage später, ich war zwischenzeitlich
-glücklich mit Höchstgeschwindigkeit im Internet herumgebraust, 
-hörte ich auf der Autofahrt von Mountain View nach San Francisco im 
+Einige Tage spÃ¤ter, ich war zwischenzeitlich
+glÃ¼cklich mit HÃ¶chstgeschwindigkeit im Internet herumgebraust, 
+hÃ¶rte ich auf der Autofahrt von Mountain View nach San Francisco im 
 Radio eine Werbemitteilung von Pacific Bell: Als Schlagerangebot
-wäre DSL jetzt für nur 39 Dollar im Monat (10 Dollar weniger!)
-erhältlich, wenn man es
+wÃ¤re DSL jetzt fÃ¼r nur 39 Dollar im Monat (10 Dollar weniger!)
+erhÃ¤ltlich, wenn man es
 bis 30. April bestellte. Wutentbrannt
-rief ich am nächsten Tag bei Pacific Bell an, schließlich ist dies
+rief ich am nÃ¤chsten Tag bei Pacific Bell an, schlieÃŸlich ist dies
 Amerika. "This is America!" ist der Spruch, mit dem man klarmacht, 
 dass hier Sachen gehen, die in Deutschland nur Stirnrunzeln
-hervorrufen würden: "Have it your way" (Du kriegst was du willst)
+hervorrufen wÃ¼rden: "Have it your way" (Du kriegst was du willst)
 ist einer dieser
-Grundsätze. In der Gaststätte begreift man die Speisekarte nur als
+GrundsÃ¤tze. In der GaststÃ¤tte begreift man die Speisekarte nur als
 gutgemeinten Vorschlag, bestellt aber nach Gusto:
-"Ich hätte gerne das Steak, aber statt dem 
+"Ich hÃ¤tte gerne das Steak, aber statt dem 
 Kartoffelbrei lieber Pommes Frites und als Salat nur Tomaten auf einem 
-separaten Teller, Blue-Cheese-Dressing, und außerdem noch Roggenbrot dazu".
-In der Suppenküche, dem deutschen Lokal in San Francisco, erlebte ich
+separaten Teller, Blue-Cheese-Dressing, und auÃŸerdem noch Roggenbrot dazu".
+In der SuppenkÃ¼che, dem deutschen Lokal in San Francisco, erlebte ich
 einmal einen Amerikaner, der zu irgendeinem Wurstgericht noch
-Semmelknödel auf einem Extra-Teller bestellte, weil der einen solchen
+SemmelknÃ¶del auf einem Extra-Teller bestellte, weil der einen solchen
 schon mal irgendwo gegessen hatte. Man stelle sich diese Szene im
-Schwabinger Weißbierhaus zu München vor -- die Bedienung würde Tango
-tanzen. "This is America" heißt auch, dass man alles und
+Schwabinger WeiÃŸbierhaus zu MÃ¼nchen vor -- die Bedienung wÃ¼rde Tango
+tanzen. "This is America" heiÃŸt auch, dass man alles und
 jedes mit den fadenscheinigsten Ausreden umtauschen darf. Man sagt: 
-"Meiner Frau gefällt der neue Videorecorder nicht" und schon wird dieser
-anstandslos zurückgenommen und der Kaufpreis zurückerstattet.
-Und "This is America" heißt auch, dass ich am nächsten Tag bei 
-Pacific Bell anrief und sagte, dass ich es überhaupt nicht einsehen
-würde, dass ich 49 Dollar berappen müsste, während alle Neukunden
-39 Dollar zahlen würden -- und schwupps erklärte die Telefondame, 
-sie werde meinen Vertrag sofort auf 39 Dollar umändern. Na, da haben
-wir ja alle nochmal Glück gehabt.
+"Meiner Frau gefÃ¤llt der neue Videorecorder nicht" und schon wird dieser
+anstandslos zurÃ¼ckgenommen und der Kaufpreis zurÃ¼ckerstattet.
+Und "This is America" heiÃŸt auch, dass ich am nÃ¤chsten Tag bei 
+Pacific Bell anrief und sagte, dass ich es Ã¼berhaupt nicht einsehen
+wÃ¼rde, dass ich 49 Dollar berappen mÃ¼sste, wÃ¤hrend alle Neukunden
+39 Dollar zahlen wÃ¼rden -- und schwupps erklÃ¤rte die Telefondame, 
+sie werde meinen Vertrag sofort auf 39 Dollar umÃ¤ndern. Na, da haben
+wir ja alle nochmal GlÃ¼ck gehabt.
 
-@Z: Elektrische Zahnbürste
+@Z: Elektrische ZahnbÃ¼rste
 
 Und noch eine aufregende Neuigkeit. Darauf habt ihr alle gewartet. 
 Setzt euch hin. Jetzt kommt's:
-Wir haben uns eine neue elektrische Zahnbürste gekauft. "Oh mei, oh mei",
+Wir haben uns eine neue elektrische ZahnbÃ¼rste gekauft. "Oh mei, oh mei",
 sagt ihr jetzt sicher, aber es ist wirklich aufregend: Die Firma "Sonicare"
-fabriziert eine elektrische Zahnbürste, die ihren Bürstenkopf so schnell
+fabriziert eine elektrische ZahnbÃ¼rste, die ihren BÃ¼rstenkopf so schnell
 bewegt, dass Ultraschallwellen entstehen. Habe ich gleich beim
-Costco gekauft, nur hundert Dollar! Zwei Minuten damit die Zähne
-geputzt und ihr fühlt euch, als kämt ihr frisch vom Zahnarzt, der euch
-mit diesem Ding, das immer "iiiihh-iihh-iiiiih" macht, traktiert hätte.
-Ich schlecke mir den ganzen Tag über die Zähne, so gut ist das.
+Costco gekauft, nur hundert Dollar! Zwei Minuten damit die ZÃ¤hne
+geputzt und ihr fÃ¼hlt euch, als kÃ¤mt ihr frisch vom Zahnarzt, der euch
+mit diesem Ding, das immer "iiiihh-iihh-iiiiih" macht, traktiert hÃ¤tte.
+Ich schlecke mir den ganzen Tag Ã¼ber die ZÃ¤hne, so gut ist das.
 Sofort kaufen! Unter http://www.sonicare.com stehen mehr Informationen.
 
-<pic images/sonicare.ps Die neue Zahnbürste>
+<pic images/sonicare.ps Die neue ZahnbÃ¼rste>
 
 @Z: Neujahr
 
@@ -351,244 +351,244 @@ Genug mit dem Kommerzgefasel! Hier kommt Angelika:
 Sicher habt ihr schon mitbekommen, dass auch 
 San Francisco von den vorausgesagten Katastrophen verschont 
 blieb und gut ins neue Jahrtausend gekommen ist (die 
-Erzähler inbegriffen). Wegen der astronomischen Preise 
-überall und der angekündigten Menschenmassen, waren 
+ErzÃ¤hler inbegriffen). Wegen der astronomischen Preise 
+Ã¼berall und der angekÃ¼ndigten Menschenmassen, waren 
 Michael und ich ja bei unserem schon traditionellen Fondue 
-in trauter Zweisamkeit zu Hause geblieben. Schön war es! 
+in trauter Zweisamkeit zu Hause geblieben. SchÃ¶n war es! 
 Um Mitternacht konnten wir das gigantische Feuerwerk von 
 unserem Fenster aus beobachten (im Hintergrund lief 
-natürlich die Musik "I lost my heart in San Francisco"). 
+natÃ¼rlich die Musik "I lost my heart in San Francisco"). 
 Die ganze Stadt hat geleuchtet. 
 
 <pic images/sfworks1.ps Jahr-2000-Feuerwerk in San Francisco ...>
 
 Ist ja wohl klar, dass wir 
-nie aus unserem Apartment ausziehen können, denn der 
+nie aus unserem Apartment ausziehen kÃ¶nnen, denn der 
 Blick aus unserem Fenster ist einfach unbezahlbar. Witzig 
 war auch, dass um 23 Uhr unser mexikanischer Nachbar mit 
 seiner Tochter und einem Kanister Tequila im Schlepp 
-klingelte, um mit uns anzustoßen. Den Plastikbehälter hatte er im 
+klingelte, um mit uns anzustoÃŸen. Den PlastikbehÃ¤lter hatte er im 
 Koffer aus Mexiko geschmuggelt, wo 
 er mit seiner Familie auf Heimaturlaub war. Michael 
 hatte ja erst Bedenken, an dem schwarzgebrannten Schnaps zu
 erblinden, aber -- wie ihr seht -- haben wir den wunderbar
-milden Tequila gut überlebt. 
-Am Neujahrstag hatte Michael vormittags Bereitschaft für AOL, d.h. er 
+milden Tequila gut Ã¼berlebt. 
+Am Neujahrstag hatte Michael vormittags Bereitschaft fÃ¼r AOL, d.h. er 
 musste telefonisch erreichbar sein, um sich bei eventuell 
-auftretenden Jahr-2000-Problemen über unseren Heimcomputer in die 
+auftretenden Jahr-2000-Problemen Ã¼ber unseren Heimcomputer in die 
 Firma einzuloggen. Aber, oh Wunder, nichts passierte
 und keiner brauchte den Oberhacker. Als Ausgleich gab's einen
-zusätzlichen Tag Urlaub, den wir noch im 
-März für ein verlängertes Wochenende nutzen werden. 
+zusÃ¤tzlichen Tag Urlaub, den wir noch im 
+MÃ¤rz fÃ¼r ein verlÃ¤ngertes Wochenende nutzen werden. 
 Hurra!
 
 <pic images/sfworks2.ps ... von unserem Wohnzimmer aus.>
 
-Apropos Silvester: Das Silvesterüberraschungspaket gewann
+Apropos Silvester: Das SilvesterÃ¼berraschungspaket gewann
 Martin Weishaupt. Ihm gelang es, die 
 Novemberquizfrage "Wie sagt man auf tahitianisch 'danke'?",
-zu lösen. Viele von euch tippten auf "merci", weil Tahitianer
-Französisch als Amtssprache sprechen -- aber wir suchten den 
-Ausdruck in der Sprache der Einheimischen: "mauruuru" heißt's, 
+zu lÃ¶sen. Viele von euch tippten auf "merci", weil Tahitianer
+FranzÃ¶sisch als Amtssprache sprechen -- aber wir suchten den 
+Ausdruck in der Sprache der Einheimischen: "mauruuru" heiÃŸt's, 
 wie man nach kurzem Suchen auf dem Internet herausfinden kann. 
-Wir gratulieren dem glücklichen Gewinner herzlich!
+Wir gratulieren dem glÃ¼cklichen Gewinner herzlich!
 
 @Z: Fotonews
 
 Im Rahmen einer meiner Kurse an der Uni Berkeley
 lief im Januar und Februar wieder eine Ausstellung:
 Zwei meiner Fotos hingen an der Wand. 
-Dieses Mal waren es geschickt arrangierte schwarz-weiße 
+Dieses Mal waren es geschickt arrangierte schwarz-weiÃŸe 
 Selbstportraits, die etwas Haut zeigten, ohne zuviel
 preiszugeben. Mich hat 
-das köstlich amüsiert und natürlich werde ich euch nicht 
+das kÃ¶stlich amÃ¼siert und natÃ¼rlich werde ich euch nicht 
 die Freude machen und Fotos mitliefern. So weit kommt 
 es noch!
 
 <pic images/ucb.ps Die Zeitungsanzeige der Fotoausstellung>
 
-@Z: Bürgermeisterwahlen und Homo-Ehe
+@Z: BÃ¼rgermeisterwahlen und Homo-Ehe
 
 Denn besonders den politischen Themen will ich mich heute widmen:
-Der Bürgermeister von San Francisco heißt auch weiterhin 
+Der BÃ¼rgermeister von San Francisco heiÃŸt auch weiterhin 
 Willie Brown -- der Kandidat Tom Ammiano verlor die Stichwahl am 14. 
 Dezember (siehe November-Rundbrief). Ich finde das 
-sehr schade. Tom Ammanio als Bürgermeister hätte mir 
+sehr schade. Tom Ammanio als BÃ¼rgermeister hÃ¤tte mir 
 besser gefallen. Es ist eben ein Elend, wenn man selber 
-nicht wählen darf. Da merkt man erst, was wählen zu dürfen für
+nicht wÃ¤hlen darf. Da merkt man erst, was wÃ¤hlen zu dÃ¼rfen fÃ¼r
 ein Privileg ist.
-Ich bin ja schon lange dafür, dass Ausländer, die für längere Zeit 
+Ich bin ja schon lange dafÃ¼r, dass AuslÃ¤nder, die fÃ¼r lÃ¤ngere Zeit 
 in einem bestimmten Land leben, zumindestens auf lokaler 
-Ebene wählen dürfen. Und das meine ich jetzt nicht nur 
+Ebene wÃ¤hlen dÃ¼rfen. Und das meine ich jetzt nicht nur 
 auf die USA bezogen, sondern ganz generell. Auch bin ich 
-der festen Überzeugung, dass Wahlen in den USA völlig 
-anders ausgehen würden, wenn alle Greencard-Besitzer 
+der festen Ãœberzeugung, dass Wahlen in den USA vÃ¶llig 
+anders ausgehen wÃ¼rden, wenn alle Greencard-Besitzer 
 (amerikanische dauerhafte Arbeits- und 
-Aufenthaltsgenehmigung) wählen dürften (nur noch einmal 
-schnell zur Erinnerung: auch in den USA dürfen nur 
-amerikanische Staatsbürger wählen). 
+Aufenthaltsgenehmigung) wÃ¤hlen dÃ¼rften (nur noch einmal 
+schnell zur Erinnerung: auch in den USA dÃ¼rfen nur 
+amerikanische StaatsbÃ¼rger wÃ¤hlen). 
 
 Aber das nur so am 
-Rande. Zurück zu Tom Ammanio: Man vermutet, dass er sich 
-bei der Wahl nicht durchsetzen konnte, da für viele 
-Wähler dann doch zu viel war, dass er sich ganz offen zu 
-seiner Homosexualität bekennt. So nach dem Motto: Wir sind 
-ja liberal, aber ein homosexueller Bürgermeister geht dann 
+Rande. ZurÃ¼ck zu Tom Ammanio: Man vermutet, dass er sich 
+bei der Wahl nicht durchsetzen konnte, da fÃ¼r viele 
+WÃ¤hler dann doch zu viel war, dass er sich ganz offen zu 
+seiner HomosexualitÃ¤t bekennt. So nach dem Motto: Wir sind 
+ja liberal, aber ein homosexueller BÃ¼rgermeister geht dann 
 doch ein bisschen zu weit. Ich bin mir nicht sicher, ob das 
 stimmt, denn San Francisco ist ja bekanntlich die Hochburg 
 der homosexuellen Bewegung und Tom Ammiano bekleidet eh 
 schon ein hohes politisches Amt im Stadtparlament, was er 
 auch weiterhin inne hat. Auf der anderen Seite liest und 
-hört man in letzter Zeit leider wieder häufiger über 
+hÃ¶rt man in letzter Zeit leider wieder hÃ¤ufiger Ã¼ber 
 diskriminierende Attacken gegen Homosexuelle. Vor allem die 
 amerikanische politischte Rechte (und ich beziehe mich hier 
 nicht auf Rechtsradikale), die stark von den 
-verschiedensten amerikanischen Kirchen unterstüzt wird, 
+verschiedensten amerikanischen Kirchen unterstÃ¼zt wird, 
 hat der homosexuellen Bewegung den Kampf angesagt. Meiner 
 Meinung nach liegt das daran, dass sich Konservative extrem 
-bedroht fühlen, da Homosexuelle plötzlich das Recht auf 
-Ehe und Familie einfordern. Über Jahre ging es der 
+bedroht fÃ¼hlen, da Homosexuelle plÃ¶tzlich das Recht auf 
+Ehe und Familie einfordern. Ãœber Jahre ging es der 
 homosexuellen Bewegung in San Francisco und anderswo 
-stärker darum, zwar toleriert und akzeptiert zu werden --
-aber sich auch von der spießbürgerlichen Gesellschaft 
+stÃ¤rker darum, zwar toleriert und akzeptiert zu werden --
+aber sich auch von der spieÃŸbÃ¼rgerlichen Gesellschaft 
 abzugrenzen. Mittlerweile wollen immer mehr
 gleichgeschlechtliche Paare heiraten oder haben sich 
-entschieden, Kinder durch Adoption oder künstliche 
+entschieden, Kinder durch Adoption oder kÃ¼nstliche 
 Befruchtung zu bekommen, d.h. wollen ganz normale
-Familien gründen. In diesem Licht ist auch die sogenannte 
+Familien grÃ¼nden. In diesem Licht ist auch die sogenannte 
 "Knight-Initiative" zu sehen. Wie ihr vielleicht wisst, 
-wird noch dieses Jahr ein neuer Präsident in Amerika 
-gewählt. Deshalb finden zur Zeit Vorwahlen in den 
-verschiedenen Bundesstaaten statt. Am 7. März ist 
-Kalifornien dran. Nun nutzt man dieses Datum nicht nur für 
-die Vorwahlen, sondern auch um über sogenannte 
+wird noch dieses Jahr ein neuer PrÃ¤sident in Amerika 
+gewÃ¤hlt. Deshalb finden zur Zeit Vorwahlen in den 
+verschiedenen Bundesstaaten statt. Am 7. MÃ¤rz ist 
+Kalifornien dran. Nun nutzt man dieses Datum nicht nur fÃ¼r 
+die Vorwahlen, sondern auch um Ã¼ber sogenannte 
 "Propositions" (vergleichbar mit Volksbegehren) 
-abzustimmen. Propositions werden der Abkürzung halber
-durchnumeriert, man sieht überall
-Schilder, die für "No on 5" und "Yes on 42" werben.
+abzustimmen. Propositions werden der AbkÃ¼rzung halber
+durchnumeriert, man sieht Ã¼berall
+Schilder, die fÃ¼r "No on 5" und "Yes on 42" werben.
 Die Knight-Initiative ("Proposition 22") wurde 
 von dem Senator mit dem Namen Knight ins Rennen gebracht. 
-Knight möchte, dass die Wähler befürworten, dass 
-folgender Satz in die kalifornischen Gesetzesbücher 
+Knight mÃ¶chte, dass die WÃ¤hler befÃ¼rworten, dass 
+folgender Satz in die kalifornischen GesetzesbÃ¼cher 
 aufgenommen wird: "Only marriage between a man and a woman 
 is valid or recognized in California." ("Nur die Ehe 
-zwischen einem Mann und einer Frau ist gültig oder 
+zwischen einem Mann und einer Frau ist gÃ¼ltig oder 
 anerkannt in Kalifornien.") 
 
-<pic images/22.ps Werbung für die Proposition 22 im Vorgarten eines Amerikaners>
+<pic images/22.ps Werbung fÃ¼r die Proposition 22 im Vorgarten eines Amerikaners>
 
 Nun muss man wissen, dass weder 
 in Kalifornien noch in einem anderen amerikanischen 
 Bundesstaat die gleichgeschlechtliche Ehe zur Zeit 
 legalisiert ist, d.h. der Satz ist eigentlich 
-überflüssig. Deshalb glauben Kritiker auch, dass hinter 
-der Knight-Initiative zwei ganz andere Gedankengänge 
-stehen. Einmal befürchtet man, dass andere Bundesstaaten 
-eventuell in nächster Zeit die gleichgeschlechtliche Ehe 
-legalisieren könnten (im Bundesstaat Vermont könnte dies 
-durchaus geschehen) und dann wäre Kalifornien nach 
+Ã¼berflÃ¼ssig. Deshalb glauben Kritiker auch, dass hinter 
+der Knight-Initiative zwei ganz andere GedankengÃ¤nge 
+stehen. Einmal befÃ¼rchtet man, dass andere Bundesstaaten 
+eventuell in nÃ¤chster Zeit die gleichgeschlechtliche Ehe 
+legalisieren kÃ¶nnten (im Bundesstaat Vermont kÃ¶nnte dies 
+durchaus geschehen) und dann wÃ¤re Kalifornien nach 
 jetziger Rechtslage ver\-pflichtet, die z.B. in Vermont 
 geschlossene Ehe zwischen zwei Homosexuellen anzuerkennen. 
 Deshalb die Idee der Knight-Initiative, noch einmal 
-explizit aufzuführen, dass nur eine Ehe zwischen Frau und 
-Mann in Kalifornien Gültigkeit hat. Zweitens befürchten 
+explizit aufzufÃ¼hren, dass nur eine Ehe zwischen Frau und 
+Mann in Kalifornien GÃ¼ltigkeit hat. Zweitens befÃ¼rchten 
 viele, dass die Knight-Initiative sozusagen durch die 
-Hintertür Errungenschaften bekämpfen will, die 
-gleichgeschlechtliche Paare in den meisten Städten 
-Kaliforniens auch ohne staatliche Eheschließung haben, 
-z.B. die Möglichkeit der Adoption von Kindern, oder dass 
+HintertÃ¼r Errungenschaften bekÃ¤mpfen will, die 
+gleichgeschlechtliche Paare in den meisten StÃ¤dten 
+Kaliforniens auch ohne staatliche EheschlieÃŸung haben, 
+z.B. die MÃ¶glichkeit der Adoption von Kindern, oder dass 
 der gleichgeschlechtliche Partner bei der 
 Krankenversicherung wie ein verheirateter Ehepartner gilt 
-(gängige Praxis in allen Firmen des Silicon-Valleys und in 
-San Francisco) sowie Besuchsrechte in Krankenhäusern, d.h. 
-als Familienangehöriger betrachtet zu werden usw. Knight 
-hat übrigens selber einen Sohn, der sich offen zu seiner 
-Homosexualität bekennt, und öffentlich die Initiative 
-seines Vaters bekämpft. Und da kommt dann schon der 
+(gÃ¤ngige Praxis in allen Firmen des Silicon-Valleys und in 
+San Francisco) sowie Besuchsrechte in KrankenhÃ¤usern, d.h. 
+als FamilienangehÃ¶riger betrachtet zu werden usw. Knight 
+hat Ã¼brigens selber einen Sohn, der sich offen zu seiner 
+HomosexualitÃ¤t bekennt, und Ã¶ffentlich die Initiative 
+seines Vaters bekÃ¤mpft. Und da kommt dann schon der 
 Verdacht auf, dass der Vater mit der Tatsache nicht umgehen 
 kann, dass der eigene Sohn homosexuell ist. Sehr traurig,
-das Ganze. Die Knight-Initiative wird finanziell übrigens 
-heftig unterstüzt von der mormonischen Kirche (neben 
+das Ganze. Die Knight-Initiative wird finanziell Ã¼brigens 
+heftig unterstÃ¼zt von der mormonischen Kirche (neben 
 anderen), die bekanntlich in den USA ja sehr wohlhabend 
-ist. Geld spielt nämlich eine entscheidene Rolle, um 
+ist. Geld spielt nÃ¤mlich eine entscheidene Rolle, um 
 Volksbegehren durchzubringen. Dieses finanzielle 
-Einmischen kann übrigens durchaus Folgen haben, da die 
+Einmischen kann Ã¼brigens durchaus Folgen haben, da die 
 Kirchen weitesgehend der Steuerfreiheit unterliegen. Sie 
-dürfen also nicht aktiv politische Initiativen mit ihren 
+dÃ¼rfen also nicht aktiv politische Initiativen mit ihren 
 Kirchengeldern finanzieren. Aber das nur so am Rande. Man 
-kann nur hoffen, dass die kalifornischen Wähler gegen die 
+kann nur hoffen, dass die kalifornischen WÃ¤hler gegen die 
 Knight-Initiative stimmen. Wir werden es euch, in unserem 
-nächsten Rundbrief wissen lassen. (Anmerkung der Redaktion:
+nÃ¤chsten Rundbrief wissen lassen. (Anmerkung der Redaktion:
 Kurz vor der Drucklegung des Rundbriefes stimmten die
-Wähler mit 60% für und 40% gegen den Vorschlag. Der Satz
+WÃ¤hler mit 60% fÃ¼r und 40% gegen den Vorschlag. Der Satz
 wird also in den Gesetzestext aufgenommen.)
 
-@Z: Präsidentenwahlen
+@Z: PrÃ¤sidentenwahlen
 
 Dann habt ihr vielleicht in Deutschland auch mitbekommen, 
 dass Bill Clinton seine letzte Rede zur Lage der Nation ("State 
 of the Union") gehalten hat, da ja seine Amtsperiode schon 
 bald zu Ende geht. In Amerika sind, wie oben schon 
-erwähnt, Präsidentschaftswahlen. Dieser Bericht zur Lage 
-der Nation findet alljährlich statt und, wie der Name schon 
+erwÃ¤hnt, PrÃ¤sidentschaftswahlen. Dieser Bericht zur Lage 
+der Nation findet alljÃ¤hrlich statt und, wie der Name schon 
 sagt, geht es darum, wie es denn so steht um Amerika. 
-Natürlich nutzt der Präsident die Rede auch, um 
-vorzustellen, was er zukünftig zu tun gedenkt. Clinton
-muss bald abdanken, da ein Präsident
-in Amerika nur zweimal hintereinander gewählt werden
+NatÃ¼rlich nutzt der PrÃ¤sident die Rede auch, um 
+vorzustellen, was er zukÃ¼nftig zu tun gedenkt. Clinton
+muss bald abdanken, da ein PrÃ¤sident
+in Amerika nur zweimal hintereinander gewÃ¤hlt werden
 darf und dann einen Neuen ranlassen muss. Er
 schmiss dennoch nur so mit den Reformideen um sich --
-was absolut nichts heißt, da Clinton 
-schon manches Mal seine Pläne nicht durchsetzen konnte, denn der 
+was absolut nichts heiÃŸt, da Clinton 
+schon manches Mal seine PlÃ¤ne nicht durchsetzen konnte, denn der 
 amerikanische Kongress hat ja bekanntlich eine 
 republikanische Mehrheit, die etwas andere Vorstellungen 
-hat als der demokratische Präsident. Wie ihr vielleicht 
+hat als der demokratische PrÃ¤sident. Wie ihr vielleicht 
 merkt, habe ich die Rede aufmerksam im Fernsehen verfolgt. 
 Genauer gesagt habe ich gebannt auf den Bildschirm 
 gestarrt und verfolgte fasziniert, wie anders eine derartige Rede 
-im Vergleich zum deutschen Bundestag abläuft. 
-Zunächst ist mir wieder einmal unangenehm aufgefallen, 
-dass es in den USA völlig normal und sogar ein Muss ist, 
+im Vergleich zum deutschen Bundestag ablÃ¤uft. 
+ZunÃ¤chst ist mir wieder einmal unangenehm aufgefallen, 
+dass es in den USA vÃ¶llig normal und sogar ein Muss ist, 
 patriotisch zu sein. Frei nach dem Motto: Amerika, das 
 gelobte Land, die Supernation, die alle bewundern. 
-Natürlich hat Clinton allen Grund, ein wenig anzugeben,
-schließlich ist die Bilanz nicht schlecht: Der 
-Staatshaushalt wirft Überschüsse ab, das Land befindet 
-sich im längsten Wirtschaftsboom seiner Geschichte. Die 
-Kriminalität ist zurückgegangen, die Arbeitslosenrate ist 
+NatÃ¼rlich hat Clinton allen Grund, ein wenig anzugeben,
+schlieÃŸlich ist die Bilanz nicht schlecht: Der 
+Staatshaushalt wirft ÃœberschÃ¼sse ab, das Land befindet 
+sich im lÃ¤ngsten Wirtschaftsboom seiner Geschichte. Die 
+KriminalitÃ¤t ist zurÃ¼ckgegangen, die Arbeitslosenrate ist 
 extrem niedrig, viel niedrigerer als in Deutschland. 
 Millionen neuer Jobs wurden geschaffen. Nur 
 hat das Ganze auch einen Preis und vieles liegt extrem im 
 Argen. Unter anderem das Gesundheits- und Schulwesen (besonders 
-beschämend, wenn man über Haushaltsüberschüsse 
-verfügt). Und viele der neugeschaffenen Jobs bieten
+beschÃ¤mend, wenn man Ã¼ber HaushaltsÃ¼berschÃ¼sse 
+verfÃ¼gt). Und viele der neugeschaffenen Jobs bieten
 nur extrem schlechte Bezahlung und keine Sozialabsicherung. 
 Interessant war auch, dass 
-Clinton sich ganz emotional gab. So sah man des öfteren 
-Tränen in seinen Augen, sowohl vor Rührung als auch vor 
-Trauer. Natürlich dankte er auch seiner Frau Hillary für 
-ihre unermüdliche Unterstützung, was dann doch etwas 
-seltsam anmutete, denn schließlich ist seine Affäre mit 
+Clinton sich ganz emotional gab. So sah man des Ã¶fteren 
+TrÃ¤nen in seinen Augen, sowohl vor RÃ¼hrung als auch vor 
+Trauer. NatÃ¼rlich dankte er auch seiner Frau Hillary fÃ¼r 
+ihre unermÃ¼dliche UnterstÃ¼tzung, was dann doch etwas 
+seltsam anmutete, denn schlieÃŸlich ist seine AffÃ¤re mit 
 der Praktikantin Monica Lewinsky noch nicht vergessen. 
-Böse Stimmen vermuten ja auch, dass Hillary Clinton sich 
-sofort scheiden lässt, sobald Clintons Amtszeit vorbei ist. 
+BÃ¶se Stimmen vermuten ja auch, dass Hillary Clinton sich 
+sofort scheiden lÃ¤sst, sobald Clintons Amtszeit vorbei ist. 
 Man darf gespannt sein.
 
 @Z: Benetton und Todesstrafe
 
 Dann ist hier zur Zeit die Werbekampagne der italienischen 
-Textilfirma Benetton in aller Munde. Benetton ist ja dafür 
-bekannt, mit außergewöhnlichen und provozierenden 
+Textilfirma Benetton in aller Munde. Benetton ist ja dafÃ¼r 
+bekannt, mit auÃŸergewÃ¶hnlichen und provozierenden 
 Werbekampagnen die Welt aufzuschrecken. Dieses Mal gehen 
-Fotos von Todeskandidaten in US-Gefängnissen um den 
+Fotos von Todeskandidaten in US-GefÃ¤ngnissen um den 
 Globus. Benetton will damit auf das Problem der Todesstrafe 
 in den USA hinweisen. Dabei geht es nicht darum, ob die 
-Häftlinge eventuell unschuldig sind, sondern um die 
+HÃ¤ftlinge eventuell unschuldig sind, sondern um die 
 allgemeine Frage, ob ein Staat das Recht hat, den Tod als 
 Form der Bestrafung anzuwenden. Die Staatsanwaltschaft des 
 Bundesstaates Missouri hat bereits eine Klage gegen 
 Benetton eingereicht und die amerikanische Kaufhauskette 
-"Sears" will keine Benetton-Kleidung mehr in ihren Läden 
+"Sears" will keine Benetton-Kleidung mehr in ihren LÃ¤den 
 anbieten. 
 
 <pic images/benn.ps Todeskanditaten in der Benetton-Werbung>
@@ -596,70 +596,70 @@ anbieten.
 Ich hoffe nur, das Benetton standhaft bleibt. Wer 
 sich die Fotos anschauen will, kann sie unter 
 www.benetton.com finden. Auch hier sei noch einmal auf den 
-Wahlkampf verwiesen. Kein Präsidentschaftskandidat kann es 
+Wahlkampf verwiesen. Kein PrÃ¤sidentschaftskandidat kann es 
 sich "leisten", gegen die Todesstrafe zu sein, wenn er 
 gewinnen will. George Bush, der republikanische 
-Präsidentschaftskandidat und Gouverneur (so etwas wie bei 
-uns der Ministerpräsident) des Bundesstaates Texas, hat 
-erst wieder das Gnadengesuch einer über 60-jährigen Frau 
+PrÃ¤sidentschaftskandidat und Gouverneur (so etwas wie bei 
+uns der MinisterprÃ¤sident) des Bundesstaates Texas, hat 
+erst wieder das Gnadengesuch einer Ã¼ber 60-jÃ¤hrigen Frau 
 abgelehnt, deren Todesurteil deshalb vollstreckt wurde. Man 
-hatte da schon sehr das Gefühl, dass er das für seinen 
-Wahlkampf nutzt. Texas ist übrigens auch der Bundesstaat mit den 
+hatte da schon sehr das GefÃ¼hl, dass er das fÃ¼r seinen 
+Wahlkampf nutzt. Texas ist Ã¼brigens auch der Bundesstaat mit den 
 meisten Exekutionen im Jahr 1999. Ein sehr makaberer und 
 trauriger erster Rang, obwohl Bush das sicher anders sieht. 
 Da wird einem wirklich Angst und Bange, wenn man bedenkt, 
-dass er mit höchster Wahrscheinlichkeit der nächste 
-Präsident der USA werden wird.
+dass er mit hÃ¶chster Wahrscheinlichkeit der nÃ¤chste 
+PrÃ¤sident der USA werden wird.
 
-@Z: Wer heiratet einen Millionär?
+@Z: Wer heiratet einen MillionÃ¤r?
 
 Und dann durften wir hier noch dem Gipfel der 
 Geschmacklosigkeit im amerikanischen Fernsehen beiwohnen. 
 Sicher wird das aber das deutsche Fernsehen nicht daran 
-hindern, eine ähnliche Sendung für den deutschen Markt zu 
-produzieren, denn schließlich wird ja schon seit eh und je 
+hindern, eine Ã¤hnliche Sendung fÃ¼r den deutschen Markt zu 
+produzieren, denn schlieÃŸlich wird ja schon seit eh und je 
 jede amerikanische Show kopiert, egal wie schlecht sie auch 
 sein mag. Die Sendung hatte den Titel "Who wants to marry a 
-multi-millionaire?" (Wer will einen Multimillionär 
+multi-millionaire?" (Wer will einen MultimillionÃ¤r 
 heiraten?) und wurde vom amerikanischen Sender Fox 
 ausgestrahlt. 50 Frauen traten gegeneinander an. Der Preis 
 war, den superreichen Junggesellen vor laufender Kamera zu 
 heiraten. Dabei ist eine der Spielregeln, dass keine der 
 Frauen diesen potentiellen Ehemann vorher kennen gelernt 
 geschweige denn gesehen haben darf. Die Endrunde ist 
-sozusagen der Höhepunkt der Show. Dann wird das erste Mal 
-die Identität des Multimillionärs preisgegeben, indem er 
-auf der Bühne auftaucht und um die Hand seiner Angebeteten 
-anhält, nämlich die Frau der Endrundenkandidaten, die ihm 
-am Besten gefallen hat. Und dann wird natürlich gleich an 
+sozusagen der HÃ¶hepunkt der Show. Dann wird das erste Mal 
+die IdentitÃ¤t des MultimillionÃ¤rs preisgegeben, indem er 
+auf der BÃ¼hne auftaucht und um die Hand seiner Angebeteten 
+anhÃ¤lt, nÃ¤mlich die Frau der Endrundenkandidaten, die ihm 
+am Besten gefallen hat. Und dann wird natÃ¼rlich gleich an 
 Ort und Stelle geheiratet. Gesetzlich abgesichert, denn die
 Show spielt im Bundesstaat Nevada (wo Las Vegas ist), wo solche
-Dinge möglich sind.
+Dinge mÃ¶glich sind.
 
 <pic images/milli.ps Frisch im Fernsehen verheiratet ...>
 
 Ich betone noch einmal: Die Frau 
-weiß nur, dass der Mann Geld hat. Spielrunden sind z.B., 
-dass die Frauen im Bikini auf der Bühne aufmarschieren und 
-Herr Multimillionär Punkte vergibt. Auch 
-Familienmitglieder und Freunde dürfen Punkte vergeben. Im 
+weiÃŸ nur, dass der Mann Geld hat. Spielrunden sind z.B., 
+dass die Frauen im Bikini auf der BÃ¼hne aufmarschieren und 
+Herr MultimillionÃ¤r Punkte vergibt. Auch 
+Familienmitglieder und Freunde dÃ¼rfen Punkte vergeben. Im 
 Nachhinein hat sich das Ganze dann vielleicht doch nicht 
 als so geniale Idee herausgestellt. Die Einschaltquoten 
-waren zwar riesig, aber Mr. Multimillionär hatte schon 
+waren zwar riesig, aber Mr. MultimillionÃ¤r hatte schon 
 einmal eine Klage am Hals, weil er eine seiner Freundinnen 
-verprügelt hat. Auch sein Vermögen ist kleiner als 
+verprÃ¼gelt hat. Auch sein VermÃ¶gen ist kleiner als 
 angegeben. Da hat der Sender wohl nicht richtig seine 
 Schularbeiten gemacht. Die Ehe wird auf jeden Fall 
 annulliert werden. Die amerikanischen Medien schwebten auf 
-Wolke sieben, konnten sie doch tagelang über dieses 
-Ereignis berichten. Zum guten Schluss erklärte sich dann 
+Wolke sieben, konnten sie doch tagelang Ã¼ber dieses 
+Ereignis berichten. Zum guten Schluss erklÃ¤rte sich dann 
 die geprellte Braut bereit, ein Interview mit "Good Morning 
-America" zu führen. Und da sagte sie doch tatsächlich, 
-dass sie ja nur mitgespielt hätte, um einen Urlaub bezahlt 
+America" zu fÃ¼hren. Und da sagte sie doch tatsÃ¤chlich, 
+dass sie ja nur mitgespielt hÃ¤tte, um einen Urlaub bezahlt 
 zu bekommen (sie meinte die Flitterwochen). Ja, wie dumm 
 muss man eigentlich sein? Und war der Titel der Sendung 
 vielleicht doch: "Wie lasse ich mich zur Prostituierten 
-ausbilden?" Wen die Geschichte näher interessiert: Unter
+ausbilden?" Wen die Geschichte nÃ¤her interessiert: Unter
 http://pw1.netcom.com/~warnerwa/rockwell.html steht eine
 reiche Auswahl von "Links", die zu den Meldungen der einzelnen
 Nachrichtenagenturen verzweigen.
@@ -669,104 +669,104 @@ Nachrichtenagenturen verzweigen.
 @Z: Zu Visum und Greencard
 
 Nun aber zu etwas ganz anderem: Wie wir ja schon mehrmals 
-erwähnt haben, läuft unser Visum Ende Juli diesen Jahres 
-aus. Da wir noch gerne etwas bleiben möchten, haben wir 
-eine Verlängerung beantragt, die allerdings immer noch 
+erwÃ¤hnt haben, lÃ¤uft unser Visum Ende Juli diesen Jahres 
+aus. Da wir noch gerne etwas bleiben mÃ¶chten, haben wir 
+eine VerlÃ¤ngerung beantragt, die allerdings immer noch 
 nicht durch ist, denn die amerikanische 
-Einwanderungsbehörde ist nicht gerade der schnellsten 
+EinwanderungsbehÃ¶rde ist nicht gerade der schnellsten 
 einer. Nun hat ja in den letzten Wochen wieder alles nach 
-Amerika geschielt, als Bundeskanzler Schröder ankündigte, 
-ausländische Computerexperten ins Land zu holen. Was haben 
-wir uns totgelacht als plötzlich der Name "Green Card" in 
+Amerika geschielt, als Bundeskanzler SchrÃ¶der ankÃ¼ndigte, 
+auslÃ¤ndische Computerexperten ins Land zu holen. Was haben 
+wir uns totgelacht als plÃ¶tzlich der Name "Green Card" in 
 deutschen Munden war. Es scheint wohl besonders schick zu 
 sein, amerikanische Begriffe zu verwenden, egal ob man 
 diese nun richtig oder falsch verwendet. Als Green Card 
 bezeichnet man in Amerika die dauerhafte Arbeits-und 
-Aufenthaltsgenehmigung. Gerhard Schröder hat aber nur 
+Aufenthaltsgenehmigung. Gerhard SchrÃ¶der hat aber nur 
 befristete Genehmigungen im Sinn. Das ist genau das, was 
 Michael hier hat und wird H-1B-Visum genannt. Gar 
 nicht witzig fanden wir allerdings, dass die deutsche 
 Presse so tat, als ob man in Amerika die Green Card auf 
 einem silbernen Tablett serviert bekommt. Besonders wenn 
 man gerade selbst durch den hochkomplizierten, 
-langwierigen Green-Card-Prozess geht und zusätzlich noch 
-zitternd auf seine Visumsverlängerung wartet, kommt 
-gewaltige Wut hoch über so viel Missinformation. Deshalb 
-will ich ein wenig Aufklärungsarbeit leisten. Wie man in 
-Amerika eine Green Card bekommt, spare ich mir für den 
-nächsten Rundbrief auf. Heute also die Episode, wie das 
+langwierigen Green-Card-Prozess geht und zusÃ¤tzlich noch 
+zitternd auf seine VisumsverlÃ¤ngerung wartet, kommt 
+gewaltige Wut hoch Ã¼ber so viel Missinformation. Deshalb 
+will ich ein wenig AufklÃ¤rungsarbeit leisten. Wie man in 
+Amerika eine Green Card bekommt, spare ich mir fÃ¼r den 
+nÃ¤chsten Rundbrief auf. Heute also die Episode, wie das 
 mit dem H-1B-Visum geht. Das H-1B-Visum wird an 
-hochqualifizierte Ausländer ausgegeben. Man bekommt es 
-zunächst für drei Jahre, mit der Möglichkeit der 
-Verlängerung auf weitere drei Jahre. Insgesamt kann man 
-also für sechs Jahre auf einem H-1B-Visum in den USA 
+hochqualifizierte AuslÃ¤nder ausgegeben. Man bekommt es 
+zunÃ¤chst fÃ¼r drei Jahre, mit der MÃ¶glichkeit der 
+VerlÃ¤ngerung auf weitere drei Jahre. Insgesamt kann man 
+also fÃ¼r sechs Jahre auf einem H-1B-Visum in den USA 
 arbeiten. Danach hilft kein Betteln und Flehen, eine 
-weitere Verlängerung gibt es nicht. Hat man nach sechs 
+weitere VerlÃ¤ngerung gibt es nicht. Hat man nach sechs 
 Jahren keine Green Card in der Hand, muss man das Land 
 verlassen. Im Jahr 1990 wurde dieses Visaprogramm 
-eingeführt, um kurzfristig Stellen zu besetzen, für die 
+eingefÃ¼hrt, um kurzfristig Stellen zu besetzen, fÃ¼r die 
 man keine Amerikaner finden kann, d.h. man hat nur dann 
 eine Chance, auf einem H-1B-Visum zu arbeiten, wenn man 
-über einen Beruf verfügt, der in Amerika Mangelware ist 
+Ã¼ber einen Beruf verfÃ¼gt, der in Amerika Mangelware ist 
 (z.B. Software-Ingenieur). Eine der Voraussetzungen, um 
-diese Art von Visum zu bekommen, ist es auch, über 
+diese Art von Visum zu bekommen, ist es auch, Ã¼ber 
 eine hohe Schulbildung (sprich abgeschlossenes Studium) zu 
-verfügen und/oder entsprechende einschlägige 
+verfÃ¼gen und/oder entsprechende einschlÃ¤gige 
 Berufserfahrung zu haben. Wie gesagt, auch die Amerikaner 
 wollen gerne hochqualifizierte Leute ins Land holen und 
-keine ungelernten Kräfte. Leider hält sich das Vorurteil 
+keine ungelernten KrÃ¤fte. Leider hÃ¤lt sich das Vorurteil 
 trotzdem immer noch, dass es in den USA einfach ist, die
-entsprechenden Papiere zu erhalten. Ganz falsch! Für das 
-H-1B-Visum prüft zunächst das "Department of Labor" 
-(amerikanische Arbeitsbehörde), ob sich auch wirklich kein 
-Amerikaner für den ausgeschriebenen Job finden lässt. 
-Der amerikanische Arbeitgeber, der das Visum für den 
-ausländischen Arbeitnehmer beantragt, muss
-darlegen, dass er den branchenüblichen Lohn zahlt und das
+entsprechenden Papiere zu erhalten. Ganz falsch! FÃ¼r das 
+H-1B-Visum prÃ¼ft zunÃ¤chst das "Department of Labor" 
+(amerikanische ArbeitsbehÃ¶rde), ob sich auch wirklich kein 
+Amerikaner fÃ¼r den ausgeschriebenen Job finden lÃ¤sst. 
+Der amerikanische Arbeitgeber, der das Visum fÃ¼r den 
+auslÃ¤ndischen Arbeitnehmer beantragt, muss
+darlegen, dass er den branchenÃ¼blichen Lohn zahlt und das
 Stellenangebot
-sogar für zwei Wochen in der Firma aushängen, 
+sogar fÃ¼r zwei Wochen in der Firma aushÃ¤ngen, 
 damit andere Arbeitnehmer 
-die Möglichkeit haben, Einspruch zu erheben. Gibt das 
-Department of Labor sein Einverständnis, werden alle erforderlichen 
+die MÃ¶glichkeit haben, Einspruch zu erheben. Gibt das 
+Department of Labor sein EinverstÃ¤ndnis, werden alle erforderlichen 
 Unterlagen in einem zweiten Schritt bei der 
-Einwanderungsbehörde eingereicht, die wiederum prüft, ob 
+EinwanderungsbehÃ¶rde eingereicht, die wiederum prÃ¼ft, ob 
 auch alles seine Richtigkeit hat. Bis der ganze Papierkram 
 erledigt ist, vergehen mindestens sechs bis acht Wochen,
 in denen man noch nicht arbeiten darf. 
-Auch gibt die Einwanderungsbehörde nur eine bestimmte 
+Auch gibt die EinwanderungsbehÃ¶rde nur eine bestimmte 
 Menge an H-1B-Visa pro Jahr aus, um den Zuzug an 
-ausländischen Arbeitnehmern zu begrenzen. Zur Zeit werden 
+auslÃ¤ndischen Arbeitnehmern zu begrenzen. Zur Zeit werden 
 115.000 Visa pro Jahr ausgegeben. Ist die Menge 
 aufgebraucht, was momentan schon nach einigen Monaten der 
-Fall ist, hat man Pech gehabt. Man muss bis zum nächsten 
+Fall ist, hat man Pech gehabt. Man muss bis zum nÃ¤chsten 
 Jahr warten. Nun gibt es hier in der Computerbranche so 
 viele offene Stellen, dass die Firmen gerne noch mehr 
-ausländische Fachleute einstellten und sich dafür 
+auslÃ¤ndische Fachleute einstellten und sich dafÃ¼r 
 einsetzen, die Obergrenze der ausgegebenen Visa zu 
-erhöhen. Das Thema ist mittlerweile so brisant, dass es 
+erhÃ¶hen. Das Thema ist mittlerweile so brisant, dass es 
 sogar zum Wahlkampfthema gemacht wurde, denn die Firmen 
-verlieren Geld, da Stellen nicht besetzt werden können. 
+verlieren Geld, da Stellen nicht besetzt werden kÃ¶nnen. 
 Noch etwas ist beim H-1B-Visum zu bedenken: Es kann erst 
 dann beantragt werden, wenn man eine amerikanische Firma 
-gefunden hat, die bereit ist, einen zu beschäftigen, denn 
+gefunden hat, die bereit ist, einen zu beschÃ¤ftigen, denn 
 die Firma stellt den Antrag. Das bedeutet aber, dass die 
-Arbeitsgenehmigung nur für diese Firma und den ganz 
+Arbeitsgenehmigung nur fÃ¼r diese Firma und den ganz 
 speziell ausgeschriebenen Job gilt. Verliert man seine 
 Arbeit, muss man innerhalb von 10 Tagen das Land verlassen 
 und die Firma ist verplichtet, den Flug zu bezahlen. Oder 
-gefällt einem der Job nicht mehr und man sucht sich einen 
-anderen, fängt die bürokratische Mühle wieder von vorne 
+gefÃ¤llt einem der Job nicht mehr und man sucht sich einen 
+anderen, fÃ¤ngt die bÃ¼rokratische MÃ¼hle wieder von vorne 
 an, d.h. ein neues H-1B-Visum muss beantragt werden. Mein 
-Visum heißt übrigens H-4 und berechtigt, wie ihr ja schon 
+Visum heiÃŸt Ã¼brigens H-4 und berechtigt, wie ihr ja schon 
 wisst, zum Aufenthalt in den USA -- aber nicht zum Arbeiten.
 
-So, genug für heute! Wir hoffen, wir, eure rasenden Rundbrief\-reporter, 
-konnten euch für einige Minuten dem Alltag entreißen und 
+So, genug fÃ¼r heute! Wir hoffen, wir, eure rasenden Rundbrief\-reporter, 
+konnten euch fÃ¼r einige Minuten dem Alltag entreiÃŸen und 
 mit Insiderinformationen aus dem Land der unbegrenzeten 
-Möglichkeiten erfreuen. Wir werden noch ein wenig bleiben im 
+MÃ¶glichkeiten erfreuen. Wir werden noch ein wenig bleiben im 
 sonnigen Kalifornien -- nicht nur wegen des Wetters, sondern
-weil wir das tägliche Abenteuer lieben.
+weil wir das tÃ¤gliche Abenteuer lieben.
 
-Bis zum nächsten Mal!
+Bis zum nÃ¤chsten Mal!
 
 Angelika und Michael

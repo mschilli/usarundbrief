@@ -6,65 +6,65 @@ Liebe Freunde,
 
 <HTMLONLY><I>(Michael)</I></HTMLONLY>
 die meisten von euch wissen's ja eh schon - aber jetzt ist's offiziell: Seit
-15. September arbeite ich <CONFIDENTIAL>nicht mehr für blaxxun 
-interactive sondern </CONFIDENTIAL> für America Online. 
-Nachdem's im Juni <CONFIDENTIAL> für blaxxun </CONFIDENTIAL> in der
-alten Firma dermaßen schwarz aussah, dass 
-gleich alles zu spät war und Angelika und ich schon gedanklich mit einer 
-Arschbacke im Deportations-Flugzeug saßen, habe ich Anzug und Krawatte aus 
+15. September arbeite ich <CONFIDENTIAL>nicht mehr fÃ¼r blaxxun 
+interactive sondern </CONFIDENTIAL> fÃ¼r America Online. 
+Nachdem's im Juni <CONFIDENTIAL> fÃ¼r blaxxun </CONFIDENTIAL> in der
+alten Firma dermaÃŸen schwarz aussah, dass 
+gleich alles zu spÃ¤t war und Angelika und ich schon gedanklich mit einer 
+Arschbacke im Deportations-Flugzeug saÃŸen, habe ich Anzug und Krawatte aus 
 dem Schrank geholt, ob des Staubs ein wenig gehustet, ein Auto gemietet, 
 und bin auf Stellensuche gegangen.
 
 @Z: Jobsuche mit Erfolg
 
-Die Amis suchen zum Glück Softwareentwickler wie die Wilden. Das Problem war
-halt nur, dass bei einem Ausländer wie mir zwischen dem Zeitpunkt, an dem
+Die Amis suchen zum GlÃ¼ck Softwareentwickler wie die Wilden. Das Problem war
+halt nur, dass bei einem AuslÃ¤nder wie mir zwischen dem Zeitpunkt, an dem
 die Firma sich entscheidet und dem Arbeitsbeginn das INS
-(Einwanderungsbehörde) monatelang herumtrödelt und irre Papierberge
+(EinwanderungsbehÃ¶rde) monatelang herumtrÃ¶delt und irre Papierberge
 produziert. In amerikanischen Firmen gehen Bewerbungen eher so: "Wann fangen 
 Sie an?" "Morgen!" "Gut!".
 Aber AOL hatte starkes Interesse wg. Perlguru usw., hat den Anwalt gestellt,
-der die Behörden in Schach gehalten hat - und jetzt bin ich hier!
+der die BehÃ¶rden in Schach gehalten hat - und jetzt bin ich hier!
 
-<pic images/tshirt.ps Michael arbeitet und wirbt für America Online.>
+<pic images/tshirt.ps Michael arbeitet und wirbt fÃ¼r America Online.>
 
-AOL Productions, die Truppe, bei der ich bin, macht Neuentwicklungen für
+AOL Productions, die Truppe, bei der ich bin, macht Neuentwicklungen fÃ¼r
 www.aol.com und sonst
-noch einige Projekte für AOL (nicht alles, in Virginia, im Osten Amerikas,
+noch einige Projekte fÃ¼r AOL (nicht alles, in Virginia, im Osten Amerikas,
 gibt's noch 'ne Abteilung, die entwickelt) besteht aus ca. 70 Leuten, die
-alle in San Mateo, 30km südlich von San Francisco, sitzen. Ich sitze - wie
-alle anderen - in einem Cubicle (Stellwand-Quadrat im Großraumbüro) mit
+alle in San Mateo, 30km sÃ¼dlich von San Francisco, sitzen. Ich sitze - wie
+alle anderen - in einem Cubicle (Stellwand-Quadrat im GroÃŸraumbÃ¼ro) mit
 einem PC und einem X-Terminal. Alles
 sehr nette Typen, der Typ im Cubicle nebenan
-<CONFIDENTIAL>, Mike Gleeson, </CONFIDENTIAL> saß heute den ganzen Tag
-mit Sonnenbrille vor dem Bildschirm - Freaks allesamt. Außer einem Schotten, der seit 20
-Jahren in Amiland lebt, einer Engländerin und einem sehr asiatisch aussehenden
-Franzosen bin ich der einzige 'Alien' wie das hier so schön im 
-Behörden-Englisch heißt. Am schwersten fällt mir momentan, dass ich den
+<CONFIDENTIAL>, Mike Gleeson, </CONFIDENTIAL> saÃŸ heute den ganzen Tag
+mit Sonnenbrille vor dem Bildschirm - Freaks allesamt. AuÃŸer einem Schotten, der seit 20
+Jahren in Amiland lebt, einer EnglÃ¤nderin und einem sehr asiatisch aussehenden
+Franzosen bin ich der einzige 'Alien' wie das hier so schÃ¶n im 
+BehÃ¶rden-Englisch heiÃŸt. Am schwersten fÃ¤llt mir momentan, dass ich den
 ganzen Tag Englisch plappern muss. "How are you?" "Good! How about yourself?"
 "Good!" "That's great!" so geht das die ganze Zeit und die Amis lieben es
 zu plappern. 
 
-Am Mittwoch war Betriebsausflug nach Alkatraz (für Nicht-Amerika-Kundige: 
-das Gefängnis auf der Insel vor San Francisco). Das ist zwar eine
-Touristenattraktion, aber die meisten der Ansässigen waren noch nie dort,
-genauso wie kaum ein Münchner ins Hofbräuhaus geht. Als der Touri-Animateur
-dort fragte, woher wir kämen und die Jungs in bestem Lokal-Dialekt sagten:
+Am Mittwoch war Betriebsausflug nach Alkatraz (fÃ¼r Nicht-Amerika-Kundige: 
+das GefÃ¤ngnis auf der Insel vor San Francisco). Das ist zwar eine
+Touristenattraktion, aber die meisten der AnsÃ¤ssigen waren noch nie dort,
+genauso wie kaum ein MÃ¼nchner ins HofbrÃ¤uhaus geht. Als der Touri-Animateur
+dort fragte, woher wir kÃ¤men und die Jungs in bestem Lokal-Dialekt sagten:
 "San Mateo!" war der ganz verduzt und meinte "Man, what a drive! Are you tired???"
 
-Heute war New-Employee-Welcome-Essen im TGIF. Das heißt "Thank God it's Friday"
+Heute war New-Employee-Welcome-Essen im TGIF. Das heiÃŸt "Thank God it's Friday"
 und ist so eine Kette, die so richtig fettes amerikanisches Essen bereitet,
 echt gut.
 
 Und Java muss ich machen. In meiner Job-Beschreibung steht: "Very strong
 understanding of OO-development in Java". Na, das passt doch 100%ig. 
-Demnächst erwartet euch also ein Java-Buch ...
+DemnÃ¤chst erwartet euch also ein Java-Buch ...
 
-Es ist eine sehr lockere Atmosphäre: Niemand (auch nicht der Chef) trägt
+Es ist eine sehr lockere AtmosphÃ¤re: Niemand (auch nicht der Chef) trÃ¤gt
 einen Anzug oder Krawatte oder auch nur ein Hemd. Als ich am ersten Tag
 mein Fahrrad unten abgestellt habe, hat man mich gefragt, ob ich es nicht
-wie die anderen mit hoch ins Büro nehmen wolle - seit dem steht es 
-tagsüber bei mir - cool. Ich schiebe es am Morgen über den Teppich
+wie die anderen mit hoch ins BÃ¼ro nehmen wolle - seit dem steht es 
+tagsÃ¼ber bei mir - cool. Ich schiebe es am Morgen Ã¼ber den Teppich
 in der Eingangshalle, sage "Hallo" zur Rezeptionsdame (das erste Mal 
 sagte sie: "Hey, you got a bike - cool!") und weiter geht's durch
 die Cubicle-Reihen ...
@@ -73,46 +73,46 @@ die Cubicle-Reihen ...
 
 @Z: Mit dem Fahrrad zur Arbeit
 
-Ja, Fahrrad: ich fahre täglich zur Bahnstation (20 min), mit dem Zug nach
-San Mateo (25 min) und dann den steilen Berg zum AOL-Gebäude hinauf (15 min,
-runterwärts die Hälfte). Da die CAL-Train-Züge maximal 24 Fahrräder 
-mitnehmen und morgens und abends nur etwa halbstündlich verkehren und
+Ja, Fahrrad: ich fahre tÃ¤glich zur Bahnstation (20 min), mit dem Zug nach
+San Mateo (25 min) und dann den steilen Berg zum AOL-GebÃ¤ude hinauf (15 min,
+runterwÃ¤rts die HÃ¤lfte). Da die CAL-Train-ZÃ¼ge maximal 24 FahrrÃ¤der 
+mitnehmen und morgens und abends nur etwa halbstÃ¼ndlich verkehren und
 weiterhin das Wetter absolute Weltklasse ist (seit Februar vielleicht 2
 Regentage) entdecken leider immer mehr Amis diese Fahrweise und es 
-kommt häufig vor, dass man 'kicked off the train' wird. Aber die Amis
+kommt hÃ¤ufig vor, dass man 'kicked off the train' wird. Aber die Amis
 stellen sich brav an und wer zuerst kommt mahlt zuerst. Da es ziemlich
 wurscht ist, wann ich zur Arbeit komme oder gehe, nehme ich's gelassen,
-kauf' mir 'nen Kaffee oder ess' 'nen Muffin bis der nächste Zug kommt.
+kauf' mir 'nen Kaffee oder ess' 'nen Muffin bis der nÃ¤chste Zug kommt.
 
 Die Fahrradfahrer in SF proben zur Zeit eh den Aufstand, jeden Freitag 
 sind Fahrrad-Demos in der Innenstadt angesagt mit leichten 
 Ausschreitungen, weil diskutiert wird, ob die neue Bay-Bridge einen Radweg
 erhalten soll oder nicht und yada yada yada. Insgesamt ist Fahrradfahren
-leicht gefährlicher als in München - es kommt schon mal vor, dass
-einer in einem parkenden Auto unvermittelt die Tür aufreißt oder
-ohne zu blinken rechts abbiegt, aber wenn man's gewöhnt ist und
-gehörig herumschreit "Hey! You got a submarine's driver's license or what?"
+leicht gefÃ¤hrlicher als in MÃ¼nchen - es kommt schon mal vor, dass
+einer in einem parkenden Auto unvermittelt die TÃ¼r aufreiÃŸt oder
+ohne zu blinken rechts abbiegt, aber wenn man's gewÃ¶hnt ist und
+gehÃ¶rig herumschreit "Hey! You got a submarine's driver's license or what?"
 geht's schon. Den Spruch hab ich jetzt aber erfunden, man muss in
 Amiland sehr vorsichtig sein, Autofahrer zu provozieren, weil einige
-eine Knarre mit sich führen und sehr hitzig reagieren.
+eine Knarre mit sich fÃ¼hren und sehr hitzig reagieren.
 
 @Z: Arbeiten bei AOL
 
-Als AOL-Angestellter kriegt man einen freien Account und einen zusätzlichen,
+Als AOL-Angestellter kriegt man einen freien Account und einen zusÃ¤tzlichen,
 den ich Angelika geben werde. Leider keinen weiteren, Anfragen sind zwecklos!
-UND ICH BIN AUCH NICHT FÜR IRGENDWELCHE BESETZTEN TELEFONLEITUNGEN ODER 
-SYSTEMABSTÜRZE DER AOL OPERATIONS VERANTWORTLICH, LIEBE AOL-USER! Momentan
+UND ICH BIN AUCH NICHT FÃœR IRGENDWELCHE BESETZTEN TELEFONLEITUNGEN ODER 
+SYSTEMABSTÃœRZE DER AOL OPERATIONS VERANTWORTLICH, LIEBE AOL-USER! Momentan
 arbeite ich mich noch in den ganzen Kram ein, da ich bisher einen
-anderen Internet-Provider hatte, ich Dummi! Ab jetzt muss ich natürlich
+anderen Internet-Provider hatte, ich Dummi! Ab jetzt muss ich natÃ¼rlich
 AOL promoten, also, Leute, das Zeug ist wirklich gut, kauft massenhaft! 
 
-Ja, und in der Firma lässt sich's echt aushalten: Es gibt Automaten für
-Getränke und Speisen, für durchgehackte Nächte und so. Jeden Tag 
-liegt frisches Obst aus, Kaffee gibt's natürlich auch. Eine Massage-Liege,
-da legt man sich drauf, drückt einen von ca. 30 Knöpfen und dann rumpelt's
-und werkelt's und der Rücken wird massiert, sehr angenehm. Dann gibt's 
+Ja, und in der Firma lÃ¤sst sich's echt aushalten: Es gibt Automaten fÃ¼r
+GetrÃ¤nke und Speisen, fÃ¼r durchgehackte NÃ¤chte und so. Jeden Tag 
+liegt frisches Obst aus, Kaffee gibt's natÃ¼rlich auch. Eine Massage-Liege,
+da legt man sich drauf, drÃ¼ckt einen von ca. 30 KnÃ¶pfen und dann rumpelt's
+und werkelt's und der RÃ¼cken wird massiert, sehr angenehm. Dann gibt's 
 einen Pool-Billard-Tisch. Ein kleines Fitness-Studio mit Rowing-Machine 
-und so. Und da man als AOL-Angestellter natürlich die AOL-Software
+und so. Und da man als AOL-Angestellter natÃ¼rlich die AOL-Software
 nutzen muss, klickert man schon mal in den Nachrichten rum, verfolgt
 Baseball-Spiele oder holt den aktuellen Kurs der AOL-Aktie, von der
 man ja auch profitiert. Ihr seht: Da bleibe ich.
@@ -121,25 +121,25 @@ So, dieser Brief entstand auf einem Laptop im CAL-Train auf dem Weg von
 San Francisco nach San Mateo. Gleich muss ich aussteigen. Und da die 
 Angelika sich immer beklagt, dass sie auf ihre Rundbriefe von so 
 wenigen von euch eine Antwort bekommt (wenn ihr nicht zu den stillen 
-Konsumenten gehört, fühlt euch nicht angesprochen, es gibt auch 
-fleißige Schreiber unter euch, aber eben weeeenige), ergeht nun 
-folgendes Urteil: Wer keine Antwort schreibt, kriegt nächstesmal nix
+Konsumenten gehÃ¶rt, fÃ¼hlt euch nicht angesprochen, es gibt auch 
+fleiÃŸige Schreiber unter euch, aber eben weeeenige), ergeht nun 
+folgendes Urteil: Wer keine Antwort schreibt, kriegt nÃ¤chstesmal nix
 mehr! Don't mess with Schilli.
 
 Habe die Ehre!
 
 Euer AOL-Michel.
 
-P.S.: Einen guten amerikanischen Gag habe ich mir gestern erklären lassen:
-Wenn man sich über einen Namen lustig macht, sagt man ihn zweimal und
-hängt beim zweitenmal ein 'Schm' davor. "Did you ask Barry?" 
+P.S.: Einen guten amerikanischen Gag habe ich mir gestern erklÃ¤ren lassen:
+Wenn man sich Ã¼ber einen Namen lustig macht, sagt man ihn zweimal und
+hÃ¤ngt beim zweitenmal ein 'Schm' davor. "Did you ask Barry?" 
 "Barry, Schmarry!". "How about Daniel?" "Daniel, Schmaniel!". Das ist 
-echt der ENDLOS-Gag, den könnte ich stundenlang aufsagen. Angelika
-kann's schon nicht mehr hören ...
+echt der ENDLOS-Gag, den kÃ¶nnte ich stundenlang aufsagen. Angelika
+kann's schon nicht mehr hÃ¶ren ...
 
 P.P.S: Eine lobenswerte Einrichtung bei AOL: Am Freitag Abend um 4 wird 
-der abgesperrte Kühlschrank geöffnet, und, siehe da, Wunder oh Wunder,
-er ist voller Bier! Das wird mit großem Hallo festgestellt und sich 
+der abgesperrte KÃ¼hlschrank geÃ¶ffnet, und, siehe da, Wunder oh Wunder,
+er ist voller Bier! Das wird mit groÃŸem Hallo festgestellt und sich 
 sofort an die Vernichtung des Vorrats gemacht. Bei Musik und Pool-Billard,
 macht Laune!
 
