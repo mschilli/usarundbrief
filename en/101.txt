@@ -25,8 +25,6 @@ in California anyway, they paid \$200, and \$100 for legal semi-automatic
 handguns and rifles. This way, Oakland and San Francisco combined collected a
 total of 600 guns.
 
-XXX
-
 It's a fairly unbureaucratic process. No questions are asked 
 about how, when, and under what circumstances the guns were obtained, or 
 even why someone is in illegal posession of an automatic weapon in California.
@@ -40,23 +38,21 @@ exclude gun dealers from nearby counties, trying to get rid of stale inventory.
 
 <pic images/gun-shop.ps In comparison: A new 9mm Beretta handgun is on sale for 369 Dollars.>
 
-XXX
+In the end, local police ran out of money and had to issue vouchers. 
+For the particular event in December, a private citizen donated money to 
+cover some expenses, because he wanted to contribute to reducing the 
+number of guns
+in the Bay Area. In Oakland, the church of St. Benedict offered their
+premises for the event. The collected firearms are then destroyed in 
+a spectacular fashion for the TV programs by cutting them with 
+spark-spewing circular saws. Experts are divided if these programs actually
+reduce gun violence, or if it's rather just a symbolic act.
 
-Zum Schluss ging der Polizei das Geld
-aus und sie musste Gutscheine ausstellen.
-Für die Veranstaltung im Dezember meldete sich ein privater Spender, der seinen
-Teil dazu tun wollte, um die Anzahl der Waffen in der Bay Area zu reduzieren.
-In Oakland stellte die Kirche St. Benedict
-ihr Gelände für die Veranstaltung zur Verfügung. 
-Die Waffen vernichtet die Polizei dann übrigens fernsehwirksam
-mit Funken sprühenden Kreissägen.
-Experten streiten sich darum,
-ob die Programme wirklich dazu beitragen, Gewalt durch Waffen zu reduzieren
-oder ob es sich nicht doch mehr um einen symbolischen Akt handelt.
+@Z: Parking meters on Sundays
 
-@Z: Parkuhren am Sonntag
+<pic images/parking-meter.ps Instead of feeding the parking meter with coins, drivers can pay by phone with their credit card.>
 
-<pic images/parking-meter.ps Statt die Parkuhr mit Münzen zu füttern, kann man telefonisch per Kreditkarte zahlen.>
+XXX_NOT_TRANSLATED_YET
 
 <em>Angelika</em> 
 San Francisco hat wie viele Metropolen dieser Welt
