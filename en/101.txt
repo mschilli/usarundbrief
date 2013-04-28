@@ -52,34 +52,29 @@ reduce gun violence, or if it's rather just a symbolic act.
 
 <pic images/parking-meter.ps Instead of feeding the parking meter with coins, drivers can pay by phone with their credit card.>
 
-XXX_NOT_TRANSLATED_YET
-
 <em>Angelika</em> 
-San Francisco hat wie viele Metropolen dieser Welt
-notorischen Parkplatzmangel. Wir haben schon des öfteren berichtet, 
-welche
-Feinheiten der Autofahrer, der in San Francisco einen Parkplatz sucht, zu
-beachten hat: Straßenreiningung, Anwohnerparken, rote, grüne, blaue und
-weiße Markierungen am Randstein, und so weiter. 
-Parken an der Parkuhr ist in der Regel
-teuer. Im Schnitt kostet es $2 pro Stunde, aber in Downtown San Francisco
-gleich $3.50 und an der Touristenmeile Fisherman's Wharf $3. Die
-neuen Parkuhren gehen dann auch mit der Zeit und können nicht nur mit
-Kleingeld gefüttert werden. Der Autofahrer kann mit Kreditkarte zahlen
-oder einer Parkkarte, die er im Wert von $20 oder $50 erwerben kann und
-dann in die Parkuhr steckt. Der entsprechende Betrag wird dann von der Karte
-abgebucht. Bis zu Beginn diesen Jahres brauchten Autofahrer bis auf
-einige wenige Ausnahmen sonntags nichts in die Parkuhren zu werfen. 
-Ab Januar 2013 ist das
-vorbei. Auch am Sonntag kostet das Parken an der Parkuhr in San Francisco 
-nun Geld,
-und zwar von 12 Uhr mittags bis 18 Uhr. An Wochentagen zahlt man in
-der Regel von 9 Uhr bis 18 Uhr. Es heißt, dass dadurch mehr Parkplätze
-turnusmäßig zur Verfügung stehen, denn der Autofahrer kann jetzt nicht mehr
-von Samstagabend bis Montagmorgen an der Parkuhr parken, was in unserem
-Viertel Noe Valley gängige Praxis auf den Straßen mit Parkuhren war.
-Natürlich spült der zahlungspflichtige Sonntag auch mehr Geld ins
-Stadtsäckel.
+
+Like many urban areas, San Francisco suffers from a notorious
+parking problem. We've reported several times already how
+many intricate rules drivers must pay attention to: Street cleaning,
+residential parking, red, green, blue, and white curb markers, and so
+on. Parking at a meter is usually rather expensive. On average, 
+the meters demand $2 per hour, but in downtown San Francisco, it's
+a whopping $3.50, and in the touristy area around Fisherman's Wharf,
+it's $3.00. The new meters are quite advanced and will accept
+not only coins for payment. Drivers can pay by credit card, or a
+parking card, which can be obtained in $20 or $50 denominations and then
+used at the meter, which then deducts the selected amount from the card.
+Before 2013, there was no need to feed the meters on Sunday. But starting
+January 2013, that's a thing of the past, between noon and 6pm on Sundays,
+meters now need to be fed just like during the week, where payments are
+required between 9am and 6pm. Since drivers can't leave their cars in the
+same spot between Saturday evening through Monday morning anymore, 
+as it was common practice in our neighborhood Noe Valley,
+more temporary parking will be available during that time. But of course
+the city coffers will also benefit from the additional influx of money.
+
+XXX_NOT_TRANSLATED_YET
 
 Überhaupt gibt sich San Francisco sehr innovativ, wenn es um das Parken und
 Bezahlen an Parkuhren geht. Ein Pilotprojekt mit dem Namen SFPark versucht, den
