@@ -74,32 +74,33 @@ as it was common practice in our neighborhood Noe Valley,
 more temporary parking will be available during that time. But of course
 the city coffers will also benefit from the additional influx of money.
 
-XXX_NOT_TRANSLATED_YET
+In general, San Francisco has been 
+sporting innovative parking and fee collection 
+ideas lately. A pilot project named "SFPark" changes the current parking fee 
+dynamically,
+depending on the number of available parking spots. If there is high
+demand, the price at the meter rises, nudging drivers towards parking
+for shorter durations and then vacating these spots, or park in less expensive
+areas in the first place, because they are willing to walk a greater 
+distance to save money. The fee displayed at the meters increases in
+steps of 25 cents every month (to a maximum of $6 per hour), 
+until on average there's at least one free spot per city block. In areas
+with plenty of available street parking, the fee at the meter 
+decreases accordingly.
+Using a smartphone app, drivers can then inquire about the current parking 
+situation and what fees are being charged. 
+To make this project a reality, the city
+would need new parking meters equipped with the technology to receive 
+and analyze the data, though. In general, this is not a bad idea, it might lead
+to a better utilization of available parking space by distributing 
+parked cars around the city more evenly. Maybe some drivers will even
+opt for public transportation instead of parking at a meter if the
+former is more economical?
+On the other hand, the new system won't help the residents of the
+affected neighborhoods at all, because they need parking spots that
+allow parking for more than two hours. 
 
-Überhaupt gibt sich San Francisco sehr innovativ, wenn es um das Parken und
-Bezahlen an Parkuhren geht. Ein Pilotprojekt mit dem Namen SFPark versucht, den
-Preis, der zu zahlen ist, von der Anzahl der freien Parkplätze
-abhängig zu machen. Ist
-die Nachfrage nach Parkplätzen groß, steigt der Preis an den Parkuhren, in
-der Hoffnung, dass durch den höheren Preis Autofahrer für kürzere
-Zeitspannen an der Parkuhr parken und dadurch Plätze frei werden oder sie
-gleich
-dort parken, wo es günstiger ist und vielleicht bereit sind, etwas weiter zu
-laufen. Der Preis an der Parkuhr erhöht sich in 25-Cent-Schritten pro Monat
-(bis zu einem Maximum von $6 in der Stunde), solange
-bis im Schnitt ein Parkplatz pro
-Straßenblock zur Verfügung steht. In Gegenden, in denen viele Parkplätze
-frei sind, sinkt dementsprechend der Preis. Über eine Applikation auf dem
-eigenen Smartphone kann sich der Autofahrer über Preise und die aktuelle
-Situation der Parkplatzlage informieren. Um das SFPark-Programm zu
-verwirklichen, braucht es natürlich Parkuhren, die über die entsprechende
-Technologie verfügen, um die Daten aufzunehmen und zu analysieren. An sich ist
-das Ganze ja keine schlechte Idee, wenn dadurch alles tatsächlich ein wenig
-umverteilt und besser genutzt wird oder sich vielleicht sogar jemand für ein
-alternatives Verkehrsmittel entscheidet. Parkuhren helfen aber den Anwohnern im
-Viertel rein gar nichts, weil diese Parkplätze brauchen, auf
-denen sie ihre Autos länger stehen lassen können und nicht nur für 
-zwei Stunden. 
+XXX_NOT_TRANSLATED_YET
 
 @Z: Golden Gate Brückenzoll: Das Ende einer Ära
 
