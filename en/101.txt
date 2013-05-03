@@ -100,26 +100,26 @@ On the other hand, the new system won't help residents of the
 affected neighborhoods at all, because they need parking spots that
 allow parking for more than two hours. 
 
-XXX_NOT_TRANSLATED_YET
+@Z: Golden Gate Bridge Toll Collection: The End Of an Era
 
-@Z: Golden Gate Brückenzoll: Das Ende einer Ära
-
-<pic images/gg-toll-plaza.ps An den Kassenhäuschen am Ende der Golden Gate Bridge sitzen bald keine menschlichen Einsammler mehr. Foto: flickr[somma1977|thomas-sommeregger/4021855745]>
+<pic images/gg-toll-plaza.ps The toll booths at the south end of the Golden Gate Bridge will soon operate without human toll collectors. Foto: flickr[somma1977|thomas-sommeregger/4021855745]>
 
 <em>Angelika</em> 
-Wer schon einmal von euch über die Golden Gate Bridge gefahren ist, weiß, dass
-die Brückenbetreiber stadtauswärts keinen Brückenzoll verlangen, stadteinwärts hingegen
-schlappe $6 für ein normales Auto. Bis dato konnte der Autofahrer die 6 Dollar
-bar bezahlen, indem er an einem der Kassenhäuschen, die sich am Ende jeder
-Fahrspur befinden, anhielt, dem freundlichen Herrn oder der netten Dame, die im
-Häuschen Dienst schoben, sein Bargeld in die Hand drückte und von dannen
-fuhr. Ich erinnere mich noch an die Zeiten, als wir als Touristen in San
-Francisco unterwegs waren und immer etwas unangenehm auffielen, weil wir
-den Brückenzollkassierer an der Golden Gate Bridge um eine Quitting baten, die
-ich unbedingt ins Reisefotoalbum einkleben wollte. Ende März ist die Zeit der
-Brückenzollkassierer (toll collectors) an der Golden Gate Bridge nun 
-schlagartig vorbei. Es kann dann nur noch elektronisch bezahlt werden und 
-dazu braucht man keine Menschen mehr. 
+If you have ever crossed Golden Gate Bridge by car, you know that the bridge
+maintainers won't collect any fees if you are leaving the city, but that it's
+a whopping $6 per car driving when you enter. 
+Until recently, drivers could pay the
+bridge toll in cash at one of the toll booths at the end of every lane,
+by stopping, handing the money through the car window to a friendly collector 
+and then drive off. I fondly remember the times when we were traveling to
+San Francisco as tourists and stuck out like a sore thumb because we
+asked the bridge toll collectors for a receipt, which we planned to 
+add to our photo album. At the end of March, the days of the bridge toll
+collectors are counted, however, going forward you'll only be able to pay
+electronically and that doesn't require any humans manning the toll booths
+anymore.
+
+XXX_NOT_TRANSLATED_YET
 
 Schon seit dem Jahr 2000 ist die Golden Gate Bridge dem sogenannten Fastrak-System 
 angeschlossen. Michael hat dies schon einmal sehr genau beschrieben
