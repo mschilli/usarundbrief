@@ -118,27 +118,23 @@ collectors are counted, however, going forward you'll only be able to pay
 electronically and that doesn't require any humans manning the toll booths
 anymore.
 
+Golden Gate Bridge has been supporting the so-called Fastrak system since 2000.
+Michael has explained it in a previous edition already
+(<RBLINK>20060421#1</RBLINK>). It works with a small transponder box in 
+your car that communicates with the toll plaza while you're driving and 
+deducts the bridge toll from a credit card funded account.
+On Golden Gate Bridge, the Fastrak toll is only $5. The transponder works
+on all bridges in the Bay Area (including the Bay Bridge) 
+and even beyond, all over California. It is most useful for residents, who
+often cross the local bridges. For example, I'm driving from San Francisco
+to Oakland and back many times per week, and crossing Bay Bridge without
+Fastrak would be a real nightmare. When taking one of the designated
+Fastrak lanes, there's usually not much delay or slow driving, while
+others are waiting for their turn at the toll booth.
+
+<pic images/fastrak.ps The "Fastrak" transponder has been working reliably for quite some time, paying the bridge tolls electronically..>
+
 XXX_NOT_TRANSLATED_YET
-
-Schon seit dem Jahr 2000 ist die Golden Gate Bridge dem sogenannten Fastrak-System 
-angeschlossen. Michael hat dies schon einmal sehr genau beschrieben
-(<RBLINK>20060421#1</RBLINK>). Der Autofahrer hat
-einen kleinen Transponderkasten im Auto und wenn er über die Golden Gate
-Bridge fährt, kommunizieren der Transponder und die Mautstelle miteinander und
-der Betrag, der zu entrichten ist, wird vom kreditkartengefütterten
-Fastrakkonto abgezogen. Nutzt man Fastrak auf der Golden Gate Bridge, beträgt
-der Brückenzoll übrigens nur $5. Das Fastraksystem kann beim Überqueren von
-allen möglichen Brücken in der Bay Area (und kalifornienweit) benutzt werden,
-so zum Beispiel auch wenn wir über die Bay Bridge fahren. 
-Dieses System bietet
-sich natürlich hauptsächlich für Einheimische an, die häufig die Brücken
-vor Ort überqueren. Ich muss für die Arbeit häufig in der Woche über die
-Bay Bridge fahren, die Oakland und San Francisco verbindet, und ich würde ohne
-unser Fastrak schier verzweifeln, denn mit Fastrak kann ich einfach durch eine
-der designierten Fastrakspuren sausen, ohne großes Gebremse oder Warten
-im Stau vor den Kassenhäuschen.
-
-<pic images/fastrak.ps Seit geraumer Zeit übernimmt der "Fastrak"-Transponder die elektronische Bezahlung.>
 
 Was machen jetzt aber Leute wie Touristen oder diejenigen, die kein Fastrak
 möchten, wenn das Barzahlen auf der Golden Gate Bridge Ende März der
