@@ -134,23 +134,20 @@ others are waiting for their turn at the toll booth.
 
 <pic images/fastrak.ps The "Fastrak" transponder has been working reliably for quite some time, paying the bridge tolls electronically..>
 
-XXX_NOT_TRANSLATED_YET
+But what about visitors or people who oppose the Fastrak 
+payment system? When cash payments will be no longer
+accepted at the end of March, there'll be a way to open an online 
+<LINK>http://goldengate.org/tolls/|"license plate account"</LINK>.
+Car owners register their license plates online, add a credit card,
+and every time when the vehicle crosses the toll plaza on the bridge, 
+the card gets charged with the correct amount for the bridge toll. 
+No transponder needs to be carried along in the car for this, since the 
+collection system takes a snapshot of the car's license plate while it
+is driving by. Also, one-time payments will be accepted, either 30 days 
+before or 48 hours after crossing the Golden Gate Bridge, with an
+online payment system or by phone and credit card.
 
-Was machen jetzt aber Leute wie Touristen oder diejenigen, die kein Fastrak
-möchten, wenn das Barzahlen auf der Golden Gate Bridge Ende März der
-Vergangenheit angehört?
-Eine Möglichkeit ist,
-ein ans Nummernschild gebundenes Konto zu eröffnen 
-((<LINK>http://goldengate.org/tolls/|"License Plate Account"</LINK>).
-Der Fahrer registriert sein Autonummerschild online, gibt seine
-Kreditkarte an, und jedes Mal, wenn er über die Brücke fährt, geht der
-Brückenzoll von der angegeben Kreditkarte ab. Dazu braucht es keinen
-Transponder im Auto, denn ein Automat auf der Brücke schießt ein Foto vom
-Nummernschild des durchfahrenden Autos. 
-Oder es gibt auch die Möglichkeit der Einmalzahlung, die
-bis zu 30 Tagen vor oder bis zu 48 Stunden nach Überquerung der Golden Gate
-Bridge online oder per Telefon mit Hilfe einer Kreditkarte erfolgen
-kann. 
+XXX_NOT_TRANSLATED_YET
 
 Für Touristen ist das natürlich schon äußerst lästig. Noch eine
 Sache, an die man denken muss! Befindet man sich nicht im Besitz einer
