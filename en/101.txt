@@ -163,33 +163,30 @@ non-paying drivers, and that's still the case on all other bridges.
 
 <pic images/gg-toll-plaza-carview.ps Until recently, visitors have been able to pay the bridge toll in cash at the toll booth. Foto: flickr[Jenn Clark|jennconspiracy/2377301338]>
  
-XXX_NOT_TRANSLATED_YET
+Tourists from foreign countries, who usually drive over Golden Gate
+Bridge in a rental car, should inquire at the car rental agency counter
+if the rental company offers a bridge toll program. Usually, rental cars
+have Fastrak devices built in and the customer decides whether they want
+to use it or not. If they decline, they'll have to deal with paying the
+bridge tolls on their own. If they just cross the bridge without paying,
+the car rental company will receive an invoice issued by the bridge
+operators soon after, which rental companies not only promptly 
+forward to the renter, but also add a hefty fee on top of.
 
+@Z: Explosion of Parking Ticket Fines
 
-Ausländische Touristen, die ja in der Regel mit einem Mietauto über die
-Golden Gate Bridge fahren, sollten sich übrigens beim Anmieten 
-des Fahrzeugs erkundigen, ob
-die Autovermietungsfirma ein eigenes Brückenzollprogramm anbietet. Oft führt
-das Mietfahrzeug einen Fastrak-Kasten im Auto mit und der Kunde entscheidet, ob er ihn
-nutzen möchte oder nicht. Falls der Kunde sich dagegen entscheidet, muss er
-sich selbst um die Bezahlung des Brückenzolls kümmern. Macht er nichts und die 
-Autovermietungsfirma erhält später eine Rechnung von den Brückenbetreibern, 
-leitet sie die Forderung nicht nur 
-postwendend an den Kunden weiter, sondern knallt noch eine heftige 
-Bearbeitungsgebühr obendrauf.
-
-@Z: Preisexplosion der Strafzettel
-
-<pic images/ticket.ps (#3) Das waren noch Zeiten vor zehn Jahren: 25 Dollar Strafe für einmal auf dem Gehweg parken. Heute: 110 Dollar>
+<pic images/ticket.ps (#3) Happy times ten years ago: A parking ticket over 25 Dollars for parking on the sidewalk. Today, the same ticket is 110 Dollars.>
 
 <em>Michael</em>
-In den letzten paar Jahren hat San Francisco die Strafen für Falschparken
-kräftig angehoben. Wie ihr in Abbildung (#3) sehen könnt, kostete es im Jahre
-2002 noch lumpige $25, als ich unser altes Auto PERLMAN einmal eine Stunde
-auf dem Gehsteig geparkt habe, weil vor unserem Haus kein Parkplatz frei war.
-Nach der 
-<LINK>http://bit.ly/WNv0CN|neuen Strafzettelverordnung</LINK> aus dem Jahr 2013 kostet 
-es den Autofahrer heute sage und schreibe $110!
+Over the last couple of years, San Francisco has heavily increased the fines
+imposed for illegal parking. As you can see in figure (#3), back in 2002,
+I received a parking ticket for $25 when parking our car PERLMAN for an hour
+on the sidewalk in front of the house, because there were no parking spots
+available at the time.
+According to the <LINK>http://bit.ly/WNv0CN|new parking fee table</LINK>
+from 2013, for the same infraction the city now assesses a fine of $110!
+
+XXX_NOT_TRANSLATED_YET
 
 Auch andere Vergehen werden härter bestraft: Stellt man sein Auto auf
 der Straße zu einer Zeit ab, auf der das Straßenreinigungsauto 
