@@ -105,8 +105,9 @@ allow parking for more than two hours.
 
 <em>Angelika</em> 
 If you have ever crossed Golden Gate Bridge by car, you know that the bridge
-maintainers won't collect any fees if you are leaving the city, but that it's
-a whopping $6 per car driving when you enter. 
+maintainers won't collect any fees if you are leaving the city, but that the 
+toll is
+a whopping $6 per car when you enter. 
 Until recently, drivers could pay the
 bridge toll in cash at one of the toll booths at the end of every lane,
 by stopping, handing the money through the car window to a friendly collector 
