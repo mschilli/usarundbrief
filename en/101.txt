@@ -176,7 +176,7 @@ forward to the renter, but also add a hefty fee on top of.
 
 @Z: Explosion of Parking Ticket Fines
 
-<pic images/ticket.ps (#3) Happy times ten years ago: A parking ticket over 25 Dollars for parking on the sidewalk. Today, the same ticket is 110 Dollars.>
+<pic images/ticket.ps (#3) Happy times ten years ago: A parking ticket for 25 Dollars for parking on the sidewalk. Today, the same ticket is 110 Dollars.>
 
 <em>Michael</em>
 Over the last couple of years, San Francisco has heavily increased the fines
