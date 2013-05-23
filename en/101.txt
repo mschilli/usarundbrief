@@ -214,35 +214,35 @@ a car with a disabled placard in a handicap spot. Minutes later, he hauled
 a surfboard 600 feet to the beach, without any visible physical impairment.
 I wonder what he was suffering from?
 
-XXX_NOT_TRANSLATED_YET
+@Z: Private Taxi Cabs in San Francisco
 
-@Z: Private Taxis in San Francisco
-
-<pic images/pink-moustache-noe.ps Ein Privatauto mit pinkenem Schnurrbart fährt Taxigäste für einen guten Zweck.>
+<pic images/pink-moustache-noe.ps A regular car with a pink mustache shuttles cab passengers for a good cause.>
 
 <em>Michael</em> 
-Wer schon einmal versucht hat, bei einem Platzregen in San
-Francisco ein Taxi zu ergattern, versteht, dass hier Engpässe herrschen wie
-im kaputtesten Sozialismus. Man sollte es kaum für möglich halten, aber in
-amerikanischen Großstädten wie New York City, San Francisco, Boston oder
-Chicago herrscht kein
-freier Markt für Taxifahrer. Vielmehr beschränken die Stadtverwaltungen die
-Anzahl der Taxis künstlich und verursachen dadurch Engpässe an Tagen mit hoher
-Nachfrage.
+If you've ever tried to get a taxi cab in San Francisco after a heavy rain
+storm, you'd agree with me that there are deficiencies 
+here in this town, just as
+if we were worshipping some destructive form of socialism. It's hard
+to believe, but in major American cities like New York City, San Francisco,
+Boston or Chicago, there's no free market for taxi drivers. Instead, 
+these cities impose restrictions on the number of cabs in
+operation and hence create artificial bottlenecks on days with high demand.
 
-Die Städte geben eine beschränkte Anzahl sogenannter
-<LINK>http://slate.me/MeJg13|"Medallions"</LINK> aus, ohne die kein Taxi fahren darf. Wie in einer 
-Mafia-Organisation handeln dann reiche Mittelsmänner die limitierten
-Lizenzen untereinander
-für Millionenbeträge und verleihen sie für nicht unerhebliche Summen
-tageweise an Taxis. Die Fahrer müssen dann nicht nur die Tagesmiete für 
-das Taxi bezahlen, sondern auch noch den Medallion-Besitzer ablöhnen, bevor 
-sie von ihren Einnahmen auch nur einen müden Cent sehen. In New York zahlt 
-ein Fahrer von den etwa $300 Einnahmen während einer 12-Stunden-Schicht etwa
-$150 an den Taxi-Feudalherren, der ihm das Fahrzeug mit eingebauter 
-Medallion leiht.
+What's happening is that these cities issue a limited number of
+so-called <LINK>http://slate.me/MeJg13|"Medallions"</LINK> 
+that no cab can be operated without. Like in a Mafia-controlled operation,
+wealthy middlemen are trading these licenses for millions of dollars and
+rent them out to taxi drivers on a daily basis. On top of paying the 
+daily renting fee for a vehicle, taxi drivers therefore have the additional 
+financial burden of having to compensate the medallion owner, before they
+even see a single cent of their income during a shift. In New York city,
+for example, a driver taking in $300 during a 12 hour shift pays about 
+$150 to the taxi cab mogule who rents out the yellow cab with the embedded
+medallion.
 
-<pic images/taxi-medallion.ps Die Lizenz zum Betreiben eines Taxis: Die Medallion. Foto: flickr[Sugar Sweet Sunshine|daniellerose/1343804825]>
+<pic images/taxi-medallion.ps The license to operate a taxi cab: The Medallion. Foto: flickr[Sugar Sweet Sunshine|daniellerose/1343804825]>
+
+XXX_NOT_TRANSLATED_YET
 
 Naturgemäß verteidigen die großkotzigen Medallion-Besitzer dieses 
 mittelalterliche Verfahren
