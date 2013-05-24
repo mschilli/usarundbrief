@@ -256,21 +256,20 @@ would most likely agree with me.
 
 <pic images/uber-limo.ps Startup company "Uber" competes with established taxi cab companies by offering better service with limousines.>
 
-XXX_NOT_TRANSLATED_YET
-
-Vor einiger Zeit schickte sich deshalb ein Startup-Unternehmen namens 
+For this reason, a while ago, a startup company named 
 <LINK>http://en.wikipedia.org/wiki/Uber_(company)|"Uber"</LINK>
-an, Fahrgäste für etwa das Doppelte einer Taxifahrt in schwarzen
-Limousinen zu befördern. Die Autos der Marke Lincoln Town Car werden 
-von livrierten Chauffeuren gefahren und nicht etwa herangewunken oder
-herbeitelefoniert, sondern per SMS oder einer App für's Handy binnen Minuten 
-bestellt. Auf dem 
-Handy kann der Kunde dann gespannt verfolgen, wie die Limo sich nähert.
-Bezahlt wird nach der Fahrt bargeldlos übers Handy, das Trinkgeld ist 
-inbegriffen, der Kunde darf den Fahrer anschließend bewerten und die 
-Rechnung kommt per Email. Da kein Bargeld im Spiel ist, fahren die Chauffeure
-sogar die sozialen Brennpunkte San Franciscos an, denen normale Taxifahrer
-wegen schlotternder Knie fernbleiben!
+set out to offer black limousine rides for customers who were willing to pay
+roughly twice the regular cab fare. Their cars are often Lincoln Towncars,
+driven by chauffeurs in uniforms. You can't hail them like regular cabs, but
+page them via SMS or a smart phone app within minutes. On a map, customers 
+can watch the limo approaching. When arriving at the destination, customers
+make a digital payment via the smart phone, and the tip is included. Customers
+can then rate the driver and get an invoice via email. Since no cash is
+involved, Uber drivers feel save to even to enter the shadier neigborhoods
+of San Francisco, where regular cab drivers usually start shaking and stay
+out!
+
+XXX_NOT_TRANSLATED_YET
 
 Naturgemäß entfachen die etablierten Taxi-Feudalherren in jeder Stadt, die
 Uber erobert, einen Rechtsstreit und legten im Mai 2012
