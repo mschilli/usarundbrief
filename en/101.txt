@@ -242,22 +242,21 @@ medallion.
 
 <pic images/taxi-medallion.ps The license to operate a taxi cab: The Medallion. Foto: flickr[Sugar Sweet Sunshine|daniellerose/1343804825]>
 
+Naturally, the swanky medallion owners defend this midevil bureaucracy 
+tooth and nail against all efforts to align it with modern
+consumer requirements. Sure, who in their right mind would let go of a 
+licence to print money? What's worse, the cab drivers aren't eager to 
+introduce a free market either. More cabs lead to more competition and 
+hence lower hourly wages. However, it's the customers who get the short 
+end of the stick in this game, because they can forget about getting from
+point A to B on days with increased demand. Those of you who have ever
+tried to get a cab on New Year's Eve, grudgingly have given up at some 
+point, only to finally take hopelessly crowded street cars across town,
+would most likely agree with me.
+
+<pic images/uber-limo.ps Startup company "Uber" competes with established taxi cab companies by offering better service with limousines.>
+
 XXX_NOT_TRANSLATED_YET
-
-Naturgemäß verteidigen die großkotzigen Medallion-Besitzer dieses 
-mittelalterliche Verfahren
-mit Klauen und Zähnen gegen Moder\-ni\-sie\-rungs\-versuche. 
-Wer gibt schon freiwillig
-eine Lizenz zum Gelddrucken ab? Aber auch die Taxifahrer sind nicht besonders 
-daran interessiert, die freie Marktwirtschaft einzuführen. Mehr Taxis führen
-zu mehr Konkurrenz und damit zu sinkenden Stundenlöhnen. Die Dummen sind die
-Fahrgäste, die es sich abschminken können, an Tagen mit erhöhtem 
-Fahrgastaufkommen mit dem Taxi von A nach B zum kommen. Wer schon einmal
-an Silvester mehrere Stunden auf ein Taxi gewartet hat und irgendwann
-entnervt aufgegeben hat, um anschließend stundenlang in überfüllten 
-Straßenbahnen durch die halbe Stadt zu gondeln, kann davon ein Lied singen.
-
-<pic images/uber-limo.ps Die Startup-Firma Uber versucht, mit Limousinen dem antiquierten Taxigeschäft das Wasser abzugraben.>
 
 Vor einiger Zeit schickte sich deshalb ein Startup-Unternehmen namens 
 <LINK>http://en.wikipedia.org/wiki/Uber_(company)|"Uber"</LINK>
