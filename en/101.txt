@@ -261,11 +261,13 @@ For this reason, a while ago, a startup company named
 set out to offer black limousine rides for customers who were willing to pay
 roughly twice the regular cab fare. Their cars are often Lincoln Towncars,
 driven by chauffeurs in uniforms. You can't hail them like regular cabs, but
-page them via SMS or a smart phone app within minutes. On a map, customers 
+need to page them 
+via SMS message or a smart phone app within minutes. On a map, customers 
 can watch the limo approaching. When arriving at the destination, customers
 make a digital payment via the smart phone, and the tip is included. Customers
 can then rate the driver and get an invoice via email. Since no cash is
-involved, Uber drivers feel safe to even to enter the shadier neigborhoods
+changes hands, 
+Uber drivers feel safe to even to enter the shadier neigborhoods
 of San Francisco, where regular cab drivers usually start shaking and stay
 out!
 
@@ -276,7 +278,7 @@ line and argues that they're not bound by the taxi restrictions because
 they're not operating taxi cabs, but offer a completely different 
 transportation experience.
 
-<pic images/lyft-app.ps With the Lyft iPhone app, customers request cars with pink moustaches to them pick.>
+<pic images/lyft-app.ps With the Lyft iPhone app, customers request cars with pink moustaches to pick them up.>
 
 Uber's headquarters are located in San Francisco, where the new service has
 been received with great success, but recently a new contender 
@@ -285,7 +287,7 @@ front grill, called "car stache" in short. Behind this new service
 hides a
 <LINK>http://arstechnica.com/business/2012/09/my-life-as-a-high-tech-part-time-not-quite-taxi-driver/|startup company named "Lyft"</LINK>. Customers
 request their rides by smart phone app and pay the driver at the end of the 
-ride via the app and a stored credit card as well. 
+ride via the app with a stored credit card. 
 The money exchange isn't called "cab fare" for
 legal reasons, but a "donation" that the driver "suggests" and is 
 about 20% less than the fare for a comparable cab ride.
