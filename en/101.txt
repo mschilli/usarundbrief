@@ -269,27 +269,28 @@ involved, Uber drivers feel safe to even to enter the shadier neigborhoods
 of San Francisco, where regular cab drivers usually start shaking and stay
 out!
 
+Predictably, in almost every city Uber enters, the established taxi cab
+overlords raise a legal storm. In May 2012, they
+<LINK>http://news.cnet.com/8301-1023_3-57493358-93/uber-boston-promises-to-fight-cease-and-desist-order|shut Uber down in Boston|Uber receives cease and desist order in Boston</LINK> temporarily. Uber obviously walks a fine legal 
+line and argues that they're not bound by the taxi restrictions because
+they're not operating taxi cabs, but offer a completely different 
+transportation experience.
+
+<pic images/lyft-app.ps With the Lyft iPhone app, customers request cars with pink moustaches to them pick.>
+
+Uber's headquarters are located in San Francisco, where the new service has
+been received with great success, but recently a new contender 
+has emerged: Private cars with a grotesquely large pink moustache on the
+front grill, called "car stache" in short. Behind this new service
+hides a
+<LINK>http://arstechnica.com/business/2012/09/my-life-as-a-high-tech-part-time-not-quite-taxi-driver/|startup company named "Lyft"</LINK>. Customers
+request their rides by smart phone app and pay the driver at the end of the 
+ride via the app and a stored credit card as well. 
+The money exchange isn't called "cab fare" for
+legal reasons, but a "donation" that the driver "suggests" and is 
+about 20% less than the fare for a comparable cab ride.
+
 XXX_NOT_TRANSLATED_YET
-
-Naturgemäß entfachen die etablierten Taxi-Feudalherren in jeder Stadt, die
-Uber erobert, einen Rechtsstreit und legten im Mai 2012
-<LINK>http://news.cnet.com/8301-1023_3-57493358-93/uber-boston-promises-to-fight-cease-and-desist-order|Uber in Boston zeitweise lahm|Uber in Boston zeitweise lahmgelegt</LINK>. Uber bewegt
-sich auf wackligem rechtlichem Boden und argumentiert, dass es nicht etwa 
-mit Taxis operiert sondern eine ganz neue Art der Beförderung anbietet.
-
-<pic images/lyft-app.ps Die iPhone-App von Lyft zum Anfordern von Autos mit dem pinkfarbenen Schnurrbart.>
-
-Ubers Heimat ist San Francisco, wo der Service sehr gut ankommt, aber vor
-kurzem unerwartet ein ganz neuer Konkurrent auftauchte: Privatautos, auf
-deren Kühler ein grotesk großer pinkfarbener Schnurrbart prangt. 
-Schnurrbart heißt auf Englisch "Moustache", und weil der pinke Fummel
-auf Autos montiert ist, wird daraus "Carstache".
-Dahinter steckt eine weitere 
-<LINK>http://arstechnica.com/business/2012/09/my-life-as-a-high-tech-part-time-not-quite-taxi-driver/|Startup-Firma namens "Lyft"</LINK>.
-Fahrgäste fordern die Wagen ebenfalls per Handy-App an, und zahlen am
-Ende der Fahrt mit einer Kreditkarten-"Spende", die mit
-etwa 20% weniger als eine entsprechende Taxifahrt vom Fahrer "vorgeschlagen"
-wird. 
 
 Fahrer und Fahrgast bewerten sich anschließend gegenseitig über die
 App, und damit ist sichergestellt, dass der Fahrgast "freiwilig" 
