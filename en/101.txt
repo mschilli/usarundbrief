@@ -292,29 +292,30 @@ The money exchange isn't called "cab fare" for
 legal reasons, but a "donation" that the driver "suggests" and is 
 about 20% less than the fare for a comparable cab ride.
 
-XXX_NOT_TRANSLATED_YET
+After drop-off, both driver and customer rate the experience separately via the
+app. That way, the customer can reward the driver for driving courteously, 
+and conversely the driver acknowledges that the customer's "voluntary" payment 
+was considered adequate. Lyft pays new drivers an hourly wage of $18 during
+the first couple of weeks. As soon as drivers have established a 
+customer base, their income is determined entirely by what they receive
+from customers, of which they may keep 80%. It seems that Lyft's workforce
+solely consists of young people who want to make a few bucks on the side.
+Drivers greet their customers with a so-called "fist-bump", a modern
+urban gesture, where two people make a fist with their right hand and
+slowly move them together until they gently touch at the knuckles.
 
-Fahrer und Fahrgast bewerten sich anschließend gegenseitig über die
-App, und damit ist sichergestellt, dass der Fahrgast "freiwilig" 
-ordentlich zahlt und der Fahrer gut fährt.
-Lyft zahlt seinen angestellten Fahrern in den ersten paar Wochen 
-einen Festlohn von $18 pro
-Stunde. Sobald sie sich die Fahrer einen festen Kundenkreis aufgebaut haben, 
-dürfen sie statt dessen 80% der Einnahmen behalten. 
-Es handelt sich fast ausschließlich um junge Leute, die sich ein paar 
-Dollar dazu verdienen und die ihre Fahrgäste
-mit einem sogenannten "Fist-Bump" begrüßen, dem in urbanen Zentren zwischen
-Hipstern üblichen sanften Zusammenrempeln zweier rechter Fäuste.
+@Z: American Holidays
 
-@Z: Amerikanische Feiertage
-
-<pic images/july4-fireworks.ps Am Nationalfeiertag am 4. Juli kracht das Feuerwerk Foto: flickr[morganglines|morganm7777777/2205067929]>
+<pic images/july4-fireworks.ps Fireworks on the 4th of July national holiday. Photo: flickr[morganglines|morganm7777777/2205067929]>
 
 <em>Michael</em>
-Der Deutsche denkt: Wie gut wir es haben, mit all den Feiertagen, um die
-uns die ganze Welt beneidet! Aber die Realität sieht anders aus. Amerikanische
-Arbeitnehmer genießen zwar weit weniger Jahresurlaub als die Deutschen, doch 
-in der Anzahl der Feiertage stehen die USA Deutschland kaum nach.
+Germans tend to think "how well off we are with our great number of holidays,
+the whole world looks upon us with envy!" but that's a common misconception.
+While Americans can take far fewer vacation
+days than the Germans, the number of national holidays is pretty much the
+same in both countries.
+
+XXX_NOT_TRANSLATED_YET
 
 Dazu muss ich anmerken, dass es in den USA zwar
 <LINK>http://en.wikipedia.org/wiki/US_holidays|Federal Holidays</LINK> gibt,
