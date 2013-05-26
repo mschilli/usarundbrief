@@ -327,28 +327,36 @@ addition, and in contrast to most parts of Europe, stores often
 open for extended hours on major holidays. 
 When would the busily working population be able to shop otherwise?
 
+Here are all American holidays in detail: New Year's Day obviously falls
+on January 1st and is always a welcome day off work. While parts of
+Germany celebrate the religious holiday of Epiphany on January 6th, there's
+no such thing in the US. On the third Monday in January, Americans celebrate
+the birthday of African-American civil rights leader Martin Luther King 
+Jr., who was assassinated in 1968. Celebrating this holiday on a Monday
+every day is quite an interesting choice, since the MLK's birthday is on 
+January 15th, which falls on a differnt day of the week every year. 
+However, in their astonishing pragmatism, Americans celebrate 
+the holiday on a Monday each year, to make sure that they get a long weekend
+out of it!
+
+President's day on the 2nd Monday in February, also known as
+"Washington's Birthday", is celebrated in honor of the first of a long
+line of American Presidents. The actual birthday of the man on the backside
+of the One Dollar Bill was on February 22nd. Then comes a long stretch
+without federal holidays for the working population until way into May, because
+Easter and Pentecost, which are big religious holidays in Germany aren't
+celebrated here as much and hence the following Mondays are regular working
+days. An exception is Good Friday before Easter, when the New
+York Stock Exchange is closed, but that's a private enterprise and not
+a government-run institution.
+
+<pic images/presidio-cemetery.ps Memorial day honors fallen American soldiers.>
+
+"Memorial Day" on the last Monday in May honors fallen American soldiers of
+various wars. People with fallen soldiers in the family sometimes pay them
+a visit at the local cemetary.
+
 XXX_NOT_TRANSLATED_YET
-
-Die amerikanischen Feiertage im Detail: Der Neujahrstag fällt naturgemäß auf
-den ersten Januar und ist immer frei.  Dreikönig gibt's nicht. Am dritten
-Montag im Januar feiern die Amerikaner den Geburtstag des schwarzen
-Bürgerrechtlers Martin Luther King, der 1968 erschossen wurde. Das muss man
-sich mal vorstellen, obwohl der Gedenktag auf ein bestimmtes Datum fällt
-(nämlich den 15. Januar, MLKs Geburtstag), begeht der Amerikaner den Feiertag
-pragmatisch jedes Mal am dritten Montag im Januar, damit jedes Jahr ein
-verlängertes Wochenende rausspringt!
-
-Am President's Day am zweiten Montag im Februar, auch "Washing\-ton's Birthday"
-genannt, gedenkt der Amerikaner dem ersten in einer langen Reihe aller
-amerikanischen Präsidenten. Der richtige Geburtstag des Mannes auf der
-Rückseite der Ein-Dollar-Note war übrigens am 22. Februar.  Dann wird's dünn
-mit verlängerten Wochenenden für Arbeit\-nehmer bis in den Mai, denn Ostern und
-Pfingsten feiern zwar manche (wenngleich längst nicht so formell wie in
-Deutschland), aber Ostermontag und Pfingstmontag sind keine Feiertage.  Am
-Karfreitag ist allerdings die Börse in New York zu, aber das ist keine
-staatliche Institution.
-
-<pic images/presidio-cemetery.ps Am Memorial Day gedenkt man in Amerika gefallener Soldaten.>
 
 Am "Memorial Day", am letzten Montag im Mai gedenkt der Amerikaner schließlich
 den gefallenen Soldaten zahlreicher Kriege. Wer gefallene Angehörige hat,
