@@ -312,21 +312,22 @@ slowly move them together until they gently touch at the knuckles.
 Germans tend to think "how well off we are with our great number of holidays,
 the whole world looks upon us with envy!" but that's a common misconception.
 While Americans can take far fewer vacation
-days than the Germans, the number of national holidays is pretty much the
+days than Germans, the number of national holidays is pretty much the
 same in both countries.
 
-XXX_NOT_TRANSLATED_YET
+Before I get into more detail, I need to clarify that there are 
+<LINK>http://en.wikipedia.org/wiki/US_holidays|Federal Holidays</LINK>
+in the US, enacted by the United States Congress, but they're not binding
+for businesses in the private sector. They're also called
+"Banking Holidays", describing holidays only obeyed by banks and other 
+slacker shops like public schools and the post office. In the private
+sector, businesses pick the most important federal holidays for their
+employees, which typically results in two or three fewer days off. In
+addition, and in contrast to most parts of Europe, stores often
+open for extended hours on major holidays. 
+When would the busily working population be able to shop otherwise?
 
-Dazu muss ich anmerken, dass es in den USA zwar
-<LINK>http://en.wikipedia.org/wiki/US_holidays|Federal Holidays</LINK> gibt,
-also vom Kongress gesetzlich vorgeschriebene Feiertage. Doch diese gelten nicht
-für die Privatwirtschaft. Vielmehr handelt es sich um sogenannte "Banking
-Holidays", also Feiertage, an denen Banken und andere Leimsiederbetriebe wie
-Schulen und die Post geschlossen haben. Die Privatwirtschaft sucht sich für
-ihre Angestellen die wichtigsten Feiertage heraus und gibt an zwei, drei Tagen
-weniger frei. Außerdem haben die Geschäfte an großen Feiertagen nicht etwa zu,
-sondern, im Gegenteil, extra lange auf. Wann sollen fleißige Arbeitnehmer
-auch sonst einkaufen?
+XXX_NOT_TRANSLATED_YET
 
 Die amerikanischen Feiertage im Detail: Der Neujahrstag fällt naturgemäß auf
 den ersten Januar und ist immer frei.  Dreikönig gibt's nicht. Am dritten
