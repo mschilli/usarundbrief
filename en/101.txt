@@ -352,40 +352,38 @@ a government-run institution.
 
 <pic images/presidio-cemetery.ps Memorial day honors fallen American soldiers.>
 
-"Memorial Day" on the last Monday in May honors fallen American soldiers of
-various wars. People with fallen soldiers in the family sometimes pay them
-a visit at the local cemetary.
+"Memorial Day" on the last Monday in May is to honor fallen American soldiers of
+various wars. People with fallen soldiers in the family might pay them
+a visit at the local cemetary. July 4th marks Independence Day, when people
+ignite child-safe table fireworks while eating Hot Dogs to commemorate
+the date when the United States cut themselves loose from British rule. 
+The US used to be a British colony whey back when, but when Britain asked 
+for taxation without representing Americans in British government, this
+got old pretty quickly. The 4th of July holiday is a major deal, and if
+it falls on a Thursday in a given year, companies often give Friday off
+as well for an extra long weekend. If it's on a Sunday, the Monday after
+is off as well. If it's on a Saturday, the Friday leading up to it is a 
+holiday as well.
+
+"Labor Day" on the first Monday in September is conceptually similar to the 1st
+of May in Germany, except that it's not unions parading the streets with red
+flags asking for lofty wage increases. Instead, in the US, you'll see families
+driving to a public park in their neighborhood, throwing hamburger patties on
+the grill and an egg-shaped leather ball through the air.
+
+<pic images/labor-day-picnic.ps On Labor Day, Americans drive to public parks and fire up the BBQ.>
+
+How "Columbus Day" on the second Monday in October is celebrated depends
+on the location: It is virtually unknown in states like South Dakota or 
+Alaska, and in states who do recognize it, only schools, banks and the
+post office are closed. It commemorates October 12th, 1492, when Columbus 
+anchored his ship and stepped on American soil for the first time. 
+November 11th 1918, on the other hand, was the end of the First World War,
+and Americans celebrate "Veteran's Day" on this date. That's another one
+of these holidays that hardly any company recognizes, except maybe 
+military-friendly defense contractors.
 
 XXX_NOT_TRANSLATED_YET
-
-Am "Memorial Day", am letzten Montag im Mai gedenkt der Amerikaner schließlich
-den gefallenen Soldaten zahlreicher Kriege. Wer gefallene Angehörige hat,
-besucht diese auf dem Friedhof. Am vierten Juli feuert Amerika dann
-kindersicheres Tischfeuerwerk ab, isst massenweise Hot Dogs und gedenkt der
-Unabhängigkeit Amerikas vom englischen Königszirkus. Amerika war ja ehemals
-eine englische Kolonie, aber als Großbritannien sich darauf beschränkte,
-Steuern einzuziehen ohne Gegenleistungen zu erbringen, war der Ofen irgendwann
-aus. Der vierte Juli ist ein richtig großer Feiertag, und falls er auf einen
-Donnerstag fällt, ist der Freitag oft auch frei. Fällt der 4. Juli auf einen
-Sonntag, ist der Montag frei. Fällt er auf einen Samstag, ist der Freitag zuvor
-ein Feiertag.
-
-Der "Labor Day" am ersten Montag im September ist so etwas wie der erste Mai in 
-Deutschland, allerdings marschieren da nicht die Gewerkschaften mit roten Fahnen und
-markigen Lohnforderungen durch 
-die Stadt, sondern jeder fährt mit seiner Familie in einen Park in der Umgebung,
-wirft einen Hackfleischdiskus auf den Grill und einen eiartigen Lederball durch die Gegend.
-
-<pic images/labor-day-picnic.ps Am Tag der Arbeit fährt der Amerikaner mit Kind und Kegel in den Park und wirft den Grill an.>
-
-Beim "Columbus Day" am zweiten Montag im Oktober scheiden sich die Geister:
-Manche Bundesstaaten wie South Dakota oder Alaska kennen ihn überhaupt nicht,
-und in den Staaten, die ihn feiern, haben nur Schulen, Banken und die Post zu.
-Gefeiert wird der 12. Oktober 1492, an dem Kolumbus mit seinem Schiff in
-Amerika andockte.  Am 11. November 1918 endete hingegen der erste Weltkrieg und
-in Amerika begehen die Menschen aus diesem Grund den "Veteran's Day" an diesem
-Tag. Auch wieder so ein Federal Holiday, den kaum eine Firma mitmacht, außer
-vielleicht militärisch angehauchte Rüstungsbetriebe.
 
 Dann Ende November der wichtigste Feiertag überhaupt: Thanks\-giving, eine Art
 Erntedankfest, zu dem jeder Amerikaner zu seinen Eltern heimfliegt und deshalb
