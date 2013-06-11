@@ -427,78 +427,68 @@ is laughable compared to the six weeks that are standard in Germany. But
 since I've been at Yahoo for eight years already, I've been enjoying a solid 
 five weeks of vacation per year lately, believe it or not!
 
-XXX_NOT_TRANSLATED_YET
+@Z: Names of Tools
 
-@Z: Werkzeugnamen auf Englisch
-
-<pic images/wrench.ps (#5) Was heißt nochmal Schraubenschlüssel auf Englisch?>
+<pic images/wrench.ps (#5) What's the name of this tool again?>
 
 <em>Michael</em>
-Wie schon häufiger hier ausgeführt taugt das in Deutschland gelehrte 
-Schulenglisch höchstens zum Bilden der korrekten Vergangen\-heits\-formen und
-anderem Firlefanz. Im amerikanischen Alltag muss der Auswanderer 
-vor Ort fast wieder bei Null anfangen. Das liegt vor allem daran, dass 
-wichtige Vokabeln fehlen. Besonders im Heimwerkerbereich tritt dies
-überdeutlich zutage, ich traue
-mich zu wetten, dass ein Abiturient aus Deutschland nicht mal die Hälfte der
-Dinge auf Englisch benennen könnte, die in einem Baumarkt verkauft werden.
+I'm sure I've mentioned this before: when German children learn to speak 
+English in school, their newly aquired skills are of little practical value 
+when they go abroad and try to use them. They're taught how to get the
+grammar right, including present perfect and past tense, but 
+when they try to communicate with regular people in the US, they need to 
+start relearn everything all over again. A large part of the vocabulary 
+in everyday use is never taught in German schools. Take home improvement,
+for example. I'm pretty sure that someone with a German high school degree
+could not even come up with the words for half the items sold at Home Depot.
 
-Was heißt Zange? Bohrmaschine? Türklinke? Türangel? 
-Schleifpapier? Kreuzschlitzschaubenzieher? Antworten folgen weiter unten,
-damit ihr nicht schummelt.
-Der in Abbildung (#5) gezeigte Rollgabelschlüssel heißt auf Englisch
-übrigens "adjustable wrench". Für schwerere Arbeiten an Metallrohren dienen
-in Deutschland sogenannte "Franzosen" und "Engländer". Diese lassen sich
-ebenfalls verstellen, sehen aber eher aus wie ein Hammer, wobei der Engländer
-nur auf einer Seite offen ist aber der Franzose auf beiden. Diese
-Werkzeuge tragen im Amerikanischen den lustigen Namen "Monkey Wrench".
+They've never heard the words "pliers", "drill", "door handle", "door hinge", 
+"sand paper", or "Phillips screw driver". The word for the 
+adjustable wrench in figure
+(#5) is also widely unknown. There are tools available in Germany that are
+similar to what's called a "monkey wrench" in the US, their literal translation
+is "Englishman" (wrench open on one side) and "Frenchman" (open
+on both sides).
 
-Das erinnert mich daran, dass mich einmal ein Röntgengerätbediener
-am Flughafen von San Francisco fragte, ob ich eine "Ranch" hätte.
-Den Zusammenhang zwischen meinem Rucksack und Ackerbau und Viehzucht
-konnte ich nicht herstellen und blickte ihn fragend an.
-Es stellte sich heraus, dass der Handgepäckkontrolleur auf dem
-Scanner einen Gabelschlüssel für Fahrradreparaturen in meinem 
-Rucksack gesehen hatte, und das Mitführen von Werkzeug war diese
-Woche nach den völlig absurden
-Sicherheitsvorkehrungen seiner Behörde gerade nicht erlaubt. 
-Der offensichtlich südamerikanische TSA-Angestellte hatte 
-"Wrench" gesagt, was habe ich gelacht!
+This reminds me that a TSA employee at the X-Ray machine at the airport 
+once asked me if I had a ranch. I didn't quite get the connection between
+my backpack and raising cattle, and looked at him quite puzzled. It turned out
+that I had left an adjustable wrench for bicycle repairs in one of my 
+backpack's many pockets, and bringing mechanical tools apparently wasn't 
+permitted this week. The employee had spoken with a South American accent
+and meant to say "wrench", not "ranch", how funny!
 
-<pic images/cotter-pin.ps (#6) Ein "cotter pin" genannter Metallsplint.>
+<pic images/cotter-pin.ps (#6) A "cotter pin" keeps the wheel on.>
 
-Und es gibt sogar mechanische Bauteile, 
-deren Namen selbst ich mit 16 Jahren USA auf dem Buckel noch
-nie gehört habe. Neulich fragte ich einen Arbeitskollegen, ob es normal
-sei, dass die Räder meines 
-Strandmobils (<RBLINK>20120801#10</RBLINK>)
-nur mit Metallsplinten an der Achse
-befestigt sind (Abbildung (#6)). Ob das nicht "Pfusch" wäre? 
+And there's mechanical parts with names that I honestly have never heard 
+in all of the sixteen years I've been living in the US. Recently, I asked
+a colleague at work if it was okay that the wheels of my beach mobile
+<RBLINK>20120801#10</RBLINK> were mounted onto the axle and held in place
+only by thin pins (Figure (#6)), if that wasn't shoddy craftsmanship, or
+"Pfusch" in German?
 
-Gleich zu Anfang stellte sich heraus, dass es auf amerikanisch kein Wort 
-für "Pfusch" gibt. Wenn etwas in Amerika halbwegs zusammenhält, ist es 
-brauchbar und dann wird kein weiterer Gedanke daran verschwendet. Aber,
-wandte ich ein, ob es denn nicht sinnvoller wäre, statt der Metallsplinte
-eine Art Schnellverschluss anzubringen, was zwar teurer, aber doch stabiler
-und leichter zusammen und wieder auseinanderzunehmen wäre? Kopfschüttelnd
-erwiderte mein Kollege: Ein Wort für "Pfusch" gäbe es zwar nicht, aber
-eines für Design, das komplizierter als notwendig ist, nämlich: "Dumm".
-So ein Scherzbold.
+It turned out that if something doesn't fall apart right away in the US, it's 
+"good enough" and noone spends another thought on it. But, so I went on,
+wouldn't it be better to use some kind of quick release instead of the 
+flimsy pins? Sure, it would be more expensive, but so much sturdier, and also
+much easier to take apart and put back together!
+He admitted that there's no equally catchy word for "Pfusch" in English.
+But he said that there's a word for design that's more complicated than
+needed, and that's "dumb". Apparently, my colleage is a comedian!
 
-Und dann musste ich doch tatsächlich fragen, wie dieser ge\-schwun\-gene
-Metallsplint eigentlich heißt: Cotter Pin. Ein "Cotter" ist nicht nur jemand,
-dem ein Gutsherr als Gegenleistung für Dienste freie Logis in einem 
-Häuschen auf dem Grundstück ("Cottage") gewährt, sondern auch ein
-Keil oder Splint. Hatte ich wirklich noch nie im Leben gehört.
+And then I needed to know the name of this curly wire: It's called a "cotter
+pin". Apparently, a cotter is not only someone living on someone's premises 
+in exchange for garden and houshold work, but also denotes a 
+metal wedge or pin. I had never even once heard of that word before!
 
-Und hier noch die Antworten auf die oben abgefragten Werk\-zeug\-voka\-beln: 
-Pliers (Zange), drill (Bohrmaschine), 
-door handle (Türgriff), door hinge (Türangel), sandpaper (Schleifpapier), 
-Phillips head (Kreuz\-schlitz\-schrau\-ben\-zie\-her).
-"Phillips", das amerikanische Wort für Kreuz\-schlitz\-schrauben\-zieher
-schreibt man, anders als den holländischen Elektronikkonzern
-"Philips" übrigens mit zwei L, denn der Schraubenzieher ist nach dem 
-amerikanischen Geschäftsmann Henry F. Phillips benannt. Hättet ihr's gewusst?
+Back to the list of the handyman tools mentioned at the beginning of
+this topic:
+"Phillips head" is American for a cross-type 
+slotted screw driver. It's named after its inventor, businessman
+Henry F. Phillips, which spells with two Ls, as opposed to
+"Philips", which is a Dutch electronics company. I bet you did not know that!
+
+XXX_NOT_TRANSLATED_YET
 
 @Z: Jeder will meine Sozialversicherungsnummer
 
