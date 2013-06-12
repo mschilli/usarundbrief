@@ -495,7 +495,7 @@ Henry F. Phillips, which spells with two Ls, as opposed to
 <em>Michael</em>
 In the United States, U.S. citizens and legal immigrants alike identify 
 themselves by a nine-digit number that looks like XXX-XX-XXXX. Germany
-has a similar sounding numbers called "Sozialversicherungsnummern", 
+has similar sounding numbers called "Sozialversicherungsnummern", 
 which translate roughly to "Social Security Number", but they're different
 in that they only identify employed individuals and allow officials to
 track people's eligibilty for
