@@ -317,7 +317,7 @@ same in both countries.
 
 Before I get into more detail, I need to clarify that there are 
 <LINK>http://en.wikipedia.org/wiki/US_holidays|Federal Holidays</LINK>
-in the US, enacted by the United States Congress, but they're not binding
+in the U.S., enacted by the United States Congress, but they're not binding
 for businesses in the private sector. They're also called
 "Banking Holidays", describing holidays only obeyed by banks and other 
 slacker shops like public schools and the post office. In the private
@@ -330,7 +330,7 @@ When would the busily working population be able to shop otherwise?
 Here are all American holidays in detail: New Year's Day obviously falls
 on January 1st and is always a welcome day off work. While parts of
 Germany celebrate the religious holiday of Epiphany on January 6th, there's
-no such thing in the US. On the third Monday in January, Americans celebrate
+no such thing in the U.S.. On the third Monday in January, Americans celebrate
 the birthday of African-American civil rights leader Martin Luther King 
 Jr., who was assassinated in 1968. Celebrating this holiday on a Monday
 every day is quite an interesting choice, since the MLK's birthday is on 
@@ -357,7 +357,7 @@ various wars. People with fallen soldiers in the family might pay them
 a visit at the local cemetary. July 4th marks Independence Day, when people
 ignite child-safe table fireworks while eating Hot Dogs to commemorate
 the date when the United States cut themselves loose from British rule. 
-The US used to be a British colony whey back when, but when Britain asked 
+The U.S. used to be a British colony whey back when, but when Britain asked 
 for taxation without representing Americans in British government, this
 got old pretty quickly. The 4th of July holiday is a major deal, and if
 it falls on a Thursday in a given year, companies often give Friday off
@@ -367,7 +367,7 @@ holiday as well.
 
 "Labor Day" on the first Monday in September is conceptually similar to the 1st
 of May in Germany, except that it's not unions parading the streets with red
-flags asking for lofty wage increases. Instead, in the US, you'll see families
+flags asking for lofty wage increases. Instead, in the U.S., you'll see families
 driving to a public park in their neighborhood, throwing hamburger patties on
 the grill and an egg-shaped leather ball through the air.
 
@@ -409,11 +409,11 @@ is uneventful in the United States. Usually, it's not even a day off work, but
 the day after, Christmas day, certainly is, and often the day after that as well.
 Christmas day is one of the few holidays when many stores are actually closed.
 I've learned this the hard way by pulling up to a Safeway grocery store parking
-lot and rubbing my eyes in disbelief. In the US, unbelievable! On these days,
+lot and rubbing my eyes in disbelief. In the U.S., unbelievable! On these days,
 people need to resort to small mom and pop shops to get their groceries, 
 they're always open and especially on these days.
 
-New Year's Eve is, as in Germany, not an official holiday in the US. All in all,
+New Year's Eve is, as in Germany, not an official holiday in the U.S. All in all,
 the working population in the United States is enjoying about 12 or more
 holidays a year. And they're never lost because most of them always are
 on a business day. In comparison, German holidays differ by state, sometimes
@@ -436,7 +436,7 @@ I'm sure I've mentioned this before: when German children learn to speak
 English in school, their newly aquired skills are of little practical value 
 when they go abroad and try to use them. They're taught how to get the
 grammar right, including present perfect and past tense, but 
-when they try to communicate with regular people in the US, they need to 
+when they try to communicate with regular people in the U.S., they need to 
 start relearn everything all over again. A large part of the vocabulary 
 in everyday use is never taught in German schools. Take home improvement,
 for example. I'm pretty sure that someone with a German high school degree
@@ -446,7 +446,7 @@ They've never heard the words "pliers", "drill", "door handle", "door hinge",
 "sand paper", or "Phillips screw driver". The word for the 
 adjustable wrench in figure
 (#5) is also widely unknown. There are tools available in Germany that are
-similar to what's called a "monkey wrench" in the US, their literal translation
+similar to what's called a "monkey wrench" in the U.S., their literal translation
 is "Englishman" (wrench open on one side) and "Frenchman" (open
 on both sides).
 
@@ -461,13 +461,13 @@ and meant to say "wrench", not "ranch", how funny!
 <pic images/cotter-pin.ps (#6) A "cotter pin" keeps the wheel on.>
 
 And there's mechanical parts with names that I honestly have never heard 
-in all of the sixteen years I've been living in the US. Recently, I asked
+in all of the sixteen years I've been living in the U.S.. Recently, I asked
 a colleague at work if it was okay that the wheels of my beach mobile
 <RBLINK>20120801#10</RBLINK> were mounted onto the axle and held in place
 only by thin pins (Figure (#6)), if that wasn't shoddy craftsmanship, or
 "Pfusch" in German?
 
-It turned out that if something doesn't fall apart right away in the US, it's 
+It turned out that if something doesn't fall apart right away in the U.S., it's 
 "good enough" and noone spends another thought on it. But, so I went on,
 wouldn't it be better to use some kind of quick release instead of the 
 flimsy pins? Sure, it would be more expensive, but so much sturdier, and also
@@ -488,62 +488,62 @@ slotted screw driver. It's named after its inventor, businessman
 Henry F. Phillips, which spells with two Ls, as opposed to
 "Philips", which is a Dutch electronics company. I bet you did not know that!
 
-XXX_NOT_TRANSLATED_YET
+@Z: Everbody wants my Social Security Number
 
-@Z: Jeder will meine Sozialversicherungsnummer
-
-<pic images/cc-application.ps (#1) Beantragt man eine Kreditkarte, muss die Sozialversicherungsnummer auf das Formular.>
+<pic images/cc-application.ps (#1) If you apply for a credit card, the form asks for your social security number.>
 
 <em>Michael</em>
-Staatsbürger und Einwanderer identifizieren sich in den USA mittels einer
-neunstelligen Zahl im Format XXX-XX-XXXX, 
-der sogenannten "Social Security Number" (SSN). 
-In Deutschland
-bestimmt die "Sozialversicherungsnummer" einen Arbeitnehmer, der irgendwann
-mal eine Rente erhält. In den USA ist die SSN eine Art Identifikation für
-Staatsbürger und legale Einwanderer. Illegale Einwanderer kaufen sich
-gestohlene Nummern oder recyclen Nummern von Verstorbenen, denn ohne diese
-Nummer kriegt man kaum einen Fuß auf den Boden in diesem Land: 
-Die Bank fragt danach, wenn man
-ein Konto eröffnen möchte, die Führerscheinstelle, wenn man eine
-Fahrerlaubnis für den jeweiligen Bundesstaat beantragt, und die Arztpraxis
-lässt neue Patienten ihre SSN in Formulare einfüllen.
-Ruft man in der Telefonzentrale beim Online-Banking an, identifiziert
-der freundliche Kundenberater den Anrufer oft über die letzen vier Ziffern
-der SSN. Als ich anno 1996 eingewandert bin, wollte sogar der
-Supermarkt Costco zur Ausstellung meines Mitgliedsausweises meine
-"Social" wissen und ich Depp habe sie damals nichtswissend rausgerückt.
+In the United States, U.S. citizens and legal immigrants alike identify 
+themselves by a nine-digit number that looks like XXX-XX-XXXX. Germany
+has a similar sounding numbers called "Sozialversicherungsnummern", 
+which translate roughly to "Social Security Number", but they're different
+in that they only identify employed individuals and allow officials to
+track people's eligibilty for
+payments from the German retirement system. In the U.S., on the other hand,
+the SSN is used for general identification of individuals. Illegal immigrants
+don't have valid SSNs, but they often buy stolen numbers or recycle numbers
+of deceased citizens, because without an SSN, it's impossible
+to open a bank account or get a driver's license for the state the
+individual currently is residing in. Even doctor's offices hand out forms
+that ask for the SSN to link the patient to their health insurance if they
+have any. If you call your bank's phone operators, they identify the
+caller by the last four digits of their SSN, which the bank has on file. 
+When I came to the U.S. in 1996, I remember that even the supermarket chain
+Costco wanted my SSN on their membership form, and I gave it to them, because
+I was an idiot who didn't know any better back then.
 
-Amerikaner erhalten ihre SSN bei der Geburt vom Staat, für frisch angereiste 
-Einwanderer ist die Ausstellung einer SSN ein wichtiger erster Schritt, um
-in der neuen Welt Fuß zu fassen (<RBLINK>19970126#3</RBLINK>). Allerdings 
-kommen diese Nummern auch öfters abhanden. Führt man seine SSN 
-zum Beispiel im Geldbeutel mit sich und irgendein Taschendieb bemächtigt 
-sich desselben, kann der
-Nichtsnutz die Nummer gewinnbringend im Untergrund an zwielichtige 
-Gestalten verscherbeln und wildfremde Personen nehmen kurze Zeit
-später die Identität des unbescholtenen Geldbeutelbesitzers an.
-Sie nehmen Kredite auf, die sie dann nicht zurückzahlen und treiben allerhand
-Schabernack, die der rechtmäßige SSN-Besitzer dann in jahrelanger,
-mühevoller Kleinarbeit berichtigen muss, wenn ihm niemand mehr Geld leiht,
-weil sein Ruf ruiniert ist und seine Kredithistorie ("Credit Report", 
-<RBLINK>20040518#4</RBLINK>) einen böse Beule abbekommen hat.
+American citizens get their SSN at birth from the government. For legal
+immigrants, getting their SSN is the first step to gain ground in their
+new environment (<RBLINK>19970126#3</RBLINK>). 
+But it's important to know that there's a lot of fraud happening with SSNs
+as well. It's very common that they get stolen, for example. If you carry
+your SSN in your wallet and a pickpocket snatches it, the culprit often 
+sells off the SSN to dubious individuals who then soon after take on the
+identity of the victim ("identity theft"). They apply for loans which
+they never intend to pay back, or perform all kinds of malicious mischief which
+often takes the victim years to repair afterwards, because their
+reputation is ruined and their credit report <RBLINK>20040518#4</RBLINK>) 
+received a severe dent.
 
-Im Krankenhaus oder beim Blutabnehmen im Labor identifizieren die Angestellten
-die Patienten mit Hilfe des Geburtsdatums. Die Schwester fragt: "What's your
-date of birth?" und vergleicht die Antwort mit dem Aufnahmezettel, auf dem
-das Geburtsdatum des Patienten steht.
-So ist es eher unwahrscheinlich, dass Frau Meier die Medizin von Herrn
-Müller eingepumpt kriegt. Ruft man bei einer Kreditkartenfirma an, und
-will seinen Kontostand wissen,
-fragt das automatische System auch manchmal nach dem Mädchennamen der Mutter,
-den man bei der Anmeldung ebenfalls hinterlassen hat. Wird es ganz
-kritisch, wie bei einer gestohlen gemeldeten Kreditkarte, identifizieren
-die Kartenfirmen den Kunden anhand mehrerer Teilinformationen aus dessen
-Kredithistorie. Was war zum Beispiel
-der Arbeitgeber, den der Kunde beim allerersten 
-Kreditkartenantrag angegeben hatte? Wer über die Jahre oft die Stelle 
-gewechselt hat, muss dann oft scharf nachdenken.
+If you're at a hospital or at a lab and someone is taking a blood sample,
+the employees no longer use the SSN, but identify the patients by their 
+date of birth. The
+nurse asks "what's your date of birth?" and then compares your answer with
+what's on the form that describes your case and identity. That way, it's 
+rather unlikely that Mrs Smith is going to get Mr Jones' medicine injected. 
+If you call your credit card company and want to know your balance, the
+automated system often wants to know your mother's maiden name, because 
+that's usually also a field the form asks for when you apply for 
+a new account.
+
+In critical situations, like when you report your credit card stolen, the
+credit card companies often identify customers by their credit history. 
+They'll ask questions like who was your employer when you applied for your
+first credit card? If you've switched jobs many times over the course of 
+several years, you often need to think hard to come up with the correct
+answer.
+
+XXX_NOT_TRANSLATED_YET
 
 Aus Sicherheitsgründen
 geizen aufgeweckte Leute mittlerweile mit der Herausgabe der 
