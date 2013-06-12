@@ -538,56 +538,50 @@ a new account.
 
 In critical situations, like when you report your credit card stolen, the
 credit card companies often identify customers by their credit history. 
-They'll ask questions like who was your employer when you applied for your
+They'll ask questions like: Who was your employer when you applied for your
 first credit card? If you've switched jobs many times over the course of 
 several years, you often need to think hard to come up with the correct
 answer.
 
-XXX_NOT_TRANSLATED_YET
+For security reasons, more and more people have become very careful 
+about handing out their SSN to the plethora of services that are asking
+for it. Does the supermarket need it? Of course not. And when I'm at a 
+doctor's office nowadays and the new patient form asks for my SSN, I'll 
+leave it blank (Figure (#2)) 
+and wait what the receptionist is going to say. Why on 
+earth would any sensible person leave their SSN with a receptionist who
+could easily sell the number online and make my life a living hell?
+Most doctor's offices will be okay with that and won't even ask for your 
+SSN anymore if you hand
+them your insurance card. Instead of the SSN, they use the number printed on 
+the insurance card, which 
+uniquely identifies the insured patient, which is what they need.
+They have no business identifying a U.S. resident with their credit history.
+That's good progress.
 
-Aus Sicherheitsgründen
-geizen aufgeweckte Leute mittlerweile mit der Herausgabe der 
-Social-Security-Nummer.
-Braucht der Supermarkt sie wirklich? Natürlich nicht. Und auf dem 
-Anmeldeformular für die Arztpraxis lasse ich das Feld mittlerweile leer
-(Abbildung (#2)). Wieso sollte ich einer Sprechstundenhilfe und eventuell
-weiteren Angestellten in der Arztpraxis Informationen
-zugänglich machen, die diese leicht online verscherbeln und mir damit
-das Leben zur Hölle machen könnten?
-Die meisten Praxen akzeptieren das Weglassen der Nummer auf dem 
-Formular
-mittlerweile klaglos, wenn man ihnen eine
-Krankenversicherungskarte reicht, auf der eine ID-Nummer aufgedruckt ist, die
-den versichterten Patienten identifiziert und nicht einen Einwohner der USA
-mit dem amerikanischen Äquivalent zum deutschen SCHUFA-Eintrag. Eine
-erfreuliche Entwicklung.
+If you sign up for an online service like Yahoo or Facebook, in the U.S.,
+the account is typically secured by a password. In case the customer 
+forgets the password, there's so-called "security questions" that the 
+customer answered at sign-up, questions that only a particular customer 
+is supposed to know the answer to. Typical questions are "What was the
+name of your first pet?" or "What street did you live on when growing up?",
+but since online predators can find out the answers to these questions
+often by simply scouring people's Facebook profiles, I think this approach
+amounts to nothing but dangerous security theater.
 
-Online-Bankkonten oder auch allgemein Online-Accounts bei Yahoo oder
-Facebook sichert man Amerika mit einem Passwort, und für den
-Fall, dass man das vergessen hat, hinterlässt der neue Kunde bei
-der Anmeldung Antworten
-auf sogenannte "Security Questions", auf die nur er die Antwort weiß. Typische
-Fragen sind "Welchen Namen hatte ihr erstes Haustier?" oder "In welcher
-Straße wohnten Sie als Kind", aber nachdem auch Bösewichte
-Antworten auf diese Fragen bei offenherzigen Facebook-Nutzern oft leicht 
-herausfinden können, sind diese Fragen meiner Meinung nach totaler Quatsch und
-gefährliches Sicherheitstheater.
+<pic images/doctor-form.ps (#2) The new patient form at a doctor's office asks for the social security number.>
 
-<pic images/doctor-form.ps (#2) Im Formular für neue Patienten will die Arztpraxis die Sozialversicherungsnummer wissen.>
+In figure (#1), you can see a credit card application form, which not only
+asks for the applicant's annual salary, but also for the SSN. Can you imagine
+that the department store chain Macy's grants new customers a 15% discount
+on their purchase if they fill out this form? The people behind the register
+ask me every time I purchase something at Macy's if I would like to 
+fill out the form, but I'm thinking every time: How stupid would I have to be
+to put my SSN on a piece of paper that is lying around for several hours 
+at a register, with dozens of people glancing at it, containing a number
+that makes it very easy for thieves to steal my identity? I recommend: If 
+in doubt, be stingy.
 
-In Abbildung (#1) seht ihr einen Antrag für eine Kreditkarte, auf dem 
-nicht nur nach dem Jahreseinkommen des Antragsstellers gefragt wird, sondern
-auch nach der SSN. Man stelle sich vor, dass die Kaufhauskette Macy's
-jedem Kunden an der Kasse einmalig
-15% Rabatt auf seinen Einkauf gewährt, wenn er einen derartigen
-Antrag ausfüllt! Die Verkäufer fragen mich jedes Mal danach,
-ob ich nicht 15% sparen möchte, aber ich denke mir immer: Wie bekloppt
-müsste ich eigentlich sein, um meine SSN auf einem Zettel zu hinterlassen, 
-der stundenlang an einer Registrierkasse rumliegt, den 
-Dutzende von Leuten zu Gesicht bekommen und der eine Nummer enthält, die 
-es Dieben einfach macht, meine Identität zu stehlen?
-Ich empfehle: Im Zweifelsfall immer geizen.
-
-Grüße aus dem informationshungrigen Land:
+Greetings from our information hungry country:
 
 Angelika \& Michael
