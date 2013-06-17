@@ -2,39 +2,40 @@ San Francisco, 12-22-2012
 
 @Z: Americans like burnt food
 
-<pic images/daves-sandwich.ps (1) My colleague Dave at Yahoo likes to burn his lunch toast until it's black.>
-
-TODO_NOT_TRANSLATED_YET
+<pic images/daves-sandwich.ps (#1) My colleague Dave at Yahoo likes to burn his lunch toast until it's black.>
 
 <em>Michael</em>
-Ein feines Steak schmeckt gleich viel intensiver, wenn ein feuriger
-Grill die Oberfläche leicht bräunt. Färbt es sich hingegen schwarz, 
-schreit der Deutsche gleich: Krebserregend! und schickt es in 
-die Küche zurück oder schneidet murrend drum herum. Interessanterweise
-scheren sich Amerikaner hier nicht um ihre Gesundheit, sondern schätzen 
-angebrannte Grillwaren nachgerade.
+A good quality steak develops a great intensive flavor if cooked
+on an open-fire grill. But if you leave it on until it turns
+dark, Germans guests will proclaim that the blackened surface causes
+cancer, send it to the kitchen, or grudgingly cut off the burnt parts.
+Interestingly, Americans don't share the same health concerns, and
+flat-out love their barbecue meat flame-grilled to a point where Germans
+would consider it burnt.
 
-Mein Arbeitskollege Dave isst zum Beispiel
-zu Mittag oft ein Sandwich,
-dessen Toastscheiben er im Röster lässt, bis sie schwarz werden 
-(Abbildung (1)). Meine belustigten Kommentare, dass er statt dessen
-gleich eine Zigarette rauchen könnte, weist er weit von sich und auf
-meine Frage, warum er seinen Toast anbrennt, antwortet er lachend: 
-"Because I like it that way!" ("Weil ich es so mag"). Er raucht
-und trinkt übrigens nicht, weil es ungesund ist.
+Take Dave, my colleague at work, for example. He often prepares a 
+lunch sandwich at the cafeteria and leaves the bread in the toaster until 
+it's almost black (Figure (#1)). When I jokingly comment that he could
+just as well smoke a cigarette, he vehemently dismisses my claim and when
+I ask why he's burning his toast, he laughs and says 
+"Because I like it that way!".
+To understand the irony of this, you need to know that Dave neither smokes 
+nor drinks, because it's unhealthy.
 
-<pic images/smore.ps (#3) Über Lagerfeuer gerösteter Marshmallow mit Schokolade und Bisquit: Ein sogenannter "S'more". Foto: flickr[Anotherpintplease|anotherpintplease/6077581019]>
+<pic images/smore.ps (#3) A Marshmallow, roasted over a bonfire, with added chocolate and a bisquit: A so-called "S'more". Photo: flickr[Anotherpintplease|anotherpintplease/6077581019]>
 
-Die meisten Amerikaner lernen angebrannte Speisen schon im Vorschulalter
-zu schätzen. Pfadfindergruppen rösten am Lagerfeuer gerne flauschige 
-<LINK>http://en.wikipedia.org/wiki/Marshmallow|Marshmallows</LINK>
-(eine watteartige Süßigkeit), bis deren Oberfläche sich schwarz färbt.
-Mit einem Plättchen Schokolade werden sie dann zwischen zwei
-Bis\-quit\-hälften gepresst und gierig verschlungen. Die Speise heißt
-<LINK>http://en.wikipedia.org/wiki/Smore|S'more</LINK>, und leitet sich
-angeblich von "Some more" ("Noch mehr") ab (Abbildung (#3)).
+Most Americans develop a fondness for burnt food as early as pre-school. 
+Boy and girl scouts groups like to roast fluffy 
+<LINK>http://en.wikipedia.org/wiki/Marshmallow|marshmallows</LINK> over
+bonfires when they are out camping, until the surface of those sugary sweets 
+turns completely black. Along with a wafer of chocoloate, they're squished
+between two bisquit halves, and kids just love to eat them. The
+dish is called a <LINK>http://en.wikipedia.org/wiki/Smore|S'more</LINK>,
+which allegedly is derived from "Some more" (Figure (#3)).
 
-<pic images/grilled-items.ps (#2) Eine Postwurfsendung zeigt angebrannte Grillwaren.>
+<pic images/grilled-items.ps (#2) A supermarket flyer in my mailbox shows burnt grilled meat.>
+
+TODO_NOT_TRANSLATED_YET
 
 Oder würde in Deutschland irgend jemandem beim Anblick der Postwurfsendung
 in Abbildung (#2) mit teilweise sehr angesengten Grillwaren das Wasser 
