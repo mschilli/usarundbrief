@@ -35,22 +35,19 @@ which allegedly is derived from "Some more" (Figure (#3)).
 
 <pic images/grilled-items.ps (#2) A supermarket flyer in my mailbox shows burnt grilled meat.>
 
+Hardly anyone in Germany would be drooling over the partially burnt
+grilled items in the supermarket flyer in Figure (#2). But the question
+remains, is eating charred food really as harmful as it is 
+believed in Germany? Enjoying burnt items once in a while probably won't do
+any harm, just as we occasionally eat fried bacon and eggs like when on
+vacation, although our medically inclined friends would probably 
+be rolling their eyes over this.
+
+@Z: Absurd and funny American TV Shows
+
+<pic images/storage-wars.ps An abandoned storage unit is auctioned off in "Storage Wars" and bidders are only allowed to peek inside briefly.>
+
 TODO_NOT_TRANSLATED_YET
-
-Oder würde in Deutschland irgend jemandem beim Anblick der Postwurfsendung
-in Abbildung (#2) mit teilweise sehr angesengten Grillwaren das Wasser 
-im Munde zusammen laufen?
-Wohl kaum. Nun stellt sich natürlich
-die Frage, ob das Schwärzen der Speisen tatsächlich so ungesund ist,
-wie es in Deutschland gelehrt wird. Selten genossen haben die
-angekokelten Fleischwaren vielleicht
-gar keine großen Auswirkungen auf die Gesundheit, wir essen im Urlaub 
-zum Frühstück auch gern mit Speck gebratene Eier zum Frühstück, obwohl 
-deutsche Mediziner wohl die Augen rollen würden.
-
-@Z: Absurdes und Lustiges im amerikanischen Fernsehkasten
-
-<pic images/storage-wars.ps Bei der Versteigerung einer Garageneinheit in "Storage Wars" dürfen die Bieter nur kurz hineinspitzeln.>
 
 <em>Angelika</em>
 Durch Netflix Streaming entdecken wir immer wieder neue Fernsehsendungen, die
