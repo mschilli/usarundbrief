@@ -278,11 +278,11 @@ line and argues that they're not bound by the taxi restrictions because
 they're not operating taxi cabs, but offer a completely different 
 transportation experience.
 
-<pic images/lyft-app.ps With the Lyft iPhone app, customers request cars with pink moustaches to pick them up.>
+<pic images/lyft-app.ps With the Lyft iPhone app, customers request cars with pink mustaches to pick them up.>
 
 Uber's headquarters are located in San Francisco, where the new service has
 been received with great success, but recently a new contender 
-has emerged: Private cars with a grotesquely large pink moustache on the
+has emerged: Private cars with a grotesquely large pink mustache on the
 front grill, called "car stache" in short. Behind this new service
 hides a
 <LINK>http://arstechnica.com/business/2012/09/my-life-as-a-high-tech-part-time-not-quite-taxi-driver/|startup company named "Lyft"</LINK>. Customers
