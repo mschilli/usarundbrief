@@ -1,6 +1,6 @@
 San Francisco, 12-22-2012
 
-@Z: Americans like burnt food
+@Z: Americans Like Burnt Food
 
 <pic images/daves-sandwich.ps (#1) My colleague Dave at Yahoo likes to burn his lunch toast until it's black.>
 
@@ -43,7 +43,7 @@ any harm, just as we occasionally eat fried bacon and eggs like when on
 vacation, although our medically inclined friends would probably 
 be rolling their eyes over this.
 
-@Z: Absurd and funny American TV Shows
+@Z: Absurd and Funny American TV Shows
 
 <pic images/storage-wars.ps An abandoned storage unit is auctioned off in "Storage Wars" and bidders are only allowed to peek inside briefly.>
 
@@ -137,30 +137,31 @@ hardly a lucrative target for the industry, but if you think about the monetary
 value of product placement during the show, they can easily make up for
 the lost price margin.
 
-TODO_NOT_TRANSLATED_YET
+@Z: San Francisco Tourist Attractions
 
-@Z: Tipps für Touristen
-
-<pic images/robben-pier39.ps Gut, gut, die Robben am Pier 39 sind nicht schlecht.>
+<pic images/robben-pier39.ps Alright, alright, the seals at Pier 39 are pretty aswesome.>
 
 <em>Michael</em>
-Wir wohnen jetzt ja auch schon geschlagene 
-16 Jahre in San Francisco und kennen uns schon recht gut aus in der Stadt.
-Wir bekommen hin und wieder Besuch von deutschen Bekannten, die dann 
-oft wissen wollen, was sie in der Stadt anstellen sollen. Da rollen wir 
-natürlich mächtig
-mit den Augen, wenn die Besucher das abartige Touristen\-nepp\-zentrum
-"Fisherman's Wharf" ansteuern, aber wir haben es mittlerweile aufgegeben,
-die Leute zu belehren. Scheinbar steht "Fisherman's Wharf" immer noch
-in den gängigen Reiseführern und wenn man in Deutschland Freunden erzählt,
-dass man im Urlaub in San Francisco war, muss man wohl irgendwie bestätigen,
-dass man auf der Touristenmeile war und Clam-Chowder-Suppe aus einem 
-ausgehöhlten Brotlaib gegessen hat. Gehört wohl irgendwie dazu. Aber über
-die Jahre haben wir eine Liste mit Attraktionen zusammengestellt, die wir
-selbst auch noch interessant finden, und diese Liste mit bekannten Highlights
-und vielleicht sogar einigen Geheimtipps wollen wir euch heute unterbreiten.
+We've been living in San Francisco for 16 years already and know our
+way around the city pretty well. Every once in a while, we get German
+visitors who then want to know what to do in the city. We're usually
+rolling our eyes when they insist on going to the touristy 
+"Fisherman's Wharf" area, but we've given up on lecturing our friends
+that this is a waste of time. For some reason, "Fisherman's Wharf" is still
+listed in the mainstream travel guides, and apparently, if you told
+your friends back home that you were on vacation in San Francisco but didn't
+go to the tourist area and ate clam chowder soup out of a hollow loaf of
+sourdough bread, they'd probably think that something is wrong with you.
+Oh well.
 
-<pic images/crissy-view.ps Von Crissy Field kann man schön auf die Stadt sehen.>
+During years and years of exploring the city, however, we kept adding to 
+our collection of lesser known visitor attractions, which even the locals 
+here in town find worthwhile going to occasionally. Today, I'm going
+to open the secret vault and let it all out!
+
+<pic images/crissy-view.ps Gorgeous city views from Crissy Fields.>
+
+TODO_NOT_TRANSLATED_YET
 
 <em>Cable Car fahren.</em> Am Powell erst ein Tages- oder Wochenticket für 
 die gesamten Verkehrsbetriebe für Touristen am Kiosk links in der Nähe 
