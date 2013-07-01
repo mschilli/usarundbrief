@@ -161,63 +161,69 @@ to open the secret vault and let it all out!
 
 <pic images/crissy-view.ps Gorgeous city views from Crissy Fields.>
 
+<em>Take a ride on the Cable Car.</em> There's a ticket booth for tourists
+at Powell (next to the Bank of America ATM machines) selling daily and weekly
+passes for all public transportation in San Francisco (MUNI, BART, and 
+Cable Car combined), buy one, it's a great deal. Be there early, as 
+around nine the line at the Cable Car gets longer and longer, at times
+the wait is an hour or more. Exit at Fisherman's Wharf. The Wharf area isn't
+really that rewarding, but tourists can't be talked out of going there,
+so just get it over with.
+
+<pic images/ocean-cliff-house.ps The city beach "Ocean Beach" featuring the "Cliff House".>
+
+<em>Take a ride to Crissy Fields.</em> (or if you like hiking, it's about
+three miles from the Wharf). Stroll about one and a half miles alongside
+the Bay to Golden Gate Bridge. Get on the bridge, walk on the footpath to 
+the first pillar (or all the way to the other end if you like). Alternatively,
+to get to Crissy Fields, rent a bicycle at "Blazing Saddles" at the Wharf
+and ride over there.
+
+<pic images/sand-dollar.ps There's hundreds of these "Sand Dollars" washed ashore at the city beach "Ocean Beach" on a good day.>
+
+<em>Walk barefoot in the sand at Ocean Beach.</em> Either start just south
+of the Cliff House or further south at the end-of-the-line stop "Ocean Beach" 
+of the N-Judah MUNI street car. Walk south as far as your feet will carry
+you. Alternatively, park at Sloat Street (about 2 miles south) and walk
+north. Collect clam shells and sand dollars.
+
+<pic images/mission-st.ps Mission Street in the mexicanischen neighborhood "Mission".>
+
+<em>Explore the Mission (Mexican Neighborhood).</em> If you hungry, enter 
+a taqueria and have a burrito or tacos. The number of people standing in line
+are usually a reliable gauge of how good the place is. My personal 
+recommendations: "La Taqueria" (2889 Mission Street), 
+"Papalote" (3409 24th Street). Recommended walking path through the Mission:
+On 24th street, go from Potrero Street to Valencia Street. At Balmy Street 
+(a tiny alley between Harrison Street and Treat Ave), take a short detour and 
+check out the murals (South American style wall paintings). On Valencia 
+Street, explore the hip/crazy stores between 24th Street and 16th Street. 
+If you're not easily scared, proceed till Market Street and notice some 
+run-down blocks around 14th Street. Alternatively, stop at 16th Street and
+visit one of the restaurant and bars. Or, enter the Zeitgeist bar and
+beer garden on Valencia Street at 14th Street.
+
+<pic images/mission-24th.ps These wall paintings in the Mission neighborhood are called "Murals".>
+
+<em>Take the Alcatraz tour.</em> But book your ticket weeks (!) in 
+advance!
+
+<em>Skate through Golden Gate Park on rented roller blades.</em>
+
+<em>In the hippie neighborhood Ashbury-Haight, check out the stores 
+with vintage and new hippie clothes between Ashbury Street and Golden
+Gate Park. There's even vinyl record (!) stores. Juvenile runaways from
+all parts of the country seem to gather here, loitering on the sidewalks. 
+
+<pic images/napa-vinyard.ps Vines in Napa Valley.>
+
+<em>With a rental car, drive to Napa or Sonoma Valley up north.</em>
+That'll take about 1.5 hours one way. Many vinyards offer wine tasting,
+it's no longer free, usually they charge between $5 to $20. Very good
+(but expensive) restaurants. If you like great traditional American food,
+I'd recommend Rutherford Grill.
+
 TODO_NOT_TRANSLATED_YET
-
-<em>Cable Car fahren.</em> Am Powell erst ein Tages- oder Wochenticket für 
-die gesamten Verkehrsbetriebe für Touristen am Kiosk links in der Nähe 
-der Geldautomaten der Bank of America kaufen. Sehr früh einsteigen, denn ab 
-neun bildet sich eine lange Schlange mit teilweise mehr als einer 
-Stunde Wartezeit. Bis zur Wharf fahren. Die Wharf selbst lohnt eigentlich 
-nicht, Touristen lassen sich aber nicht davon abbringen, dort herumzuschauen.
-
-<pic images/ocean-cliff-house.ps Der Stadtstrand "Ocean Beach" mit dem "Cliff House".>
-
-<em>Nach Crissy Field fahren.</em> (Oder für Wanderlustige: von der Wharf aus etwa 4km hinlaufen) und etwa 2km bis zur Golden Gate Bridge an der Bay entlang 
-schlendern. Auf die Brücke rauf, auf dem Fußweg bis zum ersten Pfeiler 
-gehen (oder auch ganz rüber). Alternativ bei "Blazing Saddles" an der Wharf 
-ein Rad mieten und die Tour radeln.
-
-<pic images/sand-dollar.ps Am Stadtstrand "Ocean Beach" liegen hunderte dieser "Sand Dollars" herum.>
-
-<em>Barfuß am Ocean Beach durch den Sand laufen.</em> Entweder etwas südlich 
-vom Cliff House loslegen (oder weiter südlich an der Endstation "Ocean Beach" 
-der Straßenbahn N-Judah) und nach Süden laufen (soweit die Füße tragen) oder 
-auf Höhe der Sloat Street (etwa 3km weiter südlich) parken und nach Norden 
-laufen. Muscheln und Sand Dollars sammeln.
-
-<pic images/mission-st.ps Die Mission Street im mexikanischen Stadteil "Mission".>
-
-<em>Durch die Mission (mexikanisches Viertel) wandern</em>. Eventuell in 
-einer Taqueria einkehren und einen Burrito oder Tacos essen. Gut sind die 
-Läden, vor denen die meisten Leute anstehen. Empfohlen: "La Taqueria" 
-(2889 Mission Street), "Papalote" (3409 24th Street). Empfohlene 
-Wanderstrecke: Auf der 24th Street von der Portrero Street bis zur 
-Valencia Street. Auf der Balmy Street (kleine Gasse zwischen Harrison St 
-und Treat Ave) kurz reinschauen, dort sind schöne Murals (Wandmalereien). 
-Auf der Valencia St. von der 24th Street bis zur 16th St. die teilweise 
-hippen/verrückten Läden abklappern. Mutige gehen ganz vor bis zur Market 
-und sehen auf Höhe der 14th ziemlich heruntergekommene Strecken. 
-Alternative: vorher rechts auf die 16th St. abbiegen und eine Kneipe 
-aufsuchen. Oder: Zeitgeist-Bar/Biergarten auf der Valencia St., 
-Querstraße 14th Street.
-
-<pic images/mission-24th.ps "Murals" genannte Wandmalereien im Stadtteil "Mission".>
-
-<em>Die Alcatraz-Tour machen</em>. Aber die Fähre Wochen (!) vorher buchen!
-
-<em>Durch den Golden Gate Park auf gemieteten Roller Blades bladen.</em>
-
-<em>Im Hippie-Viertel Ashbury-Haight auf der Haight Street von der Ashbury Street zum Golden Gate Park laufen.</em> Tolle Läden mit gebrauchten und
-neuen Hippie-Klamotten. Schallplatten(!)läden. 
-Jugendliche Ausreißer aus
-allen US-Bundesstaaten lungern auf dem Gehweg rum.
-
-<pic images/napa-vinyard.ps Weinreben im Napa Valley.>
-
-<em>Mit dem Mietauto nach Napa Valley oder Sonoma Valley fahren.</em> Dauert
-etwa 1.5 Stunden einfach, viele Weingüter, die Weinproben anbieten, allerdings
-mittlerweile fast überall kostenpflichtig. Gute (aber teure) Restaurants, für 
-Liebhaber guten amerikanischen Essens: Rutherford Grill.
 
 @Z: David's Tea
 
