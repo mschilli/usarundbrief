@@ -170,7 +170,7 @@ the wait is an hour or more. Exit at Fisherman's Wharf. The Wharf area isn't
 really that rewarding, but tourists can't be talked out of going there,
 so just get it over with.
 
-<pic images/ocean-cliff-house.ps The city beach "Ocean Beach" featuring the "Cliff House".>
+<pic images/ocean-cliff-house.ps The city beach Ocean Beach featuring the Cliff House.>
 
 <em>Take a ride to Crissy Fields.</em> (or if you like hiking, it's about
 three miles from the Wharf). Stroll about one and a half miles alongside
@@ -179,10 +179,10 @@ the first pillar (or all the way to the other end if you like). Alternatively,
 to get to Crissy Fields, rent a bicycle at "Blazing Saddles" at the Wharf
 and ride over there.
 
-<pic images/sand-dollar.ps There's hundreds of these "Sand Dollars" washed ashore at the city beach "Ocean Beach" on a good day.>
+<pic images/sand-dollar.ps There's hundreds of these "Sand Dollars" washed ashore at the city beach Ocean Beach on a good day.>
 
 <em>Walk barefoot in the sand at Ocean Beach.</em> Either start just south
-of the Cliff House or further south at the end-of-the-line stop "Ocean Beach" 
+of the Cliff House or further south at the end-of-the-line stop Ocean Beach
 of the N-Judah MUNI street car. Walk south as far as your feet will carry
 you. Alternatively, park at Sloat Street (about 2 miles south) and walk
 north. Collect clam shells and sand dollars.
