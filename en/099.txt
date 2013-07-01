@@ -189,9 +189,9 @@ north. Collect clam shells and sand dollars.
 
 <pic images/mission-st.ps Mission Street in the mexicanischen neighborhood "Mission".>
 
-<em>Explore the Mission (mexican neighborhood).</em> If you hungry, enter 
-a taqueria and have a burrito or tacos. The number of people standing in line
-are usually a reliable gauge of how good the place is. My personal 
+<em>Explore the Mission (mexican neighborhood).</em> If you're hungry, enter 
+a taqueria and order a burrito or tacos. The number of people standing in line
+are usually a reliable indicator of how good the place is. My personal 
 recommendations: "La Taqueria" (2889 Mission Street), 
 "Papalote" (3409 24th Street). Recommended walking path through the Mission:
 On 24th street, go from Potrero Street to Valencia Street. At Balmy Street 
