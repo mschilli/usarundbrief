@@ -189,7 +189,7 @@ north. Collect clam shells and sand dollars.
 
 <pic images/mission-st.ps Mission Street in the mexicanischen neighborhood "Mission".>
 
-<em>Explore the Mission (Mexican Neighborhood).</em> If you hungry, enter 
+<em>Explore the Mission (mexican neighborhood).</em> If you hungry, enter 
 a taqueria and have a burrito or tacos. The number of people standing in line
 are usually a reliable gauge of how good the place is. My personal 
 recommendations: "La Taqueria" (2889 Mission Street), 
