@@ -206,7 +206,7 @@ beer garden on Valencia Street at 14th Street.
 <pic images/mission-24th.ps These wall paintings in the Mission neighborhood are called "Murals".>
 
 <em>Take the Alcatraz tour.</em> But book your ticket weeks (!) in 
-advance!
+advance!</em>
 
 <em>Skate through Golden Gate Park on rented roller blades.</em>
 
