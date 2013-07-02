@@ -113,8 +113,10 @@ die Coupons her? Auch im Zeitalter des Internets liegen sie immer noch der
 Sonntagsausgabe der Zeitungen bei. Auch Supermärkte wie Safeway verschicken
 Coupons. 
 
+<pic images/coupons.ps (#4) Dieses Couponheftchen landet jeden Montag in unserem Briefkasten.>
+
 Montags finden wir zum            
-Beispiel immer ein Couponheftchen von verschiedenen              
+Beispiel immer ein Couponheftchen (#4) von verschiedenen              
 Supermärkten im Briefkasten. Alle möglichen Inter\-net\-seiten bieten
 Couponheftchen zum Ausdrucken an, und neuerdings auch
 Coupon-Applikationen fürs Smartphone zum Herunterladen.
