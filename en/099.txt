@@ -111,7 +111,10 @@ coupons? Even with the Internet as market driver, coupons today are
 mostly distributed with the print edition of the Sunday paper. Grocery 
 chains like Safeway are sending them out individually by mail as well.
 
-On Mondays, for example, we always find a booklet with coupons issued by
+<pic images/coupons.ps (#4) This coupon booklet is being delivered to our mailbox every Monday.>
+
+On Mondays, for example, we always find a booklet with coupons 
+(Figure (#4)) issued by
 various stores in our mailbox. Various sites online offer coupon leaflets
 for printing at home, and recently, coupon smartphone apps have been
 popping up.
