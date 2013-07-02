@@ -226,11 +226,11 @@ it's no longer free, usually they charge between $5 to $20. Very good
 (but expensive) restaurants. If you like great traditional American food,
 I'd recommend Rutherford Grill.
 
-TODO_NOT_TRANSLATED_YET
-
 @Z: David's Tea
 
-<pic images/davids-tea.ps In unserem Viertel hat ein Teeladen aufgemacht.>
+<pic images/davids-tea.ps A tea store opened in our neighborhood.>
+
+TODO_NOT_TRANSLATED_YET
 
 <em>Angelika</em>
 In unserem Viertel Noe Valley kommen und gehen die Läden, denn die Mieten
