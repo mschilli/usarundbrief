@@ -252,31 +252,32 @@ or vanilla. You'll find more than 150 kinds of tea there, and also
 nice accessories like mugs and tea pots. For Christmas, I even found 
 tree ornaments filled with tea!
 
-TODO_NOT_TRANSLATED_YET
+@Z: Culinary Delectabilities: The Cobb Salad
 
-@Z: Kulinarische Köstlichkeiten: Der Cobb Salad
-
-<pic images/cobb-salad.ps Eine uramerikanische Spezialität: Der Cobb Salad. Foto: flickr[Blue moon in her eyes|bluumwezi/6750185115]>
+<pic images/cobb-salad.ps An American tradition: Der Cobb Salad. Foto: flickr[Blue moon in her eyes|bluumwezi/6750185115]>
 
 <em>Michael</em>
-Heute stellen wir eine Speise vor, auf die ihr unter Umständen auf 
-amerikanischen Speisekarten stoßt: den sogenannten
-<LINK>http://en.wikipedia.org/wiki/Cobb_salad|Cobb Salad</LINK>. Es handelt
-sich um ein recht einfaches, aber sehr schmackhaftes Essen, eine Art
-aufgepeppten Salat eben. Neben grünen Salatblättern enthält ein Cobb Salad
-auch noch knusprig gebratenen Speck, Hühnchen und hartgekochte Eier.
+Today, I'm going to introduce an item you'll probably find on American
+menus: the so-called 
+<LINK>http://en.wikipedia.org/wiki/Cobb_salad|Cobb Salad</LINK>.
+It's a simple, but quite tasty dish, in a way, it's a pimped-out salad.
+Along green lettuce leaves, it features crispy fried bacon pieces, 
+slices of chicken meat, and hard-boiled eggs.
 
-<pic images/cobb-salad-menu.ps Der Cobb Salad mit Rindfleisch Tri-Tip kostet hier 13.95 Dollar>
+<pic images/cobb-salad-menu.ps The Cobb Salad with tri-tip is priced at \$13.95 at this restaurant.>
 
-Auch Avocados und Roquefort-Schimmelkäse sind normalerweise dabei, und über
-das Ganze kommt eine Essig-Öl-Marinade, die auf amerikanisch "French Dressing"
-heißt. Natürlich nicht in den Salat reingemixt, sondern in einem extra 
-Töpfchen, denn der
-Amerikaner mixt Salate gern selber am Tisch. Der Legende nach hat der
-Restaurantbesitzer Robert Howard Cobb in den 30er-Jahren des 
-vergangenen Jahrhunderts den gleichnamigen Salat erfunden, und man vermutet, 
-dass er oder sein Küchenchef einfach die Überbleibsel am Ende eines
-hektischen Restaurantabends zusammengekippt haben.
+Usually, it also comes with avocado and Roquefort blue cheese, and
+a marinade made of vinegar and oil, called "French Dressing" in the
+United States. Of course not mixed into the salad, but on the side
+in an extra dish, because Americans prefer to mix in the marinade by hand,
+instead of having a cook do it.
+
+Allegedly, restaurant owner Robert Howard Cobb invented this
+special salad in the 30ies of the past century, and rumor has it that
+he or his food chef simply whipped up a salad made with kitchen 
+leftovers after a hectic evening at the restaurant.
+
+TODO_NOT_TRANSLATED_YET
 
 @Z: Ami-Behördenwahn schwappt nach Europa: FATCA
 
