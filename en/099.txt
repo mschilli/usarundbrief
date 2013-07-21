@@ -286,7 +286,7 @@ want our money. A new tax law called
 <LINK>http://en.wikipedia.org/wiki/Foreign_Account_Tax_Compliance_Act|FATCA</LINK>,
 the so-called "Foreign Account Tax Compliance Act", extends the reach
 of the U.S. tax bureaucracy deeply into Europe, where it, via
-treaties ratified by European governments, force banks to 
+treaties ratified by European governments, forces banks to 
 report data on accounts owned by U.S. residents back to U.S. 
 tax authorities. Banks in Germany, for example, are obligated to report
 to the U.S. Internal Revenue Service (IRS) on a regular basis, which
