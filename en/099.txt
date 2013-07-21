@@ -269,56 +269,53 @@ slices of chicken meat, and hard-boiled eggs.
 Usually, it also comes with avocado and Roquefort blue cheese, and
 a marinade made of vinegar and oil, called "French Dressing" in the
 United States. Of course not mixed into the salad, but on the side
-in an extra dish, because Americans prefer to mix in the marinade by hand,
-instead of having a cook do it.
+in an extra cup, because Americans prefer to mix in the marinade by hand,
+instead of having kitchen staff take care of it.
 
-Allegedly, restaurant owner Robert Howard Cobb invented this
-special salad in the 30ies of the past century, and rumor has it that
-he or his food chef simply whipped up a salad made with kitchen 
+The legend goes that restaurant owner Robert Howard Cobb invented this
+special salad in the 30ies of the past century, and allegedly
+he or his kitchen chef simply whipped up a salad made with
 leftovers after a hectic evening at the restaurant.
 
+@Z: U.S. Bureaucracy goes Europe: FATCA
+
+<pic images/tax-despair.ps With FATCA, Obama has created an unprecedented bureaucracy nightmare that discourages U.S. residents from maintaining foreign bank accounts in Europe.>
+
+<em>Michael</em> Recently, our bank in Germany notified us that they no longer
+want our money. A new tax law called
+<LINK>http://en.wikipedia.org/wiki/Foreign_Account_Tax_Compliance_Act|FATCA</LINK>,
+the so-called "Foreign Account Tax Compliance Act", extends the reach
+of the U.S. tax bureaucracy deeply into Europe, where it, via
+treaties ratified by European governments, force banks to 
+report data on accounts owned by U.S. residents back to U.S. 
+tax authorities. Banks in Germany, for example, are obligated to report
+to the U.S. Internal Revenue Service (IRS) on a regular basis, which
+U.S. residents have how much money stashed away in foreign accounts, 
+to make sure those investors don't forget to pay their taxes in 
+their country of residence.
+
+<pic images/hafner.ps The Hafner bank located in the city of Augsburg, Germany, cancels the account of a U.S. resident because of unmanagable American tax bureaucracy.>
+
+If you know about the typical American obsession with bureaucratic 
+process (which, ironically, most Europeans have no clue of), you can imagine 
+that this new ordinance is peppered with idiotic clauses and 
+requires filling out inane forms, which means European banks would have
+to purchase expensive software to cope with it. Instead, most smaller banks
+simply decided to cancel all accounts held by U.S. residents.
+
+The acronym "FATCA" is most likely supposed to allude to "Fat Cat" 
+tax evaders, which it was designed to discourage. It wants to track down
+U.S. investors who put their money into foreign accounts and don't
+declare the gains on their U.S. tax report. Unfortunately, the new
+requirements backfired also for U.S. citizens working in Europe and in 
+need of a bank account: Only very few banks are accepting their applications.
+
+The requirement has been ratified a while ago and is going into 
+full effect in 2013. France, Germany, Italy, Spain and the UK have 
+agreed to comply and send the data to their American big brother.
+China has declined.
+
 TODO_NOT_TRANSLATED_YET
-
-@Z: Ami-Behördenwahn schwappt nach Europa: FATCA
-
-<pic images/tax-despair.ps Obama hat mit FATCA ein Papierkrammonster erschaffen, das USA-Einwohnern das Führen deutscher Bankkonten verleidet.>
-
-<em>Michael</em>
-Neulich bekamen wir ein Fax von unserer Bank in Deutsch\-land, in dem stand, 
-dass sie unser Geld nicht mehr will. Ein neues ameri\-kani\-sches 
-Steuergesetz, genannt 
-<LINK>http://en.wikipedia.org/wiki/Foreign_Account_Tax_Compliance_Act|FATCA</LINK>, der sogenannte "Foreign Account Tax Compliance Act" streckt seine
-gierigen Steuergriffel bis ins europäische Ausland aus und 
-verpflichtet die dort ansässigen Banken, Konten von Kunden mit Wohnsitz in
-den USA offen zu legen. Die Institute in Deutschland müssen
-den US-Steuerbehörden
-regelmäßig melden, welche US-Kunden dort wieviel Geld gebunkert haben, damit
-die Steuerfahnder sicherstellen können, dass die Kapitalfüchse auch 
-ordentlich Steuern ans amerikanische Finanzamt abführen.
-
-<pic images/hafner.ps Die Hafner-Bank in Augsburg kün\-digt ihren USA-Kunden die Konten wegen Be\-hörden\-wahnsinn.>
-
-Kennt man den typisch amerikanischen Behördenwahnsinn, von dem man in
-Deutschland nichts weiß, kann man sich vorstellen, dass die Meldepflicht
-mit tausenderlei Vorschriften und Formularen gespickt ist, sodass sich 
-deutsche Banken teure Software anschaffen müssten, um diese Forderungen
-der US-Regierung zu erfüllen. Statt dessen entschließen sich nun viele 
-kleinere Banken dazu, den US-Kunden die Konten zu kündigen.
-
-Das Akronym "FATCA" soll wohl auf "Fat Cat" anspielen,
-also den "fetten Katzen" genannten Steuerbetrügern, denen es den Garaus
-bereiten will. 
-Anleger, die ihr Geld im Ausland
-investieren und die anfallenden Kapitaleinkünfte nicht auf der amerikanischen 
-Steuererklärung angeben, möchte man so auf die Schliche kommen. 
-Allerdings bringt das Gesetz auch im Ausland lebende 
-Amerikaner in die Bredouille, denn wenn diese in Europa wohnen und arbeiten,
-brauchen sie dort auch ein Bankkonto. 
-
-Das Steuergesetz ist schon eine Weile beschlossen und tritt 2013 endgültig
-in Kraft. Frankreich, Deutschland, Italien, Spanien und England haben 
-zugestimmt, dem großen Bruder Amerika die gewünschten Informationen zu
-liefern. China hat abgelehnt.
 
 @Z: Klobrillen-Schutzpapier
 
