@@ -315,60 +315,61 @@ full effect in 2013. France, Germany, Italy, Spain and the UK have
 agreed to comply and are sending account data to their American big brother.
 China has declined.
 
-TODO_NOT_TRANSLATED_YET
+@Z: Protective Toilet Seat Covers
 
-@Z: Klobrillen-Schutzpapier
-
-<pic images/toilet-seat-cover-1.ps Ein Spender mit Einmal-Sitzbezügen hängt über beinahe jeder öffentlichen Toilette.>
+<pic images/toilet-seat-cover-1.ps Above almost every public toilet, there's a dispenser with disposable toilet seat covers.>
 
 <em>Michael</em>
-Der Amerikaner fürchtet sich mehr vor Bakterien und Viren 
-als der Deutsche. Dies merkt man daran, dass es niemandem hier einfallen 
-würde, mit einer Erkältung zu einer Party zu erscheinen, denn
-Erkältungsviren zu verbreiten gilt als extrem unhöflich. Oder die
-Spender mit dem Desinfektionsmittel Purell in Waschräumen von Firmen und 
-Museen: Ein deutliches Zeichen von Bazillenphobie bei der amerikanischen
-Bevölkerung, die auch gerne mit Desinfektionsmitteln wie Lysol oder
-Chlorox putzt.
+Americans are generally more afraid of germs than the average German. You
+can easily see that here in the U.S., because no one would show up for
+an event with a cold, because spreading germs is considered to be 
+extremely impolite. Or check out the dispensers with the desinfectant 
+"Purell" in the bathrooms of companies and museums: They clearly spell
+out "Germophobe" to visiting Germans, who'd rather stay clear of 
+the heavy artillery of products like Lysol or Chlorox.
 
-Eine weitere Eigenart sind die sogenannten "Seat Covers" in beinahe allen
-öffentlichen Toiletten. Es handelt sich um klobrillenförmige 
-Pergamentpapierbezüge, die man auf die Klobrille legt, bevor man sich
-drauf setzt. 
+Another manifestation of this phobia is the disposable toilet seat cover,
+to be found in
+almost every public toilet. These are razor-thin paper products in toilet
+cover shape which are to be draped onto the toilet seat before sitting
+down.
 
-Den Sitzbezug zieht man erst mit einer leichten Aufwärts- gefolgt von einer 
-ruckartigen Abwärtsbewegung aus dem Spender. Man muss dabei höllisch aufpassen,
-dass das hauchdünne Pergamentpapier dabei nicht in Fetzen zerreißt. Das
-erfordert etwas Übung, aber nach ein paar Versuchen klappt's meistens. 
+Extracting disposable covers from of the wall dispenser requires some 
+practice, usually people do this
+by pulling the front-most cover 
+slightly upwards first to loosen it, followed by a forceful down movement 
+to get it out. Not following
+these instructions will result torn covers, rendering them unusable. 
+This requires some practice, but after a few tries, you'll get the hang of it.
 
-Anschließend faltet man den Bezug vorsichtig auseinander,
-drapiert ihn über die Klobrille und muss sich dann in weniger als etwa
-drei Sekunden darauf setzen, oder Gefahr laufen, dass die dann einsetzende
-automatische Spülung den Bezug in die Tiefen des Abflusses reißt und man die
-Prozedur von neuem beginnen muss. 
+Then the folded cover needs to be carefully unfolded and draped over the
+toilet seat, followed by quickly sitting down in less than three seconds,
+or the automatic flush will trigger and tear the cover down the drain.
+You can always try again.
 
-Der Papierbezug ist allerdings aus
-verpackungstechnischen Gründen nicht klobrillenförmig, wenn man ihn aus
-dem Spender zieht. Vielmehr handelt es sich um ein Rechteck mit 
-abgerundeten Ecken und teilweise ausgestanztem Innenteil, den man an den
-Sollbruchstellen einreißen und dann nach unten klappen muss. Ein Wettlauf mit
-der Zeit!
+For reasons of packaging efficiency, however, the paper covers aren't
+shaped like toilet seats when they're extracted from the dispenser. Instead,
+they're rectangle-shaped with rounded edges, and feature a partially 
+punched-out inner oval core. Removing this core at the predetermined breaking
+points without tearing the entire cover apart often is a race
+against time.
 
-<pic images/toilet-seat-cover-2.ps Auf die Klobrille drapiert schützt eine dünne Papierlage vor dem direkten Kontakt der Haut mit dem Plastik.>
+<pic images/toilet-seat-cover-2.ps A thin paper cover draped onto the toilet seat prevents the skin from touching the plastic.>
 
-Als ich übrigens einmal auf dem völlig verlotterten
-Flughafen Charles-De-Gaulle in Paris ein paar Stunden auf einen Anschlussflug
-warten musste, fiel mir auf, dass es dort nicht nur keine Sitzbezüge auf
-den Toiletten gibt, sondern erst gar keine Klobrillen. Frankreich: ein
-äußerst absurdes Land, in dem die Leute wohl in akrobatischen Posen über
-den Kloschüsseln verharren. Aber ich schweife ab.
+For what it's worth, I was stuck at the shabby Charles-De-Gaulle
+airport in Paris once for a few hours, and noticed that not only they 
+don't have toilet seat covers there, but no toilet seats at all! France:
+What an absurd country, I imagine people are hovering in acrobatic poses 
+over the public toilet bowls. But I digress.
 
-Bei amerikanischen Toiletten handelt es sich übrigens durchgehend um 
-sogenannte Tiefspüler, bei denen etwa 5 Liter Wasser in der Schüssel 
-stehen, in die abgelassene Fragmente lautstark hineinplumpsen. Über die
-deutschen Toiletten mit ihren stufenförmigen, einer Auslage ähnelnden
-Auffangbecken lachen sich die leicht zu erheiternden Amerikaner übrigens 
-gern kaputt, wenn sie in Deutschland weilen.
+Another noteworthy point about American toilets is that they're 
+all so-called deep-flushers, meaning there's about five liters of water
+in the bowl at all times, receiving each dropped chunk with a loud plunge.
+German toilets, on the other hand, feature a receiving plateau or shelf
+with no water, which Americans find hilarious, when they're visiting in
+Germany.
+
+TODO_NOT_TRANSLATED_YET
 
 @Z: Das Ende des Papierbuchs
 
