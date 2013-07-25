@@ -369,23 +369,26 @@ German toilets, on the other hand, feature a receiving plateau or shelf
 with no water, which Americans find hilarious, when they're visiting in
 Germany.
 
-TODO_NOT_TRANSLATED_YET
+@Z: Paper Books Going Away
 
-@Z: Das Ende des Papierbuchs
-
-<pic images/regal.ps Das Bücherregal in Michaels Arbeitszimmer leert sich zusehens.>
+<pic images/regal.ps The book shelf in Michael's home office is getting cleared out.>
 
 <em>Michael</em>
-Jahrzehntelang habe ich Papierbücher gekauft. Besonders Computerbücher
-standen dann, nachdem ich einige Seiten gelesen hatte, jahrelang ungelesen
-im Regal. Dank der eBook-Revolution, die ihr in Deutschland nur verzögert
-und am Rande mitkriegt, kam mir aber die Idee, meine gesamte Bibliothek
-zu zerschnetzeln, mit einem Scanner zu digitalisieren und ab sofort 
-mobil zu lesen. Egal ob ich an der Supermarktkasse stehe oder im Liegestuhl
-am Strand liege: Überall kann ich nun auf meine 450 Werke dicke
-Bibliothek zugreifen und schnell ein paar Seiten lesen, wenn es mir beliebt.
+For decades, I've been accumulating paper books at home. This was especially 
+wasteful with computer books, which were taking up space on my shelves
+for years to come after I had read only a few relevant pages in them and
+them put them aside.
+But thanks to the eBook revolution, which Germany is only beginning to
+see now with a few years of delay compared to the U.S., I came up with the
+idea to chop up my entire library, digitize the books by scanning them and put
+them online for me to read them wherever I might roam. Regardless
+of whether I'm waiting at the supermarket register or relaxing in a comfy
+folding chair at the beach, I can always access any of my 450 books and
+read a few pages if I feel like it.
 
-<HTMLONLY><pic images/book-scan-1.ps Zuerst zerlegt Michael das Buch mit einem Teppichmesser.></HTMLONLY>
+<HTMLONLY><pic images/book-scan-1.ps As a first step, Michael cuts off the books binding using a box cutter.></HTMLONLY>
+
+TODO_NOT_TRANSLATED_YET
 
 Neue Bücher kaufe ich neuerdings digital bei Amazon für den Kindle, und
 das Format kann man auch auf allen möglichen Tablets und Mobiltelefonen
