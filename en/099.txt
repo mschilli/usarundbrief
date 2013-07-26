@@ -388,27 +388,28 @@ read a few pages if I feel like it.
 
 <HTMLONLY><pic images/book-scan-1.ps As a first step, Michael cuts off the books binding using a box cutter.></HTMLONLY>
 
+For a while, I've been buying new books digitally at Amazon for the Kindle
+reader, a format that can be consumed by all kinds of tablets and mobile
+phones as well. My scanned books are available as PDFs on my Google Drive,
+and are no longer taking up space on my shelves. One of the reasons I 
+finally took the plunge was that airlines nowadays are charging exorbitant
+fees for checked-in luggage. I'm no longer willing to pay extra for carrying
+4 pounds of paper books on a trip. Instead, I'm now simply carrying an iPad,
+and have everything I've ever owned with me at all times and can read it 
+whenever I want.
+
+<pic images/book-scan-2.ps A tool called "guillotine" cuts off the book's binding.>
+
+To digitize a book, I first cut off the book's cover with a box cutter. 
+This exposes the plain pages, which are still glued together at the binding. 
+This blob then goes into a tool called a guillotine that I purchased on 
+Ebay for $150. Its vise holds the naked book firmly, while its sharp blade 
+comes down and cuts the pages loose. A Fujitsu S1500 scanner's 
+single sheet feeder then pulls the pages in individually and creates a PDF that
+I push to my Google Dive cloud storage space, which I can access from 
+anywhere via an Internet connection.
+
 TODO_NOT_TRANSLATED_YET
-
-Neue Bücher kaufe ich neuerdings digital bei Amazon für den Kindle, und
-das Format kann man auch auf allen möglichen Tablets und Mobiltelefonen
-lesen. Dank dem neuen Schnetzelverfahren
-stehen nun auch die Papierwälzer digital parat, die bislang zuhause 
-Regalmeter verfraßen. Mit ausgelöst haben den radikalen Schnitt 
-natürlich die erhöhten Gepäckgebühren 
-beim Flug in den Urlaub. Da ich mir nicht mehr erlauben kann, 2 Kilo 
-Bücher mitzunehmen, nehme ich jetzt einen iPad mit und schon kann ich lesen
-was ich will, wann immer es mir beliebt.
-
-<pic images/book-scan-2.ps Eine Guillotine schneidet den Buchrücken ab.>
-
-Zum Digitalisieren schneide ich bei Hardcovern zunächst mit einem
-Teppichmesser den Buchrücken ab und lege die entblößten gebundenen
-Papierstapel dann in eine sogenannte Guillotine ein, ein scharfes Fallbeil
-aus China, das ich auf Ebay für 150 Dollar erstanden habe. Dann zieht
-ein Einzelblattscanner die Seiten ein und scannt sie doppelseitig. Das
-digitale Format speichere ich dann auf einem Google Drive auf dem 
-Internet ab, damit ich von überall darauf zugreifen kann.
 
 <pic images/book-scan-3.ps Und schließlich füttert er die losen Seiten in einen Einzelblattscanner.>
 
