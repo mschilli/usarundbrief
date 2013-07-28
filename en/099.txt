@@ -426,40 +426,39 @@ paper book in my collection. Unbelievable, what times we live in!
 
 @Z: The Highway Snow Chain Man
 
-TODO_NOT_TRANSLATED_YET
-
-<pic images/tahoe-chains-2.ps Der Highway I-80 nach Tahoe ist im Winter oft zugeschneit>
+<pic images/tahoe-chains-2.ps Highway I-80 to Tahoe is often snowed-in in the winter time.>
 
 <em>Michael</em>
-Über die Weihnachtsfeiertage 
-sind wir im Sauwetter ins Skigebiet Lake Tahoe gefahren. 
-Der strömende Regen in San Francisco wandelte sich auf der
-Paßstraße nach Truckee auf 2000 Höhenmetern in einen Schneesturm um. Damit
-niemand liegen bleibt und den Verkehr blockiert, hält das Highway-Personal
-jedes Auto an und prüft, ob es Vierradantrieb mit aufgezogenen Winterreifen
-hat. Falls nicht, müssen Schneeketten drauf.
+Over the Christmas holidays, we drove to the ski area Lake Tahoe in
+terrible weather conditions. Leaving San Francisco in the pouring rain
+in the morning was only topped by getting into a snow storm on the
+mountain pass to Truckee at 6000 feet elevation. To prevent vehicles from
+getting stuck and blocking traffic, the highway patrol stopped every single
+car and verified if it featured a four wheel drive with snow tires. Lacking
+that, snow chains were required.
 
-<pic images/tahoe-chains-3.ps Schneeketten anzulegen ist kein Zuckerschlecken>
+<pic images/tahoe-chains-3.ps Putting snow chains on is no picnic.>
 
-Das Aufziehen der Ketten ist zwar dank moderner Kabelketten kein Problem
-mehr, aber es erfordert doch, dass man mindestens 5 Minuten lang im strömenden
-Regen oder böse pustenden Schneesturm vor den Reifen kniet und die 
-verschiedenen Verschlüsse zumacht. Bei Kälte und steifen Fingern zieht sich
-das gerne in die Länge.
+Thanks to modern cable chains, getting them mounted onto the tires is
+no longer a major task, but it still requires kneeling in front of each
+tire for five minutes in pouring rain of blowing snowy winds to get 
+the different fasteners locked. If it's cold and your fingers are stiff,
+this can be pretty unpleasant.
 
-<pic images/tahoe-chains-1.ps Kaum gibt man dem Schneekettenmann 30 Dollar, macht er die Ketten drauf.>
+<pic images/tahoe-chains-1.ps The highway snow chain man charges \$30 to get the snow chains on.>
 
-Aber die Serviceindustrie Amerikas hat auch hierfür eine Lösung parat: 
-Am Straßenrand warten reihenweise Männer in gelben Anzügen die für 30 Dollar
-die Ketten aufziehen. Man gibt dem Schneekettenmann die mitgebrachten 
-Ketten im Beutel, und darf dann im Auto sitzen bleiben, während der
-Schneekettenmann sie im letzten Sauwetter
-aufzieht. Man lässt das Fenster nur einen Spalt auf und folgt den
-Anweisungen wie "Lenkrad ganz nach rechts einschlagen" oder "ein bißchen 
-zurücksetzen" und Minuten später sind die Ketten drauf. 30 Dollar sind
-zwar kein Pappenstiel, aber die Servicleistung ist es durchaus wert,
-wenn's in Strömen regnet. Die Kabelketten waren 1A aufgezogen und sind
-trotz forscher Fahrweise nicht abgesprungen. 
+But in a service-oriented society like the U.S., there's a solution:
+At the side of the mountain road, there's many men in yellow suits waiting
+to put your snow chains on for a fee of $30. You simply hand them the
+bag with the snow chains and then stay seated in your warm car while the
+snow chain man mounts them in ghastly wheater. You leave the window open
+just a crack to follow instructions like "turn the wheels all the way
+to the right" or "move back a bit" and minutes later the chains are on.
+30 Dollars isn't exactly a bargain price, but if it's pouring rain outside,
+it's definitely worth it. The cable chains were mounted precisely, and
+didn't come off even with my sporty driving style.
+
+TODO_NOT_TRANSLATED_YET
 
 <pic images/tahoe-chain-installer.ps Das Abmachen kostet nur 15 Dollar, aber das kann man auch ganz einfach selbst erledigen.>
 
