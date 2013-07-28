@@ -409,27 +409,24 @@ single sheet feeder then pulls the pages in individually and creates a PDF that
 I push to my Google Dive cloud storage space, which I can access from 
 anywhere via an Internet connection.
 
+<pic images/book-scan-3.ps And finally the loose pages are fed into an automatic scanner.>
+
+In Figure (#8) you can see how a digitized paper book from my former library
+now shows up on my new iPhone 5. It's readable on a small display, and even
+easier to digest on a device with a bigger screen size, like an iPad oder
+a Android tablet. The remainders of the chopped up paper books all went to
+the recycling bin.
+
+<pic images/iphone-3.ps (#8) The scanned books can even be read on the iPhone.>
+
+Recently, I was waiting for my turn at my barber. I used the idle time
+to think about a computer problem at work, had to look up an algorithm
+and quickly took out my mobile phone to download a chunk of a digitized 
+paper book in my collection. Unbelievable, what times we live in!
+
+@Z: The Highway Snow Chain Man
+
 TODO_NOT_TRANSLATED_YET
-
-<pic images/book-scan-3.ps Und schließlich füttert er die losen Seiten in einen Einzelblattscanner.>
-
-In Abbildung (#8) seht ihr, wie ein digitalisiertes Papierbuch aus meiner
-ehemaligen Bibliothek auf meinem neuen iPhone5 erscheint. Es lässt sich 
-sogar auf der kleinen Anzeige gut lesen, und sogar noch besser auf einem
-großformatigeren iPad oder Android-Tablet. Die zerschnetzelten Bücher
-sind allesamt in der Altpapiersammlung gelandet. 
-
-<pic images/iphone-3.ps (#8) Sogar auf dem iPhone lassen sich die Bücher dann lesen.>
-
-Neulich saß ich beim Friseur und musste warten, bis ich dran kam. Ich 
-nutzte die Zeit um ein Computerproblem aus der Arbeit zu lösen, über dem
-ich gerade brütete, indem ich
-schnell mein Telefon aus der Hosentasche holte, ein 
-digitalisiertes Computerbuch aus meiner Sammlung runterlud und 
-studierte, bis ich an der Reihe war. Unglaublich, in was für einem 
-Zeitalter wir leben!
-
-@Z: Der Schneekettenmann an der Autobahn
 
 <pic images/tahoe-chains-2.ps Der Highway I-80 nach Tahoe ist im Winter oft zugeschneit>
 
