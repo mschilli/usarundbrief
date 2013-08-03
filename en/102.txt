@@ -16,29 +16,26 @@ way, the consumer can make an informed choice before buying or eating
 a product and knows if it will be contributing to their waistline or 
 raise their cholesterol.
 
+<pic images/tzatziki-label.ps (#1) According to the label, this spread only has 30 calories.>
+
+But take a look at the pack of yoghurt-cucumber spread in Figure (#3): Doesn't
+the 30 calories count (20 from fat) sound suspiciously low? Indeed, because
+it doesn't refer to the complete package content, but only to an amount
+defined by the manufacturer as "serving size", as explained further down
+on the label. This is the tiny amount the customer is supposed to consume from
+the package. If you eat the entire thing, much more than 30 calories will
+go straight to your bulgy problem areas, because according to the label, 
+the package contains no less than 31 serving sizes. I presume that
+if the label said "this cucumber yoghurt contains 900 calories", the yoghurt
+would collect dust on the supermarket shelves. For this reason, the
+manufacturers manipulate the serving sizes, until the calorie count
+drops to a reasonable amount, although hardly anyone will just take
+a teaspon of yoghurt, apply it on a cracker and then return 
+the entire package to the refrigerator.
+
+<HTMLONLY><pic images/tzatziki-front.ps A delicious, low-calorie spread. Or is it?></HTMLONLY>
+
 TODO_TRANSLATE
-
-<pic images/tzatziki-label.ps (#1) Laut Nährwerttabelle hat der Brotaufstrich nur 30 Kalorien.>
-
-Aber enthält die Packung Tsatsiki mit dem leckeren Brotaufstrich aus Joghurt,
-Gewürzen und Gurken in Abbildung (#3) wirklich nur 30 Kalorien, 20 davon 
-aus Fett, wie es auf den ersten flüchtigen Blick erscheint? 
-Natürlich nicht, denn in der ersten Reihe der Tabelle in Abbildung (#1) 
-steht, dass sich die unten folgenden
-Angaben nicht auf den Inhalt der Packung, sondern auf die "Serving Size" 
-beziehen, also einer vom Hersteller vorgeschlagenen Menge, die der Konsument aus
-der Packung entnehmen soll. Im Fall des leckeren Gurkenjoghurts darf der
-Verbraucher also nicht die ganze Packung wegputzen, um seiner Wampe 30 
-Kalorien hinzuzufügen, sondern nur zwei Teelöffel voll, also 20 Gramm oder
-1/31 der Packung. Ihr habt richtig gelesen, die Packung enthält laut
-Hersteller 31 Portionen! Stünde auf der Packung 
-"dieser Brotaufstrich enthält 900 Kalorien" läge sie wohl wie Blei in
-den Supermarktregalen. Deswegen manipulieren die Hersteller die 
-Serviermengen, bis vernünftige Werte herauskommen, auch wenn kaum jemand
-nur einen Fingerhut Tatsiki auf einen Cracker streicht und dann den
-Löffel zur Seite legt und die Packung in den Kühlschrank zurückstellt.
-
-<HTMLONLY><pic images/tzatziki-front.ps Ein leckerer, kalorienarmer Brotaufstrich.></HTMLONLY>
 
 Was steht sonst noch auf der Packung? Die Servierportion von 20g Joghurt
 enthält laut Tabelle 2 Gramm 
