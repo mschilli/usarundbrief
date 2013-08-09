@@ -35,18 +35,21 @@ the entire package to the refrigerator.
 
 <HTMLONLY><pic images/tzatziki-front.ps A delicious, low-calorie spread. Or is it?></HTMLONLY>
 
-TODO_TRANSLATE
+What other information is printed on the label? 
+It says that the serving size of 20 grams of 
+yoghurt (less than one ounce) contains 2 grams of fat, which consists of
+1 gram saturated fat and 0 trans-fat, which has been pretty much 
+<LINK>http://legacy.utsandiego.com/news/state/20080130-0805-ca-transfatban.html|banned|San Francisco bans trans fat</LINK>
+from restaurants in San Francisco anyway. 
+The missing gram to arrive at a total of 2 grams of fat apparently got lost
+in a rounding error. The serving size also includes 5 milligrams of
+cholesterol (a completely useless measure as it's unrelated to the body's
+cholesterol level) and 95 milligrams of sodium which is mostly contained
+in table salt and covers about 4% of the daily intake, according to the label.
+If you can't help but eat the entire pack, that would be 120% of your 
+recommended daily salt intake, so pace yourself!
 
-Was steht sonst noch auf der Packung? Die Servierportion von 20g Joghurt
-enthält laut Tabelle 2 Gramm 
-Fett, davon 1 Gramm an gesättigten Fettsäuren ("Saturated Fat") und
-0 Gramm an den mittlerweile <LINK>http://legacy.utsandiego.com/news/state/20080130-0805-ca-transfatban.html|aus Restaurants in San Francisco fast 
-komplett verbannten Trans-Fettsäuren|Restaurants in San Francisco vermeiden Trans-Fett</LINK> ("Trans-Fat"). Das fehlende Gramm zum Gesamtfettgehalt von 2 Gramm
-kam wohl durch einen Rundungsfehler abhanden. Weiter enthält die Serviermenge
-5 Milligramm "Cholesterol" ("Cholesterin") und 95mg "Sodium", also das 
-hauptsächlich im Speisesalz enthaltene Natrium, was laut Tabelle 4% des
-Tagesbedarfs abdeckt. Verschlingt jemand gierig die ganze Packung, konsumiert
-er 120% seines Tagesbedarfs an Salz, da heißt es Maß halten!
+TODO_TRANSLATE
 
 @Z: Der Supreme Court und die Homo-Ehe
 
