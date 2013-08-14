@@ -49,26 +49,22 @@ in table salt and covers about 4% of the daily intake, according to the label.
 If you can't help but eat the entire pack, that would be 120% of your 
 recommended daily salt intake, so pace yourself!
 
-TODO_TRANSLATE
+@Z: The Supreme Court's Gay Marriage Ruling
 
-@Z: Der Supreme Court und die Homo-Ehe
-
-<pic images/city-hall-prop-8.ps Demonstranten gegen Proposition 8 in San Francisco vor dem Rathaus. Foto: flickr[Frank Farm|frankfarm/3034085292]>
+<pic images/city-hall-prop-8.ps Protesters opposing proposition 8 in San Francisco, in front of City Hall. Photo: flickr[Frank Farm|frankfarm/3034085292]>
 
 <em>Angelika</em>
-Im Juni fällte der Supreme Court, also das oberste Gericht der USA, zwei
-wichtige Entscheidungen bezüglich der Homo-Ehe. Eine Privatperson namens
-Edith Windsor hatte
-gegen den sogenannten "Defense of Marriage Act" (abgekürzt
-DOMA) geklagt. 
-Im Jahr 1996 von Clinton unterschrieben, entband es die Bundestaaten
-der USA von ihrer Pflicht, Ehen zwischen gleichgeschlechlichen Partnern
-anzuerkennen, obwohl die Ehen legal geschlossen worden waren (z.B. in anderen
-Bundesstaaten). Die Ehen zwischen gleich\-ge\-schlecht\-lichen 
-Partnern wurden durch
-DOMA somit rechtlich nicht den Ehen zwischen Mann und Frau gleichgestellt, weil
-DOMA die Ehe als rechtliche Verbindung zwischen Mann und Frau
-definierte.
+In June, the Supreme Court, the highest and final legal instance
+in the United States, ruled on two important issues regarding gay marriage.
+A private citizen named Edith Windsor had filed a lawsuit against the
+so-called "Defense of Marriage Act" (short: DOMA). DOMA was signed into law
+in 1996 by then-president Bill Clinton, and said that individual states 
+were no longer required to acknowledge legally pronounced same-sex marriages 
+(e.g. by other states). DOMA determined a marriage to be valid only
+between a man and a woman and explicitly did not recognize same-sex 
+marriages in the same way.
+
+TODO_TRANSLATE
 
 Dies hatte empfindliche Auswirkungen für die bislang ge\-trau\-ten
 gleich\-ge\-schlecht\-liche Ehepaare,
