@@ -228,6 +228,8 @@ Boston or Chicago, there's no free market for taxi drivers. Instead,
 these cities impose restrictions on the number of cabs in
 operation and hence create artificial bottlenecks on days with high demand.
 
+<pic images/pink-moustache-guerrero.ps A pink mustache car on Guerrero Street.>
+
 What's happening is that these cities issue a limited number of
 so-called <LINK>http://slate.me/MeJg13|"Medallions"</LINK> 
 that no cab can be operated without. Like in a Mafia-controlled operation,
