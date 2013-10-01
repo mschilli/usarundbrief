@@ -80,18 +80,15 @@ claim the spouse exemption.
 
 <pic images/allstate-gay.ps The well-known insurance "Allstate" is running ads pro same-sex marriage in San Francisco.>
 
-TODO_TRANSLATE
+The United States Supreme Court now ruled in her favor. The judges argued
+that DOMA violates the "due process clause" of the 5th amendment of the
+Constitution. The ruling is historical and groundbreaking. However, the
+Supreme Court emphasized that it's now up to the individual states to legalize
+same-sex marriages or pass legislation against them. This is bound to lead
+to considerable confusion, because individual government offices apply 
+different rules when it comes to providing benefits at the federal level.
 
-Der Supreme Court gab ihr jetzt Recht. Er legte dar, dass DOMA gegen
-den Gleichbehandlungsgrundsatz ("due process clause") des 5. Zusatzartikels
-(5th amendment) der amerikanischen Verfassung verstösst und
-DOMA somit verfassungswidrig ist. Dieses Urteil ist historisch und
-bahnbrechend. Allerdings betonte der Supreme Court auch, dass weiterhin die
-einzelnen Bundesstaaten entscheiden, ob sie die Homo-Ehe legalisieren oder
-nicht. Dies wird zunächst zu beträchtlichen Verwirrungen führen,
-denn die unterschiedlichen Behörden arbeiten mit verschiedenen Regeln und
-Modellen, wenn es darum geht, Leistungen auf Bundesebene ("federal
-benefits") zu begründen.
+TODO_TRANSLATE
 
 So richtet sich die Einwanderungsbehörde zum Beispiel
 nach dem Grundsatz, dass Ehepartner und Familienangehörige wie zum Beispiel 
