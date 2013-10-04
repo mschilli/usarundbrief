@@ -97,17 +97,14 @@ his Greencard through his employer, and I received one as well,
 simply because I'm married to him. This benefit now extends to all 
 legal same-sex marriages.
 
-TODO_TRANSLATE
+However, the Internal Revenue Service (IRS) and the Social Security 
+Administration are operating by different rules. Tax or social benefits are
+determined by the individuals' residence, which means that same-sex couples
+will only receive benefits in states where same-sex marriages are legal.
+You can easily see that there's a lot more work to be done and 
+looming litigation until finally everyone enjoys equal rights.
 
-Allerdings verfährt das amerikanische Finanzamt
-und die ameri\-ka\-nische Rentenkasse ("Social Security Administration") nach 
-anderen Regeln.
-Hier gilt nämlich der Wohnsitz als entscheidend, um
-Leistungen zu erhalten, was bedeuten würde, dass nur die
-gleich\-geschlecht\-lichen Ehepaare Leistungen erhalten, die in einem Bundestaat
-leben, in dem Homo-Ehen erlaubt sind. Ihr seht schon, dass da noch viele Fragen
-zu klären sind und es wahrscheinlich noch zu der ein oder anderen Klage kommen
-wird, bis endlich alle gleich behandelt werden.
+TODO_TRANSLATE
 
 Der zweite Fall, den der Supreme Court entschieden hat, 
 beschäftigte sich mit dem
