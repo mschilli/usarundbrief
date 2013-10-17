@@ -104,18 +104,16 @@ will only receive benefits in states where same-sex marriages are legal.
 You can easily see that there's a lot more work to be done and 
 looming litigation until finally everyone enjoys equal rights.
 
-TODO_TRANSLATE
+The second case decided by the Supreme Court ruled over
+California Proposition 8 (<RBLINK>20081120#7</RBLINK>). The latter
+put same-sex marriages on hold in California in 2008, by defining 
+marriage to be legal only between a man and a woman. In return,
+opponents immediately challenged Proposition 8 in the US District Court
+and judge Vaughn Walker ruled in their favor, arguing that 
+Proposition 8 was discriminatory and hence violated the constitution 
+of the State of California.
 
-Der zweite Fall, den der Supreme Court entschieden hat, 
-beschäftigte sich mit dem
-kalifornischen Volksentscheid, der sogenannten 
-Proposition 8 (<RBLINK>20081120#7</RBLINK>). Er legte 2008 die Homo-Ehe
-in Kalifornien auf Eis, denn durch den Volksentscheid definierte sich die Ehe
-in Kalifornien abermals ausschließlich zwischen Mann und Frau. 
-Allerdings klagten die Gegner
-der Proposition 8 sofort und schon 2010 gab ihnen der Richter Vaughn Walker des
-US District Courts (Bezirksgericht) Recht. Die Proposition 8
-sei diskriminierend und verstoße somit gegen die kalifornische Verfassung.
+TODO_TRANSLATE
 
 Das hatte allerdings nicht zur Folge, dass gleichgeschlechtliche Paare in
 Kalifornien wieder heiraten durften, denn die Behörden und Gerichte warteten
