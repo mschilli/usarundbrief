@@ -113,29 +113,26 @@ and judge Vaughn Walker ruled in their favor, arguing that
 Proposition 8 was discriminatory and hence violated the constitution 
 of the State of California.
 
-TODO_TRANSLATE
+Alas, this did not render same-sex marriages legal in California, since
+government agencies and courts were waiting dutifully until the case had
+made its way through the higher courts. Then, the Ninth Circuit Court of 
+Appeals in California agreed in February 2012 that Proposition 8 was 
+violating constitutional rights, and the case went on to the 
+highest federal court in the US, the Supreme Court. The judges there,
+however, dismissed the case because it wasn't the State of California
+filing the suit, but merely proponents of Proposition 8. The US Supreme
+Court decided that a lawsuit regarding the constitution of the State of 
+California can only be filed by the State of California itself and not
+by a private party not officially representing the state.
+It thereby also voided the decision of the lower Ninth Circuit Court of
+Appeals, because it wasn't the State of California filing that 
+lawsuit either. What remained was the first decision at the lowest court
+(Perry vs. Schwarzenegger), where the court had ruled Proposition
+unconstitutional, and that's the reason why since end of June there's
+been a flurry of legal same-sex marriages throughout California. The first
+one of course was held in San Francisco.
 
-Das hatte allerdings nicht zur Folge, dass gleichgeschlechtliche Paare in
-Kalifornien wieder heiraten durften, denn die Behörden und Gerichte warteten
-geflissentlich ab bis sich der Rechtsfall den Weg durch die höheren Instanzen
-bahnte. Auch das Ninth Circuit Court of Appeals, das u.a. für Kalifornien in
-der höheren Instanz zuständig ist, stimmte im Februar 2012 zu, dass
-Proposition 8 verfassungswidrig sei und deshalb landete der Fall schließlich
-vor dem obersten Gericht der USA. Die Richter dort erklärten sich 
-allerdings für nicht
-zuständig, denn der Staat Kalifornien trat nicht als Kläger auf, um
-Proposition 8 zu verteidigen (dies war schon der Fall bei der Entscheidung vor
-dem Ninth Circuit Court) sondern nur die Befürwörter der Proposition 8. Der US
-Supreme Court entschied, dass nur der Staat Kalifornien als Kläger
-auftreten kann bei einer Grundsatzfrage, die die kalifornische Verfassung
-betrifft und Privatleute nicht als offizielle Vertreter des Bundesstaates
-anzusehen sind. Es hob dadurch auch die Entscheidung des Ninth Circuit Court of
-Appeals auf, da dort ebenfalls der Staat Kalifornien nicht als Kläger
-auftauchte. Unangefochten bleibt deshalb die Entscheidung der ersten Instanz
-(Perry vs. Schwarzenegger), und da der Richter dort Proposition 8 als
-verfassungswidrig erklärt hatte, heiraten seit Ende Juni gleichgeschlechtliche
-Paare wieder fröhlich in Kalifornien. Der erste dieser Hochzeiten fand
-natürlich in San Francisco statt.
+TODO_TRANSLATE
 
 @Z: Tagesschau darf nicht senden
 
