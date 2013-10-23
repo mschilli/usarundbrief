@@ -132,26 +132,23 @@ unconstitutional, and that's the reason why since end of June there's
 been a flurry of legal same-sex marriages throughout California. The first
 one of course was held in San Francisco.
 
-TODO_TRANSLATE
+@Z: German Tagesschau Won't Broadcast Certain Segments
 
-@Z: Tagesschau darf nicht senden
-
-<pic images/roku-tv.ps (#4) Der kleine Roku-Kasten (links unten) holt die Tagesschau per Fernbedienung auf unseren Fernsehkasten.>
+<pic images/roku-tv.ps (#4) The little Roku device (bottom left) fetches the German news show "Tagesschau" via the Internet onto our TV at the push of the remote control button.>
 
 <em>Michael</em>
-Mit Hilfe eines <LINK>http://www.roku.com|Roku-Kästleins</LINK>
-schauen wir bekanntlich auch im fernen
-San Francisco jeden Tag die Tagesschau 
-(<RBLINK>20110320#4</RBLINK>) an. 
-Das geht ganz
-bequem, denn die kleine pausenbrotgroße schwarze Schachtel links unten
-in Abbildung (#4) kann nicht nur Netflix und Amazon Instant Video 
-und ein Dutzend 
-weiterer Internetangebote auf unserem Fernseher darstellen, sondern auch 
-die Tagesschau aus Deutschland holen. Drei Klicks mit der Fernbedienung,
-und innerhalb von 10 Sekunden fängt sie an zu laufen. Wegen der 
-Zeitverschiebung schauen wir sie am Wochenende auch manchmal 
-schon nachmittags an. 
+As you probably already know, we've gotten into the habit of watching the 
+daily German news show "Tagesschau" by help of a small
+streaming device called <LINK>http://www.roku.com|Roku</LINK> in our
+living room.
+It's really easy to do, since the sandwich-sized box supports not only
+Netflix, Amazon Instant Video, and about a dozen other content providers,
+but also this most famous German news show. Three clicks with the remote,
+and within 10 seconds, it starts running on our TV in San Francisco. 
+Thanks to the time difference, on the weekends, we often watch the 
+8:00pm show already in the early afternoon.
+
+TODO_TRANSLATE
 
 <pic images/tagesschau-content-restricted.ps (#5) Die Tagesschau darf Fußballszenen nicht auf dem Internet ausstrahlen.>
 
