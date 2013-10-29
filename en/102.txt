@@ -148,31 +148,33 @@ and within 10 seconds, it starts running on our TV in San Francisco.
 Thanks to the time difference, on the weekends, we often watch the 
 8:00pm show already in the early afternoon.
 
+<pic images/tagesschau-content-restricted.ps (#5) The German news show "Tagesschau" is prohibited from broadcasting the sports segment on the Internet.>
+
+I find that the "Tagesschau" with its 15 minutes of pure daily news really fits
+my needs. Their reporting is neutral, without much filler material, the
+only complaint I have is that they always announce some political figurehead
+visiting a disaster area with the phrase 
+"to get an impression on the situation", on which the editor in chief should
+ring the alarm bells and cut it out of the manuscript immediately. It's
+really getting old, Tagesschau, have you realized that yet?
+
+But the reason why I'm talking about this topic today is that towards
+the end of the show, on weekends, there's almost always a sports segment
+with some footage on the current league soccer games. Unfortunately, 
+it is always blocked in its entirety by the ugly censor screen in Figure (#5).
+I can imagine that it is greedy content peddlers strong-arming the public 
+German TV station to suppress this information.
+The same annoyance occurs with Formula One car races. Only exotic sports
+like women's soccer or tennis are being broadcasted freely. 
+And earlier today, I've witnessed a new low: At the end of the newscast, there
+was a report on a newly erected historical site to commemorate Nazi 
+euthanasia crimes, and while airing some historical footage in 
+black-and-white the same censor screen came on: "For legal reasons, 
+this content cannot be shown on the Internet". Really, Tagesschau? 
+Sometimes I think some of the content regulators need to get
+their heads examined.
+
 TODO_TRANSLATE
-
-<pic images/tagesschau-content-restricted.ps (#5) Die Tagesschau darf Fußballszenen nicht auf dem Internet ausstrahlen.>
-
-Die Tagesschau ist das ideale Format für mich, um politisch auf dem Laufenden
-zu bleiben. Relativ neutral, ohne viel Gelaber, nur wenn ein Politiker in 
-ein Krisengebiet fährt, sollte der ARD-Korrekturleser bei dem
-Satz "um sich ein Bild von der Lage zu machen" einen roten Kopf kriegen
-und dann den Satz mit einem dicken roten Edding aus dem Manuskript
-streichen. Nimmt ja wirklich überhand, gell, Tagesschau-Redaktion.
-Schon gemerkt?
-
-Aber weswegen ich heute das Thema aufgreife: Gegen Ende der Tagesschau
-kommen am Wochenende meist ein paar Sekunden Fußball, und dann sehen wir
-das hässliche Testbild aus Abbildung (#5). Bekanntlich stecken da 
-geldgierige Inhaltsvermarkter dahinter, da kann der öffentlich-rechtliche
-Sender wohl finanztechnisch nicht mithalten, gut. Aber das Gleiche gilt
-auch, falls der Vettel ein Formel-1-Rennen gewinnt. Nur Exotensportarten
-wie Damenfußball oder Tennis gehen anscheinend. Aber heute schlug's dem Fass
-den Boden raus: Kam doch am Ende der Tagesschau ein Bericht über ein
-neu erstelltes Mahnmal zum Gedenken an Eutanasie-Verbrechen der Nazis, und
-während einer Einspielung eines alten Schwarzweißfilms kam das Banner
-"darf aus rechtlichen Gründen im Internet nicht gezeigt werden" hoch. 
-Wirklich, Tagesschau? Manchmal frage ich mich, ob dort drüben noch alles
-im Lot ist.
 
 @Z: Unsere U-Bahn, die BART, streikt
 
