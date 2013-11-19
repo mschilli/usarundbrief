@@ -174,33 +174,32 @@ this content cannot be shown on the Internet". Really, Tagesschau?
 Sometimes I think some of the content regulators need to get
 their heads examined.
 
-TODO_TRANSLATE
+@Z: Our Subway, BART, is on strike
 
-@Z: Unsere U-Bahn, die BART, streikt
-
-<pic images/bart-train.ps BART: Die U-Bahn der Bay Area>
+<pic images/bart-train.ps BART: The Bay Area's subway system>
 
 <em>Angelika</em>
-San Francisco und die Bay Area verfügen ja über ein
-einigermaßen gut funktionierendes öffentliches Verkehrssystem. Es gibt Busse,
-Strassenbahn und U-Bahn. Die U-bahn-ähnliche BART (Bay Area Rapid Transit)
-fährt nicht nur in der Stadt und zum San Francisco Flughafen, sondern
-verbindet gerade die East Bay (Oakland, Richmond, Berkeley, Pleasanton usw.)
-mit San Francisco, wobei die Züge die Bay in einem Unterwassertunnel
-durchqueren.
+By American standards, San Francisco and the Bay Area are exemplary
+when it comes to public transportation offerings. There's buses, street
+cars, and a subway. The subway system BART (Bay Area Rapid Transit) features
+a single line within the limits of the city of San Francisco, extending all
+the way south to SFO airport, but also also connects the East Bay
+(Oakland, Richmond, Berkeley, Pleasanton) with San Francisco,
+crossing the Bay waters via an underwater tunnel.
 
-Da San Francisco von Wasser umgeben ist, stößt man über kurz oder lang
-immer auf irgendeine Brücke, die zu überqueren ist, was zu
-Hauptverkehrszeiten dazuführt, dass die Brücken hoffnungslos verstopfen. 
-Auf der Bay Bridge, die San Francisco mit Oakland, also der East Bay,
-verbindet, reihen sich Auto an Auto zu Stoßzeiten und der entnervte
-Autofahrer steht stundenlang im Stau. Die BART ist deshalb für viele eine
-prima Alternative. Mittlerweile benutzen an Wochentagen ungefähr 400.000
-Menschen pro Tag die BART, was meiner Meinung nach immer noch zu wenige
-sind, aber das Fahrgastaufkommen hat sich über die letzten 15 Jahre
-immerhin verdoppelt. Was für ein wichtiges Transportmittel BART
-mittlerweile ist, bekamen wir in den letzten Wochen deutlich zu spüren. Die
-BART-Mitarbeiter streikten nämlich vom ersten bis zum vierten Juli.
+Since San Francisco is surrounded by water, you'll run into a bridge to 
+be crossed sooner or later, which during rush hour inevitably leads
+to hopelessly clogged roads. On the Bay Bridge, connecting San Francisco and
+Oakland on the East Bay side, there's often bumper-to-bumper traffic and
+disgruntled drivers are stuck in traffic for hours. For this reason,
+the BART subway system is an indispensable transportation alternative.
+About 400,000 commuters are using BART every day. In my personal opinion,
+that's still too few, but the rider numbers have doubled in the last
+fifteen years. In recent weeks, we've found out the hard way how 
+important BART has become: BART workers went on strike between July 1st and
+4th.
+
+TODO_TRANSLATE
 
 <pic images/bart-gate-locked.ps BART: Vier Tage lang standen Fahrgäste vor verschlossenen Toren.>
 
