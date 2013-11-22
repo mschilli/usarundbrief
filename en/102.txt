@@ -199,16 +199,16 @@ fifteen years. In recent weeks, we've found out the hard way how
 important BART has become: BART workers went on strike between July 1st and
 4th.
 
+<pic images/bart-gate-locked.ps BART: BART customers were locked out for four consecutive days during the strike.>
+
+Labor protests are relatively rare in the US, as unions have been weakened
+over the years. The last time BART workers went on strike was sixteen years
+ago, for example. But it still happens. BART employees are, to put
+it simply, public servants of the State of California. On top of 
+ticket sales, BART is supported by the tax payers, it's not a private
+company.
+
 TODO_TRANSLATE
-
-<pic images/bart-gate-locked.ps BART: Vier Tage lang standen Fahrgäste vor verschlossenen Toren.>
-
-Streiks kommen in Amerika relativ selten vor, da die Gewerkschaften völlig
-ausgehöhlt wurden. Der letzte BART-Streik ist zum Beispiel 16 Jahre her.
-Dennoch gibt es sie noch. BART-Angestellte sind, etwas vereinfacht
-ausgedrückt, Angestellte des öffentlichen Dienstes des Bundesstaates
-Kaliforniens. Die BART finanziert sich nämlich neben dem Fahrkartenverkauf
-aus Steuergeldern, ist also keine private Firma. 
 
 Worum ging es den
 Streikenden? Natürlich zunächst einmal um Gehaltserhöhungen, aber auch um
