@@ -75,7 +75,7 @@ c) 26
 <sp>
 
 <em>5. Versicherungen können Vorerkrankungen (sogenannte “pre-existing
-conditions) nicht mehr ausschließen</em>
+conditions") nicht mehr ausschließen</em>
 
 a) Richtig
 
@@ -164,7 +164,7 @@ Auflösung:
 
 1b
 
-2a
+2b
 
 3b: Wer bereits eine Krankenversicherung zum Beispiel durch den Arbeitgeber
 hat, kann in dieser auch weiterhin versichert bleiben.
