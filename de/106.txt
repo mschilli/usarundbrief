@@ -209,7 +209,7 @@ denn ein 10-Dollar-Wein steht in Lokalen mit Lizenz oft mit $50 auf der Karte.
 
 <pic images/montreal-foie-gras.ps (#2) Im französich angehauchten Montreal gibt's natürlich noch Gänseleberpastete.>
 
-Kalifornien hat ja bekanntlich vor einem Jahr die Gänsestopfleber verboten.
+Kalifornien hat ja bekanntlich vor einem Jahr die Gänsestopfleber verboten
 (<RBLINK>20121103#10</RBLINK>). In anderen US-Bundesstaaten wie zum Beispiel
 Nevada wird sie weiterhin serviert und auch im französischen Teil von
 Kanada ist sie natürlich 
