@@ -222,25 +222,25 @@ of how many family members (e.g. children) are covered.
 
 <HTMLONLY><pic images/bart-sign.ps This usually busy station is now shut down because of the BART strike.></HTMLONLY>
 
+It's quite the norm in the U.S. that affluent tech companies pay their 
+employee's health insurance premiums in full, requesting only
+a small contribution from employees in most cases. 
+Companies like Apple, Google, Yahoo have been doing that for years 
+to be able to attract qualified and happy software specialists. 
+My employer's health plan, on the other hand, requires employees to 
+foot a much larger amount, although our salaries are tiny in comparison. 
+For this reason, I prefer to be insured with Michael, 
+although I'm working full time.
+
+BART workers take home surprisingly high salaries, compared to other positions
+in the industry only requiring a high school diploma. Depending on who you ask,
+employees or BART management, a BART worker's yearly base salary runs 
+somewhere between \$60,000 and \$80,000, and on top of that, there's an
+obscure system of overtime payments and social benefits.
+
+<pic images/bart-glen-park.ps Only a few pigeons have been seen today at the usually busy Glen Park BART station.>
+
 TODO_TRANSLATE
-
-Es ist in den USA üblich,
-dass gute Firmen fast den gesamten Beitrag zur Krankenkasse zahlen und der
-Mitarbeiter nur einen geringen Obulus berappt. Dies ist gängige Praxis bei
-Firmen wie Apple, Google, Yahoo, da man so gute und zufriedene Mitarbeiter
-an Land ziehen kann. Mein Arbeitgeber zahlt hingegen fast gar nichts
-dazu, obwohl unsere Gehälter gering sind. Ich bin deswegen lieber über
-Michael krankenversichert, obwohl ich selbst Vollzeit arbeite.
-
-BART-Mitarbeiter verdienen relativ gut in Vergleich zu
-anderen Branchen, in denen man nur einen High-School-Abschluss für die
-meisten Stellen braucht. Allerdings schwanken die Aussagen bezüglich der
-durchschnittlichen Jahresgehälter total, je nachdem ob die Mitarbeiter oder
-BART-Manager befragt werden. Die Zahlen bewegen sich von über
-$60.000 bis zu $80.000 Grundgehalt im Jahr, zuzüglich einem 
-undurchsichtigen System aus Überstundengeld plus Sozialleistungen. 
-
-<pic images/bart-glen-park.ps Nur ein paar Täubchen an der BART-Station Glen Park.>
 
 Das führte dann auch zu
 etwas Unmut in der sonst doch relativ liberalen Bay Area. Viele fanden,
