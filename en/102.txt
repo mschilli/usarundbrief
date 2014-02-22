@@ -199,7 +199,7 @@ fifteen years. In recent weeks, we've found out the hard way how
 important BART has become: BART workers went on strike between July 1st and
 4th.
 
-<pic images/bart-gate-locked.ps BART: BART customers were locked out for four consecutive days during the strike.>
+<pic images/bart-gate-locked.ps BART customers were locked out for four consecutive days during the strike.>
 
 Labor protests are relatively rare in the US, as unions have been weakened
 over the years. The last time BART workers went on strike was sixteen years
@@ -235,7 +235,7 @@ although I'm working full time.
 BART workers take home surprisingly high salaries, compared to other positions
 in the industry only requiring a high school diploma. Depending on who you ask,
 employees or BART management, a BART worker's yearly base salary runs 
-somewhere between \$60,000 and \$80,000, and on top of that, there's an
+somewhere between $60,000 and $80,000, and on top of that, there's an
 obscure system of overtime payments and social benefits.
 
 <pic images/bart-glen-park.ps Only a few pigeons have been seen today at the usually busy Glen Park BART station.>
