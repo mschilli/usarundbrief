@@ -240,19 +240,19 @@ obscure system of overtime payments and social benefits.
 
 <pic images/bart-glen-park.ps Only a few pigeons have been seen today at the usually busy Glen Park BART station.>
 
-TODO_TRANSLATE
+This inevitably led to some resentment expressed by Bay Area citizens, 
+although they are known for their liberal views. Many felt that the strike
+wasn't justified. I think it's about time to establish better working
+condition for all workers across the entire U.S., like statutory requirements
+for sick days and maternity leave. But that's probably a pipe dream, in
+light of how elected officials quarreled with each other to get 
+the national health insurance in place. In any case, since July 5th,
+BART has been operating normally again, since the old labor agreement 
+was extended by 30 days. But this means that there's a chance that the
+trains will stop running again next month, if the two parties can't 
+get to an agreement.
 
-Das führte dann auch zu
-etwas Unmut in der sonst doch relativ liberalen Bay Area. Viele fanden,
-dass der Streik nicht gerechtfertigt war. Ich finde ja, dass es an der Zeit
-wäre, bessere Konditionen für alle Arbeitnehmer zu schaffen in den USA,
-zum Beispiel gesetzlich geregelte Krankheitstage und Mutterschutz, aber das
-sind natürlich Luftschlösser, denn die Politiker haben sich ja schon bei
-der nationalen Krankenkasse zerfleischt. Auf jeden Fall fährt die BART
-seit 5. Juli wieder, denn der alte Traifvertrag wurde für 30 Tage 
-verlängert. Es kann
-also sein, dass in einem Monat nochmals die Züge nicht mehr rollen, wenn
-sich die Parteien bis dahin nicht einigen können.
+TODO_TRANSLATE
 
 @Z: Toppprodukt: Peeramid-Pyramide zum iPad-Lesen
 
