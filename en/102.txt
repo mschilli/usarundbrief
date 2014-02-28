@@ -254,32 +254,31 @@ get to an agreement.
 
 TODO_TRANSLATE
 
-@Z: Toppprodukt: Peeramid-Pyramide zum iPad-Lesen
+@Z: Top Product: The Peeramid pyramid for reading on your iPad
 
-<pic images/peeramid-solo.ps So simpel, aber so praktisch: Die Lesepyramide für den E-Reader.>
+<pic images/peeramid-solo.ps Simple, but very handy: The reading pyramid for the E-book Reader>
 
 <em>Michael</em> 
-Wer im Lesesessel sitzend oder im Bett liegend auf dem iPad liest, der 
-kann ein Lied davon singen, wie schwer dieses Gerät auf einmal wird, wenn
-man eh schon müde ist. Ruckzuck fallen da die Äuglein zu, obwohl man doch
-eigentlich noch weiterlesen möchte! 
-Neulich kaufte ich deswegen, und auch wegen der
-begeisterten Rezensionen auf Amazon, ein 
-<LINK>http://www.amazon.com/dp/B00771NUSY|pyramidenartiges Polster namens Peeramid</LINK>, das man auf den Schoß oder die Bettdecke legt und das den iPad
-mühelos in Lesestellung hält, ohne das man ihn festhalten muss.
+If you like reading on your iPad while sitting in your favorite recliner 
+or lying in bed, you're familiar with how heavy the device gets all of 
+a sudden. Wham-bam, and you're snoozing off, but you really wanted to keep
+reading! To combat this problem, I recently bought a 
+<LINK>http://www.amazon.com/dp/B00771NUSY|pyramid-shaped pillow named Peeramid</LINK> from Amazon, after getting curious by the raving reviews the item
+had received. It sits on your lap or on the blanket and keeps the iPad
+upright at an angle for reading without having to hold it upright.
 
-<pic images/peeramid-chair.ps Michael mit seinem iPad im Lesesessel.>
+<pic images/peeramid-chair.ps Michael with his iPad in the reclining chair.>
 
-Das Ding ist die Wucht in Tüten! Es sieht nicht nur witzig aus, etwa wie ein
-Doktorhut mit Kordel und Quaste dran, sondern fühlt sich mit dem 
-samtartigen Bezug äußerst angenehm an und hält den iPad in Stellung, 
-auch wenn ich schon fast in den Schlaf der Gerechten eingetreten bin. 
-Liegt es irgendwo rum, kann man es meist an der Kordel zu sich herziehen ohne
-dass man aufstehen muss. Es kostet etwa $25 bei Amazon.com, eigentlich ein 
-Irrsinnspreis für das für vielleicht $5 in China hergestellte Produkt, aber 
-es ist tipptopp gefertigt und die hohe Qualität der Stoffbespannung besticht
-selbst anspruchsvolle Gemüter. Und für gute Ideen zahle ich bekanntlich 
-gerne einen höheren Preis. Toppprodukt!
+This device is the best innovation since sliced bread! It looks pretty
+funny, like a diploma hat with a tassel attached to it at the end of
+a 2-foot rope. Its velvet cover is 
+pleasant to the touch, and it holds the iPad securely in place, even when 
+I'm so tired that I'm about to doze off. If it's lying somewhere near,
+just grab the tassel and pull it towards you. It's about $25 on Amazon.com,
+which is an outragious amount of money for an item that's probably been made
+for not more than $5 in China, but it's really nicely sewn and the high-quality 
+cover will even satisfy demanding customers. And it's well-known that 
+I have no problem paying a premium for quirky new products. Top product!
 
 @Z: Klettern im Planet Granite
 
