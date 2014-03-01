@@ -252,8 +252,6 @@ was extended by 30 days. But this means that there's a chance that the
 trains will stop running again next month, if the two parties can't 
 get to an agreement.
 
-TODO_TRANSLATE
-
 @Z: Top Product: The Peeramid pyramid for reading on your iPad
 
 <pic images/peeramid-solo.ps Simple, but very handy: The reading pyramid for the E-book Reader>
@@ -280,20 +278,24 @@ for not more than $5 in China, but it's really nicely sewn and the high-quality
 cover will even satisfy demanding customers. And it's well-known that 
 I have no problem paying a premium for quirky new products. Top product!
 
-@Z: Klettern im Planet Granite
+@Z: Climbing at Planet Granite
 
-<pic images/planet-granite-low.ps Der rasende Rundbriefreporter an der Wand im Kletterzentrum "Planet Granite". Foto: Bettina Oswald>
+<pic images/planet-granite-low.ps One of the USArundbrief editors climbs up the wall at the climbing gym "Planet Granite". Foto: Bettina Oswald>
 
 <em>Michael</em> 
-Die Manie, an Wänden mit künstlichen Griffen hochzuklettern muss wohl 
-aus Deutschland stammen, denn das habe ich in den 90er Jahren schon im 
-Klettergarten in München Thalkirchen gemacht. Der Sport heißt in Amerika
-"Indoor Climbing" und in San Francisco und Umgebung betreibt die Mini-Kette
-"Planet Granite" mehrere Fitnessstudios mit Kletterwänden. Man sieht dort
-nach Feierabend besonders Angestellte der Software-Industrie im 
-Silicon Valley und lustigerweise auch oft deutsch sprechende Immigraten.
-Mit unseren Freunden Bettina, Miguel, Chris und Tranquilla bin ich dort
-fast jeden Mittwoch zugange.
+If I'm not mistaken, the obsession of climbing indoors on artificial walls
+must have originated in Germany, or how else would you explain that I've 
+been doing that since the 90ies, back then at the Thalkirchen climbing 
+center in Munich? In the U.S., the sport is 
+called "indoor climbing" and there's a 
+micro-chain gym called "Planet Granite" in San Francisco and the surrounding
+Bay Area that offers several fitness clubs with rock climbing walls. 
+After a hard day's work, it's quite common to meet fellow 
+techies there, and ironically also often German-speaking immigrants.
+Almost every Wednesday, I've been hanging out there with our friends
+Bettina, Miguel, Chris and Tranquilla for quite some time.
+
+TODO_TRANSLATE
 
 In München fiel man damals einfach mit Kletterschuhen, einem Seil und Haken 
 bewaffnet im Klettergarten Thalkirchen ein und schon ging's rauf auf die
