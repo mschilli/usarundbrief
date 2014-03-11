@@ -102,41 +102,41 @@ part of his life. Sadly, he died in 2007 at age 86 and didn't get to
 ride the new trail on his bike. But the foot and bike path is named after
 him and I bet he'd be thrilled to see how popular it is already.
 
-TODO_TRANSLATE
+@Z: German Absentee Voting
 
-@Z: Briefwahl aus dem Ausland
-
-<pic images/election-angelika.ps Welche Partei Angelika wohl wählt?>
+<pic images/election-angelika.ps Which party did Angelika just vote for?>
 
 <em>Angelika</em>
-Da wir ja nur eine amerikanische Greencard besitzen und nicht die
-amerikanische Staatsbürgerschaft, dürfen wir in den USA nicht wählen.
-Aber Deutsche mit Wohnsitz im Ausland können per Briefwahl an der
-Bundestagswahl in Deutschland teilnehmen.
-Dazu muss man nach Vollendung des 14. Lebensjahrs mindestens 3 Monate
-ununterbrochen in Deutschland gelebt haben und dies darf noch nicht länger
-als 25 Jahre her sein. Oder es ist nachzuweisen, dass man sich persönlich
-mit den politischen Verhältnissen in Deutschland auskennt, wobei ein
-Merkblatt extra darauf hinweist, dass es dabei nicht ausreicht, deutsche
-Medien im Ausland zu konsumieren. 
+We are Greencard holders, not American citizens, and therefore can't
+vote in the US. But German citizens residing in a foreign country are still
+eligable to vote in federal elections in Germany via absentee voting.
+The regulations require having lived at least 3 months in Germany without 
+interruptions after having completed one's 14th birthday, and this can't
+be more than 25 years ago. Alternatively, a German citizen living 
+abroad can make a case that they still have a pretty good grasp on
+what's going on in German politics, but the official flyer points out
+explicitely that it's not sufficient to claim to 
+consume German media outlets abroad.
 
 <HTMLONLY>
-<pic images/election-form.ps Dieses Formular muss der Aus\-lands\-deutsche ausdrucken, ausfüllen, und an das Wahlamt der Stadt seines letzten Wohnsitzes in Deutschland schicken.>
+<pic images/election-form.ps This official form needs to be printed out, filled in, and mailed to the electoral office of one's last residence in Germany.>
 </HTMLONLY>
 
-Nun ja, 25 Jahre sind wir ja dann doch
-noch nicht hier, also haben wir heuer per Briefwahl gewählt. 
-Ich hatte schon einmal berichtet, dass wir nicht etwa
-einfach die Briefwahlunterlagen beim deutschen Konsulat in San Francisco
-abholen können (<RBLINK>20020917#2</RBLINK>). 
-Nein, nach den <LINK>http://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_13/auslandsdeutsche|Wahlinformationen für Auslandsdeutsche</LINK> 
-mussten wir zunächst einen Antrag zur Aufnahme ins Wählerregister stellen.
-Dazu lädt man einfach von obiger Webseite den Antrag als PDF-Dokument herunter.
-Neben dem Namen, Geburtsdatum, der Passnummer und der aktuellen Adresse 
-im Ausland musste auch die Adresse drauf, unter der
-wir zuletzt in Deutschland gemeldet waren, mit dem Abmeldedatum.
+Well, it's been less than 25 years since we've moved here, and for that reason
+we voted via absentee ballot this year. I've mentioned here before that
+you can't simply get the election documents from the German consulate in
+San Francisco (<RBLINK>20020917#2</RBLINK>).
+According to the <LINK>http://www.bundeswahlleiter.de/de/bundestagswahlen/BTW_BUND_13/auslandsdeutsche|Election instructions for Germans living abroad</LINK> 
+we needed to send an application to be included in the election registry first.
+For this to happen, the absentee voter downloads a PDF document from the 
+website referenced above. It requires entering one'e name, date of birth,
+passport number, and the current foreign address, as well as the
+address of the last residence in Germany, including the date of when the
+individual officially unregistered there.
 
-<pic images/election-augsburg.ps Ein paar Wochen später kommen die Wahlunterlagen aus Augsburg nach San Francisco.>
+<pic images/election-augsburg.ps A few weeks later, the election documents from the city of Augsburg/Germany arrive in San Francisco by mail.>
+
+TODO_TRANSLATE
 
 Wie gut, dass ich immer alles aufhebe und abhefte. Dann mussten wir
 natürlich noch versichern, dass wir schon 18 und somit wahlberechtigt sind
