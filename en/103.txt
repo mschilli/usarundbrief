@@ -7,50 +7,52 @@ San Francisco, 09-21-2013
 <em>Angelika</em>
 Twenty-four years ago, on October 17th, 1989, to be precise,
 a 6.9 earthquake rattled San Francisco, and caused severe damage
-to the Bay Bridge, connecting the cities San Francisco and Oakland.
-A part of the upper platform slammed down on the lower one, killing
-one female driver. Shortly after, it became evident that the bridge
-wouldn't withstand another blow and would need to be replaced urgently.
+to the Bay Bridge, which connects the cities San Francisco and Oakland.
+A part of the upper deck slammed down on the lower part, killing
+one driver while crossing the bridge. 
+Shortly after the quake, it became evident that the bridge
+wouldn't withstand another blow and would need to be replaced 
+urgently.
 And this was the beginning of the struggle for the new bridge: 
-Discussed were building cost, design, suspension bridge or not, one or
-two stories, with foot and bicycle paths or without? What made matters
-worse was the two cities, San Francisco and Oakland, had to agree on
+Discussed were various building cost and design issues, 
+like should it be a suspension bridge or not, one or
+two decks again, or with foot and bicycle paths? What made matters
+worse was that the two cities, San Francisco and Oakland, had to agree on
 all issues. Both cities were run by big-headed mayors, Willie Brown in San
 Francisco, and Jerry Brown, now governor of California, then mayor of 
 Oakland. It took forever to build, but finally, after 24 years of 
 construction drama, on September 3rd, 2013, the new bridge was 
 opened to the public.
 
+Only the eastern span is new, which connects Oakland and Yerba Buena Island
+in the middle of the Bay. The western span, leading drivers
+over the waters again all the way to San Francisco, remained unchanged. 
+The original bridge span dates back to the 1930ies, and to make sure
+it will withstand the next earthquake, it was retrofitted with new 
+steel beams by the civil engineers in charge. The construction work on
+the new eastern span began in January 2002, which runs alongside the
+old bridge. In 2009 the drama continued: During routine checks, 
+Engineers found cracks in one of the steel beams (<RBLINK>20091104#5</RBLINK>),
+which lead to heated discussions about whether the steel parts for the
+new span, which were manufactured in China, where a cheap product
+"Made in China". Shortly before the grand opening, however, it was
+discovered that the steel bolts for earthquake-proofing the bridge 
+were showing cracks as well. Ironically, those weren't "Made in China", 
+but "Made in USA". This lead to another round of discussions about
+whether the bridge could even be reopened with the defective bolts or 
+if it was prudent to wait and replace them.
+
+The consensus was, after all, that it would be more dangerous to drive
+over the old bridge during an earth quake, than over the new bridge
+with its defective bolts, even though repairing them would take months.
+As you can see, the project wasn't exactly inspiring confidence. 
+What I found quite sad personally, was that because of this glitch, 
+the grand opening celebrations, which had been planned for months
+in advance, were cancelled entirely. 
+
+<pic images/bb-angelika.ps Angelika on the new Bay Bridge footpath. The new bridge is on the left, the remains of the old one on the right.>
+
 TODO_TRANSLATE
-
-Nur der östliche Teil ist neu, also der Abschnitt der Oakland mit Yerba Buena
-Island in der Mitte verbindet. Der westliche Teil, der den Autofahrer dann
-wieder übers Wasser nach San Francisco leitet, blieb bestehen.
-Dieser ürsprüngliche Brückenteil stammt aus den 30er Jahren,
-als die Brücke eröffnet wurde, allerdings wurde er
-erdbebensicherer gemacht. Ingenieure
-tauschten zum Beispiel tragende Stahlelemente aus. Im Januar 2002 begann der
-Neubau des neuen östlichen Brückenabschnitts, der parallel zu der alten
-Brücke verläuft. Und das Drama ging weiter: 2009 fanden Ingenieure bei
-Kontrollen Risse in einem Stahlträger (<RBLINK>20091104#5</RBLINK>),
-worauf heftige Diskussionen entbrannten, ob es sich bei
-dem Stahl für den neuen Teil, der aus China kam, um ein Billigprodukt "Made
-in China" handelte. Kurz vor der Fertigstellung der Brücke entdeckten
-Ingenieure, dass
-die riesigen Stahlbolzen, die die neue Brücke im Fall eines Erdbeben
-stabilisieren sollen, bereits Risse aufwiesen. Die Bolzen kamen allerdings
-dieses Mal nicht aus China sondern von einer amerikanischen Firma. Wieder
-gab es Streit: Kann man die Brücke überhaupt eröffnen oder
-müssen die defekten Bolzen erst repariert werden?
-Man einigte sich schließlich, dass es gefährlicher wäre, während
-eines Erdbebens über die alte Brücke zu fahren, als über die neue
-mit den defekten Bolzen, auch wenn deren Reparatur
-Monate in Anspruch nehmen wird. Nicht
-gerade vertauenserweckend, das ganze Unternehmen. Wegen der Misere sagte man
-allerdings kurzerhand die groß geplante Eröffnungsfeier ab, was ich
-persönlich sehr schade fand.
-
-<pic images/bb-angelika.ps Angelika auf dem Fußgängerweg, links die neue, rechts die alte Bay Bridge.>
 
 Nun musste aber noch der neue östliche Teil mit dem alten westlichen
 Teil verbunden werden. Um dies zu vollbringen, schloss man kurzer Hand die
