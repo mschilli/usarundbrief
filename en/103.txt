@@ -191,7 +191,7 @@ for little money.
 
 <pic images/weirdstuff-aisle.ps Cheap computer components for sale on the shelves.>
 
-<pic images/weirdstuff-receipt.ps Six dollars buy more stuff at Weirdstuff than $20 at a regular store.>
+<pic images/weirdstuff-receipt.ps Six Dollars buy more stuff at Weirdstuff than 20 Dollars at a regular store.>
 
 It's no secret that I like to to tinker with all kinds of components and
 assemble them to create new inventions. If I bought the parts at a regular
