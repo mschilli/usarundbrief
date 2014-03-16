@@ -165,23 +165,23 @@ magazine that many German citizens refrain from voting these days and it's
 considered to be socially acceptible. I hope you're not one of these
 people, go to the voting booth, every vote counts!
 
-TODO_TRANSLATE
+@Z: Weirdstuff Recycling
 
-@Z: Weirdstuff Wertstoffhof
-
-<pic images/weirdstuff-entrance.ps Der Laden "Weirdstuff" in Sunnyvale verkauft gebrauchte Computerteile.>
+<pic images/weirdstuff-entrance.ps The "Weirdstuff" warehouse in Sunnyvale sells used computer parts.>
 
 <em>Michael</em>
-Bis vor wenigen Jahren gingen Amerikaner mit Umweltschutz oder Recycling
-eher achselzuckend um, aber mittlerweile ist es extrem angesagt,
-"Green" zu sein. In früheren Rundbriefen haben wir schon darüber berichtet,
-wie man alte Fernseher los wird (<RBLINK>20101219#4</RBLINK>) oder
-unsere Mülltonnen (<RBLINK>20060215#4</RBLINK>) in San Francisco
-getrennt belädt.
+Until a few years ago, Americans didn't care much about saving the
+environment or recycling, but nowadays it's extremly hip to be "green".
+In previous editions of this newsletter, we've explained how to correctly
+dispose of old TV sets (<RBLINK>20101219#4</RBLINK>) or to separate 
+garbage into the different bins provided in San Francisco 
+(<RBLINK>20060215#4</RBLINK>).
 
 <HTMLONLY>
-<pic images/weirdstuff-map.ps "Weirdstuff" ist in Sunnyvale gleich um die Ecke vom Yahoo-Hauptquartier.>
+<pic images/weirdstuff-map.ps The "Weirdstuff" warehouse is located in Sunnyvale, just around the corner from Yahoo headquarters.>
 </HTMLONLY>
+
+TODO_TRANSLATE
 
 Für Computerschrott steht im Silicon Valley in der Stadt Sunnyvale
 (direkt um die Ecke bei Yahoo) in einem Lagerhallenviertel an der
