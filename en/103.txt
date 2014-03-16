@@ -181,32 +181,31 @@ garbage into the different bins provided in San Francisco
 <pic images/weirdstuff-map.ps The "Weirdstuff" warehouse is located in Sunnyvale, just around the corner from Yahoo headquarters.>
 </HTMLONLY>
 
+If you want to get rid of old computer parts in Silicon Valley, there's
+an nondescript store called <LINK>http://weirdstuff.com|Weirdstuff</LINK>
+at address 384 West Caribbean Drive in Sunnyvale in a warehouse neighborhood,
+just around the corner from Yahoo headquarters. At the back entrance,
+there's a drop-off where workers collect donated components, and the store
+in front has usable parts nicely sorted on long shelves for sale 
+for little money.
+
+<pic images/weirdstuff-aisle.ps Cheap computer components for sale on the shelves.>
+
+<pic images/weirdstuff-receipt.ps Six dollars buy more stuff at Weirdstuff than $20 at a regular store.>
+
+It's no secret that I like to to tinker with all kinds of components and
+assemble them to create new inventions. If I bought the parts at a regular
+computer store, it'd cost me an arm and a leg. Often times, used parts
+are perfect for the job, and I can get them cheaply at Weirdstuff during
+my lunch break. And the staff is easy-going there, I've had items with
+no price tag on them at the register, and the cashier just 
+asked "Two bucks okay?" to which I replied "Sure!", handing over 
+two dollars plus tax ($2.18). Good deal, for a new part I would have had 
+to pay $10 easily.
+
+<pic images/weirdstuff-drop-off.ps At the back door, there's a drop-off for old electronics, which Weirdstuff either passes on to a recycling facility or sells at the store front.>
+
 TODO_TRANSLATE
-
-Für Computerschrott steht im Silicon Valley in der Stadt Sunnyvale
-(direkt um die Ecke bei Yahoo) in einem Lagerhallenviertel an der
-Adresse 384 West Caribbean Drive ein unscheinbares Geschäft namens
-<LINK>http://weirdstuff.com|Weirdstuff</LINK>. Arbeiter nehmen am Hintereingang
-nicht mehr benötigte Komponenten an, und der Laden vorne bietet noch
-brauchbare Teile schön sortiert in langen Regalen für kleines Geld
-feil.
-
-<pic images/weirdstuff-aisle.ps In den Regalen stehen Komponenten für kleines Geld.>
-
-<pic images/weirdstuff-receipt.ps Für 6 Dollar kriegt man dort mehr als in einem normalen Laden für 20.>
-
-Ich bastle bekanntlich gerne und schraube schon mal exotische Komponenten
-zu neuen Erfindungen zusammen. Wenn man dazu Komponenten oder auch
-nur Metallteile wie Halterungen im normalen Computerladen kauft, zahlt man
-richtig dick dafür. Meist tut's aber auch ein gebrauchtes Teil, das ich
-dann in der Mittagspause bei Weirdstuff kaufe. In dem Laden geht's auch
-nicht so genau zu, da pappt auf einer Ware schon öfter mal kein Preisschild
-und wenn man es zur Kasse trägt, fragt mich der Verkäufer etwa
-"2 Bucks okay?" worauf ich "Sure" sage und ihm zwei Dollar plus
-Tax (2 Dollar und 18 Cents) gebe. Fertig ist der Lack, das Teil hätte
-neu sicher 10 Dollar gekostet.
-
-<pic images/weirdstuff-drop-off.ps Am Hintereingang gibt man Elektronikmüll ab, den Weirdstuff entweder recycelt oder vorne wieder verkauft.>
 
 Am Hintereingang abgegebene unbrauchbare Teile leitet Weirdstuff dann
 vermutlich an ein
