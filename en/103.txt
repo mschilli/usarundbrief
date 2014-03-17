@@ -205,16 +205,16 @@ to pay $10 easily.
 
 <pic images/weirdstuff-drop-off.ps At the back door, there's a drop-off for old electronics, which Weirdstuff either passes on to a recycling facility or sells at the store front.>
 
-TODO_TRANSLATE
+Damaged goods donated in the back Weirdstuff apparently passes on to a
+<LINK>http://www.youtube.com/watch?v=ouelqWboHLE|Recycling Center</LINK>,
+where old monitors are taken apart and old circuit boards are being 
+chopped up for proper disposal. Functioning components, on the other hand,
+are offered for sale in the front store. The Weirdstuff guys apparently 
+are operating cost-effectively, their business seems to be 
+going well and whenever I'm there, there's always some customers 
+rummaging through the bargain bins. A win-win situtation for everyone!
 
-Am Hintereingang abgegebene unbrauchbare Teile leitet Weirdstuff dann
-vermutlich an ein
-<LINK>http://www.youtube.com/watch?v=ouelqWboHLE|Recycling-Center</LINK>
-weiter, das Monitore auseinander nimmt und Platinen zerschnetzelt und
-getrennt entsorgt. Alte Komponenten, die noch funktionieren, verkauft
-Weirdstuff dann im Laden vorne weiter. Die Jungs arbeiten anscheinend
-kostendeckend, den der Betrieb brummt und immer kruschteln Kunden in
-den Grabbelkisten. Eine Win-Win-Situation für alle!
+TODO_TRANSLATE
 
 @Z: People Behaving Badly
 
