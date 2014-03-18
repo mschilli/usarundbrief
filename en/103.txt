@@ -218,27 +218,25 @@ TODO_TRANSLATE
 
 @Z: People Behaving Badly
 
-<pic images/pbb-stanley.ps Fernsehmann Stanley Roberts steht ein für Recht und Gerechtigkeit.>
+<pic images/pbb-stanley.ps TV personality Stanley Roberts is a stickler for abiding laws.>
 
 <em>Angelika</em>
-Wenn man wie wir in einem Metropolengebiet lebt, braucht man oft viel
-Geduld, um den Alltag durchzustehen. Denn wenn zu viele Menschen
-enggepfercht zusammen leben, gibt es immer ein paar Idioten, die meinen, sie
-wären allein auf der Welt und für die Rücksichtnahme ein Fremdwort ist.
-Ich stehe mit dieser Meinung scheinbar nicht allein da, denn der lokale
-Fernsehsender Kron 4 strahlt während der lokalen
-8-Uhr-Nachrichten immer ein Segment
-mit dem schönen Titel "People Behaving Badly" (also: Leute, die sich
-daneben benehmen) aus.
+Living in a densely populated metropolitan area often requires a lot of 
+patience to get you through the day. Whenever you have a lot of people
+in a crowded space, there seem to always be a small number of inconsiderate
+idiots who think they own the place. Apparently, I'm not the only one
+thinking this way, as the local Kron 4 station here keeps airing a segment
+called "People Behaving Badly" during the daily 8 PM newscast.
 
-Der Reporter
-(<LINK>http://www.kron.com/Reporters/BehavingBadly.aspx|Stanley Roberts</LINK>)
-ist dabei mit seiner Kamera in San
-Francisco und Umgebung unterwegs und filmt Leute, die sich wenig um Gesetze
-oder die Regeln des Zusammenlebens scheren. Oft dreht es sich dabei um die
-verrückten Autofahrer in der Bay Area, so zum Beispiel Leute, die frech mit
-ihrem Auto an Bushaltestellen anhalten oder bewußt links abbiegen, obwohl sie
-wissen, dass es an der Kreuzung nicht erlaubt ist.
+<LINK>http://www.kron.com/Reporters/BehavingBadly.aspx|Stanley Roberts</LINK> is
+the reporter scouting San Francisco and the surrounding area with his camera
+man for people who have little 
+respect for local laws or the rules of common courtesy.
+Often times, he targets conspicuous drivers in Bay Area traffic, like
+people who take the liberty to illegally park at bus stops or make left
+turns, although they're well aware that that's not allowed at a particular
+intersection.
+
 Viele senden an der Ampel stehend schnell eine SMS, obwohl dergleichen
 in Kalifornien schon lange verboten ist.
 Das ist eine Unsitte, die mir auch jedes Mal den Blutdruck in die Höhe
