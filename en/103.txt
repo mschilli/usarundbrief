@@ -214,8 +214,6 @@ are operating cost-effectively, their business seems to be
 going well and whenever I'm there, there's always some customers 
 rummaging through the bargain bins. A win-win situtation for everyone!
 
-TODO_TRANSLATE
-
 @Z: People Behaving Badly
 
 <pic images/pbb-stanley.ps TV personality Stanley Roberts is a stickler for abiding laws.>
@@ -236,6 +234,8 @@ Often times, he targets conspicuous drivers in Bay Area traffic, like
 people who take the liberty to illegally park at bus stops or make left
 turns, although they're well aware that that's not allowed at a particular
 intersection.
+
+TODO_TRANSLATE
 
 Viele senden an der Ampel stehend schnell eine SMS, obwohl dergleichen
 in Kalifornien schon lange verboten ist.
