@@ -275,28 +275,26 @@ person with integrety would lump them all together and rate them as a whole.
 
 <pic images/vb-cruiser-1.ps (#1) The sandy beaches of Venice Beach are several miles long and are best explored on a "Beach Cruiser".>
 
-TODO_TRANSLATE
-
-Wir fühlen uns zum Beispiel in "Venice" sehr wohl. Diese Gegend von L.A.
-kennt ihr vielleicht wegen dem "Muscle Beach", an dem bekanntlich schon
-Arnold Schwarzenegger in den Achziger-Jahren seine Muskeln
-in dem öffenlichen Freiluft-Fitnesscenter am Strand stärkte. Heutzutage
-stemmt dort kaum noch jemand Hanteln, aber wir haben uns Fahrräder gemietet
-und sind am breiten Sandstrand entlang fast bis hoch nach Malibu gefahren.
-In Abbildung (#1) seht ihr Angelika mit einem sogenannten Cruiser-Fahrrad,
-einer Art Hollandfietze mit extra breitem Sattel und bequem montierten
-Lenker zum langsamen Entlangdüsen an der Strandpromenade. Hat schlappe
-$20 pro Tag und Fahrrad gekostet. Zum Vergleich: Mietautos in Los Angeles
-kriegt man ebenfalls oft schon für $20 am Tag! Im Korb von Angelikas Fahrrad
-in Abbildung (#1)
-liegt übrigens, wenn ihr das Bild vergrößert und genau hinseht,
-ein Rucksack mit einem unauffälligen "Y!"-Logo. Das ist,
-sagt's nicht weiter, das geheime Erkennungszeichen eines Yahoo-Mitarbeiters.
-Neulich hat uns in Las Vegas jemand deswegen im Hotelaufzug angesprochen.
+For instance, we really enjoy staying in Venice. You might have heard of
+"Muscle Beach", where the early Arnold Schwarzenegger kept toning his
+body at the outdoor gym on the beach there way back when in the eighties.
+Nowadays, hardly anyone is pushing weights there today anymore, but we
+rented bicycles and rode along the beach almost all the way up to Malibu.
+In Figure (#1) you can admire Angelika on her beach cruiser, which
+is similar to a dutch bike with an extra wide saddle and a comfortably
+mounted handle bar for cruising along the board walk at the beach.
+They charged a whopping $20 per day for it! Just to compare: Rental cars
+in the Los Angeles area are about the same price. By the way, 
+check out the basket in front of Angelika's cruiser in Figure (#1), 
+you can see a backpack with a rather unassuming "Y!" logo. Don't tell
+anyone, but that's the secret giveaway of someone working at Yahoo. 
+Recently, someone approached us in an elevator in Las Vegas because of it.
 
 <HTMLONLY>
-<pic images/vb-muscle-total.ps Hat auch schon bessere Zeiten gesehen: Die Hantelschwinger-Plattform am Muscle-Beach.>
+<pic images/vb-muscle-total.ps Has seen better times: The dumbells wielder platform on Muscle Beach.>
 </HTMLONLY>
+
+TODO_TRANSLATE
 
 Die Strandpromenade ist
 heutzutage eine interessante Mischung aus Touristen, gestrandeten
