@@ -277,7 +277,7 @@ person with integrity would lump them all together and rate them as a whole.
 
 For instance, we really enjoy staying in Venice. You might have heard of
 "Muscle Beach", where the early Arnold Schwarzenegger kept toning his
-body at the outdoor gym on the beach there way back when in the eighties.
+body at the outdoor gym on the beach way back when in the eighties.
 Nowadays, hardly anyone is pushing weights there today anymore, but we
 rented bicycles and rode along the beach almost all the way up to Malibu.
 In Figure (#1) you can admire Angelika on her beach cruiser, which
@@ -294,21 +294,18 @@ Recently, someone approached us in an elevator in Las Vegas because of it.
 <pic images/vb-muscle-total.ps Has seen better times: The dumbells wielder platform on Muscle Beach.>
 </HTMLONLY>
 
-TODO_TRANSLATE
+The Venice boardwalk displays an interesting mix of tourists, stranded runaways,
+dubious characters, and homeless people. In winter, the area is pretty much
+dead, but during the summer months the hustle and bustle until late at night
+is quite appealing. On the beach, every Joe Schmoe owning a drum can join the
+<LINK>http://www.youtube.com/watch?v=2ieXzgmDCxA|Drummers of Venice Beach|Drummers of Venice Beach</LINK> and hammer away for hours to hot rhythms. 
+Booth dealers sell all kinds of nicknacks, from henna tattooes to painted
+skulls. The stores along the boardwalk also offer a broad array of
+merchandize, from tourist shops selling t-shirts with tintillating
+imprints, to tattoo parlors, or doctors who write marihuana prescriptions
+for $40, to hash pipe supply shops.
 
-Die Strandpromenade ist
-heutzutage eine interessante Mischung aus Touristen, gestrandeten
-Existenzen, zwielichtigen Gestalten und Obdachlosen. Im Winter braucht
-ihr da nicht hinzufahren, aber im Sommer ist dort echt die Hölle los.
-Am Strand kann sich jeder, der eine Trommel besitzt, den
-<LINK>http://www.youtube.com/watch?v=2ieXzgmDCxA|Trommlern von Venice Beach|Trommerl von Venice Beach</LINK>
-anschließen und stundenlang
-heiße Rhythmen hämmern. Händler bieten allen möglichen Krimskrams vom
-Henna-Tattoo bis zu bemalten Totenköpfen feil, in den Läden an der Promenade
-steht ein breites Sortiment zum Verkauf, von Touri-Läden mit T-Shirts mit
-anzüglichen Aufdrucken, über Tätowier-Studios, oder Doktoren, die für $40
-ein Rezept für medizinisches Marihuana ausstellen,
-bis zum Haschpfeiferlgeschäft ist da eigentlich alles dabei.
+TODO_TRANSLATE
 
 <pic images/vb-doctor.ps Diese Mitarbeiter lotsen Touristen in eine Praxis, in der ein Arzt für 40 Dollar ein Rezept für medizinisches Marihuana ausstellt.>
 
