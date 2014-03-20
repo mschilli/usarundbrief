@@ -259,24 +259,23 @@ issue after all, which makes "People Behaving Badly" such a success,
 because Stanley Roberts seems to be the only righteous person 
 who points out the culprits.
 
-TODO_TRANSLATE
-
 @Z: Venice Beach
 
-<pic images/vb-see-and-be-seen.ps Sehen und gesehen werden an der Strandpromenade von Venice Beach.>
+<pic images/vb-see-and-be-seen.ps See and be seen on the boardwalk of Venice Beach.>
 
 <em>Michael</em>
-Einwohner der Stadt San Francisco und der umliegenden "Bay Area" können
-Los Angeles ja auf den Tod nicht ausstehen, aber wir stehen bekanntlich
-über solchen Vorurteilen und fahren hin und wieder runter. Dazu muss man
-sagen, dass der Amerikaner, wenn er "Los Angeles" sagt
-gar nicht nur die Innenstadt selbst meint, sondern eine Ansammlung von
-ein paar Dutzend Vororten, die sich lose zu einer Metropole
-zusammenkoppeln, in der 20 Millionen Menschen leben. Jeder dieser Vororte
-ist komplett anders, und wer Los Angeles queerbeet pauschal beurteilt,
-hat schlichtweg keine Ahnung.
+Residents of San Francisco and the surrounding Bay Area fancy cultivating
+a long tradition of absolutely hating everything about Los Angeles, but
+we don't subscribe to such prejudices and travel down there every once in
+a while. Also, when Americans say "Los Angeles", they actually don't mean
+the downtown district, but an eclectic conglomerate of suburbs forming a 
+gigantic metropolitan area home to some 20 million people. Every
+single one of these neighborhoods is completely different and no
+person with integrety would lump them all together and rate them as a whole.
 
-<pic images/vb-cruiser-1.ps (#1) Am kilometerlangen Sandstrand von Venice Beach fährt man am besten auf einem "Beach-Cruiser" entlang.>
+<pic images/vb-cruiser-1.ps (#1) The sandy beaches of Venice Beach are several miles long and are best explored on a "Beach Cruiser".>
+
+TODO_TRANSLATE
 
 Wir fühlen uns zum Beispiel in "Venice" sehr wohl. Diese Gegend von L.A.
 kennt ihr vielleicht wegen dem "Muscle Beach", an dem bekanntlich schon
