@@ -358,25 +358,25 @@ world class sushi requires much more than just slicing fresh fish
 
 <pic images/vb-skaters.ps What are these three teenagers up to?>
 
+This amazing multitude of dining options creates a fierce competition
+between the restaurants, resulting in highly critical patrons who
+will start complaining immediately
+if dishes that are not 100% satisfactory. That's a great incentive even 
+for the smallest establishment to excel, because if they don't, it doesn't
+take long until the word gets around on sites like
+<LINK>http://yelp.com|Yelp</LINK> and they'll be forced to shut down 
+because of slowing business.
+
+<pic images/vb-wurstkueche-outside.ps Believe it or not, there's a restaurant called "Wurstküche" in Los Angeles.>
+
+No doubt international cuisine is equally top-notch in such a melting pot of
+nations. Whether it's the tiny sandwich deli around the corner or the 
+spanish bodega in a small alley, or a German-infused sausage heaven named
+"Wurstküche", where the barman pours a microbrew named "Zwickl" imported
+from the German city of Bayreuth: There's always something special about
+a place to distinguish themselves from the rest of the pack.
+
 TODO_TRANSLATE
-
-In Los Angeles herrscht eine gnadenlose Konkurrenz zwischen den
-Restaurants, es gibt so viele gute, dass die Leute total verwöhnt sind
-und sofort herummäkeln, wenn irgend etwas nicht hundertprozentig
-schmeckt. Das spornt auch den Betreiber der kleinsten Spelunke an,
-denn falls das Essen nichts taugt, spricht sich das schnell auf
-Internetseiten wie <LINK>http://yelp.com|Yelp</LINK> herum, und er
-kann den Laden wegen gähnender Leere dichtmachen.
-
-<pic images/vb-wurstkueche-outside.ps In Los Angeles gibt es tatsächlich ein Restaurant namens "Wurstküche".>
-
-Und natürlich schmeckt in einem brodelnden Topf geschmischter Nationen wie
-Los Angeles internationales Essen allgemein ganz hervorragend. Ob das nun
-Sandwiches vom Miniladen um die Ecke sind, der Spanier in der kleinen Gasse oder
-ein deutsch angehauchtes Wurstetablissement namens "Wurstküche", in dem
-der Barmann Kellerbier der Firma "Zwickl" aus Bayreuth ausschenkt: Immer
-ist irgendein besonderer Kick dabei, damit sich ein Laden aus der
-unüberschaubaren Masse abhebt.
 
 @Z: Poke
 
