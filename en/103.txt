@@ -380,36 +380,31 @@ TODO_TRANSLATE
 
 @Z: Poke
 
-<pic images/poke-plate.ps Lecker roher Thunfisch angemacht mit Sojasoße: Shoyu Poke.>
+<pic images/poke-plate.ps Delicious raw tuna prepared with soy sauce: Shoyu Poke.>
 
 <em>Angelika</em>
-Poke haben wir schon vor geraumer Zeit bei einer unserer Reisen nach Hawaii
-entdeckt und da wir ja beide absolute Fans von rohem Fisch und japanischer
-Küche sind, traf dieses delikate hawaiianische Gericht gleich wohlwollend
-auf unsere Geschmacksnerven. Poke isst man seit Jahr und Tag auf Hawaii und
-das Gericht erfreut sich so großer Beliebtheit, dass man in jedem
-beliebigen Supermarkt auf Hawaii eine Poke-Theke findet, vergleichbar mit
-den Wurst- oder Käsetheken in Deutschland.
+We discovered the Hawaiian dish "Poke" (pronounced "po-kah") on one of 
+our trips to the islands and since we're both really into raw fish and
+Japanese cuisine, it really hit it off with our taste buds. It's a very
+traditional and common fish preparation technique on Hawaii, where you can
+buy it at any supermarket's Poke counter, similar to cheese or meat counters
+in Germany.
 
-<pic images/poke-label.ps Sogar der Costco-Supermarkt in San Francisco verkauft zuweilen Poke zu 15.99 das Pfund.>
+<pic images/poke-label.ps Even Costco in San Francisco started selling Poke at 15.99 Dollars a pound.>
 
-Poke bedeutet übersetzt "in
-kleine Stücke schneiden". Traditionell besteht es aus rohem, in Würfel
-geschnittenem Thunfisch, der mit Soßen und Gewürzen wie zum Beispiel
-Sojasoße, Sesamöl, Seesalz, oder
-hawaiianischem Seetang (limu) angereichert
-wird. Auch Mauizwiebeln, die sehr mild und fast etwas süßlich schmecken
-oder Knoblauch findet der Feinschmecker in dem Gericht.  Es werden auch
-andere Fischsorten wie zum Beispiel Tintenfisch ("Tako Poke") zu Poke
-verarbeitet.
+Poke means "cut into small pieces", and the traditional preparation is 
+cubed raw tuna, with added sauces and spices, like soy sauce, sesame oil,
+sea salt or Hawaiian sea weed (limu). In some variations, the 
+connoisseur finds the mild and almost sweet tasting Maui onions, or garlic.
+And there's even Poke made from other types of fish, like 
+octopus ("tako poke").
 
-Wenn wir auf Hawaii sind, essen wir jeden Tag Poke und hier
-fehlt uns der leckere Fischsalat dann. Allerdings entdeckte Michael neulich,
-dass sein geliebter Costco in San Francisco doch tatsächlich frisch
-gemachtes Poke verkauft.
-Zwar nicht in der Auswahl und Vielfalt, die wir von Hawaii gewohnt sind,
-aber immerhin. So gibt es jetzt des öfteren bei uns am Wochenende
-Poke zum Mittagessen. Lecker!
+Whenever we're on Hawaii, we eat Poke almost every day, and when we're
+back in San Francicso, we miss having it. But Michael discovered the other
+day, that his beloved Costco supermarket in San Francisco actually started
+selling freshly made Poke. Not in as many variations as on Hawaii, but it's
+a start. We started having Poke on the weekends here now every now and 
+then, it's delicious!
 
 @Z: Toppprodukt: Das Jawbone Up-Band
 
