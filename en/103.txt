@@ -376,8 +376,6 @@ spanish bodega in a small alley, or a German-infused sausage heaven named
 from the German city of Bayreuth: There's always something special about
 a place to distinguish themselves from the rest of the pack.
 
-TODO_TRANSLATE
-
 @Z: Poke
 
 <pic images/poke-plate.ps Delicious raw tuna prepared with soy sauce: Shoyu Poke.>
@@ -406,17 +404,20 @@ selling freshly made Poke. Not in as many variations as on Hawaii, but it's
 a start. We started having Poke on the weekends here now every now and 
 then, it's delicious!
 
-@Z: Toppprodukt: Das Jawbone Up-Band
+@Z: Top product: The Jawbone Up Band
 
-<pic images/jawbone-wrist.ps (#2) Das Gerät trägt sich wie ein Armreif.>
+<pic images/jawbone-wrist.ps (#2) The gadget is worn like a bracelet.>
 
 <em>Michael</em>
-Den ganzen Tag nur im Büro zu sitzen ist ungesund, Bewegung tut gut und wirkt
-dem sonst unausweichlichen Trend zur Wampenbildung entgegen. Aber wieviel
-Schritte geht man tatsächlich so am Tag, waren es schon genug, oder sollte
-man im Fitnessstudio noch schnell eine halbe Stunde laufen oder einen
-Abendspaziergang drauflegen? Um das herauszufinden trage ich seit Anfang
-August das Armband in Abbildung (#2).
+Sitting in the office all day is not healthy, moving around is good for
+you and helps avoiding putting on those otherwise inevitable pounds 
+around the waistline. But how many steps are you actually walking during
+the day, is it sufficient by the time you come home or should you run 
+for half an hour on the tread mill or go for a late evening walk around the 
+block on top of that? To find out about that, I've been wearing the bracelet
+in Figure (#2) since beginning of August.
+
+TODO_TRANSLATE
 
 <pic images/jawbone-total.ps Nicht genügend Schlaf gekriegt, aber mehr als 10.000 Schritte getan!>
 
