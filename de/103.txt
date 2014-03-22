@@ -397,7 +397,7 @@ unüberschaubaren Masse abhebt.
 
 @Z: Poke
 
-<pic images/poke-plate.ps Lecker roher Thunfisch angemacht mit Sojasoße: Shoyu Poke.>
+<pic images/poke-plate.ps Leckerer roher Thunfisch angemacht mit Sojasoße: Shoyu Poke.>
 
 <em>Angelika</em>
 Poke haben wir schon vor geraumer Zeit bei einer unserer Reisen nach Hawaii
