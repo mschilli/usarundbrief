@@ -409,7 +409,7 @@ then, it's delicious!
 <pic images/jawbone-wrist.ps (#2) The gadget is worn like a bracelet.>
 
 <em>Michael</em>
-Sitting in the office all day is not healthy, moving around is good for
+Sitting in the office all day is not healthy. Actively moving around is good for
 you and helps avoiding putting on those otherwise inevitable pounds 
 around the waistline. But how many steps are you actually walking during
 the day, is it sufficient by the time you come home or should you run 
@@ -417,58 +417,50 @@ for half an hour on the tread mill or go for a late evening walk around the
 block on top of that? To find out about that, I've been wearing the bracelet
 in Figure (#2) since beginning of August.
 
-TODO_TRANSLATE
+<pic images/jawbone-total.ps Didn't get enough sleep, but accomplished 10,000 steps during the day!>
 
-<pic images/jawbone-total.ps Nicht genügend Schlaf gekriegt, aber mehr als 10.000 Schritte getan!>
+The so-called Up Band by a company named Jawbone tracks how many steps
+I'm going per day and how many hours of sleep I get during the night.
+On my smartphone, I can then look at colorful graphics and check how
+many calories I've burned, how long I've been sitting around inactively
+and how many times I woke up during the night. What's more, I can program
+the band to wake me up with a gently vibration when it's about time, 
+but not when I'm deeply asleep, only when I'm already nervously moving 
+in bed. Allegedly, waking up is less brutal this way.
 
-Dieses sogenannte Up-Band von der Firma Jawbone
-misst wieviele Schritte ich
-pro Tag gehe und wie lange ich jede Nacht schlafe.
-Auf meinem Smartphone sehe ich dann in bunten Grafiken
-wieviele Kalorien ich verbrannt habe, wie lange ich untätig herumgesessen
-bin, und wie oft ich nachts aufgewacht bin. Außerdem kann ich das Band
-so einstellen, dass es mich mit leichtem Vibrieren weckt, wenn es ungefähr
-Zeit zum Aufstehen ist, aber ich nicht gerade im Tiefschlaf schlummere,
-sondern eh schon leicht herumzappele. Dann soll das Aufstehen
-angeblich weniger grausam sein.
+<pic images/jawbone-angelika.ps Angelika's tracker data also shows up in the smartphone app.>
 
-<pic images/jawbone-angelika.ps Angelikas Daten kriege ich ebenfalls auf den Schirm.>
+Since Angelika is wearing a band herself, feeds the collected data into
+her smartphone, and chose to share it with me, I can now follow along 
+with her sportive activities and make sarcastic comments if her step
+counter shows less than the recommended 10,000 steps at the end of the day.
+You can configure different goals if you like. If there's more people
+in your "team", this tends to spur competition and daily new
+records, because everyone wants to outperform the rest of the pack.
+At work at Yahoo, my colleagues actually started to rack up miles
+in the morning on training runs or hiked many miles on the weekends to
+temporarily take the lead in the group.
 
-Da Angelika ebenfalls ein Up-Band trägt, ihre Daten in ihr Mobiltelefon
-füttert, und sie für mich freigibt, kann ich ihre sportlichen Aktivitäten
-auf meinem Telefon mitverfolgen und bissige Kommentare abgeben,
-falls ihr Zähler am Abend immer noch nicht auf 10.000 steht. Das ist die
-empfohlene Anzahl der täglich zu absolvierenden Schritte, wer mehr
-oder weniger leisten möchte, kann dies entsprechend einstellen.
-Mit mehreren Leuten in einem "Team" spornt die Konkurrenz
-zu erstaunlichen Höchstleistungen an, jeder möchte den anderen überbieten.
-Bei Yahoo drehten die Leute tatsächlich extra morgendliche
-Jogging-Runden oder absolvierten am Wochenende Gewaltmärsche, um die
-Führung im Kollegenkreis zu übernehmen.
+<pic images/jawbone-night.ps Went to bed at 1:30, then a few deep sleep intervals, a few shallow ones, woke up in the morning, and fell asleep again after.>
 
-<pic images/jawbone-night.ps Um 1:30 ins Bett, ein paar Tief-, ein paar Leichtschlafphasen, und der Frühe kurz aufgewacht und wieder eingepennt.>
+The Up Band simply tracks acceleration data while you're swinging your
+arms during walking or running activities. It won't notice whether you're 
+actually moving and because of that it works just as well on a
+stepper or treadmill. It guesses the covered distance more or less
+accurately and if it's too far off, you can recalibrate it with 
+manually entered data from an external GPS tracker like the one
+built into your smartphone. Of course, you could easily trick the device
+by attaching it to a crawling toddler or a pet, but that would be cheating!
 
-Das Up-Band misst lediglich die Beschleunigungsdaten während man beim Gehen oder
-Laufen mit den Armen schlenkert, kümmert sich also nicht darum, ob man
-tatsächlich von der Stelle kommt. Es funktioniert deswegen auch auf einem
-Fitnesstrainer oder Laufband einwandfrei. Die gemessenen Kilometer stimmen
-so ungefähr, und falls sie von der tatsächlich zurückgelegten Strecke
-abweichen, lässt sich das Band mit GPS-Daten vom Smartphone nachkalibrieren.
-Natürlich könnte man das Band leicht überlisten, indem man es an einem
-Haustier oder einem krabbelndem Kleinkind festbindet, aber das wäre ja
-dann Betrug!
+<pic images/jawbone-day.ps At night, the lazy man gets busy and takes a walk down to Dolores park to fulfil the recommended number of steps.>
 
-<pic images/jawbone-day.ps Am Abend wird der Faule fleißig und wandert noch schnell zum Dolores-Park runter, um sein Tagespensum zu erfüllen.>
+The new-fangled gadget is not exactly cheap at a price of $130, and 
+if you have bad luck, it stops working after a while, as seen with some
+of my colleagues at work. But that's the price for chasing the
+latest fashion trends and being the first to try out new gadgets.
+And I can confirm that the band does turn heads and is a great conversation
+starter, it's very common that random people inquire about it. Top product!
 
-Das neumodische
-Gadget ist mit $130 nicht ganz billig, und auch noch technisch nicht ganz
-ausgereift. Im Kreis meiner Arbeitskollegen gaben manche Bänder
-nach einer Weile den
-Geist auf. Aber das ist bekanntlich der Preis dafür, auf jeder Modewelle
-mitzureiten und neue Trends als Erster auszuloten. Das Band ist außerdem
-ein Hingucker, da fragen die Leute auf Parties gleich 
-neugierig nach. Toppprodukt!
-
-Grüße aus Europas Zukunft:
+Greetings from Europe's future:
 
 Angelika \& Michael
