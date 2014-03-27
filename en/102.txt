@@ -314,7 +314,6 @@ slightly differently to them,
 boldly deviating from the climbing gym's holy scripture, and they
 failed me the first time! The second time, I did it exactly as they 
 wanted and passed. Ever since, my climbing belt has a red card hanging 
-hanging 
 from it, which authorizes me to belay other climbers. It is only applicable
 to the so-called top rope technique, which uses a fixed rope already
 installed on the route. With this, the belayer constantly keeps tightening 
@@ -325,14 +324,15 @@ For this, they require
 another, more advanced certification, and upon passing, you'll proudly 
 display a green laminated card 
 bouncing from your belt. Clearly ridiculous, but, hey, who am I to complain.
-Every installed rope comes with a belay device called a 
+Every installed rope comes with a rope-stopping device called a 
 <LINK>http://en.wikipedia.org/wiki/Grigri_(climbing)|Grigri</LINK>, which
 is dead-simple to use and allegedly 
 provides better safety than the half-mast knots we used instead in Munich. 
 Patrolling staff members make sure everyone using the Grigri holds the
-outcoming rope tighly in their hand to make sure its safety is enabled, 
-and if someone doesn't they'll approach you and remind you in no uncertain
-terms of the correct procedure.
+outcoming rope tighly in their hand and downwards, to make sure the
+Grigri's safety is enabled, and if they spot someone who doesn't, 
+they'll approach them quickly and remind them in no uncertain terms of the 
+correct procedure.
 
 TODO_TRANSLATE
 
