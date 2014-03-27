@@ -295,40 +295,46 @@ techies there, and ironically also often German-speaking immigrants.
 Almost every Wednesday, I've been hanging out there with our friends
 Bettina, Miguel, Chris and Tranquilla for quite some time.
 
+I remember that back in Munich, we just showed up at the outdoor 
+climbing facility in Thalkirchen with climbing shoes, a rope and a couple
+of hooks, and off we went up the climbing walls. In the U.S., with its
+litigious society, it's more strictly regulated. When I showed up
+at Planet Granite many years ago for the first time, the staff there 
+wanted to talk me into pay for a beginner's climbing class to learn 
+belay techniques, which I already had on auto-pilot because I had been 
+using them successfully for many years. Luckily, I convinced them to start
+their certification process for free with me, by me showing them how to 
+tighten knots and using their belay device safely.
+
+<pic images/planet-granite-high.ps I'll manage even overhanging walls if they're not too steep (this one has a rating of 5.10a) Photo: Bettina Oswald>
+
+Belaying isn't hard and an average person can learn the knots and 
+rope techniques within a couple of minutes. But I demonstrated the procedure 
+slightly differently to them, 
+boldly deviating from the climbing gym's holy scripture, and they
+failed me the first time! The second time, I did it exactly as they 
+wanted and passed. Ever since, my climbing belt has a red card hanging 
+hanging 
+from it, which authorizes me to belay other climbers. It is only applicable
+to the so-called top rope technique, which uses a fixed rope already
+installed on the route. With this, the belayer constantly keeps tightening 
+the rope, so that the climber will never fall more than a foot or two, even
+if they slip badly. But with the red card license, I'm not permitted to bring
+my own rope and lead, or belay someone leading, for that matter. 
+For this, they require
+another, more advanced certification, and upon passing, you'll proudly 
+display a green laminated card 
+bouncing from your belt. Clearly ridiculous, but, hey, who am I to complain.
+Every installed rope comes with a belay device called a 
+<LINK>http://en.wikipedia.org/wiki/Grigri_(climbing)|Grigri</LINK>, which
+is dead-simple to use and allegedly 
+provides better safety than the half-mast knots we used instead in Munich. 
+Patrolling staff members make sure everyone using the Grigri holds the
+outcoming rope tighly in their hand to make sure its safety is enabled, 
+and if someone doesn't they'll approach you and remind you in no uncertain
+terms of the correct procedure.
+
 TODO_TRANSLATE
-
-In München fiel man damals einfach mit Kletterschuhen, einem Seil und Haken 
-bewaffnet im Klettergarten Thalkirchen ein und schon ging's rauf auf die
-Wand. In Amerika ist das Ganze wegen Millionenklagen etwas strenger reguliert.
-Als ich vor vielen Jahren zum ersten Mal im Planet Granite auftauchte, 
-wollten die Betreiber mir glatt einen kostenpflichtigen Kletterkurs 
-aufschwatzen, um die einfache Seiltechnik zu lernen, die ich schon seit Jahren 
-im Schlaf beherrschte. Zum Glück ließen sie sich dazu überreden, mich 
-in einem kostenlosen Test zu zertifizieren und ich musste Seilknoten
-knüpfen und Abseiltechniken demonstrieren. 
-
-<pic images/planet-granite-high.ps Auch kleine Überhänge (hier Schwie\-rig\-keits\-grad 5.10a) schaffe ich gerade noch. Foto: Bettina Oswald>
-
-Klettern ist ja nicht schwierig und die notwendigen paar Knoten und 
-Seiltechniken lernt man in ein paar Minuten. Da ich es aber etwas anders 
-machte als 
-die heilige Verordnung des Kletterzentrums es vorschrieb, fiel ich beim 
-ersten Mal durch, bestand aber beim zweiten Versuch. Seit dem hängt an meinem
-Klettergürtel eine rote Karte, die mich zum Sichern von Kletterern autorisiert.
-Sie gilt für das sogenannte Top-Rope-Verfahren, bei dem das Kletterzentrum
-bereits ein Seil in die Wand eingehängt hat, das einen immer straff nach
-oben zieht, wenn der Sicherer richtig arbeitet, und man nie weiter als
-einen halben Meter oder so fällt, wenn man ausrutscht. 
-Vorsteigen darf ich mit der einfachen Lizenz
-nicht (und auch niemanden im Vorstieg sichern), dazu benötigt man eine weitere 
-Zertifizierung und eine dazu passende grüne Karte. Lächerlich, aber bitte.
-Außerdem hängt an jedem installierten Seil ein
-<LINK>http://en.wikipedia.org/wiki/Grigri_(climbing)|Grigri</LINK> genanntes
-Bremsgerät, sodass der Sicherer nicht mal einen Halbmastknoten knüpfen
-muss. Patroullierende Angestellte achten darauf, dass die "Belayer" genannten
-Sicherer das aus dem Grigri herauskommende Seilende immer straff in der
-Hand halten, tut man es nicht, weisen sie einen freundlich aber bestimmt
-darauf hin, dass das nicht "safe" sei.
 
 Interessant ist auch das amerikanische System für Schwierigkeitsgrade beim
 Klettern. Aus Deutschland kannte ich das "UIAA" genannte
