@@ -334,24 +334,26 @@ Grigri's safety is enabled, and if they spot someone who doesn't,
 they'll approach them quickly and remind them in no uncertain terms of the 
 correct procedure.
 
-TODO_TRANSLATE
+What's surprising is that the American grading system for climbing routes
+differs significantly from the "UIAA" system used in Germany. From way back
+when, I remembered that a "4" is a route with handles so generous 
+that you can just
+walk up there like you're climbing a ladder. A "5" offers less obvious
+ways to hold on and climbing a "6" actually requires knowing some
+climbing technique, or there's no way to proceed. The American
+grading system is quite different, as documented in
+<LINK>http://en.wikipedia.org/wiki/Grade_(climbing)#Free_climbing_2|Klettergradvergleichstabelle auf Wikipedia</LINK>, and its grades
+5.4 to 5.6 correspond to the UIAA rating of 4, the slightly higher
+5.7 to 5.9 to the UIAA 5, and more advanced 5.10a, 5.10b, 5.10c, 5.10d and 
+5.11a to the UIAA 6.
 
-Interessant ist auch das amerikanische System für Schwierigkeitsgrade beim
-Klettern. Aus Deutschland kannte ich das "UIAA" genannte
-System, nach dem ein "Vierer" eine einfache Route mit Griffen
-ist, an denen man sich wie an einer Leiter hochhangeln kann. Beim "Fünfer"
-sind die Griffe dann kleiner und beim "Sechser" muss man schon Technik
-einsetzen, um überhaupt hochzukommen. Wie man aus der
-<LINK>http://en.wikipedia.org/wiki/Grade_(climbing)#Free_climbing_2|Klettergradvergleichstabelle auf Wikipedia</LINK> entnehmen kann, sind die entsprechenden
-amerikanischen Bewertungen 5.4 bis 5.6 für den Vierer, 5.7 bis 5.9 für den
-Fünfer und 5.10a, 5.10b, 5.10c, 5.10d und 5.11a für den Sechser. 
-Die Tabelle geht noch weiter,
-aber diese Schwierigkeitsgrade schaffen dann nur noch Spinnenmenschen.
-Ich bewege mich seit Jahren so um die 5.10a bis 5.10c, an einem guten
-Tag schaffe ich vielleicht auch mal eine 5.10d. Das Kletterzentrum scheint
-interessanterweise auch als Anbandelbetrieb zu dienen, denn hin und wieder 
-veranstaltet es Singleabende, an dem sich offensichtlich Paare finden 
-können!
+There's more highly graded routes, but according to my experience, those walls 
+can only be scaled by Spiderman-like creatures. What's also interesting
+is that climbing as a hobby in the US also seems to serve as a way to meet new
+people, the climbing gym even has special events for singles to hook
+up with new prospective mates!
+
+TODO_TRANSLATE
 
 @Z: Lagavulin Whiskey
 
