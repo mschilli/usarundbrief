@@ -357,9 +357,17 @@ TODO_TRANSLATE
 
 @Z: Lagavulin Whiskey
 
-<pic images/lagavulin.ps Einer des besten Whiskeys der Welt: Lagavulin 16.>
+<pic images/lagavulin.ps One of the best Whiskeys on earth: Lagavulin 16.>
 
 <em>Michael</em>
+Whiskey, oder "whisky", as people from the UK say, is a distilled liquid, 
+mostly made from malted grains. The basis for American Bourbon whiskeys
+is usually corn, whereas scottish whiskeys ("Scotch") typically use 
+maltet barley. As you can find out by watching the unlisted 
+Youtube video <LINK>https://www.youtube.com/watch?v=4bFwABaP3Ts|Whisky. The Islay Edition</LINK>, it is especially the small scottish Island of Islay, 
+which specializes in producing so-called "peet" whiskeys by malting 
+barely with peet, which adds the typical peety, smoky scent and flavor.
+
 Whiskey, oder "Whisky", wie der Brite sagt, ist ein hoch\-pro\-zentiges 
 alkoholisches Getränk, das meistens als Destillat aus gemälztem Getreide 
 ensteht. Grundlage amerikanischer Bourbon-Whiskeys ist nor\-ma\-ler\-weise 
