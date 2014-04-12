@@ -353,8 +353,6 @@ is that climbing as a hobby in the US also seems to serve as a way to meet new
 people, the climbing gym even has special events for singles to hook
 up with new prospective mates!
 
-TODO_TRANSLATE
-
 @Z: Lagavulin Whiskey
 
 <pic images/lagavulin.ps One of the best Whiskeys on earth: Lagavulin 16.>
@@ -362,24 +360,16 @@ TODO_TRANSLATE
 <em>Michael</em>
 Whiskey, oder "whisky", as people from the UK say, is a distilled liquid, 
 mostly made from malted grains. The basis for American Bourbon whiskeys
-is usually corn, whereas scottish whiskeys ("Scotch") typically use 
+is usually corn, whereas Scottish whiskeys ("Scotch") typically use 
 maltet barley. As you can find out by watching the unlisted 
-Youtube video <LINK>https://www.youtube.com/watch?v=4bFwABaP3Ts|Whisky. The Islay Edition</LINK>, it is especially the small scottish Island of Islay, 
-which specializes in producing so-called "peet" whiskeys by malting 
-barely with peet, which adds the typical peety, smoky scent and flavor.
+Youtube video <LINK>https://www.youtube.com/watch?v=4bFwABaP3Ts|Whisky. The Islay Edition</LINK>, it is first and foremost the small scottish Island of Islay, 
+which specializes in producing so-called "peat" whiskeys by malting 
+barely over peat-fueled fire, which adds the typical marshy, 
+smoky scent and flavor. Coincidentally, if you open up your desktop
+computer and hold your nose close to the motherboard, you'll likely 
+pick up similar scents.
 
-Whiskey, oder "Whisky", wie der Brite sagt, ist ein hoch\-pro\-zentiges 
-alkoholisches Getränk, das meistens als Destillat aus gemälztem Getreide 
-ensteht. Grundlage amerikanischer Bourbon-Whiskeys ist nor\-ma\-ler\-weise 
-Mais, 
-schottische "Scotch"-Whiskeys hin\-gegen verwenden gemälzte Gerste. Wie man
-einem länglichen unge\-listeten
-<LINK>https://www.youtube.com/watch?v=4bFwABaP3Ts|Youtube-Video zur Scotch-Herstellung</LINK>
-entnehmen kann, spezialisiert sich besonders die kleine schottische Insel Islay auf sogenannte Moor-Whis\-keys, deren Gerste während des Mälzvorgangs mit 
-Torf befeuert wird und die deswegen den typischen rauchigen, 
-moorigen Geruch und Ge\-schmack aufweisen. Wenn man einen Computer aufschraubt
-und an der Platine des Motherboards herumschnuppert, schnappt man übrigens oft
-ähnliche Duftnoten auf.
+TODO_TRANSLATE
 
 <pic images/lagavulin-pronounce.ps Der Schauspieler Brian Cox probiert und demon\-striert die korrekte Aussprache schottischer Whiskeys.>
 
