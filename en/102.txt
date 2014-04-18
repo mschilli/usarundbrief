@@ -369,18 +369,21 @@ smoky scent and flavor. Coincidentally, if you open up your desktop
 computer and hold your nose close to the motherboard, you'll likely 
 pick up similar scents.
 
+<pic images/lagavulin-pronounce.ps Actor Brian Cox tastes various Scotch whiskeys and demonstrates their correct pronunciation.>
+
+I recently found out about a Scotch Whiskey named "Lagavulin". Strangely, 
+it surfaced 
+on several of my radar screens around the same time. 
+First, someone sent me a link to 
+a website featuring <LINK>http://www.esquire.com/blogs/food-for-men/scotch-whisky-brands-list-5841578|actor Brian Cox who pronounces Scotch Whiskey names|Brian Cox pronounces Scotch Whiskey names</LINK>.
+Which is not as easy as you might think, because if you apply the 
+pronunciation rules of the English language on Scottish names, 
+usually nothing sensible comes out of it, or did you wisenheimers know how
+to pronounce "Bruichladdich"?
+
 TODO_TRANSLATE
 
-<pic images/lagavulin-pronounce.ps Der Schauspieler Brian Cox probiert und demon\-striert die korrekte Aussprache schottischer Whiskeys.>
-
-Der Scotch der Marke "Lagavulin" tauchte interessanterweise auf mehreren
-Ebenen gleichzeitig auf meinen Radarschirmen auf. Erst schickte mir jemand
-einen Link auf eine Serie von Videos, in denen der 
-<LINK>http://www.esquire.com/blogs/food-for-men/scotch-whisky-brands-list-5841578|Schauspieler Brian Cox schottische Whiskeys ausspricht|Brian Cox spricht schottische Whiskeynamen aus</LINK>.
-Das ist gar nicht so einfach, wie man auf den ersten Blick vermuten würde, 
-denn wendet man die Regeln der englischen Sprache auf die schottischen 
-Namen an, kommt meist nichts Gescheites heraus. Oder wusstet ihr Klugschnacker
-etwa, wie man "Bruichladdich" ausspricht? In den Videos nennt 
+In den Videos nennt 
 Brian Cox Lagavulin den "Cognac of Whiskeys" und versichert, dass das
 Getränk wirkt wie eine Wasserbombe ("depth charge"), mit der man U-Booten
 in den Tiefen des Meeres heimleuchtet.
