@@ -401,18 +401,16 @@ by the "Parks and Rec" product placement sales goons.
 
 <pic images/lagavulin-store.ps Lagavulin is on sale at the local supermarket.>
 
-TODO_TRANSLATE
+Then, the mega supermarket chain Costco caused the next blip on my radar 
+screen. It had Lagavulin on sale and lowered the price from
+$67.99 per bottle to "only" $54.99, which is why I bought two 
+(Figure (#2)). The "Lagavulin 16" single malt ages for 16 years and has
+an extremely strong peat taste. It is to be consumed at room temperature, 
+and I've heard stories of colleagues at work who showed American 
+visitors the door after they had asked if they could get Lagavulin
+served on the rocks. Unbelievable!
 
-Der nächste Leuchtfleck auf meinem Radarschirm kam dann vom Riesensupermarkt
-Costco, der Lagavulin im Sonderangebot verkaufte. Statt $67.99 kostete 
-eine Flasche "nur" noch $54.99 und darum habe ich gleich zwei eingepackt
-(Abbildung (#2)).
-Der "Lagavulin 16" ist ein 16 Jahre gereifter "Single Malt" und schmeckt 
-extrem nach verbranntem Torf. Man trinkt ihn ausschließlich pur und bei 
-Zimmertemperatur,
-und ich habe schon Geschichten gehört, nachdem ein Arbeitskollege 
-amerikanische Gäste des Hauses verwiesen hat, die ihn gefragt hatten, ob
-er Lagavulin nicht mit Eiswürfeln im Glas servieren könne. Unglaublich!
+TODO_TRANSLATE
 
 @Z: Sommerferien
 
