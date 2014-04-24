@@ -410,27 +410,24 @@ and I've heard stories of colleagues at work who showed American
 visitors the door after they had asked if they could get Lagavulin
 served on the rocks. Unbelievable!
 
-TODO_TRANSLATE
+@Z: Summer vacation
 
-@Z: Sommerferien
-
-<pic images/camp-galileo.ps Eltern geben ihre Kinder während der Ferien im Feriencamp ab.>
+<pic images/camp-galileo.ps During the summer vacation, some parents drop off their kids at summer camp.>
 
 <em>Angelika</em>
-Auch in den USA fiebert jedes Schulkind den Sommerferien
-entgegen. Amerikanische Sommerferien sind länger als deutsche, sie dauern
-je nach Schuldistrikt zwei bis drei Monate. Für die
-Kinder in San Francisco war der letzte Schultag vor den Sommerferien der 31.
-Mai und ab 19. August müssen sie wieder die Schulbank drücken. In der Regel
-liegen die Sommerferien also in den Monaten Juni, Juli, August. 
-Es hält sich dabei das
-Gerücht, dass die langen Sommerferien historisch zustande kamen, weil im
-ländlichen Amerika die Kinder in der Landwirtschaft helfen mussten. Andere
-behaupten wieder, dass, ganz im Gegenteil, die Metropolen in den 
-Sommermonaten wegen Hitzewellen zu Brutkästen wurden und deshalb aus 
-gesundheitlichen Erwägungen heraus die Schulen im Sommer ihre Tore 
-schlossen. Wie dem auch sei, lange Sommerferien
-haben sich in den USA durchgesetzt.
+In the U.S., just like anywhere else, school kids are eagerly awaiting
+their summer vacation. With two to three months of school being closed 
+during the summer, depending on the school district, school kids here 
+have more time off than in Germany. In San Francisco, the last school day
+was May 31st, and children are returning to their classrooms on August 19th.
+Typical months for summer vacation are June, July, and August.
+Rumor has it that the reason for this choice is that formerly in rural areas, 
+children had to help with the harvest. Others claim that it's due to the
+unbearable heat during the sommer months in major metropolitan areas that
+schools are closed during this time. Be it as it may, the fact is that 
+long summer vacations enjoyed by U.S. school kids are here to stay.
+
+TODO_TRANSLATE
 
 Was machen nun aber die Kinder in den langen Sommerferien in einem Land, in dem
 häufig  beide Eltern arbeiten und der Urlaub der Eltern oft nur zwei Wochen
