@@ -427,21 +427,21 @@ unbearable heat during the sommer months in major metropolitan areas that
 schools are closed during this time. Be it as it may, the fact is that 
 long summer vacations enjoyed by U.S. school kids are here to stay.
 
-TODO_TRANSLATE
+But what are children supposed to do with their free time during the long
+summer vacation, when, as in many families in the U.S., both parents are
+working and often are granted only two weeks off? One option is the
+so-called summer school, where children can catch up on school matters, to
+get their grades up. However, this is usually only offered for children
+in high school. Also, many universities are offering sommer classes which 
+many students take advantage of to speed up getting their degree. Children
+with special needs, even if they're usually integrated in regular classrooms,
+usually receive four weeks of extra lessons and therapy 
+(speech therapy, ergo therapy, etc.), because the long time off school can
+lead to a loss of skills they've already acquired. This is called "extended
+school year", and the children I work with mostly get four weeks of extra
+classes.
 
-Was machen nun aber die Kinder in den langen Sommerferien in einem Land, in dem
-häufig  beide Eltern arbeiten und der Urlaub der Eltern oft nur zwei Wochen
-pro Jahr beträgt? Zunächst einmal gibt es die sogenannte Sommerschule
-("summer school"), in der Stoff nachgeholt wird, um den
-Notendurchschnitt anzuheben. In der Regel kommt dies aber erst in höheren
-Klassen vor, zum Beispiel in der High School. Auch viele Universitäten bieten
-im Sommer Kurse an, die einge Studenten auch nutzen, um ihr Studium zu
-beschleunigen. Sonderschüler, auch wenn sie normalerwise in
-Integrationsklassen lernen, erhalten in der Regel vier Wochen zusätzlichen
-Unterricht und Therapie (Logopädie, Ergotherapie etc.), weil die langen Ferien
-unter Umständen dazu führen, dass sie erworbene Fähigkeiten verlieren. Das
-Ganze nennt sich dann erweitertes Schuljahr ("Extended School Year"). Die
-Kinder, mit denen ich  arbeite, erhalten meist vier Wochen Unterricht.
+TODO_TRANSLATE
 
 Und dann gibt es noch die Camps ("Summer Camps"). Früher habe ich immer
 geglaubt, dass jedes amerikanische Kind im Sommer ins Camp abgeschoben wird 
