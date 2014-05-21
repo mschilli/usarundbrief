@@ -441,40 +441,37 @@ lead to a loss of skills they've already acquired. This is called "extended
 school year", and the children I work with mostly get four weeks of extra
 classes.
 
-TODO_TRANSLATE
+And then there's the so-called "summer camps". I used to believe that 
+every American child gets dropped off at a scout camp during summer,
+where they learn how to start bonfires and carve wooden figurines. 
+Imagine a group of distressed teachers who have to spend the night 
+in wooden cottages next to oodles of children! But while such overnight
+stay camps still exist, there's lots more choices nowadays, like surf camps,
+trips where children learn foreign languages, adventure tours or camps
+that teach how to make movies, believe it or not, 
+in the streets of New York or Paris.
+Younger children often attend "day camps" and sleep at home at night. 
+There's lots of different choices there was well. During the summer months,
+I'm often accompanying a child with autism I work with to a summer camp,
+to help him integrate into the camp group. In San Francisco and the
+surrounding Bay Area, <LINK>http://www.galileo-camps.com|Camp Galileo</LINK>
+has a good reputation. I just went there last week with one of the children
+I work with. Every week, they're teaching a different subject, like
+space travel, tropical safaris, or medieval times. Children at the camp
+are playing games, tinker with materials, and run small scientific 
+experiments. Their parents sign them up for one week, or sometimes 
+even for several weeks in a row. It is not exactly cheap, though, one week
+at the Galileo Camp, which runs from 9am till 3pm daily, clocks in at
+about $360 to $380, but they offer discounts for additional weeks.
 
-Und dann gibt es noch die Camps ("Summer Camps"). Früher habe ich immer
-geglaubt, dass jedes amerikanische Kind im Sommer ins Camp abgeschoben wird 
-und als Pfadfinder Feuermachen und Holzschnitzen lernt.
-Die Vorstellung,
-dass man dabei in Holzhütten neben einem Haufen Kinder schläft war mir immer
-ein Graus. Diese Übernachtungscamps gibt es zwar immer noch, aber meine
-Vorurteile entsprechen natürlich nicht der Wirklichkeit, denn im Angebot sind
-Surfcamps, Sprachreisen, Abenteuercamps oder Camps, in denen der Schüler
-lernt, Filme zu machen, und zwar in den Straßen von New York oder Paris. 
-Viele Kinder,
-gerade jüngere, besuchen aber sogenannte Tagescamps, d.h., sie sind tagsüber
-im Camp und schlafen aber zu Hause. Auch hier gibt es eine bunte Auswahl von
-den unterschiedlichsten Camps. Im Sommer bin ich häufiger mit einem meiner
-autistischen Kinder von der Arbeit im Camp mit dabei, um bei der 
-Integration in die Campgruppe
-zu helfen. In San Francisco und der Bay Area hat zum Beispiel das 
-<LINK>http://www.galileo-camps.com|Camp Galileo</LINK>
-einen guten Ruf, bei dem ich gerade letzte Woche mit einem meiner
-betreuten Kinder war. Jede Woche nimmt das Camp Galileo einen anderen
-Themenschwerpunkt durch. 
-Themen sind zum Beispiel Raumfahrt, Safari, Mittelalter und
-die Kinder machen Spiele, Bastelangebote und kleine naturwissenschaftliche
-Experimente. Die Eltern können ihre Kinder entweder nur für eine Woche
-anmelden oder gleich für mehrere. 
-Der Spaß ist allerdings nicht ganz billig. Eine
-Woche Galileo Camp von 9 bis 15 Uhr kostet $360-380 pro Woche, wird aber
-pro Woche billiger, wenn das Kind mehrere Wochen mit dabei ist.
-Man kann schon auch günstigere Camps finden, aber die
-sind oft von der Qualität her nicht so gut. Die Camp-Mitarbeiter sind in der
-Regel enthusiastische Studenten, die sich in den Semesterferien Geld dazu
-verdienen wollen. So einfach stelle ich mir den Job allerdings nicht vor, da
-man sich ja ständig auf neue Rabauken einzustellen hat.
+You can probably find less expensive offerings, but their programs often
+are lacking in quality. The camps are typically run by enthusiastic
+college students, who take the opportunity to make some money on the side
+during their summer vacation. I'm not sure, though, if they realize how
+exhausting this job can be, because they continually have to
+adapt to new rascals coming on board!
+
+TODO_TRANSLATE
 
 @Z: Vacation Rental By Owner
 
