@@ -471,56 +471,48 @@ during their summer vacation. I'm not sure, though, if they realize how
 exhausting this job can be, because they continually have to
 adapt to new rascals coming on board!
 
-TODO_TRANSLATE
-
 @Z: Vacation Rental By Owner
 
-<pic images/vrbo-patio.ps Michael auf dem Balkon eines Ferienhauses auf Hawaii.>
+<pic images/vrbo-patio.ps Michael sitting on the patio of a vacation rental on Hawaii.>
 
-<em>Angelika</em> 
-Im März fuhren wir einmal wieder kurz entschlossen nach
-Hawaii auf die Insel Oahu. Schon seit langem gehen wir nicht mehr ins Hotel,
-sondern mieten uns eine Ferienwohnung, denn in unserem Lieblingsort Kailua gibt
-es eh keine Hotels. Da wir genau wissen, was wir wollen und uns in Kailua
-mittlerweile ganz gut auskennen, buche ich immer über die Website "vrbo.com"
-("Vacational Rental by Owner").
-Hier stellen die Eigentümer ihre Ferienwohnungen, und zwar welweit, vor,
-deshalb auch der Name "Ferienwohnungen zu mieten vom Besitzer".
+<em>Angelika</em>
+In March, we once again packed our bags and went on a trip to the Hawaiian 
+island of Oahu. We've given up on hotels for quite some time already, and
+nowadays always rent vacation homes, not only because there's no hotels in
+our favorite spot, Kailua. Since we know exactly what we want and have become
+pretty familiar with the neighborhood, I always get a place to stay via
+"vrbo.com" ("Vacational Rental by Owner"). On the site, owners offer their
+vacation homes from around the world for rent.
 
-Sucht ihr eine Ferienwohnung auf Oahu, klickt man erst auf die
-USA-Karte, dann auf den Bundesstaat Hawaii, dann auf die Insel Oahu und dann
-werden Häuser und Wohnungen in den unterschiedlichen Orten angeboten. Die
-Suche kann man dann weiter einschränken: Wieviele Schlafzimmer braucht
-man, soll die Ferienwohnung direkt am Strand sein, zu welchem Zeitpunkt will
-man mieten? Dann schickt der Urlaubshungrige eine E-Mail an den Vermieter
-über die Webseite und in der Regel kontaktieren diese einen innerhalb von 1-2
-Tagen. 
+If you're looking for a place on Oahu, click on the US map, then drill down
+to the state of Hawaii, then on the island of Oahu, and you'll see various
+offerings in different locations on the island. Filtering by the number
+of bedrooms required, whether ocean front is a must, or availability by 
+a preset date narrows down the search. Inquiries to property owners are 
+usually answered within one or two days. 
 
-<pic images/vrbo-inside.ps Typisch hawaiianisch: Holzfußboden und Rattanmöbel>
+<pic images/vrbo-inside.ps Typical vacation rental on Hawaii: wooden floors and rattan style furniture.>
 
-Bei den Wohnungen, die wir bis jetzt gebucht haben, mussten wir dann
-immer eine Anzahlung von ein paar hundert Dollar berappen und einen
-unterschriebenen Vertrag an den Besitzer schicken. Vier Wochen vor Beginn des
-Urlaubs will der Besitzer dann die ganze Mietsumme haben. Die meisten wollen
-den Endbetrag per Scheck oder Money Order (gibt es zum Beispiel bei der
-amerikanischen Post), nur wenige nehmen Kreditkarten, da diese in der Regel
-Gebühren von den Vermietern erheben.
+Renting a property requires a prepayment of a couple of hundred dollars 
+and sending a signed contract to the owner. The entire rent then needs
+to be paid four weeks before the rental date. Most owners want it via
+check or money order, only few accept credit cards, as those require them
+to pay a processing fee.
 
-<pic images/vrbo-grill.ps Ein Holzkohlengrill darf nicht fehlen.>
+<pic images/vrbo-grill.ps A charcoal grill is a must on Hawaii.>
 
-Jedes Mal denken wir uns wieder, dass es eigentlich erstaunlich ist, dass alles
-so gut klappt. In Hawaii sind die Vermieter meistens nicht vor Ort, da sie
-irgendwo anders in den USA leben. Meist gibt es dann jemanden auf der Insel,
-der die Ferienwohung betreut. Im März mieteten wir uns im Nachbarort von
-Kailua ein, und zwar in Lanikai. Die beiden Orte hängen im Prinzip fast
-aneinander. Es gab zwar einen Verwalter auf der Insel, aber mit dem hatte ich
-nur einmal vorher telefoniert und wir sahen ihn während unseres ganzen
-Aufenthaltes nicht. 
-Der Schlüssel lag in der Ferienwohnung, die Tür war offen und
-bei unserer Abfahrt legten wir den Schlüssel einfach auf den Küchentresen. 
-Für
-Notfälle hatte wir die Telefonnummer des Verwalters und der Putzfrau. Die
-Wohnung war klasse, wie ihr unschwer auf den Fotos erkennen könnt.
+We're pretty amazed every time how flawlessly this process works. The 
+landlords typically aren't on the island, but are living somewhere on 
+the US mainland. Usually, they let a Hawaiian resident manage the 
+property. In March, we rented a place in Lanikai, a small bordering 
+neighborhood to Kailua. I only called the property manager once before we 
+went there and we didn't see him even once during the entire time we 
+were there. The house key was placed inside the house when we arrived, 
+and we left it on the kitchen table when we left. For emergencies, we had
+the manager's and the cleaning lady's phone number. The place was 
+great, as you can tell by the pictures.
+
+TODO_TRANSLATE
 
 @Z: Hawaii: Der Strand ist für alle da
 
