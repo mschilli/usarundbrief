@@ -512,22 +512,25 @@ and we left it on the kitchen table when we left. For emergencies, we had
 the manager's and the cleaning lady's phone number. The place was 
 great, as you can tell by the pictures.
 
-TODO_TRANSLATE
+@Z: Hawaii: Public Access to the Beaches
 
-@Z: Hawaii: Der Strand ist für alle da
-
-<pic images/surfer-dude.ps Michael ist der älteste Surfer am Strand von Honolulu.>
+<pic images/surfer-dude.ps Michael is probably one of the oldest surfers at the beach of Honolulu.>
 
 <em>Angelika</em>
-Auch auf Hawaii geht es natürlich nicht immer paradiesisch zu. Das Verbauen
-der Inseln ist dabei ein Dauerthema. Oft erwerben zum Verdruss der Einheimischen
-reiche Bonzen Häuser auf Hawaii, die ihre Feriendomizile nur ein paarmal
-pro Jahr bewohnen. Die Häuser sind oft riesig und strandnah, stehen
-aber eben fast das ganze Jahr leer. Ein Segen ist es deshalb, dass 1974 der
-Bundesstaat Hawaii ein Gesetz verabschiedete, das besagt, dass alle Strände
-in Hawaii für die Öffentlichkeit zugänglich sein müssen. 
+Even on Hawaii, not everything is like it should be in paradise. Cluttering
+the islands with new construction projects is an ongoing problem. The locals
+are understandably not happy that it's mostly wealthy individuals buying 
+real estate that they then only use a few times a year as vacation homes. 
+Those houses often have gigantic footprints and are located in close 
+vicinity to the beach, but are uninhabited most of the time. 
 
-<pic images/hawaii-public-access.ps Der öffentliche Zugang zum Strand auf Hawaii.>
+For this reason, I'm happy that the State of Hawaii passed legislation
+back in the year 1974 to ensure that all Hawaiian beaches must be accessible
+by the public. 
+
+<pic images/hawaii-public-access.ps Public access trail to a beach on Oahu.>
+
+TODO_TRANSLATE
 
 Kein Hotel oder
 Hausbesitzer kann Strände als Privateigentum deklarieren. In Kailua und
