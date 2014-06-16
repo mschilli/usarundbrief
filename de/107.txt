@@ -19,11 +19,11 @@ Mittlerweile klappt's ganz gut mit dem Surfen, ich kann zwar noch keine
 Monsterwellen fahren, aber nehme schon die ein oder andere Welle mit
 und fahre darauf stolz stehend Richtung Strand. Ich konnte es kaum fassen,
 wieviel es da zu lernen gab! Man muss ungefähr fünf Dinge gleichzeitig
-machen, sonst paddelt man hilflos stundenlang im Wasser herum ohne auch
+machen, sonst paddelt man hilflos stundenlang im Wasser herum, ohne auch
 nur einmal aufzustehen. Deswegen schildere ich heute mal meine Erfahrungen,
 damit ihr auch wisst, wie das geht.
 
-<pic images/surf-kailua.ps Der Herr der sieben Meere auf Hawaii. Wird Michael wird auf seine alten Tage noch ein begnadeter Surfer?>
+<pic images/surf-kailua.ps Der Herr der sieben Meere auf Hawaii. Wird Michael auf seine alten Tage noch ein begnadeter Surfer?>
 
 Was mir vor meinen Surfversuchen gänzlich unbekannt war, ist, warum Wellen
 überhaupt entstehen und dann brechen. Hiermit lüfte ich das Geheimnis:
@@ -48,7 +48,7 @@ der nach der Welle
 auftaucht und weiter paddelt. Irgendwann erreicht man dann einen Bereich, in
 dem die Wellen nicht mehr brechen, sie heben nur noch sanft das Board und
 sausen darunter durch, ohne einen mitzureißen. Dort, im sogenannten "Line-up"
-liegen die die Surfer dann faul auf ihren Brettern rum und warten auf die
+liegen die Surfer dann faul auf ihren Brettern rum und warten auf die
 perfekte Welle.
 
 <pic images/surf-stand.ps Auf kleinen Wellen kann ich schon fahren.>
@@ -70,7 +70,7 @@ den sogenannten "Pop-Up", indem sie wild lospaddeln, von der Schaumkrone
 erfasst werden, was das Board beschleunigt, um dann in einem Satz auf die Füße
 und in die Hocke zu springen. Fortgeschrittene springen aufs Board, nachdem
 letzteres durch zügiges Paddeln und die Gravitationskraft in der sich
-aufbäumenden aber noch nicht zusammengebrochenen Welle beschleunigt. Es ist
+aufbäumenden, aber noch nicht zusammengebrochenen Welle beschleunigt. Es ist
 jedesmal ein fast spirituelles Ereignis, wenn es klappt, die Schubkraft der
 Welle ist gewaltig und kommt scheinbar aus dem Nichts, und wenn man es schafft,
 aufzustehen, fährt man weiter und weiter und weiter, kann es gar nicht fassen,
@@ -126,7 +126,7 @@ unsportlich, weiter rechts ebenfalls in die Welle zu paddeln, sodass der Surfer
 auf der Welle auf einen zufährt und abbremsen muss.  Das ist der gefürchtete
 sogenannte "Drop In", der meist wildes Gezeter auslöst! Zumindest in Pacifica
 sind die Leute aber sehr freundlich, es sind halt viele Anfänger dort, und das
-schlimmste was einem passieren kann, ist, dass einem ein Board gegen den Kopf
+Schlimmste was einem passieren kann, ist, dass einem ein Board gegen den Kopf
 knallt, das irgendein Depp sausen lassen hat.
 
 <pic images/reef.ps Wer hier nach einem Sturz reinsaust kann gleich Rasierklingen umarmen.>
@@ -180,7 +180,7 @@ Bauernhofgelände gibt es dort kleine freistehende Häuschen zu
 mieten. Memorial Day
 läutet in den USA übrigens die Sommersaison und bevorstehende Ferienzeit ein.
 In San Francisco ist der letzte Schultag vor den großen Sommerferien dieses
-Jahr zum Beispiel am Freitag, den 30. Mai.
+Jahr zum Beispiel am Freitag, dem 30. Mai.
 
 <pic images/drakes-bar.ps In dieser rustikalen Hütte auf der Austernfarm kann man Austern direkt vor Ort zum Verzehr erwerben.>
 
@@ -194,7 +194,7 @@ Wasserinlet zwischen der Halbinsel "Point Reyes National Seashore" und dem
 Westküstenfestlandabschnitt, auf dem sich auch der berühmte Highway 1 in
 Richtung Norden schlängelt. 
 
-<pic images/point-reyes-map.ps Die Halbinsel Point Reyes im Norden San Franciscos steht als "National Sea Shore" unter Naturschutz.>
+<pic images/point-reyes-map.ps Die Halbinsel Point Reyes im Norden San Franciscos steht als "National Seashore" unter Naturschutz.>
 
 Drakes Oyster Company siedelt seine Austern direkt
 in der Bucht "Drakes Bay" 
@@ -372,7 +372,7 @@ $3.000 davon von seinen sonstigen Einnahmen absetzen.  War der Gesamtverlust
 höher als $3.000, gehen nur $3.000 im aktuellen Jahr, aber der Restverlust kann
 ins nächste Jahr mit rübergenommen und dann abgesetzt werden.
 
-<em>Schedule SE (Selfemployment Tax)</em>: Selbständige berechnen mit Hilfe
+<em>Schedule SE (Self-employment Tax)</em>: Selbständige berechnen mit Hilfe
 dieses Formulars die Höhe ihrer Sozial\-versich\-erungs\-abgaben. Das sind die
 Beiträge zur staatlichen Rentenversicherung (Social Security) 
 und Medicare (die staatliche Krankenversicherung im Rentenalter).
@@ -418,7 +418,7 @@ wenn nur einer arbeitet 3) "Married, filing separately: Verheiratet, getrennte
 Steuer\-erklärungen, denn für Verheiratete, die ungefähr gleich viel
 verdienen, kann es unter Umständen besser sein, wenn jeder eine separate
 Steuer\-erklärung abgibt. 4) "Head of Household": Haushalts\-vorstand, zum
-Beispiel wenn man allein\-erziehend ist 5) "Widow/Widower with dependent child":
+Beispiel wenn man allein\-erziehend ist. 5) "Widow/Widower with dependent child":
 Witwe/Witwer mit abhängigem Kind (kann zwei Jahre lang nach dem Todesfall des
 Ehepartners als Steuerklasse gewählt werden). Die verschiedenen Klassen
 bestimmen, wie hoch die Freibeträge sind und was abgesetzt werden darf.
@@ -500,7 +500,7 @@ Käse was lange Zeit eine eher traurige Angelegenheit in  den USA. Ich
 erinnere mich noch gut, als wir das erste Mal Ende der Achtziger durch die
 USA reisten und Supermärkte Käse nur in der 
 künstlich-chemischen Variante
-oder einzeln abgepackt und eingeschweiß in Scheiblettenform anboten.
+oder einzeln abgepackt und eingeschweißt in Scheiblettenform anboten.
 Wenn wir guten Käse fanden, war der meist aus Italien, Holland
 oder Frankreich importiert
 und es gab in der Regel nur die Standardsorten wie Gouda
@@ -519,13 +519,13 @@ hoher Restaurantdichte wie zum Beispiel in New
 York City, Boston, San Francisco, Chicago oder Portland, erlebt handgemachter
 Käse von kleinen Käsereien seit einigen Jahren einen Boom.
 
-<pic images/nicasio-valley-cheese-wrapped.ps Die Käsesorten "Nicasio Square" und "Nicasio Gironimo" von der Käserei Nicosia Cheese Company.>
+<pic images/nicasio-valley-cheese-wrapped.ps Die Käsesorten "Nicasio Square" und "Nicasio Geronimo" von der Käserei Nicosia Cheese Company.>
 
 In den Landkreisen Marin und Sonoma, also nördlich der Golden Gate Bridge,
 gibt es mittlerweile eine Vielzahl von kleinen Käsereien, die mit viel
 Liebe Käse produzieren. Viele bieten mittlerweile ähnlich wie die
 Weingüter im Napa und Sonoma Valley, Käse kostenlos zum Probieren an.
-Als wir letztes Wochenende in Point Reyes weilten (siehe
+Als wir im Mai in Point Reyes weilten (siehe
 Austernbeitrag <RBLINK>20140615#1</RBLINK>),
 fuhren wir auf unserem Rückweg durch den kleinen Ort
 Nicasio. Der Ort gehört zu einem meiner Lieblingsorte, denn hier ist
@@ -549,7 +549,7 @@ kamen aus der Schweiz und erwarben 1919 Land in Nicasio.
 <em>Michael</em> Nach dem Surfen spült man den Anzug mit Leitungswasser ab, um
 das Meersalz zu entfernen, denn das würde seinen Nähten in kürzester Zeit stark
 zusetzen. Ich nehme immer die ganze Ausrüstung in die Dusche mit und halte die
-Gummistiefel und den Wetsuite kurz unter dem heißen Strahl, bevor ich mich
+Gummistiefel und den Wetsuit kurz unter den heißen Strahl, bevor ich mich
 meinem Astralkörper widme.
 
 Doch wie kriegt man die Ausrüstung wieder trocken? Das ist ganz wichtig, denn
