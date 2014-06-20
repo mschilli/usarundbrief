@@ -33,28 +33,31 @@ waves, approaching in quick succession, about 20 seconds apart from each
 other. When they're through, there's often a pause of a few minutes before
 the next set rolls in.
 
+Often times it's quite hard to paddle out onto the Pacific waters when
+sets of waves keep coming in. They're pretty powerful and will push 
+surfer and surfboard back towards the beach with significant force.
+In some cases, when they collapse directly above the surfer's 
+head, they will push you under water and 
+create strong turbulences that prevent you from swimming back to the surface. 
+With overhead-sized waves,
+this so-called "hold-down" can last for 5 to 10 seconds, during which 
+you can't do anything but remain calm, hold your breath, and wait for the
+situation to straighten out. Sooner or later, when the turbulences are gone, 
+you can swim back to the surface, catch a deep breath and continue paddling.
+More experienced surfers avoid these situations by paddling fast towards
+the approaching wave, and start a so-called duck-dive maneuver shortly 
+before they get hit. By submerging board and body at full paddling speed 
+underneath the wave, they escape the current and simply continue paddling
+after the wave has gone over them. After crossing this so-called "impact zone"
+with the breaking waves,
+the ocean becomes a lot calmer, the waves in this area aren't 
+breaking, just lifting the board gently while they're passing through. 
+This is where all the surfers in the so-called "line up" are lurking while
+resting lazily on their boards, waiting for the perfect wave to catch.
+
+<pic images/surf-stand.ps I can manage small waves fairly consistently these days.>
+
 TODO_TRANSLATE
-
-Paddelt man raus auf den Pazifik, und es geht gerade ein Set durch, ist es gar
-nicht so einfach, durch die hereinbrechenden Wellen zu kommen, denn die werfen
-Mann und Surfboard oft wieder zurück Richtung Strand, oder, wenns ganz blöd
-kommt, krachen sie über einem runter und halten den Surfer unter Wasser in
-einer Strömung fest, aus der es für kurze Zeit kein Entrinnen gibt. Bei
-kopfhohen Wellen kann der sogenannte "Hold-Down" schon mal 5-10 Sekunden
-dauern. Da heißt es, Luft anhalten und die Nerven nicht verlieren, denn die
-Strömung legt sich über kurz oder lang wieder und man kann wieder auftauchen,
-Luft schnappen und weiter paddeln. Erfahrene Surfer verhindern solche
-Situationen, in dem sie schnell auf die herankommende Welle zupaddeln, und kurz
-vor dem Zusammenbruch mittels des sogenannten "Duck-Dive-Manövers" darunter
-wegtauchen. Dann peitscht die Strömung über den Surfer drüber, 
-der nach der Welle
-auftaucht und weiter paddelt. Irgendwann erreicht man dann einen Bereich, in
-dem die Wellen nicht mehr brechen, sie heben nur noch sanft das Board und
-sausen darunter durch, ohne einen mitzureißen. Dort, im sogenannten "Line-up"
-liegen die Surfer dann faul auf ihren Brettern rum und warten auf die
-perfekte Welle.
-
-<pic images/surf-stand.ps Auf kleinen Wellen kann ich schon fahren.>
 
 Eine Welle ist nur dann zum Surfen geeignet, wenn sie gerade dabei ist, 
 einzubrechen. Und zwar nicht gleichmäßig, sondern langsam von links nach
