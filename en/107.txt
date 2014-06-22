@@ -89,29 +89,30 @@ every Saturday morning, drive down to the beach, paddle out and
 catch something like four, five good waves within an hour, to head back
 home so that we can still engage in some weekend activities later.
 
-TODO_TRANSLATE
+@Z: Surf Etiquette
 
-@Z: Benimmregeln beim Surfen
-
-<pic images/surf-old-hawaiians.ps Als die Hawaiianer das Surfen erfanden, fuhren alle gleichzeitig Richtung Strand.>
+<pic images/surf-old-hawaiians.ps When the Hawaiians invented surfing, large groups of people took off on a single wave heading back towards the beach.>
 
 <em>Michael</em>
-Als die Hawaiianer anno dunnemals das Wellensurfen auf Brettern entdeckten,
-feierten sie es als Gemeinschaftserlebnis: Kam eine Welle herangesaust,
-versuchten möglichst viele Surfer gleichzeitg loszupaddeln, in die
-Welle einzusteigen und dann aufrecht und parallel in Richtung Strand zu
-fahren. Statt den massiven Holzbrettern von damals fahren Surfer heutzutage
-weit kürzere und wendigere Epoxid-Geschosse, mit denen sie nicht mehr
-direkt Richtung Strand zielen, sondern mit allerhand Schwüngen
-seitwärts auf der Welle
-entlangreiten, gerade so, wie ein Snowboardfahrer einen Hügel runterschwingt.
+When the old Hawaiians discovered how to surf waves on boards, they
+celebrated it as a community event, and the more surfers could paddle into
+a wave, stand up and surf simultaneously back to the beach, the better 
+they considered the party to be. Compared to the massive wooden logs
+of yesteryear, today's high-speed epoxy boards are much easier to 
+maneuver and for that reason, today's surfers don't aim in the direction
+of the beach when they set on to surf on a wave, but are riding sideways
+along the wave, going up and down, similar to a snowboard enthusiast swinging 
+down a slope.
 
-Das hat natürlich zur Folge, dass eine Welle in der heutigen Zeit nicht mehr
-einer ganzen Gruppe von Leuten dient, sondern nur noch einer Einzelperson.
-Lauern dann 10 Personen im sogenannten "Lineup" auf die Welle, stellt sich die
-Frage, wer losfahren darf und wer warten muss.
+This of course means that a single wave nowadays 
+can't be shared anymore by a group
+of people, but gets occupied by a single person. And if there's ten people
+waiting to get on the wave in the so-called "line-up", the question arises
+on who may paddle into the wave and who has to wait for their turn.
 
-<pic images/surf-lineup.ps Wer hat hier Vorfahrt? Foto: flickr[Daniel Hjort|danielhjort/2895709001]>
+<pic images/surf-lineup.ps Who has the right of way in this wave? Foto: flickr[Daniel Hjort|danielhjort/2895709001]>
+
+TODO_TRANSLATE
 
 Als Surf-Neuling gilt es dabei allerhand ungeschriebenes Regelwerk zu beachten.
 So paddelt man nicht mitten in eine Gruppe von sogenannten "Locals" hinein,
