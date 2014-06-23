@@ -112,24 +112,27 @@ on who may paddle into the wave and who has to wait for their turn.
 
 <pic images/surf-lineup.ps Who has the right of way in this wave? Foto: flickr[Daniel Hjort|danielhjort/2895709001]>
 
+As a newbie to the surfing world, there's all kinds of unwritten laws to
+learn. First off, it's considered somewhat rude to paddle out and straight
+into a group of locals who are hanging out at the same location in the
+water every day. Instead, a newcomer is supposed to take a detour
+and approach the group sideway. The obvious reason for this is that
+if there's a new wave rolling in, you don't want to stand in the way of
+waiting surfers paddling into it. 
+
+Whoever gets onto a wave first, has the right of way. This is an obvious
+advantage to surfers lurking further out, if the wave is already surfable
+at their position. But this strategy doesn't always work out, as the location
+of the breaking point of incoming waves can vary significantly, even within the
+same set. If you get ready to paddle into a wave, but notice someone 
+coming from behind, already riding on it, you want to get out of their way.
+For this to happen, you need to slow down your board by reaching down 
+into the water with your hands, which makes the wave rush by under the board, 
+without pulling it into the created turbulence.
+
+<pic images/surf-sandy.ps These waves get bigger and eventually break because the water is getting shallower near the beach. Often times, there's a razor-sharp reef.>
+
 TODO_TRANSLATE
-
-Als Surf-Neuling gilt es dabei allerhand ungeschriebenes Regelwerk zu beachten.
-So paddelt man nicht mitten in eine Gruppe von sogenannten "Locals" hinein,
-also Leuten, die jeden Tag an der gleichen Stelle im Wasser abhängen. Vielmehr
-paddelt der höfliche Fremdling erst mal im Bogen auf die lauernden Surfer zu
-und nähert sich ihnen seitlich. Der Grund: Kommt die nächste Welle angerollt
-und die Locals paddeln los, sollte man nicht im Weg stehen.
-
-Es gilt: Vorfahrt hat, wer als erstes auf der Welle ist. Da hat derjenige, der
-weiter draußen lauert, einen Vorteil, wenn die Welle auf seiner Position schon
-befahrbahr ist. Diese Strategie klappt aber nicht immer, denn die Stelle, an
-der die Wellen brechen, variiert zufällig, selbst innerhalb eines Sets. Kommt
-schon jemand auf der Welle angerauscht, darf man ihm nicht in die Quere kommen
-und muss mit den Händen im Wasser abbremsen, damit einen die Welle nicht
-ebenfalls mitreißt, sondern unter einem durchsaust.
-
-<pic images/surf-sandy.ps Jede dieser Wellen entsteht, weil sich das Wasser verflacht, und meist liegt ein scharfkantiges Riff darunter.>
 
 Klappt die Welle vom Strand aus gesehen von links nach rechts zusammen, und ein
 Surfer fährt schon von links nach rechts auf der Welle, gilt es als extrem
