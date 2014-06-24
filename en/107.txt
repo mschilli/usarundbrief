@@ -132,41 +132,46 @@ without pulling it into the created turbulence.
 
 <pic images/surf-sandy.ps These waves get bigger and eventually break because the water is getting shallower near the beach. Often times, there's a razor-sharp reef.>
 
+If a wave already started collapsing from left to right (as seen from the
+beach), and a surfer is riding it from left to right already, it is considered
+extremely rude to paddle into the wave further to the right, and getting
+into the surfer's way who then has to slow down to avoid a collision. 
+That's the dreaded "drop in", which sometimes leads to protests or even 
+heated arguments. Although, in Pacifica, people are pretty relaxed about it,
+well knowing that there's droves of beginners making their first moves there,
+and the worst thing than can happen there is that you get hit in the head
+by a runaway board that some idiot has let go.
+
+<pic images/reef.ps Falling onto a reef can be like embracing razor blades.>
+
+Watching surfing videos on Youtube, it is usually 
+not clear that those daredevils
+riding the monster waves are sometimes traveling in very shallow waters, and
+falling off the board could have disastrous consequences. The surprising
+truth is, that waves only break in spectacular ways if the
+water gets shallower really quickly, and in the Pacific Ocean,
+you often find reefs or rocks near these places.
+
+In videos, it often looks like surfers are 
+riding in deep waters, but in reality,
+there's often just a few feet of water between the board and razor
+sharp rock or reef formations. Especially on Oahu's north shore, and 
+particularily on Sunset Beach with its famous "Pipeline" surf spot, 
+the top surfers barrel down on monster waves which barely have any water 
+left at the bottom, so that slipping only once and falling could have deadly
+consequences.
+
+In such waters, surfers can't ever jump off their boards, once they've
+reached the end of a surfable wave, they lay back flat on their boards
+and paddle back out. Lying down on the board while moving your 
+arms displacing water for prolonged times is quite tough 
+on the shoulder muscles, which usually aren't well developed, even in 
+athletic individuals. With a bit of practice, however, 
+surfing strengthens the upper
+body, and that's why you often see top surfers with absolutely ripped 
+physique. I, personally, still have a lot of work ahead of me!
+
 TODO_TRANSLATE
-
-Klappt die Welle vom Strand aus gesehen von links nach rechts zusammen, und ein
-Surfer fährt schon von links nach rechts auf der Welle, gilt es als extrem
-unsportlich, weiter rechts ebenfalls in die Welle zu paddeln, sodass der Surfer
-auf der Welle auf einen zufährt und abbremsen muss.  Das ist der gefürchtete
-sogenannte "Drop In", der meist wildes Gezeter auslöst! Zumindest in Pacifica
-sind die Leute aber sehr freundlich, es sind halt viele Anfänger dort, und das
-Schlimmste was einem passieren kann, ist, dass einem ein Board gegen den Kopf
-knallt, das irgendein Depp sausen lassen hat.
-
-<pic images/reef.ps Wer hier nach einem Sturz reinsaust kann gleich Rasierklingen umarmen.>
-
-Wenn man auf YouTube Surfer-Videos ansieht, sagt einem niemand, dass die
-tollkünen Sportskanonen teilweise nur Zentimeter über messerscharfen Riffen
-entlangsausen, und ein unkontrollierter Sturz vom Brett fatale Folgen hätte.
-Die überraschende Wahrheit ist, dass Wellen immer nur dort brechen, wo sich
-das Wasser kurzzeitig verflacht, und dort stehen im Pazifik meistens
-Steinformationen im Weg.
-
-Im Film sieht es meistens so aus, als ob man im tiefen Wasser fährt, aber
-die Wahrheit ist, dass zwischen Surfbrett und messerscharfen
-Gesteinsformationen oft nur ein halber Meter Wasser liegt. Das ist besonders
-an der North Shore Oahus der Fall, am berühmten Sunset Beach mit dem
-Surfer-El-Dorado "Pipeline" schwingen sich die Top-Surfer von teilweise
-Hochhaus-hohen Wellen herab, an deren Fuß kaum noch Wasser ist, so dass
-ein Ausrutscher tödliche Folgen haben kann.
-
-In solchen Gewässern darf man eigentlich nie vom Board absteigen, ist das
-Ende des befahrbaren Teils einer Welle erreicht, legen sich die Profis
-wieder sanft aufs Brett und paddeln wieder raus. Das dauernde Liegen
-und Paddeln geht unheimlich auf die Schultermuskeln, die normalerweise
-selbst bei sportlichen Leuten chronisch unterentwickelt sind. Mit
-zunehmender Praxis bekommt man aber einen gestählten Oberkörper, deshalb
-sehen die Profisurfer auch so gerippt aus. Ich arbeite noch daran.
 
 @Z: Rustikales Austernessen in Point Reyes
 
