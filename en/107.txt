@@ -171,37 +171,35 @@ surfing strengthens the upper
 body, and that's why you often see top surfers with absolutely ripped 
 physique. I, personally, still have a lot of work ahead of me!
 
-TODO_TRANSLATE
+@Z: Rustic Oyster Lunch at Point Reyes
 
-@Z: Rustikales Austernessen in Point Reyes
-
-<pic images/drakes-table.ps Frische rohe Austern verzehrt man in Point Reyes direkt am Wasser.>
+<pic images/drakes-table.ps Point Reyes has fresh raw oysters, which can be consumed right by the water.>
 
 <em>Angelika</em>
-Eines der unschlagbaren Vorteile des Lebens in San Francisco ist, dass wir den
-pazifischen Ozean direkt vor der Haustür haben und so leicht an frischen Fisch
-kommen, sowohl in den einschlägigen Supermärkten als auch in den diversen
-Restaurants der Stadt. Auch lokale Austern gibt es, denn im guten Wasser des
-Naturschutzgebietes Point Reyes gedeihen sie besonders gut. Wir haben
-schon das ein oder andere Mal über Point Reyes geschrieben
-(<RBLINK>20060421#11</RBLINK>), denn hier verschlägt es uns immer
-wieder zum Wandern hin, wenn wir dem Jubel und Trubel der Großstadt entfliehen
-wollen. Das Naturschutzgebiet ist eine Landzunge, die weit in den pazifischen
-Ozean hineinragt und liegt nur etwa 1.5 Autostunden in Richtung Norden
-von San Francisco entfernt. Da am letzten Montag im Mai der amerikanische
-Feiertag "Memorial Day" zelebriert wird, um die gefallenen amerikanischen
-Soldaten zu ehren, nutzten wir das verlängerte Wochenende, um drei
-Nächte in den
+Since San Francisco has the Pacific Ocean right at its front door, 
+which is why there's a great selection of fresh fish available,
+either for sale in selected supermarkets or readily prepared
+in fine dining establishments. Connoisseurs even have access to 
+local oysters, prospering in the clean waters of the Point Reyes
+National Seeshore. We've mentioned Point Reyes here a couple of times
+already (<RBLINK>20060421#11</RBLINK>), because we often drive up for
+hiking and to escape the hustle and bustle of the big city for a few
+days. The headland wildlife sanctuary reaches far into the Pacific Ocean 
+and is located about one and a half hours north of San Francisco.
+The U.S. celebrates "Memorial Day" on the last Monday in May to honor 
+fallen American soldiers, we had the day off and took the opportunity to spend
+three nights at the 
 <LINK>http://www.olemacottages.com|"Olema Cottages"</LINK>
-bei Point Reyes unterzukommen.
-Hier gefällt es uns immer besonders gut, denn auf einem rustikalen
-Bauernhofgelände gibt es dort kleine freistehende Häuschen zu
-mieten. Memorial Day
-läutet in den USA übrigens die Sommersaison und bevorstehende Ferienzeit ein.
-In San Francisco ist der letzte Schultag vor den großen Sommerferien dieses
-Jahr zum Beispiel am Freitag, dem 30. Mai.
+near Point Reyes. We've always liked the somewhat rustic charme of the 
+former farm, which has small but free-standing wooden houses for rent.
+Also, you might want to know that Memorial Day is the last opportunity 
+to get away before the summer season and the start of the
+summer school vacation. In San Francisco, the last school day was May, 
+30th this year.
 
-<pic images/drakes-bar.ps In dieser rustikalen Hütte auf der Austernfarm kann man Austern direkt vor Ort zum Verzehr erwerben.>
+<pic images/drakes-bar.ps The oyster farm sells fresh oysters directly at this rustic hut.>
+
+TODO_TRANSLATE
 
 Aber ich schweife ab. Eigentlich wollte ich darüber berichten, was es für
 hervorragende Austern in Point Reyes zu essen gibt, denn gleich drei
