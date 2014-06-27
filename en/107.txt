@@ -199,33 +199,31 @@ summer school vacation. In San Francisco, the last school day was May,
 
 <pic images/drakes-bar.ps The oyster farm sells fresh oysters directly at this rustic hut.>
 
+But I digress, originally, I wanted to report on the exquisite oysters
+available in Point Reyes. There's a total of three oyster farms there:
+The Hog Island Oyster Company, the Tomales Bay Oyster
+Company (operating since 1909), and Drakes Oyster Company. Oysters love
+the cool clear waters of Tomales Bay, the water inlet between the 
+"Point Reyes National Seashore" peninsula and the adjacent stretch of
+the California west coast with Highway One snaking north.
+
+<pic images/point-reyes-map.ps The Point Reyes peninsula north of San Francisco is a nature preserve labeled "National Seashore".>
+
+Drakes Oyster Company raises their oysters directly in Drakes Bay at the
+Point Reyes peninsula. The history of farming oysters in this area
+reaches back about 80 years. Oysters of all three farms are served at
+many restaurants in the Bay Area, but of course they're best when 
+consumed directly at the source, which is right at the farm. Usually,
+you'd associate oyster dishes with white linen and shiny silverware, but
+the setting at the three farms in Point Reyes is rather casual.
+Oyster fans can purchase oysters there at a small hut and then
+slurp their favorite fare while sitting at 
+picnic tables directly at the shore, and enjoy a pleasantly cool breeze
+in the sun.
+
+<pic images/drakes-mike.ps Michael is quite the Oyster connoisseur.>
+
 TODO_TRANSLATE
-
-Aber ich schweife ab. Eigentlich wollte ich darüber berichten, was es für
-hervorragende Austern in Point Reyes zu essen gibt, denn gleich drei
-Austernfarmen liegen hier: Die Hog Island Oyster Company, die Tomales Bay Oyster
-Company (schon seit 1909 in Betrieb) und die Drakes Oyster Company. Die Austern
-mögen
-das kalte, klare Wasser der Tomales-Bucht. "Tomales Bay" ist das
-Wasserinlet zwischen der Halbinsel "Point Reyes National Seashore" und dem
-Westküstenfestlandabschnitt, auf dem sich auch der berühmte Highway 1 in
-Richtung Norden schlängelt. 
-
-<pic images/point-reyes-map.ps Die Halbinsel Point Reyes im Norden San Franciscos steht als "National Seashore" unter Naturschutz.>
-
-Drakes Oyster Company siedelt seine Austern direkt
-in der Bucht "Drakes Bay" 
-auf der Halbinsel Point Reyes an. Schon seit ungefähr 80
-Jahren werden Austern in der "Drakes Bay" gezüchtet. Die Austern der drei
-Austernfarmen kann sich der Feinschmecker in verschiedenen Restaurants in San
-Francisco und Umgebung einverleiben, aber nirgendwo sind sie natürlich so
-frisch wie direkt von der Austernfarm. Eigentlich verbindet man ja mit
-Austernessen feines Tafelsilber und weiße Tischdecken, aber bei den drei
-Farmen in Point Reyes geht es eher zünftig zu. Draußen an Picknicktischen
-schlürft der Austernliebhaber in der frischen Brise seine Austern, die er
-vorher in einem kioskähnlichen Gebäude gekauft hat.
-
-<pic images/drakes-mike.ps Michael der Austern-Feinschmecker.>
 
 Die ganz hartgesottenen kaufen
 die Austern dann auch mit geschlossener Schale und öffnen sie am
