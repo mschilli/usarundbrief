@@ -238,25 +238,24 @@ shucking oysters like a professional.
 
 <pic images/drakes-shells.ps Mountains of leftover shells of consumed oysters.>
 
+Drakes Oyster Company offers three different oyster sizes, small, medium,
+and large. Small and medium sized oysters are best consumed raw, while the
+large ones can be barbequed. We prefer to eat oysters raw, because that's
+the only way you can detect their delicate taste. Usually, they're served
+with freshly cut lemon slices, used to drizzle a few drips of lemon juice 
+onto them, or red cocktail sauce or onion vinaigrette for dipping.
+
+Lately, there's been news that Drakes Bay Oyster Company is struggling
+for their existence. They're located directly on land that is owned by
+Point Reyes National Seashore, established in 1962, by then-president 
+John F. Kennedy. But since Point Reyes has had farming businesses reaching
+back to the 19th century, the National Park administration granted 
+the proprietors the rights to keep running their farming businesses 
+back then, and leased them the land for a small fee.
+
+<pic images/drakes-sign.ps The National Park Service wants to shut down Drakes Bay Oyster Company.>
+
 TODO_TRANSLATE
-
-Die Drakes Oyster Company bietet drei verschiedene Austerngrössen an, nämlich
-kleine, mittlelgroße und große. Die kleinen und mittelgroßen isst man am
-besten roh, während die ganz großen auch zum Grillen gegeignet sind. Wir
-mögen die Austern aber am liebsten roh, denn nur so erkennt man den feinen
-Geschmack. In der Regel gibt es Zitrone zum Drüberträufeln dazu, eine rote
-Cocktailsauce oder eine Essigzwiebel-Vinaigrette.
-
-Die Drakes Bay Oyster Company bangt übrigens gerade um ihre Existenz, denn
-die Firma befindet sich direkt auf der Point Reyes National Seashore, die zum
-amerikanischen Nationalparkverbund gehört und somit unter staatlichem
-Schutz steht. 1962 stellte Präsident John F. Kennedy diesen einzigartigen
-Landstrich unter Naturschutz. Da sich aber seit dem 19. Jahrhundert
-landwirtschaftliche Betriebe auf Point Reyes befinden, erlaubte die
-Nationalparkverwaltung den Bauern, das Land weiterhin landwirtschaftlich zu
-nutzen und verpachtete den Bauern das Land gegen ein geringes Entgelt.
-
-<pic images/drakes-sign.ps Die Nationalparkverwaltung will die Drakes Bay Oyster Company schließen.>
 
 Auch die
 Drakes Bay Oyster Company, bis 2004 Johnson Oyster Company genannt, erhielt so
