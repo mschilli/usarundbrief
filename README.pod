@@ -11,6 +11,7 @@ go about translating it to English. If your translation looks good
 (don't stress out, but please no machine translations) we'll give you 
 credit on the translated page. You can find our email here: 
 http://usarundbrief.com/home/impressum-en.html
+
 We really appreciate all submissions!
 
 This Github project contains the raw text content of 
