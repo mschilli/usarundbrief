@@ -1,4 +1,15 @@
-=head1 USArundbrief.com Content
+=head1 USArundbrief.com Looking for Translators
+
+The content on usarundbrief.com is produced in German, but we also have
+English-speaking readers, which is why we translate the original articles
+after they've been published. 
+
+If you find that an article hasn't been translated yet, you can help
+us out by submitting a translation, even if it's just a small part of
+an article! The steps below outline how to get the source in German and
+go about translating it to English. If your translation looks good 
+(don't stress out, but please no machine translations) we'll give you 
+credit on the translated page. We really appreciate your work!
 
 This Github project contains the raw text content of 
 http://usarundbrief.com, 
