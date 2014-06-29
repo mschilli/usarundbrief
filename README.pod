@@ -9,7 +9,9 @@ us out by submitting a translation, even if it's just a small part of
 an article! The steps below outline how to get the source in German and
 go about translating it to English. If your translation looks good 
 (don't stress out, but please no machine translations) we'll give you 
-credit on the translated page. We really appreciate your work!
+credit on the translated page. You can find our email here: 
+http://usarundbrief.com/home/impressum-en.html
+We really appreciate all submissions!
 
 This Github project contains the raw text content of 
 http://usarundbrief.com, 
