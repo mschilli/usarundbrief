@@ -255,28 +255,26 @@ back then, and leased them the land for a small fee.
 
 <pic images/drakes-sign.ps The National Park Service wants to shut down Drakes Bay Oyster Company.>
 
-TODO_TRANSLATE
+Drakes Bay Oyster Company, called "Johnson Oyster Company" until 2004, also
+obtained such a lease, permitting them to use the protected waters for 
+farming oysters. But as the lease expired in 2012, it wasn't renewed,
+as the the National Park administration argued that farming oysters
+had a negative impact on the fragile eco system in Drakes Bay. 
+A fierce legal battle ensued, as the current owner, who purchased the oyster
+farm in 2005, had no intent to shut down the business. There are two 
+sides, some say that the oyster farm has been operating long before the
+area actually became a wildlife sanctuary, and the business harmonizes well
+with nature. Others argue that it is the National Park administration's
+prerogative to not renew the lease and end the commercial operation. 
+The local residents in Point Reyes seem to be leaning towards letting the
+oyster farm continue, which was evident by numerous
+"Save our Drakes Bay Oyster Farm" signs displayed in various locations.
+Alas, the legal battle doesn't seem to go well for the oyster company so far,
+as several courts have already decided against their appeal. To reach
+a final decision, now it's up to the U.S. Supreme Court to take the case,
+since National Parks are subject to federal laws, not the local state law.
 
-Auch die
-Drakes Bay Oyster Company, bis 2004 Johnson Oyster Company genannt, erhielt so
-einen Pachtvertrag, der die Nutzung der Gewässer zur Austernzucht erlaubte.
-Als der Pachtvertrag aber 2012 auslief, hieß
-es auf einmal, dass es keine Verlängerung mehr gibt, weil die Austernzucht das
-sensible Ökosystem der Drakes Bay negativ beeinflusse. Daraufhin entbrannte ein
-heftiger Rechststreit, denn der heutige Besitzer, der die besagte Austernfarm
-erst 2005 erwarb, will nicht so sang- und klanglos seine Sachen packen und
-abziehen. Es gibt zwei Lager: Die einen sagen, die Austernfarm war immer schon
-da und zwar schon bevor der Landsdtrich unter Naturschutz gestellt wurde, und
-operiert im Einklang mit der Natur. Die anderen behaupten, dass es das gute
-Recht der Nationalparkverwaltung ist, den Pachtvertrag nicht zu verlängern und
-somit die kommerzielle Nutzung zu beenden. Die Bevölkerung in Point Reyes
-scheint eher auf der Seite der Austernfarm zu stehen, denn wir sahen überall
-Plakate mit der Aufschrift "Save our Drakes Bay Oyster Farm" (Rettet unsere
-Drakes Bay Austernfarm). Bis jetzt hat die Firma aber rechtlich schlechte Karten
-gehabt und in den verschiedenen Instanzen verloren. Nun bleibt nur noch das
-oberste amerikanische Gericht, der U.S. Supreme Court, denn Nationalparks
-unterliegen der Gesetzgebung der amerikanischen Regierung und nicht etwa
-der der Bundesstaaten, in denen sie sich befinden.
+TODO_TRANSLATE
 
 @Z: Die amerikanische Steuererklärung
 
