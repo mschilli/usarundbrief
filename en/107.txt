@@ -275,31 +275,30 @@ as several courts have already decided against their appeal. To reach
 a final decision, now it's up to the U.S. Supreme Court to take the case,
 since National Parks are subject to federal laws, not local state laws.
 
-TODO_TRANSLATE
+@Z: The U.S. Tax Return
 
-@Z: Die amerikanische Steuererklärung
-
-<pic images/taxhand.ps Fertig! Es fehlt nur noch die Unterschrift unter dem 1040-Formular. Foto: flickr[AgriLife|agrilifetoday/5229193100]>
+<pic images/taxhand.ps After the 1040 form has been completed and signed, the taxes are done for this year. Foto: flickr[AgriLife|agrilifetoday/5229193100]>
 
 <em>Angelika</em>
-Jedes Jahr im April raufen sich Millionen von amerikanischen Steuerzahlern und
--beratern die Haare, denn am 15. April, komme was da wolle, muss jeder,
-der in den USA steuerpflichtig ist, seine amerikanische Steuererklärung für
-das vorherige Jahr abgeben. Am vergangenen 15. April war 
-also die Steuererklärung für das Jahr 2013 fällig.
-Nur wenn der 15. April auf ein
-Wochenende oder einen Feiertag fällt, verlängert sich die Gnadenfrist bis zum
-nächsten Werktag. Auch gibt es theoretisch die Möglichkeit, die Abgabe um ein
-halbes Jahr hinauszuziehen und eine Verlängerung zu beantragen, also die
-Steuererkläung am 15.Oktober abzugeben. Allerdings befreit einen das
-amerikanische Fianzamt nicht davon, die Steuerschuld zu begleichen.
-Rechnet der Steuerzahler also damit, Steuern nachzuzahlen, muss er diese
-bis zum 15. April begleichen, Verlängerung hin oder her, oder es hagelt
-Zinsen und Strafgebühren. Ich habe deshalb nie richtig verstanden, warum sich
-jemand für eine Verlängerung entscheidet, denn wenn ich eh ausrechnen muss,
-wieviel Steuern ich eventuell nachzuzahlen habe, kann ich mich auch gleich
-hinsetzen und alles fertig machen, es sei denn, ich weiß, dass ich fast immer
-eine Vergütung vom Finanzamt erhalte.
+Every year in April, millions of American tax payers and consultants 
+get very busy because no matter what, on April 15th, every person subject
+to income tax has to submit their tax documents for the previous year.
+Thus, this past April 15th, we submitted our tax declaration for the
+year 2013. Only if Aprith 15th falls on a weekend or holiday, the
+deadline gets extended until the next business day. It is
+possible to delay submitting the tax return by six months by filing 
+for an extension until October 15th. But this doesn't mean you could pay
+taxes owed at a later date. If tax payers estimate that they owe taxes,
+they need to prepay the amount by April 15th, regardless of
+their extension status, or they will get hit by additional interest 
+and penalty fees later.  
+For this reason, I've never really understood why people file for 
+extensions in the first place, because if I have to calculate how much 
+I potentially owe anyway, I can just as well finish up the forms and submit
+my return, unless I know for sure that I'll always get money back by
+the Internal Revenue Service.
+
+TODO_TRANSLATE
 
 Das Ausfüllen unserer Steuererklärung zählt nicht gerade zu meinen
 Lieblingsbeschäftigungen, aber da Steuern ja ein Thema sind, um das niemand so
