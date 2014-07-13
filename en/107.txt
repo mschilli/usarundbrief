@@ -298,24 +298,21 @@ I potentially owe anyway, I can just as well finish up the forms and submit
 my return, unless I know for sure that I'll always get money back by
 the Internal Revenue Service.
 
-TODO_TRANSLATE
+Obviously, preparing our income tax forms isn't exactly my favorite
+activity, but since taxes are somewhat inevitable, I thought it might
+be of interest to our readers on what exactly a U.S. tax return entails.
+What's being taxed and what can you deduct? I promise I won't bore you
+with agonizing details, since a U.S. tax return can be arbitrarily complex,
+just like the German one. There's a thousand and one exceptions and
+special cases. Instead, let's focus on form 1040, which is the form
+every U.S. income taxpayer has to deal with in some form or another. About
+70% of all taxpayers use this form, and depending on how complex their
+tax situation is, there's a number of additionally required 
+forms, called schedules, each of which is marked either by a single letter
+or a four-digit number. Here are some of the widely used schedules, to 
+be submitted along with the main form 1040:
 
-Das Ausfüllen unserer Steuererklärung zählt nicht gerade zu meinen
-Lieblingsbeschäftigungen, aber da Steuern ja ein Thema sind, um das niemand so
-richtig herum kommt, habe ich gedacht, dass es euch vielleicht interessieren
-könnte, wie eine amerikanische Steuererklärung konkret aussieht: Was wird
-versteuert, was kann man absetzen? Nun will ich euch aber auch nicht mit
-endlosen Details langweilen, denn amerikanische Steuer\-gesetze sind ähnlich
-komplex wie deutsche; und es gibt tausend und eine Ausnahme oder
-Sonderregelungen.  Also, konzentrieren wir uns auf das Formular 1040,
-das zentrale Standardformular des amerikanischen Steuerplichtigen. 
-Grob geschätzt nutzen 70% aller Steuerzahler dieses Hauptformular, und je
-nach dem, wie komplex oder einfach die individuelle Steuersituation ist, 
-kommen eine Anzahl von Unterformularen hinzu, die das Steuersystem
-entweder mit einem Buchstaben oder einer vierstelligen Nummer versieht.
-Hier sind ein paar der klassischen Zusatzformulare, im Behördenenglisch
-"Schedules" genannt, die der Steuerzahler zusammen mit dem Hauptformular 1040
-einschickt:
+TODO_TRANSLATE
 
 <em>Schedule A</em>: Das Formular A ist auszufüllen, wenn der Steuerpflichtige
 bestimmte Aufwendungen einzeln absetzen möchte: 1) Medizinische Ausgaben, die
