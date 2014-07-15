@@ -312,40 +312,35 @@ forms, called schedules, each of which is marked either by a single letter
 or a four-digit number. Here are some of the widely used schedules, to 
 be submitted along with the main form 1040:
 
-TODO_TRANSLATE
-
-<em>Schedule A</em>: Das Formular A ist auszufüllen, wenn der Steuerpflichtige
-bestimmte Aufwendungen einzeln absetzen möchte: 1) Medizinische Ausgaben, die
-aus der eigenen Tasche zu begleichen waren. Allerdings müssen diese 10% des zu
-versteuernden Einkommens übersteigen. 2) Steuern, zum Beispiel die, die im
-Steuerjahr an den Bundestaat, in dem man lebt, entrichtet wurden. Da mag euch
-jetzt absurd vorkommen, aber ist eigentlich logisch und gerecht, denn es gibt
-Bundestaaten, die zum Beispiel von ihrern Bürgern keine bundesstaatliche
-Einkommenssteuer verlangen (Alaska, Florida, Nevada, South Dakota, Texas,
-Washington, Wyoming), während Bundesstaaten wie Kalifornien und New York hohe
-Einkommenssteuersätze haben. Man gibt hier ja auch zwei verschiedene
-Steuererklärungen ab, eine in dem Bundestaat, in dem man im Steuerjahr lebte
-(State Income Tax),
-und eine für den Bund (Federal Income Tax). 
-Ich sage euch, das ist immer der Wahnsinn. Nachdem ich
-das 1040 und die einhundert und eins Unterformulare mit Hilfe meines
-Steuersoftwareprogramms Turbo Tax ausgefüllt habe, geht der gleiche Quatsch
-für den Budesstaat Kalifornien los, nur heißt das Formular hier 540,
-willkommen in Absurdistan! 3) Schuldzinsen für Hausdarlehen (allerdings in
-gewissen Grenzen). Zahlt ein verheiratetes Ehepaar zum Beispiel $12.000
-Zinsen pro Jahr für ein Hausdarlehen, können ungefähr $4.200 davon
-abgesetzt werden. 4) Spenden für gemeinnützige Einrichtungen und
-Insitutionen, allerdings nur wenn sie nicht 30% bis 50% des zu versteuernden
-Einkommens übersteigen. 5) Verluste durch Diebstahl oder andere Unglücke (zum
-Beispiel Naturkatastrophen), allerdings nur was über 10% des zu versteuernden
-Einkommens hinaus geht. 6) Verschiedene andere Aufwendungen, wie zum Beispiel
-berufsbezogene Ausgaben, die der Arbeitnehmer nicht erstattet bekam, Ausgaben
-für Steuerberater oder Steuersoftwareprogramme, wenn sie 2% des zu
-versteuernden Einkommens übersteigen.
+<em>Schedule A</em>: This is the form for claiming itemized deductions:
+1) Medical expenses covered out of pocket. But they must exceed 10% of
+the taxable income. 2) Taxes paid in the state of residence over the last
+year. This might sound strange to you, but in fact, it makes a lot of sense,
+since some U.S. states don't have an additional state income tax at all
+(Alaska, Florida, Nevada, South Dakota, Texas,
+Washington, Wyoming), while states like California or New York ask the
+taxpayer for significant amounts of extra money. In these states, taxpayers
+submit two different income tax return, a federal one and another one
+for the particular state of residence during the tax year.
+It's crazy, I'm telling you. After having completed the federal 1040 form and
+a dozen other schedules via the tax software program "Turbo Tax", the
+odyssee continues with with the California tax return, only that the form
+is called 540 there, welcome to insanity! 3) Interest payments for home
+mortgages (within limits). For example, if a married couple is paying
+$12,000 in interest for a mortage on their house, they can deduct about
+$4,200 from their income taxes. 4) Donations to charity, up to
+30%-50% of the taxable income 5) Losses caused by theft or accidents
+(for example natural disasters), but only if the amount exceeds 10%
+of the taxable income. 6) Other expenses like job-related charges
+not reimbursed by the employer, or what the taxpayer had to spend 
+for tax consultants or tax software, but only if they exceed 2% of the
+taxable income.
 
 <HTMLONLY>
-<pic images/tax-forms.ps Steuerformulare liegen in einer öffentlichen Bibliothek aus. Foto: flickr[Brian Herzog|herzogbr/359841353]>
+<pic images/tax-forms.ps Tax forms are available in this public library. Photo: flickr[Brian Herzog|herzogbr/359841353]>
 </HTMLONLY>
+
+TODO_TRANSLATE
 
 <em>Schedule B</em>: 
 Wenn man mehr als $1.500 Zinseinnahmen oder Dividenden im Jahr
