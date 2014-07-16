@@ -340,24 +340,22 @@ taxable income.
 <pic images/tax-forms.ps Tax forms are available in this public library. Photo: flickr[Brian Herzog|herzogbr/359841353]>
 </HTMLONLY>
 
-TODO_TRANSLATE
-
 <em>Schedule B</em>: 
-Wenn man mehr als $1.500 Zinseinnahmen oder Dividenden im Jahr
-hatte, kommt das Formular B auf den Plan.  Im ersten Teil werden die Zinsen
-aufgelistet, im zweiten Teil die Dividenden. Allerdings bedeutet das nicht,
-dass Zinsen unter $1500 nicht zu versteuern sind, weit gefehlt. Alle Zinsen und
-Dividenden sind zu versteuern. Nur braucht man für geringere Beträge kein
-extra Formular auszufüllen sondern trägt den Betrag einfach in die
-entsprechende Zeile des Hauptformulars 1040 ein. 
-Übrigens ist auf dem Formular B im dritten
-Teil anzugeben, ob der Steuerzahler ein ausländisches Konto besitzt und in
-welchem Land es sich befindet.
+If you've had more than $1,500 last year in income from interest and dividends, 
+you need to submit the Schedule B form. The first part lists the interest
+income, the second the dividends from stocks. This doesn't mean that
+interest below $1,500 isn't taxed, every single cent in interest and dividends
+needs to be taxed, it's just that for less than $1,500 there's no requirement
+to fill out the form, because you can list this capital income on the main 
+1040 form. If the tax payer owns foreign accounts, there's a section in
+part 3 of Schedule B which requires to name them, and to state in which 
+country they're located.
 
 <em>Schedule C</em>: 
-Selbständige Arbeitnehmer benutzen dieses Formular, um ihren
-Gewinn oder Verlust aus selbständiger Tätigkeit auszurechnen und
-dementsprechend zu versteuern.
+Self-employed taxpayers use this form to calculate their financial
+gains or losses from self-employed work and the required tax payments.
+
+TODO_TRANSLATE
 
 <em>Schedule D</em>: Hier werden Gewinne oder Verluste von Aktienverkäufen
 sowie Verkäufen von Aktienfonds aufgelistet. Der Steuerzahler muss zwischen
