@@ -355,23 +355,22 @@ country they're located.
 Self-employed taxpayers use this form to calculate their financial
 gains or losses from self-employed work and the required tax payments.
 
-TODO_TRANSLATE
+<em>Schedule D</em>: This is where you list gains and losses from 
+selling stocks and mutual funds. There's a difference between short
+term gains of stocks held for less than a year and long term gains if you've 
+owned a stock for more than one year. The tax rate is different in each
+case, on short term gains, it is equal to the tax payer's income tax rate,
+and for long term gains, it's between 15% and 20%. You can claim a 
+consolation prize on realized losses by balancing them against gains, and
+only pay tax on net gains. But there's an exception, the so-called
+"wash sale" (<RBLINK>20100509#8</RBLINK>). If someone has had a particularily 
+bad year and had more losses than gains, they can deduct up to $3,000 of
+those losses from regular income. If they've lost more than $3,000 in a year
+in the stock market, only $3,000 can be deducted in this way from regular
+income in the current year, but the remaining loss can be rolled over 
+to following years.
 
-<em>Schedule D</em>: Hier werden Gewinne oder Verluste von Aktienverkäufen
-sowie Verkäufen von Aktienfonds aufgelistet. Der Steuerzahler muss zwischen
-kurzfristigen Gewinnen bei Aktien, die er innerhalb eines Jahres verkauft hat,
-oder langfristigen Gewinnen bei Aktien, die sich mehr als ein Jahr lang in
-seinem Besitz befanden, unterscheiden.  Die Steuer ist underschiedlich. Bei
-kurzfristigen Gewinnen entspricht er dem Einkommenssteuersatz des
-Steuerplichtigen, bei langfristigen Gewinnen zwischen 15-20%. Ein besonderes
-Zuckerl des amerikanischen Steuer\-gesetzes ist, dass Aktiengewinne gegen
-Aktienverluste aufgerechnet werden können und man dann nur den Reingewinn zu
-versteuern hat. Eine Ausnahme gibt's: Den sogenannten Wash-Sale
-(<RBLINK>20100509#8</RBLINK>).  Wer sich total verspekuliert hat und über das
-gesamte Jahr gerechnet unterm Strich einen Verlust produziert, kann bis zu
-$3.000 davon von seinen sonstigen Einnahmen absetzen.  War der Gesamtverlust
-höher als $3.000, gehen nur $3.000 im aktuellen Jahr, aber der Restverlust kann
-ins nächste Jahr mit rübergenommen und dann abgesetzt werden.
+TODO_TRANSLATE
 
 <em>Schedule SE (Self-employment Tax)</em>: Selbständige berechnen mit Hilfe
 dieses Formulars die Höhe ihrer Sozial\-versich\-erungs\-abgaben. Das sind die
