@@ -370,33 +370,27 @@ in the stock market, only $3,000 can be deducted in this way from regular
 income in the current year, but the remaining loss can be rolled over 
 to following years.
 
+<em>Schedule SE (Self-employment Tax)</em>: Self-employed individuals
+use this form to calculate what they need to pay for 
+Social Security (federal low-level retirement income) 
+and medicare (federal health insurance for retirees).
+
+I've mentioned here a while back that there's no need to submit any
+invoices or receipts with the tax return (<RBLINK>19980509#1</RBLINK>).
+Every U.S. bank or brokerage house will send detailed information on how 
+much interest or dividend income was generated during the year, or
+which stocks were sold to the IRS on behalf of the account holder. 
+Copies of these 1099 forms are also sent to the taxpayer each year
+at the end of January. The taxpayers also receive three copies of 
+the "W-2" form from their employers, it lists the yearly income, and how much
+was already deducted from it in social security and income taxes. 
+When submitting the tax return, the tax payer staples the "W-2" form
+to the return, unless it's transmitted electronically (called "e-filing"),
+in which case it's no longer necessary.
+
+<pic images/taxform.ps The dreaded 1040 tax form. Photo: flickr[John Morgan|aidanmorgan/5524891107]>
+
 TODO_TRANSLATE
-
-<em>Schedule SE (Self-employment Tax)</em>: Selbständige berechnen mit Hilfe
-dieses Formulars die Höhe ihrer Sozial\-versich\-erungs\-abgaben. Das sind die
-Beiträge zur staatlichen Rentenversicherung (Social Security) 
-und Medicare (die staatliche Krankenversicherung im Rentenalter).
-
-Ich habe im Rundbrief schon einmal erwähnt, dass mit der ameri\-kani\-schen
-Steuer\-erklä\-rung keine Belege oder Quittungen einzuschicken sind
-(<RBLINK>19980509#1</RBLINK>).
-Allerdings schicken sämtliche
-amerikanische Banken, Kreditinstitute und Börsenmarkler Kontrollmitteilungen an
-das Finanzamt, auf den sogenannten 1099-Formularen. Dort wird genau aufgelistet,
-wieviele Zinsen das Bankkonto übers Jahr abgeworfen hat, 
-wieviel es an Dividenden gab, und welche
-Aktien veräussert wurden. Ende Januar flattern einem die 1099s ins Haus
-und das Finanzamt erhält eine separate Kopie. Das Formular "W-2" erhält jeder
-Arbeitnehmer ebenfalls im Januar in dreifacher Ausfertigung. Das ist
-letztendlich so etwas wie eine Steuerkarte, denn es werden das Jahresgehalt
-aufgelistet, und 
-in welcher Höhe Sozial\-versich\-erungs\-beiträge und Einkommen\-steuer
-abgeführt wurden. Beim Einschicken der Steuer\-erklärung per Post heftet man
-eine Kopie des Formulars "W-2" an sein 1040-Formular. Wird die Steuererklärung
-elektronisch übermittelt, was sich in Amerika "e-filing" schimpft, braucht es
-keine Kopie mehr.
-
-<pic images/taxform.ps Das gefürchtete Formular 1040. Foto: flickr[John Morgan|aidanmorgan/5524891107]>
 
 In den USA dient die Sozialversicherungsnummer (SSN), die jeder bei der Geburt
 erhält, gleichzeitig als Steuernummer. Einwanderer in bestimmten Visakategorien
