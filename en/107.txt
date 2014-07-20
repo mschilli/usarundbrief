@@ -296,7 +296,7 @@ For this reason, I've never really understood why people file for
 extensions in the first place, because if I have to calculate how much 
 I potentially owe anyway, I can just as well finish up the forms and submit
 my return, unless I know for sure that I'll always get money back by
-the Internal Revenue Service.
+the Internal Revenue Service (IRS).
 
 Obviously, preparing our income tax forms isn't exactly my favorite
 activity, but since taxes are somewhat inevitable, I thought it might
@@ -417,37 +417,34 @@ status, the tax law offers different tax exemptions and varying amounts.
 
 <pic images/1040-1.ps The first page of the 1040 form for our John Q. Public family.>
 
-TODO_TRANSLATE
+To make this more accessible, let's go through a specific example. Holger
+and Monika Mustermann are two Germans holding U.S. Greencards and are
+living in San Francisco with their two school-aged children.
+They've been residing in the U.S. for five years now, and for the entire
+year of 2013, they've been living and working in San Francisco. This is
+why they are paying taxes on their worldwide income to the U.S. 
+Internal Revenue Service. The married couple submits a joint return
+("Married, filing jointly"). Monika works as a teacher at a public
+school in San Francisco and gets $55,000 a year. Holger is a self-employed
+author and made $80,000 in 2013. On the submitted 1040 form, Monika writes
+down her salary in line 7 and Holger's net income from self-employed work goes
+on line 12.
 
-Aber um für euch alles etwas anschaulicher zu machen, hilft vielleicht ein
-konkretes Beispiel. Holger und Monika Mustermann sind zwei Deutsche, die die
-amerikanische Greencard besitzen und mit ihren zwei noch schulpflichtigen
-Kindern in San Francisco leben. Sie leben seit fünf Jahren in den USA und
-haben auch das gesamte Jahr 2013 über in San Francisco gelebt und gearbeitet,
-müssen also ihr weltweites  Einkommen für das Jahr 2013 in den USA
-versteuern. Das Ehepaar Mustermann gibt eine gemeinsame Steuererklärung ab
-(Status: Married, filing jointly). Monika Mustermann arbeitet als Lehrerin an
-einer öffentlichen Schule in San Francisco und verdient im Jahr 55.000 Dollar.
-Holger Mustermann ist selbständiger Autor und hat im Jahr 2013 80.000 Dollar
-Gewinn erwirtschaftet. Auf dem Formular 1040 trägt Monika ihr Gehalt in der
-Zeile 7 ein und Holger den Gewinn aus seiner selbständigen Tätigkeit in Zeile
-12. 
-
-Den Gewinn errechnet er, indem er Schedule C ausfüllt. Das Ehepaar
-Mustermann bekam Sparzinsen in Höhe von 400 Dollar, davon warf ein
-altes deutsches Sparkonto 200 Dollar ab. Dividenden gab es in Höhe von $1.300.
-Die angefallenen Kapitaleinkünfte sind alle als gewöhliche 
-Dividenden auf dem 1099
-charakterisiert, also werden sie 
-mit dem regulären Einkommenssteuersatz versteuert.
-Zum Vergleich: als "qualifiziert" klassifizierte Dividenden werden nur mit
-15%-20% versteuert. Dividenden, die von amerikanischen Firmen ausgeschüttet
-werden, fallen in der Regel in die qualifizierte Kategorie ("qualified
-dividends"). 
+Holger calculates his gains from self-employed work by completing schedule C.
+Aside from that, the couple received $400 in interest savings 
+accounts, $200 of which originated from a German bank account. They also
+received dividend payments of $1,300. All of their capital gains are 
+listed as regular dividends on the 1099 form, and they're taxed at the
+the couple's income tax rate. In comparison, dividends 
+categorized as "qualified" are only taxed with a lower rate between
+15% and 20%, which applies to virtually all dividends paid by U.S.
+companies.
 
 <HTMLONLY>
-<pic images/1040-2.ps Die zweite Seite Formulars 1040 für Familie Mustermann.>
+<pic images/1040-2.ps The second page of the 1040 form for the Mustermann family.>
 </HTMLONLY>
+
+TODO_TRANSLATE
 
 Obwohl Holger und Monika weder Zinsen noch Dividenden in Höhe von
 $1.500 Dollar haben, müssen sie trotzdem Schedule B ausfüllen, da sie über
