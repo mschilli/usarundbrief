@@ -390,34 +390,34 @@ in which case it's no longer necessary.
 
 <pic images/taxform.ps The dreaded 1040 tax form. Photo: flickr[John Morgan|aidanmorgan/5524891107]>
 
+The IRS identifies taxpayers by their social security number (SSN), 
+which every U.S. citizen automatically obtains at birth. 
+Immigrants in some visa categories
+won't receive an SSN, and, quite interestingly, 
+there's millions of illegal immigrants living
+in the U.S. without one. When these residents set out to dutifully pay their
+taxes, the IRS is looking the other way, as it wants tax
+income, and isn't interested in people's immigration status. In these
+cases, law-abiding taxpayers receive a "tax identification number" in lieu
+of the SSN. Either number goes on every tax form, including the 
+aforementioned 1099, where it serves to identify individual taxpayers.
+
+Before you start filling in tax forms, it is advisable to determine your
+tax category, called "filing status". In total, there's five different
+classes: 1) "Single" 2) "Married, filing jointly": if a married couple 
+returns a single, combined tax return, regardless if both or only one 
+spouse is working
+3) "Married, filing separately": when two spouses file separate tax
+returns, which can be beneficial if their income is about the same 
+4) "Head of Household": for example if a single parent raises a child
+5) "Widow/Widower with dependent child": this status may be selected 
+after up to two years after one spouse has died. In general, 
+depending on the filing
+status, the tax law offers different tax exemptions and varying amounts.
+
+<pic images/1040-1.ps The first page of the 1040 form for our John Q. Public family.>
+
 TODO_TRANSLATE
-
-In den USA dient die Sozialversicherungsnummer (SSN), die jeder bei der Geburt
-erhält, gleichzeitig als Steuernummer. Einwanderer in bestimmten Visakategorien
-bekommen allerdings keine SSN, und es leben auch Millionen von illegalen 
-Einwanderern im Land, die ebenfalls keine haben. Zahlen diese 
-Bevölkerungsgruppen allerdings brav ihre Steuern, drückt das Finanzamt
-ein Auge zu, denn es will nur sein Geld der Immigrantenstatus ist da oft 
-zweitrangig. In diesen Fällen erhält der ehrliche Steuerbürger eine
-Steuernummer ("Tax Identification Number") als Ersatz für die
-SSN. Die Nummer muss man auf jedem Steuerformular angeben und
-auch auf dem oben erwähnten Formular 1099 dient sie zur Identifizierung.
-
-Bevor man sich an das Ausfüllen des Steuerformulars macht, geht es zunächst
-darum, festzustellen, welche Steuerklasse auf einen zutrifft, in den USA "Filing
-Status" genannt. 
-Insgesamt sind es fünf verschiedene Klassen: 1) "Single": Alleinstehend 2)
-"Married, filing jointly": Verheiratet, gemeinsame Steuer\-erklärung, auch dann,
-wenn nur einer arbeitet 3) "Married, filing separately: Verheiratet, getrennte
-Steuer\-erklärungen, denn für Verheiratete, die ungefähr gleich viel
-verdienen, kann es unter Umständen besser sein, wenn jeder eine separate
-Steuer\-erklärung abgibt. 4) "Head of Household": Haushalts\-vorstand, zum
-Beispiel wenn man allein\-erziehend ist. 5) "Widow/Widower with dependent child":
-Witwe/Witwer mit abhängigem Kind (kann zwei Jahre lang nach dem Todesfall des
-Ehepartners als Steuerklasse gewählt werden). Die verschiedenen Klassen
-bestimmen, wie hoch die Freibeträge sind und was abgesetzt werden darf.
-
-<pic images/1040-1.ps Die erste Seite Formulars 1040 für Familie Mustermann.>
 
 Aber um für euch alles etwas anschaulicher zu machen, hilft vielleicht ein
 konkretes Beispiel. Holger und Monika Mustermann sind zwei Deutsche, die die
