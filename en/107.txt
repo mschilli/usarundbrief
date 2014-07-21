@@ -444,47 +444,42 @@ companies.
 <pic images/1040-2.ps The second page of the 1040 form for the Mustermann family.>
 </HTMLONLY>
 
+Although Holger and Monika have earned less than $1,500 in interest,
+they need to complete schedule B, since they own a foreign bank account
+in Germany.
+Holger also sold some Amazon stocks and gained $3,500, as he calculated
+in schedule D and then entered in line 13 of the 1040 form. The total
+income for the year 2013 in this example is therefore
+$140,200, as you can verify by adding the amounts $55,000 + $400 + $1,300 + 
+$80,000 + $3,500. Since Holger is self-employed, he can deduct
+50% of the social security payments he made, which lessens the total income
+by $5,652, which is now down to $134,548. This amount is called
+"adjusted gross income". Now it's time to deduct qualified expenses to 
+reduce the taxable income even further. First off, the Mustermann family 
+has deductible expenses of $12,800, as calculated in schedule A. The
+standard deduction for married couples is $12,200, which is $600 less than
+what the Mustermann family can deduct, so it makes sense for them to
+itemize their deductions explicitly in schedule A instead of taking
+the standard deduction.
+
+The Mustermann family can further claim so-called "exemptions" for every
+family member living in their household. For the four of them, that's 
+$3,900 per person. Although the family has to pay for childcare, since
+both parents are working, they won't receive the so-called "child care credit",
+because their combined income exceeds the limit. In line 57, Holger enters
+the amount of social security contributions he had to pay because he's
+self-employed. Holger also pre-paid $20,000 in estimated taxes and Monika's
+employer already withheld $8,250 in federal income tax contributions. 
+All of the above considered, the family now owes $1,499 in federal 
+income taxes. If they send in the income tax return by mail, they simply 
+include a check for the amount of $1,499. If they opt for e-filing, they
+can conveniently pay the amount they owe by credit card.
+
+@Z: Nicosia Cheese Company
+
+<pic images/nicasio-valley-cheese-cut.ps Storing this cheese made at "Nicosia Cheese Company" north of San Francisco in your fridge requires a doubled-up zip lock bag.>
+
 TODO_TRANSLATE
-
-Obwohl Holger und Monika weder Zinsen noch Dividenden in Höhe von
-$1.500 Dollar haben, müssen sie trotzdem Schedule B ausfüllen, da sie über
-ein Konto in Deutschland verfügen. Holger verkaufte auch ein paar Aktien der
-Firma Amazon und erzielte einen Gewinn von $3.500, wie er auf Schedule D
-errechnet und dann den Betrag in der Zeile 13 auf dem 1040 eingetragen
-hat. Das
-gesamte Einkommen der Familie Mustermann im Jahr 2013 beträgt somit $140.200,
-was sich aus der Summe von $55000 + $400 + $1300 + $80000 + $3500
-ergbit. Holger darf jetzt noch in 
-Zeile 27 die Hälfte
-seines Sozialversicherungsbeitrags als Selbständiger abziehen, und zwar $5.652
-Dollar, was das gemeinsame Einkommen auf $134.548 Dollar sinken lässt. Der
-Betrag wird hier "Adjusted Gross Income" genannt. Jetzt geht es darum, diesen
-Betrag weiter zu schmälern.  Zunächst verfügt die Familie Mustermann über
-absetzbare Aufwendungen im Wert von $12.800 (Schedule A). Da die
-Einzelaufstellung ihrer Aufwendungen die Standardwerbekostenpauschale, die für
-Verheiratete $12.200 beträgt, um 600 Dollar übersteigt, ist es für Familie
-Mustermann sinnvoller, die Aufwendungen mit Hilfe des Schedule A einzeln
-abzusetzen. 
-
-Die Familie kann weiterhin für jedes Familienmitglied, das im
-Haushalt lebt (also einschließlich des Ehepaar Mustermanns 4 Personen), eine
-Pauschale von $3.900 pro Person absetzen, die sogenannten "Exemptions".
-Obwohl die Familie für Kinder\-betreuung aufkommt, da beide Eltern arbeiten,
-können Holger und Monika die Kinder\-betreuungs\-pauschale ("Child Care Credit")
-nicht in Anspruch nehmen, da beide zusammen zu viel verdienen. Auf Zeile 57
-trägt Holger seine zu zahlenden Sozialversicherungsbeiträge als Selbständiger
-ein. Holger zahlte als Selbständiger Steuern im Wert von $20.000 voraus
-und von Monikas Gehalt wurden vom Arbeitgeber schon 
-insgesamt $8.250 Steuern für den Bund
-einbehalten. Die Familie zahlt also für das Jahr 2013 einen Betrag von
-$1.499 an Steuern an den Bund (Federal Income Tax) nach. 
-Schickt die Familie ihre Steuererklärung per Post ein, legt sie einfach
-einen Scheck über $1.499 mit bei. Bevorzugt die Familie die elektronische
-Steuererklärung, kann sie den Betrag bequem mit Kreditkarte zahlen. 
-
-@Z: Käserei in Nicasio
-
-<pic images/nicasio-valley-cheese-cut.ps Diesen Käse von der Käserei "Nicosia Cheese Company" nördlich von San Francisco bewahrt man besser in einer zweifachen Zip-Lock-Hülle im Kühlschrank auf.>
 
 <em>Angelika</em>
 Käse was lange Zeit eine eher traurige Angelegenheit in  den USA. Ich
