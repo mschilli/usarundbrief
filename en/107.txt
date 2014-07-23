@@ -479,54 +479,52 @@ can conveniently pay the amount they owe by credit card.
 
 <pic images/nicasio-valley-cheese-cut.ps Storing this cheese made at "Nicosia Cheese Company" north of San Francisco in your fridge requires a doubled-up zip lock bag.>
 
-TODO_TRANSLATE
-
 <em>Angelika</em>
-Käse was lange Zeit eine eher traurige Angelegenheit in  den USA. Ich
-erinnere mich noch gut, als wir das erste Mal Ende der Achtziger durch die
-USA reisten und Supermärkte Käse nur in der 
-künstlich-chemischen Variante
-oder einzeln abgepackt und eingeschweißt in Scheiblettenform anboten.
-Wenn wir guten Käse fanden, war der meist aus Italien, Holland
-oder Frankreich importiert
-und es gab in der Regel nur die Standardsorten wie Gouda
-oder Camembert. Schon damals fragte ich mich, wie ein Land, das soviel Kühe
-hat, nicht auf die Idee kommt, besseren eigenen Käse zu produzieren. 
+I still remember the time when getting edible cheese in the U.S. was almost
+impossible. Back in the 80ies, when we were travelling cross country, 
+the only kind of cheese for sale in supermarkets was usually sliced and
+shrink-wrapped Velveeta-branded chemical cheese surrogate. A few times
+we found good cheese, but it was always imported from Italy, the Netherlands, 
+or France, and only the most popular varieties like Gouda or Camembert
+were available. I kept asking myself why on earth a country with so many
+cattle farms can't get their act together to produce better cheese.
 
-<pic images/nicasio-valley-cheese-factory.ps Die Käserei "Nicosia Cheese Company" nördlich von San Francisco.>
+<pic images/nicasio-valley-cheese-factory.ps The "Nicosia Cheese Company" north of San Francisco.>
 
-Aber
-das lag natürlich hauptsächlich an den Essgewohnheiten, denn Käse wurde
-hauptsächlich nur auf den berühmten Cheeseburger oder aufs Sandwich gepackt. 
-Ende der 90er
-änderte sich das aber schlagartig. Der amerikanische Konsument entdeckte,
-dass man Käse zum Wein verzehren kann und gerade in Landstrichen mit
-hoher Restaurantdichte wie zum Beispiel in New
-York City, Boston, San Francisco, Chicago oder Portland, erlebt handgemachter
-Käse von kleinen Käsereien seit einigen Jahren einen Boom.
+But of course this lack of interesting cheese offerings 
+was mainly caused to consumer demand. Most
+people wanted cheese solely to be stacked onto cheeseburgers or sandwiches.
+This changed dramatically towards the end of the 90ies, when the 
+American continent discovered that cheese goes really well as a snack
+with wine, and
+nowadays, hand-crafted cheeses have become quite popular in regions with high
+culinary standards, like York City, Boston, San Francisco, Chicago, 
+or Portland, where small cheese companies producing artisan cheeses
+are now booming.
 
-<pic images/nicasio-valley-cheese-wrapped.ps Die Käsesorten "Nicasio Square" und "Nicasio Geronimo" von der Käserei Nicosia Cheese Company.>
+<pic images/nicasio-valley-cheese-wrapped.ps The cheese varieties "Nicasio Square" and "Nicasio Geronimo" by "Nicosia Cheese Company".>
 
-In den Landkreisen Marin und Sonoma, also nördlich der Golden Gate Bridge,
-gibt es mittlerweile eine Vielzahl von kleinen Käsereien, die mit viel
-Liebe Käse produzieren. Viele bieten mittlerweile ähnlich wie die
-Weingüter im Napa und Sonoma Valley, Käse kostenlos zum Probieren an.
-Als wir im Mai in Point Reyes weilten (siehe
-Austernbeitrag <RBLINK>20140615#1</RBLINK>),
-fuhren wir auf unserem Rückweg durch den kleinen Ort
-Nicasio. Der Ort gehört zu einem meiner Lieblingsorte, denn hier ist
-einfach die Zeit stehen geblieben und es freut mich immer, dass solche Orte
-noch existieren in der hochmodernen Bay Area. Auf jeden Fall steht hier
-ein Biobauernhof, der auch eigenen Käse herstellt, nämlich die 
-<LINK>http://www.nicasiocheese.com|Nicasio Valley Cheese Company</LINK>
-Die Käserei arbeitet ausschließlich mit Biomilch und
-stellt zur Zeit acht Käsesorten her. Michael und ich lieben ja die
-etwas deftigeren Sorten und deshalb sind unsere Favoriten dieser Käserei
-der "San Geronimo", der wie eine Mischung aus Fontina und
-Raclettekäse schmeckt, und der "Nicasio Square" Käse, der laut Broschüre
-an den italienischen Taleggio erinnern soll. Es wundert übrigens
-kaum, dass der Bauernhof seine Liebe zum Käse entdeckt hat: Die Vorfahren
-kamen aus der Schweiz und erwarben 1919 Land in Nicasio.
+In Marin and Sonoma county, north of Golden Gate Bridge, there's now
+a plethora of small cheese companies, which proudly produce artisan cheeses.
+Many outlets offer free tastings, similar to the vinyards in Napa
+and Sonoma county. When we were visiting Point Reyes the other day
+(see our oyster farm report: <RBLINK>20140615#1</RBLINK>), on our way home, 
+we stopped in the small village of Nicasio. It's one of my favorite 
+places, because it just seems like time has been standing still here,
+and I'm always fascinated that quiet places like this still exist not too far
+off from the hustle and bustle of the high-tech Bay Area.
+There's an organic cattle farm here which produces hand-crafted cheese, 
+and they're called
+<LINK>http://www.nicasiocheese.com|Nicasio Valley Cheese Company</LINK>.
+They're using organic milk to make eight different cheeses. Since Michael and I 
+prefer the strongly flavored varieties, our favorites are the 
+"San Geronimo", which resembles Fontina and raclette cheeses, and 
+the "Nicasio Square", which, according to the company's brochure, is similar
+to the Italian Taleggio. It's not surprising that these cattle farmers have
+discovered their passion for cheese: Their ancestors came over from 
+Switzerland and bought land in Nicasio in 1919.
+
+TODO_TRANSLATE
 
 @Z: Top-Produkt: Surfanzug- und Stiefel-Trockner
 
