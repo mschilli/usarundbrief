@@ -62,34 +62,34 @@ don't know, but it's worth a try. In any case, the German expats in
 San Francisco truly enjoyed the experience, and at a price that you just
 can't beat.
 
-TODO
+@Z: Ugly new buildings in San Francisco
 
-@Z: Hässliche Neubauten in San Francisco
-
-<pic images/whole-foods.ps Die Supermarktkette Whole Foods lässt sich in San Francisco bevorzugt in der Nähe hässlicher Neubauten nieder.>
+<pic images/whole-foods.ps The grocery store chain Whole Foods prefers new locations near ugly new buildings.>
 
 <em>Angelika</em> 
-Als ich im mich im zarten Teenageralter befand, war ich
-absolut fasziniert von dem Werk "Hier fällt ein Haus, dort steht ein Kran und
-ewig droht der Baggerzahn oder Die Veränderung der Stadt" von Jörg Müller
-und Heinz Ledergerber. Es handelt sich dabei um Illustrationen, die die
-erschreckende Veränderung einer Stadt zeigen. Ja, ich hatte die Bilder sogar
-alle über meinem Bett hängen. Es wird immer der gleiche Abschnitt einer Stadt
-gezeigt mit den zunächst schleichenden Veränderungen, bis zum Schluss alles
-hässlich zubetoniert ist. Auf Youtube könnt ihr euch eine kleine
-Kostprobe von
-<LINK>http://www.youtube.com/watch?v=0rMzdN0MMJw|"Die Veränderung der Stadt"</LINK>
-anschauen, damit ihr wisst wovon ich spreche.
+When I was a teenager, I loved a German book with a title that roughly
+translates to "Here's a house being demolished, there's a construction
+crane and the bulldozer beckons, or: Changes in the city" and was
+written by Jörg Müller und Heinz Ledergerber. It's a picture book, 
+illustrating the appalling construction changes happening over the course 
+of time in a once beautiful city. It first
+shows almost unnoticable small changes, but towards the end, everything
+is covered with concrete. To get an impression of what I'm referring to, 
+check out the 
+<LINK>http://www.youtube.com/watch?v=0rMzdN0MMJw|Youtube video "Changes in the City">.
 
-Wenn ich in letzter Zeit in San Francisco unterwegs bin, fühle ich mich
-ständig an die Illustrationen erinnert und es schaudert mir. In San Francisco
-ist ein wahrer Bauboom ausgebrochen und man könnte meinen, dass die
-Architekten alle an dem Wettbewerb teilgenommen haben "Wie baue ich möglichst
-langweilige, genau gleich aussehende Betonbunker, die horrende Summen von Geld
-kosten." Vor allem bestimmte Abschnitte der Market Street befinden sich völlig
-im Umbruch. Die Market Street zieht sich leicht diagonal laufend vom
-Embarcadero am Wasser durch die Innenstadt, später durchs Castro-Viertel und
-endet in der sogenannten Twin-Peaks-Gegend. 
+When I'm walking around San Francisco latetly, I get the feeling that
+very similar changes are happening here, and to my horror, 
+they're reminding me of the illustrations in the old book. There's a newly 
+fueled construction frenzy under way in San Francisco these days, and
+you could get the impression that the architects designing the new buildings
+were all spat out from a college class titled "How to build boring and 
+identical looking eyesores costing exorbitant amounts of money".
+Large parts of Market Street, winding through various parts of San 
+Francisco, are under construction, from the Embarcadero at the Bay, through
+the inner city and later in the Castro and Twin Peaks neigborhoods.
+
+TODO
 
 Obwohl die Market Street die Hauptverkehrsader der Innenstadt ist, gibt es
 Ecken, die schon von jeher ziemlich runtergekommen ausschauen. Vor allem der
