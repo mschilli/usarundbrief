@@ -137,27 +137,25 @@ to board a shuttle that is driving them straight away to work.
 
 <pic images/duboce.ps New building on Duboce Street: Again the dreaded architectural blandness.>
 
+On average, in San Francisco, rent is up about 20% from last year. The
+above mentioned housing complexes on the corner of Market and Dolores
+Street charge almost $3,000 a month for a studio 
+(that's a single room appartment with built-in kitchen) and $3,500 for a 
+one bedroom appartment. A two bedroom appartment goes for $3,800 and a
+three bedroom for a whopping $8,000. On city-wide average, a two bedroom
+apparment currently rents for about $3,400. That's changing the landscape
+significantly, because there's more and more people from the so-called
+middle class who can't afford to live in San Francisco anymore and are
+forced to move someplace else. Especially families with kids are leaving. 
+In the meantime, the pressure increases on the mayor and the city council,
+because no one wants to live in a city without kids or seniors, or people
+with professions supporting the city, like firemen, policemen, nurses,
+teachers, retail sales people, or garbage collectors. No one working
+in these fields can currently afford to live in San Francisco anymore.
+
+<pic images/soma-building.ps In the "Dogpatch" Neighborhood: All new buildings look the same.>
+
 TODO
-
-Allgemein sind die Mieten in San Francisco im Vergleich zum letzten Jahr um
-circa 20% gestiegen. In einem der von mir oben erwähnten bezugsfertigen
-Wohnkomplexe an der Market Street/Ecke Dolores Street kostet ein Studio (also
-ein Einzimmer-Appartment mit eingebauter Küchenzeile) zum Beispiel fast $3.000
-Miete monatlich und eine Zweizimmerwohung (in den USA als "1 Bedroom
-Appartment" definiert) $3.500. Eine Dreizimmerwohung kostet zwischen $3800 und
-$5.000 und eine Vierzimmerwohnung schlappe $8.000 monatlich.  Stadtweit kostet
-eine Dreizimmerwohnung im Durchschnitt momentan $3.400. Das verändert das
-Stadtbild sehr, denn immer mehr Leute, die eigentlich standardmäßig zur
-Mittelklasse gehören, können sich San Francisco einfach nicht mehr leisten
-und müssen wegziehen. Gerade Familien kehren San Francisco den Rücken.
-Mittlerweile erhöht sich aber der Druck auf den Bürgermeister und die
-Stadtabgeordneten, denn keiner will in einer Stadt leben, in der es weder
-Kinder noch Alte noch Leute mit Berufen gibt, die die Versorgung einer Stadt
-aufrecht erhalten (wie zum Beispiel Feuerwehrleute, Polizisten,
-Krankenschwestern, Lehrer, Verkäufer, Müllmänner), Für diese ist San
-Francisco unerschwinglich geworden. 
-
-<pic images/soma-building.ps Im Dogpatch-Viertel: Neubauten sehen mittlerweile alle gleich aus.>
 
 Die Stadt zwingt Bauherren sogar, 12% der neu errichten Wohnungen als
 Sozialwohnungen zu erschwinglichen Mieten anzubieten. Dabei kann der Bauherr
