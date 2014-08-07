@@ -155,18 +155,17 @@ in these fields can currently afford to live in San Francisco anymore.
 
 <pic images/soma-building.ps In the "Dogpatch" Neighborhood: All new buildings look the same.>
 
-TODO
+The city even forces homebuilders to create 12% of all newly built units
+as low cost housing. Builders can choose whether to build those themselves or
+pay a fee to the city, which then steps in and does it for them. With this
+rule in place, a total of 21 million dollars has been accumulated, but
+it's of no help if the city just keeps sitting on it. In the meantime,
+with my salary, appartments within city limits have moved out of reach for me, 
+despite the fact that I'm working full time. Many of my
+colleagues are living with their parents or share a space with a group of
+people for the same reason.
 
-Die Stadt zwingt Bauherren sogar, 12% der neu errichten Wohnungen als
-Sozialwohnungen zu erschwinglichen Mieten anzubieten. Dabei kann der Bauherr
-die Wohnungen selbst bauen oder eine Gebühr an die Stadt zahlen, die das Geld
-nutzt, um selbst diese Wohnungen zur Verfügung zu stellen. Mittlerweile hat
-sich eine Summe von fast 21 Millionen Dollar bei der Stadt angehäuft, aber es
-reicht halt nicht, das Geld einzusammeln und dann rumliegen zu lassen. Ich
-könnte mir mit meinem Gehalt mittlerweile kaum eine Wohnung allein in San
-Francisco leisten, obwohl ich Vollzeit arbeite. Viele meiner Kolleginnen wohnen
-deshalb entweder nach wie vor zu Hause bei den Eltern oder in
-Wohngemeinschaften.
+TODO
 
 @Z: Politisch korrektes Halloween
 
