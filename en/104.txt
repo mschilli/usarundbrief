@@ -165,44 +165,42 @@ despite the fact that I'm working full time. Many of my
 colleagues are living with their parents or share a space with a group of
 people for the same reason.
 
-TODO
+@Z: Halloween, politically correct
 
-@Z: Politisch korrektes Halloween
-
-<pic images/tv-news-halloween.ps Die Nachrichtensprecherin berichtet über eine Kampagne gegen kontroverse Halloween-Kostüme.>
+<pic images/tv-news-halloween.ps On the news: a campaign against controversial Halloween costumes.>
 
 <em>Michael</em>
-Als ich aufwuchs, wählte ich im Fasching immer ein von zwei möglichen Kostümen:
-Cowboy oder Indianer. Ich habe mal in meinem
-amerikanischen Freundeskreis nachgefragt, und einige haben bestätigt,
-dass das früher im ländlichen Amerika auch so war, aber dass
-es seit etwa den 1960ern nicht mehr geht,
-sich als Indianer zu verkleiden, da die
-Vertreibung der amerikanischen Ureinwohner vor 200 Jahren als eines der
-dunkelsten Kapitel in der Geschichte des Landes gilt.
+When I was growing up, I usually chose one of two costumes for carnival:
+Either Cowboy or Indian. My circle of American friends has confirmed 
+that there used to be similar customs in rural America as well, but that 
+since roughly the 1960ies, it has been considered politically incorrect 
+to dress children up as Indians, because the displacement of the native
+American population is considered to be one of the darkest chapters
+in the country's history.
 
-Auch als "Neger"
-kann man übrigens nicht gehen, denn mit der Hautfarbe scherzt der
-Amerikaner nicht. Ein schwarzer Arbeitskollege hat mir einmal lachend
-erzählt, dass er zur Faschingszeit in Schweden war und seinen Augen
-nicht traute, als er auf eine Gruppe ausgelassener Skandinavier mit
-schwarz angemalten Gesichtern und Ghetto-Perücken traf.
+Also, it would be considered an absolute no-no to dress up as a black person,
+as Americans generally don't condone joking about a person's ethnicity. An
+African American colleague at work once told me laughingly that while
+he was on vacation in Sweden, he once rubbed his eyes in disbelief upon
+noticing a group of partying locals with their faces painted black while
+wearing Afro wigs.
 
-<pic images/tv-news-poster.ps Angeblich nicht lustig: Verkleiden als Geisha oder Selbstmordattentäter.>
+<pic images/tv-news-poster.ps Allegedly not funny: Dressing up as Geisha or suicide bomber.>
 
-Vor kurzem wies die Sprecherin einer lokalen Nachrichtensendung in
-San Francisco nun auf eine Posterkampagne mit dem Titel
-<LINK>http://www.cnn.com/2011/10/26/living/halloween-ethnic-costumes/index.html|"We're a culture, not a costume"</LINK> hin, die aus aktuellem Anlass,
-kurz vor dem Kostümfest Halloween, an irgendeiner
-drittklassigen amerikanischen Uni läuft. Die Plakate zeigen junge Leute,
-die traurige Gesichter machen und Bilder mit Halloweenkostümen in der
-Hand halten, die ihren Kulturkreis veräppeln. Das japanische Mädchen hält
-ein Foto von einer Faschings-Geisha, und der junge Mann aus dem mittleren
-Osten einen Partygänger mit einem Ölscheichkostüm und Bombenzünderknopf.
-Finde ich persönlich überzogen, sich über so etwas aufzuregen, aber bitte,
-wir leben in einem freien Land. Solange ich kein Plakat mit einem
-lederhosentragenden Almödi hochhalten und ein trauriges Gesicht machen muss
-natürlich.
+Recently, a local news show in San Francisco aired a segment on a 
+poster campaign titled <LINK>http://www.cnn.com/2011/10/26/living/halloween-ethnic-costumes/index.html|"We're a culture, not a costume"</LINK>, run by a
+a third-tier university somewhere in the U.S., just in time for the
+upcoming Halloween celebrations. The posters depict young people making
+sad faces and holding pictures into the camera, showing Halloween costumes
+making fun of the person's cultural background. A Japanese girl holds up
+a photo of a carnival geisha, and a young middle eastern man shows a photo
+of a party goer dressed up as a suicide bomber holding up a switch.
+I don't know, I find it somewhat excessive to get all riled up at
+jokes like this, but we're living in a free country. As long as I don't have
+to hold up a picture of a Lederhosen-wearing Bavarian mountain man and make
+a sad face, that is.
+
+TODO
 
 @Z: Führerscheine für illegale Einwanderer in Kali\-fornien
 
