@@ -200,28 +200,26 @@ jokes like this, but we're living in a free country. As long as I don't have
 to hold up a picture of a Lederhosen-wearing Bavarian mountain man and make
 a sad face, that is.
 
-TODO
+@Z: Driver's Licenses for illegal immigrants in California
 
-@Z: Führerscheine für illegale Einwanderer in Kali\-fornien
-
-<pic images/dmv.ps Stellt bald auch Führerscheine für illegale Immigranten aus: Das Department of Motor Vehicles in Kalifornien.>
+<pic images/dmv.ps Will soon be issuing driver's licenses for illegal immigrants: the Department of Motor Vehicles in California (DMV).>
 
 <em>Angelika</em> 
-Nach jahrzehntelangem Ringen unterschrieb unser Gouverneur Jerry Brown heimlich
-still und leise ein <LINK>http://www.reuters.com/article/2013/10/04/us-usa-california-immigration-idUSBRE99301I20131004|Gesetz|Illegale Einwandererer können den Kalifornischen Führerschein erwerben</LINK>,
-das es illegalen Einwanderern erlaubt,
-kalifornische Führerscheine zu erwerben. Damit ist Kalifornien der zehnte
-Bundesstaat, der dies möglich macht. In einem Bundesstaat wie Kalifornien,
-der einen überdurchschnittlich hohen Anteil (ungefähr 3.5 Millionen) an
-illegalen Immigranten hat, ist das ein durchaus pragmatisches und vernünftiges
-Vorgehen. Denn viele der illegalen Einwanderer sind bis dato ohne Führerschein
-und in der Regel ohne Autoversicherung gefahren und es kam häufig vor, dass
-diese dann fluchtartig einen Unfallort verließen, aus Angst, dass ihr 
-Einwanderungsstatus ans Tageslicht käme. 
-Die Möglichkeit, legal einen Führerschein zu erwerben,
-sorgt dafür, dass bestimmte Grundstandards wie theoretische und praktische
-Fahrprüfung und der Erwerb einer Autohaftpflichtversicherung eingehalten
-werden. 
+After a decade of back-and-forth,
+our governor Jerry Brown recently rushed to sign a law without much publicity, that allows the California department of motor vehicles to issue <LINK>http://www.reuters.com/article/2013/10/04/us-usa-california-immigration-idUSBRE99301I20131004|driver's licenses to illegal immigrants</LINK>.
+With this law in place, California is the 10th state to allow this practice,
+and with an estimated number of 3.5 million illegal immigrants, and although
+it might sound strange, this is actually a fairly pragmatic move. 
+Before the legislative change, many of the illegal immigrants had been
+driving without a licence and usually also without insurance. In case they
+got into an accident, it wasn't uncommon for them to speed away from the scene,
+fearing deportation when authorities would bring their immigration status
+to light. With the opportunity to obtain legal driving documents,
+they now have to pass written and a driving tests to at least ensure 
+that they're aware of minimum safety standards, and, equally importantly,
+they now can legally purchase liability insurance. 
+
+TODO
 
 <pic images/dmv-driving-test.ps Hier dürfen bald auch illegale Einwanderer die kalifornische Fahrprüfung absolvieren.>
 
