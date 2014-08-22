@@ -219,40 +219,46 @@ they now have to pass written and a driving tests to at least ensure
 that they're aware of minimum safety standards, and, equally importantly,
 they now can legally purchase liability insurance. 
 
-TODO
+<pic images/dmv-driving-test.ps This location will even allow illegal immigrants to take the California driving test.>
 
-<pic images/dmv-driving-test.ps Hier dürfen bald auch illegale Einwanderer die kalifornische Fahrprüfung absolvieren.>
+That's the reason even more conservative organtizations like the California
+Highway Patrol (CHP) are in favor of this new law. It needs to be said, 
+though, that the driver's licenses issued to illegal immigrants will 
+bear a notice
+to indicate that it's exclusively issued as a driving permit and not
+as a valid form of ID. For example, they won't be valid to go through 
+airport security, which is consistent with the regulations of the Department
+of Homeland Security, which governs airports across the United States.
+Immigrant groups raised the question if the notice on the license will reveal
+the holder's immigration status. By California law, it is illegal 
+to discriminate against residents in this way, so there's apparently some
+kinks in the new law that need to be straightened out. The new
+documents are supposedly to be issued starting 2015.
 
-Deshalb waren auch sonst eher konservativ angehauchte Orga\-nisa\-tionen wie zum
-Beispiel die California Highway Patrol (so etwas wie die Autobahnpolizei) für
-das neue Gesetz.  Allerdings wird auf dem Führerschein vermerkt, dass er nur
-als Fahrerlaubnis gilt und nicht, um sich auszuweisen. Durch die
-Flughafenkontrolle, um inneramerikanisch zu fliegen, kommt man damit nicht. Das
-entspricht den Bestimmungen des "Department of Homeland Security", die
-amerikaweit für die einzelnen Bundesstaaten bindend sind. Vertreter von
-Immigrantengruppen waren dann auch besorgt, dass der illegale Status der
-Einwanderer aufgrund des Vermerks auf dem Führerschein öffentlich gemacht wird.
-Das kalifornische Gesetz baut Diskriminierungen dieser Art allerdings 
-explizit vor. Also besteht wohl noch Nachbesserungsbedarf. 
-Die Führerscheine soll es ab 2015 geben.
+@Z: Surfing in an Alaska-grade Wetsuit
 
-@Z: Der Alaska-taugliche Wetsuit
-
-<pic images/wetsuit.ps Surfender Tattergreis am Pazifikstrand.>
+<pic images/wetsuit.ps Old man surfing on a Pacific beach.>
 
 <em>Michael</em>
-Der Pazifik bei San Francisco ist so mörderisch kalt, dass jährlich im
-Schnitt ein paar Leute ertrinken, die aus Unachtsamkeit von sogenannten
-Sleeper-Waves (überraschend großen Wellen) kurz reingezogen werden oder
-unüberlegt ihren reingezogenen Haustieren folgen. Bei 10 Grad Celsius
-erstarren die Muskeln schnell und selbst passable Schwimmer kommen nicht
-mehr ans Ufer zurück.
+You might be aware of the fact that the Pacific ocean waters 
+near San Francisco are so cold, that on average a few people drown 
+close to the shore every
+year. Beach walkers are either caught by surprise by so-called "sleeper waves"
+(random unexpectedly big waves) and swept in, or they 
+foolishly go in to rescue their swept-in pets. 
+They don't realize that at 50 degrees Fahrenheit water temperature, 
+muscles go stiff quickly, and unable to perform the required forceful 
+strokes to overcome currents, even experience swimmers can't make it back 
+to shore.
 
-Da ich aber auf meine alten Tage noch immer versuche, mich mehr schlecht als
-recht auf Surfbrettern über Wasser zu halten und nicht nur während des
-jährlichen Hawaii-Urlaubs üben will, habe ich mir neulich während eines
-Aufenthalts in der Surferstadt Santa Cruz in einem Surferladen einen
-richtig dicken Wetsuit gekauft.
+But, as you might also know, even at my advanced age, I'm still trying to 
+establish myself as a surfer, and only practicing during the yearly 
+Hawaii vacation isn't going to cut it. That's why recently during a 
+stay in the surfer paradise of Santa Cruz, I entered a local surf shop
+and purchased a really thick wetsuit that allows me to bear
+the local water temperatures.
+
+TODO
 
 Allerdings ist das Anziehen des Taucheranzugs eine Tortur ersten Ranges. Als
 der Verkäufer mir im Laden einen Anzug raussuchte, mich zur Umkleidekabine
