@@ -258,33 +258,34 @@ stay in the surfer paradise of Santa Cruz, I entered a local surf shop
 and purchased a really thick wetsuit that allows me to bear
 the local water temperatures.
 
+What's not so obvious is that stepping into a wetsuit involves laborious
+physical work. This 
+daunted on me when the surfshop salesman, after he had picked 
+a suit for my size, and nudged me to the fitting room, casually said 
+"Put it on, I'll check on you in 15 minutes". Modern wetsuits don't feature
+a zipper on the back anymore, it's simply that the neck opening at the top 
+is astoundingly flexible and all you do is tear it apart really wide
+and step into the suit from above, feet first. Then, you employ
+superhuman strengths to pull it up, above your hips and chest, until only
+your head sticks out. As you can imagine, this can take time, until you
+get some practice.
+
+<pic images/wetsuit-cement.ps (#3) Black glue to plug wetsuit leaks.>
+
+Along with matching neoprene booties, gloves and a rented surf board,
+I tried out the cold Pacific waters near Pacifica recently and was surprised
+how pleasantly warm this felt while wearing this protective shell. 
+I stayed in the water for about half an hour and didn't feel cold 
+even for a minute. Truth be told, it turned out there was a small leak
+on the back side of the suit, which let in a few drops of icy water
+every once in a while, but I patched it up quickly at home with some newly 
+aquired wetsuit cement glue (Figure (#3)). The black superglue gets applied
+thinly around the perimeters of the leak, and after waiting 10 minutes, you
+press the edges together with significant force, which creates a 
+water-tight seal. It's no longer leaking now, and this better won't
+happen again, after all, the suit was expensive as hell!
+
 TODO
-
-Allerdings ist das Anziehen des Taucheranzugs eine Tortur ersten Ranges. Als
-der Verkäufer mir im Laden einen Anzug raussuchte, mich zur Umkleidekabine
-bugsierte und dann sagte "Also ich komm dann in 15 Minuten wieder" ahnte ich
-schon Schlimmes. Moderne Wetsuits haben ja keinen Reißverschluss am Rücken
-mehr, sondern nur einen erstaunlich dehnbaren Halsausschnitt oben, und man
-zieht das Ding einfach auseinander, um dann von oben mit den Füßen voraus
-hineinzusteigen und die untere Hälfte anschließend mit Bärenkräften über die
-Hüften nach oben zu ziehen, bis nur noch der Kopf rausschaut. Wie gesagt, das
-kann eine Weile dauern.
-
-<pic images/wetsuit-cement.ps (#3) Schwarzer Kleber, um undichte Stellen des Wetsuits abzudichten.>
-
-Mit den zugehörigen Neopren-Stiefelchen, Fingerhandschuhen, und einem
-ausgeliehenen Surfboard bewaffnet bin ich damit neulich in Pacifica ins
-eiskalte Wasser und war erstaunt, wie angenehm warm mich die Montur hielt. Ich
-war bestimmt eine halbe Stunde im Wasser und fror kein bisschen. Allerdings
-befand sich am Rückenteil des Wetsuits eine klitzekleine undichte Stelle,
-durch die hin und wieder ein paar Tropfen Eiswasser eindrangen, was ich daheim
-dann sofort mit "Wetsuit-Cement" (Abbildung (#3)),
-einem schwarzen Superkleber flickte, 
-den man auf die Ränder des Löchleins aufstreicht,
-5 Minuten
-wartet, dann nochmal eine Lage draufmacht, dann 10 Minuten wartet, und dann
-die Ränder fest zusammenpresst. Scheint geholfen zu haben, hoffentlich macht
-das keine Schule, der Anzug war schweineteuer!
 
 @Z: Urlaub zu verkaufen
 
