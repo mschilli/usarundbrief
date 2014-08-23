@@ -237,7 +237,7 @@ documents are supposedly to be issued starting 2015.
 
 @Z: Surfing in an Alaska-grade Wetsuit
 
-<pic images/wetsuit.ps Old man surfing on a Pacific beach.>
+<pic images/wetsuit.ps Old surfer on a Pacific beach.>
 
 <em>Michael</em>
 You might be aware of the fact that the Pacific ocean waters 
