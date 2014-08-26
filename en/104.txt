@@ -285,19 +285,20 @@ press the edges together with significant force, which creates a
 water-tight seal. It's no longer leaking now, and this better won't
 happen again, after all, the suit was expensive as hell!
 
-TODO
+@Z: Vacation For Sale
 
-@Z: Urlaub zu verkaufen
-
-<pic images/vacation.ps Statt Urlaub am Strand tauschen einige Amerikaner ihre Erholungstage gegen Bargeld.>
+<pic images/vacation.ps Instead of taking vacation, some Americans exchange their leisure days for cash.>
 
 <em>Angelika</em>
-Ihr fiebert wahrscheinlich schon den freien Tagen zwischen Weihnachten und
-Neujahr entgegen, denn in der Regel hat man in Deutschland während dieser Zeit
-frei. Wir haben ja schon des öfteren erwähnt, dass sich die USA bezüglich
-der Regelung von bezahltem Urlaub noch in der Steinzeit befindet, denn es
-gibt keinen gesetzlichen Anspruch auf bezahlten Urlaub, sodass es dem
-Arbeitgeber überlassen bleibt, wieviel Urlaub er seinen Mitarbeitern  gönnt.
+If you're like me, you are looking forward to the time off between 
+Christmas and New Years, which in Germany is usually a quiet time where
+most companies send their employees on vacation. We've mentioned here several
+times that the vacation regulations in the U.S. are somewhat antiquated,
+as there's no legally enforcible required minimum on
+paid vacation for many employees, and it's usually up to the employer on how
+many vacation days they grant their workforce in a given year.
+
+TODO
 
 Nun bedeutet das nicht, dass niemand bezahlten Urlaub bekommt. Gerade in
 großen Firmen lockt man damit durchaus Mitarbeiter an. Auch ist es oft
