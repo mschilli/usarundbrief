@@ -298,6 +298,21 @@ as there's no legally enforcible required minimum on
 paid vacation for many employees, and it's usually up to the employer on how
 many vacation days they grant their workforce in a given year.
 
+That of course doesn't mean that there's no paid vacation. To the contrary,
+all reasonably sized companies try to 
+attract employees through vacation benefits. In most cases, 
+the number of vacation days increases after a few years of employment.
+For example, I've been working for the same employer for seven years,
+and I now get 21 days of paid vacation per year. Michael has a similar
+deal in place. At my employer, however, I can only keep 80 hours
+of vacation and then need to take a day off or lose additionally accumulated
+vacation time. Yahoo is more generous in this regard. The German system,
+however, which guarantees the employee a yearly allotment of vacation days,
+which can be carried over from one employer to the next, is completely 
+unknown here. After changing jobs, the employee usually starts at 
+ten vacation days per year and will only increase this grant
+by staying with the same employer for several years.
+
 TODO
 
 Nun bedeutet das nicht, dass niemand bezahlten Urlaub bekommt. Gerade in
