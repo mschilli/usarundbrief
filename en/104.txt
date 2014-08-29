@@ -313,49 +313,34 @@ unknown here. After changing jobs, the employee usually starts at
 ten vacation days per year and will only increase this grant
 by staying with the same employer for several years.
 
+According to a <LINK>http://www.cepr.net/documents/publications/no-vacation-update-2013-05.pdf|study|Study on vacation days in the U.S.</LINK> published
+in May 2013 by the "Center for Economic and Policy Research", one out of
+four working Americans don't have paid vacation or holidays. Only 50%
+of workers in low-income groups enjoy vacation benefits while 90% of highly
+paid employees take them for granted. And only 35% of part time job 
+workers are eligible for paid vacation.
+
+On top of that, many companies don't distinguish between sick days and
+vacation days, but instead grant their employees "paid time off". In this
+case, it doesn't matter whether the employee is absent from work because of
+an illness or went on vacation, because in either case the time is 
+deducted from their "paid time off" balance. So, if someone is unfortunate
+enough to get sick more often than others, their vacation balance shrinks
+considerably.
+
+Some companies now came up with the clever idea to adapt vacation benefits 
+according to their employee's needs: some want to take vacation more
+frequently, while others would rather not take any at all. I'm not sure I 
+would opt for the latter option, but it's a choice everyone needs to 
+make for themselves. To enable this, some companies allow employees to
+sell unused vacation days back to the employer, and find more money in
+their paycheck in return, and others, who would prefer longer stretches of
+time off, may <LINK>http://www.nydailynews.com/news/national/employers-buy-vacation-days-article-1.1367425|purchase addtional vacation days</LINK>.
+Granted, it's still only 10% of employers with vacation benefits
+in the U.S. offering this model, but it's very much in line with the
+pragmatic American way of life.
+
 TODO
-
-Nun bedeutet das nicht, dass niemand bezahlten Urlaub bekommt. Gerade in
-großen Firmen lockt man damit durchaus Mitarbeiter an. Auch ist es oft
-Standard, dass sich nach längerer Firmenzugehörigkeit die bezahlten
-Urlaubstage erhöhen. Ich arbeite mittlerweile schon 7 Jahre für meine
-Einrichtung und erhalte jetzt 21 Tage Urlaub, bei Michael sieht es ähnlich
-aus. Allerdings erhalten bei mir in der Einrichtung nur die
-Vollzeitmitarbeiter bezahlten Urlaub. Auch darf ich nur bis zu 80 Stunden
-ansparen und muss dann Urlaub nehmen, sonst werden solange keine Stunden zum
-Urlaubskonto dazu addiert, bis ich wieder unter 80 Stunden falle. Yahoo ist
-da großzügiger. Das deutsche Modell allerdings, 
-dass der Arbeitnehmer Urlaub in eine neue Firma
-mitnimmt, gilt hier als völlig absurd. In der Regel fängt man bei einer
-neuen Firma wieder von unten an und erhält erst einmal wieder nur 10 Tage
-bezahlten Urlaub.
-
-Nach einer im Mai 2013 vom "Center for Economic and Policy Research"
-veröffentlichten 
-<LINK>http://www.cepr.net/documents/publications/no-vacation-update-2013-05.pdf|Studie|Studie zum amerikanischen Urlaub</LINK>
-hat einer von vier Arbeitnehmern keinen bezahlten Urlaub
-sowie keine bezahlten Feiertage in den USA. Nur 50% der Arbeitnehmer mit 
-geringen Gehältern erhalten bezahlten Urlaub während 90% in besser
-bezahlten Jobs bezahlte Urlaubstage haben. Und nur 35% der
-Halbtagsbeschäftigten erhalten bezahlten Urlaub.
-
-Viele Firmen unterscheiden übrigens nicht zwischen bezahlten Krankheits- und
-Urlaubstagen, sondern geben ihren Mitarbeitern die sogenannte "Paid Time Off"
-("bezahlte Abwesenheit"). Jegliche Abwesenheit von der Arbeit geht dann von
-dem Paid-Time-Off-Konto ab, egal ob man wegen Krankheit fehlte oder im
-Urlaub war. Gehört man zu der Sorte Mensch, die öfter krank wird,
-schrumpfen die möglichen Urlaubstage gehörig zusammen.
-
-Einige Firmen sind nun auf die kluge Idee gekommen, die unterschiedlichen
-Bedürfnisse ihrer Mitarbeiter zu berücksichtigen, denn einige hätten
-lieber gerne mehr Urlaub, während andere nie Urlaub nehmen, was ich zwar
-nicht nachvollziehen kann, aber bitte, jedem das Seine. Also erlauben Firmen
-Mitarbeitern, ihre ungenutzten Urlaubstage zurück an die Firma zu
-verkaufen, um etwas mehr Geld auf der Gehaltsabrechnung vorzufinden und
-andere Mitarbeiter, die mehr Urlaub wollen und brauchen,  können
-<LINK>http://www.nydailynews.com/news/national/employers-buy-vacation-days-article-1.1367425|zusätzliche Urlaubstage kaufen</LINK>. Das Modell ist zugegebenermaßen noch
-selten (etwa 10% der Firmen, die bezahlten Urlaub für ihre Mitarbeiter
-haben, bieten es an), aber passt zum Pragmatismus der Amerikaner.
 
 @Z: Toppprodukt: Der Q-Bond-Kleber
 
