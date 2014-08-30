@@ -340,20 +340,20 @@ Granted, it's still only 10% of employers with vacation benefits
 in the U.S. offering this model, but it's very much in line with the
 pragmatic American way of life.
 
-TODO
+@Z: Top Product: Q-Bond Super Glue
 
-@Z: Toppprodukt: Der Q-Bond-Kleber
-
-<pic images/q-bond.ps Der Wunderkleber Q-Bond mit dem Nanopartikel-Pulver.>
+<pic images/q-bond.ps The miracle glue Q-Bond with the unique nano particle powder.>
 
 <em>Michael</em>
-Wenn ich schonmal beim Thema "Kleberprodukte" bin, darf ich den
-Wunderkleber "Q-Bond" nicht vergessen. Über den bin ich auf Youtube
-gestolpert, auf der Suche nach Videos, um mir bei Reparaturarbeiten
-am Auto zu helfen. Das ist ja eine ganz tolle Sache auf Youtube heutzutage, da
-zeigen und erklären Bastler alles im Detail, vom Austauschen der
-Zündkerzen oder der Bremsbeläge am Auto bis zum Aufhebeln eines iPhones
-zum Tauschen der Batterie.
+While I'm talking about commercial glue products, I'd be remiss not to
+mention a miracle super glue called "Q-Bond". I stumbled across
+it one day while searching for Youtube videos to help me fix a particular
+mechanical problem with my car. In this day and age, you can find how-to
+videos on just about anything on Youtube, where tinkerers
+explain repair steps in detail, be it for replacing the spark plugs or
+the brake pads on your car or to pry open an iPhone to exchange the battery.
+
+TODO
 
 In der Garde der Hobbymechaniker ist
 <LINK>http://www.youtube.com/watch?v=Hk1cojemglE|Scotty Kilmer</LINK> ein
