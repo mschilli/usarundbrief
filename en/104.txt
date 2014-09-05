@@ -353,33 +353,39 @@ videos on just about anything on Youtube, where tinkerers
 explain repair steps in detail, be it for replacing the spark plugs or
 the brake pads on your car or to pry open an iPhone to exchange the battery.
 
-TODO
-
-In der Garde der Hobbymechaniker ist
-<LINK>http://www.youtube.com/watch?v=Hk1cojemglE|Scotty Kilmer</LINK> ein
-ganz Großer, der sich aufs Herrichten alter Kärren spezialisiert hat, bei
-denen es sich nicht mehr lohnt, Ersatzteile zu kaufen. In einem
-Video zeigt er, wie er ein von einem alten Armaturenbrett abgebrochenes
-Plastikteil wieder anklebt.
+One of the most famous hobby mechanics on Youtube is 
+<LINK>http://www.youtube.com/watch?v=Hk1cojemglE|Scotty Kilmer</LINK>,
+who specializes in fixing up clunker cars, for which it's often
+no longer economic to buy spare parts. In one of his videos, he
+demonstrates how to repair an old dashboard by glueing a broken-off
+plastic part back on.
 
 <pic images/scotty-kilmer.ps Der schreiende Youtube-Mechaniker Scotty Kilmer.>
 
-Mit normalen Superklebern wäre das nicht möglich, falls die zu klebende
-Fläche recht schmal ist und das abgebrochene Teil eine groteske
-Hebelwirkung auf die Bruchstelle entfaltet. Mit Q-Bond klebt man es
-nur notdürftig fest (gerne auch mit Duct-Tape (<RBLINK>20030310#3</RBLINK>))
-und streut dann das pfefferartige Q-Bond-Pulver auf die Bruchstelle, bis
-ein Pulverwall ensteht, auf den man dann einige Tropfen des flüssigen
-Q-Bond-Superklebers fallen lässt.
+Using regular super glue for this task would not work if the connecting
+surface of the detached part is quite small, because the forces on the
+joint are astronomous, and it will break off again if exposed to even
+minimal bending force. But with Q-Bond at your disposal, you first
+fixate the two parts by sloppily glueing them together (you're welcome
+to use Duct Tape (<RBLINK>20030310#3</RBLINK>)) for this task) and then
+pour the pepper-like Q-Bond powder onto the line of rupture, until you
+get a nice powder hump, and pour a few drops of the liquid Q-Bond
+super glue on it.
 
 <pic images/q-bond-wall.ps Ein paar Tropfen Superkleber auf das Q-Bond-Pulver und es ensteht eine beinharte Verbindung.>
 
-Die beiden Komponenten verbinden sich
-in Sekunden zu einer zwar hässlichen, aber steinharten Masse, die man
-sogar anschließend zurechtfeilen kann. Es entstehen unangenehme Dämpfe,
-sodass man dies nur draußen machen sollte, aber das Teufelszeug
-verbindet Plastikteile oft stabiler, als sie von Haus aus waren.
-Topprodukt!
+During this process, 
+the powder turns into a rock-solid material which resembles
+a weld seam, sealing the gap between the two once disconnected parts and
+firmly locking them in place. The bond becomes so hard that excess glue material
+can be trimmed off with a file or sand paper afterwards. During the 
+transformation process, 
+the infernal glue product emits hazardous fumes, so working outside is
+recommended. It glues broken off parts back on really well, and
+it's not unusual that two reconnected parts form a more stable
+alliance than the original unbroken item. Top product!
+
+TODO
 
 @Z: Koalitionsvertrag und doppelte Staats\-bür\-ger\-schaft
 
