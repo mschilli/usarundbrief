@@ -4,13 +4,14 @@ San Francisco, den 14.09.2014
 
 <pic images/napa-earthquake-house.ps Dieses Haus in der Innenstadt von Napa hat ein 6er-Erdbeben böse zugerichtet. Foto: flickr[James Gunn|james-gunn/14851129998]>
 
+<em>Angelika</em>
 Es ist kein Geheimnis, dass wir in einem Erdbebengebiet leben. Kleine
 Beben sind an der Tagesordnung und viele spürt man gar nicht. Ab und zu
 rüttelt es dann mit der Stärke 5 auf der Richterskala, und je nach dem,
 an welcher Falte und wo es genau wackelt, schwankt dann unser Haus
 dementsprechend.
 
-Am 24. August um 3:20 nachts wackelte es dann etwas mehr. Um diese Zeit
+Am 24. August um 3:20 Uhr nachts wackelte es dann etwas mehr. Um diese Zeit
 befinden sich die meisten Leute meist schlafend im Bett, so auch wir, und
 Michael behauptet bis heute steif und fest, dass ich das Erdbeben verschlafen
 hätte, wenn er mich nicht unsaft geweckt hätte. Weit gefehlt. Ich bin sofort
@@ -200,8 +201,8 @@ ankommende Gruppen als nächste reinkommen.
 
 Doch nach der Umwandlung des Betonfelds in einen Kunstrasenplatz
 vor einigen Jahren bestimmte die Stadt, dass dieses "freie Spiel" nun
-nur noch Montags, Mittwochs und Freitags stattfindet, während sie
-Dienstags und Donnerstags den Platz für $27 pro Stunde an zahlende
+nur noch montags, mittwochs und freitags stattfindet, während sie
+dienstags und donnerstags den Platz für $27 pro Stunde an zahlende
 Mannschaften vermietet, die ihn dann exklusiv nutzen dürfen.
 Das klingt in der Praxis vernünftig, denn irgendwie muss das Geld für die
 Instandhaltung ja wieder zurück ins Stadtsäckel fließen,
@@ -482,10 +483,10 @@ schlenderte nämlich zu dem Geschenkeladen "Just for Fun" auf der 24ten Straße
 bei uns und sah im Schaufenster einen Brief an die Kunden von den beiden
 Ladenbesitzern David Eiland und Robert Ramsey. Ihr Vermieter Angus
 Brunner war gerade gestorben und die beiden Besitzer hoben besonders hervor,
-wie fair Agnus immer zu ihnen gwesen war. In den Jahren 2000 und 2006,
+wie fair Angus immer zu ihnen gwesen war. In den Jahren 2000 und 2006,
 als viele Geschäfte in Noe Valley zumachten, weil wegen der
 angespannten Wirtschaftslage
-die Umsätze einbrachen, kam Agnus persönlich vorbei und bot den
+die Umsätze einbrachen, kam Angus persönlich vorbei und bot den
 Ladenbesitzern an, die Miete zu senken. Ich war gleich ganz gerührt, als ich
 das las.
 
@@ -504,7 +505,7 @@ Postal Service) genannte Bundespost der USA langsam aber sicher in die
 Insolvenz treiben (<RBLINK>20110906#9</RBLINK>).
 
 Aber auch viele
-Amerikaner wissen aber nicht, dass man kleine Päckchen als sogenannte
+Amerikaner wissen nicht, dass man kleine Päckchen als sogenannte
 "First Class Packages" landesweit
 sehr billig verschicken kann. Anfänger zahlen je nach
 Entfernung zwischen $5.60 und $6.95
@@ -518,7 +519,7 @@ Fachmann achtet darauf, dass das Gewicht der Sendung 13 Unzen nicht übersteigt
 Gewicht schinden kann man bei verschickten Waren,
 die eh schon ein paar hundert Gramm
 wiegen, dadurch, dass man sie nicht in bleischwere Kartons verpackt, sondern in
-sogenannte Bubble-Wrap-Umschläge steckt (Abbildung #1).
+sogenannte Bubble-Wrap-Umschläge steckt (Abbildung (#1)).
 Diese wiederum kauft der Anfänger
 bei der Walgreens-Drogerie
 um die Ecke und muss dafür $1.50 berappen, während der Fachmann
@@ -610,7 +611,7 @@ von Postkarten oder Briefumschlägen, damit diese als "machinable", also
 automatisch verarbeitbar gelten. Angelika schickte neulich eine
 Geburtstagskarte im Umschlag nach Deutschland los, die 6 mal 7 Inch groß war,
 also fast quadratisch. Obwohl ihr Gewicht das einer normalen Briefsendung
-von 1 Unze (28g) nicht überschritt, kostete sie nicht $1.05 wie normale
+von 1 Unze (28g) nicht überschritt, kostete sie nicht $1.15 wie normale
 Briefe nach Deutschland sondern $1.35, weil sie nicht rechteckig genug,
 sondern zu quadratisch war. In Abschnitt 201.2.0 des Postregelwerks
 steht nämlich, dass Länge und Breite einer Sendung nicht nur gewisse
