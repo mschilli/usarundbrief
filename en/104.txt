@@ -385,22 +385,24 @@ recommended. It glues broken off parts back on really well, and
 it's not unusual that two reconnected parts form a more stable
 alliance than the original unbroken item. Top product!
 
-TODO
+@Z: German Coalition Agreement and Dual Citizenship
 
-@Z: Koalitionsvertrag und doppelte Staats\-bür\-ger\-schaft
-
-<pic images/passport.ps Welche Staatsbürgerschaft hätten's denn gern? Foto: flickr[Craig James|thewidewideworld/2203253497]>
+<pic images/passport.ps Which citizenship would you like? Foto: flickr[Craig James|thewidewideworld/2203253497]>
 
 <em>Angelika</em> 
-Mit Interesse verfolgten wir, dass CDU und SPD in Deutschland kürzlich in den
-Koalitionsverhandlungen die doppelte Staatsbürgerschaft thematisierten. Und
-jetzt steht es ja sogar im Koalitionsvertrag, dass Kinder, die in Deutschland
-geboren wurden aber ausländische Eltern haben, auf Dauer mehrere
-Staatsbürgerschaften führen dürfen. Das sogenannte Optionsmodell, das
-besagte, dass sich diese Kinder bis zum 23. Lebensjahr für eine
-Staatsbürgerschaft entscheiden müssen, fällt also weg. Viele Deutsche, die
-in den USA leben, hatten dabei gehofft, dass es dann auch die Möglichkeit der
-doppelten Staatsbürgerschaft für Deutsche gibt, die im Ausland leben. 
+We've been following the discussions between
+representatives of the two major German political parties,
+CDU and SPD, who have been addressing the issue of dual citizenship in their
+coalition negotiations recently. They finally agreed in their coaltion
+contract, that descendants of foreign immigrants in Germany now 
+have the right to dual citizenship. This obsoletes the 
+so-called "option model", which defined that children born to foreign
+parents in Germany needed to decide on or before their 23rd birthday 
+on which citizenship they wanted to obtain. Developing this idea further,
+many Germans living abroad in the U.S. were hoping to be able to obtain
+dual citizenship as well.
+
+TODO
 
 Aber
 das war veilleicht etwas kurzsichtig gedacht, denn mit uns Hanseln im Ausland
