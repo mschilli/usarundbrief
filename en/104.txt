@@ -424,32 +424,39 @@ Department of State's official website.
 
 TODO
 
-@Z: Der Ami steht gern Schlange
+@Z: Americans like to line up
 
-<pic images/dolores.ps Am Dolores-Park ist eine Eisdiele, vor der die Leute jeden Tag um den Block rum Schlange stehen.>
+<pic images/dolores.ps There's an ice cream store near Dolores park where people line up around the block every day.>
 
 <em>Michael</em>
-Dass Drängeln in Amerika verpöhnt ist und die Leute sich in langen
-Einerreihen anstellen, auch wenn, wie an einer Straßen\-bahn\-halte\-stelle,
-keine Absperrkordel dies direkt gebietet, ist seit <RBLINK>20110320#9</RBLINK>
-bekannt. Auch dass Amerikaner seelenruhig 20 Minuten mit laufendem Motor an der
-billigen Costcotankstelle warten, wissen Rundbriefleser seit 2011.
-Mittlerweile glaube ich allerdings echt, dass Amerikaner sich oft gerade
-deswegen anstellen, <em>weil</em> schon eine lange Schlange von Leuten
-auf irgendwas wartet. Wo viele warten, so die Logik, muss es etwas geben,
-das so viel besser ist als anderswo, dass man sich gerne hinten anstellt.
+If you've been reading this publication for a while, you probably already know 
+that lining up in single file is a long standing American tradition, even
+if there's no barrier that demands it, for example at a 
+bus stop (<RBLINK>20110320#9</RBLINK>). What's more, 
+since 2011, readers should be aware that
+it is normal for Bay Area citizens to wait for 20 minutes sitting 
+in their cars with the engine idling for their turn at the cheap 
+Costco gas station. Meanwhile, I've come to realize that often times
+people around here are lining 
+up simply <em>because</em> there's already a line of people
+waiting for something. They seem to be reasoning 
+that a store that has so many people 
+waiting already, must be selling something so exquisit that it's well worth
+the wait, and people excitedly join the line.
 
-So verkauft zum Beispiel bei uns um die Ecke, am Dolores-Park, eine Eisdiele
-namens <LINK>http://biritecreamery.com/|"Bi-Rite Creamery"</LINK>
-Bolleneis auf Waffeltüten.
-Jedes Mal, wenn ich an der Kreuzung
-vorbeifahre, warten dort bestimmt 50 Leute vor der Tür, nicht selten windet
-sich die Schlange der Wartenden um die Straßenecke auf die Dolores Street. Das
-muss man sich mal ausrechnen: Bei der Trantütigkeit, die Amerikaner beim
-Auswählen, Ordern, und Bezahlen an den Tag legen, dauert die Abfertigung eines
-Kunden bestimmt eine Minute. Das heißt, dass der Letzte in der Schlange fast
-eine Stunde warten muss, bis er drankommt! Vielleicht kommt man ja in der
-Schlange mit hippen Leuten ins Gespräch, was weiß ich?
+For instance, there's this ice cream store in our neighborhood, at the corner
+of 18th and Dolores Streets, right by Dolores Park, named 
+<LINK>http://biritecreamery.com/|"Bi-Rite Creamery"</LINK>. They're selling 
+scoops of ice cream on waffle cones. Every time I stop at this intersection,
+there's at least 50 people waiting at the door to the store, and often
+the line winds around the corner onto Dolores Street.
+Do the math: We already know that the average American can't possibly 
+choose an item, order and pay for it in under a minute. Multiply that
+by 50 and realize that the last person in line will be waiting for almost
+an hour before they can place their order! Maybe they're waiting because
+they're hoping to meet and chat with other hipsters in line, what do I know?
+
+TODO
 
 Faszinierenderweise regt sich der Amerikaner aber nicht auf, wenn es
 mit der Schlange nicht vorwärts geht. Sonst muss immer alles ganz schnell
