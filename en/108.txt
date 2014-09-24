@@ -12,6 +12,7 @@ magnitude 5 on the Richter scale, and depending on where the epicenter
 is located, it's not unusual that our house keeps swinging back and forth 
 accordingly.
 
+
 TODO
 
 Am 24. August um 3:20 Uhr nachts wackelte es dann etwas mehr. Um diese Zeit
