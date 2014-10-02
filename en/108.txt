@@ -52,26 +52,26 @@ The economic damage is tremendous. Rumor has it that wine from the Napa
 region is going to be more expensive this year, since many vinyards suffered
 damages from the earthquake.
 
-TODO
+@Z: Getting into Kindergarten by Lottery
 
-@Z: Per Lotterie in den Kindergarten
-
-<pic images/school-entrance.ps Ob ein Kind in eine bestimmte Schule kommt, entscheidet in San Francisco das Los.>
+<pic images/school-entrance.ps San Francisco is running a lottery to determine in which Kindergarten a child ends up at.>
 
 <em>Angelika</em>
-Am 18. August dieses Jahres
-besuchten Heerscharen von Fünfjährigen das erste Mal einen
-Kindergarten in San Francisco. Die Sommerferien waren zu Ende und das
-neue Schuljahr hatte begonnen.
-Obwohl Amerikaner den deutschen Begriff "Kindergarten"
-verwenden, verbirgt sich dahinter ein doch etwas anderes Modell als in
-Deutschland. Der Kindergarten ist in den USA das Jahr vor der Einschulung in die
-erste Klasse. Die Kindergartenklasse befindet sich dann auch in der
-Grundschule und, ich kann euch sagen, was die kleinen Knöpse lernen müssen,
-ist nicht von Pappe. Ich spreche aus Erfahrung, denn ich bin viel in den
-unterschiedlichsten Kindergärten unterwegs, da einige
-autistische Kinder in normale Kindergartenklassen integriert werden 
-und die Einrichtung, in der ich arbeite, dabei hilft. 
+On August 18th this year in San Francisco, legions of five-year-olds attended
+kindergarten for the first time. The summer vacation had ended and
+a new school year had begun. Although Americans use the German word
+"kindergarten" for preschool, their concept differs radically from the 
+German education system. In the U.S., kindergarten constitutes the
+year before first grade, while in Germany, kindergarten is several years of
+simple and playful daycare for three to five-year-olds. 
+It's not surprising that in the U.S.,
+kindergarten facilities are often located at the preschool buildings.
+Lately, I've been visiting various preschools as part of my job, where
+I'm accompanying autistic children to regular kindergartens. I was
+blown away to see how seriously the young kids are at work cramming facts, 
+instead of enjoying their playtime!
+
+TODO
 
 Aus ist es mit dem Spielen! Die Kinder schreiben Buchstaben, erlesen die ersten
 Wörter, gehen mit Zahlen um, sitzen an Pulten. Ich habe sowas erst in der
