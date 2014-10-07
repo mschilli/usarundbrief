@@ -98,63 +98,60 @@ a good chance they would be left behind.
 
 <pic images/school-signs.ps At the school door there's  note reminding parents no to double park.>
 
+But I digress, what I really wanted to write about is San Francisco's
+seemingly absurd system to determine which of the various city
+kindergartens a child can be registered at. To be clear, the following
+statements only refer to San Francisco's public school system. Private
+schools or other cities or counties have their own rules and regulations.
+Back in the days when I went to school in Germany, everyone went to the
+school in their neighborhood. That's very different today in San Francisco,
+because here a computer algorithm combined with a lottery
+determines the appropriate kindergarten for every child. The underlying
+idea is to open the opportunity for every child living in 
+the city to attend a kindergarten and later a school of their choice. This
+way, so the school district's argument, children with the same ethnic
+background won't be concentrated in one school, but every school will
+get their share of mixed backgrounds, so that for example in a predominantly
+Asian neighborhood, the nearest school won't be occupied exclusively 
+by Asian children.
+
+During the application process, parents create a ranked list with
+San Francisco schools of their choice for their kids. There's no limit
+to how long this list can be. The computer then first tries to assign
+every parent their first choice. However, as the popular schools fill 
+up, the algorithm then favors children whose siblings are already attending
+the particular school. Next in line for the popular schools
+are children from poor neighborhoods with high crime rate, as their schools 
+typically score low on standardized tests. The next priority are children
+who already attended the particular school's transitional kindergarten.
+The implementation of this system seems quite absurd to some and 
+causes lots of heated debates.
+
+<pic images/school-door-24th.ps Another school on 24th Street in San Francisco.>
+
+If a family is living in a neighborhood
+featuring a highly desired kindergarten, it is every unlikely that their 
+kids can actually attend it if they don't fit in any of the categories
+above. As a result, many parents desperately try to game the system. 
+For example, it may be a good strategy to avoid listing their first
+kindergarten choice at the top of the list, if it is a highly desired
+school in their neighborhood. There's online forums for parents
+exclusively dedicated to maximizing the chances to get their kids
+into best possible kindergarten.
+
+In any case, it's a lot of work and stress for the parents, because it's not 
+sufficient to only evaluate the neighborhood's nearest kindergarten.
+What's worse is that despite the lottery, statistics show that in 25%
+of all schools the populace won't mix and it's attended by children with 
+predominantly the same ethnicity. One reason for this phenomenon is that 
+in bad neighborhoods with poorly rated schools, parents often don't find
+the time, or lack the means and the verbal skills to understand the 
+lottery system or even get informed about schools in other neighborhoods.
+The often choose the easy way and select the poorly rated neighborhood
+school as their first choice, which they're promptly assigned. It's obvious
+that San Francisco's school lottery system still needs a lot of work.
+
 TODO
-
-Aber ich schweife ab, denn ich wollte eigentlich über das absurde System in
-San Francisco berichten, das bestimmt, in welchen Kindergarten das jeweilige
-Kind geht. Ich beziehe mich hierbei nur auf das öffentliche Schulsystem in
-San Francisco. Private Einrichtungen und andere Städte und Kommunen haben
-ihre ganz eigenen Regeln. Als ich damals in Deutschland eingeschult wurde,
-war es selbstredend, dass man in die Schule in seinem Viertel ging. 
-Ganz anders in San Francisco, 
-hier bestimmt der Computer\-algorithmus
-und eine Lotterie, in welchen Kindergarten man geht. Dahinter
-steckt der Gedanke,
-dass jedes Kind in dieser Stadt Zugang zu Kindergärten und Schulen
-seiner Wahl hat und sich die Schulpopulation vermischt, das heißt, 
-dass in einem
-predominanten asiatischen Wohnviertel nicht nur asiatische Kinder in der
-Schulklasse des Viertels sitzen. 
-
-Die Erziehungsberechtigten erstellen bei
-der Anmeldung eine Rangliste mit den Kindergärten, in die sie ihr Kind in San
-Francisco geben möchten. Die Rangliste kann dabei beliebig lang sein. Der
-Computer versucht dann zunächst, jedem seine erste Wahl zu geben. Hat ein
-Kindergarten allerdings nicht genug Plätze, erhalten die Familien, die
-schon ein Geschwisterkind in derselben Schule haben, den Vorzug. Dann haben
-Kinder, die in armen Vierteln mit hoher Kriminalität
-wohnen, und deren Schulen bei standardisierten Tests
-unterdurchschnttlich abschneiden, den Vorrang. Dann kommen die Kinder
-zum Zug, die schon im Übergangskindergarten der entsprechenden 
-Schule waren. Hierbei kann es dann zu absurden Situationen kommen.
-
-<pic images/school-door-24th.ps Noch eine Schule auf der 24. Straße.>
-
-Wohnt man in San Francisco zum Beispiel
-in einem Viertel, in dem sich ein heiß begehrter Kindergarten befindet, ist
-die Wahrscheinlichkeit gering, dass das eigene Kind einen Platz ergattert,
-wenn es in keine der oben erwähnten Preferenzkategorien fällt. Das Ganze
-hat zur Folge, dass Eltern verzweifelt versuchen, das System zu
-überlisten. Zum Beispiel ist es unter Umständen besser, nicht den heiß
-begehrten Kindergarten, in den jeder will, und der sich im eigenen
-Wohnviertel befindet, an die erste Stelle zu setzen. Es gibt Online-Foren,
-die sich nur damit beschäftigen, welche Strategie am besten ist. 
-
-Auf jeden
-Fall reicht es nicht aus, sich über den eigenen Kindergarten im Viertel zu
-informieren, was erheblichen Stress und Aufwand für viele Eltern
-bedeutet. Trotz der Lotterie vermischt sich die Schülerpopulation laut
-Statistik an 25% der Kindergärten/Schulen weiterhin nicht. Es gibt
-immer noch Klassen, in denen man prädestiniert Schüler einer
-Hautfarbe findet. Das
-liegt auch daran, dass in schlechteren Vierteln mit schlechteren Schulen
-die Eltern oft gar nicht die Zeit haben oder über die benötigten
-Sprachkenntnisse oder andere Mittel verfügen, den komplizierten Prozess der
-Lotterie zu durchschauen oder sich über andere Kindergärten in anderen Vierteln
-zu informieren. Sie melden dann ihr Kind in der Schule im eigenen Viertel an
-und bekommen eben oft ihre erste Wahl, weil der Kindergarten oder die Schule
-keinen so einen guten Ruf hat. An dem System müssen die Verantwortlichen
-wohl noch etwas länger basteln, bis es den herbeigesehnten Erfolg bringt.
 
 @Z: Kostenpflichtige Fußballfelder
 
