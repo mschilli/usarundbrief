@@ -151,20 +151,19 @@ The often choose the easy way and select the poorly rated neighborhood
 school as their first choice, which they're promptly assigned. It's obvious
 that San Francisco's school lottery system still needs a lot of work.
 
-TODO
+@Z: Soccer fields for rent
 
-@Z: Kostenpflichtige Fußballfelder
-
-<pic images/soccer-field-mission.ps Diese Hobbyspieler dürfen kostenlos auf dem städtischen Bolzplatz herumkicken.>
+<pic images/soccer-field-mission.ps These recreational soccer players can play for free on the city-owned astroturf field.>
 
 <em>Michael</em>
-Einmal pro Woche spiele ich mit weiteren Hobbykickern
-in einer Fußballmannschaft ein gepflegtes sogenanntes Pickup-Spiel.
-Wer Zeit zum Mitspielen hat, trägt sich über das Internet auf der
-Liste ein, ein ehrenamtlicher Organisator mietet bei der Parkverwaltung
-der Stadt San Francisco ein Kunstrasenfeld, und schon ist eine
-gute Stunde Gaudi gesichert. Es wurden sogar schon
-<LINK>https://www.youtube.com/watch?v=bvOvnyJTyss|Youtube-Videos von meinen Torknipserkünsten</LINK> geschossen!
+Once every week, I'm playing a pickup game with a team of 
+fellow amateur soccer players. Whoever has time to play can reserve a spot 
+on a dedicated web site, and a volunteer takes care of registering the game
+for a fee with the Parks and Recreation department of the city of 
+San Francisco. It's always great fun to play, and there's even 
+<LINK>https://www.youtube.com/watch?v=bvOvnyJTyss|a video of my goal scoring techniques available on Youtube</LINK>!
+
+TODO
 
 Die Abteilung "Parks and Recreation" der Stadt San Francisco kümmert sich
 um die Wartung aller städtischen Bolzplätze. Buckel\-pisten\-artige
