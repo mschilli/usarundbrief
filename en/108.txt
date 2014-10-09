@@ -163,22 +163,26 @@ for a fee with the Parks and Recreation department of the city of
 San Francisco. It's always great fun to play, and there's even 
 <LINK>https://www.youtube.com/watch?v=bvOvnyJTyss|a video of my goal scoring techniques available on Youtube</LINK>!
 
+Maintenance of all city soccer fields is the responsibility of the
+San Francisco "Parks and Recreation" department. Sure, there's grass fields
+in Golden Gate Park that are open for free play, but they often suffer from
+a lot of pot holes that put players at risk.
+For the nice even artificial "astro turf" fields, however, 
+the city wants residents to pay to play. 
+Now, until a few years ago, there used to
+be a cement surfaced field at the corner of Valencia Street and 20th Street
+in the Mission neighborhood. Until late at night, this field was in heavy
+use, because its use was free of charge. 
+Mostly residents of South American origin used played there passionately,
+showing off the typical South American street soccer that's very fast, 
+with a lot of dribblings and demonstrating amazing tricks by individual
+players. Passing the ball is not valued as much and often players try
+to score instead. You might remember some teams from the last world cup 
+playing in this way. 
+
+<pic images/soccer-sign.ps Free Play on Monday, Wednesday, and Friday evening.>
+
 TODO
-
-Die Abteilung "Parks and Recreation" der Stadt San Francisco kümmert sich
-um die Wartung aller städtischen Bolzplätze. Buckel\-pisten\-artige
-Rasenflächen im Golden Gate Park
-dürfen fußballbegeisterte Bürger kostenlos nutzen, doch für die "Astro-Turf"
-genannten Kunstrasenplätze will die Stadt Geld sehen. Bis vor fünf Jahren war
-nun der Spielplatz an der Ecke Valencia und 20th Street im Stadtteil Mission
-ein Betonplatz, auf dem vor allem Südamerikaner bis spät in die Nacht spielten.
-Betonfussball auf engstem Raum ist viel schneller als Rasenfußball und
-kommt so der von der WM bekannten südamerikanischen Spieltechnik
-entgegen: Viel tricksen, dribbeln,
-nur in Ausnahmefällen abgeben, und im Zweifelsfall selber aufs Tor schießen
-auch wenn die Treffwahrscheinlichkeit gegen Null geht.
-
-<pic images/soccer-sign.ps Kostenloses Spiel am Montag-, Mittwoch- und Freitagabend.>
 
 Der kostenlos bespielbare öffentliche Platz im Mission-Viertel
 erfreute sich bis spät in die Nacht hinein großer Beliebtheit
