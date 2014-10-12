@@ -167,7 +167,7 @@ Maintenance of all city soccer fields is the responsibility of the
 San Francisco "Parks and Recreation" department. Sure, there's grass fields
 in Golden Gate Park that are open for free play, but they often suffer from
 a lot of pot holes that put players at risk.
-For the nice even artificial "astro turf" fields, however, 
+For the nicely even artificial "astro turf" fields, however, 
 the city wants residents to pay to play. 
 Now, until a few years ago, there used to
 be a cement surfaced field at the corner of Valencia Street and 20th Street
@@ -175,30 +175,30 @@ in the Mission neighborhood. Until late at night, this field was in heavy
 use, because its use was free of charge. 
 Mostly residents of South American origin used played there passionately,
 showing off the typical South American street soccer that's very fast, 
-with a lot of dribblings and demonstrating amazing tricks by individual
+with a lot of dribblings and demonstration of mind-boggling tricks by individual
 players. Passing the ball is not valued as much and often players try
-to score instead. You might remember some teams from the last world cup 
-playing in this way. 
+to score instead, even if it's virtually impossible from their angle. 
+You might remember some teams from the last world cup playing in this way. 
 
 <pic images/soccer-sign.ps Free Play on Monday, Wednesday, and Friday evening.>
 
+As I said, the public cement field in the Mission district used to be wildly 
+popular until late into the night, and the South American players 
+adapted the rules from their home countries to fairly share the field: 
+If there's a new team 
+of five to seven players approaching, and the field is already in use 
+by two teams
+at maximum capacity, the newcomers yell <LINK>http://forum.wordreference.com/showthread.php?t=2760106|"Reta!"</LINK>. According to the South American
+backyard soccer rules, the new team then gets swapped in immediatly after one
+of the teams on the field scores a goal. The scoring team stays on the field, 
+and the losing team must get off the field to make room for the new 
+arrivals. The rotation continues every time a team is scoring a goal, 
+winner stays, losing team gets off and makes room for a swapped-out team,
+or if there's new arrivals, they get swapped in next.
+
+<HTMLONLY><pic images/soccer-permit.ps (#3) On Tuesdays and Thursdays the parks department rents out the field for 27 Dollars per hour to paying teams.></HTMLONLY>
+
 TODO
-
-Der kostenlos bespielbare öffentliche Platz im Mission-Viertel
-erfreute sich bis spät in die Nacht hinein großer Beliebtheit
-und die Südamerikaner hielten sich an die Spielregeln aus der Heimat: Kommt
-eine Mannschaft von fünf bis sieben Spielern
-an, die aus Platzgründen nicht mehr auf die Spielfläche
-passt, stellt sie sich am Spielfeldrand auf und ruft
-<LINK>http://forum.wordreference.com/showthread.php?t=2760106|"Reta!"</LINK>
-Nach den Regeln des südamerikanischen Hinterhoffußballs wechselt die
-neue Gruppe dann sofort aufs Spielfeld, falls eine der beiden spielenden
-Mannschaften ein Tor
-schießt. Die Verlierer müssen runter, die Torschützen bleiben. Und beim
-nächsten Tor geht die Rotation nach dem gleichen Verfahren weiter, wobei neu
-ankommende Gruppen als nächste reinkommen.
-
-<HTMLONLY><pic images/soccer-permit.ps (#3) Nur Dienstags und Donners\-tags kön\-nen zah\-lende Kicker den Platz für 27 Dollar pro Stunde mieten.></HTMLONLY>
 
 Doch nach der Umwandlung des Betonfelds in einen Kunstrasenplatz
 vor einigen Jahren bestimmte die Stadt, dass dieses "freie Spiel" nun
