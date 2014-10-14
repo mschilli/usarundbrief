@@ -167,22 +167,78 @@ Maintenance of all city soccer fields is the responsibility of the
 San Francisco "Recreation and Parks" department. Sure, there's grass fields
 in Golden Gate Park that are open for free play, but they often suffer from
 a lot of pot holes that put players at risk.
-For the nice even artificial "astro turf" fields, however, 
+For the nicely even artificial "astro turf" fields, however, 
 the city wants residents to pay to play. 
 Now, until a few years ago, there used to
 be a cement surfaced field at the corner of Valencia Street and 20th Street
 in the Mission neighborhood. Until late at night, this field was in heavy
 use, because its use was free of charge. 
-Mostly residents of South American origin used played there passionately,
+Mostly residents of South American origin used to play there passionately,
 showing off the typical South American street soccer that's very fast, 
-with a lot of dribblings and demonstrating amazing tricks by individual
+with a lot of dribblings and demonstration of mind-boggling tricks by individual
 players. Passing the ball is not valued as much and often players try
-to score instead. You might remember some teams from the last world cup 
-playing in this way. 
+to score instead, even if it's virtually impossible from their angle. 
+You might remember some teams from the last world cup playing in this way. 
 
 <pic images/soccer-sign.ps Free Play on Monday, Wednesday, and Friday evening.>
 
-TODO
+As I said, the public cement field in the Mission district used to be wildly 
+popular until late into the night, and the South American players 
+adapted the rules from their home countries to fairly share the field: 
+If there's a new team 
+of five to seven players approaching, and the field is already in use 
+by two teams
+at maximum capacity, the newcomers yell <LINK>http://forum.wordreference.com/showthread.php?t=2760106|"Reta!"</LINK>. According to the South American
+backyard soccer rules, the new team then gets swapped in immediatly after one
+of the teams on the field scores a goal. The scoring team stays on the field, 
+and the losing team must get off the field to make room for the new 
+arrivals. The rotation continues every time a team is scoring a goal, 
+winner stays, losing team gets off and makes room for a swapped-out team,
+or if there's new arrivals, they get swapped in next.
+
+<HTMLONLY><pic images/soccer-permit.ps (#3) On Tuesdays and Thursdays the parks department rents out the field for 27 Dollars per hour to paying teams.></HTMLONLY>
+
+But when the cement field was remodeled with artificial lawn a few years
+ago, the city determined that "free play" was now limited to Mondays, 
+Wednesdays, and Fridays, whereas on Tuesdays and Thursdays, 
+paying customers could rent it for $27 per hour for exlusive use.
+I guess it makes sense to somehow recoup the money for the remodel, 
+but quite predictably, the regulars ignored the inconspicuously 
+posted signs and kept playing, including on the days where the field
+was rented out. When the paying customers arrived at the scene, waving
+their permits <HTMLONLY>(Figure (#3))</HTMLONLY> around, and demanding to
+use the field, the kicking and screaming began. 
+
+<pic images/evicted-google-bus.ps (#4) Allegedly the root of all evil: The Google Shuttle.>
+
+And if the paying players are white software tech workers, while
+the field is occupied by Latino residents from the neighborhood,
+the latter are quick to point out that the newcomers have no business
+telling them what to do. I've witnessed chaotic games where two 
+paying teams were playing on the field, while a third group of 
+obnoxious troublemakers were kicking their ball around as well in
+the midst of it. The San Francisco Parks and Recreation department
+obviously likes pocketing the renting fees, but either doesn't 
+have the guts or is simply too lazy to employ someone to make sure that
+everyone plays by the posted rules. One time, a busybody youth trainer
+refused to take his 20 children off the field at the agreed-upon time and
+threatened that if we insisted on our guaranteed play time, he'd capture
+the whole scene on video to send it to the local newspaper where it would
+make a nice story titled "Rich White Techies Take Playing Field From
+Underprivileged Kids".
+
+But since San Francisco software companies are in hot water these days
+anyway, because they're being accused of 
+displacing the local residents, caused by greedy landlords, who are kicking
+out low income families, then drive up the rents and let techies move in,
+it's prudent to operate with caution. Otherwise, sooner or later,
+the hippie tech bus protesters will get tired of blocking the shuttles
+(Figure (#4) und <RBLINK>20140205#4</RBLINK>) and will occupy the 
+soccer fields to prevent sport lovers from playing!
+Anyway, on this memorable evening, we just caved in and let the douche bag 
+proceed. In the meantime, we've switched to renting less controversial 
+fields, hopefully, San Francisco's Parks and Rec department will get their
+act together one day.
 
 Der kostenlos bespielbare öffentliche Platz im Mission-Viertel
 erfreute sich bis spät in die Nacht hinein großer Beliebtheit
@@ -245,6 +301,8 @@ auch noch uns Fußballfreunde am Spiel hindern!
 An diesem denkwürdigen Abend ließen wir den Grattler halt weitermachen.
 Mittlerweile buchen wir weniger umstrittene Felder, bis die Stadt
 San Francisco ihre Abteilung "Recreation and Parks" auf Vordermann bringt.
+
+TODO
 
 @Z: San Franciscos neues Superbrot
 
