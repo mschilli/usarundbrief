@@ -240,43 +240,41 @@ proceed. In the meantime, we've switched to renting less controversial
 fields, hopefully, San Francisco's Recreation 
 and Parks department will get their act together one day.
 
-TODO
+@Z: San Francisco's New Awesome Bread
 
-@Z: San Franciscos neues Superbrot
-
-<pic images/bread-josey-baker.ps Die Hofpfisterei hätte auch gerne so ein gutes Brot im Angebot.>
+<pic images/bread-josey-baker.ps Some bakeries in Munich wish they sold bread like that.>
 
 <em>Michael</em>
-Amerika macht immer größere Fortschritte beim Brotangebot.
-Bis in die 80er-Jahre des letzten Jahrhunderts hinein konsumierten
-amerikanische Verbraucher hauptsächlich ein
-<LINK>http://en.wikipedia.org/wiki/Wonder_Bread|Wonder Bread</LINK> genanntes
-Gummibrot. Auch heute noch findet der Verbraucher
-außerhalb der großen Metropolen nur äußerst weiches,
-geradezu elastisches, in Scheiben geschnittenes und celophanverpacktes
-Kunstbrot in den Supermarktregalen. Ungetoasted wäre es ungenießbar und
-würde einem geradezu im Hals stecken bleiben.
+It's fascinating to watch how much progress the U.S. has made in recent years
+when it comes to baked goods, especially bread. Going back in 
+history, until the 1980ies, American consumers mainly purchased a rubbery
+substance called 
+<LINK>http://en.wikipedia.org/wiki/Wonder_Bread|Wonder Bread</LINK>.
+And even today, if you're touring outside of the major 
+metropolitan areas, all you'll find in the rural supermarket shelves is
+bouncy synthetic bread, cut in slices and wrapped in plastic bags.
+In its raw form, without toasting it, it might very well be a 
+dangerous choking hazard.
 
-<pic images/bread-box.ps Unsere WMF-Brotkasten hat schlappe 100 Dollar gekostet.>
+<pic images/bread-box.ps Our bread box, made by German manufacturer WMF, costs a whopping 100 Dollars.>
 
-Knusprige Brotvarianten trifft man auch heute nur in hippen urbanen Zentren
-an, und einen Laib Brot zu erwerben, von dem man nach und nach mit einem
-Brotmesser Scheiben abschneidet, gilt auch heute noch als Unikum.
-Brotschneidemaschinen für Privathaushalte sind gänzlich unbekannt.
-Jedes Mal, wenn ich
-bei der dänischen Bäckerei "Andersen Bakery" ein Brot kaufe, muss
-ich die Verkäuferin erst durch deutliche Worte, dann durch Schreien
-und Armfuchteln davon abhalten, meinen neu erworbenen Laib Brot sofort
-durch die Schneidemaschine zu jagen.
-Fertig
-<LINK>http://en.wikipedia.org/wiki/Sliced_bread|geschnittenes Brot</LINK>
-ist in Amerika seit 1928 nicht mehr wegzudenken und nicht zuletzt
-sagt man in Amerika "the best thing since sliced bread" wenn man "das
-Beste seit der Erfindung des Rades" meint.
+Nowadays, crunchy German-style bread is available in hip urban areas, but
+it is still considered rather foreign to cut off the required
+slices yourself with a bread knife. Every time I'm buying bread at the
+Danish "Andersen Bakery", I first need to tell the sales person in no
+uncertain words that I don't want the loaf sliced, then yell and 
+wave my arms to prevent them from running it through the cutting machine
+on auto-pilot.
+Readily sliced bread, an American invention that dates back to 1928,
+is so common place that the German saying "the best thing since
+the invention of the wheel" is actually "the best thing since sliced
+bread" in the United States.
 
 <HTMLONLY>
-<pic images/josey-baker-bread-book.ps Sogar ein Buch übers Brotbacken hat Josey Baker veröffentlicht.>
+<pic images/josey-baker-bread-book.ps Josey Baker even published a book on baking bread.>
 </HTMLONLY>
+
+TODO
 
 Neulich im Hippie-Supermarkt Rainbow stellte ich erstaunt fest, dass
 die Rot-Front-Kameraden dort meine bislang bevorzugte Brotmarke
