@@ -306,30 +306,30 @@ on Divisadero Street in San Francisco. Maybe Bavarian-born
 Joseph Wagner told him an old family recipe and that's the reason the
 bread tastes so great!
 
-TODO
-
 @Z: Nextdoor
 
-<pic images/nextdoor-ad.ps Die Website nextdoor.com verbindet Leute, die im gleichen Viertel wohnen.>
+<pic images/nextdoor-ad.ps The website nextdoor.com connects residents living in the same neigborhood.>
 
 <em>Michael</em>
-Manchmal denke ich, meine Herrn, auf dem Internet gibt's eh schon alles,
-und dann kommt jemand daher, der bringt etwas Neues, noch nie Dagewesenes,
-das so simpel ist, dass man sich vor den Kopf schlägt und sich fragt,
-warum niemand schon früher auf die Idee gekommen ist.
+Sometimes, I think, that everything on the Internet has already been
+invented, and then someone comes along and creates something so new,
+unique, and simple that it's surprising that noone has thought of this before.
 
-So stellt sich in Großstädten das Problem, dass man seine Nachbarn zwar
-im Gebäude oder auf der Straße sieht, kurz "Hallo, wie geht's" sagt,
-aber doch nicht so recht warm wird, so dass man sie zur Geburtstagsparty
-einladen würde. Wie lernt man diese Leute näher kennen? Diese Marktnische
-hat die Website <LINK>http://nextdoor.com|nextdoor.com</LINK> entdeckt. Um
-sich dort anzumelden, muss man seine Adresse verifizieren lassen, und dann
-kann man dort wie auf Facebook irgendwelche Meldungen abfeuern, mit
-Nachbarn im gleichen Viertel anbandeln, oder lesen, wer ein Fahrrad verkauft,
-welches Haus von Waschbären heimgesucht wurde oder bei wem schon
-wieder ein Grattler Topfpflanzen von der Terasse gestohlen hat.
+For example, in big cities, it's a common problem that people see
+their neighbors in the building or on the street and say "hello", but
+it's yet a different story to get to know them close and invite them
+over to your birthday party. How can you approach these folks? This gap 
+is now being filled by the <LINK>http://nextdoor.com|nextdoor.com</LINK>
+website. To register there, they require that you verify your address, and
+then open they up the Facebook-like neighborhood forums, 
+where you can post messages, get hitched with friendly neighbors, or
+get to know who's selling a bicycle, whose house has been haunted by 
+raccoons, or who has had their potted plants stolen from their
+patio by some low-life.
 
-<pic images/nextdoor-central-noe.ps Meine Meldungen auf Nextdoor können nur Leute lesen, die ein paar Straßen weiter wohnen.>
+<pic images/nextdoor-central-noe.ps Only people living in the neighborhood can read my postings on Nextdoor.>
+
+TODO
 
 Weil die Nachrichten auf die Nachbarn auf engstem Raum beschränkt sind,
 eröffnen sich ganz neue Kommunikationsmöglichkeiten. Wir wohnen zum
