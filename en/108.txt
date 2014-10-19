@@ -351,21 +351,18 @@ people in your immediate posh neighborhood can read it.
 
 <pic images/nextdoor-car-break-in.ps Another series of car break-ins in our neighborhood! You read it first on nextdoor.com.>
 
+The topics discussed on the forum range from complaints about
+stolen patio plants, reports on gunfire heard at night, crazy panhandlers 
+on 24th Street, nightly noise disturbances, all kinds of burglaries in
+garages, houses, car break-ins, and tipps on how to protect your pets
+from brazenly roaming raccoons and skunks. If you, my dear readers in 
+Germany, think that I'm exaggerating here, you have no idea on
+what it's like to live in the Wild Wild West for twenty years. This isn't
+sleepy Germany, you really get your high rent money's worth here.
+
+<HTMLONLY><pic images/nextdoor-postcard.ps Nextdoor.com verifies the residential address of every new registrant by sending them a postcard by mail.></HTMLONLY>
+
 TODO
-
-Die auf dem Forum wild
-diskutierten Themen rangieren dann tatsächlich von Beschwerden
-über gestohlene Balkonpflanzen, nachts gehörten Schußsalven im Viertel,
-durchgedrehten Bettlern auf der 24th Street, nächtlicher Ruhestörung,
-allerlei Einbrüchen in Garagen, Wohnungen und Autos, und Tipps, wie man
-seine Haustiere vor den sich nachts im Viertel dreist gebärenden
-Waschbären und Stinktieren schützt. Wenn ihr in Deutschland wohnt, glaubt
-ihr jetzt vielleicht, dass ich übertreibe, aber ihr habt keine Ahnung
-vom Wilden Westen, in dem wir seit 20 Jahren wohnen, man bekommt hier
-anders als im verschnarchten Deutschland
-wirklich etwas geboten für die hohen Mieten.
-
-<HTMLONLY><pic images/nextdoor-postcard.ps Mittels einer Postkarte verifiziert nextdoor.com die Adresse jedes Neuankömmlings.></HTMLONLY>
 
 Weiter führt die Tatsache, dass die Teilnehmer auf nextdoor.com Meldungen
 unter ihrem richtigen Namen mitsamt gültiger Adresse versenden,
