@@ -329,36 +329,29 @@ patio by some low-life.
 
 <pic images/nextdoor-central-noe.ps Only people living in the neighborhood can read my postings on Nextdoor.>
 
+Because the postings are restricted to the the immediate neighborhood, 
+this allows for much more open communication. If you're living in an
+expensive part of town and want to buy an item, say, a surfboard from 
+some guy around the corner, there's no reason to assume that anything
+will go wrong with the transaction. On the other hand, if you respond
+to an offer on the popular <LINK>http://sfbay.craigslist.org|Craigslist</LINK>
+online forum for used items, by contacting someone living in a bad 
+neighborhood, you need to consider the possibility that you might end up 
+getting mugged by a crazy meth head who is doing exactly that for a living.
+
+<HTMLONLY><pic images/nextdoor-mobile.ps Local news on the road: nextdoor.com on a smart phone.></HTMLONLY>
+
+Or would you advertise that your appartment is for rent while you're away
+for four weeks? If you post this on Craigslist, I recommend you also put
+a sign at the door that says "Lots of laptops and cameras inside, please take 
+what you need!", since there's lots of shady characters lurking and
+waiting to take action on news like these. If you post on nextdoor.com,
+however, it's slightly safer (albeit not really safe), because only
+people in your immediate posh neighborhood can read it.
+
+<pic images/nextdoor-car-break-in.ps Another series of car break-ins in our neighborhood! You read it first on nextdoor.com.>
+
 TODO
-
-Weil die Nachrichten auf die Nachbarn auf engstem Raum beschränkt sind,
-eröffnen sich ganz neue Kommunikationsmöglichkeiten. Wir wohnen zum
-Beispiel in einem der teuersten Viertel der Stadt und wenn jemand um
-die Ecke ein Surfboard verkauft, brauche ich mir keinen Kopf machen, dass
-bei der Transaktion etwas schief geht. Hätte der Verkäufer hingegen
-auf der in der Bay Area oft genutzten
-<LINK>http://sfbay.craigslist.org|Craigslist</LINK>
-inseriert und ich müsste
-in ein heruntergekommenes Viertel fahren, um
-das Brett zu begutachten, wäre die Wahrscheinlichkeit, dass es sich beim
-Verkäufer um einen irrsinnigen Meth-Head handelt, der professionell
-Leute ausraubt, durchaus im einstelligen Prozentbereich.
-
-<HTMLONLY><pic images/nextdoor-mobile.ps Ganz praktisch für unterwegs: nextdoor.com auf dem Mobiltelefon.></HTMLONLY>
-
-Oder wo würde jemand, der vier Wochen wegfährt, und seine Wohnung
-untervermieten möchte, dieses Angebot inserieren?
-Stünde eine derartige Anzeige auf Craigslist, könnte
-der Reiselustige genausogut seine Wohnungstür offen stehen lassen und ein
-Schild mit der Aufschrift
-"Haufenweise Laptops und Kameras, bitte gerne alles ausräumen!"
-anbringen, denn die Kriminellen in unserer Stadt
-warten nur auf solche Hinweise. Steht das Angebot aber auf nextdoor.com,
-kann man davon ausgehen, dass es nur Besserverdiener lesen, unter denen
-es verhältnismäßig wenig Grattler gibt, die einem in einem
-unachtsamen Augenblick die Bude auf den Kopf stellen.
-
-<pic images/nextdoor-car-break-in.ps Schon wieder Autos aufgebrochen im Viertel, auf nextdoor.com erfährt man es zuerst.>
 
 Die auf dem Forum wild
 diskutierten Themen rangieren dann tatsächlich von Beschwerden
