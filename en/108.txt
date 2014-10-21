@@ -362,29 +362,27 @@ sleepy Germany, you really get your high rent money's worth here.
 
 <HTMLONLY><pic images/nextdoor-postcard.ps Nextdoor.com verifies the residential address of every new registrant by sending them a postcard by mail.></HTMLONLY>
 
+Another side effect of posting under their real name is that it's quite
+rare that participants in a discussion go haywire and start insulting people.
+Who would risk to lose face with their neighbors for being abusive online?
+In expensive neighborhoods like ours, it's also quite common to talk to 
+people with solid education, although I've got to say that in Noe Valley
+there's also a lot of old hippies who seem to have accumulated money not 
+by a carreer in a lucrative profession, but by sitting in a home for 30 
+years, purchased by accident in the 80ies with Aunt Sally's inheritance, 
+that's now worth millions.
+
+<HTMLONLY><pic images/nextdoor-web.ps Topic on Nextdoor: A drug addicted panhandler is roaming 24th Street.></HTMLONLY>
+
+One side effect of reading Nextdoor news daily, and while
+constantly finding out about burglaries in our relatively safe neighborhood,
+is without doubt a higher level of alertness. People tend to worry more, 
+and start investigating if there's a rustling noise in the parking garage
+at night. On the other hand, it's good to know that other people are also
+affected, if one's bicycle gets stolen from the garage or one's car
+is broken into or stolen as well (<RBLINK>20120305#1</RBLINK>).
+
 TODO
-
-Weiter führt die Tatsache, dass die Teilnehmer auf nextdoor.com Meldungen
-unter ihrem richtigen Namen mitsamt gültiger Adresse versenden,
-dazu, dass sich kaum jemand
-daneben benimmt oder aus einer Laune heraus
-Leute beleidigt. Wer riskiert schon, dass einen
-die Nachbarn schief ansehen, weil man Online ausfallend wurde?
-Und in einem teuren Viertel wie unserem kommuniziert
-man so tatsächlich nur mit relativ gebildeten Leuten, wobei hier in
-Noe Valley auch viele Althippies dabei sind, die weniger durch wohlkalkulierte
-Karrieresprünge als durch zufällige Hauskäufe in den
-80er-Jahren mit Oma Meumes Erbschaft zu Geld kamen.
-
-<HTMLONLY><pic images/nextdoor-web.ps Nextdoor-Thema: Ein drogenabhängiger Bettler macht die 24. Straße unsicher.></HTMLONLY>
-
-Zwar führt die Lektüre der Nextdoor-Nachrichten über die fast täglich
-passierenden Einbrüche in unserem scheinbar sicheren Viertel schon dazu, dass
-man sich besorgt umdreht, falls es des nachts in der Tiefgarage
-raschelt. Andererseits ist man dann auch wieder beruhigt, dass es nicht
-nur einen selbst betrifft, wenn das Fahrrad aus der Garage entwendet oder
-das eigene Auto aufgebrochen oder schlichtweg gestohlen
-wird (<RBLINK>20120305#1</RBLINK>).
 
 @Z: Aus dem Highway 1 wird ein Wanderweg
 
