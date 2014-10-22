@@ -321,7 +321,7 @@ it's yet a different story to get to know them close and invite them
 over to your birthday party. How can you approach these folks? This gap 
 is now being filled by the <LINK>http://nextdoor.com|nextdoor.com</LINK>
 website. To register there, they require that you verify your address, and
-then open they up the Facebook-like neighborhood forums, 
+then they unlock the Facebook-like neighborhood forums, 
 where you can post messages, get hitched with friendly neighbors, or
 get to know who's selling a bicycle, whose house has been haunted by 
 raccoons, or who has had their potted plants stolen from their
@@ -382,33 +382,29 @@ at night. On the other hand, it's good to know that other people are also
 affected, if one's bicycle gets stolen from the garage or one's car
 is broken into or stolen as well (<RBLINK>20120305#1</RBLINK>).
 
-TODO
+@Z: Parts of Highway 1 turned into a hiking trail
 
-@Z: Aus dem Highway 1 wird ein Wanderweg
-
-<pic images/devils-slide-sign.ps Ein Teil des Highway 1 nahe San Francisco wurde in einen Wanderweg umfunktioniert.>
+<pic images/devils-slide-sign.ps A part of Highway 1 near San Francisco was repurposed as a hiking trail.>
 
 <em>Angelika</em>
-Jeder der schon einmal in San Francisco oder Kalifornien Urlaub gemacht hat,
-kennt den Highway 1. Schließlich gilt diese Straße, die sich kilometerweit
-am Pazifischen Ozean entlang schlängelt, als eine der Traumstraßen der
-Welt. Man hat fantastische Ausblicke. Der Highway 1 ist dann auch
-dementsprechend kurvig und instabil, was zur Folge hat,
-dass Teilstücke in einem heftigen
-Wintersturm durchaus schon einmal abbrechen oder Schlammlawinen und
-Erdrutsche nach schweren Regenfällen den Highway 1 unbefahrbar machen.
+Anyone who has ever been on vacation in San Francisco or California knows
+Highway 1. This world-renowned dream road snakes along the Pacific Ocean 
+shore and offers fantastic views. Highway 1 is quite curvy and not in the
+best shape, which often leads parts breaking right off in the winter time 
+during heavy rainstorms. On top of that, mud slides from the adjacent 
+steep slopes often force closures during that time.
 
-Die sogenannte "Devil's Slide"
-bei Pacifica, etwa 25km südlich von San Francisco,
-wo Michael jedes Wochenende surft, galt als besonders
-anfällig. Der Name "Devil's Slide" ("Die Rutsche des Teufels") sagt da
-schon alles. Dieses Teilstück des Highway 1 wurde 1937 fertiggestellt und
-seitdem gab es eigentlich nur Probleme damit.
-In den Jahren 1995 und 2006 war "Devil's Slide"
-am Highway 1 gleich für mehrere Monate gesperrt, was nicht nur zu einem
-Verkehrschaos führte, sondern auch für die vielen kleinen Ortschaften
-weiter südlich von Devil's Slide eine Katasthrophe darstellte, da die vom
-Tourismus leben und kein Tourist mehr durchkam.
+Often affected was the so-called "Devil's Slide" section 
+south of San Francisco, very near Michael's weekend surfing spot.
+This part of Highway 1 was finished in 1937 and every since has been
+causing nothing but problems. In 1995 and 2006, the section was completely
+closed for several months, which led to bad traffic congestion and left
+some of the smaller towns south of the area isolated
+and cut off from a steady stream
+of visiting tourists. A big problem for these towns, where many locals
+make a living relying on visitor dollars!
+
+TODO
 
 Schon in den 60er Jahren schmiedeten die Straßenbauer
 deshalb Pläne, eine große Umgehungsstraße weiter im Landesinneren zu bauen, um
