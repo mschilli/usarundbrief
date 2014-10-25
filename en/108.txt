@@ -424,21 +424,18 @@ and was named <LINK>http://www.devilsslidecoast.org/map|"Devil's Slide Californi
 
 <pic images/devils-slide-ocean.ps The hiking trail offers breathtaking views of the Pacific Ocean.>
 
-TODO
+We went hiking on the trail for the first time in July and were thrilled.
+The path really leads along the old road, directly next to the ocean shore
+and offers expansive views facing the cliffs along the coast line.
+There are a few newly created vista points with park benches along the way.
+The trail runs 1.5 miles in each direction (3 miles round trip) and can
+be accessed on both the north and the south end, where there are parking
+opportunities and bathrooms. There's not a lot of space for parking, though, 
+which will inevitably lead to problems during the sunny season, especially
+when word gets around on how great the trail is. Aside from Crissy Field
+(<RBLINK>20070225#6</RBLINK>), this is my new favorite hiking trail.
 
-Wir sind
-den Weg im Juli das erste Mal gelaufen und waren begeistert. Man geht
-tatsächlich auf der alten Straße direkt am Ozean entlang und hat weite
-Ausblicke auf die Steilküste. Der 2km lange (also 4km Rundweg) Wanderweg
-ist von der Nord- oder der Südseite zugänglich und verfügt über
-mehrere neu angelegte
-Aussichtspunkte mit Bänken. Parkplätze mit Toiletten gibt es sowohl
-am südlichen als auch am nördlichen Ende.
-Die Parkplätze sind allerdings sehr knapp, was an
-Wochenenden oder in der Hochsaison zu Problemen führen kann, vor allen
-Dingen wenn sich herumgesprochen hat, was für ein aufregender Wanderweg
-das ist. Neben Crissy Field (<RBLINK>20070225#6</RBLINK>)
-ist das mein neuer Lieblingsweg.
+TODO
 
 @Z: Faire Vermieter
 
