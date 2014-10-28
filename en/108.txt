@@ -435,26 +435,28 @@ which will inevitably lead to problems during the sunny season, especially
 when word gets around on how great the trail is. Aside from Crissy Field
 (<RBLINK>20070225#6</RBLINK>), this is my new favorite hiking trail.
 
-TODO
+@Z: Modest Landlords
 
-@Z: Faire Vermieter
-
-<pic images/just-for-fun-landlord.ps Der Laden "Just For Fun" in Noe Valley verabschiedet sich von einem der letzten fairen Vermieter in San Francisco.>
+<pic images/just-for-fun-landlord.ps The store "Just For Fun" in Noe Valley says good-by to one of the last modest landlords of San Francisco.>
 
 <em>Angelika</em>
-Wir haben ja schon häufiger darüber berichtet, dass San Francisco für viele
-kaum noch bezahlbar ist, da die Mieten in San Francisco explodieren. Es
-hat sich in letzter Zeit der Unmut besonders gegen die gut verdienenden
-Techies, die im Silicon Valley arbeiten und in San Francisco wohnen
-wollen, gerichtet, aber das Problem ist natürlich komplexer und die hohen
-Mietpreise haben die unterschiedlichsten Ursachen. Persönlich finde ich,
-dass in der Debatte die Rolle der Vermieter immer etwas zu kurz kommt.
+We've reported a few times already that rental prices in San Francisco have
+been exploding lately, rendering the city unaffordable to many people. 
+This has led to some animosity targeting well-off techies, living in
+San Francisco and working in Silicon Valley, but the problem is complex
+there's several contributing factors. I personally find that landlords play a
+major role in this game, a role which is quite often conveniently overlooked.
 
-Schließlich zwingt sie niemand, hohe Mieten zu nehmen, wenn sie daran
-interessiert sind, dass sich das Stadtbild nicht völlig verändert und
-Wohnungen nur noch für eine bestimmte Bevölkerungsgruppe erschwinglich
-sind. Michael meint dann immer, so zu denken wäre naiv, aber neulich wurde
-meine These bewiesen, dass es doch noch Vermieter mit Herz gibt. Ich
+After all, no one forces landlords to raise the rents, which destroys
+the current city landscape and limits access to city living to a very 
+specific affluent populace. Michael keeps saying that it's naive to think
+that people won't always act in their best self-interest, but recently,
+I found out that there are indeed still a number of landlords with 
+integrity left around here.
+
+TODO
+
+Ich
 schlenderte nämlich zu dem Geschenkeladen "Just for Fun" auf der 24ten Straße
 bei uns und sah im Schaufenster einen Brief an die Kunden von den beiden
 Ladenbesitzern David Eiland und Robert Ramsey. Ihr Vermieter Angus
