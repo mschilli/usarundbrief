@@ -488,32 +488,30 @@ between $2.30 and $4.25 for First Class instead.
 
 <pic images/mail-envelopes.ps (#1) The yellow bubble wrap envelope costs more than a Dollar, while the gray one is only 20 Cents.>
 
+When shipping items which already weigh close to a dozen ounces, it's a good 
+strategy to avoid heavy cardboard boxes and go with bubble wrap envelopes
+for packaging
+instead (Figure #1). Clueless newbies buy bubble wrap envelopes 
+at Walgreens at $1.50 a pop, while experts order a hundred of 
+them on Ebay at $0.20 a piece. But don't be suprised if the box containing 
+those 100 envelopes is a giant cube measuring 30 inches in each dimension!
+
+<HTMLONLY><pic images/usps-paypal.ps The shipping service on paypal.com takes payments for USPS postage and prints posting labels.></HTMLONLY>
+
+However, if you think that a bubble wrap mailer passes for letter 
+postage, you are sadly mistaken. Even if it's slimmer than the maximum
+allowed letter thickness of 1/4 inch, according to our post office guy, 
+a bubble wrap envelope won't pass as a "large envelope" but needs to be
+sent as "first class package". Paying online is cheaper than at
+the post office, but since the
+USPS website is being operated by clueless people, it's almost impossible
+to pay for your postage there unless you're willing to jump through a lot
+of hoops. I recommend using the  <LINK>https://www.paypal.com/us/cgi-bin/webscr?cmd=_ship-now|secret Paypal shipping site</LINK> instead,
+which accepts your Paypal account balance or a credit card for payment and lets
+you print shipping labels to be fixed onto the package, which include both
+the recipient's and the sender's address. Pros print on adhesive labels. 
+
 TODO
-
-Gewicht schinden kann man bei verschickten Waren,
-die eh schon ein paar hundert Gramm
-wiegen, dadurch, dass man sie nicht in bleischwere Kartons verpackt, sondern in
-sogenannte Bubble-Wrap-Umschläge steckt (Abbildung (#1)).
-Diese wiederum kauft der Anfänger
-bei der Walgreens-Drogerie
-um die Ecke und muss dafür $1.50 berappen, während der Fachmann
-einen ganzen Karton mit hundert Stück auf Ebay bestellt und pro Umschlag dann
-nur noch 20 Cents zahlt. Aber Achtung, die Kiste mit den Umschlägen misst
-fast einen halben Kubikmeter!
-
-<HTMLONLY><pic images/usps-paypal.ps Auf Paypal kann man fürs Päckchenporto zahlen und das Etikett ausdrucken.></HTMLONLY>
-
-Wer allerdings denkt, dass ein gepolsterter Umschlag als Brief durchgeht, weil
-er dünner als die maximal erlaubte Dicke von 1.905cm ist, hat sich geschnitten.
-Unser Postbeamter hat mir mal erklärt, dass ein gepolsterter Umschlag niemals
-als "Large Envelope" durchgeht, sondern er dafür immer die Gebühren
-für ein "First Class Package" einkassiert. Wer Online zahlt, kriegt Rabatt,
-allerdings wird die Website der USPS von Kasperlköpfen betrieben und es
-ist fast unmöglich, dort das Porto zu zahlen. Fachmänner gehen dazu auf
-die <LINK>https://www.paypal.com/us/cgi-bin/webscr?cmd=_ship-now|geheime Shipping-Seite von Paypal</LINK> und zahlen dort mit ihrem Paypal-Account oder
-Kreditkarte und bekommen ein Etikett zum Selbstausdrucken, das anschließend
-aufs Päckchen geklebt wird (Profis drucken auf selbstklebenden Etiketten).
-Absender und Empfänger stehen gleich mit drauf.
 
 Noch billiger als das "First Class Package" sind übrigens Büchersendungen,
 die bei der amerikanischen Post als "Media Mail" firmieren.
