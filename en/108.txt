@@ -498,9 +498,10 @@ those 100 envelopes is a giant cube measuring 30 inches in each dimension!
 
 <HTMLONLY><pic images/usps-paypal.ps The shipping service on paypal.com takes payments for USPS postage and prints posting labels.></HTMLONLY>
 
-However, if you think that a bubble wrap mailer passes for letter 
+However, if you think that a bubble wrap mailer passes for large
+envelope 
 postage, you are sadly mistaken. Even if it's slimmer than the maximum
-allowed letter thickness of 1/4 inch, according to our post office guy, 
+allowed thickness of 3/4 inch, according to our post office guy, 
 a bubble wrap envelope won't pass as a "large envelope" but needs to be
 sent as "first class package". Paying online is cheaper than at
 the post office, but since the
