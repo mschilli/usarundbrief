@@ -512,20 +512,22 @@ which accepts your Paypal account balance or a credit card for payment and lets
 you print shipping labels to be fixed onto the package, which include both
 the recipient's and the sender's address. Pros print on adhesive labels. 
 
+The "Media Mail" option is even cheaper than "First Class Package". But only
+specific shipments qualify, like books or magazines, or DVDs and CDs
+including the sometimes heavy slipcases. It only takes a 
+handful of dollars to get
+a package shipped to the opposite end of the country. Alas, USPS reserves
+the right to rip open the package during shipment and check if it really 
+contains only media items. And, according to my experience, they sometimes
+put the shipments on temporary hold for no good reason except sticking it 
+to you for choosing the least expensive option, apparently between
+unloading them from one truck and loading them onto the next one. When
+the packages finally arrive at the recipient's address, they often look 
+like they've been exposed to circus elephants stomping around on them.
+
+<HTMLONLY><pic images/usps-pickup-noe.ps Mail deposited into the box at our post office in Noe Valley gets collected on a regular basis.></HTMLONLY>
+
 TODO
-
-Noch billiger als das "First Class Package" sind übrigens Büchersendungen,
-die bei der amerikanischen Post als "Media Mail" firmieren.
-Damit kann man nicht nur Papierschwarten sondern
-auch DVDs und CDs trotz beinschwerer Luxusschuber für ein paar Dollar bis ans
-andere Ende der USA schicken. Allerdings behält sich die Post das Recht vor, die
-Sendung aufzumachen, und nachzuprüfen, ob tatsächlich nur Datenträger
-drin sind. Außerdem lässt sie die Pakete nach meiner Erfahrung
-anscheinend aus Trotz teilweise wochenlang rumliegen, bevor sie sie von
-einem Lastwagen auf den anderen umlädt. Kommen die Kartons beim
-Empfänger an, sehen sie oft aus, als wären Elefanten darauf herumgetrampelt.
-
-<HTMLONLY><pic images/usps-pickup-noe.ps Der Briefkasten am unserem Postamt in Noe Valley wird regelmäßig geleert.></HTMLONLY>
 
 Als zusätzliche Schikane haben die Postbürokraten
 übrigens die Regel eingebaut, dass
