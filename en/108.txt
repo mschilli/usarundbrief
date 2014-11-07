@@ -527,31 +527,30 @@ like they've been exposed to circus elephants stomping around on them.
 
 <HTMLONLY><pic images/usps-pickup-noe.ps Mail deposited into the box at our post office in Noe Valley gets collected on a regular basis.></HTMLONLY>
 
+The bureaucrats in charge of running USPS also have enacted a regulation 
+that says that you can't drop any package into a mailbox that weighs more
+than 13 ounces (368g). Instead, you have to bring it to the post office
+even if you paid for postage online! This is a major inconvenience, 
+especially if you know that many post offices in major metropolitan areas 
+are manned by extremly sluggish employees who don't care one bit about
+providing good service to their customers.
+
+Nothing ruins my day more quickly than after a long day finding a note
+on our mailbox saying that there was a delivery attempt by USPS and I need
+to pick up the package at the post office. Because, for some strange 
+reason, this means that I can't pick it up at the nearest location, 
+which is just five blocks from our home, but I need to drive across town
+to the post office on 18th Street in the Castro district. This location 
+employs the slowest postal workers on earth who hate their lives and
+I always wonder how it is possible that noone has noticed this and
+fired them yet.
+It usually takes them 20 minutes to service five people 
+in line. Luckily, today's smartphones are equipped with the Kindle app that
+lets you read great American novels while you wait.
+
+<HTMLONLY><pic images/postage-price.ps The USPS website shows astronomical shipping fees on the first page for regular packages to drive customers away.></HTMLONLY>
+
 TODO
-
-Als zusätzliche Schikane haben die Postbürokraten
-übrigens die Regel eingebaut, dass
-man nur Päckchen bis zu 13 Unzen (368g) Gewicht frankiert in den Briefkasten
-einwerfen darf. Schwerere Sendungen muss man persönlich zum nächsten
-Postamt bringen. Dazu muss man wissen, dass es in amerikanischen Postämtern
-zumindest in den Metropolen extrem bräsig zugeht, und man den Betrieb dort
-straflos als "Servicewüste" bezeichnen darf.
-
-Mir versaut zum Beispiel nichts so schnell den Tag, wie wenn ich
-am Abend einen Zettel
-an unserem Briefkasten finde, mit der Nachricht, dass der Postbote ein
-Päckchen nicht zustellen konnte und ich es am Postamt abholen muss.
-Das heißt nämlich, dass ich am
-nächsten Samstag nicht etwa zu unserem fünf Straßen weiter gelegenen
-Postamt in Noe,
-sondern durchs Stadtgebirge von San Francisco zum Postamt auf der
-18th Street im Stadtteil Castro fahren muss, und vor mir in der Schlange
-etwa fünf Personen stehen, die sich alle aufregen, warum die Schnarchzapfen,
-die die Schalter bedienen, noch niemand rausgeworfen hat. Bis ich drankomme,
-vergehen dann gut und gerne 20 Minuten, aber zum Glück haben alle Smartphones
-heutzutage eine Kindle-App, auf der man Romane lesen kann.
-
-<HTMLONLY><pic images/postage-price.ps Auf der USPS-Website erscheinen für ein normales Päckchen erstmal völlige Mondpreise, um die Kunden zu verscheuchen.></HTMLONLY>
 
 Gibt man ein vorfrankiertes Päckchen am Postamt ab, wird man allerdings bei den
 etwas besser organisierten Zweigstellen meist durchgewunken. Bei unserem
