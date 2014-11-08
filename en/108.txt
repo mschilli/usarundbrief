@@ -550,15 +550,15 @@ lets you read great American novels while you wait.
 
 <HTMLONLY><pic images/postage-price.ps The USPS website shows astronomical shipping fees on the first page for regular packages to drive customers away.></HTMLONLY>
 
-TODO
+In the better run USPS branches, however, the employees there will 
+spot package drop-offs and let you proceed right to the front, even if 
+there's long lines at the counters. When I'm entering our local post office
+with a package, for example, all I need to do is signal the 
+postal employees at the counters and ask them if it's okay to drop off the
+package at one of the unmanned counters, and they usually let me proceed
+and I don't have to stand in line and wait to drop it off.
 
-Gibt man ein vorfrankiertes Päckchen am Postamt ab, wird man allerdings bei den
-etwas besser organisierten Zweigstellen meist durchgewunken. Bei unserem
-Postamt kennen mich die meisten Angestellten auch schon und wenn ich trotz
-langer Schlangen zur Tür reinkomme, mit einem Paket rumfuchtle und in
-Richtung Schalter rufe, ob es in Ordnung ist, wenn ich die Sendung auf die
-Mitarbeiterseite eines unbesetzten Schalters lege, nicken sie meist
-und ich muss mich nicht lange anstellen.
+TODO
 
 Das Porto für "First Class Packages" berechnet sich nach Gewicht.
 So kostet ein Päckchen, das 5 Unzen wiegt (142g), $2.68, egal, ob man
