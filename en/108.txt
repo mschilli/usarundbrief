@@ -558,27 +558,27 @@ postal employees at the counters and ask them if it's okay to drop off the
 package at one of the unmanned counters, and they usually let me proceed
 and I don't have to stand in line and wait to drop it off.
 
+Shipping cost for "First Class" packages is determined by weight. 
+Packages up to 5 ounces (142g) are only $2.68, regardless if they're
+destined from San Francisco to a neighboring town in Silicon Valley or
+at the other end of the continental United States in New York City.
+A package weighing in at 13 ounces, on the other hand, costs $4.12, that's
+a bargain often taken advantage of by Ebay sellers!
+
+<pic images/post-office-counter.ps If you're unlucky, there's a senior citizen at the counter selecting stamps and holding up the line.>
+
+If the scale shows more than 13 ounces, but still less than a full pound
+(16 ounces or 453g), the charge for "Priority Mail" to a nearby destination
+is $5.60, and $6.95 across the country. If it's more than one pound, the
+package
+could as well weigh two pounds, because the long distance shipment goes up to
+a whopping $11.25. If postal employees are weighing the package at the
+counter and by accident it's only a half-ounce over the limit, then they'll 
+cold-heartedly charge the more expensive rate. In my experience, there's 
+no such thing as a postal worker in the United States who's even slightly 
+bending the rules to give you a break.
+
 TODO
-
-Das Porto für "First Class Packages" berechnet sich nach Gewicht.
-So kostet ein Päckchen, das 5 Unzen wiegt (142g), $2.68, egal, ob man
-es von San Francisco aus in einen Nachbarort im Silicon Valley verschickt oder
-ans andere Ende Amerikas an die Ostküste nach New York City. Wiegt das
-Mini-Päckchen hingegen 13 Unzen (368g), kostet der Spaß $4.12, das ist
-ein Schlagerpreis für Ebay-Verkäufer!
-
-<pic images/post-office-counter.ps Am Schalter kann es sein, dass irgendein Rentner stundenlang Briefmarken aussucht.>
-
-Zeigt die Waage allerdings mehr als die magische Zahl von 13 Unzen,
-aber noch weniger als ein amerikanisches Pfund
-(16 Unzen oder 453g) an,
-geht das Päckchen für $5.60 als "Priority Mail" in den Nachbarort und
-für $6.95 quer durch Amerika. Wiegt es allerdings
-mehr als ein Pfund, könnte es genausogut
-zwei Pfund wiegen, und die weite Strecke kostet dann horrende $11.25.
-Wiegt der Postbeamte am Schalter ein Paket und das Gewicht ist nur eine halbe
-Unze (14g) über der Grenze, verlangt er eiskalt die nächste Gebührenstufe.
-Das sonst in Amerika übliche Augenzudrücken ist den Postbeamten fremd.
 
 Eine Regel, die ich bis vor kurzem noch nicht kannte ist das Format
 von Postkarten oder Briefumschlägen, damit diese als "machinable", also
