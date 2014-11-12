@@ -578,23 +578,26 @@ cold-heartedly charge the more expensive rate. In my experience, there's
 no such thing as a postal worker in the United States who's even slightly 
 bending the rules to give you a break.
 
+One regulation I wasn't aware of until recently determines the dimensions
+of postcards or envelopes so they still qualify as "machinable".
+Recently, Angelika sent a birthday card to Germany, contained in an 
+envelope that measured 6 by 7 inches, i.e. almost had square dimensions.
+It weighed less than 1 ounce (28g), but didn't qualify for the standard
+international shipping to Germany rate of $1.15. 
+Instead, the post office charged $1.35 for it,
+because it deviated from the required rectangular shape,
+being too square-ish.
+And indeed, as I found out later, 
+section 201.2.0 of the postal code requires not only mininum
+and maximum width and height of a shipment, but also defines
+that the ratio of width and height can't be less than 1.3. 
+Doing the math, a 6 by 7 inch envelope has a width/height ratio
+of 1.17, which is less than 1.3, and therefore shipping cost is more,
+triggered by the envelope not being "machinable".
+
+<pic images/usps-package-label.ps Printing shipping labels at home for USPS shipments is easy.>
+
 TODO
-
-Eine Regel, die ich bis vor kurzem noch nicht kannte ist das Format
-von Postkarten oder Briefumschlägen, damit diese als "machinable", also
-automatisch verarbeitbar gelten. Angelika schickte neulich eine
-Geburtstagskarte im Umschlag nach Deutschland los, die 6 mal 7 Inch groß war,
-also fast quadratisch. Obwohl ihr Gewicht das einer normalen Briefsendung
-von 1 Unze (28g) nicht überschritt, kostete sie nicht $1.15 wie normale
-Briefe nach Deutschland sondern $1.35, weil sie nicht rechteckig genug,
-sondern zu quadratisch war. In Abschnitt 201.2.0 des Postregelwerks
-steht nämlich, dass Länge und Breite einer Sendung nicht nur gewisse
-Mindestwerte nicht unter- und Maximalwerte nicht überschreiten dürfen,
-sondern das Verhältnis von Länge zu Breite auch größer als 1,3 zu sein hat.
-Ein 6 mal 7 Inch großer Umschlag hat aber nur ein Seitenverhältnis von
-1,17, also kostet er mehr, denn er ist nicht "maschinable".
-
-<pic images/usps-package-label.ps Das selbstgedruckte Etikett auf dem USPS-Päckchen.>
 
 Wer das Porto selbst ermitteln kann und
 online zahlt und das Etikett selbst ausdruckt,
