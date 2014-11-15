@@ -4,12 +4,14 @@ San Francisco, 02-05-2014
 
 <pic images/crab-duo.ps Two five-star cooks on the hunt for a Michelin star.>
 
+<em>Angelika</em>
+It's really not easy to find a present for Michael, as he has the bad
+habit of buying everything himself, especially as short a week before his
+birthday or Christmas.
+
 TODO
 
-<em>Angelika</em>
-Michael ein Geschenk zu machen, ist wirklich nicht einfach,
-denn er hat die dumme Angewohnheit, sich immer alles selber zu kaufen und dies
-in der Regel eine Woche vor seinem Geburtstag oder Weihnachten. Bücher liest
+Bücher liest
 er mittlerweile fast nur noch elektronisch und auch Musik hört er über
 "Spotify" oder "Rhapsody", also über Streaming-Dienste und nicht mehr
 klassisch auf CD. Ich reisse mir dann jedes Mal schier die Haare aus, womit ich
