@@ -597,39 +597,32 @@ triggered by the envelope not being "machinable".
 
 <pic images/usps-package-label.ps Printing shipping labels at home for USPS shipments is easy.>
 
-TODO
+If you can manage to figure out how much to pay for shipping and print
+the label yourself at home, it's often 10-20% cheaper on Ebay or Paypal.
+Of course, that's out of the question for international shipments, this
+is when the postal service requires you to show up in person at the
+post office and fill a paper form only available there. When you hand
+it to the postal worker behind the counter, they copy the content
+verbatim into their computer and then glue the label onto the package.
 
-Wer das Porto selbst ermitteln kann und
-online zahlt und das Etikett selbst ausdruckt,
-kriegt auf Ebay oder Paypal oft 10-20% Rabatt.
-Das geht natürlich nicht bei international verschickten Paketen, dazu muss
-der Kunde persönlich im Postamt antanzen und einen
-im Internet nicht erhältlichen
-Zoll\-inhalts\-erklärungs\-zettel
-ausfüllen, dessen Inhalt dann der Schalterbeamte von Hand
-in seinen Computer eintippt, und anschließend den Zettel auf das Päckchen
-klebt. Geht
-das Paket dann übrigens nach Deutschland, lässt es der deutsche Zoll nach
-meinen Erfahrungen dort vier Wochen in staubigen Kellern herumrumliegen, und
-übelgelaunte Spürhunde schnüffeln und wühlen während dieser Zeit
-nach Herzenslust darin rum,
-bevor es endlich ein Paketausträger in die Hand bekommt.
-Die Erörterung der Frage, ob der deutsche Zoll tatsächlich eine
-Gruppierung ist, die zwar von
-deutschen Steuerzahlern finanziert wird, aber keinerlei rechtsstaatlicher
-Kontrolle unterliegt, hebe ich mir für einen der nächsten Rundbriefe auf.
+If the shipment goes to Germany, by the way, according to my experience,
+German customs often halts it and lets it rot in dusty storage 
+rooms for a couple of weeks, while they're rummaging through the content, 
+until they get tired of it and finally hand it to a delivery person.
+One of these days I'm going to write a lengthy treatise on the topic
+of why German customs is a taxpayer funded organisation but apparently
+sees no need to follow any rule of law.
 
-<pic images/amzn-no-shipping.ps (#1) Amazon.de schickt keine Kosmetik\-produkte mehr nach Amerika.>
+<pic images/amzn-no-shipping.ps (#1) Amazon.de won't ship beauty products to the U.S. anymore.>
 
-Übrigens sagt der Amerikaner zum Versenden von Waren immer noch "Shipping",
-obwohl Pakete auch international kaum noch per Schiff transportiert werden,
-außer natürlich es handelt sich um ein Riesentrumm wie zum Beispiel eine
-Kreissäge. Es könnte allerdings sein, dass die Paketpost per Dampfer bald
-wieder in Mode kommt, denn die völlig überzogenen Beschränkungen im Luftverkehr
-nehmen in Amerika immer narrischere Dimensionen an. Seit neuestem weigert sich
-schon Amazon.de, Kosmetikprodukte wie Shampoo-Fläschchen (Abbildung (#1))
-in die USA zu schicken!
+It's telling that Americans still say "shipping" when mailing packages, 
+although, even internationally, hardly anything gets actually sent
+by ship anymore, unless it's a really heavy item like a table saw.
+But as the restrictions for airmail in the U.S. continue to become more 
+and more ridiculuous, shipments by ship may become viable again.
+Recently, the German Amazon.de site even stopped shipping beauty products
+like bottles with hair shampoo (Abbildung (#1)) to the U.S.!
 
-Grüße aus dem Behördenparadies;
+Greetings from bureaucracy central:
 
 Angelika \& Michael
