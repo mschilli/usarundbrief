@@ -321,7 +321,7 @@ it's yet a different story to get to know them close and invite them
 over to your birthday party. How can you approach these folks? This gap 
 is now being filled by the <LINK>http://nextdoor.com|nextdoor.com</LINK>
 website. To register there, they require that you verify your address, and
-then open they up the Facebook-like neighborhood forums, 
+then they unlock the Facebook-like neighborhood forums, 
 where you can post messages, get hitched with friendly neighbors, or
 get to know who's selling a bicycle, whose house has been haunted by 
 raccoons, or who has had their potted plants stolen from their
@@ -362,285 +362,267 @@ sleepy Germany, you really get your high rent money's worth here.
 
 <HTMLONLY><pic images/nextdoor-postcard.ps Nextdoor.com verifies the residential address of every new registrant by sending them a postcard by mail.></HTMLONLY>
 
-TODO
+Another side effect of posting under their real name is that it's quite
+rare that participants in a discussion go haywire and start insulting people.
+Who would risk to lose face with their neighbors for being abusive online?
+In expensive neighborhoods like ours, it's also quite common to talk to 
+people with solid education, although I've got to say that in Noe Valley
+there's also a lot of old hippies who seem to have accumulated money not 
+by a carreer in a lucrative profession, but by sitting in a home for 30 
+years, purchased by accident in the 80ies with Aunt Sally's inheritance, 
+that's now worth millions.
 
-Weiter führt die Tatsache, dass die Teilnehmer auf nextdoor.com Meldungen
-unter ihrem richtigen Namen mitsamt gültiger Adresse versenden,
-dazu, dass sich kaum jemand
-daneben benimmt oder aus einer Laune heraus
-Leute beleidigt. Wer riskiert schon, dass einen
-die Nachbarn schief ansehen, weil man Online ausfallend wurde?
-Und in einem teuren Viertel wie unserem kommuniziert
-man so tatsächlich nur mit relativ gebildeten Leuten, wobei hier in
-Noe Valley auch viele Althippies dabei sind, die weniger durch wohlkalkulierte
-Karrieresprünge als durch zufällige Hauskäufe in den
-80er-Jahren mit Oma Meumes Erbschaft zu Geld kamen.
+<HTMLONLY><pic images/nextdoor-web.ps Topic on Nextdoor: A drug addicted panhandler is roaming 24th Street.></HTMLONLY>
 
-<HTMLONLY><pic images/nextdoor-web.ps Nextdoor-Thema: Ein drogenabhängiger Bettler macht die 24. Straße unsicher.></HTMLONLY>
+One side effect of reading Nextdoor news daily, and while
+constantly finding out about burglaries in our relatively safe neighborhood,
+is without doubt a higher level of alertness. People tend to worry more, 
+and start investigating if there's a rustling noise in the parking garage
+at night. On the other hand, it's good to know that other people are also
+affected, if one's bicycle gets stolen from the garage or one's car
+is broken into or stolen as well (<RBLINK>20120305#1</RBLINK>).
 
-Zwar führt die Lektüre der Nextdoor-Nachrichten über die fast täglich
-passierenden Einbrüche in unserem scheinbar sicheren Viertel schon dazu, dass
-man sich besorgt umdreht, falls es des nachts in der Tiefgarage
-raschelt. Andererseits ist man dann auch wieder beruhigt, dass es nicht
-nur einen selbst betrifft, wenn das Fahrrad aus der Garage entwendet oder
-das eigene Auto aufgebrochen oder schlichtweg gestohlen
-wird (<RBLINK>20120305#1</RBLINK>).
+@Z: Parts of Highway 1 turned into a hiking trail
 
-@Z: Aus dem Highway 1 wird ein Wanderweg
-
-<pic images/devils-slide-sign.ps Ein Teil des Highway 1 nahe San Francisco wurde in einen Wanderweg umfunktioniert.>
+<pic images/devils-slide-sign.ps A part of Highway 1 near San Francisco was repurposed as a hiking trail.>
 
 <em>Angelika</em>
-Jeder der schon einmal in San Francisco oder Kalifornien Urlaub gemacht hat,
-kennt den Highway 1. Schließlich gilt diese Straße, die sich kilometerweit
-am Pazifischen Ozean entlang schlängelt, als eine der Traumstraßen der
-Welt. Man hat fantastische Ausblicke. Der Highway 1 ist dann auch
-dementsprechend kurvig und instabil, was zur Folge hat,
-dass Teilstücke in einem heftigen
-Wintersturm durchaus schon einmal abbrechen oder Schlammlawinen und
-Erdrutsche nach schweren Regenfällen den Highway 1 unbefahrbar machen.
+Anyone who has ever been on vacation in San Francisco or California knows
+Highway 1. This world-renowned dream road snakes along the Pacific Ocean 
+shore and offers fantastic views. Highway 1 is quite curvy and not in the
+best shape, which often leads parts breaking right off in the winter time 
+during heavy rainstorms. On top of that, mud slides from the adjacent 
+steep slopes often force closures during that time.
 
-Die sogenannte "Devil's Slide"
-bei Pacifica, etwa 25km südlich von San Francisco,
-wo Michael jedes Wochenende surft, galt als besonders
-anfällig. Der Name "Devil's Slide" ("Die Rutsche des Teufels") sagt da
-schon alles. Dieses Teilstück des Highway 1 wurde 1937 fertiggestellt und
-seitdem gab es eigentlich nur Probleme damit.
-In den Jahren 1995 und 2006 war "Devil's Slide"
-am Highway 1 gleich für mehrere Monate gesperrt, was nicht nur zu einem
-Verkehrschaos führte, sondern auch für die vielen kleinen Ortschaften
-weiter südlich von Devil's Slide eine Katasthrophe darstellte, da die vom
-Tourismus leben und kein Tourist mehr durchkam.
+Often affected was the so-called "Devil's Slide" section 
+south of San Francisco, very near Michael's weekend surfing spot.
+This part of Highway 1 was finished in 1937 and every since has been
+causing nothing but problems. In 1995 and 2006, the section was completely
+closed for several months, which led to bad traffic congestion and left
+some of the smaller towns south of the area isolated
+and cut off from a steady stream
+of visiting tourists. A big problem for these towns, where many locals
+make a living relying on visitor dollars!
 
-Schon in den 60er Jahren schmiedeten die Straßenbauer
-deshalb Pläne, eine große Umgehungsstraße weiter im Landesinneren zu bauen, um
-"Devil's Slide" zu umgehen und für den Verkehr zu schließen.
-Umweltschützer befürchteten aber, dass die Umgehungsstraße die Tore für
-eine starke Bebauung dieses recht einsamen Küstenabschnitts öffnen würde
-und starteten einen jahrzehntelang andauernden politischen Kampf gegen die
-Umgehungsstraße, und für einen Tunnel. 1996 stimmten die Wähler
-schließlich für den Tunnel und 2005 setzten die Offiziellen den
-ersten Spatenstich.
+This is why civil engineers have been hatching plans since the 1960ies
+to build a bypass further inlands, eliminating the need for 
+"Devil's Slide", to be able to finally close it for traffic.
+But environmentalists feared that this bypass would trigger a boom
+in construction near this secluded shoreline and started a decade-long
+political campaign against it. They favored a tunnel, and in 1996,
+voters approved the project, with the first groundbreaking ceremony 
+happening in 2005 by officials.
 
-<pic images/devils-slide-a.ps Wandererin auf dem verkehrsberuhigten Teilabschnitt des Highway 1.>
+<pic images/devils-slide-a.ps A hiker on the now closed part of Highway 1.>
 
-Im März 2013 endlich wurde der Tunnel eröffnet. Die Mühlen mahlen in Kalifornien
-manchmal sehr langsam. Nun stellte sich natürlich auch die Frage, was
-man mit dem alten Highway-1-Teilstück macht.
-Und ich muss sagen, da waren doch
-tatsächlich einmal schlaue Leute am Werk, denn der alte
-Devil's-Slide-Abschnitt wurde zum Wander- und Radfahrweg umfunktioniert, der
-im März 2014 für Naturfreunde öffnete und den schönen Namen
-<LINK>http://www.devilsslidecoast.org/map|"Devil's Slide California Coastal Trail"</LINK> trägt.
+In March 2013, the tunnel finally opened. Government construction projects
+take forever in California. But now the question arose on what to do with
+the old section of Highway 1 that was no longer in use. And, I've got to admit,
+this time a few smart people decided to repurpose the Devil's Slide section
+to a hiking and biking trail, which opened in 2014 for outdoor enthusiasts
+and was named <LINK>http://www.devilsslidecoast.org/map|"Devil's Slide California Coastal Trail"</LINK>.
 
-<pic images/devils-slide-ocean.ps Auch der Wanderweg bietet atemraubende Ausblicke auf den Ozean.>
+<pic images/devils-slide-ocean.ps The hiking trail offers breathtaking views of the Pacific Ocean.>
 
-Wir sind
-den Weg im Juli das erste Mal gelaufen und waren begeistert. Man geht
-tatsächlich auf der alten Straße direkt am Ozean entlang und hat weite
-Ausblicke auf die Steilküste. Der 2km lange (also 4km Rundweg) Wanderweg
-ist von der Nord- oder der Südseite zugänglich und verfügt über
-mehrere neu angelegte
-Aussichtspunkte mit Bänken. Parkplätze mit Toiletten gibt es sowohl
-am südlichen als auch am nördlichen Ende.
-Die Parkplätze sind allerdings sehr knapp, was an
-Wochenenden oder in der Hochsaison zu Problemen führen kann, vor allen
-Dingen wenn sich herumgesprochen hat, was für ein aufregender Wanderweg
-das ist. Neben Crissy Field (<RBLINK>20070225#6</RBLINK>)
-ist das mein neuer Lieblingsweg.
+We went hiking on the trail for the first time in July and were thrilled.
+The path really leads along the old road, directly next to the ocean shore
+and offers expansive views facing the cliffs along the coast line.
+There are a few newly created vista points with park benches along the way.
+The trail runs 1.5 miles in each direction (3 miles round trip) and can
+be accessed on both the north and the south end, where there are parking
+opportunities and bathrooms. There's not a lot of space for parking, though, 
+which will inevitably lead to problems during the sunny season, especially
+when word gets around on how great the trail is. Aside from Crissy Field
+(<RBLINK>20070225#6</RBLINK>), this is my new favorite hiking trail.
 
-@Z: Faire Vermieter
+@Z: Modest Landlords
 
-<pic images/just-for-fun-landlord.ps Der Laden "Just For Fun" in Noe Valley verabschiedet sich von einem der letzten fairen Vermieter in San Francisco.>
+<pic images/just-for-fun-landlord.ps The store "Just For Fun" in Noe Valley says good-by to one of the last modest landlords of San Francisco.>
 
 <em>Angelika</em>
-Wir haben ja schon häufiger darüber berichtet, dass San Francisco für viele
-kaum noch bezahlbar ist, da die Mieten in San Francisco explodieren. Es
-hat sich in letzter Zeit der Unmut besonders gegen die gut verdienenden
-Techies, die im Silicon Valley arbeiten und in San Francisco wohnen
-wollen, gerichtet, aber das Problem ist natürlich komplexer und die hohen
-Mietpreise haben die unterschiedlichsten Ursachen. Persönlich finde ich,
-dass in der Debatte die Rolle der Vermieter immer etwas zu kurz kommt.
+We've reported a few times already that rental prices in San Francisco have
+been exploding lately, rendering the city unaffordable to many people. 
+This has led to some animosity targeting well-off techies, living in
+San Francisco and working in Silicon Valley, but the problem is complex
+there's several contributing factors. I personally find that landlords play a
+major role in this game, a role which is quite often conveniently overlooked.
 
-Schließlich zwingt sie niemand, hohe Mieten zu nehmen, wenn sie daran
-interessiert sind, dass sich das Stadtbild nicht völlig verändert und
-Wohnungen nur noch für eine bestimmte Bevölkerungsgruppe erschwinglich
-sind. Michael meint dann immer, so zu denken wäre naiv, aber neulich wurde
-meine These bewiesen, dass es doch noch Vermieter mit Herz gibt. Ich
-schlenderte nämlich zu dem Geschenkeladen "Just for Fun" auf der 24ten Straße
-bei uns und sah im Schaufenster einen Brief an die Kunden von den beiden
-Ladenbesitzern David Eiland und Robert Ramsey. Ihr Vermieter Angus
-Brunner war gerade gestorben und die beiden Besitzer hoben besonders hervor,
-wie fair Angus immer zu ihnen gwesen war. In den Jahren 2000 und 2006,
-als viele Geschäfte in Noe Valley zumachten, weil wegen der
-angespannten Wirtschaftslage
-die Umsätze einbrachen, kam Angus persönlich vorbei und bot den
-Ladenbesitzern an, die Miete zu senken. Ich war gleich ganz gerührt, als ich
-das las.
+After all, no one forces landlords to raise the rents, which destroys
+the current city landscape and limits access to city living to a very 
+specific affluent populace. Michael keeps saying that it's naive to think
+that people won't always act in their best self-interest, but recently,
+I found out that there are indeed still a number of landlords with 
+integrity left around here.
 
-@Z: Schnäppchen und Ärgernisse mit der ameri\-kanischen Post
+The other day, I was strolling along 24th Street in our neighborhood. 
+I stopped at the gift store "Just for Fun" and noticed a letter to the 
+customers, displayed in the window by the shop owners David Eiland und 
+Robert Ramsey. Their landlord, Angus Brunner, had just passed away and
+the two owners emphasized how modest Angus had been towards them. During 
+the economically challenging years 2000 and 2006, a time when many stores
+in Noe Valley had to close due to sharply declining revenue, Angus 
+stopped by at the store in person and offered them to lower the rent.
+I was quite moved when I read this.
 
-<pic images/post-office.ps Das Postamt in unserem Viertel.>
+@Z: Good Deals and Annoyances with the US Post Office
 
-<em>Michael</em> Trotz vehementer Konkurrenz von Seiten privater Anbieter wie
-UPS und Fedex bietet die amerikanische Post aus historischen Gründen immer noch
-unschlagbare Preise beim Versand von Briefen und Päckchen an. Dass ein Brief
-immer noch 49 Cents kostet, egal ob der Postbote ihn um die Ecke zustellt oder
-der Umschlag
-fast 10.000 Kilometer nach Hawaii fliegen muss, wissen Postnutzer sehr zu
-schätzen, auch wenn diese Schleuderpreise die staatliche "USPS" (United States
-Postal Service) genannte Bundespost der USA langsam aber sicher in die
-Insolvenz treiben (<RBLINK>20110906#9</RBLINK>).
+<pic images/post-office.ps Our neighborhood post office.>
 
-Aber auch viele
-Amerikaner wissen nicht, dass man kleine Päckchen als sogenannte
-"First Class Packages" landesweit
-sehr billig verschicken kann. Anfänger zahlen je nach
-Entfernung zwischen $5.60 und $6.95
-für eine Zustellung des Päckchens als "Priority Mail", aber der
-mit dem Kreuzer rechnende
-Fachmann achtet darauf, dass das Gewicht der Sendung 13 Unzen nicht übersteigt
-(368g), und zahlt dann zwischen $2.30 und $4.25.
+<em>Michael</em> Despite fierce competition in the package delivery market
+from private sector companies like UPS and Fedex, the United 
+States Postal Service (USPS) is still in business and offers 
+unbeatable prices on sending letters and packages. Many mail
+customers appreciate the fact that a standard letter still only costs 
+49 cents to deliver, regardless if it's just around the corner or if 
+it needs to fly as far as 6,000 miles to Hawaii. I have a hard time
+believing this kind of legacy deal is sustainable and wouldn't be surprised
+if USPS ran into financial trouble one day (<RBLINK>20110906#9</RBLINK>).
 
-<pic images/mail-envelopes.ps (#1) Der gelbe Polsterumschlag kostet mehr als einen Dollar, der graue nur 20 Cents.>
+Regardless, I'm going to talk about another great deal today.
+What even many Americans don't know is that USPS offers great prices
+on sending small packages across the country as well. It's called 
+"First Class Package". Customers unaware of this offering pay between
+$5.60 and $6.95 for "Priority Mail" packages, but frugal users keep
+an eye on the package weight not exceeding 13 ounces (368g) and pay
+between $2.30 and $4.25 for First Class instead.
 
-Gewicht schinden kann man bei verschickten Waren,
-die eh schon ein paar hundert Gramm
-wiegen, dadurch, dass man sie nicht in bleischwere Kartons verpackt, sondern in
-sogenannte Bubble-Wrap-Umschläge steckt (Abbildung (#1)).
-Diese wiederum kauft der Anfänger
-bei der Walgreens-Drogerie
-um die Ecke und muss dafür $1.50 berappen, während der Fachmann
-einen ganzen Karton mit hundert Stück auf Ebay bestellt und pro Umschlag dann
-nur noch 20 Cents zahlt. Aber Achtung, die Kiste mit den Umschlägen misst
-fast einen halben Kubikmeter!
+<pic images/mail-envelopes.ps (#1) The yellow bubble wrap envelope costs more than a Dollar, while the gray one is only 20 Cents.>
 
-<HTMLONLY><pic images/usps-paypal.ps Auf Paypal kann man fürs Päckchenporto zahlen und das Etikett ausdrucken.></HTMLONLY>
+When shipping items which already weigh close to a dozen ounces, it's a good 
+strategy to avoid heavy cardboard boxes and go with bubble wrap envelopes
+for packaging
+instead (Figure #1). Clueless newbies buy bubble wrap envelopes 
+at Walgreens at $1.50 a pop, while experts order a hundred of 
+them on Ebay at $0.20 a piece. But don't be suprised if the box containing 
+those 100 envelopes is a giant cube measuring 30 inches in each dimension!
 
-Wer allerdings denkt, dass ein gepolsterter Umschlag als Brief durchgeht, weil
-er dünner als die maximal erlaubte Dicke von 1.905cm ist, hat sich geschnitten.
-Unser Postbeamter hat mir mal erklärt, dass ein gepolsterter Umschlag niemals
-als "Large Envelope" durchgeht, sondern er dafür immer die Gebühren
-für ein "First Class Package" einkassiert. Wer Online zahlt, kriegt Rabatt,
-allerdings wird die Website der USPS von Kasperlköpfen betrieben und es
-ist fast unmöglich, dort das Porto zu zahlen. Fachmänner gehen dazu auf
-die <LINK>https://www.paypal.com/us/cgi-bin/webscr?cmd=_ship-now|geheime Shipping-Seite von Paypal</LINK> und zahlen dort mit ihrem Paypal-Account oder
-Kreditkarte und bekommen ein Etikett zum Selbstausdrucken, das anschließend
-aufs Päckchen geklebt wird (Profis drucken auf selbstklebenden Etiketten).
-Absender und Empfänger stehen gleich mit drauf.
+<HTMLONLY><pic images/usps-paypal.ps The shipping service on paypal.com takes payments for USPS postage and prints posting labels.></HTMLONLY>
 
-Noch billiger als das "First Class Package" sind übrigens Büchersendungen,
-die bei der amerikanischen Post als "Media Mail" firmieren.
-Damit kann man nicht nur Papierschwarten sondern
-auch DVDs und CDs trotz beinschwerer Luxusschuber für ein paar Dollar bis ans
-andere Ende der USA schicken. Allerdings behält sich die Post das Recht vor, die
-Sendung aufzumachen, und nachzuprüfen, ob tatsächlich nur Datenträger
-drin sind. Außerdem lässt sie die Pakete nach meiner Erfahrung
-anscheinend aus Trotz teilweise wochenlang rumliegen, bevor sie sie von
-einem Lastwagen auf den anderen umlädt. Kommen die Kartons beim
-Empfänger an, sehen sie oft aus, als wären Elefanten darauf herumgetrampelt.
+However, if you think that a bubble wrap mailer passes for large
+envelope 
+postage, you are sadly mistaken. Even if it's slimmer than the maximum
+allowed thickness of 3/4 inch, according to our post office guy, 
+a bubble wrap envelope won't pass as a "large envelope" but needs to be
+sent as "first class package". Paying online is cheaper than at
+the post office, but since the
+USPS website is being operated by clueless people, it's almost impossible
+to pay for your postage there unless you're willing to jump through a lot
+of hoops. I recommend using the  <LINK>https://www.paypal.com/us/cgi-bin/webscr?cmd=_ship-now|secret Paypal shipping site</LINK> instead,
+which accepts your Paypal account balance or a credit card for payment and lets
+you print shipping labels to be fixed onto the package, which include both
+the recipient's and the sender's address. Pros print on adhesive labels. 
 
-<HTMLONLY><pic images/usps-pickup-noe.ps Der Briefkasten am unserem Postamt in Noe Valley wird regelmäßig geleert.></HTMLONLY>
+The "Media Mail" option is even cheaper than "First Class Package". But only
+specific shipments qualify, like books or magazines, or DVDs and CDs
+including the sometimes heavy slipcases. It only takes a 
+handful of dollars to get
+a package shipped to the opposite end of the country. Alas, USPS reserves
+the right to rip open the package during shipment and check if it really 
+contains only media items. And, according to my experience, they sometimes
+put the shipments on temporary hold for no good reason except sticking it 
+to you for choosing the least expensive option, apparently between
+unloading them from one truck and loading them onto the next one. When
+the packages finally arrive at the recipient's address, they often look 
+like they've been exposed to circus elephants stomping around on them.
 
-Als zusätzliche Schikane haben die Postbürokraten
-übrigens die Regel eingebaut, dass
-man nur Päckchen bis zu 13 Unzen (368g) Gewicht frankiert in den Briefkasten
-einwerfen darf. Schwerere Sendungen muss man persönlich zum nächsten
-Postamt bringen. Dazu muss man wissen, dass es in amerikanischen Postämtern
-zumindest in den Metropolen extrem bräsig zugeht, und man den Betrieb dort
-straflos als "Servicewüste" bezeichnen darf.
+<HTMLONLY><pic images/usps-pickup-noe.ps Mail deposited into the box at our post office in Noe Valley gets collected on a regular basis.></HTMLONLY>
 
-Mir versaut zum Beispiel nichts so schnell den Tag, wie wenn ich
-am Abend einen Zettel
-an unserem Briefkasten finde, mit der Nachricht, dass der Postbote ein
-Päckchen nicht zustellen konnte und ich es am Postamt abholen muss.
-Das heißt nämlich, dass ich am
-nächsten Samstag nicht etwa zu unserem fünf Straßen weiter gelegenen
-Postamt in Noe,
-sondern durchs Stadtgebirge von San Francisco zum Postamt auf der
-18th Street im Stadtteil Castro fahren muss, und vor mir in der Schlange
-etwa fünf Personen stehen, die sich alle aufregen, warum die Schnarchzapfen,
-die die Schalter bedienen, noch niemand rausgeworfen hat. Bis ich drankomme,
-vergehen dann gut und gerne 20 Minuten, aber zum Glück haben alle Smartphones
-heutzutage eine Kindle-App, auf der man Romane lesen kann.
+The bureaucrats in charge of running USPS also have enacted a regulation 
+that says that you can't drop any package into a mailbox that weighs more
+than 13 ounces (368g). Instead, you have to bring it to the post office
+even if you paid for postage online! This is a major inconvenience, 
+especially if you know that many post offices in major metropolitan areas 
+are manned by extremly sluggish employees who don't care one bit about
+providing good service to their customers.
 
-<HTMLONLY><pic images/postage-price.ps Auf der USPS-Website erscheinen für ein normales Päckchen erstmal völlige Mondpreise, um die Kunden zu verscheuchen.></HTMLONLY>
+Nothing ruins my day more quickly than after a long day finding a note
+on our mailbox saying that there was a delivery attempt by USPS and I need
+to pick up the package at the post office. Because, for some strange 
+reason, this means that I can't pick it up at the nearest location, 
+which is just five blocks from our home, but I need to drive across town
+to the post office on 18th Street in the Castro district. This location 
+employs the slowest postal workers on earth who hate their lives and
+I always wonder how it is possible that noone has noticed this and
+fired them yet.
+It usually takes them 20 minutes to service five people 
+in line. Luckily, today's smartphones are equipped with the Kindle app that
+lets you read great American novels while you wait.
 
-Gibt man ein vorfrankiertes Päckchen am Postamt ab, wird man allerdings bei den
-etwas besser organisierten Zweigstellen meist durchgewunken. Bei unserem
-Postamt kennen mich die meisten Angestellten auch schon und wenn ich trotz
-langer Schlangen zur Tür reinkomme, mit einem Paket rumfuchtle und in
-Richtung Schalter rufe, ob es in Ordnung ist, wenn ich die Sendung auf die
-Mitarbeiterseite eines unbesetzten Schalters lege, nicken sie meist
-und ich muss mich nicht lange anstellen.
+<HTMLONLY><pic images/postage-price.ps The USPS website shows astronomical shipping fees on the first page for regular packages to drive customers away.></HTMLONLY>
 
-Das Porto für "First Class Packages" berechnet sich nach Gewicht.
-So kostet ein Päckchen, das 5 Unzen wiegt (142g), $2.68, egal, ob man
-es von San Francisco aus in einen Nachbarort im Silicon Valley verschickt oder
-ans andere Ende Amerikas an die Ostküste nach New York City. Wiegt das
-Mini-Päckchen hingegen 13 Unzen (368g), kostet der Spaß $4.12, das ist
-ein Schlagerpreis für Ebay-Verkäufer!
+In the better run USPS branches, however, the employees there will 
+spot package drop-offs and let you proceed right to the front, even if 
+there's long lines at the counters. When I'm entering our local post office
+with a package, for example, all I need to do is signal the 
+postal employees at the counters and ask them if it's okay to drop off the
+package at one of the unmanned counters, and they usually let me proceed
+and I don't have to stand in line and wait to drop it off.
 
-<pic images/post-office-counter.ps Am Schalter kann es sein, dass irgendein Rentner stundenlang Briefmarken aussucht.>
+Shipping cost for "First Class" packages is determined by weight. 
+Packages up to 5 ounces (142g) are only $2.68, regardless if they're
+destined from San Francisco to a neighboring town in Silicon Valley or
+at the other end of the continental United States in New York City.
+A package weighing in at 13 ounces, on the other hand, costs $4.12, that's
+a bargain often taken advantage of by Ebay sellers!
 
-Zeigt die Waage allerdings mehr als die magische Zahl von 13 Unzen,
-aber noch weniger als ein amerikanisches Pfund
-(16 Unzen oder 453g) an,
-geht das Päckchen für $5.60 als "Priority Mail" in den Nachbarort und
-für $6.95 quer durch Amerika. Wiegt es allerdings
-mehr als ein Pfund, könnte es genausogut
-zwei Pfund wiegen, und die weite Strecke kostet dann horrende $11.25.
-Wiegt der Postbeamte am Schalter ein Paket und das Gewicht ist nur eine halbe
-Unze (14g) über der Grenze, verlangt er eiskalt die nächste Gebührenstufe.
-Das sonst in Amerika übliche Augenzudrücken ist den Postbeamten fremd.
+<pic images/post-office-counter.ps If you're unlucky, there's a senior citizen at the counter selecting stamps and holding up the line.>
 
-Eine Regel, die ich bis vor kurzem noch nicht kannte ist das Format
-von Postkarten oder Briefumschlägen, damit diese als "machinable", also
-automatisch verarbeitbar gelten. Angelika schickte neulich eine
-Geburtstagskarte im Umschlag nach Deutschland los, die 6 mal 7 Inch groß war,
-also fast quadratisch. Obwohl ihr Gewicht das einer normalen Briefsendung
-von 1 Unze (28g) nicht überschritt, kostete sie nicht $1.15 wie normale
-Briefe nach Deutschland sondern $1.35, weil sie nicht rechteckig genug,
-sondern zu quadratisch war. In Abschnitt 201.2.0 des Postregelwerks
-steht nämlich, dass Länge und Breite einer Sendung nicht nur gewisse
-Mindestwerte nicht unter- und Maximalwerte nicht überschreiten dürfen,
-sondern das Verhältnis von Länge zu Breite auch größer als 1,3 zu sein hat.
-Ein 6 mal 7 Inch großer Umschlag hat aber nur ein Seitenverhältnis von
-1,17, also kostet er mehr, denn er ist nicht "maschinable".
+If the scale shows more than 13 ounces, but still less than a full pound
+(16 ounces or 453g), the charge for "Priority Mail" to a nearby destination
+is $5.60, and $6.95 across the country. If it's more than one pound, the
+package
+could as well weigh two pounds, because the long distance shipment goes up to
+a whopping $11.25. If postal employees are weighing the package at the
+counter and by accident it's only a half-ounce over the limit, then they'll 
+cold-heartedly charge the more expensive rate. In my experience, there's 
+no such thing as a postal worker in the United States who's even slightly 
+bending the rules to give you a break.
 
-<pic images/usps-package-label.ps Das selbstgedruckte Etikett auf dem USPS-Päckchen.>
+One regulation I wasn't aware of until recently determines the dimensions
+of postcards or envelopes so they still qualify as "machinable".
+Recently, Angelika sent a birthday card to Germany, contained in an 
+envelope that measured 6 by 7 inches, i.e. almost had square dimensions.
+It weighed less than 1 ounce (28g), but didn't qualify for the standard
+international shipping to Germany rate of $1.15. 
+Instead, the post office charged $1.35 for it,
+because it deviated from the required rectangular shape,
+being too square-ish.
+And indeed, as I found out later, 
+section 201.2.0 of the postal code requires not only mininum
+and maximum width and height of a shipment, but also defines
+that the ratio of width and height can't be less than 1.3. 
+Doing the math, a 6 by 7 inch envelope has a width/height ratio
+of 1.17, which is less than 1.3, and therefore shipping cost is more,
+triggered by the envelope not being "machinable".
 
-Wer das Porto selbst ermitteln kann und
-online zahlt und das Etikett selbst ausdruckt,
-kriegt auf Ebay oder Paypal oft 10-20% Rabatt.
-Das geht natürlich nicht bei international verschickten Paketen, dazu muss
-der Kunde persönlich im Postamt antanzen und einen
-im Internet nicht erhältlichen
-Zoll\-inhalts\-erklärungs\-zettel
-ausfüllen, dessen Inhalt dann der Schalterbeamte von Hand
-in seinen Computer eintippt, und anschließend den Zettel auf das Päckchen
-klebt. Geht
-das Paket dann übrigens nach Deutschland, lässt es der deutsche Zoll nach
-meinen Erfahrungen dort vier Wochen in staubigen Kellern herumrumliegen, und
-übelgelaunte Spürhunde schnüffeln und wühlen während dieser Zeit
-nach Herzenslust darin rum,
-bevor es endlich ein Paketausträger in die Hand bekommt.
-Die Erörterung der Frage, ob der deutsche Zoll tatsächlich eine
-Gruppierung ist, die zwar von
-deutschen Steuerzahlern finanziert wird, aber keinerlei rechtsstaatlicher
-Kontrolle unterliegt, hebe ich mir für einen der nächsten Rundbriefe auf.
+<pic images/usps-package-label.ps Printing shipping labels at home for USPS shipments is easy.>
 
-<pic images/amzn-no-shipping.ps (#1) Amazon.de schickt keine Kosmetik\-produkte mehr nach Amerika.>
+If you can manage to figure out how much to pay for shipping and print
+the label yourself at home, it's often 10-20% cheaper on Ebay or Paypal.
+Of course, that's out of the question for international shipments, this
+is when the postal service requires you to show up in person at the
+post office and fill a paper form only available there. When you hand
+it to the postal worker behind the counter, they copy the content
+verbatim into their computer and then glue the label onto the package.
 
-Übrigens sagt der Amerikaner zum Versenden von Waren immer noch "Shipping",
-obwohl Pakete auch international kaum noch per Schiff transportiert werden,
-außer natürlich es handelt sich um ein Riesentrumm wie zum Beispiel eine
-Kreissäge. Es könnte allerdings sein, dass die Paketpost per Dampfer bald
-wieder in Mode kommt, denn die völlig überzogenen Beschränkungen im Luftverkehr
-nehmen in Amerika immer narrischere Dimensionen an. Seit neuestem weigert sich
-schon Amazon.de, Kosmetikprodukte wie Shampoo-Fläschchen (Abbildung (#1))
-in die USA zu schicken!
+If the shipment goes to Germany, by the way, according to my experience,
+German customs often halts it and lets it rot in dusty storage 
+rooms for a couple of weeks, while they're rummaging through the content, 
+until they get tired of it and finally hand it to a delivery person.
+One of these days I'm going to write a lengthy treatise on the topic
+of why German customs is a taxpayer funded organisation but apparently
+sees no need to follow any rule of law.
 
-Grüße aus dem Behördenparadies;
+<pic images/amzn-no-shipping.ps (#1) Amazon.de won't ship beauty products to the U.S. anymore.>
+
+It's telling that Americans still say "shipping" when mailing packages, 
+although, even internationally, hardly anything gets actually sent
+by ship anymore, unless it's a really heavy item like a table saw.
+But as the restrictions for airmail in the U.S. continue to become more 
+and more ridiculuous, shipments by ship may become viable again.
+Recently, the German Amazon.de site even stopped shipping beauty products
+like bottles with hair shampoo (Abbildung (#1)) to the U.S.!
+
+Greetings from bureaucracy central:
 
 Angelika \& Michael
