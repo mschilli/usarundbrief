@@ -18,22 +18,20 @@ surprising him with joint adventures instead.
 
 <pic images/crab-pull.ps Angelika takes a live Dungeness crab from the box.>
 
+Because Michael likes to cook and I once enjoyed taking cooking classes a long
+long time ago, my gift to him this year was a cooking class for the both of 
+us. After researching quite a bit, I found 
+<LINK>http://jordanskitchensf.com|"Jordan's Kitchen"</LINK> just around
+the corner from us in the Mission neighborhood. Jordan, a famous chef, 
+offers four hour classes teaching how to prepare a four course meal.
+Since Michael and I love
+<LINK>http://en.wikipedia.org/wiki/Dungeness_crab|"Dungeness Crabs"</LINK>,
+and we've always wanted to know how to cook them starting from scratch, I 
+signed up for the "Crab Cookout".
+
+<pic images/crab-pot.ps The Dungeness Crabs are cooking for about 12 minutes in boiling water until they're ready to be served.>
+
 TODO
-
-Da Michael gern kocht und ich vor langer, langer Zeit viel
-Freude daran hatte, Kochkurse zu absolvieren, schenkte ich Michael dieses Jahr
-zum Geburtstag einen Gutschein für einen gemeinsamen Kochkurs. Nach langer
-Recherche fand ich bei uns um die Ecke im Mission-Viertel 
-<LINK>http://jordanskitchensf.com|"Jordan's Kitchen"</LINK>.
-Der Superkoch Jordan bietet Kurse an, in denen Hobbyköche in einem
-4-stündigen Lehrgang am Abend ein 4-Gänge Menü zaubern. 
-Da Michael und ich für unser Leben gern die sogenannten 
-<LINK>http://en.wikipedia.org/wiki/Dungeness_crab|"Dungeness Crabs"</LINK>
-(Riesenkrebse) essen und schon immer einmal lernen wollten, wie
-diese im Lebendzustand zu verarbeiten sind, meldete ich uns zum "Crab Cookout"
-an. 
-
-<pic images/crab-pot.ps Im kochenden Wasser brodeln die Dunge\-ness-Crabs etwa 12 Minuten bis sie fertig gegart sind.>
 
 Die Dungeness-Krebse leben in der Bay von San Francisco und im Pazifik nahe der
 Westküste der USA und sind zwischen November bis Juni zu bekommen. Sie sind
