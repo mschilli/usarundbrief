@@ -1,6 +1,6 @@
 San Francisco, 02-05-2014
 
-@Z: Cooking crabs in Jordan's Kitchen
+@Z: Cooking crab in Jordan's Kitchen
 
 <pic images/crab-duo.ps Two five-star cooks on the hunt for a Michelin star.>
 
@@ -29,9 +29,9 @@ Since Michael and I love
 and we've always wanted to know how to cook them starting from scratch, so I
 signed up for the "Crab Cookout".
 
-<pic images/crab-pot.ps The Dungeness Crabs are cooking for about 12 minutes in boiling water until they're ready to be served.>
+<pic images/crab-pot.ps The Dungeness Crab are cooking for about 12 minutes in boiling water until they're ready to be served.>
 
-Dungeness Crab are native in the San Francisco Bay and in the Pacific Ocean
+Dungeness Crab are native to the San Francisco Bay and the Pacific Ocean
 close to the U.S. west coast, harvesting 
 season is typically between November and June. 
 They are truly gargantuan in size, the massive body harness measures between six
@@ -44,7 +44,7 @@ crab and place it in boiling water, but we learned that you need to snatch
 the crab from behind so that it can't get your fingers with its claws and 
 bravely I gave in to group pressure.
 
-<pic images/crab-ice.ps After cooking the crabs are placed in ice water.>
+<pic images/crab-ice.ps After cooking the crab are placed in ice water.>
 
 TODO
 
