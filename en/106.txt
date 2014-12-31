@@ -68,19 +68,21 @@ that all participants cooked and later ate as one big team. And I
 received a personal training from Jordan on how to use a chef's knife!
 Highly recommended class!
 
-TODO
+@Z: Montreal, Canada
 
-@Z: Montreal, Kanada
-
-<pic images/montreal-arret.ps In Montreal spricht man Französisch.>
+<pic images/montreal-arret.ps They speak French in Montreal.>
 
 <em>Michael</em>
-Im Dezember flogen wir nach Kanada. Wir wollten diesmal in den
-französischsprachigen Teil an der Ostküste und landeten zunächst 
-nach fünf Stunden Flug von San Francisco in Toronto. Kanadische
-Einwanderungsbeamte gehören nach unserer Erfahrung zu den unfreundlichsten
-Menschen der Welt und unser Schalterfritze herrschte uns denn auch gleich
-mit "Was wollen Sie in Kanada?" an. Zum Glück kennen wir uns aus.
+In December this year, we traveled to Canada. This time, we set out 
+to explore the French-speaking part on the east coast and first had 
+a stop-over after a five hour flight in Toronto. According to several
+previous experiences, Canadian immigration personnel are about the 
+unfriendliest people on earth, and living up to our expectations, 
+the person behind the counter greeted us this time by balking
+"What do you want in Canada?!" at us. Luckily, we know how to deal with 
+this kind of situation.
+
+TODO
 
 Als wir allerdings den Taxifahrer, der uns vom Flughafen nach Montreal
 reinfuhr, auf Französisch fragten, ob er Englisch spräche, entgegnete er
