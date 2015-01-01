@@ -93,19 +93,20 @@ including tip as we safely arrived.
 <pic images/montreal-mural-red.ps Montreal is a colorful city.>
 <pic images/montreal-2nd-floor-stairs.ps Typical Montreal: Small houses with a separate entrance for the 2nd floor.>
 
+We were truly shocked that except for a few American tourists everyone
+speaks French in Montreal. Every store you enter, the first thing
+you hear is "Bonjour!" and if you don't clue people in, they start 
+throwing French at you at a speed that is really hard to understand
+for non-native speakers. Interestingly, I have spent a solid 
+five years of my life learning French, in a high school in Germany from 7th to 
+11th grade, four hours a week. Admittedly, French in school never resonated 
+with me and I ended up with barely passing grades, but this illustrates
+fairly well how the German education system can go right by you without
+much effect.
+
+<pic images/montreal-house-comic.ps At outside temperatures of -1C (30F) the colorful houses of Montreal sure look nice in the sunshine.>
+
 TODO
-
-Wir waren echt geschockt, dass alles bis auf wenige amerikanische
-Touristen in Montreal Französisch spricht. In jedem Laden tönt einem
-erst "Bonjour!" entgegen und wenn man nichts Gegenteiliges verlauten 
-lässt, plappern die Leute Französich in einer Geschwindigkeit, die
-kein Mensch versteht. Lustigerweise habe ich geschlagene fünf Jahre lang,
-im Gymnasium von der 7. bis zur 11. Klasse, vier Stunden wöchentlich 
-Französisch gelernt. Gut, ich hatte immer einen Vierer mit Tendenz
-zum Fünfer, aber da sieht man mal wieder, wie effektarm die deutsche 
-Schulbildung an einem vorüber gehen kann.
-
-<pic images/montreal-house-comic.ps Bei -1 Grad Kälte und Sonnenschein leuchten die farbenfrohen Häuslein Montreals.>
 
 Fragt man aber vorsichtig nach, ob der Gegenüber vielleicht Englisch spricht
 ("Parlez-vous Anglais?"), stellt sich bei jedem Einheimischen unter 30 heraus,
