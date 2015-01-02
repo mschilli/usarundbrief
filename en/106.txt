@@ -106,26 +106,29 @@ went right by me without much effect.
 
 <pic images/montreal-house-comic.ps At outside temperatures of -1C (30F) the colorful houses of Montreal sure look nice in the sunshine.>
 
-TODO
+But if the visitor then carefully inquires if their vis-à-vis might 
+perhaps speak English ("Parlez-vous Anglais?"), it turns out that every 
+native under 30 does so fluently. We found out that apparently
+French-Canadians get upset when visitors automatically assume that everyone 
+speaks English. It seems a bit strange, but, hey, when in Rome.
 
-Fragt man aber vorsichtig nach, ob der Gegenüber vielleicht Englisch spricht
-("Parlez-vous Anglais?"), stellt sich bei jedem Einheimischen unter 30 heraus,
-dass das fließend der Fall ist. Angeblich fühlen sich die Französisch-Kanadier
-auf den Schlips getreten, wenn man automatisch annimmt, dass jeder Englisch
-spricht. Etwas bekloppt, aber bitte.
-
-Auch die Öffnungszeiten der Geschäfte sind eher europäisch als amerikanisch.
-So vergewisserten wir uns zum Glück am Samstagmorgen, wie lange ein
-Lebensmittelgeschäft auf hatte, und nahmen zähneknirschend zur Kenntnis, dass
-es um 17:00 Uhr die Schotten dicht machen würde. Also liefen wir dort um 16:15
-ein, nur um festzustellen, dass die Wursttheke wie leergefegt und das Käseregal
-bereits verschlossen war. Zum Glück waren wir schon am Vortag dagewesen und
-konnten die Verkäufer zu den abgeriegelten Bereichen hindirigieren, um noch ein
-Abendessen zusammenzustellen. 
+Another oddity are the store opening hours, which are rather European than
+American. For example, we went to this grocery store right 
+by the train station,
+and knowing they might be closing early on a Saturday, we inquired about 
+how long they were open, and learned while gnashing our teeth that they 
+would close at 5pm. To make sure we still would be able to get our groceries
+for the weekend, we showed up at 4:15pm and saw to our surprise that the 
+meat counter was virtually sold out and the cheese fridge had already be
+covered up with protective tarp. Luckily, we had been there the day before,
+knew where everything was located, and were able to direct a sales person 
+to the sealed-off areas in order to get a few items for our evening meal.
 
 <HTMLONLY>
-<pic images/montreal-house.ps Buntgestrichenes altes Haus in einer Seitenstraße in Montreal.>
+<pic images/montreal-house.ps Colorfully painted old house in a Montreal side street.>
 </HTMLONLY>
+
+TODO
 
 Einmal fragten wir in einem Laden nach einem Bäcker in der Nähe. Die Verkäufer
 steckten die Köpfe zusammen und erwogen minutenlang verschiedene Möglichkeiten
