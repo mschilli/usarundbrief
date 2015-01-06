@@ -153,25 +153,27 @@ at a different party's table! This would never fly in the U.S., the health
 department would start issuing violations and patrons would freak out!
 As born Europeans, we liked it, of course.
 
-TODO
+In the excellent "Beaver Hall" restaurant, named after the street it
+is located on, the waiter placed a whole loaf of bread on our table after
+we ordered, and put a gigantic bread knife with a serrated blade next to it.
+Imagine that to happen in the U.S., the restaurant owner would certainly
+worry about clumsy or reckless guests injuring themselves and having to
+deal with the resulting liability issues and million-dollar lawsuits!
 
-In dem ausgezeichneten französischen Restaurant "Beaver Hall" in der 
-gleichnamigen Straße stellte der Ober, nachdem wir bestellt hatten, einen
-Laib Brot auf einem Brettchen auf den Tisch und legte ein riesiges 
-Brotmesser mit Wellschliff daneben. Das gäb's in Amerika niemals, da hätte
-der Restaurantbesitzer Angst, dass sich unvorsichtige Gäste verletzen oder
-Unfug mit dem Messer treiben, für den er dann millionenschwer haften müsste.
-Überhaupt isst man im französischen Teil von Kanada ganz hervorragend. 
-Es ist zwar nicht ganz billig und die Restaurantgäste kleiden sich eindeutig
-vornehmer als in Amerika, was man erst sehen kann, wenn sie sich nach
-dem Betreten des Lokals aus ihren megadicken Daunenparkas geschält haben,
-die der Ober geschwind in die Garderobe hängt.
+Across the board, dining in the French part of Canada is a truly eye-opening
+experience, the food was truly excellent whereever we went. 
+It's not exactly cheap but well worth the money, and the patrons are 
+dressed up much fancier than in the U.S., although you can only tell after 
+they've taken off their puffball-sized down jackets, which the waiters
+quickly put away to place them in the coat check area.
 
-<pic images/montreal-macrons.ps Teure Kekse mit Füllung, sogenannte "Macrons".>
+<pic images/montreal-macrons.ps Expensive cookies with filling, called "macrons".>
 
 <HTMLONLY>
-<pic images/montreal-macrons-box.ps Alle Kekse müssen genau in die Pappschachtel passen.>
+<pic images/montreal-macrons-box.ps All macrons have to fit exactly into the box.>
 </HTMLONLY>
+
+TODO
 
 Eine französiche Spezialität sind sogenannte "Macrons". Diese zweilagigen
 Knusperkekse mit Füllung werden in allen möglichen 
