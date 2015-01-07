@@ -173,19 +173,19 @@ quickly put away to place them in the coat check area.
 <pic images/montreal-macrons-box.ps All macrons have to fit exactly into the box.>
 </HTMLONLY>
 
+Another French specialty are the so-called "Macrons". Those two-layered 
+cookies feature fillings of all kinds of flavors, and they're packed into
+small 
+cardboard boxes by the dozen. Allegedly, they're really complicated to make,
+which is why, so the rumor goes, one cookie the size of a postage stamp 
+costs more than a dollar. They're not bad, but I'd hardly drive all the way 
+up to Canada to taste them. The sales person packs exactly one dozen 
+into a small rectangular box, and if they don't fit all in, 
+they're being squeezed until they do. 
+
+<pic images/montreal-notre-dames-bon-secour.ps Over night, Montreal was suddenly covered in snow. This is a tiny church in Montreal's Old Town named Notre Dames Bon Secour.>
+
 TODO
-
-Eine französiche Spezialität sind sogenannte "Macrons". Diese zweilagigen
-Knusperkekse mit Füllung werden in allen möglichen 
-Geschmacksrichtungen hergestellt 
-und im Dutzend in Schachteln verpackt. Angeblich ist die Herstellung
-absurd aufwändig, so dass ein Keks in Briefmarkengröße mehr als einen Dollar 
-kostet. Ganz lecker, aber bis rauf nach Kanada würde ich dafür nicht fahren.
-Im Dutzend packt die Verkäuferin sie in eine Schachtel und wenn sie nicht
-alle reingehen, muss sie die einzelnen Macrons zusammenpressen, bis es
-passt.
-
-<pic images/montreal-notre-dames-bon-secour.ps Über Nacht war plötzlich Schnee da. Ein kleines Kirchlein in der Altstadt Montreal namens Notre Dames Bon Secour.>
 
 Nach drei zwar kalten sonnigen Tagen (immer so knapp unter Null Grad Celsius)
 haute es dann eines Morgens unerwartet 10cm Schnee her. Wir hatten 
