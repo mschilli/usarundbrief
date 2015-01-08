@@ -185,17 +185,17 @@ they're being squeezed until they do.
 
 <pic images/montreal-notre-dames-bon-secour.ps Over night, Montreal was suddenly covered in snow. This is a tiny church in Montreal's Old Town named Notre Dames Bon Secour.>
 
-TODO
-
-Nach drei zwar kalten sonnigen Tagen (immer so knapp unter Null Grad Celsius)
-haute es dann eines Morgens unerwartet 10cm Schnee her. Wir hatten 
-wohlwissend unsere Alaska-Gear aus dem Jahr 2010 mitgenommen und stapften
-grummelnd über vermatschte Gehwege. Der Autoverkehr lief davon unbeeindruckt 
-weiter.
+After three cold, but sunny days (always around 32F), all of a sudden, one
+morning, there were four inches of snow on the ground. We had done our homework
+and brought our Alaska gear to Montreal, so we just bundled up and grudgingly
+trudged through the slushy snow on the sidewalks. Interestingly, traffic was
+largely unimpacted.
 
 <HTMLONLY>
-<pic images/montreal-saq-opening-hours.ps Die staatliche Schnapsverkaufsstelle hat rigide Öffnungszeiten und schließt am Sonntag schon um 17:00 Uhr.>
+<pic images/montreal-saq-opening-hours.ps The government-controlled liquor store has inconvenient opening hours and closes at 5pm on Sundays!>
 </HTMLONLY>
+
+TODO
 
 In Kanada gelten teilweise völlig absurde Vorschriften zum Verkauf
 von Alkohol. Genau hängen sie aber vom jeweiligen Bundesstaat ab, und im
