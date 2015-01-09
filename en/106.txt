@@ -195,21 +195,20 @@ largely unimpacted.
 <pic images/montreal-saq-opening-hours.ps The government-controlled liquor store has inconvenient opening hours and closes at 5pm on Sundays!>
 </HTMLONLY>
 
-TODO
-
-In Kanada gelten teilweise völlig absurde Vorschriften zum Verkauf
-von Alkohol. Genau hängen sie aber vom jeweiligen Bundesstaat ab, und im
-Bundesstaat Quebec, in dem Montreal liegt, dürfen Supermärkte Wein
-und Bier verkaufen, aber keinen Schnaps. Die staatlichen Läden namens
-"SAQ" (<LINK>http://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_alcools_du_Qu%C3%A9bec|Société des alcools du Québec</LINK>) bieten hingegen Wein, Bier
-und hochprozentigen Alkohol der etwas gehobenen Preiskategorie an. 
-Ihre Öffnungszeiten sind aber nicht gerade
-kundenfreundlich, und so schließen die Läden sonntags zum Beispiel schon 
-um 17:00 Uhr.
+When it comes to retailing alcoholic beverages, Canada features some of
+the most absurd regulations known to man. Details vary from state to state, 
+so for example in the city of Montreal, 
+located in the state of Quebec, supermarkets
+are legally allowed to sell wine and beer, but no hard liquor. A 
+government-controlled store chain named "SAQ" (<LINK>http://en.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_alcools_du_Qu%C3%A9bec|Société des alcools du Québec</LINK>), on the other hand, offers wine, beer, and hard liquor in a 
+somewhat elevated price category. Their store hours aren't exactly 
+customer friendly, though, for example, they're closing at 5pm on Sundays!
 
 <HTMLONLY>
-<pic images/montreal-apportez-votre-vin.ps "Apportez votre vin": Ein Restaurant, in das man Wein mitbringen muss.>
+<pic images/montreal-apportez-votre-vin.ps "Apportez votre vin": You can bring your own wine to this restaurant.>
 </HTMLONLY>
+
+TODO
 
 Restaurants haben oft eine Schanklizenz, doch eine Vielzahl lädt mit dem
 Schild "Apportez votre vin" ("Holen sie ihren Wein") dazu ein, 
