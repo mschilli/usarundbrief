@@ -208,16 +208,16 @@ customer friendly, though, for example, they're closing at 5pm on Sundays!
 <pic images/montreal-apportez-votre-vin.ps "Apportez votre vin": You can bring your own wine to this restaurant.>
 </HTMLONLY>
 
+Restaurants often have a liquor license, but many don't, and by displaying
+a "Apportez votre vin" sigh, they're inviting customers to bring their own 
+wine, usually purchased from a nearby store. Unlike in the U.S., they
+usually don't charge a "corking fee". It's a very good deal, as wines
+that cost $10 retail a bottle are often listed for $50 on the wine
+menu.
+
+<pic images/montreal-foie-gras.ps (#2) In Montreal with its French influence, of course you can get foie gras.>
+
 TODO
-
-Restaurants haben oft eine Schanklizenz, doch eine Vielzahl lädt mit dem
-Schild "Apportez votre vin" ("Holen sie ihren Wein") dazu ein, 
-Flaschenwein vom Laden um die Ecke mitzubringen, den der Ober dann entkorkt 
-und in bereitgestellte Gläser einschenkt, gebührenfrei, ohne ein
-sogenanntes "Corking Fee" zu erheben. Dabei spart der Gast eine Menge Geld,
-denn ein 10-Dollar-Wein steht in Lokalen mit Lizenz oft mit $50 auf der Karte.
-
-<pic images/montreal-foie-gras.ps (#2) Im französich angehauchten Montreal gibt's natürlich noch Gänseleberpastete.>
 
 Kalifornien hat ja bekanntlich vor einem Jahr die Gänsestopfleber verboten
 (<RBLINK>20121103#10</RBLINK>). In anderen US-Bundesstaaten wie zum Beispiel
