@@ -217,21 +217,19 @@ menu.
 
 <pic images/montreal-foie-gras.ps (#2) In Montreal with its French influence, of course you can get foie gras.>
 
+As you might know, selling foie gras in California has been outlawed about
+a year ago (<RBLINK>20121103#10</RBLINK>). Other states, for example
+Nevada, still offer it, and, as you've probably guessed, it's a staple on the
+menus in many French Canadian restaurants. Whenever the government takes
+something away, the natural reaction is to crave it, and when we saw
+that $25 can of foie gras on a christmas market in Montreal, we had to get
+it. Applied as spread on cruncy European-style bread sold at the
+"Premier Moisson" bakerey which, against all odds, we managed to find
+anyway, it tasted fabulous.
+
+<pic images/montreal-jump.ps Even at frosty temperatures, Michael has to goof off.>
+
 TODO
-
-Kalifornien hat ja bekanntlich vor einem Jahr die Gänsestopfleber verboten
-(<RBLINK>20121103#10</RBLINK>). In anderen US-Bundesstaaten wie zum Beispiel
-Nevada wird sie weiterhin serviert und auch im französischen Teil von
-Kanada ist sie natürlich 
-nicht von der Speisekarte wegzudenken. Wie immer wenn die
-Regierung etwas verbietet, lechzt man danach, und als wir in Montreal die
-Dose Foie Gras mit Cidre in Abbbildung (#2) auf einem Weihnachtsmarkt sahen,
-kauften wir sie für 25 Dollar. Auf knuspriges Graubrot der Bäckerei 
-"Premier Moisson"
-geschmiert, die wir dann trotz widriger Umstände doch noch fanden, 
-schmeckte sie ausgezeichnet.
-
-<pic images/montreal-jump.ps Auch bei frostigen Temperaturen muss Michael immer Blödsinn machen.>
 
 @Z: Quebec, Kanada
 
