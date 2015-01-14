@@ -229,26 +229,26 @@ anyway, it tasted fabulous.
 
 <pic images/montreal-jump.ps Even at frosty temperatures, Michael has to goof off.>
 
-TODO
-
-@Z: Quebec, Kanada
+@Z: Quebec, Canada
 
 <em>Michael</em>
-Nach vier Tagen rollten wir unser Gepäck auf eisigen aber teilweise gesalzenen
-Gehwegen zum etwa einen Kilometer entfernt gelegenen Bahnhof "Gare Central"
-in Montreal, um ins etwa 250km entfernte Quebec zu fahren. Die Stadt
-Quebec nennt der Kanadier übrigens "Quebec City", denn sowohl Montreal als
-auch Quebec City liegen im kanadischen Bundesstaat Quebec. In den 
-vorgebuchten Großraumwagen durfte man keine schweren Koffer mitnehmen,
-und so gaben wir diese wie am Flughafen vorher bei der Gepäckstelle ab. 
-Allerdings wollte niemand unsere Ausweise sehen oder uns durch irgendwelche
-Bodyscanner jagen, und der Gepäckmann erlaubte sich sogar einen Scherz, als 
-er sich unsere Pässe schnappte und kurz hinter seinem Rücken versteckte.
-Schon eine halbe Stunde vor der Abfahrt bestiegen die meisten Fahrgäste
-den Zug, der zwar nicht sehr schnell fuhr (etwa 100 km/h) aber immerhin
-eine relativ zügige Internetverbindung per Wifi bot. 
+Four days later, we hauled our rolling luggage on partially de-iced sidewalks 
+to the train station "Gare Central", located about half a mile from our hotel.
+We were heading to Quebec, about 160 miles north-east of Montreal. The city
+of Quebec is referred to by "Quebec City" by Canadians to avoid confusion as
+both Montreal and Quebec City are located in the Canadian state of Quebec.
+Bulky luggage wasn't permitted in the train vestibules, so we dropped
+ours off at the baggage check, just like at the airport. There wasn't any
+annoying rigamarole like having to show ID or being chased through a body
+scanner. Since we had our passports in hand, the baggage handler even 
+jokingly snatched them and hid them behind his back! Most travelers boarded
+the train 30 minutes before departure. The train wasn't going very fast,
+only about 60 miles per hour, but offered a stable and
+pretty speedy Wifi connection.
 
-<pic images/quebec-train-baggage.ps In Quebec holten wir unser Gepäck wieder vor dem Gepäckwagen an der Spitze des Zuges ab.>
+<pic images/quebec-train-baggage.ps In Quebec we received our bags at the luggage car located at the head of the train.>
+
+TODO
 
 In Quebec angekommen, stellten wir fest, dass die Temperatur 
 von "frostig" auf "brutal kalt" gefallen war. Während unseres Aufenthalts
