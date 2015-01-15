@@ -248,16 +248,17 @@ pretty speedy Wifi connection.
 
 <pic images/quebec-train-baggage.ps In Quebec we received our bags at the luggage car located at the head of the train.>
 
+As soon as we got off the train in Quebec, we noticed that the 
+outside temperature had gone down from "frosty" to "brutally cold". 
+During our stay, we experienced cold snaps with temperatures 
+as low as -14F (-26C), and if you're outside on such a day and the
+cold wind is blowing in your face, this gets old pretty quickly.
+
+<pic images/quebec-castle-ice-river.ps The city wall and the old castle hotel in Quebec.>
+
 TODO
 
-In Quebec angekommen, stellten wir fest, dass die Temperatur 
-von "frostig" auf "brutal kalt" gefallen war. Während unseres Aufenthalts
-lag sie teilweise bei -26 Grad, und wenn einem dann noch der kalte Wind
-ins Gesicht pustet hat der Spaß ein Loch.
-
-<pic images/quebec-castle-ice-river.ps Stadtmauer und das alte Schloßhotel in Quebec.>
-
-Quebec ist richtig alt (zumindest wenn man aus Amerika kommt) 
+Quebec ist richtig alt (zumindest wenn man aus Amerika kommt)
 und seine Geschichte reicht bis ins 17. Jahrhundert zurück. 
 Eine Steinmauer umrundet die auf einem Berg gelegene Altstadt "Haute-Ville",
 vor der aus man eine ebenfalls alte aber tiefer gelegene Altstadt namens
