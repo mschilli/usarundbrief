@@ -256,15 +256,15 @@ cold wind is blowing in your face, this gets old pretty quickly.
 
 <pic images/quebec-castle-ice-river.ps The city wall and the old castle hotel in Quebec.>
 
+Quebec is an astonishingly old city, at least it seems so when you're visiting
+from the United States. Its history dates back to the 17th century, and its old
+town at the top of the hill is called "Haute-Ville", connected
+to the lower part "Basse-Ville" by both an ancient elevator and a regular
+road.
+
+<pic images/quebec-angelika-cannons.ps Angelika is freezing next to old cannons in Quebec.>
+
 TODO
-
-Quebec ist richtig alt (zumindest wenn man aus Amerika kommt)
-und seine Geschichte reicht bis ins 17. Jahrhundert zurück. 
-Eine Steinmauer umrundet die auf einem Berg gelegene Altstadt "Haute-Ville",
-vor der aus man eine ebenfalls alte aber tiefer gelegene Altstadt namens
-"Basse-Ville" entweder über eine Art Zahnradaufzug oder die Straße erreicht.
-
-<pic images/quebec-angelika-cannons.ps Angelika fröstelnd neben alten Kanonen in Quebec.>
 
 Es stehen alte Kanonen herum und es lohnt sich, allerhand altes Gemäuer
 zu besichtigen. Während sich die Stadt in den Sommermonaten in eine 
