@@ -264,18 +264,20 @@ road.
 
 <pic images/quebec-angelika-cannons.ps Angelika is freezing next to old cannons in Quebec.>
 
-TODO
-
-Es stehen alte Kanonen herum und es lohnt sich, allerhand altes Gemäuer
-zu besichtigen. Während sich die Stadt in den Sommermonaten in eine 
-möglicherweise abartige Touristenhochburg mit Festivals und Shops und 
-Restaurants verwandelt, ist sie im Winter charmant verschlafen. In den
-Restaurants freuen sich die Besitzer auf die wenigen Gäste und übersetzen
-einem erfreut die gesamte französische Speisekarte auf Englisch.
+There's many ancient cannons standing around everywhere throughout the city 
+and all kinds of old masonry for the curious visitor to inspect. 
+From what we've heard, during the summer months, Quebec turns into a 
+possibly hard to bear tourist location, with all kinds of buzzling
+festivals and packed stores and restaurants. During the winter months, however,
+it is charminging bleary, and the few restaurants still open bid a warm 
+welcome to visitors, and will happily walk them through the entire menu
+in English if that is what it takes.
 
 <HTMLONLY>
-<pic images/quebec-billboard.ps Das waagrecht einfallende Sonnenlicht bei klarer Luft wegen eisiger Kälte erfreut den Fotografen.>
+<pic images/quebec-billboard.ps The sunlight comes in horizontally, and in combination with the cold clear air provides excellent conditions for photographers.>
 </HTMLONLY>
+
+TODO
 
 Wer gernt fotografiert und gutes Licht zu schätzen weiß, kommt hier voll
 auf seine Kosten, denn das waagrecht einfallende Sonnenlicht erzeugt eine
