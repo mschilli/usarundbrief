@@ -277,18 +277,18 @@ in English if that is what it takes.
 <pic images/quebec-billboard.ps The sunlight comes in horizontally, and in combination with the cold clear air provides excellent conditions for photographers.>
 </HTMLONLY>
 
+It's a photographer's paradise. The sun usually hangs low on the horizon,
+casting an almost horizontal light, which creates a grandiose ambience.
+The air is crystal clear, due to the extreme cold, and the only hard
+part is hitting the release without taking off the mittens! Hitting the
+button on a pedestrian crossing light while wearing mittens poses the
+same problem, but Quebec solved this one by placing sensors next to the 
+buttons and all you need to do to trigger the signal is to hold your
+mitten next to it (Figure (#4)).
+
+<pic images/quebec-glove-switch.ps (#4) Pedestrian crossings feature these proximity sensors that trigger the light when an object like a mitten-protected hand gets near it.>
+
 TODO
-
-Wer gernt fotografiert und gutes Licht zu schätzen weiß, kommt hier voll
-auf seine Kosten, denn das waagrecht einfallende Sonnenlicht erzeugt eine
-bombastische Stimmung. Die Luft ist wegen der extremen Kälte glasklar, das
-einzige Problem ist es, den Auslöser zu treffen, ohne die Fäustlinge
-abzustreifen! Damit man an der Fußgängerampel ohne großen Aufwand den 
-Druckknopf betätigen kann, wurden diese in Quebec durch Sensoren ersetzt,
-an die man einfach den Handschuh hinhalten muss, damit er durchschaltet
-(Abbildung (#4)).
-
-<pic images/quebec-glove-switch.ps (#4) Damit man zum Knöpferldrücken an der Ampel die Handschuhe anbehalten kann, reagiert der Sensor schon wenn man die Hand hinhält.>
 
 Insgesamt ist der französisch sprechende Teil Kanadas viel interes\-santer
 als die Westküste. Dort sind die Städte eher ein Abklatsch amerikanischer
