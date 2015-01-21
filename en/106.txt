@@ -305,26 +305,24 @@ can safely switch to English.
 If you want to see more  of our photos taken in Montreal and Quebec, check out 
 our <LINK>http://www.flickr.com/photos/mikeschilli/sets/72157638460211804/|Flickr Album</LINK> tun.
 
-TODO
+@Z: The Tech Bus
 
-@Z: Die Shuttlebusse der Internetfirmen
-
-<pic images/shuttle-yahoo.ps Das Yahoo-Shuttle macht keinen Hehl daraus, zu welcher Firma es gehört.>
+<pic images/shuttle-yahoo.ps The Yahoo shuttle clearly states which company is running it.>
 
 <em>Michael</em>
-Am Anfang war der Google-Bus. Schon anno 2008 (<RBLINK>20080502#5</RBLINK>) 
-fuhr der Internetkonzern seine Mitarbeiter zur Arbeit von San Francisco
-runter ins Silicon Valley. Und schon damals regten sich die Anwohner auf,
-weil die schweren dunklen Reisebusse in den frühen Morgenstunden
-durch die kleinen Strässchen in unserem Viertel schaukelten und teilweise
-10 Minuten lang mit laufendem Motor in sonst wenig befahrenen Gegenden
-warteten. Die Internet-Tratschseite allthingsd.com titelte schon im Juli
-mit <LINK>http://allthingsd.com/20130721/san-francisco-may-crack-down-on-corporate-shuttle-buses|"San Francisco May Crack Down on Corporate Shuttle Buses"</LINK> 
-("San Francisco könnte bei Firmenshuttles durchgreifen") 
-und spekulierte darüber, ob die Stadt San Francisco den Bussen nicht bald
-mit neuen Regulierungen zu Leibe rückt.
+In the beginning, there was only the Google bus. Dating back to
+2008 (<RBLINK>20080502#5</RBLINK>), the Internet giant has been picking up 
+employees all over San Francisco and is driving them down to Silicon
+Valley every day. And even back then, upset neighbors complained about the dark
+heavy luxury buses, roaming through small residential streets in the
+early morning hours, some of them letting their engines idle for ten 
+minutes while waiting. The gossip site <LINK>http://allthingsd.com/20130721/san-francisco-may-crack-down-on-corporate-shuttle-buses|Allthingsd ran the story "San Francisco May Crack Down on Corporate Shuttle Buses"</LINK> back then and
+rumored the San Francisco might soon be imposing new regulation for the tech
+buses.
 
-<pic images/shuttle-gbus.ps Das Google-Shuttle weist mit "GBUS MTV" verschämt darauf hin, dass es zum Google-Campus nach Mountain View fährt.>
+<pic images/shuttle-gbus.ps With "GBUS MTV" on the display, the Google shuttle indicates somewhat cryptically that it's destined for the Google campus in Mountain View.>
+
+TODO
 
 Mittlerweile bieten alle großen Firmen im Valley diese Shuttles an, denn
 wer zwischen 7:30 und 9:00 morgens auf den Autobahnen 101 oder 280 im
