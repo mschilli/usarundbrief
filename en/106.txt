@@ -322,20 +322,22 @@ buses.
 
 <pic images/shuttle-gbus.ps With "GBUS MTV" on the display, the Google shuttle indicates somewhat cryptically that it's destined for the Google campus in Mountain View.>
 
-TODO
-
-Mittlerweile bieten alle großen Firmen im Valley diese Shuttles an, denn
-wer zwischen 7:30 und 9:00 morgens auf den Autobahnen 101 oder 280 im
-schweren Stoßverkehr fährt, wird über kurz oder lang im Stau wahnsinnig oder
-sucht sich einen neuen Job direkt in der Stadt. Heute nehmen wir mal durch,
-welcher Bus zu welcher Firma gehört, denn die meisten sind unmarkiert
-und nur die Mitarbeiter wissen, wo sie halten und wo sie hinfahren.
-Auf <LINK>http://sfist.com/2012/09/25/behold_the_secret_corporate_shuttle.php|sfist.com</LINK> hat sich mal jemand die Mühe gemacht, die Busse auf ihren
-geheimen Routen zu verfolgen und anschließend zu kartografieren.
+Nowadays, every big Silicon Valley company offers shuttles as a perk, because
+they're all aware that tech workers who are forced to commute during rush hour
+between 7:30 and 9:00 in the morning on the chronically clogged freeways 101
+and 280, will sooner or later either go bananas or look for different
+employment opportunities directly in the city. Today, I'll let you in on which
+company is running which bus, as most of them are unmarked and only employees
+know their shuttles and where they're headed.  Actually, on
+<LINK>http://sfist.com/2012/09/25/behold_the_secret_corporate_shuttle.php|sfist.com</LINK>
+someone went through the exercise of following the shuttles on their routes
+through the city and put the findings on a map.
 
 <HTMLONLY>
-<pic images/shuttle-apple.ps Das Apple-Shuttle erkennt der Fachmann an der Aufschrift "Main Campus Ridgeview">
+<pic images/shuttle-apple.ps The Apple shuttle reveals its destination "Main Campus Ridgeview">
 </HTMLONLY>
+
+TODO
 
 Übrigens bieten die Busse auch Staufächer für Koffer und Fahrräder.  Viele
 Hipster-Pendler, die etwas weiter von den Haltestellen weg wohnen, fahren
