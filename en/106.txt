@@ -337,14 +337,16 @@ through the city and put the findings on a map.
 <pic images/shuttle-apple.ps The Apple shuttle reveals its destination "Main Campus Ridgeview">
 </HTMLONLY>
 
-TODO
+The shuttles also offer cargo areas in their lower parts,
+accessible via the side hatches, allowing for
+luggage to be stored and brought along on the ride. Some hipsters
+live quite far from the shuttle stop, ride their bikes there and then 
+store them in the shuttle's belly when it arrives. On the bus, the
+passengers enjoy free Wifi to hook up with the company network during the 
+ride, to check email or get work done, just as if they were sitting at 
+their desks at work.
 
-Übrigens bieten die Busse auch Staufächer für Koffer und Fahrräder.  Viele
-Hipster-Pendler, die etwas weiter von den Haltestellen weg wohnen, fahren
-morgens mit dem Fahrrad zum Treffpunkt und verstauen ihr Gefährt 
-im Bauch des Busses, sobald der Fahrer die Seitenluken zum Öffnen freigibt.
-Im Bus kann man sich übers Wifi in der Firma einklinken und arbeiten 
-als säße man am Schreibtisch.
+TODO
 
 Jede Firma fährt unterschiedliche Gegenden in der Stadt an. Google hat
 den besten Service, sage und schreibe
