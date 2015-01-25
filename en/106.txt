@@ -346,18 +346,15 @@ passengers enjoy free Wifi to hook up with the company network during the
 ride, to check email or get work done, just as if they were sitting at 
 their desks at work.
 
+Each shuttle-operating Silicon Valley company covers different neighborhoods.
+Google offers the best coverage with an astounding 22
+unmarked stops across town<HTMLONLY> (Figure (#1))</HTMLONLY>, 
+provided by a half-dozen different bus routes. As soon as they reach the 
+city limit, they proceed non-stop to Google's headquarters in Mountain View.
+
+<pic images/shuttle-traffic.ps Just another day on the shuttle stuck in traffic on freeway 101 between San Francisco and Sunnyvale.>
+
 TODO
-
-Jede Firma fährt unterschiedliche Gegenden in der Stadt an. Google hat
-den besten Service, sage und schreibe
-22 unmarkierte Haltestellen über die ganze Stadt 
-verteilt <HTMLONLY>(Abbildung (#1))</HTMLONLY>, 
-bewältigt von etwa einem halben Dutzend verschiedener Linien, die
-alle auf unterschiedlichen Routen durch die Stadt und anschließend ohne
-Zwischenstopp direkt runter nach Mountain View zum Google-Hauptquartier 
-fahren.
-
-<pic images/shuttle-traffic.ps Wie jeden Tag quält sich das Shuttle im Stau auf dem Freeway 101 zwischen San Francisco und Sunnyvale rauf und runter.>
 
 Meistens halten die Shuttles an wenig genutzten Haltestellen der 
 Stadtbusse der Verkehrsgemeinschaft MUNI in San Francisco. Das führt dann 
