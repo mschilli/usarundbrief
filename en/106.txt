@@ -354,21 +354,20 @@ city limit, they proceed non-stop to Google's headquarters in Mountain View.
 
 <pic images/shuttle-traffic.ps Just another day on the shuttle stuck in traffic on freeway 101 between San Francisco and Sunnyvale.>
 
-TODO
-
-Meistens halten die Shuttles an wenig genutzten Haltestellen der 
-Stadtbusse der Verkehrsgemeinschaft MUNI in San Francisco. Das führt dann 
-manchmal zu Verwirrungen, denn wenn zehn Leute in einer Reihe
-an einer Stadtbushaltestelle stehen, reihen sich manchmal Normalbürger
-und oder auch Penner mit ein, die dann feststellen müssen, dass die
-jungen Leute mit Rucksack auf dem Rücken und Smartphone in der Hand
-(untrügliches Erkennungszeichen eines Computerfritzen) in einen
-Privatbus einsteigen, auf dem nicht mal steht, wem er gehört oder wo
-er hinfährt.
+Most of the company shuttles pick up employees at otherwise
+rarely used public transit stops, frequented otherwise
+by San Francisco's MUNI bus system. Occasionally, this gets
+people confused, because if there's ten people waiting in line, it happens
+that regular folks or sometimes even homeless people join in, only to 
+realize later that those young computer nerds (easily to recognize by
+shouldered backpacks and smart phone in hand) then start boarding
+an unmarked private shuttle with destination unknown.
 
 <HTMLONLY>
-<pic images/shuttle-google-map.ps (#1) Google bietet die meisten Shuttlerouten mit quer über die Stadt verteilten Haltestellen an.>
+<pic images/shuttle-google-map.ps (#1) Google offers the most shuttle routes, frequenting stops across the city.>
 </HTMLONLY>
+
+TODO
 
 Manchmal stehen auch Google-Mitarbeiter verwirrt an der Yahoo-Haltestelle,
 werden aber dann freundlich darauf hingewiesen, dass ihr Bus eine Straßenecke
