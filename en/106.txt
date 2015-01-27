@@ -367,20 +367,20 @@ an unmarked private shuttle with destination unknown.
 <pic images/shuttle-google-map.ps (#1) Google offers the most shuttle routes, frequenting stops across the city.>
 </HTMLONLY>
 
-TODO
+Every once in a while, a confused Googler lines up at the Yahoo stop, which 
+is when they're politely directed to their stop around the corner. Employees
+can be told apart by watching for tiny details: Yahoos are often carrying
+backpacks of the "Targus" brand, with a small "Y!" label on it, and many of
+them are wearing "Flickr" t-shirts. Googlers
+carry their laptops in unmarked backpacks of the "Swiss Army" brand. Google
+t-shirts seem to have gone out of fashion, hardly anyone is wearing 
+them anymore. The shuttles themselves conceal their identiy as well, 
+except for the
+purple Yahoo bus which sports a big "Yahoo" banner on its back. All others
+can be distinguished only by looking very closely for small marks, 
+only known to insiders.
 
-Manchmal stehen auch Google-Mitarbeiter verwirrt an der Yahoo-Haltestelle,
-werden aber dann freundlich darauf hingewiesen, dass ihr Bus eine Straßenecke
-weiter hält. Mitarbeiter erkennt man an kleinen Details: So tragen
-Yahoo-Angestellte einen Rucksack der Marke Targus mit einem kleinen
-"Y!"-Emblem und gerne auch Flickr-T-Shirts. Google-Mitarbeiter 
-tragen ihren Laptop in einem unbeschrifteten Rucksack der Marke
-"Swiss Army" spazieren. Google-T-Shirts scheinen mittlerweile alle 
-aus der Mode gekommen zu sein, die trägt keiner mehr. Die Busse selbst 
-geben sich ebenfalls geheimnisvoll, nur auf dem lila Yahoo-Bus steht groß und
-breit "Yahoo" hinten drauf. An anderen findet man nur versteckte 
-Hinweise, und außer den Angestellten können die nur wenige Leute 
-zielsicher interpretieren.
+TODO
 
 Hier einige Tipps von einem Kenner der Szene: Der Fachmann erkennt das 
 Google-Shuttle an einem einen Doppeldeckerbus mit getönten
