@@ -380,25 +380,22 @@ purple Yahoo bus which sports a big "Yahoo" banner on its back. All others
 can be distinguished only by looking very closely for small marks, 
 only known to insiders.
 
-TODO
-
-Hier einige Tipps von einem Kenner der Szene: Der Fachmann erkennt das 
-Google-Shuttle an einem einen Doppeldeckerbus mit getönten
-Scheiben, an dem am unteren Seitenfenster eine LED-Anzeige
-"GBUS MTV" preisgibt, also dass es sich um den Google-Bus zum 
-Haupt-Campus nach Mountain View an der Freeway-Ausfahrt 
-"Shoreline Boulevard" handelt.
-Auf dem einstöckigen aber dennoch riesigen Facebook-Reisebus steht 
-seitlich oben "MPK", 
-als verschämter Hinweis darauf, dass er zum Facebook-Campus nach Menlo
-Park fährt. Auf dem Apple-Shuttle steht 
-"Main Campus Ridgeview", was den Applern verklickert, dass der Bus sowohl zum
-Hauptcampus in Cupertino als auch zum 500m östlich gelegenen Campus
-am Ridgeview Court fährt.
+Here's a few insider tips: The Google shuttle is usually a black 
+double decker bus with tinted windows, displaying "GBUS MTV" on an LED
+screen in one of the lower side windows to indicate that it's destined
+to Google Headquarters in Mountain View, at the "Shoreline Boulevard"
+exit. Facebook is running a big single decker bus, coyly displaying 
+"MPK" on the side top to hint on the fact that it goes to the Facebook
+campus in Menlo Park. The Apple shuttle displays "Main Campus Ridgeview",
+and Apple employees know that the bus will stop at the main
+Apple campus in Cupertino, as well as the smaller campus at 
+Ridgeview Court.
 
 <HTMLONLY>
-<pic images/shuttle-sf-map.ps Auf sfist.com hat jemand die geheimen Shuttle-Routen in eine Karte eingezeichnet.>
+<pic images/shuttle-sf-map.ps On sfist.com someone drew a map with all secret shuttle routes.>
 </HTMLONLY>
+
+TODO
 
 Es ist übrigens nicht üblich, an der Haltestelle mit den Kollegen zu reden,
 außer man kennt sich näher, denn eine Firma mit mehr als 10,000 Mitarbeitern 
