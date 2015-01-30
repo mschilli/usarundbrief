@@ -395,22 +395,21 @@ Ridgeview Court.
 <pic images/shuttle-sf-map.ps On sfist.com someone drew a map with all secret shuttle routes.>
 </HTMLONLY>
 
+It's not very common that riders talk to each other at the stop, if you're
+working for a company with more than 10,000 employees, that's like a small 
+city, and you wouldn't strike up a conversation with random 
+people either. Until recently, one of the Yahoo stops was located right
+across the street from a gathering point for South American esquineros
+(day laborers, see <RBLINK>20090529#2</RBLINK>), who are dressed up 
+in hoodies and waiting for the next pickup truck to take them to a nearby
+construction site to make a few dollars off the record. They must have
+wondered what was going on across the street, where a line of 
+backback-wearing hipsters kept growing by a person a minute, each of them
+silently typing away on their smartphones.
+
+<pic images/shuttle-protesters.ps Protesters block the Apple shuttle.>
+
 TODO
-
-Es ist übrigens nicht üblich, an der Haltestelle mit den Kollegen zu reden,
-außer man kennt sich näher, denn eine Firma mit mehr als 10,000 Mitarbeitern 
-ist irgendwie wie eine Kleinstadt, da quatscht man auch nicht jeden
-auf der Straße an. Eine der Yahoo-Haltestellen war bis vor kurzem gegenüber
-einem Sammelpunkt von südamerikanischen Esquineros (Gelegenheitsarbeiter,
-siehe <RBLINK>20090529#2</RBLINK>),
-die im Kapuzenpulli 
-auf dem Gesteig sitzend auf Pickup-Trucks warten, die sie zur nächsten
-Baustelle befördern, wo sie unter der Hand ein paar Dollar verdienen.
-Die müssen sich ihren Teil gedacht haben, als die Schlange gegenüber
-jede Minute um einen weiteren Rucksackträger wuchs, der schweigend auf 
-seinem Telefon herumtippte.
-
-<pic images/shuttle-protesters.ps Randalierer halten das Apple-Shuttle auf.>
 
 Neulich blockierten aufgebrachte Randalierer gar 
 <LINK>http://blog.sfgate.com/stew/2013/12/09/protesters-block-google-bus-in-s-f-mission|einen vollbesetzten Google-Bus und hinderten ihn am Abfahren von der Haltestelle|Randalierer hindern Google-Bus am Abfahren</LINK>. 
