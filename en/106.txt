@@ -409,17 +409,22 @@ silently typing away on their smartphones.
 
 <pic images/shuttle-protesters.ps Protesters block the Apple shuttle.>
 
-TODO
+Recently,
+<LINK>http://blog.sfgate.com/stew/2013/12/09/protesters-block-google-bus-in-s-f-mission|a few upset hooligans even blocked a fully occupied Google bus</LINK>
+and prevented it from leaving the stop. The protesters voiced their
+concerns about on private
+companies using the public bus stops without paying for the privilege. 
+The city of San Francisco promptly reacted and 
+now plans to charge them 1 Dollar per stop per bus, 
+which will flush the city coffers with about 1.5 million dollars ... at least
+in theory, but city officials have admitted that this will only cover the 
+costs of collecting and enforcing the payments, so in the end, there's no
+profit. Hard to explain why they're doing it anyway.
 
-Neulich blockierten aufgebrachte Randalierer gar 
-<LINK>http://blog.sfgate.com/stew/2013/12/09/protesters-block-google-bus-in-s-f-mission|einen vollbesetzten Google-Bus und hinderten ihn am Abfahren von der Haltestelle|Randalierer hindern Google-Bus am Abfahren</LINK>. 
-Die Krawallschachteln beschwerten sich darüber, dass die privaten Firmen
-öffentliche Haltestellen nutzen, ohne dafür zu bezahlen. Die Stadt plant jetzt,
-ab Juli pro Haltestellenstopp jedes Busses einen Dollar zu verlangen, was
-insgesamt 1.5 Millionen pro Jahr ins Stadtsäckel spült. Die Behörde
-versichert, dass das genau die Kosten des Eintreiberprogramms deckt und 
-keinen Gewinn abwirft. Warum man's dann überhaupt macht, fragt sich 
-anscheinend keiner dieser Gschaftlhuber.
+The funniest part was a 
+<LINK>http://blog.sfgate.com/chronstyle/2013/12/09/what-do-you-wear-to-look-like-a-google-employee|hooligan dressed up as a Google employee</LINK> (you guessed it: shouldering a backpack), who pretended to be upset and yelled at the protesters. He was part of the show.
+
+TODO
 
 Das lustigste an dem Protest war
 <LINK>http://blog.sfgate.com/chronstyle/2013/12/09/what-do-you-wear-to-look-like-a-google-employee|ein als Google-Mitarbeiter verkleideter Randalierer|Protestler verkleidet sich als Google-Mitarbeiter</LINK> (richtig: mit Rucksack), der zum Schein aufgebracht auf die Randalierer einschrie. Er war Teil der Show.
