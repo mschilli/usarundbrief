@@ -447,21 +447,21 @@ opinions are floating around, fueled by droves of flourishing
 <LINK>http://pando.com/2013/12/26/look-whos-gawking-inside-nick-dentons-phony-hypocritical-class-war-against-tech-workers>click-whore
 publications</LINK> playing the opposing fronts against each other.
 
-TODO
+@Z: Waiting For the Rain Again
 
-@Z: Wieder Warten auf den Regen
-
-<pic images/tap-water.ps Könnte wegen Regenmangel bald knapp werden: Leitungswasser Foto: flickr[Joe Cheng|jcheng/11438637]>
+<pic images/tap-water.ps Because of the drought, we're being asked to save tap water  Foto: flickr[Joe Cheng|jcheng/11438637]>
 
 <em>Angelika</em>
-Michael gibt immer gern damit an, dass es in San Francisco in der Regel
-zwischen April und September nicht regnet. Was stimmt. Problematisch ist
-nur, wenn der Regen dann auch zwischen Oktober und März ausbleibt,
-besonders wenn dies mehrere Jahre in Folge immer wieder passiert. Wenn euch
-das als aufmerksamer 
-Rundbriefleser jetzt vielleicht bekannt vorkommt, dann habt ihr ein
-gutes Gedächtnis, denn 2009 hatten wir schon einmal eine ähnliche
-Situation (<RBLINK>20090315#10</RBLINK>).
+Michael has been known to brag about
+that there's usually not a drop of rain between the months of April and
+September in San Francisco, which is actually true. But if then there's
+hardly any rain between October and March as well, that's a problem,
+especially if this condition reoccurs for a few years in a row. 
+And if you remember that we've had a similar situation
+in 2009 (<RBLINK>20090315#10</RBLINK>), then you are an astute reader
+with commendable memory.
+
+TODO
 
 Damals rief Arnold
 Schwarzenegger als Gouverneur den Notstand aus, dieses Mal tat es Jerry
