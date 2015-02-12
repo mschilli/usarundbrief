@@ -493,23 +493,24 @@ more in the coming months. The lack of rain is really an ongoing discussion,
 and people are talking about it everywhere, be it around the corner at Martha's
 coffee shop or while lining up at the supermarket register.
 
-TODO
+@Z: Top App: Waze
 
-@Z: Topp-App: Waze
-
-<pic images/waze-dash.ps Auf dem Armaturenbrett montiert warnt das iPhone mit der Waze-App vor Blitzampeln und anderen Gefahren.>
+<pic images/waze-dash.ps Mounted on the dashboard, the iPhone running the Waze app triggers alerts when traffic light cameras and other hazards are approaching.>
 
 <em>Michael</em>
-Ich habe kürzlich die App "Waze" auf meinem Smartphone installiert
-und bin begeistert. "Waze" (ausgesprochen wie "Ways") ist eine Art
-Navi mit sozialer Komponente. Sie weiß nicht nur den Weg von A nach B,
-sondern kriegt auch mit, wo sich Staus bilden und findet neue Routen,
-wenn sich mit Umwegen Zeit sparen lässt. Dazu sendet die App ständig die
-Geschwindigkeit des fahrenden Autos an den Waze-Server, aber auch der
-Fahrer kann mithelfen: Sieht er einen Unfall oder liegt irgendein Trumm
-auf der Straße, drückt er ein paar Tasten, und
-andere Wazer auf der gleichen Strecke kriegen die Meldung auf den Schirm.
-Der meldende Wazer bekommt dafür Bonuspunkte.
+
+Recently, I installed the "Waze" app on my smartphone and was blown away.
+"Waze" (pronounced like "ways") is some kind of navigation software with
+a social touch. Not only can it navigate you from A to B, but also knows
+about traffic jams and finds new routes if detours get you to your
+destination faster.
+For this to happen, the app keeps sending your current location to the 
+Waze server, but the driver can manually help as well: If there's an 
+accident or a hazard like an item on the road, the driver presses a few
+buttons to report it and other wazers in the vicinity get a message onto
+the screen to alert them. The reporting wazer gets bonus points in return.
+
+TODO
 
 Auf der Karte sieht der Fahrer, wie sein Fahrzeug sich durch die Gegend bewegt, 
 und kleine Pacman-ähnliche Symbole zeigen, wo andere Wazer in der
