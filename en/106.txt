@@ -510,15 +510,14 @@ accident or a hazard like an item on the road, the driver presses a few
 buttons to report it and other wazers in the vicinity get a message onto
 the screen to alert them. The reporting wazer gets bonus points in return.
 
+The driver can watch on the interactive map where the vehicle is currently
+located, and tiny Pacman-like symbols indicate where other Wazers
+are driving on streets nearby. By linking to Facebook, the app knows if
+any of the driver's friends are driving close by, and announces them.
+
+<pic images/waze.ps When running the Waze app, the driver gets the latest police sightings and can see the location of other Wazers on the road.>
+
 TODO
-
-Auf der Karte sieht der Fahrer, wie sein Fahrzeug sich durch die Gegend bewegt, 
-und kleine Pacman-ähnliche Symbole zeigen, wo andere Wazer in der
-Umgebung fahren.
-Über Facebook weiß die App außerdem, ob Freunde des Fahrers auf der
-gleichen Strecke unterwegs sind und teilt es diesem mit.
-
-<pic images/waze.ps Der Autofahrer sieht auf der Waze-App, wo die Polizei steht und wo andere Wazer herumkurven.>
 
 Steht am Straßenrand ein Polizeiauto, um Raser zu blitzen, drückt der
 aufmerksame Fahrer einen entsprechenden Menüpunkt am 
