@@ -517,17 +517,22 @@ any of the driver's friends are driving close by, and announces them.
 
 <pic images/waze.ps When running the Waze app, the driver gets the latest police sightings and can see the location of other Wazers on the road.>
 
+If there's a radar cop waiting at the curb, attentive drivers quickly press a
+button in the app for a report, and other Wazers passing by the same location
+will soon notice a cute police symbol on the map. They will then adjust their
+speed accordingly to the speed limit of 65 mph. If the report was incorrect or
+the cop has left the scene already, because he's chasing down a subject,
+subsequently passing drivers hit the "Not there" button to report this fact and
+if several Wazers agree on this, the service will remove the police symbol from
+the map.
+
+You wouldn't believe how this ongoing activity livens up even 
+the dullest commutes to work. In the meantime, I've given up on listening
+to audio books when I'm driving into work once a week, but instead report
+every stranded car and try to verify reported radar cops. Waze was
+
 TODO
 
-Steht am Straßenrand ein Polizeiauto, um Raser zu blitzen, drückt der
-aufmerksame Fahrer einen entsprechenden Menüpunkt am 
-Telefon und nachfolgende Wazer kriegen ein Polizistensymbol
-auf ihre Karte. Schlagartig drosseln sie
-ihre Geschwindigkeit auf die vorgeschriebenen 65 Meilen pro Stunde.
-Stimmt eine Meldung nicht oder ist der Polizist schon wieder weg, weil
-er ein Opfer geschnappt hat, drückt der pflichtbewusste Wazer das
-"Not There"-Knöpferl und wenn mehrere das Gleiche tun wird Waze 
-die Meldung irgendwann löschen.
 Man sollte es kaum glauben, aber diese Dauerbeschäftigung bringt Spannung
 in selbst die langweiligsten Pendlerfahrten zur Arbeitsstätte.
 Ich höre mittlerweile gar keine Hörbücher mehr wenn ich einmal pro Woche
@@ -535,10 +540,10 @@ mit dem Auto zur Arbeit fahre, sondern melde einfach jedes gestrandete
 Fahrzeug am Wegesrand und versuche neugierig jeden gemeldeten Blitzer
 zu erspähen.
 
-Waze wurde 2013 von Google gekauft und die von den Teilnehmern
-beigetragenen Verkehrsdaten fließen mittlerweile in Google Maps ein.
-Hoffentlich lässt das Google die sympatische App leben.
+Google bought Waze in 2013, and the data reported by Wazers now gets 
+integrated with Google Maps. I hope Google lets the friendly Waze app
+continue.
 
-Grüße aus dem Zentrum des Internets:
+Greetings from the core of the Internet:
 
 Angelika \& Michael
