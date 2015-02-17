@@ -528,22 +528,11 @@ the map.
 
 You wouldn't believe how this ongoing activity livens up even 
 the dullest commutes to work. In the meantime, I've given up on listening
-to audio books when I'm driving into work once a week, but instead report
-every stranded car and try to verify reported radar cops. Waze was
+to audio books when I'm driving into work one day a week, but instead keep
+reporting every stranded car and try to verify spotted radar cops. Waze was
+acquired by Google in 2013, and the Wazer data is now getting fed into 
+Google Maps. I hope Google lets the friendly Waze app continue!
 
-TODO
-
-Man sollte es kaum glauben, aber diese Dauerbeschäftigung bringt Spannung
-in selbst die langweiligsten Pendlerfahrten zur Arbeitsstätte.
-Ich höre mittlerweile gar keine Hörbücher mehr wenn ich einmal pro Woche
-mit dem Auto zur Arbeit fahre, sondern melde einfach jedes gestrandete 
-Fahrzeug am Wegesrand und versuche neugierig jeden gemeldeten Blitzer
-zu erspähen.
-
-Google bought Waze in 2013, and the data reported by Wazers now gets 
-integrated with Google Maps. I hope Google lets the friendly Waze app
-continue.
-
-Greetings from the core of the Internet:
+Greetings from the backbone of the Internet:
 
 Angelika \& Michael
