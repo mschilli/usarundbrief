@@ -65,22 +65,20 @@ silently cursing about having agreed to this handover.
 
 But, low and behold, after a few minutes we arrived at a storage room, the
 officer unlocked the door and I spotted a seriously deteriorated version
-of my bike.
+of my bike. The frame was the same as on my original, but all other parts like
+handlebar, saddle, and gears had been replaced by cheaper components.
+Brakes were lacking entirely. The officer asked me if the bicycle was 
+in rideable condition, which I was somewhat skeptic about and illustrated
+my point by bringing attention to the missing brakes. But since they all
+had been working hard to get my stolen property back, I decided to give 
+them a break and took the bike with me. I called Angelika to pick me up 
+by car downtown, we stuffed the bike into the trunk and drove
+home. I placed the bike back into the garage, where it's been waiting since 
+for the next burglar to appear.
+
+<pic images/bait-bike-sticker.ps (#1) The "Bait Bike" sticker is supposed to deter thieves.>
 
 TODO
-
-Der Rahmen war der
-gleiche wie bei dem von mir gestohlenen, aber alle anderen Teile wie Lenker,
-Sattel, und Gangschaltung waren durch billige Versionen ersetzt worden.
-Die Bremsen fehlten gar ganz. Der Polizist fragte noch, ob das Fahrrad
-in fahrbarem Zustand wäre, was ich mit einer Handbewegung auf die
-fehlenden Bremsen verneinte, aber ich nahm das Häufchen Elend trotzdem
-dankend in Empfang, schließlich hatten sich die Polizisten redlich bemüht, mein
-gestohlenes Eigentum wieder zu beschaffen. Ich rief Angelika an, die
-mit dem Auto reinfuhr, und schließlich brachten wir das Fahrrad heim,
-wo es seitdem in der Garage gespannt auf einen neuen Einbrecher harrt.
-
-<pic images/bait-bike-sticker.ps (#1) Ein Bait-Bike-Aufkleber soll Fahrraddiebe abschrecken.>
 
 Die Polizisten baten mich darum, auf dem Fahrrad einen sogenannten
 "Bait-Bike"-Aufkleber anzubringen (Abbildung (#1)). Das kannte ich noch nicht,
