@@ -78,16 +78,17 @@ for the next burglar to appear.
 
 <pic images/bait-bike-sticker.ps (#1) The "Bait Bike" sticker is supposed to deter thieves.>
 
-TODO
+The police officer asked me to apply a so-called "Bait Bike" sticker to my 
+bike (Figure (#1)). This was news to me, and the officer explained that 
+some bikes are allegedly left out there on purpose 
+and equipped with GPS transmitters, so that if they're stolen, the
+location of the thief can be pinpointed. Getting a transponder onto every
+single bike would be prohibitively expensive, so all non-equipped bikes simply 
+get a sticker, which will allegedly deter potential thieves. Personally,
+I'm not too sure this approach will actually work, but at least it won't 
+cost much to try.
 
-Die Polizisten baten mich darum, auf dem Fahrrad einen sogenannten
-"Bait-Bike"-Aufkleber anzubringen (Abbildung (#1)). Das kannte ich noch nicht,
-aber ließ mir erklären, dass die Polizei in San Francisco angeblich bestimmte
-Fahrräder mit versteckten Sendern präpariert, die, falls das Lockvogel-Fahrrad
-gestohlen wird, den Fahndern auf die Spur helfen. Jedes Fahrrad damit
-auszustatten, wäre natürlich zu teuer, also pappt man auf alle anderen
-Fahrräder einen Aufkleber drauf, der angeblich die Diebe abschreckt. Ob
-das funktioniert, wage ich zu bezweifeln, aber es kostet ja nichts.
+TODO
 
 Fahrraddiebe können in San Francisco nach Belieben ihrem Handwerk
 nachgehen, ohne dass jemand einschreitet.
