@@ -98,17 +98,12 @@ looks like a hipster who just got off the Google bus!
 
 <pic images/safe-bikes-org.ps Police recommends you register your bike with a photo on this website.>
 
-TODO
+It looks like hawking stolen bikes is a profitable business in the 
+Bay Area. I've even seen <LINK>http://blog.priceonomics.com/post/30393216796/what-happens-to-stolen-bicycles|scientific publications</LINK>on the economics of
+stolen bicycles. And one remarkable theft victim combed through Craigslist 
+postings, searching for his stolen bike, and hit paydirt 600 miles north, in Portland, Oregon. He went there and <LINK>http://www.digitaltrends.com/apple/burner-iphone-app-bike-thief-video/#!bI4X4d|took the thief to task</LINK>. Well worth watching!
 
-Das Geschäft mit gestohlenen Fahrrädern scheint sich zu lohnen
-in der Bay Area. Es sind sogar
-<LINK>http://blog.priceonomics.com/post/30393216796/what-happens-to-stolen-bicycles|wissenschaftliche Artikel|Wirtschaftliche Aspekte gestohlener Fahrräder</LINK>
-über die wirtschaftlichen Aspekte des Vertriebs gemopster Drahtesel
-geschrieben worden.
-Und einmal hat sogar jemand die Kleinanzeigen-Webseite Craigslist nach
-seinem gestohlenen Rennrad durchforscht, wurde im 800km nördlich
-gelegenen Portland im Bundesstaat Oregon fündig, fuhr dort hin
-und <LINK>http://www.digitaltrends.com/apple/burner-iphone-app-bike-thief-video/#!bI4X4d|stellte den Dieb zur Rede|Fahrradklauopfer stellt Dieb zur Rede</LINK>. Sehenswert!
+TODO
 
 @Z: Steigende Kleinkriminalität
 
