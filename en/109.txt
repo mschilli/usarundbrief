@@ -103,24 +103,25 @@ Bay Area. I've even seen <LINK>http://blog.priceonomics.com/post/30393216796/wha
 stolen bicycles. And one remarkable theft victim combed through Craigslist 
 postings, searching for his stolen bike, and hit paydirt 600 miles north, in Portland, Oregon. He went there and <LINK>http://www.digitaltrends.com/apple/burner-iphone-app-bike-thief-video/#!bI4X4d|took the thief to task</LINK>. Well worth watching!
 
-TODO
+@Z: Petty Crime on the Rise
 
-@Z: Steigende Kleinkriminalität
-
-<pic images/sf-plant-thief.ps (#5) Penner klaut am Hauseingang ins Blumenbeet gesetzte Fleischpflanzen.>
+<pic images/sf-plant-thief.ps (#5) Homeless guy stealing succulent plants from someone's sidewalk flower bed.>
 
 <em>Michael</em>
-Die Bürger teilen sich in zwei Lager: Während die eine Seite die steigende
-Kriminalität nicht so schlimm findet, regt sich die andere auf, wenn
-Penner ihre auf dem Gehweg vor ihrem Haus eingetopften Pflanzen klauen
-und ans nächstgelegene Pflanzenparadies verhökern.
-Neulich wurde sogar einer auf frischer Tat von einer am Hauseingang
-angebrachten Spotcam gefilmt (Abbildung (#5))! 
-Auf Nextdoor entbrannte daraufhin die
-Diskussion zwischen Law-and-Order Schrebergärtnern und hoffnungslosen
-Althippiedeppen,
-die ihre Kinder auf Montessorischulen schicken und von denen es in San
-Francisco nur so wimmelt. 
+Reactions differ significantly. 
+Some residents stoically ignore the rising crime rate, 
+while others go ballistic even with petty crime, like when homeless people 
+steal their potted plants in front of their houses, to sell them to nearby 
+nurseries.
+Recently, one of the culprits was caught red-handed on camera, by a 
+so-called Spotcam surveillance cam mounted by the home owner to 
+monitor their premises (Abbildung (#5)).
+As you can imagine, this started a major dispute on Nextdoor between
+relentless law and order men and droves of confrontation-averse hippie 
+idiots populating San Francisco, who send their children to Montessori 
+schools.
+
+TODO
 
 Oder die Paketdiebe: Da die Paketboten bei uns im Viertel ausgelieferte
 Pakete oft vor der Tür ablegen, wenn niemand zuhause ist, patroullieren
