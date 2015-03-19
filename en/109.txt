@@ -238,7 +238,7 @@ gedauert.
 Bei uns um die Ecke hat zum Beispiel ein
 reicher Volltrottel ein
 reparaturbedürftiges Haus für sage und schreibe
-<LINK>http://www.zillow.com/homedetails/1155-1157-Church-St-San-Francisco-CA-94114/15147079_zpid/|1.000.000 (eine Million Dollar)|Bruchbude für 1 Million verkauft</LINK>
+<LINK>http://www.zillow.com/homedetails/1155-1157-Church-St-San-Francisco-CA-94114/15147079_zpid/|1,000,000 (eine Million Dollar)|Bruchbude für 1 Million verkauft</LINK>
 gekauft, hat die dort wohnende Familie auf die Straße gesetzt und
 lässt es jetzt von einer mexikanischen Baufirma instandsetzen. Ende 2013
 fanden sich ein paar Bauarbeiter ein, um daran herumzuwerkeln,
