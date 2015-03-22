@@ -149,33 +149,30 @@ SF police rarely patrols the rich neighborhoods and so far has not made
 arrests. Not too long ago, 
 a <LINK>http://sfist.com/2014/11/24/man_shot_and_killed_during_duboce_p.php|robbery victim was even shot by the mopes</LINK>! 
 
-TODO
+As a result, late night party goers now hesitate to go five blocks in our 
+neighborhood, although it is considered to be rather
+safe in comparison. Even supervisor Scott Wiener, the jack-of-all-trades
+in San Francisco politics, has had a rude awakening and is now planning
+on sending more cops to patrol the rich parts of town. As always in
+San Francisco, this kind of measure has to be approved by the voters, 
+the proposition is coming to the ballots soon.
 
-Mittlerweile überlegt es sich so mancher
-Partygänger dreimal, bevor er nachts noch fünf Straßenblocks
-durch unser an sich sicheres Viertel läuft.
-Auch der Hans Dampf der Stadtpolitik, Stadtrat Scott Wiener,
-ist anscheinend aufgewacht und plant nun,
-mehr Geld für Streifenpolizisten auszugeben, die Tag und Nacht
-durch die Bonzenviertel
-patroullieren. Wie immer in San Francisco müssen erst die Bürger dieses
-Vorhaben ratifizieren, in Bälde kommt der Vorschlag auf die "Ballot", also
-auf die Abstimmungsliste.
+@Z: Diluvian Rainfall
 
-@Z: Sintflutartige Regenfälle
-
-<pic images/sf-rain-flood.ps Bei ein bisschen mehr Regen staut sich auf San Franciscos Straßen schnell das Wasser. Foto: flickr[Frédéric Poirot|fredarmitage/15377842444]>
+<pic images/sf-rain-flood.ps As soon as San Francisco gets a bit more rain than usual, some streets are flooded. Foto: flickr[Frédéric Poirot|fredarmitage/15377842444]>
 
 <em>Angelika</em>
-Letzten Donnerstag bescherte uns der Wettergott so heftige Regenfälle, dass
-in San Francisco und Umgebung Land unter angesagt war. Nun brauchen wir in
-Kalifornien ja wegen der anhaltenden Dürreperiode dringend den Regen, aber
-da die Erde sozusagen knochentrocken ist, versickert nichts im Boden und es
-kommt bei starkem, anhaltenden Regen gleich zu Überschwemmungen. Die
-völlig veraltete Infrastruktur mit nur schlecht ausgebesserten Straßen
-hilft dabei auch nicht. 
+Last Thursday, the weather gods bestowed us with heavy rainfall, so much
+in fact, that San Francisco and its surrounding areas reported 
+flooding emergencies.
+While California truly needs the rain because of the
+ongoing drought, the extremely dry grounds can't absorb the water of 
+prolonged rainfall, and water starts to dam up. And the hopelessly obsolete
+infrastructure with poorly patched-up roads makes things worse, of course.
 
-<pic images/shuttle-rain.ps Der Yahoo-Bus kämpft sich am Morgen durch sintflutartige Regenfälle.>
+<pic images/shuttle-rain.ps The Yahoo morning shuttle on the freeway, stopped by heavy rainfall.>
+
+TODO
 
 Ich muss gestehen, dass mir das Tamtam, das die Presseleute am Mittwoch
 um den angekündigten Sturm machten, etwas auf die 
