@@ -205,66 +205,64 @@ to the heavy rainfall and the amount of sewage that had been swept into
 the ocean. A sign on the beach strongly advised surfers to stay out of the 
 water that weekend. Oh my!
 
-TODO
+@Z: Never Ending Constructions
 
-@Z: Endlosbaustellen
-
-<pic images/construction.ps Für diese Bruchbude links hat ein Neureicher 1 Million Dollar bezahlt.>
+<pic images/construction.ps A newly rich paid 1 million Dollars for this run-down building.>
 
 <em>Michael</em>
-Irgendwas stimmt auf amerikanischen Baustellen nicht. Egal, ob es ein
-Riesenprojekt wie die Bay Bridge ist oder die Renovierung einer Bruchbude
-um die Ecke: Alles zieht sich jahrelang hin. Anscheinend gibt es für den
-Bauherrn keine bezahlbare Möglichkeit, vertraglich abzusichern, dass ein
-Gebäude zu einem vorher gesetzten Termin beziehbar ist. Nach meinen
-Beobachtungen in der Nachbarschaft dauert eine einfache Hausrenovierung
-im Schnitt ein Jahr. Die Bay Bridge zu erneuern hat bekanntlich 30 Jahre
-gedauert.
+American construction sites all have one annoying thing in common. 
+Regardless if it's a
+big project like earth-quake proofing the Bay Bridge or renovating 
+a run-down house around the corner: 
+They keep dragging on for years and years. It appears that there's
+no affordable way for the owner to draft a contract to ensure that a 
+building is ready by a specified date. According to my personal research,
+simple home renovations in our neighborhood take more than a year
+on average. And remodeling the Bay Bridge, as you might have heard, took
+more than 30 years.
 
-<pic images/sf-1155.ps 1 Million für die zusammenfallende Hundehütte in der Mitte, kein Scherz.>
+<pic images/sf-1155.ps The collapsing dog house in the center sold for 1 Million Dollars, and I'm not kidding.>
 
-Bei uns um die Ecke hat zum Beispiel ein
-reicher Volltrottel ein
-reparaturbedürftiges Haus für sage und schreibe
-<LINK>http://www.zillow.com/homedetails/1155-1157-Church-St-San-Francisco-CA-94114/15147079_zpid/|1,000,000 (eine Million Dollar)|Bruchbude für 1 Million verkauft</LINK>
-gekauft, hat die dort wohnende Familie auf die Straße gesetzt und
-lässt es jetzt von einer mexikanischen Baufirma instandsetzen. Ende 2013
-fanden sich ein paar Bauarbeiter ein, um daran herumzuwerkeln,
-aber eher lustlos, fast
-hobbymäßig. Sie fingen morgens um halb acht wild zu hämmern und zu sägen an,
-um dann ab neun Uhr in eine stundenlange Lethargie zu verfallen, später
-hin und wieder unmotiviert herumzuklopfen, aber bis abends nichts mehr
-Produktives zu erledigen. Mittlerweile lärmt die Firma "Rodriguez Builders"
-schon fast ein ganzes Jahr im und am Haus herum, und wirft den ganzen Baumüll
-in den Vorgarten. Mal kommt nur ein Arbeiter, der ein bisserl herumklopft,
-mal kommen drei und sie machen am sonnigen Samstagnachmittag einen
-infernalen Krach mit der Kreissäge, die sie alle Stunde mal anstellen und
-Bretter einzeln sägen, statt den ganzen Stoß auf einmal zu erledigen und
-Ruhe zu geben.
+To give you an example, recently, a nouveau-riche dimwit bought a fixer upper in our neighborhood for the astounding amount of <LINK>http://www.zillow.com/homedetails/1155-1157-Church-St-San-Francisco-CA-94114/15147079_zpid/|1,000,000 (one Million Dollars)|Run-down fixer upper sold for 1 Million.</LINK>, evicted the
+family who had been living there for decades, and has spent the last two
+years employing Mexican day laborers to renovate it.
+At the end of 2013, a few individuals appeared, starting to make a lot of
+noise, but little progress, seemingly unmotivated, almost like hobbyists.
+Every day at 7:30 in the morning, they started hammering and sawing like
+crazy, only to suddenly cease work at 9:00, with no following activity for 
+many hours.  Later in the day, 
+occasionally, you could hear timid hammering noises here and there, 
+but rather lackadasical, apparantly without accomplishing anything of value 
+until the end of the day. The construction company "Rodriguez Builders"
+has now been on the project for about a year and keeps throwing the 
+construction waste into the front yard. Sometimes, there's one worker
+dabbling here and there, sometimes there's three of them making infernal
+noises on Saturday mornings with a table saw that they're switching on
+once per hour to cut some wood, instead of cutting all the wood at once
+and be done with it. 
 
-<pic images/construction-saw.ps Misstrauisch beäugt der Bauarbeiter die Kreissäge. Säg' ich heut' noch, oder verschieben wir's auf morgen?>
+<pic images/construction-saw.ps The day laborer eyes the table saw with suspicion: Should I saw today or postpone it till tomorrow?>
 
-Das wirft die Frage auf:
-Wie kann jemand, der eine Million in ein Holzhaus investiert, so
-blöd sein, die Baufirma nach Gutdünken schalten und walten zu lassen und
-den Fertigstellungstermin beliebig nach hinten zu verschieben?
-Man sollte doch meinen, dass der Hausherr daran interessiert sei,
-dass das Haus schnellstmöglichst bezugsfertig ist, um entweder selbst
-einzuziehen oder dafür fünftausend Dollar Miete im Monat einzufahren.
-Vielleicht ist dem neuen Eigentümer
-aber auch das Geld ausgegangen und er schuttelt bewusst so lange an
-dem nun unbewohnbaren Haus herum, damit er keine Grundsteuer zahlen muss
-(immerhin etwa
-<LINK>http://homeguides.sfgate.com/calculate-california-property-taxes-newly-purchased-home-2875.html|14.000 Dollar im Jahr|Grundsteuer in San Francisco</LINK>),
-weil ihn das in den finanziellen Abgrund stürzen würde?
-Nix genaues weiß man nicht,
-aber wer eine Million für eine Bruchbude zahlt, ist wahrscheinlich
-von Natur aus nicht sehr helle, insofern kann es durchaus sein, dass
-er einfach blindlings ins Netz der Immobilienspinne gelaufen ist, die
-ihn nun genüsslich aussaugt. Geschieht dem Deppen recht.
+This raises the question: How can someone who poured 1 million Dollars into
+a fixer upper be so stupid as to be taken for a ride by a construction
+company who's apparently progressing at their own discretion, pushing out
+the completion date time and time again? You would think that the owner be
+interested in having the house ready as soon as possible, either to
+move in himself or rent it out to the tune of 5,000 Dollars per month.
 
-<pic images/construction-phone.ps Bauarbeiter ratscht am Telefon.>
-<pic images/construction-permit.ps Jede Baustelle muss die von der Stadt erteilte Genehmigung aushängen.>
+I'm not sure what's going on, maybe the owner ran out of money and he's
+delaying the project to avoid paying property taxes (a whopping
+<LINK>http://homeguides.sfgate.com/calculate-california-property-taxes-newly-purchased-home-2875.html|14,000 Dollars per year|Property Taxes in San Francisco</LINK>), because he'd fall off a financial cliff otherwise? We'll never know
+for sure, but since he paid 1 million for a doghouse seems to substantiate
+my suspicion that he might not be the brightest person around and probably 
+blindly fell prey to the real estate parasites who are now sucking him
+out for good. I can't say that I feel sorry.
+
+<pic images/construction-phone.ps Construction worker on the phone.>
+
+<pic images/construction-permit.ps Every construction site is required to display the permit issued by the city.>
+
+TODO
 
 Neulich kam in den Nachrichten, dass der Facebook-CEO Mark Zuckerberg
 ein Gebäude in unserem Viertel zu einem horrenden Preis gekauft hat, und
