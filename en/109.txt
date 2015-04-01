@@ -262,15 +262,15 @@ out for good. I can't say that I feel sorry.
 
 <pic images/construction-permit.ps Every construction site is required to display the permit issued by the city.>
 
-TODO
+The other day, our local news station reported that Facebook CEO Mark
+Zuckerberg purchased a building in our neighborhood for an exorbitant
+amount of money and <LINK>http://www.sfgate.com/bayarea/matier-ross/article/Neighbors-feeling-squeezed-by-work-on-Mark-5771069.php|the neighbors are complaining about the disturbance</LINK>, because the builder has been making noise 
+every single day for an entire year now!
+If you're intersted, "Fort Zuckerberg" went for 10 Million Dollars.
+At night, there's a security guard watching over the premise. It seems
+that money is no issue for Zuckerbertie.
 
-Neulich kam in den Nachrichten, dass der Facebook-CEO Mark Zuckerberg
-ein Gebäude in unserem Viertel zu einem horrenden Preis gekauft hat, und
-<LINK>http://www.sfgate.com/bayarea/matier-ross/article/Neighbors-feeling-squeezed-by-work-on-Mark-5771069.php|sich die Nachbarn schon beschwert haben|Zuckerberg-Nachbarn beschweren sich wegen Baulärm</LINK>,
-weil die Baufirma bereits seit einem Jahr jeden Tag
-lautstark daran herumfuhrwerkt.
-Das "Fort Zuckerberg" hat übrigens 10 Millionen Dollar gekostet. Nachts
-sitzt auf der Baustelle ein Wächter, der Zuckerberti hat's ja.
+TODO
 
 @Z: Las Vegas, Baby!
 
