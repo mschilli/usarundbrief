@@ -270,11 +270,23 @@ If you're intersted, "Fort Zuckerberg" went for 10 Million Dollars.
 At night, there's a security guard watching over the premise. It seems
 that money is no issue for Zuckerbertie.
 
-TODO
-
 @Z: Las Vegas, Baby!
 
-<pic images/lv-main-street-casino.ps Das "Main Street Casino" im alten Teil von Las Vegas>
+<pic images/lv-main-street-casino.ps The "Main Street Casino", located in Old Town Las Vegas.>
+
+<em>Angelika</em>
+We keep going back to Las Vegas, and if it is just because this is where
+we met for the first time, both travelling the U.S. independently during 
+a long long summer break. Las Vegas keeps reinventing itself, and it's hard
+to keep track on how fast things are changing. Both being college students  
+back in the day, we were drawn there by the unbeatably low expenses in
+gambler's paradise: There were all-you-can-eat buffets for only five Dollars
+and rental cars were cheap, too, to explore the nearby world-renowned
+national parks. It was not until a few years later that newly themed casinos
+like the "New York New York", "Treasure Island", or the
+pyramid-shaped "Luxor" were built on the strip.
+
+TODO
 
 <em>Angelika</em>
 Immer wieder zieht es uns nach Las Vegas, denn hier haben wir uns im zarten
