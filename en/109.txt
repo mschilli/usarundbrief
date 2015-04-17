@@ -326,17 +326,17 @@ exquisite food and wine selection.
 
 <pic images/lv-oscars.ps Hard to imagine what kind of slogans advertisers used for restaurants back in the 50ies.>
 
+During our last stay in Las Vegas, we strayed from 
+Las Vegas Boulevard ("The Strip") a couple of times and explored other
+neighborhoods. We revisited Downtown Las Vegas again after a long hiatus,
+birthplace of many famous casinos, and playground for the mob way back 
+when. The Mob Museum there charges quite an exorbitant entrance fee, but
+it's quite fascinating to study the criminal history of Las Vegas, going
+back to the times of Al Capone and Machine Gun Kelly.
+
+<pic images/lv-old-ladies.ps Mostly older folks swarm Downtown Las Vegas to play the slot machines.>
+
 TODO
-
-Aber wir haben uns bei unserem letzten
-Besuch in Las Vegas auch immer wieder vom Las Vegas Boulevard ("The Strip") mit
-seinen glitzernden Casinos entfernt und sind auf Entdeckungsreise gegangen. So
-waren wir seit langem einmal wieder in Downtown Las Vegas, dem eigentlichen
-Geburtsort der Casinos, wo lange Zeit der kriminelle Mob getobt hat. Das zwar teure,
-aber sehenswerte Mob-Museum dort gibt einen Eindruck davon, was zu den Zeiten von Al Capone 
-und Machine-Gun-Kelly los war.
-
-<pic images/lv-old-ladies.ps In Downtown Las Vegas spielen hauptsächlich ältere Semester an den Slot-Maschinen.>
 
 Downtown Las Vegas verblasste aber bereits in den
 60er Jahren immer mehr, als am "Strip" der Bauboom
