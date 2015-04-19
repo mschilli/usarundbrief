@@ -350,21 +350,18 @@ town.
 
 <pic images/lv-container-park.ps The newly opened "Container Park" in Old Town Las Vegas.>
 
+Hsieh first transferred his firm's headquarters to downtown Las Vegas 
+und then invested 350 million Dollars of his own money into the
+so called Downtown Project. The goal is to get small independent stores,
+companies, and restaurants into the downtown area. The
+<LINK>http://downtowncontainerpark.com|Containerpark|Containerpark Las Vegas</LINK>
+on Freemont Street is a good example. Surrounding a big playground, small
+container-like buildings are hosting shops and restaurants. All over the
+property, chairs and tables invite visitors to sit down and relax in the sun.
+
+<pic images/lv-container-park-table.ps At the container park, tables and chairs are invite visitors to sit down and relax.>
+
 TODO
-
-Zunächst verfrachtete Hsieh die
-Hauptgeschäftstelle seiner Firma nach Downtown Las Vegas and dann investierte er
-350 Millionen Dollar seines Privatvermögens in das sogenannte Downtown-Projekt. 
-Die Idee ist, kleine unabhängige Geschäfte, Firmen und Restaurants in
-Down\-town Las Vegas anzusiedeln. Der sogenannte 
-<LINK>http://downtowncontainerpark.com|Containerpark|Containerpark Las Vegas</LINK> auf der 
-Fremont-Street repräsentiert das
-Projekt ziemlich gut. In kleinen containerartigen Gebäuden befinden sich
-Geschäfte und Restaurants, die um einen großen Spielplatz herum angesiedelt sind.
-Weit über das Gelände verstreut laden Sitzmöglichkeiten zum Ausruhen und
-Verweilen in der Sonne ein. 
-
-<pic images/lv-container-park-table.ps Tische und Stühle laden zum Verweilen ein.>
 
 Ein wirklich ansprechendes Konzept, denn in Las
 Vegas findet man in der Regel nur noch Kettengeschäfte. In diesem Containerpark
