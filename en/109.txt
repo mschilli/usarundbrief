@@ -361,19 +361,18 @@ property, chairs and tables invite visitors to sit down and relax in the sun.
 
 <pic images/lv-container-park-table.ps At the container park, tables and chairs are invite visitors to sit down and relax.>
 
-TODO
+It's really a promising concept, especially since Las Vegas is inundated with
+chain stores. At the Container Park, I found a nice jewelry store
+named "Blu Marble", which we'll also be featuring in this edition's
+top product section below. A few famous chefs have also discovered
+downtown Las Vegas and have opened small restaurants there. Like
+renowned chef Kerry Simon, who hopped onto the new trend with
+<LINK>http://carsonkitchen.com|"Carson Kitchen"|Carson Kitchen Las Vegas</LINK>
+in the downtown area. We had a memorable lunch there with excellent food
+and at a reasonable price, absolutely on par with places in San Francisco. 
+Yepp, things are in motion in downtown Las Vegas!
 
-Ein wirklich ansprechendes Konzept, denn in Las
-Vegas findet man in der Regel nur noch Kettengeschäfte. In diesem Containerpark
-entdeckte ich dann auch das nette Geschäft "Blu Marble" (siehe Toppprodukt weiter unten).
-Die ersten berühmten Chefköche haben ebenfalls den Trend entdeckt und
-eröffnen kleinere Restaurants in Downtown Las Vegas. Kerry Simon, ein bekannter
-Chefkoch in Las Vegas, setzte mit dem neuen Restaurant 
-<LINK>http://carsonkitchen.com|"Carson Kitchen"|Carson Kitchen Las Vegas</LINK> ein
-Zeichen. Wir haben es natürlich gleich
-ausprobiert. Das Essen war super lecker und wurde zu einem vernünftigen
-Preis angeboten. Und wir fühlten uns, als würden wir in einem Restaurant in San
-Francisco sitzen. Ja, es tut sich etwas in Downtown Las Vegas.
+TODO
 
 @Z: Toppprodukt: Blu-Marble-Kette
 
