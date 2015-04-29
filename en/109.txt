@@ -372,34 +372,34 @@ in the downtown area. We had a memorable lunch there with excellent food
 and at a reasonable price, absolutely on par with places in San Francisco. 
 Yepp, things are in motion in downtown Las Vegas!
 
-TODO
+@Z: Top Product: The Blu Marble Necklace
 
-@Z: Toppprodukt: Blu-Marble-Kette
-
-<pic images/blue-marble-chain.ps Die Kette von Blue Marble>
+<pic images/blue-marble-chain.ps A necklace by Blue Marble>
 
 <em>Angelika</em>
-Las Vegas ist nicht gerade eine Stadt, in der Umweltschutz groß geschrieben
-wird. Ich würde einmal behaupten, dass Las Vegas auf der Top-10-Liste der
-Umweltsünder steht. Recycling befindet sich immer noch in den Kinderschuhen.
-Man stößt zwar mittlerweile auf Mülleimer am Flughafen, in denen der
-Reisende seinen Müll trennen kann, aber die Casinos sind leider noch nicht
-Trendführer in Sachen Recycling. 
+Calling Las Vegas an exemplary environmentally friendly city would
+be a huge stretch by all means of imagination. I'd even wager that Las
+Vegas is pretty high up on the top 10 polluters list in the United States. 
+There's hardly any recycling efforts in the casinos yet, although at 
+least the McCarren airport has introduced separate trash containers for 
+recyclables recently.
+ 
+That's why I got pretty excited when I noticed the small jewelry store
+<LINK>http://www.blumarble.com|"Blu Marble"</LINK> at the Container Park
+in downtown Las Vegas. It sold all kinds of trinkets made of glass, including
+beautiful necklaces with glass pendants. Obviously, I had to strike quickly
+and purchase a few, which is when I noticed a flock of geese as a motif
+on one of them, reminding me of popular "Grey Goose" vodka bottle. 
+The sales person
+clued me in that all of the store's products are indeed made of old booze 
+bottles, discarded by the casinos, which would be simply thrown away
+otherwise. The pendant on the necklace I had chosen indeed had been
+part of a "Grey Goose" vodka bottle! The Blu Marble jeweler is
+collecting about 15,000 bottles every year from the casinos on the strip 
+and processes them to make jewelry from them. Top idea and top product 
+for this edition!
 
-Deswegen war ich ganz aus dem Häuschen, als
-ich im neuen Containerpark in Downtown Las Vegas das kleine Geschäft mit dem
-schönen Namen <LINK>http://www.blumarble.com|"Blu Marble"</LINK> entdeckte. 
-Dort gab es allerlei Sachen aus Glas, unter anderem auch schöne Ketten 
-mit Glasanhängern.
-Bei den Ketten musste ich natürlich gleich zuschlagen und als ich den großen
-runden Glasanhänger genauer betrachtete, fielen mir die Gänse auf, die im
-Glas eingearbeitet waren und mich sehr an die auf der bekannten Wodkaflasche
-"Grey Goose" erinnerten. Die Verkäuferin im Laden klärte mich dann auf, dass
-alle ihre Produkte aus Flaschen hergestellt werden, die sie von den Casinos in
-Las Vegas erhalten und die sonst im Müll landen würden. Der Anhänger meiner
-Kette war tatsächlich früher eine "Grey-Goose-Flasche" gewesen. 15.000
-Flaschen sammelt Blu Marble im Monat vom Las Vegas Strip ein. Toppidee und
-Toppprodukt.
+TODO
 
 @Z: Schnurrbartmonat November
 
