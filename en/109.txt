@@ -399,34 +399,36 @@ collecting about 15,000 bottles every year from the casinos on the strip
 and processes them to make jewelry from them. Top idea and top product 
 for this edition!
 
-TODO
+@Z: Growing a Mustache in November
 
-@Z: Schnurrbartmonat November
-
-<pic images/movember.ps Mein Schnurrbart Mitte November.>
+<pic images/movember.ps My impressive mustache mid November.>
 
 <em>Michael</em>
-Einer der etwas skurrileren Bräuche in unserer verrückten Gegend ist, dass
-sich viele Männer im Monat November einen Schnurrbart wachsen lassen. Da
-Schnurrbart auf Amerikanisch "Mustache" heißt, spricht man deshalb auch gern
-vom Monat <LINK>http://en.wikipedia.org/wiki/Movember|"Movember"</LINK>.
+For many men, one of the more whimsical traditions in our crazy 
+area is growing a mustache during the month of November. Since
+"mustache" starts with an "M", November simply becomes 
+<LINK>http://en.wikipedia.org/wiki/Movember|"Movember"</LINK>.
 
-Das Ganze dient einem guten Zweck, denn die Schnurr\-bart\-träger
-machen damit auf typisch männliche Krankheiten wie Prostatakrebs
-aufmerksam, die sich durch rechtzeitig durchgeführte Vorsorge\-untersuchungen
-schnell erkennen und oft gut behandeln lassen.
+It's all for a good cause, as by doing so, the proud mustache 
+growers raise awareness for typical male diseases like prostate
+cancer, which can often be recognized and treated effectively when
+screenings are done in a timely manner.
 
-In der Firma hat zum Beispiel unser Abteilungsleiter für jeden Mitarbeiter,
-der sich Anfang November glatt rasierte und dann 30 Tage lang einen Schnurrbart
-wachsen ließ, $100 in die Kasse der Movember-Foundation gespendet, die
-damit irgendwelche Gesundheitsprogramme finanziert. Ich war natürlich mit
-dabei, ließ mir einen beachtlichen Schnurrbart wachsen und konnte mir oft
-das Lachen nicht verkneifen, wenn ich mal wieder in einem Meeting mit zehn
-Schnurrbartträgern saß.
-Wegen Gleichberechtigung durfte natürlich auch die Damenwelt mitmachen,
-wer auf der Abschlusskundgebung Ende November mit einem aufgeklebten
-Schnurrbart erschien, wurde ebenfalls mitgezählt.
+At my workplace, for example, our director donated $100 to the 
+Movember Foundation for every employee who started clean-shaven
+into the month of November and then kept growing a mustache for the
+next 30 days. With the money, the foundation sponsors health programs.
 
-Grüße aus dem verrückten Land:
+Needless to say, I was in on it as well, and kept growing an impressive
+mustache. It was really fun to watch my colleagues do the same and
+more often than once I couldn't help but crack up noticing me sitting
+in a meeting with ten other men proudly wearing mustaches.
+
+To provide equal opportunities for everyone, the ladies at work
+were invited to join in on the fun as well, and those who showed up with
+a glued-on plastic mustache at the party at the end of the month
+were counted as well.
+
+Greetings from our crazy world:
 
 Angelika \& Michael
