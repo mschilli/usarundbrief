@@ -5,23 +5,21 @@ San Francisco, 04-27-2015
 <pic images/dp-total.ps A pretty normal Sunday afternoon in Dolores Park.>
 
 <em>Angelika</em>
-Around the corner from our building is a popular San Francisco recreational
+Around the corner from our home is a popular San Francisco recreational
 area called Dolores Park. Mainly people from the surrounding neighborhoods, 
 like Noe Valley, Castro and the Mission are hanging out there on the weekends.
 
+Dolores Park fills up quickly on the weekends, and until recently, the
+crowds were very considerate, kids were playing on the playground, friends met
+for a picnic, ripped guys from Castro's gay scene sun-bathed in tiny
+swimming suits, Mexicans from the nearby Mission district played soccer on the
+lawn, dog lovers walked their dogs, and tennis fans played their matches
+on the adajacent courts, fantastic views of the skyline of downtown 
+San Francisco included.
+
+<pic images/dp-dogs.ps Pretty average people in San Francisco.>
+
 TODO
-
-An
-sonnigen Wochenenden wird es von jeher voll im Dolores Park. Aber bisher ging
-alles recht zivilisiert zu. Kinder spielten auf dem Spielplatz, Freunde trafen
-sich zum Picknick, durchtrainierte Herren, die der Schwulenszene im Castro
-angehören, sonnten sich in knappen Badehosen, Mexikaner aus der Mission
-spielten Fußball auf den grünen Wiesen, Hundebesitzer führten ihre Hunde
-spazieren und Tennisfans konnten den Schläger schwingen auf den zum Park
-zugehörigen Tennisplätzen. Und das alles mit einem fantastischen Ausblick auf
-Downtown San Francisco. 
-
-<pic images/dp-dogs.ps Ein guter Durchschnitt der Bevölkerung San Franciscos.>
 
 Schon immer wurde ein Auge zugedrückt, wenn Picknicker
 Alkohol konsumierten oder Hundebesitzer ihre Hunde nicht anleinten, was
