@@ -19,21 +19,23 @@ San Francisco included.
 
 <pic images/dp-dogs.ps Pretty average people in San Francisco.>
 
+As a long-standing tradition, park officials have always looked the 
+other way when they saw park visitors drinking alcohol or letting their dogs
+run off leash, both of which is clearly against the prominently 
+posted park rules. Since everyone got along just fine, nobody said
+anything. But lately the park has turned into some kind of Carnival in Rio
+fest. Loud music is pumping from various speakers hauled in by
+the party people, who get totally wasted and then unabashedly urinate
+into the bushes or nearby neighbors' driveways. Marihuana is consumed
+in all imaginable ways, but that is also a long-standing tradition in
+Dolores Park. Come Monday morning, the park is littered with trash, because
+apparently none of the party people is capable of bringing a plastic bag,
+collect their trash and put it into or at least next to one of the 
+provided garbage bins.
+
+<pic images/dp-pee.ps Nearby neighbors have been complaining about people publically urinating in Dolores park.>
+
 TODO
-
-Schon immer wurde ein Auge zugedrückt, wenn Picknicker
-Alkohol konsumierten oder Hundebesitzer ihre Hunde nicht anleinten, was
-eigentlich gegen die Parkregeln verstößt. Solange sich alles in geregelten
-Bahnen hielt, sagte keiner etwas.  In letzter Zeit geht es im Park allerdings
-zu wie im Karneval in Rio. Laute Musik tönt aus mitgebrachten Lautsprechern.
-Alkoholisierte Menschen pinkeln genussvoll und ohne Scham in die Anlagen oder
-auch schon einmal in die Hauseingänge der anliegenden Häuser. Marihuana wird
-in allen möglichen Formen konsumiert, was allerdings zugegebener Maßen nichts
-Neues ist im Park. Montag stapelt sich der Müll im Park, weil keiner scheinbar
-in der Lage ist, seinen Müll in Mülltüten zu befördern und neben die
-Parkmülltonnen zu stellen. 
-
-<pic images/dp-pee.ps Zum Leidwesen der Anwohner pinkeln manche Leute einfach in die Anlagen.>
 
 Die Stadtarbeiter, die eigentlich die Grünanlagen
 pflegen sollen, sind dann auch den ganzen Montag damit beschäftigt, den Müll
