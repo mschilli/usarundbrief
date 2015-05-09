@@ -35,21 +35,22 @@ provided garbage bins.
 
 <pic images/dp-pee.ps Nearby neighbors have been complaining about people publically urinating in Dolores park.>
 
+The city workers assigned to tend to the greenery in the park are instead
+occupied all Monday to collect the strewed out trash. Nearby neighbors in
+their expensive houses are getting upset and have been pressuring 
+the city to maintain
+law and order. As of recently, park violations are actually being ticketed 
+by the park officials. I'm not sure if that's going to help, though. It'd
+probably more effective if violators would instead be convicted 
+to join a community service clean-up task force. But who's listening to me!
+One directly related problem is definitely that due to the recent boom 
+in building ugly multi-story appartment buildings in the nearby 
+neighborhoods, the park gets filled up beyond capacity on the weekends, 
+because those newly moved in residents want to enjoy the greenery.
+
+<pic images/dp-sign.ps Park rules no one cares about.>
+
 TODO
-
-Die Stadtarbeiter, die eigentlich die Grünanlagen
-pflegen sollen, sind dann auch den ganzen Montag damit beschäftigt, den Müll
-einzusammeln. Die Anwohner, die in den recht teuren Häusern um den Park herum
-wohnen, sind zunehmend genervt und üben Druck auf die Stadt aus, die Lage
-unter Kontrolle zu bringen. Mittlerweile gibt es Strafzettel für diejenigen,
-die sich daneben benehmen und gegen die Parkregeln verstoßen. Ich bin mir aber
-nicht sicher, ob das hilft. Ich denke, die Leute zum Aufräumen des Parkes zu
-verdonnern wäre eine bessere Lösung. Aber auf mich hört ja keiner. Ein
-Problem ist, dass der Park mehr Menschenmassen zu verkraften hat, denn in den
-angrenzenden Gebieten des Parkes werden immer mehr hässliche Betonbunker mit
-Apartments gebaut und die Bewohner drängen am Wochenende in die Grünanlagen.
-
-<pic images/dp-sign.ps Vorschriften im Park an die sich allerdings niemand hält.>
 
 Auch ist die Hälfte des Parks gerade geschlossen, da dieser Teil renoviert und
 modernisiert wird. Und Kalifornien erlebt eine Trockenperiode. Im Winter hat es
