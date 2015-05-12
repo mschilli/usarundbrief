@@ -50,23 +50,23 @@ because those newly moved in residents want to enjoy the greenery.
 
 <pic images/dp-sign.ps Park rules no one cares about.>
 
-TODO
+What makes things worse is that one half of the park is currently closed
+for a big renovation project. And California is in a drought, so during
+the winter we've had much sunnier weather than usual, which is when
+people frequent nearby parks more often. 
+Some old-timers claim that we're in this pickle because of droves of 
+nouveau-riche Silicon Valley workers, cashing in big down south and living
+in the city, thinking they own the world and don't have to abide by any
+rules. I'm not sure this is 100% true. If you look at the park's history, 
+it has been through a lot of interesting times. Way back, the Ohlone Indians
+lived on the land, then came the Spanish missionaries and cattle farmers.
+Between 1861 and 1894 there was a Jewish cemetery on the premises, and after
+the big quake in 1906, the city erected baracks there to provide a living 
+space for the people who became homeless in the quake's aftermath. 
+We hope that residents figure out eventually how to get along with each
+other and the park stays here for a long time to come.
 
-Auch ist die Hälfte des Parks gerade geschlossen, da dieser Teil renoviert und
-modernisiert wird. Und Kalifornien erlebt eine Trockenperiode. Im Winter hat es
-kaum geregnet und es gab viel mehr Sonnentage, also Parkwetter, als üblich.
-Einige Alteingesessene meinen natürlich, dass die Parkmisere nur an den
-neureichen Zugezogenen liegt, die jung sind und im Silicon Valley dicke
-Gehälter kassieren, aber meinen, dass ihnen die Welt gehört und sie sich an
-keine Regeln zu halten haben. Ich bin mir allerdings nicht sicher, ob das so
-stimmt. Der Park hat schon so manchen Sturm im übertragenen Sinne
-überstanden und eine interessante Geschichte hinter sich. Zunächst war das
-Land von den Ohlone-Indianern besiedelt, dann kamen die spanischen Missionare und
-Viehzüchter. Von 1861 bis 1894 befand sich ein jüdischer Friedhof auf dem
-Dolores-Park-Gelände und nach dem großen Erdbeben in 1906 errichtete die
-Stadt dort Baracken, um die durch das Erdbeben obdachlos Gewordenen
-unterzubringen. Man kann nur hoffen, dass der Park uns allen noch lange
-erhalten bleibt und sich die Leute zusammenreißen.
+TODO
 
 @Z: Überteuerte Mickymaus-Biere
 
