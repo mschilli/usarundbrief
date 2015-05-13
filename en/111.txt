@@ -66,26 +66,26 @@ space for the people who became homeless in the quake's aftermath.
 We hope that residents figure out eventually how to get along with each
 other and the park stays here for a long time to come.
 
-TODO
+@Z: Overpriced Mickey Mouse Beers
 
-@Z: Überteuerte Mickymaus-Biere
-
-<pic images/beer-rogue.ps Zwölf Dollar für knapp zwei Liter Bier? Nur in Amerika.>
+<pic images/beer-rogue.ps Twelve Dollars for 4 pints of beer? Only in America.>
 
 <em>Michael</em>
-Die Geschichte des Brauwesens in Amerika lässt sich in drei zeitliche 
-Abschnitte einteilen. Bis circa 1985 herrschte die wässrige Periode, in der
-es landauf landab nichts anderes gab als das Dünnbier der großen Hersteller. 
-Joe Schmoe trank Budweiser oder Coors, während europäische
-Touristen und ortsansässige Feinschmecker
-mexikanische oder holländische Exporte wie Corona oder Heineken
-bestellten. Dann begann Ende der 1980er
-der Umbruch, und trendige Jungunternehmer machten sich
-daran, den Biermarkt von unten her aufzurollen mit sogenannten "Microbrews".
-Mit viel Liebe und fast hobbymäßig betriebene 
-Brauereien stellten kleine Mengen Spezialbier für Kennerkehlen her. 
+The history of beer brewing in the United States can be divided up in three
+distinct periods. Until about 1985, we had the watery age, when all across
+the country all one could find was the thin, tasteless beer made by the 
+major brewing companies. Joe Schmoe washed down Budweiser or Coors, while 
+European tourists and a few local demanding customers ordered Mexican or
+Dutch exports like Corona or Heineken. Then, towards the end of the 80ies, 
+a major movement started, and a few rebellious young entrepeneurs began
+disrupting the beer market by producing so-called microbrews. Tiny breweries,
+run by dedicated hobbyists, put a lot of love and effort into 
+crafting their own beers, and started selling them to 
+their enthusiastic followers.
 
-<pic images/beer-coronado.ps Wenn's schön macht: Kürbisbier für 5.79 pro Flasche.>
+<pic images/beer-coronado.ps To each his own: Pumpkin beer sold at 5.79 Dollars per bottle.>
+
+TODO
 
 Heutzutage führt jede Dorfwirtschaft ein Microbrew, und in San 
 Francisco könnte man Budweiser wahrscheinlich nur noch in einer Sportsbar
