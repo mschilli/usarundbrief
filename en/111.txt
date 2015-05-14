@@ -85,24 +85,28 @@ their enthusiastic followers.
 
 <pic images/beer-coronado.ps To each his own: Pumpkin beer sold at 5.79 Dollars per bottle.>
 
+Nowadays, every truck stop sells microbrew beer, and in San Francisco, 
+you'd be hard pressed to order Budweiser without being pointed and 
+laughed at, except maybe in sports bars. The fight's been fought now,
+and the microbrews won, but it has been dragging on for several decades 
+to get to this point. One of the major obstacles is the alcohol distribution
+system in the United States, which has been strictly regulated by the
+government since prohibition times. Until today, it's pretty tough for 
+small breweries to get their brews on supermarket shelves. Why? 
+Distributing alcohol at a wholesale level in the U.S. requires a state license
+only granted to big distributors, who of course
+scoff at small mom and pop brewers
+producing a few thousand gallons a year, when they can much more efficiently 
+move hundreds of millions of gallons sold by one of the large-scale industrial
+brewing companies. The documentary 
+<LINK>http://en.wikipedia.org/wiki/Beer_Wars|Beer Wars</LINK>
+sheds some light behind the scenes of big beer business and illustrates
+some of the disastrous implications this has for innovators in the 
+brewing business.
+
+<pic images/beer-chimay.ps Always been a bit on the expensive side: Beer from Belgium.>
+
 TODO
-
-Heutzutage führt jede Dorfwirtschaft ein Microbrew, und in San 
-Francisco könnte man Budweiser wahrscheinlich nur noch in einer Sportsbar
-bestellen ohne ausgelacht zu werden.
-Der Kampf ist nunmehr ausgefochten, zog sich aber über Jahrzehnte hin.
-Da in Amerika der Biervertrieb seit Prohibitionszeiten strengen
-staatlichen Kontrollen unterliegt, ist es bis heute gar nicht so einfach für
-kleine Firmen, ihr Gebräu in die Supermarktregale zu bringen. 
-Großhändler, die die Läden beliefern, genießen eine vom Bundesstaat 
-vorgeschriebene Monopolstellung, und bevor so ein Megavertrieb, der
-hunderte von Millionen Liter Budweiser verscherbelt, eine Microbrewery ins
-Programm nimmt, die ein paar tausend Liter absetzt, muss schon
-ein mittleres Wunder geschehen. Die Dokumentation 
-<LINK>http://en.wikipedia.org/wiki/Beer_Wars|Beer Wars</LINK> zeigt diesen
-oft aussichtslosen Kampf David gegen Goliath eindrucksvoll.
-
-<pic images/beer-chimay.ps War schon immer teuer: Belgisches Bier.>
 
 Aber der Amerikaner macht ja bekanntlich niemals halt und treibt die Dinge
 gerne auf die Spitze, auch wenn's vielleicht nicht immer so schlau ist.
