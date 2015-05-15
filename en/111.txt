@@ -106,28 +106,26 @@ brewing business.
 
 <pic images/beer-chimay.ps Always been a bit on the expensive side: Beer from Belgium.>
 
+But it's no secret that Americans never stop improving, and sometimes
+they even go over the top, up to the point where you ask yourself if that
+was really such a smart idea. The German beer purity law is naturally
+unknown here and left to their own devices, some breweries cook up 
+the craziest combinations that no one in their right mind can enjoy 
+anymore. 
+
+For example, whenever we're on vacation in Hawaii, I enjoy the beer made by
+the local "Kona" brewery, which, similiarily to the well-known
+<LINK>http://en.wikipedia.org/wiki/Gordon_Biersch_Brewing_Company|Gordon Biersch Brewing Company</LINK>, 
+composes simple classic but very well-crafted beers. But I almost fell
+out of my chair last time we were there, when in a super saver package
+from Costco, I opened a sixpack of a variety called "Koko Brown" which
+tasted so absurdly of coconut that I couldn't get down more than one sip,
+poured the rest of the bottle in the sink and left the remaining five
+bottles for the next tenant at the vacation home.
+
+<pic images/beer-new-belgium.ps Craft beer on sale for 6.89 Dollars per bottle.>
+
 TODO
-
-Aber der Amerikaner macht ja bekanntlich niemals halt und treibt die Dinge
-gerne auf die Spitze, auch wenn's vielleicht nicht immer so schlau ist.
-Ein Reinheitsgebot kennt er natürlich nicht und so experimentiert 
-heutzutage so ziemlich jede Brauerei mit den irrwitzigsten Zutaten 
-herum und panscht teilweise Zeug zusammen, das kein Mensch mehr trinken kann.
-
-Im Urlaub auf Hawaii trinke ich zum Beispiel 
-immer Bier der ortsansässigen "Kona"-Brauerei,
-die ähnlich wie 
-<LINK>http://en.wikipedia.org/wiki/Gordon_Biersch_Brewing_Company|Gordon Biersch</LINK> 
-klassische Sorten komponiert. Allerdings war
-in dem im Costco-Supermarkt in Honululu erworbenen Sparpack 
-"Big Kahuna" letztes mal ein Sixpack der Sorte
-"Koko Brown" dabei, das so absurd nach Kokosnuss schmeckte, dass ich nicht
-mehr als einen Schluck runterbrachte, den verbleibenden Flascheninhalt 
-wortlos weggoss, und die 
-restlichen fünf Flaschen im Kühlschrank für den nächsten Mieter 
-des Ferienhauses zurückließ.
-
-<pic images/beer-new-belgium.ps Bier für 6.89 Dollar pro Flasche im Sonderangebot.>
 
 Deutsche Winzer machen sich ja bekanntlich gerne
 über ameri\-kani\-sche Weine lustig,
