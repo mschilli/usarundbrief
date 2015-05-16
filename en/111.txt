@@ -125,29 +125,33 @@ bottles for the next tenant at the vacation home.
 
 <pic images/beer-new-belgium.ps Craft beer on sale for 6.89 Dollars per bottle.>
 
+As you might know, German vintners love to belittle the products of 
+American wineries, calling
+them <LINK>http://www.stern.de/wirtschaft/news/handel-winzer-fuerchten-coca-cola-weine-550941.html|"Coca Cola Wines"</LINK>, because they're produced under
+less strict food and drink regulations than in Germany, giving American
+vintners the advantage of being able to explore all kinds of
+artificial taste enhancement methods. For example, every vineyard in 
+Napa Valley uses wooden pallets of different flavors, strewn into the barrels
+to build out heavy red wines. That would be illegal in Germany!
+Along the same lines, some of the new hipster
+beers are enriched with elderberries, grapefruit, pumpkin flavor, and
+all kinds of artificial secret ingredients thought up 
+by trendy American breweries.
+Those beers create such a complex taste sensation
+that I guess their primary purpose is not to
+wash down food, but maybe sample them like at a wine tasting, with 
+cheese and crackers on the side? What's worse is that a liter bottle of
+these Mickey Mouse Beers often costs 10 Dollars or more. Predictably,
+lots of fancy restaurants in the Bay Area have been getting that greedy look 
+in their eyes, because they could now all of a sudden 
+put a pint of beer for 15 Dollars on the menu!
+But count me out, please. I have no intention of participating in disrupting
+the well-established beer culture, only to fall into the same 
+hyperinflation grooves as the wine culture did 20 years ago. Pass!
+
+<pic images/pint-glass.ps (#3) The typical American pint glass measures about 0.47 liters and has to be filled all the way up to the rim.>
+
 TODO
-
-Deutsche Winzer machen sich ja bekanntlich gerne
-über ameri\-kani\-sche Weine lustig,
-die sie
-<LINK>http://www.stern.de/wirtschaft/news/handel-winzer-fuerchten-coca-cola-weine-550941.html|"Coca-Cola-Weine"</LINK> 
-nennen, weil der Amerikaner pragmatisch zu 
-neumodischen Geschmacksverfeinerungsmethoden greift, die in Deutschland
-verboten sind. Im Napa Valley baut zum Beispiel jeder Winzer seine schweren
-Rotweine mit in den Fässern eingelagerten Holzchips verschiedener 
-Geschmacksrichtungen aus. Die neuen Hipster-Biere,
-die trendige Brauereien heute skrupellos mit Hollunder, Grapefruit,
-Kürbisgeschmack oder
-chemischem Firlefanz anreichern, kann man beim besten Willen nicht mehr
-einfach zum Essen trinken, sondern vielleicht nur noch wie bei einer Weinprobe 
-mit Crackern und Käse degustieren. 
-Außerdem kostet eine Literflasche dieser Micky-Maus-Biere oft
-10 Dollar und mehr. Restaurants schielen gierig auf die neuen Biersorten,
-denn endlich können sie die Halbe für 15 Dollar verkaufen! Aber nicht mit
-mir, diese Verweinisierung der Bierkultur mache ich aus
-Protest nicht mit. 
-
-<pic images/pint-glass.ps (#3) Das typische amerikanische Pint-Glas fasst 0.47 Liter bis zum oberen Rand.>
 
 Vor 20 Jahren kostete die amerikanische "Pint" (also 0,47 Liter) Bier im 
 Pub noch $3, heutzutage sind eher $6 üblich. Die typischen amerikanischen
