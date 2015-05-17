@@ -151,21 +151,22 @@ hyperinflation grooves as the wine culture did 20 years ago. Pass!
 
 <pic images/pint-glass.ps (#3) The typical American pint glass measures about 0.47 liters and has to be filled all the way up to the rim.>
 
-TODO
+About 20 years ago, pubs were selling an American pint (about 0.47 liters) 
+of beer for about $3, today it's more like $6. Traditional American
+pint classes (Figure (#3)) don't feature a calibration mark, but are 
+supposed to be filled all the way to the rim, so that it's often hard
+to lift a full glass of beer off the counter without making a mess.
+But since in many places foamless ales have given way to foamy brews, a
+glass might contain less fluid than you think it does. What's worse is that
+restaurants have been jacking up the beer prices lately. After finding
+out that no one complained when they increased the price for a glass
+of wine from $6, to $10, and even $20 for top-shelve wines, in recent years
+they have been performing the same trick in beer sales. The other day
+I was rubbing my eyes in disbelief when the waiter in my favorite restaurant
+"Chow" set down a glass of beer for $4.50 in front of me that was only
+a half pint in size. That didn't fly well with me, my friends!
 
-Vor 20 Jahren kostete die amerikanische "Pint" (also 0,47 Liter) Bier im 
-Pub noch $3, heutzutage sind eher $6 üblich. Die typischen amerikanischen
-Pint-Gläser (Abbildung (#3)) haben keinen Eichstrich und der Schankwart muss
-sie ganz bis zum oberen Rand füllen, so dass man sie oft kaum noch von der 
-Theke heben kann, ohne einen Tropfen zu verschütten. Da schaumlose Ales 
-mittlerweile vielerorts schäumenden Bieren gewichen sind, ist oft weniger
-im Glas als man annimmt. Viel schlimmer aber noch 
-zocken Speiselokale die Biertrinker ab: Nachdem sie herausgefunden hatten,
-dass sich niemand aufregt, wenn das Glas Wein $6, $10 oder gar $20 kostet,
-schraubten sie auch die Bierpreise über die Jahre langsam in die Höhe. 
-Neulich rieb ich mir verwundert die Augen, als mir der Kellner in meinem
-Lieblingsrestaurant "Chow" ein Bierglas für $4.50 vorsetzte, das etwa
-0,2 Liter fasste. So nicht, Freunde der Sonne!
+TODO
 
 @Z: San Francisco Ansichten: Dogpatch und Pier 70
 
