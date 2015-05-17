@@ -71,7 +71,7 @@ other and the park stays here for a long time to come.
 <pic images/beer-rogue.ps Twelve Dollars for 4 pints of beer? Only in America.>
 
 <em>Michael</em>
-The history of beer brewing in the United States can be divided up in three
+The history of beer brewing in the United States can be divided up into three
 distinct periods. Until about 1985, we had the watery age, when all across
 the country all one could find was the thin, tasteless beer made by the 
 major brewing companies. Joe Schmoe washed down Budweiser or Coors, while 
