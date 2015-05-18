@@ -168,24 +168,25 @@ I was rubbing my eyes in disbelief when the waiter in my favorite restaurant
 a half pint in size. That didn't fly well with me, my friends!
 But it turned out that they still serve full pints if you ask.
 
+@Z: San Francisco Neighborhoods: Dogpatch and Pier 70
+
+<pic images/dogpatch-cat.ps Old abandoned factory buildings are dominating the landscape in the Dogpatch neighborhood in San Francisco.>
+
+<em>Angelika</em> 
+As at every tourist destination, visitors to San Francisco love to check
+off the usual sightseeing highlights: Golden Gate Bridge, the cable car,
+Alcatraz, Alamo Square with its neat Victorian houses and of course
+Fisherman's Wharf, which locals avoid like the plague. There's many 
+places listed in the popular tourist guides which are actually worth visiting,
+of course, but the city also offers many hidden gems, unexplicably 
+neglected by both tourists and locals alike, although I'd consider them
+part of the heart and soul of San Francisco. One of these places is 
+the Dogpatch neighborhood, located in the eastern part of town, adjacent
+to the Bay and between Mariposa and Cesar Chavez Street.
+
+<pic images/dogpatch-piccino.ps Trendy new restaurants like "Piccino" offer tasty food and exquisit wines.>
+
 TODO
-
-@Z: San Francisco Ansichten: Dogpatch und Pier 70
-
-<pic images/dogpatch-cat.ps Alte verlassene Fabrikgebäude bestimmen die Landschaft im Dogpatch-Viertel.>
-
-<em>Angelika</em> Touristen klappern ja gerne die Standardsehenswürdigkeiten
-einer Stadt ab, das ist in San Francisco nicht anders: Golden Gate Bridge,
-Cable Car, Golden Gate Park, Alcrataz, Alamo Square mit den hübschen Häuschen
-und immer wieder Fisherman's Wharf, obwohl mich dort keine 10 Pferde mehr
-hinbekommen.  Vieles ist auch lohnend, aber es gibt immer noch Ecken, die
-Touristen und auch Einheimische sträflich vernachlässigen, die aber das Herz
-und die Seele dieser Stadt ausmachen. Der Stadtteil "Dogpatch" mit dem
-angrenzenden Pier 70, der sich auf der östlichen Seite der Stadt, zwischen
-der Mariposa Street, der Chesar Chavez Street und dem Wasser der Bay 
-befindet, gehört zum Beispiel dazu. 
-
-<pic images/dogpatch-piccino.ps Neue Szenerestaurants wie as "Piccino" locken mit leckeren Speisen und erlesenen Weinen.>
 
 Das Dogpatch-Gebiet hat eine schillernde Geschichte aufzuweisen.
 Dort stehen einige der ältesten Häuser von San Francisco, denn das
