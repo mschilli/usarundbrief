@@ -186,12 +186,15 @@ to the Bay and between Mariposa and Cesar Chavez Street.
 
 <pic images/dogpatch-piccino.ps Trendy new restaurants like "Piccino" offer tasty food and exquisit wines.>
 
+As an well-established part of San Francisco history, the Dogpatch 
+neighborhood has gone through stunning developments over the years. 
+You can find some of San Francisco's oldest buildings there, thanks to the
+fact that neither the 1906 earthquake nor the following fire blaze 
+caused any harm there. 
+
 TODO
 
-Das Dogpatch-Gebiet hat eine schillernde Geschichte aufzuweisen.
-Dort stehen einige der ältesten Häuser von San Francisco, denn das
-Viertel wurde 1906 weder durch das schwere Erdbeben noch durch die mit dem 
-Erdbeben einhergehenden Brände in Mitleidenschaft gezogen. Lange war das
+Lange war das
 Dogpatch-Viertel ein Arbeiterviertel mit einem hohen Anteil an europäischen
 Immigranten, die in den umliegenden Fabriken oder in der Schiffswerft am Pier
 70 arbeiteten. Die städtische Firma PG\&E, die uns mit Strom und Gas versorgt,
