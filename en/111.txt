@@ -192,17 +192,19 @@ You can find some of San Francisco's oldest buildings there, thanks to the
 fact that neither the 1906 earthquake nor the following fire blaze 
 caused any harm there. 
 
-TODO
+For many years, the Dogpatch neighborhood used to be a working
+class neighborhood with a high percentage of European immigrants, making
+a living by working
+at the surrounding factories and the shipyard at Pier 70. The municipal 
+company PG\&E, sole provider of gas and electricy in San Francisco, opened
+a factory building there as far back as 1852. Around 1990 hower, 
+the landscape started
+to change with the dot com boom. Working class families were 
+driven out due to increasing rents, and the upper middleclass started to
+move into the beautiful old tiny houses, thanks to which San Francisco is 
+such a charming city.
 
-Lange war das
-Dogpatch-Viertel ein Arbeiterviertel mit einem hohen Anteil an europäischen
-Immigranten, die in den umliegenden Fabriken oder in der Schiffswerft am Pier
-70 arbeiteten. Die städtische Firma PG\&E, die uns mit Strom und Gas versorgt,
-eröffnete zum Beispiel schon im Jahre 1852 eine Werksanlage im Viertel. Um
-1990 herum wirkte sich der Dot-Com-Boom auch auf das Dogpatch-Viertel aus.
-Arbeiterfamilien wurden verdrängt und der gehobene Mittelstand zog in die
-wunderschönen alten kleinen Häuschen ein, die auch in anderen Vierteln den
-Charme von San Francisco ausmachen.
+TODO
 
 Die Eröffnung der Straßenbahnlinie T tat ein übriges, denn sie verläuft
 durch das Viertel. Weiter ändert sich die Stadtlandschaft in der
