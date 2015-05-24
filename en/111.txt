@@ -204,21 +204,20 @@ driven out due to increasing rents, and the upper middleclass started to
 move into the beautiful old tiny houses, thanks to which San Francisco is 
 such a charming city.
 
-TODO
-
-Die Eröffnung der Straßenbahnlinie T tat ein übriges, denn sie verläuft
-durch das Viertel. Weiter ändert sich die Stadtlandschaft in der
-angrenzenden Mission Bay,
-wo das renommierte Unikrankenhaus UCSF riesige Forschungskomplexe aus dem Boden
-stampfte. Nicht alle Veränderungen sind schlecht, so findet man super 
-Restaurants im Viertel,
-aber auch Geschäfte, die San Francisco ausmachen und noch nicht in jeder
-Metropole dieser Welt zu finden sind, wie zum Beispiel das Taschengeschäft
+The newly opened streetcar T Line which runs through the neighborhood
+also brought noticable changes. And only a few blocks away, the Mission
+Bay neighborhood has also been going through drastic changes, as the
+renowned UCSF hospital erected an entirely new research complex there with
+numerous buildings. Not all changes are bad, however, as many 
+great new restaurants can attest to, as well as signature stores that are 
+unique to San Francisco, like the bag shop 
 <LINK>http://www.rickshawbags.com|"Rigshaw Bagworks"</LINK>
-oder <LINK>http://pocodolce.com|"Poco Dolce"</LINK> für 
-Konfekt und Schokolade.
+or <LINK>http://pocodolce.com|"Poco Dolce"</LINK> which offers an
+exquisit selection of fine confectionery and chocolate.
 
-<pic images/dogpatch-butchery.ps Junge Unternehmer wie dieser Edelmetzger versuchen ihr Glück mit neuen Konzepten.> 
+<pic images/dogpatch-butchery.ps Young entrepeneurs like this specialty butcher shop try out new concepts in the neighborhood..> 
+
+TODO
 
 Auch eine gehobene Metzgerei steht dort, nämlich
 <LINK>http://www.oliviersbutchery.com|"Olivier’s Butchery"</LINK>, 
