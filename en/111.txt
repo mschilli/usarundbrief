@@ -217,22 +217,20 @@ exquisit selection of fine confectionery and chocolate.
 
 <pic images/dogpatch-butchery.ps Young entrepeneurs like this specialty butcher shop try out new concepts in the neighborhood..> 
 
+Around the corner is a hip butcher shop, 
+<LINK>http://www.oliviersbutchery.com|"Olivier’s Butchery"</LINK>,
+which is a rarity in the U.S, because most people buy their meat 
+shrinkwrapped at the supermarket. 
+Another interesting venture is 
+<LINK>http://workshopresidence.com|"The Workshop Residence"</LINK>,
+where artists get the opportunity to collaborate with local companies
+to create and sell unique products.
+
+<pic images/dogpatch-saloon-bar.ps The Dogpatch Saloon is a popular waterhole for thirsty locals.>
+
+<pic images/dogpatch-crane.ps Some of the abandoned buildings look like they're from the movie "Plant of the Apes".>
+
 TODO
-
-Auch eine gehobene Metzgerei steht dort, nämlich
-<LINK>http://www.oliviersbutchery.com|"Olivier’s Butchery"</LINK>, 
-ein Geschäftsmodell,
-das fast vom Austerben bedroht ist in den USA, denn die meisten 
-Leute kaufen ihre
-Fleischprodukte abgepackt im Supermarkt ein. 
-<LINK>http://workshopresidence.com|"The Workshop Residence"</LINK>
-ist ebenfalls interessant. Künstler erhalten dort die Möglichkeit, 
-mit ortsansässigen Firmen zusammen zu arbeiten und ihre einzigartigen 
-Produkte herzustellen und zu verkaufen. 
-
-<pic images/dogpatch-saloon-bar.ps Der Saloon ist die lokale Oase für durstige  Dogpatch-Bewohner.>
-
-<pic images/dogpatch-crane.ps Teilweise sehen die verlassenen Gebäude aus wie im Film "Planet der Affen".>
 
 Und wer noch ein wenig die alte Luft
 des Dogpatch schnuppern will, mache sich auf in den 
