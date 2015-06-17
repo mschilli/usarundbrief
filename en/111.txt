@@ -252,6 +252,10 @@ newly shaped landscape. I recommend you take a last look at the area
 right now, as newly constructed buildings in San Francisco tend to be 
 boring and architecturally uninspired these days.
 
+@Z: Expensive Eggs
+
+<pic images/eggs-rainbow.ps Half a dozen eggs from happy hens cost a whopping five Dollars.>
+
 TODO
 
 @Z: Teure Hühnereier
