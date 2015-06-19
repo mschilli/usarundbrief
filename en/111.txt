@@ -256,20 +256,19 @@ boring and architecturally uninspired these days.
 
 <pic images/eggs-rainbow.ps Half a dozen eggs from happy hens cost a whopping five Dollars.>
 
+<em>Michael</em>
+Americans only know about fried eggs for breakfast, it's not widely known 
+to simply scoop egg yolk out a soft-boiled egg directly from the shell. 
+One of the reasons for that is that
+the major U.S. chicken farms have been struggling for decades 
+with salmonella bacteria contamination, to the point where they've 
+actually given up on battling it. That's why Americans get nervous
+immediately when they eye chicken products not cooked to the point
+where no live organism could potentially have survived.
+
 TODO
 
-@Z: Teure Hühnereier
-
-<pic images/eggs-rainbow.ps Sechs Eier von glücklichen Hennen kosten schlappe fünf Dollar.>
-
-<em>Michael</em>
-Der Amerikaner kennt das Frühstücksei ja nur gebraten, so direkt löffelt er
-es nicht aus der Schale wie der Deutsche. Außerdem herrscht in Amerika
-seit Jahrzehnten eine Geflügelseuche, die die großen Hühner-Hugos
-schon gar nicht mehr einzudämmen versuchen, weil's anscheinend 
-komplett hoffnungslos ist.
-Deshalb schielt der Amerikaner skeptisch auf alles Hühnerartige, das 
-nicht komplett totgekocht wurde. Zeigt sich nur ein Fitzelchen Fleisch
+Zeigt sich nur ein Fitzelchen Fleisch
 an einem Brathähnchen, das nicht ganz durchgebraten ist, schalten die
 Verbraucher sofort auf Defcon 5 und werfen alles weg. 
 Supermärkte in Amerika verkaufen Eier aus dem Kühlregal, während sie in
