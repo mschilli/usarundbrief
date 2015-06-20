@@ -266,17 +266,16 @@ actually given up on battling it. That's why Americans get nervous
 immediately when they eye chicken products not cooked to the point
 where no live organism could potentially have survived.
 
-TODO
+If they find even a tiny bit of chicken meat that's slightly undercooked,
+American consumers switch immediately to Defcon 5 and throw it all out.
+Supermarkets in the U.S. sell eggs off refrigerated displays, whereas
+in Germany they're they're sitting on regular shelves. Fried eggs 
+are often ordered "over easy", with the yoke already semi solid. Real
+sunny side up eggs are often eyed with suspicion and only the
+very brave consume dishes requiring raw eggs, like the Italian dessert 
+"Tiramisu".
 
-Zeigt sich nur ein Fitzelchen Fleisch
-an einem Brathähnchen, das nicht ganz durchgebraten ist, schalten die
-Verbraucher sofort auf Defcon 5 und werfen alles weg. 
-Supermärkte in Amerika verkaufen Eier aus dem Kühlregal, während sie in
-Deutschland auf normalen Regalen liegen.
-Spiegeleier isst der 
-Amerikaner gern "over-easy", mit bereits gestocktem Eigelb. Echte Spiegeleier
-("sunny side up") rufen Skepsis hervor und Speisen wie das italienische
-Dessert Tiramisu, das rohe Eier verlangt, essen nur extrem Mutige.
+TODO
 
 <pic images/eggs-trader-joes.ps Dieses Bio-Zwölferpack kostet nur drei Dollar, schmeckt aber nach Hühnerstall.>
 
