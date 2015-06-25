@@ -303,16 +303,17 @@ Bunny had nothing to do with it.
 
 <pic images/rainbow-groceries-eggs.ps The Rainbow Groceries market sells even better eggs from even happier hens at 10 Dollars a dozen.>
 
-TODO
+Speaking of "Rainbow Groceries": Recently, I've found equally expensive
+eggs there. The dozen went for $9.75 and I thought, life is short, let's
+do it! They tasted really good. Also, it's a good idea to support 
+Rainbow Groceries. Apparently, the rampant commercial success of the 
+Whole Foods chain is eating into their revenue, and I'd rather see
+them survive here in the city until and beyond the day I retire. They're 
+the real deal, on their parking lot you see authentic hippies still
+driving up in their 30-year-old Volvos, while at Whole Foods there's always 
+the same lame Google nerds and their Yoga girls.
 
-Beim eben erwähnten Hippiesupermarkt "Rainbow Groceries" fand ich neulich sogar
-noch teurere Eier. Für schlappe $9.75 stand das Zwölferpack im Regal und ich
-dachte mir, hau ich mal voll auf die Sahne: Schmeckten sehr lecker! Außerdem
-muss man Rainbow Groceries unterstützen, denen macht die explosionsartige
-Ausbreitung von Whole Foods offensichtlich zu schaffen und ich hätte gerne,
-dass der Laden auch noch da ist, wenn ich hier eines Tages in Rente gehe.
-Dort fahren nämlich noch richtige Althippies im 30 Jahre alten Volvo vor,
-während bei Whole Foods nur Google-Nerds und Yoga-Girls abhängen.
+TODO
 
 @Z: Top-Produkt: Kofferwaage
 
