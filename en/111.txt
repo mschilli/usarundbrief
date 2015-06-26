@@ -313,25 +313,24 @@ the real deal, on their parking lot you see authentic hippies still
 driving up in their 30-year-old Volvos, while at Whole Foods there's always 
 the same lame Google nerds and their Yoga girls.
 
-TODO
+@Z: Top Product: Luggage Scale
 
-@Z: Top-Produkt: Kofferwaage
-
-<pic images/luggage-scale.ps (#1) Die handliche Gepäckwaage mit Koffergurt.>
+<pic images/luggage-scale.ps (#1) Clever luggage scale with suitcase-hoisting belt.>
 
 <em>Michael</em>
-In dem nie endenden Bestreben, den Kunden das Geld möglichst hinterrücks aus
-der Tasche zu ziehen, verlangen heute praktisch alle Fluggesellschaften 
-(außer Southwest) extra
-Gebühren für's Gepäck, meist so $20 pro einfache Strecke. 
-Und wehe wenn der Koffer schwerer als 23kg (oder
-50 amerikanische Pfund) 
-ist, dann wird's richtig teuer! Und manche Anbieter wie Lufthansa
-prüfen sogar nach, ob das Handgepäck nicht schwerer als 8kg ist!
-Daheim kann man Koffer 
-auf der Personenwaage austarieren, am besten mit dem bekannten Trick, sich
-zuerst mit und danach ohne Koffer auf die Waage zu stellen, und die
-Differenz zu errechnen.
+You might have noticed that airlines nowadays seem to keep inventing
+new sketchy schemes to get their hands on your hard-earned dollars.
+Most are charging an extra $20 for each piece of checked in 
+luggage one-way now, with the 
+notable exception of Southwest Airlines. If you have to pay, make sure your
+bags never clock in at more than 50 pounds (23 kg), because it
+gets really expensive otherwise! Some airlines, like Lufhansa, even 
+weigh your carry-on luggage to make sure it's not over 17 pounds (8kg).
+At home, there's an easy trick to make sure your luggage doesn't 
+exceed the limits by stepping onto the bathroom scale with your 
+luggage first, then without, and then calculate the difference. 
+
+TODO
 
 Aber vor der Heimreise im Hotel hat man meist keine Waage, deswegen
 führen wir immer die handliche digitale Kofferwaage aus 
