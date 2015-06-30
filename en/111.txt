@@ -357,36 +357,39 @@ using business travel miles your company paid for on your private travels,
 it's a shame that this doesn't count as taxable income! Where's Obama
 for useful initiatives when you need him?
 
+@Z: Netflix Binge Watching 
+
+<pic images/netflix-banner.ps Many people use their Netflix subscription to watch endlessly.>
+
+<em>Angelika</em> Netflix (<RBLINK>20101219#3</RBLINK>) has expanded into
+the German market recently, and we're curious how well they'll fare over
+there. Michael has his doubts whether catering to German consumers will 
+be profitable, but we'll see about that. Here in the U.S., watching
+Netflix is as common as sending email or make a call on a cell phone. 
+If you ask your colleagues about what they did last weekend, there's
+a good chance they'll say "Watching Netflix".
+
+It might seem like Netflix has been around forever, and the California 
+company has existed since 1997, but its streaming service only came
+online in 2007. They've radically changed the TV habits in the U.S., 
+and since they often put entire seasons of popular shows online, 
+many people watch them all in one long marathon session
+(aka "binge watching"), because
+they're all included in the monthly $7.99 flat fee.
+
+<pic images/netflix-overview.ps The Netflix subscription service includes complete seasons of popular TV shows.>
+
+I've even experienced this myself a couple of times. After watching the
+first episode of a season, sometimes you just want to know what's coming
+next, and keep watching, simply because it's already available and
+there's no need to wait till next week for the next episode to air.
+Rumor has it that Netflix is working on aquiring old and new episodes of the
+famous German TV show "Tatort", but has not been successful yet at doing so. 
+Should they complete this transaction one day, however, I'd have to
+take several years off of work, as I'm a big fan of the show and wouldn't
+stop until I had watched all of them.
+
 TODO
-
-@Z: Marathon-Fernsehen mit Netflix
-
-<pic images/netflix-banner.ps Mit dem Flatrate-Netflix-Abo schauen manche Leute fern bis zum umfallen.>
-
-<em>Angelika</em> Netflix (<RBLINK>20101219#3</RBLINK>) gibt es ja mittlerweile
-auch in Deutschland und wir sind schon gespannt, ob das Streamen über Netflix
-genauso einschlägt wie in den USA. Michael behauptet ja nein, aber es bleibt
-abzuwarten. Hier in den USA ist Netflix mittlerweile so selbstverständlich wie
-E-Mails oder das Telefonieren mit dem Handy. Fragt man Kollegen, was sie am
-Wochenende gemacht haben erhält man häufig die Antwort: "Netflix geschaut." 
-
-Keiner kann sich mehr so recht daran erinnern, dass Netflix noch gar nicht so
-alt ist. Schließlich gibt es die kalifornische Firma erst seit 1997 und das
-Streaming von Videos übers Internet erst seit 2007. Auf jeden Fall hat sich das
-Fernsehverhalten durch Dienste wie Netflix komplett verändert. Da Netflix
-häufig alle Folgen einer Staffel zur Verfügung stellt, und in der
-monatlichen Flatrate von $7.99 alles enthalten ist, kommt es zum
-sogenannten Marathongucken (in den USA "Binge Watching" genannt). 
-
-<pic images/netflix-overview.ps Netflix hat komplette Staffeln beliebter Serien zum Flatrate-Tarif.>
-
-Ich habe das selber schon erlebt, dass man zaghaft mit einer Folge anfängt und
-einfach nicht mehr aufhören kann zu schauen, denn man muss eben nicht bis zur
-nächsten Woche warten, bis die nächste Folge kommt. Gerüchteweißer arbeitet
-Netflix in Deutschland ja daran, alle alten und neueren Tatortfolgen in ihrem
-Program anzubieten, ist aber bis dato gescheitert. Dann müsste ich mir
-allerdings mehrere Jahre Urlaub nehmen, denn als eingefleischter Tatortfan
-wäre ich nicht mehr vom Fernseher wegzukriegen.
 
 @Z: Amerikanische Prinzipien: Fünfe grade sein lassen
 
