@@ -389,27 +389,25 @@ Should they complete this transaction one day, however, I'd have to
 take several years off of work, as I'm a big fan of the show and wouldn't
 stop until I had watched all of them.
 
-TODO
+@Z: American Lifestyle: Give Me a Break
 
-@Z: Amerikanische Prinzipien: Fünfe grade sein lassen
-
-<pic images/no-dogs-allowed.ps In Restaurants und Lebensmittelmärkten sind in Kalifornien keine Hunde zugelassen.>
+<pic images/no-dogs-allowed.ps California law prohibits dogs in restaurants und grocery stores.>
 
 <em>Michael</em>
-Immer wenn von einem Deutschlandurlaub wieder zurück nach San 
-Francisco komme, fallen mir bestimmte Prinzipien auf, die der Amerikaner
-kennt und der Deutsche nicht. In der neuen Serie "Amerikanische Prinzipien"
-gehe ich das Thema jetzt mal an.
+Every time when I return to the U.S. from a short trip to Germany, I realize 
+there's a lot of subtle cultural differences between the two countries. In
+this new series, I'm going to take a closer look at them.
 
-"Give me a break" sagt der Amerikaner, wenn sich alles staut, weil er
-mal wieder mit eingeschaltetem Warnblinker in zweiter Reihe parken muss.
-Und wer im Stau steckt, denkt sich, das arme Hascherl muss sicher
-in zweiter Reihe parken, weil es keinen Parkplatz gefunden hat, und um die
-Ecke parken und 30 Sekunden zu Fuß zu gehen wär ja wirklich eine Zumutung, 
-da lass ich gerne Fünfe grade sein! 
-Wer einen Parkplatz sucht, schleicht mit 20km/h herum wo 50km/h erlaubt sind, 
-die nachfolgenden Fahrer zuckeln in Karawanenformation 
-ohne zu murren hinterher.
+"Give me a break" is what Americans say when they're double parked with
+their emergency lights blinking in a narrow road and traffic starts to
+jam behind them. And the drivers stuck in traffic all agree that the poor
+chap blocking the road must be doing so because he wasn't able to find
+parking and it'd be unreasonable to park around the corner and walk 
+for 30 seconds. Let's give that guy a break! Or when someone is looking for
+a parking spot, it's okay to do so at 5mph in a 25mph zone, with caravans
+of drivers following them without getting upset!
+
+TODO
 
 Auch ist es in ganz Kalifornien gesetzlich verboten, Hunde mit in 
 Geschäfte mitzunehmen, in denen Lebensmittel verkauft werden,
