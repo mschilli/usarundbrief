@@ -475,27 +475,31 @@ wanted to call a different city, while we could simply dial the local
 
 <pic images/ha-415.ps Even bikers proudly display San Francisco's "415" area code. Foto: flickr[Todd Lappin|telstar/4271127530]>
 
+There's a funny
+<LINK>http://en.wikipedia.org/wiki/The_Maid_%28Seinfeld%29|Seinfeld episode</LINK>
+where Elaine needs to switch phone numbers in New York City and
+gets a new area code assigned. It's a devastating blow to the New York City
+native, when her acquaintances start snubbing her because 
+they don't recognize she's actually living in Manhattan!
+
+@Z: Roaring Motocycles
+
+<pic images/motobike-cops.ps Police motocycles are pretty noisy as well.>
+
+<em>Michael</em>Aside from getting your car's smog test done, 
+in the U.S. it's not required to have your motor vehicle inspected by a 
+certified testing center every two years, like in Germany. You can imagine
+that for this reason it's not uncommon to see clunker cars swooshing down the freeways
+that make you wonder how long they're still going to last before falling apart.
+It's quite common to see cars with only one headlight at night, or with two
+headlights that point in opposite directions, one straight up in the sky, or 
+bouncing off the rearview mirror of the car in front of them, blinding the driver.
+And while there is regulation on how many decibels of noise a motor vehicle can
+produce, no official authority ever enforces or even measures that value.
+Unsurprisingly, many roaring cars and sputtering motocycles are roaming 
+the streets.
+
 TODO
-
-Es gibt übrigens eine lustige <LINK>http://en.wikipedia.org/wiki/The_Maid_%28Seinfeld%29|Seinfeld-Episode</LINK>, in der Elaine eine neue
-Telefonnummer in New York City braucht, eine neue Vorwahl 
-zugeteilt bekommt, und daran völlig verzweifelt, weil niemand mehr erkennt, 
-dass sie tatsächlich noch in Manhattan wohnt.
-
-@Z: Knatternde Motorräder
-
-<pic images/motobike-cops.ps Polizisten fahren selber die schlimmsten Knattermotorräder.>
-
-<em>Michael</em> Bekanntlich kennt der Amerikaner keinen TÜV, was man unter
-anderem daran sieht, dass auch noch die letzten Schrottmühlen auf dem
-Freeway herumbrausen. Oft funktioniert nur ein Frontscheinwerfer, oder
-beide strahlen das Licht in unterschiedliche
-Richtungen ab, gerne auch blendend nach oben in den Rückspiegel
-des Vordermanns gerichtet.
-Zwar schreiben die staatlichen Automobilämter die maximal zugelassenen
-Dezibelzahlen bei der Lärmentfaltung von Kraftfahrzeugen vor, doch kein
-staatliches Organ prüft diese je nach. Röhrende Autos und knatternde
-Motorräder zuhauf sind die Folge.
 
 Die Polizei hat nicht mal Geräuschmessgeräte auf ihren Streifenfahrten dabei
 und macht normalerweise absolut nichts, 
