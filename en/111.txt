@@ -486,28 +486,28 @@ they don't recognize she's actually living in Manhattan!
 
 <pic images/motobike-cops.ps Police motocycles are pretty noisy as well.>
 
-<em>Michael</em>Aside from getting your car's smog test done, 
-in the U.S. it's not required to have your motor vehicle inspected by a 
-certified testing center every two years, like in Germany. You can imagine
-that for this reason it's not uncommon to see clunker cars swooshing down the freeways
-that make you wonder how long they're still going to last before falling apart.
-It's quite common to see cars with only one headlight at night, or with two
-headlights that point in opposite directions, one straight up in the sky, or 
-bouncing off the rearview mirror of the car in front of them, blinding the driver.
-And while there is regulation on how many decibels of noise a motor vehicle can
-produce, no official authority ever enforces or even measures that value.
-Unsurprisingly, many roaring cars and sputtering motocycles are roaming 
-the streets.
+<em>Michael</em>Aside from getting your car's smog test done, in the U.S. it's
+not required to have your motor vehicle inspected by a certified testing center
+every two years, like in Germany. You can imagine that for this reason it's not
+uncommon to see clunker cars swooshing down the freeways that make you wonder
+how long they're still going to last before falling apart.  It's quite common
+to see cars with only one headlight at night, or with two headlights that point
+in opposite directions, one straight up in the sky, or bouncing off the
+rearview mirror of the car in front of them, blinding the driver.  And while
+there is regulation on how many decibels of noise a motor vehicle can produce,
+no official authority ever enforces or even measures that value.
+Unsurprisingly, many roaring cars and sputtering motocycles are roaming the
+streets.
+
+Traffic cops don't even carry devices to measure the noise level.
+They blissfully ignore the hooligans who think it's a great idea 
+to start their Harley bozo bikes at 2 a.m. in the morning when the 
+bars are closing and can then be heard for miles 
+sputtering through the residential neighborhoods
+to the sound of a battery of car alarms going off. After all, it
+could be one of their colleagues having the time of their life!
 
 TODO
-
-Die Polizei hat nicht mal Geräuschmessgeräte auf ihren Streifenfahrten dabei
-und macht normalerweise absolut nichts, 
-wenn ein unterbelichteter Halbstarker sich nach dem Kneipenbesuch
-nachts um zwei Uhr auf sein Harley-Holzkopfmotorrad schwingt und lautstark 
-durch die Wohnviertel knattert, auf dass gleich reihenweise die Alarmanlagen
-in den geparkten Autos losgehen. Nicht zuletzt könnte es sich ja um
-einen Kollegen im Feierabendrausch handeln!
 
 Auch die Fahrer sogenannter Muscle-Cars lassen ihre Motoren gerne röhren,
 dabei klingen die hubraumstarken Wuchtbrummen amerikanischer Bauart bei 
