@@ -521,18 +521,17 @@ violation, which is expensive!
 
 <pic images/ggt-donuts.ps Youtube video showing hooligans doing donuts on Golden Gate bridge.>
 
+California traffic law lays out in section 23103 of the 
+Vehicle Code that drivers who endanger others, regardless if
+on the freeway or within the confines of a parking structure, will
+face a "reckless driving" charge. On top of that, it explicitly prohibits
+street racing on the freeways in section 23109.
+If law enforcement finds out about an illegal speed contest and the 
+district attorney pushes for prosecution, then the drivers and even
+mere bystanders face charges of up to several days in county jail!
+
 TODO
 
-Die Straßenverkehrsordnung Kaliforniens, der
-"California Vehicle Code", schreibt nämlich in Paragraph 23103 vor,
-dass sich derjenige, der 
-andere durch seine Fahrweise gefährdet, egal ob auf dem Highway 
-oder auf einem Parkplatz, sich des Strafbestands des "Reckless Driving"
-schuldig macht. Weiter schreibt Paragraph 23109 vor, dass man auf 
-Highways keine Wettrennen fahren darf ("Speed Contest"). Falls die
-Polizei dahinterkommt und der Staatsanwalt den Fall vor dem Verkehrsrichter
-durchboxt, wandern der Fahrer, andere Teilnehmer oder sogar bloße Rennhelfer 
-teilweise sogar für einige Tage ins Gefängnis des Landkreises!
 Allerdings scheint sich kaum jemand um die Vorschriften zu scheren, wie das 
 <LINK>https://www.youtube.com/watch?v=ksaT-qrAmOk|Youtube-Video eines Donut-drehenden Camaro auf der Golden Gate Bridge|Rauchende Reifen auf der Golden Gate Bridge</LINK> zeigt. Organisierte Straßenrennen mit aufgemotzten
 Autos sind gang und gäbe in Kalifornien. Wir fahren übrigens zwei
