@@ -423,7 +423,7 @@ Witwe/Witwer mit abhängigem Kind (kann zwei Jahre lang nach dem Todesfall des
 Ehepartners als Steuerklasse gewählt werden). Die verschiedenen Klassen
 bestimmen, wie hoch die Freibeträge sind und was abgesetzt werden darf.
 
-<pic images/1040-1.ps Die erste Seite Formulars 1040 für Familie Mustermann.>
+<pic images/1040-1.ps Die erste Seite des Formulars 1040 für Familie Mustermann.>
 
 Aber um für euch alles etwas anschaulicher zu machen, hilft vielleicht ein
 konkretes Beispiel. Holger und Monika Mustermann sind zwei Deutsche, die die
