@@ -69,17 +69,16 @@ b) 21
 
 c) 26
  
+<sp>
+<em>5. Health insurers cannot exclude pre-existing conditions anymore. True or false?>
+
+a) True
+
+b) False
+
+<sp>
+
 TODO
-
-<sp>
-<em>5. Versicherungen können Vorerkrankungen (sogenannte "pre-existing
-conditions") nicht mehr ausschließen</em>
-
-a) Richtig
-
-b) Falsch
-
-<sp>
 
 <em>6. Welche Leistungen müssen Krankenversicherungen von nun an
 standardmäßig in ihrem Katalog anbieten und mindestens 60% der Kosten
