@@ -43,7 +43,7 @@ c) Healthy America and Affordable Care Act
 
 <sp>
 
-<em>2. How high is the penalty assessed for an individual not covered by health insurance by 2014?</em>
+<em>2. How high is the penalty assessed for an individual not covered by health insurance starting in 2014?</em>
 
 a) $250 in 2014; $950 in 2015, $3250 in 2016
 
@@ -53,17 +53,15 @@ c) $1000 in 2014; $2500 in 2015, $3250 in 2016
 
 <sp>
 
-<em>3. Muss sich durch die Gesetzesänderung jeder neu in eine
-Krankenkasse einschreiben?</em>
+<em>3. Does the new health care legislation require everyone to enroll in a new health plan?</em>
 
-a) Richtig
+a) Correct
 
-b) Falsch
+b) Incorrect
 
 <sp>
 
-<em>4. Kinder können von jetzt an bis zu welchem Lebensjahr bei den
-Eltern mitversichert sein?</em>
+<em>4. Up to what age can children be insured under their parents' health plan?</em>
 
 a) 18
 
@@ -71,6 +69,8 @@ b) 21
 
 c) 26
  
+TODO
+
 <sp>
 <em>5. Versicherungen können Vorerkrankungen (sogenannte "pre-existing
 conditions") nicht mehr ausschließen</em>
