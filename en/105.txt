@@ -78,33 +78,32 @@ b) False
 
 <sp>
 
-TODO
+<em>6. Which medical services are health insurers required to offer from
+now on and cover at least 60% of the cost?
 
-<em>6. Welche Leistungen müssen Krankenversicherungen von nun an
-standardmäßig in ihrem Katalog anbieten und mindestens 60% der Kosten
-tragen?</em>
+a) Doctors visits and lab work
 
-a) Arzt-und Laborbesuche
+b) Hospitalization
 
-b) Krankenhausaufenthalte
+c) Prescription medicine
 
-c) Rezeptplichtige Medikamente
+d) Pregnancy and child birth
 
-d) Schwangerschaft und Geburt
+e) Dentists visits
 
-e) Zahnarztbesuche
+f) Approved preventive care
 
-f) Anerkannte Vorsorgeuntersuchungen
+g) Abortions
 
-g) Abtreibungen
+h) Vision care
 
-h) Brillen
+i) Regenerative measures like physical therapy and logopaedia
 
-i) Rehabilitation wie Krankengymnastik, Logopädie
-
-j) Behandlung von psychischen sowie Suchterkrankungen
+j) Treatment of mental health issues and addiction
  
 <sp>
+
+TODO
 
 <em>7. Zuzahlungen seitens des Versicherten (nicht eingeschlossen sind dabei die
 Versicherungsprämien) dürfen pro Jahr nicht höher sein als:</em>
