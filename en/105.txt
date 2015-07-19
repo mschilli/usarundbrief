@@ -70,7 +70,7 @@ b) 21
 c) 26
  
 <sp>
-<em>5. Health insurers cannot exclude pre-existing conditions anymore. True or false?
+<em>5. Health insurers cannot exclude pre-existing conditions anymore. True or false?</em>
 
 a) True
 
@@ -79,7 +79,7 @@ b) False
 <sp>
 
 <em>6. Which medical services are health insurers required to offer from
-now on and cover at least 60% of the cost?
+now on and cover at least 60% of the cost?</em>
 
 a) Doctors visits and lab work
 
@@ -125,7 +125,7 @@ d) American citizens
 
 <sp>
 
-<em>9. Insurance providers pay up to a maximum yearly amount of:>
+<em>9. Insurance providers pay up to a maximum yearly amount of:</em>
 
 a) 1 Million Dollars per year
 
