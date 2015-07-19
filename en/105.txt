@@ -103,46 +103,39 @@ j) Treatment of mental health issues and addiction
  
 <sp>
 
-TODO
+<em>7. Out of pocket expenses (excluding insurance premiumms) per year must not exceed:</em>
 
-<em>7. Zuzahlungen seitens des Versicherten (nicht eingeschlossen sind dabei die
-Versicherungsprämien) dürfen pro Jahr nicht höher sein als:</em>
+a) $1,250 for individuals; $3,500 for families
 
-a) $1250 für Einzelpersonen; $3500 für Familien
+b) $500 for individuals; $2,000 for families
 
-b) $500 für Einzelpersonen; $2000 für Familien
-
-c) $6350 für Einzelpersonen; $12700 für Familien
+c) $6,350 for individuals; $12,700 for families
 
 <sp>
 
-<em>8. Wer kann sich nach dem neuen Gesetz krankenversichern?</em>
+<em>8. With the new law, who can get health insurance?</em>
 
-a) Amerikanische Staatsbürger und Greencardbesitzer
+a) American citizens and Green Card holders
 
-b) Amerikanische Staatsbürger, Greencardbesitzer, legale Einwanderer
-mit Visa, illegale Einwanderer
+b) American citizens, Green Card holders, legal immigrants on a visa, illegal immigrants
 
-c) Amerikanische Staatsbürger, Greencardbesitzer, legale Einwanderer
-mit Visa
+c) American citizens, Green Card holders, legal immigrants on a visa
 
-d) Amerikanische Staatsbürger
+d) American citizens
 
 <sp>
 
-<em>9. Jede Versicherung muss nur maximal bis zu der folgenden Summe die
-Kosten für einen Patienten jährlich tragen:</em>
+<em>9. Insurance providers pay up to a maximum yearly amount of:>
 
-a) 1 Million Dollar pro Jahr
+a) 1 Million Dollars per year
 
-b) 500 000 Dollar pro Jahr
+b) 500,000 Dollars per year
 
-c) Solche Begrenzungen sind nicht mehr erlaubt
+c) Limiting coverage is not longer legal
 
 <sp>
 
-<em>10. Krankenkasse müssen nach dem neuen Gesetz wieviel Prozent der Prämie
-für medizinische Leistungen verwenden?</em>
+<em>10. According to the new law, what's the percentage health insureres must allocate for medical services from the premiums?</em>
 
 a) 100%
 
@@ -152,7 +145,7 @@ c) 60%
 
 <sp> 
 
-Auflösung:
+Answers:
 
 <sp> 
 <sp> 
@@ -162,16 +155,32 @@ Auflösung:
 
 2b
 
-3b: Wer bereits eine Krankenversicherung zum Beispiel durch den Arbeitgeber
-hat, kann in dieser auch weiterhin versichert bleiben.
+3b: Individuals already covered by health insurance (e.g. because their
+employer provides one) can keep theirs.
 
 4c
 
 5a
 
-6a Ja 6b Ja 6c Ja 6d Ja 6e Nein nur für Kinder (es gibt meist separate
-Zahnarztversicherungen für Erwachsene) 6f Ja 6g Nein 6h Nein, nur für
-Kinder 6i Ja 6j Ja
+6a Yes 
+
+6b Yes 
+
+6c Yes 
+
+6d Yes 
+
+6e No, only for children (usually adults have separate dental insurance)
+
+6f yes 
+
+6g No 
+
+6h No, only for children
+
+6i Yes
+
+6j Yes
 
 7c
 
