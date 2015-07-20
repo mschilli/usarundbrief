@@ -4,16 +4,16 @@ San Francisco, 11-03-2012
 
 <pic images/election-button.ps Sticker for the presidential elections in 2012 Photo: flickr[League of Women Voters of California|lwvc/6306132607/]>
 
-TODO
-
 <em>Angelika</em>
-Am 6. November ist es wieder soweit. Das Land wählt einen neuen
-Präsidenten. Ihr wisst es längst: Zur Wahl stehen der Republikaner Mitt
-Romney und der amtierende Präsident und Demokrat Barack Obama. Seit Monaten
-verfolgen wir den Wahlkampf. Den Oktober prägten die Debatten zwischen den
-Kandidaten. Es gab insgesamt vier; drei zwischen Mitt Romney and Barack Obama
-und eine zwischen den beiden potentiellen Vizepräsidenten Joe Biden und Paul
-Ryan.
+Upcoming November 6th is the big day, when we'll have elections from which a
+new President will emerge. Undoubtedly, by now you've heard that this final leg of the 
+race is between the republican candidate Mitt Romney and the incumbent President,
+democrat Barack Obama. We've been following along the election campaigns for 
+months and months now. Highlights in October were the public debates, a total 
+of three between Mitt Romney and Barack Obama and another one between the 
+two potential future vice Presidents, Joe Biden und Paul Ryan.
+
+TODO
 
 Die Debatten folgen einem vorher streng festgelegtem Format.  So
 beschäftigte sich die erste Debatte zwischen Obama und Romney mit
