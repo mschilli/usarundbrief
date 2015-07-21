@@ -16,7 +16,7 @@ angebrannte Grillwaren nachgerade.
 Mein Arbeitskollege Dave isst zum Beispiel
 zu Mittag oft ein Sandwich,
 dessen Toastscheiben er im Röster lässt, bis sie schwarz werden 
-(Abbildung #1). Meine belustigten Kommentare, dass er statt dessen
+(Abbildung (#1)). Meine belustigten Kommentare, dass er statt dessen
 gleich eine Zigarette rauchen könnte, weist er weit von sich und auf
 meine Frage, warum er seinen Toast anbrennt, antwortet er lachend: 
 "Because I like it that way!" ("Weil ich es so mag"). Er raucht
