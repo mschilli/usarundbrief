@@ -5,29 +5,28 @@ San Francisco, 11-03-2012
 <pic images/election-button.ps Sticker for the presidential elections in 2012 Photo: flickr[League of Women Voters of California|lwvc/6306132607/]>
 
 <em>Angelika</em>
-Upcoming November 6th is the big day, when we'll have elections from which a
-new President will emerge. Undoubtedly, by now you've heard that this final leg of the 
-race is between the republican candidate Mitt Romney and the incumbent President,
-democrat Barack Obama. We've been following along the election campaigns for 
-months and months now. Highlights in October were the public debates, a total 
-of three between Mitt Romney and Barack Obama and another one between the 
-two potential future vice Presidents, Joe Biden und Paul Ryan.
+Upcoming November 6th is the big day, when we'll have
+elections from which a new President will emerge. Undoubtedly, by now you've
+heard that this final leg of the race is between the republican candidate Mitt
+Romney and the incumbent President, democrat Barack Obama. We've been following
+along the election campaigns for months and months now. Highlights in October
+were the public debates, a total of three between Mitt Romney and Barack Obama
+and another one between the two potential future vice Presidents, Joe Biden und
+Paul Ryan.
+
+Televised debates follow a strict format. The first exchange between Obama and 
+Romney focused on domestic policy and happened at the University of Denver
+in Colorado, moderated by journalist Jim Lehrer of PBS, one of the last
+"public" TV stations. The debate went on for a total of six segments,
+each about 15 minutes long. Jim Lehrer openened each one with one of
+his questions, and each candidate had the opportunity to address it
+for a total of two minutes. All the potential topics, but not Lehrer's
+questions in particular, were published up front, so that both politicians
+could prepare their responses.
+
+<pic images/obama-bumper.ps Campaign bumper stickers seen on a parked car in San Francisco.>
 
 TODO
-
-Die Debatten folgen einem vorher streng festgelegtem Format.  So
-beschäftigte sich die erste Debatte zwischen Obama und Romney mit
-innenpolitischen Themen. Sie fand in Denver im Bundesstaat Colorado an der
-"University of Denver" statt. Es moderierte der Journalist Jim Lehrer von dem
-öffentlichen Fernsehsender PBS.  Die Debatte bestand aus sechs Segmenten,
-die jeweils ungefähr 15 Minuten dauerten. Jim Lehrer eröffnete jedes Segment
-mit einer von ihm kreierten Frage und dann durften beide Kandidaten 
-zunächst zwei Minuten lang antworten. 
-Alle Themen, allerdings nur die
-Themen und nicht die Fragen Lehrers, wurden vorher
-veröffentlicht, d.h. beide Politiker konnten sich auf die Themen vorbereiten.
-
-<pic images/obama-bumper.ps Wahlkampf-Aufkleber auf der Stoßstange eines Bürgers in San Francisco.>
 
 Die zweite Präsidentschaftsdebatte gab es im Bundestaat New York an der Hostra
 University in Hempstead und  sie folgte dem Modell einer Bürgerversammlung. 82
