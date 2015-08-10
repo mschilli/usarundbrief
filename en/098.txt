@@ -92,35 +92,32 @@ Romney threatens to roll back. But, just as a reminder, as green card holders,
 we're not eligible to vote, although we'd be allowed to make donations 
 benefiting political parties.
 
-TODO
+@Z: Super PACs
 
-@Z: Super-PACs
-
-<pic images/obama-superpac.ps Die Website des Obama-SuperPACs "Priorities USA Action">
+<pic images/obama-superpac.ps "Priorities USA Action" is Obama's Super PAC website>
 
 <em>Angelika</em>
-Seit Michaels Ausführungen im <RBLINK>20110624#3</RBLINK> wisst ihr,
-was ein PAC, also ein Political Action Committee ist. Bei
-den Wahlen in diesem Jahr ist dauernd von sogenannten "Super-PACs" die
-Rede. Was ist das nun?
+If you've read Michael's treatise on PACs (Political Action 
+Committees, <RBLINK>20110624#3</RBLINK>), you're probably wondering
+what these "Super PACs" are about that are all over the news these days.
+What's going on there?
 
-Hinter einem PAC verbirgt sich normalerweise ein Zusammenschluss von 
-Leuten, die durch Spenden und Spendenbeschaffung bestimmte Kandidaten 
-unterstützen, um auf Wahlen Einfluss zu nehmen. Das amerikanische
-Parteispendengesetz besagt aber, dass Einzelpersonen nur bis zu $2500 direkt an
-einen Kandidaten, und traditionelle PACs bis zu $5000 an ein den Kandidaten
-unterstüzendes Komitee spenden dürfen
-(<LINK>http://www.fec.gov/pages/brochures/contriblimits.shtml|US-Parteispendengesetz</LINK>).
+Usually, a PAC is a group of people pooling their donations as well as
+solicitating new donations to support a candidate in order to help change
+course in a political election. By law, political contributions by
+an individual are limited to $2500 per candidate. A traditonal PAC, on
+the other hand, may donate up to $5000 to a committee supporting a candidate
+(<LINK>http://www.fec.gov/pages/brochures/contriblimits.shtml|Political contribution limits</LINK>).
 
-Bis ins Jahr 2010 konnten
-Gruppen wie Firmen, Verbände und Gewerkschaften also nicht direkt und 
-unbegrenzt an Politiker und Parteien spenden. Eine Entscheidung des Supreme 
-Courts, also des obersten
-Gerichts der USA, bereitete dem jedoch ein Ende.
-Im Verfahren "Citizen United vs Federal Election Com\-mis\-sion" legten
-die Richter fest, dass Gruppen und Ver\-bände im Rahmen der politischen 
-Meinungsfreiheit unbegrenzte Ausgaben für politische Zwecke ausgeben
-dürfen.
+For this reason, until the year 2010, no interest group run by companies,
+associations or unions could donate unlimited amounts to politicians or
+political parties. A recent decision by the United States Supreme Court, 
+however, put an end to this. In the case 
+"Citizen United vs. Federal Election Commission", the judges ruled that 
+according to the constitutional right of freedom of expression, groups
+and associations may donate unlimited amounts to political causes.
+
+TODO
 
 Ein "Dokumentarfilm" über Hillary Clinton im letzten Wahlkampf (2008) brachte
 das Ganze ins Rollen. Die konservative Gruppe "United Citizen" produzierte und
