@@ -464,6 +464,8 @@ ihr spart eh das Benzin zum nächsten Vorort-Baumarkt.
 
 @Z: Thank you - Uh huh
 
+<pic images/uh-huh.ps "Uh-Huh", ein erstaunlich vielseitiger Laut.>
+
 <em>Michael</em>
 Was erwidert man auf ein "Thank you"? Bereits am ersten Tag im Englischkurs
 lernt man in Deutschland, dass "Bitte" in diesem Fall nicht "Please" sondern
