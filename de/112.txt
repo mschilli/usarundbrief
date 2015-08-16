@@ -318,9 +318,9 @@ wenig Wasser brauchen.
 
 <HTMLONLY>
 <pic images/drought-carwash.ps Die Autowaschanlage sperrt wegen Wasser\-mangels mittwochs zu.>
+</HTMLONLY>
 
 <pic images/drought-carwash-ok.ps Ein Bild der Autowaschanlage aus glücklicheren Tagen.>
-</HTMLONLY>
 
 Manch ein Hobbygärtner wässert auch mit wieder aufbereitetem Abwasser.
 Einige städtische Aufbereitungsanlagen geben dieses trübe nicht zum 
@@ -461,6 +461,35 @@ unterstützt diese Läden, wenn's eines Tages nur noch "Home Depot" und "Lowes"
 gibt, werdet ihr heulen und mit den Zähnen knirschen, also drückt auch
 mal ein Auge zu, zahlt ein paar Dollar mehr für ein größeres Trumm, 
 ihr spart eh das Benzin zum nächsten Vorort-Baumarkt.
+
+@Z: Thank you - Uh huh
+
+<em>Michael</em>
+Was erwidert man auf ein "Thank you"? Bereits am ersten Tag im Englischkurs
+lernt man in Deutschland, dass "Bitte" in diesem Fall nicht "Please" sondern
+"You're welcome" heißt. "Sure" kann man ebenfalls sagen oder "no problem".
+
+Aber heute lernt ihr von uns, den ausge\-fuchs\-testen unter den 
+einge\-fleisch\-ten Englisch-Experten auf dem amerika\-nischen Kontinent, 
+was der Amerikaner in diesem Zusammen\-hang sagt, wenn er leger aber 
+dennoch freundlich rüber\-kommen möchte, nämlich "Uh huh". Das hört man
+oft, wenn sich jemand wegen trivialer Leistungen wie dem Aufhalten
+einer Eingangstür mit "Thank you" bedankt. Ein "You're Welcome" wäre in
+diesem Zusammenhang fast schon affig.
+Das "Uh-huh" spricht man
+im Amerikanischen fast wie "äh-hä" aus, aber wenn ihr's ganz genau wissen
+wollt, befindet sich der Laut phonetisch etwa zwischen "a" und "o". Hebt man
+die Stimme gegen Ende an, ist das freundlicher, fällt sie hingegen ab, 
+kann auch etwas Sarkasmus reinspielen.
+Manche äußern auch mit geschlossenem Mund "m-hm", das ist ebenfalls freundlich
+gemeint.
+
+Der Laut "Huh?" allein hingegen meint ein eher respekloses "Hä?", wenn
+jemand so zusammenhangslos erzählt, dass der Zuhörer nicht folgen kann. Ohne
+Fragezeigen hingegen drückt "Huh" mildes Erstaunen aus, nach dem Motto "Wer
+hätte das gedacht?".  Streng formell ist übrigens keine dieser Floskeln, wer
+einem knorkigen Anzugträger gegensitzt, sollte lieber die althergebrachten
+Sätze aus dem Englischkurs verwenden, um keinen Rüffel einzufangen.
 
 @Z: Michael wechselt von Yahoo zu Apple
 
