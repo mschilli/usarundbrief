@@ -464,7 +464,9 @@ ihr spart eh das Benzin zum nächsten Vorort-Baumarkt.
 
 @Z: Thank you - Uh huh
 
+<HTMLONLY>
 <pic images/uh-huh.ps "Uh-Huh", ein erstaunlich vielseitiger Laut.>
+</HTMLONLY>
 
 <em>Michael</em>
 Was erwidert man auf ein "Thank you"? Bereits am ersten Tag im Englischkurs
