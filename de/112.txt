@@ -290,15 +290,55 @@ vielleicht auch machen, falls ich nicht eh schon alles in die Firma schicken wü
 
 <pic images/drought-showers.ps Der Park-Service hat die Duschen am Strand wegen der Dürre abgestellt.>
 
+<em>Angelika</em>
+Dass Kalifornien seit vier Jahren mit einer schlimmen Trockenperiode kämpft,
+weil es im Winter nicht genug regnet oder schneit, ist welweit bekannt.
+Mittlerwile spüren wir das auch immer mehr im Alltag. Durch die Trockenheit
+brennt es zur Zeit überall im Bundesstaat (17 aktive Brände lodern momentan
+in Kalifornien) und unsere Luft dieses Wochenende roch nicht nur nach Rauch,
+sondern es war auch extrem diesig. 
+
+<pic images/brown-new-green.ps "Brown is the new Green" ist das Motto auf Kaliforniens Rasenflächen.>
+
+San Francisco hat zwar noch keine
+Zwangsmaßnahmen zum Wassersparen ergriffen, aber auf Schritt und Tritt werden
+wir zum Sparen angehalten. Der neueste Slogan ist “Brown is the new Green!”
+(Braun ist das neue Grün!), denn die Stadt bewässert Grünflächen nicht mehr
+und fordert den Bürger auf das Gleiche zu tun. 
+
+<pic images/drought-restaurant.ps Dieses Restaurant schenkt nur noch auf Verlangen Wasser aus.>
+
+In vielen Restaurants bekommt
+man das obligatorische Wasserglas nur noch auf Nachfrage auf den Tisch
+gestellt. Ich hoffe, dass sich dies allgemein durchsetzen wird, Dürre hin oder
+her. Die öffentlichen Strandduschen an allen kalifornischen Stränden wurden
+abgestellt, sodass der Strandgänger jetzt mit sandigen Füssen heimgehen muss.
+Viele Hobbygärtner bestücken ihre Gärten neuerdings auch mit Pflanzen, die
+wenig Wasser brauchen.
+
+<HTMLONLY>
+<pic images/drought-carwash.ps Die Autowaschanlage sperrt wegen Wasser\-mangels mittwochs zu.>
+
+<pic images/drought-carwash-ok.ps Ein Bild der Autowaschanlage aus glücklicheren Tagen.>
+</HTMLONLY>
+
+Manch ein Hobbygärtner wässert auch mit wieder aufbereitetem Abwasser.
+Einige städtische Aufbereitungsanlagen geben dieses trübe nicht zum 
+Trinken geeignete Produkt kostenlos ab und die Leute holen es in großen
+Kanistern mit dem Auto ab. Das Programm ist mittlerweile so beliebt, 
+dass nur noch Einwohner des jeweiligen Bezirks das Wasser bekommen. 
+
 <pic images/drought-free-waste-water-1.ps Wiederaufbearbeitetes Wasser zum Rasenwässern ...>
 
 <pic images/drought-free-waste-water-2.ps ... ist umsonst und wird in Tanks herumgekarrt.>
 
-<pic images/drought-restaurant.ps Dieses Restaurant schenkt nur noch auf Verlangen Wasser aus.>
-
-<pic images/drought-carwash.ps Die Autowaschanlage sperrt wegen Wasser\-mangels mittwochs zu.>
-
-<pic images/drought-carwash-ok.ps Ein Bild aus glücklicheren Tagen.>
+Es fasziniert mich dabei immer wieder, wie Leute plötzlich ihr Verhalten ändern
+und zu Umweltschützern mutieren, wenn sie müssen. Auch unsere Autowaschanlage
+schließt jezt immer mittwochs, um Wasser zu sparen. Einige Leute sind zu so
+eifrigen Wassersparern geworden, dass dies wieder zu neuen Absurditäten führt,
+zum Beispiel das die Wasserwerke ihre Preise erhöhen (einige bis zu 30%), weil
+sie zu wenig Wasser verkaufen durch die Einsparungen. Nun hoffen alle darauf,
+dass der angekündigte El-Nino-Winter endlich den ersehnten Regen bringen wird.
 
 <pic images/la-times-selleck.ps Skandal: Schauspieler Tom Selleck hat angeblich Wasser zum Rasensprengen gestohlen.>
 
@@ -431,7 +471,7 @@ Jahren bei Yahoo musste ich mir überlegen, ob ich auf die goldene Uhr warten
 und dann in Rente gehen sollte, aber das war mir mit knapp fünfunddreißig
 (hihi) ja noch zu früh. Also rappelte ich mich noch einmal auf, um eine neue,
 atemberaubende Karriere zu starten, ja, um eine mächtige Dulle ins Universum zu
-hauen, die niemand mehr ausbeulen kann! Ich wurde mit dem famosen
+hauen! Ich wurde mit dem famosen
 Telefon- und Laptophersteller handelseinig, und fahre seitdem in der Frühe
 nicht mehr jeden Tag nach Sunnyvale, sondern mit dem Werksbus in eine andere
 Stadt im Silicon Valley, deren Name so ähnlich wie Kupfertino klingt.
