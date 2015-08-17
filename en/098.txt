@@ -117,17 +117,19 @@ however, put an end to this. In the case
 according to the constitutional right of freedom of expression, groups
 and associations may donate unlimited amounts to political causes.
 
-TODO
+It all started with a "documentary" featuring Hillary Clinton during the
+last election campaign in 2008. The conservative organization
+"United Citizen" produced and financed the movie "Hillary -- The Movie",
+in which they presented the New York senator as a liberal political threat. 
+The movie
+was about to air shortly before the 2008 primaries, but then got pulled
+by officials, allegedly because it conflicted with the
+"McCain Feingold Act" of 2002 regulating contributions to political campaigns.
+Alas, United Citizen proceeded to the Supreme Court and won there, 
+with the majority of judges arguing that financing and distributing 
+a movie is a form of exercising one's freedom of speech rights.
 
-Ein "Dokumentarfilm" über Hillary Clinton im letzten Wahlkampf (2008) brachte
-das Ganze ins Rollen. Die konservative Gruppe "United Citizen" produzierte und
-finanzierte den Film "Hillary -- The Movie", der die Senatorin von New York
-sozusagen als liberale Bedrohung darstellte. Der Film sollte kurz vor den
-Vorwahlen im Jahr 2008 gezeigt werden, was dann aber von offizieller Seite
-verhindert wurde, da dies, so die Begründung,  gegen das Parteienspendengesetz
-("McCain -- Feingold Act") von 2002 verstieße. Aber United Citizen zog weiter
-zum Verfassungsgericht und gewann, denn die Mehrheit der Richter argumentierte, dass die Finanzierung und Verbreitung des Films unter das Recht auf 
-Meinungsfreiheit ("Feedom of Speech") falle. 
+TODO
 
 In einem weiteren Fall, in dem die Gruppierung SpeechNow.org gegen
 die staatliche Wahlkommission klagte,
