@@ -129,22 +129,20 @@ Alas, United Citizen proceeded to the Supreme Court and won there,
 with the majority of judges arguing that financing and distributing 
 a movie is a form of exercising one's freedom of speech rights.
 
+In another court case, "SpeechNow.org vs. Federal Election Commission",
+a federal appeals court ruled that PACs are allowed to 
+accept unlimited contributions by individuals, groups, or associations, 
+if they don't directly forward the proceeds to 
+candidates or political parties. As
+an additional requirement, PACs aren't allowed to align their campaigns
+with the candidates'. That's how the Super PACs came into existence.
+
+Funds donated to Super PACs usually go into producing 
+election campaign spots for their favorite candidates and publicizing 
+them across various media. In the ongoing election campaign, Super PACs
+mainly purchased air time on TV stations in the so-called "swing states".
+
 TODO
-
-In einem weiteren Fall, in dem die Gruppierung SpeechNow.org gegen
-die staatliche Wahlkommission klagte,
-legte die Berufungsinstanz eines Bundesstaatsgerichts weiter fest, dass 
-PACs dann unbegrenzt Spenden von Personen, Gruppen und
-Ver\-bänden annehmen dürfen, wenn sie die Gelder nicht direkt an die 
-Kan\-di\-daten,
-oder Parteien weiterleiten. Weiter dürfen sie ihre Kampagnen nicht 
-mit den Politikern absprechen. So entstanden die Super-PACs. 
-
-Das gespendete Geld verwenden Super-PACs in der Regel dazu, Wahlkampfspots 
-für den favorisierten Kandidaten zu produzieren und sie in den 
-unterschiedlichen Medien zu verbreiten. Im aktuellen Wahlkampf 
-kauften die Super-PACs vor allen Dingen Sendezeit im Fernsehen in den
-sogenannten "Swing States."
 
 <pic images/obama.ps Weil Kalifornien kein Swing-State ist, kleben in San Francisco kaum Wahlplakate.>
 
