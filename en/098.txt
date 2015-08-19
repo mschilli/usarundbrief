@@ -142,19 +142,20 @@ election campaign spots for their favorite candidates and publicizing
 them across various media. In the ongoing election campaign, Super PACs
 mainly purchased air time on TV stations in the so-called "swing states".
 
+<pic images/obama.ps There's not many election campaign posters anywhere in California, because it's not a swing state.>
+
+Swing states are states without an established record of voting 
+for republican or democratic candidates. 
+They are crucial in elections, and their outcome
+can tip the scale, as in most states all electoral delegates votes go to 
+the winner ("winner takes all"). In a tight race, like the one we have this
+year, swing states can make or break the election for a candidate. Florida
+and Ohio are good examples. On the other hand, California, despite 
+its huge number of electoral delegates, won't have much impact, as it's
+been democratic for ages, and it's safe to assume that Obama has
+already won it.
+
 TODO
-
-<pic images/obama.ps Weil Kalifornien kein Swing-State ist, kleben in San Francisco kaum Wahlplakate.>
-
-"Swing States" sind Bundesstaaten, die traditionell
-entweder demokratisch oder republikanisch wählen und keinen der beiden
-Kandidaten favorisieren. Das Ergebnis in den "Swing States" kann somit die
-Wahl bestimmen, da in den meisten Bundestaaten alle Wahlmännerstimmem an den
-Sieger (Prinzip "Winner takes all") gehen. "Swing States" sind vor allen Dingen
-in einer äußert knappen Wahl, wie dieses Jahr, entscheidend. Florida und Ohio
-gehören zum Beispiel dazu. Kalifornien stellt zwar viele Wahlmänner, aber
-wählt seit Jahr und Tag demokratisch, gehört also nicht zu den "Swing
-States", weil im Prinzip schon klar ist, dass Kalifornien an Obama geht.
 
 Aber zurück zu den Super-PACs: Romney unterstützen zum Beispiel 
 <LINK>http://restoreourfuture.com|Restore our Future</LINK> und
