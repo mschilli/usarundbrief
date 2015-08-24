@@ -195,17 +195,19 @@ the tast of "Spezi", but believe me, I've got fine-tuned taste
 buds for this kind of thing. I demand that German restaurants like the
 "Suppenküche" in San Francisco quickly put this fabulous drink on their menu!
 
-TODO
+@Z: American Pharmacies
 
-@Z: Amerikanische Apotheken
-
-<pic images/walgreens.ps Die amerikanische Drogerie/Apotheke Walgreens>
+<pic images/walgreens.ps You can find the pharmacy chain Walgreens all over the U.S.>
 
 <em>Michael</em>
-Schreibt ein amerikanischer Arzt ein Rezept aus, fragt sich der Patient, wo er 
-dieses einlöst, denn in Amerika gibt es keine Apotheken nach deutschem Muster.
-Man betritt vielmehr einen Laden einer Drogeriekette wie etwa "Walgreens" und
-geht zwischen den Verkaufsregalen durch bis zum hinteren Ende.
+If you're visiting from Europe and receive a prescription from a doctor 
+in the U.S., you might be wondering where to pick up the prescribed meds. 
+There's hardly any small pharmacy anywhere, but all you need to do is
+enter one of these big Walgreens chain stores and walk past all the shelves,
+all the way to the end of the center aisle until you arrive at a window 
+counter at the back wall.
+
+TODO
 
 Dort lauert hinter einem Fenster ein Apotheker. Während sonst die Angestellten
 in amerikanischen Supermärkten gerade mal wissen, welches Produkt in
