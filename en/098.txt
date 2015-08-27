@@ -207,19 +207,20 @@ enter one of these big Walgreens chain stores and walk past all the shelves,
 all the way to the end of the center aisle until you arrive at a window 
 counter at the back wall.
 
+Looking through 
+the hole in the wall, there's a pharmacist on duty. And while you 
+might be used to the typical supermarket employee not being very knowledgable
+about particular products, except in which aisle they're located, these
+pharamacists are educated experts in their domain. You hand them your
+prescription and they start rummaging through the jars in the back, 
+and if your meds are in stock, you'll receive them only minutes later in
+a generic bottle (Figure (#1)). Walgreens pharmacists also know about
+risks and side effects of prescriptions and will advise on how to 
+ingest certain medications.
+
+<pic images/wgs-aisle.ps Walk through the aisles, until the very end, until you hit a window with a pharmacist behind it.>
+
 TODO
-
-Dort lauert hinter einem Fenster ein Apotheker. Während sonst die Angestellten
-in amerikanischen Supermärkten gerade mal wissen, welches Produkt in
-welchem Regal steht, handelt es sich beim Apotheker um eine
-für amerikanische Verhältnisse geradezu erstaunlich gut ausgebildete
-Fachkraft. Händigt man ihr das Rezept aus, fängt sie an, hinter den
-Kulissen herumzugeschafteln, und falls sie das Medikament auf Lager hat, 
-überreicht sie dem Patienten die Pillen kurze Zeit später in einer 
-Einheitsverpackung nach Abbildung (#1). Der Apotheker erteilt auf Wunsch auch
-Tipps zum Einnehmen und weiß um Risiken und Nebenwirkungen von Medikamenten.
-
-<pic images/wgs-aisle.ps Zwischen den Regalen durch bis hinter zum Apothekenfenster.>
 
 Ihr habt richtig gelesen: Die Tabletten bekommt man nicht etwa eingeschweißt
 in einer Originalschachtel mit dem Aufdruck der Herstellerfirma. Vielmehr füllt
