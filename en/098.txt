@@ -220,18 +220,20 @@ ingest certain medications.
 
 <pic images/wgs-aisle.ps Walk through the aisles, until the very end, until you hit a window with a pharmacist behind it.>
 
-TODO
+You've read that correctly: Generic prescription pills at Walgreens 
+don't come in the original manufacturer's packaging with fancy logos. 
+Rather, the pharmacist behind the counter will repackage them by
+pouring pills from giant glass jars into tiny
+transparent plastic cylinder-shaped containers with an orange-yellowish tint
+for the individual patient. Then they simply slap on
+a Walgreens-branded adhesive label with instructions. This label
+has the patient's first and last name printed on it as well, so, 
+if you're one of these
+people who like to snoop around their host's medicine cabinets while paying 
+a visit to the bathroom at a party, you get a pretty good idea on who
+is taking which prescription medicine.
 
-Ihr habt richtig gelesen: Die Tabletten bekommt man nicht etwa eingeschweißt
-in einer Originalschachtel mit dem Aufdruck der Herstellerfirma. Vielmehr füllt
-der Apotheker Generika hinter dem Schalter 
-anscheinend aus einem großen Einweckglas in kleine orange-gelbliche
-Dosen um und pappt einen Zettel 
-mit den Anweisungen zum Einnehmen der Medizin 
-und dem Namen des Patienten
-darauf. Schnüffelt man also bei einer Party in einem fremden Haus auf dem
-Klo neugierig im Badezimmerschrank herum, weiß man gleich, wer welche 
-Medikamente einnimmt.
+TODO
 
 Außerdem weist das Etikett die Anzahl der sogenannten "Refills" aus (Pfeil
 in Abbildung (#1)). Ist die Dose leer, latscht man einfach zurück zu Walgreens,
