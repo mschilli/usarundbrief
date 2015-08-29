@@ -229,27 +229,24 @@ for the individual patient. Then they simply slap on
 a Walgreens-branded adhesive label with instructions. This label
 has the patient's first and last name printed on it as well, so, 
 if you're one of these
-people who like to snoop around their host's medicine cabinets while paying 
+people who like to snoop around in their host's medicine cabinets while paying 
 a visit to the bathroom at a party, you get a pretty good idea on who
 is taking which prescription medicine.
 
+The label also lists the number of allowed refills, which means that if
+all pills are used up, there's no need to go back to the doctor and get a new
+prescription. If the number of refills is still within the limits stated
+on the label, simply take the empty container back to Walgreens, and 
+they'll pour more pills into it from their giant jar. To confirm it's really
+you receiving the meds, they ask for your address and compare your answer to 
+the data about you that is stored in the computer along with the prescription. 
+The computer is smart enough to
+trigger an alert if the used amount is way off the daily dose, and the 
+pharmacist won't allow a premature refill in this case.
+
+<pic images/walgreens-refill.ps (#1) The generic label on medications sold in the U.S. states the number of refills the pharmacist is allowed to perform.>
+
 TODO
-
-Außerdem weist das Etikett die Anzahl der sogenannten "Refills" aus (Pfeil
-in Abbildung (#1)). Ist die Dose leer, latscht man einfach zurück zu Walgreens,
-händigt dem Apotheker die leere Dose aus und bekommt entsprechend des Aufdrucks
-neue Pillen eingefüllt. 
-So kann der Arzt größere Medikamentenmengen 
-verschreiben, ohne dass der Patient damit Unfug treiben könnte.
-Der Patient braucht kein neues Rezept und spart sich einen Arztbesuch.
-Der Apotheker prüft keinen Ausweis und lässt sich
-nur die Adresse des Empfängers bestätigen.
-Dabei kontrolliert Walgreens auch, dass der Patient den Refill nicht verfrüht
-in Anspruch nimmt. Steht die verbrauchte Menge in keinem Verhältnis zur
-verschriebenen Tagesdosis, schlägt der Computer Alarm und der 
-Apotheker verweigert die Herausgabe neuer Pillen.
-
-<pic images/walgreens-refill.ps (#1) Auf der Einheitsverpackung amerikanischer Medikamente steht, wie oft die Apotheke gemäß dem Rezept Pillen nachfüllen darf.>
 
 Patienten mit Krankenversicherung zahlen die Medi\-ka\-men\-te üblicherweise 
 nicht selbst, sondern nur einen Obulus, der ein paar Dollar beträgt. 
