@@ -258,26 +258,28 @@ the patient when the meds are ready to be picked up. Walgreen's robo dialers
 even call again a few days later to check in and a computer voice
 asks if the medication is working as expected.
 
-TODO
+@Z: Top Product: The Israeli Gas Mask
 
-@Z: Toppprodukt: Die israelische Gasmaske
-
-<pic images/gm-bath.ps Michael putzt das Waschbecken mit einem Schimmelmittel und trägt dazu eine israelische Gasmaske.>
+<pic images/gm-bath.ps Michael is cleaning the sink with an anti-fungicide and is wearing an Israeli gas mask for protection.>
 
 <em>Michael</em>
-Wohnt man wie wir nur etwa 4km Luftlinie vom pazifischen Ozean entfernt, 
-merkt man die Luftfeuchtigkeit im
-Haushalt. Das Salz klumpt im Streuer, und im Bad bildet sich bei längerem
-Nichtputzen in den Fliesenfugen und am Waschbeckenrand schnell
-unschöner schwarzer Schimmel. Diesem Teufelszeug muss ich alle paar Monate mit
-einem Höllenputzmittel, dem sogenannten "Tilex Mildew Root Penetrator" 
-zu Leibe rücken. Das Tilex-Pumpspray wird dazu in die Fugen gesprüht
-und mit einer Bürste kurz eingerieben. Nach fünf Minuten ist die
-Fuge dann wieder weiß. Allerdings enthält das Mittel Bleiche, die man besser
-nicht mit farbigen Textilien in Berührung bringt 
-(siehe <RBLINK>20100509#1</RBLINK>) und es stinkt bestialisch nach Chlor.
+We're just about 2.5 miles from the Pacific Ocean, and you can tell 
+the proximity by the high air humidity in our household. 
+Salt quickly starts clotting 
+in the shaker, and if bathroom tiles aren't being 
+scrubbed down on a regular basis, ugly black mold quickly starts to 
+accumulate.
+This plague needs to be tackled every couple of months with a cleaning
+solution from hell called "Tilex Mildew Root Penetrator". Pump a few
+times with the spray bottle, and work in the foam with a brush. Let
+it soak for 5 minutes and watch the tile grout turn white again.
+Downside is that the solution contains bleach, so you better keep it
+away from colored fabrics (siehe <RBLINK>20100509#1</RBLINK>), and it
+reeks of chlorine like there's no tomorrow.
 
-<pic images/gm-order.ps Bei Amazon kostet die Gasmaske nur 20 Dollar.>
+<pic images/gm-order.ps Amazon carries the gas mask for only $20.>
+
+TODO
 
 Dieser Gestank scheint wirklich ungesund zu sein, denn er verursacht 
 bei mir rasendes Kopfweh, das stundenlang anhält. Deshalb kam ich erst 
