@@ -251,12 +251,12 @@ but rather a fixed co-pay of a few dollars. Walgreens then gets the
 remaining amount from the health insurer. On some refills, the patient
 won't be charged a co-pay.
 
-Doctors sometimes issue prescriptions electronically. The patient states,
-where they prefer to pick up the meds, the doctor then uses his
-computer to beams the prescription there. The pharmacy then calls
+Doctors sometimes issue prescriptions electronically. The patient states
+where they prefer to pick up the meds, and the doctor then uses his
+computer to beam the prescription there. The pharmacy then calls
 the patient when the meds are ready to be picked up. Walgreen's robo dialers 
-even call again a few days later to check in and a computer voice
-asks if the medication is working as expected.
+even call again a few days later to check in on the patient,
+and a computer voice asks if the medication is working as expected.
 
 @Z: Top Product: The Israeli Gas Mask
 
