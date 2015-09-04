@@ -303,20 +303,24 @@ wearing a yellow hazmat suit and a gas mask. If you haven't seen it,
 that's a great show for the entire family, all four seasons highly
 recommended!
 
-TODO
+@Z: American stove burners
 
-@Z: Amerikanische Herdplatten
-
-<pic images/stove-1.ps (#4) Die typischen amerikanischen Heizspiral-Herdplatten.>
+<pic images/stove-1.ps (#4) The typical American spiral stove burners.>
 
 <em>Michael</em> 
-Während an Herden in deutschen Einbauküchen noble Ceranfelder vorherrschen,
-trifft man hier in Amerika in Mietwohnungen durchaus noch auf Herdplatten
-traditioneller Bauart (Abbildung (#4)). Es handelt sich um
-metallene Heizspiralen, die bei Gebrauch gerne mal rot glühen, aber gegenüber 
-deutschen Herdplatten einen unschätzbaren Vorteil aufweisen:
-Sauen überlaufende Kochtöpfe die Platten zu, kann man sie ohne Werkzeug
-auseinanderbauen und reinigen.
+In German households, you'll mostly find high-end stoves with Ceran cooktops these
+days, but in a typical U.S. rental unit, it's not uncommon to see traditional
+stove models that still feature old-fashioned burners. 
+(Figure (#4)). They generate heat by running electrical current through
+their metal coils, and they often turn bright red if the dial is set to the
+maximum. They might not be the latest tech, but they offer one unbeatable
+advantage: If you make a big mess, e.g. by letting milk spill over, you can
+disassemble these burners and clean them separately, no tools required.
+The coils come right off and also the underlying metal plate, which prevents 
+any spillage from entering the inner parts of the stove, can be removed and scrubbed
+clean.
+
+TODO
 
 <pic images/stove-2.ps (#2) Die Spirale lässt sich zum Reinigen der Herdplatte herausziehen.>
 
