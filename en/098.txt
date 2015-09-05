@@ -310,26 +310,26 @@ recommended!
 <em>Michael</em> 
 In German households, you'll mostly find high-end stoves with Ceran cooktops these
 days, but in a typical U.S. rental unit, it's not uncommon to see traditional
-stove models that still feature old-fashioned burners. 
+stove models that still feature old-fashioned burners
 (Figure (#4)). They generate heat by running electrical current through
-their metal coils, and they often turn bright red if the dial is set to the
-maximum. They might not be the latest tech, but they offer one unbeatable
+spiral-shaped metal coils, which often turn bright red if the dial is set to
+max. They might not be the latest tech, but they offer one unbeatable
 advantage: If you make a big mess, e.g. by letting milk spill over, you can
 disassemble these burners and clean them separately, no tools required.
 The coils come right off and also the underlying metal plate, which prevents 
 any spillage from entering the inner parts of the stove, can be removed and scrubbed
 clean.
 
+<pic images/stove-2.ps (#2) Coil and drip pan can be pulled out for cleaning.>
+
+Figure (#2) shows how to remove the (hopefully cooled down) coil by pulling it
+upwards out of the two-prong electrical socket at an angle, which exposes the 
+underlying drip pan (Figure (#3)), which then can also be extracted 
+and even run through the dishwasher.
+
+<pic images/stove-3.ps (#3) New drip pans are just a few bucks at the hardware store.>
+
 TODO
-
-<pic images/stove-2.ps (#2) Die Spirale lässt sich zum Reinigen der Herdplatte herausziehen.>
-
-In Abbildung (#2) seht ihr, wie man die (hoffentlich erkaltete) Spirale leicht
-nach oben anwinkelt und dann ruckartig seitwärts aus der Fassung herauszieht,
-in der die zwei Kontakte der Spirale stecken. Darunter befindet sich das
-Auffangblech aus Abbildung (#3), das man sogar in die Spülmaschine stecken darf.
-
-<pic images/stove-3.ps (#3) Das Auffangblech kann man im Baumarkt neu kaufen.>
 
 Wurde es über Jahre hinweg nicht gereinigt und pappen darauf schon stark
 verkohlte und verkrustete Essensreste, die sich nicht mehr lösen lassen, kann man 
