@@ -329,15 +329,16 @@ and even run through the dishwasher.
 
 <pic images/stove-3.ps (#3) New drip pans are just a few bucks at the hardware store.>
 
-TODO
+Let's assume now that hypothetically the drip pans haven't been cleaned in years
+and there's a thick layer of charred crusty food pieces stuck on them that no
+one will ever be able to scrape off -- don't dispair, you can simply 
+buy a new set of four at every hardware store for about 10 Dollars. You'll get
+two small and two big drip pans, and their diameter is exactly the same 
+on all major stove brands. Even the coils are standard and can be replaced by new 
+ones from the hardware store if needed for very little money. That's what I 
+call convenience!
 
-Wurde es über Jahre hinweg nicht gereinigt und pappen darauf schon stark
-verkohlte und verkrustete Essensreste, die sich nicht mehr lösen lassen, kann man 
-im Baumarkt einen Vierersatz dieser Auffangbleche zum Gesamtschlagerpreis
-von etwa 10 Dollar nachkaufen. Dafür bekommt man zwei große und zwei
-kleine Bleche, entsprechend der auf allen Herden genormten Plattengrößen.
-Auch die Spiralen sind genormt und auch sie bekommt man im Baumarkt 
-für wenig Geld, falls sie kaputtgehen. Praktisch!
+TODO
 
 @Z: Ein Zehnerle für die Einkaufstüte
 
