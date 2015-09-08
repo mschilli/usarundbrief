@@ -338,27 +338,23 @@ on all major stove brands. Even the coils are standard and can be replaced by ne
 ones from the hardware store if needed for very little money. That's what I 
 call convenience!
 
-TODO
+@Z: 10 Cents for a Grocery Bag
 
-@Z: Ein Zehnerle für die Einkaufstüte
-
-<pic images/trader-bags-flyer.ps Es wird Ernst: 10c pro Papiertüte in San Franicsco ab Oktober>
+<pic images/trader-bags-flyer.ps It's real: Starting October, shops charge 10c per paper bag in San Francisco.>
 
 <em>Angelika</em>
-Seit ersten Oktober diesen Jahres sind an
-den Regi\-strier\-kassen von Geschäften in San Francisco 
-keinerlei Plastik\-tüten mehr 
-erlaubt. Schon seit 2007 dürfen
-große Supermärkte und Drogerieketten die Waren der Kunden nicht mehr in
-Plastiktüten sondern nur noch in Papiertüten einpacken (
-<RBLINK>20070427#1</RBLINK>).
-Ab sofort gilt
-das für <em>alle</em> Geschäfte in San Francisco. 
-Nur Bäckereien und Restaurants sind noch
-bis 2013 ausgenommen. Hinzu kommt, dass Papiertragetüten seit ersten
-Oktober nur noch gegen einen Obulus von 10 Cent per Tüte ausgegeben werden.
-Will der Kunde die 10 Cent nicht zahlen, muss er seine eigenen Beutel und
-Stofftragetaschen mitbringen. 
+On October 1st 2012, San Francisco banned plastic bags at all
+store registers. Even before that, since 2007, there's been 
+an ordinance in place
+to prohibit supermarkets and drug stores from bagging merchandise
+in plastic bags, only paper bags are permitted <RBLINK>20070427#1</RBLINK>).
+Now, the plastic ban has been expanded to all stores in San Francisco,
+and only bakeries and restaurants are exempt until 2013. 
+What's more is that stores are required to charge 10c per 
+provided paper bag. Customers who don't want to pay for bags need to
+bring their own, preferably reusable bags.
+
+TODO
 
 Das Konzept ist euch in Deutschland natürlich
 längst vertraut, denn da zahlt man schon seit Mitte der 70er Jahre für die
