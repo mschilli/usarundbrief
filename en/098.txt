@@ -354,17 +354,19 @@ What's more is that stores are required to charge 10c per
 provided paper bag. Customers who don't want to pay for bags need to
 bring their own, preferably reusable bags.
 
-TODO
+As you might know, this process has been well established in Germany since the
+1970ies, when supermarkets started charging for plastic bags at the register.
+But over there, typically, only grocery stores charge the fee, while 
+department stores still hand out bags at no cost. Unlike in San Francisco,
+plastic bags haven't vanished yet in Germany, so California is clearly 
+ahead in this area.
+The 10 Cent fee in San Francisco was introduced in order to discourage 
+customers from even getting paper bags at the register. 
+And, I've got to say, this has indeed
+changed people's behavior since it was introduced, and many are
+bringing their own reusable fabric bags to the grocery store now.
 
-Das Konzept ist euch in Deutschland natürlich
-längst vertraut, denn da zahlt man schon seit Mitte der 70er Jahre für die
-Plastiktüte an der Supermarktkasse. Allerdings in der Regel nur im Supermarkt
-oder ähnlichen Geschäften aber zum Beispiel nicht im Kaufhaus. Auch ist die
-Platiktüte in Deutschland nicht völlig aus den Geschäften verschwunden, da
-geht geht San Francisco einen Schritt weiter. Die 10 Cent sollen Käufer
-motivieren, ganz auf die Papier\-trage\-tüten zu verzichten. Und ich muss sagen,
-dass es in San Francisco mittlerweile üblich ist, dass Kunden ihre eigenen
-Stofftaschen mitbringen, zumindest im Supermarkt. 
+TODO
 
 Vielleicht fragt ihr euch,
 wie das dann mit den Einpackern läuft, denn im amerikanischen Supermarkt packt
