@@ -366,20 +366,21 @@ And, I've got to say, this has indeed
 changed people's behavior since it was introduced, and many are
 bringing their own reusable fabric bags to the grocery store now.
 
-TODO
-
-Vielleicht fragt ihr euch,
-wie das dann mit den Einpackern läuft, denn im amerikanischen Supermarkt packt
-der Kunde seine Waren ja nicht selbst ein. Man legt seine Stofftaschen mit der
-Ware einfach aufs Band und der Einpacker schnappt sich diese dann und packt die
-Sachen in die mitgebrachten Beutel.  Mittlerweile haben fast 50 kalifornische
-Städte (z.B. Los Angeles) ähnliche, meist weniger weitreichende,
-Richtlinien ins Leben gerufen. Fährt man allerdings zum Target-Supermarkt
-nach South San Francisco, bekommt man dort noch Plastiktüten umsonst, 
-denn die Vorstadt gehört zum Landkreis San Mateo, der umwelttechnisch
-noch hinterher hinkt.
+You might want to inquire how this new system works with the grocery baggers,
+as you know, it's customary in the U.S. that there's extra employees at
+the register taking care of stuffing your items into bags. Simply place
+the reusable bag you brought onto the conveyor belt along with the merchanize
+and the cashier will hand it to the bagger who will then stuff it
+with your items. In the meantime, almost 50 cities in California followed
+suit with similar but less far reaching regulations. On the other hand,
+if we only leave city limits, and drive down to the suburbs of 
+South San Francisco, they're still using plastic bags free of charge. 
+Reason is that they're part of a different county, San Mateo, which 
+apparently was left behind regarding going green.
 
 <pic images/trader-bags-sign.ps Das Kleingedruckte zum neuen Tütengesetz.>
+
+TODO
 
 Übrigens gab es zur Einführung natürlich einen Rechtsstreit. 
 Die "Save the Plastic
