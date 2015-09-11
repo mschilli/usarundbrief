@@ -380,20 +380,18 @@ apparently was left behind regarding going green.
 
 <pic images/trader-bags-sign.ps Das Kleingedruckte zum neuen Tütengesetz.>
 
-TODO
+As you might have expected, this didn't go over without legal battles.
+The "Save the Plastic Bag Coalition" tried to stop the plastic ban,
+but failed. They argued that paper bags aren't necessarily less harmful
+to the environment than plastic bags. And, curiously, that San Francisco
+is attracting a great number of tourists, who aren't exactly known to
+bring reusable bags along with them. The initiative argued that tourists
+will receive paper bags which then will end up in the trash when they
+leave. So let me reach out to all our beloved tourists: Please bring
+your reusable bags with you when you come visit San Francisco, 
+or purchase a nice one here and take it home with you as a souvenir!
 
-Übrigens gab es zur Einführung natürlich einen Rechtsstreit. 
-Die "Save the Plastic
-Bag Coalition" (Bund zur Rettung der Plastiktüte) versuchte, die 
-Plastiktütenverbannung
-in San Francico zu stoppen, konnte sich aber nicht durchsetzen. Die Gruppe
-argumentierte, dass Papier\-tüten nicht unbedingt umweltfreundlicher als
-Plastiktüten seien. Lustig war auch das folgende Argument: San Francisco
-ist bekanntlich eine Touristenstadt und Touristen bringen in der 
-Regel keine wiederverwendbaren Beutel mit. Sie kauften, so die Initiative,
-dann Papier\-tüten, die bei Abreise im Müll endeten. Also, liebe Touristen, 
-bringt eure eigenen Stoffbeutel mit oder kauft euch welche, und nehmt sie 
-als Souvenir wieder mit nach Hause!
+TODO
 
 @Z: Reiche Schnösel vertreiben meinen Friseur
 
