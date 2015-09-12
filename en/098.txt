@@ -391,20 +391,21 @@ leave. So let me reach out to all our beloved tourists: Please bring
 your reusable bags with you when you come visit San Francisco, 
 or purchase a nice one here and take it home with you as a souvenir!
 
-TODO
+@Z: The newly-rich are driving my hairdresser away
 
-@Z: Reiche Schnösel vertreiben meinen Friseur
-
-<pic images/barber-outside.ps (#8) Der alteingesessene Friseur muss umziehen, weil ein reicher Schnösel das Gebäude gekauft hat.>
+<pic images/barber-outside.ps (#8) My long-established barber is forced to move because a newly-rich bought the building.>
 
 <em>Michael</em> 
-Als wir, 16 Jahre ist es mittlerweile her, hierher nach San Francisco kamen,
-suchte ich lange nach einem handwerklich solide ausgebildeten Herrenfriseur. 
-Da ich damals im italienischen Viertel North Beach arbeitete, stieß ich dort 
-eines Tages zufällig auf den kleinen Friseurladen in der Columbus-Street, 
-lernte die Frisierkunst des "Barbers" dort schätzen und blieb ihm treu,
-auch als ich später beruflich ins 50km südlich gelegenen Silicon Valley 
-wechselte.
+It's been 16 years since we arrived 
+here to San Francisco, and I vividly remember
+how hard it was to find a skilled barber. Back then, I was working in the
+Italian neighborhood of North Beach, and one day 
+by accident stumbled into a small
+barber shop on Columbus Street. I loved the haircut I got there and have 
+been coming back to this shop all this time, even after I got a new job
+in Silicon Valley.
+
+TODO
 
 Es war zwar jedesmal ein Akt, von uns mit dem Auto quer durch die Stadt
 nach North Beach zu fahren (nur erfahrene Taxifahrer und ich schaffen
