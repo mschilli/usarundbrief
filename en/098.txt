@@ -405,31 +405,33 @@ barber shop on Columbus Street. I loved the haircut I got there and have
 been coming back to this shop all this time, even after I got a new job
 in Silicon Valley.
 
+Every time I need a haircut, I'm driving from our place in San Francisco
+all over town to North Beach, which only professional cab drivers
+and myself can manage in 20 minutes. It has always been worthwhile, both
+for the haircut and the gossip exchanged. For example, did you know
+that famous director Francis Ford Coppola ("The Godfather", 
+"Apocalypse Now") owns a restaurant across the street from the barber
+and that he once came over to get a haircut? Or one day, a bunch of 
+tech nerds from Google stopped by and booked the entire shop for a few
+hours to shoot photos for some barber related web product, because
+they liked the original look of the barber chairs with their red
+upholstery.
+
+<pic images/barber-inside.ps Both Francis Ford Coppola and myself have received haircuts in this chair.>
+
+Unfortunately, a few months ago, a newly-rich person bought the building 
+with the barber shop, and my barber who's way over 60
+had to find a new location. He found a salon around the corner, where
+he rented a chair. I haven't been to the new place yet, but on my next visit,
+I'll have the photo in Figure (#8) printed and framed. It shows my barber
+standing in front of his old shop waving, and I'll hand it to him as
+a present from a loyal customer.
+
+This story illustrates how neighborhoods have been changing recently: 
+The old barber shop will probably become another useless realty office.
+New money moves in, and originality and taste fall by the wayside.
+
 TODO
-
-Es war zwar jedesmal ein Akt, von uns mit dem Auto quer durch die Stadt
-nach North Beach zu fahren (nur erfahrene Taxifahrer und ich schaffen
-das in 20 Minuten), aber sowohl der Haarschnitt als auch die dabei 
-ausgetauschten Informationen waren es immer wert. So besitzt der Regisseur
-Francis Ford Coppola ("Der Pate", "Apocalypse Now") ein Lokal gegenüber und
-ließ sich ebenfalls im Friseurladen die Haare schneiden. Eines
-Tages kamen ein paar Google-Fritzen vorbei, mieteten den Laden für ein
-paar Stunden und schossen Fotos für irgendein Webprodukt, weil die
-roten Polsterstühle und die Einrichtung so richtig original aussahen.
-
-<pic images/barber-inside.ps Wie ich bekommt auch Francis Ford Coppola hier einen Haarschnitt verpasst.>
-
-Allerdings kaufte vor ein paar Monaten ein neureicher Schnösel das alte
-Gebäude mit dem unten eingelassenen Friseurladen und nun musste der
-Friseur weit jenseits der 60 eine neue Bleibe suchen. Er fand sie um die 
-Ecke, in einem neumodischen Haarsalon, wo er sich einen Stuhl mietete.
-Ich war noch nicht dort, aber ich habe Abbildung (#8) vergrößern und
-rahmen lassen, und werde es ihm beim nächsten Besuch überreichen. 
-
-Aber die Geschichte zeigt, wie sich die Stadtviertel verändern: Aus dem
-alten Friseursalon wird wahrscheinlich ein weiteres dep\-per\-tes 
-Woh\-nungs\-makler\-büro. Neues Geld zieht ein, Originalität und Geschmack 
-bleiben auf der Strecke.
 
 @Z: Professionelle Apple-Store-Ansteller
 
