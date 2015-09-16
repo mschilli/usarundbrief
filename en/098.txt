@@ -431,41 +431,39 @@ This story illustrates how neighborhoods have been changing recently:
 The old barber shop will probably become another useless realty office.
 New money moves in, and originality and taste fall by the wayside.
 
-TODO
+@Z: Hiring Professionals to Wait in Line
 
-@Z: Professionelle Apple-Store-Ansteller
-
-<pic images/apple-store.ps Apple-Narren stellen sich vor dem Laden an, um ein neues Produkt zu erwerben. Foto: flickr[Shane Curcuru|shanecurcuru/2659488120]>
+<pic images/apple-store.ps Apple fanboys are lining up at the store to purchase a new product. Foto: flickr[Shane Curcuru|shanecurcuru/2659488120]>
 
 <em>Michael</em> 
-Ihr kennt sicher Fernsehbilder von Apple-Geschäften, vor denen sich Leute 
-anstellen, um neu herausgekommene Produkte als Erste zu erwerben. In den USA
-geht das teilweise so weit, dass willige Käufer, zum Beispiel als das 
-iPhone 5 herauskam, vor Apple-Läden auf Campingstühlen übernachteten!
+I'm sure you've seen reports on TV about people lining up in front of the
+Apple store when a new product first goes on sale. They desperately want to
+be the first to own it, and when the iPhone 5 came out, they went as
+far as camping outside the store overnight!
 
-In einem service-orientierten Land wie den USA erledigt man unangenehme
-Tätigkeiten nun natürlich nicht selbst, sondern bezahlt andere dafür.
-Das ist keineswegs auf Haus\-putz\-perso\-nal beschränkt, sondern gilt 
-auch für das Gassigehen mit Haustieren, Rasen mähen, 
-Einkaufen von Lebensmitteln oder
-den Gang zur Führerscheinbehörde. Im Internetzeitalter bucht man diese
-Helferlein online auf <LINK>http://taskrabbit.com|taskrabbit.com</LINK>, und
-laut einem 
-<LINK>http://go.bloomberg.com/tech-blog/2012-09-20-waiting-in-line-for-iphone-5-some-are-just-doing-their-jobs/|Artikel auf Bloomberg-News|Taskrabbit-Artikel</LINK> 
-bietet die Servicetruppe dort sogar professionelle 
-Schlangensteher an! Für 55 Dollar steht das Wartpersonal vier Stunden
-in der Schlange vor dem Apple-Store und tauscht dann Plätze mit dem 
-Auftraggeber, der freudig und ausgeschlafen am Morgen als einer der
-Ersten den Apple-Store 
-betritt, um sein neues Smartphone zu erwerben.
+But it goes without saying that in a country with a functioning service 
+economy like the U.S., you don't have to tackle unpleasant chores yourself,
+but can pay others to do them for you. That's not limited to hiring
+house cleaners, but extends to dog walkers, workers mowing your lawn,
+grocery shoppers, or people going to the DMV for you to get 
+your paperwork done. In this day and age, these services can be
+booked on the Internet, for example on 
+<LINK>http://taskrabbit.com|taskrabbit.com</LINK>, where, according to
+an <LINK>http://go.bloomberg.com/tech-blog/2012-09-20-waiting-in-line-for-iphone-5-some-are-just-doing-their-jobs/|article on Bloomberg News</LINK>, 
+you can even hire professionals to stand in line for you! For a fee of
+$55, someone will hold your place in line for up to four hours, and then
+switch places with you, so that you can enter the store chipper and
+well-rested in the morning to purchase your new mobile phone.
 
-<pic images/task-rabbit.ps Das Personal von Taskrabbit erledigt gegen Bezahlung unangenehme Aufgaben.>
+<pic images/task-rabbit.ps Taskrabbit professionals will do unpleasant chores for you for a fee.>
 
-Laut Task-Rabbit ist übrigens eine der am häufigsten gebuchten 
-Service-Leistungen das Zusammenbauen von Ikea-Möbeln. Für 42 Dollar
-kommt ein mehr oder weniger professioneller Handwerker mit Werkzeug 
-ins Haus und schlägt sich mit den gefürchteten Bastelanleitungen der
-Möbelbausätze des skandinavischen Möbelhauses herum.
+According to Task Rabbit, one of the most often booked services on their
+site is for assembling Ikea furniture. For $42, a more or less professional
+handyman will bring his own tools to your house and deal with those dreaded
+assembly instructions for furniture kits sold at the well-known Scandinavian 
+megastore.
+
+TODO
 
 @Z: Kalifornien verbietet die Gänseleberpastete
 
