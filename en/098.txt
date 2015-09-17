@@ -463,49 +463,45 @@ handyman will bring his own tools to your house and deal with those dreaded
 assembly instructions for furniture kits sold at the well-known Scandinavian 
 megastore.
 
-TODO
+@Z: California bans Foie Gras
 
-@Z: Kalifornien verbietet die Gänseleberpastete
-
-<pic images/foie-gras.ps Gebratene Gänsestopf\-leber, Schmackofatz! Foto: flickr[Stuart Spivack|stuart_spivack/432163531/]>
+<pic images/foie-gras.ps Pan-fried Foie Gras, jambo! Foto: flickr[Stuart Spivack|stuart_spivack/432163531/]>
 
 <em>Angelika</em> 
-Seit dem 1. Juli ist in Kalifornien der Verkauf von Gänse\-stopf\-leber verboten.
-Diese kulinarische Spezialität nennt der Amerikaner wie der Franzose
-"Foie Gras". Die Verfettung der Leber von Gänsen und Enten, die
-durch Zwangsernährung erreicht wird, gilt allerdings unter Tierschützern als
-Tierquälerei. Schon 2004 verabschiedete Kalifornien ein Gesetz zum 
-Verbot, aber es galt
-für acht Jahre eine Übergangs- und Schonfrist. Schätzungen zufolge hatten
-in Kalifornien bis zu 400 Restaurants Foie Gras auf der Speisekarte. 
-Wir fanden Foie Gras häufig in Restaurants im Weingebiet Napa Valley und müssen 
-gestehen, dass wir Foie Gras immer gern gegessen haben. 
+Starting July 1st, California has banned the sale of fattened duck liver. This
+culinary delicacy is known as Foie Gras, in the U.S. and France alike.
+Fattening the livers of geese and ducks is accomplished by force-feeding,
+and animal rights activists consider it cruelty to animals.
+The ban passed legislation all the way back in 2004, but for the following 
+eight years, a transition and grace period was granted. According
+to estimates, up to 400 restaurants had the item on their menus in 
+California. We've seen foie gras on many Napa Valley restaurant menus 
+and must admit that we've always enjoyed eating it.
 
-Angeblich halten sich die meisten
-Restaurants an das Verbot. Aber das Gesetz ist schwammig formuliert, denn es
-besagt, dass Foie Gras nicht verkauft werden darf, sodass einige Chefköche auf
-die Idee kamen, Foie Gras kostenlos anzubieten. Dort fand sich dann eine
-21 Dollar teure "Brioche" (Hefegebäck) auf der Karte, der gratis etwas
-Gänsestopfleber beigelegt war.
-Obwohl die Strafen hoch sind
-($1000 pro Verstoß pro Tag), scheint es schwierig zu sein, das Gesetz
-durchzusetzen, denn die Behörde "Department of Animal Care and Control", die
-dafür zuständig ist, ist chronisch unterbesetzt. 
+Allegedly, most restaurants now comply with the ban. But the law is somewhat
+ambiguous, as it only states that foie gras can't be sold, what led a few
+chefs to offer it for free. In this way, one restaurant had a 
+"brioche" (pastry) on the menu for $21, that came with a free serving
+of foie gras. Although the fines are enormous ($1000 per violation per day)
+it seems as if the new law is hard to enforce, as the "Department of
+Animal Care and Control" in charge of the matter is chronically understaffed.
 
-Kalifornien ist übrigens
-der einzige Bundesstaat in den USA, der den Verkauf von Foie Gras verbietet.
-Chicago versuchte vor einigen Jahren ein ähnliches Gesetz durchzusetzen,
-scheiterte aber am Widerstand der Küchenchefs. Bei uns schlägt sich,
-typisch kalifornisch, die Tierschützerfraktion zur Zeit mit den Gourmets
-erbitterte Schlachten. So kochten, bevor das Verbot in Kraft
-trat, kalifornische Köche 8-gängige Menüs, und in jedem Gang war Foie Gras
-enthalten.Oder das Restaurant "Goose and Gander" (=Gans und Gänserich) im
-Napa Valley: Es bot ein Foie-Gras-Gericht an, das nach dem 
-Verbotsgesetz benannt war: "Senate Bill 1520". Es nahm es dann aber wieder 
-von der Speisekarte, weil die Presse offen darüber berichtete. 
-Wahrscheinlich bildet sich bald eine Unterwelt wie während der 
-Prohibition, und man wird Foie Gras in dunklen Kellern erhalten, 
-wenn man das Codewort weiß.
+By the way, California is the only state in the entire U.S. prohibiting the
+sale of foie gras. There was a similar effort in Chicago a few years ago,
+which failed because the chefs there put up fierce resistance. 
+Here in California,
+as you might have expected, we now have an ongoing battle between 
+gourmets and animal rights activists. Shortly before the ban started, 
+some Californian chefs presented eight course menus, each of which
+included some form of foie gras. Another example is the restaurant 
+"Goos and Gander" in Napa Valley, which offered a foie gras dish
+named after the name of the ban legislation: "Senate Bill 1520". 
+They took the item off the menu, however, when the press started reporting
+on it. Probably there's soon going to be an underground economy, similar
+to during prohibition times, when foie gras will only be available in
+dark speakeasy restaurants, if patrons know the secret code?
+
+TODO
 
 @Z: Speedy Gonzales
 
