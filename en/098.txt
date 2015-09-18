@@ -515,11 +515,12 @@ these lines. "Arriba, arriba, andalé, andalé!" the mouse kept screaming
 in Spanish, which means "Let's go" or "Hurry up", well,
 does this ring a bell now? 
 
-TODO
+The sombrero wearing mouse zoomed through the stories at breakneck speed
+and kept outwitting and outlasting the slower cat Sylvester. 
 
-Die Maus mit dem Sombrerohut sauste mit einem Affenzahn durch die Szenen und 
-legte stets die langsamere Katze Sylvester mittels schlauer Streiche aufs Kreuz. 
-<pic images/speedy-boone.ps Der Song "Speedy Gonzales" von Pat Boone.>
+<pic images/speedy-boone.ps The Song "Speedy Gonzales" by Pat Boone.>
+
+TODO
 
 Der Cartoon wurde damals von den Warner Brothers in den USA produziert, 
 doch heutzutage distanzieren sich die feinen Herren eher von der 
