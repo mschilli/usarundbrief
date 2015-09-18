@@ -501,21 +501,22 @@ on it. Probably there's soon going to be an underground economy, similar
 to during prohibition times, when foie gras will only be available in
 dark speakeasy restaurants, if patrons know the secret code?
 
-TODO
-
 @Z: Speedy Gonzales
 
-<pic images/speedy.ps Die umstrittene Cartoon-Figur Speedy Gonzales.>
+<pic images/speedy.ps The controversial cartoon character Speedy Gonzales.>
 
 <em>Michael</em> 
-Wie heißt die schnellste Maus von Mexiko? Wer sich wie
-wir schon im fortgeschrittenen Alter befindet, weiß die Antwort: 
+Who's the the fastest mouse in all Mexico? If you're about our age, you
+know the answer: 
 <LINK>http://en.wikipedia.org/wiki/Speedy_Gonzales|Speedy Gonzales</LINK>.
-Die Zeichentrickserie lief in Deutschland in den 70ern des vergangenen
-Jahrhunderts und wurde von den Mitgliedern der Rundbriefredaktion damals gierig
-aufgesogen. "Arriba, arriba, andalé, andalé!" schrie die Maus immer, 
-na, klingelt's jetzt bei euch?
-Das ist spanisch und bedeutet etwa "Auf geht's!" oder "Beeil dich!".
+The carton series ran on German TV during the 70ies of the previous 
+century and was greedily absorbed by the editorial team bringing you
+these lines. "Arriba, arriba, andalé, andalé!" the mouse kept screaming
+in Spanish, which means "Let's go" or "Hurry up", well,
+does this ring a bell now? 
+
+TODO
+
 Die Maus mit dem Sombrerohut sauste mit einem Affenzahn durch die Szenen und 
 legte stets die langsamere Katze Sylvester mittels schlauer Streiche aufs Kreuz. 
 <pic images/speedy-boone.ps Der Song "Speedy Gonzales" von Pat Boone.>
