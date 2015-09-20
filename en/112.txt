@@ -17,19 +17,20 @@ training. So we called our primary care physicician the next day, who
 told us to get it x-rayed and that we should drive to the emergency room
 for that.
 
+We usually try to avoid visits to the emergency room at all cost, because
+we know from experience that the waiting times there are unbearably long, and
+there's total chaos because you share the area with all the crazies, 
+the wretched and the huddled masses of the City of San Francisco. It's
+quite interesting to hang out there for social studies, but if you're not
+doing so well yourself it gets old very quickly. Under Obamacare, patients
+are supposed to limit emergency room visits to real emergencies, which
+was supposed to reduce their workload significantly, because previously 
+the ER was the only to-go place for people without health insurance as
+no regular doctor would see them.
+
+<pic images/arm-sling.ps The hardest problem with the broken collar bone was eating ramen soup while holding the chop sticks in my left hand.>
+
 TODO
-
-Besuche im amerikanischen "Emergency Room" vermeiden wir eigentlich unter allen
-Umständen, denn die Wartezeiten dort sind lang, es herrscht Chaos und man
-trifft dort im wahrsten Sinne des Wortes alle Krüppel, Lahmen, Heimatlosen und
-Verrückten dieser Stadt an. Interessant für soziale Studien, aber nicht gerade
-so erbauend, wenn man sich selbst nicht so wohl fühlt. Unter Obamacare sollten
-Patienten die Notfallaufnahme wirklich nur im Notfall aufsuchen, und die
-Auslastung deutlich zurückgehen, denn der "Emergency Room" war ja lange Zeit
-die medizinische Anlaufstelle für Menschen ohne Versicherung, die nicht zu einem
-regulären Arzt gehen konnten.
-
-<pic images/arm-sling.ps Das Schwierigste bei gebrochenem Schlüssel\-bein: Mit der lin\-ken Hand Nudelsuppe mit Stäbchen essen.>
 
 Aber das Gegenteil ist der Fall, denn in den USA fehlen Hausärzte, man schätzt
 mehr als 20.000 bis zum Jahr 2020.  Durch die höhere Anzahl der Versicherten
