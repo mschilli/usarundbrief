@@ -31,21 +31,27 @@ no regular doctor would see them.
 
 <pic images/arm-sling.ps The hardest problem with the broken collar bone was eating ramen soup while holding the chop sticks in my left hand.>
 
+But Obamacare actually had the opposite effect. There's a severe shortage
+of primary care physicians in the United States, estimates run from about
+20,000 additional doctors needed until the end of 2020. Now, with the 
+increasing number of people having access to
+health insurance, the situation is getting
+worse because those newly insured need additional doctors. It's not 
+uncommon nowadays having to wait 4-6 weeks for a doctor's 
+appointment, which is unacceptable if you have an urgent health problem, even
+if it's not life-threatening. Because of this dire situation, patients
+are heading in droves to the emergency rooms once again. 
+On top of that, many states have extended their "Medicaid" social medicine
+program under Obamacare. It provides health benefits to people in the
+lowest income categories. But many doctors simply refuse to see 
+Medicaid patients, because the rates covered by the Medicaid insurance 
+are significantly lower than the rates paid by regular insurance companies,
+and low-income patients have no choice but to head to the nearest 
+emergency room once again.
+
+<pic images/er-bill-1.ps First part of the bill: 1,900 Dollars.>
+
 TODO
-
-Aber das Gegenteil ist der Fall, denn in den USA fehlen Hausärzte, man schätzt
-mehr als 20.000 bis zum Jahr 2020.  Durch die höhere Anzahl der Versicherten
-braucht das Land aber mehr Ärzte und der Patient kann mit einer akuten
-Erkrankung, auch wenn die nicht unbedingt lebensbedrohlich ist,  nicht vier bis
-sechs Wochen auf einen Termin warten, also geht er dann doch wieder in den
-"Emergency Room". Auch haben viele Bundestaaten ihr Sozialprogramm "Medicaid"
-unter Obamacare erweitert. Es stellt staatliche Krankenkassenleistungen für die
-Ärmsten der Armen zur Verfügung.  Allerdings weigern sich viele Ärzte,
-Medicaid-Patienten zu betreuen, da der Satz, denn sie für ihre Leistungen
-erhalten, unter Medicaid besonders niedrig ist und dann bleibt diesen Patienten
-ebenfalls oft nur der "Emergency Room" als Anlaufstelle.
-
-<pic images/er-bill-1.ps Erster Teil der Rechnung: 1900 Dollar.>
 
 Aber zurück zu Michael: Über San Francisco verstreut liegen eine ganze Reihe von
 Emergency Rooms und wenn man noch in der Lage ist, ohne Krankenwagen
