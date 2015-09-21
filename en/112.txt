@@ -49,73 +49,72 @@ are significantly lower than the rates paid by regular insurance companies,
 and low-income patients have no choice but to head to the nearest 
 emergency room once again.
 
-<pic images/er-bill-1.ps First part of the bill: 1,900 Dollars.>
+<pic images/er-bill-1.ps First part of the ER bill: 1,900 Dollars.>
+
+But back to Michael: Spread all across the city of San Francisco, 
+there's a number of emergency rooms, and if a patient is still able to get
+there without an ambulance, they need to decide on which one to head for. A few
+of those ERs take appointments, that's helpful for patients who aren't
+already on their last legs. But if you think about it, the idea is
+quite absurd, as the concepts of "appointment" and "emergency" don't really
+fit well together. We picked an ER in the Castro district, because
+it's located in a relatively calm neighborhood 
+and it's only 10-15 minutes driving distance by car from our place.
+
+Since Michael didn't have a life-threatening condition, we had to wait
+more than an hour until finally someone took pity on us and made the x-ray. 
+While we were waiting, two emergency patients were dropped off by 
+ambulances, and a homeless person made herself comfortable on the chairs
+next to us in the waiting area. She had all of her possessions with her,
+and lied down to sleep, stretching out over three adjacent chairs. 
+After a while, ER staff called security and it turned out that the woman
+needed a place to sleep in a homeless shelter. The security folks promised
+to make the necessary calls to help her out. Apparently, this kind of
+thing happens quite frequently.
+
+Then the door flew open, in walked a loudly moaning woman, 
+and another security guard started
+to worry and asked what was going on. The woman quickly started
+to chit-chat with him and all of a sudden completely forgot about the moaning.
+Four young girls visiting from the UK were all buzzing around the
+waiting area, all of them chipper and 
+in apparently perfectly healthy condition. The
+ER doctor didn't seem to be amused. A nurse kept complaining loudly on the phone
+about a doctor who had treated him badly. This went on and on until it
+was finally Michael's turn, he got his x-ray taken, and minutes later
+the doctor released him with the hardly surprising news that his collar
+bone was broken.
+Since a fractured clavicle usually needs to heal by itself, Michael 
+simply received an arm sling which we could have just as well bought at any
+pharmacy. Further, he got a referral to an orthopedic doctor for
+follow-up and was offered a pain killer pill, which he declined to take
+by mouth right away but kept just in case. Weeks later, the first
+bill came in the mail, followed by a second one a few days later.
+
+<pic images/er-bill-2.ps Second part of the ER bill: 1,400 Dollars.>
+
+Surprise: For the generic Ibuprofen pill, the ER had charged our 
+health insurance a whopping $19.41, but of course you need to consider
+that they had an entire team of doctors available ready to squeeze Michael
+through a CT scanner in an emergency. The total ER bill turned out to
+$3.306,41, as you can see in Figures 3 and 4. That's the amount that
+an unsuspecting tourist would have had to pay. But since the ER participates
+in our health insurer's network, the two parties have agreed on 
+fixed rates for medical procedures, and the health insurance "only"
+had to pay $1,883.35. We had to chip in $75 as ER co-pay and another 
+$300 deductible which our health plan required. In comparison: For 
+the follow-up visit at the orthopedic specialist, including another set
+of x-rays, the health insurance only had to pay $177.24, and we forked over
+$30 in co-pay. You can easily see that it would have been much more cost 
+effective for the health insurance if we had gone to the orthopedic
+specialist first, but there were no appointments available. In fact, 
+when Michael got the ER's referral, he called the orthopedic doctor's 
+office and the receptionist told him that the next available 
+appointment was in four weeks. When he asked about other doctors in the
+same office, the receptionist found a less popular one that had an 
+appointment available only a week later.
 
 TODO
-
-Aber zurück zu Michael: Über San Francisco verstreut liegen eine ganze Reihe von
-Emergency Rooms und wenn man noch in der Lage ist, ohne Krankenwagen
-hinzugelangen, steht man vor der Qual der Wahl, welchen man nun ansteuert.
-In einer Handvoll der Notaufnahmen San Franciscos kann der Patient,
-der noch nicht auf dem Zahnfleisch daherkommt, einen kurzfristigen
-Termin ausmachen. Allein der Gedanke ist schon etwas absurd, denn das Konzept
-des Termins und das des Notfalls passen irgendwie nicht so recht zusammen. Wir
-entschieden uns schließlich für den Emergency Room in der Nähe des Castroviertels,
-den sogenannten Davis Campus, denn da geht es in der Regel ruhiger zu und er
-ist nur etwa 10-15 Autominuten von uns entfernt. 
-
-Da Michael ja nicht
-lebensbedrohlich krank war, mussten wir natürlich zunächst warten, bis sich
-endlich jemand erbarmte und die Röntgenaufnahme machte. Während Michael und
-ich warteten, wurden nicht nur zwei Notfälle per Krankenwagen eingeliefert,
-sondern sogar eine Obdachlose machte es sich auf den Stühlen neben uns bequem. Sie
-hatte ihre sämtliche Habe dabei und legte sich erst einmal quer über die
-Stühle. Der Sicherheitsdienst des Krankenhauses wurde gerufen und es
-stellte sich heraus, dass die obdachlose Frau einen Platz zum Schlafen im
-Obdachlosenheim brauchte. Die Sicherheitsbeamtin versprach ihr dann, irgendwo
-anzurufen, um ihr damit zu helfen. Es scheint also öfter vorzukommen.
-
-Dann kam
-eine furchtbare stöhnende Frau durch die Tür und ein weiterer
-Sicherheitsbeamter fragte sie gleich ganz besorgt, was los sei, worauf die Frau
-fröhlich Smalltalk mit ihm begann und das Stöhnen dabei völlig vergaß. Dann
-hüpften noch 4 junge britische Touristinnen um uns herum, die alle super
-munter und sehr gesund aussahen. Der Arzt in der Notfallaufnahme war dann auch
-sichtlich genervt von ihnen. Weiter beschwerte sich ein Krankenpfleger lauthals
-am Telefon über einen Arzt, der ihn schlecht behandelt hatte. Und so ging es
-immer weiter, bis Michael endlich dran war, geröntgt wurde, und der Arzt ihn Minuten
-später mit der glorreichen Erkenntnis entließ, dass das Schüsselbein tatsächlich
-gebrochen war.
-Da ein gebrochenes Schüsselbein in der Regel von selbst heilen
-muss, bekam er noch eine Armschlinge, die wir auch in jedem x-beliebigen
-Drogeriemarkt erhalten hätten. Weiter gab es eine Überweisung zum Orthopäden für die
-Nachbehandlung und dann wollte man Michael noch eine Schmerztablette in den
-Mund schieben, die er aber nicht annahm. Wochen später kam die erste Abrechnung, 
-und wiederum einige Tage später die zweite.
-
-<pic images/er-bill-2.ps Zweiter Teil der Rechnung: 1400 Dollar.>
-
-Die Notfallaufnahme stellte unserer Krankenkasse für die generische
-Ibuprofen-Schmerztablette, die in der Drogerie ein paar Cent kostet,
-satte $19.41 in Rechnung, denn schließlich stand ein ganzes Ärzteteam auf Abruf, das 
-Michael notfalls ruckzuck durch einen CT-Scanner bugsiert hätte.
-Insgesamt verlangte die Notfallaufnahme, wie
-ihr in den Abbildungen 3 und 4 sehen könnt, $3.306,41, das ist der Betrag,
-der einem Touristen in Rechnung gestellt worden wäre. Da aber diese Notaufnahme
-im Netzwerk unserer Krankenkasse ist, beide also vorab feste Sätze
-für bestimmte Leistungen ausgehandelt haben, berappte die Krankenkasse insgesamt
-nur $1,883.35. Wir selbst mussten $75
-als Praxisgebühr entrichten, sowie $300 an Selbstbeteiligung.
-Zum Vergleich: Der anschließende Besuch beim Orthopäden kostete
-die Krankenkasse nur $177.24 und uns $30 Praxisgebühr, 
-einschließlich einer weiteren Röntgenaufnahme. 
-Sinnvoller und
-kostengünstiger wäre es also gewesen, gleich beim Orthopäden vorzusprechen, da
-gibt es aber keine kurzfristigen Termine. Selbst als Michael mit der Überweisung
-vom Emergency Room in der Hand beim empfohlenen Orthopäden anrief, teilte
-ihm die Sprechstundenhilfe mit, dass der Facharzt erst in vier Wochen einen 
-Termin frei hätte. Wir fanden dann
-einen weniger ausgebuchten Arzt in der gleichen Praxis, mit nur einer Woche Wartezeit. 
 
 Durch diese anhaltenden maroden Zustände im
 amerikanischen Gesundheitssystem greifen, wie so oft in diesem Land,
