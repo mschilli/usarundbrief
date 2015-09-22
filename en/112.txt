@@ -114,38 +114,36 @@ appointment was in four weeks. When he asked about other doctors in the
 same office, the receptionist found a less popular one that had an 
 appointment available only a week later.
 
-TODO
+Stimulated by the ailing state of the American health care system, 
+innovators have come up with capitalist and technical solutions to 
+alleviate the situation. Popular are so-called boutique or concierge 
+doctors. Patients who are willing to sign up for a yearly, monthly, or
+three-monthly fee can enjoy improved services, like same-day 
+appointments, even on Saturdays, a shorter wait at the doctor's office,
+and more time with the doctor. Doctors who switch to this model are
+seeing fewer patients and can focus better on individual cases.
 
-Durch diese anhaltenden maroden Zustände im
-amerikanischen Gesundheitssystem greifen, wie so oft in diesem Land,
-innovative Menschen zu kapitalistischen oder technisch basierten Lösungen,
-um die Situation zu verbessern. Einer dieser Trends sind derzeit die sogenannten
-Boutique- oder Concierge-Hausarztpraxen. Der Patient zahlt aus der eigenen
-Tasche einen jährlichen, monatlichen oder vierteljährlichen Mitgliedsbeitrag
-und erhält dadurch verbesserte Leistungen wie zum Beispiel Termine am gleichen
-Tag oder am Samstag, verkürzte Wartezeiten in der Praxis, mehr Zeit mit dem
-Arzt. Die Ärzte, die sich diesem Modell anschließen, haben weniger Patienten
-und sind deshalb in der Lage, sich mehr um den einzelnen Patienten zu kümmern.
+<pic images/one-medical.ps Concierge medicine: Offices of One Medical around in our neighborhood.>
 
-<pic images/one-medical.ps Die Praxis der Zuzahlkrankenkasse One Medical bei uns um die Ecke.>
+There's many different cost models to choose from. In some, the patient 
+buys the aforementioned conveniences, but claims resulting from visits
+at doctor's office or lab tests are charged to the patient's health 
+insurance. Another model charges a higher fee, but covers additional 
+services, like seeing a doctor or preventive screenings. Other expenses
+like immunisations or x-rays are the patient's responsibility. 
+Membership fees range from $150 to $5,000 per year.
 
-Verschiedene Geschäftsmodelle sind im Umlauf. So kann es sein, dass der Patient
-die Gebühr bezahlt und sich damit die aufge\-führten Zuckerln erkauft, aber die
-normale Behandlung und andere Untersuchungen wie Bluttests stellt der Arzt
-weiterhin der Versicherung des Patienten in Rechnung. In einem anderen Modell
-deckt der Mitgliedsbeitrag, der in der Regel dann höher ist, eine gewisse
-Anzahl von Leistungen wie zum Beispiel das Gespräch mit dem Arzt oder
-Vorsorgeuntersuchungen. Andere Leistungen wie Impfungen oder Röntgenaufnahmen
-muss der Patient aus der eigenen Tasche bezahlen. Mitgliedsbeiträge rangieren je
-nach Modell zwischen $150 bis $5.000 pro Jahr.
-
-In San Francisco bietet die allseits präsente
+The concierge medicine provider
 <LINK>http://www.onemedical.com/sf/doctors|"One Medical Group"</LINK>
-diese Concierge-Medizin an. Auch bei uns um die Ecke steht eine
-solche Arztpraxis. Kritiker dieser Idee bemängeln natürlich zurecht, dass diese
-Praxen zu einer Zweiklassenmedizin führen, denn nicht jeder kann sich den
-jährlichen Mitgliedsbeitag leisten und da die Ärzte in diesen Praxen weniger
-Patienten annehmen, baut sich der Ärztemangel weiter aus. 
+is currently spreading across San Francisco, with one of their offices 
+being located just around the corner from our house. 
+Critics of this new approach rightfully 
+object that concierge medicine splits patients into first and second
+class citizens, since not everyone can afford paying the hefty
+yearly fees. And, what's worse, participating doctors accept fewer patients,
+exacerbating the effects of the current doctors shortage even further.
+
+TODO
 
 Ein ganz neuer Trend
 ist die sogenannte Telemedizin, die die Idee der Videokonferenzen nutzt, die
