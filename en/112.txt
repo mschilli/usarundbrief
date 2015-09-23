@@ -143,19 +143,19 @@ class citizens, since not everyone can afford paying the hefty
 yearly fees. And, what's worse, participating doctors accept fewer patients,
 exacerbating the effects of the current doctors shortage even further.
 
+Lately, a new trend is making big strides. So-called telemedicine 
+uses video conferences,
+available today on a wide variety of smart phones and tablets to a broad
+audience. With the 
+<LINK>http://www.doctorondemand.com|"Doctor on Demand"</LINK>
+app downloaded onto their device, patients can enter a video conference
+with a doctor who is certified to practice in the state the patient
+resides in. Not having to drive to a doctor's office or wait for days
+until the next available appointment can be quite advantageous. 
+
+<pic images/doctors-on-demand.ps A patient converses with a "doctor on demand" using a video app.>
+
 TODO
-
-Ein ganz neuer Trend
-ist die sogenannte Telemedizin, die die Idee der Videokonferenzen nutzt, die
-heutzutage durch die Technologie von Smartphones und Tablets einer breiten
-Masse jederzeit zugänglich sind. Bei
-<LINK>http://www.doctorondemand.com|"Doctor on Demand"</LINK> ("Arzt auf Abruf")
-lädt sich der Patient eine App zum Beispiel auf sein Handy und kann dann mit
-einem Arzt, der in dem Bundestaat, in dem der Patient lebt, praktizieren darf,
-eine Videokonferenz schalten, ohne dass er sich in eine Arztpraxis
-begeben oder tagelang auf einen Termin warten muss.
-
-<pic images/doctors-on-demand.ps Die Patientin spricht über eine Video-App mit einem "Doctor-on-Demand". >
 
 Der Patient tippt einfach seine Symptome
 sowie mögliche Allergien und eingenommene Medikamente ein und wird dann mit
