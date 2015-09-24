@@ -155,28 +155,30 @@ until the next available appointment can be quite advantageous.
 
 <pic images/doctors-on-demand.ps A patient converses with a "doctor on demand" using a video app.>
 
-TODO
+Patients simply type in their symptons, along with potential allergies and
+regularly taken medication, after which they're connected straight
+with a doctor. Participating doctors are typical primary care physicians
+handling the usual minor illnesses like the flu, severe head colds,
+diarrhea, rashes). They're not allowed to treat serious diseases, for
+these the patient has to visit a doctor's office in person.
+The video doctors will write prescriptions, though.
+The fixed price for a virtual session with a doctor is $40. Since
+this is significantly less expensive than a traditional office visit, 
+one of the major U.S. healthcare providers, United Healthcare, has added
+the service to their coverage plan. 
 
-Der Patient tippt einfach seine Symptome
-sowie mögliche Allergien und eingenommene Medikamente ein und wird dann mit
-einem Arzt verbunden. Der Arzt, der per Videokonferenz
-zugeschaltet ist, kümmert sich in der Regel um die typischen Krankheiten, die
-auch ein Hausarzt in einer regulären Praxis untersucht (Grippe, starke Erkältungen,
-Durchfall, Ausschläge). Ärzte bei "Doctor on Demand" dürfen keine ernsthaften
-Krankheiten behandeln, für diese muss sich der Patient auch weiterhin in eine
-Arztpraxis begeben, aber sie können Rezepte ausstellen. Die virtuelle medizinische
-Konsultation und Behandlung kostet pro Sitzung pauschal $40. Da das wesentlich günstiger
-ist als ein Arztpraxenbesuch, hat eine der größten amerikanischen
-Krankenkassen, nämlich "United Healthcare", die virtuelle Konsultation in ihren
-Leistungskatalog aufgenommen, bezahlt also dafür. Auch psychologische Beratung
-ist über "Doctor on Demand" erhältlich. Der Vorteil dieser Art von Arztbesuch
-ist natürlich, dass der Patient nicht mit lauter kranken Leuten im Wartezimmer
-sitzen muss, und sofort einen Termin bekommt ohne lange Anfahrtswege zur
-Arztpraxis. Nachteile sind freilich, dass der Arzt den Patienten nicht
-anfassen kann und die persönliche Beziehung zwischen Patient und Arzt verloren
-geht. "Doctor on Demand" ist übrigens eine Firma aus San Francisco. Wir sind aber
-auch weiterhin unserem guten alten Hausarzt treu und begeben uns
-brav in seine Praxis.
+Even sessions with psychologists are available on "Doctor on Demand". 
+The advantage of this kind of interaction with a doctor is of course
+that the patient won't have to sit in a waiting room with other sick
+people, and will get an appointment right away without having to 
+actually drive to the office location. Disadvantages are that the doctor
+can't examine the patient thoroughly because of the lack of physical 
+contact, and that the personal relationship with the doctor suffers.
+"Doctor on Demand" is a San Francisco company, by the way. But we're 
+still devoted to our good old primary care physician of 20 years and 
+will dutifully drive to his office whenever we need him.
+
+TODO
 
 @Z: Toppprodukt: Faltbare Cargo-Box 
 
