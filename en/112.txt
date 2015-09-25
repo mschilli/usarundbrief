@@ -178,11 +178,20 @@ contact, and that the personal relationship with the doctor suffers.
 still devoted to our good old primary care physician of 20 years and 
 will dutifully drive to his office whenever we need him.
 
+@Z: Top Product: The Foldable Cargo Box
+
+<pic images/clever-crate.ps Michael discovered a collapsable cargo box at Costco.>
+
+<em>Michael</em>
+In Germany, many supermarkets carry these collapsable cargo boxes, and
+they usually cost about three or four Euros. Experienced
+shoppers carry them folded up in the trunks of their cars, and when
+they've pushed a shopping cart full of groceries
+back to their parking spot, they simply
+unfold the box, place the items in it, and have thus saved the
+environment from dealing with another plastic bag.
+
 TODO
-
-@Z: Toppprodukt: Faltbare Cargo-Box 
-
-<pic images/clever-crate.ps Michael hat im Costco-Supermarkt die zusammenfaltbare Kiste entdeckt.>
 
 <em>Michael</em>
 In Deutschland führen viele Supermärkte diese zusammen\-falt\-baren 
