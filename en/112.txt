@@ -219,23 +219,25 @@ merchandize priced at $xx.89, it means that it's an everything-must-go
 sale of a few remaining items. For heaven's sake, quick, go find your box
 at Costco, it's an opportunity that opens only once every 15 years!
 
-TODO
+@Z: New Delivery Services
 
-@Z: Neue Bringdienste
-
-<pic images/door-dash-flyer.ps Ein Bringdienst für Restaurants ohne Bring\-dienst.>
+<pic images/door-dash-flyer.ps For restaurants without their own delivery service, there's a new way to offer delivery.>
 
 <em>Michael</em>
-Kaum eine Powermutti hat mehr Zeit, abends zu kochen und deswegen schießen
-die Bring\-dienste bei uns wie Pilze
-aus dem Boden. Und natürlich isst die Hipsterfamilie
-von Welt heutzutage nicht mehr irgendwelche Hamburger oder Produkte
-der Pizzakettenindustrie, sondern nur noch Erzeugnisse von glücklichen
-Landwirten aus der Kategorie vollwertig, nachhaltig, glutenfrei und 
-detoxirierend. Da es nicht jede Wald-und-Wiesen-Wirtschaft geregelt kriegt, eine
-Bestellseite aufs Internet zu stellen, die auch noch mit dem neuesten
-Mobiltelefon funktioniert, sowie eine Horde wildgewordener Fahrradkuriere
-bei Laune zu halten, springen immer mehr Dienstleister in die Lücke.
+Hardly any powermum has the time anymore to cook meals for dinner, and
+that's why new kinds of delivery services are mushrooming in the
+Bay Area. And it goes without saying that today's hipster families won't
+order profane dishes like burgers or pizza anymore, but instead they insist
+on produce grown by happy farmers, whole foods that are both sustainable,
+gluten-free, and detoxicating, if that's indeed a word. Since not every
+family-owned diner restaurant has the resources to get an order
+web site up and running, which is also compatible with the latest
+smartphones, or manage hoards of rabid bike messengers, a new 
+breed of middleman entered the landscape offering exactly this kind of 
+services.
+
+TODO
+
 So liefert zum Beispiel die Firma 
 <LINK>http://www.doordash.com|Doordash</LINK> Gerichte von Restaurants aus, die
 selbst keinen Bringdienst anbieten. Oder die Firma 
