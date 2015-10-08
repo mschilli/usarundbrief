@@ -236,29 +236,29 @@ smartphones, or manage hoards of rabid bike messengers, a new
 breed of middleman entered the landscape offering exactly this kind of 
 services.
 
+Take <LINK>http://www.doordash.com|Doordash</LINK>, for example, a company
+that delivers dishes from restaurants that don't want to run their own delivery
+service. Or <LINK>http://sprig.com|Sprig.com</LINK>, which cooks 
+healthy meals with broccoli and less fat and delivers them to your doorstep
+in environmentally friendly cardboard boxes. 
+
+<pic images/sprig.ps Sprig.com cooks healthy meals and delivers them in an environmentally friendly way.>
+
+And what fascinates me personally about these companies is that their
+web pages and apps were apparently developed by people who actually know
+what they're doing. Ordering is easy and even from a security standpoint they're
+state of the art as well. If you compare that with, say, apps by the 
+German news magazine "Der Spiegel", it seems as if Germany's
+IT sector work force consists of former shopping cart retrievers, who
+were retrained by the unemployment agency from complete amateurs to 
+write smartphone apps in no more than two weeks time. Such slipshod work
+and couldn't-care-less-attitude would be unthinkable in the U.S., as
+the ubiquitous competition would simply crush companies with such bad
+employees.
+
+<pic images/opentable.ps It's that easy to reserve a table in a restaurant.>
+
 TODO
-
-So liefert zum Beispiel die Firma 
-<LINK>http://www.doordash.com|Doordash</LINK> Gerichte von Restaurants aus, die
-selbst keinen Bringdienst anbieten. Oder die Firma 
-<LINK>http://sprig.com|Sprig.com</LINK>, die gesunde Gerichte mit Broccoli
-und wenig Fett kocht und
-in ökologisch unbedenklichen Pappkartons ausliefert. 
-
-<pic images/sprig.ps Auf Sprig.com wird gesund gekocht und umweltbewusst ausgeliefert.>
-
-Und was mich persönlich fasziniert: Alle Webseiten und Apps wurden anscheinend
-von Leuten gemacht, die tatsächlich etwas von Webseiten und Apps verstehen. Das
-Bestellen geht ruck-zuck, und es ist auch sicherheitstechnisch nichts
-Gravierendes einzuwenden. Sieht man sich zum Vergleich die Apps von, sagen wir
-mal, der deutschen Zeitschrift "Der Spiegel" an, wird klar, dass in Deutschland
-im IT-Sektor hauptsächlich per zweiwöchiger ABM-Maßnahme vom
-Einkaufs\-wagen\-schieber zum gewerkschaftlich organisierten App-Programmierer
-umgeschulte Laien arbeiten. Solche Schluderei und Wurstigkeit wäre in Amerika
-im Internetsektor undenkbar, die allseits lauernde Konkurrenz würde Firmen mit
-solch schlechten Angestellten schlichtweg plattmachen.
-
-<pic images/opentable.ps So einfach kann es sein, einen Tisch in einem Restaurant zu reservieren.>
 
 Um einen Tisch in einem Restaurant zu reservieren muss man heutzutage nicht
 mehr dort anrufen, sondern wird meist von der Webseite zu einem Service namens
