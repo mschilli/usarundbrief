@@ -258,20 +258,23 @@ employees.
 
 <pic images/opentable.ps It's that easy to reserve a table in a restaurant.>
 
-TODO
+Nowadays, to reserve a table in a restaurant, there's no need to call
+them. Instead, their web site usually 
+directs guests to a service called Open Table. Five buttons appear,
+labeled 5:00 pm, 5:30 pm, 6:00 pm, and so forth, 
+from which you simply select one and
+then let the smartphone auto-fill in your name and phone number. That's it!
+Recently, we were on a hiking trail in Point Reyes and were planning to
+have lunch soon after, so we booked a reservation for an hour later right there
+on the trail. After we had finished the hike and arrived back at 
+the parking lot, we drove to the restaurant and were seated immeditately,
+even though there were other people waiting in line. Open Table
+is free for guests making reservations, and the restaurant pays a
+fixed price of $199 per month plus $0.25 per guest if they came through
+the restaurant's website, and $1.00 if they came via Open Table's own 
+site.
 
-Um einen Tisch in einem Restaurant zu reservieren muss man heutzutage nicht
-mehr dort anrufen, sondern wird meist von der Webseite zu einem Service namens
-Open Table dirigiert. Dort kriegt man fünf Knöpfe auf den Schirm, auf denen
-Uhrzeiten wie 17:00, 17:30, 18:00 stehen und die drückt man dann, lässt das
-Telefon anschließend automatisch Name und Telefonnummer ausfüllen und fertig
-ist der Lack. Wir haben mal während einer Wanderung in Point Reyes per Handy
-einen Tisch für eine Stunde später reserviert, setzten uns am Ende des Trails
-ins Auto, fuhren dorthin und wurden sofort an einen Tisch gesetzt, obwohl Leute
-im Eingangsbereich warten mussten.  Für Gäste kostet Open Table nichts, und das
-Restaurant zahlt eine monatliche Grundgebühr von $199 sowie pro Gast und
-Buchung $0.25, falls der über die Webseite der Wirtschaft reinkam oder $1.00
-über die Seite von Open Table.
+TODO
 
 Natürlich gibt es auch in der hiesigen Gastronomieszene ewiggestrige Jammerer,
 die sich aufregen,
