@@ -264,8 +264,8 @@ directs guests to a service called Open Table. Five buttons appear,
 labeled 5:00 pm, 5:30 pm, 6:00 pm, and so forth, 
 from which you simply select one and
 then let the smartphone auto-fill in your name and phone number. That's it!
-Recently, we were on a hiking trail in Point Reyes and were planning to
-have lunch soon after, so we booked a reservation for an hour later right there
+Recently, we were on a hiking trail in Point Reyes and were planning on
+having lunch soon after, so we booked a reservation for an hour later right there
 on the trail. After we had finished the hike and arrived back at 
 the parking lot, we drove to the restaurant and were seated immeditately,
 even though there were other people waiting in line. Open Table
