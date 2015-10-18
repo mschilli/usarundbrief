@@ -290,23 +290,25 @@ ahead of time and avoid that costly mistake.
 
 <pic images/doorman.ps This lady can't believe her package didn't get nabbed by some package-stealing bum for a change.>
 
-TODO
+Another opportunity for a newly invented service industry came about because
+unfortunately
+there's a bunch of bums scouring our neighborhood during the day, stealing
+packages casually "delivered" by mail carriers who simply
+leave them on people's doorsteps (<RBLINK>20141221#2</RBLINK>). 
+Recently, a young entrepeneur grasped the opportunity. He
+previously pitched his idea in the the TV show 
+<LINK>http://abc.go.com/shows/shark-tank|Shark Tank</LINK>
+and has launched <LINK>http://doorman.com|Doorman</LINK>, a 
+package delivery service with more flexible operating hours than
+established companies like the US Postal Service, UPS, or Fedex. 
+Instead of having online orders shipped to a private residence, people
+now simply ship to Doorman, receive a message when the package arrives
+and can then schedule delivery between 6pm and midnight. 
+Doorman charges $3.99 per package or $19 a month for unlimited packages.
+Great idea, and I'd hop on it if I hadn't perfected shipping to my 
+workplace and hauling stuff home on the bus at night.
 
-Oder das Problem mit zugestellten Paketen: In <RBLINK>20141221#2</RBLINK> haben wir 
-mal darüber berichtet, dass sich bei uns im Viertel untertags
-ein Haufen Nichtsnutze herumtreibt, die die Pakete klauen, die die 
-Paketdienste äußerst leger auf der Eingangstreppe "zustellen", 
-also unbeaufsichtigt liegen lassen.
-Jetzt bietet ein Jungunternehmer, der auch schon mal in der Fernseh\-sendung 
-<LINK>http://abc.go.com/shows/shark-tank|Shark Tank</LINK> war,
-mit der Firma <LINK>http://doorman.com|Doorman</LINK> einen Dienst mit flexibleren
-Zustellungszeiten als die etablierten Zusteller an.
-Für $3.99 pro Paket oder einer Flatrate von $19 pro Monat für beliebig viele Pakete
-lässt man sich seine Online-Einkäufe
-nicht mehr nach Hause schicken, sondern adressiert sie an Doorman, der dann Bescheid
-gibt, falls die Sendung da ist und sie zwischen 18:00 und 
-Mitternacht zustellt. Riesenidee, würde ich
-vielleicht auch machen, falls ich nicht eh schon alles in die Firma schicken würde.
+TODO
 
 @Z: Ungewöhnliche Dürremaßnahmen
 
