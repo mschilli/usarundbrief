@@ -308,21 +308,23 @@ Doorman charges $3.99 per package or $19 a month for unlimited packages.
 Great idea, and I'd hop on it if I hadn't perfected shipping to my 
 workplace and hauling stuff home on the bus at night.
 
-TODO
+@Z: Unusual Drought Measures
 
-@Z: Ungewöhnliche Dürremaßnahmen
-
-<pic images/drought-showers.ps Der Park-Service hat die Duschen am Strand wegen der Dürre abgestellt.>
+<pic images/drought-showers.ps Showers at the beach have been shut off by the park service, prompted by the drought.>
 
 <em>Angelika</em>
-Dass Kalifornien seit vier Jahren mit einer schlimmen Trockenperiode kämpft,
-weil es im Winter nicht genug regnet oder schneit, ist welweit bekannt.
-Mittlerweile spüren wir das auch immer mehr im Alltag. Durch die Trockenheit
-brennt es zur Zeit überall im Bundesstaat (17 aktive Brände lodern momentan
-in Kalifornien) und unsere Luft dieses Wochenende roch nicht nur nach Rauch,
-sondern es war auch extrem diesig. 
+It's been reported all over the world that California has been struggling
+with a severe drought for four years now, because there hasn't been enough
+rainfall during the winter months. We've been experiencing the effects
+of this lately day in and day out. Caused by the extreme dryness all around, 
+there's no less than 17 active wild fires raging 
+across the State of California, and
+even in our neighborhood in San Francisco, we can smell smoke and 
+the air is quite hazy.
 
-<pic images/brown-new-green.ps "Brown is the new Green" ist das Motto auf Kaliforniens Rasenflächen.>
+<pic images/brown-new-green.ps "Brown is the new Green" is the motto on California's lawns.>
+
+TODO
 
 San Francisco hat zwar noch keine
 Zwangsmaßnahmen zum Wassersparen ergriffen, aber auf Schritt und Tritt werden
