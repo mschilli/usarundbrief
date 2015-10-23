@@ -324,29 +324,29 @@ the air is quite hazy.
 
 <pic images/brown-new-green.ps "Brown is the new Green" is the motto on California's lawns.>
 
-TODO
+Although San Francisco hasn't legislated compulsory measures for saving
+water yet, there's reminders towards conserving the precious resource
+all over the place. The new
+slogan "Brown is the new Green!" refers to the city no longer watering
+their public green spaces, and they're asking citizens to follow
+suit. 
 
-San Francisco hat zwar noch keine
-Zwangsmaßnahmen zum Wassersparen ergriffen, aber auf Schritt und Tritt werden
-wir zum Sparen angehalten. Der neueste Slogan ist "Brown is the new Green!"
-(Braun ist das neue Grün!), denn die Stadt bewässert Grünflächen nicht mehr
-und fordert den Bürger auf, das Gleiche zu tun. 
+<pic images/drought-restaurant.ps This restaurant stopped filling water glasses automatically and will do so only upon request.>
 
-<pic images/drought-restaurant.ps Dieses Restaurant schenkt nur noch auf Verlangen Wasser aus.>
-
-In vielen Restaurants bekommt
-man das obligatorische Wasserglas nur noch auf Nachfrage auf den Tisch
-gestellt. Ich hoffe, dass sich dies allgemein durchsetzen wird, Dürre hin oder
-her. Die öffentlichen Strandduschen an allen kalifornischen Stränden wurden
-abgestellt, sodass der Strandgänger jetzt mit sandigen Füssen heimgehen muss.
-Viele Hobbygärtner bestücken ihre Gärten neuerdings auch mit Pflanzen, die
-wenig Wasser brauchen.
+Many restaurants stopped automatically serving glasses filled with 
+tap water at their tables. I hope that this stays that way, regardless
+of the drought. And, unfortunately, the park service has turned off all
+showers at the public state beaches, forcing visitors to return home
+with sandy feet! And many gardeners are coping with the water shortage 
+by picking plants which get by with very little watering.
 
 <HTMLONLY>
-<pic images/drought-carwash.ps Die Autowaschanlage sperrt wegen Wasser\-mangels mittwochs zu.>
+<pic images/drought-carwash.ps The car wash is closed on Wednesdays to save water.>
 </HTMLONLY>
 
-<pic images/drought-carwash-ok.ps Ein Bild der Autowaschanlage aus glücklicheren Tagen.>
+<pic images/drought-carwash-ok.ps This is what the car wash looked like in happier days.>
+
+TODO
 
 Manch ein Hobbygärtner wässert auch mit wieder aufbereitetem Abwasser.
 Einige städtische Aufbereitungsanlagen geben dieses trübe nicht zum 
