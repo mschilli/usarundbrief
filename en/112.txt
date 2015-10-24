@@ -346,17 +346,18 @@ by picking plants which get by with very little watering.
 
 <pic images/drought-carwash-ok.ps This is what the car wash looked like in happier days.>
 
+Some hobby gardeners are watering their plants with reclaimed waste water.
+A few municipal wastewater recycling plants offer this turbid water
+product for free and people are driving to these places with giant 
+containers on their trucks to haul them back filled with few hundred gallons.
+Their offerings have become so popular that they've started restricting 
+the program to local residents.
+
+<pic images/drought-free-waste-water-1.ps Recycled wastewater for lawn watering ...>
+
+<pic images/drought-free-waste-water-2.ps ... is given away for free and people haul it back to their yards in giant tanks on their trucks.>
+
 TODO
-
-Manch ein Hobbygärtner wässert auch mit wieder aufbereitetem Abwasser.
-Einige städtische Aufbereitungsanlagen geben dieses trübe nicht zum 
-Trinken geeignete Produkt kostenlos ab und die Leute holen es in großen
-Kanistern mit dem Auto ab. Das Programm ist mittlerweile so beliebt, 
-dass nur noch Einwohner des jeweiligen Bezirks das Wasser bekommen. 
-
-<pic images/drought-free-waste-water-1.ps Wiederaufbearbeitetes Wasser zum Rasenwässern ...>
-
-<pic images/drought-free-waste-water-2.ps ... ist umsonst und wird in Tanks herumgekarrt.>
 
 Es fasziniert mich dabei immer wieder, wie Leute plötzlich ihr Verhalten ändern
 und zu Umweltschützern mutieren, wenn sie müssen. Auch unsere Autowaschanlage
