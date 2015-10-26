@@ -369,21 +369,22 @@ supposed to bring the desired rain.
 
 <pic images/la-times-selleck.ps Scandal: Actor Tom Selleck allegedly stole water to irrigate his lawn.>
 
-TODO
+Recently, news broke that the actor Tom Selleck, well-known for his lead role
+in the 80ies TV series "Magnum",
+<LINK>http://www.latimes.com/local/lanow/la-me-ln-tom-selleck-water-complaint-20150707-story.html|had become entangled in an irrigation scandal</LINK>. 
+The Callegues Municipal Water District found it curious that a privately 
+owned water truck stopped several times a week at a public hydrant
+to syphon off water and drive it the actor's property. They hired a 
+private investigator for a whopping $20,000 and found out that Magnum
+used the water to irrigate his vast lot of greenery. And that while
+his neighbors dutyfully rationed their water to comply with state
+mandates, and were forced to look at their own dried brown turf in
+disdain!
+The water district sued Magnum, but both parties 
+reached a settlement out of court, where Magnum paid the cost for the 
+private investigator back, plus an undisclosed amount in damages.
 
-Selbst der Schauspieler Tom Selleck, bekannt aus der Fernsehserie "Magnum" in
-den 80er-Jahren,
-<LINK>http://www.latimes.com/local/lanow/la-me-ln-tom-selleck-water-complaint-20150707-story.html|ist nun in einen Wasserskandal verwickelt|Tom Selleck in Wasserskandal verwickelt</LINK>. 
-Dem Wasseramt des Landkreises Callegues bei Los Angeles kam
-es spanisch vor, dass ein privater Tanklastwagen mehrmals wöchentlich an einem
-öffentlichen Hydranten Wasser abzapfte und es auf das Grundstück des
-Schauspielers karrte. Sie heuerten für 20.000 Dollar einen Privatdetektiv an
-und fanden heraus, dass Magnum es zur Benetzung seiner weitflächigen
-Grünanlagen nutzte. Und das, während seine Nachbarn verzweifelt auf ihre
-eigenen braunen Grasnarben starren mussten, weil sie das Wasser wie
-vorgeschrieben rationierten!  Es kam zur Anzeige, aber Magnum einigte sich mit
-dem Wasseramt außergerichtlich und erstattete die Kosten für den Privatdetektiv
-sowie eine unbezifferte Schadensersatzsumme.
+TODO
 
 @Z: Toppprodukt: Rold Gold Salzbrezeln
 
