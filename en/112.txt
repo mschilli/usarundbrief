@@ -384,26 +384,28 @@ The water district sued Magnum, but both parties
 reached a settlement out of court, where Magnum paid the cost for the 
 private investigator back, plus an undisclosed amount in damages.
 
-TODO
+@Z: Top Product: Rold Gold Pretzels
 
-@Z: Toppprodukt: Rold Gold Salzbrezeln
-
-<pic images/pretzels-2.ps Ein Klassiker: Rold Gold Salzbrezeln>
+<pic images/pretzels-2.ps The classic Rold Gold Pretzel snack.>
 
 <em>Michael</em>
-So eine Tüte Salzbrezeln ist ja eigentlich kein Fein\-schmecker\-snack, bei 
-dem man auf die Marke achten müsste, aber was mich an den Rold Gold 
-Salzbrezeln fasziniert ist das klassische 50er-Jahre-Design der Tüte, 
-das aussieht wie aus einer Episode von 
-<LINK>http://www.amc.com/shows/mad-men|"Mad Men"</LINK>. 
-Die Brezeln sind größer und dünner als die anderer Marken und man kann zu 
-einem Glas Bier mühelos einen Teller davon leeren. Gerne stelle ich 
-mir dabei vor, wie ein Arbeitnehmer der Mittelschicht sich nach Feierabend
-erst mal auf das Sofa plumpsen lässt, und "I love Lucy" in Schwarz-Weiß
-anschaut, während er von oben Salzbrezeln einwirft. Was Angelika übrigens
-tierisch aufregt, weswegen ich es immer heimlich machen muss.
+Agreed, a bag of salty pretzels isn't exactly a gourmet snack, which 
+would justify paying more for a respectable brand, but what I find
+really fascinating about the Rold Gold pretzels is the classic 
+1950ies design of the bag, which almost looks like it came straight
+from an episode of <LINK>http://www.amc.com/shows/mad-men|"Mad Men"</LINK>.
+These pretzels are bigger and thinner than those manufactured by 
+other brands and you can easily eat a whole plate of them while
+washing them down with a glas of beer. While doing that, 
+I like to imagine how a middle class family man plops down on
+the couch after work, turns on the black-and-white TV to 
+"I Love Lucy" and starts dropping pretzels into his open mouth. 
+Angelika finds this behavior unacceptable, which is why I can
+only do it when I'm by myself.
 
-<pic images/pretzels-1.ps Ein paar Brezeln und ein Bier dazu: Einfach unbezahlbar.>
+<pic images/pretzels-1.ps A few pretzels along with a glass of beer: Priceless.>
+
+TODO
 
 Laut Verpackungsaufdruck ist die Marke seit 1917 im Umlauf, gehört aber heute
 nicht mehr dem ursprünglichen Eigentümer "American Cone and Pretzel Company",
