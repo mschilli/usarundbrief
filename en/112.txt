@@ -405,15 +405,14 @@ only do it when I'm by myself.
 
 <pic images/pretzels-1.ps A few pretzels along with a glass of beer: Priceless.>
 
-TODO
+According to the imprint on the bag, the brand has been around since 
+1917, but no longer belongs to the original owner
+"American Cone and Pretzel Company", as it got acquired by 
+the gigantic Frito Lay corporation. And don't believe that it says
+"America's No. 1 Pretzel" either, because the pretzel market leader
+<LINK>https://en.wikipedia.org/wiki/Snyder%27s_of_Hanover|Snyder's of Hanover</LINK> is selling more of them.
 
-Laut Verpackungsaufdruck ist die Marke seit 1917 im Umlauf, gehört aber heute
-nicht mehr dem ursprünglichen Eigentümer "American Cone and Pretzel Company",
-sondern dem Monster\-unter\-nehmen Frito Lay und ist laut
-<LINK>https://en.wikipedia.org/wiki/Rold_Gold|Wikipedia</LINK> 
-keineswegs "America's No. 1 Pretzel", wie es auf der Verpackung 
-großspurig tönt. Der Marktführer
-<LINK>https://en.wikipedia.org/wiki/Snyder%27s_of_Hanover|Snyder's of Hanover</LINK> setzt mehr Brezeltüten um.
+TODO
 
 Nicht überliefert ist meines Wissens leider,
 ob "Rold Gold" die Marke Salzbrezeln ist, von denen 
