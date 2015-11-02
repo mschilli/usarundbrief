@@ -417,22 +417,24 @@ because he subsequently fell unconcious, face-planted against the wooden
 floor of his sun deck, to explain to astonished news people the next day 
 where the big wound on his temple came from.
 
-TODO
-
-@Z: Amerikanisches Werkzeug
-
-<pic images/pipe-wrench.ps (#1) Eine Rohrzange der Marke Ridgid, made in USA.>
+@Z: Tools made in USA
 
 <em>Michael</em>
-Welcher Hobbyheimwerker erfreut sich nicht an seiner Werkzeugsammlung! 
-Ich habe mir schon von Jugendjahren an immer das teuerste Werkzeug gekauft
-und liebevoll gepflegt. So stecken in meiner Werkzeugtasche zum Beispiel
-immer noch zwei circa 30 Jahre alte Zangen von der Firma Bernstein, die ich 
-damals in zartem Alter in München bei Bürklin in der Schillerstraße 
-zu einem exorbitanten Preis erworben habe. Oder die Schraubenzieher
-der deutschen Firma Wiha, gekauft letztes Jahr bei einem Deutschlandbesuch 
-zu einem Fantasiepreis: die liegen so gut in der Hand, dass das Reparieren 
-gleich doppelt Spaß macht.
+Which hobby handyman doesn't take pride in his tool collection! 
+Ever since I was a young kid, I've been collecting the highest quality
+tools, even when they could only be obtained at an exorbitant price.
+For example, in my toolbag, there's two pairs of piers that are about
+30 years old, made by the famous German toolmaker Bernstein, which I 
+personally purchased back in the day
+at the Bürklin store in the Schillerstraße in
+downtown Munich, and I vividly remember how I cringed because they
+were really expensive back then.
+Or take the screwdriver set made in Germany by Wiha, which I bought
+in Germany last year when we visited the old country again. They are
+really fun to work with and feel fantastic, they really make my day
+when I set out to repair anything that needs maintenance.
+
+TODO
 
 Genau wie in Deutschland findet man aber in den Regalen eines typischen
 amerikanischen Baumarkts praktisch
