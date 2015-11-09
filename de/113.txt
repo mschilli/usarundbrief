@@ -42,10 +42,10 @@ Gewohnheiten abzustellen.
 
 <pic images/tile-2.ps Auf der Landkarte kann man sehen, wo der Schlüsselbund sich gerade befindet.>
 
-Dem Problem verlegter Utensilien nimmt sich seit kurzem eine Startup-Firma
+Dem Problem verlegter Utensilien nimmt sich seit kurzem die Startup-Firma
 <LINK>https://www.thetileapp.com/about|Tile</LINK>
 (englisch für "Kachel") aus dem Silicon Valley (wo auch sonst) 
-an, indem es kleine schlanke weiße
+an, indem sie kleine schlanke weiße
 Plastiktäfelchen produziert, die man an den Schlüsselbund hängt oder in
 den Geldbeutel steckt. Diese können zwar ihre eigene Position nicht ermitteln
 oder gar weltweit herumfunken, aber sie nehmen Kontakt mit dem Mobiltelefon
