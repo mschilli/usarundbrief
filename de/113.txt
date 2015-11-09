@@ -456,9 +456,9 @@ eingesessener und zertifizierter Arbeiter und sogenannter "Contractors"
 (Bauleiter) ebenbürtig ist,
 aber halt nicht den offiziellen Vorschriften genügt. Da
 ein so fertiggestelltes Bauwerk aber nur ein Bruchteil von dem kostet, was
-ein Bauarbeiter mit sauberen Papieren verlangen würden, ist im privaten
-Sektor Schwarzarbeit mit den damit einhergehenden nicht offiziell 
-abgesegneten Reparaturen gang und gäbe.
+ein Bauarbeiter mit sauberen Papieren verlangen würde, ist im privaten
+Sektor Schwarzarbeit gang und gäbe, einschließlich der damit 
+einhergehenden nicht offiziell abgesegneten Reparaturen.
 
 <pic images/quake-stabilizer-4.ps Die Dämpfer sind drehend eingelagert und geben bei Stößen sanft nach.>
 
