@@ -455,22 +455,23 @@ problems.
 
 <pic images/osborne-punch.ps (#2) A traditional punch manufactured by Osborne, made in USA.>
 
+I love the bold design of these traditional made-in-the-USA tools, which
+seems to have been unaffected all the progress in modern toolmaking 
+since the 1950ies. Some of them are pretty heavy-handed because the
+manufacturing companies are still using ancient materials like cast iron,
+but I like they way they look and how the feel in my hand. I spent
+a whopping $50 on the bodacious "Ridgid" pipe wrench (Figure (#1)), but
+I've got to admit that for practical reasons,
+I didn't go for the cast iron version and
+chose the aluminum make instead, although even the lighter version 
+still feels like it could easily withstand a nuclear strike. 
+Or take the revolving punch made by Osborne (Abbildung (#2)). The design
+could easily date back to Wild West times, but even nowadays, no 
+honest shoemaker or leather craftsman would settle for anything less solid.
+
+<pic images/craftsman-hammer.ps (#3) A carpenter's hammer made by Craftsman.>
+
 TODO
-
-Mir gefällt dieses hausbackene Design traditionell in den USA gefertigter
-Werkzeuge, das sich scheinbar seit den 50er-Jahren nicht weiterentwickelt 
-hat. Dass die alteingesessenen Firmen immer noch Materialien wie Gusseisen
-verwenden, schränkt den Einsatzbereich mancher Werkzeuge zwar ein,
-aber ich erfreue mich einfach an ihrem Aussehen und daran, wie sie in der 
-Hand liegen. Die mächtige Rohrzange der Marke "Ridgid" (Abbildung (#1)) 
-habe ich mir allerdings in der Aluminium-Ausgabe gekauft für schlappe
-50 Dollar, aber das Teil fühlt sich an als könnte es einem Atomschlag 
-standhalten. Das Design der Lochzange der Firma Osborne 
-(Abbildung (#2)) könnte noch aus der
-Zeit des Wilden Westens stammen, und kein Schuster oder Lederverarbeiter 
-würde sich mit etwas weniger Solidem zufrieden geben.
-
-<pic images/craftsman-hammer.ps (#3) Ein Zimmermannshammer der Firma Craftsman.>
 
 Amerikanische Hämmer sind übrigens lustigerweise immer soge\-nannte 
 Zimmermannshämmer mit einer Vorrichtung zum Nägelherausziehen am 
