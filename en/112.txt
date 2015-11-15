@@ -471,31 +471,36 @@ honest shoemaker or leather craftsman would settle for anything less solid.
 
 <pic images/craftsman-hammer.ps (#3) A carpenter's hammer made by Craftsman.>
 
+Interestingly, hammers sold in the US are typically carpenter's hammers, 
+featuring a claw on one end to help removing nails, although I don't think
+I've ever in my life removed a nail with a hammer claw.
+The "Craftsman" brand is sold at "Sears" retail stores, which is 
+the most disastrous American chain and I'd shop there only if there
+was absolutely no other way, like if all other stores had been
+overrun by zombies and I was in desperate need of a hammer.
+
+Let me tell you, I've ordered items at Sears' website, 
+but when I then followed the directions in 
+the confirmation email to pick up my stuff at the nearest store,
+it turned out that no one there knew where my order was.
+It wouldn't surprise me at all 
+if their terrible business went bankrupt soon.
+Regardless, the hammer in Figure (#3) with its 1950ies style walnut handle is
+a timeless beauty, and most likely, I bought it not from Sears, 
+but at a completely
+different chain store, Ace Hardware. They feature many small 
+franchise stores all across America, and sometimes they can be found even 
+in remote villages. Their staff is always knowledgable and eager to help. 
+And they even sell single screws at 10 Cents! I'm telling you, 
+we've got to support these Ace stores, because if they're gone one day
+and all that's left are the "Home Depot" and "Lowes" big box hardware stores,
+there's going to be a rude awakening with much moaning and tearing of 
+clothes. Make sure to frequent them for your hardware needs, and even
+if you need a more expensive item, give them your business even if
+it's a few dollars more. You'll save gas and time driving to the
+nearest suburban big box store anyway.
+
 TODO
-
-Amerikanische Hämmer sind übrigens lustigerweise immer soge\-nannte 
-Zimmermannshämmer mit einer Vorrichtung zum Nägelherausziehen am 
-hinteren Ende, obwohl ich damit glaube ich noch nie auch nur einen
-einzigen Nagel entfernt habe. "Craftsman" ist übrigens die
-Hausmarke des Kaufhauses "Sears", was der größte Saftladen Amerikas ist,
-in dem ich nur in allerhöchster Not einkaufen würde, zum Beispiel wenn
-alle anderen Länden von einer Zombiehorde überrannt worden wären und
-ich dringend einen Hammer bräuchte. 
-
-Ich habe schon Sachen bei Sears Online
-bestellt, wurde per Email zum nächsten Laden dirigiert, um ein Teil 
-abzuholen, um dann festzustellen, dass es gar nicht da war. Der Laden
-ist so bodenlos schlecht, dass es mich nicht wundern würde, wenn er
-demnächst pleite geht. Aber der Hammer in Abbildung (#3) mit seinem 
-50er-Jahre-Nussbaum-Stiel ist einfach zu schön, und den habe ich wahrscheinlich
-eh bei "Ace Hardware" gekauft, einem Franchise-Laden mit vielen vielen
-lokalen Niederlassungen auch in den abgelegensten Dörfern, in dem noch
-aufrechte Verkäufer arbeiten, die tatsächlich noch Bescheid wissen.
-Die verkaufen sogar noch einzelne Schrauben für 10 Cent! Ich sage, 
-unterstützt diese Läden, wenn's eines Tages nur noch "Home Depot" und "Lowes"
-gibt, werdet ihr heulen und mit den Zähnen knirschen, also drückt auch
-mal ein Auge zu, zahlt ein paar Dollar mehr für ein größeres Trumm, 
-ihr spart eh das Benzin zum nächsten Vorort-Baumarkt.
 
 @Z: Thank you - Uh huh
 
