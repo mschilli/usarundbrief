@@ -1,0 +1,601 @@
+San Francisco, den 08.11.2015
+
+@Z: Nun erlaubt: Wäschetrocknen auf der Leine
+
+<pic images/laundry-chinatown.ps Anwohner in San Franciscos Chinatown können ihre Wäsche nun legal auf dem Balkon trocknen.>
+
+<em>Angelika</em>
+Draußen Wäsche zu trocknen ist in den USA verpönt.
+Statt flatternder Hemdchen im Wind bevorzugt der Amerikaner den
+Trockner. Das kostet allerdings Energie. In vielen Wohnsiedlungen
+Kaliforniens war es bis vor kurzem sogar verboten, Wäsche auf der Leine
+oder mit Hilfe eines Wäscheständers draußen zu trocknen. Die mächtigen
+Hauseigentümerverbände ("Homeowners Associations") sahen darin eine
+Verschandelung ihrer Gebäude und die Gefahr der Wertminderung, und
+verboten es deshalb oft in den Verträgen mit den Wohnungseigentümern
+und deren Mietern.
+
+Ab Januar 2016 darf nun aber jeder Kalifornier seine Wäsche legal
+auf der Leine
+trocknen. Unser Gouverneur Jerry Brown unterzeichnete das Gesetz im Oktober,
+denn es gilt als umweltfreundlich und da möchte Kalifornien in der Regel die
+Nase vorn haben. Die kalifornische Abgeordnete Patti Lopez aus San Fernando
+brachte das neue Gesetz auf den Weg, allerdings nicht gerade nur aus
+Umweltschutzgründen. Viele ihrer Wähler können sich keinen Trockner
+leisten und das Trocknen auf der Wäscheleine kostet eben nichts. Hier sind die
+anderen Bundestaaten, die ebenfalls das Wäschetrocknen auf der Leine erlauben:
+Florida, Hawaii, Maine, Utah, Vermont. In San Franciscos Chinatown gehört die
+flatternde Wäsche übrigens zum Stadtbild. Seit Jahr und Tag hängt dort
+schon die Wäsche draußen, Gesetz hin oder her.
+
+@Z: Toppprodukt: Der Schlüsselfinder von Tile
+
+<pic images/tile-1.ps Der kleine Tile-Anhänger am Schlüsselbund hilft Schusseln bei der Suche.>
+
+<em>Michael</em>
+Manche Leute in unserem Haushalt, und ich will hier mal bewusst keine Namen
+nennen, verlegen laufend ihre Schlüssel oder den Geldbeutel. Das Problem
+lässt sich zwar auch einfach dadurch lösen, dass man sich angewöhnt, 
+diese beiden Utensilien immer an derselben Stelle abzulegen, 
+aber mit zunehmendem Alter wird es nicht leichter, eingeschleifte 
+Gewohnheiten abzustellen.
+
+<pic images/tile-2.ps Auf der Landkarte kann man sehen, wo der Schlüsselbund sich gerade befindet.>
+
+Dem Problem verlegter Utensilien nimmt sich seit kurzem die Startup-Firma
+<LINK>https://www.thetileapp.com/about|Tile</LINK>
+(englisch für "Kachel") aus dem Silicon Valley (wo auch sonst) 
+an, indem sie kleine schlanke weiße
+Plastiktäfelchen produziert, die man an den Schlüsselbund hängt oder in
+den Geldbeutel steckt. Diese können zwar ihre eigene Position nicht ermitteln
+oder gar weltweit herumfunken, aber sie nehmen Kontakt mit dem Mobiltelefon
+des Benutzers auf, und können ihn bis zu etwa zehn Metern Distanz halten.
+Merkt das Handy dann, dass der Kontakt zum Täfelchen abreißt, speichert es die
+letzte bekannte Position. Findet der Besitzer später ein Trumm mit 
+angehängter Tile-Kachel nicht mehr, schaut er in die App auf seinem 
+Smartphone, und kann dort auf einer Landkarte die letzte bekannte
+Position des Trumms sehen. Befindet es sich in Reichweite des Telefons,
+kann die App die Tile sogar anfunken und eine Melodie spielen lassen,
+sodass man den Schlüsselbund auch unter einem Sofakissen lokalisieren
+kann. Und da das Mobiltelefon diese Daten laufend an Tile meldet, kann
+man auch andere Mobiltelefone dort einbinden, die dann ebenfalls auf
+dem Laufenden bleiben.
+
+Die Tiles kosten pro Stück etwa 17 Dollar und halten ein Jahr. Da man
+die eingeschweißte Batterie nicht auswechseln kann, muss man anschließend
+neue Kacheln kaufen, so verdient die Firma ihr Geld.
+
+<pic images/tile-3.ps Zwei Schlüsselbunde und zwei Geldbeutel werden so laufend überwacht.>
+
+Ist ein Utensil mit Tile-Kachel hoffnungslos außer Reichweite, zum
+Beispiel weil ein Geldbeutel gestohlen wurde, kann man es in
+der Tile-App als verloren melden. Daraufhin meldet die Tile-Firma das
+verlorene Teil an alle ihre Nutzer, deren Apps dann Tile
+betriebsintern Bescheid geben, wenn irgendein Mensch mit Tile-App in 
+Reichweite der gesuchten Kachel kommt, und dies wiederum demjenigen melden, der
+das Ding als verloren gemeldet hat. Ein Wahnsinn!
+
+Lustigerweise hat die App auch noch einen Nebeneffekt: Da sie in unserem
+Haushalt laufend den
+Aufenthaltsort vier verschiedener Tile-Tokens über insgesamt zwei 
+Mobiltelefone überwacht, weiß sie auch, wo deren Besitzer gerade weilen.
+Ich kann also genau sehen, wo Angelika sich gerade herumtreibt, weil ihr
+Handy seine Position an den Tile-Server meldet, der wiederum meinem
+Mobiltelefon Bescheid gibt. Das ist sehr praktisch, aber falls man es mal
+unterbinden möchte, entzieht man der App einfach den GPS-Zugriff.
+
+@Z: Beschränkt San Francisco Airbnb?
+
+<pic images/prop-f-sign.ps Dieser Anwohner befürwortet laut Wahlplakat die Proposition F und möchte, dass die Stadt Vermietungen durch die Firma Airbnb beschränkt.>
+
+<em>Angelika</em>
+San Francisco und Kalifornien lieben ja bekanntlich
+ihre Volksbegehren. Bei jeder Stadtwahl stehen eine Unzahl von sogenannten 
+"Propositions" auf dem Wahlzettel, über die der Bürger zu entscheiden hat. 
+Am 4. November dieses Jahres fand deswegen auch nicht nur die 
+Bürgermeisterwahl in 
+San Francisco statt. Die Wähler stimmten ebenfalls über 
+die sogenannte "Proposition F" ab, die im Volksmund auch als die 
+"Airbnb-Abstimmung" bekannt ist.
+
+Airbnb ist euch ja vielleicht ein Begriff. Das ist diese Webplattform, 
+über die man private Unterkünfte buchen kann. Brian Chesky, Joe Gebbia und 
+Nathan Blecharczyk etablierten die Firma 2008 in San Francisco, 
+nachdem die ersten beiden Gründer einfach während einer 
+internationalen Konferenz für Design in der Stadt beschlossen hatten, 
+ein paar zusätzliche 
+Betten und Luftmatratzen als Schlafplätze in ihrem Apartement 
+zu vermieten. Sie überredeten ihren Freund Nathan dazu,
+eine Website mit dem Namen "Airbedandbreakfast.com" 
+aus dem Boden zu stampfen, und die Sache nahm ihren Anfang.
+
+Was klein begann, hat sich mittlerweile zu einem
+großen und bekannten Unternehmen gemausert. 
+Die Firma Airbnb (der ursprünglich längere Name wurde ab 2009 abgekürzt)
+expandierte in andere Städte und Länder und kam
+immer mehr unter Druck und in die Schlagzeilen, vor allem
+in Städten wie San Francisco, wo der Wohnraum knapp und heißbegehrt
+ist.
+
+<pic images/airbnb.ps Das Airbnb-Angebot in unserem Viertel.>
+
+Eigentlich ist das Ganze ja eine brilliante Idee. Leute, die ein Zimmer
+in ihrer Wohnung oder in ihrem Haus nicht nutzen oder vielleicht für einige
+Zeit auf Reisen sind, vermieten das Zimmer oder die ganze 
+Wohnung kurzfristig, verdienen sich damit
+ein bisschen Geld nebenbei und wickeln alles unbürokratisch über eine Website
+ab. Um die Verwaltung brauchen sie sich dabei nicht zu kümmern,
+und der Tourist schätzt, dass er sich nicht in ein anonymes Hotel einmieten
+muss. 
+Kritiker werfen nun aber ein, dass Vermieter mittlerweile auf den
+Trichter gekommen sind, dass es sich für sie auszahlt, ihre Wohnungen über
+Airbnb anzubieten und damit immer wieder kurzfristig zu vermieten, statt
+sie Langzeitmietern zur Verfügung zu stellen, was den
+eh schon knappen Wohnraum für normale Mieter noch mehr verknappt.
+
+In San Francisco ist der
+Wohnungsmarkt so überteuert und angespannt, dass das Thema in aller Munde ist
+und die Gemüter erhitzt. Die Proposition F würde kurzfristige Vermietungen 
+gesetzlich auf 75 Tage im Jahr begrenzen. 
+Zur Zeit dürfen Privatleute ihre Wohnungen an bis zu 90 Tagen im Jahr
+untervermieten, wenn sie als Hauptmieter oder Besitzer nicht anwesend sind, 
+und keinerlei Begrenzungen bestehen, falls der Hauptmieter/Besitzer 
+sich ebenfalls in der Wohnung aufhält.
+Träte das Gesetz in Kraft, müsste der Untervermieter
+der Stadt melden, wie lange der über Airbnb (oder
+ähnlichen Anbietern) vermittelte Wohnraum kurzfristig
+vermietet wurde, damit diese prüfen kann, 
+wann die 75 Tage überschritten sind. Außerdem würde es das Gesetz
+Nachbarn erleichern, Verstöße zu melden und Klagen gegen nicht
+gesetzestreue Vermieter einzureichen. 
+Es verwundert daher nicht, dass die Firma Airbnb 8 Millionen Dollar 
+in den Wahlkampf gesteckt hat, um "Proposition F" niederzuschlagen. Ihr
+Hauptwerbeslogan ist, dass Airbnb es den Einwohnern von San Francisco 
+ermöglicht, durch kurzfristige Vermietungen Geld dazu zu verdienen, 
+um in ihrer geliebten aber teuren Stadt wohnen bleiben zu können.
+Nachtrag: Die Proposition F wurde von den wahlberechtigten
+Bürgern mit 55% gegen 45% der Stimmen niedergeschlagen.
+
+@Z: Wahlkampf: Donald Trump und Bernie Sanders
+
+<pic images/trump.ps Immer wieder für einen Lacher gut: Donald Trump.>
+
+<em>Angelika</em>
+Obwohl die nächste Präsidentschaftswahl erst im November 2016 stattfindet,
+stecken wir ein Jahr vorher schon wieder einmal voll im Wahlkampf.
+Das liegt an dem langwierigen Prozess der Vorwahlen in den USA, 
+also dem Auswahlverfahren, mit dem die beiden Parteien, 
+die Republikaner und Demokraten, jeweils ihren Kandidaten bestimmen.
+Diese müssen dazu ihre eigene Basis mobilisieren und geben sich oft 
+radikaler in dieser Phase als sie
+eigentlich sind, denn so können sie punkten und sich in dem noch sehr
+unübersichtlichen Gemenge von ihren Konkurrenten absetzen.
+
+In der deutschen wie auch in der amerikanischen Presse steht bei der
+republikanischen Partei Donald Trump ganz im Mittelpunkt. Durch seine laute und
+provokative Art, aber wohl auch durch seinen Bekanntheitsgrad hat er sich bei
+den republikanischen Kandidaten an die Spitze gesetzt. Jeder
+Politikwissenschaftler und auch viele Journalisten in renommierten Zeitungen
+wie der New York Times hielten das Phänomen Trump zunächst für einen
+schlechten Witz, der bald enden würde, aber Trump hielt sich und verärgerte
+dadurch auch das Establishment seiner eigenen Partei.
+Er lenkt von anderen Kandidaten ab, die auf nationaler Ebene eine 
+größere Chance hätten, das Präsidenschaftsamt für die Republikaner zu 
+sichern. 
+
+Trump als Spinner
+abzutun, ist ein wenig zu einfach. Ja, der Mann gebärdet sich unmöglich und
+gibt nur Platitüden von sich, aber unterschätzen sollte man ihn auch nicht.
+Selbst wenn er letztendlich geringe Chancen auf eine Nominierung hat, denn
+dafür hat er große Wählergruppen einfach zu sehr vor den Kopf gestoßen,
+heizt er den Wahlkampf an und drängt andere republikanische Kandidaten in den
+Schatten. Vor allen Dingen seine radikalen Ansichten zu illegalen Immigranten
+werden sich wahrscheinlich irgendwann rächen. Nicht nur seine
+Idee, eine Grenzmauer zwischen Mexico und den USA zu bauen und alle illegalen
+Immigranten zu deportieren, ist völlig unrealistisch. Hinzu kommt, dass
+die republikanische Partei die Stimmen der latein\-amerika\-nischen Bürger
+braucht, die mittlerweile
+amerikanische Staatsbürger sind, um die Wahl zu gewinnen. 
+
+Aber Trump hat viele
+gründlich vergrault mit seinen Behaup\-tungen, dass die meisten Illegalen
+Verbrecher wären. Noch dazu ist dies komplett falsch,
+denn die Kriminalitätsrate bei illegalen Einwanderern ist niedriger als bei
+der Durchschnittsbevölkerung. Das leuchtet ein, denn wenn 
+man ohne legale Papiere im Land ist, will
+man möglichst wenig auffallen. Außerdem pflegen die Amerikaner mit 
+latein\-amerika\-nischer Herkunft weiterhin Verbindungen in ihre 
+Herkunfts\-länder und finden es
+durchaus nicht lustig, wenn ihre Landsleute alle als kriminell eingestuft
+werden. 
+
+Doch wieso hat Trump überhaupt Erfolg? Er spricht scheinbar die
+republikanischen Wähler an, die völlig desillusiniert von Politikern in
+Washington sind und sich betrogen fühlen. Das ist die Gruppe der unteren
+Mittelschicht und der kleinen mittelständischen Firmenbesitzer, die ihre Jobs
+durch Immigration und Globalisierung bedroht sehen. Aber durchaus auch das
+rechtsradikalere Lager, das den Untergang der USA vorhersagt, weil sie sich
+als Weiße immer mehr in der Minderheit sehen. Trump ist der Außenseiter, der
+wie Ben Carson und Carly Fiorina, die ebenfalls auf eine republikanische
+Nominierung hoffen, noch nie ein politisches Amt inne hatte und gerade das
+macht ihn (wie auch Ben Carson und Cary Fiorina) für viele attraktiv. Sie
+vergessen dabei allerdings, dass auch Trump nicht wie eine Bulldogge im Weißen
+Haus agieren kann, denn es gibt immer noch einen Senat und ein
+Repräsentantenhaus und einen demokratischen Prozess, der Kompromisse verlangt.
+
+Übrigens wollte Trump zunächst als Unabhängiger kandidieren und entschloss
+sich später für die republikanische Partei. Ich glaube ja immer noch, dass
+seine ganze Kampagne ein PR-Aktion ist und Trump auf einen erneuten guten
+Fernsehdeal wie damals bei der Hitshow 
+"The Apprentice" (<RBLINK>20040518#5</RBLINK>) hofft, bei dem er 
+dann mehr Geld herauspressen kann.
+
+<pic images/flickr-sanders-brookings.ps Der Demokrat Bernie Sanders erfreut sich einer erstaunlich großen Fangemeinde. Foto: flickr[Brookings Institution|96739999@N05/16305933820]>
+
+Bei den
+Demokraten hat sich auch ein Außenseiter ins Rampenlicht gekämpft, nämlich
+Bernie Sanders. Die Presse schenkt ihm weit weniger Aufmerksamkeit als
+Trump, aber seine Fangemeinde wächst stetig. Bei den Demokraten spricht er den
+eher linkeren Flügel an, also die Wähler, die zutiefst enttäuscht von Barack
+Obama sind, aber auch keine erneute Clinton-Dynastie wollen. Auch
+viele junge Leute begeistern sich für den 74-Jährigen. Im Gegensatz zu Trump
+glaubt er an den demokratischen Prozess und ist kein Neuling in Washington. Seit
+2007 vertritt er den Bundesstaat Vermont im amerikanischen Senat. Von 1991 bis
+2007 war er Kongressabgeordneter im amerikanischen Repräsentantenhaus. Auch
+als Bürgermeister agierte Bernie Sanders schon, nämlich in der Stadt
+Burlington in Vermont. Erst seit 2015 gehört er der demokratischen Partei an.
+Zuvor hatte er alle sein politischen Ämter als Unabhängiger bekleidet. 
+
+Seit über
+40 Jahren kämpft er für soziale Gerechtigkeit und bezeichnet sich selbst als
+einen demokratischen Sozialisten, ein Wort, das in Amerika oft wie ein
+Schimpfwort benutzt wird. Bernie Sanders will gerechtere Löhne für alle,
+gerechtere und bessere Arbeitsbedingungen (zum Beispiel gesetzlich festgelegte
+Krankheitstage), eine 
+universelle Krankenkasse und vor allen Dingen auch weniger
+Einfluss der Ultrareichen auf die Politik durch Parteispenden. Er lehnt deshalb
+auch Gelder von den sogenannten Super-Pacs ab (<RBLINK>20121103#2</RBLINK>)
+und finanziert seinen Wahlkampf durch kleine Spenden (unter $200) von
+ganz normalen Bürgern. Es bleibt spannend, wie weit es Bernie Sanders in der
+Vorwahlenrunde schaffen wird. Die Clinton-Maschinerie wird alles daran setzen,
+eine Sanders-Nominierung zu verhindern. Paradoxerweise liegt er nicht gerade
+vorn bei den Minderheiten, obwohl seine Politik positive Auswirkungen auf
+diese Bevölkerungsschichten hätte. Im fehlt einfach der Bekanntheitsgrad 
+in diesen Kreisen.
+
+@Z: Sterbehilfe in Kalifornien
+
+<pic images/jerry-brown.ps Der Governor von Kalifornien, Jerry Brown. Foto: flickr[U.S. Army Corps of Engineers|usacehq/15078131656]>
+
+<em>Angelika</em> 
+Genau wie in Deutschland führen die Kalifornier seit mehreren Jahren
+eine intensive Debatte über die Sterbehilfe. Immer wieder gab es Vorstöße im
+kalifornischen Parlament, den assistierten Suizid bei schwerkranken Menschen zu
+legalisieren. Immer wieder scheiterten die Befürworter, aber jetzt erfüllte
+sich ihr Wunsch. Das kalifornische Parlament verabschiedete ein
+Sterbehilfegesetz und unser Gouverneur Jerry Brown unterschrieb es, sodass es
+im Januar 2016 in Kraft treten kann.
+
+Lange Zeit glaubte man, Jerry Brown würde
+sein Veto gegen das Gesetz einlegen, denn der Druck von kirchlichen
+Organisationen war enorm und Jerry Brown rang sichtlich mit der Entscheidung.
+Dazu muss man wissen, dass Jerry Brown vor langer Zeit einmal 
+Jesuitenpriester werden wollte und einige Zeit in einem Jesuitenseminar
+verbracht hat. Schließlich unterschrieb er
+das Gesetz, weil er es auch selbst als Beruhigung empfindet, die 
+Möglichkeit des assistierten Suizid an seinem Lebensende (Jerry Brown 
+ist 77 Jahre alt) bei schwerer Erkrankung zu haben.
+
+Bedingt durch meine Ausbildung zur
+Heilpädagogin bin ich beim Thema Sterbehilfe immer etwas zwiegespalten, weil
+ich meine, dass es wichtiger wäre, sich darauf zu konzentrieren, das Sterben
+eines Menschen besser zu begleiten, zum Beispiel genug Schmerzmittel zu geben,
+und unnötige Untersuchungen und Behandlungen zu unterlassen. 
+Sterbehilfe begibt sich leicht in gefährliche Grauzonen.
+Das neue Gesetz legt fest, dass zunächst zwei
+kalifornische Ärzte bestätigen müssen, dass der Patient nur noch sechs
+Monate zu leben hat. Der Patient muss in der Lage sein, selbst den Wunsch zu
+äußern und die Medikamente, die zum Tod führen, selbständig einzunehmen und
+zu schlucken. Ärzte und Krankenhäuser dürfen es ablehnen, diese legalisierte
+Art der Sterbehilfe durchzuführen.
+
+@Z: Wanderpfade in Stadtnähe
+
+<pic images/sutro-forest.ps Mount Sutro Forest: Mitten in der Stadt und doch im Wald.>
+
+<em>Angelika</em>
+Wir wohnen jetzt ja schon fast eine Ewigkeit in San Francisco
+und haben natürlich unsere Lieblingsplätze und --parks in der Stadt. Je länger
+man in ein und derselben Gegend wohnt, je mehr kommt man in den Trott immer
+wieder die vertrauten Orte aufzusuchen. Zumindest bei uns ist das so. Aber seit
+einigen Wochen machen wir uns jeden Samstag auf, etwas Neues zu entdecken. Das
+liegt auch daran, dass Michael gerade erst seinen Arbeitgeber gewechselt hat
+und ihm nun wieder weit weniger Urlaub als vorher zur Verfügung steht, denn in
+den USA fängt der Neuankömmling in der Firma wieder von vorne an, was den
+Urlaubsanspruch angeht. Ein Elend. Also müssen die Wochenenden ein wenig als
+Mini-Urlaube fungieren. 
+
+Und es ist wirklich erstaunlich, wieviel wir noch nicht entdeckt haben. Wer
+hätte von euch gedacht, dass es mitten in San Francisco einen Wald gibt? Jeder
+Tourist kennt den weltberümten Golden Gate Park, aber im Mount-Sutro-Wald
+trefft ihr kaum Touristen. Versteckt zwischen den schmucken Häusern des
+Stadtteils Cole Valley und dem Unikrankenhaus UCSF an der Parnassus Avenue gibt
+es eine Oase, die über 100 Jahre alt ist, mit Rundwegen und über 30 Meter hohen
+Bäumen. Es ist natürlich kein Laub-oder Nadelwald, sondern interessanterweise
+besteht der Mount-Sutro-Wald überwiegend aus Eukalyptusbäumen. Dreiviertel des
+Waldes gehören der Universität und der Rest der Stadt San Francisco. Adolph
+Sutro, der von 1894 bis 1896 Bürgermeister von San Francisco war, ließ den Wald
+damals anpflanzen. Der Mann stammte übrigens aus Aachen und emigrierte in die
+USA, als er 20 war. Der Name taucht in San Francisco häufig auf: Mount Sutro
+Tower, Mount Sutro Baths, Mount Sutro Forest. Nun wisst ihr warum.
+
+<pic images/hike-tree-a.ps Im Tilden Park in der East Bay beim Wandern.>
+
+Da der Mount-Sutro-Wald in der Nebelzone der Stadt liegt, ist er bei Fotografen
+sehr beliebt, denn der Nebel gibt dem Wald etwas Gespenstisches und Magisches
+zugleich. Als wir an einem Samstag durch den Wald spazierten, schien allerdings
+die Sonne. Wir waren erstaunt, wie wenige Spaziergänger wir dort antrafen. 
+Normalerweise muss man sich solch schöne Plätze in San Francisco
+immer mit einer Horde von Menschen teilen. Wir vergaßen fast, dass wir uns in
+einer Großstadt befanden. Nur ab und zu erinnerten uns die entfernten Geräusche
+der Stadt daran.
+
+<pic images/tilden-balance.ps Irgendjemand muss immer Blödsinn machen.>
+
+Wie der Mount-Sutro-Wald in San Francisco ist auch der Tilden Park in der East
+Bay ein Geheimtipp. Allerdings erfreut sich der Park großer Beliebtheit
+und am Wochenende boxt dort der Papst. 
+Er liegt hinter den Hügeln des Universitätsstädtchens
+Berkeley versteckt und erstreckt sich über 840 Hektar. Tilden Park ist eine
+Mischung aus einem großen Stadtpark mit Attraktionen wie botanischem Garten,
+Golfplatz und einer Miniaturdampflokomotive, sowie bewaldeten Gebieten mit
+Wanderwegen. Auch einen See ("Lake Anza") gibt es, in dem man sogar schwimmen
+kann, wenn sich nicht wieder gerade irgendwelche giftigen Algenpflanzen im See
+ausbreiten. Viele der Wanderwege bieten super Aussichten auf San Francisco, die
+East Bay und das San Pablo Reservoir, vorausgesetzt der Nebel macht einem
+keinen Strich durch die Rechnung. Wir wanderten den Quarry- und den
+Big-Springs-Weg bei strahlendem Sonnenschein ab.  
+
+<pic images/brotzeit.ps Das Lokal "Brotzeit" in Oakland führt tatsächlich trinkbare deutsche Biere.>
+
+Eines der Vorzüge von Wanderungen
+in urbanen Gebieten ist, dass gute Restaurants meist um die Ecke liegen.  Nach
+unserer Wanderung im Tilden Park, kehrten wir im 
+<LINK>http://brotzeitbiergarten.com|Lokal Brotzeit</LINK>
+in Oakland ein. Es liegt sehr schön an
+einem Bootshafen. Authentische Biertische und --bänke, die die Gäste sich, wie
+in deutschen Biergärten üblich, teilen, laden zum draußen sitzen ein. In den
+USA ist die Sitte, sich mit Fremden an einen Tisch zu setzen, 
+ja eigentlich unbekannt, obwohl
+man immer häufiger auf sogenannte "Community Tables" in Restaurants trifft. Das
+sind in der Regel lange Gemeinschaftstische, an denen dann verschiedene
+Parteien sitzen. Da in München gerade das Oktoberfest stattfand, dachten wir
+uns in einem Anflug von Sentimentalität, gehen wir doch in ein bayrisch
+angehauchtes Lokal und trinken ein Bier. Es gab dann auch tatsächlich gutes
+Oktoberfestbier, und essensmässig standen die obligatorischen Würstchen,
+Schnitzel, Jägerschnitzel und natürlich Sauerkraut, aber auch Fisch und
+Chips und Hamburger auf der Speisekarte, also eher ein Mischmasch aus
+deutscher und amerikanischer Küche. Geschmeckt hat es trotzdem.
+
+@Z: Königin der Nüsse: Hawaiian Host
+
+<pic images/hawaiian-host-2.ps Zwei Schichten dieser Pralinen sind ruckzuck weggeputzt.>
+
+<em>Michael</em>
+Neulich fand ich im Costco-Supermarkt einen Doppelpack der Pralinenmarke
+"Hawaiian Host" zum Schlagerpreis und griff gleich zu, denn wie gut 
+kam dabei die Erinnerung an einen unserer ersten Hawaiiurlaube vor fast
+20 Jahren zurück! 
+Ich weiß noch genau, wie wir an einer vorab gemieteten Wohnung ankamen,
+die Deckenventilatoren langsam kreisten, und ein lauer Wind durch
+die offenen Fenster zog. Wir inspizierten unser neues Quartier, und 
+fanden im Kühlschrank, vom Vermieter dort 
+freundlicherweise für uns Gäste als Willkommensgeschenk bereitgestellt,
+eine Packung dieser Nusspralinen.
+
+<pic images/hawaiian-host-1.ps Macadamia-Nüsse von Milchschokolade umhüllt.>
+
+Nun bin ich kein Freund irgendwelcher Billigpralinen und einige Zeit rührte
+keiner von uns die Packung an, aber irgendwann rissen wir sie neugierig auf und
+naschten von den Milch\-schokoladen\-stückchen, die jeweils 
+zwei Makademia-Nüsse umschlossen. Was eine Macademia-Nuss ist, lässt sich
+schwer beschreiben, aber eine zu essen ist ein einmaliges Erlebnis.
+Beißt man auf eine Macadamia-Nuss, zerbröselt sie in tausend 
+Stückchen, die sich dann im Mund ausbreiten und einen den angenehm milden,
+nussigen, oft auch (wegen draufgestreuten Salzkörnern) salzigen Geschmack 
+erleben lassen. 
+
+In Verbindung mit der Milchschokolade der "Hawaiian-Host"-Pralinen 
+potenziert sich das Erlebnis nochmal, denn ich stecke mir normalerweise eine
+dieser ziemlich genau mundhöhlengroßen Pralinen in den Mund, 
+lutsche die Schokolade runter, was gut 2 Minuten dauern kann, und
+beiße dann auf die freigelegten Nüsse. Ein irres Erlebnis, und ich kann euch 
+nur empfehlen, sofort eine Packung zu kaufen, falls ihr sie zufällig
+irgendwo seht, was ein enormer Zufall ist, denn das Produkt wird 
+ausschließlich auf Hawaii hergestellt und normalerweise nur dort verkauft.
+
+@Z: Erdbebensicher Bauen
+
+<pic images/quake-stabilizer-5.ps Dank sechs diagonal eingebauter Dämpfer schwingt dieses Gebäude im Erdbebenfall langsam aus.>
+
+<em>Michael</em>
+Damit beim nächsten Erdbeben in San Francisco nicht alles sofort in 
+Schutt und Asche fällt, legt die Stadtverwaltung Wert darauf, dass 
+Baufirmen jedes Gebäude und jede Brücke in der Stadt nach strengen 
+Vorlagen errichten. Die meisten Häuser werden von Holzbalken und
+Pressspanplatten zusammengehalten, Baumaterialien wie Ziegel oder 
+Beton findet man äußerst selten. Das hat zwar den Nachteil, dass
+man in einem Mehrfamilienhaus vor Schreck aus dem Bett fällt, wenn der 
+Nachbar heftig niest. Fährt jedoch bei einem Erdbeben ein gewaltiger
+Ruckler durchs Haus,
+kracht es nicht gleich zusammen, sondern schwingt ein paar 
+Sekunden hin und her und dann langsam aus. Bei einem Steinhaus reißen
+da schnell mal die Ziegel, tragende Wände zerbröseln, und schon 
+saust der erste Stock krachend auf das Parterre nieder und 
+zermatscht den Untermieter zu Pfannkuchenformat.
+
+<pic images/earthquake-warning.ps Dieses Gebäude ist laut Stadtverwaltung nicht erdbebensicher.>
+
+Auch der Hobbyheimwerker muss beim Reparieren aufpassen, damit auch
+alles im rechtlichen Rahmen bleibt. Renoviert er sein Haus, und richtet
+zum Beispiel ein neues Sonnendeck ein, muss das eigentlich nach der
+Fertigstellung von einem sogenannten Inspektor abgenommen werden.
+Oft unterbleibt dies aber, und deswegen kommt beim Hausverkauf wiederum
+ein Inspektor, der alles anmäkelt, was nicht "nach Code" gebaut wurde.
+Dann kann der Verkäufer es entweder von einem Fachmann richten und
+zertifizieren lassen, oder einfach mit dem Preis runtergehen, damit
+der Käufer ein Auge zudrückt.
+
+<HTMLONLY>
+<pic images/code-violation.ps Der Eigentümer hat ein Formular nicht eingereicht und jetzt prangt dieses Schild an seinem Haus.>
+</HTMLONLY>
+
+Oft greifen sparsame Hausbesitzer auch auf die Dienst\-leis\-tungs\-angebote
+illegal eingereister Südamerikaner zurück, deren Handwerkskunst zwar der
+eingesessener und zertifizierter Arbeiter und sogenannter "Contractors"
+(Bauleiter) ebenbürtig ist,
+aber halt nicht den offiziellen Vorschriften genügt. Da
+ein so fertiggestelltes Bauwerk aber nur ein Bruchteil von dem kostet, was
+ein Bauarbeiter mit sauberen Papieren verlangen würde, ist im privaten
+Sektor Schwarzarbeit gang und gäbe, einschließlich der damit 
+einhergehenden nicht offiziell abgesegneten Reparaturen.
+
+<pic images/quake-stabilizer-4.ps Die Dämpfer sind drehend eingelagert und geben bei Stößen sanft nach.>
+
+Bei öffentlichen Bauprojekten wählt die Stadt bei der Aus\-schrei\-bung
+natür\-lich nur zertifi\-zierte Betriebe aus, die strikt nach Vorschrift bauen,
+aber auch dort kommt es dauernd zu Problemen, weil die sich die 
+Fertig\-stellung wegen Miss\-management verzögert, die Kosten plötzlich
+explo\-dieren oder das Bauunter\-nehmen Sorgfalt bei der Durchführung
+missen lässt, wie sich am Beispiel der rostigen Stahlbolzen beim Neubau
+der Bay Bridge zeigte (<RBLINK>20130921#1</RBLINK>).
+
+<pic images/quake-stabilizer-2.ps Große Gebäude brauchen entsprechende Dämpfer.>
+
+Überhaupt ist ganz San Francisco zur Zeit
+eine einzige Baustelle, und ich frage mich
+immer, ob es tatsächlich niemanden kratzt, wenn sich Projekte endlos
+hinziehen oder warum niemand die verbrecherischen
+Bauunternehmen an die Kandarre nimmt,
+wenn sie ihre Versprechen nicht einhalten. Wenn ich mir eine Art Vorhölle
+vorstelle, dann sieht die so aus, dass ich mir ein baufälliges Haus kaufe und
+dann auf Gedeih und Verderb einem schlitzohrigen Bauleiter mit
+seiner Schluderertruppe ausgeliefert bin, die jeden Tag neue Ausreden 
+erfinden und mich langsam aber stetig ins Grab treiben. 
+Das wird niemals passieren, niemals!
+
+@Z: Bye bye, Perly Perlman?
+
+<pic images/perlman-lost-coast.ps Perly Perlman während seiner Glanzzeit um 2004 auf einem Feldweg entlang der "Lost Coast".>
+
+<em>Michael</em> Ihr werdet es kaum glauben, aber als wir 1996 nach Kalifornien
+zogen, hatten wir tatsächlich so wenig Geld, dass wir uns ein ganzes
+Jahr lang überhaupt kein Auto geleistet haben. 
+Dann bot mir 1997 ein Arbeitskollege bei AOL zum Schlagerpreis 
+von 3.300 Dollar einen damals sechs Jahre alten Edel-Honda mit
+100.000 Meilen auf dem Tacho an. Sein schwarzer Lack war wegen der im 
+Silicon Valley dauernd
+runterbrennenden Sonne schon überall abgeblättert, aber das war mir egal. 
+Er hatte nur Gangschaltung, und keine Automatik, aber das kannte ich
+gar nicht anders. Und der Vorbesitzer, ein Franzose, 
+hatte den Wagen in einem Anfall von
+geistiger Umnachtung ohne Klimaanlage gekauft. Aber ich war jung und 
+hauptsächlich im windigen San Francisco unterwegs,
+mit der mörderischen Sonne Südkaliforniens noch unvertraut.
+Wir wickelten den Deal auf dem AOL-Parkplatz per Handschlag ab und 
+ich war ab sofort stolzer Besitzer eines Acura Intregra Baujahr 1991.
+
+<pic images/perlman-crossing-river.ps Auch ohne Vierradantrieb schafft Perly Perlman die Durchquerung dieses kleinen Flüssleins.>
+
+Im Fernsehen hatte ich, auch schon in Deutschland, 
+immer schon die in den USA erhältlichen
+personalisierten Nummernschilder bewundert. Wegen meiner Vorliebe für die
+Programmiersprache Perl schaute ich auf der 
+<LINK>https://www.dmv.ca.gov/portal/dmv/detail/portal/ipp2/welcome|Website des Kraftfahrzeugmeldestelle Kaliforniens (DMV)</LINK> 
+nach, ob das Kennzeichen "PERL MAN" noch zu haben sei. Es war noch
+nicht vergeben, und so zahlte ich nicht nur die Registrierungsgebühr, um
+mein neu erworbenes Auto anzumelden, sondern auch noch etwa 30 Dollar extra für
+das personalisierte Nummernschild. Ich erinnere mich noch genau daran,
+wie ich das Kennzeichen beim DMV in Redwood City abgeholt habe und es
+gleich mit Hilfe eines mitgebrachten Schraubenziehers auf dem Parkplatz der
+Kraftfahrzeugmeldestelle am Auto anbrachte. "Perly Perlman", wie das Auto 
+von nun an hieß, war geboren.
+Legendär ist das Foto oben von einem unserer Ausflüge, auf dem ich mit
+Perly auf einem staubigen Feldweg entlang der Lost Coast in Nordkalifornien
+rase und den Kopf zum Fenster rausstrecke (<RBLINK>20040826#5</RBLINK>).
+
+<pic images/perlman-rear.ps (#1) Ein personalisiertes Nummernschild musste es dann aber schon sein.>
+
+Wie man in Abbildung (#1) sieht, schraubte ich viel später, als ich zu 
+Yahoo wechselte, einen dieser klassischen Licence-Plate-Holder mit dem
+mittlerweile überholten Yahoo-Logo an das rückwärtige Nummernschild. 
+Heute ein Klassiker! 
+Und noch etwas fällt an dieser Aufnahme aus dem Jahr 2007
+auf: Perly hat zwei Auspüffe, direkt nebeneinander, und dem linken 
+fehlt seit dem Kaufdatum 1996 der Zierring und er schaut etwas
+verrostet aus. Nun, das weiß ich noch ganz genau, denn um ja keinen
+Fehler bei einer Investition von $3.300 zu machen, ließ ich das Auto 
+damals vor dem endgültigen Handschlag mit dem Verkäufer 1997 noch von einer
+Werkstatt untersuchen, die in ihrem schriftlichen Bericht tatsächlich
+festhielt, dass der Auspuff erneuert werden müsse. Nun schreiben wir das
+Jahr 2015, und Perlys Auspuff ist, 18 Jahre später, immer noch nicht
+abgefallen, und wer mich kennt, weiß, dass ich den Teufel tun werde,
+Komponenten zu reparieren, die nicht kaputt sind. "If it ain't broke,
+don't fix it!" ist wohl einer der wichtigsten Merkregeln, die ich als alter
+Hase der Jugend von heute mitgeben kann.
+
+Ein gravierendes Problem bei einem 24 Jahre alten Auto ist allerdings, dass
+es ohne Sicherheitsmerkmale wie Airbags (gab's 1991 noch nicht serienmäßig)
+bei einem Unfall schnell zur Todesfalle wird. Und das passiert schnell,
+denn Amerikas Fußballmutties schießen oft meilenweit blind in ihren 
+Monster-Minivans durch die Gegend, weil sie ja gleichzeitig auf dem Handy 
+herumtippen müssen. Oder habt ihr schon einmal versucht, in einem Auto
+ohne ABS eine Vollbremsung einzuleiten, weil der Vordermann grundlos auf
+seine natürlich elektronisch gesteuerte Bremse gelatscht ist? 
+Sternstunden der Fahrkunst.
+
+<pic images/buy-back-program.ps (#2) Kalifornien gibt mir 1000 Dollar, um Perly Perlman zu verschrotten.>
+
+Neulich flatterte Post von Kaliforniens "Vehicle Buyback Program" ins Haus
+(Abbildung (#2)), 
+das Besitzern von Autos Baujahr 1994 und älter exakt 1000 Dollar
+anbietet, wenn sie ihr Auto bei einer staatlich geprüften Stelle verschrotten
+lassen. Wie auf der <LINK>http://www.baaqmd.gov/?sc_itemid=8CCDF124-2987-4933-86DB-53EA991D438F|Website des Buyback-Programms</LINK> nachzulesen ist, muss
+das Auto allerdings strikten Kriterien genügen, damit der Staat die
+Abwrackprämie locker macht. Besteht die alte Mühle zum Beispiel den 
+alle zwei Jahre fälligen
+Smogtest nicht mehr, gibt's auch kein Geld, denn der
+Besitzer kann das Auto ja gar nicht mehr legal fahren. 
+
+<pic images/smog-check.ps (#3) Der kalifornische Smogtest misst eine ganze Latte an verschiedenen Emissionswerten.>
+
+Perlys Smogtest war bislang immer knapp an der Grenze, Abbildung (#3) zeigt,
+dass der Messwert für emittierte Kohlen\-wasser\-stoffe (HC) bei 
+kalifornischen Autos im Schnitt bei 39 ppm liegt, und der maximal zulässige
+Wert 87 ppm ist, wenn das Auto 15 Meilen pro Stunde (etwa 24 km/h) fährt.
+Wieviel hatte Perly? Genau 87 ppm, nur ein Kohlen\-wasser\-stoff\-atom mehr,
+und Perly hätte um Haaresbreite nicht bestanden. Weiter misst der Smogtest
+Kohlendioxyd, Kohlenmonoxyd und Stickstoff.
+Wegen seines fortgeschrittenen Alters musste Perly in den letzten Jahren
+immer zu einer sogenannten Star-Prüfstelle, das sind speziell lizensierte
+Betriebe, die nur Smogtests machen und nicht etwa nebenbei noch Autos
+reparieren, damit sie keinen Schmuh machen. Übrigens testet die Prüfstelle
+auch noch weitere Details, und sieht zum Beispiel nach, ob der 
+Tankdeckel auch richtig schließt. Lässt er Luft durch, segelt das Auto sofort
+mit Karacho durch die Prüfung, aber meist hat der Tester für 
+zehn Dollar einen neuen Tankdeckel parat.
+
+Aber auch noch weitere Kriterien müssen vor der staatlich alimentierten
+Verschrottung stimmen:
+So muss das Auto noch seine Windschutzscheibe sowie mindestens ein 
+Seitenfenster aufweisen. Motorhaube, Fahrersitz
+und mindestens ein funktionierender Frontscheinwerfer sind ebenfalls 
+Pflicht. Weiter muss der Motor sich ohne manuelles Einspritzen irgendwelcher
+Zaubermittelchen starten lassen und der Wagen ohne Anschieben mindestens 
+25 Fuß (7,6 Meter) vorwärts und 25 Fuß rückwärts fahren können.
+Das sollte zu schaffen sein, in der nächsten Ausgabe berichte ich live 
+aus der Schrottpresse!
+
+Grüße aus dem Land ohne TÜV:
+
+Angelika \& Michael
