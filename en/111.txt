@@ -488,7 +488,7 @@ they don't recognize she's actually living in Manhattan!
 
 <pic images/motobike-cops.ps Police motocycles are pretty noisy as well.>
 
-<em>Michael</em>Aside from getting your car's smog test done, in the U.S. it's
+<em>Michael</em> Aside from getting your car's smog test done, in the U.S. it's
 not required to have your motor vehicle inspected by a certified testing center
 every two years, like in Germany. You can imagine that for this reason it's not
 uncommon to see clunker cars swooshing down the freeways that make you wonder
