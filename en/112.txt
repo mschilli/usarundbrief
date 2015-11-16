@@ -500,26 +500,29 @@ if you need a more expensive item, give them your business even if
 it's a few dollars more. You'll save gas and time driving to the
 nearest suburban big box store anyway.
 
-TODO
-
 @Z: Thank you - Uh huh
 
 <HTMLONLY>
-<pic images/uh-huh.ps "Uh-Huh", ein erstaunlich vielseitiger Laut.>
+<pic images/uh-huh.ps "Uh-Huh", an astonishingly versatile sound.>
 </HTMLONLY>
 
 <em>Michael</em>
-Was erwidert man auf ein "Thank you"? Bereits am ersten Tag im Englischkurs
-lernt man in Deutschland, dass "Bitte" in diesem Fall nicht "Please" sondern
-"You're welcome" heißt. "Sure" kann man ebenfalls sagen oder "no problem".
+How do you respond if someone is expressing gratitude by saying 
+"Thank you"? It's probably one of the first things Germans learn in 
+English class, that under no circumstances they may reply
+by using the literal translation of the German "bitte" ("please"). Instead, 
+valid responses include "you're welcome", "sure", or "no problem".
 
-Aber heute lernt ihr von uns, den ausge\-fuchs\-testen unter den 
-einge\-fleisch\-ten Englisch-Experten auf dem amerika\-nischen Kontinent, 
-was der Amerikaner in diesem Zusammen\-hang sagt, wenn er leger aber 
-dennoch freundlich rüber\-kommen möchte, nämlich "Uh huh". Das hört man
-oft, wenn sich jemand wegen trivialer Leistungen wie dem Aufhalten
-einer Eingangstür mit "Thank you" bedankt. Ein "You're Welcome" wäre in
-diesem Zusammenhang fast schon affig.
+But we're not in English class here, rather you have the pleasure of
+being instructed by some of the most experienced foreign language 
+connoisseurs on the American continent, and today we're telling you what
+Americans say when they want to be informal in this context: "Uh huh".
+The phrase is most commonly used in situations where one party 
+says "thank you" for a common courtesy like a door being held open,
+where "you're welcome" would be too much and sound almost silly.
+
+TODO
+
 Das "Uh-huh" spricht man
 im Amerikanischen fast wie "äh-hä" aus, aber wenn ihr's ganz genau wissen
 wollt, befindet sich der Laut phonetisch etwa zwischen "a" und "o". Hebt man
