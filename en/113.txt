@@ -4,31 +4,29 @@ San Francisco, 11-08-2015
 
 <pic images/laundry-chinatown.ps These San Francisco residents in Chinatown can now legally air-dry laundry on their balcony.>
 
-<em>Angelika</em>
-Hanging laundry outside to let it dry is seen with suspicion in the United States.
-Americans prefer running electric dryers inside the house
-to airing clothes in the wind. Dryers
-are consuming energy, though, so airing it is the greener approach. 
-But until recently, many appartment complexes prohibited hanging laundry outside. 
-Powerful homeowners associations (HOAs) consider laundry an eyesore, fear
-sliding property values, and therefore until recently 
-expicitly disallowed the practice in contracts signed by home owners and 
-their renters.
+<em>Angelika</em> Hanging laundry outside to let it dry is seen with suspicion
+in the United States.  Americans prefer running electric dryers inside the
+house to airing clothes in the wind. Dryers are consuming energy, though, so
+airing it is the greener approach.  But until recently, many appartment
+complexes prohibited hanging laundry outside.  Powerful homeowners associations
+(HOAs) consider laundry an eyesore, fear sliding property values, and therefore
+until recently expicitly disallowed the practice in contracts signed by home
+owners and their renters.
+
+Starting January 2016, however, California residents can now legally 
+hang their laundry outside to dry. Our governor Jerry Brown signed the
+new law in October, as California strives to be with the top of the
+pack when it comes to being environmentally friendly. California 
+State Assembly representative Patti Lopez of San Fernando had brought the
+new law on its way, but not mainly for environmental reasons. Many of her
+voters can't afford electric dryers and air-drying laundry on a clothes line
+comes at no cost. A few other states already have similar laws in place:
+Florida, Hawaii, Maine, Utah, Vermont. And if you've ever been to 
+San Francisco's Chinatown, you have probably noticed that it's very
+common there to see laundry fluttering on clothes lines in the wind. It's 
+always been this way, regardless of old or new laws.
 
 TODO
-
-Ab Januar 2016 darf nun aber jeder Kalifornier seine Wäsche legal
-auf der Leine
-trocknen. Unser Gouverneur Jerry Brown unterzeichnete das Gesetz im Oktober,
-denn es gilt als umweltfreundlich und da möchte Kalifornien in der Regel die
-Nase vorn haben. Die kalifornische Abgeordnete Patti Lopez aus San Fernando
-brachte das neue Gesetz auf den Weg, allerdings nicht gerade nur aus
-Umweltschutzgründen. Viele ihrer Wähler können sich keinen Trockner
-leisten und das Trocknen auf der Wäscheleine kostet eben nichts. Hier sind die
-anderen Bundestaaten, die ebenfalls das Wäschetrocknen auf der Leine erlauben:
-Florida, Hawaii, Maine, Utah, Vermont. In San Franciscos Chinatown gehört die
-flatternde Wäsche übrigens zum Stadtbild. Seit Jahr und Tag hängt dort
-schon die Wäsche draußen, Gesetz hin oder her.
 
 @Z: Toppprodukt: Der Schlüsselfinder von Tile
 
