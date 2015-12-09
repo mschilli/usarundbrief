@@ -26,21 +26,19 @@ San Francisco's Chinatown, you have probably noticed that it's very
 common there to see laundry fluttering on clothes lines in the wind. It's 
 always been this way, regardless of old or new laws.
 
-TODO
+@Z: Top Product: The Tile Key Finder
 
-@Z: Toppprodukt: Der Schlüsselfinder von Tile
-
-<pic images/tile-1.ps Der kleine Tile-Anhänger am Schlüsselbund hilft Schusseln bei der Suche.>
+<pic images/tile-1.ps This keyring carries a small gadget by Tile that helps locating it when misplaced.>
 
 <em>Michael</em>
-Manche Leute in unserem Haushalt, und ich will hier mal bewusst keine Namen
-nennen, verlegen laufend ihre Schlüssel oder den Geldbeutel. Das Problem
-lässt sich zwar auch einfach dadurch lösen, dass man sich angewöhnt, 
-diese beiden Utensilien immer an derselben Stelle abzulegen, 
-aber mit zunehmendem Alter wird es nicht leichter, eingeschleifte 
-Gewohnheiten abzustellen.
+Some people in our household, and I'm not naming names here on purpose, are
+constantly misplacing their keys and wallet. You'd think that's an easy to solve
+problem, simply make it a habit to always put them in the same place, but with
+progressing age, it gets harder and harder to change bad habits.
 
-<pic images/tile-2.ps Auf der Landkarte kann man sehen, wo der Schlüsselbund sich gerade befindet.>
+<pic images/tile-2.ps An icon on the map shows the current location of the keyring.>
+
+TODO
 
 Dem Problem verlegter Utensilien nimmt sich seit kurzem die Startup-Firma
 <LINK>https://www.thetileapp.com/about|Tile</LINK>
