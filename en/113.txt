@@ -38,26 +38,23 @@ progressing age, it gets harder and harder to change bad habits.
 
 <pic images/tile-2.ps An icon on the map shows the current location of the keyring.>
 
-TODO
+But there's help for people who are constantly searching for misplaced items. 
+The startup company <LINK>https://www.thetileapp.com/about|Tile</LINK>, located
+in Silicon Valley (where else), produces slender white plastic squares 
+to attach to your key ring or stick inside your wallet. They can't determine
+their GPS position on their own, but are in constant contact with their
+owner's cell phone unless it moves away more than 30 feet.
+If the Tile app on the smart phone notices that the tile goes out of range,
+it stores its latest known position. Now if you misplace an item with
+an attached tile, simply pull out your smart phone, open the app and 
+see the last known position of your item on a map. If it's within Bluetooth
+range of the phone, the app can contact the tile and make it play a ringtone,
+so that it can be located even if it's out of sight, like in between the
+sofa cushions. And since the smart phone app is constantly updating
+the Tile servers with its current GPS position, other cell phones on the 
+same account can be included as well and get a copy of the location data.
 
-Dem Problem verlegter Utensilien nimmt sich seit kurzem die Startup-Firma
-<LINK>https://www.thetileapp.com/about|Tile</LINK>
-(englisch für "Kachel") aus dem Silicon Valley (wo auch sonst) 
-an, indem sie kleine schlanke weiße
-Plastiktäfelchen produziert, die man an den Schlüsselbund hängt oder in
-den Geldbeutel steckt. Diese können zwar ihre eigene Position nicht ermitteln
-oder gar weltweit herumfunken, aber sie nehmen Kontakt mit dem Mobiltelefon
-des Benutzers auf, und können ihn bis zu etwa zehn Metern Distanz halten.
-Merkt das Handy dann, dass der Kontakt zum Täfelchen abreißt, speichert es die
-letzte bekannte Position. Findet der Besitzer später ein Trumm mit 
-angehängter Tile-Kachel nicht mehr, schaut er in die App auf seinem 
-Smartphone, und kann dort auf einer Landkarte die letzte bekannte
-Position des Trumms sehen. Befindet es sich in Reichweite des Telefons,
-kann die App die Tile sogar anfunken und eine Melodie spielen lassen,
-sodass man den Schlüsselbund auch unter einem Sofakissen lokalisieren
-kann. Und da das Mobiltelefon diese Daten laufend an Tile meldet, kann
-man auch andere Mobiltelefone dort einbinden, die dann ebenfalls auf
-dem Laufenden bleiben.
+TODO
 
 Die Tiles kosten pro Stück etwa 17 Dollar und halten ein Jahr. Da man
 die eingeschweißte Batterie nicht auswechseln kann, muss man anschließend
