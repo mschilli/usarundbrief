@@ -54,30 +54,32 @@ sofa cushions. And since the smart phone app is constantly updating
 the Tile servers with its current GPS position, other cell phones on the 
 same account can be included as well and get a copy of the location data.
 
+The tiles cost about $17 each and last about a year. As the embedded
+battery can't be replaced, new tiles need to be purchased if they
+run out of juice, that's how the company makes money. 
+
+<pic images/tile-3.ps Zwo key rings and two wallets are constantly monitored with this app.>
+
+If an item with an attached tile is hopelessly out of reach, for example
+because a wallet has been stolen, it can be registered as lost with
+the Tile app. The Tile server then broadcasts the missing tile message
+to the Tile apps of other users, which then internally report if they
+come across the missing tile by accident. If this happens, the original
+user gets a report on where the missing Tile has been located, that's 
+hilarious!
+
+And the Tile app has another interesting side effect: In our household,
+for example, we have a total of four Tiles in use, and they're being
+monitored by two different smartphones. Since the tiles are usually
+close to their owners, you get a pretty good idea on where they're located
+at any point in time. For me, this means that I can find out almost
+instantly where Angelika is milling around at the moment, because her
+smartphone reports its position to the Tile server, which updates my
+smartphone with her position. That's quite handy, I've got to say,
+but if you don't want to be tracked, simply turn off your phone's
+GPS function.
+
 TODO
-
-Die Tiles kosten pro Stück etwa 17 Dollar und halten ein Jahr. Da man
-die eingeschweißte Batterie nicht auswechseln kann, muss man anschließend
-neue Kacheln kaufen, so verdient die Firma ihr Geld.
-
-<pic images/tile-3.ps Zwei Schlüsselbunde und zwei Geldbeutel werden so laufend überwacht.>
-
-Ist ein Utensil mit Tile-Kachel hoffnungslos außer Reichweite, zum
-Beispiel weil ein Geldbeutel gestohlen wurde, kann man es in
-der Tile-App als verloren melden. Daraufhin meldet die Tile-Firma das
-verlorene Teil an alle ihre Nutzer, deren Apps dann Tile
-betriebsintern Bescheid geben, wenn irgendein Mensch mit Tile-App in 
-Reichweite der gesuchten Kachel kommt, und dies wiederum demjenigen melden, der
-das Ding als verloren gemeldet hat. Ein Wahnsinn!
-
-Lustigerweise hat die App auch noch einen Nebeneffekt: Da sie in unserem
-Haushalt laufend den
-Aufenthaltsort vier verschiedener Tile-Tokens über insgesamt zwei 
-Mobiltelefone überwacht, weiß sie auch, wo deren Besitzer gerade weilen.
-Ich kann also genau sehen, wo Angelika sich gerade herumtreibt, weil ihr
-Handy seine Position an den Tile-Server meldet, der wiederum meinem
-Mobiltelefon Bescheid gibt. Das ist sehr praktisch, aber falls man es mal
-unterbinden möchte, entzieht man der App einfach den GPS-Zugriff.
 
 @Z: Beschränkt San Francisco Airbnb?
 
