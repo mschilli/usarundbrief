@@ -79,21 +79,19 @@ smartphone with her position. That's quite handy, I've got to say,
 but if you don't want to be tracked, simply turn off your phone's
 GPS function.
 
+<pic images/prop-f-sign.ps This San Francisco resident endorses proposition F, which wants to introduce legislation to restrict Airbnb rentals.>
+
+@Z: Will San Francisco limit Airbnb?
+
+<em>Angelika</em> It's fairly commaon that the city of San Francisco lets its
+residents decide on political matters with so-called propositions. In every
+local election, there's a whole slew of them on the ballot, and citizens need
+to make up their minds whether they endorse or reject a fair number of
+individual proposals to new legislation. For this reason, November 4th this
+year wasn't only the date for the mayoral election, but also for a
+decision on "Proposition F", commonly known as the "Airbnb proposition".
+
 TODO
-
-@Z: Beschränkt San Francisco Airbnb?
-
-<pic images/prop-f-sign.ps Dieser Anwohner befürwortet laut Wahlplakat die Proposition F und möchte, dass die Stadt Vermietungen durch die Firma Airbnb beschränkt.>
-
-<em>Angelika</em>
-San Francisco und Kalifornien lieben ja bekanntlich
-ihre Volksbegehren. Bei jeder Stadtwahl stehen eine Unzahl von sogenannten 
-"Propositions" auf dem Wahlzettel, über die der Bürger zu entscheiden hat. 
-Am 4. November dieses Jahres fand deswegen auch nicht nur die 
-Bürgermeisterwahl in 
-San Francisco statt. Die Wähler stimmten ebenfalls über 
-die sogenannte "Proposition F" ab, die im Volksmund auch als die 
-"Airbnb-Abstimmung" bekannt ist.
 
 Airbnb ist euch ja vielleicht ein Begriff. Das ist diese Webplattform, 
 über die man private Unterkünfte buchen kann. Brian Chesky, Joe Gebbia und 
