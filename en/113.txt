@@ -91,18 +91,15 @@ individual proposals to new legislation. For this reason, November 4th this
 year wasn't only the date for the mayoral election, but also for a
 decision on "Proposition F", commonly known as the "Airbnb proposition".
 
-TODO
+You're probably familiar with Airbnb, it's that web platform that lets
+you book short term stays in other people's appartments. It was established
+by Brian Chesky, Joe Gebbia and Nathan Blecharczyk in 2008 in San Francisco,
+shortly after the three founders had decided to rent out a few extra
+beds and air mattresses in their appartment during a design conference
+in the city. They talked their friend Nathan into launching a web site
+originally called "Airbedandbreakfast.com", and the rest is history.
 
-Airbnb ist euch ja vielleicht ein Begriff. Das ist diese Webplattform, 
-über die man private Unterkünfte buchen kann. Brian Chesky, Joe Gebbia und 
-Nathan Blecharczyk etablierten die Firma 2008 in San Francisco, 
-nachdem die ersten beiden Gründer einfach während einer 
-internationalen Konferenz für Design in der Stadt beschlossen hatten, 
-ein paar zusätzliche 
-Betten und Luftmatratzen als Schlafplätze in ihrem Apartement 
-zu vermieten. Sie überredeten ihren Freund Nathan dazu,
-eine Website mit dem Namen "Airbedandbreakfast.com" 
-aus dem Boden zu stampfen, und die Sache nahm ihren Anfang.
+TODO
 
 Was klein begann, hat sich mittlerweile zu einem
 großen und bekannten Unternehmen gemausert. 
