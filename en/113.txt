@@ -99,17 +99,17 @@ beds and air mattresses in their appartment during a design conference
 in the city. They talked their friend Nathan into launching a web site
 originally called "Airbedandbreakfast.com", and the rest is history.
 
+Despite these humble beginnings, the company has meanwhile become a big and
+well-known brand name. While Airbnb (the originally longer name was shortened
+in 2009) had been expanding into other cities and even foreign countries, it
+also got into the headlines and under significant political pressure,
+especially in San Francisco, where we're now facing the anomalies of 
+another tech bubble which has created an absurd real estate market with 
+limited supply and overwhelming demand.
+
+<pic images/airbnb.ps Airbnb offerings in our neighborhood.>
+
 TODO
-
-Was klein begann, hat sich mittlerweile zu einem
-großen und bekannten Unternehmen gemausert. 
-Die Firma Airbnb (der ursprünglich längere Name wurde ab 2009 abgekürzt)
-expandierte in andere Städte und Länder und kam
-immer mehr unter Druck und in die Schlagzeilen, vor allem
-in Städten wie San Francisco, wo der Wohnraum knapp und heißbegehrt
-ist.
-
-<pic images/airbnb.ps Das Airbnb-Angebot in unserem Viertel.>
 
 Eigentlich ist das Ganze ja eine brilliante Idee. Leute, die ein Zimmer
 in ihrer Wohnung oder in ihrem Haus nicht nutzen oder vielleicht für einige
