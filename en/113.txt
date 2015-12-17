@@ -109,21 +109,20 @@ limited supply and overwhelming demand.
 
 <pic images/airbnb.ps Airbnb offerings in our neighborhood.>
 
-TODO
+At its roots, Airbnb is a brilliant idea. Residents who aren't using their
+appartments or houses while they're out of town for some time, are renting out
+single rooms or their entire place for a limited time. They're making some
+money this way while relying on a proven process controlled by a trusted web
+site.  They conveniently don't need to worry about managing the process, and on
+the other side of the deal, the traveling tourists appreciate that they get
+more personal accomodations than just another bleak hotel room. But critics
+now object that many landlords find that they can make more money by repeatedly
+renting their properties short-term through Airbnb, instead of letting regular
+long-term renters move in, which takes more and more properties off our
+rental property market, which currently has very limited supply, but boasts
+record highs in demand.
 
-Eigentlich ist das Ganze ja eine brilliante Idee. Leute, die ein Zimmer
-in ihrer Wohnung oder in ihrem Haus nicht nutzen oder vielleicht für einige
-Zeit auf Reisen sind, vermieten das Zimmer oder die ganze 
-Wohnung kurzfristig, verdienen sich damit
-ein bisschen Geld nebenbei und wickeln alles unbürokratisch über eine Website
-ab. Um die Verwaltung brauchen sie sich dabei nicht zu kümmern,
-und der Tourist schätzt, dass er sich nicht in ein anonymes Hotel einmieten
-muss. 
-Kritiker werfen nun aber ein, dass Vermieter mittlerweile auf den
-Trichter gekommen sind, dass es sich für sie auszahlt, ihre Wohnungen über
-Airbnb anzubieten und damit immer wieder kurzfristig zu vermieten, statt
-sie Langzeitmietern zur Verfügung zu stellen, was den
-eh schon knappen Wohnraum für normale Mieter noch mehr verknappt.
+TODO
 
 In San Francisco ist der
 Wohnungsmarkt so überteuert und angespannt, dass das Thema in aller Munde ist
