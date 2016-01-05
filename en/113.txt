@@ -122,16 +122,16 @@ long-term renters move in, which takes more and more properties off our
 rental property market, which currently has very limited supply, but boasts
 record highs in demand.
 
+The San Francicsco housing market is infamously overpriced and tight, 
+which is why this issue is all over the news now. Proposition F would
+limit short term rentals to 75 days per year by law. Currently, 
+residential home owners are allowed to rent our their homes up to 
+90 days per year while they're out of town. If the home owner is actually
+present in the rental object, there's no restrictions on how often
+it can be rented out to strangers.
+
 TODO
 
-In San Francisco ist der
-Wohnungsmarkt so überteuert und angespannt, dass das Thema in aller Munde ist
-und die Gemüter erhitzt. Die Proposition F würde kurzfristige Vermietungen 
-gesetzlich auf 75 Tage im Jahr begrenzen. 
-Zur Zeit dürfen Privatleute ihre Wohnungen an bis zu 90 Tagen im Jahr
-untervermieten, wenn sie als Hauptmieter oder Besitzer nicht anwesend sind, 
-und keinerlei Begrenzungen bestehen, falls der Hauptmieter/Besitzer 
-sich ebenfalls in der Wohnung aufhält.
 Träte das Gesetz in Kraft, müsste der Untervermieter
 der Stadt melden, wie lange der über Airbnb (oder
 ähnlichen Anbietern) vermittelte Wohnraum kurzfristig
