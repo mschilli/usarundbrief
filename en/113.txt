@@ -130,22 +130,20 @@ residential home owners are allowed to rent our their homes up to
 present in the rental object, there's no restrictions on how often
 it can be rented out to strangers.
 
-TODO
+If the proposition became law, it would require residents who
+sublet their space to file detailed reports to the city on how long
+each short term rental lasted, to allow them to verify if they
+exceeded the 75 days limit. On top of that, the proposed law would
+makes it easy
+for neighbors to report noncompliant short term landlords and file
+lawsuits against them. It's hardly surprising that Airbnb has spent
+8 million Dollars in their campaign so far to thwart Proposition F.
+Their main slogan tells that Airbnb enables residents of San Francisco
+to earn money via short term rentals, to support them financially and
+enable them to stay in their beloved but horrendously expensive city.
+Update: Proposition F was turned down by the voters 55% to 45%.
 
-Träte das Gesetz in Kraft, müsste der Untervermieter
-der Stadt melden, wie lange der über Airbnb (oder
-ähnlichen Anbietern) vermittelte Wohnraum kurzfristig
-vermietet wurde, damit diese prüfen kann, 
-wann die 75 Tage überschritten sind. Außerdem würde es das Gesetz
-Nachbarn erleichern, Verstöße zu melden und Klagen gegen nicht
-gesetzestreue Vermieter einzureichen. 
-Es verwundert daher nicht, dass die Firma Airbnb 8 Millionen Dollar 
-in den Wahlkampf gesteckt hat, um "Proposition F" niederzuschlagen. Ihr
-Hauptwerbeslogan ist, dass Airbnb es den Einwohnern von San Francisco 
-ermöglicht, durch kurzfristige Vermietungen Geld dazu zu verdienen, 
-um in ihrer geliebten aber teuren Stadt wohnen bleiben zu können.
-Nachtrag: Die Proposition F wurde von den wahlberechtigten
-Bürgern mit 55% gegen 45% der Stimmen niedergeschlagen.
+TODO
 
 @Z: Wahlkampf: Donald Trump und Bernie Sanders
 
