@@ -143,22 +143,21 @@ to earn money via short term rentals, to support them financially and
 enable them to stay in their beloved but horrendously expensive city.
 Update: Proposition F was turned down by the voters 55% to 45%.
 
-TODO
+@Z: Election Campaigns: Donald Trump and Bernie Sanders
 
-@Z: Wahlkampf: Donald Trump und Bernie Sanders
-
-<pic images/trump.ps Immer wieder für einen Lacher gut: Donald Trump.>
+<pic images/trump.ps Always entertaining: Donald Trump.>
 
 <em>Angelika</em>
-Obwohl die nächste Präsidentschaftswahl erst im November 2016 stattfindet,
-stecken wir ein Jahr vorher schon wieder einmal voll im Wahlkampf.
-Das liegt an dem langwierigen Prozess der Vorwahlen in den USA, 
-also dem Auswahlverfahren, mit dem die beiden Parteien, 
-die Republikaner und Demokraten, jeweils ihren Kandidaten bestimmen.
-Diese müssen dazu ihre eigene Basis mobilisieren und geben sich oft 
-radikaler in dieser Phase als sie
-eigentlich sind, denn so können sie punkten und sich in dem noch sehr
-unübersichtlichen Gemenge von ihren Konkurrenten absetzen.
+Although it's still quite some time until the next presidential 
+elections in November 2016, we're already in the middle of fierce 
+political campaigns this year. That's in part due to the 
+long-winding process of the so-called primaries, in which the two
+major political parties, Republicans and Democrats determine
+their front-runners. Candidates need to mobilize their base during
+this time and pull out all the stops in order to distinguish themselves
+from the often unwieldy number of their competitors.
+
+TODO
 
 In der deutschen wie auch in der amerikanischen Presse steht bei der
 republikanischen Partei Donald Trump ganz im Mittelpunkt. Durch seine laute und
