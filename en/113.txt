@@ -224,21 +224,24 @@ it.
 
 <pic images/flickr-sanders-brookings.ps Democrating runner Bernie Sanders enjoys surprising popularity. Foto: flickr[Brookings Institution|96739999@N05/16305933820]>
 
-TODO
+Switching our focus to the Democratic Party now, it's interesting
+to see that a new contender from the bylines has joined the race. 
+Bernie Sanders doesn't get as much media coverage as Trump, but 
+his fan base has been growing steadily. He is attracting voters from the
+Democratic Party's left wing, mainly citizens who are deeply unhappy about
+the fact that Barack Obama hasn't accomplished as much as they'd hoped
+for, and who are committed to prevent another incarnation of the 
+Clinton dynasty from happening. The 74-year-old Sanders even boasts an
+impressive following amongst younger voters. Unlike Trump, he believes in
+the democratic process, and he's is quite an experienced hand in Washington. 
+Since 2007, he's been holding a seat in the Senate for the State of Vermont.
+From 1991 till 2007, he had been a member of the House of Representatives.
+He's even been the major of the town of Burlington in Vermont before.
+Only since 2015, he's been a member of the Democratic Party, before that,
+he had been running as an Independent for his various positons of 
+political office.
 
-Bei den
-Demokraten hat sich auch ein Außenseiter ins Rampenlicht gekämpft, nämlich
-Bernie Sanders. Die Presse schenkt ihm weit weniger Aufmerksamkeit als
-Trump, aber seine Fangemeinde wächst stetig. Bei den Demokraten spricht er den
-eher linkeren Flügel an, also die Wähler, die zutiefst enttäuscht von Barack
-Obama sind, aber auch keine erneute Clinton-Dynastie wollen. Auch
-viele junge Leute begeistern sich für den 74-Jährigen. Im Gegensatz zu Trump
-glaubt er an den demokratischen Prozess und ist kein Neuling in Washington. Seit
-2007 vertritt er den Bundesstaat Vermont im amerikanischen Senat. Von 1991 bis
-2007 war er Kongressabgeordneter im amerikanischen Repräsentantenhaus. Auch
-als Bürgermeister agierte Bernie Sanders schon, nämlich in der Stadt
-Burlington in Vermont. Erst seit 2015 gehört er der demokratischen Partei an.
-Zuvor hatte er alle sein politischen Ämter als Unabhängiger bekleidet. 
+TODO
 
 Seit über
 40 Jahren kämpft er für soziale Gerechtigkeit und bezeichnet sich selbst als
