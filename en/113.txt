@@ -255,20 +255,20 @@ Ironically, he's not favored by minorities, although these voters would
 benefit most from his proposed politics. He's simply not that well known
 in these circles.
 
-TODO
+@Z: Laws for Assisted Suicide in California
 
-@Z: Sterbehilfe in Kalifornien
-
-<pic images/jerry-brown.ps Der Governor von Kalifornien, Jerry Brown. Foto: flickr[U.S. Army Corps of Engineers|usacehq/15078131656]>
+<pic images/jerry-brown.ps Jerry Brown, governor of the State of California. Foto: flickr[U.S. Army Corps of Engineers|usacehq/15078131656]>
 
 <em>Angelika</em> 
-Genau wie in Deutschland führen die Kalifornier seit mehreren Jahren
-eine intensive Debatte über die Sterbehilfe. Immer wieder gab es Vorstöße im
-kalifornischen Parlament, den assistierten Suizid bei schwerkranken Menschen zu
-legalisieren. Immer wieder scheiterten die Befürworter, aber jetzt erfüllte
-sich ihr Wunsch. Das kalifornische Parlament verabschiedete ein
-Sterbehilfegesetz und unser Gouverneur Jerry Brown unterschrieb es, sodass es
-im Januar 2016 in Kraft treten kann.
+Just like in Germany, there's been an ongoing intense debate here in California
+during the last couple of years on the legality of assisted suicide. There have
+been numerous attempts to pass new regulations through the state senate to
+legalize assisted suicide for the terminally ill. Time and time again, however,
+new legislation failed to pass, but recently, supporters prevailed, when the
+California senate passed a new law, signed by governor Jerry Brown, which will
+take effect in January 2016.
+
+TODO
 
 Lange Zeit glaubte man, Jerry Brown würde
 sein Veto gegen das Gesetz einlegen, denn der Druck von kirchlichen
