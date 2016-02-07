@@ -288,17 +288,19 @@ explicit will to die and must take the prescribed lethal medication
 themselves without assistance. Doctors and hospitals have the right
 to refuse to participate in the program.
 
-TODO
+@Z: Hiking near the City
 
-@Z: Wanderpfade in Stadtnähe
-
-<pic images/sutro-forest.ps Mount Sutro Forest: Mitten in der Stadt und doch im Wald.>
+<pic images/sutro-forest.ps Mount Sutro Forest: Can you believe this forest is located right there in residential San Francisco?>
 
 <em>Angelika</em>
-Wir wohnen jetzt ja schon fast eine Ewigkeit in San Francisco
-und haben natürlich unsere Lieblingsplätze und --parks in der Stadt. Je länger
-man in ein und derselben Gegend wohnt, je mehr kommt man in den Trott immer
-wieder die vertrauten Orte aufzusuchen. Zumindest bei uns ist das so. Aber seit
+We've been living here in San Francisco for what almost feels like an 
+eternity, and over time, we've certainly found our favorite places and 
+parks in the city. But the longer you stay in one place, the more it
+becomes routine to keep going to the same places over and over again.
+
+TODO
+
+Zumindest bei uns ist das so. Aber seit
 einigen Wochen machen wir uns jeden Samstag auf, etwas Neues zu entdecken. Das
 liegt auch daran, dass Michael gerade erst seinen Arbeitgeber gewechselt hat
 und ihm nun wieder weit weniger Urlaub als vorher zur Verfügung steht, denn in
