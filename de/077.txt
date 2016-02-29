@@ -392,8 +392,9 @@ wird täglich ab 16:30 Ortszeit (Pacific Time) im Studio von NBC in
 Kalifornien aufgezeichnet. 
 Die Ausstrahlung in New York beginnt um 22:35 Ortszeit (Eastern Time).
 Preisfrage: Um welche Uhrzeit muss der Bergschrat in Denver die Sendung 
-einschalten? Auflösung am Ende des Rundbriefs.
-Auf Wikipedia steht unter <LINK>http://en.wikipedia.org/wiki/North_American_Central_Time_Zone#Broadcasting_concerns|Broadcasting Concerns</LINK> eine
+einschalten? Auflösung am Ende dieses Rundbriefs 
+(<RBLINK>20081120#10</RBLINK>).
+Auf Wikipedia steht unter <LINK>https://en.wikipedia.org/wiki/Effects_of_time_zones_on_North_American_broadcasting#Broadcast_television|Effects of Time Zones on North American Broadcasting</LINK> eine 
 ausführliche Erklärung dieses Phänomens.
 
 @Z: Fair Credit Reporting Act
@@ -561,6 +562,9 @@ Viertelumdrehung nach rechts -- schnalz, dreht sich der Türknauf
 und die Tür geht auf. Ein Riesenpartyspaß!
 
 Das war der Rundbrief!
+
+@Z: Auflösung der Preisfrage
+
 Und nun zur Auflösung der Preisfrage: "Jay Leno" läuft in Denver um 21:35. 
 Es handelt sich um die um eine Stunde verzögerte Ostküstenausstrahlung, 
 die in New York um 22:35 anläuft. Eine Stunde Verzögerung macht 23:35 und
