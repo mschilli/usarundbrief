@@ -399,29 +399,25 @@ a supermarket near you, by all means, buy a pack immediately, because
 that's possibly an unbelievable coincidence, as the product is usually 
 sold exclusively on the Hawaiian islands.
 
+@Z: Earthquake Proof Buildings
+
+<pic images/quake-stabilizer-5.ps Thanks to these six diagonal shocks, in case of an earthquake, this building will be shaking slowly and then settle.>
+
+<em>Michael</em> San Francisco has strict building codes making sure that the
+next earthquake won't wipe out its infrastructure. Contractors need to be
+licenced and are required build by the letter of the code or won't get their
+permits.  Most houses around here are held together by  wooden beams and
+plywood, it's quite rare to find brick and mortar residential buildings. That
+has the downside that you might fall out of your bed at night when your
+neighbor sneezes heavily in an appartment building, but in the event of an
+earthquake shaking the building, you're pretty safe. Unlike brick buildings,
+wooden structures won't crack and crumble and collapse, pancaking the
+downstairs neighbor right away, but swing left and right and then settle
+slowly.
+
+<pic images/earthquake-warning.ps According to the city building department, this building is no longer safe.>
+
 TODO
-
-@Z: Erdbebensicher Bauen
-
-<pic images/quake-stabilizer-5.ps Dank sechs diagonal eingebauter Dämpfer schwingt dieses Gebäude im Erdbebenfall langsam aus.>
-
-<em>Michael</em>
-Damit beim nächsten Erdbeben in San Francisco nicht alles sofort in 
-Schutt und Asche fällt, legt die Stadtverwaltung Wert darauf, dass 
-Baufirmen jedes Gebäude und jede Brücke in der Stadt nach strengen 
-Vorlagen errichten. Die meisten Häuser werden von Holzbalken und
-Pressspanplatten zusammengehalten, Baumaterialien wie Ziegel oder 
-Beton findet man äußerst selten. Das hat zwar den Nachteil, dass
-man in einem Mehrfamilienhaus vor Schreck aus dem Bett fällt, wenn der 
-Nachbar heftig niest. Fährt jedoch bei einem Erdbeben ein gewaltiger
-Ruckler durchs Haus,
-kracht es nicht gleich zusammen, sondern schwingt ein paar 
-Sekunden hin und her und dann langsam aus. Bei einem Steinhaus reißen
-da schnell mal die Ziegel, tragende Wände zerbröseln, und schon 
-saust der erste Stock krachend auf das Parterre nieder und 
-zermatscht den Untermieter zu Pfannkuchenformat.
-
-<pic images/earthquake-warning.ps Dieses Gebäude ist laut Stadtverwaltung nicht erdbebensicher.>
 
 Auch der Hobbyheimwerker muss beim Reparieren aufpassen, damit auch
 alles im rechtlichen Rahmen bleibt. Renoviert er sein Haus, und richtet
