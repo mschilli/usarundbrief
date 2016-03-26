@@ -417,21 +417,20 @@ slowly.
 
 <pic images/earthquake-warning.ps According to the city building department, this building is no longer safe.>
 
-TODO
-
-Auch der Hobbyheimwerker muss beim Reparieren aufpassen, damit auch
-alles im rechtlichen Rahmen bleibt. Renoviert er sein Haus, und richtet
-zum Beispiel ein neues Sonnendeck ein, muss das eigentlich nach der
-Fertigstellung von einem sogenannten Inspektor abgenommen werden.
-Oft unterbleibt dies aber, und deswegen kommt beim Hausverkauf wiederum
-ein Inspektor, der alles anmäkelt, was nicht "nach Code" gebaut wurde.
-Dann kann der Verkäufer es entweder von einem Fachmann richten und
-zertifizieren lassen, oder einfach mit dem Preis runtergehen, damit
-der Käufer ein Auge zudrückt.
+Even do-it-yourself home improvement projects can be fraught with 
+legal pitfalls. If a crafty homeowner builds a new sundeck, for example,
+it is subject to approval by a city inspector. However, this is often
+forgotten or deliberately avoided to save money and hassle, but if 
+the house is sold later on, there's usually another inspection which
+reveals such unapproved projects that weren't done by "code". The seller
+then needs to either get them fixed by a certfied contractor or lower
+the price of the house to compensate the buyer for the problematic areas.
 
 <HTMLONLY>
-<pic images/code-violation.ps Der Eigentümer hat ein Formular nicht eingereicht und jetzt prangt dieses Schild an seinem Haus.>
+<pic images/code-violation.ps This home owner forgot to hand in a required form an now this sign at the front door tells the world about it.>
 </HTMLONLY>
+
+TODO
 
 Oft greifen sparsame Hausbesitzer auch auf die Dienst\-leis\-tungs\-angebote
 illegal eingereister Südamerikaner zurück, deren Handwerkskunst zwar der
