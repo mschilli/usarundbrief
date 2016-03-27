@@ -430,19 +430,19 @@ the price of the house to compensate the buyer for the problematic areas.
 <pic images/code-violation.ps This home owner forgot to hand in a required form an now this sign at the front door tells the world about it.>
 </HTMLONLY>
 
+It's also quite common that cost-concious home owners resort to 
+employing illegal immigrants from South America for construction projects, 
+whose craftsman skills
+are usually on par with certified workers and contractors, yet don't meet
+the official bureaucratic requirements. But since a construction project
+handled that way will cost only a fraction of what workers with clean
+paperwork would charge, illegal employment practices are rampant in
+the private sector for home construction and repairs, and the fact that
+the results don't meet the code requirements is simply accepted.
+
+<pic images/quake-stabilizer-4.ps The shocks are mounted flexibly so they can gently turn and twist.>
+
 TODO
-
-Oft greifen sparsame Hausbesitzer auch auf die Dienst\-leis\-tungs\-angebote
-illegal eingereister Südamerikaner zurück, deren Handwerkskunst zwar der
-eingesessener und zertifizierter Arbeiter und sogenannter "Contractors"
-(Bauleiter) ebenbürtig ist,
-aber halt nicht den offiziellen Vorschriften genügt. Da
-ein so fertiggestelltes Bauwerk aber nur ein Bruchteil von dem kostet, was
-ein Bauarbeiter mit sauberen Papieren verlangen würde, ist im privaten
-Sektor Schwarzarbeit gang und gäbe, einschließlich der damit 
-einhergehenden nicht offiziell abgesegneten Reparaturen.
-
-<pic images/quake-stabilizer-4.ps Die Dämpfer sind drehend eingelagert und geben bei Stößen sanft nach.>
 
 Bei öffentlichen Bauprojekten wählt die Stadt bei der Aus\-schrei\-bung
 natür\-lich nur zertifi\-zierte Betriebe aus, die strikt nach Vorschrift bauen,
