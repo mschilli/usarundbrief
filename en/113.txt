@@ -461,30 +461,29 @@ shoddy craftsmen, who'd come up with new excuses every day on why they
 didn't finish, driving me slowly but steadily towards an early grave. 
 That will never happen, never!
 
-TODO
-
 @Z: Bye bye, Perly Perlman?
 
-<pic images/perlman-lost-coast.ps Perly Perlman während seiner Glanzzeit um 2004 auf einem Feldweg entlang der "Lost Coast".>
+<pic images/perlman-lost-coast.ps Our car Perly Perlman during its prime time around 2004 on an unpaved road along the "Lost Coast".>
 
-<em>Michael</em> Ihr werdet es kaum glauben, aber als wir 1996 nach Kalifornien
-zogen, hatten wir tatsächlich so wenig Geld, dass wir uns ein ganzes
-Jahr lang überhaupt kein Auto geleistet haben. 
-Dann bot mir 1997 ein Arbeitskollege bei AOL zum Schlagerpreis 
-von 3.300 Dollar einen damals sechs Jahre alten Edel-Honda mit
-100.000 Meilen auf dem Tacho an. Sein schwarzer Lack war wegen der im 
-Silicon Valley dauernd
-runterbrennenden Sonne schon überall abgeblättert, aber das war mir egal. 
-Er hatte nur Gangschaltung, und keine Automatik, aber das kannte ich
-gar nicht anders. Und der Vorbesitzer, ein Franzose, 
-hatte den Wagen in einem Anfall von
-geistiger Umnachtung ohne Klimaanlage gekauft. Aber ich war jung und 
-hauptsächlich im windigen San Francisco unterwegs,
-mit der mörderischen Sonne Südkaliforniens noch unvertraut.
-Wir wickelten den Deal auf dem AOL-Parkplatz per Handschlag ab und 
-ich war ab sofort stolzer Besitzer eines Acura Intregra Baujahr 1991.
+<em>Michael</em>You're going to have a hard believing this, but when we
+moved to California in 1996, we actually were on such a limited budget that for
+an entire year, we made due without a car of our own. 
+Then, in 1997, I got a great deal
+from a colleague at AOL, where I worked at the time. He had a six year old
+Acura with 100.000 miles for sale and wanted $3,300 for it. Cosmetically,
+the car wasn't in great shape, as its clear coat that once had covered its
+black paint had been burned off by the relentless California sun, but I didn't
+care about looks. It only had a manual transmission, but that's what I
+was used to from driving in Europe anyway. And the previous owner, a Frenchman,
+had, apparently without thinking, bought the car with no air condition, but
+that didn't bother me, as I wasn't familiar with the murderous Southern 
+California sun yet. I was young and mostly up and about in windy San Francisco, so this didn't seem like a show stopper. We shook hands on the deal on the
+AOL parking lot and from then on I was the prowd owner of a 1991 Acura
+Integra.
 
-<pic images/perlman-crossing-river.ps Auch ohne Vierradantrieb schafft Perly Perlman die Durchquerung dieses kleinen Flüssleins.>
+<pic images/perlman-crossing-river.ps Perly Perlman could cross small rivers even without a four wheel drive.>
+
+TODO
 
 Im Fernsehen hatte ich, auch schon in Deutschland, 
 immer schon die in den USA erhältlichen
