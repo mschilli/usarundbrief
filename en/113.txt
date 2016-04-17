@@ -483,21 +483,20 @@ Integra.
 
 <pic images/perlman-crossing-river.ps Perly Perlman could cross small rivers even without a four wheel drive.>
 
+While growing up watching German TV, I had always been admiring the
+personalized license plates some people drive around with in the United States.
+Because of my professional focus on the programming language Perl, I searched
+for "PERL MAN" on California's vehicle registration site
+<LINK>https://www.dmv.ca.gov/portal/dmv/detail/portal/ipp2/welcome|DMV</LINK>
+and confirmed that it was indeed available. I had to pay the registration fee
+for my new car, plus about $30 for the personalized licence plates. I vividly
+remember how I picked up the plates at the DMV in Redwood City. Right there on
+their parking lot, I pulled out a screwdriver and mounted them in front and
+back. "Perly Perlman", which is how the car would be referred to from then on,
+was born. 
+
 TODO
 
-Im Fernsehen hatte ich, auch schon in Deutschland, 
-immer schon die in den USA erhältlichen
-personalisierten Nummernschilder bewundert. Wegen meiner Vorliebe für die
-Programmiersprache Perl schaute ich auf der 
-<LINK>https://www.dmv.ca.gov/portal/dmv/detail/portal/ipp2/welcome|Website des Kraftfahrzeugmeldestelle Kaliforniens (DMV)</LINK> 
-nach, ob das Kennzeichen "PERL MAN" noch zu haben sei. Es war noch
-nicht vergeben, und so zahlte ich nicht nur die Registrierungsgebühr, um
-mein neu erworbenes Auto anzumelden, sondern auch noch etwa 30 Dollar extra für
-das personalisierte Nummernschild. Ich erinnere mich noch genau daran,
-wie ich das Kennzeichen beim DMV in Redwood City abgeholt habe und es
-gleich mit Hilfe eines mitgebrachten Schraubenziehers auf dem Parkplatz der
-Kraftfahrzeugmeldestelle am Auto anbrachte. "Perly Perlman", wie das Auto 
-von nun an hieß, war geboren.
 Legendär ist das Foto oben von einem unserer Ausflüge, auf dem ich mit
 Perly auf einem staubigen Feldweg entlang der Lost Coast in Nordkalifornien
 rase und den Kopf zum Fenster rausstrecke (<RBLINK>20040826#5</RBLINK>).
