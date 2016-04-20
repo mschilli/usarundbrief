@@ -519,19 +519,19 @@ If there's one piece of advice I, as a seasoned veteran
 would like to pass on to future generations, it's this: If it ain't
 broke, don't fix it. Remember that, kids!
 
-TODO
-
-Ein gravierendes Problem bei einem 24 Jahre alten Auto ist allerdings, dass
-es ohne Sicherheitsmerkmale wie Airbags (gab's 1991 noch nicht serienmäßig)
-bei einem Unfall schnell zur Todesfalle wird. Und das passiert schnell,
-denn Amerikas Fußballmutties schießen oft meilenweit blind in ihren 
-Monster-Minivans durch die Gegend, weil sie ja gleichzeitig auf dem Handy 
-herumtippen müssen. Oder habt ihr schon einmal versucht, in einem Auto
-ohne ABS eine Vollbremsung einzuleiten, weil der Vordermann grundlos auf
-seine natürlich elektronisch gesteuerte Bremse gelatscht ist? 
-Sternstunden der Fahrkunst.
+However, there's significant risks involved in driving a 24 year old car. For
+instance, it doesn't have airbags (those didn't come standard in 1991), and the
+vehicle could easily turn into a death trap in case of an accident. And once
+you've seen American soccer moms driving their monster minivans for miles
+without looking up, because they're busy texting on their mobile phones, you'll
+realize this is a real safety hazard. Or, while driving a car without
+anti-lock brakes, have you ever tried to avoid rear-ending the vehicle in front
+of you on a wet road whose driver just slammed on their anti-lock brakes for no
+apparent reason?  Not many people can handle that.
 
 <pic images/buy-back-program.ps (#2) Kalifornien gibt mir 1000 Dollar, um Perly Perlman zu verschrotten.>
+
+TODO
 
 Neulich flatterte Post von Kaliforniens "Vehicle Buyback Program" ins Haus
 (Abbildung (#2)), 
