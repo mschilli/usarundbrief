@@ -531,20 +531,18 @@ apparent reason?  Not many people can handle that.
 
 <pic images/buy-back-program.ps (#2) Kalifornien gibt mir 1000 Dollar, um Perly Perlman zu verschrotten.>
 
+Recently, I've received a letter from California's "Vehicle Buyback Program"
+in the mail (Figure (#2)), which offered owners of cars built before 1994
+the astounding amount of \$1,000 if they volunteered to take the car
+off the road by bringing it to an approved dismantler.
+As you can verify on the <LINK>http://www.baaqmd.gov/?sc_itemid=8CCDF124-2987-4933-86DB-53EA991D438F|Vehicle Buyback Program Website</LINK>, there's a few
+conditions for the car to qualify. For example, it must still pass
+the bi-yearly smog test required in California, otherwise the car's not
+really in driveable condition and the owner couldn't use it anyway.
+
+<pic images/smog-check.ps (#3) The California smog test for a car verifies a whole slew of emission values.>
+
 TODO
-
-Neulich flatterte Post von Kaliforniens "Vehicle Buyback Program" ins Haus
-(Abbildung (#2)), 
-das Besitzern von Autos Baujahr 1994 und älter exakt 1000 Dollar
-anbietet, wenn sie ihr Auto bei einer staatlich geprüften Stelle verschrotten
-lassen. Wie auf der <LINK>http://www.baaqmd.gov/?sc_itemid=8CCDF124-2987-4933-86DB-53EA991D438F|Website des Buyback-Programms</LINK> nachzulesen ist, muss
-das Auto allerdings strikten Kriterien genügen, damit der Staat die
-Abwrackprämie locker macht. Besteht die alte Mühle zum Beispiel den 
-alle zwei Jahre fälligen
-Smogtest nicht mehr, gibt's auch kein Geld, denn der
-Besitzer kann das Auto ja gar nicht mehr legal fahren. 
-
-<pic images/smog-check.ps (#3) Der kalifornische Smogtest misst eine ganze Latte an verschiedenen Emissionswerten.>
 
 Perlys Smogtest war bislang immer knapp an der Grenze, Abbildung (#3) zeigt,
 dass der Messwert für emittierte Kohlen\-wasser\-stoffe (HC) bei 
