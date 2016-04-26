@@ -542,23 +542,22 @@ really in driveable condition and the owner couldn't use it anyway.
 
 <pic images/smog-check.ps (#3) The California smog test for a car verifies a whole slew of emission values.>
 
-TODO
+For quite some time now, Perly Perlman's smog tests have always been a close
+call. The printed report in Figure (#3) documents that hydrocarbon emissions of
+cars in California average 39 ppm, with an allowed maximum of 87 ppm at 15
+miles per hour.  Perly had exactly 87 ppm, one hydrocarbon molecule more and it
+would have flunked the test! Other measurement points during the smog test are
+carbon dioxide, carbon monoxide, and nitrogen emissions. Because of Perly's
+somewhat advanced age, for the last couple of years, the DMV had mandated the
+tests to be performed at a "Star" station.  These specialized smog testers only
+perform the tests and offer no other services, like repairing cars, so there's
+no conflict of interest. By the way, smog stations also perform other tests,
+like if the gas tank cap is sitting on tight and provides a good seal. If it's
+leaking air, the car won't pass the test, but the smog station usually has a
+new gas tank cap for sale at $10 a piece, to fix the problem right here
+and now.
 
-Perlys Smogtest war bislang immer knapp an der Grenze, Abbildung (#3) zeigt,
-dass der Messwert für emittierte Kohlen\-wasser\-stoffe (HC) bei 
-kalifornischen Autos im Schnitt bei 39 ppm liegt, und der maximal zulässige
-Wert 87 ppm ist, wenn das Auto 15 Meilen pro Stunde (etwa 24 km/h) fährt.
-Wieviel hatte Perly? Genau 87 ppm, nur ein Kohlen\-wasser\-stoff\-atom mehr,
-und Perly hätte um Haaresbreite nicht bestanden. Weiter misst der Smogtest
-Kohlendioxyd, Kohlenmonoxyd und Stickstoff.
-Wegen seines fortgeschrittenen Alters musste Perly in den letzten Jahren
-immer zu einer sogenannten Star-Prüfstelle, das sind speziell lizensierte
-Betriebe, die nur Smogtests machen und nicht etwa nebenbei noch Autos
-reparieren, damit sie keinen Schmuh machen. Übrigens testet die Prüfstelle
-auch noch weitere Details, und sieht zum Beispiel nach, ob der 
-Tankdeckel auch richtig schließt. Lässt er Luft durch, segelt das Auto sofort
-mit Karacho durch die Prüfung, aber meist hat der Tester für 
-zehn Dollar einen neuen Tankdeckel parat.
+TODO
 
 Aber auch noch weitere Kriterien müssen vor der staatlich alimentierten
 Verschrottung stimmen:
