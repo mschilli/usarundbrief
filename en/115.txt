@@ -5,25 +5,28 @@ San Francisco, 02-29-2016
 <pic images/tent-bridge.ps Under some of the freeway overpaths in San Francisco, homeless tent encampments have been popping up recently.>
 
 <em>Angelika</em> Unfortunately, San Francisco has always had a 
-large number of homeless people living within city limits.
+large number of homeless people living within city limits. A variety of
+factors exasperate the problem: Cost of living is at an all time high, 
+there's a shortage of affordable housing, and currently we're experiencing
+a full-fledged housing crisis in general. 
+People who lose their job and don't have savings, quickly end
+up on the street, because there are no social safety nets. San Francisco
+is known for its liberal city politics and, despite all problems, there are
+a variety of services for the homeless. Clearly, they're not sufficient
+to deal with all the cases, but at least they exist. But San Francisco's
+very mild Northern California climate and the fact that there's no rain during
+the summer months, and no snow at all in the winter, makes some
+people think they can just pitch a tent somewhere on the streets and
+stay there.
+At the beginning of 2015, there were a total of 6,690 homeless people 
+living in the city. As long as we can remember, every mayor 
+has promised to get the problem under control, but every single
+one has failed to do so, or has quickly switched to other priorities after
+a successful election.
+
+<pic images/tent-bicycle.ps Two homeless people repairing a bicycle.>
 
 TODO
-
-Die
-Gründe für die hohe Anzahl der Obdachlosen in dieser Stadt sind vielschichtig:
-Hohe Lebenshaltungskosten, kaum bezahlbare Wohnungen und zu wenig Wohnungen im
-allgemeinen. Verliert man den Job und hat keine Rücklagen, endet man schnell
-auf der Straße, weil es keine Sozialsysteme gibt, die einen auffangen. San
-Francisco gilt als liberal und hat trotz aller Probleme Hilfsangebote für
-Obdachlose. Die reichen zwar hinten und vorne nicht, aber es gibt sie
-wenigstens. Auch ist das nordkalifornische Klima relativ mild.  Es regnet
-Monate nicht und Schnee gibt es nie. Fast 6.690 Obdachlose lebten Anfang 2015
-in San Francisco. Seitdem wir in dieser Stadt leben, versprach jeder neu
-gewählte Bürgermeister, das Problem in den Griff zu bekommen. Bis jetzt ist
-jeder gescheitert oder setzte nach der gewonnenen Wahl wieder andere
-Prioritäten.
-
-<pic images/tent-bicycle.ps Hier wird ein Fahrrad repariert.>
 
 Auch dass Obdachlose Zuflucht unter Autobahnbrücken suchen, ist keine Neuheit.
 Oft entwickeln sich daraus dann kleine Zeltlager. An der Cesar-Chavez-Ausfahrt
