@@ -4,9 +4,12 @@ San Francisco, 02-29-2016
 
 <pic images/tent-bridge.ps Under some of the freeway overpaths in San Francisco, homeless tent encampments have been popping up recently.>
 
+<em>Angelika</em> Unfortunately, San Francisco has always had a 
+large number of homeless people living within city limits.
+
 TODO
 
-<em>Angelika</em> Obdachlose gehören in San Francisco leider zum Stadtbild. Die
+Die
 Gründe für die hohe Anzahl der Obdachlosen in dieser Stadt sind vielschichtig:
 Hohe Lebenshaltungskosten, kaum bezahlbare Wohnungen und zu wenig Wohnungen im
 allgemeinen. Verliert man den Job und hat keine Rücklagen, endet man schnell
