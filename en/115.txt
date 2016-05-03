@@ -26,20 +26,22 @@ a successful election.
 
 <pic images/tent-bicycle.ps Two homeless people repairing a bicycle.>
 
+And that the homeless have been setting up tent camps for years underneath
+various freeway overpaths in San Francisco is hardly news to anyone who's been
+living in the city for a while. There has been an encampment at the Cesar
+Chavez 101 exit for many years, for example. Passing by it on my commute almost
+every work day, I've noticed how it has been growing significantly during the
+last couple of months.  Several days a week, there's nuns who are giving out
+food to the homeless there, and I've even witnessed them giving the homeless
+haircuts right there at the side of the road. I was quite moved by that. The
+latest trend, however, seems to be that the homeless are simply popping up
+tents right on the sidewalks in several central parts of the city.  Until
+recently, for example, there were no less than 130 of these tents on the
+sidewalk along Division Street.
+
+<pic images/tent-row.ps Row of camping tents for the homeless in San Francisco.>
+
 TODO
-
-Auch dass Obdachlose Zuflucht unter Autobahnbrücken suchen, ist keine Neuheit.
-Oft entwickeln sich daraus dann kleine Zeltlager. An der Cesar-Chavez-Ausfahrt
-der Autobahn 101 gibt es zum Beispiel ein solches Lager. Ich fahre dort oft mit
-dem Auto vorbei und habe über die letzten Monate hinweg die Zeltsiedlung wachsen
-sehen. An einigen Tage der Woche teilen Nonnen Essen an die Obdachlosen aus und
-ich habe auch schon beobachtet, wie die Nonnen den Obdachlosen die Haare auf
-der Straße schneiden. Das rührt mich dann immer sehr. Ein neuerer Trend ist
-allerdings, dass die Zelte sich auf den Bürgersteigen der Stadt
-ausbreiten. So standen an der Division Street bis vor kurzem 
-sage und schreibe 130 Zelte auf dem Bürgersteig entlang der Straße. 
-
-<pic images/tent-row.ps Zeltreihe mit Obdachlosen in San Francisco>
 
 Über dieser Straße
 verläuft die Autobahn und die Hochtrasse bietet Schutz vor dem Wetter. 
