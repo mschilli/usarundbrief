@@ -53,21 +53,22 @@ according to reports by a local newspaper.
 
 <pic images/tent-tarp.ps Single tent with plastic tarp near Division Street.>
 
+There were reports of homeless people scaring away store customers, using 
+supermarket toilets as their private bathrooms or tent encampments
+blocking loading docks. According to the store owners, it was 
+not uncommon that a homeless person would enter the store and expose 
+themselves or just start screaming. Many are mentally ill and
+should rather get medical care, but there's only very few locations
+offering such services. The Rainbow Grocery employees tried to 
+get the attention of San Francisco mayor Ed Lee with this issue and
+pointed out the urgency, but didn't receive any help by
+the city. And Rainbow didn't even want to drive the homeless away,
+but simply asked for more sanitary conditions by providing more
+toilets and garbage cans.
+
+<pic images/tent-phone.ps A homeless man makes a phone call.>
+
 TODO
-
-Die Obdachlosen vergraulten nämlich Kunden, benutzten die Toiletten des
-Supermarktes als privates Badezimmer oder blockierten mit den Zelten die
-Zufahrtswege für die Zulieferer. Es kam wohl auch des öfteren vor, dass ein
-Obdachloser den Supermarkt betrat und sich entblößte oder einfach nur
-rumschrie. Viele der Obdachlosen sind pyschisch krank und gehörten eigentlich
-in betreute Einrichtungen, die aber eine Rarität sind. Die
-Rainbow-Mitarbeiter versuchten, unseren Bürgermeister Ed Lee auf die
-Dringlichkeit der Lage aufmerksam zu machen, erhielten aber zunächst keine
-Unterstützung. Die Rainbow-Truppe wollte die Obdachlosen nun nicht unbedingt
-vertreiben, sondern nur für bessere hygienische Bedingungen sorgen wie mehr
-Toiletten und mehr Mülleimer.
-
-<pic images/tent-phone.ps Ein Obdachloser telefoniert mit dem Handy.>
 
 Letzte Woche nun drohte die Stadt dann auf einmal mit der Zwangsräumung der
 Zelte. Am Dienstag setzte sie eine Frist von 72 Stunden. Zunächst versuchten
