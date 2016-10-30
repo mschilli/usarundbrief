@@ -362,7 +362,9 @@ Leben sie im Ausland, zahlen sie dort ihre Steuern an das jeweilige Land
 in dem sie dann wohnen, aber das IRS will wissen was läuft. Alle Jahre
 wieder.
 
+<HTMLONLY>
 <pic images/reentry-permit.ps Greencardbesitzer mit Reentry-Permit dürfen bis zu zwei Jahre außer Landes weilen.>
+</HTMLONLY>
 
 Dann gibt's noch Fälle, in denen sich die Annahme er US-Staatsbürgerschaft aus
 legalen Gründen empfiehlt, zum Beispiel wenn ein Ehepaar ein Kind durch eine
