@@ -486,7 +486,9 @@ hinter dem Fernsehkasten steht (Abbildung (#1)) gute Bildqualität liefert,
 auch von Sendern, die nicht von Twin Peaks sondern wie zum Beispiel NBC
 aus dem 20 Kilometer südlichen liegenden San Bruno abgestrahlt werden.
 
+<HTMLONLY>
 <pic images/sling-twitter.ps Beim EM-Halbfinale brechen die Sling-Server zusammen.>
+</HTMLONLY>
 
 Nun kann man in Amerika allerdings nicht einfach so eine Sendung im Fernsehen
 ansehen, wenn man nicht gerade arbeitslos ist und eh den ganzen Tag auf der
