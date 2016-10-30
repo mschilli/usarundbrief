@@ -146,9 +146,9 @@ sitzen?  Also zahlt man zähneknirschend.
 
 <HTMLONLY>
 <pic images/las-vegas-vdara-night.ps Zimmerblick im Vdara-Hotel in Las Vegas.>
-</HTMLONLY>
 <pic images/las-vegas-lyft.ps Die Hotels haben jetzt schon Fahrspuren für Uber- und Lyft-Taxis.>
- 
+</HTMLONLY>
+
 Die meisten Hotels am Las Vegas Strip erheben seit geraumer Zeit die 
 sogenannte Resortgebühr. Für Beträge zwischen $20 bis $32 pro Nacht erhält
 der Hotelgast eigentlich keine Gegenleistung, weil kaum jemand 
@@ -397,28 +397,46 @@ unbürokratisch aus der Patsche, aber bei US-Passbesitzern schickt der Konsul
 nur eine Ansichtskarte mit einem lustigen Motiv und dem Aufdruck 
 "Good luck with that, buddy".
 
-@Z: Der dritte Kandidat: Gary Johnson
-
+@Z: Drittkandidaten Gary Johnson / Jill Stein
+ 
 <pic images/gary-johnson.ps Der liberale Gary Johnson kandidiert neben Clinton und Trump im Präsidentenwahlkampf. Foto: flickr[Gage Skidmore|gageskidmore/16484996670]>
 
 <em>Angelika</em>
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
+Jeder weiß, dass in den USA ein Zwei-Parteien-System herrscht. Es gibt die
+Demokraten, für die Hillary Clinton im Rennen ist, und Donald Trump, der für
+die Republikaner antritt. Schon lange hat es keinen amerikanischen Wahlkampf
+mehr gegeben, bei denen beide Kandidaten so unbeliebt bei der breiten Masse
+waren wie beim aktuellen. 
 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
-Blah blah blah.  Blah blah blah.  Blah blah blah.  Blah blah blah. 
+Viele Wähler, die seit Jahr und Tag für den republikanischen Kandidaten
+stimmen, egal wer aufgestellt ist, können sich nicht dazu bringen, ihre Stimme
+für Donald Trump abzugeben, wollen aber auch nicht Hillary Clinton im Weißen
+Haus sehen. Auch Demokraten mögen Hillary nicht, könnten aber niemals Trump
+wählen.  Wie ihr seht, ist das ein Dilemma.  Da bleibt nur, zuhause zu bleiben
+und gar nicht zu wählen oder seine Stimme den Drittkandidaten Gary Johnson oder
+Jill Stein zu geben, obwohl diese niemals eine Chance haben, Präsident oder
+Präsidentin zu werden. Gary Johnson und Jill Stein ziehen dadurch Stimmen von
+Hillary Clinton und Donald Trump ab, und können dadurch die Wahl dramatisch 
+beeinflussen. Letztendlich ist die Stimmenabgabe für einen Drittkandidaten 
+in den USA eine Protestwahl.  
+ 
+Gary Johnson war republikanischer Gouverneur im Bundesstaat New Mexico,
+tritt jetzt aber als Kandidat für die Libertäre Partei an. Er will die
+Einkommenssteuer und Obamacare abschaffen, strebt einen ausgeglichenen Haushalt
+an und möchte, dass der Staat so wenig Einfluss wie möglich hat. Auch ist er
+gegen militärische Auslandseinsätze der USA und gegen die Regulierung des
+Internets.
+ 
+Jill Stein, eine Ärzin, tritt für die Grünen an, und ihr liegen dann auch
+typische Umweltthemen am Herzen: erneuerbare Energien, Ausbau von öffentlichen
+Verkehrsmitteln.
+ 
+Wie gesagt, keiner der Alternativkandidaten hat auch nur den Hauch einer Chance
+zu gewinnen, aber beide wecken Erinnerungen an das Ralph-Nader-Debakel im Jahr
+2000. Der alternative Kandidat Nader kostete Al Gore damals 
+höchstwahrscheinlich die Wahl, denn er erhielt viele Stimmen im Bundestaat 
+Florida, die Al Gore dringend gebraucht hätte. Bekanntlich wurde damals
+der Republikaner George W. Bush Präsident.
 
 @Z: Gutes Fernsehen: Charlie Rose
 
