@@ -1,0 +1,502 @@
+San Francisco, den 01.11.2016
+
+@Z: Nägel in Wände aus Gipskarton hauen
+
+<pic images/drywall.ps (#4) Amerikanische Häuser bestehen aus senkrechten Holzbalken ("studs") mit aufgenagelten Platten aus Gipskarton ("drywall"). Foto: flickr[sharpshooter99|sharpshooter99/4684393642]>
+
+<em>Michael</em> Um in Deutschland ein Bild an die Wand zu hängen, packt der
+Heimwerker die Schlagbohrmaschine aus, die wie in Butter ein Loch in die Wand
+haut. Dann einen Dübel und eine Schraube rein, und fertig ist der Lack. Das
+hält so fest, da könnte eine Bombe einschlagen und das Bild hinge immer noch.
+In Amerika sind die Häuser allerdings zumeist nicht aus Ziegelsteinen gebaut.
+Vielmehr besteht ihr Grundgerüst aus senkrechten Holzbalken mit Querschnitt 2x4
+Inch (5cm x 10cm), sogenannten "studs", auf die der Baumeister 1cm dünne
+Platten aus Gipskarton ("drywall") nagelt und das Ergebnis dann "Wand" bzw.
+"Haus" nennt (Abbildung (#4)).  Ihr denkt vielleicht, ich scherze, aber das ist
+die reine Wahrheit, meist aus Kostengründen, aber in der San Francisco Bay Area
+definitiv der Erdbebengefahr geschuldet, denn Holz gibt nach, während Ziegel
+zerbröseln.
+
+Was passiert, wenn man einen Nagel in einen 1cm dicken Karton nagelt und ein
+Bild dranhängt, kann man sich vorstellen: Das hält nicht lang und rumms liegt
+das Bild am Boden, weil der Nagel wieder rausfällt. Um nun in einem solchen
+Kartenhaus einen Nagel so einzuhauen, dass er auch fest sitzt, muss der
+Heimwerker eine Stelle finden, an der der Gipskarton an den Holzbalken genagelt
+wurde, dann geht der Nagel in den Balken und hält bombenfest. Doch wie findet
+man diese Stellen, wo zwischen zwei "studs" hinter der "drywall" immer 16
+inches (40cm) Abstand liegen? Durch den Karton durchschauen kann man freilich 
+nicht, aber im Land des ungebremsten Erfindungsreichtums kann man Geräte 
+kaufen, die das Problem lösen.
+
+<pic images/studfinder.ps Elektrischer (oben) und magnetischer (unten) Stud Finder.>
+
+Sogenannte "Stud Finder" messen mit Sonden in die Wand hinein und leuchten auf,
+falls der Heimwerker sie gerade über einen Balken hält. Die elektrische
+Variante funktioniert dabei ähnlich wie ein Metallsuchgerät und blinkt auf,
+falls sich die aktuelle Wandposition zum Einschlagen eines Nagels oder zum
+Eindrehen einer Schraube eignet. Weniger bekannt, viel billiger, aber fast noch
+wirksamer sind die magnetischen Varianten, die es sich zunutze machen, dass
+sich in den Balken in regelmässigen Abständen Nägel befinden, schließlich wurde
+der Gipskarton beim Hausbau minutiös aufgenagelt. Sie brauchen keine Batterie,
+verfügen nur über einen extrem starken Magneten, und bleiben wegen der
+Anziehungskraft gleich an der Stelle an der Wand kleben, an der sich zugleich
+ein Nagel und ein Balken befinden. Genial! Man muss zwar S-förmig herumsuchen,
+bis man eine solche Stelle findet, aber schlägt der Magnet an, gibt's keinen
+Zweifel, dass unter der Wand ein Stück Metall ist, und man kann genau auf den
+senkrechten Verlauf des Holzbalkens schließen und den Nagel entsprechend weiter
+oben oder unten einklopfen.
+
+Zwei dieser Geräte kann ich empfehlen: Der Franklin ProSensor 710+ ist mit
+seinen fast 50 Dollar Anschaffungspreis eigentlich nur für High Roller wie mich
+gedacht, aber ich finde seine Anzeige mit den Leuchtdioden, von denen
+diejenigen aufleuchten, hinter denen der Balken ist, wirklich gelungen.
+Letztlich reicht aber ein magnetischer Stud Finder, wie der "CH Hanson 03040"
+für zehn Dollar völlig aus, er hat sogar den Vorteil, dass er an der Wand über
+dem Stud-Nagel haften bleibt und der Heimwerker so in Ruhe mit einem Bleistift
+die gewünschte Nagel- oder Schraubenposition markieren oder sogar gleich
+loshämmern oder -bohren kann.  Fern halten würde ich mich von allen Geräten der
+Firma Zircon.  Die produzieren zwar reichlich Blinksignale, die allerdings 
+meiner Erfahrung nach nur rein zufällig mit richtigen Streben in Verbindung
+stehen.
+
+@Z: Wundersalbe Aquaphor
+ 
+<pic images/aquaphor-balm.ps Die Wundersalbe, die Wunden schneller heilen lässt.>
+
+<em>Michael</em>
+Als unsere Hautärztin mir neulich ein Furunkel am Haaransatz herausschnitt
+und dabei ein beachtliches Loch in der Haut hinterließ, drückte sie mir 
+anschließend eine Probepackung einer Salbe in die Hand, mit der Anweisung,
+diese ein paarmal täglich auf die Wunde aufzutragen. Ich tat wie 
+geheißen und stellte erstaunt fest, dass das Loch binnen weniger Tage
+dermaßen sauber verheilt war, dass man kaum noch sah, wo es einst
+gewesen war.
+
+Ei der Daus! dachte ich, das ist ja eine neue Wundersalbe, sollte es
+in der jahrhundertealten Salben- und Balsamdoktorei heutzutage
+tatsächlich noch bahnbrechende Verbesserungen geben? Anscheinend schon,
+denn als ich neulich vom Skateboard fiel, wie eine Katze in der Luft
+herumwirbelte und auf allen Vieren auf dem Gehweg landete,  zog ich
+mir eine böse Schramme am Handballen zu, die ich ebenfalls sofort daheim
+mit der Wundersalbe einbalsamierte. Drei Tage später war die relativ tiefe
+Wunde vollkommen verheilt und eine Woche später war sie narbenfrei 
+zugewachsen. Die normalerweise in Amerika erhältlichen Wundpäparate 
+wie Neosporen schnupft diese neue Killersalbe um Längen. "Aquaphor" heißt
+sie, und wird nicht nur von führenden Dermatologen, sondern hiermit auch 
+von mir mit meinem, äh, aktiven Life-Style empfohlen. Soll übrigens
+eine deutsche Firma sein, Aquaphor, da schau her!
+
+@Z: Poke-Invasion
+
+<pic images/poke-bowl-stand.ps Ein kleiner Poke-Stand an der Market Street.>
+
+<em>Angelika</em> Vor einiger Zeit berichteten wir über das tradi\-tio\-nelle
+hawaii\-anische rohe Fischgericht "Poke" (<RBLINK>20130921#6</RBLINK>),
+das es in Hawaii im jeden Supermarkt an der Fischtheke zu kaufen gibt.
+Scheinbar hat es sich herum\-gesprochen, dass Poke lecker, ein wenig exotisch
+und dann auch noch gesund ist, denn in San Francisco und der Bay Area schießen
+die Pokeläden wie Pilze aus dem Boden. Allein bei uns in der Gegend gibt es
+zwei neue Läden, die sogenannte "Poke-Bowls" anbieten. Das sind meist kleinere
+Etab\-lisse\-ments, die man durchaus mit Imbissen in Deutschland vergleichen
+kann.  Es gibt in der Regel nur wenig Sitz\-möglich\-keiten und auch keine
+Bedienung, die zum Tisch kommt, vielmehr bestellt der Gast direkt am Tresen. 
+
+<pic images/poke-bowl-2.ps Eine Fischschüssel mit Salat.>
+
+Dabei kreiert der Kunde seine eigene Fischschüssel ("Poke Bowl"). Traditionell
+kommt in Hawaii unter den rohen eingemachten Fisch Reis. Als wir hier Poke in
+dem kleinen Laden "Poke Delish" im Castro-Viertel aßen, konnten wir zwischen
+Reis und Salat auswählen und dann den rohen angemachten  Fisch mit
+entsprechenden Saucen auswählen, bis zu drei verschiedene Sorten waren erlaubt.
+Zum Schluss ging es ans Garnieren: Frühlingszwiebeln, Seetangsalad, eingelegten
+Ingwer, Sesamkörner, Rogen von fliegenden Fischen (Tobiko) und Edamame
+(Stängelbohnenkerne) standen zur Auswahl. Die Poke-Bowl hat uns gemundet.
+Fraglich bleibt, wie viele Pokeläden eine Stadt braucht und wie lange der Trend
+anhält. Aber selbst wenn Poke in San Francisco nicht mehr angesagt ist, bleibt
+uns immer noch Hawaii, denn da gibt es Poke schon seit ewigen Zeiten.
+
+@Z: Parkgebühren in Las  Vegas
+ 
+<pic images/las-vegas-flight.ps Im Freitagabend-Partyflugzeug nach Las Vegas.>
+
+<em>Angelika</em> Aufmerksame Leser des Rundbriefs wissen, dass Michael und ich
+uns vor langer Zeit in Las Vegas in einer Autovermietungsfirma kennengelernt
+haben und da bei uns dieses Jahr ein rundes, besonderes Jubiläum anstand, zog
+es uns natürlich in die Glitzerstadt in der Wüste, um unseren Hochzeitstag zu
+feiern. Da sich Las Vegas immer wieder neu erfindet, hat es sich über die Jahre
+dramatisch verändert. Aus dem Hotelbilligparadies mit "All You Can Eat" Buffets
+ist ein Hort der Luxushotels und Gourmetrestaurants geworden. Casinos gibt es
+natürlich noch immer, aber die werfen nicht mehr soviel Geld ab wie früher und
+so versucht man dem Besucher auf anderen Wegen das Geld aus der Tasche zu
+ziehen. 
+
+<HTMLONLY>
+<pic images/las-vegas-airport.ps Ankunft um Mitternacht am Flughafen in Las Vegas.>
+</HTMLONLY>
+
+Dabei hat sich auch die Tendenz durchgesetzt, für alles und jedes Gebühren zu
+nehmen. Von der Fliegerei kennen wir das ja schon zur Genüge: Gepäckstücke sind
+extra zu bezahlen, bessere Plätze mit mehr Beinfreiheit sowieso, Essen auf
+Inlandsflügen gibt es schon lange nur noch gegen Bezahlung und bei der
+Lufthansa und einigen anderen Fluggesellschaften zahlt der Kunde auf
+internationalen Flügen pro Mann $35 pro Weg, für das Privileg, sich einen Platz
+auszusuchen und nicht zugewiesen zu bekommen. Aber wer will schon bei einem
+zehn bis zwölf Stunden langen Flug eingequetscht in der Mitte der Fünferreihe
+sitzen?  Also zahlt man zähneknirschend.
+
+<HTMLONLY>
+<pic images/las-vegas-vdara-night.ps Zimmerblick im Vdara-Hotel in Las Vegas.>
+</HTMLONLY>
+<pic images/las-vegas-lyft.ps Die Hotels haben jetzt schon Fahrspuren für Uber- und Lyft-Taxis.>
+ 
+Die meisten Hotels am Las Vegas Strip erheben seit geraumer Zeit die 
+sogenannte Resortgebühr. Für Beträge zwischen $20 bis $32 pro Nacht erhält
+der Hotelgast eigentlich keine Gegenleistung, weil kaum jemand 
+den Pool, das Fitnesscenter oder die Wellnessbereiche überhaupt benutzt. 
+Allerdings hat der Gast keine Wahl, die Gebühr wird in jedem Fall
+fällig, ob er nun will oder nicht. Die Gebühr könnten die Hotels
+natürlich auch gleich in den Übernachtungspreis mit einarbeiten und die
+Gesamtsumme ausschreiben, aber es macht sich natürlich besser, 
+den Hotelpreis optisch zu senken und dann alle möglichen versteckten 
+Gebühren draufzuschlagen.
+
+<pic images/vdara-valet.ps Ein Valet-Ticket für's Vdara-Hotel in Las Vegas.>
+ 
+Scheinbar beschäftigen die Casinos in Las Vegas eine ganze Hehrschar von
+Pfennigfuchsern, die sich nur damit beschäftigen, neue Gebühren zu erfinden,
+die der Kunde zähneknirschend berappt, weil er keine Wahl hat. Und siehe da,
+als wir dieses Mal im September in Las Vegas waren, fingen die ersten
+Casinos/Hotels am Strip an, Parkgebühren zu erheben. Bis dato wollten die
+Casinos möglichst viele Gäste anlocken und gestalteten die Anfahrt möglichst
+bequem. Selbstparken und Valetparken waren deshalb kostenfrei. 
+
+<pic images/las-vegas-view.ps Für ordentlich Geld gibt's auch ein Zimmer mit Aussicht.>
+
+Seit Juni 2016 zahlt der Besucher aber in
+allen Casinos/Hotels, die zur MGM-Gruppe gehören (Aria, Bellagio, Circus
+Circus, Exalibur, Delano, Luxor, Mandaley Bay, MGM Grand, Mirage, Monte Carlo,
+New York New York, Vdara), zwischen $8-$10 pro Tag für das Selbstparken und
+zwischen $13-$18 pro Tag für das Valet-Parken, bei dem ein Angestellter
+das Auto für den Gast in die Garage fährt. Die erste Stunde ist für
+Selbstparker bis jetzt allerdings gebührenfrei. Auch Einwohner mit
+Nevada-Führerschein können noch  bis Ende Dezember diesen Jahres parken, 
+ohne Gebühren zu berappen. Bleibt abzuwarten, ob die anderen Kasinos und 
+Hotels, zum Beispiel die der Wynn-Gruppe, nachziehen. Ich vermute es fast, 
+denn bei denn Fluggesellschaften ist es ja ähnlich gelaufen, am Ende 
+gewinnt immer der, der den niedrigsten Preis mit versteckten Gebühren
+ausschreibt.
+ 
+@Z: Raku Las Vegas
+ 
+<pic images/raku-las-vegas.ps Ein japanisches Restaurant der Spitzenklasse in Downtown Las Vegas.>
+
+<em>Angelika</em> Wir sind ja große Fans der japanischen Küche. Ich könnte
+bekanntlich jeden Tag Sushi oder andere japanische Delikatessen essen, worüber
+Michael so manches Mal stöhnt: "Schon wieder Sushi". Wir sind in San Francisco
+wirklich verwöhnt, wenn es um gutes Sushi oder japanische Hausmannskost wie
+Udonsuppe geht. Da die meisten japanischen Restaurants am Las Vegas Strip
+hoffnungslos überteuert sind, zieht es uns bei unserem jährlichen Kurzurlaub in
+der Spielerstadt immer mehr in andere Stadtteile, um günstiger und besser zu
+essen. 
+
+Michaels Arbeitskollege hatte auf Facebook von einem japanischen Restaurants
+namens <LINK>http://raku-grill.com/grill/index.htm|Raku</LINK> geschwärmt, das
+sich in einer unscheinbaren Ladenpassage im Downtown-Bezirk von Las Vegas an
+der West Spring Mountain Road befindet. Das mussten wir natürlich ausprobieren
+und fuhren mit einem Lyft-Taxi in zehn Minuten hin.
+
+Das Raku bietet sehr außergewöhnliche Spezialitäten, haupt\-sächlich Spieße vom
+Holzkohlegrill (Yakitori), Sashimi (roher Fisch), aber auch selbst\-gemachten
+Tofu. So aßen wir zum Beispiel gegrillte Schweine\-backen am Spieß, rohe
+Kobe-Rindsleber, sowie ein pochiertes Ei mit Uni (der eßbare Teil vom Seeigel)
+und Ikura (Lachsrogen). Der Laden ist zwar auch nicht gerade billig, aber die
+Qualität der Speisen war wirklich jeden Cent wert. Mir läuft jetzt noch das
+Wasser im Munde zusammen.
+
+@Z: Skateboarden im Alter
+
+<pic images/skate-meter.ps Auch im hohen Alter muss ich noch Skateboard fahren.>
+
+<em>Michael</em>
+Jeden Donnerstag in der Mittagspause fährt unsere Abteilung geschlossen
+zu einer nahegelegenen Cafeteria, und zwar unter Leitung des Chefs mit
+dem Skateboard. Ich bin ja trotz fortgeschrittenen Alters bekanntlich 
+für jeden Blödsinn zu haben, kaufte mir deshalb im Sportgeschäft für etwa
+hundert Dollar ein sogenanntes Longboard und fahre seit dem immer mit.
+
+Vor vielen vielen Jahren hatte ich mir als Jugendlicher ebenfalls mal ein
+Skateboard gekauft, das ironischerweise auch etwa 100 D-Mark (!) kostete,
+und so kannte ich die Gefahren bereits, die das Rollen auf Asphalt birgt:
+Kleine Kieselsteine, die die Räder blockieren oder Beulen im
+Straßenbelag, mittels derer das Board blitzartig unter den Füßen wegflutscht,
+und schon liegt man bäuch- oder rücklings auf der Straße. 
+Und im Gegensatz zum Surfen im Meer, wo man
+grundsätzlich weich fällt, ist das Aufschlagen auf dem Straßenbelag richtig
+schmerzhaft. Schutzbekleidung oder gar einen Helm zu tragen ist allerdings
+in Kalifornien mega-out, selbst die Kids in den Skateboard-Parks, die durch
+Half-Pipes sausen, verzichten darauf.
+
+<pic images/skateboard-mount.ps Mein Skateboard hängt stets griffbereit an der Wand in der Wohnung.>
+
+<pic images/skate-24th.ps Ein rabiater Skateboardfahrer macht die Gehwege San Franciscos unsicher.>
+
+Also rolle ich donnerstags morgens immer mit dem Board zur Haltestelle des 
+Werksbusses in San Francisco. Den steilen Hügel auf der 24th Street lasse
+ich aber sicherheitshalber aus, den donnern zwar einige todesmutige 
+Jugendliche herunter, aber so wahnsinnig bin ich doch noch nicht. Die
+Straßenverkehrsordnung von San Francisco schreibt übrigens für Skateboards
+explizite Regeln vor, denn nach 
+<LINK>http://bit.ly/2fp4kc|Sektion 1.1 Abschnitt 13|Straßenverkehrsordung von San Francisco</LINK>
+fallen sie in
+die Kategorie "NUV", also "Non-motorized
+User-propelled Vehicles" ("Unmotorisiertes Fahrer-getriebenes Fahrzeug")
+mit "zwei oder mehr Rädern, aber ohne Kette oder Gangschaltung", bei denen
+sich der Fahrer vorwärtsbewegt, in dem er "gegen den Boden tritt"<HTMLONLY> (Abbildung (#3)) </HTMLONLY>.
+
+<pic images/skateboard-store.ps Im Sportgeschäft kosten billige Longboards um die hundert Dollar.>
+
+<HTMLONLY>
+<pic images/sftc.ps (#3) Die Straßenverkehrsordnung widmet sich explizit dem Thema Skateboardfahrer.>
+</HTMLONLY>
+
+Weiter steht dort in Abschnitt 7.2.13, dass es verboten ist, in sogenannten
+"Business Districts" (Stadtteile mit Geschäften) mit einem Skateboard zu fahren
+oder, egal wo in der Stadt, später als eine halbe Stunde nach Einbruch der 
+Dunkelheit. Sonst ist das Skaten
+sowohl auf dem Gehweg, auf dem Radweg, oder sogar auf der Straße erlaubt, wenn
+der Fahrer Fußgängern die Vorfahrt lässt und keine anderen Verkehrsteilnehmer
+oder Sachwerte beschädigt ("endangering the safety of people of property").
+
+<pic images/skateboard-bttf.ps Wie in dem Film "Back to the Future" hängen sich in San Francisco auch manche Skateboardfahrer an fahrende Autos.>
+
+Viele Skateboardfahrer halten sich allerdings nicht an die Regeln, sausen
+mitten in der Nacht in dunkler Kleidung mit Karacho die Hügel runter, nutzen
+Hauswände als Rampen oder hängen sich wie in dem 80ies-Klassiker
+"Back to the Future" an fahrende Autos, in dem sie sich
+geduckt am Radkasten des Hinterrads festhalten, damit's der Fahrer nicht
+merkt.
+
+<pic images/boosted-boards.ps Die Firma "Boosted Boards" wirbt mit Hipster-Jünglingen für Skateboards mit elektrischem Motor.>
+
+Und im Land der coolsten Erfindungen steht die Entwicklung natürlich niemals
+still:
+Seit einiger Zeit sausen Hipsterjünglinge auf elektrisch getriebenen 
+"Boosted Boards" durch die Gegend. Sie halten eine Fernbedienung in der
+Hand, die den Motor des Boards hochdreht oder runterdrosselt. Die
+Boards erreichen hosenschlotternde Geschwindigkeiten von 30 km/h, fahren
+sogar Berge hoch und lassen sich straßenverkehrsordnungsgemäß an
+Stoppschildern ohne abzusteigen abbremsen und wieder beschleunigen. Neulich
+beschwerte sich auf einem Stadtforum allerdings ein Elektrofahrer über die
+Tatsache, dass er öfter von Autofahrern und sogar normalen Skateboardfahrern
+öffentlich angefeindet werde, wohl weil der neue Sport als 
+zu hipsterhaft und außerdem unsportlich gilt.
+
+@Z: Warum Greencard und nicht Staats\-bürger\-schaft?
+
+<pic images/greencard.ps Die ersehnte Greencard: Jetzt gleich Staatsbürgerschaft oder warten? Foto: flickr[Vitor Leite|vixon/77040361]>
+
+<em>Michael</em>
+Fragt man zehn Amerikaner, ob Greencard-Besitzer Steuern zahlen, sagen
+bestimmt sieben "Nein". Wie blöd muss man sein!
+Wie sie darauf kommen, ist mir
+schleierhaft, schließlich zahlt jeder, der mehr als ein halbes Jahr
+im Land wohnt, hier in den USA Steuern, und zwar auf seine weltweiten
+Einkünfte, genau wie jeder Staatsbürger auch. Was ist nun der Unterschied
+zwischen Greencard und Staatsbürgerschaft?
+
+Schließlich darf man mit einer Greencard unbegrenzt im Land bleiben. 
+Man darf bei jedem Arbeitgeber anheuern, mit der Ausnahme, dass manche Jobs,
+zum Beispiel in Zusammenarbeit mit dem Verteidigungsministerium, die
+Staatsbürgerschaft erfordern, weil man sonst keine "Clearance" 
+(eine Art sicherheitstechnisches Führungszeugnis) kriegt. Nach zehn
+Jahren läuft die Karte zwar aus, aber eine neue zu beantragen ist
+eine reine Formalität zur Melodie von $400 Bearbeitungsgebühr.
+
+Ein gravierender Nachteil der Greencard ist, dass sie tatsächlich
+verfällt, wenn man mehr als sechs Monate außer Landes weilt und vorher
+keinen entsprechenden Beibehaltungsantrag gestellt hat, der sich auch
+nur maximal bis zu zwei Jahren verlängern lässt. Wer hingegen einmal 
+Staatsbürger ist, bleibt es sein ganzes Leben lang und kann beliebig 
+lange außer Landes bleiben und wieder zurückkommen.
+
+<pic images/us-passport.ps Staatsbürger weisen sich international mit einem US-Pass aus. Foto: flickr[jpmatth|jpmatth/1700844049]>
+
+Ein weiterer Nachteil der Greencard gegenüber der Staats\-bürgers\-schaft sind
+einige Steuerregeln beim Erben von Vermögen und Grundbesitz. Allerdings muss
+ein Ehepaar schon ordentlich was auf der hohen Kante liegen haben, damit diese
+greifen: Fällt einem Staatsbürger eine Erbschaft zu, muss er diese nur nach der
+sogenannten
+<LINK>http://www.nolo.com/legal-encyclopedia/estate-planning-when-you-re-married-noncitizen.html|Estate-Tax</LINK>
+versteuern, falls sie $5.450.000 Dollar übersteigt. Ein verheiratetes
+Staatsbürgerpaar darf einem anderem Staatsbürger sogar die doppelte Summe
+vermachen, ohne dass Erbschaftssteuer anfällt. Und stirbt ein Ehepartner und
+vermacht dem überlebenden Teil seinen Anteil, fällt gar gar keine
+Erbschaftssteuer an.  Aber wehe, wenn der Erbende kein Staatsbürger ist und nur
+auf Greencard im Land lebt, dann zahlt er ab $5,45 Millionen Steuern, auch
+wenn's der Ehepartner ist!  Bei Schenkungen zu Lebzeiten gelten sogar noch
+strengere Bestimmungen: Ein Greencardbesitzer darf "nur" Geschenke im Wert von
+$148,000 pro Jahr (Stand 2016) erhalten, bevor er den ganzen Reibach versteuern
+muss.  Lange Rede kurzer Sinn: Wer als Ehepaar mehr als 5 Millionen an Zaster
+herumliegen hat, 
+sollte schleunigst die Staatsbürgerschaft annehmen, sonst kostet
+der Tod nicht nur das Leben!
+
+Auch dürfen Greencard-Besitzer nicht wählen und auch nicht in Gerichtsverfahren
+auf der Jury-Bank sitzen. Flattert ein entsprechender Bescheid ins Haus,
+schleppen sich Staatsbürger zähneknirschend Richtung Gerichtsgebäude, während
+der Greencard-Besitzer auf der Couch daheim sitzenbleibt und einfach den
+Amtsbrief mit einem entsprechenden Vermerk zurückschickt 
+(<RBLINK>20020917#5</RBLINK>).
+
+Auch verpflichtet sich ein Greencardbesitzer dazu, im Notfall für die USA
+im Krieg zu kämpfen. Ich bin ja seit Bundeswehrzeiten als Kampfsau bekannt 
+und würde auch in meinem fortgeschrittenen Alter
+den Feind sicher das Fürchten lehren. Hält jemand die Greencard
+für mehr als zehn Jahre, verpflichtet er sich weiterhin, sein Leben lang 
+jedes Jahr Steuererklärungen ans amerikanische Finanzamt IRS zu schicken,
+auch wenn er später in ein anderes Land oder in sein Heimatland zurück geht.
+Das gilt übrigens auch für amerikanische Staatsbürger: Egal wo sie im 
+Leben mal wohnen werden, jedes Jahr müssen sie dem amerikanischen Finanzamt
+ihre Einkünfte vorleiern, und wann und wo sie dafür Steuern gezahlt haben.
+Leben sie im Ausland, zahlen sie dort ihre Steuern an das jeweilige Land
+in dem sie dann wohnen, aber das IRS will wissen was läuft. Alle Jahre
+wieder.
+
+<pic images/reentry-permit.ps Greencardbesitzer mit Reentry-Permit dürfen bis zu zwei Jahre außer Landes weilen.>
+
+Dann gibt's noch Fälle, in denen sich die Annahme er US-Staatsbürgerschaft aus
+legalen Gründen empfiehlt, zum Beispiel wenn ein Ehepaar ein Kind durch eine
+Leihmutter austragen lässt. In Deutschland ist das Verfahren illegal, in
+Amerika legal, deshalb empfiehlt es sich in diesen Fällen die
+US-Staatsbürgerschaft. Oder wenn ein gleichgeschlechtliches Ehepaar ein Kind
+adoptieren möchte. In Deutschland geht das nicht, in Amerika schon, also
+sollten gleichgeschlechtliche deutsche Ehepaare die amerikanische
+Staatsbürgerschaft annehmen, dann wird die Adoption auch von den deutschen
+Behörden akzeptiert.
+
+Falls sich nun ein deutscher Staatsbürger, aus welchen Gründen auch immer,
+entschließt, Amerikaner zu werden,
+sollte er vor Annahme der US-Staatsbürgerschaft die Beibehaltung der deutschen
+zu beantragen. Warum? Wer einfach mir nichts dir nichts Amerikaner wird, dem
+zeigt Deutschland die kalte Schulter. Erfahren die Behörden vom neuen US-Pass,
+entziehen sie dem Abtrünnigen sofort die deutsche Staatsbürgerschaft. Beantragt
+der Hüpfwillige allerdings bei seinem Konsulat <em>vorher</em> die
+Beibehaltung, und genehmigt das Konsulat dies zum Beispiel weil der
+Antragsteller sonst Nachteile im Berufsleben hätte und dutzenderlei
+bürokratische Regeln dem nichts entgegensetzen, dann darf der Hüpfer die
+US-Staatsbürgerschaft beantragen.  Falls Uncle Sam dann "okay" sagt, besitzt 
+der frischgebackene Doppelstaatler zwei Pässe, von denen der jeweils 
+zutreffende bei der Einreise in das entsprechende Land vorzulegen ist.
+
+Zu bedenken ist aber, dass sich das deutsche Konsulat nicht mehr zuständig
+fühlt, falls ein Deutscher mit Doppelpass in den USA in Bedrängnis gerät.
+Deutschen im Ausland helfen die Konsulatsmitarbeiter sonst Tag und Nacht
+unbürokratisch aus der Patsche, aber bei US-Passbesitzern schickt der Konsul
+nur eine Ansichtskarte mit einem lustigen Motiv und dem Aufdruck 
+"Good luck with that, buddy".
+
+@Z: Kabellos Leben
+
+<pic images/tv-back.ps (#1) Der Kabelverhau hinter unserem Fernsehkasten.>
+
+<em>Michael</em>
+Die Firma Comcast, die bei uns in der Bay Area ihr Quasimonopol
+auf Kabelfernsehen dazu ausnutzt, die monatlichen Gebühren stetig
+hochzuschrauben, ist in letzter Zeit in Misskredit geraten. Sie bietet
+Kabel und Internet für Neukunden ab $50 im Monat an, und erhöht dann den
+Preis nach sechs Monaten auf über $150. Ihr habt richtig gelesen, Amerikaner
+in der Bay Area zahlen $150 im Monat für Internet und Kabel. Das ist
+die Folge einer jahrelang verfehlten Politik, die einer kundenmelkenden
+Monopolfirma freie Hand lässt, wie schon mal in
+<RBLINK>20101219#1</RBLINK> beschrieben.
+
+<HTMLONLY>
+<pic images/cut-the-cord-kindle-books.ps Auf Amazon häufen sich die Ratgeber zum Abstellen des Kabelfernsehens.>
+</HTMLONLY>
+
+Aber viele Amerikaner haben jetzt die Faxen dicke und nabeln sich unter dem
+Slogan "Cut the Cord" vom Kabelfernsehen ab. Internet kann man auch über die
+Telefonleitung als DSL beziehen und als Alternative für's Kabelfernsehen gibt's
+eine ganze Reihe von legalen Möglichkeiten.  Auf Amazon häufen sich die
+Ratgeberbücher zum Thema, und selbst die Helferin meines Zahnarztes bat mich
+neulich um technischen Rat, als sie meine Beißerchen polierte.
+Wie unsere werte Leserschaft weiß, bin ich dem Rest der Menschheit 
+technisch immer zwei, drei Jahre voraus, und habe tatsächlich schon vor 
+drei Jahren unser Kabelfernsehen abbestellt. Seit dem winke ich immer
+freundlich und lache mich schlapp, wenn ich zufällig am Comcast-Laden
+in der Stadt vorbeifahre.
+
+Zum Glück befinden wir uns im Auge eines Technologie-Hurrikans, und alle
+näslang bringt irgendeiner neue Ideen und Gadgets auf den Markt, die 
+alten Dinosauriern wie Comcast gehörig den Marsch blasen. 
+Es ist tatsächlich gar nicht so schwer, mit allerlei technischen 
+Gerätschaften Fernsehsender legal und kostenlos empfangen. 
+Heute lüfte ich mal den Vorhang, und zeige, wie wir das machen. 
+Zunächst zu lokalen Fernsehsendern, die die Abendnachrichten ausstrahlen
+und vielleicht ein Baseballspiel oder Politsender wie KQED, die für die
+wenigen Leute in Amerika, die noch nicht völlig verblödet sind, tatsächlich 
+ausgewogene Interviews und Reportagen bringen. 
+
+<pic images/tv-tivo.ps Der TiVo-Kasten zeichnet automatisch Antennenfernsehen auf. (#2)>
+
+Dazu bieten die Sender,
+offensichtlich deshalb weil Fernsehen eine Art Grundrecht ist, digitales
+Fernsehen über Antenne an. Das hat wie in Deutschland mit DVB-T nichts mit
+verrauschten Kanälen und laufenden Bildern zu tun, die man stoppt, in
+dem man mit der flachen Hand mehrfach auf den Fernsehkasten schlägt, sondern
+das ist Digitalfernsehen mit 1-A Qualität. Wir wohnen bekanntlich 
+nicht weit vom Fernsehturm Sutro Tower auf dem Hügel in San Francisco, 
+der Twin Peaks heißt. Also habe ich bei Amazon nach mehreren Wochen
+Testbetrieb mit einigem Hin und Her eine Antenne für $80 gekauft, die
+hinter dem Fernsehkasten steht (Abbildung (#1)) gute Bildqualität liefert,
+auch von Sendern, die nicht von Twin Peaks sondern wie zum Beispiel NBC
+aus dem 20 Kilometer südlichen liegenden San Bruno abgestrahlt werden.
+
+<pic images/sling-twitter.ps Beim EM-Halbfinale brechen die Sling-Server zusammen.>
+
+Nun kann man in Amerika allerdings nicht einfach so eine Sendung im Fernsehen
+ansehen, wenn man nicht gerade arbeitslos ist und eh den ganzen Tag auf der
+Couch rumhängt, denn die Sender unterbrechen ihre Programme alle paar Minuten
+für einen Werbeblock. Also gehört zur Mindestausstattung des Kabelkappers ein
+digitaler Videorekorder, und nachdem ich schon seit sage und schreibe 16 Jahren
+einen sogenannten TiVo nutze, um Sendungen aufzuzeichnen und Werbeblöcke im
+Schnellauf zu überspringen, bin ich der Firma auch vor einigen Jahren treu
+geblieben, als ich einen "TiVo Roamio" gekauft habe, eine Wahnsinnskiste mit 6
+Tunern, die gleichzeitig Fernsehsendungen aufzeichnen können (Abbildung (#2)).
+
+<pic images/sling-laptop.ps Der Experte streamt ESPN in den Laptop und dann in den Fernsehkasten.>
+
+Der Kiste teilt man mit, welche Sendungen man aufzeichnen möchte, und muss
+dafür nicht etwa jeden die Uhrzeit einstellen, sondern man gibt nur den
+Titel vor, die Kiste sucht dann selbständig im Fernsehprogramm wann und
+wo diese Sendung oder auch Serien oder die täglichen Nachrichten laufen
+und nimmt sie alle auf. Man sieht also niemals mehr live fern, sondern kommt
+heim und hat 20 Sendungen zur Auswahl, die der TiVo den lieben langen Tag
+für einen zusammengesucht hat.
+
+<pic images/roku-tagesschau.ps (#5) Das Roku-Kästlein pumpt mittels App die deutsche Tagesschau ins Wohnzimmmer.>
+
+Um nicht völlig zu verblöden, und auch um auf dem Laufenden zu bleiben mit
+dem, was im fernen Deutschland so abgeht, sehen wir uns übrigens auch
+jeden Tag die Tagesschau an. Der Roku, eine kleine Settop-Box so ähnlich
+wie ein AppleTV (den wir natürlich neben einem Amazon Fire ebenfalls 
+angeschlossen haben), zieht die 8-Uhr Tagesschau innerhalb von 10 Sekunden
+auf Abruf als Stream ins Wohnzimmer (Abbildung (#5)).
+
+<pic images/tagesschau.ps Deutsche Politkasper wie der Hase Cäsar von den Grünen kommen auch in San Francisco in der Tagesschau.>
+
+Bei sovielen Gadgets im Fernsehschrank fällt natürlich immer mal eines
+aus, und damit auch Angelika, die sich mit dem Kabelverhau hinter
+den Kulissen nicht so gut
+auskennt, zielgerichtet ein bestimmtes Gerält aus- und wieder einschalten kann,
+habe ich wie in einem Tonstudio vorne eine Schalterleiste mit zehn 
+Schaltern angebracht, die ordnungsgemäß mit einem Labeldrucker beschriftet
+sind. Mittlerweile hängt hinter jedem Schalter ein Gerät, und wenn Angelika
+mal wieder motzt, dass dies oder jenes nicht geht, und wieso ich schon wieder
+etwas perfekt funktionierendes durch ein noch auf wackeligen Füßen
+stehendes brandneues Produkt aus der Schmiede des Silicon Valley 
+ersetzen musste, erwidere ich: "The only constant is change!". 
+
+Grüße aus dem Land der nimmermüden Erfinder:
+
+Angelika und Michael
