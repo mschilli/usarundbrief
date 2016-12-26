@@ -41,7 +41,7 @@ ist einfach fantastisch. Wir sehen Palmen, viktorianische
 Häuser, die Skyline von San Francisco und an sonnigen 
 Tagen können wir sogar die Bucht sehen und die Schiffe, 
 die darauf herumschippern
-(<LINK>http://perlmeister.com/1/images/sfdreh.avi|AVI Video</LINK>).
+(<LINK>/1/images/sfdreh.avi|AVI Video</LINK>).
 
 <pic images/panorama.ps Panorama-Blick>
 
