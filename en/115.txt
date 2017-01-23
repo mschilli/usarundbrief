@@ -68,19 +68,19 @@ toilets and garbage cans.
 
 <pic images/tent-phone.ps A homeless man makes a phone call.>
 
+Last week, however, city officials suddenly sprang into action and 
+threatened to forcefully remove the tents. They set a timeline of 72
+hours. At first, social workers tried to convince the dwellers to
+voluntarily move out of the tents and into the new temporary homeless
+shelter at Pier 80, which offers 150 beds, or rather 150 mattresses on
+the floor. Unsurprisingly, the shelter offer didn't seem to find any 
+takers, although this particular facility is quite permissive, compared
+to other shelters: It allows the homeless to bring their pets and all
+their possessions, and partners can cuddle up in the same bed.
+
+<pic images/tent-inside.ps Looking inside a sidewalk tent.>
+
 TODO
-
-Letzte Woche nun drohte die Stadt dann auf einmal mit der Zwangsräumung der
-Zelte. Am Dienstag setzte sie eine Frist von 72 Stunden. Zunächst versuchten
-Sozialarbeiter, die Zeltbewohner dazu zu überreden, freiwillig das Feld zu
-räumen und in das neue temporäre Obdachlosenasyl am Pier 80 mit 150 Betten
-(beziehungsweise korrekter ausgedrückt: 150 Matratzen auf dem Boden) zu ziehen.
-Das Asyl erfreut sich aber nicht der erhofften Beliebtheit, obwohl Dinge erlaubt
-sind, die in anderen Obdachlosenasylen verboten sind. Man darf zum Beispiel
-dort seine Haustiere mitbringen sowie das gesamte Hab und Gut, und 
-Partner müssen nicht getrennt schlafen. 
-
-<pic images/tent-inside.ps Blick ins Obdachlosenzelt.>
 
 Auch muss die Unterkunft am Pier 80 tagsüber nicht geräumt werden. Und die
 Stadt serviert drei Mahlzeiten am Tag. Viele der Obdachlosen ist der 
