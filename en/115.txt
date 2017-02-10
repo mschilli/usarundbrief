@@ -130,6 +130,7 @@ house.
 
 <pic images/dismantler-2.ps Der luxurious waiting room at the vehicle dismantler.>
 
+In the meantime, we had to park one of the three cars on the street. 
 TODO
 
 In der Zwischenzeit rotierten wir noch drei Wochen lang das jeweils auf der
