@@ -130,24 +130,22 @@ house.
 
 <pic images/dismantler-2.ps Der luxurious waiting room at the vehicle dismantler.>
 
-In the meantime, we had to park one of the three cars on the street. 
+In the meantime, we had to park one of the three cars on the street, which
+turned out to be a whole production because of San Francisco's silly 72 hour
+rule. It says that you can't park any car longer than 72 hours on the same
+street block, even if street cleaning or residential parking regulations would
+allow for it (<RBLINK>20090315#2</RBLINK>). So we picked one of the few streets
+in the neighborhood not yet infected by the fast-spreading residential parking
+disease, and found a spot during a weekday, when parking wasn't in high demand,
+as it is in the evening hours when it's nearly impossible to score a spot. We
+put a so-called "club" on the steering wheel to prevent socially deprived
+adolescents from joy-riding. Every three days, we pulled up with another car
+from the pool, and switched places with the parked vehicle in a quick tag 
+team move. No violations of the 72 hour rule were reported.
+
+<pic images/dismantler-3.ps The junkyard cat enjoys a hearty meal on the dismantler's work desk.>
+
 TODO
-
-In der Zwischenzeit rotierten wir noch drei Wochen lang das jeweils auf der
-Straße stehende Auto durch, da San Franciscos 72-Stunden-Regel es untersagt,
-ein Auto länger als drei Tage im selben Straßenblock stehen zu lassen
-(<RBLINK>20090315#2</RBLINK>), auch wenn Straßenreinigungszeiten und
-Anliegerparkzonen dies erlauben würden. Also fanden wir einen der wenigen noch
-nicht von der Pest des Anliegerparkens infizierten Straßenzüge in unserer
-Nachbarschaft, parkten dort außerhalb der Stoßzeiten, während derer es völlig
-aussichtslos ist, einen Parkplatz zu finden, und schnallten den großen gelben
-Stahlbügel der Lenkradsperre an, damit jugendliche Sozialfälle aus den
-Niedrigverdienervierteln des Nachts nicht damit spazierenfahren konnten. Alle
-drei Tage fuhren wir dann mit einem der anderen Autos hin, und tauschten beide
-Fahrzeuge im Tag-Team-Verfahren blitzschnell aus, um der 72-Stunden-Regel
-zu genügen.
-
-<pic images/dismantler-3.ps Auf dem Schreibtisch des Schrotthändlers labt sich eine gewampte Katze am Inhalt ihres Fressnapfs.>
 
 Beim Schrotthändler lief dann alles sehr professionell ab. Er inspizierte
 Perly Perlman kurz, fuhr ein paar Meter vor- und zurück und akzeptierte
