@@ -986,11 +986,11 @@ war leider nicht so, mir schien es, dass sie ihn noch nicht
 einmal gelesen haben. Aber dafür habe ich jetzt ein 
 Ablehnungsschreiben der Süddeutschen Zeitung, das ich mir 
 bei Gelegenheit einrahmen kann. Nun werdet ihr also mit 
-dem Artikel traktiert:
-
-<pic images/gcfinal.ps Die begehrte amerikanische Greencard>
+dem Artikel traktiert: <RBLINK>19000526#10</RBLINK>.
 
 @Z: Warten auf die Greencard
+
+<pic images/gcfinal.ps Die begehrte amerikanische Greencard>
 
 Die amerikanische Green Card ist im Gespräch, seit Bundeskanzler 
 Gerhard Schröder angekündigt hat, ausländische Computerexperten ins Land 
