@@ -154,16 +154,18 @@ a few days, I'd be receiving a check in the mail. Lacking a vehicle to drive
 home, I got a Lyft Internet cab home, which was only five dollars plus tip.
 Three days later, a check over 1000 Dollars arrived in the mail.
 
-TODO
-
 @Z: Sedona/Arizona
 
-<pic images/sedona-chapel-view.ps Gesteinsmassiv in Sedona/Arizona im Abendlicht>
+<pic images/sedona-chapel-view.ps Rock formations in Sedona/Arizona at sunset.>
 
-<em>Michael</em> In der Zeit zwischen Weihnachten und Neujahr flogen wir in den
-Bundesstaat Arizona, um uns in einer Ferienwohnung in dem Städtchen Sedona zu
-erholen.  Die Gegend bietet dutzende schön anzuschauende rötliche
-Gesteinsmassive, die man alle auf Wanderwegen erkunden kann. In dem Wüstenklima
+<em>Michael</em>As a relaxing vacation during the break between Christmas and
+New Years, we set out to fly to the small town Sedona in the state of Arizona.
+We had booked a vacation rental home and explored the beautiful rock
+formations, famously radiating their intense red light.
+
+TODO
+
+In dem Wüstenklima
 dort war es etwas kälter als in San Francisco, teilweise unter null Grad, aber
 trocken. Wir hatten ein alleinstehendes Ferienhaus über VRBO ("Vacation Rentals
 by Owner") gebucht, und da das Preisniveau in Arizona noch weit vom Wahnsinn in
