@@ -137,11 +137,11 @@ Retten holen musste. Und ich sage euch, dass sah schon
 manchmal ziemlich gefährlich aus, wenn Michael von den 
 Wellen herumgewirbelt wurde.
 
-<pic images/canyon.ps Auch auf Kauai: Der Waimea Canyon>
+<pic images/canyon.ps Gebirgsformation auf Kauai: Der Waimea Canyon>
 
 <pic images/canyon2.ps Nebel zieht auf>
 
-<pic images/sugar.ps Auch auf Kauai: In einer Zuckerrohrverarbeitungsfabrik>
+<pic images/sugar.ps Laster einer Zuckerrohrverarbeitungsfabrik>
 
 <pic images/strom.ps Auch auf Kauai: Stommast mit Landschaft>
 
@@ -388,8 +388,8 @@ wird aus den eben erwähnten Gründen.
 
 Bezüglich des Verkaufens gibt es übrigens noch ein 
 weiteres "Naturgesetz", nämlich dass es andauernd 
-irgendwelche Sonderangebote und so etwas wie bei uns 
-Schlussverkäufe gibt, die dann die lustigsten Namen und 
+irgendwelche Sonder\-angebote und so etwas wie bei uns 
+Schluss\-verkäufe gibt, die dann die lustigsten Namen und 
 Anlässe haben. Das große Kaufhaus Macy's hat z.B. in 
 regelmäßigen Abständen den sogenannten "White Flower 
 Sale". Dabei gibt es nicht etwa, wie der Name vermuten 
