@@ -41,7 +41,9 @@ ist einfach fantastisch. Wir sehen Palmen, viktorianische
 Häuser, die Skyline von San Francisco und an sonnigen 
 Tagen können wir sogar die Bucht sehen und die Schiffe, 
 die darauf herumschippern
+<HTMLONLY>
 (<LINK>/1/images/sfdreh.avi|AVI Video</LINK>).
+</HTMLONLY>
 
 <pic images/panorama.ps Panorama-Blick>
 
@@ -162,7 +164,7 @@ bereist. Auch als Tourist sieht man das soziale Elend und
 die soziale Ungerechtigkeit, man ist aber doch ganz anders 
 betroffen und involviert, wenn man in dem Land lebt.
 
-@Z: Führerschein und Sozialversicherungsnummer
+@Z: Existenz durch Sozialversicherungsnummer Führerschein
 
 Viele von euch wollen jetzt sicher wissen, was ich so den 
 lieben langen Tag mache, wenn Michael in der Arbeit ist und 
@@ -197,7 +199,7 @@ Prüfung machen kann. Meine Prüfung ist am 8. Februar, und
 Michael zieht mich natürlich jeden Tag damit auf, dass ich 
 durchfalle.
 
-<pic images/socsec.ps Angelika erhält die begehrte Sozialversicherungsnummer>
+<pic images/socsec.ps Angelika erhält die begehrte Sozialversiche\-rungsnummer>
 
 Den kalifornischen Führerschein müssen übrigens nicht 
 nur die Ausländer machen, sondern auch die Amerikaner, die 
