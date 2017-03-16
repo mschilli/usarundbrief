@@ -182,27 +182,28 @@ totally overblown.
 
 <pic images/sedona-arriving.ps Driving into the town of Sedona offers great views at the majestic red rocks.>
 
+The city of Sedona itself is a small touristy place, featuring the usual 
+useless art galeries to be expected in such places. Every day around four in
+the afternoon, tourists are heading back to town in droves from their hiking
+trips and cause miles and miles of stand-still traffic on the two arterial
+roads leading towards the village center, where everyone and their dog is later
+trying to grab a bite to eat at a handful of restaurants, which are
+unsurprisingly packed to the brim.
+
+It was off-season when we were there, I'm pretty sure that Sonoma turns
+into an Octoberfest-grade party town during the summer season. What's 
+sticking out from an automotive transportation perspective are the
+huge number roundabouts at various intersections throughout the city.
+Driving directions to our vacation rental mentioned about a dozen of them.
+An astonishing number of rural Americans don't know how to approach these
+and do silly things like coming to a complete stop with their monster
+trucks right before the roundabout, instead of simply entering when it's
+safe to do, just as if they saw an invisible stop sign posted in front.
+Honking usually helps.
+
+<pic images/cactus-mike.ps Cacti growing right next to the highway in Arizona.>
+
 TODO
-
-Das Städtchen Sedona selbst ist ein kleiner Touristenort, mit den üblichen
-nutzlosen Galleriegeschäften, auf dessen zwei Zufahrtsstraßen sich nachmittags
-um Vier ein gigantischer Verkehrsstau Richtung Zentrum bildet, 
-wenn die ganzen Wanderer 
-von ihren Tagestouren wieder in Richtung ihrer Feriendomizile düsen oder
-noch schnell einen Happen in einem der wenigen Restaurants essen möchten,
-in denen dann der Papst boxt.
-Und wir waren noch zur Nebensaison da, während der Sommerferien herrscht
-dort wahrscheinlich ein Tohuwabohu wie auf dem Oktoberfest. 
-Eine interessante verkehrstechnische 
-Besonderheit sind die vielen Kreisverkehre in Sedona. Die Wegbeschreibung
-zu unserem Feriendomizil führte durch fast ein Dutzend, und oft halten
-amerikanische Landeier, die keinen Kreisverkehr kennen,
-ihre Monsterkärren vor dem Kreisverkehr an, als
-wär's ein Stoppschild, wo man doch einfach zufahren kann, wenn man
-nicht gerade jemandem im Kreis die Vorfahrt nimmt. Ich habe immer gehupt, 
-damit's weiter ging.
-
-<pic images/cactus-mike.ps Kakteen wachsen in Arizona einfach so am Straßenrand.>
 
 Am Tag vor Silvester fuhren wir wir zwei Stunden rauf nach Norden zum Grand
 Canyon. Da auf der gebirgigen Strecke teilweise minus zwanzig Grad herrschten,
