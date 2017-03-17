@@ -203,19 +203,19 @@ Honking usually helps.
 
 <pic images/cactus-mike.ps Cacti growing right next to the highway in Arizona.>
 
+The day before New Year's Eve, we drove up two hours to our old favorite, Grand
+Canyon. On the mountainous road at zero Fahrenheit, the cheap rental car's
+windows fogged up with a thick layer of ice and the car's whimpy fan wasn't
+blowing strong enough to clear them up, so we had to stop at a gas station to
+purchase an ice scraper. Unfortunately, the cashier confided in us that they
+ran out of out of ice scrapers entirely because of the weather conditions!
+Luckily, five miles down the road, we found another gas station somewhat off
+the beaten track which still carried the desired item, and we continued our
+journey with properly cleared windows.
+
+<pic images/sedona-butze.ps The Sonoma vacation rental offered great views of the surrounding mountains.>
+
 TODO
-
-Am Tag vor Silvester fuhren wir wir zwei Stunden rauf nach Norden zum Grand
-Canyon. Da auf der gebirgigen Strecke teilweise minus zwanzig Grad herrschten,
-die Fenster beschlugen und das unterdimensionierte Gebläse des Billigmietautos
-der sich bildenden Eisschicht nicht mehr Herr wurde, mussten wir an einer
-Tankstelle anhalten, um einen Eiskratzer zu kaufen. Leider war das
-entsprechende Regal leer und der Kassierer bestätigte, dass alle Eiskratzer
-ausverkauft wären. Zum Glück fanden wir fünf Kilometer weiter an einer etwas
-abgelegeneren Tankstelle ein entsprechendes Werkzeug und setzten die Reise mit
-freigelegten Scheiben fort.
-
-<pic images/sedona-butze.ps Aus der gemieteten Butze sah man schön die umliegenden Berge.>
 
 In Grand Canyon Village angelangt, fragten wir im Visitor Center nach dem
 Zustand des sogenannten Bright Angel Trails, einem steilen Pfad, der 
