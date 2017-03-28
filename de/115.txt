@@ -230,7 +230,7 @@ Haha!
 
 <pic images/grand-canyon.ps Der beeindruckende Grand Canyon in Arizona.>
 
-<pic images/bright-angel-trail-angelika.ps Angelika mit auf dem vereisten Bright Angel Trail im Grand Canyon.>
+<pic images/bright-angel-trail-angelika.ps Angelika auf dem vereisten Bright Angel Trail im Grand Canyon.>
 
 Was den Zustand des Trails anbetraf, bekamen wir nun im Dezember die
 Auskunft, dass der Weg recht vereist sei und es uns ernstlich 
