@@ -247,17 +247,16 @@ the canyon measures 18 miles at the widest section.
 
 <pic images/sedona-cross.ps Angelika crossing a small creek on the "West Fork" trail.>
 
+On another day trip near Sedona, we were hiking on the West Fork Trail, which
+wiggles across a small creek about a dozen times inside a narrow canyon.
+There's no bridges, and hikers need to cross the creek every time by balancing
+on rocks or fallen trees in the water. Some parts of the creek were covered
+with a thin layer of ice, cracking suspiciously while we carefully tippy toed
+across.
+
+<pic images/devils-bridge.ps Mike on the Devil's Bridge rock formation.>
+
 TODO
-
-Auf einer weiteren Tour in der Nähe von Sedona, 
-dem sogenannten West Fork Trail, schlängelte 
-sich der Weg in einem kleineren Canyon etwa ein Dutzend mal über ein
-kleines Flüsschen. Brücken gab's dort nicht, und man musste jeweils
-über im Bach liegende Steine oder Baumstämme balancieren. Teilweise
-war der Bach auch mit einer dünnen Eisdecke überzogen, über die 
-mutige Wanderer vorsichtig rutschten, während erstere listig knackte.
-
-<pic images/devils-bridge.ps Michael auf der Devil's Bridge.>
 
 Auch auf die Devil's Bridge stiefelten wir hinauf, das ist so eine
 natürliche Felsbrücke, über die ein schmaler Weg führt, auf dem es
