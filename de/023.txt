@@ -77,9 +77,8 @@ verkleidet oder in Gruppen an, die Straßen werden gesperrt.
 
 <pic images/b2bm3.ps Die Rennstrecke des Bay-To-Breakers-Laufs quer durch San Francisco.> 
 
-Der alte Rundbrief ist übrigens auf dem Internet unter der Adresse
-<HTMLONLY><A HREF="http://perlmeister.com/rundbrief.archiv/990603/index.html">http://perlmeister.com/rundbrief.archiv/990603/index.html</A>
-</HTMLONLY> <CONFIDENTIAL> http://perlmeister.com/rundbrief.archiv/990603/index.html</CONFIDENTIAL> zu lesen.
+Der alte Rundbrief ist übrigens auf dem Internet unter <RBLINK>19990603</RBLINK>
+zu lesen.
 Ich lief locker durch und belegte mit 01:25:37 Platz 8.151 -- von 
 52.356 Läufern, die das Ziel erreichten. 
 01:25:37 ist nach wie vor nicht berauschend für 12km, aber ihr
