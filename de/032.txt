@@ -272,9 +272,9 @@ er gerade Tag und Nacht hört.
 Heute: Die Gruppe "Cake", die aus der kalifornischen
 Hauptstadt Sacramento stammt, hat eine neue Scheibe namens "Comfort Eagle"
 rausgebracht, deren Cover ihr in Abbildung (#3) sehen könnt. 
-Auf dem Internet kann man unter
-<HTMLONLY><A HREF="http://www.sonymusic.com/artists/Cake/Video/SSLJFullVid_56.asx">http://www.sonymusic.com/artists/Cake/Video/SSLJFullVid_56.asx</A></HTMLONLY><CONFIDENTIAL>http://www.sonymusic.com/artists/Cake/Video/SSLJFullVid_56.asx</CONFIDENTIAL>
-das superwitzige Video zum Song "Short Skirt/Long Jacket" anhören -- zum
+Auf dem Internet kann man das superwitzige
+<LINK>https://www.youtube.com/watch?v=X5KmB8Laemg|Video zum Song "Short Skirt/Long Jacket"</LINK>
+anhören -- zum
 Schluß tritt dort sogar ein deutscher Tourist auf! Eine Wahnsinns-Platte!
 Sofort kaufen!
 
@@ -340,9 +340,8 @@ Beginnen will ich heute mit einem Bericht über unseren
 noch immer andauernden Greencard-Prozess, denn in den 
 letzten Wochen quälten wir uns diesbezüglich einmal 
 wieder durch die bürokratischen Mühlen. Ich schrieb ja 
-vor geraumer Zeit schon einmal darüber 
-(<HTMLONLY><A HREF="http://www.perlmeister.com/rundbrief.archiv/000526/index.html#h1b">Mai-Rundbrief 2000</A></HTMLONLY><CONFIDENTIAL>Mai-Rundbrief 2000</CONFIDENTIAL>), 
-aber aufgrund des aktuellen 
+vor geraumer Zeit (<RBLINK>19000601#1</RBLINK>) schon einmal darüber 
+geschrieben, aber aufgrund des aktuellen 
 Anlasses und da wir immer wieder Anfragen erhalten, fasse
 ich es gerne noch einmal zusammen. 
 
