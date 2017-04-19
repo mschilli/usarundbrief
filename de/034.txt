@@ -305,7 +305,7 @@ FAA oder wer auch immer diese hirnrissigen Bestimmungen herausgibt,
 mal einem ordentlichen Sicherheitstraining bei, um blinden Aktionismus 
 von sinnvollen Sicherheitsmaßnahmen zu unterscheiden. Ein exzellenter
 Artikel von einem Sicherheitsguru auf Computerebene, Bruce Schneier,
-findet sich in <HTMLONLY><A HREF="http://www.counterpane.com/crypto-gram-0109a.html#1">http://www.counterpane.com/crypto-gram-0109a.html#1</A></HTMLONLY><CONFIDENTIAL>http://www.counterpane.com/crypto-gram-0109a.html#1</CONFIDENTIAL>.
+findet sich <LINK>https://www.schneier.com/crypto-gram/archives/2001/0930.html|in seinem Blog|Bruce Schneier: Crypto-Gram September 30, 2001</LINK>.
 
 <pic images/glp.ps Die Süddeutsche muss in die Kompressionskammer, bevor sie zu uns kommt.>
 
