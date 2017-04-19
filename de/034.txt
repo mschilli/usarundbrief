@@ -415,7 +415,8 @@ jeder Preis gerechtfertigt ist, die Leute so lange wie
 möglich in der Firma zu halten. Neulich las ich einen 
 Artikel, in dem stand, dass jeder Manager von 
 Softwareentwicklern sich fragen muss, was er falsch macht, 
-wenn die Leute schon um 6 Uhr abends heimgehen (<HTMLONLY><A HREF="http://arsdigita.com/asj/managing-software-engineers"> http://arsdigita.com/asj/managing-software-engineers</A></HTMLONLY><CONFIDENTIAL>http://arsdigita.com/asj/managing-software-engineers</CONFIDENTIAL>).
+wenn die Leute schon um 6 Uhr abends heimgehen 
+(<LINK>http://philip.greenspun.com/ancient-history/managing-software-engineers|Managing Software Engineers|Philip Greenspun: Managing Software Engineers</LINK>)
 
 <pic images/volley.ps Beachvolleyball freitags um fünf bei Netscape>
 
