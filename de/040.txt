@@ -1014,7 +1014,7 @@ erscheinen. Es gibt 60 Ausgänge, ein Labyrinth von
 unterirdischen Gängen, Kaufhäuser, Restaurants. Völlig 
 irre: Wie in einem Ameisenhaufen. Überall wuselt es.
 
-<pic images/uwerb.ps Werbung in der U-Bahn hängt von der Decke>
+<HTMLONLY><pic images/uwerb.ps Werbung in der U-Bahn hängt von der Decke></HTMLONLY>
 
 @Z: Uniformen 
 
