@@ -306,7 +306,8 @@ gibt einfach die Satzfetzen, die man versteht, ins Suchfeld von
 auf Webseiten, auf denen fleißige Helfer genau diesen Plattentext
 akkurat abgetippt haben. Neulich rätselte ich über das Wort "Shucklak"
 im Text des Songs "Mic Check" von "Rage Against The Machine". Kein
-Problem: Auf http://www.musicfanclubs.org/rage/lyrics/miccheck.htm
+Problem: Auf
+<LINK>http://www.musicfanclubs.org/rage/lyrics/miccheck.htm|dem Internet|"Mic Check" Songtext</LINK>
 stand der genaue Liedtext und auch eine Erklärung des Wortes fand ich
 über Google:
 Das ist das Geräusch, das eine Pistole beim Durchladen macht.
