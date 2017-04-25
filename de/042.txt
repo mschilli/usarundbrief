@@ -31,7 +31,7 @@ Angelika und Michael
 
 @Z: 30 Gründe, nicht in den USA zu leben:
 
-1. Amerikaner schrecken nicht davor zurück, Schauspieler und Cowboys zu Präsidenten ihres Landes zu wählen.
+<PRINTONLY>\quad</PRINTONLY>1. Amerikaner schrecken nicht davor zurück, Schauspieler und Cowboys zu Präsidenten ihres Landes zu wählen.
 
 2. Allein die unregulierten Zähne entlarven einen als Europäer.
 
@@ -93,7 +93,7 @@ Angelika und Michael
 
 @Z: 30 Gründe, in den USA zu leben:
 
-1. Ausländer sein ist einfach in einer Stadt, die zu mehr als 50% aus Ausländern besteht.
+<PRINTONLY>\quad</PRINTONLY>1. Ausländer sein ist einfach in einer Stadt, die zu mehr als 50% aus Ausländern besteht.
 
 2. Wildfremde machen einem spontan Komplimente über die hübschen Ohrringe, das farbenfreudige T-Shirt, den feschen Haarschnitt...
 
