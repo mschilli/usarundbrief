@@ -319,20 +319,20 @@ at hand, though, is that it came up at all, since San Francisco is very
 different in this respect and naked people are not an uncommon sight 
 in the streets here.
 
-TODO
+@Z: Top Product: Arlo Surveillance Cameras
 
-@Z: Topp-Produkt: Überwachungskamera von Arlo
-
-<pic images/arlo-mount.ps Die schnurlose Überwachungskamera von Arlo.>
+<pic images/arlo-mount.ps The completely wireless battery-driven surveillance camera by Arlo.>
 
 <em>Michael</em>
-Sind wir im Urlaub, treibt mich dauernd die Sorge um unsere Wohnung um. 
-Brennt die Bude? Steigen Einbrecher ein? Aber ein Blick auf mein Handy
-zeigt mir die Videos einiger strategisch positionierter Überwachungskameras, 
-und ich kann sofort beruhigt aufatmen, weil alles noch an seinem Platz
-steht.
+When we're on vacation, I can't help but worry what's happening at home.
+Is the house on fire? Are burglars breaking in? Luckily, one glance at my 
+cell phone shows footage from several strategically positions surveillance
+cameras, and I can relax because everything is fine and dandy at its
+place.
 
-<pic images/arlo-app-video.ps Das Handy zeigt die aufgenommenen Videos einzelner Kameras.>
+<pic images/arlo-app-video.ps A smartphone app shows live footage from several surveillance cameras.>
+
+TODO
 
 Wer sich schon mal mit dem Thema befasst hat, weiß, dass die typische
 Überwachungskamera ihr Bild zwar drahtlos per Wifi ins Internet sendet, aber
