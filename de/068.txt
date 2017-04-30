@@ -334,7 +334,7 @@ Autos.
 
 <pic images/smog.ps PERLMANs Abgastestergebnisse sind mitsamt seiner KFZ-Nummer auf dem Internet abrufbar.>
 
-Unter <LINK>http://www.smogcheck.ca.gov/vehtests/pubtstqry.aspx</LINK> 
+<LINK>http://www.smogcheck.ca.gov/vehtests/pubtstqry.aspx|Auf dem Internet|Kalifornische Abgasuntersuchung Online</LINK> 
 kann man nun die Abgasuntersuchungen kalifornischer Autos
 öffentlich bestaunen. Man kann sowohl nach Nummernschild als auch
 nach der KFZ-Nummer (VIN = Vehicle Identification Number) suchen.
