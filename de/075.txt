@@ -345,10 +345,10 @@ listet die Kontaktadressen auf.
 
 <HTMLONLY><pic images/yellphone2.ps Immer ruhig bleiben, nur nicht ausflippen.></HTMLONLY>
 
-Weiter gibt es Verbraucherschutzverbände auf Stadt-, Landkreis- oder
-Bundesstaatsebene, die unter
-<LINK>http://www.consumeraction.gov/state.shtml</LINK>
-stehen und sich ebenfalls um Verbraucherbeschwerden kümmern.
+Weiter gibt es Verbraucherschutzverbände auf Stadt-, Land\-kreis- oder
+Bundes\-staats\-ebene, die auf
+<LINK>http://www.consumeraction.gov/state.shtml|dem Internet|Verbraucherschutzverbände</LINK>
+erreichbar sind und sich ebenfalls um Verbraucherbeschwerden kümmern.
 
 Eine weitere Möglichkeit ist das 
 <LINK>http://www.bbb.org|Better Business Bureau</LINK>, eine 
