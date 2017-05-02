@@ -332,13 +332,15 @@ place.
 
 <pic images/arlo-app-video.ps A smartphone app shows live footage from several surveillance cameras.>
 
-TODO
+I'm sure you know already that typical surveillance cameras are transmitting
+video footage over a wireless Wifi link to the hub, but unfortunately still
+draw power through conventional cables from the power outlet. This
+often complicates installing a camera in places where no power is readily
+available, like in the hallway or on the balcony, not to mention that
+lining your walls with power cables is hardly contributing to stunning
+interior design.
 
-Wer sich schon mal mit dem Thema befasst hat, weiß, dass die typische
-Überwachungskamera ihr Bild zwar drahtlos per Wifi ins Internet sendet, aber
-leider zur Stromversorgung eine Steckdose benötigt.  Das ist oft schwierig,
-denn wer hat schon eine Steckdose direkt an der Eingangstüre oder auf dem
-Balkon und will seine Wohnung auch noch mit hässlichen Kabeln verschandeln?
+TODO
 
 Arlo hat das Problem mit vier bärenstarken Lithium-Batterien gelöst, die
 in jeder der kinderfaustgroßen Kameras stecken. Mit einem Bewegungssensor
