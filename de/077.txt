@@ -303,7 +303,7 @@ beschleunigen. Alles lacht! Bremslichter leuchten auf. Rasch und beinahe
 geräuschlos schließt sich das schwere Stahltor wieder. Von außen sieht es so 
 aus, als wäre überhaupt nichts passiert.
 
-<pic images/multicode.ps Der Multicode-Garagenöffner, aufgeschraubt, um den Code zu verstellen.>
+<pic images/multicode.ps Der Multicode-Garagenöffner mit offenliegendem Dip-Switch, um den Code zu verstellen.>
 
 Okay, jetzt ist die Fantasie mit mir durchgegangen, aber der Garagenöffner
 ist wirklich praktisch. Man kann ihn für $10 auf dem Internet bei 
