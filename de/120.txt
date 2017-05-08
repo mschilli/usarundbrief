@@ -236,14 +236,14 @@ Antwort für die unter Umständen Hunderttausenden von Followern der Firma
 herausposaunen kann: Jaja, der Fehler ist bekannt, und die Ingenieure
 arbeiten daran, oder haben ihn sogar schon behoben!
 
-<pic images/manning-twitter.ps (#1) Kunde beschwert sich über Twitter, Köpfe rollen.>
+<pic images/manning-twitter.ps (#5) Kunde beschwert sich über Twitter, Köpfe rollen.>
 
 Ein Win-Win für alle Beteiligten: Der unzufriedene Kunde fühlt sich
 ernstgenommen und die Firma zeigt PR-wirksam, dass sie bei Kundenbeschwerden
 sofort Köpfe rollen lässt, um verbogenes gerade zu richten. In Abbildung
-(#1) seht ihr zum Beispiel, dass ich versucht hatte, auf der Website des
-Fachbuchverlags "Manning" ein Buch zu kaufen, aber deren 
-Shopping-Cart-Software offensichtlich von umgeschulten
+(#5) seht ihr zum Beispiel, dass ich versucht hatte, auf der Website des
+Fachbuchverlags "Manning" ein Buch zu kaufen, deren 
+Shopping-Cart-Software aber offensichtlich von umgeschulten
  Einkaufswagenschiebern programmiert worden war und mich das
 gewünschte Buch nicht kaufen ließ. Kurze Zeit später tweetete Manning, dass
 das Engineering-Team benachrichtigt worden sei und am nächsten Tag
