@@ -217,7 +217,7 @@ mit <em>zwei</em> Weitwinkel-Spiegeln aus. Warnhinweise erübrigen sich.
 
 @Z: Verlängerung der Greencard
 
-<pic images/greencard.ps Nach zehn Jahren müssen Greencard-Besitzer einen Verlänerungsantrag stellen. Foto: blog.uscis.gov>
+<pic images/greencard.ps Nach zehn Jahren müssen Greencard-Besit\-zer einen Verlängerungsantrag stellen. Foto: blog.uscis.gov>
 
 <em>Angelika</em>
 Viele glauben: Einmal die Greencard, immer die Greencard. Das war früher
