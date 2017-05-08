@@ -340,19 +340,21 @@ available, like in the hallway or on the balcony, not to mention that
 lining your walls with power cables is hardly contributing to stunning
 interior design.
 
+Arlo has solved the problem by using four long lasting lithium batteries
+in every camera, which is about the size of a child's fist. Thanks to a
+motion sensor, the camera is starting up as soon as an object is moving
+in front of it, and is recording between 10 and 30 seconds of video, depending
+on the user's settings. The movie data goes wirelessly to the base
+station which can be up to 300 feet away, and from there to a server
+operated by Arlo on the Internet. Archived videos can be watched by
+smartphone app or web browser, from wherever you might be located
+at the time. Arlo keeps archived videos for a month, and offers a
+download link on every recording, to allow the user to store the most
+interesting ones at home.
+
+<pic images/arlo-app.ps Whoa! Movement at the door!>
+
 TODO
-
-Arlo hat das Problem mit vier bärenstarken Lithium-Batterien gelöst, die
-in jeder der kinderfaustgroßen Kameras stecken. Mit einem Bewegungssensor
-löst die Kamera aus, wenn sich etwas durchs Bild bewegt, und nimmt je nach
-Voreinstellung zwischen 10 und 30 Sekunden Video auf. Die Daten sendet sie
-sofort drahtlos an eine bis zu 100m entfernte Basisstation, die sie 
-ins Internet auf den Arlo-Server weiterleitet, wo man sie über die 
-Arlo-App oder einen Webbrowser von überall auf der Welt ansehen kann.
-Arlo archiviert die Videos einen Monat lang, und die interessantesten 
-Ausschnitte kann man runterladen.
-
-<pic images/arlo-app.ps Huch! Bewegung an der Eingangstür!>
 
 Die App ist nicht gerade ein Glanzstück, aber ganz brauchbar.  Verständlich,
 wenn man weiß, dass Arlo dem Routerhersteller Netgear gehört, der zwar gute
