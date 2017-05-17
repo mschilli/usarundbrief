@@ -354,22 +354,24 @@ interesting ones at home.
 
 <pic images/arlo-app.ps Whoa! Movement at the door!>
 
+The Automatic phone app isn't exactly designer prize material, but works
+reasonably well. It's hardly surprising if you know that Arlo is now
+owned by router maker Netgear. Theyr'e known for good hardware, but seem
+to employ subpar software engineers to cobble together their user interfaces.
+I've configured the app to send a notification to my phone every time
+there's movement in front of any of the cameras. That way, I'm always up
+to date on what's going on.
+
+<pic images/arlo-battery.ps Four lithium batteries power the camera.>
+
+Batteries last about a month, but durability heavily depends on how often 
+the camera activates because of movement. Since I don't like using
+throwaway batteries, I invested in rechargables at a whopping price of
+8 Dollars per battery (!), straight out of China, including a special charger.
+The lithium format isn't as common for rechargeables yet, so there's
+definitely a premium to pay.
+
 TODO
-
-Die App ist nicht gerade ein Glanzstück, aber ganz brauchbar.  Verständlich,
-wenn man weiß, dass Arlo dem Routerhersteller Netgear gehört, der zwar gute
-Router macht, aber die Software von kompletten Narren zusammenklopfen lässt.
-Ich habe sie so eingestellt, dass mein Handy immer eine Nachricht anzeigt,
-wenn sich vor einer der Kameras etwas bewegt. So bin ich immer auf dem 
-Laufenden.
-
-<pic images/arlo-battery.ps Vier Lithium-Batterien in der Kamera versorgen sie mit Strom.>
-
-Die Batterien halten, je nachdem, wie oft die Kamera einschaltet, etwa
-einen Monat lang. Da ich nicht gerne die Umwelt unnötig vermülle, habe
-ich mir statt dessen Akkus zum Schlagerpreis von 8 Dollar pro Stück (!) 
-aus China samt Ladegerät besorgt. Das Lithium-Format ist nicht so gängig wie
-normale Batterien und deswegen so rasant teuer.
 
 <pic images/arlo-charger.ps Akkulader für die Lithium-Batterien der Kamera.>
 
