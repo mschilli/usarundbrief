@@ -371,21 +371,20 @@ throwaway batteries, I invested in rechargables at a whopping price of
 The lithium format isn't as common for rechargeables yet, so there's
 definitely a premium to pay.
 
+<pic images/arlo-charger.ps Charger for the camera's lithium batteries.>
+
+One of our neighbors bought and Arlo camera as well and set it up in the
+crawlspace under his house. He was quite surprised to see what's going on
+down there at night: The footage shows a skunk sniffing and a 
+raccoon romping around. Another videos pictures a cat returning to the
+home with a mouse in its mouth. And the camera at the front gate caught a 
+butt naked party goer passing by. You can check it out yourself on 
+Youtube, where our neighbor has put his
+<LINK>https://www.youtube.com/watch?v=NH9f4OXVarU|Arlo security video collection</LINK> for everyone to enjoy.
+
+<pic images/arlo-skunk.ps The Arlo camera caught a skunk exploring the house's crawl space.>
+
 TODO
-
-<pic images/arlo-charger.ps Akkulader für die Lithium-Batterien der Kamera.>
-
-Einer unserer Nachbarn hat sich ebenfalls eine Arlo-Kamera gekauft und sie
-in den Hohlraum unter seinem Haus, den in Amerika sogenannten "Crawlspace",
-gestellt. Er war erstaunt, was dort tief in der Nacht so abgeht: Ein Stinktier
-schnüffelt herum und ein Waschbär tänzelt durchs Bild. In einem weiteren
-Video huscht eine Katze mit einer gefangenen Maus im Maul zurück ins Haus, 
-und an der Gartentür marschiert ein unbekleideter
-Partygänger vorbei. Auf Youtube hat er die besten Szenen seiner
-<LINK>https://www.youtube.com/watch?v=NH9f4OXVarU|Arlo-Videosammlung</LINK> 
-zur allgemeinen Belustigung aufs Netz gestellt.
-
-<pic images/arlo-skunk.ps Die Kamera hat ein ein Stinktier unterm Haus aufgenommen.>
 
 @Z: Monsterwellen bei Mavericks
 
