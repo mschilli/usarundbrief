@@ -384,22 +384,22 @@ Youtube, where our neighbor has put his
 
 <pic images/arlo-skunk.ps The Arlo camera caught a skunk exploring the house's crawl space.>
 
+@Z: Monster Waves at Mavericks
+
+<pic images/mavericks-3.ps Surfers at Mavericks taking risks.>
+
+<em>Angelika</em>Ever since Michael has developed a passion for surfing, I keep
+hearing a lot about what the surf conditions in Pacifica are like. Pacifica is
+located about 13 miles south of San Francisco and Michael often goes there
+surfing on the weekend. Almost every Saturday and Sunday morning, the first
+thing he does is check the surf camera on the Internet.  The waves can't be too
+small, too big, too blown out, and have to meet a specific set of criteria, in
+short, it's a science in itself. Thankfully, he has a lot of respect for giant
+waves and stays away from them, but some of the best surfers in the world can't
+get enough of these monster waves and keep jetting around the world to chase
+them.
+
 TODO
-
-@Z: Monsterwellen bei Mavericks
-
-<pic images/mavericks-3.ps Die Mavericks-Surfer riskieren Kopf und Kragen.>
-
-<em>Angelika</em> Seidem Michael die Leidenschaft des Surfens endeckt hat, höre
-ich viel darüber, wie die Wellenlage in Pacifica gerade ist. 
-Der Ort liegt 20km südlich von San Francisco und Michael surft am Wochenende 
-immer dort. Jeden Samstag- und
-Sonntagmorgen prüft Michael zunächst die Wellen-Kamera auf dem Internet. Die
-Wellen dürfen nicht zu klein, zu groß, zu wühlig usw. sein. Das ist eine
-Wissenschaft für sich. Gott sei Dank hat Michael großen Respekt vor
-Monsterwellen und bleibt diesen fern.  Einige der besten Surfer dieser Welt
-können von diesen meterhohen Wellen allerdings nicht genug bekommen und fliegen
-um die ganze Welt, um in ihnen zu surfen.
 
 Es gibt nur wenige
 Monsterwellen-Surfer ("Big Wave Surfer"), denn das Risiko ist enorm hoch. An
