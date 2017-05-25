@@ -408,18 +408,18 @@ called Princeton-by-the-Sea with a tiny harbor named "Pillar Point" that's
 hosting a yearly event called "Titans of Mavericks" if the surf conditions are
 perfect.
 
+This year, the weather phenomenon "El Nino" brought the desired monster waves,
+and after a hiatus last year, Mavericks was on again. The competition has been
+around since 1999, but only happened 10 times since then because it requires
+perfect conditions for the surfers to start tackling the waves. There is a
+fixed limit of 24 participants for the contest, who are brought in on an
+invititation-only basis. The event date is determined on very short notice, and
+requires selected surfers to drop everything immediately and travel to
+California.
+
+<pic images/mavericks-2.ps Surfers pay dearly after falling off a monster wave.>
+
 TODO
-
-Dieses Jahr brachte das Wetterphänomen "El Nino" die gewünschten Monsterwellen,
-sodass im Februar der Surfwettbewerb erstmals wieder seit 2 Jahren stattfand.
-Den Wettbewerb gibt es seit 1999 und nur 10 Mal waren seitdem die Bedingungen
-optimal und die besten Surfer der Welt traten an, um die Wellen zu bezwingen.
-24 Surfer nehmen an dem Wettbewerb teil, und rein kommt man nur per Einladung.
-Der Wettbewerb ist an einem bestimmten Tag, der kurzfristig festgelegt wird und
-dann müssen die Surfer buchstäblich alles stehen und liegen lassen und nach
-Kalifornien reisen. 
-
-<pic images/mavericks-2.ps Fällt der Surfer, beutelt ihn die Welle ordentlich durch.>
 
 Am 12. Februar war es dieses Jahr soweit. Leider ist es
 kaum mehr möglich, den Wettbewerb vor Ort zu verfolgen, denn im Jahr 2010
