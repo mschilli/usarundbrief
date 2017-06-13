@@ -419,14 +419,13 @@ California.
 
 <pic images/mavericks-2.ps Surfers pay dearly after falling off a monster wave.>
 
-TODO
+On Febrary 12th this year, all stars were aligned and it was finally happening.
+Unfortunately, it's almost impossible nowadays to watch the event live at the
+scene, as the organizers have banned all spectators from the beach since in
+2010 a sneaker wave injured several bystanders. Also, truth be told, the
+surfers are really far out there, visible only through strong binoculars.
 
-Am 12. Februar war es dieses Jahr soweit. Leider ist es
-kaum mehr möglich, den Wettbewerb vor Ort zu verfolgen, denn im Jahr 2010
-verletzte eine Superwelle einige Zuschauer und seitdem sperren die Veranstalter
-alles ab und zwingen die Interessierten, sich das Spektakel als Liveübertragung
-auf dem Fernsehschirm anzuschauen. Und ehrlich gesagt surfen die Surfer auch so 
-weit draußen, dass man sie eh nur mit sehr starken Ferngläsern sehen könnte. 
+TODO
 
 Das sieben Stunden lange
 <LINK>http://www.redbull.tv/videos/event-stream-596/half-moon-bay-california-usa|Mavericks-Live-Video</LINK>
