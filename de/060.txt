@@ -189,7 +189,7 @@ großformatige Schilder mit der Aufschrift "WARNING" and "CHILDREN
 CROSSING" sowohl vorne als auch hinten am Eiswagen anbringen. Und die
 Schilder müssen mindestens 12 mal 48 Zoll (30cm x 123cm) groß sein,
 damit man sie auch von weitem lesen kann. Der 
-<LINK>http://perlmeister.com/cgi/u/21|Zeitungsbericht</LINK> zu den Straßenverkehrsordnungsänderungen erklärt noch weitere Details.
+<LINK>http://usarundbrief.com/cgi/u.cgi/21|Zeitungsbericht</LINK> zu den Straßenverkehrsordnungsänderungen erklärt noch weitere Details.
 
 Eine weitere Besonderheit ist die Anwendung der Straßenverkehrsordnung
 auf privaten Parkplätzen. Wer zum Beispiel auf dem

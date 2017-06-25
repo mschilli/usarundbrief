@@ -178,7 +178,7 @@ anderen Ufer sehen.
 <pic images/bhview.ps Bernal Heights: Blick auf das Stadviertel "Mission">
 
 Das
-<LINK>http://perlmeister.com/cgi/u/1t|Satellitenbild von Bernal Heights
+<LINK>http://usarundbrief.com/cgi/u.cgi/1t|Satellitenbild von Bernal Heights
 </LINK> 
 zeigt den leicht zu lokalisierenden, im Sommer hellbraunen Grashügel,
 auf dessen Spitze ein Funkturm steht. Wenn man von Bernal Heights in 

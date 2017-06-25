@@ -635,7 +635,7 @@ veröffentlichte einen
 neuartigen Landkartenservice, mit dem man sowohl Straßenkarten als
 auch die zugehörigen Satellitenbilder sehen kann. Neugierig?
 
-Dann schaut euch mal <LINK>http://perlmeister.com/cgi/u/p|die Yahoo!-Gebäude aus 30.000 Meter Höhe</LINK> an.
+Dann schaut euch mal <LINK>http://usarundbrief.com/cgi/u.cgi/p|die Yahoo!-Gebäude aus 30.000 Meter Höhe</LINK> an.
 Es gibt sogar eine Webseite, auf der die Leute Links zu Googles
 Satellitenbildern veröffentlichen, die
 <LINK>http://perljam.net/notes/interesting-google-satellite-maps/|besondere Sehenswürdigkeiten</LINK> zeigen. Von Michael Jacksons "Neverland Ranch",
@@ -643,13 +643,13 @@ Satellitenbildern veröffentlichen, die
 dabei.
 
 Sogar
-<LINK>http://perlmeister.com/cgi/u/q|das Haus, in dem wir wohnen
+<LINK>http://usarundbrief.com/cgi/u.cgi/q|das Haus, in dem wir wohnen
 </LINK> kann man sehen. Das Geniale daran ist freilich, dass man direkt
-<LINK>http://perlmeister.com/cgi/u/t|zur Straßenkarte</LINK>
+<LINK>http://usarundbrief.com/cgi/u.cgi/t|zur Straßenkarte</LINK>
 umschalten kann. Wenn ihr 
-<LINK>http://perlmeister.com/cgi/u/r|weiter rauszoomt</LINK>, 
+<LINK>http://usarundbrief.com/cgi/u.cgi/r|weiter rauszoomt</LINK>, 
 seht ihr, in welcher Region von San Francisco wir
-wohnen. <LINK>http://perlmeister.com/cgi/u/s|Noch weiter raus</LINK>,
+wohnen. <LINK>http://usarundbrief.com/cgi/u.cgi/s|Noch weiter raus</LINK>,
 und ihr seht, wo wir auf dem amerikanischen Kontinent zu finden sind.
 Das absolute Ultra ist, dass man die Landkarte mit der Maus verschieben
 und so in der Welt herumreisen kann. Schon schlaue Füchse, diese Googler.
