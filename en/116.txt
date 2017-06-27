@@ -22,30 +22,25 @@ sexual orientation.
 
 <pic images/orlando-castro-handwriting.ps Personal words by a San Francisco citizen mourning the victims of the Orlando shooting.>
 
+People were looking forward to the celebration, because the supreme
+court had just legalized same sex marriage last year in June. But what
+happened in Orlando, has now tarnished the festivities. In the Castro,
+our famous gay neighborhood, many residents were shocked and concerned and
+showed their empathy with the victims of Orlando.
+
+<pic images/orlando-castro-sit-in.ps A sit in on the sidewalk to give passersby the opportunity to talk.>
+
+On 18th Street at the corner of Castro Street, we saw a sea of flowers on
+the sidewalk for the victims. At Harvey Milk Plaza, many people had written
+notes on paper and posted them at a nearby fence. And whoever needed someone
+to talk to was offered the opportunity by sitting down in a circle drawn
+with chalk on the sidewalk.on with likeminded individuals.
+
+By the way, tomorrow morning, exactly seven days after the attack have gone by,
+Michael will be flying to a Perl conference scheduled at a location set years
+ago in advance, guess where? Orlando, of all places. Live goes on.
+
 TODO
-
-Eigentlich gibt es viel zu feiern, denn das oberste
-Verfassungsgericht hat erst letztes Jahr im Juni die Homoehe in den USA
-legalisiert.
-Was in Orlando passiert ist, hat allerdings sehr die Stimmung getrübt.
-Im Castro, unserem berühmten schwulen
-Nachbarviertel in San Francisco, 
-zeigten sich viele der Bewohner schockiert
-und demonstrierten ihre Solidarität mit den Opfern von Orlando.
-
-<pic images/orlando-castro-sit-in.ps Wer will, kann mit Gleichgesinnten in einem kleinen Kreis auf dem Gehweg reden.>
-
-Auf der 18ten Straße, Ecke Castro Street, entstand ein riesiges Blumenmeer
-für die Opfer. Am
-Harvey-Milk-Platz hatten Passanten ihre Gedanken auf Zettel geschrieben und an
-einen Zaun gebunden. Und Leute, die jemanden zum Reden brauchten, konnten sich
-einfach in einen mit Kreide auf das Pflaster gemalten Kreis setzen und 
-sich einer Gesprächsrunde anschließen.
-
-Michael fliegt übrigens morgen früh, genau sieben Tage nach dem Anschlag,
-zu einer Perl-Konferenz, deren 
-Veranstaltungsort schon seit Jahren feststeht, und der ist, wie's der Teufel
-will: Orlando. Das Leben geht weiter.
 
 @Z: Dulle im Mietauto
 
