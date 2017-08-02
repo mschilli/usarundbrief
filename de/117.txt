@@ -246,7 +246,7 @@ ich aber sicherheitshalber aus, den donnern zwar einige todesmutige
 Jugendliche herunter, aber so wahnsinnig bin ich doch noch nicht. Die
 Straßenverkehrsordnung von San Francisco schreibt übrigens für Skateboards
 explizite Regeln vor, denn nach 
-<LINK>http://bit.ly/2fp4kc|Sektion 1.1 Abschnitt 13|Straßenverkehrsordung von San Francisco</LINK>
+<LINK>http://transportation.sanfranciscocode.org/7/7.2/7.2.13/|Sektion 1.1 Abschnitt 13|Straßenverkehrsordung von San Francisco</LINK>
 fallen sie in
 die Kategorie "NUV", also "Non-motorized
 User-propelled Vehicles" ("Unmotorisiertes Fahrer-getriebenes Fahrzeug")
