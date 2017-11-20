@@ -216,7 +216,7 @@ eine klasse Idee.
 
 @Z: Router oder Rooter?
 
-<pic images/rooter.ps Das ist ein Rooter ("Ruh-ter"). Der Name einer amerikanischen Klempnerfirma, die sich auf verstopfte Rohre spezialisiert.>
+<pic images/rooter.ps Das ist ein Rooter ("Ruh-ter"). Der Name einer amerikanischen Klempnerfirma, die sich seit 82 Jahren auf verstopfte Rohre spezialisiert.>
 
 <em>Michael</em> Manchmal höre ich jemandem zu, der ganz normal spricht, und
 urplötzlich denke ich, ich spinne, weil mein Gegenüber ein Wort ganz
