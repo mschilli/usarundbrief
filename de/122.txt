@@ -2,7 +2,7 @@ San Francisco, den 12.11.2017
 
 @Z: Im Abwassersystem von San Francisco
 
-<pic images/sewer-tour.ps Vom fachkundigen Tourführer erfahren Anwohner, wo ihr Abwasser hingeht.>
+<pic images/sewer-tour.ps Vom fachkundigen Tourenführer erfahren Anwohner, wo ihr Abwasser hingeht.>
 
 <em>Michael</em> Was passiert, nachdem wir die Klospülung drücken? Um das
 herauszufinden, buchten wir Ende August eine Tour der "San Francisco Public
