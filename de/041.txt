@@ -179,6 +179,8 @@ Für die meisten ist die Insel Oahu gleichbedeutend mit
 Hawaii, was strenggenommen natürlich nicht stimmt, denn
 nur die Vulkaninsel "Big Island" heißt offiziell Hawaii. 
 
+<HTMLONLY><pic images/honolulu.ps Die Hauptinsel Oahu hat gut ausgebaute Autobahnen.></HTMLONLY>
+
 Die Insel Oahu ist bekannt für die Hauptstadt Honolulu, 
 die Fernsehserie "Magnum", den Strand von Waikiki, der als Geburtsort 
 des Surfens gilt und natürlich Perl Harbor, 
