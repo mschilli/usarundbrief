@@ -40,29 +40,28 @@ By the way, tomorrow morning, exactly seven days after the attack have gone by,
 Michael will be flying to a Perl conference scheduled at a location set years
 ago in advance, guess where? Orlando, of all places. Live goes on.
 
+@Z: A Bit Dent in Our Rental Car
+
+<pic images/rcc-bumper.ps Michael managed to put a big dent into our rental car's bumper.>
+
+<em>Michael</em>Every time we reserve a rental car on vacation, the agent behind
+the counter brings up the question on how to insure the car. In California, rental
+car agencies are required by law to provide liability insurance at no extra
+cost with the rental. In case of an accident, it covers bodily injury to other people
+and damages to their cars. But watch out, these policies only cover the minimum
+required by law, which is a measily
+$30.000 in California. You're personally on the hook for any damages exceeding
+this amount, which can easily occur if you scrap someone else's luxury car or
+run over a pedestriant.  Especially with severe bodily injury cases or even
+fatalities, damages can easily go into the millions in our litigious country.
+People who live here usually already have insurance for their cars at home, and
+the contract typically also covers rental cars while on vacation. But read the
+fine print of your contract to make sure this actually applies to your personal
+situation.
+
+<pic images/amex-rental-car-claim-site.ps Rental car damage claims can be filed with American Express on yourcarrentalclaim.com.>
+
 TODO
-
-@Z: Dulle im Mietauto
-
-<pic images/rcc-bumper.ps Michael hat eine böse Dulle ins Mietauto reingefahren.>
-
-<em>Michael</em> Wenn wir uns im Urlaub einen Mietwagen buchen, kommt am
-Schalter ja traditionsgemäß die Frage auf, wie man denn das Fahrzeug versichern
-wolle. Im allgemeinen müssen Autovermieter kostenfrei eine
-Haftpflichtversicherung anbieten, die dann einspringt, wenn der Kunde andere
-Autos oder Leute anschrammt. Aber Vorsicht: Je nach Bundesstaat decken diese
-Policen oft nur den gesetzlich vorgeschriebenen Mindestbetrag ab, in
-Kalifornien zum Beispiel 30.000 Dollar. Für größere Schäden, die zum Beispiel
-selbst dann schon entstehen, wenn man jemandes Luxuskarosse vehement zerbeult
-oder einen Personenunfall verursacht, haftet der Kunde dann selbst, und gerade
-bei schweren Verletzungen oder Todesfällen gehen die Schadensersatzforderungen
-im klagewütigen Amerika schnell in die Millionen. Wer allerdings wie wir in
-Amerika wohnt, hat meist eh eine
-Kfz-Haftpflicht für's Privatauto abgeschlossen und
-die deckt in vielen Fällen diese zusätzliche Haftpflicht auch für Mietautos
-ab. Es empfiehlt sich aber dringend, den Vertrag vorher genau durchzulesen.
-
-<pic images/amex-rental-car-claim-site.ps Den Schadensbericht an American Express nimmt yourcarrentalclaim.com entgegen.>
 
 Zum zweiten stellt sich die Frage nach der Vollkaskoversicherung. Wer haftet,
 wenn auf einem Touristenparkplatz ein Hallodri das Seitenfenster einschlägt? Was
