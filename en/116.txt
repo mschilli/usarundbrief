@@ -44,7 +44,7 @@ ago in advance, guess where? Orlando, of all places. Live goes on.
 
 <pic images/rcc-bumper.ps Michael managed to put a big dent into our rental car's bumper.>
 
-<em>Michael</em>Every time we reserve a rental car on vacation, the agent behind
+<em>Michael</em> Every time we reserve a rental car on vacation, the agent behind
 the counter brings up the question on how to insure the car. In California, rental
 car agencies are required by law to provide liability insurance at no extra
 cost with the rental. In case of an accident, it covers bodily injury to other people
@@ -61,24 +61,23 @@ situation.
 
 <pic images/amex-rental-car-claim-site.ps Rental car damage claims can be filed with American Express on yourcarrentalclaim.com.>
 
+Secondly, there's the question on how to insure the rental car. Who's going to
+pay if some bum smashes the side window on a parking lot in a tourist location?
+What happens if there's tire damage or if a pebble hurled up by the next car on
+the highway hits the windshield and leaves a crack? What happens if the rental
+car gets stolen? The car rental companies offer insurance products for these
+scenarios as well, it costs about $15 per day to cover them, but I always
+decline such offerings while looking straight into rental agent's
+pretend-horror faces. I always leave covering the extended liability to my home
+car insurance and the the collision/theft coverage to my credit card.  For
+example, my American Express card provides collision/theft protection if I use
+it to pay for the rental. Ironically, last time we went to Hawaii on vacation,
+we've found ourselves in the somewhat unfortunate situation to verify how that
+will actually play out.
+
+<pic images/rcc-viking-1.ps Three weeks later "Viking Billing Services" wants to see $490.>
+
 TODO
-
-Zum zweiten stellt sich die Frage nach der Vollkaskoversicherung. Wer haftet,
-wenn auf einem Touristenparkplatz ein Hallodri das Seitenfenster einschlägt? Was
-passiert, wenn ein Reifen platzt oder ein aufgewirbelter Stein einen Sprung in
-die Windschutzscheibe haut? Wer zahlt, wenn das Mietauto gar ganz gestohlen
-wird?  Auch hier bieten die Mietwagenanbieter entsprechende Produkte an. Für
-etwa 15 Dollar pro Tag kann der Kunde das Auto am Schalter
-voll\-kasko\-versi\-chern.
-Zum gespielten Entsetzen der Schalter\-fritzen lehne ich aber immer alle
-Versicherungen ab, wenn wir mal wieder einen Wagen abholen, und verlassen uns
-auf unsere private Autoversicherung sowie unsere Kreditkarte. Karten wie
-unsere American Express bieten nämlich eine eingeschränkte
-Vollkaskoversicherung an, wenn man mit ihnen die Mietwagenrechnung bezahlt.
-Als wir letztes Mal im März auf Hawaii waren, hatten wir die unerfreuliche
-Gelegenheit, das Ganze mal praxisnah auszuprobieren.
-
-<pic images/rcc-viking-1.ps Drei Wochen später will "Viking Billing Services" 490 Dollar sehen.>
 
 Schon am ersten Tag, direkt nach der Ankunft vom Flughafen an unserem
 Feriendomizil hatte ich nämlich die clevere Idee, das Mietauto rückwärts eine
