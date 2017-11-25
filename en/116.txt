@@ -77,19 +77,19 @@ will actually play out.
 
 <pic images/rcc-viking-1.ps Three weeks later "Viking Billing Services" wants to see $490.>
 
+It happened on the first day, right after we had arrived at our vacation rental
+location from the airport. I had the very clever idea to back up the rental car on the
+place's rather steep driveway all the way to the house's doorstep to avoid having to haul
+our luggage up by hand.  Hertz had given us a Mazda 3 with an generously sized
+trunk with dimensions not easily fathomable by simply turning your head and
+peeking through the rear window from the driver's seat. To get up the steep
+incline, I stepped on the gas in reverse quite a bit, and didn't notice until I
+heard an infernal noise that a stone wall had been in the way, protruding
+diagonally upwards from the ground to about 2 feet on its highest end.
+
+<pic images/rcc-viking-2.ps (#1) The total damage amount is the sum of repair cost, administration fees and loss-of-use payments.>
+
 TODO
-
-Schon am ersten Tag, direkt nach der Ankunft vom Flughafen an unserem
-Feriendomizil hatte ich nämlich die clevere Idee, das Mietauto rückwärts eine
-steile Auffahrt hinaufzufahren, um den Schleppweg der Koffer zur Mietwohnung zu
-verkürzen. Der Mietwagen war ein Mazda 3 mit einem riesigen Kofferraum, dessen
-Ausmaße man beim besten Willen nicht abschätzen kann, wenn man rückwärts durch
-die Heckscheibe äugt. Ich nahm auf der bestimmt 35% steilen Auffahrt gut Anlauf
-und fuhr zügig hinauf -- und merkte erst an einem plötzlich einsetzenden
-Höllenkrach, dass eine kleine vom Boden weg diagonal hochgehende Steinmauer den
-Weg versperrt hatte.
-
-<pic images/rcc-viking-2.ps (#1) Die Schadenssumme teilt sich auf in Reparatur, Verwaltungsgebühren und Schadens\-ausfall\-zahlungen.>
 
 Erst viel später fiel mir auf, dass das Auto über eine rückwärts gerichtete
 Kamera verfügte, mit der man bequem vom Armaturenbrett aus verfolgen konnte,
