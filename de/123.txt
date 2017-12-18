@@ -219,7 +219,7 @@ bezahlen, was zu brachliegenden Agrarflächen geführt hat. Fährt man auf dem I
 entlang, begegnem einem deshalb auch immer wieder Schilder mit Parolen wie
 "Food Grows Where Water Flows" ("Essen wächst dort, wo Wasser fließt").
 
-<pic images/i5-water-sign.ps Farmer regen sich über Kaliforniens Wasserrationsierung auf.>
+<pic images/i5-water-sign.ps Farmer regen sich über Kaliforniens Wasserrationierung auf.>
 
 <pic images/i5-harris-cattle.ps Tausende von Rindern auf der Harris Ranch am Rande des Interstate 5.>
 
