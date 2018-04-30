@@ -110,8 +110,8 @@ bellen ununterbrochen oder
 <pic images/chinese-dog.ps Obwohl's verboten ist, bringen die Leute ihre Hunde in Lebensmittelgeschäfte mit rein.>
 
 Wie schaffen die Hundebesitzer es nun, ihren Fiffi kostenlos fliegen zu lassen?
-Sie erklären ihn kurzerhand zum “Emotional Support Dog” (übersetzt etwa
-“emotionaler Unterstützungshund”), also ein angeblicher Therapiehund, der dem
+Sie erklären ihn kurzerhand zum "Emotional Support Dog" (übersetzt etwa
+"emotionaler Unterstützungshund"), also ein angeblicher Therapiehund, der dem
 Hundebesitzer seelisch zur Seite steht. Nicht zu verwechseln mit einem richtig
 ausgebildeten Servicehund, der zum Beispiel Blinden im Alltag hilft oder seinen
 Besitzer vor epileptischen Anfällen warnt. Servicehunde sind dazu ausgebildet, 
@@ -124,7 +124,7 @@ normalerweise nicht erlaubt sind. In Kalifornien dürfen Hunde zum Beispiel
 nicht in den Innenbereich eines Restaurants oder in Geschäfte, wo Lebensmittel
 verkauft werden.
 
-Das amerikanische Behindertengesetz (“The Americans with
+Das amerikanische Behindertengesetz ("The Americans with
 Disabilities Act = ADA) sorgt nun aber dafür, dass Menschen mit Behinderungen nicht
 detailiert nachweisen müssen, dass ihr Hund ein Servicehund ist. Nur zwei
 Fragen sind erlaubt, um abzuklopfen, ob der Hund wirklich diese Funktion inne
@@ -135,8 +135,8 @@ lieber nicht so genau nachgehaken.
 
 <pic images/support-animal-seat.ps Selbst Riesenhunde kriegen ihren eigenen Sitz, sobald man ein "Service Dog"-Schild draufpappt.>
 
-Der “Emotional Support Dog” ist hingegen nicht besonders ausgebildet, sondern
-wirkt auf seinen Besizter beruhigend. Gibt man “Emotional Support Dog” bei
+Der "Emotional Support Dog" ist hingegen nicht besonders ausgebildet, sondern
+wirkt auf seinen Besizter beruhigend. Gibt man "Emotional Support Dog" bei
 Google ein, kommen eine Unzahl von Anbietern hoch, bei denen man durch einen
 <LINK>https://www.esaregistration.org|Mausklick|Erfassung zum Emotional Support Dog</LINK> 
 seinen Hund als solchen registrieren kann und dabei gleich einen
@@ -146,19 +146,19 @@ für die eigene Psyche wichtig ist. Auch
 die den Hund als angeblichen Servicehund ausweisen, kann der Hundenarr
 problemlos im Internet zum Beispiel bei Amazon bestellen.
 
-Leider ist es nun tatsächlich so, das die Fluggesellschaften durch den “Air Carrier
-Access Act” diese “Emotional Support Dogs” neben den richtigen Servicehunden im
+Leider ist es nun tatsächlich so, das die Fluggesellschaften durch den "Air Carrier
+Access Act" diese "Emotional Support Dogs" neben den richtigen Servicehunden im
 Flugzeug erlauben müssen. Es hat wohl keiner damit gerechnet, dass egoistische
 Hundebesitzer dieses Schlupfloch gnadenlos ausnutzen. Für die Menschen, die wirklich einen
 Servicehund brauchen, führt das zu vielen Problemen, denn keiner kann mehr den
-echten Servicehund vom fälschlich ausgewiesenen “Emotional Support Dog”
+echten Servicehund vom fälschlich ausgewiesenen "Emotional Support Dog"
 unterscheiden. Deshalb fordern die Betroffenen schon lange, dieses Schlupfloch
 zu schließen.
 
 Bei United Airlines und Delta Airlines gelten deshalb auch seit 1. März diesen
 Jahres strengere Bestimmungen für Hunde, die in der Passagierkabine
 mitfliegen. Bei Delta Airlines ist die Mitnahme von Hunden, die als
-Servicehunde oder “Emotional Support Dogs” ausgewiesen werden seit 2015 um 150%
+Servicehunde oder "Emotional Support Dogs" ausgewiesen werden seit 2015 um 150%
 angestiegen und die Beschwerden über Tiere an Board sind 
 <LINK>https://www.reuters.com/article/delta-air-safety-animals/delta-air-to-tighten-onboard-emotional-support-animal-requirements-idUSL1N1PE05B|um 84% hochgeschnellt|Fluggastbeschwerden über Hunde</LINK>.
 Der Hundebesitzer muss 48 Stunden vor Abflug neben einem Schrieb, der
@@ -234,7 +234,7 @@ Schon als ich das erste Mal in den USA war, hat mich erzürnt, dass es den
 Indianer nicht überall erlaubt ist, ihren eigenen Schmuck zu verkaufen.
 Geschenkeläden in den diversen Touristenhochburgen verkaufen dann auch nicht
 immer authentischen Schmuck oder streichen sich die Gewinne ein. Auf dem
-Marktplatz in Santa Fe unter den Arkaden des “Palace of the Governors” kann man
+Marktplatz in Santa Fe unter den Arkaden des "Palace of the Governors" kann man
 sich allerdings sicher sein, dass der Schmuck, die gewebten und getöpferten
 Waren authentisch sind. Hier verkaufen seit über 60 Jahren indianische
 Künstler ihre Kunstwerke. Nur wer einem Indianerstaamm angehört und seine
@@ -387,7 +387,7 @@ ehrlich gesagt bei den horrenden Preisen nicht ganz nachvollziehen kann:
 Ein Abendessen für zwei in einer der Gaststätten auf unserer Straße kostet
 gut und gerne $100, und wenn's exklusiv beim Edeljapaner ist, eher $200.
 
-<pic images/caskhouse-front.ps Die Bar "Caskhouse" hat aufgegeben.>
+<HTMLONLY><pic images/caskhouse-front.ps Die Bar "Caskhouse" hat aufgegeben.></HTMLONLY>
 
 Dennoch scheitern die Gaststätten bei uns immer nach dem gleichen Muster: Erst
 sparen sie beim Personal, eines Tages sitzt man in seinem Stammlokal und reibt
@@ -398,7 +398,7 @@ stellte letztes Jahr sogar auf Selbstbedienung um, und die Gäste mussten ihr
 Essen zuerst an der Kasse bezahlen, eine Nummer mit zum Tisch nehmen, worauf
 eine Aushilfe irgendwann das Essen anschleppte.
 
-<pic images/hamlet-door.ps Die Gaststätte "Hamlet" hat nach einem Jahr mangels Erfolg zugesperrt.>
+<HTMLONLY><pic images/hamlet-door.ps Die Gaststätte "Hamlet" hat nach einem Jahr mangels Erfolg zugesperrt.></HTMLONLY>
 
 Nicht nur wir weigerten uns
 fürderhin, dort zu essen, sondern anscheinend auch noch andere Leute im Viertel,
