@@ -417,7 +417,7 @@ ehrlich gesagt bei den horrenden Preisen nicht ganz nachvollziehen kann:
 Ein Abendessen für zwei in einer der Gaststätten auf unserer Straße kostet
 gut und gerne $100, und wenn's exklusiv beim Edeljapaner ist, eher $200.
 
-<HTMLONLY><pic images/caskhouse-front.ps Die Bar "Caskhouse" hat aufgegeben.></HTMLONLY>
+<pic images/caskhouse-front.ps Die Bar "Caskhouse" hat aufgegeben.>
 
 Dennoch scheitern die Gaststätten bei uns immer nach dem gleichen Muster: Erst
 sparen sie beim Personal, eines Tages sitzt man in seinem Stammlokal und reibt
@@ -428,7 +428,7 @@ stellte letztes Jahr sogar auf Selbstbedienung um, und die Gäste mussten ihr
 Essen zuerst an der Kasse bezahlen, eine Nummer mit zum Tisch nehmen, worauf
 eine Aushilfe irgendwann das Essen anschleppte.
 
-<HTMLONLY><pic images/hamlet-door.ps Die Gaststätte "Hamlet" hat nach einem Jahr mangels Erfolg zugesperrt.></HTMLONLY>
+<pic images/hamlet-door.ps Die Gaststätte "Hamlet" hat nach einem Jahr mangels Erfolg zugesperrt.>
 
 Nicht nur wir weigerten uns
 fürderhin, dort zu essen, sondern anscheinend auch noch andere Leute im Viertel,
