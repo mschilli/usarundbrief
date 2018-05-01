@@ -166,7 +166,7 @@ der Soldaten zu bergen, ließ man sie dort unten und baute ein Denkmal quer
 macht, sieht man, wie noch immer Öl aus dem Schiffsinnern nach oben 
 austritt und im Hafen umeinanderschwimmt! 
 
-<pic images/phoil.ps Aus dem Schiffswrack er der USS Arizona kommt immer noch Öl.>
+<pic images/phoil.ps Aus dem Schiffswrack der USS Arizona kommt immer noch Öl.>
 <pic images/phshoe.ps Extrem sauber geputzte Schuhe des Marine-Soldaten, der das Schiff zum Pearl Harbor Memorial lenkte.>
 
 Das Ganze ist natürlich recht pathetisch aufgezogen und ich habe sogar die
