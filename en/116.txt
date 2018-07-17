@@ -78,29 +78,33 @@ will actually play out.
 <pic images/rcc-viking-1.ps Three weeks later "Viking Billing Services" wants to see 490 Dollars.>
 
 It happened on the first day, right after we had arrived at our vacation rental
-location from the airport. I had the very clever idea to back up the rental car on the
-place's rather steep driveway all the way to the house's doorstep to avoid having to haul
-our luggage up by hand.  Hertz had given us a Mazda 3 with an generously sized
-trunk with dimensions not easily fathomable by simply turning your head and
-peeking through the rear window from the driver's seat. To get up the steep
-incline, I stepped on the gas in reverse quite a bit, and didn't notice until I
-heard an infernal noise that a stone wall had been in the way, protruding
-diagonally upwards from the ground to about 2 feet on its highest end.
+location from the airport. I had the very clever idea to back up the rental car
+on the place's rather steep driveway all the way to the house's doorstep to
+avoid having to haul our luggage up by hand.  Hertz had given us a Mazda 3 with
+an generously sized trunk with dimensions not easily fathomable by simply
+turning your head and peeking through the rear window from the driver's seat.
+To get up the steep incline, I stepped on the gas in reverse quite a bit, and
+didn't notice until I heard an infernal noise that a stone wall had been in the
+way, protruding diagonally upwards from the ground to about 2 feet on its
+highest end.
 
 <pic images/rcc-viking-2.ps (#1) The total damage amount is the sum of repair cost, administration fees and loss-of-use payments.>
 
 TODO
 
-Erst viel später fiel mir auf, dass das Auto über eine rückwärts gerichtete
-Kamera verfügte, mit der man bequem vom Armaturenbrett aus verfolgen konnte,
-auf welche Hindernisse das Auto gerade im Rückwärtsgang zusteuert.
-Aber egal! Jedenfalls war
-die Hinterseite des Autos nun böse eingedellt, das riesige Plastikteil, eine
-Art Zwitter aus Kofferraumrückwand und Stoßstange, sah nun recht kaputt aus.
-Ich beulte sie unter Einsatz von Bärenkräften wieder aus, aber ein paar
-Einschlitzungen und böse Schrammen blieben.
+It wasn't until a few days later, that I realized that the rental car actually
+sported a rear facing camera projecting live video onto the dashboard, to allow
+the driver to follow along what's happening behind the car going in reverse --
+and to prevent exactly this kind of mistake from occurring. Oh well! Anyway,
+the damage had been done, and the car's rear had been badly dented. The giant
+piece of plastic, serving both as trunk backwall and bumper, was in a rather
+wretched condition. I tried to get the plastic to pop out again by pulling
+it outwards like a the Hulk, but a few very visible slashes and scratches 
+remained.
 
-<pic images/rcc-amex.ps (#2) Amex zahlt bis auf die Verwaltungs- und einen Teil der Schadensausfallgebühren.>
+<pic images/rcc-amex.ps (#2) Amex pays the bill, but won't cover administration fees and parts of the rental company's loss of use demands.>
+
+TODO
 
 Als wir am Ende des Urlaubs anderthalb Wochen später das Auto am Flughafen
 abgaben, machte ich die Angestellten dort auf den Schaden aufmerksam und sie
