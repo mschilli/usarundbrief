@@ -90,9 +90,7 @@ highest end.
 
 <pic images/rcc-viking-2.ps (#1) The total damage amount is the sum of repair cost, administration fees and loss-of-use payments.>
 
-TODO
-
-It wasn't until a few days later, that I realized that the rental car actually
+It wasn't until a few days later, that I realized that our rental car actually
 sported a rear facing camera projecting live video onto the dashboard, to allow
 the driver to follow along what's happening behind the car going in reverse --
 and to prevent exactly this kind of mistake from occurring. Oh well! Anyway,
@@ -104,50 +102,43 @@ remained.
 
 <pic images/rcc-amex.ps (#2) Amex pays the bill, but won't cover administration fees and parts of the rental company's loss of use demands.>
 
+When we returned the car at the end of our vacation, one and a half weeks
+later, I pointed out the damage to the rental car return agents at the airport,
+and they politely filled out an incident report form for me, featuring long
+columns of numbers, to which I simply added a verbal description of the
+incident and my signature. Then, we swiftly proceeded to the departure gate, to
+catch our flight home to California. We boarded the plane and flew out,
+relieved to have gotten everything over with so quickly -- in order to be
+prepared to deal with any unforseen issues without time pressure, we had
+arrived at the rental car return place an hour earlier.
+
+At home in San Francisco, I pulled up our Amex credit card's insurance web page
+at yourrentalcarclaim.com, and it took all of 15 minutes to click through and
+submit the claim forms. Shortly after, I received an email, and a day after,
+another one, assigning an agent to the case.
+
+Then, nothing happened for three weeks, until a letter arrived via regular
+mail, sent by "Viking Billing Services", which started with the words
+"You recently rented a Hertz car". Apparently, this was sent by Hertz's 
+collection agency, and as you can see in Figure (#1), they asked us to
+pay a total of $490.37. A closer look revealed, that the repair of the car 
+amounted to $332.98, and on top of that, Hertz charged $72.00 for 
+"loss of use", which are rental fees for the repair days the car couldn't
+be rented out to other customers, and an "administration fee" of $85.39.
+
+I dialed the phone number listed on the collection agency's letter, got a very
+professionally sounding young man on the phone and told him that my Amex credit
+card would cover the cost. I confirmed my name, my address, and the claim
+number I had received from Amex when I reported the incident. That was it! Two
+weeks later, we received a letter from Amex, to confirm that of the demanded
+$490.37, they had paid exactly $378.03 (Figure (#2)) to Viking. The car repair
+of $332.98 they had covered in full. Of the $72.00 charged by Hertz for loss of
+use, they paid only $45.05. The remaining $26.95, as well as the
+"administration fee" of $85.39 was left for me to pay, just as the Viking agent
+had already warned me Amex might not cover. So I was stuck with a total of
+$112.34, which, when Viking sends me the bill, I will pay by check.
+
 TODO
-
-Als wir am Ende des Urlaubs anderthalb Wochen später das Auto am Flughafen
-abgaben, machte ich die Angestellten dort auf den Schaden aufmerksam und sie
-füllten mir sofort freundlich einen "Incident Report" (Bericht über einen
-Vorfall) mit irgendwelchen Nummernkolonnen aus, auf dem ich nur kurz den
-Vorfall beschreiben und signieren musste. Dann flogen wir heim, erleichtert,
-dass alles so schnell gegangen war, 
-denn wir waren extra eine Stunde früher als sonst
-zum Flughafen gefahren, um nicht in Bedrängnis zu geraten, falls die
-Schadensabwicklung sich hinziehen oder der 
-Autovermieter Fisimatenten machen würde.
-
-Daheim angekommen, füllte ich in etwa 15 Minuten auf der Internetseite
-der Amex-Versicherung yourrentalcarclaim.com ein paar Formulare mit
-anklickbaren Optionen aus und bekam prompt eine Bestätigung per Email, 
-und tags
-darauf noch eine, die mir sogar einen persönlichen Sachbearbeiter zuwies.
-
-Dann geschah drei Wochen nichts, als plötzlich ein Brief von "Viking
-Billing Services" ins Haus flatterte, der mit den Worten "You recently
-rented a Hertz car" begann. Der stammte offensichtlich vom Geldeintreiber
-der Hertz-Autovermietung und wie in Abbildung (#1) ersichtlich, wollten
-sie insgesamt 490.37 Dollar sehen. Die Summe setzte sich zusammen aus dem
-eigentlichen Schaden ($332.98), der Schadensausfallgebühr ("Loss of Use",
-also die Mietgebühr für die Tage, an denen Hertz den Wagen wegen
-Reparaturarbeiten nicht vermieten konnte), und einer Verwaltungsgebühr von
-$85.39.
-
-Ich wählte die auf dem Brief angegebene Telefonnummer, bekam einen sehr
-professionell klingenden jungen Mann an den Apparat und erzählte ihm,
-dass meine Amex-Kreditkarte den Schaden übernehmen würde. Ich bestätigte
-meinen Namen und Adresse und die Nummer des von mir an Amex
-übermittelten Schadensberichts an Amex. Das war's! Zwei Wochen später
-lag ein Schreiben von Amex im Kasten, mit der Bestätigung, dass Amex
-von den geforderten $490.37 exakt $378.03 bezahlt hatte (Abbildung (#2)).
-Die Schadenssumme von $332.98 hatten sie ganz übernommen. Von den geforderten
-$72.00 an Ausfallgebühren übernahmen sie nur $45.05, übrig blieben
-$26.95, sowie die Verwaltungsgebühren in Höhe von
-$85.39, die, und da hatte mich der Herr von Viking am Telefon schon vorgewarnt,
-Amex nicht berappen würde. Also blieben insgesamt $112.34 an mir
-hängen. Auf die Rechnung des Geldeintreibers warte ich noch, 
-und werde sie, falls sie noch eintrudelt, gegebenenfalls per Scheck 
-bezahlen.
 
 Insgesamt muss ich sagen, dass Amex den Schaden erfreulicherweise relativ
 kulant abgewickelt hat und ich auch weiterhin auf die Kartenversicherung setzen
