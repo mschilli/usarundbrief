@@ -138,15 +138,21 @@ use, they paid only $45.05. The remaining $26.95, as well as the
 had already warned me Amex might not cover. So I was stuck with a total of
 $112.34, which, when Viking sends me the bill, I will pay by check.
 
-TODO
+To summarize, I have to say that Amex did a pretty good job resolving the
+claim.  Sure, those extra "loss of use" charges and the fishy "administrative
+fee" trumped up charges they didn't cover may raise some eyebrows, but at least
+I know now that I can rely on the insurance provided by the credit card when
+getting a rental car going forward.  I guess that being on the hook for a few
+hundred dollars is a calculable risk not only for me, but for most people. The
+process seems to work, and proves that the extra collision insurance that is
+aggressively being peddled by the car rental agencies is not required at all if
+your credit card contract's fine print offers the same insurance.  I have no
+intention of ruining another rental car, of course, but it's comforting to know
+how to resolve any issues that might arise from the rental process. I'll keep
+using my Amex card for future rentals, knowning I'm in good hands if things go
+south.
 
-Insgesamt muss ich sagen, dass Amex den Schaden erfreulicherweise relativ
-kulant abgewickelt hat und ich auch weiterhin auf die Kartenversicherung setzen
-werde. Ein paar hundert Dollar bringen mich im Schadensfall nicht um, und der
-Vorfall bestätigt, dass das Verfahren funktioniert und die Versicherungen der
-Autovermieter total überflüssig sind. Ich habe zwar nicht vor, noch ein
-Mietauto zu ramponieren, aber für den Fall der Fälle weiß ich jetzt Bescheid
-und kann ruhigen Auges in die Zukunft blicken.
+TODO
 
 @Z: Smash und Grab
 
