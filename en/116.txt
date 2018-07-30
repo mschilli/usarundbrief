@@ -152,31 +152,29 @@ how to resolve any issues that might arise from the rental process. I'll keep
 using my Amex card for future rentals, knowning I'm in good hands if things go
 south.
 
+@Z: Smash and Grab
+
+<pic images/smash-grab-glass.ps Another car with a broken window on city streets.>
+
+<em>Angelika</em>San Francisco has been in the news lately with one sad record
+after another. The out of control rent spiral has catapulted us past New York
+City, now San Francisco is the most expensive city in the United States.  Along
+with that, we're also number one in property crime like burglaries and theft.
+Lucky for us, the murder rate is lower than in comparable American cities.
+
+New Yorkers have been calling San Francisco "Smash-And-Grab-City" lately,
+because no other urban center has more car break ins: Burglars first
+smash the side window, then reach into the car an grab whatever's there.
+Victims are mostly tourists, who while going on city sightseeing tours, often
+leave valuables behind in their cars, unaware of the rampant property crime. 
+The rude awakening usually comes very quickly. But even locals, who sometimes
+leave items in their parked cars need to be prepared to get their windows
+smashed. After all, thieves don't know if a backpack left in the car
+actually contains a laptop or just sweaty gym clothes, and steal it
+just in case. And there's even reports of break-ins into cars that 
+didn't have anything of value inside at all.
+
 TODO
-
-@Z: Smash und Grab
-
-<pic images/smash-grab-glass.ps Schon wieder ein Auto mit eingeschlagener Seitenscheibe.>
-
-<em>Angelika</em> San Francisco ist in letzter Zeit in aller Munde. Die immer
-weiter steigenden Mieten haben uns mittlerweile vor New York auf den Platz 1
-der teuersten Stadt Amerikas katapultiert.  Auch bei Einbrüchen und Diebstählen
-haben wir die Nase vorn und sind mittlerweile ebenfalls auf Platz 1 in den
-Statistiken gelandet. Die Mörderrate ist in San Francisco allerdings,
-verglichen mit anderen Großstädten in den USA, immer noch niedrig.
-
-In New York nennt man San Francisco deshalb
-bereits die "Smash-und-Grab-City". "Smash
-und Grab" bedeutet, dass der Dieb in Windeseile die Scheibe eines Autos
-einschlägt (= "Smash") und sich dann aus dem Wageninnern greift ("Grab"), was
-immer er für wertvoll hält. Touristen, die oft, während sie die
-Sehenswürdigkeiten in der Stadt abklappern, Wertgegenstände im Auto liegen
-lassen, lernen die rohen Sitten und Gebräuche der Stadt schnell kennen.
-Aber auch jeder Einheimische, der nur irgendetwas sichtbar im Auto lässt,
-selbst wenn es völlig wertlos ist, kann mit einer kaputten Scheibe rechnen,
-denn Diebe gehen gerne auf Nummer sicher, es könnte ja doch etwas Wertvolles
-dabei sein. Und selbst Autos, in denen nichts sichtbar liegt, fallen manchmal
-Einbrechern zum Opfer.
 
 Sein Auto auf der Straße in San Francisco zu parken, reicht oft schon aus, um
 am nächsten Morgen vor einer zerbrochenen Scheibe zu stehen. Mehr als 70 Mal
