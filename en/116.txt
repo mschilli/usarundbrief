@@ -174,16 +174,20 @@ actually contains a laptop or just sweaty gym clothes, and steal it
 just in case. And there's even reports of break-ins into cars that 
 didn't have anything of value inside at all.
 
+It's quite common in San Francisco to see entire lines cars with smashed
+windows in the morning. Marauding bums are roaming the city streets during the
+night unencumbered, breaking into cars, rifling through the interior and
+stealing everything sellable, even low-value items. The official statistics
+report 70 break-ins per night on average within city limits, but the inofficial
+numbers are probably several times higher because most people have given up on
+reporting property crime altogether, because of general and blatent desinterest
+by San Francisco's police force (SFPD) in doing anything about it.  That, and
+the antiquated and unnecessarily arduous reporting process that only under very
+rare circumstances leads to any arrests.
+
+<pic images/please-dont-break.ps This San Francisco Peacenik implores to marauding bums to not break into his Prius.>
+
 TODO
-
-Sein Auto auf der Straße in San Francisco zu parken, reicht oft schon aus, um
-am nächsten Morgen vor einer zerbrochenen Scheibe zu stehen. Mehr als 70 Mal
-pro Tag wird in San Francisco in Autos eingebrochen, wobei die Dunkelziffer
-weit höher ist, da viele sich gar nicht mehr die Mühe machen, bei der Polizei
-anzurufen, weil das antiquierte und umständliche Verfahren erfahrungsgemäß zu
-nichts führt.
-
-<pic images/please-dont-break.ps Dieser San Francisco Peacenik bettelt darum, dass niemand in seinen Prius einbricht.>
 
 Wie kommt es zu dem rasanten Anstieg der Autoeinbrüche? Für den Dieb lohnt es
 sich finanziell auf Dauer sicher, denn geschnappt wird kaum jemand.  Viele sind
