@@ -207,18 +207,15 @@ problem seemed to go away. In Los Angeles, the number of inmates dropped from
 18,601 to 17,285 in 2015. However, as a side effect, crimes like burglaries and
 thefts in major cities like San Francisco began to skyrocket.
 
-TODO
+Although burglars could still be charged under Proposition 47 and sentenced to
+up to one year in jail or to pay a fine, in practice it's up to the district
+attorney in San Francisco, who often doesn't care and simply won't even take
+the case. On top of that, police very rarely catch the perps in the first
+place, so residents have pretty much given up on reporting crimes, some even
+feel misdirected empathy for the burglars who they assume are poor.  The
+situation has become completely hopeless.
 
-Nun ist es nicht so, dass Leute, die Einbrüche, die unter Proposition 47
-fallen, gar nicht mehr bestraft werden können. Eine Gefängnisstrafe bis zu
-einem Jahr ist immer noch möglich, sowie Geldstrafen. Allerdings liegt vieles
-im Ermessen des Staatsanwaltes von San Franciso, der entscheidet,
-ob ein Fall zum Beispiel
-überhaupt verfolgt wird. Und wie gesagt, die Polizei ertappt nur selten
-jemanden auf frischer Tat. Allgemein begegnet man in San Francisco oft einer
-gewissen Wurstigkeit, wenn es um diese Dinge geht, so nach dem Motto, dem armen
-Dieb muss es aber ganz arg schlecht gehen, wenn er es nötig hat in mein Auto
-einzubrechen.  Es ist zum Verzweifeln!
+TODO
 
 Ein besorgniserregender Trend bei den Autoeinbrüchen in San Francisco ist
 die ansteigende Zahl von aus Autos gestohlenen Waffen, die anschließend
