@@ -282,9 +282,9 @@ damit ich die Sendungen mit Genuss vom Computer aus ansehen kann.
 
 <em>(Michael)</em>
 In San Francisco fahren die Straßenbahnen ja bekanntlich nach
-einem Fantasiefahrplan. Die Tram kommt nicht um eine bestimmte
+einem Fantasiefahrplan. Die Tram kommt nicht zu einer bestimmten
 Uhrzeit an, sondern im Fahrplan steht wörtlich "ungefähr alle X Minuten",
-wobei X je nach Tageszeit von 10 bis 30 schwankt. 
+wobei X je nach Tageszeit zwischen 10 bis 30 schwankt. 
 
 Es ist aber natürlich lästig, drei Treppen runter zur Haltestelle
 zu laufen und dort 29 Minuten zu warten, weil einem gerade die 
