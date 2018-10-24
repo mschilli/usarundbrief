@@ -215,21 +215,19 @@ place, so residents have pretty much given up on reporting crimes, some even
 feel misdirected empathy for the burglars who they assume are poor.  The
 situation has become completely hopeless.
 
-TODO
+The most worrying aspect of the car break-in frenzy in San Francisco is the
+rising number of stolen firearms. They're often used shortly after in criminal
+activities. Believe it or not, a total of 57 firearms have been reported stolen
+since 2015 from parked cars in San Francisco. It's already disturbing to find
+out how many people apparently are driving around with firearms in their
+vehicles. Some of the victims were law enforcement personel, who were armed as
+part of their function.  Three weeks ago, an FBI agent had his gun stolen from
+his car while visiting the city. Some of the guns weren't even properly secured
+in a locked container, as required by law.  Four murders were committed
+recently in San Francisco and the surrounding area, using guns previously stolen
+from parked vehicles. The Wild West, indeed.
 
-Ein besorgniserregender Trend bei den Autoeinbrüchen in San Francisco ist
-die ansteigende Zahl von aus Autos gestohlenen Waffen, die anschließend
-oft bei kriminellen Aktivitäten Anwendung finden. Sage und schreibe
-57 Waffen sind seit November 2015 von Dieben aus diversen Autos gestohlen
-worden. Dabei ist allein der Gedanke schon erschreckend,
-wieviele Leute mit Waffe im Auto herumfahren. Einige der Opfer waren
-Ordnungshüter, die berufsbedingt bewaffnet herumfahren. Dazu gehörte
-vor drei Wochen ein FBI-Beamter, der zu Besuch in der Stadt war. Einige der
-gestohlenen Waffen waren vorher noch nicht einmal ordnungsgemäß in
-einer abschließbaren Kassette verstaut.
-Nicht weniger als vier Morde wurden in letzter Zeit mit aus Autos
-gestohlenen Waffen in San Francisco und Umgebung verübt.
-Manchmal geht hier wirklich zu wie im Wilden Westen.
+TODO
 
 @Z: Das renovierte San Francisco Museum of Modern Art
 
