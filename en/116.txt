@@ -227,25 +227,24 @@ in a locked container, as required by law.  Four murders were committed
 recently in San Francisco and the surrounding area, using guns previously stolen
 from parked vehicles. The Wild West, indeed.
 
-TODO
+@Z: SF MoMA Renovated
 
-@Z: Das renovierte San Francisco Museum of Modern Art
-
-<pic images/sfmoma-outside.ps Der neue Museumsanbau wirft Falten wie ein ungebügeltes Bettlaken.>
+<pic images/sfmoma-outside.ps The new addition to the SF MoMA looks just like a crumpled bed sheet.>
 
 <em>Angelika</em>
-Letztes Wochenende zog es uns ins San Franciscos
-Museum of Modern Art, das seit Mitte Mai endlich wieder offen ist.
-Schlappe drei Jahre lang war es geschlossen
-gewesen, der Umbau und die Erweiterung haben 305 Millionen Dollar gekostet.
-Ein ganz neues Gebäude ist hinter dem alten entstanden. Das alte Gebäude
-hatte vor über 20 Jahren Mario Botta entworfen. Der Anbau wurde notwendig, 
-um Platz für neue Werke zu schaffen. Die Fisher-Familie, Gründer der
-in San Francisco ansässigen Klamottenfirma GAP, haben dem
-Museum für mindestens 100 Jahre insgesamt 1100 Werke ausgeliehen,
-für die im alten Gebäude einfach kein mehr Platz war.
+Last weekend, we finally managed to visit the newly renovated San Francisco
+Museum of Modern Art, or SF MoMA for short. After a whopping three years
+of renovation, it reopened at the end of May 2016. They spent 305 Million
+Dollars on the new addition, right behind the old building, which had been
+designed by Mario Botta 20 years ago. The addition serves to host new
+works by various artists. The Fisher family, founders of the San Francisco
+based apparel store GAP, had loaned the museum a total of 1100 
+artistic works, but the old building simply didn't have enough space to
+put them all on display.
 
-<pic images/sfmoma-tickets.ps Zwei Freikarten für langjährige Gold-Members.>
+<pic images/sfmoma-tickets.ps Gold members like us receive free entrance tickets for SF MoMA.>
+
+TODO
 
 Ich kann mich noch gut daran erinnern, als wir vor fast 20
 Jahren nach San Francisco gezogen sind, und alle über das damals neue
