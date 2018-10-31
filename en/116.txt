@@ -244,22 +244,22 @@ put them all on display.
 
 <pic images/sfmoma-tickets.ps Gold members like us receive free entrance tickets for SF MoMA.>
 
+I vividly remember that when we moved to San Francisco almost 20 years
+ago, everyone was complaining about the then new SF MoMA building and
+what looked like a gigantic ash tray sitting on its roof. 
+But in the meantime, it's become an essential part of the skyline
+and no one can imagine it not being here anymore. So the new architects
+got the offer to design a new building that integrated well with the old
+one. The city awarded the Norwegian architect firm Snohetta with 
+the contract, and they created a white building which looks a bit like
+a crumpled up blanket. But the interior is quite lofty, has a Scandinavian
+feel to it and is minimalistic and functional.
+
+<pic images/sfmoma-picture.ps Art lovers admire a painting by Chuck Close.>
+
+<pic images/sfmoma-staircase.ps The interior of the new SF MoMA resembles a Skandinavian furniture store.>
+
 TODO
-
-Ich kann mich noch gut daran erinnern, als wir vor fast 20
-Jahren nach San Francisco gezogen sind, und alle über das damals neue
-(heute alte) Gebäude lästerten, weil es von der Ferne aussieht,
-als ob ein Aschenbecher auf dem Dach sitzt.
-Mittlerweile gehört es aber so zum Stadtbild, dass es sich keiner
-mehr wegdenken kann. So bekamen die neuen Architekten den Auftrag, das neue
-und das alte Gebäude zu integrieren. Die norwegische Architektenfirma Snohetta
-erhielt den Zuschlag und kreierte ein weißes Gebäude, das ein wenig an ein
-zerknauschtes Bettuch erinnert. Innen ist es aber hell, skandinavisch
-minimalistisch und funktional.
-
-<pic images/sfmoma-picture.ps Kunstkenner vor einem Bild von Chuck Close.>
-
-<pic images/sfmoma-staircase.ps Innen gleicht das Gebäude einem skandinavischen Möbelhaus.>
 
 Was uns besonders gefallen hat, ist, dass der
 Museumsbesucher auf fast jedem Stockwerk nach draußen kann, um auf
