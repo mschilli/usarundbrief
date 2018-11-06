@@ -314,11 +314,11 @@ also 24 Quarters! Soviele bringen wir normalerweise nicht zusammen, aber
 glücklicherweise hat Angelika vor einiger Zeit entdeckt, dass man in eine
 Filiale unserer Bank hineinmarschieren, hundert Dollar auf den Tresen
 knallen und Quarters verlangen kann, die die Bank\-angestellten dann
-in Bandarolen gebührenfrei herausgeben.
+in Münzrollen gebührenfrei herausgeben.
 
 <pic images/laundromat-coins.ps Die Münzwaschmaschine schluckt Quarters wie nicht gescheit.>
 
-Umgekehrt bekommt man dort auch Bandarolen für zuhause anderweitig
+Umgekehrt bekommt man dort auch Banderolen für zuhause anderweitig
 angesammeltes
 Münzgeld. Schleppt ein Pfennigfuchser später sorgfältig abgezählte und gerollte
 Münzstapel zurück zur Bank, messen die Angestellten mit einem Lineal die 
@@ -333,7 +333,7 @@ herumwühlen will. Wie bereits einmal im
 Muni-Haltestellen in der Innenstadt so ziemlich die einzige Möglichkeit,
 mit einem Sack Pfennigmünzen zu bezahlen, ohne unangenehm aufzufallen.
 
-<pic images/quarter-rolls.ps 40 Dollar in Quarters in Bandarolen von der Bank.>
+<pic images/quarter-rolls.ps 40 Dollar in Quarters in Münzrollen von der Bank.>
 
 Vielen Amerikanern scheint das Münzgeld Löcher in die Hosen\-taschen 
 zu reißen, denn die Firma <LINK>http://coinstar.com|Coinstar</LINK> 
