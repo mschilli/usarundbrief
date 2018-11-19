@@ -259,27 +259,22 @@ feel to it and is minimalistic and functional.
 
 <pic images/sfmoma-staircase.ps The interior of the new SF MoMA resembles a Skandinavian furniture store.>
 
-TODO
-
-Was uns besonders gefallen hat, ist, dass der
-Museumsbesucher auf fast jedem Stockwerk nach draußen kann, um auf
-die Stadt zu blicken.
-Es gibt natürlich auch Skulpturen auf den Dachterrassen und
-eine riesige grüne Wand bestehend aus Pflanzen, vor der sich
-zur Zeit jeder fotografieren lässt.
-Das neue Gebäude verfügt über mehrere Cafes und ein Restaurant,
-die auch Kunstmuffel zum Verweilen einladen. Und Begeisterte für
-moderne Kunst kommen voll auf ihre Kosten: Werke von
-Warhol, Lichtenstein, Calder, Rothko,
-Arbus en masse.
-Das Museum kostet übrigens $25 Eintritt pro Mann, Kinder unter 18
-müssen allerdings nichts bezahlen. Wir sind schon seit Jahren Mitglieder und
-genießen dadurch unbegrenzt freien Eintritt. Das Museum hat
-übrigens jeden Tag auf (nur an Thanksgiving und am 25.12. schließt es seine
-Tore) und schließt montags nicht wie andere Museen.
-Schaut vorbei, wenn ihr im Lande seid!
+What we liked best is that museum visitors can go outside on 
+almost every floor, to enjoy views of the city. Many sculptures decorate
+these mezzanines, and one of them features a giant green wall of plants, 
+which currently seems to be the hot spot everyone wants their picture
+to be taken in front of. Several cafes and restaurants invite even
+art sceptics. Aficinados of new art can indulge in works of
+Warhol, Lichtenstein, Calder, Rothko, Arbus, and many more.
+The entrance fee is $25 per person, children under 18 enjoy free
+admission. We've been members of the museum for decades and can go
+there free of charge whenever we feel like it. It is open every day
+(except Thanksgiving and the 25th of December), unlike other museums
+which are closed on Mondays. Swing by when you're in town!
 
 <pic images/sfmoma-rusty-walls.ps Diese rostigen Spiralwände stehen in der rückwärtigen Eingangshalle des Museums.>
+
+TODO
 
 @Z: Hawaiianische Autositzbezüge
 
