@@ -259,53 +259,45 @@ feel to it and is minimalistic and functional.
 
 <pic images/sfmoma-staircase.ps The interior of the new SF MoMA resembles a Skandinavian furniture store.>
 
-TODO
-
-Was uns besonders gefallen hat, ist, dass der
-Museumsbesucher auf fast jedem Stockwerk nach draußen kann, um auf
-die Stadt zu blicken.
-Es gibt natürlich auch Skulpturen auf den Dachterrassen und
-eine riesige grüne Wand bestehend aus Pflanzen, vor der sich
-zur Zeit jeder fotografieren lässt.
-Das neue Gebäude verfügt über mehrere Cafes und ein Restaurant,
-die auch Kunstmuffel zum Verweilen einladen. Und Begeisterte für
-moderne Kunst kommen voll auf ihre Kosten: Werke von
-Warhol, Lichtenstein, Calder, Rothko,
-Arbus en masse.
-Das Museum kostet übrigens $25 Eintritt pro Mann, Kinder unter 18
-müssen allerdings nichts bezahlen. Wir sind schon seit Jahren Mitglieder und
-genießen dadurch unbegrenzt freien Eintritt. Das Museum hat
-übrigens jeden Tag auf (nur an Thanksgiving und am 25.12. schließt es seine
-Tore) und schließt montags nicht wie andere Museen.
-Schaut vorbei, wenn ihr im Lande seid!
+What we liked best is that museum visitors can go outside on 
+almost every floor, to enjoy views of the city. Many sculptures decorate
+these mezzanines, and one of them features a giant green wall of plants, 
+which currently seems to be the hot spot everyone wants their picture
+to be taken in front of. Several cafes and restaurants invite even
+art sceptics. Aficinados of new art can indulge in works of
+Warhol, Lichtenstein, Calder, Rothko, Arbus, and many more.
+The entrance fee is $25 per person, children under 18 enjoy free
+admission. We've been members of the museum for decades and can go
+there free of charge whenever we feel like it. It is open every day
+(except Thanksgiving and the 25th of December), unlike other museums
+which are closed on Mondays. Swing by when you're in town!
 
 <pic images/sfmoma-rusty-walls.ps Diese rostigen Spiralwände stehen in der rückwärtigen Eingangshalle des Museums.>
 
-@Z: Hawaiianische Autositzbezüge
+@Z: Hawaiian Car Seat Covers
 
-<pic images/seat-covers-amzn.ps Amazon führt hawaiianische Sitzbezüge für's Auto.>
+<pic images/seat-covers-amzn.ps Amazon has custom fitted Hawaiian car seat covers.>
 
-<em>Michael</em> Da Angelika jeden Tag mit dem Auto auf dem Weg zur
-Arbeit eine erstaunliche Anzahl
-von Kilometern frisst und unser Zweitauto, Perly Perlman, mittlerweile beim
-Schrotthändler steht (<RBLINK>20160229#2</RBLINK>), habe ich ihr im März
-kurzerhand von einem Arbeitskollegen einen Honda Fit Baujahr 2011, gekauft, den
-wir "Brummi" getauft haben. Diese spritzige Pendlerkutsche hat den Vorteil,
-dass man die Rückbank und den Vordersitz dermaßen schlau umlegen kann, dass
-selbst "Catchy the Wavecatcher", mein Zweitsurfboard für ruhige Wellenlagen,
-das 2.70m lang ist, noch reinpasst und die Kofferraumklappe zugeht.
+<em>Michael</em>Since Angelika is traveling a lot of miles by car on her work
+commute every day, and our backup car, Perly Perlman, was decommissioned
+recently (<RBLINK>20160229#2</RBLINK>), I purchased a new vehicle for her, a
+2011 Honda Fit, which we've nick-named "Brummi". It's a nice, agile commute
+mule, and it has the unbeatable advantage that you can fold down the rear bench
+and the passenger seat in such a neat way, that even "Catchy the Wavecatcher",
+my 9 footer surf board for slow days, fits in with the hatch closed.
 
-Das Auto selbst hat zwar nur 117 PS, ist aber so ultraleicht, dass ich
-schon manchen erschreckten Porschefahrer damit an der Ampel überrumpelt habe.
-Okay, bei höheren Geschwindigkeiten merkt man dann schon, wie das
-Drehmoment mangels Hubraum Wünsche offenlässt, aber immerhin fahre ich
-das Auto mittlerweile fast lieber als meine über alles geliebte "Rakete",
-einen 1998er Acura Integra, der Nachfolger des legendären Perly Perlman,
-ein Halbstarkenauto, vergleichbar mit einem Opel Manta. Der Motor dreht bis
-8000 rpm hoch und gebärdet sich dann mit seinen 170 PS wie bei der
-Rallye Monte Carlo.
+The car only has 117 horsepower, but it's so light that I've startled many a
+Porsche driver with it when the light switched to green. Okay, at mid range
+speeds, the lack of torque due to the small engine is evident and severly lacks
+the required oomp, but I've gotten so used to it that I prefer city driving it
+to my beloved "Rocket" 1998 Integra GSR, a car preferred by Asian teenagers and
+our successor of the legendary Perly Perlman. Its engine its screaming until
+8000 rpms, and those 170 horsepower developed during that stage feel like
+you're driving the Rallye Monte Carlo.
 
-<pic images/seat-covers-front.ps (#3) Die maßgeschneiderten Bezüge sitzen tadellos.>
+<pic images/seat-covers-front.ps (#3) Those semi-custom made seat covers fit like a glove.>
+
+TODO
 
 Traditionell kaufe ich für jedes neue Auto immer möglichst kitschige
 Sitzbezüge, und diesmal stachen mir die grellroten hawaiianischen Cover von
