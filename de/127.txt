@@ -20,15 +20,15 @@ Wochen.
 <pic images/airnow-map.ps Der Regierungsrauchmesser meldet ungesunde Luftwerte in der gesamten Bay Area wegen des Feuers in Butte County.>
 
 Feuer hat es in Kalifornien schon immer gegeben, aber noch nie kamen sie so
-gehäuft oder zerstörten soviel Landschaft und Siedlungen. Ursachen gibt es
-dafür viele: Trockenere Winter mit nur wenig Regen durch das sich verändernde
-Klima. Ich erinnere mich noch gut daran, als wir Ende 1996 nach San Francisco
-zogen. Es schüttete wie aus Eimern und ich fühlte mich gleich heimisch, weil es
-wie in Norddeutschland regnete und regnete und regnete. Mitllerweile regnet es
-ab und zu im Winter, aber eben nicht genug, um die Vegetation genug zu
-durchfeuchten und die grauen Hügel in grüne Oasen zu verwandeln. Und ein
-Bundesstaat, in dem es in den übrigen Monaten des Jahres nicht regnet, braucht
-viel Winterregen und in den höheren Lagen Schnee.
+gehäuft vor oder zerstörten soviel Landschaft und Siedlungen. Ursachen gibt es
+dafür viele, wie zum Beispiel trockenere Winter mit nur wenig Regen durch das
+sich verändernde Klima. Ich erinnere mich noch gut daran, als wir Ende 1996
+nach San Francisco zogen. Es schüttete wie aus Eimern und ich fühlte mich
+gleich heimisch, weil es wie in Norddeutschland regnete und regnete und
+regnete. Mitllerweile regnet es ab und zu im Winter, aber eben nicht genug, um
+die Vegetation genug zu durchfeuchten und die grauen Hügel in grüne Oasen zu
+verwandeln. Und ein Bundesstaat, in dem es in den übrigen Monaten des Jahres
+nicht regnet, braucht viel Winterregen und in den höheren Lagen Schnee.
 
 <pic images/venice-power.ps Wer seine Stromleitungen so schlampig und nahe an brennbarem Material spannt, braucht sich nicht zu wundern, wenn dauernd Feuer ausbrechen.>
 
@@ -120,7 +120,7 @@ sodass es engstirnige Erwachsene wie mich regelmäßig erbost, wenn ich
 mir hirntotes Geschwätz mit diesen Manierismen anhören muss. Die erste
 Unsitte ist das sogenannte "Upspeak", das Heben der Stimme am Ende des
 Satzes. Was bei Fragesätzen normal ist, sollte man nicht an jedem
-Satzende tun, aber genau das das machen die Millennials heutzutage:
+Satzende tun, aber genau das machen die Millennials heutzutage:
 "Also bin ich ins Cafe gegangen? Hab mir 'nen Drink bestellt? War
 ziemlich teuer?" Zum wahnsinnig werden.
 
@@ -138,7 +138,7 @@ Normalzustand dieser Ritze spricht der Mensch mit normaler Tonhöhe.
 Schnürt man die Stimmbänder dicht zusammen, kommt das Falsetto raus,
 also Obertöne. Ernstzunehmende Leute machen das nicht, aber lässt man
 die Stimmbänder locker, sodass Luft mit einem vibrierenden Geräusch
-durch den Spalt durchblubbert, ensteht der sogenannte der Strohbass,
+durch den Spalt durchblubbert, ensteht der sogenannte Strohbass,
 auch Schnarrregister genannt. Auf Englisch nennt man es "Vocal Fry"
 oder auch "Creaky Voice" und dieses Register breitet sich geradezu
 epidemienhaft bei jungen Frauen und schwulen Männern aus.
@@ -220,7 +220,7 @@ Nun kostet Ladenfläche in San Francisco Unsummen von Geld, und das ist
 mit einem Trödelladen kaum wieder reinzuholen. Allerdings steht auch
 manches kommerzielles Gebäude vorübergehend leer, während sich die
 Eigentümer einen neuen Mieter suchen, und da springt Goodwill dann
-kurzfristig in die Bresche und richted einen sogenannten Pop-Up ein, so
+kurzfristig in die Bresche und richtet einen sogenannten Pop-Up ein, so
 eine Art wie aus einem Aufklappbuch hochschnellendes temporäres
 Verkaufsareal, mit einer Verkaufsfläche, die nur Vorhänge von
 baufälligen Gebäudeteilen trennen. Zum Beispiel ging in San Franciscos
@@ -419,8 +419,8 @@ für das Verhalten. Ich unterrichte jeden Tag eine Stunde, die sich um positives
 Sozialverhalten dreht, genannt SEL (= Social Emotional Learning), was mir sehr
 viel Spaß macht.  Die Kinder in der Klasse sind nicht ganz einfach und ich habe
 schon so manche Blessur davon getragen, weil einige meiner Schüler auch
-aggressiv sind. Aber mir gefällt die neue Herausforderung und das Konzept der
-Schule sehr, denn in der Regel herrscht hier das Modell vor, dass 
+aggressiv sind. Aber mir gefällt die neue Herausforderung und das Konzept unserer
+Schule sehr, denn ansonsten herrscht hier das Modell vor, dass
 Kinder bei Bedarf eine Hilfskraft zur Seite gestellt bekommen, damit
 sie den  Stoff bewältigen und sich in die Klasse integrieren.
 
@@ -446,7 +446,7 @@ Aus diesem Grund schlagen wir uns mit Dritte-Welt-Internet durchs Telefonkabel
 herum (15mbit/1mbit), sehen Antennenfernsehen und holen uns Spielfilme mit HBO
 Now (via Internet), Netflix und dem TV-Service Sling herein. Letzteres kostet
 $25 im Monat und bringt Sender wie AMC (für Serien wie "Walking Dead") oder
-Spieler der Fußball-WM letztes Jahr auf den Schirm, natürlich voll mit Werbung.
+Spiele der Fußball-WM letztes Jahr auf den Schirm, natürlich voll mit Werbung.
 
 <pic images/tivo.ps Der TiVo-Kasten nimmt das einprogrammiertes Antennenfernsehen auf.>
 
