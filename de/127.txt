@@ -132,7 +132,7 @@ Die zweite Unsitte ist das sogenannte
 <LINK>https://en.wikipedia.org/wiki/Vocal_fry_register|"Vocal Fry"</LINK>,
 und dazu muss ich weiter ausholen.  Der Mensch  verfügt
 über insgesamt drei sogenannte Register, die die Tonhöhe der
-gesprochenen (oder gesungenen Sprache) bestimmen, reguliert über den
+gesprochenen (oder gesungenen) Sprache bestimmen, reguliert über den
 "Glottis" genannten Spalt im Rachen zwischen den Stimmbändern.  Im
 Normalzustand dieser Ritze spricht der Mensch mit normaler Tonhöhe.
 Schnürt man die Stimmbänder dicht zusammen, kommt das Falsetto raus,
