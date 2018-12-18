@@ -310,24 +310,24 @@ embedded in the seats to deploy, and even knew about the unusual arm rest on
 protruding from the right side of the driver seat in the Honda Fit. Fits like
 a glove!
 
-TODO
+@Z: Top Product: Kathi's Pretzel Mix
 
-@Z: Toppprodukt: Der Brezelmix von Kathi
-
-<pic images/kath-pretzels-youtube.ps Diese Packung enthält das Rohmaterial für 9 frische Brezen.>
+<pic images/kath-pretzels-youtube.ps This package contains the ingredients for nine freshly baked German pretzels.>
 
 <em>Michael</em>
-Wir leben ja bekanntlich in einer Diaspora, in der es keine
-guten frischen Brezen gibt. In <RBLINK>20080923#6</RBLINK> habe ich schon
-mal die Bäckerei "Esther's" in Mountain View (etwa 56km südlich von uns)
-vorgestellt, die Brezen bäckt, die ganz gut schmecken, falls sie frisch aus
-dem Ofen kommen, aber bereits ihr Haltbarkeitsdatum deutlich überschritten
-haben, wenn sie bei uns oben in San Francisco ankommen. Der
-Öko-Supermarkt Rainbow verkauft sie, aber um neun Dollar für fünf
-altbackene Brezen auszugeben, muss man schon ziemlich ausgehungert sein.
-Ich mache es trotzdem oft.
 
-<pic images/kathi-pretzels-raw.ps Heimbäcker Michael schlingt den Teig gekonnt in Brezenform.>
+As you know, we're living in a dystopian region with regards to availability of
+fresh German-style pretzels. In <RBLINK>20080923#6</RBLINK>, I told you
+about "Ester's" German bakery in Mountain View, whose pretzels are decent
+when they come straight out of the oven, but have typically exceeded their
+expiration date when they arrive in stores in San Francisco. They're on
+sale at the local alternative supermarket "Rainbow", but you have to 
+be pretty heavily pretzel deprived to pay nine dollars for five stale
+pretzels. Yet, I take the plunge every now and then.
+
+<pic images/kathi-pretzels-raw.ps Home baker Michael elegantly slings the pretzel dough into shape.>
+
+TODO
 
 Amerikanische Brezen findet man oft in Shopping-Malls in Kettenläden
 wie "Auntie Anne's", aber deren Labberbretzen würde ich nicht mal essen,
