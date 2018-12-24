@@ -2,7 +2,7 @@ San Francisco, den 24.12.2018
 
 @Z: Weihnachten 2018
 
-<pic images/weihnachten-2018.ps >
+<pic images/weihnachten-2018.ps Weihnachten 2018>
 
 <em>Angelika</em>Auch dieses Jahr darf der Weihnachtsrundbrief nicht fehlen.
 Das Jahr war aufregend und ereignisreich. Wir hatten endlich einmal wieder
