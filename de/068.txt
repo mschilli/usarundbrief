@@ -13,65 +13,16 @@ Dort liegt die englische Kolonie Bermuda, eine nur 3km breite
 und 35km lange Tropeninsel mit türkisem Wasser und langen, 
 einsamen Sandstränden.
 
-Bermuda liegt etwa 800 Meilen vor der Ostküste Amerikas im Atlantik.
-Auf der Landkarte 
-<HTMLONLY>unten</HTMLONLY><PRINTONLY>in Abbildung (#3)</PRINTONLY>
-seht ihr drei Markierungen:
-"B" ist Bermuda, "P" die Karibikinsel Puerto Rico 
-und "M" die US-Großstadt Miami.
-Diese drei Punkte bilden das sogenannte Bermudadreieck, um das sich
-zahlreiche Legenden ranken.
+Bermuda liegt etwa 800 Meilen vor der Ostküste Amerikas im Atlantik.  Auf der
+Landkarte in Abbildung (#3) seht ihr, dass die drei Ecken des sogenannten
+Bermuda-Dreiecks auf die amerikanischen Stadt Miami in Florida, die
+Karibikinsel Puerto Rico, sowie die Insel Bermuda im Nordosten zeigen.
+Zahlreiche Legenden um verschollene Schiffe ranken um diesen Teil des
+Atlantiks.
 
-<HTMLONLY>
-<script type="text/javascript">
-function load() {
-  if (GBrowserIsCompatible()) {
-      var baseIcon = new GIcon();
-      baseIcon.shadow = 'http' + '://www.google.com/mapfiles/shadow50.png';
-      baseIcon.iconSize = new GSize(20, 34);
-      baseIcon.shadowSize = new GSize(37, 34);
-      baseIcon.iconAnchor = new GPoint(9, 34);
-      baseIcon.infoWindowAnchor = new GPoint(9, 2);
-      baseIcon.infoShadowAnchor = new GPoint(18, 25);
-      function createMarker(x, y, letter) {
-          var point = new GLatLng(x, y);
-          var icon = new GIcon(baseIcon);
-          icon.image = 'http' + '://www.google.com/mapfiles/marker' +
-                       letter + '.png';
-          var marker = new GMarker(point, icon);
-          return marker;
-      }
-      var map = new GMap2(document.getElementById('map'));
-      map.setCenter(new GLatLng(28.8, -71.10), 3, G_SATELLITE_MAP);
-      map.addControl(new GLargeMapControl());
-      map.addControl(new GMapTypeControl());
-      map.addOverlay(createMarker(32.41, -64.44, 'B'));
-      map.addOverlay(createMarker(18.67, -66.01, 'P'));
-      map.addOverlay(createMarker(25.54, -80.13, 'M'));
-      var polyline1 = new GPolyline([
-        new GLatLng(25.54, -80.13),
-        new GLatLng(32.41, -64.44) ], "#ff0000", 10);
-      map.addOverlay(polyline1);
-      var polyline2 = new GPolyline([
-        new GLatLng(25.54, -80.13),
-        new GLatLng(18.67, -66.01) ], "#ff0000", 10);
-      map.addOverlay(polyline2);
-      var polyline3 = new GPolyline([
-        new GLatLng(32.41, -64.44),
-        new GLatLng(18.67, -66.01) ], "#ff0000", 10);
-      map.addOverlay(polyline3);
-  }
-}
-</script>
+<pic images/bermuda-triangle-wikipedia.ps (#3) Das Bermudadreieck zwischen Miami (links), Puerto Rico (rechts unten) und Bermuda (oben).>
 
-    <div id="map" style="width: 500px; height: 400px"></div>
-</HTMLONLY>
-
-<PRINTONLY>
-<pic images/map.ps (#3) Das Bermudadreieck zwischen Miami (links unten), Puerto Rico (rechts unten) und Bermuda (oben).>
-</PRINTONLY>
-
-Auf Bermuda leben nur etwa 65.000 Leute, aber viel Platz ist dort nicht.
+Auf Bermuda leben nur etwa 65.000 Leute, aber viel Platz ist dort auch nicht.
 Laut Reiseführer wird die Besiedelungsdichte Bermudas nur
 von Ballungszentren wie Hongkong übertroffen. 
 Touristen dürfen kein Auto mieten, sondern nur Motorroller oder sie weichen 
@@ -82,7 +33,7 @@ auf dem Parkplatz zu warten, geht allerdings auf die Nerven und deswegen
 mieteten wir uns ein kleines Moped.
 
 <pic images/scooter.ps Die todesmutigen Rundbriefreporter auf einem geliehenen Moped auf Bermuda.>
-<HTMLONLY><pic images/tscoot.ps Scooter für Touristen bei der Scootervermietungsfirma></HTMLONLY>
+<pic images/tscoot.ps Scooter für Touristen bei der Scootervermietungsfirma>
 
 Das war ein Spaß! Angelika saß hintendrauf und ich bin ja bekanntlich
 in meinen Jugendjahren Motorrad gefahren, sodass es nach einigen haarigen
