@@ -286,7 +286,7 @@ Autos.
 <pic images/smog.ps PERLMANs Abgastestergebnisse sind mitsamt seiner KFZ-Nummer auf dem Internet abrufbar.>
 
 <LINK>http://www.smogcheck.ca.gov/vehtests/pubtstqry.aspx|Auf dem Internet|Kalifornische Abgasuntersuchung Online</LINK> 
-kann man nun die Abgasuntersuchungen kalifornischer Autos
+kann man nun die Abgas\-unter\-suchungen kalifornischer Autos
 öffentlich bestaunen. Man kann sowohl nach Nummernschild als auch
 nach der KFZ-Nummer (VIN = Vehicle Identification Number) suchen.
 Sucht man nach dem Nummerschild, gibt die Website praktischerweise
@@ -329,7 +329,7 @@ der Welt veröffentlichen ihre Doktorarbeiten offensichtlich noch
 nicht im Internet. Hallo, aufwachen!
 
 Allerdings sind wir auch nicht auf den Kopf gefallen.
-Gestützt durch langjährige Forschungsprojekte an den wichtigsten
+Gestützt durch langjährige Forschungsprojekte an den wich\-tigsten
 Stränden der Welt streifen wir heute unsere weißen
 Laborkittel über und behaupten dreist: Der auf amerikanischen
 Sonnencremepackungen angegebene "SPF" entspricht einem ca. 30%
@@ -363,7 +363,7 @@ den Grund zu gehen.
 
 Zunächst
 müsst ihr wissen, dass weder Sudafed noch Sudafed PE in Amerika
-verschreibungspflichtig sind. Nicht rezeptpflichtige Medikamente stehen
+verschreibungspflichtig sind. Nicht re\-zept\-pflichtige Medikamente stehen
 in Amerika in Drogerien und Supermärkten in der Regel wie die Zahnpasta
 einfach im Regal. Der Kunde schnappt sich das Medikament und geht zum
 Bezahlen an eine beliebige Kasse in dem jeweiligen Geschäft. Für
@@ -395,8 +395,8 @@ kann, während Sudafed PE den Wirkstoff Phenylephrin beinhaltet, bei
 dem das nicht funktioniert.
 
 Um zu verhindern, dass Methabhängige Sudafed in großen
-Mengen kaufen, um im Hinterstübchen ihre Droge zusammenzubrauen, ist
-der Kauf von Produkten mit Pseudoephedrin oder auch Ephedrin seit
+Mengen kaufen, um im Hinterstübchen ihre Droge zusammen\-zu\-brauen, ist
+der Kauf von Produkten mit Pseudo\-ephedrin oder auch Ephedrin seit
 neuestem reglementiert in den USA. Das Gesetz "The Combat
 Metham\-pheta\-mine Epidemic Act" machte es auf nationaler Ebene möglich,
 nachdem einige Bundesstaaten schon länger ähnliche Bestimmungen
