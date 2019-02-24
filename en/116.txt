@@ -310,43 +310,46 @@ embedded in the seats to deploy, and even knew about the unusual arm rest on
 protruding from the right side of the driver seat in the Honda Fit. Fits like
 a glove!
 
-TODO
+@Z: Top Product: Kathi's Pretzel Mix
 
-@Z: Toppprodukt: Der Brezelmix von Kathi
-
-<pic images/kath-pretzels-youtube.ps Diese Packung enthält das Rohmaterial für 9 frische Brezen.>
+<pic images/kath-pretzels-youtube.ps This package contains the ingredients for nine freshly baked German pretzels.>
 
 <em>Michael</em>
-Wir leben ja bekanntlich in einer Diaspora, in der es keine
-guten frischen Brezen gibt. In <RBLINK>20080923#6</RBLINK> habe ich schon
-mal die Bäckerei "Esther's" in Mountain View (etwa 56km südlich von uns)
-vorgestellt, die Brezen bäckt, die ganz gut schmecken, falls sie frisch aus
-dem Ofen kommen, aber bereits ihr Haltbarkeitsdatum deutlich überschritten
-haben, wenn sie bei uns oben in San Francisco ankommen. Der
-Öko-Supermarkt Rainbow verkauft sie, aber um neun Dollar für fünf
-altbackene Brezen auszugeben, muss man schon ziemlich ausgehungert sein.
-Ich mache es trotzdem oft.
 
-<pic images/kathi-pretzels-raw.ps Heimbäcker Michael schlingt den Teig gekonnt in Brezenform.>
+As you know, we're living in a dystopian region with regards to availability of
+fresh German-style pretzels. In <RBLINK>20080923#6</RBLINK>, I told you
+about "Ester's" German bakery in Mountain View, whose pretzels are decent
+when they come straight out of the oven, but have typically exceeded their
+expiration date when they arrive in stores in San Francisco. They're on
+sale at the local alternative supermarket "Rainbow", but you have to 
+be pretty heavily pretzel deprived to pay nine dollars for five stale
+pretzels. Yet, I take the plunge every now and then.
 
-Amerikanische Brezen findet man oft in Shopping-Malls in Kettenläden
-wie "Auntie Anne's", aber deren Labberbretzen würde ich nicht mal essen,
-wenn man mir Geld dazugäbe. Zum Backen der knusprigen deutschen Brezen
-braucht man nicht nur einen heißen Ofen, sondern auch spezielle
-braunmachende Lauge, die man als Normalverbraucher gar nicht kaufen kann,
-weil sie in ungebackenem Zustand tatsächlich giftig ist. Mangels
-professionell hergestellter Brezeln habe ich mich deshalb auf die Suche
-nach alternativen Backmethoden gemacht und wurde im Supermarkt "World Market"
-in Daily City fündig, etwa 10km südlich von uns. Dort verkaufen sie
-eine Packung mit "Kathi's Pretzel Mix", die neben einer Mehlmischung,
-Hefe und groben Salzkörnern auch die notwendige Lauge als anfeuchtbares
-Pulver enthält.
+<pic images/kathi-pretzels-raw.ps Home baker Michael elegantly slings the pretzel dough into shape.>
 
-<pic images/kathi-pretzels-done.ps Die fertigen Brezen kommen nach zwanzig Minuten schön knusprig aus dem Backofen.>
+You can find American style pretzels in shopping malls, sold at shops like
+"Auntie Anne's", but I wouldn't eat their yeasty squishy pretzels even if
+they paid me to. Baking crunchy German pretzels requires a hot oven and
+special browning lye, which is only sold to licenced individuals in the U.S.,
+because it is actually poisonous if not baked thoroughly.
+Lacking fresh, proper, professionally-made pretzels in the Bay Area, I went out
+to research alternative production methods, and found that the
+"World Market" chain of supermarkets is selling a do-it-yourself kit labeled 
+"Kathi's Pretzel Mix". It contains a flour mix, yeast, coarse salt, and
+some lye powder, to be turned into baking lye by adding water. 
+I purchased the kit in Daly City, a few miles south of our place, and 
+started baking.
 
-In einem
-<LINK>https://www.youtube.com/watch?v=E164UUBY8Hk|Youtube-Video zum Brezelbacken</LINK> habe ich mit Kamerafrau Angelika festgehalten, wie daraus
-wirklich astreine knusprige Brezen im heimischen Ofen entstehen. Die ganze
+<pic images/kathi-pretzels-done.ps After 20 minutes, the freshly baked crunchy pretzels come out of the oven.>
+
+In a 
+<LINK>https://www.youtube.com/watch?v=E164UUBY8Hk|pretzel-baking Youtube-Video</LINK> I published the results of the procedure, Angelika was holding
+the camera in our kitchen while I kneaded and shaped the dough, and pushed 
+the raw pretzels in the oven.
+
+TODO
+
+Die ganze
 Prozedur mit Teigruhe und Backzeit dauert etwa zwei Stunden, die wichtigsten
 Schritte schneidet das Video in 10 Minuten zusammen. Die Packung mit dem Mix
 kostet 6 Dollar, und hat genug Rohmaterial für etwa neun Brezen. Ich habe
