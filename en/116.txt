@@ -315,7 +315,6 @@ a glove!
 <pic images/kath-pretzels-youtube.ps This package contains the ingredients for nine freshly baked German pretzels.>
 
 <em>Michael</em>
-
 As you know, we're living in a dystopian region with regards to availability of
 fresh German-style pretzels. In <RBLINK>20080923#6</RBLINK>, I told you
 about "Ester's" German bakery in Mountain View, whose pretzels are decent
@@ -361,7 +360,7 @@ the process, there's lots to pick up!
 @Z: California: Minimum Wage and Birth Control Pills
 <pic images/jerry-brown.ps California's governor Jerry Brown Foto: flickr[Steve Rhodes|ari/8162162174]>
 
-<em>Angelika</em>We just went through the last phase of the presidential
+<em>Angelika</em> We just went through the last phase of the presidential
 primary elections here in the United States, while scratching our heads upon
 the fact that Donald Trump won the Republican mandate. At the same time, our
 California governor, Jerry Brown, has signed two different pieces of legislation,
