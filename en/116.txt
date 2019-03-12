@@ -401,33 +401,32 @@ for another one, as since 1990, California only allows two terms per governor,
 for a total of eight years. But by then, he'll be 80 years old, and might want
 to retire anyway.
 
-TODO
-
-@Z: Die 800-Dollar Pickelcreme
+@Z: The $800 Pimple Balm
  
-<pic images/pimple-creme.ps Diese Pickelcreme kostet pro Packung 800 Dollar.>
+<pic images/pimple-creme.ps This pimple-fighting balm costs $800 a piece.>
 
-<em>Angelika</em> Weil meine Haut sich trotz meines fortgeschrittenen Alters
-manchmal noch wie im Teenageralter benimmt, verschrieb mir meine Hautärztin die
-Salbe "Tazorac", die Pickel in Schach hält. Als ich nun bei Walgreens mein
-Rezept einlösen wollte, sagte man mir, dass unsere Krankenkasse die
-verschreibungspflichtige Salbe nur für Patienten übernimmt, die nicht
-älter als 29 Jahre sind. Bin ich leider aber nicht mehr. 
-Ich fragte dann vorsichtig nach, was die Salbe denn kosten würde, und ohne mit der Wimper zu zucken, sagte der Apotheker "800 Dollar".
+<em>Angelika</em>Strangely, even at my fairly advanced age, my skin is still
+behaving as if I was a teenager going through puberty. For this reason, my
+dermatologist recently prescriped a balm named "Tazorac", which keeps pimples
+in check. But, when I wanted to fill the prescription at Walgreen's, the person
+there told me that our health insurance would only pay for it when prescribed to
+patients under the age of 30. Well, bummer, that doesn't apply anymore! So
+I carefully inquired about the cost if I had to pay for it out of pocket, and
+the pharmacist told me without hesitation: "800 Dollars".
 
-Hmm, willkommen in Absurdistan.
-Da die Salbe einen Inhaltsstoff enthält, der
-auch gegen Falten hilft, stuft die Versicherung das Medikament bei 
-Patienten in einem Alter, in dem Falten durchaus vorkommen, 
-als Schönheitsmittelchen ein.
+Welcome to Absurdistan! The balm apparently also contains an ingredient to fight
+wrinkles, and that's the reason why our health insurance company puts it into the
+"beauty" category for patients who are at an age when wrinkles could be an issue.
 
-Also muss der Patient selber zahlen. Aber 800 Dollar für ein
-kleines Tübchen Salbe ist schon etwas verrückt! Der Apotheker meinte dann
-freundlich, dass die Salbe eben ein Markenprodukt sei, und kein Generika. Meine
-Versicherung hat jetzt alternative Salben vorgeschlagen. Da ich eh kein großer
-Freund von Chemiekeulen bin, werde ich miner Haut lieber etwas Gutes mit den
-Naturprodukten von Dr. Hauschka tun. Die sind im Vergleich dazu das reinste
-Schnäppchen.
+And, for this reason, patients must pay for it out of pocket! But, come on, $800 for a small
+tube of balm? That's just plain crazy! Our pharmacist explained that the balm is a brand
+name item, an not a generic product, which are more reasonably priced. And our
+health insurance suggested a number of alternative products. But I'm not a fan
+of treating minor issues with potent pharmaceuticals anyway, so I'll go ahead and try
+treating my skin with a few natural products made by Dr. Hauschka. 
+They're downright bargains in comparison.
+
+TODO
 
 @Z: Surfen mit Kind
 
