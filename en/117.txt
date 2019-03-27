@@ -2,22 +2,21 @@ San Francisco, den 10/30/2016
 
 @Z: Driving Nails into Drywall
 
+<pic images/drywall.ps (#4) Wooden studs with bolted on slates of drywall build the skeleton of most American houses. Foto: flickr[sharpshooter99|sharpshooter99/4684393642]>
+
+<em>Michael</em> In Germany, to put a picture frame up on the wall, renters
+break out the hammer drill, to go through common brick walls like butter, then
+insert a plastic anchor in the hole and a screw, and up goes the frame, solid
+as a rock, forever and a day, regardless of what happens around it. Not so in
+America, where most houses aren't made of bricks, but built by nailing
+half-inch-thick slates of drywall onto wooden 2x4 studs and calling the result
+"house" (figure (#4)).  You might think I'm pulling your leg here, but that's
+the honest truth. It's done this way mostly because it's cheap, but in the San
+Francisco Bay Area it's actually a safety measure, because of the constant
+earthquakes. Wood is flexible and bounces back, while bricks crumble and crush
+occupants.
+
 TODO
-
-<pic images/drywall.ps (#4) Amerikanische Häuser bestehen aus senkrechten Holzbalken ("studs") mit aufgenagelten Platten aus Gipskarton ("drywall"). Foto: flickr[sharpshooter99|sharpshooter99/4684393642]>
-
-<em>Michael</em> Um in Deutschland ein Bild an die Wand zu hängen, packt der
-Heimwerker die Schlagbohrmaschine aus, die wie in Butter ein Loch in die Wand
-haut. Dann einen Dübel und eine Schraube rein, und fertig ist der Lack. Das
-hält so fest, da könnte eine Bombe einschlagen und das Bild hinge immer noch.
-In Amerika sind die Häuser allerdings zumeist nicht aus Ziegelsteinen gebaut.
-Vielmehr besteht ihr Grundgerüst aus senkrechten Holzbalken mit Querschnitt 2x4
-Inch (5cm x 10cm), sogenannten "studs", auf die der Baumeister 1cm dünne
-Platten aus Gipskarton ("drywall") nagelt und das Ergebnis dann "Wand" bzw.
-"Haus" nennt (Abbildung (#4)).  Ihr denkt vielleicht, ich scherze, aber das ist
-die reine Wahrheit, meist aus Kostengründen, aber in der San Francisco Bay Area
-definitiv der Erdbebengefahr geschuldet, denn Holz gibt nach, während Ziegel
-zerbröseln.
 
 Was passiert, wenn man einen Nagel in einen 1cm dicken Karton nagelt und ein
 Bild dranhängt, kann man sich vorstellen: Das hält nicht lang und rumms liegt
