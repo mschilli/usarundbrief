@@ -19,44 +19,7 @@ Anchorage (A) eingeflogen, nach Kenai gefahren (K), runter nach Homer
 (H) und rüber nach Seward (S). Ruckzuck waren 700 Meilen auf dem
 Mietautotacho.
 
-<PRINTONLY><pic images/amap.ps Satellitenbild von Alaska und die Orte, an denen wir waren.></PRINTONLY>
-<HTMLONLY>
-Wenn ihr zweimal hintereinander auf das Minuszeichen links unten klickt, 
-seht ihr, wo auf dem amerikanischen Kontinent wir uns herumgetrieben haben.
-
-<script type="text/javascript">
-function load() {
-  if (GBrowserIsCompatible()) {
-      var baseIcon = new GIcon();
-      baseIcon.shadow = 'http' + '://www.google.com/mapfiles/shadow50.png';
-      baseIcon.iconSize = new GSize(20, 34);
-      baseIcon.shadowSize = new GSize(37, 34);
-      baseIcon.iconAnchor = new GPoint(9, 34);
-      baseIcon.infoWindowAnchor = new GPoint(9, 2);
-      baseIcon.infoShadowAnchor = new GPoint(18, 25);
-      function createMarker(x, y, letter) {
-          var point = new GLatLng(x, y);
-          var icon = new GIcon(baseIcon);
-          icon.image = 'http' + '://www.google.com/mapfiles/marker' + 
-                       letter + '.png';
-          var marker = new GMarker(point, icon);
-          return marker;
-      }
-      var map = new GMap2(document.getElementById('map'));
-      map.setCenter(new GLatLng(64.5, -150.56), 4);
-      map.addControl(new GLargeMapControl());
-      map.addControl(new GMapTypeControl());
-      map.addOverlay(createMarker(61.19, -149.86, 'A'));
-      map.addOverlay(createMarker(60.55, -151.23, 'K'));
-      map.addOverlay(createMarker(59.79, -151.537, 'H'));
-      map.addOverlay(createMarker(60.04, -149.43, 'S'));
-  }
-}
-</script>
-
-    <div id="map" style="width: 500px; height: 400px"></div>
-</script>
-</HTMLONLY>
+<pic images/amap.ps Satellitenbild von Alaska und die Orte, an denen wir waren.>
 
 (<em>Angelika</em>)
 Schon beim Landeanflug auf Anchorage wurde uns klar, wie menschenleer 
