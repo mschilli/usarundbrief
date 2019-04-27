@@ -11,19 +11,7 @@ Bridge nach Marin. Will man nach Osten, fährt man auf die graue
 Bay Bridge nach Oakland. Im Westen liegt der Pazifik und nur nach Süden
 kann man sich ohne Brückenbenutzung von San Francisco entfernen.
 
-<HTMLONLY>
-<script type="text/javascript">
-function load() {
-  if (GBrowserIsCompatible()) {
-      var map = new GMap2(document.getElementById('map'));
-      map.setCenter(new GLatLng(37.7547, -122.4556), 10);
-      map.addControl(new GLargeMapControl());
-      map.addControl(new GMapTypeControl());
-  }
-}
-</script>
-<div id="map" style="width: 440px; height: 300px"></div>
-</HTMLONLY>
+<pic images/peninsula.ps San Francisco liegt am oberen Ende einer Halbinsel.>
 
 Fährt man über eine Brücke aus der Stadt heraus, ist die Benutzung
 kostenlos. Fährt man allerdings stadteinwärts, kostet das nicht nur
