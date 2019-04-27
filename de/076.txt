@@ -28,48 +28,7 @@ Goldgräberausrüstung. Schiffe brachten die
 sogenannten "Stampeder" (von stampede = trampelnde Büffelherde)
 dann von Seattle im Nordwesten der USA hoch bis nach Alaska. 
 
-<HTMLONLY>
-<script type="text/javascript">
-function load() {
-  if (GBrowserIsCompatible()) {
-      var baseIcon = new GIcon();
-      baseIcon.shadow = 'http' + '://www.google.com/mapfiles/shadow50.png';
-      baseIcon.iconSize = new GSize(20, 34);
-      baseIcon.shadowSize = new GSize(37, 34);
-      baseIcon.iconAnchor = new GPoint(9, 34);
-      baseIcon.infoWindowAnchor = new GPoint(9, 2);
-      baseIcon.infoShadowAnchor = new GPoint(18, 25);
-      function createMarker(x, y, letter) {
-          var point = new GLatLng(x, y);
-          var icon = new GIcon(baseIcon);
-          icon.image = 'http' + '://www.google.com/mapfiles/marker' +
-                       letter + '.png';
-          var marker = new GMarker(point, icon);
-          return marker;
-      }
-      var map = new GMap2(document.getElementById('map'));
-      map.setCenter(new GLatLng(57.5, -125), 4);
-      map.addControl(new GLargeMapControl());
-      map.addControl(new GMapTypeControl());
-      map.addOverlay(createMarker(64.06, -139.43, 'D'));
-      map.addOverlay(createMarker(47.50, -122.30, 'S'));
-      map.addOverlay(createMarker(59.50, -135.30, 'X'));
-  }
-}
-</script>
-
-    <div id="map" style="width: 500px; height: 400px"></div>
-
-<B>
-Von Seattle (S) machten sich die Goldgräber mit dem Schiff auf nach 
-Alaska, landeten in Skagway oder Dyea (X), und dann ging's zu Fuß und mit 
-dem Floß auf dem Klondike River nach Dawson City (D) im Yukon-Territory.
-</B>
-<P>
-</HTMLONLY>
-<PRINTONLY>
 <pic images/map.ps Von Seattle (S) machten sich die Goldgräber mit dem Schiff auf nach Alaska, landeten in Skagway oder Dyea (X), und dann ging's zu Fuß und mit dem Floß auf dem Klondike River nach Dawson City (D) im Yukon-Territory.>
-</PRINTONLY>
 
 In Skagway und <LINK>http://en.wikipedia.org/wiki/Dyea|Dyea</LINK> 
 (gesprochen: "Dei-ii"), zwei Flecken auf der
