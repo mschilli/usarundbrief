@@ -121,39 +121,7 @@ gestrichelten Mittelstreifen! Selbst das Space Shuttle braucht
 nur etwa die Hälfte der Strecke zum Landen, auf dem Groom Lake können also
 Flugobjekte mit affenartiger Geschwindigkeit landen.
 
-<PRINTONLY>
 <pic images/a51browse.ps (#4) Der "Groom Lake" auf dem Satellitenfoto.>
-</PRINTONLY>
-
-<HTMLONLY>
-<script type="text/javascript">
-function load() {
-  if (GBrowserIsCompatible()) {
-      var baseIcon = new GIcon();
-      baseIcon.shadow = 'http' + '://www.google.com/mapfiles/shadow50.png';
-      baseIcon.iconSize = new GSize(20, 34);
-      baseIcon.shadowSize = new GSize(37, 34);
-      baseIcon.iconAnchor = new GPoint(9, 34);
-      baseIcon.infoWindowAnchor = new GPoint(9, 2);
-      baseIcon.infoShadowAnchor = new GPoint(18, 25);
-      function createMarker(x, y, letter) {
-          var point = new GLatLng(x, y);
-          var icon = new GIcon(baseIcon);
-          icon.image = 'http' + '://www.google.com/mapfiles/marker' +
-                       letter + '.png';
-          var marker = new GMarker(point, icon);
-          return marker;
-      }
-      var map = new GMap2(document.getElementById('map'));
-      map.setCenter(new GLatLng(37.24, -115.81), 11, G_SATELLITE_MAP);
-      map.addControl(new GLargeMapControl());
-      map.addControl(new GMapTypeControl());
-  }
-}
-</script>
-
-    <div id="map" style="width: 500px; height: 400px"></div>
-</HTMLONLY>
 
 Die Angestellten der Area 51 werden übrigens täglich von Las Vegas
 eingeflogen. Auf dem dortigen McCarren-Airport gibt es ein kleines von
