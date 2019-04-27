@@ -537,12 +537,7 @@ befindet sich in der Nähe des Ortes Truckee und ist
 etwas über 4 km lang und 1 km breit, mit einer angeblich etwas
 angenehmerer Wassertemperatur als der Lake Tahoe.
 
-<HTMLONLY>
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=d&amp;source=s_d&amp;saddr=24th+St+%26+Church+St,+San+Francisco,+CA+94114&amp;daddr=Donner+Lake,+Truckee,+CA&amp;hl=en&amp;geocode=FZkLQAId0-ez-Cmr9XXdFH6PgDFv49CGEuO2lQ%3BFVIBWAIdw-nU-CnNatUd-N2bgDFnGh3x0Wet4w&amp;mra=ls&amp;sll=37.751705,-122.427437&amp;sspn=0.020841,0.014441&amp;ie=UTF8&amp;ll=38.547245,-121.345805&amp;spn=1.59109,2.16327&amp;output=embed"></iframe><br />
-</HTMLONLY>
-<PRINTONLY>
 <pic images/sf-tahoe.ps Der lange Weg nach Tahoe.>
-</PRINTONLY>
 
 Der See verdankt seinen Namen der Donner-Truppe, einer Gruppe von
 Pionieren, die ihr Glück in Kalifornien suchte, aber kläglich an
