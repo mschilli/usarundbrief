@@ -289,8 +289,7 @@ errichtet, und der ins Tal hineinfließende Tuolumne River füllte
 das Tal bis zum Rand mit Wasser auf. Das kostbare Nass gelangt über ein
 komplexes System von Pipelines und Tunnels nach San Francisco und die
 umliegende Bay Area.
-Auf der <LINK>http://www.creatf.com/hetchy/watershedtour.html|Webseite des
-Wasserwerks</LINK> könnt ihr genau sehen, wie das Ganze funktioniert.
+Auf der <LINK>http://www.creatf.com/hetchy/watershedtour.html|Webseite des Wasserwerks</LINK> könnt ihr genau sehen, wie das Ganze funktioniert.
 
 <pic images/hetch-hetchy-openstreetmap.ps Lage des O'Shaughnessy-Staudamms, der das Wasser für San Francisco im Yosemite-Nationalpark aufstaut.>
 
