@@ -292,7 +292,7 @@ umliegende Bay Area.
 Auf der <LINK>http://www.creatf.com/hetchy/watershedtour.html|Webseite des
 Wasserwerks</LINK> könnt ihr genau sehen, wie das Ganze funktioniert.
 
-<pic images/hetch-hetchy-openstreemap.ps Lage des O'Shaughnessy-Staudamms, der das Wasser für San Francisco im Yosemite-Nationalpark aufstaut.>
+<pic images/hetch-hetchy-openstreetmap.ps Lage des O'Shaughnessy-Staudamms, der das Wasser für San Francisco im Yosemite-Nationalpark aufstaut.>
 
 Im Sommer leert sich das Becken dann zunehmend, aber der Winterregen 
 füllt das Reservoir wieder auf. Vor ein paar Jahren hat es mal
