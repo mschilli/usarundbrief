@@ -292,41 +292,7 @@ umliegende Bay Area.
 Auf der <LINK>http://www.creatf.com/hetchy/watershedtour.html|Webseite des
 Wasserwerks</LINK> könnt ihr genau sehen, wie das Ganze funktioniert.
 
-<HTMLONLY>
-<script type="text/javascript">
-function load() {
-  if (GBrowserIsCompatible()) {
-      var baseIcon = new GIcon();
-      baseIcon.shadow = 'http' + '://www.google.com/mapfiles/shadow50.png';
-      baseIcon.iconSize = new GSize(20, 34);
-      baseIcon.shadowSize = new GSize(37, 34);
-      baseIcon.iconAnchor = new GPoint(9, 34);
-      baseIcon.infoWindowAnchor = new GPoint(9, 2);
-      baseIcon.infoShadowAnchor = new GPoint(18, 25);
-      function createMarker(x, y, letter) {
-          var point = new GLatLng(x, y);
-          var icon = new GIcon(baseIcon);
-          icon.image = 'http' + '://www.google.com/mapfiles/marker' + 
-                       letter + '.png';
-          var marker = new GMarker(point, icon);
-          return marker;
-      }
-      var map = new GMap2(document.getElementById('map'));
-      map.setCenter(new GLatLng(37.947228, -119.787869), 16, G_SATELLITE_MAP);
-      map.addControl(new GLargeMapControl());
-      map.addControl(new GMapTypeControl());
-      map.addOverlay(createMarker(37.947728, -119.788369, "A"));
-  }
-}
-</script>
-
-<TABLE>
-<TR>
-    <div id="map" style="width: 500px; height: 300px"></div>
-</TR><B>Der O'Shaughnessy-Staudamm, der das Wasser für San Francisco im Yosemite-Nationalpark aufstaut.</B><TR>
-</TR></TABLE>
-</script>
-</HTMLONLY>
+<pic images/hetch-hetchy-openstreemap.ps Lage des O'Shaughnessy-Staudamms, der das Wasser für San Francisco im Yosemite-Nationalpark aufstaut.>
 
 Im Sommer leert sich das Becken dann zunehmend, aber der Winterregen 
 füllt das Reservoir wieder auf. Vor ein paar Jahren hat es mal
