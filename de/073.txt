@@ -505,11 +505,7 @@ Namen des Viertels hören, würden dort unter keinen Umständen hineinfahren
 und raten jedem Neuankömmling dringend davon ab, sich der Gegend auch
 nur zu nähern.
 
-<HTMLONLY>
-<iframe width="425" height="350" frameborder="0" scrolling="no"
-marginheight="0" marginwidth="0"
-src="http://maps.google.com/maps?f=q&amp;hl=en&amp;geocode=&amp;time=&amp;date=&amp;ttype=&amp;q=hunters+point,+san+francisco,+ca&amp;ie=UTF8&amp;t=p&amp;om=0&amp;s=AARTsJrpkPGvMcUO1nT88K1a4DsdM0QUYQ&amp;ll=37.76393,-122.35611&amp;spn=0.094994,0.145912&amp;z=12&amp;iwloc=addr&amp;output=embed"></iframe>
-</HTMLONLY>
+<pic images/hunters-point-sf-openstreetmap.ps Hunters Point liegt am südöstlichen Stadtrand San Franciscos.>
 
 Das Buch zu Bayview/Hunters Point (Abbildung (#3)) aus der 
 bekannten Stadtteil-Reihe, die jedem Viertel San Franciscos 
