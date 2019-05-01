@@ -430,6 +430,8 @@ Lebensmittel zu kaufen gibt.
 
 <pic images/lucca-1.ps So richtig uritalienisch preist der Laden seine Spezialitäten auf handgemalten Schildern an.>
 
+<pic images/lucca-anchovies.ps Die Sardellen lagern in einer der rostigsten Dosen Amerikas.>
+
 Der Laden ist klein, verfügt aber über eine lange Wurst- und Käsetheke, die
 sich durch den  ganzen Laden zieht. Hinter der Theke stehen Verkäufer in weißen
 Kitteln und mit weißen Häubchen auf dem Kopf, die ihr Handwerk noch verstehen.
