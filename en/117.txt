@@ -16,20 +16,20 @@ Francisco Bay Area it's actually a safety measure, because of the constant
 earthquakes. Wood is flexible and bounces back, while bricks crumble and crush
 occupants.
 
+You can imagine what happens to a picture frame hanging by a single nail
+sticking in a half-inch thick cardboard: It won't last long on the wall and
+will drop sooner or later when the nail loses its grip. Living in such a
+house of cards, instead of simply driving the nail into the drywall, you need
+to find the vertical wooden stud the drywall was nailed onto, to drive the
+nail through the drywall and right into the wooden stud, where it sits
+rock-solid. But how do you find these studs, which are hidden invisibly in
+the wall, spaced out with 16 inches in between them? You can't look through
+the drywall, obviously, but this is the country of great inventions, which is
+why you can find gadgets at every hardware store to solve the problem.
+
+<pic images/studfinder.ps Electric (upper picture) and magnetic (lower picture) stud finders.>
+
 TODO
-
-Was passiert, wenn man einen Nagel in einen 1cm dicken Karton nagelt und ein
-Bild dranhängt, kann man sich vorstellen: Das hält nicht lang und rumms liegt
-das Bild am Boden, weil der Nagel wieder rausfällt. Um nun in einem solchen
-Kartenhaus einen Nagel so einzuhauen, dass er auch fest sitzt, muss der
-Heimwerker eine Stelle finden, an der der Gipskarton an den Holzbalken genagelt
-wurde, dann geht der Nagel in den Balken und hält bombenfest. Doch wie findet
-man diese Stellen, wo zwischen zwei "studs" hinter der "drywall" immer 16
-inches (40cm) Abstand liegen? Durch den Karton durchschauen kann man freilich 
-nicht, aber im Land des ungebremsten Erfindungsreichtums kann man Geräte 
-kaufen, die das Problem lösen.
-
-<pic images/studfinder.ps Elektrischer (oben) und magnetischer (unten) Stud Finder.>
 
 Sogenannte "Stud Finder" messen mit Sonden in die Wand hinein und leuchten auf,
 falls der Heimwerker sie gerade über einen Balken hält. Die elektrische
