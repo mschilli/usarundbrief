@@ -29,36 +29,36 @@ why you can find gadgets at every hardware store to solve the problem.
 
 <pic images/studfinder.ps Electric (upper picture) and magnetic (lower picture) stud finders.>
 
+So-called "stud finders" probe the wall and light up when they detect a stud
+inside. The electrical variant works similar to a metal detector and starts
+blinking if the location is suitable for driving in a nail or screw. However,
+less commonly known, but a lot cheaper and even more effective are magnetic
+variants of the tool.  They make use of the fact that studs usually contain
+metal nails spaced out evently, after all, someone must have nailed drywall
+sheets onto them when the house was built. These magnetic tools don't need a
+battery, they simply use a strong magnet which gets pulled towards metal in
+the wall, making the tool stick to the wall in locations where there's both a
+nail and a stud underneath.  Genius! And it's very handy if you want to mark
+the stud location with a pencil on the wall. Since you don't know how far the
+nails are up or down the stud, drawing S-figures with the tool will sooner or
+later reveal a nail, and therefore the location of the stud it was hammered
+into.  Now another nail or screw can be hammered into the wall above or below
+the trigger location and it is then guaranteed to land in the sturdy stud and
+not some loose piece of drywall.
+
+I can recommend two devices I've had good success with: The Franklin
+ProSensor 710+ is quite expensive at \$50, and therefore only within reach
+for high rollers like myself, but I like its row of LEDs and how some of
+them light up in a moving pattern while you move over the wall, indicating
+where the stud is located at. But really all you need is a magnetic
+stud finder which only costs around \$10, like the "CH Hanson 03040". As
+the tool sticks to the wall when it finds a nail, you can use its sides as
+a ruler while you mark the position with a pencil, or start drilling right
+away. Stay away from devices made by "Zircon", I've found that they give
+lots of false positives and the correlation between the device blinking
+and a stud being present is random at best.
+
 TODO
-
-Sogenannte "Stud Finder" messen mit Sonden in die Wand hinein und leuchten auf,
-falls der Heimwerker sie gerade über einen Balken hält. Die elektrische
-Variante funktioniert dabei ähnlich wie ein Metallsuchgerät und blinkt auf,
-falls sich die aktuelle Wandposition zum Einschlagen eines Nagels oder zum
-Eindrehen einer Schraube eignet. Weniger bekannt, viel billiger, aber fast noch
-wirksamer sind die magnetischen Varianten, die es sich zunutze machen, dass
-sich in den Balken in regelmäßigen Abständen Nägel befinden, schließlich wurde
-der Gipskarton beim Hausbau minutiös aufgenagelt. Sie brauchen keine Batterie,
-verfügen nur über einen extrem starken Magneten, und bleiben wegen der
-Anziehungskraft gleich an der Stelle an der Wand kleben, an der sich zugleich
-ein Nagel und ein Balken befinden. Genial! Man muss zwar S-förmig herumsuchen,
-bis man eine solche Stelle findet, aber schlägt der Magnet an, gibt's keinen
-Zweifel, dass unter der Wand ein Stück Metall ist, und man kann genau auf den
-senkrechten Verlauf des Holzbalkens schließen und den Nagel entsprechend weiter
-oben oder unten einklopfen.
-
-Zwei dieser Geräte kann ich empfehlen: Der Franklin ProSensor 710+ ist mit
-seinen fast 50 Dollar Anschaffungspreis eigentlich nur für High Roller wie mich
-gedacht, aber ich finde seine Anzeige mit den Leuchtdioden, von denen
-diejenigen aufleuchten, hinter denen der Balken ist, wirklich gelungen.
-Letztlich reicht aber ein magnetischer Stud Finder, wie der "CH Hanson 03040"
-für zehn Dollar völlig aus, er hat sogar den Vorteil, dass er an der Wand über
-dem Stud-Nagel haften bleibt und der Heimwerker so in Ruhe mit einem Bleistift
-die gewünschte Nagel- oder Schraubenposition markieren oder sogar gleich
-loshämmern oder -bohren kann.  Fern halten würde ich mich von allen Geräten der
-Firma Zircon.  Die produzieren zwar reichlich Blinksignale, die allerdings 
-meiner Erfahrung nach nur rein zufällig mit richtigen Streben in Verbindung
-stehen.
 
 @Z: Wundersalbe Aquaphor
  
