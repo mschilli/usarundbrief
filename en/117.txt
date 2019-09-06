@@ -58,35 +58,32 @@ away. Stay away from devices made by "Zircon", I've found that they give
 lots of false positives and the correlation between the device blinking
 and a stud being present is random at best.
 
-TODO
-
-@Z: Wundersalbe Aquaphor
+@Z: Miracle Balm Aquaphor
  
-<pic images/aquaphor-balm.ps Die Wundersalbe, die Wunden schneller heilen lässt.>
+<pic images/aquaphor-balm.ps The Miracle Balm which lets wounds heal faster.>
 
-<em>Michael</em>
-Als unsere Hautärztin mir neulich ein Furunkel am Haaransatz herausschnitt
-und dabei ein beachtliches Loch in der Haut hinterließ, drückte sie mir 
-anschließend eine Probepackung einer Salbe in die Hand, mit der Anweisung,
-diese ein paarmal täglich auf die Wunde aufzutragen. Ich tat wie 
-geheißen und stellte erstaunt fest, dass das Loch binnen weniger Tage
-dermaßen sauber verheilt war, dass man kaum noch sah, wo es einst
-gewesen war.
+<em>Michael</em> When our dermatologist recently cut out a mole next to my
+hairline and left an astonishing big hole, she also handed me a sample package
+with some balm, and told me to apply it to the wound a few times a day. I
+followed the instructions to the letter and witnessed with surprise that the
+hole healed within a few days in such an amazing way so that I could hardly
+tell where it had been before.
 
-Ei der Daus! dachte ich, das ist ja eine neue Wundersalbe, sollte es
-in der jahrhundertealten Salben- und Balsamdoktorei heutzutage
-tatsächlich noch bahnbrechende Verbesserungen geben? Anscheinend schon,
-denn als ich neulich vom Skateboard fiel, wie eine Katze in der Luft
-herumwirbelte und auf allen Vieren auf dem Gehweg landete,  zog ich
-mir eine böse Schramme am Handballen zu, die ich ebenfalls sofort daheim
-mit der Wundersalbe einbalsamierte. Drei Tage später war die relativ tiefe
-Wunde vollkommen verheilt und eine Woche später war sie narbenfrei 
-zugewachsen. Die normalerweise in Amerika erhältlichen Wundpäparate 
-wie Neosporen schnupft diese neue Killersalbe um Längen. "Aquaphor" heißt
-sie, und wird nicht nur von führenden Dermatologen, sondern hiermit auch 
-von mir mit meinem, äh, aktiven Life-Style empfohlen. Soll übrigens
-eine deutsche Firma sein, Aquaphor, da schau her!
+"I'll be damned", I thought to myself, "that must be a new miracle balm, could
+it be, that after thousands of years of ongoing research in the field of balms
+and ointments, we're now all of a sudden lucky to witness a significant medical
+breakthrough?" It certainly seems like it, because when I recently fell off
+my skateboard, and routinely swiveled around in the air like a cat to land on
+all four paws, and suffered a bad scratch on the palm of my hand, I immediately
+applied the miracle balm to it when I got home. Three days later, the wound had 
+healed perfectly without leaving a scar. This new killer ointment simply blows
+regular American balms like "Neosporen" right out of the water. It's called
+"Aquaphor" and it is not only recommended by leading dermatologists, but also
+by myself with my somewhat, erm, active lifestyle. Rumor has it that Aquaphor
+is made by a German company, well, what a surprise!
 
+TODO
+ 
 @Z: Poke-Invasion
 
 <pic images/poke-bowl-stand.ps Ein kleiner Poke-Stand an der Market Street.>
