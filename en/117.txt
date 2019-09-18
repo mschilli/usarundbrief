@@ -97,22 +97,22 @@ Those are tiny places, comparable to mom and pop takeout places in Germany.
 Seating is strictly limited, and there's no table service, instead customers
 order directly at the counter.
 
-<pic images/poke-bowl-2.ps A Poke Bowl with salad.>
+<pic images/poke-bowl-2.ps A Poke bowl with salad.>
+
+This particular location let us customize our Poke bowl. Traditionally, on
+Hawaii, it comes with a bed of rice, topped with the raw marinated fish. When
+we ordered Poke bowls at "Poke Delish" in the Castro neighborhood, we were able
+to choose between rice or salad, and three different kinds of fish in
+combination with various sauces. Up to three different selections were
+permitted, and finally various toppings, like green onions, sea weed salad,
+pickled ginger, flying fish roe (Tobiko) and Edamame. We both enjoyed our Poke
+bowls! I'm not sure how many Poke locations can coexist in the city while still
+making a profit, and how long the trend will continue. But even if it goes out
+of style one day, we'll still have Hawaii, where Poke is part of the culture
+and will live on forever.
 
 TODO
  
-Dabei kreiert der Kunde seine eigene Fischschüssel ("Poke Bowl"). Traditionell
-kommt in Hawaii unter den rohen eingemachten Fisch Reis. Als wir hier Poke in
-dem kleinen Laden "Poke Delish" im Castro-Viertel aßen, konnten wir zwischen
-Reis und Salat auswählen und dann den rohen angemachten  Fisch mit
-entsprechenden Saucen auswählen, bis zu drei verschiedene Sorten waren erlaubt.
-Zum Schluss ging es ans Garnieren: Frühlingszwiebeln, Seetangsalat, eingelegten
-Ingwer, Sesamkörner, Rogen von fliegenden Fischen (Tobiko) und Edamame
-(Stängelbohnenkerne) standen zur Auswahl. Die Poke-Bowl hat uns gemundet.
-Fraglich bleibt, wie viele Pokeläden eine Stadt braucht und wie lange der Trend
-anhält. Aber selbst wenn Poke in San Francisco nicht mehr angesagt ist, bleibt
-uns immer noch Hawaii, denn da gibt es Poke schon seit ewigen Zeiten.
-
 @Z: Parkgebühren in Las  Vegas
  
 <pic images/las-vegas-flight.ps Im Freitagabend-Partyflugzeug nach Las Vegas.>
