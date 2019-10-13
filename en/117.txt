@@ -111,26 +111,27 @@ making a profit, and how long the trend will continue. But even if it goes out
 of style one day, we'll still have Hawaii, where Poke is part of the culture
 and will live on forever.
 
-TODO
+@Z: Parking Fees in Las Vegas
  
-@Z: Parkgebühren in Las  Vegas
- 
-<pic images/las-vegas-flight.ps Im Freitagabend-Partyflugzeug nach Las Vegas.>
+<pic images/las-vegas-flight.ps Boarding the Friday night party jet to Las Vegas.>
 
-<em>Angelika</em> Aufmerksame Leser des Rundbriefs wissen, dass Michael und ich
-uns vor langer Zeit in Las Vegas in einer Autovermietungsfirma kennengelernt
-haben und da bei uns dieses Jahr ein rundes, besonderes Jubiläum anstand, zog
-es uns natürlich in die Glitzerstadt in der Wüste, um unseren Hochzeitstag zu
-feiern. Da sich Las Vegas immer wieder neu erfindet, hat es sich über die Jahre
-dramatisch verändert. Aus dem Hotelbilligparadies mit "All You Can Eat" Buffets
-ist ein Hort der Luxushotels und Gourmetrestaurants geworden. Casinos gibt es
-natürlich noch immer, aber die werfen nicht mehr soviel Geld ab wie früher und
-so versucht man dem Besucher auf anderen Wegen das Geld aus der Tasche zu
-ziehen. 
+<em>Angelika</em> Attentive readers of this publication already know  that many
+many years ago, Michael and I met in a car rental agency in Las Vegas, and
+since this year we're celebrating a very special anniversary, we returned to
+the glamorous city in the desert on this occasion. Las Vegas has been
+constantly reinventing itself over the years, and therefore has changed quite a
+bit from the olden days.  Yesteryear's cheap hotel paradise with
+all-you-can-eat buffets galore made room for luxury resorts and gourmet
+restaurants. Of course, there's still plenty of casinos around, but those
+apparently aren't the gold mines they used to be anymore, and so the
+entertainment industry tycoons there have invented new ways to separate
+tourists from their hard earned dollars.
 
 <HTMLONLY>
-<pic images/las-vegas-airport.ps Ankunft um Mitternacht am Flughafen in Las Vegas.>
+<pic images/las-vegas-airport.ps Arriving at Las Vegas air port at midnight.>
 </HTMLONLY>
+
+TODO
 
 Dabei hat sich auch die Tendenz durchgesetzt, für alles und jedes Gebühren zu
 nehmen. Von der Fliegerei kennen wir das ja schon zur Genüge: Gepäckstücke sind
