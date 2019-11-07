@@ -131,22 +131,19 @@ tourists from their hard earned dollars.
 <pic images/las-vegas-airport.ps Arriving at Las Vegas air port at midnight.>
 </HTMLONLY>
 
+There's an ongoing theme in the money-grubbing game played by the casinos
+lately, and it's to take money for the most ridiculous things. You might be
+familiar with this scheme when flying major US airlines: Paying for checked in
+luggage, extra fees for seats with more leg room, non-free meals on domestic
+flights, or paying for the privilege to pick your own seat on international
+Lufthansa flights to avoid getting assigned a random one. But who wants to be
+squeezed into the middle seat of a row of five on a 12 hour flight? There's
+lots of moaning and gnashing of teeth, but in the end, customers pay up.
+
+<pic images/las-vegas-vdara-night.ps Room with a view in the Las Vegas Vdara hotel.>
+<pic images/las-vegas-lyft.ps Las Vegas hotels introduced extra lanes for Uber and Lyft rideshare services.>
+
 TODO
-
-Dabei hat sich auch die Tendenz durchgesetzt, für alles und jedes Gebühren zu
-nehmen. Von der Fliegerei kennen wir das ja schon zur Genüge: Gepäckstücke sind
-extra zu bezahlen, bessere Plätze mit mehr Beinfreiheit sowieso, Essen auf
-Inlandsflügen gibt es schon lange nur noch gegen Bezahlung und bei der
-Lufthansa und einigen anderen Fluggesellschaften zahlt der Kunde auf
-internationalen Flügen pro Mann $35 pro Weg, für das Privileg, sich einen Platz
-auszusuchen und nicht zugewiesen zu bekommen. Aber wer will schon bei einem
-zehn bis zwölf Stunden langen Flug eingequetscht in der Mitte der Fünferreihe
-sitzen?  Also zahlt man zähneknirschend.
-
-<HTMLONLY>
-<pic images/las-vegas-vdara-night.ps Zimmerblick im Vdara-Hotel in Las Vegas.>
-<pic images/las-vegas-lyft.ps Die Hotels haben jetzt schon Fahrspuren für Uber- und Lyft-Taxis.>
-</HTMLONLY>
 
 Die meisten Hotels am Las Vegas Strip erheben seit geraumer Zeit die 
 sogenannte Resortgebühr. Für Beträge zwischen $20 bis $32 pro Nacht erhält
