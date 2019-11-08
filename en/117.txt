@@ -143,21 +143,19 @@ lots of moaning and gnashing of teeth, but in the end, customers pay up.
 <pic images/las-vegas-vdara-night.ps Room with a view in the Las Vegas Vdara hotel.>
 <pic images/las-vegas-lyft.ps Las Vegas hotels introduced extra lanes for Uber and Lyft rideshare services.>
 
+Most hotels on the Las Vegas Strip have been charging the so-called resort fee
+for quite a while now. They're slapping between $20 and $32 per night onto the
+room bill without actually providing value for the customer, because hardly
+anyone uses the pool, the fitness center oder the spa. And guests have no
+choice anyway, because the fee is mandatory for all guests, whether they ever set
+foot in those areas or not. Hotels could of course just as well add the fee to the
+published price for the room per night, but they'd rather advertise a lower
+price and then add hidden fees when customers click to buy.
+
+<pic images/vdara-valet.ps A valet parking ticket for the Vdara hotel in Las Vegas.>
+ 
 TODO
 
-Die meisten Hotels am Las Vegas Strip erheben seit geraumer Zeit die 
-sogenannte Resortgebühr. Für Beträge zwischen $20 bis $32 pro Nacht erhält
-der Hotelgast eigentlich keine Gegenleistung, weil kaum jemand 
-den Pool, das Fitnesscenter oder die Wellnessbereiche überhaupt benutzt. 
-Allerdings hat der Gast keine Wahl, die Gebühr wird in jedem Fall
-fällig, ob er nun will oder nicht. Die Gebühr könnten die Hotels
-natürlich auch gleich in den Übernachtungspreis mit einarbeiten und die
-Gesamtsumme ausschreiben, aber es macht sich natürlich besser, 
-den Hotelpreis optisch zu senken und dann alle möglichen versteckten 
-Gebühren draufzuschlagen.
-
-<pic images/vdara-valet.ps Ein Valet-Ticket für's Vdara-Hotel in Las Vegas.>
- 
 Scheinbar beschäftigen die Casinos in Las Vegas eine ganze Hehrschar von
 Pfennigfuchsern, die sich nur damit beschäftigen, neue Gebühren zu erfinden,
 die der Kunde zähneknirschend berappt, weil er keine Wahl hat. Und siehe da,
