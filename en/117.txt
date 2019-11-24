@@ -154,17 +154,17 @@ price and then add hidden fees when customers click to buy.
 
 <pic images/vdara-valet.ps A valet parking ticket for the Vdara hotel in Las Vegas.>
  
+My guess is that major Las Vegas Casinos are employing armies of bean counters whose
+only job it is to invent new fees for guests who grudgingly just pay them because
+they have no other choice. And, low and behold, last time we were in Las
+Vegas in September, the first Casinos started charging for parking. Until
+then, the Casino mantra appeared to be to focus on attracting
+as many guests as possible, by making their arrival as easy and swift
+as possible. Both valet and self parking were free of charge for that reason.
+
+<pic images/las-vegas-view.ps Paying extra scores guests a room with a view.>
+
 TODO
-
-Scheinbar beschäftigen die Casinos in Las Vegas eine ganze Hehrschar von
-Pfennigfuchsern, die sich nur damit beschäftigen, neue Gebühren zu erfinden,
-die der Kunde zähneknirschend berappt, weil er keine Wahl hat. Und siehe da,
-als wir dieses Mal im September in Las Vegas waren, fingen die ersten
-Casinos/Hotels am Strip an, Parkgebühren zu erheben. Bis dato wollten die
-Casinos möglichst viele Gäste anlocken und gestalteten die Anfahrt möglichst
-bequem. Selbstparken und Valetparken waren deshalb kostenfrei. 
-
-<pic images/las-vegas-view.ps Für ordentlich Geld gibt's auch ein Zimmer mit Aussicht.>
 
 Seit Juni 2016 zahlt der Besucher aber in
 allen Casinos/Hotels, die zur MGM-Gruppe gehören (Aria, Bellagio, Circus
