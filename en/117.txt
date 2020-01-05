@@ -173,45 +173,43 @@ It remains to be seen if other casinos follow suit, like those of the Wynn group
 I'm afraid that they will. As we've seen with air travel luggage fees, it's
 always the competitor with low advertised prices and hidden fees that makes the deal.
 
-TODO
-
 @Z: Raku Las Vegas
  
-<pic images/raku-las-vegas.ps Ein japanisches Restaurant der Spitzenklasse in Las Vegas.>
+<pic images/raku-las-vegas.ps An excellent Japanese restaurant in Las Vegas.>
 
-<em>Angelika</em> Wir sind ja große Fans der japanischen Küche. Ich könnte
-bekanntlich jeden Tag Sushi oder andere japanische Delikatessen essen, worüber
-Michael so manches Mal stöhnt: "Schon wieder Sushi". Wir sind in San Francisco
-wirklich verwöhnt, wenn es um gutes Sushi oder japanische Hausmannskost wie
-Udonsuppe geht. Da die meisten japanischen Restaurants am Las Vegas Strip
-hoffnungslos überteuert sind, zieht es uns bei unserem jährlichen Kurzurlaub in
-der Spielerstadt immer mehr in andere Stadtteile, um günstiger und besser zu
-essen. 
+<em>Angelika</em>As you know, we are great fans of Japanese cuisine. I personally
+could eat sushi or other Japanese delicacies every single day, to the point
+where Michael readily complains: "Sushi, again?!" Now, we are somewhat
+spoiled with an abundance of sushi or Japanese homecooking available
+in San Francisco, and restaurants in Las Vegas are hopelessly overpriced. This
+is why we're often drawn to off-strip locations during our yearly visit, as
+these restaurants in different Las Vegas neighborhoods offer better food quality
+for the price.
 
-Michaels Arbeitskollege hatte auf Facebook von einem japanischen Restaurants
-namens <LINK>http://raku-grill.com/grill/index.htm|Raku</LINK> geschwärmt, das
-sich in einer unscheinbaren Ladenpassage im Spring-Valley-Bezirk von Las Vegas an
-der West Spring Mountain Road befindet. Das mussten wir natürlich ausprobieren
-und fuhren mit einem Lyft-Taxi in zehn Minuten hin.
+Michael's colleague at work had been raving about a Japanese place called
+<LINK>http://raku-grill.com/grill/index.htm|Raku</LINK>, located in an undescript 
+mall on Spring Mountain Road in the Spring Valley neighborhood. We had to try 
+it out and took a Lyft cab for the 10 minute ride. Raku offers an excellent
+variety of delicacies, mainly scewers from a wood-fired grill (yakitori),
+sashimi, but also home made tofu. We had grilled pork cheek scewers, raw
+kobe beef liver, a poached egg with Uni (sea urchin), and ikura (salmon roe).
+Raku isn't exactly cheap either, but the amazing quality of all dishes served
+was well worth every penny. It's still mouth watering when I'm thinking about
+it now.
 
-Das Raku bietet sehr außergewöhnliche Spezialitäten, haupt\-sächlich Spieße vom
-Holzkohlegrill (Yakitori), Sashimi (roher Fisch), aber auch selbst\-gemachten
-Tofu. So aßen wir zum Beispiel gegrillte Schweine\-backen am Spieß, rohe
-Kobe-Rindsleber, sowie ein pochiertes Ei mit Uni (der eßbare Teil vom Seeigel)
-und Ikura (Lachsrogen). Der Laden ist zwar auch nicht gerade billig, aber die
-Qualität der Speisen war wirklich jeden Cent wert. Mir läuft jetzt noch das
-Wasser im Munde zusammen.
+@Z: Skateboarding at Old Age
 
-@Z: Skateboarden im Alter
-
-<pic images/skate-meter.ps Auch im hohen Alter muss ich noch Skateboard fahren.>
+<pic images/skate-meter.ps Michael is still riding a skateboard at his age.>
 
 <em>Michael</em>
-Jeden Donnerstag in der Mittagspause fährt unsere Abteilung geschlossen
-zu einer nahegelegenen Cafeteria, und zwar unter Leitung des Chefs mit
-dem Skateboard. Ich bin ja trotz fortgeschrittenen Alters bekanntlich 
-für jeden Blödsinn zu haben, kaufte mir deshalb im Sportgeschäft für etwa
-hundert Dollar ein sogenanntes Longboard und fahre seit dem immer mit.
+Every Thursday during lunch break, our entire department takes off to go eat
+at a different cafeteria, every team member riding on a skateboard, closely
+following our manager through various Silicon Valley parking lots and side
+streets. As you might know, I'm always game when it comes to fun activities,
+even at my advanced age, so I spent $100 on a so-called longboard at a skate
+shop and have been participating in Thursdays' lunch ride.
+
+TODO
 
 Vor vielen vielen Jahren hatte ich mir als Jugendlicher ebenfalls mal ein
 Skateboard gekauft, das ironischerweise auch etwa 100 D-Mark (!) kostete,
