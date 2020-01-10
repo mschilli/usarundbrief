@@ -1,4 +1,4 @@
-San Francisco, den 10/30/2016
+San Francisco, 10/30/2016
 
 @Z: Driving Nails into Drywall
 
@@ -224,26 +224,20 @@ abandoned the once popular helmets or knee, wrist, and elbow pads.
 
 <pic images/skate-24th.ps Reckless skateboarder bombing down Noe Valley's 24th Street.>
 
+Thursday mornings, I often ride my skateboard to the company shuttle bus stop
+in San Francisco, which is about half a mile from our place. First, there's a
+steep downhill on 24th Street, where I carry the board, although I've seen a
+few clearly insane people just bombing down in traffic. Our city has specific
+traffic laws for skateboarders, according to
+<LINK>http://sf-ca.elaws.us/code/trco_di_art7_secs7.2_gid92244_sec7.2.13|the San Francisco traffic code</LINK>,
+skateboards fall into the "NUV" category,
+meaning "Non-motorized User-propelled Vehicles", a device with "two or more
+wheels lacking a belt, chain, or gears", which is being propelled forward by
+"pushing off or kicking at the ground" (Figure (#3)).
+
+<pic images/sftc.ps (#3) There's special sections in traffic law dealing with skateboards.>
+
 TODO
-
-Also rolle ich donnerstags morgens immer mit dem Board zur Haltestelle des 
-Werksbusses in San Francisco. Den steilen Hügel auf der 24th Street lasse
-ich aber sicherheitshalber aus, den donnern zwar einige todesmutige 
-Jugendliche herunter, aber so wahnsinnig bin ich doch noch nicht. Die
-Straßenverkehrsordnung von San Francisco schreibt übrigens für Skateboards
-explizite Regeln vor, denn nach 
-<LINK>http://transportation.sanfranciscocode.org/7/7.2/7.2.13/|Sektion 1.1 Abschnitt 13|Straßenverkehrsordung von San Francisco</LINK>
-fallen sie in
-die Kategorie "NUV", also "Non-motorized
-User-propelled Vehicles" ("Unmotorisiertes Fahrer-getriebenes Fahrzeug")
-mit "zwei oder mehr Rädern, aber ohne Kette oder Gangschaltung", bei denen
-sich der Fahrer vorwärtsbewegt, in dem er "gegen den Boden tritt"<HTMLONLY> (Abbildung (#3)) </HTMLONLY>.
-
-<pic images/skateboard-store.ps Im Sportgeschäft kosten billige Longboards um die hundert Dollar.>
-
-<HTMLONLY>
-<pic images/sftc.ps (#3) Die Straßenverkehrsordnung widmet sich explizit dem Thema Skateboardfahrer.>
-</HTMLONLY>
 
 Weiter steht dort in Abschnitt 7.2.13, dass es verboten ist, in sogenannten
 "Business Districts" (Stadtteile mit Geschäften) mit einem Skateboard zu fahren
