@@ -237,26 +237,23 @@ wheels lacking a belt, chain, or gears", which is being propelled forward by
 
 <pic images/sftc.ps (#3) There's special sections in traffic law dealing with skateboards.>
 
+Furthermore, section 7.2.13 lines out that it is illegal to ride a skateboard
+in "business districts", or, in general, all over the city later than half an
+hour after sunset. Aside from those exceptions, skateboarding is legal on the
+sidewalk, the bike lane, and even on the street, under the condition that
+there's no "endangering the safety of people or property".
+
+<pic images/skateboard-bttf.ps Like in the "Back to the Future" movie, some skateboarders in San Francisco hang on to driving cars.>
+
+Unfortunately, many skateboarders here don't obey the law, bombing down
+steep hills in the middle of night in dark clothing, using private
+building structures as ramps, or clinging onto driving cars, hiding
+close to the rear wheel well, so that drivers won't notice -- just
+like Michael J. Fox in the movie "Back to the Future". 
+
+<pic images/boosted-boards.ps The company "Boosted Boards" advertises their motorized skateboards featuring urban hipster youth.>
+
 TODO
-
-Weiter steht dort in Abschnitt 7.2.13, dass es verboten ist, in sogenannten
-"Business Districts" (Stadtteile mit Geschäften) mit einem Skateboard zu fahren
-oder, egal wo in der Stadt, später als eine halbe Stunde nach Einbruch der 
-Dunkelheit. Sonst ist das Skaten
-sowohl auf dem Gehweg, auf dem Radweg, oder sogar auf der Straße erlaubt, wenn
-der Fahrer Fußgängern die Vorfahrt lässt und keine anderen Verkehrsteilnehmer
-oder Sachwerte beschädigt ("endangering the safety of people or property").
-
-<pic images/skateboard-bttf.ps Wie in dem Film "Back to the Future" hängen sich in San Francisco auch manche Skateboardfahrer an fahrende Autos.>
-
-Viele Skateboardfahrer halten sich allerdings nicht an die Regeln, sausen
-mitten in der Nacht in dunkler Kleidung mit Karacho die Hügel runter, nutzen
-Hauswände als Rampen oder hängen sich wie in dem 80ies-Klassiker
-"Back to the Future" an fahrende Autos, in dem sie sich
-geduckt am Radkasten des Hinterrads festhalten, damit's der Fahrer nicht
-merkt.
-
-<pic images/boosted-boards.ps Die Firma "Boosted Boards" wirbt mit Hipster-Jünglingen für Skateboards mit elektrischem Motor.>
 
 Und im Land der coolsten Erfindungen steht die Entwicklung natürlich niemals
 still:
