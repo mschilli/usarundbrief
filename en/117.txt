@@ -308,32 +308,28 @@ anything exceeding this amount. Long story short: If a married couple has
 more than five Million Dollars lying around, they should definitely become
 citizens, otherwise death will cost more than their lives!
 
-TODO
-
-Auch dürfen Greencard-Besitzer nicht wählen und auch nicht in Gerichtsverfahren
-auf der Jury-Bank sitzen. Flattert ein entsprechender Bescheid ins Haus,
-schleppen sich Staatsbürger zähneknirschend Richtung Gerichtsgebäude, während
-der Greencard-Besitzer auf der Couch daheim sitzenbleibt und einfach den
-Amtsbrief mit einem entsprechenden Vermerk zurückschickt 
+On top of that, Greencard holders cannot vote or sit on jury duty. If a request
+comes in by mail, citizens are required to spring into action and are heading
+towards the justice building, while Greencard holders may remain seated on the couch,
+while sending back the letter with the appropriate box checked
 (<RBLINK>20020917#5</RBLINK>).
 
-Auch verpflichtet sich ein Greencardbesitzer dazu, im Notfall für die USA
-im Krieg zu kämpfen. Ich bin ja seit Bundeswehrzeiten als Kampfsau bekannt 
-und würde auch in meinem fortgeschrittenen Alter
-den Feind sicher das Fürchten lehren. Hält jemand die Greencard
-für mehr als sieben Jahre, verpflichtet er sich weiterhin, zehn Jahre lang jedes 
-Jahr Steuererklärungen ans amerikanische Finanzamt IRS zu schicken,
-auch wenn er später in ein anderes Land oder in sein Heimatland zurück geht.
-Das gilt übrigens auch für amerikanische Staatsbürger: Egal wo sie im 
-Leben mal wohnen werden, jedes Jahr müssen sie dem amerikanischen Finanzamt
-ihre Einkünfte vorleiern, und wann und wo sie dafür Steuern gezahlt haben.
-Leben sie im Ausland, zahlen sie dort ihre Steuern an das jeweilige Land
-in dem sie dann wohnen, aber das IRS will wissen was läuft. Alle Jahre
-wieder.
+Greencard holders are obligated, however, to join the United States army in
+times of war. Personally, I've been known as a jarhead since my army days, and
+I would no doubt instill great fear into the enemy, even nowadays, at my
+advanced age.  After seven years, Greencard holders are required to submit
+income tax declarations for ten years to the United States IRS, even if they
+decide to go back to their home country or move somewhere else at some point.
+This is even true for citizens, by the way: Regardless of which country they
+decide to relocate to, the United States IRS requires yearly income tax
+declarations, listing meticulously what was earned and where taxes were paid.
+Indefinitely.
 
 <HTMLONLY>
-<pic images/reentry-permit.ps Greencardbesitzer mit Reentry-Permit dürfen bis zu zwei Jahre außer Landes weilen.>
+<pic images/reentry-permit.ps Greencard holders are allowed to stay abroad for up to two years with a so-called reentry permit.>
 </HTMLONLY>
+
+TODO
 
 Dann gibt's noch Fälle, in denen sich die Annahme er US-Staatsbürgerschaft aus
 legalen Gründen empfiehlt, zum Beispiel wenn ein Ehepaar ein Kind durch eine
