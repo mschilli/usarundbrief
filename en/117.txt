@@ -329,38 +329,39 @@ Indefinitely.
 <pic images/reentry-permit.ps Greencard holders are allowed to stay abroad for up to two years with a so-called reentry permit.>
 </HTMLONLY>
 
+Then there are legal situations where a US citizen enjoys better protection
+than a Greencard holder, for example when a married couple uses a surrogate
+mother to have a child. In Germany, this practice is illegal, in the United
+States, it is legal, so obtaining US citizenship provides the required legal
+framework.  Or take the case where a same sex couple wants to adopt a child.
+This doesn't work yet in Germany, but it is common place in the United States.
+As soon as the couple obtains US citizenship, however, German bureaucrats will
+change their minds and accept the adoption.
+
+If German citizens decide to become US citizens, for what reasons whatsoever,
+they should file a request to keep their German citizenship before applying.
+Why? As soon as German officials find out that one of their own citizens has
+obtained a foreign citizenship, they'll abruptly cut their ties with them by
+relentlessly stripping them off their German passport.  But if the applicant
+filed to keep their German citizenship beforehand, the German consulate might
+agree that taking away the German passport would be an undue burden on the
+applicant, e.g. because they still have strong ties to their home country or
+apply for the foreign citizenship because their job requires it, and therefore
+have no choice. Assuming the German consulate says "ja" to keep, and Uncle
+Sam says "yes" to obtain the new citizenship, the newborn American will
+carry two passports from then on, using the appropriate one to enter either
+country.
+
+There's one more catch, though: As soon as a German citizen obtains US
+citizenship, regardless of whether they were permitted to keep their German
+passport or not, the German consulate will no longer help out these hybrid
+Germans when they get in trouble in the US. Regular German citizens can always
+count on calling the consulate, day or night, if they need help, but the consul
+refuses to help US citizens. And according to rumors (some of which I might
+have started circulating myself), he will instead return a post card with a
+humorous motive and the imprint "Good luck with that, buddy."
+
 TODO
-
-Dann gibt's noch Fälle, in denen sich die Annahme er US-Staatsbürgerschaft aus
-legalen Gründen empfiehlt, zum Beispiel wenn ein Ehepaar ein Kind durch eine
-Leihmutter austragen lässt. In Deutschland ist das Verfahren illegal, in
-Amerika legal, deshalb empfiehlt es sich in diesen Fällen die
-US-Staatsbürgerschaft. Oder wenn ein gleichgeschlechtliches Ehepaar ein Kind
-adoptieren möchte. In Deutschland geht das nicht, in Amerika schon, also
-sollten gleichgeschlechtliche deutsche Ehepaare die amerikanische
-Staatsbürgerschaft annehmen, dann wird die Adoption auch von den deutschen
-Behörden akzeptiert.
-
-Falls sich nun ein deutscher Staatsbürger, aus welchen Gründen auch immer,
-entschließt, Amerikaner zu werden,
-sollte er vor Annahme der US-Staatsbürgerschaft die Beibehaltung der deutschen
-beantragen. Warum? Wer einfach mir nichts dir nichts Amerikaner wird, dem
-zeigt Deutschland die kalte Schulter. Erfahren die Behörden vom neuen US-Pass,
-entziehen sie dem Abtrünnigen sofort die deutsche Staatsbürgerschaft. Beantragt
-der Hüpfwillige allerdings bei seinem Konsulat <em>vorher</em> die
-Beibehaltung, und genehmigt das Konsulat dies zum Beispiel weil der
-Antragsteller sonst Nachteile im Berufsleben hätte und dutzenderlei
-bürokratische Regeln dem nichts entgegensetzen, dann darf der Hüpfer die
-US-Staatsbürgerschaft beantragen.  Falls Uncle Sam dann "okay" sagt, besitzt 
-der frischgebackene Doppelstaatler zwei Pässe, von denen der jeweils 
-zutreffende bei der Einreise in das entsprechende Land vorzulegen ist.
-
-Zu bedenken ist aber, dass sich das deutsche Konsulat nicht mehr zuständig
-fühlt, falls ein Deutscher mit Doppelpass in den USA in Bedrängnis gerät.
-Deutschen im Ausland helfen die Konsulatsmitarbeiter sonst Tag und Nacht
-unbürokratisch aus der Patsche, aber bei US-Passbesitzern schickt der Konsul
-nur eine Ansichtskarte mit einem lustigen Motiv und dem Aufdruck 
-"Good luck with that, buddy".
 
 @Z: Drittkandidaten Gary Johnson / Jill Stein
  
