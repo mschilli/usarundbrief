@@ -432,31 +432,34 @@ Rose had very little production money available in the beginning and simply
 purchased the table himself. For myself, I can say that I entirely enjoy
 almost every episode and can only warmly recommend the show to others.
 
-TODO
+@Z: Cut the Cord
 
-@Z: Kabellos Leben
-
-<pic images/tv-back.ps (#1) Der Kabelverhau hinter unserem Fernsehkasten.>
+<pic images/tv-back.ps (#1) The ball of wires behind our TV.>
 
 <em>Michael</em>
-Die Firma Comcast, die bei uns in der Bay Area ihr Quasimonopol
-auf Kabelfernsehen dazu ausnutzt, die monatlichen Gebühren stetig
-hochzuschrauben, ist in letzter Zeit in Misskredit geraten. Sie bietet
-Kabel und Internet für Neukunden ab $50 im Monat an, und erhöht dann den
-Preis nach sechs Monaten auf über $150. Ihr habt richtig gelesen, Amerikaner
-in der Bay Area zahlen $150 im Monat für Internet und Kabel. Das ist
-die Folge einer jahrelang verfehlten Politik, die einer kundenmelkenden
-Monopolfirma freie Hand lässt, wie schon mal in
-<RBLINK>20101219#1</RBLINK> beschrieben.
+The Bay Area cable TV de facto monopolist Comcast, known for continuously
+hiking their montly fees, has lately drawn some consumer criticism. They're
+offering Internet and cable TV service as low as $50 for new customers, only
+to increase the price to $150 six months later. You've got that right,
+Americans are paying $150 per month for Internet and cable access, while it's 
+often less than $50 in Europe. It's the result decades of failed politics,
+granting a price gouging monopolistic company free reign, as we've outlined
+in a previous issue (<RBLINK>20101219#1</RBLINK>).
 
 <HTMLONLY>
-<pic images/cut-the-cord-kindle-books.ps Auf Amazon häufen sich die Ratgeber zum Abstellen des Kabelfernsehens.>
+<pic images/cut-the-cord-kindle-books.ps Lots of books on Amazon to cut ties with the cable provider.>
 </HTMLONLY>
 
-Aber viele Amerikaner haben jetzt die Faxen dicke und nabeln sich unter dem
-Slogan "Cut the Cord" vom Kabelfernsehen ab. Internet kann man auch über die
-Telefonleitung als DSL beziehen und als Alternative für's Kabelfernsehen gibt's
-eine ganze Reihe von legalen Möglichkeiten.  Auf Amazon häufen sich die
+But there's a growing number of Americans who are fed up with overpaying for
+cable, who've set out to cut ties with their providers, under the banner "Cut
+the Cord". That's not hard to do, as aside from cable, Internet can be had
+through the telephone as DSL, or via a separate fiber line, and even for cable
+TV there are a few perfectly legal options without going through monopolistic
+providers like Comcast.
+
+TODO
+
+Auf Amazon häufen sich die
 Ratgeberbücher zum Thema, und selbst die Helferin meines Zahnarztes bat mich
 neulich um technischen Rat, als sie meine Beißerchen polierte.
 Wie unsere werte Leserschaft weiß, bin ich dem Rest der Menschheit 
