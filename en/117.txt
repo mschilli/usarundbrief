@@ -457,16 +457,15 @@ through the telephone as DSL, or via a separate fiber line, and even for cable
 TV there are a few perfectly legal options without going through monopolistic
 providers like Comcast.
 
-TODO
+There's a steady inflow on Amazon of books dealing with guides to
+"Cut the Cord", and even my hygienist recently quizzed me about the
+possibilities while polishing my choppers. As many of our readers know,
+I'm usually ahead of the technical curve, compared to the rest of mankind
+by two, three years, and have indeed discontinued cable service three years
+ago. Ever since then, whenever I drive by our Comcast store, I give them
+a nice wave and burst out laughing.
 
-Auf Amazon häufen sich die
-Ratgeberbücher zum Thema, und selbst die Helferin meines Zahnarztes bat mich
-neulich um technischen Rat, als sie meine Beißerchen polierte.
-Wie unsere werte Leserschaft weiß, bin ich dem Rest der Menschheit 
-technisch immer zwei, drei Jahre voraus, und habe tatsächlich schon vor 
-drei Jahren unser Kabelfernsehen abbestellt. Seit dem winke ich immer
-freundlich und lache mich schlapp, wenn ich zufällig am Comcast-Laden
-in der Stadt vorbeifahre.
+TODO
 
 Zum Glück befinden wir uns im Auge eines Technologie-Hurrikans, und alle
 näslang bringt irgendeiner neue Ideen und Gadgets auf den Markt, die 
