@@ -465,20 +465,19 @@ by two, three years, and have indeed discontinued cable service three years
 ago. Ever since then, whenever I drive by our Comcast store, I give them
 a nice wave and burst out laughing.
 
+But luckily, we're located here directly in the eye of a technology hurricane,
+with plenty of hungry whippersnappers constantly inventing new gadgets, trying
+to blow dinosaurs like Comcast out of the water. It is indeed quite simple to
+legally receive free TV programs in the Bay Area. Today, I'm going to open the
+curtain to show how this is working for us. First off, there's local TV
+stations, broadcasting evening news and maybe a baseball game, or political
+content on stations like KQED who make TV programs with balanced reports and
+interviews for the few people around here who haven't completely lost their
+minds yet.
+
+<pic images/tv-tivo.ps The TiVo box is automatically recording over-the-air TV. (#2)>
+
 TODO
-
-Zum Glück befinden wir uns im Auge eines Technologie-Hurrikans, und alle
-näslang bringt irgendeiner neue Ideen und Gadgets auf den Markt, die 
-alten Dinosauriern wie Comcast gehörig den Marsch blasen. 
-Es ist tatsächlich gar nicht so schwer, mit allerlei technischen 
-Gerätschaften Fernsehsender legal und kostenlos zu empfangen. 
-Heute lüfte ich mal den Vorhang, und zeige, wie wir das machen. 
-Zunächst zu lokalen Fernsehsendern, die die Abendnachrichten ausstrahlen
-und vielleicht ein Baseballspiel oder Politsender wie KQED, die für die
-wenigen Leute in Amerika, die noch nicht völlig verblödet sind, tatsächlich 
-ausgewogene Interviews und Reportagen bringen. 
-
-<pic images/tv-tivo.ps Der TiVo-Kasten zeichnet automatisch Antennenfernsehen auf. (#2)>
 
 Dazu bieten die Sender,
 offensichtlich deshalb weil Fernsehen eine Art Grundrecht ist, digitales
