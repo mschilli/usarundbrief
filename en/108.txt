@@ -486,12 +486,12 @@ $5.60 and $6.95 for "Priority Mail" packages, but frugal users keep
 an eye on the package weight not exceeding 13 ounces (368g) and pay
 between $2.30 and $4.25 for First Class instead.
 
-<pic images/mail-envelopes.ps (#1) The yellow bubble wrap envelope costs more than a Dollar, while the gray one is only 20 Cents.>
+<pic images/mail-envelopes.ps (#2) The yellow bubble wrap envelope costs more than a Dollar, while the gray one is only 20 Cents.>
 
 When shipping items which already weigh close to a dozen ounces, it's a good 
 strategy to avoid heavy cardboard boxes and go with bubble wrap envelopes
 for packaging
-instead (Figure #1). Clueless newbies buy bubble wrap envelopes 
+instead (Figure (#2)). Clueless newbies buy bubble wrap envelopes 
 at Walgreens at $1.50 a pop, while experts order a hundred of 
 them on Ebay at $0.20 a piece. But don't be suprised if the box containing 
 those 100 envelopes is a giant cube measuring 30 inches in each dimension!
