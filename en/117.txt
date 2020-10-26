@@ -477,24 +477,25 @@ minds yet.
 
 <pic images/tv-tivo.ps The TiVo box is automatically recording over-the-air TV. (#2)>
 
-TODO
-
-Dazu bieten die Sender,
-offensichtlich deshalb weil Fernsehen eine Art Grundrecht ist, digitales
-Fernsehen über Antenne an. Das hat wie in Deutschland mit DVB-T nichts mit
-verrauschten Kanälen und laufenden Bildern zu tun, die man stoppt, in
-dem man mit der flachen Hand mehrfach auf den Fernsehkasten schlägt, sondern
-das ist Digitalfernsehen mit 1-A Qualität. Wir wohnen bekanntlich 
-nicht weit vom Fernsehturm Sutro Tower auf dem Hügel in San Francisco, 
-der Twin Peaks heißt. Also habe ich bei Amazon nach mehreren Wochen
-Testbetrieb mit einigem Hin und Her eine Antenne für $80 gekauft, die
-hinter dem Fernsehkasten steht (Abbildung (#1)) gute Bildqualität liefert,
-auch von Sendern, die nicht von Twin Peaks sondern wie zum Beispiel NBC
-aus dem 20 Kilometer südlichen liegenden San Bruno abgestrahlt werden.
+Apparently because receiving TV programs is some form of basic human right,
+select broadcasting stations offer their programs as digital TV through the
+airwaves, sent to the users' home antennas (OTA=Over the Air). Just like in
+Germany with DVB-T this isn't your grampa's snowy TV reception, with scrolling
+pictures, requiring the occasional signature whack onto the top TV with the
+flat hand to stop. OTA is digital, so it either works perfectly or not at all.
+As you might know, our location in San Francisco is very close a widely visible
+broadcasting antenna called "Sutro Tower", at the top of the "Twin Peaks"
+hill close to the geographic center of the city. After rummaging through
+Amazon's antenna section and reading the reviews, I finally settled for one
+that cost $80, and placed it behind our TV (Abbildung (#1). The reception is
+quite good, not only from stations broadcasted from Sutro Tower, but also those
+coming in from San Bruno, which is 20 miles further south.
 
 <HTMLONLY>
-<pic images/sling-twitter.ps Beim EM-Halbfinale brechen die Sling-Server zusammen.>
+<pic images/sling-twitter.ps The Sling servers collapse due to increased demand during the semi finals at the Soccer Euro Cup.>
 </HTMLONLY>
+
+TODO
 
 Nun kann man in Amerika allerdings nicht einfach so eine Sendung im Fernsehen
 ansehen, wenn man nicht gerade arbeitslos ist und eh den ganzen Tag auf der
