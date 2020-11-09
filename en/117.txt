@@ -508,17 +508,18 @@ able to record programs on different channels at the same time (Figure (#2)).
 
 <pic images/sling-laptop.ps Advanced setup to stream ESPN to the Laptop, from where it is sent to the TV.>
 
+You tell the TiVo which programs to record, without having to deal with start
+times or channels, just by entering the name of the show. It then finds out
+when those TV series or news shows are being broadcasted and where, and simply
+records them all.  With this setup in place, you'll never watch live TV
+anymore, instead, there's twenty shows to choose from when you come home,
+dutyfully selected during the day and recorded by your TiVo, ready for your
+consumption, even when the recording is still in progress, with a quick way to
+skip any commercials on the way.
+
+<pic images/roku-tagesschau.ps (#5) The tiny Roku box has an app streaming the German news show "Tageschau" into our SF living room.>
+
 TODO
-
-Der Kiste teilt man mit, welche Sendungen man aufzeichnen möchte, und muss
-dafür nicht etwa jedes Mal die Uhrzeit einstellen, sondern man gibt nur den
-Titel vor, die Kiste sucht dann selbständig im Fernsehprogramm wann und
-wo diese Sendung oder auch Serien oder die täglichen Nachrichten laufen
-und nimmt sie alle auf. Man sieht also niemals mehr live fern, sondern kommt
-heim und hat 20 Sendungen zur Auswahl, die der TiVo den lieben langen Tag
-für einen zusammengesucht hat.
-
-<pic images/roku-tagesschau.ps (#5) Das Roku-Kästlein pumpt mittels App die deutsche Tagesschau ins Wohnzimmmer.>
 
 Um nicht völlig zu verblöden, und auch um auf dem Laufenden zu bleiben mit
 dem, was im fernen Deutschland so abgeht, sehen wir uns übrigens auch
