@@ -495,19 +495,20 @@ coming in from San Bruno, which is 20 miles further south.
 <pic images/sling-twitter.ps The Sling servers collapse due to increased demand during the semi finals at the Soccer Euro Cup.>
 </HTMLONLY>
 
+Now, as a self-respecting person with a job, without lots of idle time to
+lounge on the couch all day long, you might find watching TV in the U.S. very
+annoying and a waste of your personal time, since the stations keep
+interrupting their programs every few minutes to broadcast commercials. For this
+reason, if you decide to cut the cord, the first thing you need is a digital
+video recorder to tape programs and skip over commercials at the push of a
+button. I've been using a so-called TiVo since it came out about 16 years ago,
+and have been a loyal customer until today, even upgrading to a newer "TiVo
+Roamio" a few years ago, an astounding machine with six separate TV tuners all
+able to record programs on different channels at the same time (Figure (#2)).
+
+<pic images/sling-laptop.ps Advanced setup to stream ESPN to the Laptop, from where it is sent to the TV.>
+
 TODO
-
-Nun kann man in Amerika allerdings nicht einfach so eine Sendung im Fernsehen
-ansehen, wenn man nicht gerade arbeitslos ist und eh den ganzen Tag auf der
-Couch rumhängt, denn die Sender unterbrechen ihre Programme alle paar Minuten
-für einen Werbeblock. Also gehört zur Mindestausstattung des Kabelkappers ein
-digitaler Videorekorder, und nachdem ich schon seit sage und schreibe 16 Jahren
-einen sogenannten TiVo nutze, um Sendungen aufzuzeichnen und Werbeblöcke im
-Schnellauf zu überspringen, bin ich der Firma auch vor einigen Jahren treu
-geblieben, als ich einen "TiVo Roamio" gekauft habe, eine Wahnsinnskiste mit 6
-Tunern, die gleichzeitig Fernsehsendungen aufzeichnen können (Abbildung (#2)).
-
-<pic images/sling-laptop.ps Der Experte streamt ESPN in den Laptop und dann in den Fernsehkasten.>
 
 Der Kiste teilt man mit, welche Sendungen man aufzeichnen möchte, und muss
 dafür nicht etwa jedes Mal die Uhrzeit einstellen, sondern man gibt nur den
