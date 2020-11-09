@@ -519,29 +519,29 @@ skip any commercials on the way.
 
 <pic images/roku-tagesschau.ps (#5) The tiny Roku box has an app streaming the German news show "Tageschau" into our SF living room.>
 
-TODO
+We're trying to stay informed on world politics and in particular 
+keep up to date with what's going on in Germany, which is why we watch
+the German 8pm news show "Tagesschau" almost every single day. For
+this, we're using a streaming device called "Roku", which is similar to an Apple TV
+or an Amazon Fire, both of which we happen to have connected as well. It takes the
+Roku about ten seconds to start the video stream and the quality is similar to 
+what you'd expect in Germany with your cable provider (Figure (#5)).
 
-Um nicht völlig zu verblöden, und auch um auf dem Laufenden zu bleiben mit
-dem, was im fernen Deutschland so abgeht, sehen wir uns übrigens auch
-jeden Tag die Tagesschau an. Der Roku, eine kleine Settop-Box so ähnlich
-wie ein AppleTV (den wir natürlich neben einem Amazon Fire ebenfalls 
-angeschlossen haben), zieht die 8-Uhr Tagesschau innerhalb von 10 Sekunden
-auf Abruf als Stream ins Wohnzimmer (Abbildung (#5)).
+<pic images/tagesschau.ps The streamed Tagesschau features German polit clowns like this Green Party muppet.>
 
-<pic images/tagesschau.ps Deutsche Politkasper wie der Hase Cäsar von den Grünen kommen auch in San Francisco in der Tagesschau.>
+With so many electronic gadgets connected to the TV, it just happens that every
+once in a while, one of them stops working and needs to be rebooted, and
+because the cabling in the TV cabinet is somewhat confusing, I've added a
+switchboard with ten labeled buttons providing power to the different devices.
+In case a reboot of a particular device is required, Angelika can find the
+laser printer labeled switch on the array that looks like it came from
+professional audio studio, and toggle it to switch power of a specific device
+off and on again, in order to restart it and jerk it back to life.  Sometimes
+she will complain nevertheless about our entertainment system being in a
+constant state of disarray, because it just happens that every so often, I
+replace a perfectly working gadget with a brand new unreliable one, which is
+when I tell her: "The only constant is change!".
 
-Bei sovielen Gadgets im Fernsehschrank fällt natürlich immer mal eines
-aus, und damit auch Angelika, die sich mit dem Kabelverhau hinter
-den Kulissen nicht so gut
-auskennt, zielgerichtet ein bestimmtes Gerält aus- und wieder einschalten kann,
-habe ich wie in einem Tonstudio vorne eine Schalterleiste mit zehn 
-Schaltern angebracht, die ordnungsgemäß mit einem Labeldrucker beschriftet
-sind. Mittlerweile hängt hinter jedem Schalter ein Gerät, und wenn Angelika
-mal wieder motzt, dass dies oder jenes nicht geht, und wieso ich schon wieder
-etwas perfekt funktionierendes durch ein noch auf wackeligen Füßen
-stehendes brandneues Produkt aus der Schmiede des Silicon Valley 
-ersetzen musste, erwidere ich: "The only constant is change!". 
-
-Grüße aus dem Land der nimmermüden Erfinder:
+Greetings from the country that creates new things non-stop:
 
 Angelika und Michael
