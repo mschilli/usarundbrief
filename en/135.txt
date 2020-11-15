@@ -4,41 +4,53 @@ San Francisco, 09/11/2020
 
 <pic images/moving-1.ps There's a moving truck on every corner, lots of people are moving out of SF.>
 
+<em>Michael</em> For about six months now, rent and real estate prices have
+been declining rapidly in San Francisco. Reason seems to be that there's a mass
+exodus happening, with young affluent people fleeing the city. On almost every
+block, you can see moving trucks, and techies sheepishly loading in their
+$3,000 bikes, and off they go to mommy and daddy in Kentucky! Just by walking
+the neighborhood, you can peer into many empty homes, and every block has
+at least one house for sale. Also, if you're in the market for expensive yuppie
+crap, check out Craigslist for some real bargains!
+
+Since most tech companies no longer require their employees to come to the
+office, and also because San Francisco's entertainment value has gone down to
+almost zero, with most restaurants closed and dance clubs shuttered for a
+whopping six months now, hipsters no longer see a reason to stay around.  On
+top of that, quality of life has been declining rapidly lately, with homeless
+tent cities popping up in various neighborhoods, many small shops throwing the
+towel and going out of business for good, I mean you can't even get simple
+services like a hair cut anymore! Property and street crime has gone up by 100%
+within the last year, due to the dramatic increase of the homeless population
+and lack of police activity due to a "progressive" district attorney who
+refuses to prosecute property crime even for repeat offenders. Who in their
+right mind would pay astronomical amounts of rent to live in such a neglected place?
+
+<pic images/moving-2.ps San Francisco has lost its charm, and young people are moving out quickly.>
+
+Landlords are desparately trying to find new tenants for their properties, which is
+really hard, even with drastically reduced rent, because of complete lack of demand
+in the market with ample supply. Even in our building, there's three vacancies, 
+all people in their twenties who have left the city to live someplace else. Oh,
+and those fools who have invested in real estate at astronomical prices are now
+facing financial hardships and cash flow problems, because mortgages still have
+to be paid off.
+
+<pic images/moving-3.ps Mostly young people are leaving San Francisco, often moving back in with their parents.>
+
+If this trend continues, the market will be flooded with cheap supply, and it's
+entirely possible that panic selling will start at some point if demand
+continues to decrease. Although, if you look at the current average home price
+in our expensive neighborhood, it's still around $2M, so there's still room for
+steep corrections until we get to a sustainable level again.  Monitoring real
+estate brokers, you can sense their anxiety anticipating a crash, while they're
+reassuring their clients that price corrections will be only a few percentage
+points.  I'd say: try 50 percent, every bubble is bound to burst at some point,
+and the San Francisco real estate bubble has been ripe for a while now. The
+market will fix even the most idiotic exhuberance at some point, that's one
+thing you can always rely on.
 
 TODO
-
-<em>Michael</em> Seit Monaten sinken die Mietpreise in San Francisco. Grund
-dafür ist die Massenflucht junger Leute aus der Stadt, an jeder Ecke steht
-mittlerweile ein Möbelwagen und ein Techie lädt verschämt sein $3000-Fahrrad
-ein. Ab geht's, wieder heim zu Mami und Papi nach Kentucky! Viele Wohnungen
-stehen leer, auf Craigslist wird teurer Yuppie-Krempel billig verscherbelt.
-
-Da die Tech-Firmen keinen Wert mehr darauf legen, dass Leute ins Büro kommen,
-und San Franciscos Unterhaltungswert wegen geschlossener Restaurants und
-Tanzbetriebe seit geschlagenen fünf Monaten auf absolut Null liegt, will kein
-Hipster mehr hier wohnen. Dazu noch Obdachlosen-Zeltlager quer über die Stadt
-verstreut, Massenpleiten kleiner Geschäfte, irre Restriktionen wie seit fünf
-Monaten geschlossene Frisörsalons, ein gewaltiger Schub an Einbrüchen und
-Kleinkriminalität mangels Polizeiinteresse -- wer will für so etwas noch absurd
-hohe Mieten zahlen?
-
-<pic images/moving-2.ps Mangels Unterhaltungswert sieht keiner mehr ein, hohe Mieten zu zahlen.>
-
-Vermieter raufen sich die Haare, allein bei uns im Haus sind schon drei
-Parteien ausgezogen, alles junge Leute. Neue Mieter sind schwer zu finden,
-selbst bei reduzierten Preisen. Die Narren, die in den letzten Jahren eine
-Immobilie als Investitionsobjekt zu geradezu idiotischen Preisen gekauft haben,
-stehen jetzt vor einem Finanzproblem, denn wer soll die Hypothek abbezahlen?
-
-<pic images/moving-3.ps Hauptsächlich junge Leute ziehen wieder heim zu Mami und Papi.>
-
-Wird es bald zu Panikverkäufen kommen? Ein Durchschnittshaus in unserem Viertel
-kostet immer noch 2,1 Millionen, da ist also noch Luft nach unten, bis ein
-einigermaßen vernünftiges Niveau erreicht ist. Man merkt, wie die
-Wohnungsmakler schon nervös werden, und betonen, dass die Preiskorrektur etwa
-1% betragen wird. Na, Kinder, versuchen wir's mal mit 50%, sage ich.  Wie immer
-wird's der Markt richten, jede noch so absurde Blase platzt irgendwann.
-Wenigstens darauf ist Verlass.
 
 @Z: Waldbrände in Kalifornien
 
