@@ -82,13 +82,13 @@ wildfires, but increasingly the States further north, Oregon and Washington.
 
 <pic images/view-smog.ps Smoke created by wildfires in the surrounding areas starts drifting into the city.>
 
-A total of 560 wild fires were counted across California so far.
+So far, a total of 560 wild fires were counted across California.
+Here in the city of San Francisco, we don't have any fires luckily, but there are
+quite a few raging forest fires in the surrounding areas.
 
 TODO
 
-In San Francisco selbst brennt es Gott
-sei Dank nicht, aber um uns herum gab es gleich mehrere sich schnell
-ausbreitende Brände. Es brannte und brennt immer noch in Point Reyes, Santa
+Es brannte und brennt immer noch in Point Reyes, Santa
 Cruz und im Weingebiet. Obwohl Waldbrände mit gewaltigen Außmaßen mittlerweile
 jedes Jahr Kalifornien in die Knie zwingen, sind sie unter Covid-Bedingungen
 noch eine Spur brisanter, denn Massenevakuierungen und Feuerlöschen mit
