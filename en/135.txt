@@ -82,22 +82,19 @@ wildfires, but increasingly the States further north, Oregon and Washington.
 
 <pic images/view-smog.ps Smoke created by wildfires in the surrounding areas starts drifting into the city.>
 
-So far, a total of 560 wild fires were counted across California.
-Here in the city of San Francisco, we don't have any fires luckily, but there are
-quite a few raging forest fires in the surrounding areas.
+So far, a total of 560 wild fires have been registered across California.  Here in
+the city of San Francisco, we don't have any fires, luckily, but there are quite
+a few raging forest fires in the surrounding areas.  The fires have been going
+on in Point Reyes, Santa Cruz, and in the Wine Country.  Although large area
+wild fires have been a common occurrance in California for many years now,
+their impact is more severe under Covid conditions. Mass evacuations and
+fighting fires while practicing social distancing are new challenges.  Also,
+this year, the fires came earlier than in the past, the usual fire season
+starts in October. We should have known it, nothing is like it was in 2020!
+
+<pic images/smoke-red.ps Smoke from the wild fires creates nice sunsets, but it is extremely annoying.>
 
 TODO
-
-Es brannte und brennt immer noch in Point Reyes, Santa
-Cruz und im Weingebiet. Obwohl Waldbrände mit gewaltigen Außmaßen mittlerweile
-jedes Jahr Kalifornien in die Knie zwingen, sind sie unter Covid-Bedingungen
-noch eine Spur brisanter, denn Massenevakuierungen und Feuerlöschen mit
-Abstandsregeln stellen ganz neue Herausforderungen dar. Auch kamen die Feuer
-jahreszeitlich viel zu früh, denn die eigentliche Feuersaison beginnt in der
-Regel erst im Oktober. Obwohl wir es eigentlich schon hätten wissen müssen,
-denn nichts läuft normal bis jetzt im Jahr 2020.
-
-<pic images/smoke-red.ps Der Rauch der Waldbrände macht zwar schöne Sonnenuntergänge, ist aber extrem lästig.>
 
 Viele der Brände bedeuten extrem schlechte Luft in San Francisco, und das über
 Tage und Wochen. Meist wachen wir in einer richtigen Suppe auf. Es riecht wie
