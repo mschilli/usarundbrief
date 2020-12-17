@@ -94,19 +94,17 @@ starts in October. We should have known it, nothing is like it was in 2020!
 
 <pic images/smoke-red.ps Smoke from the wild fires creates nice sunsets, but it is extremely annoying.>
 
-TODO
+The surrounding fires impacted San Francisco's air quality severely for several  weeks.
+Often, we woke up, looking at a thick layer of haze, smelling like an extinguished
+camp fire, and irrating our sinuses. Around four a clock in the afternoon, air
+quality in the city usually gets slightly better due to the the upcoming winds. 
+Which is when we open all doors and windows, which we kept tighly closed
+until then to lock out hot air and smokey smells.
+To exactly hit this point in time, we run hourly spot checks on our balcony, and
+also monitor <LINK>https://cfpub.epa.gov/airnow/index.cfm?action=airnow.local_city\&cityid=317|air quality sites on the Internet|Air Quality Monitor</LINK>, which constantly measure air quality
+and count unhealthy floating particles, to publish them for different cities and counties.
 
-Viele der Brände bedeuten extrem schlechte Luft in San Francisco, und das über
-Tage und Wochen. Meist wachen wir in einer richtigen Suppe auf. Es riecht wie
-ein abgestandenes erkaltetes Lagerfeuer und es brennt in den Schleimhäuten.
-Gegen 4 Uhr nachmittags verbessert sich die Luftqualität durch die nachmittags
-aufkommenden Winde meist in der Stadt.  Dann reißen wir schnell die Fenster und
-Türen auf, die wir bis dahin fest verschlossen hatten, um Hitze und Gestank
-nicht reinzulassen.  Um den Zeitpunkt nicht zu verpassen, machen wir jetzt
-stündlich den Balkon-Riechtest und schauen natürlich auch auf die
-<LINK>https://cfpub.epa.gov/airnow/index.cfm?action=airnow.local_city\&cityid=317|diversen Seiten im Internet|Luftqualität</LINK>, die die Qualität der Luft und Anzahl
-der gefährlichen Partikel in derselben veröffentlichen für die
-unterschiedlichen Städte und Landkreise.
+TODO
 
 <pic images/purple-air.ps Wegen der Waldbrände ist die Luft in Bay Area geradezu gesundheitsschädlich.>
 
