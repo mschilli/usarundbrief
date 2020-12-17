@@ -94,15 +94,18 @@ starts in October. We should have known it, nothing is like it was in 2020!
 
 <pic images/smoke-red.ps Smoke from the wild fires creates nice sunsets, but it is extremely annoying.>
 
-The surrounding fires impacted San Francisco's air quality severely for several  weeks.
-Often, we woke up, looking at a thick layer of haze, smelling like an extinguished
-camp fire, and irrating our sinuses. Around four a clock in the afternoon, air
-quality in the city usually gets slightly better due to the the upcoming winds. 
-Which is when we open all doors and windows, which we kept tighly closed
-until then to lock out hot air and smokey smells.
-To exactly hit this point in time, we run hourly spot checks on our balcony, and
-also monitor <LINK>https://cfpub.epa.gov/airnow/index.cfm?action=airnow.local_city\&cityid=317|air quality sites on the Internet|Air Quality Monitor</LINK>, which constantly measure air quality
-and count unhealthy floating particles, to publish them for different cities and counties.
+The surrounding fires impacted San Francisco's air quality severely for several
+weeks.  Often, we woke up, looking at downtown through thick layer of haze,
+inhaling bad air that smelled like an extinguished camp fire, irrating our
+sinuses. Around four a clock in the afternoon, city air quality often got
+slightly better due to the the upcoming winds.  Which is when we opened all
+doors and windows, which we had kept tighly closed until this point, to lock
+out hot air and smoky smells. To exactly hit the proper point in time, we ran
+hourly spot checks on our balcony, and also monitored
+<LINK>https://cfpub.epa.gov/airnow/index.cfm?action=airnow.local_city\&cityid=317|air
+quality sites on the Internet|Air Quality Monitor</LINK>, which constantly
+measured air quality and counted unhealthy floating particles, publishing the
+results for different cities and counties.
 
 TODO
 
