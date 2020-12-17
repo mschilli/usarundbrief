@@ -107,9 +107,9 @@ quality sites on the Internet|Air Quality Monitor</LINK>, which constantly
 measured air quality and counted unhealthy floating particles, publishing the
 results for different cities and counties.
 
-TODO
+<pic images/purple-air.ps Due to surrounding forest fires, the Bay Area's air quality went from good to hazardous.>
 
-<pic images/purple-air.ps Wegen der Waldbrände ist die Luft in Bay Area geradezu gesundheitsschädlich.>
+TODO
 
 Die Einstufungen gehen wie folgt: gut, moderat, ungesund für sensible
 Bevölkerungsgruppen (also z.B. Personen mit Vorerkrankungen wie Asthma),
