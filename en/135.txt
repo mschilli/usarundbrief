@@ -109,22 +109,21 @@ results for different cities and counties.
 
 <pic images/purple-air.ps Due to surrounding forest fires, the Bay Area's air quality went from good to hazardous.>
 
+The categories are: good, moderate, unhealthy for sensitive groups (people with
+pre-existing conditions like asthma), unhealthy, very unhealthy, hazardous.
+We'll go out for a walk when we sense the air doesn't smell like a hundred full
+ash trays, or when the quality index is "moderate" or better. We always put on our
+Corona-defying cloth masks, but ironically they're utterly useless against the
+smoke particles. To filter these out, we'd need N95 masks, but those are better
+left to medical staff and shouldn't be bought off the market. A catch-22, no
+doubt. I found it interesting that it took the German news show Tagesschau,
+which we're watching religiously every day, a long time to start reporting on
+the fires in California. The general chaos of the year 2020 probably weighted
+heavier than our entire state affected by forest fires.
+
+<pic images/ob-masks.ps San Francisco's Ocean Beach has strong winds, which blow away the smoke and make it safe for walking.>
+
 TODO
-
-Die Einstufungen gehen wie folgt: gut, moderat, ungesund für sensible
-Bevölkerungsgruppen (also z.B. Personen mit Vorerkrankungen wie Asthma),
-ungesund, sehr ungesund, gefährlich. Spazierengehen können wir dann, wenn die
-Luft nicht mehr wie hunderte alter voller Aschenbecher riecht oder auf moderat
-absinkt. Dann ziehen wir los mit unseren Corona-Stoffmasken, die aber
-blöderweise völlig nutzlos sind gegen die Rauchpartikel in der Luft, denn
-dafür bräuchten wir N95-Masken, die man aber wegen Corona dem medizinischen
-Personal nicht wegkaufen soll. Da beißt sich die Katze in den Schwanz.
-Ich fand es übrigens erstaunlich, dass in der Tagesschau, die wir
-hier jeden Tag anschauen, erst relativ spät über die kalifornischen Feuer
-berichtet wurde. Scheinbar ist es nur noch eine kleine Meldung wert in dem
-Chaos des Jahres 2020, wenn ein riesiger Bundesstaat in Flammen aufgeht.
-
-<pic images/ob-masks.ps Am Ocean Beach bläst der Wind den Rauch meist weg und man kann spazierengehen.>
 
 @Z: Wegen Corona: Nationale Kleingeldkrise
 
