@@ -474,7 +474,7 @@ Forschungsergebnissse für den Einzelnen genutzt werden können, um seine
 Gesundheit zu verbessern.  Die Covid-Testerei läuft über die Google-Plattform,
 denn um einen Termin auszumachen, muss man eigentlich über einen
 Google-E-Mail-Account verfügen oder einen neuen einrichten. Das nun besorgte
-Datenschützer zurecht, denn Google ist ja wegen Datennutzung und -speicherung
+Datenschützer zu Recht, denn Google ist ja wegen Datennutzung und -speicherung
 schon oft in die Kritik geraten. Angeblich werden die Daten bezüglich des Covid-Tests
 separat gespeichert und nicht mit der Google-E-Mail verlinkt. Wegen der kritischen
 Stimmen erlaubt Google aber jetzt auch Nicht-Google-E-Mails.
