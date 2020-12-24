@@ -1,0 +1,96 @@
+San Francisco, den 24.12.2020
+
+@Z: Weihnachten 2020
+
+<pic images/collage-2020.ps Weihnachten 2020>
+
+<em>Angelika</em> Ein anstrengendes und auch sehr ungewöhnliches Jahr geht zu Ende. In
+einem Jahr mit so vielen Herausforderungen sehnen wir uns alle nach einem Stück
+Normalität. Deshalb darf auch 2020 mein Weihnachtsrundbrief nicht fehlen.
+Mehr denn je war dieses Jahr von Statistiken geprägt. Zeitungen und
+Nachrichtensendungen zeigten uns ständig die Infektionsraten und die Zahl der
+Covid-Toten. In San Francisco und Umgebung geht es neuerdings immer um die
+verbleibende Anzahl der Intensivbetten. Statistiken sind oft nüchterne Zahlen,
+aber dahinter verbergen sich Geschichten und die Zeichen der Zeit. Die
+nachfolgende kleine persönliche Statistik zeigt ein wenig, wie wir das Jahr
+verbracht haben. Wir hoffen, dass das nächste Jahr wieder anders aussehen
+wird.
+
+<pic images/shoes.ps Abgelaufene Schuhe vom vielen Stadtteilwandern.>
+
+@Z: Jahresstatistik 2020
+
+<HTMLONLY>
+<table border="1">
+
+<tr><td>Unser letzter Besuch in einem Restaurant in San Francisco</td><td>2. März 2020</td></tr>
+
+<tr><td>Stolze Besitzer von wievielen Stoffmasken</td><td>25</td></tr>
+
+<tr><td>Neue Küchengeräte angeschafft</td><td>5</td></tr>
+
+<tr><td>Volle Tage bei verschlossenen Fenstern und Türen in der Wohnung verschanzt wegen der schlechten Luft bedingt durch die Waldbrände</td><td>7</td></tr>
+
+<tr><td>Wanderungen oder Spaziergänge</td><td>221</td></tr>
+
+<tr><td>Angelika: Paar durchgelaufene Wanderschuhe/Turnschuhe</td><td>1/1</td></tr>
+
+<tr><td>Michael: Tage im Home-Office</td><td>216</td></tr>
+
+<tr><td>Angelika: Wochen Distanzlernen</td><td>12</td></tr>
+
+<tr><td>Angelika: Covid Tests</td><td>5</td></tr>
+
+<tr><td>Angelika: Friseurbesuche/Haare gemacht von Hausfriseur Michael</td><td>3/5</td></tr>
+
+<tr><td>Angelika: Bücher gelesen</td><td>32</td></tr>
+
+</table>
+</HTMLONLY>
+
+<PRINTONLY>
+\begin{tabular}[t]{|p{5cm}|l|}
+\hline
+
+Unser letzter Besuch in einem Restaurant in San Francisco & 2. März 2020 \\
+\hline
+
+Stolze Besitzer von wievielen Stoffmasken & 25 \\
+\hline
+
+Neue Küchengeräte angeschafft & 5 \\
+\hline
+
+Volle Tage bei verschlossenen Fenstern und Türen in der Wohnung verschanzt wegen der schlechten Luft bedingt durch die Waldbrände & 7 \\
+\hline
+
+Wanderungen oder Spaziergänge & 221 \\
+\hline
+
+Angelika: Paar durchgelaufene Wanderschuhe/Turnschuhe & 1/1 \\
+\hline
+
+Michael: Tage im Home-Office & 216 \\
+\hline
+
+Angelika: Wochen Distanzlernen & 12 \\
+\hline
+
+Angelika: Covid Tests & 5 \\
+\hline
+
+Angelika: Friseurbesuche/Haare gemacht von Hausfriseur Michael & 3/5 \\
+\hline
+
+Angelika: Bücher gelesen & 32 \\
+\hline
+
+\end{tabular}
+</PRINTONLY>
+
+<pic images/masks.ps Unsere Sammlung von 25 Covid-Masken.>
+
+Wir wünschen euch allen frohe Weihnachten, auch wenn es dieses Jahr vielleicht
+anders als sonst ist. Bleibt daheim und macht es euch gemütlich!
+
+Angelika und Michael
