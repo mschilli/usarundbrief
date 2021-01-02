@@ -138,17 +138,17 @@ doing laundry.
 
 <pic images/laundromat-quarters.ps The washer in the in-house laundromat downstairs requires lots of quarters as payment.>
 
-TODO
+No one carries that much small change in their wallets, of course, which is
+why we go to the bank every couple of months, bring a big shopping bag and
+carry home a kilo of these quarters. When I started doing the bank run, I
+would ask the cashier if they could get me one of those cotton bags with an
+imprinted dollar signs for my loot, just like they do in cartoons, but this
+joke got old at some point. Recently, however, something astonishing happened:
+The cashier told me that she could no longer provide me with $200 in quarters,
+as all banks were rationing them, and the maximum I could get was a single
+roll with $10 worth of quarters (40). What!?
 
-So viel Münzgeld trägt natürlich niemand im Portemonnaie herum, und so gehen wir
-alle paar Monate zur Bank, bringen einen großen Stoffbeutel mit und tragen ein
-paar Kilo Quarter heim. Früher habe ich jedesmal gefragt, ob die Kassiererin
-mir nicht einen Banksack mit einem Dollarzeichen drauf geben könne, wie man sie
-bei Bankräubern in Karrikaturen sieht, aber der Witz wurde irgendwann alt.
-Letztens machte mich die Kassiererin allerdings darauf aufmerksam, dass sie mir
-nicht wie gewünscht $200 in Quarters geben könne, da zur Zeit alle Banken pro
-Kunde nur noch eine einzige 10-Dollar-Bandarole (also 40 Quarters)
-herausgeben dürften. Waas?
+TODO
 
 Der Grund stand neulich in der
 <LINK>https://www.pennlive.com/nation-world/2020/07/us-coin-shortage-how-wawa-walmart-and-more-are-dealing-with-a-lack-of-quarters-dimes-nickles-and-pennies.html|Zeitung|Kleingeldkrise</LINK>:
