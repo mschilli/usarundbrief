@@ -123,22 +123,22 @@ heavier than our entire state affected by forest fires.
 
 <pic images/ob-masks.ps San Francisco's Ocean Beach has strong winds, which blow away the smoke and make it safe for walking.>
 
+@Z: National small change shortage due to Corona
+
+<pic images/quarters.ps Der "quarter" coin is still an important form of currency.>
+
+<em>Michael</em> Once a week is laundry day in our apartment, we're hauling
+several baskets full of dirty laundry down to the in-house laundromat and
+use the washers and dryers there. Each of them wants to be fed with quarter
+coins, and since one wash cycle costs $2.50, this requires ten coins each time.
+Each additional load adds more, and after the finishing spin cycle, the wet
+laundry needs to go in the dryer, which costs an additional $2.00 per load.
+In this way, it's not uncommon, that we spend 40 quarters per week, just for
+doing laundry.
+
+<pic images/laundromat-quarters.ps The washer in the in-house laundromat downstairs requires lots of quarters as payment.>
+
 TODO
-
-@Z: Wegen Corona: Nationale Kleingeldkrise
-
-<pic images/quarters.ps Der "Quarter" ist ein viertel Dollar und eine wichtige Münze im Zahlungsverkehr.>
-
-<em>Michael</em> Etwa einmal die Woche ist bei uns Waschtag, da schleppen wir
-unsere Schmutzwäsche runter in die Waschküche unseres Mietshauses und stellen
-eine der beiden Maschinen an. Auf jeder steht ein Aufsatz, der
-Vierteldollar-Münzen, sogenannte "Quarters" schluckt, und beim Preis von $2.50
-pro Waschgang erfordert dies schlappe zehn Münzen. Dann kommt noch eine zweite
-oder dritte Trommel hinzu, dann die ganze Chose noch durch den Trockner, der
-ebensfalls $2.00 pro Ladung schluckt, und ruck-zuck sind 40 Quarters
-verbraucht.
-
-<pic images/laundromat-quarters.ps Die Waschmaschine in der Waschküche unseres Hauses nimmt nur Quarters.>
 
 So viel Münzgeld trägt natürlich niemand im Portemonnaie herum, und so gehen wir
 alle paar Monate zur Bank, bringen einen großen Stoffbeutel mit und tragen ein
