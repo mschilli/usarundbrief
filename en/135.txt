@@ -179,25 +179,27 @@ until the quarter circulation problem has been fixed.  Otherwise, we'll be
 skimping and stretch out the laundy schedule, washing our clothes only once
 every two weeks to save quarters should be feasible in a pinch.
 
+@Z: Corona Restrictions
+
+<pic images/supercuts-24.ps Last week the Supercuts hair salon on our street started offering haircuts on the sidewalk.>
+
+<em>Angelika</em>As we've been watching the German news show Tagesschau every
+single day for more than a decade, we're nowadays very well aware about how
+different countries are imposing very different types of restrictions on the
+population during the Corona crisis. We learned that apparently in Germany,
+there's nothing more important than traveling to your summer vacation
+destination. In comparison, I'd be quite happy already if at least my hair salon would be
+allowed to open again.  It feels like we're stuck in a time capsule here in San
+Francisco. Mayor London Breed has put city life to a grinding halt since mid
+March, and there's been hardly any remediation since. I keep getting emails
+from the hair salon that they're going to open real soon now, but several dates have now
+been canceled, because Corona case numbers kept bouncing back. I've come
+to the conclusion, that we'll have to wait until the vaccine is available, to
+see the city come back to life.
+
+<pic images/sf-market-boarded.ps Ghost town San Francisco: Almost every store on Market Street has shuttered and boarded up their windows.>
+
 TODO
-
-@Z: Coronaeinschränkungen
-
-<pic images/supercuts-24.ps Letzte Woche begann ein Frisör auf der 24sten Straße, Haare auf dem Gehsteig zu schneiden.>
-
-<em>Angelika</em> Die schon erwähnte Tagesschau führt uns auch immer vor Augen,
-wie unterschiedlich die Coronazahlen und -einschränkungen von Land zu Land
-sind.  Während es in  Deutschland augenscheinlich nicht Wichtigeres als den
-Sommerurlaub gab, wäre ich schon glücklich, wenn mein Frisör wieder aufmachen
-dürfte. In San Francisco fühlt es sich so an, als ob wir in einer Zeitkapsel
-stecken geblieben wären. San Franciscos Bürgermeisterin London Breed legte das
-Stadtleben Mitte März auf Eis und seitdem geht wenig vorwärts. Ich kriege zwar
-stets E-Mails von meinem Frisörsalon, dass sie jetzt bald wieder aufmachen
-dürfen, aber bis jetzt wurde das immer wieder zurückgefahren, weil die
-Coronafälle doch wieder stiegen. Mittlerweile glaube ich, dass wir bis zum
-Impfstoff ausharren müssen, damit die Stadt wieder zum Leben erweckt wird.
-
-<pic images/sf-market-boarded.ps Geisterstadt San Francisco: Auf der Market-Street ist praktisch jedes Geschäft mit Brettern vernagelt.>
 
 Seit unserem letzten Rundbrief (<RBLINK>20200519#8</RBLINK>) hat sich in San
 Francisco eigentlich nichts verändert, außer dass einige Geschäfte, die ihren
