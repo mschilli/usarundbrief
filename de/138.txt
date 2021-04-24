@@ -1,0 +1,368 @@
+San Francisco, den 24.04.2021
+
+@Z: Impfen in San Francisco
+
+<em>Angelika</em>
+
+<pic images/vax-uca.ps Angelika im Impfzentrum.>
+<pic images/vax-maze.ps Beim Drive-Through müssen die Autos zunächst durch ein Labyrinth.>
+<pic images/vax-lane.ps Das Spritzerl bekommt man im Auto sitzend während man durch das Zelt fährt.>
+<pic images/vax-drive.ps Nach dem Impfen muss man auf einen Parkplatz fahren und 15 Minuten warten.>
+
+@Z: Fry's Electronics pleite
+
+<pic images/frys-san-jose.ps Der im Pyramiden-Look gestaltete Fry's in San Jose. Foto: flickr[bryce_edwards|bryce_edwards/2273387520]>
+
+<em>Michael</em> An meinen ersten Besuch beim Elektronik-Discounter "Fry's
+Electronics" vor 24 Jahren kann ich mich noch gut erinnern. Wir waren gerade
+nach Kalifornien gezogen, der Goldrausch im Silicon Valley war in vollem Gange,
+und jeder, der Computerkomponenten käuflich zu erwerben suchte, hang regelmäßig
+in einer der vielen verstreuten Fry's-Filialen herum, um die unglaublichen
+Preise und die noch unglaublicheren Rabatte zu bestaunen. Bei Fry's sah ich zum
+ersten Mal, dass eine Ware in einem Kaufhaus zu einem negativen Preis angeboten
+wurde, ein Packerl Disketten zum Preis von $0.99, wobei man $1.99 als
+Mail-In-Rebate zurückerstattet bekam.
+
+Jede Filiale war nach einem bestimmten Motto dekoriert, der Laden in San Jose
+an der Brokaw Road als Pyramide im Land der Pharaonen, an der Ladenzeile in
+Burbanks brach ein monströses UFO durch die Mauer, und in der Filiale in Palo
+Alto zeigten Cowboys und Indianer des wilden Westens wie es im 19. Jahrhundert
+in der Gegend zuging. Konzertflügel in Originalgröße standen herum, automatisch
+klassische Werke klimpernd. Und nicht zu vergessen der gigantische
+Zeitschriftenstand, der das aktuelle Linux-Magazine führte, das Vehikel der
+Programmier-Kolumne eures bescheidenen Schreiberlings. Aber das Wichtigste: Die
+Kette war ein Riesenerfolg, Kaufwillige drängten bis spät in die Nacht hinein
+in die Läden, luden gekaufte brandaktuelle PC-Hardware in ihre Autos, und eine
+regelrechte Geeks-Szene florierte dort.
+
+Diese Zeiten sind natürlich längst passé, die Online-Riesen haben den
+Präsenzkaufhäusern in den letzten zehn Jahren das Wasser vollständig
+abgegraben. Verrückterweise hielten sich die Fry's-Filialen aber immer noch,
+obwohl kaum noch Kunden kamen und in den Regalen kaum noch Produkte standen. Da
+Fry's als private Firma nicht an der Börse notiert war, konnte auch niemand in
+die Bücher gucken und abschätzen, wie lange das Imperium sich noch halten
+würde.
+
+<pic images/frys-burbanks.ps IM Fry's Electronics in Burbanks kracht ein UFO durch die Mauer. Foto: flickr[bryce_edwards|bryce_edwards/229692591]>
+
+Allerdings operierte der Laden immer schon am Rande der Legalität, es war
+allseits bekannt, dass sie umgetauschte Produkte einfach wieder in Plastikfolie
+einschweißten und als neu verkauften, was in Amerika illegal ist. Auch sah ich
+bei meinen immer spärlicher werdenden Besuchen immer missmutigere und
+verzweifelte Angestellte, sodass ich seit bestimmt fünf Jahren Geld darauf
+gewettet hätte, dass der Laden bald dichtmacht.  In letzter Zeit machten sich
+sogar einige Youtuber auf, um verstreute Filialen zu besuchen und
+mit den Fingern und besorgter Miene auf die leeren Regale zu deuten.
+
+Nun ist es offiziell: Fry's hat im Februar 2021 endgültig Bankrott angemeldet
+und alle Läden geschlossen. Die Schlacht ist verloren, aber "It was good while
+it lastet", wie der Amerikaner sagt.
+
+@Z: Amazon-Retouren im Supermarkt
+
+<pic images/amzn-return-kohl.ps Amazon nutzt strauchelnde Kaufhausketten für seine Retouren.>
+
+<em>Michael</em> Hin und wieder müssen wir Online erworbene Ware wieder
+umtauschen, sei es, dass ein Kleidungsstück nicht passt oder ein elektrisches
+Trumm nicht wie gewünscht funktioniert.  Kein Problem!  Bei Amazon ist der
+Kunde noch König, Umtauschen geht dort recht unkompliziert, einfach wieder einpacken,
+Umtauschzettel rein, kostenlos frankiert mit ausdruckbarem Etikett, aber dann
+muss man das Paket entweder zur Post, oder zu einer Zweigstelle der
+Paketdienste Fedex oder UPS bringen.
+
+Das Verfahren ist nicht nur für den Kunden umständlich, sondern auch für Amazon
+mit Kosten verbunden, denn Paketzusteller nehmen Geld für ihre Dienste, die
+Amazon schultern muss. Deshalb nimmt es nicht Wunder, dass der Online-Riese
+nach neuen Möglichkeiten sucht, die unumgänglichen Retouren möglichst simpel
+und kostengünstig abzuwickeln.
+
+So begann Amazon bei uns in Kalifornien vor einer Weile damit, die Rücksendung
+nicht gewünschter Waren über Filialen der Warenhauskette "Kohl's" abzuwickeln.
+Dückte man auf der Webseite den Knopf zur Rücksendung, kam ein QR-Code zum
+Vorschein, mit dem man (gerne auch nicht auf Papier sondern nur auf der Anzeige
+des Smartphones) zur nächsten Kohl's-Filiale marschierte, wo man, Schildern
+folgend, quer durch den Laden in einen hinteren Winkel gelotst wurde, wo ein
+Angestellter die Ware (auch gerne nicht eingepackt) entgegennahm, den Code mit
+einem Scanner einlas, und fertig war der Lack.
+
+<pic images/kohls-coupon.ps Wer nach der Amazon-Retoure bei Kohl's einkauft, wird mit 10 Dollar belohnt.>
+
+Kohl's ist eine dieser Kaufhausketten, bei der man sich fragt, warum sie
+überhaupt noch existieren, denn ihre Riesenparkplätze sind meist leer, ihre
+Verkaufsflächen verwaist, und die einzige missmutige Angestellte an der
+einzigen offenen Kasse braucht 10 Minuten, um 3 Kunden abzufertigen. So ein
+Geschäftsmodell ist eigentlich nur im Sozialismus der DDR vorstellbar, aber
+anscheinend legen Kohl-Aktionäre keinen Wert auf Dividenden oder
+Kurssteigerungen, und so dümpelt der marode Konzern weiter vor sich hin.  Vom
+Amazon-Fritzen am Umtauschschalter erhielt ich bei meinem Besuch sogar einen
+Promotions-Gutschein über $10 für Einkäufe bei Kohl's.  Freebies generell nicht
+abgeneigt, schaute ich auch ein bisserl rum, aber angesichts der desolaten
+Kassensituation, an der 10 Leute anstanden, ließ ich den Coupon achtlos
+verfallen.
+
+Nun hat Amazon vor einer Weile in einem milliardenschweren Deal die
+Edelsupermarktkette Whole Foods gekauft, die läuft wie geschmiert, und die
+Angestellten dort sind auf Zack und so erstaunlich gut gelaunt, dass ich
+oft vermute, dass sie in ihren Pausen regelmäßig am Haschpfeiferl ziehen. Egal,
+jedenfalls kann man Amazon-Retouren neuerdings auch in Filialen der
+Lebensmittelkette abgeben, und das ist riesig, da in unserem Viertel nur etwa 5
+Gehminuten von unserem Zuhause ein Whole Foods steht. Der hat von 9 bis 21 Uhr
+auf, und am Customer-Service-Schalter steht eine gutgelaunte Verkäuferin, der
+man das umzutauschende Teil einfach unverpackt in die Hand gibt. QR-Code
+gescannt, fertig. Und, ja, Milch brauchen wir noch, und Wurst, gleich
+mitnehmen!
+
+Und, erst gestern ist mir noch etwas Skurileres passiert: Ich hatte einen
+Festplatten-Adapter bei Amazon zum Preis von 6 Dollar bestellt, aber das Teil
+funktionierte nur sporadisch, also setzte ich an, die Rücksendung einzuleiten.
+Kaum hatte ich eingetippt, dass das Gerät fehlerhaft war, bot mir Amazon einen
+"Returnless Refund" an: Ich bekam mein Geld zurück, und brauchte das Teil nicht
+einmal zurückzuschicken!
+
+@Z: Schiffstau auf der Bay
+
+<pic images/cont-bay-1.ps Auf unserer Bay stecken vollgeladene Containerschiffe fest.>
+
+<em>Angelika</em> Wir gehen ja immer noch fast jeden Tag spazieren.
+Mittlerweile gehören unsere Märsche durch die Stadt zur täglichen Routine.
+Da San Francisco ja bekanntlich recht hügelig ist, haben wir oft fantastische
+Ausblicke auf die Stadt. Seit Monaten fällt uns dabei auf, dass sich riesige,
+mit Containern vollbeladene Schiffe in der San Francisco-Oakland-Bucht vor dem
+Hafen von Oakland aufreihen und im Stau stehen. Dies ist nicht etwa erst der
+Fall, seitdem das Containerschiff im Suezkanal feststeckte. In San Francisco
+gibt es übrigens keinen Hafen mehr, der Containerschiffe abfertigen kann, aber
+in Oakland, was auf der anderen Seite der Bucht liegt, schon.
+
+Der Hafen in Oakland gilt als einer der fünf wichtigsten Häfen in den USA. In
+Oakland wurden schon damals bei unserem Umzug in die USA unsere Sachen
+abgefertigt. Wie kommt es nun zu dem Gedränge vor dem Hafen? Auch dies sind die
+Auswirkungen der Pandemie und der komplexen Abhängigkeiten im
+Güterschiffsverkehr. Die Regale vieler Betriebe müssen nach Monaten der
+Schließungen wieder aufgestockt werden, und Zulieferer der Industrie brauchen
+ihrerseits neue Teile, die meist aus Asien kommen. Private Konsumenten haben in
+der Pandemie vom Sofa aus Rekordeinkäufe getätigt und Dinge bestellt, die
+häufig in China produziert und zusammengeschraubt werden, wie zum Beispiel
+Laufbänder für daheim. Der Container-Stau ist so schwerwiegend, dass selbst schon
+die <LINK>New York Times|https://www.nytimes.com/2021/03/06/business/global-shipping.html|Bericht in der New York Times über den Container-Stau</LINK>
+darüber  berichtet hat.
+
+<pic images/cont-bay-2.ps Weil Hafenarbeiter fehlen, müssen Containerschiffe warten.>
+
+Und auch im Hafen gelten Coronaauflagen,
+sodass das Aus- und Beladen der Container mehr Zeit in Anspruch nimmt, weil
+das Personal nicht so dicht gedrängt stehen darf und der Krankenstand höher ist.
+Das Problem beschränkt sich  nicht nur auf Oakland, denn auch in Long Beach
+bei Los Angeles warten die Schiffe im Ozean darauf, dass sie endlich die Erlaubnis zur
+Einfahrt in den Hafen erhalten.
+
+<pic images/cont-bay-3.ps Irgendwo auf diesen Schiffen sind noch Weihnachtspakete für uns.>
+
+Meist steuern die Schiffe aus Asien erst Südkalifornien an und
+fahren nach den ersten Be- und Entladen weiter nach Oakland. Von Oakland aus
+geht es nach Seattle, und dann wieder zurück nach Asien. In Oakland kam zu
+allem Übel noch hinzu, dass drei neue riesige Kräne an einem Ankerplatz
+erneuert worden sind, was einige Wochen in Anspruch nahm. Lustigerweise warten
+wir schon seit Oktober letzten Jahres auf ein Weihnachtspaket aus Deutschland,
+das per Schiff unterwegs ist. Wir fragen uns beim Spazierengehen immer, ob es
+sich wohl auf einem dieser großen Containerschiffe befindet. Und auch der
+große Megamarkt Costco hat Schwierigkeiten, einige Produkte wie den
+<LINK>leckeren importierten Käse aus Frankreich|https://www.usatoday.com/story/money/business/2021/03/10/costco-cheese-shortage-due-shipping-container-shortage/6944437002/|Lieferengpass bei französischem Käse</LINK>
+ auf seine Regale zu bekommen, ausgelöst durch die Probleme im Schiffsverkehr.
+Hoffentlich nimmt das Schiff mit dem teuren Käse bald wieder fahrt auf, eine Käseunglück
+hätte uns gerade noch gefehlt!
+
+@Z: Saison für Dungenness Crab
+
+<pic images/crab-dish.ps Leckeres Gericht aus gekochten Dungeness Crab.>
+
+<em>Michael</em> Ich weiß noch genau, als ich vor vielen vielen Jahren zum
+ersten Mal
+<LINK>https://en.wikipedia.org/wiki/Dungeness_crab|Dungeness Crab</LINK>
+aß. Wir waren im Wine-Country, oben im Napa Valley, in einer
+mittlerweile nicht mehr exisitierenden Wirtschaft namens "Tra Vigne", hatten in
+dem übervollen Restaurant gerade noch einen Platz an der Bar ergattert, und
+ich bestellte als Tagesmenü so einen Riesenkrebs zusammen mit einer mir damals
+unbekannten Biersorte, "India Pale Ale", von dem ich zunächst dachte, sie käme
+aus Indien. Okay, Leute, das war vor zwanzig Jahren, heutzutage kennt das
+natürlich jeder Depp.  Ungeschickt hantierte ich mit der Knackzange, puhlte das
+Fleisch fitzelchenweise aus den Beinpanzern, bis ich ganz fettige Finger hatte.
+Es schmeckte hervorragend, und seit dem ist IPA mein Lieblingsbier.
+
+<pic images/crab-fishing.ps An San Franciscos "Ocean Beach" Strand fischen viele nach Dungenness Crab.>
+
+Und das war, wie gesagt, vor über zwanzig Jahren, heutzutage kostet eine
+Dungeness-Crab im Restaurant gut und gerne 50 Dollar, und auch wenn sie als
+Ganzes serviert wird, kann man nur das Fleisch der insgesamt zweimal fünf
+Beinchen samt Scheren essen, unter dem Panzer in der Mitte ist außer dem
+Fleisch am Beinansatz nur ungenießbarer Schlotz und Kiemengedärm, und das wird
+in der Restaurantküche meist schon vor dem eigentlichen Kochen entfernt, damit
+es nicht den Geschmack des Muskelfleisches beeinträchtigt. Wenn sich der Gast
+also nach dem Verspeisen der Beinchen denkt "oho, jetzt schreite ich zum
+Hauptgang und nehme den Brustpanzer des Arrangements ab", wird er eines Besseren
+belehrt, denn darunter befindet sich, dank der Vorabeit des Kochs, nur noch
+gähnende Leere.
+
+Die Zubereitung ist denkbar simpel, man kocht sie einfach in Salzwasser, bis sie
+ganz rot sind und pinselt vielleicht noch etwas Butter darauf oder serviert sie
+mit Buttersauce zum Tunken. Vietnamesiche Restaurants wie zum Beispiel das
+Thanh Long in San Francisco dünsten Dungeness Crab aufwändig in ihrer
+Knoblauchküche, das ist ebenfalls super lecker, aber man sollte am Tag darauf
+nicht auf die Idee kommen, im Büro jemanden unter zwei Meter Abstand
+anzusprechen. Wegen der magischen Preisgrenze von 50 Dollar, über der sich kaum
+mehr ein Gericht in einer Gaststätte verkaufen lässt, sind schon viele
+Restaurants dazu über gegangen, statt lokal gefangener Krustentiere einfach
+billige gefrorene und oft schon vorgekochte Dungeness Crab von gottweißwo her
+zu servieren, aber die schmecken nicht so frisch.
+
+<pic images/crab-ob.ps Am Ocean Beach in San Francisco fangen viele Hobbyfischer Dungeness Crab.>
+
+Übrigens, immer wenn ich zu den Crab "Krabben" sage, berichtigt mich Angelika,
+denn auf Norddeutsch heißt "Crab" ja eigentlich "Krebs", denn "Krabben" nennt
+der Preuße diese kleinen auch "Shrimps" (oder Garnelen) genannten Würmchen, die
+man durch sogenanntes "puhlen" (Fachbegriff aus der Region) aus ihrem
+länglichen Panzer entfernt. Die sind ebenfalls sehr lecker, aber halt eine ganz
+andere kulinarische Kategorie.  Auf Wikipedia steht hingegen, dass man auf
+Normaldeutsch mit dem Wort "Krabbe" durchaus auch solche Zehnbeiner wie die
+Dungeness Crab bezeichnen kann, allerdings kommt diese Art nur im Nordpazifik
+hier bei uns vor der Haustüre vor, und nicht im Atlantik, Nordsee oder dem
+Mittelmeer.
+
+Krabben sind wie alle Krustentiere sehr zählebig und kaum auf humane Weise
+totzukriegen. Die einfachste Zubereitungsart ist es deswegen, die noch lebende
+aber durch Kühlen im Kühlschrank betäubte Krabbe in brodelndes Salzwasser zu
+werfen. Der unter dem Brustpanzer sitzende Schlotz und das Kiemengedärm trübt aber
+etwas das Wasser und damit den Geschmack des reinen Beinfleisches. Manche
+Feinschmecker schwören allerdings auf diesen "buttrigen" Geschmack, der
+hauptsächlich von der Leber des Krustentieres kommt, die allerdings auch
+allerhand toxische Stoffe aus dem Ozean aufgesaugt hat. Wir haben vor sechs Jahren
+mal einen Crab-Kochkurs (<RBLINK>20140205#1</RBLINK>) für Anfänger gemacht,
+und dort dieses Verfahren gelernt.
+
+<pic images/crab-teal.ps Nichts für zarte Gemüter: Krabben zubereiten.>
+
+Mit der Krabbenzerteilmaschine des Herstellers "Crab Teal", die eigentlich nur
+aus einem aufrecht stehenden, leicht scharfkantigen Blech besteht, kann man das
+Ganze in die Profiliga überführen.  Der Amateurkoch setzt die noch lebende
+Krabbe mit dem Brustpanzer oben auf die aufrecht stehende Schneide, und haut
+dann mit der flachen Hand mit Wucht von oben auf den Rückenpanzer der Krabbe,
+dass die Schneide von unten durch das Gedärm der Krabbe dringt und ihr den
+Garaus bereitet. Anschließend reißt man die zweimal fünf Beinchen an den Seiten
+samt daranhängendem Panzerfleisch ab, schlackert das Ganze kurz aus, damit
+eventuell noch daran hängendes Gedärm und Kiemengewürm abfällt, und kocht
+ausschließlich das essbare Krabbenfleisch in Salzwasser. Es ist übrigens
+wichtig, das Kochwasser anständig zu salzen, da die Krabbe ja im Meer mit hohem
+Salzgehalt gelebt hat. Kochen in ungesalzenem Wasser entzöge der Krabbe ihr
+eigenes Salz und hätte Geschmackseinbußen zur Folge.
+
+Asiatische Märkte in und um San Francisco verkaufen Dungeness Crab während der
+Saison frisch und lebend für etwa $10 das Pfund. Man deutet auf ein Aquarium
+mit hunderten zappelnden Krabben, der Verkäufer fischt die gewünschten heraus,
+und verpackt sie in eine Tüte, worin sie dann weiter herumzappeln. So fährt man
+sie schnell heim, nimmt sie aus der Tüte, und stellt sie dort in einem Bottich
+mit Eis und einem nassen Handtuch darüber in den Kühlschrank.  Nach 15 bis 30
+Minuten sind die Krabben dann betäubt und man wirft sie entweder direkt in
+einen Kochtopf mit brodelndem Wasser, oder bereitet ihnen vorher mit einem
+Schraubenzieher oder dem oben beschriebenen Crab-Teal-Werkzeug den Garaus.
+Noch lebende Krabben fasst man übrigenns nur von hinten an, mit dem Daumen oben
+am Panzer und den vier restlichen Fingern an der Unterseite. Wer den Fehler
+macht, in die Reichweite der mächtigen Scheren zu kommen, wird das schnell
+bereuen. Auf Youtube kann man einsehen, wie gemein diese scharfen Werkzeuge
+menschliche Finger einzwicken können. Da die Krabbe aber nur nach vorne und zur
+Seite schnappen kann, sind die Finger des Kochs beim Greifen von hinten sicher.
+Handschuhe schaden aber nicht.
+
+Der Name "Dungeness" kommt übrigens von der Ortschaft "Dungeness" im nördlichen
+Bundesstaat Washington, vor deren Küste die Krabbe vorkommt, so wie
+praktisch überall entlang der Westküste runter nach Süden, bis das Wasser des
+Ozeans irgendwo bei Los Angeles zu warm wird.  Damit die Fischer nicht den
+Bestand bedrohen, dürfen die Krabben nur während einer jährlich neu
+festgelegten Saison gefangen werden, dieses Jahr lief sie zwischen dem 7.
+November 2020 und dem 30. Juli 2021.  Nur Exemplare, die ein Mindesmaß von 5
+3/4 Inches waagerecht über den Brustpanzer messen, dürfen die Fischer behalten,
+verfängt sich ein kleineres Kerlchen in den Schlingen, werfen sie es wieder
+zurück ins Wasser.
+
+<pic images/crab-snare.ps Mit diesen Schlingen fangen Fischer Dungenness Crab.>
+
+Wie fängt man diese Riesenkrabben? Professionelle Fischer mit großen Booten
+werfen große Metallkörbe aus (wie in der Fernsehsendung "The Deadliest Catch"),
+in die die Krabben hineinkrabbeln, um die darin versteckten Köder zu
+verschnabulieren. Heraus kommen sie nicht mehr, da ihre Intelligenz nicht dazu
+ausreicht, die Klapptüren von innen zu öffnen. Hobbyfischer hingegen arbeiten
+mit einer stinknormalen Angel, an der statt einem Haken ein Arrangement von
+Plastikschlingen hängt ("crab snare"). Daran wiederum hängt ein Köder, meist
+ein kleiner Tintenfisch, den die Fischer in der Köderabteilung eines
+Fischereifachgeschäfts erwerben. Widmet sich nun die Krabbe dem Köder, verfängt
+sie sich mit ihren langen Beinen oft hoffnungslos in den Schlingen. Der Fischer
+merkt dann, dass etwas an der Angel zappelt, und zieht den Fang vorsichtig an
+Land. Die Vorschriften legen fest, dass der Fischer nur voll ausgewachsene
+Krabben behalten darf, oder das Exemplar muss zurück ins Meer. Es laufen
+übrigens, sogar im gesetzlosen San Francisco, tatsächlich Park Ranger herum,
+die kontrollieren, ob Strandangler eine entsprechende Lizenz vorweisen können,
+und schielen auch in die Kübel mit den gefangenen Krabben, um zu sehen, ob
+diese das erforderliche Mindestmaß aufweisen.
+
+In Fischerkreisen gilt es übrigens als extrem uncool, Krabbenweibchen zu
+fangen, da diese für die Reproduktion und damit die Sicherung des
+Krabbenbestandes sorgen.  Weibchen unterscheiden sich von den Männchen dadurch,
+dass Männchen eine auffällige obeliskenhafte Zeichnung an der Unterseite des
+Panzers aufweisen. In den Bundesstaaten Oregon und Washington ist das Fangen
+weiblicher Krabben sogar illegal, Fischer müssen sie zähneknirschend wieder ins
+Meer werfen, falls sie sie beim Verschnabulieren des Köders erwischt haben. Als
+die Popsirene Gwen Stefani neulich mit ihrem neuen Gschpusi, dem Countrysänger Blake
+Shelton in der Zeitung stand, und im neugefundenen Rustikalstil den Paparazzi
+stolz selbst geangelte Krabben präsentierte, ging auf Profifischerseiten im
+Internet gleich das Gemotze los, denn die in die Kamera gehaltene Krabbe war
+ein Weibchen. Aua!
+
+<pic images/crab-ob-many.ps An San Franciscos Ocean Beach stehen die Krabbenangler manchmal dichtgedrängt.>
+
+Übrigens geht der Amerikaner vorsichtig mit der Mehrzahl des Wortes "Crab" um.
+Fischer fangen "crab" und nicht "crabs", ein Dinner mit Krabben ist ein "Crab
+Dinner" und kein "Crabs Dinner". Warum? Das Wort "Crabs" bezeichnet im
+englischen Sprachraum den menschlichen Befall mit der Filzlaus. Wer den Film
+"Das Boot" gesehen hat, weiß, dass der Schiffsarzt dieses Krankheitsbild salopp
+als "Sackratten" bezeichnet hat.  Also nicht verwechseln, immer die Einzahl
+nutzen, vor allem im Restaurant!
+
+@Z: Bald Trinkgeld im Supermarkt?
+
+<pic images/tartine.ps Wieso will die Bäckereiverkäuferin auf einmal Trinkgeld?>
+
+<em>Michael</em> Angefangen hat alles in den Cafes, in denen heutzutage
+flächendeckend sogenannte "Tip Jars" an der Kasse stehen. Die wenigen Barzahler
+werfen, auch wenn sie als "To Go"-Kunden keinerlei Serviceleistung erhalten,
+als Münzen erhaltenes Wechselgeld dort hinein, wenn sie ihren Latte bezahlen.
+Wofür eigentlich? Für das Aufschäumen der Milch, das Eingießen des Kaffees, oder
+das Abkassieren?
+
+Neulich war ich in unserem modischen neuen Fischladen um die Ecke, kaufte etwas
+rohen Thunfisch und zahlte mit Kreditkarte, schwupps kam mir ein Dialog auf dem
+Terminal entgegen, der fragte, ob ich lieber 15, 20 oder 25 Prozent Trinkgeld
+geben wolle. Schon wieder: Wofür eigentlich? Der Fischverkäufer hat nur das
+Stück Thunfish, auf das ich gezeigt habe, auf die Waage geworfen, den Preis
+eingetippt, den Fisch eingewickelt, das Etikett auf das Packerl mit dem Fisch
+gepappt und abkassiert.  Ich wählte natürlich eiskalt Null aus. Wieso sollte
+der Modefischverkäufer mehr verdienen als der Verkäufer im Supermarkt?
+
+Trinkgeld wird vor allem in linken Hochburgen wie San Francisco mittlerweile
+als Almosen für Geringverdiener interpretiert. "Ach, der Kaffeeaufschäumer
+verdient ja nur 10 Dollar die Stunde, und ich bin stinkreich, also hau'n wir
+mal 'nen Dollar in die Trinkgeldbüchse, kost mich ja nix!". Was der großzügige
+linke Gutsherr freilich nicht bedenkt, ist, dass nicht jeder irres Einkommen
+von Technologieunternehmen in den Arsch geschoben bekommt. Was ist, wenn sich
+auch ein Bauarbeiter mal einen Kaffee gönnen möchte, überzahlt er dann auch mit
+einem Zehntel seines Stundenlohns, für eine Leistung, die eigentlich schon im
+Kaufpreis enthalten ist?
+
+Nur Fastfood-Restaurants wie McDonald's verbieten es den Angestellten übrigens,
+Trinkgeldbecher aufzustellen. Und warum bleibt eigentlich die
+Supermarktkassiererin bei diesem massiven Geldregen außen vor, würde die sich
+nicht über 15 Dollar freuen, wenn sie einen Einkaufswagen mit 100 Dollar Waren
+abkassiert? Oder ein Postbote, der ein 100-Dollar teures Amazon-Paket
+anschleppt? Wie immer ist es hilfreich, die Welt aus mehreren Winkeln zu
+betrachten, und nicht nur aus dem Inneren einer selbstgemachten Seifenblase.
+
+Grüße:
+
+Angelika und Michael
