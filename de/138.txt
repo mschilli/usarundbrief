@@ -1,13 +1,191 @@
-San Francisco, den 24.04.2021
+San Francisco, den 25.04.2021
 
-@Z: Impfen in San Francisco
+@Z: Corona-Impfen in San Francisco
 
-<em>Angelika</em>
+<pic images/vax-lane.ps Das Spritzerl bekommt man im Auto sitzend während man durch das Zelt fährt.>
+
+<em>Angelika</em> Letztes Jahr saßen wir gefühlt im Dauerlockdown und alle Welt
+hat die USA zurecht bemitleidet. Denn es sah so aus, als ob dieses große Land die
+Pandemie nicht in den Griff bekommen würde. Jetzt scheint sich alles umgedreht
+zu haben, denn nach anfänglichen Stolpersteinen ist die Impfkampagne gut
+angelaufen. In San Francisco haben mittlerweile 60% ihre erste Impfung erhalten
+und fast 40% sind vollständig geimpft. Es gibt mittlerweile keine
+Priorisierung mehr, sondern jeder ab 16 kann einen Impftermin ausmachen.
+
+USA-weit sind mittlerweile fast 
+<LINK>https://covid.cdc.gov/covid-data-tracker/#vaccinations|30% vollständig geimpft|30% aller Amerikaner sind geimpft</LINK>. Das Gleiche gilt für
+Kalifornien. In den USA erhält der Impfwillige entweder Moderna,
+Pfizer/Biontech oder Johnson and Johnson. Letzteren hat die Gesundheitsbehörde
+kurzfristig ausgesetzt wegen einiger schwerer Thrombosefälle, aber jetzt ist er wieder verfügbar.
+Andere Impfstoffe wie zum Beispiel Astra Zeneca sind in den USA noch nicht zugelassen.
+Außer bei dem Impfstoff von Johnson and Johnson braucht jeder zwei Dosen, die
+hier im Anstand von 3-6 Wochen gegeben werden. Ich habe den Impfstoff von
+Pfizer im Abstand von vier Wochen erhalten und bin mittlerweile vollständig
+geimpft. Michael erhielt seine erste Dosis von Moderna an Ostern und die zweite
+gibt es am 1. Mai. Lustigerweise sagt hier keiner Pfizer/Biontech sondern meist
+immer nur Pfizer, während uns ausfällt, dass es in der deutschen Presse stets
+Biontech/Pfizer heißt.
+
+Wie läuft das Impfen hier nun genau ab? Auch in den USA lag es in der
+Verantwortung der einzelnen Bundesstaaten, das Impfen zu organisieren und zu
+bestimmen, wer zuerst den Impfstoff bekommt. Die staatliche Gesundsheitsbehörde
+(CDC = Centers for Disease Control) veröffentlichte dazu Richtlinien. In
+Kalifornien lief das zunächst etwas chaotisch ab. Man einigte sich zwar
+schnell, dass das medizinische und Pflegepersonal, das Coronapatienten
+versorgt, sowie die über 80-Jährigen zuerst an der Reihe sind, aber dann ging
+das Zerren und Feilschen los. Wer gehörte in die zweite Prioritätengruppe? Die
+Frau an der Kasse im Supermarkt, der Lehrer in der Schule, der Obdachlose, der
+Feldarbeiter, der das Gemüse erntet? Oder doch vielleicht erst die Jüngeren mit
+schweren Vorerkrankungen? Oder sollte man einfach nur nach Alter vorgehen, wie
+in einigen anderen Bundesstaaten, zum Beispiel Connecticut und Maine?
 
 <pic images/vax-uca.ps Angelika im Impfzentrum.>
+
+Unser Gouverneur Gavin Newsom geriet dann
+auch etwas in Stress, weil er gerade mit einem Abberufungsverfahren zu
+kämpfen hat, und er nicht ins Fettnäpfchen treten wollte. In San Francisco
+diskutiert eh jeder gern. Wir haben oft den Eindruck, dass es mehr darum geht,
+wer recht hat als etwas auf die Reihe zu bringen, aber schließlich raufte man
+sich zusammen und legte folgende Reihenfolge fest: Die Phase 1A
+berechtigt Personen, die mit Patienten oder in Pflegeheimen
+arbeiten, sowie die Bewohner von Altenheimen und Senioren im
+betagten Alter. In Phase 1B folgten Bürger
+ab 65 und Menschen, die in Schulen oder in der Lebensmittelindustrie und
+Landwirtschaft arbeiten, sowie Polizisten und Feuerwehrleute. Mitte
+März kamen Menschen, egal welchen Alters, mit chronischen Erkrankungen dran,
+sowie Inhaftierte, Obdachlose und Menschen im Transportwesen.  Ab 1. April
+durften sich die ab-50-Jährigen freuen. Seit 15. April kann sich
+jeder ab 16 zum Impfen anmelden.
+
 <pic images/vax-maze.ps Beim Drive-Through müssen die Autos zunächst durch ein Labyrinth.>
-<pic images/vax-lane.ps Das Spritzerl bekommt man im Auto sitzend während man durch das Zelt fährt.>
+
+TODO
+
+Da ich in einer Schule arbeite war ich ziemlich schnell berechtigt. Allerdings
+lief zu der Zeit auch noch alles nicht so rund, und ich musste mich durch das
+Chaos von dezentralisierten Bestimmungen wühlen. Auch hier weiß die eine Hand
+oft nicht, was die andere tut. Zunächst einmal konnte ich mich bei der Stadt
+San Francisco über die städtische Webseite (sf.gov) regristrieren. Ich
+beantwortete ein paar Fragen online: Alter, Beruf, eventuell vorhandene
+Vorerkrankungen und ob ich in beengten Verhältnisse lebe (z.B., im
+Obdachlosenasyl). Dann gab ich meine E-Mail an, sodass die Stadt mich
+benachrichtigen konnte, sobald ich an der Reihe war. Die Stadt schickte mir
+dann auch die Bestätigung, dass ich zu den Personen in der Phase 1 B gehöre.
+Parallelen gab es auch eine Registrierungsseite vom Bundesstaat Kalifornien
+(myturn.ca.gov). Da meldete ich mich auch an, frei nach dem Motto doppelt hält
+besser. Dann hieß es abwarten. In Kalifornien entschloss man sich dazu mit den
+großen Gesundheitsorganisationen wie Kaiser Permanente, Sutter Health,
+Stanford Health und in San Francisco auch UCSF (Universitätskrankenhaus)
+zusammen zu arbeiten. Da ich viele Ärzte habe, die mit UCSF verbandelt sind,
+und USCF führend in der Forschung ist, schaute ich mir auch immer wieder
+regelmäßig deren Covid-Informationen an. Und auf einmal sah ich dort, dass
+UCSF das Personal, das in Schulen arbeitet, bereits in ihrer extra
+eingerichteten Impfklinik impft, obwohl die Stadt San Francisco noch nicht in
+Phase 1 B war. Also machte ich schnellstens einen Termin über ihr
+Patientenportal “Mychart”. Ich konnte mein Glück kaum fassen und dachte am
+Anfang, dass es sich um einen Fehler handeln könnte. Aber am Sonntag, dem 14.
+Februar, fuhren wir zum UCSF Komplex an der Parnassus Avenue (UCSF hat Gebäude
+und Krankenhäuser über die ganze Stadt verteilt), und ich erhielt die Spritze
+mit dem Pfizer-Impfstoff. In der Impfklinik musste ich schnell die üblichen
+Covid-Fragenkatalog beantworten, mich mit meinem kalifornischen Führerschein
+ausweisen und sagen, um welche Uhrzeit mein Termin ist. Dann führte mich das
+Personal in einen Raum, der wie ein Klassenzimmer ohne Pulte aussah. Es gab
+mindestens 9 solcher Zimmer zum Impfen. Im Zimmer waren 3 Stühle großzügig
+im Raum verteilt, auf denen 2 bereits Geimpfte zur Beobachtung saßen. Dann gab
+es noch einen Stuhl auf dem geimpft wurde und auf den ich mich setzte. Der
+Impfer fragte mich noch einmal nach meinem Namen und nach meinem Geburtsdatum.
+Dann klärte er mich auf, dass ich den Impfstoff von Pfizer bekäme, was ich
+vorher nicht wusste. Er fragte, ob ich damit einverstanden wäre und ob ich
+schon einmal allergisch auf einen Impfstoff reagiert hätte. Ich musste nicht
+beweisen, dass ich in einer Schule arbeite, obwohl bei der Terminvergabe
+aufgelistet war, was man als Beweis mitzubringen hätte (Gehaltsabrechnung oder
+Dienstausweis). Dann bekam ich auch schon das Spritzlein. Zum Abschluss
+überreichte mir mein Impfer meine Impfkarte, in der er mit der Hand
+eingetragen hatte, wann und welche erste Dosis ich gerade erhalten hatte. Das
+Dokument ist zwar offiziell von der CDC gestellt, aber sieht wie eine weiße
+Karteikarte aus, die natürlich null fälschungssicher ist, weil noch nicht
+einmal ein offizieller Stempel darauf prangt. Ich hatte sogar meinen deutschen
+Impfpass dabei, aber damit kann hier keiner etwas anfangen. Danach gesellte ich
+mich zu den anderen schon Geimpften und wartete die vorgeschriebenen 15 Minuten
+brav auf dem Stuhl, während ich mich nett mit meinen Mitstreitern unterhielt
+und Michael schon ungeduldig im Auto draußen auf mich wartete. Jeder war ein
+wenig euphorisch. Wir tauschten natürlich unsere Erlebnisse aus, wie wir den
+heiß begehrten Termin ergattert hatten. Nach der ersten Impfung spürte ich
+rein gar nichts, außer, dass der Arm mit der Einstichstelle einige Tage etwas
+weh tat, was aber nicht der Rede wer war. Nach vier Wochen machte ich mich das
+zweite Mal auf den Weg in die Impfklinik. Auch das war ein wenig eine
+Zitterpartie, denn der Impfstoff war immer noch knapp, und es gab immer wieder
+Meldungen von Engpäsen, die zum Absagen von den zweiten Terminen führten.
+Aber auch dieses Mal hatte ich wieder das Glück auf meiner Seite. Ich bekam
+die zweite Spritze wie vorgesehen am 14. März. Zunächst fühlte ich mich
+bombig, fast ein wenig aufgedreht, aber am nächsten Tag setzten leichte
+Gliederschmerzen und eine bleierne Müdigkeit ein. Das Ganze dauerte aber nur
+24 Stunden und war danach wie weggeblasen bei mir.
+
+Michael lässt mir bei Dingen, die mit etwas bürokratischen Aufwand verbunden
+sind, ja gern den Vortritt. Da es aber äußerst unpraktisch ist, wenn einer in
+der Familie geimpft ist und der andere nicht, drängte ich darauf, dass er,
+sobald er dran ist, sich impfen lässt. Mittlerweile gab es zwei große
+Massenimpfzentren in San Francisco, eines im Messecenter, dem Moscone Center,
+in der Innenstadt und eines am City College bei der Ocean Avenue. Das am City
+College ist “Drive Thru", d.h. man wird im Auto sitzend geimpft. Das passte
+für Michael. Obwohl das Impfzentrum am City College auch vom Unikrankenhaus
+UCSF verwaltet wird, konnte man sich dieses Mal nicht über ihr hauseigenes
+Patientenportal anmelden, sondern nur über die kalifornische Seite
+"myturn.ca.gov", die einen dann an einen Drittanbieter weiterleitete, was
+unserem Datenfuchs Michael natürlich nicht gefiel. Wie gesagt, auch hier macht
+man es den Impfwilligen nicht unbedingt einfach. Allerdings gab es tatsächlich
+Termine und Michael und ich brausten mit dem Auto Anfang April zum
+City-College-Gelände. Dort war alles hochprofessionell organisiert. Zunächst
+fuhren wir durch ein Labyrinth von Verkehrshütchen. Dort musste Michael seinen
+Führerschein zeigen und den Barcode, den er beim Termin ausmachen erhalten
+hatte. Der freundliche Mann klebte dann einen Post-it-Zettel an die
+Windschutzscheibe, der darauf hinwies, dass eine Person in dem Auto einen
+Impftermin hat; waren es zwei wurden dementsprechend zwei Post-it-Zetttel
+befestigt. Dann fuhren wir auf ein weiteres großes Gelände. Es gab
+verschiedene Spuren, die jeweils an einem zeltartigen Gebilde endeten, durch
+das das Auto aber fahren konnte. An der Impfstelle angelangt, wurden zunächst
+ein paar Dinge abgefragt, die Michael schon online beantwortet hatte, aber das
+ist hier immer so, da sich jeder lieber doppelt absichert. Bei den Fragen ging
+es u.a. um mögliche Allergien, ob Michael schon Covid hatte und diesbezüglich
+bestimmte Behandlungen erhalten hat. Dann gab es die Sprtize. Wobei Michael
+nicht einmal aus dem Auto ansteigen musste, sondern nur die Autotür zu öffnen
+hatte. Dann erhielt auch er sein Impfkärtchen und fuhr auf einen Parkplatz, um
+die 15 Minuten zu warten, damit sichergestellt wurde, dass keine allergischen
+Reaktionen auftraten. Eine Krankenpfleger, der zwischen den parkenden Autos
+herum sprang, sagte ihm, dass er einfach auf die Hupe drücken sollte, wenn we
+sich irgendwie komisch fühlte. Nach 15 Minuten brausten wir einfach mit dem
+Auto wieder nach Hause.
+
+Neben den großen Impfzentren bieten mittlerweile auch die Drogerieketten
+“Walgreens, CVS, Rite-Aid” Impftermine an
+(https://usarundbrief.com/136/p4.html). Auch beim Megamarkt “Costco” geht es,
+denn der hat ebenfalls eine Apotheke im Laden. Hausärzte impfen hier zur Zeit
+nicht. Aber gibt auch kleinere Impfstellen, bei denen man keinen Termin
+braucht, und die sich häufig in Nachbarschaften ansiedeln, wo entweder viele
+Menschen leben, die der englischen Sprache nicht mächtig sind oder die mit dem
+Navigieren der verschiedenen Anbieter überfordert sind oder den es an der
+Technologie fehlt, die dafür benötigt wird. 
+
 <pic images/vax-drive.ps Nach dem Impfen muss man auf einen Parkplatz fahren und 15 Minuten warten.>
+
+Interessanterweise sind wir jetzt bereits in der Phase, wo es mehr Termine als
+Impfwillige gibt. Die Leute, die ganz heiß auf die Impfung waren, und keine
+Mühe scheuten, einen Termin zu ergattern, sind mittlerweile durch mit der
+zweiten Impfung. Wir kriegen jetzt fast täglich E-Mails oder Telefonanrufe,
+dass wir impfberechtigt sind und doch bitte einen Termin vereinbaren sollen,
+obwohl das ja bei uns schon passiert ist. Wie gesagt, mit der Kommunikation
+hapert es ein wenig. Das bedeutet nun nicht unbedingt, dass es ein Heer von
+Impfgegner gibt, aber viele warten einfach noch ab oder kümmern sich nicht
+aktiv um einen Termin. In der New York Times las ich auch, dass 8% ihren
+zweiten Termin nicht wahrnehmen, weil sie entweder Angst vor den Nebenwirkungen
+haben oder meinen, dass eine Dosis reicht oder ihr zweiter Termin abgesagt
+wurde, weil der Impfstoff fehlte an dem Tag und sie dann einfach aufgeben. Der
+Johnson & Johnson Impfstoff schafft dies Problem natürlich aus der Welt, denn
+man braucht nur eine Dosis. Dann hoffen wir einmal, dass die Leute das
+Vertrauen in diesen Impfstoff durch die Thrombosen bedingt nicht verloren
+haben. Ich kann es nämlich gar nicht mehr abwarten, bis der Corona-Spuk
+endlich vorbei ist.
 
 @Z: Fry's Electronics pleite
 
