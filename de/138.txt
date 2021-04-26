@@ -13,7 +13,7 @@ und fast 40% sind vollständig geimpft. Es gibt mittlerweile keine
 Priorisierung mehr, sondern jeder ab 16 kann einen Impftermin ausmachen.
 
 USA-weit sind mittlerweile fast 
-<LINK>https://covid.cdc.gov/covid-data-tracker/#vaccinations|30% vollständig geimpft|30% aller Amerikaner sind geimpft</LINK>. Das Gleiche gilt für
+<LINK>https://covid.cdc.gov/covid-data-tracker/#vaccinations|30 Prozent vollständig geimpft|30 Prozent aller Amerikaner sind geimpft</LINK>. Das Gleiche gilt für
 Kalifornien. In den USA erhält der Impfwillige entweder Moderna,
 Pfizer/Biontech oder Johnson and Johnson. Letzteren hat die Gesundheitsbehörde
 kurzfristig ausgesetzt wegen einiger schwerer Thrombosefälle, aber jetzt ist er wieder verfügbar.
@@ -23,7 +23,7 @@ hier im Anstand von 3-6 Wochen gegeben werden. Ich habe den Impfstoff von
 Pfizer im Abstand von vier Wochen erhalten und bin mittlerweile vollständig
 geimpft. Michael erhielt seine erste Dosis von Moderna an Ostern und die zweite
 gibt es am 1. Mai. Lustigerweise sagt hier keiner Pfizer/Biontech sondern meist
-immer nur Pfizer, während uns ausfällt, dass es in der deutschen Presse stets
+immer nur Pfizer, während uns auffällt, dass es in der deutschen Presse stets
 Biontech/Pfizer heißt.
 
 Wie läuft das Impfen hier nun genau ab? Auch in den USA lag es in der
@@ -45,16 +45,16 @@ Unser Gouverneur Gavin Newsom geriet dann
 auch etwas in Stress, weil er gerade mit einem Abberufungsverfahren zu
 kämpfen hat, und er nicht ins Fettnäpfchen treten wollte. In San Francisco
 diskutiert eh jeder gern. Wir haben oft den Eindruck, dass es mehr darum geht,
-wer recht hat als etwas auf die Reihe zu bringen, aber schließlich raufte man
-sich zusammen und legte folgende Reihenfolge fest: Die Phase 1A
-berechtigt Personen, die mit Patienten oder in Pflegeheimen
+wer Recht hat, als etwas auf die Reihe zu bringen, aber schließlich raufte man
+sich zusammen und legte folgende Reihenfolge fest: In Phase 1A
+waren Personen berechtigt, die mit Patienten oder in Pflegeheimen
 arbeiten, sowie die Bewohner von Altenheimen und Senioren im
 betagten Alter. In Phase 1B folgten Bürger
 ab 65 und Menschen, die in Schulen oder in der Lebensmittelindustrie und
 Landwirtschaft arbeiten, sowie Polizisten und Feuerwehrleute. Mitte
 März kamen Menschen, egal welchen Alters, mit chronischen Erkrankungen dran,
 sowie Inhaftierte, Obdachlose und Menschen im Transportwesen.  Ab 1. April
-durften sich die ab-50-Jährigen freuen. Seit 15. April kann sich
+durften sich Bürger ab 50 Jahren freuen. Seit 15. April kann sich
 jeder ab 16 zum Impfen anmelden.
 
 <pic images/vax-maze.ps Beim Drive-Through müssen die Autos zunächst durch ein Labyrinth.>
@@ -63,12 +63,12 @@ Da ich in einer Schule arbeite war ich ziemlich schnell an der Reihe.
 Allerdings lief zu der Zeit auch noch alles nicht so rund, und ich musste mich
 durch das Chaos von dezentralisierten Bestimmungen wühlen. Auch hier weiß die
 eine Hand oft nicht, was die andere tut. Zunächst einmal konnte ich mich bei
-der Stadt San Francisco über die <LINK>https://sf.gov|städtische
-Webseite</LINK> registrieren. Ich beantwortete ein paar Fragen online: Alter,
+der Stadt San Francisco über die <LINK>https://sf.gov|städtische Webseite</LINK>
+registrieren. Ich beantwortete ein paar Fragen online: Alter,
 Beruf, eventuell vorhandene Vorerkrankungen und ob ich in beengten Verhältnisse
 lebe (z.B. im Obdachlosenasyl). Dann gab ich meine E-Mail an, sodass die Stadt
 mich benachrichtigen konnte, sobald ich an der Reihe war. Prompt kam dann auch
-die Bestätigung, dass ich zu den Personen in der Phase 1-B gehöre.
+die Bestätigung, dass ich zu den Personen in der Phase 1B gehöre.
 
 Parallel gab es auch eine
 <LINK>myturn.ca.gov|Registrierungsseite vom Bundesstaat Kalifornien</LINK>.
@@ -81,7 +81,7 @@ mit UCSF verbandelt, und da das Krankenhaus einen guten Ruf in der Forschung hat
 mir immer wieder regelmäßig deren Covid-Informationen an. Und auf einmal
 sah ich dort, dass es dort für Schulpersonal bereits Impfangebote in einer
 extra eingerichteten Impfklinik gab, obwohl San Francisco noch
-nicht in Phase 1-B war.
+nicht in Phase 1B war.
 
 Also machte ich schnellstens einen Termin über das
 Patientenportal "Mychart" aus. Ich konnte mein Glück kaum fassen, und dachte am
@@ -90,7 +90,7 @@ Februar fuhren wir zum UCSF-Komplex an der Parnassus Avenue (UCSF hat Gebäude
 und Krankenhäuser über die ganze Stadt verteilt), und ich erhielt die Spritze
 mit dem Pfizer-Impfstoff. In der Impfklinik musste ich schnell den üblichen
 Covid-Fragenkatalog beantworten, mich mit meinem kalifornischen Führerschein
-ausweisen, und sagen, um welche Uhrzeit mein Termin ist. Dann führten mich
+ausweisen, und sagen, um welche Uhrzeit mein Termin war. Dann führten mich
 Angestellte in einen Raum, der wie ein Klassenzimmer ohne Pulte aussah. Es gab
 mindestens neun solcher Impfzimmer. In meinem waren drei Stühle großzügig im
 Raum verteilt, auf denen zwei bereits Geimpfte zur Beobachtung saßen. Dann gab es
@@ -115,7 +115,7 @@ wartete die vorgeschriebenen 15 Minuten brav auf dem Stuhl, während ich mich
 nett mit meinen Mitstreitern unterhielt und Michael schon ungeduldig im Auto
 draußen auf mich wartete. Alle Geimpften waren euphorisch.  Wir tauschten
 natürlich unsere Erlebnisse aus, wie wir den heiß begehrten Termin ergattert
-hatten. Nach der ersten Impfung spürte ich rein gar nichts, außer, dass der Arm
+hatten. Nach der ersten Impfung spürte ich rein gar nichts, außer dass der Arm
 mit der Einstichstelle einige Tage etwas weh tat, was aber nicht der Rede wert
 war. Nach vier Wochen machte ich mich das zweite Mal auf den Weg in die
 Impfklinik. Auch das war eine Zitterpartie, denn der Impfstoff war immer noch
@@ -153,10 +153,10 @@ Spuren, führten jeweils zu zeltartigen Gebilden zur Einfahrt mit dem Auto.
 
 Am Zelt angelangt, wurden zunächst ein paar Dinge abgefragt, die Michael schon
 online beantwortet hatte, aber das ist hier immer so, da sich jeder lieber
-doppelt absichert. Bei den Fragen ging es unter anderem um mögliche Allergien,
-geprüft wurde weiter, ob Michael schon Covid hatte oder diesbezüglich bestimmte
-Behandlungen erhalten hatte. Dann gab es die Sprtize, wobei Michael nicht
-einmal aus dem Auto ansteigen musste, sondern nur die Autotür zu öffnen hatte.
+doppelt absichert. Bei den Fragen ging es unter anderem um mögliche Allergien.
+Geprüft wurde weiter, ob Michael schon Covid hatte oder diesbezüglich bestimmte
+Behandlungen erhalten hatte. Dann gab es die Spritze, wobei Michael nicht
+einmal aus dem Auto aussteigen musste, sondern nur die Autotür zu öffnen hatte.
 Dann erhielt auch er sein Impfkärtchen und fuhr auf einen Parkplatz, um wie
 angewiesen 15 Minuten zu warten. Ein Krankenpfleger, der zwischen den parkenden
 Autos herumsprang, sagte ihm, dass er einfach auf die Hupe drücken sollte,
@@ -165,10 +165,10 @@ einfach mit dem Auto wieder nach Hause.
 
 Neben den großen Impfzentren bieten mittlerweile auch die Drogerieketten
 "Walgreens", "CVS" und "Rite-Aid" Impftermine an (<RBLINK>20201220#4</RBLINK>).
-Auch der Megamarkt "Costco" impft,
+Auch der Megamarkt "Costco" impft
 in der hauseigenen Apotheke. Hausärzte impfen hier allerdings zur Zeit
-nicht. Aber gibt auch kleinere Impfstellen, bei denen man keinen Termin
-braucht. Sie siedeln sich häufig in dichtbesiedelten Gegenden an, oder dort,
+nicht. Aber es gibt auch kleinere Impfstellen, bei denen man keinen Termin
+braucht. Man findet sie häufig in dichtbesiedelten Gegenden, oder dort,
 wo hauptsächlich Menschen leben, die der englischen Sprache nicht mächtig sind,
 oder mit dem Navigieren der verschiedenen Anbieter überfordert sind.
 
@@ -176,7 +176,7 @@ oder mit dem Navigieren der verschiedenen Anbieter überfordert sind.
 
 Interessanterweise sind wir jetzt bereits in der Phase, in der es mehr Termine
 als Impfwillige gibt. Leute, die ganz heiß auf die Impfung waren, und keine
-Mühe scheuten, einen Termin zu ergattern, sind mittlerweile durch mit der
+Mühen scheuten, einen Termin zu ergattern, sind mittlerweile durch mit der
 zweiten Impfung. Wir kriegen jetzt fast täglich E-Mails oder Telefonanrufe, um
 uns darauf hinzuweisen, dass Termine frei sind.  Wie gesagt, mit der
 Kommunikation hapert es ein wenig. Das bedeutet nun aber nicht unbedingt, dass
@@ -186,7 +186,7 @@ dass acht Prozent ihren zweiten Termin nicht wahrnehmen, weil sie entweder
 Angst vor den Nebenwirkungen haben, oder meinen, dass eine Dosis reicht. Bei
 manchen wurde auch der zweite Termin abgesagt, weil der Impfstoff fehlte, und
 sie danach einfach aufgaben, was kein Problem bei Johnson and Johnson ist, da
-braucht man nur eine Dosis. Dann hoffen wir nmal, dass die Leute das Vertrauen
+braucht man nur eine Dosis. Dann hoffen wir mal, dass die Leute das Vertrauen
 nicht verlieren. Ich kann es nämlich gar nicht mehr abwarten, bis der
 Corona-Spuk endlich vorbei ist.
 
@@ -210,7 +210,7 @@ Burbanks brach ein monströses UFO durch die Mauer, und in der Filiale in Palo
 Alto zeigten Cowboys und Indianer des wilden Westens wie es im 19. Jahrhundert
 in der Gegend zuging. Konzertflügel in Originalgröße standen herum, automatisch
 klassische Werke klimpernd. Und nicht zu vergessen der gigantische
-Zeitschriftenstand, der das aktuelle Linux-Magazine führte, das Vehikel der
+Zeitschriftenstand, der das aktuelle "Linux Magazine" führte, das Vehikel der
 Programmier-Kolumne eures bescheidenen Schreiberlings. Aber das Wichtigste: Die
 Kette war ein Riesenerfolg, Kaufwillige drängten bis spät in die Nacht hinein
 in die Läden, luden gekaufte brandaktuelle PC-Hardware in ihre Autos, und eine
@@ -229,7 +229,7 @@ würde.
 Allerdings operierte der Laden immer schon am Rande der Legalität, es war
 allseits bekannt, dass sie umgetauschte Produkte einfach wieder in Plastikfolie
 einschweißten und als neu verkauften, was in Amerika illegal ist. Auch sah ich
-bei meinen immer spärlicher werdenden Besuchen immer missmutigere und
+bei meinen spärlicher werdenden Besuchen immer missmutigere und
 verzweifelte Angestellte, sodass ich seit bestimmt fünf Jahren Geld darauf
 gewettet hätte, dass der Laden bald dichtmacht.  In letzter Zeit machten sich
 sogar einige Youtuber auf, um verstreute Filialen zu besuchen und
@@ -287,9 +287,9 @@ Angestellten dort sind auf Zack und so erstaunlich gut gelaunt, dass ich
 oft vermute, dass sie in ihren Pausen regelmäßig am Haschpfeiferl ziehen. Egal,
 jedenfalls kann man Amazon-Retouren neuerdings auch in Filialen der
 Lebensmittelkette abgeben, und das ist riesig, da in unserem Viertel nur etwa 5
-Gehminuten von unserem Zuhause ein Whole Foods steht. Der hat von 9 bis 21 Uhr
+Gehminuten von unserem Zuhause ein Whole Foods steht. Der hat von 8 bis 21 Uhr
 auf, und am Customer-Service-Schalter steht eine gutgelaunte Verkäuferin, der
-man das umzutauschende Teil einfach unverpackt in die Hand gibt. QR-Code
+man das umzu\-tauschende Teil einfach unverpackt in die Hand gibt. QR-Code
 gescannt, fertig. Und, ja, Milch brauchen wir noch, und Wurst, gleich
 mitnehmen!
 
@@ -300,7 +300,7 @@ Kaum hatte ich eingetippt, dass das Gerät fehlerhaft war, bot mir Amazon einen
 "Returnless Refund" an: Ich bekam mein Geld zurück, und brauchte das Teil nicht
 einmal zurückzuschicken!
 
-@Z: Schiffstau auf der Bay
+@Z: Schiffsstau auf der Bay
 
 <pic images/cont-bay-1.ps Auf unserer Bay stecken vollgeladene Containerschiffe fest.>
 
@@ -324,7 +324,7 @@ ihrerseits neue Teile, die meist aus Asien kommen. Private Konsumenten haben in
 der Pandemie vom Sofa aus Rekordeinkäufe getätigt und Dinge bestellt, die
 häufig in China produziert und zusammengeschraubt werden, wie zum Beispiel
 Laufbänder für daheim. Der Container-Stau ist so schwerwiegend, dass selbst schon
-die <LINK>New York Times|https://www.nytimes.com/2021/03/06/business/global-shipping.html|Bericht in der New York Times über den Container-Stau</LINK>
+die <LINK>https://www.nytimes.com/2021/03/06/business/global-shipping.html|New York Times|Bericht in der New York Times über den Container-Stau</LINK>
 darüber  berichtet hat.
 
 <pic images/cont-bay-2.ps Weil Hafenarbeiter fehlen, müssen Containerschiffe warten.>
@@ -339,7 +339,7 @@ Einfahrt in den Hafen erhalten.
 <pic images/cont-bay-3.ps Irgendwo auf diesen Schiffen sind noch Weihnachtspakete für uns.>
 
 Meist steuern die Schiffe aus Asien erst Südkalifornien an und
-fahren nach den ersten Be- und Entladen weiter nach Oakland. Von Oakland aus
+fahren nach dem ersten Be- und Entladen weiter nach Oakland. Von Oakland aus
 geht es nach Seattle, und dann wieder zurück nach Asien. In Oakland kam zu
 allem Übel noch hinzu, dass drei neue riesige Kräne an einem Ankerplatz
 erneuert worden sind, was einige Wochen in Anspruch nahm. Lustigerweise warten
@@ -347,12 +347,12 @@ wir schon seit Oktober letzten Jahres auf ein Weihnachtspaket aus Deutschland,
 das per Schiff unterwegs ist. Wir fragen uns beim Spazierengehen immer, ob es
 sich wohl auf einem dieser großen Containerschiffe befindet. Und auch der
 große Megamarkt Costco hat Schwierigkeiten, einige Produkte wie den
-<LINK>leckeren importierten Käse aus Frankreich|https://www.usatoday.com/story/money/business/2021/03/10/costco-cheese-shortage-due-shipping-container-shortage/6944437002/|Lieferengpass bei französischem Käse</LINK>
+<LINK>https://www.usatoday.com/story/money/business/2021/03/10/costco-cheese-shortage-due-shipping-container-shortage/6944437002/|leckeren importierten Käse aus Frankreich|Lieferengpass bei französischem Käse</LINK>
  auf seine Regale zu bekommen, ausgelöst durch die Probleme im Schiffsverkehr.
 Hoffentlich nimmt das Schiff mit dem teuren Käse bald wieder fahrt auf, eine Käseunglück
 hätte uns gerade noch gefehlt!
 
-@Z: Saison für Dungenness Crab
+@Z: Saison für Dungeness Crab
 
 <pic images/crab-dish.ps Leckeres Gericht aus gekochten Dungeness Crab.>
 
@@ -369,10 +369,10 @@ natürlich jeder Depp.  Ungeschickt hantierte ich mit der Knackzange, puhlte das
 Fleisch fitzelchenweise aus den Beinpanzern, bis ich ganz fettige Finger hatte.
 Es schmeckte hervorragend, und seit dem ist IPA mein Lieblingsbier.
 
-<pic images/crab-fishing.ps An San Franciscos "Ocean Beach" Strand fischen viele nach Dungenness Crab.>
+<pic images/crab-fishing.ps An San Franciscos "Ocean Beach" Strand fischen viele nach Dungeness Crab.>
 
 Und das war, wie gesagt, vor über zwanzig Jahren, heutzutage kostet eine
-Dungeness-Crab im Restaurant gut und gerne 50 Dollar, und auch wenn sie als
+Dungeness-Crab im Restaurant gut und gerne 50 bis 60 Dollar, und auch wenn sie als
 Ganzes serviert wird, kann man nur das Fleisch der insgesamt zweimal fünf
 Beinchen samt Scheren essen, unter dem Panzer in der Mitte ist außer dem
 Fleisch am Beinansatz nur ungenießbarer Schlotz und Kiemengedärm, und das wird
@@ -400,7 +400,7 @@ zu servieren, aber die schmecken nicht so frisch.
 Übrigens, immer wenn ich zu den Crab "Krabben" sage, berichtigt mich Angelika,
 denn auf Norddeutsch heißt "Crab" ja eigentlich "Krebs", denn "Krabben" nennt
 der Preuße diese kleinen auch "Shrimps" (oder Garnelen) genannten Würmchen, die
-man durch sogenanntes "puhlen" (Fachbegriff aus der Region) aus ihrem
+man durch sogenanntes "Puhlen" (Fachbegriff aus der Region) aus ihrem
 länglichen Panzer entfernt. Die sind ebenfalls sehr lecker, aber halt eine ganz
 andere kulinarische Kategorie.  Auf Wikipedia steht hingegen, dass man auf
 Normaldeutsch mit dem Wort "Krabbe" durchaus auch solche Zehnbeiner wie die
@@ -444,7 +444,7 @@ mit Eis und einem nassen Handtuch darüber in den Kühlschrank.  Nach 15 bis 30
 Minuten sind die Krabben dann betäubt und man wirft sie entweder direkt in
 einen Kochtopf mit brodelndem Wasser, oder bereitet ihnen vorher mit einem
 Schraubenzieher oder dem oben beschriebenen Crab-Teal-Werkzeug den Garaus.
-Noch lebende Krabben fasst man übrigenns nur von hinten an, mit dem Daumen oben
+Noch lebende Krabben fasst man übrigens nur von hinten an, mit dem Daumen oben
 am Panzer und den vier restlichen Fingern an der Unterseite. Wer den Fehler
 macht, in die Reichweite der mächtigen Scheren zu kommen, wird das schnell
 bereuen. Auf Youtube kann man einsehen, wie gemein diese scharfen Werkzeuge
@@ -457,13 +457,13 @@ Bundesstaat Washington, vor deren Küste die Krabbe vorkommt, so wie
 praktisch überall entlang der Westküste runter nach Süden, bis das Wasser des
 Ozeans irgendwo bei Los Angeles zu warm wird.  Damit die Fischer nicht den
 Bestand bedrohen, dürfen die Krabben nur während einer jährlich neu
-festgelegten Saison gefangen werden, dieses Jahr lief sie zwischen dem 7.
+festgelegten Saison gefangen werden, dieses Jahr läuft sie zwischen dem 7.
 November 2020 und dem 30. Juli 2021.  Nur Exemplare, die ein Mindesmaß von 5
-3/4 Inches waagerecht über den Brustpanzer messen, dürfen die Fischer behalten,
+3/4 Inches (14,6cm) waagerecht über den Brustpanzer messen, dürfen die Fischer behalten,
 verfängt sich ein kleineres Kerlchen in den Schlingen, werfen sie es wieder
 zurück ins Wasser.
 
-<pic images/crab-snare.ps Mit diesen Schlingen fangen Fischer Dungenness Crab.>
+<pic images/crab-snare.ps Mit diesen Schlingen fangen Fischer Dungeness Crab.>
 
 Wie fängt man diese Riesenkrabben? Professionelle Fischer mit großen Booten
 werfen große Metallkörbe aus (wie in der Fernsehsendung "The Deadliest Catch"),
