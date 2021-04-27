@@ -224,17 +224,17 @@ many businesses looking rather bleak with boarded up window fronts.
 
 <pic images/no-mask-no-service.ps Even the smallest stores require customers to wear masks.>
 
+What's confusing is that our governor Gavin Newsom lays out regulations for
+all of California, but individual cities and counties are permitted to have
+stricter rules. This results in wildly fluctuating restrictions even within
+a few miles, impacting daily life in different ways. At first, a so-called
+"watch list" determined what kind of restrictions individual counties in California
+had to enforce. If a county had the bad luck of landing on this watch list,
+certain stores had to close and various activities were shuttered.
+
 TODO
 
-Äußerst verwirrend ist dabei, dass einmal unser Gouverneur Gavin Newsom
-Richtlinien festlegt, die für ganz Kalifornien gelten, aber die einzelnen
-Städte und Landkreise strengere Auflagen machen dürfen. Das hat zur Folge, dass
-in einem Umkreis von wenigen Kilometern manchmal verschiedene Richtlinien
-gelten und das tägliche Leben dementsprechend unterschiedlich organisiert ist.
-Zunächst fußte das Öffnen und Schließen des öffentlichen Lebens auf der
-sogenannten "Watch List" in Kalifornien. War ein Landkreis nach der
-Datenanalyse unglücklicherweise auf dieser gelandet, mussten bestimmte
-Geschäfte wieder schließen oder Aktivitäten herunter gefahren werden. Um nicht
+Um nicht
 auf die Liste zu gelangen, musste der entsprechende Landkreis weniger als 100
 neue Coronafälle pro 100.000 Enwohner aufweisen über einen Messzeitraum von 14
 Tagen, und die positive Testrate unter 8% liegen. Zudem musste der Anstieg der Hospitationsrate
