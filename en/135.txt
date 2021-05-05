@@ -232,24 +232,22 @@ a few miles, impacting daily life in different ways. At first, a so-called
 had to enforce. If a county had the bad luck of landing on this watch list,
 certain stores had to close and various activities were shuttered.
 
+To avoid ending up on this list, the county needs to have less than 100 cases per
+population of 100,000, averaged over 14 days. Also, the positive test rate must
+be lower than 8%. In addition, the hospitalization rate for Covid patients must
+be less than 10%, averaged over three days, and more than 20% of all IC units
+must be available. All Bay Area counties, including San Francisco, were on the
+list, but none managed to get off of it. The "watch list" reaped lots of criticism.
+And, totally out of the blue, governor Gavin Newsom announced at the end of August,
+that California had discontinued using the "watch list" in favor of a four
+color classification system (Figure (#1)
+and <LINK>https://covid19.ca.gov/safer-economy|California's Covid Information Page</LINK>).
+It determines which businesses are allowed to open. Each county's color/class is determined
+by its infection rate and its positve test rate.
+
+<pic images/corona-color-table.ps (#1) The governor marks individual counties with colors based on their measured Corona infection rates.>
+
 TODO
-
-Um nicht
-auf die Liste zu gelangen, musste der entsprechende Landkreis weniger als 100
-neue Coronafälle pro 100.000 Enwohner aufweisen über einen Messzeitraum von 14
-Tagen, und die positive Testrate unter 8% liegen. Zudem musste der Anstieg der Hospitationsrate
-von Covidpatienten bei weniger als 10% über 3 Tage liegen und mehr als 20% der
-Intensivbetten zur Verfügung stehen. Alle Landkreise in der Bay Area, also auch
-San Francisco, waren auf der Liste, aber keiner schaffte es, von dieser
-wieder runter zu kommen. Es gab viel Kritik bezüglich der "Watch List".  Und
-plötzlich gab Gavin Newsom Ende August bekannt, dass Kalifornien die "Watch
-List" einstampft und ein vierstufiges Farbenklassifikationssystem (Abbildung
-(#1) und auf der <LINK>https://covid19.ca.gov/safer-economy/|Corona-Seite von Kalifornen</LINK>)
-einführt, das festlegt, wann wer aufmachen darf. Bei welcher
-Farbe/Klasse der einzelne Landkreis landet, richtet sich nach der
-Infektionsrate und der postiven Testrate.
-
-<pic images/corona-color-table.ps (#1) Mit verschiedenen Farben markiert der Gouvernor die Landkreise entsprechend der Corona-Infektionsraten.>
 
 Ist der Landkreis im gelben Bereich, sind also nicht mehr als eine Person pro
 100.000 Einwohner infiziert, und zeigen weniger als 2% der durchgeführten Tests
