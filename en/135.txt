@@ -247,22 +247,24 @@ by its infection rate and its positve test rate.
 
 <pic images/corona-color-table.ps (#1) The governor marks individual counties with colors based on their measured Corona infection rates.>
 
-TODO
+If county is in the yellow tier, meaning that there's less than one infected
+person per 100,000 residents, and also less than 2% of tests administered come
+back positive, practically all businesses are allowed to open. Counties in the
+(worst) purple tier, with more than seven infected of a population of 100,000,
+or a positive test rate of more than 8%, are in a dire place, because only
+absolutely essential businesses like grocery stores are allowed to open.
+Currently, San Francisco is in the red tier (4-7 infected per 100,000 and
+2%-4.9% postitive test rate), and governor Gavin Newsom allowed hair salons to
+open with enhanced safety precaution protocols.
 
-Ist der Landkreis im gelben Bereich, sind also nicht mehr als eine Person pro
-100.000 Einwohner infiziert, und zeigen weniger als 2% der durchgeführten Tests
-Corona-Positive, darf praktisch alles aufhaben bzw. -machen.  Bei Lila, mit
-mehr als 7 Infizierten pro 100.000 Einwohner oder mehr als 8% positiver
-Testrate sieht es ganz schlecht aus, und nur was absolut notwenig zur
-Versorgung ist, hat auf. San Francisco ist momentan im roten Bereich (4-7
-Infizierte pro 100.000 Einwohner, 2-4.9% positive Ergebnisse bei Corona-Tests),
-wonach Newsom eine Öffnung von Frisörsalons mit Sicherheitskonzept erlaubt.
-Auch Schulen dürften eigentlich aufmachen, aber halt stopp, dass war unserer
-Bürgermeisterin zuviel. Frisörsalons dürfen nur draußen die Haare schneiden und
-die Schulen sind immer noch zu in San Francisco. Und da mein Frisörsalon
-draußen nicht aufmachen will, aus welchen Gründen auch immer, schneidet und
-färbt mir Michael weiterhin die Haare. Das macht er mittlerweile so gut, dass
-wir bald unseren eigenen Frisörsalon aufmachen könnten.
+Also, California schools were allowed to open as well, but San Francisco mayor
+London Breed prefers a more careful approach. Hair salons in San Francisco are
+only allowed to cut hair outside in the open air. San Francisco schools are
+still closed. And the hair salon I go to doesn't want to offer their services
+on the sidewalk, so it's still Michael coloring and cutting my hair. In the meantime,
+he's gotten so good at it that we may be opening our own salon soon.
+
+TODO
 
 @Z: Slow Streets in San Francisco
 
