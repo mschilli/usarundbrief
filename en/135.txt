@@ -264,27 +264,27 @@ still closed. And the hair salon I go to doesn't want to offer their services
 on the sidewalk, so it's still Michael coloring and cutting my hair. In the meantime,
 he's gotten so good at it that we may be opening our own salon soon.
 
-TODO
-
 @Z: Slow Streets in San Francisco
 
-<pic images/slow-street-sanchez-chair.ps Der Durchgangsverkehr durch diese verkehrsberuhigte Straße ist gesperrt und Anwohner nutzen sie zum Flanieren und Abhängen.>
+<pic images/slow-street-sanchez-chair.ps This "slow street" has been closed to through traffic and residents use it for walks and hanging out.>
 
-<em>Michael</em> Wegen eingeschränkter Entfaltungsmöglichkeiten gehen viele
-Anwohner in unserem Viertel genau wie wir täglich durch Stadtstraßen spazieren.
-Auf schmalen Gehwegen lassen sich die Abstandsregeln bei vielen Fußgängern aber
-nicht immer einhalten, und so kam die Stadt auf die Idee, bestimmte Straßen als
-verkehrsberuhigt zu deklarieren und den Spaziergängern zu erlauben, statt des
-Gehwegs auch die Straße zu nutzen.
+<em>Michael</em> Due to the lack of entertainment options during Corona, many residents
+in our neighborhood have, just like us, adopted the habit of daily extended walks through
+city streets. It is not easy to maintain social distancing etiquette on busy and
+narrow sidewalks, though, and the city came up with the new idea of declaring select
+streets as "slow" and allow pedestrians to use the road as well.
 
-<pic images/slow-street-map.ps Mittlerweile hat sich das Slow-Streets-Programm über sämtliche Stadtteile ausgebreitet.>
+<pic images/slow-street-map.ps The "slow street" program has been expanded all across San Francisco.>
 
-Flugs riefen Angestellte der Verkehrsabteilung der Stadt, SFMTA, das
-<LINK>https://www.sfmta.com/projects/slow-streets-program|Slow Streets Program</LINK>
-ins Leben. An den Querstraßen stellten sie große
-Schilder auf, die mit der Aufschrift "Road Closed To Through
-Traffic" darauf hinwiesen, dass die verkehrsberuhigte Straße für den
-Durchgangsverkehr gesperrt ist.
+It didn't take long and the bureaucrats at SFMTA, San Francisco's Municipal Transportation
+Agency, responsible for street construction, maintenance and parking tickets, called out
+a city wide 
+<LINK>https://www.sfmta.com/projects/slow-streets-program|Slow Streets Program</LINK>.
+At every intersection with other city streets, those slow streets then received
+big signs declaring "Road Closed To Through Traffic", indicating that only residents
+and their visitors could use them, but not drivers just crossing through.
+
+TODO
 
 <pic images/slow-street-a.ps Der Durchgangsverkehr durch diese verkehrsberuhigte Straße ist gesperrt und Fußgänger dürfen die Straße benutzen.>
 
