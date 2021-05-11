@@ -284,33 +284,33 @@ At every intersection with other city streets, those slow streets then received
 big signs declaring "Road Closed To Through Traffic", indicating that only residents
 and their visitors could use them, but not drivers just crossing through.
 
+<pic images/slow-street-a.ps This "Slow Street" has been closed to through traffic, and pedestriants are allowed to walk on the road.>
+
+However, the concept of virtually car-free streets was news to many locals here, and confused
+residents turned to the neighborhood forum app "Nextdoor" to inquire whether it
+was still okay to drive their own cars into their garages if they lived on one of
+the slow streets. Also, some stubborn sports car driving non-residents didn't seem to think
+the signs applied to them and drove through the slow sections anyway.
+In the Mission district, mainly home to immigrants from Mexico and Middle America, some signs mysteriously
+disappeared overnight, others were found kicked to the curb.
+
+<pic images/slow-street-bikers.ps In the more affluent neighborhoods, the "Slow Streets" program was quite successful and many people used the road for walking and riding their bicycles.>
+
+In the meantime, the new ordinance has reported a fairly high acceptance rate,
+although some slow street residents have voiced complaints about overzealous
+pedestrians yelling at them when they're driving up to their residences.
+Especially the more affluent neighborhoods have embraced the concept, and it's
+a joy to see families with small children, the latter riding around on
+city streets on their tiny bikes, which would be otherwise unthinkable in San
+Francisco. You can see adults jogging, riding skateboards and bicycles, using
+the entire width of the road. In less well off neighborhoods, like the Mission,
+as well as the less densely populated ones, like the Richmond or Sunset, the
+program is partially ignored, and as a pedestriant, you have to watch out or be
+run over by speeding cars.
+
+<pic images/slow-street-handwritten.ps One resident has replaced the stolen "Slow Street" sign by a hand written one.>
+
 TODO
-
-<pic images/slow-street-a.ps Der Durchgangsverkehr durch diese verkehrsberuhigte Straße ist gesperrt und Fußgänger dürfen die Straße benutzen.>
-
-Allerdings war dieses Konzept den meisten
-Amerikanern unbekannt, und Anwohner wandten sich verwirrt an das
-Stadtviertelportal "Nextdoor", um dort anzufragen, ob es überhaupt noch erlaubt
-sei, mit ihrem Privatauto vor ihr Haus zu fahren. Auch zeigten sich einige
-sportwagenfahrende Nicht-Anlieger stur, und fuhren demonstrativ durch die mit
-Fußgängern gefüllten verkehrsberuhigten Straßen. Im Stadtteil Mission
-verschwanden über Nacht mysteriös einige der Schilder, andere fanden sich zur
-Seite gestupst am Straßenrand wieder.
-
-<pic images/slow-street-bikers.ps In den reichen Stadtvierteln wird das Programm gut angenommen, nichtmotorisierte Verkehrsteilnehmer nutzen die ganze Straßenbreite.>
-
-Mittlerweile hat sich die neue Regelung gut eingespielt, einige Anwohner
-beschweren sich zwar noch, dass sie hin und wieder von Fußgängern angemault
-werden, wenn sie mit ihrem Auto aus ihrer eigenen Garage ausfahren, aber
-besonders in den reichen Stadtvierteln wird das Programm gut angenommen. Man
-sieht Familien mit kleinen Kindern, die endlich auf ihren Minifahrrädern
-gefahrlos durch Stadtstraßen fahren können, und auch Jogger, Fahrradfahrer und
-Skateboarder verteilen sich über die ganze Straßenbreite.  In den ärmeren oder
-weniger dicht bevölkerten Stadtvierteln wird das Programm teilweise ignoriert,
-und als Fußgänger muss man aufpassen, dass man nicht von durchfahrenden Autos
-erfasst wird.
-
-<pic images/slow-street-handwritten.ps Ein Anwohner hat offenbar ein geklautes Schild einfach durch ein handgeschriebenes ersetzt.>
 
 @Z: Volkszählung
 
