@@ -310,24 +310,22 @@ run over by speeding cars.
 
 <pic images/slow-street-handwritten.ps One resident has replaced the stolen "Slow Street" sign by a hand written one.>
 
+@Z: US Census
+
+<pic images/census-sign.ps A sign reminds people to take part in the upcoming census.>
+
+<em>Angelika</em> It's hard to believe that yet another ten years have gone by, and it's
+time again for the US Census again. This one is our third time around (2000, 2010, 2020),
+but like everything today it was heavily influenced by Corona. Ten years ago, there
+was a questionaired mailed to individual households (<RBLINK>20100509#10</RBLINK>), which
+had to be completed. For those who did not comply, a friendly census employee came by
+in person, to knock on the door and help filling out the form.
+This time around, it was pretty evident, even before Corona hit, that the bureau had
+hoped to get people to answer the census questions online. It was the first time in
+history that this option even existed. And because of Corona, the bureau naturally aimed to
+reduce the number of census employees having to visit people in their homes.
+
 TODO
-
-@Z: Volkszählung
-
-<pic images/census-sign.ps Ein Schild mahnt, an der Volkszählung teilzunehmen.>
-
-<em>Angelika</em> Kaum zu glauben, aber schon wieder sind 10 Jahre rum, und es
-ist Zeit für die amerikanische Volkszählung ("Census"). Dies war mittlerweile
-unsere dritte (2000, 2010, 2020), aber wie alles in diesen Zeiten stand sie
-unter dem Coronastern. Noch vor 10 Jahren gab es einen Fragebogen, der per Post
-zugeschickt wurde (<RBLINK>20100509#10</RBLINK>) und den dann jeder Haushalt
-auszufüllen hatte. Unterblieb dies, kamen freundliche Volkszähler und klopften
-an die Tür, um die säumigen Fragebogen anzumahnen und beim Ausfüllen der
-Fragebogen zu helfen. Dieses Jahr war schon vor Corona klar, dass die Behörde
-darauf hoffte, dass die Bürger die Fragen online beantworteten. Es war übrigens
-das erste Mal in der Geschichte der amerikanischen Volkszählung, dass es diese
-Option gab. Corona forcierte dies auch noch, um möglichst wenig
-Volkszähler in die verschiedenen Haushalte schicken zu müssen.
 
 Der Wechsel von Papier zur Online-Version bereitete natürlich auch vielen
 Bauchschmerzen, denn es werden ja wichtige Daten mit enormer Relevanz
