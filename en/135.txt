@@ -325,16 +325,15 @@ hoped to get people to answer the census questions online. It was the first time
 history that this option even existed. And because of Corona, the bureau naturally aimed to
 reduce the number of census employees having to visit people in their homes.
 
+The change from a paper-based survey to an online version naturally raised
+privacy concerns as well, because some of the data collected is quite
+sensitive.  Experts feared security leaks and hacker attacks, so precautions had
+to be taken. What's the census for? The goal is to account for every resident,
+regardless of citizenship or even legal status.
+
+<pic images/census-jobs.ps Paid helpers go from door to door, to collect census data.>
+
 TODO
-
-Der Wechsel von Papier zur Online-Version bereitete natürlich auch vielen
-Bauchschmerzen, denn es werden ja wichtige Daten mit enormer Relevanz
-abgefragt. Experten fürchteten Sicherheitslücken und Hackerangriffe.  Das Ziel
-der Volkszählung ist es, wirklich jeden Bürger zu erfassen, dabei spielt weder
-die Staatsbürgerschaft eine Rolle, noch ob sich der Einzelne legal im Land
-befindet oder nicht.
-
-<pic images/census-jobs.ps Gegen Bezahlung gehen Leute von Tür zu Tür, um die Daten für die Volkszählung zu erfassen.>
 
 Vor der Volkszählung gab es große Aufregung, weil Trump \& Co forderten, die
 Frage der Staatsbürgerschaft mit ins Formular aufzunehmen. Viele sorgten sich,
