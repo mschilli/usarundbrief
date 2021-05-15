@@ -333,23 +333,20 @@ regardless of citizenship or even legal status.
 
 <pic images/census-jobs.ps Paid helpers go from door to door, to collect census data.>
 
-TODO
+Shortly before the census started, some agitation arose because Trump and
+Company demanded to include one question about each surveyed resident's citizenship status.
+This in turn raised some concerns about skewed data, because non-citizens might
+have feared potential repercussions and might have been less willing to fill
+out and submit the questionaire. In states like California or New York with a large number
+of illegal immigrants, it's traditionally been a challenge to get everyone to participate
+in the census. But it's important to collect the data accurately, because it determines
+how much federal money each state receives for initiatives, or how many representatives
+it can send to congress. After some back and forth, the question was dropped, while
+the census bureau kept pushing for finalizing the forms, updating the online software,
+and starting the survey. Historically, the surveys between the years 1890 and 1950 did
+include the citizenship question, by the way.
 
-Vor der Volkszählung gab es große Aufregung, weil Trump \& Co forderten, die
-Frage der Staatsbürgerschaft mit ins Formular aufzunehmen. Viele sorgten sich,
-dass dies zu einem schiefen Ergebnis führen könnte, weil Bürger ohne
-amerikanische Staatsbürgerschaft aus Angst, dass solche Daten gegen sie
-verwendet werden, dann lieber gar nichts ausfüllen und abgeben. In
-Bundesstaaten wie Kalifornien und New York mit einem hohen Anteil an illegalen
-Einwanderern ist es eh schon ein Kraftakt, Illegale zum Mitmachen zu bewegen.
-Ein genaues Ergebnis ist aber wichtig, denn die Zahl der Einwohner bestimmt die
-Höhe staatlicher Finanzspritzen für den jeweiligen Bundesstaat und die Anzahl
-der Abgeordneten im Repräsentantenhaus. Nach einigem rechtlichen Hin und Her
-wurde die Frage nach der Staatsangehörigkeit schließlich doch nicht eingefügt,
-weil die Census-Behörde drängelte, dass die Formulare endlich in die
-Druckerpresse müssten bzw. die Programmierer das Softwareprogramm dementsprechend
-anzugleichen hätten. Von 1890 bis 1950 beinhaltete der Fragebogen übrigens die
-Staatsbürgerschaftsfrage.
+TODO
 
 Wie ging das nun genau vor sich mit der diesjährigen Volkszählung? Die
 Aufforderung landete bei uns im Briefkasten. Der Brief war übrigens nur an die
