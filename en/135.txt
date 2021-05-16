@@ -346,13 +346,14 @@ the census bureau kept pushing for finalizing the forms, updating the online sof
 and starting the survey. Historically, the surveys between the years 1890 and 1950 did
 include the citizenship question, by the way.
 
-TODO
+Now, how was the survey actually conducted this year? One day, we found a
+letter from the census bureau in our mailbox. It wasn't addressed to an
+individual or a family. It just specified our address, which makes sense once
+you know that in the U.S. there is no central register the government could use
+to find out who lives where.  The letter simply stated "to resident at" with
+our address.
 
-Wie ging das nun genau vor sich mit der diesjährigen Volkszählung? Die
-Aufforderung landete bei uns im Briefkasten. Der Brief war übrigens nur an die
-Adresse addressiert und nicht auf unseren Namen (bekanntlich gibt es
-hier kein Meldegesetz). "To resisident at" mit unserer Adresse stand schlicht
-darauf.
+TODO
 
 Das Anschreiben erklärte den Sinn und Zweck der Volkszählung, wies darauf
 hin, dass man rechtlich verpflichtet ist, daran teilzunehmen und dass ein
