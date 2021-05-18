@@ -353,19 +353,19 @@ you know that in the U.S. there is no central register the government could use
 to find out who lives where.  The letter simply stated "to resident at" with
 our address.
 
+The cover letter explained the reasons behind the census, and pointed out
+that recipients are legally required to participate. If for any reason the online
+option didn't seem to work out, a paper version would be delivered within a few
+weeks. The letter then pointed to the website "my2020census.gov" in a large font
+within a giant frame. It also listed a personalized identification number to
+be entered on the website to start the survey. I had to answer the
+following questions for our household:
+
+<pic images/census-form.ps There are dozens of questions on the census survey to be answered.>
+
+1. How many persons are or have been living in your apartment, house, or mobile home on April 1st, 2020?
+
 TODO
-
-Das Anschreiben erklärte den Sinn und Zweck der Volkszählung, wies darauf
-hin, dass man rechtlich verpflichtet ist, daran teilzunehmen und dass ein
-Papierfragebogen nach einigen Wochen zugestellt würde, falls man sich gegen
-die Online-Option entscheidet. Dann war groß in einem umrandeten Kasten die
-Webseite "my2020census.gov" angegeben und eine Identifizierungsnummer, die auf
-der Webseite einzugeben war, um den Fragebogen zu aktivieren. Auf der Webseite
-musste ich dann die folgenden Fragen für unseren Haushalt beantworten:
-
-<pic images/census-form.ps Auf dem Volkszählungsbogen sind Dutzende von Fragen zu beantworten.>
-
-1. Wieviele Personen lebten oder befanden sich am 1. April 2020 in Ihrem Apartment, Haus oder Mobilheim?
 
 2. Gab es weiterte Personen, die sich am 1. April 2020 mit Ihnen aufhielten, aber nicht in Frage 1 mit eingeschlossen wurden? (Damit sind z.B. Personen gemeint, die nur temporär in der Wohnung leben).
 
