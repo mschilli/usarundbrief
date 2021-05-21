@@ -365,23 +365,27 @@ following questions for our household:
 
 1. How many persons are or have been living in your apartment, house, or mobile home on April 1st, 2020?
 
+2. Were there other persons staying with you on April 1st, which were not included in question 1?
+(This refers to people living there temporarily).
+
+3. Do you own your house, apartment or mobild home, do you rent or are you living rent free?
+
+4. What is your telephone number?
+
+5. What is the name of the first person living here?
+
+6. Is the person male or female?
+
+7. What is the age and birth date of person number 1?
+
+8. Is the person of Hispanic, Latin American or Spanish heritage?
+
+9. What is the race of person number 1? Options are: White, Black or African American,
+Native American or Indiginous people of Alaska, Chinese, Vietnamese, Hawaiian, Japanese, Phlippino,
+Korean, Indian, Samoan, Chamorro, other Pacific Islanders, other race. Several choices
+are permitted.
+
 TODO
-
-2. Gab es weiterte Personen, die sich am 1. April 2020 mit Ihnen aufhielten, aber nicht in Frage 1 mit eingeschlossen wurden? (Damit sind z.B. Personen gemeint, die nur temporär in der Wohnung leben).
-
-3. Besitzen Sie ihr Haus, Apartment oder Mobilheim, mieten Sie es oder wohnen Sie mietfrei?
-
-4. Was ist Ihre Telefonnummer?
-
-5. Was ist der Name, der ersten Person, die hier lebt?
-
-6. Ist die Person männlich oder weiblich?
-
-7. Was ist das Alter und Geburtsdatum von Person 1?
-
-8. Ist die Person hispanischer, lateinamerikanischer oder spanischer Herkunft?
-
-9. Was ist die Rasse von Person 1? Zur Auswahl stehen: Weiß, schwarz oder Afro-Amerikaner, Indianer oder Ureinwohner Alaskas, Chinese, Vietnamese, Hawaiianer, Japaner, Philippino, Koreaner, Inder, Samoer, Chamorro, andere Einwohner von Pazifikinseln, andere Rasse. Man kann dabei mehrere Kästchen ankreuzen.
 
 10. Vor-und Nachname von Person 2
 
