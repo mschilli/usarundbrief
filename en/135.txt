@@ -363,73 +363,67 @@ following questions for our household:
 
 <pic images/census-form.ps There are dozens of questions on the census survey to be answered.>
 
-1. How many persons are or have been living in your apartment, house, or mobile home on April 1st, 2020?
+1. How many people were living or staying in this house, apartment, or mobile home on April 1, 2020?
 
-2. Were there other persons staying with you on April 1st, which were not included in question 1?
+2. Were there any additional people staying here on April 1, 2020, that you did not include in Question 1?
 (This refers to people living there temporarily).
 
-3. Do you own your house, apartment or mobild home, do you rent or are you living rent free?
+3. Is this house, apartment, or mobile home owned by you or someone in this household with a mortgage or loan (including home equity loans)? Is it owned by you or someone in this household free and clear (without a mortgage or loan)? Rented? Occupied without payment of rent?
 
 4. What is your telephone number?
 
-5. What is the name of the first person living here?
+5. What is Person 1's name?
 
-6. Is the person male or female?
+6. What is Person 1's sex?
 
-7. What is the age and birth date of person number 1?
+7. What is Person 1's age and what is Person 1's date of birth?
 
-8. Is the person of Hispanic, Latin American or Spanish heritage?
+8. Is Person 1 of Hispanic, Latino, or Spanish origin?
 
-9. What is the race of person number 1? Options are: White, Black or African American,
-Native American or Indiginous people of Alaska, Chinese, Vietnamese, Hawaiian, Japanese, Phlippino,
-Korean, Indian, Samoan, Chamorro, other Pacific Islanders, other race. Several choices
-are permitted.
+9. What is Person 1's race? Options are: White; Black or African American; American Indian or Alaska Native; Chinese; Filipino; Asian Indian; Vietnamese; Korean; Japanese; other Asian; Native Hawaiian; Samoan; Chamorro; other Pacific Islander; some other race. Mark one or more boxes.
+
+10. Print name of Person 2.
+
+11. Does this person usually live or stay somewhere else?
+
+12. How is this person related to Person 1?
+
+13. What is Person 2's sex?
+
+14. What is Person 2's age and what is Person 1's date of birth?
+
+15. Is Person 2 of Hispanic, Latino, or Spanish origin?
+
+16. What is Person 2's race?
+
+And so on, depending how many people are living in the household. The question
+about a person's race is quite common in the U.S., although it might sound
+strange for German ears. If you were wondering about the differentiation
+between Spanish, Hispanic, and Latino above, the census form explains that for
+the purpose of the survey they determine a person's origin from Cuba, Mexica,
+Puerto Rica, South or Central America, or other Spanish culture, regardless of
+race.
+
+It's also interesting that the survey asked for a person's full name. This is
+supposed to prevent duplicate counts. If someone didn't submit the form in a timely
+manner, the census bureau was quick to send out reminders.
+Recently, we had just returned home from a walk through the neighborhood, we saw a
+survey person at the door to our building, asking about parties in our
+building who hadn't filled out the questionaire yet. We of course had submitted
+ours online already.
+
+@Z: Illegal Car Racing
+
+<pic images/sideshow-mission.ps Even in bright daylight, there are sideshows happening on public streets in San Francisco.>
+
+<em>Michael</em> A few weeks ago, I woke up in the middle of the night to the infernal noise
+of revving muscle car engines and tires screeching over asphalt. No doubt, underoccupied
+juveniles, usually drag racing their cars and doing donuts on empty supermarket parking lots
+at night had discovered our idyllic neighborhood for their illegal activities.
+
+<pic images/sideshow-marks.ps On the next day, the traces of nightly sideshows were apparent on our neighborhood streets.>
 
 TODO
-
-10. Vor-und Nachname von Person 2
-
-11. Lebt die Person in der Regel woanders?
-
-12. In welchem Verwandschaftsverhältnis steht Person 2 zu Person 1?
-
-13. Ist die Person männlich oder weiblich?
-
-14. Was ist das Alter und Geburtsdatum von Person 2?
-
-15. Ist die Person hispanischer, lateinamerikanischer oder spanischer Herkunft?
-
-16. Was ist die Rasse von Person 2?
-
-Das geht dann immer so weiter, je nachdem, wieviele Personen in dem Haushalt
-leben. Die Frage nach der Rassenzugehörigkeit ist in den USA Standard in
-Formularen, klingt aber für deutsche Ohren sicher merkwürdig. Das
-Census-Formular erklärt übrigens, warum spanisch, hispanisch und
-lateinamerikanisch als separate Kategorien aufgelistet werden: Weil sie für den
-Zweck der Volkszählung nicht als Rasse eingestuft werden.  Interessant ist
-auch, dass der volle Name anzugeben ist. Dies soll sicherstellen, dass Personen
-nicht zweimal gezählt werden. Die Census-Behörde bombardiert einen übrigens
-schnell mit Er\-inner\-ungs\-schrei\-ben, wenn man das Formular nicht sofort ausfüllt.
-Als wir neulich von einem unserer Spaziergänge zurück kamen, stand eine
-Volkszählerin vor der Tür unseres Hauses und wollte wissen, wie sie zu
-bestimmten Wohnungen in unserem Haus gelangen könnte, denn es gab in unserem
-Mietshaus drei Parteien, die das Formular noch nicht ausgefüllt hatten. Wir
-sagten ihr natürlich gleich, dass wir unsere schon online erledigt hatten.
-
-@Z: Illegale Autorennen
-
-<pic images/sideshow-mission.ps Auch tagsüber finden in San Francisco mitten in der Stadt auf öffentlichen Straßen sogenannte "Sideshows" statt.>
-
-<em>Michael</em> Neulich wachte ich mitten in der Nacht auf, weil in unserem
-eher noblen und ruhigen Wohnviertel auf einmal ein Getöse infernalen Ausmaßes
-ausbrach.  Ich hörte das typisch blech\-erne Motorenscheppern überdrehter
-amerikanischer Muscle-Cars und Reifengummi, der sich quietschend über Asphalt
-abrieb. Kein Zweifel: Die unausgelasteten Jugendlichen, die sonst auf
-Supermarktparkplätzen in Oakland ihre Kärren sogenannte "Donuts" drehend im
-Kreis fahren, hatten nun auch unser idyllisches Wohnviertel für ihre illegalen
-Aktivitäten entdeckt.
-
-<pic images/sideshow-marks.ps Am nächsten Tag zeigen sich Spuren nächtlicher Sideshows auf den Straßen.>
 
 Und während sonst untertags jede Fußballmutti, die ihren Minivan am Stoppschild
 nicht ordnungsgemäß zum kompletten Stillstand bringt, gnadenlos rausgezogen und
