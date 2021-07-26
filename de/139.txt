@@ -445,11 +445,12 @@ so ein Assistent mit einer Schiefertafel ins Bild kommt, lautstark einen
 abgespreizten Balken draufschnackeln lässt und "Szene die Erste!" ruft.  Bild
 und Ton eines Films werden nämlich meist getrennt aufgenommen und hinterher
 zusammengeflickt. Bei meinen Produktionen nehme ich oft das Bild der
-Handy-Kamera auf, und den Ton spreche ich später als sogenenanntes "Voice Over" in
-ein an den Computer angeschlossenes Mikro.
+Handy-Kamera oder einer Spiegelreflex auf, deren Mikros dürren Sound produzieren.
+Gleichzeitig nimmt ein Studio-Mikrofon den guten Ton auf und der Laptop
+schneidet diese Aufnahme mit.
 
 Anschließend muss dann ein Schneidemensch den Film so zusammenflicken, dass der
-Schauspieler genau zu dem Zeitpunkt die Lippen schürzt, an dem auf der Tonspur
+Schauspieler genau zu dem Zeitpunkt die Lippen schürzt, an dem auf der guten Tonspur
 "o" zu hören ist und keine Verschiebung auftritt, wie bei einer schlechten
 Raubkopie.  Das ist eine unglaublich nervige Fitzelei, die man nie ganz genau
 hinbekommt, aber genau hier kommt die Tafel zum Einsatz: Am Anfang der
