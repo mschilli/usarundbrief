@@ -434,19 +434,22 @@ red lights and stop signs.
 
 <pic images/defund.ps Stubborn Noe Valley residents insist that police funds need to be cut.>
 
-TODO
+This also illustrates nicely that San Francisco has now effectively established
+a two-class system: Laws apply to the wealthy, and the poor are encouraged to
+endulge in lawless activities without consequences.  "Victimless crime" is the
+new District Attorney's spin on it, an individual named Chesa Boudin, voted
+into office by clueless idiots in an election with record low voter
+participation.
 
-Das zeigt euch, dass mittlerweile in San Francisco eine
-Zwei-Klassengesellschaft herrscht: Gesetze gelten für die Reichen, die
-Mittellosen dürfen sich straffrei austoben. "Victimless Crime" nennt dies der
-neuerdings von ahnungslosen Deppen ins Amt gewählte Staatsanwalt Chesa Boudin.
-Auf dem Papier sind Straßenrennen freilich illegal, wird ein Fahrer erwischt,
-drohen nicht nur der Entzug der Fahrerlaubnis sondern auch Geld- oder
-Gefängnisstrafen. Allerdings ist die Polizei in San Francisco neuerdings dazu
-übergegangen, die Chaoten nicht mehr rauszuziehen, sondern lässt sie einfach
-machen und sieht tatenlos zu, um Konfrontationen zu vermeiden.  Den restlichen
-Anwohnerverkehr leiten sie weiträumig um, damit's nicht zu Unfällen kommt. Eine
-bizarre Welt.
+On paper, organized street racing is of course illegal, if caught and
+prosecuted, drivers would face fines, losing their license, or in severe cases
+even serve jail sentences. But San Francisco police has recentely established a
+new policy, and is no longer confronting these lawless drivers to avoid
+escalations.  Instead, they divert traffic around those lawless events to avoid
+accidents. That's the bizarro world we've gotten used to living in,
+unfortunately.
+
+TODO
 
 Mancherorts steht sogar das bloße Zuschauen bei Side-Shows unter Strafe!  So
 kam letztes Jahr in San Jose <LINK>https://www.kron4.com/news/bay-area/watching-a-sideshow-in-san-jose-is-now-a-crime/1969817695/|ein Gesetz|Zuschauerstrafen bei Side-Shows in San Jose</LINK> durch, das Anwesende
