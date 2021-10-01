@@ -5,21 +5,19 @@ San Francisco, 07-26-2021
 <pic images/covid-lunch.ps The first lunch in a restaurant for us after the pandemic.>
 
 <em>Angelika</em>
-Around May/June 2021, San Francisco awakened from its Sleeping Beauty status.
+Around May/June 2021, San Francisco awakened from its Sleeping Beauty state. The above
+average vaccination rate in the city and surrounding county had lowered the
+incidence count to one-digit values per 100,000 residents. For weeks, the
+numbers were hovering under 2! Something like euphoria began to develop.
+Had they indeed beaten the virus? Consequently, on June 15th, all restrictions
+were lifted, and city life lovers pulled out all the stops. We saw packed
+restaurants, with tables both inside and outside, and more people not wearing masks,
+even while shopping at grocery stores. Only the non-vaccinated were required to wear
+a mouth and nose covering.
+
+<pic images/covid-tattoo.ps This tattoo parlor offers to ink the vaccinated with no mask requirement.>
 
 TODO
-
-Die
-hohe Impfrate in der Stadt und Umgebung hatte die Inzidenzwerte auf
-einstellige Zahlen je 100.000 Einwohner herunter gedrückt. Über Wochen hinweg lagen die
-Traumwerte bei unter 2! So etwas wie Euphorie machte sich in
-der Stadt breit. Sollten wir es geschafft haben? Als dann am 15. Juni in San
-Francisco (und auch Kalifornien) fast alle Einschränkungen wegfielen, gab es
-kein Halten mehr. Wir sahen wieder gut besuchte Restaurants mit geöffnetem Innen- und
-Außenbereich, und vermehrt Menschen ohne Maske, selbst im Supermarkt. Nur
-nicht Geimpfte waren noch verpflichtet, sich zu maskieren.
-
-<pic images/covid-tattoo.ps Dieser Tattoo-Laden tätowiert Geimpfte auch ohne Maske.>
 
 Touristen gehörten auf einmal nicht mehr zur aussterbenden Art, und auch
 Downtown San Francisco sah nicht mehr ganz so trostlos aus und fing an, das
