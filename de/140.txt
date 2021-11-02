@@ -1,4 +1,4 @@
-San Francisco, den 01.10.2021
+San Francisco, den 01.11.2021
 
 @Z: Koyoten ganz nah
 
@@ -17,7 +17,7 @@ keine Ausnahme.
 Bei unserem sonntäglichen Altherrenfußball im Stadtteil Bernal Heights zum
 Beispiel grenzt das Spielfeld an einen Bereich mit mannshohen Büschen, in denen
 eine Koyotenfamilie wohnt.  Warnschilder am Eingang des Sportplatzes weisen auf
-die wilden Bewohner hin, und empfehlen, Hunde nur an der Leine führen und nicht
+die wilden Bewohner hin, und empfehlen, Hunde nur an der Leine zu führen und nicht
 frei laufen zu lassen. Und tatsächlich kommen die Koyoten bei sonnigem Wetter
 auch gerne mal hervorgekrochen, und wir sehen sie dann am Spielfeldrand mit
 ihren Jungen herumtollen.
@@ -74,7 +74,7 @@ auf ersten Blick vielleicht als besonders demokratisch erscheint, aber seine
 Tücken hat. Denn so müssen die potentiellen Staatsanwälte Wahlkampf betreiben
 und unter Umstände Dinge vertreten, um Wählerstimmen zu gewinnen, die später im
 Amt hinderlich sind. Auch besteht gerade in den USA die Tendenz, schillernde
-Persönlichkeiten in wichtige Positionen zu hieven, ohne eingehend dazüber
+Persönlichkeiten in wichtige Positionen zu hieven, ohne eingehend darüber
 nachzudenken, ob diese Personen auch qualifiziert für den Posten sind. Boudin
 war zum Beispiel Pflichtverteidiger, hatte also Erfahrung in der Verteidigung
 von Angeklagten, aber nicht in deren Strafverfolgung.
@@ -105,7 +105,7 @@ Januar 2020 im Amt. Er gewann allerdings nur mit 3000 Stimmen Vorsprung und
 setzte sich zum Entsetzen der Polizeigewerkschaft gegen deren Favoriten
 Suzy Loftus durch.
 
-<pic images/chesa-sign-window.ps Vereinzelt sieht man noch hartnäckige Anhänger des bald abgesetzten District Attorney.>
+<pic images/chesa-sign-window.ps Vereinzelt sieht man noch hartnäckige Anhänger des vielleicht bald abgesetzten District Attorney.>
 
 Boudins Lebenslauf ist recht interessant. Beide seiner Eltern saßen jahrelang
 im Gefängnis, weil sie der linken radikalen Gruppe "Weather Underground"
@@ -154,7 +154,7 @@ schließen, nachdem mittlerweile mehrmals am Tag die Regale von Dieben
 ausgeräumt werden. Fairerweise muss allerdings erwähnt werden, dass diese
 Situation auch mit der sogenannten Proposition 47 zusammen hängt. Die Wähler in
 Kalifornien stimmten nämlich 2014 dafür, dass Diebstahl von Waren im Wert von
-weniger als $ 950 nur noch als minderes Vergehen (Misdemenor) zu bewerten ist
+weniger als $ 950 nur noch als minderes Vergehen ("Misdemenor") zu bewerten ist
 (<RBLINK>20160618#3</RBLINK>) und selbst reformresistente Wiederholungstäter nicht
 ins Gefängnis müssen.
 
@@ -182,9 +182,10 @@ eine Anmeldung auf
 <LINK>https://einreiseanmeldung.de|einreiseanmeldung.de</LINK>, die bei der
 Einreise ausgedruckt (!) vorzulegen ist. Während des 10-12 Stunden langen
 Fluges muss der Reisende die gesamte Zeit eine Maske tragen. Medizinische
-Masken oder sogar Stoffmasken sind erlaubt. Während des Essens oder Trinkens
-darf die Maske abgenommen werden. Verschiedene Fluggesellschaften kontrollieren
-das unterschiedlich streng, Lufthansa ist sehr auf Zack, United eher luschig.
+Masken sind erlaubt, und bei einigen Fluggesellschaften sogar Stoffmasken.
+Während des Essens oder Trinkens darf die Maske abgenommen werden. Verschiedene
+Fluggesellschaften kontrollieren das unterschiedlich streng, Lufthansa ist sehr
+auf Zack, United eher luschig.
 
 In der umgekehrten Richtung, also von Deutschland in Richtung USA, verlangen die Amerikaner
 von den Fluggesellschaften, dass die Passagiere das negative Ergebnis eines
@@ -257,7 +258,7 @@ ein Jahr dauern, wie ihr jetzt wisst. Außerdem geht das nur, wenn der
 Kunde die Frankierung Online erledigt, was ja okay ist, wenn dem Kunden das
 auch gesagt wird. Leider ist das nicht immer der Fall, oder es wird am Schalter
 versprochen, dass das Luftpaket innerhalb von spätestens 14 Tagen da sein wird,
-weshalb zahlt der Kunde ja mehr zahlt, damit das Paket schneller transportiert
+weshalb der Kunde ja mehr zahlt, damit das Paket schneller transportiert
 wird. Das trifft aber nach unseren persönlichen Erfahrung nicht zu. Sechs bis
 acht Wochen Laufzeit war eher Standard im letzten Jahr für die Pakete von
 Deutschland in die USA per Luftpost.
@@ -295,7 +296,7 @@ ausgenommen, da sie noch nicht geimpft werden können.
 
 Auch die Diskussion um die Covid-Auffrischimpfung lief aus dem Ruder,
 nachdem Präsident Biden ohne Absprache mit seinen zuständigen Behörden
-vorprescht war und jedem den sogenannten "Booster" im Herbst versprach. Das
+vorgeprescht war und jedem den sogenannten "Booster" im Herbst versprach. Das
 verärgerte viele Wissenschaftler, da die Datenlage noch nicht eindeutig war
 bezüglich einer Auffrischimpfung. Mittlerweile gelten die folgenden
 Empfehlungen in den USA: Alle, die über 65 Jahre alt sind,  sollten den
@@ -307,7 +308,7 @@ Berufen arbeiten, bei denen sie einem erhöhten Covidrisiko ausgesetzt
 sind, weil sie auf viele Menschen (auch ungeimpfte) bei der Arbeit treffen.
 Das gilt für Lehrer, Polizisten, Feuerwehrleute, Postbeamte, Busfahrer
 oder Angestellte in Restaurants und Supermärkten. In diese dritte
-Kategorie falle ich, und ich habe nächste Woche einen Termin für den dritten
+Kategorie falle ich, und ich habe bereits einen Termin für den dritten
 Pieks ausgemacht. Ich werde dann davon berichten. Mittlerweile dürfen für den
 "Booster" übrigens auch verschiedene Impfstoffe kombiniert werden, womöglich
 bald nach dem Motto: "Welchen Impfstoff hätten Sie denn heute gerne?".
@@ -320,7 +321,7 @@ bald nach dem Motto: "Welchen Impfstoff hätten Sie denn heute gerne?".
 Am sogenannten "Ocean Beach" kann jedermann kostenlos meilenweit spazierengehen
 und die atemraubende Aussicht genießen. Wanderer sehen dabei allerhand
 Meeresgetier, wie Albatrosse, Delfine, Robben oder Wale. Der Strand zieht sich
-ewig, von San Franciscos mittlerweile geschlossenen Cliff-House im Norden bis
+ewig, von San Franciscos mittlerweile geschlossenem Cliff-House im Norden bis
 runter in den Vorort Daly City. Bei Stürmen im Winter brechen vor der Küste 10
 Meter hohe Monsterwellen, die selbst die verwegensten Surfer meiden, an warmen
 Sommertagen hören Spaziergänger nur Geplätscher, und Lustwandler genießen
@@ -332,7 +333,7 @@ sicher schon tausend Meilen abgeschritten.
 Allerdings holt sich der kalte und tückische Ozean jedes Jahr ein paar
 Leichtsinnige, die sich, oft alkoholisiert, zu nah ans Wasser wagen, und dann
 von plötzlichen "Sneaker Waves" gepackt und hineingezerrt werden. Ohne Wetsuit
-ist dann wegen des kalten Wassers nach wenigen Minuten Game Over, denn die
+ist dann wegen des kalten Wassers nach wenigen Minuten "Game Over", denn die
 Muskeln versagen den Dienst und selbst wer sonst gut schwimmt sackt ab und
 ertrinkt. Ich bin schon mal dort gesurft, muss aber sagen, dass ich das
 Anfängern nur bei Babywellen raten würde, und die enorme Strömung, die einen je
@@ -393,7 +394,7 @@ leider nicht. Ganz so wie ein offensichtlich aus Großbritannien stammender
 Herr, der, mühevoll drei Koffer ohne Gepäckwagen im Aufzug nach oben zum
 Taxistand balancierend, mir zuraunte: "I can't believe they're taking 8 Dollars
 for a cart!" und ich musste ihm mit "Yep, it's ridiculous!" zustimmen. Denn von
-den 8 Dollars bekommt der Flugast exakt Null Dollars zurück, wenn er den Karren
+den 8 Dollars bekommt der Fluggast exakt Null Dollar zurück, wenn er den Karren
 wieder abgibt. Ein Laufjunge der Firma sammelt die Wagen wieder ein, bringt sie
 zurück zum Automaten und pro Karren gehen 8 Dollar an die Betreiberfirma von
 Dr. Evil. Aber offensichtlich steht der Bürgermeisterin von San Francisco,
@@ -410,7 +411,7 @@ Innenstadt später schließlich Gründe genug!
 vorbehalten, aber heute bin ich einmal dran. Ich lese ja für mein Leben gern
 und habe eines der besten Sachbücher, das ich seit langem gelesen habe, diesen
 Monat verschlungen. Der amerikanische Arzt Atul Gewande beschäftigt sich in
-seinem Werk “Being Mortal” (deutscher Titel: “Sterblich sein”) mit dem Sterben
+seinem Werk "Being Mortal" (deutscher Titel: "Sterblich sein") mit dem Sterben
 und wie die moderne Medizin kläglich versagt, diesen Prozess würdevoll zu
 begleiten. Es geht darum, was am Ende eines Lebens wirklich zählt. Anhand
 vieler persönlicher Geschichten (u.a. die seines eigenen Vaters) stellt
@@ -423,7 +424,7 @@ nach Auswegen dieser Misere. Unbedingt zu empfehlen!
 
 <em>Michael</em> Aus amerikanischen Wildwestfilmen kennt man ja die Szenen, in
 denen Mittellose in leeren Güterzugwaggons mit der Eisenbahn quer durch halb
-Amerika fahren. Kilometerlange Züge mit hunderten von Wagons zuckeln hier
+Amerika fahren. Kilometerlange Züge mit hunderten von Waggons zuckeln hier
 teilweise mit nur 10 oder 20 km/h durch die endlose Prärie, und oft
 ist auf einem Wagen keine Fracht oder in einem leeren Viehwagon noch Platz für
 einen anspruchslosen Fahrgast. Gegen Ende des 19. Jahrhunderts nutzten vor
@@ -433,7 +434,7 @@ wenngleich weder bequeme noch ganz ungefährliche Art des Personentransportes.
 Zwar versucht die Bahnpolizei durch Präsenz in den Verladestationen,
 unautorisierte Fahrgäste vom Mitfahren abzuhalten, aber da die Züge teilweise
 nur Schleichtempo fahren, springen Hobos oft einfach auf offener Strecke auf
-die fahrenden Wagons auf.
+die fahrenden Waggons auf.
 
 Auch heute ist das Mitfahren auf Güterzügen, das sogenannte
 <LINK>https://en.wikipedia.org/wiki/Freighthopping|Freighthopping</LINK>,
@@ -445,7 +446,7 @@ wagen das Abenteuer auch heute noch. So zum Beispiel die Youtube-Persönlichkeit
 sondern auch noch in hinreißenden Videos auf Youtube darüber berichtet.
 In denen sieht man Güterzüge im prallen Sonnenschein langsam durch die endlosen Weiten
 des Landes rauschen, während der Protagonist sich selbst und
-seinen Kumpel "Wingman" dabei abfilmt, wie sie in den offenen Wagons campieren
+seinen Kumpel "Wingman" dabei abfilmt, wie sie in den offenen Waggons campieren
 und die Fahrt genießen.
 
 <pic images/stobe-sit.ps Dass das nur die Eisenbahnpolizei nicht sieht!>
