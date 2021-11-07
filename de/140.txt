@@ -239,7 +239,7 @@ Paket ging Ende Oktober 2020 auf die Reise, als es in Augsburg bei der Post
 abgegeben wurde. Wir dachten alle, dass es verloren gegangen wäre. Aber siehe
 da, knapp ein Jahr später, im September 2021, stellte es unser treuer
 Briefträger Jose zu. Der konnte es kaum fassen, als Michael ihm erzählte, dass
-das Paket solange unterwegs gewesen war, denn es war weder beschädigt oder vom Zoll
+das Paket solange unterwegs gewesen war, denn es war weder beschädigt noch vom Zoll
 geöffnet worden. Auch die Adresse war gut lesbar. Wir fragten uns dann schon,
 was die Post mit dem Paket gemacht hat und welche Abenteuer das Paket wohl auf
 seiner großen und langen Reise erlebt hat. Laut Trackingnummer bei DHL ist das
@@ -248,7 +248,7 @@ uns sehr, als es ankam.
 
 <pic images/container.ps Containerschiffe warten auf der San Francisco Bay aufs Entladen.>
 
-Corona dient ja mittlerweile oft als Ausrede dafür, dass vieles nicht läuft und
+Corona dient ja mittlerweile oft als Ausrede dafür, dass Vieles nicht läuft und
 nicht klappt. Mit der deutschen Post habe ich da ein besonderes Hühnchen zu
 rupfen, denn sie erhebt frecherweise einen heftigen Aufschlag auf
 Warensendungen, die per Luftpost in die USA versandt werden. Normale Briefe
@@ -261,7 +261,7 @@ Kunde die Frankierung Online erledigt, was ja okay ist, wenn dem Kunden das
 auch gesagt wird. Leider ist das nicht immer der Fall, oder es wird am Schalter
 versprochen, dass das Luftpaket innerhalb von spätestens 14 Tagen da sein wird,
 weshalb der Kunde ja mehr zahlt, damit das Paket schneller transportiert
-wird. Das trifft aber nach unseren persönlichen Erfahrung nicht zu. Sechs bis
+wird. Das trifft aber nach unseren persönlichen Erfahrungen nicht zu. Sechs bis
 acht Wochen Laufzeit war eher Standard im letzten Jahr für die Pakete von
 Deutschland in die USA per Luftpost.
 
@@ -281,7 +281,7 @@ Als nach dem Sommer der Herbst ins Land zog, erließ San Francisco einige
 verwirrende Maskenbestimmungen. Laut letztem Rundbrief waren Masken für
 Geimpfte in Innenräumen ja empfohlen, aber noch nicht wieder verpflichtend
 (<RBLINK>20210726#1</RBLINK>). Das änderte sich allerdings am 3. August. Egal
-ob geimpft und ungeimpft, es galt Maske auf in allen öffentlichen Innenräumen, wie
+ob geimpft oder ungeimpft, es galt Maske auf in allen öffentlichen Innenräumen, wie
 in Supermärkten, Museen, Kirchen und Fitnessstudios. Am 15. Oktober wurde
 diese Vorschrift jedoch wieder gelockert. Ist man geimpft, braucht man in San
 Francisco im Büro, im Gottesdienst, im Fitnesscenter oder während anderer
@@ -346,7 +346,7 @@ Nerven wie Drahtseile.
 <pic images/ob-sand-after-1.ps Nachher: Neu aufgeschichteter Sand als Todesfalle für nichtsahnende Touristen.>
 
 Der Strand grenzt an die Uferstraße "Great Highway", dessen Befestigung, wie schon einmal berichtet
-(<RBLINK>20120801#8</RBLINK>), teilweise aus alten Grabsteinen des ehemaligen Stadtfriefhofs von
+(<RBLINK>20120801#8</RBLINK>), teilweise aus alten Grabsteinen des ehemaligen Stadtfriedhofs von
 San Francisco besteht. Im Laufe der Jahre hat sich der Ozean aber nun immer mehr Sand vom Strand
 einverleibt, sodass die Stadtväter wohl Angst bekamen, dass er auch die Straßenbefestigung
 wegspülen könnte. Kurzer Hand starteten sie ein Bauprojekt, das mit Hilfe einer im Ozean
@@ -409,7 +409,7 @@ Innenstadt später schließlich Gründe genug!
 
 <pic images/mortal.ps Das Buch "Being Mortal" von Atul Gawande>
 
-<em>Angelika</em>Eigentlich ist Michael ja immer die Rubrik des Toppprodukts
+<em>Angelika</em> Eigentlich ist Michael ja immer die Rubrik des Toppprodukts
 vorbehalten, aber heute bin ich einmal dran. Ich lese ja für mein Leben gern
 und habe eines der besten Sachbücher, das ich seit langem gelesen habe, diesen
 Monat verschlungen. Der amerikanische Arzt Atul Gewande beschäftigt sich in
