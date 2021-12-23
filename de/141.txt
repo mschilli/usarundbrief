@@ -191,7 +191,7 @@ Droge losgekommen wären, wenn man ihnen nicht irgendwann nur die Wahl gegeben
 hätte zwischen Entzug oder Gefängnis. Viele im Viertel wären schon zufrieden,
 wenn wenigstens die Drogendealer zur Rechenschaft gezogen würden.
 
-@Z: Schoolboard Recall
+@Z: School Board Recall
 
 <pic images/school-board-recall.ps Im Januar ist die Wahl zur Absetzung des Schulverwaltung in San Francisco.>
 
@@ -220,9 +220,9 @@ hat. In Prinzip kann sich jeder Erwachsene, der in San Francisco wohnt, zur
 Wahl aufstellen lassen. Im School Board sitzen aber oft Lehrer oder Eltern mit
 schulpflichtigen Kindern.
 
-<pic images/lincoln-high.ps Knapp an der Umbenennung durch das School-Board vorbeigeschrammt: Die Lincoln-Highschool.>
+<pic images/lincoln-high.ps Knapp an der Umbenennung durch das School-Board vorbeigeschrammt: Die Lincoln High School.>
 
-Am 15.  Februar findet die Wahl statt. Wenn ich wählen dürfte, würde ich alle
+Am 15. Februar findet die Wahl statt. Wenn ich wählen dürfte, würde ich alle
 drei zum Abruf gelisteten Mitglieder abwählen. Allerdings sind nur
 Erziehungsberechtigte, die ein Kind in einer öffentlichen Schule in San
 Francisco haben, wahlberechtigt. In San Francisco dürfen übrigens auch die
@@ -275,7 +275,7 @@ Die Recall-Maschienerie stoppte dies allerdings nicht mehr. Ihr wundert euch
 vielleicht, warum nur 3 der 7 Mitglieder um ihr Amt bangen müssen. Vier der 7
 Mitglieder waren noch nicht 6 Monate dabei, als das Abberufungsverfahren
 eingeleitet wurde, und dürfen deshalb nach den Recall-Regeln noch nicht
-abgerufen werden. Die drei, um die es geht, heißen: Gabriela López, Alison
+abberufen werden. Die drei, um die es geht, heißen: Gabriela López, Alison
 Collins und Faauuga Moliga. Alison Collins ist dabei eine besonders kontroverse
 Person. Sie setzte nämlich vor einigen Jahren ein paar bitterböse Tweets ab,
 die asiatische Mitbürger auf sehr unschöne Weise angriff, und war dann so dumm,
@@ -286,7 +286,7 @@ völlig absurde 87-Millionen-Dollar-Klage gegen den Schuldistrikt an. Die
 wurde zwar sofort niedergeschlagen, und es kam gar nicht zum Rechtsverfahren,
 aber das Ganze ist in seiner Absurdität wirklich nicht zu überbieten.
 
-Und jetzt droht auch noch der Staat Kalifornien die Finanzaufsicht über den
+Und jetzt droht auch noch der Staat Kalifornien die Finanz\-aufsicht über den
 Haushalt des Schuldistrikts zu übernehmen. Der San Francisco Schuldistrikt hat
 nämlich ein Defizit von über 125 Millionen Dollar und muss nun einen Plan
 erstellen, wie das Loch zu stopfen ist, wenn er seine Entscheidungsfreiheit,
@@ -306,16 +306,16 @@ Theater nämlich auf der Strecke.
 <em>Michael</em> Drogerieketten wie Walgreens oder CVS klagen in letzter Zeit
 über explosionsartig steigenden Verluste durch Ladendiebstähle. Die Diebe
 wissen das Gesetz auf ihrer Seite. Selbst vom Laden angestelltes
-Sicherheitspersonal darf sie per Gesetz nicht aufhalten, falls sie erwischt werden.
-Das hat dazu geführt, dass Penner oder verlotterte Schulkinder mit riesigen
-Müllsäcken durch die Läden marodieren, alles, was in Reichweite ist,
+Sicherheitspersonal darf sie per Gesetz nicht aufhalten, falls sie erwischt
+werden.  Das hat dazu geführt, dass Penner oder verlotterte Schulkinder mit
+riesigen Müllsäcken durch die Läden marodieren, alles, was in Reichweite ist,
 hineinstopfen und unbehelligt herausmarschieren. Neulich waren wir am
 Sonntagnachmittag beim Safeway-Supermarkt und konnten uns live davon
 überzeugen, wie einige Jugendliche Waren in ihre Rucksäcke stopften und das
 Weite suchten. Das ist mittlerweile Normalität.  Die Ware wird dann an
 Straßenecken wie an der U-Bahn-Haltestelle Mission/24th am hellichten Werktag
-verhökert. Dass die Sachen aus der nächsten Drogerie stammen, ist
-offensichtlich.
+verhökert. Dass die Sachen aus der nächsten Drogerie stammen, ist offensichtlich.
+Und sogar bei Amazon sollen die gestohlenen Waren zum Verkauf stehen!
 
 <pic images/walgreens-mission.ps Zum Schutz des Ladens vor Diebstahl steht jetzt vor der Filiale ein Polizist.>
 
@@ -369,7 +369,7 @@ fahren, um dann loszulegen. Wir haben die irrsten Routen, eine führt
 über Felsen, an denen man herunterklettern muss, und eine, die durch den
 Trakt eines aufgegebenen alten Krankenhauses führt. Alles streng geheim
 natürlich! Und als wir letzten Sommer in Deutschland waren, als Touristen
-zum Sight-Seeing in der Stadt Heidelberg, habe ich dort ebenfalls einen
+zum Sightseeing in der Stadt Heidelberg, habe ich dort ebenfalls einen
 Rundweg erstellt, der an allen Sehenswürdigkeiten, vom Philosophenweg
 bis zum Schloss, vorbeiführte.
 
@@ -447,10 +447,10 @@ darauf lanciert. Das funktioniert ganz ordentlich, allerdings gibt der Stein
 die Hitze nicht so gut an die Pizza weiter wie ein Stück Stahl, das gleich heiß
 ist.  Warum? Die Hitzeleitfähigkeit von Stahl ist höher als die von Keramik.
 Dementsprechend schickt ein gleich heißer Stahl mehr Hitze in den darauf
-liegenden Pizzateig, der unten leicht anbrennt dunkelbraune Flecken an der
-Unterseite, das sogenannte "Leoparding", entwickelt, die dem Teig den
-unverwechselbaren pizza-typischen Geschmack verpassen. Problem an der Sache ist
-freilich, dass ein ein Zentimeter dickes Stück Stahl im Format 40cmx40cm
+liegenden Pizzateig, der unten leicht anbrennt. Er entwickelt dunkelbraune Flecken an der
+Unterseite, das sogenannte "Leoparding", das dem Teig den
+unverwechselbaren pizza-typischen Geschmack verpasst. Problem an der Sache ist
+freilich, dass ein ein Zentimeter dickes Stück Stahl im Format 40cm x 40cm
 ungefähr soviel wiegt wie ein Kleinwagen und in Sekunden zu rosten anfängt,
 wenn man es unabgetrocknet herumstehen lässt. Wie bei einer gusseisernen Pfanne
 darf man auch kein Spülmittel zum Säubern verwenden, sondern sollte hin und
