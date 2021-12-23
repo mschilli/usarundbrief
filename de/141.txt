@@ -51,7 +51,7 @@ wieder neue Restriktionen gibt wegen Omikron.
 <pic images/21cca.ps Patienten dürfen nun die Notizen des Doktors lesen.>
 
 <em>Angelika</em>
-Neulich hatte ich einmal wieder eine Routineuntersuchung bei meiner
+Neulich hatte ich einmal wieder eine Routine\-untersuchung bei meiner
 Frauenärztin und staunte nicht schlecht, als ich hinterher auf dem Patientenportal online
 ihre Notizen von unserem Gespräch lesen konnte. Ich dachte zunächst, dass sie
 vielleicht auf den falschen Knopf gedrückt hätte, denn normalerweise hatte ich
