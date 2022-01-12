@@ -62,22 +62,20 @@ to get vaccinated. They range from cash payments (50 Dollars), to free tickets t
 amusement parks, to special lottery drawings for the vaccinated. They're
 pulling out all the stops!
 
-TODO
+Since not everyone responds to carrots, there's also stick-based incentives.
+Many universities in California (e.g. Stanford University, San Francisco State,
+UC Berkeley) are mandating their students to be vaccinated. London Breed, our
+mayor, announced, that all 35,000 city employees are required to get the shot.
+Those who refuse are putting their job on the line. Our school also requires
+staff to get the vaccine.  I support that, having worked through the past
+school year in fear of getting Covid, or that the virus starts infecting our
+students. By the way, we managed to get through the year without a single case
+of Covid in our school, and we we've been continunally open since the fall of
+2020. My students are quite excited about getting vaccinated and at the same
+time sad that the vaccine hasn't been approved for their age group yet. Many
+anti-vaxxers could learn a lesson from them.
 
-Da nicht jeder auf Belohnungen reagiert, gibt es auch Vorstöße, die
-Daumenschrauben anzuziehen. Viele kalifornische Universitäten (u.a. Stanford
-University, San Francisco State University, UC Berkeley) verpflichten ihre
-Studenten zur Covid-Impfung. London Breed, unsere Bürgermeisterin, verkündete,
-dass alle städtischen Bediensteten der Stadt San Francisco, schlappe 35.000
-Angestellte, sich impfen lassen müssen. Verweigerer setzen ihren Job
-aufs Spiel. Auch in unserer Schule gilt für die Mitarbeiter Impfpflicht. Ich
-begrüsse das sehr, denn ich habe im letzten Schuljahr oft mit der Angst
-leben müssen, an Covid zu erkranken oder dass sich das Virus in der Schule
-verbreitet und die Kinder infiziert. Wir schafften es übrigens, ohne einen
-Covidfall durchs Schuljahr zu kommen und unsere Schule war seit Herbst 2020
-durchgehend auf. Meine Schüler sind übrigens ganz heiß auf die Impfung und
-bedauern sehr, dass der Impfstoff für ihre Altersgruppe noch nicht zugelassen
-ist. Da könnte sich so mancher Impfmuffel ein Beispiel drannehmen.
+TODO
 
 @Z: Zwölf Millionen für ein Haus?
 
