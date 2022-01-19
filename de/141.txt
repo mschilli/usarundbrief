@@ -193,7 +193,7 @@ wenn wenigstens die Drogendealer zur Rechenschaft gezogen würden.
 
 @Z: School Board Recall
 
-<pic images/school-board-recall.ps Im Januar ist die Wahl zur Absetzung des Schulverwaltung in San Francisco.>
+<pic images/sb-recall-tv.ps Die Abendnachrichten berichten über den bevorstehenden Recall des San Francisco Schoolboards.>
 
 <em>Angelika</em> Dass es in San Francisco brodelt und die Bürger immer
 frustrierter werden, merkt man auch an der steigenden Anzahl der eingeleiteten
@@ -229,7 +229,7 @@ Francisco haben, wahlberechtigt. In San Francisco dürfen übrigens auch die
 Eltern an der School-Board-Wahl teilnehmen, die keine amerikanischen
 Staatsbürger sind.
 
-<pic images/sb-recall-tv.ps Die Abendnachrichten berichten über den bevorstehenden Recall des San Francisco Schoolboards.>
+<pic images/school-board-recall.ps Im Januar ist die Wahl zur Absetzung des Schulverwaltung in San Francisco.>
 
 Wieso sind viele Eltern aber in San Francisco so aufgebracht, dass sie das halbe
 School Board entfernen wollen? Vieles hat mit den
