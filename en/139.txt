@@ -94,18 +94,23 @@ That brought a stop to the hyperinflation-style real estate gains recently.
 
 <pic images/houses-mayor-2.ps This house was bought in 2006 by a recently deceased Dot-Com millionaire.>
 
-TODO
+As a side effect, instead of decrepit dumps no one in their right mind would consider
+buying, there's now a whole lot of really interesting objects on the market. At
+exorbitant prices, for sure, and they're apparently saturating the market
+because some of them stay on the listings for months and months with no one willing to
+take a bite. After all, it'll take a bored billionaire with cash to burn a whole in
+their pockets to shell out ten million Dollars for such a house.
 
-Als Nebeneffekt stehen jetzt auf einmal auch außergewöhnliche Häuser zum Verkauf, und
-nervös werdende Makler zeigen die Liegenschaften teilweise monatelang herum, bis
-sich endlich ein Milliardär erbarmt, dem gerade zehn Millionen Dollar ein Loch in die Tasche brennen.
-So kam neulich das verwinkelte, burgähnliche, und leicht hässliche Haus an der Ecke
-21st und Sanchez auf den Markt. Es hat einmal
-<LINK>https://www.sfgate.com/realestate/slideshow/Liberty-Hill-mayors-mansion-for-sale-sf-220364.php|einem früheren Bürgermeister|Mayor's Mansion zum Verkauf</LINK>
-von San Francisco gehört, der es gerüchtehalber für seine Mätresse erworben hatte,
-was dadurch belegt ist, dass der Riesenkasten zwar mit weiträumigen Speisesälen und
-Badezimmern aufwartet, aber ursprünglich
-<LINK>http://www.noevalleyvoice.com/2020/June/202006.pdf|weder über eine Küche noch eine Garage|Frederick Roeber und das "Mayor's Mansion" (Seite 21)</LINK> verfügte.
+For example, there's a mysterious, dungeon-like and slightly ugly house at the
+corner of 21st St and Sanches St for sale now. It once belonged to
+<LINK>https://www.sfgate.com/realestate/slideshow/Liberty-Hill-mayors-mansion-for-sale-sf-220364.php|a former mayor of San Francisco</LINK>, who, according to rumors, purchased it
+back in the day for his concubine. I have no trouble believing this, because although the unusually
+large single family home features a vast dining hall, and plenty of bathrooms,
+it orginally offered
+<LINK>http://www.noevalleyvoice.com/2020/June/202006.pdf|neither a kitchen nor
+a garage to park a car</LINK>.
+
+TODO
 
 Ein Internetmillionär namens Frederick Roeber hatte das Haus im Jahr 2008 für
 schlappe 4,3 Millionen Dollar erworben.  Der exzentrische Computernerd, der bei Netscape und Google
