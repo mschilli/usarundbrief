@@ -79,7 +79,7 @@ anti-vaxxers could learn a lesson from them.
 
 <pic images/houses-mayor-1.ps This house is on the market for twelve million Dollars.>
 
-<em>Michael</em>We're regularily watching the "Tagesschau", a daily German
+<em>Michael</em> We're regularily watching the "Tagesschau", a daily German
 evening news show, and can't help but notice that it regularily shows politicians who can't
 stop complaining about the high cost of housing in Germany. Laughable! Compared to
 the irrationally fueled real estate market in San Francisco, houses in the most
