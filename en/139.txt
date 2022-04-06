@@ -179,21 +179,22 @@ and now there's a big empty lot leftover for a spacious new house to be built.
 Word on the street is it's going to be a multi level monster house, your Noe
 Valley real estate gossip guy will keep you up to date on any new developments!
 
+@Z: Parklets as Restaurant Saviors
+
+<pic images/parklet-bigby.ps As of recently, the city granted San Francisco restaurants permission to serve  their guests in so-called "parklets">
+
+<em>Angelika</em> During the pandemic, San Francisco restaurants have gone
+through tough times, and only as of recently, the few establishments which have
+kept their doors open, are now starting to thrive again. Many old and
+established restaurants had to close their doors indefinitely, there's a long
+list of those. Also keep in mind, that it's actually quite difficult to
+maintain a steady revenue stream for restaurant owners in San Francisco during
+normal times, thanks to the competitive environment in such a culinary hotspot.
+Rents have always been crazy high, and finding qualified staff quite a
+challenge. Profits are generally minimal, and for a restaurant to survive,
+it's basically required that they fill every last table, every night.
+
 TODO
-
-@Z: Parklets als Restaurant-Retter
-
-<pic images/parklet-bigby.ps Restaurants in San Francisco dürfen Gäste nun draußen in sogenannten "Parklets" bewirten.>
-
-<em>Angelika</em> In der Pandemie sind die Restaurants in San Francisco durch
-die Hölle gegangen und nur ganz langsam fassen die, die ihre Türen noch offen
-haben, wieder Fuß.  Viele beliebte und alt eingesessene Restaurants mussten
-schließen. Die Liste ist sehr lang. Nun ist es schon unter normalen Bedingungen
-nicht einfach in der kulinarischen Hochburg San Francisco, ein Restaurant zu
-führen, das Geld abwirft. Die Konkurrenz in San Francisco ist brutal, Mieten
-und Personalkosten extrem hoch, gutes Personal schwer zu finden und die Margen
-sehr klein, d.h., dass das Restaurant letztendlich immer alle Tische besetzen
-muss, um zu überleben.
 
 <pic images/parklet-lobby.ps Eines Tages fingen Bauarbeiter an, vor unserer Eingangstür ein Parklet zu errichten.>
 
