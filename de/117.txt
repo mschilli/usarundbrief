@@ -366,7 +366,7 @@ wieder.
 <pic images/reentry-permit.ps Greencardbesitzer mit Reentry-Permit dürfen bis zu zwei Jahre außer Landes weilen.>
 </HTMLONLY>
 
-Dann gibt's noch Fälle, in denen sich die Annahme er US-Staatsbürgerschaft aus
+Dann gibt's noch Fälle, in denen sich die Annahme der US-Staatsbürgerschaft aus
 legalen Gründen empfiehlt, zum Beispiel wenn ein Ehepaar ein Kind durch eine
 Leihmutter austragen lässt. In Deutschland ist das Verfahren illegal, in
 Amerika legal, deshalb empfiehlt es sich in diesen Fällen die
