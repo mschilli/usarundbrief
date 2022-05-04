@@ -29,7 +29,7 @@ Pinnacles-Nationalparks führen zwei Wanderwege durch richtig tiefe, verwinkelte
 und zappendustere Höhlen im Berg, die teilweise mit Stufen versehen und leicht
 begehbar sind, und teilweise eher "primitive" belassen wurden, wie die
 Oberförsterin im Visitor-Center sich ausdrückte. Selbst bei den gut
-ausgebauten Höhlen muss sich der Wanderer aber teilweise durch schmale Spalte
+ausgebauten Höhlen muss sich der Wanderer aber teilweise durch schmale Spalten
 zwängen oder tief in der Hocke unter Felsüberhängen durchwatscheln. Definitiv
 nichts für Wanderer, die unter Platzangst leiden.
 
@@ -41,7 +41,7 @@ regnete, liefen einige Passagen der Höhle mit Wasser voll. Wir standen also vor
 Entscheidung, entweder auf dem gleichen Weg zurückzukehren, oder die Zähne
 zusammenzubeißen, mit unseren Bergschuhen durch knietiefes Wasser zu
 marschieren und den Rundweg zu machen. Wir trafen auf eine Familie, die ihre Kinder durch die
-vollgelaufene Höhle getragen hatte, also wussten wir, dass wir zwar naß werden
+vollgelaufene Höhle getragen hatte, also wussten wir, dass wir zwar nass werden
 aber doch lebend auf der anderen Seite ankommen würden, und entschieden uns für
 das kalte Bad.
 
@@ -57,11 +57,11 @@ wach!
 
 <pic images/pinnacles-water.ps Wegen des Regens waren Teile des Weges unter Wasser.>
 
-Für die Höhle hatte ich übrigen eine Stablampe für Autoreparaturen mitgebracht,
+Für die Höhle hatte ich übrigens eine Stablampe für Autoreparaturen mitgebracht,
 und die war sehr nützlich, denn in den verwinkelten und völlig vom Tageslicht
 abgeschnittenen Höhlengängen sieht man sonst die Hand vor Augen nicht. Ein
 richtiges Abenteuer mit gutem Ausgang! Allerdings, wie gesagt, nur machbar bei
-richtigem Sauwetter, weil sonst Masen an Tagestouristen den beliebten
+richtigem Sauwetter, weil sonst Massen an Tagestouristen den beliebten
 Nationalpark in einen Rummelplatz verwandeln.
 
 @Z: Der wahre amerikanische Führerschein - "Real ID"
@@ -138,7 +138,7 @@ verschoben wurde, von Oktober 2020 auf jetzt Mai 2023.
 Welche einheitlichen Bestimmungen gelten nun aber, um eine "Real ID" zu
 erhalten? Jeder muss zunächst ein offizielles Dokument vorlegen, das den
 legalen Namen und das Geburtsdatum bestätigt, wie zum Beispiel eine
-Geburtsurkunde, ein Pass (amerikanisch, oder von einem anderen Land
+Geburtsurkunde, einen Pass (amerikanisch, oder von einem anderen Land
 ausgestellt), oder eine Einbürgerungsurkunde. Weiter braucht man eine
 amerikanische Sozialversicherungsnummer ("Social Security Number"), sowie zwei
 Dokumente, die die Wohnadresse plus den Namen enthalten (zum Beispiel Strom-
@@ -171,7 +171,7 @@ Merkmale eingebaut, die Fälschungen verhindern sollen.
 Alle "Real IDs" müssen maschinenlesbar sein. Auf der kalifornischen ist das
 Geburtsdatum auf dem Lichtbild eingraviert, sodass die Zahlen leicht erhöht
 sind. Das Gleiche gilt für die Unterschrift.  Beleuchtet man die kalifornische
-"Real ID" mit ultraviolettem Licht, erscheint die Golde Gate Bridge und der
+"Real ID" mit ultraviolettem Licht, erscheint die Golden Gate Bridge und der
 Coit Tower, der sich ebenfalls in San Francisco befindet. Mit bloßem Auge
 erkennt man diese Wahrzeichen allerdings nicht auf dem Führerschein, was ich
 ein bisschen schade finde. Jetzt sind wir gespannt, ob der Stichtag im Mai
@@ -202,8 +202,8 @@ Einfluss auf das Kriegsgeschehen.
 In der Schule versuchen wir stets, mit unseren Schülern die
 aktuellen Nachrichten zu thematisieren. Dabei nutzen wir oft Videos von der
 Webseite <LINK>https://www.flocabulary.com/topics/week-in-rap|Flocabulary</LINK>, die
-im Schülern im Hip-Hop-Stil aktuelle politische Geschehnisse altersgerecht nahebringt.
-Jede Woche gibt es den sogenannten “Week in Rap” Rückblick. Die Kinder
+den Schülern im Hip-Hop-Stil aktuelle politische Geschehnisse altersgerecht nahebringt.
+Jede Woche gibt es den sogenannten "Week in Rap" Rückblick. Die Kinder
 in meiner Klasse finden diese Videos sehr ansprechend. Ich erinnere mich daran,
 dass es mich zu meinen Schulzeiten immer furchtbar nervte, wenn aktuelle
 Geschehnisse unter den den Tisch gekehrt wurden, und wir uns stattdessen mit
@@ -299,8 +299,8 @@ wenn ein Mitarbeiter fehlt, spüren wir das deutlich.  Auch fühlte ich mich, al
 hätte ich ein Teststäbchen im Dauerzustand in der Nase, weil ich stets im engen
 Kontakt mit positiven Personen war. Wie durch ein Wunder wurde ich nicht
 infiziert. Ich habe keine Ahnung warum. Vielleicht hat mein eisernes
-FFP2-Maske-tragen geholfen. Mittlerweile ist die Omikronwelle abgeebbt, aber wie
-das so bei Wellen ist, kommt sicher bald die nächste, denn auch in San
+FFP2-Maske-Tragen geholfen. Mittlerweile ist die Omikronwelle abgeebbt, aber wie
+das bei Wellen so ist, kommt sicher bald die nächste, denn auch in San
 Francisco und in unserer Schule ist das Maskenmandat gefallen. Nur noch in
 wenigen Ausnahmen müssen wir Maske tragen, und zwar in Arztpraxen,
 Krankenhäusern, Altenheimen, Obdachlosenasylen und Gefängnissen.
@@ -382,14 +382,14 @@ dort rutschen sehen, aber das heißt ja nichts.
 <pic images/burlap-ebay.ps Für 4 Kartoffelsäcke hat Michael auf Ebay schlappe 16 Dollar bezahlt.>
 
 Bei meinen ersten paar Rutschversuchen stellte sich allerdings heraus, dass der Rutschenstahl
-trotz blankgewienerter Oberfläche mit dem Baumwollstuff meines Hosenbodens zuviel
+trotz blankgewienerter Oberfläche mit dem Baumwollstoff meines Hosenbodens zuviel
 Reibung erzeugte, und statt zu einer rasanten Abfahrt zu beschleunigen, kam ich
 sofort ins Stocken und musste sogar nachschieben, um nicht stecken zu bleiben.
 Wieder zuhause fiel mir dann ein, dass wir als Kinder in Augsburgs Freizeitpark
 Ziegelstadel die Riesenrutsche immer auf Kartoffelsäcken runtergesaust sind.
 Da man aber heutzutage als urbaner Einwohner einer amerikanischen Großstadt keine
 Kartoffelsäcke mehr vorrätig hat, bestellte ich kurzerhand auf Ebay einen Viererpack
-sogenannter "burlap sacks", wie man dazu auf englisch sagt.
+sogenannter "burlap sacks", wie man dazu auf Englisch sagt.
 
 <pic images/esmeralda-map.ps Lage der Esmeralda-Rutsche im Stadtteil Bernal Heights.>
 
@@ -411,7 +411,7 @@ Verletzungen!
 
 <pic images/tenderloin-pants.ps "Liberaler" Lifestyle in San Franciscos Tenderloin>
 
-<em>Michael</em> Wenn es um politische Denkrichtungen geht, verwenden
+<em>Michael</em> Wenn es um politische Denk\-rich\-tungen geht, verwenden
 Amerikaner Begriffe, die oft das genaue Gegenteil von dem meinen, was die
 wörtliche Übersetzung ins Deutsche bedeuten würde, und deswegen bringe ich
 heute einmal Licht ins Dunkel. Erstmal das Zwei-Parteien-System, man ist
@@ -496,7 +496,7 @@ Francisco oft zu wohlhabenden Bürgern aufgestiegene Hippies. Das führt mich
 abschließend zu dem Begriff "Champagne-Socialist". Das ist einer, der sich
 (angeblich) für den kleinen Mann und für's öffentliche Schulsystem starkmacht,
 aber seine Kinder auf die Privatschule schickt, denn sie sollen ja was lernen.
-Unser Governor Gavin Newsom ist so einer, und im Hippieviertel Bernal Heights
+Unser Gouverneur Gavin Newsom ist so einer, und im Hippieviertel Bernal Heights
 wohnen praktisch lauter solche Gestalten. Na, jetzt wisst ihr Bescheid, falls
 mal wieder einer dieser Begriffe fällt!
 
