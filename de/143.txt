@@ -179,7 +179,7 @@ nächsten Jahres endlich eingehalten wird.
 
 @Z: Ukraine in Amerika
 
-<pic images/ukraine-stairs.ps Ein Bewohner unseres Viertel hat aus Solidarität die ukrainische Flagge gehisst.>
+<pic images/ujump.ps Michael hat wie immer nur Blödsinn im Kopf.>
 
 <em>Angelika</em> Manchmal denke ich mir, dass die Welt komplett verrückt
 geworden ist. Nachdem wir ein bisschen durchschnaufen konnten bezüglich Corona,
@@ -189,6 +189,8 @@ Geschehnisse, die weit weg sind, kaum tangieren, aber auch hier ist der Krieg
 in der Ukraine ständiges Gesprächsthema. Natürlich liegt das auch daran, dass
 die USA unmittelbar involviert sind, und sowohl ukrainische Flüchtlinge, wenn
 auch in geringer Anzahl, aufnimmt, als auch Geld und Waffen liefert.
+
+<pic images/ukraine-stairs.ps Ein Bewohner unseres Viertel hat aus Solidarität die ukrainische Flagge gehisst.>
 
 Außenminister Blinken und Verteidigungsminister Austin sind schon in die
 Ukraine gereist, um Präsident Selenskyj zu treffen. Letzte Woche machte sich
