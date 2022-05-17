@@ -709,23 +709,21 @@ einen kleinen Mikrofontest, in dem ich aus dem Linux-Magazin
 vorlese. Das Video war der Renner bei meinen Kollegen bei
 Yahoo, denn dort rede ich für gewöhnlich kein Deutsch.
 
-<HTMLONLY><VIDEO>ZinboomMncU|Michael liest aus dem Linux-Magazin
-vor</VIDEO></HTMLONLY>
+<HTMLONLY><VIDEO>ZinboomMncU|Michael liest aus dem Linux-Magazin vor</VIDEO></HTMLONLY>
 
 Und auch meine handwerklichen Tätigkeiten werden mittlerweile
 per Video festgehalten. Neulich habe ich mir bei Amazon eine
 Nähmaschine bestellt, um endlich den Vorhang zurechtzustutzen
 und aufzuhängen, den wir vor mehr als einem Jahr (!) bei Ikea gekauft haben.
+Im <LINK>https://www.youtube.com/watch?v=Wy-LC9r_ve0|Video|Michael als Schneiderlein</LINK> könnt ihr
+mich als tapferes Schneiderlein bewundern.
 
-<HTMLONLY><VIDEO>Wy-LC9r_ve0|Michael näht auf seiner neuen Nähmaschine</VIDEO></HTMLONLY>
+Und auch eine Eigenproduktion im Dokumentationsstil gibt es zu bewundern: Eine Kurzreportage
+von Surfern unter der Golden Gate Bridge, mein allererstes Videostück mit Angelika als
+Dokumentartante.
+<PRINTONLY>(<LINK>https://www.youtube.com/watch?v=voh0HWnEgXk|Video|Angelika als Dokumentartante</LINK></PRINTONLY>
 
-Und auch eine Eigenproduktion im Dokumentationsstil gibt es 
-zu bewundern: Eine Kurzreportage
-von Surfern unter der Golden Gate Bridge, 
-<HTMLONLY>mein allererstes Videostück mit Angelika als
-Dokumentartante:</HTMLONLY><PRINTONLY><LINK>http://www.youtube.com/watch?v=Qvg7wchLXe4|"Surfer unter der Golden Gate Bridge"</LINK>.</PRINTONLY>
-
-<HTMLONLY><DHVIDEO>s4_640x480.flv|Die Surfer unter der Golden Gate Bridge</DHVIDEO></HTMLONLY>
+<HTMLONLY><VIDEO>voh0HWnEgXk|Die Surfer unter der Golden Gate Bridge</VIDEO></HTMLONLY>
 
 In der nächsten Folge: Wie ich ein Wiener Schnitzel nach dem
 Rezept von Alfons Schubeck zubereite und dann in der Pfanne brutzle.
