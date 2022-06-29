@@ -404,7 +404,7 @@ deutschen Autoindustrie freut. Meine Sache ist das nicht.
 
 @Z: Hausbesitzer müssen Gehwege reparieren
 
-<pic images/sf-sidewalk-paint-1.ps Wenn der Gewerkschaftsmann mit der Spraydose kommt, ist Schluss mit lustig.>
+<pic images/sf-sidewalk-tiles.ps Baumwurzeln drücken im Lauf der Jahre die Platten hoch.>
 
 <em>Michael</em> Ein Einfamilienhaus in unserem Viertel kostet ja mittlerweile gut
 und gern 2 Millionen Dollar. Was aber viele Neureiche beim Hauskauf nicht beachten, ist
@@ -417,7 +417,7 @@ Fiskus zu entrichten. Wohl dem, der sich das vorher ausgerechnet hat, bevor er e
 irrsinniges Gebot abgibt, viele Techies mit vorübergehend dicken Gehältern
 und Null Ahnung merken das erst zu spät.
 
-<pic images/sf-sidewalk-paint-2.ps Au weia, mehrere Platten kaputt, das wird teuer!>
+<pic images/sf-sidewalk-paint-1.ps Wenn der Gewerkschaftsmann mit der Spraydose kommt, ist Schluss mit lustig.>
 
 Und neben Müllabfuhr ($200 im Monat), Strom (bis zu $400 mit dem neuen
 ökofreundlichen Versorger), Wasser, Abwasser und allem möglichen Krimskrams
@@ -434,7 +434,7 @@ Schaden, markiert der Inspektor die Schäden mit einer Spraydose und kurz darauf
 liegt Post im Briefkasten, die den Hausbesitzer zur Reparatur des Schadens
 binnen 30 Tagen auffordert.
 
-<pic images/sf-sidewalk-tiles.ps Baumwurzeln drücken im Lauf der Jahre die Platten hoch.>
+<pic images/sf-sidewalk-paint-2.ps Au weia, mehrere Platten kaputt, das wird teuer!>
 
 Und natürlich kann nicht irgendein freier Handwerks\-betrieb die Reparatur
 übernehmen sondern nur von den Gewerkschafts\-fritzen der Stadt autorisierte
