@@ -16,7 +16,7 @@ berichtet <RBLINK>20211101#2</RBLINK>).
 <pic images/bpar.ps Ein Komiker macht sich auf Twitter über den Staatsanwalt lustig.>
 
 So wie uns ging es vielen anderen auch, als wir zusehen mussten, wie der, wie
-Amerika üblich, vom Stadtvolk für vier Jahre gewählte Staatsanwalt für San
+in Amerika üblich, vom Stadtvolk für vier Jahre gewählte Staatsanwalt für San
 Francisco namens Chesa Boudin sich einfach weigerte, von der Polizei
 eingefangene Verbrecher anzuklagen, und selbst Wiederholungstäter, einer sehr
 radikalen politischen Ideologie folgend, einfach wieder und wieder laufen ließ.
@@ -36,7 +36,7 @@ Häufen sich solche Volksabstimmungen, was leider in Kalifornien der Fall ist,
 gehen allerdings viele Bürger aus Überdruss gar nicht mehr zur Wahl. Boudin
 wurde im Jahr 2019 bei insgesamt 41% Wahlbeteiligung mit nur wenigen Stimmen
 Vorsprung ins Amt gehoben.  Beim Recall im Juni 2022 waren allerdings weite
-Teile der Stadtbevölkerung so angefressen über die Fehlleistungen des
+Teile der Stadtbevölkerung so verärgert über die Fehlleistungen des
 Staatsanwalts, dass sich sogar 46% aufrafften und ihre Stimme abgaben. 90%
 davon wählten per Briefwahl, 10% schleppten sich zu einem der vielen über die
 Stadt verteilten Wahllokale.
@@ -68,9 +68,9 @@ Mit Spannung verfolgten wir am Abend die Auszählung der Stimmen, und relativ
 schnell stellte sich heraus, dass Boudin mit Pauken und Trompeten aus dem Amt
 befördert worden war. Ein Blick auf die <LINK>https://electionmapsf.com|Karte</LINK>
 (Abbildung (#6)) zeigt, dass die lila eingefärbten reichen Althippieviertel (Bernal
-Heights, Haight-Ashbury, Noe Valley) sowie das linkslastige Mission-Viertel
+Heights, Haight-Ashbury, Noe Valley) sowie das lateinamerikanische Mission-Viertel
 den Staatsanwalt behalten wollten. Die Einwohner der
-grünen Viertel, die ihn feuern wollten, setzen sich zusammen aus reichen
+grüngefärbten Viertel, die ihn feuern wollten, setzen sich zusammen aus reichen
 Schnöseln (Pacific Heights, Marina, Seacliff) und asiatischer Arbeiterklasse
 (Sunset, Richmond, Excelsior), was aufgrund der höheren Bevölkerungszahl den
 Ausschlag gab.
@@ -82,7 +82,7 @@ Staatsanwalts war, kam ihm nicht in den Sinn. Denn verliert man heutzutage eine
 Wahl, sucht man nicht die Schuld bei sich selbst. Schließlich hat man die
 Wahrheit gepachtet und alle anderen sind Betrüger oder schlicht irre. Schon
 erstaunlich, dass demokratische Prinzipien bei der Generation "Ich!-Ich!-Ich!"
-gar nicht mehr gefragt sind.
+gar nicht mehr gefragt sind, egal ob links oder rechts.
 
 Der Recall fand ein überraschend breites Presseecho, und obwohl es nur eine Stadtwahl
 war, berichteten überregionale Nachrichtensender wie CNN oder auch die große
@@ -93,67 +93,6 @@ Zehnseiter mit dem Titel
 geschrieben von einer in San
 Francisco aufgewachsenen Schriftstellerin, die den Niedergang der ihr einst so
 geliebten Stadt protokollierte. Lesenswert!
-
-@Z: 4th of July
-
-<pic images/noe-fireworks.ps In San Francisco verboten: Feuerwerk zum 4. Juli>
-
-<em>Angelika</em> Am vierten Juli ist in den USA Feiertag. Man feiert, dass die
-USA 1776 ihre Unabhängigkeit von England erklärten, keine Steuern mehr nach
-England überwiesen und sich von nun an selbst verwalteten. Die meisten
-amerikanischen Feiertage fallen auf einen Montag. Der Unabhängigkeitstag ist
-aber immer an das Datum des 4. Juli gebunden. Dieses Jahr fiel der vierte
-zufällig auch auf einen Montag, was allen ein langes Wochenende bescherte. Der
-Unabhängigkeitstag ist auch der Feiertag, an dem es nicht nur Paraden, sondern
-in jeder noch so kleinen Stadt Feuerwerke gibt. Privat wird traditionsgemäß
-ebenfalls geknallt und Raketen werden in die Luft geschossen, also wie in
-Deutschland zu Silvester. Allerdings ist der amerikanische Westen zur Zeit von
-starker Trockenheit geplagt und deshalb war es in vielen Kommunen dieses Jahr
-offiziell verboten, privat zu knallen, um die Feuergefahr zu senken. San
-Francisco hatte ein offizielles Feuerwerk, das wie immer im Nebel verschwand.
-Auch das hat Tradition am vierten Juli.
-
-Die private Knallerei verbot die Stadt vorab strikt, wobei das viele nicht
-daran hinderte, es trotzdem zu tun. Es ging zu wie im Wilden Westen und zwar
-fast die ganze Nacht. Mir hat ja die Knallerei ja noch nie gefallen. Ich war immer
-froh, wenn das an Silvester schnell vorbei war und keiner einen Finger verloren
-hatte. Michael hingegen war früher als Knallmeister bekannt. Wenn man aber
-schon mehrfach lodernde Waldbrände in Kalifornien erlebt hat, bibbert man den
-ganzen Abend, und hofft, dass bloß nicht alles in Flammen aufgeht. Dieses Jahr
-gab es gleich mehrere Brände, alle durch illegale Raketen oder Knallerei
-verursacht in der Stadt.  Einer war gleich bei uns um die Ecke auf dem
-Twin-Peaks-Hügel, und wir sahen die Rauchschwaden von unserem Balkon aus. Gott
-sei Dank konnte die Feuerwehr alles schnell löschen, aber das hätte auch böse
-ins Auge gehen können.
-
-@Z: Wordle
-
-<pic images/wordle.ps Das Wordle-Spiel auf der Seite der New York Times.>
-
-<em>Angelika</em> Hier bei uns ist seit einiger Zeit das Wordle-Fieber
-ausgebrochen. Jeder spielt das Spiel, und eine gängige Frage ist: "Hast du
-heute schon das "Wordle" herausbekommen?" Was ist da los? Hinter "Wordle"
-verbirgt sich ein Online-Buchstabenspiel. Die Aufgabe in jeder Spielrunde ist
-es, ein Wort mit fünf Buchstaben in maximal sechs Versuchen zu erraten. Man
-startet mit einem beliebigen Wort, das aus fünf Buchstaben besteht. Die
-Software gibt dann an, ob das zu erratende Wort die gewünschten Buchstaben hat. 
-
-Ist der Buchstabe im Wort vorhanden und an der
-richtigen Stelle, wird er grün angezeigt. Gelb unterlegt wird der Buchstabe
-dann, wenn er im Wort ist, aber an der falschen Position. Grau bedeutet, dass
-es den Buchstaben nicht in dem zu erratenden Wort gibt. Josh Wardle, ein in New
-York lebender Brite,  machte das Spiel salonfähig fürs Internet. Schon Ende des
-Jahres 2021 erfreute es sich großer Beliebtheit. Dann kaufte die
-<LINK>https://www.nytimes.com/games/wordle/index.html|New York Times|New York Times Worlde</LINK>
-ihm das Spiel im Januar 2022 ab, und der Boom begann.
-
-Es gibt pro Tag nur ein Wort zu erraten. Natürlich sind schon längst deutschsprachige
-Versionen auf dem Markt.  Wir spielen das englische "Wordle" mit meinen Viertklässlern
-jeden Tag zusammen in der Schule. Ein super Trick, spielerisch Rechtschreibung
-zu üben und den Wortschatz zu vergrößern. Ich bin immer wieder erstaunt, was
-für Wörter meine Schüler kennen. "Wordle" kann ich auch wärmstens empfehlen, um
-Englisch zu lernen. Michael schrieb natürlich gleich ein Programm, das das
-Wort im "Wordle" automatisch knackt. Da fehlen einem die Worte.
 
 @Z: Supreme Court
 
@@ -317,6 +256,67 @@ Wer sich übrigens über das Thema "Roe vs. Wade" auf deutsch fundiert informier
 möchte, dem sei der <LINK>https://www.spiegel.de/kultur/abtreibung-entscheidung-des-supreme-court-in-den-usa-kolumne-von-thomas-fischer-a-f922f051-4275-4bd8-a3b5-59cdad974cdf|Artikel von Thomas-Fischer</LINK> empfohlen, einem der wenigen Schreiber im Online-Spiegel, die noch fundiert
 berichten, und nicht bloß mit bunter Frisur und reißerischen Glossen Aufmerksamkeit
 um jeden Preis erregen wollen.
+
+@Z: 4th of July
+
+<pic images/noe-fireworks.ps In San Francisco verboten: Feuerwerk zum 4. Juli>
+
+<em>Angelika</em> Am vierten Juli ist in den USA Feiertag. Man feiert, dass die
+USA 1776 ihre Unabhängigkeit von England erklärten, keine Steuern mehr nach
+England überwiesen und sich von nun an selbst verwalteten. Die meisten
+amerikanischen Feiertage fallen auf einen Montag. Der Unabhängigkeitstag ist
+aber immer an das Datum des 4. Juli gebunden. Dieses Jahr fiel der vierte
+zufällig auch auf einen Montag, was allen ein langes Wochenende bescherte. Der
+Unabhängigkeitstag ist auch der Feiertag, an dem es nicht nur Paraden, sondern
+in jeder noch so kleinen Stadt Feuerwerke gibt. Privat wird traditionsgemäß
+ebenfalls geknallt und Raketen werden in die Luft geschossen, also wie in
+Deutschland zu Silvester. Allerdings ist der amerikanische Westen zur Zeit von
+starker Trockenheit geplagt und deshalb war es in vielen Kommunen dieses Jahr
+offiziell verboten, privat zu knallen, um die Feuergefahr zu senken. San
+Francisco hatte ein offizielles Feuerwerk, das wie immer im Nebel verschwand.
+Auch das hat Tradition am vierten Juli.
+
+Die private Knallerei verbot die Stadt vorab strikt, wobei das viele nicht
+daran hinderte, es trotzdem zu tun. Es ging zu wie im Wilden Westen und zwar
+fast die ganze Nacht. Mir hat ja die Knallerei ja noch nie gefallen. Ich war immer
+froh, wenn das an Silvester schnell vorbei war und keiner einen Finger verloren
+hatte. Michael hingegen war früher als Knallmeister bekannt. Wenn man aber
+schon mehrfach lodernde Waldbrände in Kalifornien erlebt hat, bibbert man den
+ganzen Abend, und hofft, dass bloß nicht alles in Flammen aufgeht. Dieses Jahr
+gab es gleich mehrere Brände, alle durch illegale Raketen oder Knallerei
+verursacht in der Stadt.  Einer war gleich bei uns um die Ecke auf dem
+Twin-Peaks-Hügel, und wir sahen die Rauchschwaden von unserem Balkon aus. Gott
+sei Dank konnte die Feuerwehr alles schnell löschen, aber das hätte auch böse
+ins Auge gehen können.
+
+@Z: Wordle
+
+<pic images/wordle.ps Das Wordle-Spiel auf der Seite der New York Times.>
+
+<em>Angelika</em> Hier bei uns ist seit einiger Zeit das Wordle-Fieber
+ausgebrochen. Jeder spielt das Spiel, und eine gängige Frage ist: "Hast du
+heute schon das "Wordle" herausbekommen?" Was ist da los? Hinter "Wordle"
+verbirgt sich ein Online-Buchstabenspiel. Die Aufgabe in jeder Spielrunde ist
+es, ein Wort mit fünf Buchstaben in maximal sechs Versuchen zu erraten. Man
+startet mit einem beliebigen Wort, das aus fünf Buchstaben besteht. Die
+Software gibt dann an, ob das zu erratende Wort die gewünschten Buchstaben hat. 
+
+Ist der Buchstabe im Wort vorhanden und an der
+richtigen Stelle, wird er grün angezeigt. Gelb unterlegt wird der Buchstabe
+dann, wenn er im Wort ist, aber an der falschen Position. Grau bedeutet, dass
+es den Buchstaben nicht in dem zu erratenden Wort gibt. Josh Wardle, ein in New
+York lebender Brite,  machte das Spiel salonfähig fürs Internet. Schon Ende des
+Jahres 2021 erfreute es sich großer Beliebtheit. Dann kaufte die
+<LINK>https://www.nytimes.com/games/wordle/index.html|New York Times|New York Times Worlde</LINK>
+ihm das Spiel im Januar 2022 ab, und der Boom begann.
+
+Es gibt pro Tag nur ein Wort zu erraten. Natürlich sind schon längst deutschsprachige
+Versionen auf dem Markt.  Wir spielen das englische "Wordle" mit meinen Viertklässlern
+jeden Tag zusammen in der Schule. Ein super Trick, spielerisch Rechtschreibung
+zu üben und den Wortschatz zu vergrößern. Ich bin immer wieder erstaunt, was
+für Wörter meine Schüler kennen. "Wordle" kann ich auch wärmstens empfehlen, um
+Englisch zu lernen. Michael schrieb natürlich gleich ein Programm, das das
+Wort im "Wordle" automatisch knackt. Da fehlen einem die Worte.
 
 @Z: Wassersprudler mit Schweißergas
 
