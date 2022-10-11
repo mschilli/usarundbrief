@@ -216,30 +216,31 @@ ensued, finally resulting in an inevitable deadlock.
 <pic images/parklet-table-small.ps A cozy table for two in a parklet for a romantic dinner.>
 <pic images/parklet-table4.ps Even tables in parklets next to busy streets are very popular amongst diners.>
 
-Sure enough, restaurant owners started creating new spaces outside, by hammering
+Sure enough, restaurant owners started creating new spaces outside, by cobbling
 together so-called parklet structures, often crude wooden contraptions to shield
-the newly set up restaurant tables from the element and street noise. Now,
+the newly set up restaurant tables from the elements and street noise. Now,
 we have this hodgepodge of new spaces. Some are rather simplistic, others
 feature elaborate acrylic glass structures, and space heaters for the cold
 seasons. For example, the restaurant right next to our apartment building,
 which had changed owners during the pandemic and reopened recently, erected
 a giant parklet which is very well received by many patrons, right next
 to our entrance door. People love it to dine there in the evenings, and
-almost all tables are used almost every night. Always when we set out
+almost all tables are busy almost every night. Every time we set out
 to commence our evening walk around the neighborhood, we're walking past
 diners visibly enjoying themselves.
 
 <pic images/parklet-24th.ps The parklet in front of our apartment building has almost every table occupied with diners of the adjacent restaurant.
 
+Since many restaurant owners have invested substantial amounts of money into these
+structures, and since restaurants have been going through tough times lately,
+the city councelmen decided to continue allowing those parklets. At first, the
+parklet permits were temporary, but now they're permanent, and I think it's
+great, just like having those "Slow Streets" without through traffic
+(<RBLINK>20200911#5</RBLINK>), which were also created during the pandemic.
+Many residents want those to stay as well, and have already launched
+petitions to cut them into law.
+
 TODO
-Da viele Restaurantbesitzer sehr viel Geld in
-diese Außenbereiche gesteckt haben und sie, wie gesagt, eh schon sehr gebeutelt sind, hat
-der Stadtrat jetzt beschlossen, dass die Parklets bleiben dürfen. Zunächst waren die 
-Genehmigungen dafür ja befristet. Ich finde es super, genau
-so wie die verkehrsberuhigten "Slow Streets"
-(<RBLINK>20200911#5</RBLINK>), die in der Pandemie geschaffen wurden.
-Auch hier wollen viele Bürger, dass diese bleiben und haben dafür schon
-Petitionen ins Rollen gebracht.
 
 @Z: Kalifornischer Recall
 
