@@ -1,4 +1,4 @@
-San Francisco, den 10.11.2022
+San Francisco, den 08.11.2022
 
 @Z: Zwei Pässe
 
@@ -37,14 +37,14 @@ braucht, aber gleichzeitig die deutsche wegen zwingender Gründe nicht verlieren
 möchte.
 
 Typisch für Bürokratiewahnsinn liegen die Zeiträume für die Bearbeitung
-derartiger Anträge im glazialen Bereich. Es dauert erfahrungsgemäß mehr
-als ein Jahr vom Einreichen des Formulars, mitsamt allen per Notar besiegelten
+derartiger Anträge im glazialen Bereich. Es dauert erfahrungsgemäß mehr als ein
+Jahr vom Einreichen des Formulars, mitsamt allen per Notar besiegelten
 Dokumenten, bis der Schrieb mit der Genehmigung zurückkommt, und erst mit dem
-persönlich von den Konsularbeamten ausgehändigten BBG-Dokument in Händen (!)
-darf man dann daran gehen, die US-Staatsbürgerschaft zu beantragen.
-Anschließend brauchen diesmal die US-Behörden ein gutes weiteres Jahr, bis man
-zum alles entscheidenden Interview vorgelassen und im Erfolgsfall als US-Bürger
-eingeschworen wird.
+persönlich von den Konsularbeamten ausgehändigten BBG-Dokument in den Händen
+(!) darf man dann daran gehen, die US-Staatsbürgerschaft zu beantragen.
+Anschließend brauchen diesmal die US-Behörden mindestens ein gutes weiteres
+Jahr, bis man zum alles entscheidenden Interview vorgelassen und im Erfolgsfall
+als US-Bürger eingeschworen wird.
 
 Diese Prozeduren sind unglaublich kompliziert und nervenzehrend, aber unten
 schildern wir im Detail wie die einzelnen Schritte ablaufen. Wer keine
@@ -71,7 +71,7 @@ Letztendlich ist der deutsche Staat daran interessiert, dass nicht Hinz und
 Kunz mit einer deutschen Staatsbürgerschaft herumrennt, obwohl er diese gar nicht
 braucht, und das ist auch richtig so. Doppelte Staatsbürgerschaften erzeugen
 ein bürokratisches Kuddelmuddel, und das sollte nur in Ausnahmefällen geduldet
-werden. Deswegen hat Basketballspieler Schrempf die deutsche Staatsangehörigkeit
+werden. Deswegen hat Basket\-ball\-spieler Schrempf die deutsche Staats\-angehörigkeit
 verloren, als er die amerikanische annahm. Wir hingegen stellten einen Antrag,
 in dem wir nachwiesen, dass wir empfindliche Nachteile hätten falls wir a) die
 amerikanische Staatsbürgerschaft nicht annähmen und b) die deutsche verlören.
@@ -106,7 +106,7 @@ hieße von einem der sogenannten "Notary Publics" in den USA abgesegnet, hat
 sich getäuscht. Man muss sich die Kopien tatsächlich im Konsulat vor Ort
 beglaubigen lassen, wofür man wiederum einen Termin braucht.
 
-<pic images/gercons.ps Die Beibehaltung gibt's beim deutschen Konsulat in San Francisco.>
+<pic images/gercons.ps Das deutsche Konsulat in San Francisco nimmt Beibehaltungsanträge an.>
 
 Hat man alles zusammen, schickt man das Bündel mit der normalen Post zum
 Konsulat.  Nach einigen Wochen erhält man per Email eine Eingangsbestätigung,
@@ -121,7 +121,9 @@ Zur Abholung der Urkunde brauchten wir dann wieder einen Termin beim Konsulat,
 den wir zwei Monate später bekamen.  Billig ist der Spaß übrigens auch nicht,
 pro BBG-Urkunde fallen 255 Euro Gebühren an, und selbst bei einer Ablehnung des
 Antrags werden 191 Euro fällig, entsprechend Paragraph 38 des
-Staatsangehörigkeitsgesetzes StAG.
+Staatsangehörigkeitsgesetzes StAG. Übrigens gilt die genehmigte Beibehaltung nur
+zwei Jahre, falls die Einbürgerung sich länger hinzieht, muss die BBG nochmal gegen
+Gebühr verlängert werden.
 
 @Z: Antrag auf Staatsbürgerschaft
 
@@ -191,11 +193,11 @@ waren.
 
 Eine Frage zu persönlichen Angaben macht etwas stutzig: "Are you a male who
 lived in the United States at any time between your 18th and 26th birthdays?"
-[Sind sie ein Mann, und haben Sie zwischen dem 18. und 26.  Geburtstag in den
-USA zu irgendeinem Zeitpunkt in den USA gelebt?] Hinter dieser scheinbar
+[Sind sie ein Mann, und haben Sie zwischen dem 18. und 26.  Geburtstag
+zu irgendeinem Zeitpunkt in den USA gelebt?] Hinter dieser scheinbar
 harmlosen Frage verbirgt sich, dass jeder Mann, der in den USA lebt und das
 angegebene Alter hat, verpflichtet ist, sich beim
-<LINK>https://www.sss.gov|"Selective Service System"</LINK> Dies gilt auch für
+<LINK>https://www.sss.gov|"Selective Service System"</LINK> anzumelden. Dies gilt auch für
 Immigranten, selbst für diejenige, die illegal im Land sind. Das System ist für
 den Fall gedacht, dass es in Kriegszeiten zu einer Wehrpflicht kommt.
 Interessanterweise gilt dies aber nur für Männer. Viele, auch amerikanische
@@ -206,7 +208,7 @@ wissentlich geschah.
 
 Der nächste Teil des Fragenkatalogs beschäftigt sich dann mit dem Charakter des
 Antragstellers. Wie schon erwähnt wird geprüft, ob der potentielle
-amerikanische Staatsbürger rechtschaffen ist und der amerikanischen
+amerikanische Staatsbürger rechtschaffen und der amerikanischen
 Gesellschaft von Nutzen ist, und ihr nicht zur Last fällt. Dabei muss der
 Anwärter nicht nachweisen, was er alles Gutes getan hat, aber es wird nach
 Beweisen geschaut, die problematisches oder unmoralisches Verhalten belegen.
@@ -244,7 +246,7 @@ scannen und hochladen sowie unsere Heiratsurkunde in englischer Sprache. Da wir
 damals in München schon eine internationale in verschiedenen Sprachen bekommen
 hatten, war das überhaupt kein Problem. Lichtbilder braucht man nur noch dann
 einreichen, wenn der Antrag außer Landes gestellt wird, was wahrscheinlich eher
-seltener vorkommt.
+selten vorkommt.
 
 Der letzte Schritt war dann, die Gebühren mit Kreditkarte zu bezahlen. Der Spaß
 ist relativ teuer, und für viele sind die hohen Gebühren ein echtes Hindernis,
@@ -272,7 +274,7 @@ plötzlich wieder etwas. Ende Februar 2021 teilte uns die Behörde mit, dass sie
 unsere alten hinterlegten Greencard-Fingerabdrücke wiederverwenden konnten
 (Corona sei Dank), und wir uns somit den Fingerabdrücketermin sparen konnten.
 Die Gebühr von $85 dafür wurde natürlich trotzdem einbehalten. Im April 2022
-erschien ein merkwürdige Nachricht auf Michaels Account, dass irgendwelches
+erschien eine merkwürdige Nachricht auf Michaels Account, dass irgendwelches
 Beweismaterial nachzureichen wäre und dass diesbezüglich ein Brief unterwegs
 sei. Panik verbreitete sich!  Was kann das sein? Ist die Bundeswehrzeit
 nachzuweisen? Wird sich dadurch der Prozess verlängern und verzögern? Es
@@ -285,7 +287,7 @@ gelaufen.
 
 @Z: Interview zur Staatsbürgerschaft
 
-<pic images/immib.ps Das Interview findet im Immigration-Gebäude in San Francisco auf der Sansome-Street statt.>
+<pic images/immib.ps Das Interview findet im Immigration-Gebäude in San Francisco auf der Sansome Street statt.>
 
 <em>Angelika</em> Am 7. Februar hatten wir unsere Interviews bei der
 Einwanderungsbehörde in San Francisco, zeitversetzt um zwei Stunden. Michael
@@ -301,7 +303,7 @@ Metalldetektor mussten. Was ich diesbezüglich schon mit Michael und seinen
 Messern am falschen Ort mitgemacht habe, könnte auch schon einen Rundbrief
 füllen. Aber ich schweife ab.
 
-Wegen der Coronabeschränkungen durften wir erst 15 Minuten vor ihrem Termin
+Wegen der Coronabeschränkungen durften wir erst 15 Minuten vor unserem Termin
 ins Gebäude. Der Sicherheitscheck ging ruck zuck. Mittlerweile darf man auch
 sein Handy ins Gebäude mitnehmen. Das war bei unserer Greencard damals noch
 anders. Zunächst zeigte ich bei der Anmeldung mein Schreiben mit dem Termin.
@@ -342,7 +344,7 @@ schafft, sechs Fragen hintereinander richtig mündlich zu beantworten, dem
 werden die letzten vier Fragen nicht mehr gestellt.
 
 Nicht nur die Fragen sondern die Antworten sind standardisiert. Man sollte die
-Antworten dann auch genau so widergeben und nicht ausschmücken. Eine Anwärterin
+Antworten dann auch genau so wiedergeben und nicht ausschmücken. Eine Anwärterin
 fiel mal durch den Test, weil sie eine Spezialistin bezüglich Martin Luther
 King war und dem Beamten einen langen Vortrag hielt. Der hatte aber nur die
 kurze Antwort "Martin Luther King" hören wollen. Es gibt dann auch alle
@@ -366,10 +368,10 @@ the United States? [Welcher Ozean befindet sich an der Ostküste der Vereinigten
 Staaten?] The Atlantic Ocean. [Der Atlantische Ozean.]
 
 * What is the capitol of
-your state? [Was ist die Hauptstadt ihres Bundesstaates?] Sacramento
+your state? [Was ist die Hauptstadt Ihres Bundesstaates?] Sacramento
 
 * There were 13 original colonies. Name 3. [Es gab 13 ursprüngliche Kolonien. Nennen Sie 3.]
-North Carolina, Virginia, Maryland
+North Carolina, Virginia, Maryland.
 
 * Name one right only for United States 
 citizens. [Nennen Sie ein Recht, das nur für amerikanische Staatsbürger gilt.] Vote in a
@@ -387,7 +389,7 @@ Fragenkatalog richtig zu beantworten wären, um Staatsbürger zu werden.
 Allerdings rollte Präsident Biden dies gleich wieder zurück, was uns zugute
 kam. Ich wüsste schon zugern, ob Trump den Test überhaupt bestehen würde. Eine
 Studie von 2018 hat nämlich herausgefunden, 
-dass <LINK>nur 36% der Amerikaner das schaffen würden|Nur 36% der Amerikaner bestünden den Staatsbürgerschaftsprüfung|https://www.nbcnews.com/news/latino/most-us-would-fail-u-s-citizenship-test-survey-finds-n918961</LINK>.
+dass <LINK>https://www.nbcnews.com/news/latino/most-us-would-fail-u-s-citizenship-test-survey-finds-n918961|nur 36% der Amerikaner das schaffen würden|Nur 36% der Amerikaner bestünden den Staatsbürgerschaftsprüfung</LINK>.
 Ich machte übrigens aus Spaß an der Freud den Test mit meinen Schülern, und
 die hätten ihn glatt bestanden.
 
@@ -400,13 +402,13 @@ der Beamte zum Beispiel, wo ich arbeite und was ich genau mache, ob ich
 verheiratet bin, was mein Mann beruflich macht, ob ich immer eine
 Steuererklärung abgegeben habe, oder in welchen Vereinen oder anderen Verbänden
 ich Mitglied bin. Und: Was das mit meinem Strafmandat auf sich hatte und was
-das Verkehrsdelikt war! Das wird euch jetzt vielleicht erstaunen, aber eine
-Frage im Antrag hatte gelautet: "Have you ever been arrested, cited, or
+das Verkehrsdelikt war? Das wird euch jetzt vielleicht erstaunen, aber eine
+Frage im Antrag lautete: "Have you ever been arrested, cited, or
 detained by any law enforcement officer (including any immigration official or
-any official of the U.S. armed forces) for any reason?" [Sind sie schon jemals
+any official of the U.S. armed forces) for any reason?" [Sind Sie schon jemals
 aus irgendeinem Grund verhaftet worden, haben ein Strafmandat bekommen, oder
 sind durch irgendeinen Gesetzeshüter (einschließlich eines Beamten der
-Einwanderungsbehörde oder der amerikanischen Streitkräfte) verhaftet worden? 
+Einwanderungsbehörde oder der amerikanischen Streitkräfte) verhaftet worden?] 
 
 Auf Internetforen gibt es zu dieser Frage lange Debatten, weil viele wissen
 wollen, ob man Vergehen wie zu schnelles Fahren oder ähnliches überhaupt
