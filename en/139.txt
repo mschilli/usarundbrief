@@ -240,17 +240,18 @@ great, just like having those "Slow Streets" without through traffic
 Many residents want those to stay as well, and have already launched
 petitions to cut them into law.
 
+@Z: California Recalls
+
+<pic images/recall-cox-walk.ps Newsom challenger John Cox poses with a grizzly bear.>
+
+<em>Angelika</em>It's not as outlandish as you might think that a seated
+governor gets recalled before his term is over. Remember 2003, when voters
+decided that then-governor Gray Davis was to be recalled, and a new round of
+elections determined that movie actor Arnold Schwarzenegger would be his
+immediate successor? Now, back then that was indeed the first time something
+like this had happened in California history.
+
 TODO
-
-@Z: Kalifornischer Recall
-
-<pic images/recall-cox-walk.ps Newsom-Herausforderer John Cox posiert mit einem Grizzly-Bären.>
-
-<em>Angelika</em> Dass in Kalifornien ein amtierender Gouverneur noch vor Ablauf
-seiner Amtszeit abberufen wird, ist durchaus nicht so absurd wie man glauben
-könnte: Schon einmal haben wir im Jahr 2003 die Abberufung von Gouverneur Gray
-Davis erlebt. Ein gewisser Arnie Schwarzenegger hievte Davis damals durch erzwungene
-Neuwahlen aus dem Amt, damals übrigens das erste Mal in der Geschichte Kaliforniens.
 
 Obwohl diese Recallverfahren in Kalifornien gang und gäbe und die
 Hürden niedrig sind (<RBLINK>20030801#3</RBLINK>), kommt es in der
