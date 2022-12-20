@@ -1,0 +1,504 @@
+San Francisco, den 19.12.2022
+
+@Z: Kündigen bei Apple
+
+<pic images/adios.ps Apple-Mitarbeiter sagt Auf Wiedersehen>
+
+<em>Michael</em> Na, das hat wohl keiner vorhergesehen: im Oktober 2022 habe
+ich mich dazu entschieden, meinen Job bei Apple an den Nagel zu hängen. Zugegeben,
+das Gehalt war astronomisch, aber die Arbeit hat mir keinen Spaß mehr gemacht,
+und ich hatte kaum noch Zeit für meine wie immer zahlreich sprudelnden Ideen
+und Privatprojekte. Also war's Zeit für eine Umorientierung.
+
+Wie geht das eigentlich, bei einer amerikanischen Firma zu kündigen, und was
+hat das für Folgen? Das musste ich mir natürlich alles Monate im voraus
+überlegen, schließlich ist man in Amerika stark abhängig vom Arbeitgeber: Der
+zahlt nicht nur den Löwenanteil der horrend teuren Krankenversicherung, sondern
+oft auch die Rechnung fürs Mobiltelefon und ist deswegen Eigentümer der
+Handynummer. Oft gehört auch das Telefon selbst sowie der Laptop der Firma, und
+beides muss der Arbeitnehmer beim Ausscheiden zurückgeben.
+
+<pic images/ap-ufo-2.ps Aus dem Inneren des UFOs.>
+
+Besonders kritisch ist die Krankenversicherung, denn die ist in den USA stark
+an den Arbeitgeber gekoppelt. Wer nicht mehr arbeitet, hat auch keine
+Krankenversicherung. Das ist natürlich Wahnsinn, denn eine gesetzliche
+Krankenversicherung, in die jeder im Zweifelsfall reinfällt, gibt's in Amerika
+nicht. Man steht also tatsächlich unversichert da, und falls man krank wird,
+muss man alles aus eigener Tasche zahlen, was schon viele in den Ruin getrieben
+hat.
+
+@Z: Krankenversichert mit Cobra
+
+<pic images/coverage-ended.ps Nichts für schwache Nerven: Der Krankenversicherungsschutz ist abgelaufen.>
+
+<em>Michael</em> Joblose haben auf Bundesebene Anspruch auf das
+sogenannte Cobra-Gesetz ("Consolidated Omnibus Budget Reconciliation Act")
+<RBLINK>20041129#8</RBLINK>), und zwar unabhängig davon, ob der Arbeitnehmer
+oder der Arbeitgeber das Arbeitsverhältnis aufgekündigt hat.  Cobra gewährt
+jedem Arbeitnehmer das Recht, nach dem Ausscheiden aus dem Job die
+Krankenversicherung, die er über die Firma hatte, bis zu 18 Monate selbständig
+weiterzuzahlen. Der Vorteil: Man erhält die gleichen Leistungen und muss sich
+nicht um Aufnahme in eine private Krankenversicherung bemühen. Der Haken: Man
+zahlt etwa 5x soviel wie zu Zeiten, an denen man noch angestellt war, da die
+Firma typischerweise etwa 80% der Kosten übernimmt und nur 20% als Obulus vom
+Arbeitnehmer fordert.  In konkreten Zahlen: Ein Apple-Angestellter zahlt für
+sich und Ehepartner im Monat zusammen etwa 300 Dollar an Kranken-, Zahnarzt-
+und Augenarzt-Versicherung (in Amerika alles getrennt), ein ausgeschiedener
+Mitarbeiter hingegen insgesamt 1.600 Dollar. Netto, ohne die Möglichkeit, es
+von der Steuer abzusetzen.
+
+Zur Cobra-Fortsetzung der Mitgliedschaft in der Krankenkasse gilt es
+allerdings, einen Hindernispark quer durch den schlimmsten amerikanischen
+Bürokratiewahnsinn zu durchqueren.  Hier sind nämlich drei verschiedene
+Parteien im Spiel: der Arbeitgeber, der Cobra-Verwalter und die Krankenkasse.
+Am sinnvollsten wäre es ja, noch vor dem Ausscheiden Bescheid zu geben, um
+seine Krankenkasse gegen Bezahlung einfach weiter zu behalten. Aber so einfach
+geht das nicht, denn der Arbeitgeber meldet das Ausscheiden des Mitarbeiters
+direkt der Krankenkasse, die die Nachricht per Post empfängt und ein paar Tage
+später mit sofortiger Wirkung ruckartig alle eingehenden Arztrechnungen
+mit einem Datum nach Ablauf des Arbeitsverhältnisses zurückweist.
+
+Manche Arbeitgeber zahlen die Beiträge übrigens für den Ex-Angestellten noch
+bis zum Ende des laufenden Monats weiter, weshalb es oft günstig ist, zum
+Monatsanfang zu kündigen. Apple stoppt allerdings die Krankenkasse sofort am
+Ende des letzten Arbeitstags. Genau an dem Tag gehen mit der Post zwei Briefe
+raus, einer an den Cobra-Verwalter (eine Drittfirma), und einer an die
+Krankenkasse. Nach Erhalt stoppt die Krankenkasse wie gesagt alle Zahlungen.
+Der Cobra-Verwalter hingegen schreibt per Post den ausgeschiedenen Arbeitnehmer
+an.  In dem Brief erfährt der Ex-Angestellte, wie er sich Online beim
+Cobraverwalter für Cobra anmelden kann.  Bezahlt der Ex-Angestellte dann die
+erste Monatsrate per Bankeinzug, ist er rückwirkend (!) seit seinem Ausscheiden
+aus der Firma krankenversichert.
+
+<pic images/ins-declined.ps Zahlt die Krankenversicherung nicht mehr, fordert der Arzt Geld vom Patienten.>
+
+Nun wusste ich in meinem Fall ja schon Monate vorher, dass ich kündigen wollte,
+und hatte mir schon Gedanken darüber gemacht, was denn wohl passieren würde,
+wenn ich zum Beispiel in den ersten zwei Wochen nach dem Ausscheiden aus der
+Firma zum Arzt ginge. In diesem Zeitfenster führt die Krankenkasse den
+Ex-Arbeitnehmer als nicht versichert, und weiß noch nichts von einer etwaigen
+Cobra-Verlängerung.  Online fand ich zu dem Thema nur Wischi-Waschi-Aussagen,
+aber richtig probiert hat das anscheinend noch niemand.  Und wie der Zufall es
+wollte, hatten sowohl Angelika als auch ich feste Arzttermine kurz nach dem Tag
+X, und da ich von Natur aus neugierig darauf bin, was in Grenzfällen passiert,
+legten wir die Termine nicht um sondern nahmen sie einfach wahr. Bei einer
+sechsfachen Bypass-Operation in Millionenhöhe hätte ich es mir vielleicht
+anders überlegt, aber es handelte sich nur um normale Besuche, die zwar in
+Amerika schnell mal 400 Dollar kosten, aber das sollte mir der Spaß wert sein.
+
+Am 31.10. war mein letzter Arbeitstag, am 1. November hatte Angelika einen
+Zahnarzttermin. Lustigerweise bezahlte die unsere Versicherung anschließend
+anstandslos. Die Bezahlung meines Arzttermins eine Woche später lehnte die
+Krankenversicherung allerdings mit der Begründung "nicht versichert" ab und der
+Arzt schickte statt dessen die Rechnung an mich. Die ließ ich vorerst auf dem
+Schreibtisch liegen, und in der dritten Novemberwoche kamen auch schon die
+Cobra-Unterlagen per Post an. Ich meldete mich Online beim Cobra-Verwalter an
+und beglich sofort die erste Rechnung für November per Bankeinzug. Das ist zwar
+in Amerika höchst unüblich, weil alles mit Kreditkarte bezahlt wird, aber es
+war in diesem Fall die einzige Option. Die Webseite war sehr rustikal, und ich
+erhielt keinerlei Bestätigungs-Email. Von einigen Ex-Kollegen wusste ich aber,
+dass mit dem Bezahlen der Prämie der Versicherungsschutz beginnt, und zwar
+rückwirkend. Als ich mich allerdings tags darauf beim Online-Portal der
+Krankenkasse anmeldete, stand dort immer noch "nicht versichert". Da braucht
+man Nerven wie Drahtseile.  Die Überweisung an den Cobra-Verwalter ging zwei
+Tage darauf vom Konto ab, aber noch immer wusste die Krankenkasse anscheinend
+noch nichts von meiner Zahlung.  Daraufhin rief ich tags darauf beim
+Kundenservice der Krankenkasse an und die Dame im Callcenter rief sogar zum
+Cobraverwalter durch und meldete mir schließlich nach 20 Minuten, dass ich noch
+24 Stunden warten solle, dann wäre die Webseite der Krankenkasse aktualisiert.
+
+<pic images/cov-cal.ps In Kalifornien ist Obamacare sogar noch billiger.>
+
+So war es dann auch, also rief ich am nächsten Tag beim Doktor an,
+um die Sache mit der von der Krankenkasse abgelehnten Rechnung zu
+klären. Wenn man nicht arbeitet, hat man ja Zeit. Ich schlug der
+Abrechnungsdame vor, die Rechung an die Krankenkasse einfach noch einmal
+einzureichen, wofür die Dame am Telefon auch eine Menüoption in der
+Abrechnungssoftware fand. Das Ganze dauere 30-45 Tage, sagte sie, ich solle in
+der Zwischenzeit alle eingehenden Rechnungen und Mahnungen ignorieren. Na, wenn
+das mal gut geht! Im Notfall kann man die Rechnung natürlich auch privat
+begleichen und später als Patient bei der Krankenkasse zur Wiedererstattung
+einreichen, aber das erzeugt nur unnötigen Papierkram.
+
+Dazuzusagen gilt es noch, dass es vor Obamacare ein äußerst riskanter Schachzug
+gewesen wäre, in meinem doch schon fortgeschrittenen Alter den Job zu kündigen.
+Denn nach 18 Monaten läuft Cobra aus, und der ehemalige Arbeitnehmer muss sich eine
+private Krankenversicherung suchen, was mit zunehmendem Alter und diversen
+Wehwehchen sehr teuer bis unmöglich sein kann. Obama hat damals im Jahr 2010
+mit dem Kongress im "Affordable Care Act" (ACA) unter anderem durchgepaukt,
+dass Krankenversicherungen jeden aufnehmen müssen und wegen "Pre-existing
+Conditions" keine höheren Beiträge mehr verlangen dürfen. Seitdem kann man für
+eine zweiköpfige Famile schon für um die $400 monatlich eine recht ordentliche
+Krankenversicherung (wenngleich mit hoher Selbstbeteiligung) erhalten, für
+Niedriglöhner schießt der Bundesstaat Kalifornien sogar noch etwas zu.
+
+@Z: Der Tag X
+
+Wie kündigt man nun den Job?
+Man kann bei Apple wie bei vielen anderen amerikanischen Firmen mit sofortiger
+Wirkung kündigen, und einfach nicht mehr zur Arbeit erscheinen. Für einen
+geordneten Abgang sollte man aber schon zwei Wochen vor dem Ausscheiden aus der
+Firma Bescheid geben. Kann man per Email an den Chef machen, der diese dann an
+die HR-Abteilung weiterleitet, aber ich bin altmodisch und habe meinen Manager
+per Videocall angerufen und dann die Email mit dem Datum geschickt.  Einen
+Papierbrief braucht es nicht. Länger als zwei Wochen vorher zu kündigen kann
+man auch machen, ist aber meiner Ansicht nach unklug, denn dann hängt man wochenlang
+herum wie ein Zombie. In zwei Wochen kann man alles abwickeln, Projekte
+übergeben, Nachfolger einarbeiten, und wegen der kurzen Frist vertrödelt keiner
+sinnlos Zeit. Alle waren ziemlich geschockt, aber ich blieb hartnäckig, hat man
+den Weg der Kündigung eingeschlagen, gibt es kein zurück mehr, sonst macht man
+sich bloß lächerlich. Schließlich gingen wir noch ein paarmal zusammen in die Cafeteria
+zum ausgedehnten Mittagessen auf der privaten Terasse des "Results Way"-Campus und dann
+war auch schon der Tag des Abschieds da. Wir stehen immer noch in Kontakt, mit einigen
+Ex-Kollegen texte ich mittlerweile noch mehr als zu meiner aktiven Zeit bei Apple.
+
+<pic images/ap-il.ps Michael am alten Apple-Campus "Infinite Loop".>
+
+Die Telefonnummer meines Handys, die ich auch privat nutzte, durfte ich auf
+einen von mir neu eingerichteten und aus eigener Tasche bezahlten Mobilvertrag
+übertragen.  Im Mitarbeiter-Shop kaufte ich mir einen neuen Laptop. Den
+Firmen-Laptop musste ich abgeben. Mein Cubicle räumte ich nach und nach aus,
+jetzt stehen bei uns zuhause ein Fahrrad und zwei Skateboards herum.
+
+Nun genieße ich gerade meine neue Freiheit bereits im zweiten Monat. Vor allem
+ist genial, dass ich jetzt die Zeit habe, jahrelang aufgeschobene Arbeiten zu
+erledigen. Ob das nun das Neubeziehen der Esszimmerstühle ist oder den Stöpsel
+des Waschbeckens zu richten, der nicht mehr richtig schloss, oder ein paar
+Videos über meine Kochrezepte zu drehen oder endlich mal wieder in Ruhe
+Rundbrief zu schreiben: jeden Tag hake ich mindestens eine Aufgabe von einer
+hunderte Einträge langen Liste ab. Mal sehen, wie sich das entwickelt.
+Und Zeit zum Surfen bleibt natürlich auch noch.
+
+@Z: Wählen in Amerika
+
+<pic images/ele-a.ps Angelika beim Wählen für die Kongresswahl im November 2022.>
+
+<em>Angelika</em> Wer amerikanischer Staatsbürger ist, darf an allen Wahlen auf
+lokaler, bundesstaatlicher und staatlicher Ebene teilnehmen. Aber wie geht das
+genau? Organisation und Durchführung von Wahlen liegen in der Obhut der einzelnen
+Bundesstaaten, mit individuellen Regelungen.  In fast allen Bundesstaaten gilt,
+dass der Wahlberechtigte nur dann an der Wahl teilnehmen kann, wenn er sich als
+Wähler registrieren hat lassen. Als unsere Staatsbürgerschaft durch war, haben
+wir uns gleich zum Wählen angemeldet. In Kalifornien geht das auch Online, und
+Michael hat sich so ins Wählerregister eintragen lassen.  Er musste seinen
+Namen, sein Geburtsdatum und -land, seine Führerscheinnummer und die letzten 4
+Ziffern seiner Sozialversicherungsnummer sowie seine Adresse angeben. Ein paar
+Wochen später lag dann ein Kärtchen im Briefkasten mit seiner Wählernummer. Zu
+der Zeit musste ich durch Zufall meinen Führerschein verlängern und wickelte die
+Wahlregistrierung dabei gleich bei der kalifornischen
+Kraftfahrzeugmeldestelle DMV mit ab.
+
+Auch mir wurde das Kärtchen mit meiner Nummer dann per Post zugestellt. In
+Kalifornien gilt, dass Wähler sich spätestens 15 Tage vor der Wahl
+registriert haben müssen, um an der Wahl teilnehmen zu dürfen. Ist man einmal
+registriert, bleibt dies bestehen und gilt für alle zukünftigen Wahlen, es sei
+denn, man zieht um, ändert seinen Namen oder seine Parteipräferenz (dazu gleich
+mehr).  Dann registriert man sich neu.
+
+Wahlberechtigte Amerikaner, die von einem anderen Bundesstaat nach Kalifornien
+ziehen, müssen sich ebenfalls in Kalifornien ins Wahlregister eintragen lassen.
+Verpasst der Wahlberechtigte die Frist, hat er trotzdem die Möglichkeit, am
+Wahltag in sein Wahllokal zu gehen und dort zu wählen. Die Stimmabgabe gilt
+dann als vorläufig, bis geprüft wurde, ob der Wähler in Kalifornien
+wahlberechtigt ist.
+
+<pic images/flyers.ps Wer die Wahl hat, hat die Qual der Postwurfsendungen.>
+
+Wenn man sich registriert zum Wählen, wird einem die Frage gestellt, welcher
+Partei man sich zugehörig fühlt. Folgende stehen zur Auswahl: die
+demokratische oder republikanische Partei, die Grünen, die Friedens-und
+Freiheitspartei, die "Libertarian" Partei und die "American Independent Party".
+In Kalifornien darf allerdings auch angekreuzt werden, dass man sich mit keiner
+Partei identifiziert. Die Zuordnung zu einer Partei verpflichtet übrigens nicht
+zum Wählen derselben, hat unter Umständen bei den unterschiedlichen Vorwahlen
+Relevanz: Wer sich als der demokratischen Partei zugehörig registriert hat,
+darf auch an deren Vorwahlen zum Präsidenten teilnehmen, bei denen die Partei
+über den Kandidaten abstimmt, den sie ins Rennen schickt. Für Republikaner gilt
+analoges.
+
+Seit der Pandemie schicken die Behörden jedem registrierten Wahlberechtigten
+automatisch Briefwahlunterlagen zu. Jeder kann also in Ruhe die Wahlunterlagen
+zuhause ausfüllen. Es besteht natürlich weiterhin die Möglichkeit, am Wahltag
+ins Wahllokal zu gehen. Entscheidet sich der Wähler für die Briefwahl, werden
+die Wahlunterlagen in einen dafür vorgesehenen Briefumschlag gesteckt. Der
+Briefumschlag wird zugeklebt und außen unterschreiben. Die Unterschrift gilt
+als Verifizierung, dass es sich bei dem Wähler um die richtige Person handelt.
+Vor der Auszählung wird erst die Unterschrift auf dem Umschlag mit der auf dem
+kalifornischen Führerschein des Wählers hinterlegten verglichen. Bei der
+Wählerregistrierung gibt der Wähler seine Einverständniserklärung dafür. Die
+ausgefüllten Briefwahlunterlagen können entweder mit der Post eingeschickt
+werden oder in spezielle Wahlkästen gesteckt werden, die wie Briefkästen
+aussehen und über die ganze Stadt verteilt sind. Wir nutzten einen solchen
+Kasten und warfen unsere Unterlagen in unserem Viertel ein. Interessant ist,
+dass man anschließend online verfolgen kann, wo sich der eigene Wahlzettel
+befindet, und ob und wann er mitgezählt wurde.
+
+Die Wahlbeteiligung in den USA ist übrigens oft niedrig (im Schnitt etwas über
+60% bei Präsidentschaftswahlen und ca. 50% bei Kongresswahlen). Seitdem ich
+hier selber wählen darf, wundert mich das ehrlich gesagt nicht mehr. Da ist
+zunächst einmal die oben erwähnte verpflichtende Registrierung, die zwar schnell
+geht, aber doch eben nicht automatisch passiert. Dann füllten Michael und ich
+bei den letzten Wahlen im November ungelogen über eine Stunde lang unsere
+Wahlzettel aus, denn wir waren nicht nur aufgerufen, für die Kongresskandidaten unsere
+Stimme abzugeben, sondern über zig Volksbegehren abzustimmen. Gott sei Dank
+konnten wir das an unseren Esstisch zu Hause machen und standen dafür nicht in
+einer Wahlkabine.
+
+<pic images/ele-booklet.ps Der offizielle telefonbuchdicke Wahlratgeber.>
+
+Gerade in Kalifornien haben diese Volksbegehren mittlerweile
+solche Ausmaße angenommen, dass der Wähler sich durch meterlange Wahlzettel
+arbeiten muss und andauernd irgendwelche Wahlen anstehen deswegen. Obwohl wir
+erst seit Februar 2022 unsere amerikanische Staatsbürgerschaft haben und somit
+wahlberechtigt sind, haben wir schon an drei Wahlen teilgenommen. Im November
+hatten wir schlappe fünf Wahlzettel, die beidseitig bedruckt waren, abzuarbeiten.
+Wir sind beide nun wirklich nicht uninformiert, ganz im Gegenteil, aber bei
+vielen Dingen, über die wir entscheiden mussten, hätte man wochenlang den
+Sachverhalt studieren müssen, um eine objektive Entscheidung zu treffen. Da
+fragten wir uns dann schon, was eigentlich die Politiker noch machen, denn
+dafür wählt man ja eigentlich einen geeigneten Vertreter. Wir erhielten zwar
+Informationsmaterial in Form eines telefonbuchdicken Bandes, aber richtig
+hilfreich sind die Informationen nicht, denn es mangelt an Neutralität.
+
+<pic images/vote-box.ps Angelika wirft ihre Wahlunterlagen in den Wahlbriefkasten.>
+
+Jedes Volksbegehren ("Proposition") listet ein Dafür und Wider auf, aber jeder
+darf in San Francisco diese Abhandlungen schreiben und einreichen und
+dementsprechend manipulativ kommen sie oftmals daher. Dann gibt es Verbände und
+Organisationen sowie Politiker, die bestimmte Volksbegehren sponsern und ihre
+Namen dafür hergeben. Deshalb flatterten so viele Pamphlete vor den Wahlen ins
+Haus und in unseren Briefkasten. Eine Verschwendung von Papier sondersgleichen.
+In San Francisco gibt es allerdings den relativ neuen politisch motivierten
+Verein GrowSF.org, der zum Beispiel einen Wählerratgeber herausgibt, der sogar
+als Orientierung ganz nützlich ist. Sachin Agarwal gründete GrowSF im Jahre
+2020, mit dem Ziel, politische Lösungen für San Francisco zu finden, die auf
+Pragmatismus und gesunden Menschenverstand beruhen. Allgemein ist es
+schlichtweg aussichtslos, als Wähler alle Sachverhalte genau zu kennen. Dass
+einige frustriert aufgeben bei dem Wahlzettelwust kann ich gut nachvollziehen.
+Das sollte dringend einmal reformiert werden. 
+
+@Z: Point Buchon
+
+<pic images/pb-birds.ps Der Weg bei Point Buchon führt an malerischer Küstenlandschaft entlang.>
+
+<em>Michael</em>
+Ende November machten wir eine Woche Urlaub und fuhren runter nach Cayucos
+in der Nähe von San Luis Obispo. Wir wohnten in einem AirBnb und ich durfte surfen.
+Wir wanderten auch viel und stießen eines Tages auf einen Weg, der
+erstaunlich hohe bürokratische Hürden aufwarf: Erst versuchten wir, von
+der Südseite her über Avila Beach an die Küstenlandschaft heranzukommen,
+wurden aber darüber belehrt, dass der Weg über Privatgelände des kalifornischen
+Energieerzeugers PG\&E führe, weshalb man nicht einfach am Eingang parken und
+dann wandern könne, sondern mit einem Tourbus aufs Gelände fahren und dann
+einem firmeneigenen Tour-Guide folgen müsse. Daraufhin versuchten wir es
+von der Nordseite her. Dort stießen wir auf ein verschlossenes Tor mit einem
+Schild, auf dem stand, dass PG\&E an allen Tagen außer dienstags und
+mittwochs bis zu 250 Wanderer auf den Trail lässt. Da gerade Mittwoch war,
+Donnerstag Feiertag, kamen wir Freitag morgens wieder und wurden zu einer
+Hütte vorgelassen.
+
+<pic images/pb-closed.ps Dienstags und Mittwochs ist der Weg zugesperrt.>
+<pic images/pb-map.ps Der Weg bei Point Buchon führt fünf Kilometer an der Küste entlang.>
+
+Dort mussten wir einen Schrieb durchlesen, auf dem stand, dass wir
+keine Haftungsansprüche hätten, und dann durfte wir uns auf eine
+Liste eintragen und loswandern. Der Weg ging an der Küste entlang,
+an der gewaltige Wellen gegen Steilwände und Steinformationen im Wasser
+rappelten, dass es nur so schäumte. Tausende von brütenden Vögeln sammelten
+sich auf Felsen im Wasser. In der Luft lag ein Hauch von Vogeldünger
+und Pferdemist, denn anscheinend reiten auch Pferdeenthusiasten auf
+diesem Weg.
+
+<pic images/pb-rocks.ps Die Felsformationen im Wasser sind sehenswert.>
+
+Nach etwa fünf Kilometern trafen wir auf eine Farm samt kleiner Kuhherde,
+marschierten hindurch, und der schöne Weg war zu Ende. Das heißt, vielmehr er
+wäre wohl noch weiter gegangen, aber es standen überall Schilder, die die Pfade
+als Privatwege der Ranch auswiesen, deren Betretung untersagt sei.
+Und wir trauten unseren Augen nicht: Man sah zwei busenförmige Kuppeln in
+der Ferne, und ein Schild wies darauf hin, dass dies die Kühltürme des
+Atomkraftwerks "Diablo Canyon" sind, das dort in einer einmalig malerischen
+Landschaft steht.
+
+<pic images/pb-windy.ps Am Ende des Weges sieht man das Kernkraftwerkt Diablo Canyon.>
+<pic images/pb-dc.ps Die Kühltürme des Kernkraftwerks ragen in die Küstenlandschaft.>
+
+Weitere Recherchen ergaben, dass das
+<LINK>https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant|AKW Diablo Canyon</LINK>
+1987 erstmals ans Netz ging, und bis heute etwa 8.6% des kalifornischen Stroms
+liefert! Zwar gab es bei der Baugenehmigung einige Bedenken, weil das Teil in
+einer erdbebengefährdeten Gegend liegt, und noch dazu direkt am Pazifik,
+wodurch es eventuell heranbrausenden Tsunami-Wellen ausgesetzt ist. Angeblich
+wird aber PG\&E die Meiler 2024/2025 abschalten, weil sich der Betrieb wegen
+staatlicher Regulierungen nicht mehr rentiert, und Kalifornien auf grüne
+Energien setzt.  Hier lernt man noch was dazu!
+
+@Z: Was kostet Strom in Amerika?
+
+<pic images/pge-bill.ps Im September 2022 war unsere Stromrechnung 108.18 Dollar>
+
+<em>Michael</em> Ihr in Deutschland wurdet ja in letzter Zeit ziemlich an die
+Kandare genommen, was die Haushaltskosten für Strom und Gas betrifft.
+Vergleichen wir doch mal: Wieviel zahlen Bürger in Amerika für die
+Energieversorgung ihrer Privathaushalte? Um es kurz zu machen, wir haben
+im September für 400 Kilowattstunden 108 Dollar gezahlt, also 
+etwa 27 Cent pro Kilowattstunde. Aber, wie ihr euch denken könnt, variieren
+Strompreise stark nach Bundesstaat, unser Gewährsmann in Florida hat neulich
+erzählt, dass er für 811 kWh dort nur 133 Dollar gezahlt hat, also fast
+die Hälfte, 14 Cent pro kWh.
+
+Wie schon mal an dieser Stelle erörtert (<RBLINK>20170507#3</RBLINK>) kommt
+unser Strom in der San Francisco Bay Area von einer privaten Firma namens
+PG\&E, also "Pacific Gas and Electric", die im Umkreis von mehreren hundert
+Kilometern das Strommonopol hat. Nun ist PG\&E eine ziemliche Tandlerfirma, die
+von einer katastrophalen Krise in die nächste schlittert. Ihre Stromtrassen
+sprühen Funken und lösen Waldbrände aus, und deswegen schaltet PG\&E im Sommer
+teilweise in ländlichen Gegenden mit viel Wald einfach den Strom ab.  PG\&E
+betreibt eine so veraltete und total marode Infrastruktur, dass sie den
+Energiebedarf der Bay Area nicht decken kann, wenn jeder seine Verbraucher
+einschaltet, bricht alles zusammen. Das zeigt sich im Sommer, wenn die Bewohner
+des heißen Silicon Valley den ganzen Tag ihre Wohnungen mit Klimaanlagen
+kühlen. Da bricht schon mal die Versorgung zusammen und ganze Landstriche
+bleiben tagelang ohne Strom. Vorsorglich schaltet PG\&E hier mittels
+sogenannter "Rotating Outages" in manchen Städten unten im Silicon Valley
+einfach reihum den Strom ab. Das muss man sich mal vorstellen, da wohnt jemand
+direkt neben der historischen Stelle, an der das iPhone erfunden wurde und hat
+wie in der dritten Welt tageweise nicht mal Strom.  Zwar können nicht
+kränkliche Bürger auch ein paar Tage ohne Klimaanlage leben, aber wenn die
+Lebensmittel in Kühlschrank und Tiefkühltruhe vermodern, hört der Spaß
+endgültig auf.
+
+<pic images/pge-delivery.ps (#1) Kilowattpreise sind nach Verbrauch gestaffelt.>
+<pic images/pge-breakdown.ps (#2) Auf die Grundgebühr kommen nochmal Zusatzgebühren.>
+
+PG\&E hält die Leute dazu an, weniger Strom zu verbrauchen, nur so reicht die
+Kapazität für groß und klein. Als womöglich einzige Privatfirma der Welt
+betreibt PG\&E sogar Werbung dafür, dass Verbraucher von ihrem Produkt, dem
+Strom, weniger kaufen! Aus diesem Grund staffeln sie auch ihre Preise. Wer mehr
+verbraucht als der Durchschnitt, zahlt höhere Kilowattpreise.  Wir liegen mit
+unserem Verbrauch etwas über dem Durchschnitt, und haben so einen Deal
+abgeschlossen, dass der Strommix teilweise aus erneuerbarer Energie kommt, und
+zahlen, wie gesagt, im Schnitt etwa 27 Cent pro Kilowattstunde.  Wie setzt sich
+das genau zusammen?
+
+In Abbildung (#1) seht ihr, dass wir im Beispielmonat genau 400 kWh verbraucht
+haben, davon kostet die Stromlieferung (Delivery) für die ersten 225 kWh 24
+Cent/KWh und die restlichen 175 kWh 30 Cent/kWh. Davon zieht PG\&E noch den
+"Generation Credit" von 47.01 Dollar ab, schlägt aber die "Power Charge
+Indifference Adjustment" drauf und 25 Cent "Franchise Fee Surcharge".  Wie sich
+diese 75.12 Dollar zusammensetzen, versucht die Tabelle "Your Electric Charges
+Breakdown" (Abbildung (#2)) zu erklären, mit allen möglichen Einzelposten, die
+kein Mensch versteht. Abgesehen davon, dass der Betrag vorher per KWh ermittelt
+wurde und hier einfach Fixkosten stehen, aber okay.  Später kommt noch die
+Erzeugungsgebühr ("Generation Charge") drauf, die bei 400 kWh mit 32.94 Dollar
+zu Buche schlägt (Abbildung (#3)). Abzüglich des vorher abgezogenen "Generation
+Credits", wohlgemerkt. Kurzum: Keiner versteht, wie sich die Kosten
+zusammensetzen, man zahlt halt, was oben auf der Rechnung steht.
+
+<pic images/pge-generation.ps (#3) Stromerzeugungskosten kommen obendrauf.>
+
+Wir zahlen die monatliche Stromrechnung übrigens nicht per Bankeinzug, sondern
+traditionsgemäß per Hand. Bis vor wenigen Jahren hat Angelika jeden Monat die
+uns von PG\&E per Post zugestellte Papierrechnung aufgemacht, das Scheckbuch
+rausgeholt und einen Scheck über den geforderten Betrag ausgestellt,
+unterschrieben, und im Kuvert per Post an PG\&E geschickt. Irgendwann fand ich
+heraus, dass man das auch per Handy-App machen kann, und seitdem zeichne ich
+dafür verantwortlich, dies jeden Monat gewissenhaft zu erledigen.
+
+<pic images/pge-history.ps Unsere Stromrechnung, übers Jahr verteilt.>
+
+Da Strom anscheinend nicht irgendeine Ware, sondern ein Gut ist, ohne das
+niemand leben kann, schaltet PG\&E auch nicht einfach den Strom ab, falls man
+mal eine Rechnung nicht zahlt. Das habe ich durch ein Versehen herausgefunden,
+denn einmal zahlte ich zwar die Rechnung, aber nur die "Delivery Charges" statt
+den höheren Gesamtbetrag. Die Lichter blieben an! Einen Monat später flatterte
+die nächste Rechnung ins Haus, und kommentarlos war dort einfach der fehlende
+Betrag hinzuaddiert worden. Unter leise vor mich hin gemurmelten
+Entschuldigungen zahlte ich wie verlangt.
+
+Neuerdings kostet bei uns der Strom sogar unterschiedlich nach Tageszeit. Nach der
+<LINK>https://www.cleanpowersf.org/tou|Tabelle|Strompreis nach Tageszeit</LINK>
+des Stromanbieters zahlen wir zwischen 16:00 und 21:00 höhere
+Kilowattpreise als während der restlichen Zeit des Tages. Das ist
+wahrscheinlich das Zeitfenster, in dem viele Leute in San Francisco den Herd
+anstellen, um Abendessen zu kochen. Wer sparen will, muss erst nach 21:00
+Essen kochen oder den Tesla aufladen!
+
+@Z: Durian-Stinkfrucht
+
+<pic images/durian-3.ps Der todesmutige Stinkfruchttester>
+
+<em>Michael</em> Bekanntlich schrecke ich ja vor keinem Gericht der Welt
+zurück, und so war es nur eine Frage der Zeit bevor ich Durian, die
+berühmt-berüchtigte Stinkfrucht aus Malaysia, probieren musste. Arbeitskollegen
+hatten mir jahrelang vorgeschwärmt, was für ein komplexer Geschmacksruck beim
+Genuss dieser Frucht durch den Gaumen führe, und dass amerikanische und
+europäische Weicheier niemals über den unappetitlichen Gestank hinwegkämen.
+Natürlich lächerlich, ich probiere alles.
+
+<pic images/durian-costco-1.ps Schlappe 27 Dollar für 400g des Stinkfrucht-Marks.>
+
+Ja, ihr habt richtig gelesen, es gibt tatsächlich Früchte auf dieser Welt, die
+unappetitlich riechen und gleichzeitig gut schmecken. Wer jemals einen
+Spitzenwein konsumiert hat, weiß, dass Nase und Gaumen unter Umständen
+widersprechende Urteile abgeben. Bei der Stinkfrucht ist das Phänomen recht
+ausgeprägt, denn sie riecht etwa wie Zwiebelreste im Mülleimer, den man zwei Tage
+vergessen hat, auszulehren.  Nicht gerade appetitanregend, aber beileibe nicht so
+brechreizauslösend wie die vielen Youtube-Videos insinuieren, die amerikanische
+Touristen in theatralischen Posen auf malaysischen Fruchtmärkten zeigen.
+
+<pic images/durian-costco-2.ps Praktischerweise wurde das Mark schon aus der Frucht extrahiert.>
+
+Nun begab es sich, dass unser Megasupermarkt Costco eines Tages das bereits aus der
+Riesenfrucht extrahierte und eingefrorene Mark zum Schlagerpreis von 27 Dollar
+pro 400g anbot. Da musste ich natürlich zuschlagen. Todesmutig probierte ich
+die frisch aufgetaut mangoartig in der Packung liegenden Stücke. Den Geruch von
+vermodernden Zwiebeln muss man dabei natürlich ausblenden, und man kann die Frucht
+auch nicht im Kühlschrank aufheben ohne die ganze Wohnung zuzustinken, selbst
+durch doppelte Plastiktüten bahnt der Gestank sich seinen Weg. Der Geschmack ist ...
+interessant.  Sicher mangoartig, aber auch nussig, und auch noch mit einem
+benzinartigen Einschlag, sodass man nicht weiß, ob sie wirklich gut mit dem
+Verdauungstrakt harmoniert. Und in der Tat wälzte ich mich nach dem Genuss der
+Frucht des nachts etwas hin und her. Auch Angelika probierte ein Stück, hielt sich
+aber beim Nachschlag auffallend zurück. Fazit: Probieren sollte man's, aber
+eine gute reife Mango ist mir ehrlich gesagt lieber.
+
+@Z: Toppservice: Post am Sonntag auf
+
+<pic images/usps-noe.ps Das Postamt in Noe Valley hat zur Weihnachtszeit sogar sonntags auf.>
+
+<em>Angelika</em> Die amerikanische Post muss oft herbe Kritik aushalten. Das
+Defizit des Unternehmens ist groß und die Kundenbetreuung ist wie bei einer
+Behörde wenig überraschen leicht schleppend und mittelalterlich. Aber vor
+Weihnachten staunten wir nicht schlecht, denn gleich mehrere Postämter in San
+Francisco haben nun die Sonntage vor Weihnachten vormittags ihre Schalter
+geöffnet, damit der Kunde seine Weihnachtspakete auf den Weg bringen kann. Ich
+nutzte diesen Service gleich zweimal und war erstaunt, wieviele Leute doch
+davon wussten, obwohl er kaum publik gemacht wurde. Die Leute waren begeistert
+und voll des Lobes.
+
+@Z: Fotoausstellung
+
+<pic images/aex.ps Angelika bei ihrer Fotoausstellung.>
+
+<em>Angelika</em> Ich bin ja schon seit Jahrzehnten in einem Fotokollektiv in
+San Francisco. Ein Höhepunkt ist immer wieder, wenn wir eine gemeinsame
+Gruppenausstellung veranstaltten.  Dieses Jahr im Oktober war es wieder soweit.
+Ich zeigte zwei meiner Collagen. Das Thema der Ausstellung war "The New World"
+(= "Die neue Welt"). Sandra Phillips, die jahrelang im San Francisco Museum of
+Modern Art als Kuratorin in der Fotografieabteilung gearbeitet hatte, suchte
+das Thema aus und
+<LINK>https://www.bapc.photo/the-new-world/|stellte aus unseren Werken eine Show zusammen|Angelikas Fotoshow</LINK>.
+Das Thema war, wie sich die
+Welt durch Covid verändert hat. Die Show war vom 22. Oktober bis 19. November
+zu sehen und zwar in einer Galerie des
+<LINK>https://minnesotastreetproject.com|"Minnesota Street Projects"|"Minnesota
+Street Project"</LINK>, einem Konglomerat verschiedener Galerien unter einem
+Dach, die sich im sogenannten "Dogpatch"-Viertel in San Francisco befinden.
+Meine Collagen gestaltete ich, indem ich alte Fotos, die ich aufgenommen hatte,
+auseinander schnitt und wieder neu zusammen setzte. 
+
+Grüße aus San Francisco:
+
+Angelika und Michael
