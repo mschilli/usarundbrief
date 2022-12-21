@@ -1,4 +1,4 @@
-San Francisco, den 19.12.2022
+San Francisco, den 20.12.2022
 
 @Z: Kündigen bei Apple
 
@@ -43,7 +43,7 @@ nicht um Aufnahme in eine private Krankenversicherung bemühen. Der Haken: Man
 zahlt etwa 5x soviel wie zu Zeiten, an denen man noch angestellt war, da die
 Firma typischerweise etwa 80% der Kosten übernimmt und nur 20% als Obulus vom
 Arbeitnehmer fordert.  In konkreten Zahlen: Ein Apple-Angestellter zahlt für
-sich und Ehepartner im Monat zusammen etwa 300 Dollar an Kranken-, Zahnarzt-
+sich und Ehepartner im Monat zusammen etwa 380 Dollar an Kranken-, Zahnarzt-
 und Augenarzt-Versicherung (in Amerika alles getrennt), ein ausgeschiedener
 Mitarbeiter hingegen insgesamt 1.600 Dollar. Netto, ohne die Möglichkeit, es
 von der Steuer abzusetzen.
@@ -82,7 +82,7 @@ Cobra-Verlängerung.  Online fand ich zu dem Thema nur Wischi-Waschi-Aussagen,
 aber richtig probiert hat das anscheinend noch niemand.  Und wie der Zufall es
 wollte, hatten sowohl Angelika als auch ich feste Arzttermine kurz nach dem Tag
 X, und da ich von Natur aus neugierig darauf bin, was in Grenzfällen passiert,
-legten wir die Termine nicht um sondern nahmen sie einfach wahr. Bei einer
+legten wir die Termine nicht um, sondern nahmen sie einfach wahr. Bei einer
 sechsfachen Bypass-Operation in Millionenhöhe hätte ich es mir vielleicht
 anders überlegt, aber es handelte sich nur um normale Besuche, die zwar in
 Amerika schnell mal 400 Dollar kosten, aber das sollte mir der Spaß wert sein.
@@ -104,7 +104,7 @@ Krankenkasse anmeldete, stand dort immer noch "nicht versichert". Da braucht
 man Nerven wie Drahtseile.  Die Überweisung an den Cobra-Verwalter ging zwei
 Tage darauf vom Konto ab, aber noch immer wusste die Krankenkasse anscheinend
 noch nichts von meiner Zahlung.  Daraufhin rief ich tags darauf beim
-Kundenservice der Krankenkasse an und die Dame im Callcenter rief sogar zum
+Kundenservice der Krankenkasse an und die Dame im Callcenter rief sogar beim
 Cobraverwalter durch und meldete mir schließlich nach 20 Minuten, dass ich noch
 24 Stunden warten solle, dann wäre die Webseite der Krankenkasse aktualisiert.
 
@@ -211,28 +211,28 @@ demokratische oder republikanische Partei, die Grünen, die Friedens-und
 Freiheitspartei, die "Libertarian" Partei und die "American Independent Party".
 In Kalifornien darf allerdings auch angekreuzt werden, dass man sich mit keiner
 Partei identifiziert. Die Zuordnung zu einer Partei verpflichtet übrigens nicht
-zum Wählen derselben, hat unter Umständen bei den unterschiedlichen Vorwahlen
+zum Wählen derselben, hat aber unter Umständen bei den unterschiedlichen Vorwahlen
 Relevanz: Wer sich als der demokratischen Partei zugehörig registriert hat,
 darf auch an deren Vorwahlen zum Präsidenten teilnehmen, bei denen die Partei
 über den Kandidaten abstimmt, den sie ins Rennen schickt. Für Republikaner gilt
 analoges.
 
-Seit der Pandemie schicken die Behörden jedem registrierten Wahlberechtigten
-automatisch Briefwahlunterlagen zu. Jeder kann also in Ruhe die Wahlunterlagen
-zuhause ausfüllen. Es besteht natürlich weiterhin die Möglichkeit, am Wahltag
-ins Wahllokal zu gehen. Entscheidet sich der Wähler für die Briefwahl, werden
-die Wahlunterlagen in einen dafür vorgesehenen Briefumschlag gesteckt. Der
-Briefumschlag wird zugeklebt und außen unterschreiben. Die Unterschrift gilt
-als Verifizierung, dass es sich bei dem Wähler um die richtige Person handelt.
-Vor der Auszählung wird erst die Unterschrift auf dem Umschlag mit der auf dem
-kalifornischen Führerschein des Wählers hinterlegten verglichen. Bei der
-Wählerregistrierung gibt der Wähler seine Einverständniserklärung dafür. Die
-ausgefüllten Briefwahlunterlagen können entweder mit der Post eingeschickt
-werden oder in spezielle Wahlkästen gesteckt werden, die wie Briefkästen
-aussehen und über die ganze Stadt verteilt sind. Wir nutzten einen solchen
-Kasten und warfen unsere Unterlagen in unserem Viertel ein. Interessant ist,
-dass man anschließend online verfolgen kann, wo sich der eigene Wahlzettel
-befindet, und ob und wann er mitgezählt wurde.
+Seit der Pandemie schicken die kalifornischen Behörden jedem registrierten
+Wahlberechtigten automatisch Briefwahlunterlagen zu. Jeder kann also in Ruhe
+die Wahlunterlagen zuhause ausfüllen. Es besteht natürlich weiterhin die
+Möglichkeit, am Wahltag ins Wahllokal zu gehen. Entscheidet sich der Wähler für
+die Briefwahl, werden die Wahlunterlagen in einen dafür vorgesehenen
+Briefumschlag gesteckt. Der Briefumschlag wird zugeklebt und außen
+unterschreiben. Die Unterschrift gilt als Verifizierung, dass es sich bei dem
+Wähler um die richtige Person handelt.  Vor der Auszählung wird erst die
+Unterschrift auf dem Umschlag mit der auf dem kalifornischen Führerschein des
+Wählers hinterlegten verglichen. Bei der Wählerregistrierung gibt der Wähler
+seine Einverständniserklärung dafür. Die ausgefüllten Briefwahlunterlagen
+können entweder mit der Post eingeschickt oder in spezielle Wahlkästen
+gesteckt werden, die wie Briefkästen aussehen und über die ganze Stadt verteilt
+sind. Wir nutzten einen solchen Kasten und warfen unsere Unterlagen in unserem
+Viertel ein. Interessant ist, dass man anschließend online verfolgen kann, wo
+sich der eigene Wahlzettel befindet, und ob und wann er mitgezählt wurde.
 
 Die Wahlbeteiligung in den USA ist übrigens oft niedrig (im Schnitt etwas über
 60% bei Präsidentschaftswahlen und ca. 50% bei Kongresswahlen). Seitdem ich
@@ -270,13 +270,14 @@ Organisationen sowie Politiker, die bestimmte Volksbegehren sponsern und ihre
 Namen dafür hergeben. Deshalb flatterten so viele Pamphlete vor den Wahlen ins
 Haus und in unseren Briefkasten. Eine Verschwendung von Papier sondersgleichen.
 In San Francisco gibt es allerdings den relativ neuen politisch motivierten
-Verein GrowSF.org, der zum Beispiel einen Wählerratgeber herausgibt, der sogar
-als Orientierung ganz nützlich ist. Sachin Agarwal gründete GrowSF im Jahre
-2020, mit dem Ziel, politische Lösungen für San Francisco zu finden, die auf
-Pragmatismus und gesunden Menschenverstand beruhen. Allgemein ist es
-schlichtweg aussichtslos, als Wähler alle Sachverhalte genau zu kennen. Dass
-einige frustriert aufgeben bei dem Wahlzettelwust kann ich gut nachvollziehen.
-Das sollte dringend einmal reformiert werden. 
+Verein <LINK>https://growsf.org/|GrowSF.org</LINK>, der zum Beispiel einen
+Wählerratgeber herausgibt, der sogar als Orientierung ganz nützlich ist. Sachin
+Agarwal gründete GrowSF im Jahre 2020, mit dem Ziel, politische Lösungen für
+San Francisco zu finden, die auf Pragmatismus und gesunden Menschenverstand
+beruhen. Allgemein ist es schlichtweg aussichtslos, als Wähler alle
+Sachverhalte genau zu kennen. Dass einige frustriert aufgeben bei dem
+Wahlzettelwust kann ich gut nachvollziehen.  Das sollte dringend einmal
+reformiert werden. 
 
 @Z: Point Buchon
 
@@ -284,7 +285,7 @@ Das sollte dringend einmal reformiert werden.
 
 <em>Michael</em>
 Ende November machten wir eine Woche Urlaub und fuhren runter nach Cayucos
-in der Nähe von San Luis Obispo. Wir wohnten in einem AirBnb und ich durfte surfen.
+in der Nähe von San Luis Obispo. Wir wohnten in einem AirBnb, und ich durfte surfen.
 Wir wanderten auch viel und stießen eines Tages auf einen Weg, der
 erstaunlich hohe bürokratische Hürden aufwarf: Erst versuchten wir, von
 der Südseite her über Avila Beach an die Küstenlandschaft heranzukommen,
@@ -358,7 +359,7 @@ teilweise in ländlichen Gegenden mit viel Wald einfach den Strom ab.  PG\&E
 betreibt eine so veraltete und total marode Infrastruktur, dass sie den
 Energiebedarf der Bay Area nicht decken kann, wenn jeder seine Verbraucher
 einschaltet, bricht alles zusammen. Das zeigt sich im Sommer, wenn die Bewohner
-des heißen Silicon Valley den ganzen Tag ihre Wohnungen mit Klimaanlagen
+des heißen Silicon Valleys den ganzen Tag ihre Wohnungen mit Klimaanlagen
 kühlen. Da bricht schon mal die Versorgung zusammen und ganze Landstriche
 bleiben tagelang ohne Strom. Vorsorglich schaltet PG\&E hier mittels
 sogenannter "Rotating Outages" in manchen Städten unten im Silicon Valley
@@ -403,7 +404,7 @@ traditionsgemäß per Hand. Bis vor wenigen Jahren hat Angelika jeden Monat die
 uns von PG\&E per Post zugestellte Papierrechnung aufgemacht, das Scheckbuch
 rausgeholt und einen Scheck über den geforderten Betrag ausgestellt,
 unterschrieben, und im Kuvert per Post an PG\&E geschickt. Irgendwann fand ich
-heraus, dass man das auch per Handy-App machen kann, und seitdem zeichne ich
+heraus, dass man den Betrag auch per Handy-App überweisen kann, und seitdem zeichne ich
 dafür verantwortlich, dies jeden Monat gewissenhaft zu erledigen.
 
 <pic images/pge-history.ps Unsere Stromrechnung, übers Jahr verteilt.>
@@ -469,8 +470,8 @@ eine gute reife Mango ist mir ehrlich gesagt lieber.
 <pic images/usps-noe.ps Das Postamt in Noe Valley hat zur Weihnachtszeit sogar sonntags auf.>
 
 <em>Angelika</em> Die amerikanische Post muss oft herbe Kritik aushalten. Das
-Defizit des Unternehmens ist groß und die Kundenbetreuung ist wie bei einer
-Behörde wenig überraschen leicht schleppend und mittelalterlich. Aber vor
+Defizit des Unternehmens ist groß und die Kundenbetreuung ist, wie bei einer
+Behörde wenig überraschend, leicht schleppend und mittelalterlich. Aber vor
 Weihnachten staunten wir nicht schlecht, denn gleich mehrere Postämter in San
 Francisco haben nun die Sonntage vor Weihnachten vormittags ihre Schalter
 geöffnet, damit der Kunde seine Weihnachtspakete auf den Weg bringen kann. Ich
