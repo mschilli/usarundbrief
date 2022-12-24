@@ -251,14 +251,14 @@ elections determined that movie actor Arnold Schwarzenegger would be his
 immediate successor? Now, back then that was indeed the first time something
 like this had happened in California history.
 
-TODO
+Although these recalls are commonplace in California, with low barriers to
+start a new one (<RBLINK>20030801#3</RBLINK>), they often fail to make it to
+the actual ballot because either they didn't gather enough signatures, or the
+signatures gathered can't be verified. Since the 1960ies, frustrated voters
+have been threatening to recall pretty much every elected governors in office,
+but so far only Davis actually was recalled.
 
-Obwohl diese Recallverfahren in Kalifornien gang und gäbe und die
-Hürden niedrig sind (<RBLINK>20030801#3</RBLINK>), kommt es in der
-Regel aber nicht zur endgültigen Abstimmung, weil die nötigen Unterschriften
-fehlen oder nicht verifiziert werden können. Seit den 60ern ist es praktisch
-Standard, dass die frustrierten Wähler dem amtierenden Gouverneuren mit einem
-Recall drohen, aber nur Davis musste bisher daran glauben.
+TODO
 
 Nun ist gerade Gavin Newsom dran, unser derzeitiger Gouverneur. Fünf
 Recall-Versuche gab es schon, aber beim sechsten Mal gelang es den
