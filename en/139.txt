@@ -258,21 +258,20 @@ signatures gathered can't be verified. Since the 1960ies, frustrated voters
 have been threatening to recall pretty much every elected governors in office,
 but so far only Davis actually was recalled.
 
-TODO
+Now, it's Gavin Newsom's turn, who is our current governor. So far, there had
+been a whopping five attempts to start a recall, all unsuccessful, but on the
+6th try Newsom's opponents managed to collect the required number of valid
+signatures.  On September 14, 2021, all Californians will be able to vote on
+whether Newsom should stay in office. I think it's all a waste of money.
+According to the New York Times, the special election will cost taxpayers $276
+million. In these times, we really don't need a governor who is distracted from
+his work by special elections. Corona is still a threat, not to mention the
+wildfires that are raging all over California again. California is also
+struggling with a drought again, and we have to save water. Special elections
+traditionally attract very few voters to the polls, and only mobilize those who
+want to get rid of the incumbent politician.
 
-Nun ist gerade Gavin Newsom dran, unser derzeitiger Gouverneur. Fünf
-Recall-Versuche gab es schon, aber beim sechsten Mal gelang es den
-Newsom-Gegnern, die nötigen gültigen Unterschriften zusammen zu kriegen. Am 14.
-September 2021 dürfen nun alle Kalifornier darüber abstimmen, ob Newsom im Amt
-bleiben darf. Ich halte das Ganze ja für rausgeschmissenes Geld. Laut New York
-Times kostet die Sonderwahl den Steuerzahler 276 Millionen Dollar. In diesen
-Zeiten brauchen wir wirklich keinen Gouverneur, den  Sonderwahlen von der
-Arbeit ablenken.  Corona ist immer noch eine Bedrohung, ganz zu schweigen von
-den Waldbränden, die schon wieder überall in Kalifornien lichterloh wüten. Auch
-kämpft Kalifornien gerade wieder mit einer Trockenperiode, und wir müssen
-Wasser sparen.  Sonderwahlen locken traditionell nur sehr wenige Wähler an die
-Urnen, und mobilisieren nur die, die den amtierenden Politiker loswerden
-wollen.
+TODO
 
 Newsom ist übrigens seit Januar 2019 im Amt. Er gehört der demokratischen
 Partei an und machte sich als Bürgermeister von San Francisco einen Namen, als
