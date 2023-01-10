@@ -330,20 +330,20 @@ considered a poor wretch. It's different here in America: the trend is going
 back to the 60s, and to Grandma's coffee grinder and a porcelain filter
 attachment, trendily called "V60".
 
+<pic images/coffee-grinder.ps The Ferrari of coffee grinders.>
+
+To grind whole roasted coffee beans, we bought the "Virtuoso+" model made by the
+coffee grinder company "Baratza", which has an Italian sounding name, but
+actually is American.  This model grinds the coffee consistently every time,
+and won't keep grinding longer if you keep the button pressed, which is common
+with cheap products. The coffee production must be reliably reproducible,
+otherwise it's like playing the lottery! By the way, I was told by a trusted
+resource at my employer that an employee in the coffee kitchen was observed
+grinding coffee beans during his break with a hand grinder, just like Räuber
+Hotzenplotz's grandma, for a whopping 10 minutes.
+He must have written really elegant software afterwards!
+
 TODO
-
-<pic images/coffee-grinder.ps Der Ferrari unter den Kaffeemühlen.>
-
-Zum Mahlen gerösteter ganzer Bohnen haben wir uns das Modell "Virtuoso+" der
-zwar italienisch klingenden aber dennoch in Amerika ansässigen
-Kaffeemühlenfirma "Baratza" gekauft, die den Kaffee einstellbar immer gleich
-fein mahlt, und nicht etwa umso feiner, je länger man auf den Knopf drückt, wie
-das bei Billigprodukten üblich ist.  Zuverlässig reproduzierbar muss die
-Kaffeeproduktion sein, sonst gleicht sie einem Lotteriespiel!  Aus der Firma
-wurde mir übrigens berichtet, dass ein Angestellter in der Kaffeeküche dabei
-beobachtet wurde, wie er 10 Minuten lang mit einer Handkaffeemühle wie aus dem
-Räuber Hotzenplotz seinen Pausenkaffee gemahlen hat. Bestimmt hat er danach
-ganz besonders elegante Software geschrieben.
 
 <pic images/coffee-youtube.ps Ein Kaffee-Snob aus England erklärt, wie man Omas Filteraufsatz richtig benutzt.>
 
