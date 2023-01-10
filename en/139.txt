@@ -317,20 +317,20 @@ Interestingly, Newsom was married to Kimberly Guilfoyle in his first marriage,
 who is a Republican party member and is now with Donald Trump Junior. Stories
 like from a Hollywood movie.
 
+@Z: Expensive Coffee and Grandma's Drip Coffee
+
+<pic images/coffee-filter.ps We pour the hot water through Grandma's coffee filter by hand.>
+
+<em>Michael</em> Because of Corona, we haven't gone out to eat at a restaurant
+for a whole year, but one luxury we allowed ourselves at home was good coffee.
+According to my research, in Germany, any average household owns a space age
+technolgy coffee machine costing more than a thousand Euros a piece.  That's
+been standard for at least the last 20 years.  If you don't have one, you're
+considered a poor wretch. It's different here in America: the trend is going
+back to the 60s, and to Grandma's coffee grinder and a porcelain filter
+attachment, trendily called "V60".
+
 TODO
-
-@Z: Teurer Kaffee und Omas Filter
-
-<pic images/coffee-filter.ps Von Hand gießen wir das heiße Wasser durch Omas Kaffeefilter>
-
-<em>Michael</em> Wegen Corona sind wir ja ein ganzes Jahr lang kein einziges
-Mal zum Essen in ein Restaurant ausgegangen, aber ein Luxus, den wir uns
-zuhause gegönnt haben, war guter Kaffee. Nach meinen Recherchen stehen in
-deutschen Haushalten ja seit mittlerweile mindestens 20 Jahren
-standardmäßig Kaffee-Vollautomaten für mindestens tausend Euro herum, wer keinen hat,
-ist dort als armer Wicht verschrien. Anders hier in Amerika: Der Trend geht zurück
-in die 60er-Jahre, und zu Omas Kaffeemühle und einem Filteraufsatz aus
-Porzellan, trendig "V60" genannt.
 
 <pic images/coffee-grinder.ps Der Ferrari unter den Kaffeemühlen.>
 
