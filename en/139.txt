@@ -343,20 +343,20 @@ grinding coffee beans during his break with a hand grinder, just like Räuber
 Hotzenplotz's grandma, for a whopping 10 minutes.
 He must have written really elegant software afterwards!
 
+<pic images/coffee-youtube.ps A coffee snob from England explains how to use Grandma's filter attachment correctly.>
+
+Pouring the heated water from the kettle into the filter with the ground coffee
+is not trivial. In a
+<LINK>https://www.youtube.com/watch?v=AI4ynXzkSQo|Youtube video|Youtube video</LINK>
+about the coffee filter attachment, British coffee
+expert James Hoffmann explains that for two cups, you first put 25g of coffee grinds
+in the filter, then pour 100g of water, then wait 20-40 seconds while
+constantly shaking the filter attachment until the coffee starts blooming, and
+finally pour the remaining 350g of water while swirling. You read that right,
+coffee snobs put the pot with the filter attachment on a digital scale and
+measure the exact amount of water.
+
 TODO
-
-<pic images/coffee-youtube.ps Ein Kaffee-Snob aus England erklärt, wie man Omas Filteraufsatz richtig benutzt.>
-
-Wie man nun das im Kessel auf dem Herd erhitzte Wasser in den Filter mit dem
-gemahlenen Kaffee gießt, ist keineswegs trivial. In einem
-<LINK>https://www.youtube.com/watch?v=AI4ynXzkSQo|Youtube-Video|Youtube-Video
-zum Kaffeefilteraufsatz</LINK> erklärt der britische Kaffeeexperte James Hoffmann, dass man für
-zwei Tassen zuerst 25g Pulver in den Filter macht, dann 100g Wasser aufgießt,
-dann unter stetigem Schwenken des Filteraufsatzes 20-40 Sekunden wartet, bis
-das Pulver aufschießt, und schließlich unter weiterem Schwenken die restlichen
-350g Wasser draufplatscht.  Ihr habt richtig gelesen, Kaffee-Snobs stellen die
-Kanne mit dem Filteraufsatz auf eine digitale Waage und messen so genau die
-Wassermenge ab. 
 
 <pic images/coffee-beans.ps Kaffee-Bohnen, von denen 340g schlappe 16 Dollar kosten.>
 
