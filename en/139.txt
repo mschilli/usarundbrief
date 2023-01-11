@@ -356,31 +356,23 @@ finally pour the remaining 350g of water while swirling. You read that right,
 coffee snobs put the pot with the filter attachment on a digital scale and
 measure the exact amount of water.
 
+<pic images/coffee-beans.ps 340g of coffee beans costing a whopping 16 Dollars.>
+
+Regarding the beans: For decades we had been drinking imported Dallmayr Prodomo
+because it was gentle with both of our stomachs and still tasted good. We can
+no longer tolerate darker roasts, sold in America as "French Roast," but those
+aren't even popular here anymore. They were for a while, shortly after
+Starbucks radically changed American coffee habits in an astonishing victory
+during the 1990s. It replaced the usual dishwater that was created by brewing a
+teaspoon of powder from the "Folgers" three-kilogram can and taking on a nice
+malty consistency after sitting on a hot plate for hours. Today, coffee snobs
+drink milder, lightly roasted varieties, recognizable by lighter beans, but
+still tickling all taste buds.
+
+
+Following recommendations from colleagues at work, I ordered coffee beans online from luxury roasters like <LINK>https://www.littleowlcoffee.com|Little Owl Coffee</LINK> in Denver or <LINK>https://www.vervecoffee.com|Verve Coffee</LINK>, a hipster company in San Francisco. The problem with luxury coffee is that you quickly get used to better quality and suddenly regular coffee tastes like slop from a trucker's gas station. But hey, you only live once, life's too short to drink substandard coffee!
+
 TODO
-
-<pic images/coffee-beans.ps Kaffee-Bohnen, von denen 340g schlappe 16 Dollar kosten.>
-
-Zu den Bohnen: Jahrzehntelang haben wir importierten Dallmayr Prodomo
-getrunken, weil der schön sanft mit unserer beider Mägelchen umging und
-trotzdem gut schmeckte. Dunklere Röstungen, in Amerika unter der Bezeichnung
-"French Roast" vertrieben, vertragen wir schon lange nicht mehr, aber die sind
-in Amerika mittlerweile gar nicht mehr so in. Sie waren es wohl einige Zeit lang,
-kurz nachdem die Firma Starbucks in den 1990er-Jahren in einem erstaunlichen
-Siegeszug Amerika mit schmackhaftem Kaffee bekanntmachte.  Er löste in einer
-sanften Revolution das bis dato übliche Spülwasser ab, das durch Brühen eines
-Teelöffels Pulver aus der "Folgers"-Dreikilodose pro Kanne entstand und durch
-mehrstündiges Verharren auf einer Wärmeplatte eine schön malzige Konsistenz
-annahm. Heute trinkt der Kaffee-Snob eher milde, nur ganz sanft geröstete
-Sorten, erkennbar an helleren Bohnen, die aber trotzdem alle Geschmacksnerven
-torpedieren.
-
-Empfehlungen von Arbeitskollegen folgend, habe ich schon Kaffee online bei
-Edelröstern wie <LINK>https://www.littleowlcoffee.com|Little Owl Coffee</LINK>
-aus Denver oder auch bei <LINK>https://www.vervecoffee.com|Verve Coffee</LINK>
-bestellt, einer Hipsterfirma aus San Francisco.  Das Dumme am Luxuskaffee ist
-nur, dass man sich (wie auch beim Wein übrigens) schnell an bessere Qualität
-gewöhnt und auf einmal schmeckt ganz passabler Kaffee wie die letzte Plörre an
-der Fernfahrertanke. Aber man gönnt sich ja sonst nichts.
 
 @Z: Topp-Produkt Mac Mini
 
