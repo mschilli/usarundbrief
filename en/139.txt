@@ -418,50 +418,49 @@ to use that no normal person could make a 10-second video with it. Fortunately,
 there are thousands of videos on YouTube about how to use the hellish program
 without going crazy.
 
-TODO
-
 <pic images/fit-console.ps (#1) A successful video with 3,000 views.>
 
-Dabei ist es erstaunlich, und im Voraus kaum abzuschätzen, wie gut selbstgemachte Videos
-auf Youtube ankommen. Die Präsentation meiner Backkünste dümpelt trotz aufwändigster
-Produktion leider noch immer im zweistelligen Bereich herum, wie zum Beispiel mein
-<LINK>https://www.youtube.com/watch?v=1BGGU3KeprU|Brezelvideo</LINK>
-oder das Video zum Anfertigen eines
-<LINK>https://www.youtube.com/watch?v=3ylQG3ig0E0|Sauerteigbrots|Michaels Sauerteigbrot-Video</LINK>.
+It is amazing, and hard to predict in advance, how well homemade videos on
+YouTube will be received. Despite the elaborate production, the presentation of
+my baking skills is still languishing in the two-digit views range, such as my video
+on
+<LINK>https://www.youtube.com/watch?v=1BGGU3KeprU|baking pretzels>
+or the one on making
+<LINK>https://www.youtube.com/watch?v=3ylQG3ig0E0|sourdough bread</LINK>.
 
-Viel erfolgreicher bin ich auf Youtube mit meinem
-<LINK>https://www.youtube.com/watch?v=b1VGCrvuazs|Autobastlerfilm|Michael als Autobastler auf Youtube</LINK>,
-in dem ich die Mittelkonsole unseres Honda Fit auseinander schraube,
-um Angelikas dort hineingeschlüpften Ohrring wieder herauszufieseln: Interessierte
-Autoschrauber haben es schon dreitausendmal abgerufen! (Abbildung (#1)).
+I've had much better success on Youtube with my
+<LINK>https://www.youtube.com/watch?v=b1VGCrvuazs|car repair video</LINK>,
+where I take apart the center console of our Honda Fit to retrieve Angelika's
+earring that had slipped down there. Interested hobby car mechanics have
+already viewed it three thousand times! (Figure (#1)).
 
-<pic images/clapper.ps Klappe, die Erste!>
+<pic images/clapper.ps Lights, camera, action!>
 
-Ich habe im Rahmen meines Schnellkurses zum selbsternannten Videofritzen
-übrigens auch gelernt, warum bei Filmproduktionen am Anfang jeder Szene immer
-so ein Assistent mit einer Schiefertafel ins Bild kommt, lautstark einen
-abgespreizten Balken draufschnackeln lässt und "Szene die Erste!" ruft.  Bild
-und Ton eines Films werden nämlich meist getrennt aufgenommen und hinterher
-zusammengeflickt. Bei meinen Produktionen nehme ich oft das Bild der
-Handy-Kamera oder einer Spiegelreflex auf, deren Mikros dürren Sound produzieren.
-Gleichzeitig nimmt ein Studio-Mikrofon den guten Ton auf und der Laptop
-schneidet diese Aufnahme mit.
+By the way, I learned during my crash course to become a self-proclaimed video
+wizard why in professional film productions, there's always an assistant with a
+chalkboard that comes into the picture at the beginning of each scene, and
+loudly snaps a checkered bar on it, shouting "Scene One!".  Turns out that the
+video and sound of a film are usually recorded separately and then patched
+together in post production. For my home videos, I often take the image of the
+cell phone camera or an SLR, whose microphones only produce tinny sound. At the same
+time, I have a studio microphone record the good sound and the laptop records
+this to a digital audio file.
 
-Anschließend muss dann ein Schneidemensch den Film so zusammenflicken, dass der
-Schauspieler genau zu dem Zeitpunkt die Lippen schürzt, an dem auf der guten Tonspur
-"o" zu hören ist und keine Verschiebung auftritt, wie bei einer schlechten
-Raubkopie.  Das ist eine unglaublich nervige Fitzelei, die man nie ganz genau
-hinbekommt, aber genau hier kommt die Tafel zum Einsatz: Am Anfang der
-Filmszene klappt der Balken auf die Tafel, und auf der Tonspur hört man das
-zugehörige Schnackelgeräusch, in der Schneidesoftware auch grafisch als Spitze
-dargestellt - und zack!, kann man beide Spuren so verschieben, dass die
-Tonspitze mit dem Bild des zuschnappenden Balkens übereinstimmt. Alles Folgende
-stimmt dann ebenso wie bei einer oscarreifen Hollywood-Produktion. Ich hab mir
-natürlich auch sofort auf Amazon so eine Schnackeltafel gekauft, kostete ja nur
-10 Dollar. Lustigerweise fand ich erst viel später heraus, dass die
-Schneidesoftware "Final Cut Pro" einen Video-Track mit schlechtem Audio
-automatisch mit einem separaten per Mikro aufgenommenen Audiotrack
-synchronisieren kann. Was heutzutage alles geht!
+Next, a movie editor must piece the film together so that the actor puckers his
+lips at exactly the moment the "o" sound is heard on the good audio track and
+there is no shift, as with a bad bootleg. This is an incredibly tedious task
+that you never quite get right by hand, but this is where the slate comes in: at the
+beginning of the film scene, the bar visually snaps on the slate and you hear the
+corresponding click sound on the audio track, also graphically represented as a
+spike in the editing software - and bam!, you can move both tracks so that the
+audio spike matches the image of the snapping bar. Everything else then matches
+up as with an Oscar-winning Hollywood production. Of course, I immediately
+bought a click slate on Amazon, it only cost 10 dollars. Funny enough, I only
+found out much later that the editing software "Final Cut Pro" can
+automatically synchronize a video track with bad audio with a separate audio
+track recorded by microphone. Times we live in, people!
+
+TODO
 
 @Z: Bald Trinkgeld im Supermarkt?
 
