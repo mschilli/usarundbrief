@@ -372,59 +372,55 @@ still tickling all taste buds.
 
 Following recommendations from colleagues at work, I ordered coffee beans online from luxury roasters like <LINK>https://www.littleowlcoffee.com|Little Owl Coffee</LINK> in Denver or <LINK>https://www.vervecoffee.com|Verve Coffee</LINK>, a hipster company in San Francisco. The problem with luxury coffee is that you quickly get used to better quality and suddenly regular coffee tastes like slop from a trucker's gas station. But hey, you only live once, life's too short to drink substandard coffee!
 
+@Z: Top Product: Mac Mini
+
+<pic images/mmini.ps Mike's Mac Mini, bolted under his desk.>
+
+<em>Michael</em> After a regular reader based in the Frankfurt area (name known to the editorial team) recently complained that I did not feature a
+"top product" in the last issue of the newsletter, I am quickly making up for
+it here. Recently, I got rid of the last two PC towers in our household and
+switched to Mac Minis, which practically don't need any space because you can
+drape them under the desk while the keyboard and monitor are on the desk.
+
+<pic images/mmini-upgrade.ps Cheap manual upgrade with more memory.>
+
+Since the memory upgrade was too expensive for me to buy new, I bought cheap
+32GB RAM sticks on Amazon and installed them myself. It was a hell of a fun to
+see the warranty of a newly bought computer go up in smoke! Additional disk
+space was also too expensive for me, so I bought cheap SSDs, plugged them in
+and secured them with a wire and two screws under the desk top. In Germany this
+would be called "Pfusch" ("botch"), but here in America it's quite normal:
+whatever works, as American say! By the way, the Mac Mini does have a built-in
+fan, but it's absolutely silent, even when the little all-rounder is pulling
+out all the stops when rendering videos. In my home office, you'll totally
+forget that a computer is running and it feels like being in a monastery. Top
+product!
+
+@Z: How I Make Youtube Videos
+
+<em>Michael</em> No doubt that Joe Sixpack can nowadays shoot videos with a cell
+phone camera and then upload them to YouTube, but if you look around the
+platform nowadays, you will mostly see professionally looking productions that
+can compete with television documentaries. Video bloggers no longer speak into
+simple webcams, but set up full frame cameras with high-quality lenses in video
+mode. The sound no longer comes from a cheap headset, but from a pretty
+expensive studio microphone, whose output is fed directly into a connected
+computer by a digital preamplifier.
+
+<pic images/fcp.ps This pretzel making video took quite some time to produce in Final Cut Pro.>
+
+Audio and video are thus separate, and your main actor often needs several
+attempts without too many "uhs" before getting it right, so it was worth
+investing in professional grade video editing software. I got the expensive and
+complicated Mac program "Final Cut Pro" at a discounted price directly from the
+factory. The program is very sophisticated, but at the same time so complicated
+to use that no normal person could make a 10-second video with it. Fortunately,
+there are thousands of videos on YouTube about how to use the hellish program
+without going crazy.
+
 TODO
 
-@Z: Topp-Produkt Mac Mini
-
-<pic images/mmini.ps Michaels unter den Tisch genagelter Mac Mini.>
-
-<em>Michael</em> Nachdem sich ein in der Region "Frankfurt und Umland" ansässiger
-Stammleser (Name ist der Redaktion bekannt) beschwert hat, dass ich in der
-letzten Ausgabe des Rundbriefs kein "Topp-Produkt" vorgestellt habe, hole ich
-dies hiermit schleunigst nach.  Letztens habe ich nämlich die letzten beiden
-PC-Tower der Wohnung entsorgt, und auf Mac Minis umgestellt, die praktisch
-keinen Platz mehr brauchen, weil man sie unter die Tischplatte drapieren kann,
-während Tastatur und Monitor auf dem Schreibtisch stehen.
-
-<pic images/mmini-upgrade.ps Mal schnell von Hand mehr Speicher eingebaut.>
-
-Da mir der aufrüstbare Speicher beim Neukauf zu teuer war, kaufte ich billige
-32GB-RAM-Riegel auf Amazon und baute sie eigenhändig ein. Ein Höllenspaß, bei
-einem neugekauften Rechner die Garantie verpuffen zu sehen!  Auch zusätzlicher
-Plattenplatz war mir zu teuer, also kaufte ich billige SSDs, stöpselte sie ein
-und befestigte sie mit einem Draht und zwei Schrauben unter der
-Schreibtischplatte. In Deutschland hieße so etwas "Pfusch", aber hier in
-Amerika ist das ganz normal: whatever works, wie der Amerikaner sagt! Übrigens
-hat der Mac Mini zwar einen eingebauten Lüfter, der ist aber absolut
-geräuschlos, auch wenn der kleine Tausendsassa beim Video-Rendern alle Register
-zieht. Im Büro vergisst man total, dass ein Computer läuft und kommt sich vor
-wie im Kloster. Topp-Produkt!
-
-@Z: Wie ich Youtube-Videos mache
-
-<em>Michael</em> Natürlich kann Otto Normalverbraucher mit der Handy-Kamera
-Videos drehen, und sie dann auf Youtube hochladen, aber wer sich heutzutage auf
-der Plattform umschaut, dem fallen meist professionell wirkende Produktionen
-auf, die Fernsehdokus in nichts nachstehen. Video-Blogger sprechen nicht mehr
-in simple Webcams hinein, sondern richten Spiegelreflex-Kameras mit hochwertigen
-Linsen im Video-Modus
-auf sich selbst. Der Ton kommt nicht mehr dünn aus dem Headset-Mikro,
-sondern einem ziemlich teuren Studio-Mikrofon, dessen Ausgabe ein digitalisierender
-Vorverstärker direkt in einen angeschlossenen Computer eingespeist.
-
-<pic images/fcp.ps Ein kompliziertes Brezelvideo in Final Cut Pro.>
-
-Bild und Ton liegen also getrennt vor, und euer Hauptdarsteller braucht mangels
-professioneller Fernsehausbildung oft mehrere Anläufe, bis ein Satz flüssig
-ohne allzu viele "äh"s im Kasten ist, also lohnt sich die Anschaffung einer
-Schneidesoftware.  Hierzu legte ich mir das sauteure und saukomplizierte Apple-Programm "Final
-Cut Pro" zu, natürlich, äh, vergünstigt direkt aus dem Fabrikverkauf. Das
-Programm ist schwer ausgefuchst, aber gleichzeitig so umständlich zu bedienen,
-dass kein normaler Mensch, den man davorsetzt, auch nur ein 10-Sekunden-Video
-damit anfertigen könnte. Zum Glück stehen auf Youtube, ohne Schmarrn, tausende
-von Videos darüber, wie man das Höllenprogramm bedient.
-
-<pic images/fit-console.ps (#1) Ein erfolgreiches Video mit 3000 Views.>
+<pic images/fit-console.ps (#1) A successful video with 3,000 views.>
 
 Dabei ist es erstaunlich, und im Voraus kaum abzuschätzen, wie gut selbstgemachte Videos
 auf Youtube ankommen. Die Präsentation meiner Backkünste dümpelt trotz aufwändigster
