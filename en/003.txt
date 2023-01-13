@@ -4,116 +4,78 @@ San Francisco, den 06-01-1997
 
 Hi there, friends!
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY> A few weeks have gone by and I'm finally
+<em>Angelika</em> A few weeks have gone by and I'm finally
 ready to start my third newsletter. Michael has been in San Francisco for a
 good six months now and I've been living here for almost five months. Despite
 this time, life is still new and exciting for us, and we still enjoy
 discovering the country and its people. We have also just overcome our first
 major crisis.
 
+@Z: Company in Financial Crisis
+
+Blaxxun, the company for which Michael works, has recently closed its office in
+San Francisco. But I have to give some background information, otherwise nobody
+will understand me.
+
+First of all, one must know that Blaxxun is funded by an American investor,
+both the office in Munich and the office in San Francisco. Since Blaxxun is a
+relatively new and small company and develops completely new software, the
+financial situation is not as secure as with global companies such as Siemens
+or Microsoft (Michael would now be pulling his hair out at my examples, since
+he is not exactly a fan of these companies). In plain language, this means that
+it needs to turn a profit at some point. Unfortunately, Americans are not
+currently interested in the things that Blaxxun develops; the Germans, however,
+are. So the American sponsor decided on the spot that the office in San
+Francisco would be closed and all his hopes would be placed on the office in
+Munich. The consequence is that all employees in San Francisco were dismissed
+on May 15th. For us, this would have meant that we would have had to pack our
+bags immediately (and I had just finished unpacking everything and hanging the
+pictures on the wall), since our residence permit and Michael's work permit are
+completely linked to the company America.
+
+<pic images/homeoff.ps Michael gives the evil eye because he was interrupted while working.>
+
+Now, you are probably wondering why we are still here. Don't worry, I'm getting
+to it, I just wanted to make it a bit exciting. So, we have just been
+incredibly lucky. Michael and his colleague Peter are the only ones still
+working for the American company. This is possible because the American
+headquarters still exists. The company in America now only has two employees
+instead of 30. The finances are secured until the beginning of 1998, but since
+there are some projects running in Germany, it is very likely to be even
+longer. So, if you were paying close attention, you are probably wondering
+where Michael is working now since there is no office in San Francisco anymore.
+The office is now, so to speak, in our apartment, i.e. Michael is working from
+home. You can imagine it like this: in our bedroom there is a huge desk with
+two computers and an additional laptop. I really hope that we don't get in each
+other's way in our small apartment, but as long as we can stay here and I don't
+have to play Michael's secretary, I'm fine with it.
+
+Michael will now calmly wait out the situation. Everyone of course hopes that
+the company will make a big breakthrough. But if the situation continues to
+worsen, Michael will try to find a new job here in San Francisco. That is
+not easy though. There is plenty of work, but a new company would have to
+obtain a new work permit for Michael, which can take two months. An American
+company is usually used to the new employee being able to start immediately due
+to the lack of notice periods. It doesn't help that Michael has already worked
+here. The case would be treated completely new again. Long live bureaucracy!!!!
+
+I hope you were able to follow my somewhat lengthy explanations and for those
+who found my explanations too long, I will quickly write Michael's brief
+summary of the situation: "Everything remains the same, except now I can even
+work from my bed!"
+
+Despite having more luck than sense in hindsight, the situation was still quite
+stressful. The problem is that you can lose everything along with your job
+here, health insurance being the most critical part. As a foreigner, Michael
+wouldn't have been able to get unemployment benefits anyway, and even for
+Americans it's barely enough to get by. We really wouldn't have had any other
+choice than to go back to Germany, and we didn't want to do that because we had
+just settled in. A sure sign that we had become real Californians is, for
+example, that we had already slept through the last minor earthquake of
+magnitude 3.4 and only heard about it because my friend Sylvi called in a state
+of excitement to ask if we had noticed anything and if we were all right.
+
 TODO
-
-@Z: Finanzkrise in der Firma
-
-<CONFIDENTIAL>Blaxxun, das ist die</CONFIDENTIAL><HTMLONLY>Die</HTMLONLY> 
-Firma für die Michael 
-arbeitet, hat nämlich gerade ihr Büro in San Francisco 
-geschlossen. Aber ich muss dafür etwas weiter ausholen, 
-sonst versteht mich ja kein Mensch.
-
-Zunächst einmal muss man wissen, dass 
-<CONFIDENTIAL>Blaxxun</CONFIDENTIAL><HTMLONLY>die Firma</HTMLONLY> durch 
-einen amerikanischen Geldgeber finanziert wird, und zwar 
-sowohl das Büro in München als auch das Büro in San 
-Francisco. Da <CONFIDENTIAL>Blaxxun</CONFIDENTIAL><HTMLONLY>es</HTMLONLY> 
-eine relativ neue und kleine Firma 
-ist und ganz neue Software entwickelt, ist die Finanzlage 
-nicht so krisensicher wie bei Weltfirmen wie z.B. Siemens 
-oder Microsoft (Michael würde sich bei meinen Beispielen 
-jetzt die Haare raufen, da er nicht gerade ein Fan dieser 
-Unternehmen ist). Im Klartext heißt dies, dass irgendwann 
-auch etwas verkauft werden muss. Leider sind die 
-Amerikaner gerade nicht so interessiert an den Sachen die 
-<CONFIDENTIAL>Blaxxun</CONFIDENTIAL> <HTMLONLY>die Firma</HTMLONLY>
-entwickelt; dafür aber die Deutschen. So hat der 
-amerikanische Sponsor kurzerhand beschlossen, dass das 
-Büro in San Francisco geschlossen wird und alle seine 
-Hoffnungen auf das Büro in München gesetzt. Die 
-Konsequenz ist, dass zum 15. Mai alle Mitarbeiter in San 
-Francisco entlassen wurden. Für uns hätte das 
-eigentlich bedeutet, dass wir sofort unsere Koffer hätten 
-packen müssen (und ich hatte gerade erst alles richtig 
-ausgepackt und die Bilder an die Wand gehängt), da unsere 
-Aufenthaltsgenehmigung und Michaels Arbeitsgenehmigung ja 
-völlig an die Firma <CONFIDENTIAL>Blaxxun</CONFIDENTIAL> 
-Amerika gekoppelt sind. 
-
-<pic images/homeoff.ps Michael setzt dem bösen Blick auf, weil er beim Arbeiten unterbrochen wurde>
-
-Ihr fragt euch jetzt sicherlich zurecht, warum wir immer 
-noch hier sind. Keine Angst, ich komme gleich dazu, ich 
-wollte es nur etwas spannend machen. Also, wir haben 
-einfach unendliches Glück gehabt. Michael und sein Kollege 
-Peter sind die einzigen, die auch weiterhin für 
-<CONFIDENTIAL>Blaxxun</CONFIDENTIAL><HTMLONLY>die Firma</HTMLONLY>
-Amerika arbeiten. Dies ist deshalb möglich, weil der 
-amerikanische Firmensitz auch weiterhin besteht. Die Firma 
-in Amerika hat jetzt eben nur noch zwei Mitarbeiter und 
-nicht mehr 30. Die Finanzen sind bis Anfang 1998 gesichert, 
-da in Deutschland aber einige Projekte laufen werden, sehr 
-wahrscheinlich sogar länger. Ja, und wer jetzt ganz 
-aufmerksam beim Lesen war, wird sich fragen, wo Michael nun 
-arbeitet, wenn es doch gar kein Büro mehr gibt in San 
-Francisco. Das Büro befindet sich jetzt sozusagen in 
-unserer Wohnung, d.h. Michael arbeitet zu Hause. Man muss 
-sich das ungefähr so vorstellen, dass in unserem 
-Schlafzimmer ein riesiger Schreibtisch steht mit zwei 
-Computern und zusätzlich noch einem Laptop. Ich hoffe 
-sehr, dass wir uns in unserer kleinen Wohnung nicht ins 
-Gehege kommen, aber solange wir noch hierbleiben können 
-und ich nicht Michaels Sekretärin spielen muss, soll mir 
-alles recht sein. 
-
-Michael wird jetzt in Ruhe die Situation abwarten. Alle 
-hoffen natürlich darauf, dass 
-<CONFIDENTIAL>Blaxxun</CONFIDENTIAL><HTMLONLY>die Firma</HTMLONLY>
-den großen 
-Durchbruch schafft. Sollte sich die Situation aber 
-weiterhin verschlechtern, wird Michael versuchen, hier in 
-San Francisco etwas Neues zu finden. Das ist allerdings 
-nicht so einfach. Arbeit gibt es zwar genug, aber eine 
-neue Firma müsste für Michael eine neue 
-Arbeitsgenehmigung erwirken, was zwei Monate dauern kann 
-und eine amerikanische Firma ist in der Regel gewohnt, dass 
-der neue Mitarbeiter sofort anfangen kann, wegen der nicht 
-vorhandenen Kündigungsfristen. Es nutzt dabei auch gar 
-nichts, dass Michael hier schon gearbeitet hat. Der Fall 
-würde wieder völlig neu behandelt werden. Es lebe die 
-Bürokratie!!!!
-
-Ich hoffe, dass ihr meinen etwas umständlichen 
-Ausführungen folgen konntet und wem meine Erklärungen 
-einfach zu lang waren, dem schreibe ich schnell noch 
-Michaels Kurzfassung zum Stand der Dinge auf: "Es bleibt 
-alles beim Alten, nur dass ich jetzt sogar von meinem Bett 
-aus arbeiten darf!"
-
-Trotzdem wir im nachhinein betrachtet mehr Glück als 
-Verstand gehabt haben, war die Situation doch ziemlich 
-belastend. Das Problem ist nämlich, dass man hier mit 
-seiner Arbeit gleich alles verliert, d.h. z.B. die 
-Krankenversicherung. Als Ausländer hätte Michael
-sowieso keine Arbeitslosenunterstützung bekommen,
-und diese ist auch für Amerikaner mehr als 
-dürftig. Uns wäre wirklich nichts anderes 
-übriggeblieben, als nach Deutschland zurückzukehren und 
-das wollten wir auch nicht, weil wir uns gerade so richtig 
-eingelebt haben. Ein sicheres Zeichen, dass wir zu echten 
-Kaliforniern aufgestiegen sind, ist z.B. dass wir das letzte 
-kleinere Erdbeben der Stärke 3.4 bereits verschlafen haben 
-und nur davon erfuhren, weil meine Freundin Sylvia 
-ganz aufgeregt anrief, ob wir etwas gemerkt hätten und es 
-uns auch gutginge.
 
 @Z: Urlaub auf Kauai/Hawaii
 
@@ -159,7 +121,7 @@ eigenen College-Zeitung veröffentlicht worden sind. Wir
 hatten die Aufgabe, über unsere Träume zu schreiben. Ein 
 Text ist von mir und einer von einer Klassenkameradin aus 
 Nicaragua. Der Text von 
-<HTMLONLY>Maria</HTMLONLY><CONFIDENTIAL>Ana</CONFIDENTIAL>
+Maria
  zeigt auch gut, wie das Leben 
 hier als Immigrant sein kann und mit was für 
 unterschiedlichen Erfahrungen und Vorstellungen jeder 
@@ -167,8 +129,7 @@ einzene in die USA kommt.
 
 <pic images/cityc.ps Teilnehmer des Englischkurses am City-College>
 
-My Dream -- by 
-<HTMLONLY>Maria</HTMLONLY><CONFIDENTIAL>Ana</CONFIDENTIAL> B.
+My Dream -- by Maria B.
 
 A 15 year-old dating a U.S. citizien in Nicaragua? Oh, yes! 
 How we dream when we are 15! I had a yellow moon, shining 
@@ -208,8 +169,7 @@ General Education Degree, which I'm about to get.
 
 Den Text kann man ungefähr wie folgt übersetzen:
 
-Mein Traum -- von 
-<HTMLONLY>Maria</HTMLONLY><CONFIDENTIAL>Ana</CONFIDENTIAL> B.
+Mein Traum -- von Maria B.
 
 Eine Fünfzehnjährige, die mit einem 
 Amerikaner in Nicaragua ausgeht? Oh, ja! Was für Träume 
