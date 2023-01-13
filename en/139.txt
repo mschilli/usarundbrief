@@ -460,8 +460,6 @@ found out much later that the editing software "Final Cut Pro" can
 automatically synchronize a video track with bad audio with a separate audio
 track recorded by microphone. Times we live in, people!
 
-TODO
-
 @Z: Tipping at the Supermarket soon?
 
 <pic images/tartine.ps Why would a bakery sales clerk want to be tipped?>
