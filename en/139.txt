@@ -462,79 +462,75 @@ track recorded by microphone. Times we live in, people!
 
 TODO
 
-@Z: Bald Trinkgeld im Supermarkt?
+@Z: Tipping at the Supermarket soon?
 
-<pic images/tartine.ps Wieso will die Bäckereiverkäuferin auf einmal Trinkgeld?>
+<pic images/tartine.ps Why would a bakery sales clerk want to be tipped?>
 
-<em>Michael</em> Angefangen hat alles in kaffeeausschenkenden Ge\-schäfts\-lokalen,
-wo heutzutage flächendeckend sogenannte "Tip Jars" an der Kasse stehen.  Die
-wenigen Barzahler werfen, auch wenn sie als "To Go"-Kunden keinerlei
-Serviceleistung erhalten, als Münzen erhaltenes Wechselgeld dort hinein, wenn
-sie ihren Kaffee-Latte bezahlen. Aber wofür eigentlich? Für das Aufschäumen der Milch, das
-Eingießen des Kaffees, oder das Abkassieren?
+<em>Michael</em> It all started in coffee shops, where nowadays "tip jars" are
+ubiquitous at the checkout. Customers paying in cash, even if they receive no
+service for "to go" items, have been throwing their change into the jar when
+they're paying for their coffee latte. This is strange if you think about it.
+What is this "tip" for? For frothing the milk, pouring the coffee, or ringing
+up the purchase?
 
-Neulich war ich in unserem modischen neuen Fischladen um die Ecke, kaufte etwas
-rohen Thunfisch und zahlte mit Kreditkarte, schwupps kam mir ein Dialog auf dem
-Terminal entgegen, der fragte, ob ich lieber 15, 20 oder 25 Prozent Trinkgeld
-geben wolle. Schon wieder: Wofür eigentlich? Der Fischverkäufer hat nur das
-Stück Thunfish, auf das ich gezeigt habe, auf die Waage geworfen, den Preis
-eingetippt, den Fisch eingewickelt, das Etikett auf das Packerl mit dem Fisch
-gepappt und abkassiert.  Ich wählte natürlich eiskalt Null aus. Wieso sollte
-der trendige Fischverkäufer mehr verdienen als der Fischthekenmann im Supermarkt?
+Recently, I entered our new fancy neighborhood fish market around the corner,
+bought some raw tuna and paid with a credit card, and suddenly a dialogue came
+up on the terminal, asking if I wanted to give 15, 20 or 25 percent tip. Again:
+What for? The employee only threw the piece of tuna I pointed to on the scale,
+typed in the price, wrapped the fish, stuck the label on the packet with the
+fish and then rang it up in the register. Of course, I entered "no tip",
+although this seemed cold. But why should the clerk in a trendy fish store earn
+more than the fish counter man at the supermarket, who does exactly the same
+type of work?
 
-Trinkgeld wird vor allem in linken Hochburgen wie San Francisco mittlerweile
-als Almosen für Geringverdiener interpretiert. Der millionenschwere
-Internetfuzzi denkt: "Ach, der Kaffeeaufschäumer verdient ja nur 15 Dollar die
-Stunde, und ich bin stinkreich, also hau'n wir mal 'nen Dollar in die
-Trinkgeldbüchse, kost mich ja nix!". Was der großzügige linke Gutsherr freilich
-nicht bedenkt, ist, dass nicht jeder irres Einkommen von Technologieunternehmen
-in den Arsch geschoben bekommt. Was ist, wenn sich auch ein Bauarbeiter mal
-einen Kaffee gönnen möchte, überzahlt er dann auch mit einem Zehntel seines
-Stundenlohns, für eine Leistung, die eigentlich schon im Kaufpreis enthalten
-ist? Nur Fastfood-Restaurants wie McDonald's verbieten es den Angestellten
-übrigens generell, Trinkgeldbecher aufzustellen. 
+If you ask around, especially in left-wing strongholds like San Francisco, it
+turns out that "tip" is nowadays misconstrued as some form of donation for
+low-wage earners. The millionaire techie thinks, "Oh, the coffee frother at the
+coffee shop only makes $15 an hour, and I'm filthy rich, so let's throw a
+dollar in the tip jar, it won't even notice it!" What the generous left lord
+doesn't consider, however, is that not everyone receives crazy salaries from
+technology companies shoved up their ass. What if a construction worker wants
+to treat himself to a coffee, does he then pay with a tenth of his hourly wage
+for a service that is already included in the purchase price? It is worth
+noting that fast food restaurants like McDonald's generally forbid their
+employees to set up tip jars.
 
-Dabei scheint völlig unter den Teppich zu fallen, wofür das Trinkgeld
-eigentlich gezahlt wird: Als Extraleistung dafür, dass sich der Gast im
-Restaurant hervorragend bedient fühlt.  Zugegeben, es ist durchaus mit Arbeit
-für den Kellner verbunden, Gäste zügig nach ihren Wünschen zu befragen,
-vielleicht auch noch ein freundliches Gesicht dazu aufzusetzen, und vielleicht
-nicht ganz so angestrengt mit den Kollegen hinter dem Tresen zu ratschen, dass
-er seinen Beruf und die damit verbundenen Aufgaben dabei temporär völlig
-vergisst, wenn der Gast dezent seit zehn Minuten zum Bezahlen winkt. Mit dem Trinkgeld drückt der
-Gast beim Bezahlen dann seine Zufriedenheit mit der von der Bedienung
-gebotenen Serviceleistung aus. Fühlte er sich hervorragend umsorgt, rückt er
-auch mal 20% des Rechnungsbetrages als Belohnung dafür heraus. Und das sind
-nach Adam Riese bei in San Francisco nicht unüblichen Rechnungsbeträgen von 100
-oder 200 Dollar schon mal 20 oder 40 Dollar, und ein Kellner in einem normalen
-Restaurant verdient pro Stunde vielleicht 10 oder maximal 15 Dollar.
+What seems to be completely swept under the rug is what the tip is actually
+paid for: it is an extra gratuity paid by the guest, to express that they've
+felt served well at the restaurant. Admittedly, this often requires the waiter
+to put in some effort, like to quickly ask guests for their wishes when they
+arrive, perhaps even put on a friendly face, and maybe not chat so engaged with
+the colleagues behind the counter, getting carried away, and temporarily
+completely forgetting about their job and the associated tasks, including
+customers who have been patiently signalling their intention to receive the
+check for the last ten minutes. A guest that feels exceptionally well cared for
+will add 20% tip to the bill. In San Francisco, where the typical restaurant
+bill is around $100, sometimes even $200, this amounts to an extra of $20 of
+$40 for the waiter per table served, whose base salary is around $20 these
+days.
 
-Welche Motivation hätte ein Kellner wohl, sich anzustrengen, wenn das Trinkgeld
-mit 20% fest als Aufschlag auf die Rechnung verankert wäre, wie dies manche
-Restaurants hier in San Francisco schon probiert haben? Eine natürliche
-Reaktion wäre, die Serviceleistung auf das Niveau herunterzufahren, das vor
-vielen Jahren in Gaststätten der DDR geboten wurde. Jede mir bekannte
-Gaststätte in San Francisco, die dieses Experiment bislang versucht hat, musste
-über kurz oder lang wieder zum alten Verfahren zurückspulen, da die Gäste sich
-vollkommen verarscht vorkamen. Als Folge mieden viele von ihnen diese
-gespinnerten Lokalitäten, und schnabulierten sich statt dessen durch die
-Speisekarten der weniger weltfremden Konkurrenz.
+What motivation would a waiter have to work a bit harder if the tip was set at
+a fixed rate of 20% as an added charge to the bill, as some restaurants in San
+Francisco have already tried? A natural reaction would be to lower the service
+to the level offered in restaurants in East Germany many years ago. Every
+restaurant in San Francisco I know that has tried this experiment had to
+eventually go back to the old system, as customers felt cheated. And rightfully
+so, it's best to avoid such eccentric places and instead support those
+restaurants with traditional work ethic.
 
-Eine weitere interessante Frage wäre, warum zum Beispiel eine
-Kaffeeaufschäumerin in einem trendigen Café für ihre Arbeit mit Trinkgeld
-belohnt wird, aber eine Supermarktkassiererin bei diesem massiven Geldregen
-außen vor bleibt. Würde die sich nicht über 15 Dollar freuen, wenn sie einen
-Einkaufswagen mit 100 Dollar Warenwert abkassiert? Oder ein Postbote, der
-schwer schnaufend ein Amazon-Paket im Wert von 100 Dollar anschleppt, wieso
-bekommt der nicht 15 Dollar auf die Hand als Entlohnung? Ich habe übrigens vor
-vielen vielen Jahren mal als Postbote gearbeitet und es kam durchaus vor, dass
-mir mal jemand einen Zehner oder so zugesteckt hat. Hat mich immer sehr gefreut
-damals, und ich habe das nicht als Dauerzwangsabgabe verstanden, sondern als
-Ansporn, das nächste mal vielleicht nicht den Umschlag mit dem Fotoband in den
-übervollen Briefkasten zu knüllen, sondern statt dessen die Türklingel zu
-betätigen und das wertvolle Stück trotz Zeitverlust persönlich auszuhändigen.
-Geld regiert die Welt.
+Another interesting question would be why, for example, a coffee frother in a
+trendy cafe is rewarded with a tip for their work, while a supermarket cashier
+is left out of this massive money shower. Wouldn't a supermarket cashier be
+happy to receive a $15 tip if they checked out a shopping cart with a $100
+worth of goods? Or a postman, carrying an Amazon package worth $100, why
+doesn't he get a $15 tip as a reward? By the way, I worked as a postman many,
+many years ago and it was not uncommon that someone would slip me a tenner or
+something. I was always very pleased then, and I didn't interpret it as some
+form of mandatory levy, but rather as an incentive to next time maybe not
+crumple the envelope with the glossy calendar into the overflowing mailbox, but
+instead to ring the doorbell and hand over the valuable piece, despite the loss
+of time. Money rules the world.
 
-Grüße:
+Greetings:
 
 Angelika und Michael
