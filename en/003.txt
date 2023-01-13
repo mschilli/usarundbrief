@@ -1,20 +1,17 @@
-San Francisco, den 01.06.97
+San Francisco, den 06-01-1997
+
+<pic images/kauai.ps On the beach of Kauai/Hawaii>
+
+Hi there, friends!
+
+<HTMLONLY><I>(Angelika)</I></HTMLONLY> A few weeks have gone by and I'm finally
+ready to start my third newsletter. Michael has been in San Francisco for a
+good six months now and I've been living here for almost five months. Despite
+this time, life is still new and exciting for us, and we still enjoy
+discovering the country and its people. We have also just overcome our first
+major crisis.
 
 TODO
-
-<pic images/kauai.ps Am Strand von Kauai/Hawaii>
-
-Hallo, ihr Lieben!
-
-<HTMLONLY><I>(Angelika)</I></HTMLONLY>
-Nun sind schon wieder einige Wochen vergangen und ich will 
-endlich meinen dritten Rundbrief beginnen. Michael ist 
-jetzt bereits seit guten sechs Monaten in San Francisco und 
-ich lebe hier seit fast fünf Monaten. Trotz dieser Zeit 
-ist das Leben auch weiterhin neu und spannend für uns, 
-und es macht uns immer noch viel Spaß, Land und Leute zu 
-entdecken. Die erste größere Krise haben wir auch gerade 
-überstanden. 
 
 @Z: Finanzkrise in der Firma
 
