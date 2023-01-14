@@ -464,12 +464,12 @@ track recorded by microphone. Times we live in, people!
 
 <pic images/tartine.ps Why would a bakery sales clerk want to be tipped?>
 
-<em>Michael</em> It all started in coffee shops, where nowadays "tip jars" are
-ubiquitous at the checkout. Customers paying in cash, even if they receive no
-service for "to go" items, have been throwing their change into the jar when
-they're paying for their coffee latte. This is strange if you think about it.
-What is this "tip" for? For frothing the milk, pouring the coffee, or ringing
-up the purchase?
+<em>Michael</em> It all started in coffee shops, where "tip jars" are
+ubiquitous at the checkout. It's customary that cash paying customers, even if
+they receive no service for "to go" items, have been throwing their change into
+the jar when they're paying for their coffee latte.  This is strange if you
+think about it.  What is this "tip" for? For frothing the milk, pouring the
+coffee, or ringing up the purchase?
 
 Recently, I entered our new fancy neighborhood fish market around the corner,
 bought some raw tuna and paid with a credit card, and suddenly a dialogue came
