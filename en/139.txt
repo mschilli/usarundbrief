@@ -464,7 +464,7 @@ track recorded by microphone. Times we live in, people!
 
 <pic images/tip-screen.ps Retail customers paying by card are now confronted with this tip screen.>
 
-<em>Michael</em>Do you know what's the most successful newsletter article of
+<em>Michael</em> Do you know what's the most successful newsletter article of
 all time? It's called "What Germans Do Wrong in America"
 (<RBLINK>20000801#5</RBLINK>) and explains the correct tipping etiquette in
 America. Back then, 21 years ago, I was still upset that German tourists in the
