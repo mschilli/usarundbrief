@@ -462,14 +462,37 @@ track recorded by microphone. Times we live in, people!
 
 @Z: Tipping at the Supermarket soon?
 
-<pic images/tartine.ps Why would a bakery sales clerk want to be tipped?>
+<pic images/tip-screen.ps Retail customers paying by card are now confronted with this tip screen.>
 
-<em>Michael</em> It all started in coffee shops, where "tip jars" are
+<em>Michael</em>Do you know what's the most successful newsletter article of
+all time? It's called "What Germans Do Wrong in America"
+(<RBLINK>20000801#5</RBLINK>) and explains the correct tipping etiquette in
+America. Back then, 21 years ago, I was still upset that German tourists in the
+US often don't tip enough in restaurants, thus unfairly reducing the wages of
+the local work force. And to this day, according to Google Analytics, this
+treatise gets the most hits of the entire site.
+
+Nowadays, the problem has reversed itself, as there are hardly any German
+tourists anymore, but more and more brazen service businesses in San Francisco
+are demanding exorbitant amounts of tips. In the traditional tipping
+establishment, the restaurant, you'll be looked at in disbelief with raised
+eyebrows if you give the usual amount of 15%, as has been customary for
+centuries. The waiters, whose service performance has been visibly and steadily
+decreasing for for years, now want 20%, if not more! Anyone who now shouts
+"Inflation!" must repeat the percentage mathematics course of their elementary
+school years, because percentage values do not increase, only the corresponding
+amounts.
+
+<pic images/tip-jar.ps It all started with the tip jar.>
+
+It all started in coffee shops, where "tip jars" are
 ubiquitous at the checkout. It's customary that cash paying customers, even if
 they receive no service for "to go" items, have been throwing their change into
 the jar when they're paying for their coffee latte.  This is strange if you
 think about it.  What is this "tip" for? For frothing the milk, pouring the
 coffee, or ringing up the purchase?
+
+<pic images/tartine.ps Why would a bakery sales clerk want to be tipped?>
 
 Recently, I entered our new fancy neighborhood fish market around the corner,
 bought some raw tuna and paid with a credit card, and suddenly a dialogue came
@@ -481,6 +504,8 @@ although this seemed cold. But why should the clerk in a trendy fish store earn
 more than the fish counter man at the supermarket, who does exactly the same
 type of work?
 
+<pic images/nvb.ps Th bakery now asks for tips when you buy bread.>
+
 If you ask around, especially in left-wing strongholds like San Francisco, it
 turns out that "tip" is nowadays misconstrued as some form of donation for
 low-wage earners. The millionaire techie thinks, "Oh, the coffee frother at the
@@ -489,9 +514,25 @@ dollar in the tip jar, it won't even notice it!" What the generous left lord
 doesn't consider, however, is that not everyone receives crazy salaries from
 technology companies shoved up their ass. What if a construction worker wants
 to treat himself to a coffee, does he then pay with a tenth of his hourly wage
-for a service that is already included in the purchase price? It is worth
-noting that fast food restaurants like McDonald's generally forbid their
-employees to set up tip jars.
+for a service that is already included in the purchase price?
+
+It should be noted, though, that fast-food restaurants are the last holdout
+against this new tipping frenzy.  You will never find a tip jar at a
+McDonald's, Burger King, Wendy's, or In-N-Out Burger. I even read somewhere
+that the uniforms of McDonald's employees are intentionally made without
+pockets so that no tips can disappear into them.
+
+The insidious thing about the new behavior is that this "tip" at the credit
+card terminal often does not go into the pockets of the employees, but is at
+least partially retained by the operators of the store. So if someone thinks
+"Okay, I'm rich anyway, I don't care if I pay 20% more" they are signaling to
+the store that their prices are too low and customers would be happy to pay 20%
+more.  The rich show-off doesn't care if the store then raises the prices, but
+the clientele who already has to scrimp can then afford even less. So the
+originally naive-noble intention turns into the opposite: the millionaire
+socialist drives up prices for everyone, and his protégés in the working class
+actually suffer from the behavior of their supposed benefactor. The big-headed
+tip throwers should start thinking about that.
 
 What seems to be completely swept under the rug is what the tip is normally
 paid for: it is an extra gratuity paid by the guest, to express that they've
