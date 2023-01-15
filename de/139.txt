@@ -467,14 +467,36 @@ synchronisieren kann. Was heutzutage alles geht!
 
 @Z: Bald Trinkgeld im Supermarkt?
 
-<pic images/tartine.ps Wieso will die Bäckereiverkäuferin auf einmal Trinkgeld?>
+<pic images/tip-screen.ps Kaum zahlt man mit Kreditkarte, wollen viele Läden Trinkgeld.>
 
-<em>Michael</em> Angefangen hat alles in kaffeeausschenkenden Ge\-schäfts\-lokalen,
-wo heutzutage flächendeckend sogenannte "Tip Jars" an der Kasse stehen.  Die
+<em>Michael</em> Wisst ihr was der erfolgreichste Rundbriefartikel aller
+Zeiten ist? Er heißt "Was Deutsche falsch machen in Amerika"
+(<RBLINK>20000801#5</RBLINK>) und erläutert das korrekte Trinkgeldgebaren in
+Amerika. Damals, vor 21 Jahren, habe ich mich noch darüber aufgeregt, dass
+deutsche Touristen in den USA oft nicht genug Trinkgeld geben, und den
+Bedienungen der Lokalen damit ungerechtfertigt den Lohn kürzen. Und bis heute
+knallen laut Google Analytics auf dieses Traktat die meisten Treffer rein.
+
+Mittlerweile hat sich das Problem allerdings umgekehrt, da es kaum noch
+deutsche Touristen gibt, aber immer mehr dreiste Service-Betriebe in San Francisco
+immer horrendere Trinkgeldforderungen erheben. Im traditionellen
+Trinkgeldbetrieb, dem Speiselokal, wird man mittlerweile schon schief
+angesehen, wenn man nicht mehr die seit Jahrhunderten üblichen 15% gibt. Die
+Bedienungen, deren Serviceleistung seit Jahren proportional steil bergab geht, wollen
+heutzutage 20%, wenn nicht noch mehr! Wer jetzt "Inflation!" schreit, muss die
+Prozentmathematik der Grundschuljahre wiederholen, denn Prozentwerte erhöhen
+sich nicht, nur die entsprechenden Geldbeträge.
+
+<pic images/tip-jar.ps Mit dem Trinkgeldtopf fing alles an.>
+
+Angefangen hat alles in kaffeeausschenkenden Ge\-schäfts\-lokalen, wo
+heutzutage flächendeckend sogenannte "Tip Jars" an der Kasse stehen.  Die
 wenigen Barzahler werfen, auch wenn sie als "To Go"-Kunden keinerlei
 Serviceleistung erhalten, als Münzen erhaltenes Wechselgeld dort hinein, wenn
-sie ihren Kaffee-Latte bezahlen. Aber wofür eigentlich? Für das Aufschäumen der Milch, das
-Eingießen des Kaffees, oder das Abkassieren?
+sie ihren Kaffee-Latte bezahlen. Aber wofür eigentlich? Für das Aufschäumen der
+Milch, das Eingießen des Kaffees, oder das Abkassieren?
+
+<pic images/tartine.ps Wieso will die Bäckereiverkäuferin auf einmal Trinkgeld?>
 
 Neulich war ich in unserem modischen neuen Fischladen um die Ecke, kaufte etwas
 rohen Thunfisch und zahlte mit Kreditkarte, schwupps kam mir ein Dialog auf dem
@@ -485,6 +507,8 @@ eingetippt, den Fisch eingewickelt, das Etikett auf das Packerl mit dem Fisch
 gepappt und abkassiert.  Ich wählte natürlich eiskalt Null aus. Wieso sollte
 der trendige Fischverkäufer mehr verdienen als der Fischthekenmann im Supermarkt?
 
+<pic images/nvb.ps Diese Bäckerei luchst den Kunden ohne Serviceleistung Trinkgeld ab.>
+
 Trinkgeld wird vor allem in linken Hochburgen wie San Francisco mittlerweile
 als Almosen für Geringverdiener interpretiert. Der millionenschwere
 Internetfuzzi denkt: "Ach, der Kaffeeaufschäumer verdient ja nur 15 Dollar die
@@ -494,8 +518,26 @@ nicht bedenkt, ist, dass nicht jeder irres Einkommen von Technologieunternehmen
 in den Arsch geschoben bekommt. Was ist, wenn sich auch ein Bauarbeiter mal
 einen Kaffee gönnen möchte, überzahlt er dann auch mit einem Zehntel seines
 Stundenlohns, für eine Leistung, die eigentlich schon im Kaufpreis enthalten
-ist? Nur Fastfood-Restaurants wie McDonald's verbieten es den Angestellten
-übrigens generell, Trinkgeldbecher aufzustellen. 
+ist? 
+
+Eisern resistent gegen diesen neuen Trinkgeldwahnsinn zeigen sich übrigens
+Fast-Food-Lokale.  Bei einem McDonald's, Burger King, Wendy's oder
+In\&Out-Burger wird man niemals einen Trinkgeldtopf finden. Ich habe sogar
+einmal irgendwo gelesen, dass die Uniformen der Mitarbeiter bei McDonald's
+absichtlich keine Taschen haben, damit kein Trinkgeld dort hinein verschwindet.
+
+Das Perfide an dem neuen Gebahren ist, dass dieses "Trinkgeld" am
+Kreditkartenterminal oft nicht in die Taschen der Angestellten wandert, sondern
+zumindest teilweise von den Betreibern des Ladens einbehalten wird. Wer also
+denkt "Okay, ich bin eh reich, mir ist das wurscht wenn ich 20% mehr zahle"
+signalisiert dem Laden, dass dessen Preise zu niedrig sind und auch 20% mehr
+drin währen. Dem reichen Protz ist das wiederum egal, wenn der Laden dann die
+Preise hochschraubt, aber die Klientel, die eh knausern muss, kann sich dann
+noch weniger leisten. So verkehrt sich die eigentlich naiv-noble Absicht ins
+Gegenteil: Der Millionärsozialst treibt die Preise für jedermann hoch, und
+seine Schützlinge in der Arbeiterklasse leiden tatsächlich unter dem Gebahren
+ihres vermeintlichen Wohltäters. Darüber sollten die auf dicke Hose machenden
+Trinkgeldschleudern mal nachdenken.
 
 Dabei scheint völlig unter den Tisch zu fallen, wofür das Trinkgeld
 eigentlich gezahlt wird: Als Extraleistung dafür, dass sich der Gast im
