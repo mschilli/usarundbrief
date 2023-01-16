@@ -75,28 +75,19 @@ example, that we had already slept through the last minor earthquake of
 magnitude 3.4 and only heard about it because my friend Sylvi called in a state
 of excitement to ask if we had noticed anything and if we were all right.
 
-TODO
+@Z: Vacation on Kauai/Hawaii
 
-@Z: Urlaub auf Kauai/Hawaii
+<pic images/strand.ps At the beach on Kauai.>
 
-<pic images/strand.ps Am Strand von Kauai>
-
-Nach diesen unsicheren und aufregenden Zeiten sind wir 
-deshalb ersteinmal kurzentschlossen für eine Woche nach 
-Hawaii geflogen. Wir hatten uns für die eine Woche die 
-Insel Kauai ausgesucht, da diese als nicht so touristisch 
-gilt. Und es war wirklich paradiesisch schön: lange weiße 
-Sandstrände, tolles Wetter, ein Ozean mit warmem Wasser 
-und guten Wellen, üppig grüne Vegetation, eine 
-phantastische Landschaft, ein nettes Hotel und freundliche 
-Insulaner. Michael hat sich natürlich im Surfen versucht, 
-ist aber doch an den Wellen gescheitert, was ihn besonders 
-frustriert hat, da die zwölfjährigen Jungs mit 
-Leichtigkeit die Wellen genommen haben. Ich war hingegen 
-froh, dass ich nicht David Hasselhof von Baywatch zum 
-Retten holen musste. Und ich sage euch, dass sah schon 
-manchmal ziemlich gefährlich aus, wenn Michael von den 
-Wellen herumgewirbelt wurde.
+After these uncertain and exciting times, we spontaneously decided to fly to
+Hawaii for a week. We had chosen the island of Kauai, as it is not so touristy.
+And it was really paradise: long white sand beaches, great weather, an ocean
+with warm water and good waves, lush green vegetation, a fantastic landscape, a
+nice hotel and friendly islanders. Michael of course tried surfing, but failed
+at the waves, which frustrated him especially since the twelve-year-old boys
+took the waves with ease. I, on the other hand, was glad that I didn't have to
+call David Hasselhof from Baywatch to rescue him. And I tell you, it sometimes
+looked pretty dangerous when Michael was thrown around by the waves.
 
 <pic images/canyon.ps Gebirgsformation auf Kauai: Der Waimea Canyon>
 
@@ -106,28 +97,20 @@ Wellen herumgewirbelt wurde.
 
 <pic images/strom.ps Auch auf Kauai: Stommast mit Landschaft>
 
-@Z: Immigranten-Gedanken
+@Z: Immigrant Musings
 
-Gestern ging übrigens mein erster Englischkurs mit einer 
-Party zu Ende. Und da in dem Kurs zu 95% Lateinamerikaner 
-sind, ging es richtig ab. Es wurde zu heißen Rhythmen 
-getanzt und keiner ist sitzengeblieben. Überhaupt hat mir 
-der Kurs nicht nur geholfen, Englisch zu lernen, sondern 
-ich habe wahnsinnig viel über andere Länder erfahren und 
-wie das Leben als Immigrant in den USA ist. Um euch eine 
-kleine Kostprobe davon zu geben, was wir in dem Kurs 
-gemacht haben, schicke ich euch zwei Texte mit, die in der 
-eigenen College-Zeitung veröffentlicht worden sind. Wir 
-hatten die Aufgabe, über unsere Träume zu schreiben. Ein 
-Text ist von mir und einer von einer Klassenkameradin aus 
-Nicaragua. Der Text von 
-Maria
- zeigt auch gut, wie das Leben 
-hier als Immigrant sein kann und mit was für 
-unterschiedlichen Erfahrungen und Vorstellungen jeder 
-einzene in die USA kommt.
+Yesterday my first English course ended with a celebration. Since 95% of the course
+participants were Latin Americans, it was quite a party! We danced to hot rhythms
+and nobody stayed seated. The course had not only helped me to learn English, but I
+also learned a lot about other countries and what life is like as an immigrant
+in the USA. To give you a small sample of what we did in the course, I'm
+sending you two texts that were published in our college newspaper. We had the
+task to write about our dreams. One text is from me and one from a classmate
+from Nicaragua. Maria's text also shows well how life can be here as an
+immigrant and with what different experiences and ideas everyone comes to the
+USA.
 
-<pic images/cityc.ps Teilnehmer des Englischkurses am City-College>
+<pic images/cityc.ps Participants of the English course at City College>
 
 My Dream -- by Maria B.
 
@@ -167,57 +150,9 @@ taking classes in Introduction to Computers and
 English as a second language, and I'm finishing my
 General Education Degree, which I'm about to get. 
 
-Den Text kann man ungefähr wie folgt übersetzen:
+And here's my text:
 
-Mein Traum -- von Maria B.
-
-Eine Fünfzehnjährige, die mit einem 
-Amerikaner in Nicaragua ausgeht? Oh, ja! Was für Träume 
-wir haben, wenn wir 15 sind. Ich hatte (in meinen Träumen) 
-einen gelben Mond, glänzende Sterne und rote Herzen im 
-Sinn. Ich hatte eine Ehe, einen weißen Gartenzaun, ein 
-rosa und bläulich gestrichenes Haus, einige Kinder, alle 
-Notwendigkeiten des Lebens. Es war egal wo -- hier in den 
-Vereinigten Staaten oder in Nicaragua. Ich hatte den 
-perfekten, liebevollen, hart arbeitenden Ehemann, das 
-perfekte, gut gepflegte Haus, die perfekten Kinder und das 
-perfekte Ich: Ehefrau, Mutter, Haushälterin. Ja, alles 
-dies ... Ein
-Traum! ... Nun, 
-ich heiratete diesen Windhund, bekam zwei Kinder. Nach 
-vielen Schwierigkeiten bekam ich heraus, dass meine 
-Schwiegermutter nicht mochte, was mit ihrem Sohn bisher 
-passiert war (der 48 Jahre alt war zu diesem Zeitpunkt). 
-Nun ja, es gab keinen Schritt zurück. Er brachte uns nach 
-San Francisco- zwei kleine Mädchen und mich. Ich war zu 
-diesem Zeitpunkt fast 18. Meine erste Adresse war das Haus 
-seiner Mutter. Es war die reine Hölle: Eine 
-besitzergreifende Mutter, die nicht den geringsten Wunsch 
-hatte, ihren Sohn mit jemandem zu teilen und einen Mann, 
-der jedes kleine Stück dieser Beziehung genoss und eine 
-Situation, die meinen Kindern und mir verhängnisvolle 
-Folgen einbrachte, weil der Mann sich mehr um seinen 
-Egozentrismus kümmerte als um die Familie, die er 
-geschaffen hatte. Meine Kinder und ich gingen fast unter in 
-dieser Manie von Eifersucht und Selbstsucht zwischen diesen 
-beiden Menschen. Nun, heute -- 20 Jahre später -- sind meine 
-Kinder am Leben, verheiratet, jedes hat zwei eigene Kinder. 
-Meine Tochter und ich kämpfen immer noch mit den 
-schmerzhaften Folgen der Vergangenheit. Es entzweit uns, und
-das Ergebnis ist, dass ich meine Enkelkinder nicht sehen kann.
-Heutzutage sind meine Schmerzen gelindert worden durch den 
-Tod meiner Schwiegermutter und das Erwachsenwerden meiner 
-Kinder und die Erleichterung, dass ich das Beste getan
-habe, was mir möglich war. Nun, was mich betrifft, ich werde 
-wachsen. Ich bin in einem neuen Lebensabschnitt. Ich 
-mache einen Computereinführungskurs und den
-Englisch-Intensivkurs und ich beende mein G.E.D. (so etwas 
-ähnliches wie ein Hauptschulabschluss bei uns), das ich im 
-Begriff bin zu bekommen.
-
-Hier folgt nun mein Text:
-
-My Dream -- von Angelika Schilli
+My Dream -- by Angelika Schilli
 
 Thinking about a very special 
 dream of mine, a lot of different things come to my mind; 
@@ -245,40 +180,7 @@ to be a photographer has come true. I'm not a famous one,
 but I can enjoy my hobby every day, and the pictures I've 
 taken will always be a memory of my time in San Franciso.
 
-Und die Übersetzung lautet:
-
-Mein Traum -- von Angelika Schilli 
-
-Wenn ich über einen 
-besonderen Traum von mir nachdenke, kommen mir ganz 
-verschiedene Dinge in den Sinn, zum Beispiel, in einem alten 
-viktorianischen Haus am Strand zu wohnen, Medizin zu 
-studieren, ein berühmtes Buch zu schreiben oder eine 
-populäre Fotografin zu werden. Obwohl einige dieser 
-Träume sehr unrealistisch sind, ist es gut, sie zu haben, 
-weil vielleicht eines Tages ein Traum wahr werden wird. 
-Man weiß ja nie. So spiele ich gern mit meiner Phantasie; 
-wenn ich z.B. an den Strand gehe, schaue ich nach einem 
-netten Platz für mein Traumhaus. Wenn ich ein Buch lese, 
-denke ich an mein eigenes Buch. Aber am meistem möchte 
-ich eine Fotografin sein. Ich liebe es, Fotos zu machen; 
-so sieht man mich oft mit meiner Kamera herumschlendern, um 
-nach einem guten Motiv Ausschau zu halten. Es ist das Spiel 
-des Lichtes und der Farben, das mich fasziniert. Meiner 
-Meinung nach sagt ein Foto viel über die Gefühle der 
-Person aus, die das Foto gemacht hat. Das heißt, dass man 
-seine Gefühle mit Hilfe eines Fotos ausdrücken kann. Als 
-ich nach San Francisco gekommen bin, habe ich als erstes in 
-meinem neuen Stadtteil Fotos gemacht. Ich habe mit Hilfe 
-meiner Kamera viel über meine neue Umgebung gelernt. Für 
-mich ist San Francisco ein sehr guter Ort zum 
-Fotografieren. Es ist eine farbenfrohe Stadt mit 
-interessanten Menschen und dramatischen Ausblicken. So ist 
-in gewisser Weise mein Traum, eine Fotografin zu werden, 
-wahr geworden. Ich bin zwar keine berühmte, aber ich kann mein 
-Hobby jeden Tag genießen und die Fotos, die ich gemacht 
-habe, werden immer eine Erinnerung an meine Zeit in San 
-Francisco sein. 
+TODO
 
 @Z: Englisch sprechen und verstehen
 
