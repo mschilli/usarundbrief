@@ -47,124 +47,114 @@ either, so we just kept taking pictures from about 50 yards away. The animals
 seemed to be used to each other, yes, it looked like they simply met up every
 evening.
 
+@Z: Recalls Galore
+
+<pic images/boudin-wiki.ps San Francisco's District Attorney Chesa Boudin is facing a recall.>
+
+<em>Angelika</em> Our Governor Newsom narrowly escaped a recall recently. Nearly
+62% of California voters voted "no" on September 14th to his removal. The
+majority of the population probably did not want a political change in these
+turbulent times. However, there are still a few other eagerly awaited recall
+proceedings pending in San Francisco. Our District Attorney Chesa Boudin will
+most likely also have to face a recall procedure. The necessary signatures were
+submitted by the end of October and are now awaiting verification from the
+relevant authority.
+
+Boudin is a highly controversial person in our city. He has fanatic followers,
+but also just as many opponents who would like to drive him out of town. In the
+US, prosecutors are elected by the people, which may seem particularly
+democratic at first glance, but it has its pitfalls. This means that aspiring
+prosecutors have to campaign and, under certain circumstances, promise change
+in order to win voter votes that may later backfire when they're actually
+in office. There is also a tendency in the US to appoint flashy personalities
+to important positions without thoroughly thinking about whether these people
+are qualified for the position. For example, Boudin was a public defender, so
+he had experience in defending defendants, but not in prosecuting them.
+
+<pic images/sf-burglaries.ps Burglaries in San Francisco have increased significantly during Boudin's term.>
+
+Anyone who has ever seen a typical American courtroom TV series like "Law and
+Order" knows that investigating police work closely with the prosecutor's
+office to bring about an indictment, while the defense attorney represents the
+interests of the accused. Boudin, in a sense, switched sides, but that's not
+quite right either. Boudin wants to achieve reforms in the American criminal
+justice system and sees the position of prosecutor as more suitable for this
+than that of the defense attorney. He belongs to the group of
+so-called progressive prosecutors, which are currently en vogue in larger
+cities such as Chicago (Kim Foxx), Philadelphia (Larry Krasner) and Los Angeles
+(George Gascon). By the way, George Gascon was Boudin's predecessor before
+the former ran off to southern California under public pressure before the end
+of his term.
+
+No one disputes that the American criminal justice system, with its overcrowded
+prisons, high rate of wrongful convictions, and sometimes draconian
+punishments, is in need of reform. But how to achieve sensible reforms that are
+fair and don't lead to the reverse effect of rising crime statistics is a
+matter of much debate. In any case, Chesa Boudin's reform campaign in the
+liberal city of San Francisco received the necessary votes in the November 2019
+election and he has been in office since January 2020. He won by only a 3000-vote
+margin, to the dismay of the police union, against their favorite Suzy Loftus.
+
+<pic images/recall.ps A resident demands to recall the city's district attorney.>
+
+Boudin's life story is quite interesting. Both of his parents spent years in
+prison due to their involvement in the left-wing radical group "Weather
+Underground" which was founded at the University of Michigan in the late 1960s.
+During a robbery of a money transporter, in which members of the group and
+Boudin's parents were involved, two police officers and a security guard lost
+their lives. Boudin's mother received a prison sentence of 20 years, while his
+father's sentence was set to a minimum of 75 years. However, recently, the
+outgoing Governor of New York, Andrew Cuomo, allowed for a hearing to be held
+for Boudin's father, David Gilbert, to discuss his early release on parole.
+Last week, the responsible committee gave its approval. At the end of November,
+he will be released on parole after 40 years in prison. Boudin was only 14
+months old when his parents were arrested. He was then raised by the couple
+Bill Ayres and Bernardine Dohm, who were also close to the "Weather Underground
+Organization". Boudin can't be held responsible for the crimes of his parents,
+but the experience shaped him greatly. He often talks in interviews about what
+it was like for him as a child to visit his parents in prison.
+
+<pic images/boudin-burglary.ps This San Francisco resident reports two burglars in his apartment, which district attorney Boudin simply let go.>
+
+Boudin has come under criticism in San Francisco mainly because he is very
+lenient with repeat offenders and often is not willing to prosecute them,
+instead letting them off with probation. This has led to several tragic deaths.
+For example, at the end of December 2020, the multiple-convicted Troy Ramon
+McAlister killed two pedestrians when he was driving a stolen car, running them
+over at an intersection. He had been arrested in November and December for auto
+theft and drug offenses, but was immediately released, despite three prior
+convictions before 2015. Meanwhile, several prosecutors who worked for Boudin
+have thrown in the towel and also campaigned to start an impeachment procedure
+against their former boss. A judge in San Francisco also publicly expressed his
+dissatisfaction and in particular criticized the chaos under Boudin and the
+lack of willingness to do his job and prosecute criminals.
+
+<pic images/door-sign.ps Since thieves go unpunished, package theft has become a real problem..>
+
+Many people in San Francisco are now fed up with how casually the crime
+prevention official is dealing with crimes such as home and car break-ins, as
+well as shoplifting. These crimes have increased exponentially in San
+Francisco. Shoplifting is now so widespread here that supermarkets like Safeway
+are shortening their opening hours in the evening or drugstores like Walgreens
+are closing several branches after the shelves are emptied by thieves several
+times a day. Fairly, it must be mentioned that this situation is also related
+to the so-called Proposition 47. The voters in California voted in 2014 that
+theft of goods worth less than $950 is only to be considered a minor offense
+("misdemeanor") (<RBLINK>20160618#3</RBLINK>) and even reform-resistant repeat
+offenders do not have to go to prison.
+
+<pic images/chesa-sign-window.ps Occasionally, one can still see stubborn supporters of the soon-to-be-dismissed District Attorney.>
+
+If it comes to the removal of Boudin, it is not the voter who will determine
+who will be the new district attorney, but our mayor London Breed will appoint
+a new district attorney of her choice, who will then take over the
+responsibility of the removed DA until the end of their term.
+
+And that's not all. In the next newsletter I will report on who is to be
+removed from the school board in San Francisco. You see, things are quite
+lively around here!
+
 TODO
-
-@Z: Recalls am laufenden Band
-
-<pic images/boudin-wiki.ps San Franciscos Staatsanwalt Chesa Boudin steht ein Recall bevor.>
-
-<em>Angelika</em> Unser Gouverneur Newsom ist noch einmal mit dem Schrecken
-davon gekommen. Fast 62% der kalifornischen Wähler stimmten am 14. September
-mit "nein" zu seiner Abberufung. Die Mehrheit der Bevölkerung hatte in diesen
-unruhigen Zeiten wohl doch keine Lust auf einen politischen Wechsel. Allerdings
-gibt es noch ein paar weitere mit Spannung erwartete ausstehende
-Abberufungsverfahren in San Francisco. Unser Staatsanwalt ("District Attorney")
-Chesa Boudin muss sich mit größter Wahrscheinlichkeit auch einem
-Recallverfahren stellen. Die nötigen Unterschriften wurden zum Stichtag Ende
-Oktober eingereicht und warten nun auf die Verifizierung von der zuständigen
-Behörde.
-
-Boudin ist eine recht umstrittene Person in unserer Stadt. Er hat glühende
-Anhänger, aber auch genauso viele Gegner, die ihn am liebsten gleich aus der
-Stadt vertreiben würden. Staatsanwälte werden in den USA vom Volk gewählt, was
-auf ersten Blick vielleicht als besonders demokratisch erscheint, aber seine
-Tücken hat. Denn so müssen die potentiellen Staatsanwälte Wahlkampf betreiben
-und unter Umstände Dinge vertreten, um Wählerstimmen zu gewinnen, die später im
-Amt hinderlich sind. Auch besteht gerade in den USA die Tendenz, schillernde
-Persönlichkeiten in wichtige Positionen zu hieven, ohne eingehend darüber
-nachzudenken, ob diese Personen auch qualifiziert für den Posten sind. Boudin
-war zum Beispiel Pflichtverteidiger, hatte also Erfahrung in der Verteidigung
-von Angeklagten, aber nicht in deren Strafverfolgung.
-
-<pic images/sf-burglaries.ps Einbrüche in San Francisco sind während Boudins Amtszeit überdurchschnittlich angestiegen.>
-
-Wer schon einmal eine typische amerikanische Krimiserie wie zum Beispiel
-"Law and Order" gesehen hat, weiß, dass die ermittelnde Polizei eng mit der
-Staatsanwaltschaft zusammen arbeitet, damit es zu einer Anklage kommt,
-wohingegen der Verteidiger die Interessen des Angeklagten vertritt. Boudin
-wechselte sozusagen die Seiten, was aber auf zweiten Blick auch nicht ganz
-stimmt. Boudin möchte Reformen im amerikanischen Strafrechtssystem erreichen
-und sieht den Posten des Staatsanwalts dafür als mehr geeignet an als den des
-Verteidigers. Deshalb gehört er zu der Gruppe der sogenannten progressiven
-Staatsanwälte, die in den USA gerade in größeren Städten wie in Chicago (Kim
-Foxx), Philadelphia (Larry Krasner) und Los Angeles (George Gascon) im Trend
-liegen. George Gascon war übrigens Boudins Vorgänger, bevor er sich noch vor
-Ende seiner Amtszeit in den Süden Kaliforniens aufmachte. 
-
-Keiner bestreitet an sich, dass das amerikanische Strafrechtssystem mit seinen
-übervollen Gefängnissen, hohen Anteil an falschen Verurteilungen und teils
-drakonischen Strafen reformbedürftig ist. Aber wie man vernünftige Reformen
-erreicht, die fair sind und gleichzeitig nicht zum umgekehrten Effekt der
-steigenden Kriminalstatistiken führen, darüber gibt es viel Diskurs. Auf
-jeden Fall erhielt Chesa Boudin mit seiner Reformkampagne im liberalen San
-Francisco die nötigen Stimmen bei der Wahl im November 2019 und ist seit
-Januar 2020 im Amt. Er gewann allerdings nur mit 3000 Stimmen Vorsprung und
-setzte sich zum Entsetzen der Polizeigewerkschaft gegen deren Favoriten
-Suzy Loftus durch.
-
-<pic images/recall.ps Ein Bürger fordert, den amtierenden Staatsanwalt abzusetzen.>
-
-Boudins Lebenslauf ist recht interessant. Beide seiner Eltern saßen jahrelang
-im Gefängnis, weil sie der linken radikalen Gruppe "Weather Underground"
-angehörten, die Ende der 60er Jahre an der Universätät Michigan gegründet
-wurde. Bei einem Raubüberfall auf einen Geldtransporter, bei dem Mitglieder der
-Gruppe und auch Boudins Eltern beteiligt waren, kamen zwei Polizisten und ein
-Sicherheitsbeamter ums Leben. Boudins Mutter erhielt eine Gefängnisstrafe von
-20 Jahren, die Strafe seines Vaters war auf ein Minimum von 75 Jahren
-angesetzt. Allerdings erlaubte der scheidende Gouverneur des Bundesstaates New
-York Andrew Cuomo vor kurzem, dass eine Anhörung für Boudins Vater David
-Gilbert stattfand, um über seine vorzeitige Entlassung auf Bewährung zu
-beraten. Letzte Woche gab das dafür zuständige Gremium sein Okay. Ende November
-wird er nach 40 Jahren auf Bewährung aus der Haft entlassen. Boudin war
-übrigens erst 14 Monate alt, als seine Eltern verhaftet wurden. Ihn zog deshalb
-das Ehepaar Bill Ayres und Bernardine Dohm groß. Auch sie standen der
-"Weather-Underground-Organization" nahe. Nun kann Boudin nichts für die
-Straftaten seiner Eltern, aber die Erfahrung prägte ihn sehr. Er erzählt oft in
-Interviews, wie es für ihn als Kind war, seine Eltern im Gefängnis zu besuchen.
-
-<pic images/boudin-burglary.ps Dieser Herr berichtet von zwei Einbrechern in seine Wohnung, die Herr Boudin einfach wieder freiließ.>
-
-In der Kritik steht Boudin in San Francisco vor allen Dingen deshalb, weil er
-sehr lax mit Wiederholungstätern umgeht und oft nicht bereit ist, diese
-anzuklagen, sondern auf Bewährung frei lässt. Dies führte zu mehreren
-tragischen Todesfällen. Ende Dezember 2020 tötete zum Beispiel der mehrfach
-Vorbestrafte Troy Ramon McAlister zwei Fußgänger, als er mit einem gestohlenen
-Auto unterwegs war, weil er sie an einer Straßenkreuzung überfuhr. Er war
-bereits im November und Dezember verhaftet worden wegen Autodiebstahls und
-Drogendelikten, aber sofort wieder auf freien Fuß gesetzt worden, trotz drei
-vorherigen Verurteilungen vor dem Jahr 2015. Mittlerweile haben mehrere
-Staatsanwälte, die für Boudin arbeiteten, das Handtuch geworfen, und stimmten
-ebenfalls für das Abberufungsverfahren. Auch ein Richter in San Francisco
-machte seinem Unmut öffentlich Luft und bemängelte vor allen Dingen das Chaos
-unter Boudin und die mangelnde Bereitschaft, seinen Job auszuüben und
-Straftäter anzuklagen. 
-
-<pic images/door-sign.ps Seit Diebe straffrei ausgehen, ist Paketdiebstahl ein echtes Problem geworden.>
-
-Viele Leute in San Francisco haben es mittlerweile satt, wie lässig der
-Verantwortliche für Verbrechensbekämpfung mit Straftaten wie Einbrüchen in
-Häuser und Autos, sowie Ladendiebstahl umgeht. Diese Straftaten haben in San
-Francisco inflationär zugenommen. Ladendiebstahl ist mittlerweile so weit
-verbreitet hier, dass Supermärkte wie "Safeway" ihre Ladenöffnungszeiten abends
-verkürzen oder Drogeriemärkte wie der "Walgreens" gleich mehrere Filialen
-schließen, nachdem mittlerweile mehrmals am Tag die Regale von Dieben
-ausgeräumt werden. Fairerweise muss allerdings erwähnt werden, dass diese
-Situation auch mit der sogenannten Proposition 47 zusammen hängt. Die Wähler in
-Kalifornien stimmten nämlich 2014 dafür, dass Diebstahl von Waren im Wert von
-weniger als $ 950 nur noch als minderes Vergehen ("Misdemenor") zu bewerten ist
-(<RBLINK>20160618#3</RBLINK>) und selbst reformresistente Wiederholungstäter nicht
-ins Gefängnis müssen.
-
-<pic images/chesa-sign-window.ps Vereinzelt sieht man noch hartnäckige Anhänger des vielleicht bald abgesetzten District Attorney.>
-
-Falls es zur Abwahl Boudins kommen wird, bestimmt übrigens nicht der Wähler,
-wer neuer Staatsanwalt wird, sondern unsere Bürgermeisterin London Breed setzt
-einen neuen Staatsanwalt ihrer Wahl ein, der dann bis zum Ende der Amtsperiode
-des Abgesetzten dessen Verantwortung übernimmt.
-
-Und das ist noch nicht alles. Im nächsten Rundbrief werde ich darüber
-berichten, wer bei der Schulbehörde in San Francisco seines Amtes enthoben
-werden soll. Ihr seht, es geht kunterbunt zu bei uns!
 
 @Z: Zu Coronazeiten von USA nach Deutschland und zurück
 
