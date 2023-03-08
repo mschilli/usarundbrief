@@ -154,50 +154,46 @@ And that's not all. In the next newsletter I will report on who is to be
 removed from the school board in San Francisco. You see, things are quite
 lively around here!
 
+@Z: USA to Germany and Back, In Times of Corona
+
+<pic images/lh-2.ps A completely empty flight from San Francisco to Munich.>
+
+<em>Michael</em>Since we have had the dubious pleasure of flying back and forth
+between the US and Germany several times in the last few months, I wanted to
+quickly explain what bureaucratic hurdles have to be overcome nowadays due to
+Corona.
+
+Anyone flying from the US to Germany currently must present an immunization
+certificate to the airline before departure. Additionally, German customs
+requires registration <LINK>https://einreiseanmeldung.de|einreiseanmeldung.de|here</LINK>.
+The traveler must present a printed document upon entry. During the
+10-12 hour flight, the traveler must wear a mask the entire time. Medical masks
+are allowed, and some airlines even allow cloth masks. The mask can be removed
+while eating or drinking. Different airlines enforce this differently,
+Lufthansa is very strict while United is more lax.
+
+In the opposite direction, from Germany to the USA, the Americans require the
+airlines to have passengers carry a printed or photographed copy of a negative
+result from a Corona rapid test on their phone, no older than three days. The
+time does not matter, so if the test was taken on Monday morning at nine
+o'clock, one can still fly on Thursday evening with it. The test can be booked
+relatively easily at pharmacies and test centers in Germany and is usually the
+only patient -- since the test costs real money, practically nobody does it in
+Germany anymore.
+
+<pic images/lh-3.ps Flying in times of Corona requires nerves of steel.>
+
+At German airports, there have been sporadic gate changes and hours of delays
+lately due to additional security checks, because passengers can't reach their
+gate on time. At Munich Airport, passengers going to San Francisco recently had
+to wait in line for over an hour before they were allowed to the gate to the
+USA. So it's important to stay calm. If the other people in the line are also
+on the same flight, the pilot will wait until everyone is on board, no matter
+how late it gets.
+
+<pic images/lh-1.ps Depending on the flight time, good deals can be found under certain circumstances.>
+
 TODO
-
-@Z: Zu Coronazeiten von USA nach Deutschland und zurück
-
-<pic images/lh-2.ps Ein fatzenleerer Flug von San Francisco nach München.>
-
-<em>Michael</em> Da wir in den letzten Monaten das zweifelhafte Vergnügen
-hatten, mehrmals zwischen den USA und Deutschland hin- und herzufliegen, wollte
-ich euch schnell erklären, welche bürokratischen Hürden hierzu heutzutage
-wegen Corona zu überwinden sind.
-
-Wer zur Zeit von den USA nach Deutschland fliegt, muss der Fluggesellschaft vor
-dem Abflug einen Impfnachweis vorlegen. Des weiteren verlangt der deutsche Zoll
-eine Anmeldung auf
-<LINK>https://einreiseanmeldung.de|einreiseanmeldung.de</LINK>, die bei der
-Einreise ausgedruckt (!) vorzulegen ist. Während des 10-12 Stunden langen
-Fluges muss der Reisende die gesamte Zeit eine Maske tragen. Medizinische
-Masken sind erlaubt, und bei einigen Fluggesellschaften sogar Stoffmasken.
-Während des Essens oder Trinkens darf die Maske abgenommen werden. Verschiedene
-Fluggesellschaften kontrollieren das unterschiedlich streng, Lufthansa ist sehr
-auf Zack, United eher luschig.
-
-In der umgekehrten Richtung, also von Deutschland in Richtung USA, verlangen die Amerikaner
-von den Fluggesellschaften, dass die Passagiere das negative Ergebnis eines
-Corona-Schnelltests ausgedruckt oder auch auf dem Handy als Foto mit sich
-führen, das nicht älter als drei Tage ist. Die Uhrzeit spielt keine Rolle, wer
-also den Test am Montag um neun Uhr morgens macht, darf auch am Donnerstag
-abend damit fliegen. Den Test kann man in Deutschland bei Apotheken und
-Testzentren relativ problemlos buchen und ist dann meist der einzige
-Patient -- seit der Test echtes Geld kostet, macht ihn in Deutschland
-praktisch niemand mehr.
-
-<pic images/lh-3.ps Fliegen in Zeiten von Corona erfordert Nerven wie Drahtseile.>
-
-An deutschen Flughäfen kommt es übrigens wegen zusätzlicher Kontrollen in
-letzter Zeit oft zu sporadischen Gate-Änderungen und stundenlangen
-Verspätungen, weil die Passagiere ihr Gate unverschuldet nicht rechtzeitig
-erreichen.  Am Münchner Flughafen mussten die Passagiere nach San Francisco
-neulich über eine Stunde in einer Schlange warten, bis sie ans Gate in Richtung
-USA durchgelassen wurden. Da heißt es, Ruhe zu bewahren. Wenn die anderen Leute
-in der Schlange ebenfalls auf den gleichen Flug wollen, wird der Pilot warten,
-bis alle an Bord sind, egal wie spät es wird.
-
-<pic images/lh-1.ps Je nach Flugzeit lassen sich unter Umständen gute Deals ergattern.>
 
 Teilweise sind die Flüge fatzenleer. Ich war neulich auf einem Lufthansa-Flug
 mit vielleicht 50 Passagieren, und das in einem Airbus 350-900, der 350 Leute
