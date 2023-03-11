@@ -77,26 +77,28 @@ Every ballot initiative ("Proposition") lists pros and cons, but anyone can writ
 
 In San Francisco, there is the relatively new politically motivated association <LINK>https://growsf.org/|GrowSF.org</LINK>, which, for example, publishes a voter guide that is quite useful. Sachin Agarwal founded GrowSF in 2020 with the goal of finding political solutions for San Francisco based on pragmatism and common sense. In general, it is simply impossible for voters to know all the facts. I can understand why some people are frustrated with the ballot paper chaos. This should be urgently reformed.
 
-TODO
+@Z: Point Buchon
 
-@Z: Point Buchon (translation: Point Buchon)
-
-<pic images/pb-birds.ps The way at Point Buchon leads along a picturesque coastal landscape.>
+<pic images/pb-birds.ps The hike at Point Buchon leads along a picturesque coastal landscape.>
 
 <em>Michael</em>
-At the end of November, we took a week of vacation and drove down to Cayucos near San Luis Obispo. We stayed in an AirBnb, and I got to go surfing. We also did a lot of hiking and one day stumbled upon a path that presented some surprisingly high bureaucratic hurdles: First, we tried to get to the coastal landscape from the south side via Avila Beach, but were informed that the path went through private property of the California energy producer PG&E, so we couldn't just park at the entrance and then hike, but had to take a tour bus onto the property and then follow a company-owned tour guide. So then we tried it from the north side. There we encountered a locked gate with a sign that said that PG&E allows up to 250 hikers on the trail on all days except Tuesdays and Wednesdays. Since it was Wednesday, and Thursday was a holiday, we came back on Friday morning and were allowed to a hut.
+At the end of November, we took a week of vacation and drove down to Cayucos near San Luis Obispo. We stayed in an AirBnb, and I got to go surfing. We also did a lot of hiking and one day stumbled upon a path that presented some surprisingly high bureaucratic hurdles: First, we tried to get to the coastal landscape from the south side via Avila Beach, but were informed that the path went through private property of the California energy producer PG&E, so we couldn't just park at the entrance and then hike, but would have had to take a tour bus onto the property and then follow a company-owned tour guide. Instead, we tried it from the north side. There we encountered a locked gate with a sign that said that PG&E allows up to 250 hikers on the trail on all days except Tuesdays and Wednesdays. Since it was Wednesday, and Thursday was a holiday, we came back on Friday morning and were allowed in and proceed to a hut.
 
-<pic images/pb-closed.ps On Tuesdays and Wednesdays the way is blocked.>The path at Point Buchon goes five kilometers along the coast.
+<pic images/pb-closed.ps On Tuesdays and Wednesdays the area is closed. The path at Point Buchon goes five kilometers along the coast.>
+<pic images/pb-map.ps The hike near Point Buchon leads five kilometers along the coast.>
 
-There, we had to read a writing, on which it said that we had no liability claims, and then we were allowed to register ourselves on a list and wander off. The path went along the coast, where huge waves against steep walls and rock formations in the water rattled so that it foamed. Thousands of breeding birds gathered on rocks in the water. In the air there was a hint of bird droppings and horse manure, because apparently horse enthusiasts also ride on this path.
+There, we had to read a printout, which said that we had no liability claims against PG&E, and then we were allowed to register ourselves on a list to wander off. The path went along the coast, where huge waves rattled against steep sea walls and rock formations, producing lots of foam. Thousands of breeding birds gathered on rocks in the water. In the air there was a hint of bird droppings and horse manure, because apparently horse enthusiasts also ride on this path.
 
 <pic images/pb-rocks.ps The rock formations in the water are worth seeing.>
 
-After about five kilometers we came across a farm with a small herd of cows, marched through it, and the beautiful path was at an end. That is to say, we could have gone much further, but there were signs everywhere indicating that the paths were private roads of the ranch, whose entry was prohibited. And we couldn't believe our eyes: We saw two dome-shaped domes in the distance, and a sign indicated that these were the cooling towers of the nuclear power plant "Diablo Canyon" located in a uniquely picturesque landscape.
+After about five kilometers we came across a farm with a small herd of cows on a grass field, marched through it, and the beautiful path abruptly came to an end. That is to say, we could have gone much further, but there were signs everywhere indicating that the paths were private roads of the ranch, whose entry was prohibited. And we couldn't believe our eyes: We saw two dome-shaped domes in the distance, and a sign indicated that these were the cooling towers of the nuclear power plant "Diablo Canyon" located in a uniquely picturesque landscape.
 
-<pic images/pb-windy.ps At the end of the road one can see the Diablo Canyon nuclear power plant.>The cooling towers of the nuclear power plant loom in the coastal landscape.
+<pic images/pb-windy.ps At the end of the road one can see the Diablo Canyon nuclear power plant.>
+<pic images/pb-dc.ps The cooling towers of the nuclear power plant loom in the coastal landscape.>
 
-Further research revealed that the <LINK>https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant|AKW Diablo Canyon</LINK> first went online in 1987 and has supplied about 8.6% of California's electricity to date. Although there were some concerns about the approval of the construction due to its location in an earthquake-prone area and right on the Pacific, which could expose it to incoming tsunami waves. Allegedly, however, PG&E will shut down the reactors in 2024/2025 because the operation is no longer profitable due to state regulations and California is focusing on green energy. Here you can learn something new!
+Further research revealed that the <LINK>https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant|Diablo Canyon Nuclear Power Plant</LINK> first went online in 1987 and has supplied about 8.6% of California's electricity to date. Although there were some concerns about the approval of the construction due to its location in an earthquake-prone area and right on the Pacific coast, which could expose it to incoming tsunami waves. Allegedly, however, PG&E will shut down the reactors in 2024/2025 because the operation is no longer profitable due to state regulations and California is focusing on green energy. Here you can learn something new!
+
+TODO
 
 @Z: What does electricity cost in America?
 
