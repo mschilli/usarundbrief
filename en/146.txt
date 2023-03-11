@@ -98,8 +98,6 @@ After about five kilometers we came across a farm with a small herd of cows on a
 
 Further research revealed that the <LINK>https://en.wikipedia.org/wiki/Diablo_Canyon_Power_Plant|Diablo Canyon Nuclear Power Plant</LINK> first went online in 1987 and has supplied about 8.6% of California's electricity to date. Although there were some concerns about the approval of the construction due to its location in an earthquake-prone area and right on the Pacific coast, which could expose it to incoming tsunami waves. Allegedly, however, PG&E will shut down the reactors in 2024/2025 because the operation is no longer profitable due to state regulations and California is focusing on green energy. Here you can learn something new!
 
-TODO
-
 @Z: What does electricity cost in America?
 
 <pic images/pge-bill.ps In September 2022 our electricity bill was 108.18 Dollars.>
@@ -107,58 +105,54 @@ TODO
 <em>Michael</em>
 You in Germany have been taken pretty much to task lately when it comes to household costs for electricity and gas. Let's compare: How much do citizens in America pay for energy supply for their private households? To make a long story short, we paid 108 dollars for 400 kilowatt hours in September, that's about 27 cents per kilowatt hour. But, as you can imagine, electricity prices vary greatly by state, our informant in Florida recently told us that he paid only 133 dollars for 811 kWh there, almost half, 14 cents per kWh.
 
-As already discussed at this point (<RBLINK>20170507#3</RBLINK>), our electricity in the San Francisco Bay Area comes from a private company called PG&E, or "Pacific Gas and Electric", which has a monopoly on electricity within several hundred kilometers. Now PG&E is a pretty shady company that keeps getting into one crisis after another. Their power lines spark and cause forest fires, and so PG&E sometimes just shuts off the power in rural areas with a lot of forest during the summer. PG&E runs such outdated and totally dilapidated infrastructure that it can't meet the energy needs of the Bay Area when everyone turns on their appliances, it all collapses. This is evident in the summer when the residents of the hot Silicon Valley cool their apartments with air conditioners all day. The supply breaks down and entire districts remain without electricity for days. As a precaution, PG&E simply turns off the electricity in some cities in the Silicon Valley in rotation with so-called "Rotating Outages". Just imagine, someone lives right next to the historic spot where the iPhone was invented and has no electricity for days, like in the third world. Of course, non-sick citizens can also live without air conditioning for a few days, but when the food in the refrigerator and freezer rots, the fun is over.
+As already discussed in a previous issue (<RBLINK>20170507#3</RBLINK>), our electricity in the San Francisco Bay Area comes from a private company called PG&E, or "Pacific Gas and Electric", which has a monopoly on electricity within several hundred kilometers. Now PG&E is a pretty shady company that keeps slipping from one crisis to another. Their power lines spark and cause forest fires, and so PG&E sometimes just shuts off the power in rural areas with lots of trees during the summer. PG&E runs such outdated and totally dilapidated infrastructure that it can't meet the energy needs of the Bay Area. When everyone turns on their appliances, it all collapses. This is evident in the summer when the residents of the hot Silicon Valley cool their apartments with air conditioners all day. The supply breaks down and entire districts remain without electricity for days. As a precaution, PG&E simply turns off the electricity in some cities in the Silicon Valley in rotation with so-called "Rotating Outages". Just imagine, someone lives right next to the historic spot where the iPhone was invented and has no electricity for days, like in the third world. Of course, able bodied citizens like ourselves can live without air conditioning for a few days, but when the food in the refrigerator and freezer starts rotting, the fun is over.
 
-<pic images/pge-delivery.ps (#1) Kilowatt prices are tiered according to consumption.>On the basic fee additional fees come again.
+<pic images/pge-delivery.ps (#1) Kilowatt prices are tiered according to consumption.>
+<pic images/pge-breakdown.ps (#2) Additional mystery fees are added to the basic rate.>
 
-PG&E encourages people to use less electricity so that the capacity for both large and small consumers is sufficient. As possibly the only private company in the world, PG&E even advertises for consumers to buy less of their product, electricity! For this reason, they also have tiered pricing. Those who consume more than the average pay higher kilowatt prices. We consume slightly more than the average and have made a deal that the electricity mix comes partly from renewable energy and we pay, on average, about 27 cents per kilowatt hour. How does this break down exactly?
+PG&E encourages people to use less electricity so that the capacity for both large and small consumers is sufficient. As possibly the only private company in the world, PG&E even advertises for consumers to buy less of their product, electricity! For this reason, they introduced tiered pricing. Those who consume more than the average pay higher kilowatt prices. We consume slightly more than the average household and have made a deal that the electricity mix comes partly from renewable energy and we pay, on average, about 27 cents per kilowatt hour. How does this break down exactly?
 
-In Figure (#1) you can see that we have consumed exactly 400 kWh in the example month, of which the electricity delivery (Delivery) for the first 225 kWh costs 24 cents/kWh and the remaining 175 kWh costs 30 cents/kWh. PG&E then deducts the "Generation Credit" of 47.01 dollars, but adds the "Power Charge Indifference Adjustment" and 25 cents "Franchise Fee Surcharge". The table "Your Electric Charges Breakdown" (Figure (#2)) tries to explain how these 75.12 dollars are composed, with all kinds of individual items that nobody understands. Apart from the fact that the amount was previously determined per kWh and here there are just fixed costs, but okay. Later the generation fee ("Generation Charge") is added, which amounts to 32.94 dollars with 400 kWh (Figure (#3)). Less the previously deducted "Generation Credit", mind you. In short: Nobody understands how the costs are composed, you just pay what is on the bill.
+In Figure (#1) you can see that we have consumed exactly 400 kWh in the example month, of which the electricity delivery (Delivery) for the first 225 kWh costs 24 cents/kWh and the remaining 175 kWh costs 30 cents/kWh. PG&E then deducts the "Generation Credit" of 47.01 dollars, but adds the "Power Charge Indifference Adjustment" and 25 cents "Franchise Fee Surcharge". The table "Your Electric Charges Breakdown" (Figure (#2)) tries to explain how these 75.12 dollars are composed, with all kinds of individual items that nobody understands. You also might be rightfully scratching your head over the fact that the amount was previously determined per kWh and here there are just fixed costs. Later, the generation fee ("Generation Charge") is added, which amounts to 32.94 dollars with 400 kWh (Figure (#3)). Less the previously deducted "Generation Credit", mind you. In short: Nobody understands how the costs are composed, you just pay what is printed on the bill.
 
-<pic images/pge-generation.ps (#3) The costs of generating electricity come on top.>
+<pic images/pge-generation.ps (#3) The cost of generating electricity comes on top of delivery.>
 
 We pay the monthly electricity bill not by direct debit, but traditionally by hand. Until a few years ago, Angelika opened the paper bill sent to us by PG&E by post, took out the checkbook and issued a check for the required amount, signed it, and sent it to PG&E in an envelope by post. At some point I found out that you can also transfer the amount by mobile app, and since then I have been responsible for doing this diligently every month.
 
 <pic images/pge-history.ps Our electricity bill, spread out over the year.>
 
-Since electricity apparently is not just any commodity, but a necessity without which nobody can live, PG&E does not simply cut off the electricity if one fails to pay a bill. I found this out by accident, because once I paid the bill, but only the "Delivery Charges" instead of the higher total amount. The lights stayed on! A month later, the next bill arrived and the missing amount had been added without comment. Muttering apologies under my breath, I paid as requested.
+Since electricity apparently is not just any commodity, but a necessity without which nobody can live, PG&E does not simply cut off the electricity if one fails to pay a bill. I found this out by accident, because at one time when I paid the bill, I made a mistake and only paid the "Delivery Charges" instead of the higher total amount. The lights stayed on! A month later, the next bill arrived and the missing amount had been added without comment. Muttering apologies under my breath, I paid as requested.
 
-Lately, the cost of electricity at our place even varies according to the time of day. According to the <LINK>https://www.cleanpowersf.org/tou|Table|Electricity Price by Time of Day</LINK> of the electricity provider, we pay higher kilowatt prices between 4:00 pm and 9:00 pm than during the rest of the day. That is probably the time window when many people in San Francisco turn on the stove to cook dinner. If you want to save, you have to cook after 9:00 pm or charge the Tesla!
+Lately, the cost of electricity at our place even varies according to the time of day. According to the <LINK>https://www.cleanpowersf.org/tou|Table|Electricity Price by Time of Day</LINK> of the electricity provider, we pay higher kilowatt prices between 4:00 pm and 9:00 pm than during the rest of the day. That is probably the time window when many people in San Francisco turn on the stove to cook dinner. If you want to save, you have to wait after 9:00 pm or to cook charge the Tesla!
 
-@Z: Durian-Smelly Fruit
+@Z: Durian Smelly Fruit
 
-<pic images/durian-3.ps The brave Stinkfruit tester.>
+<pic images/durian-3.ps The brave stinkfruit tester.>
 
 <em>Michael</em>
 It is well known that I do not shy away from any dish in the world, so it was only a matter of time before I had to try durian, the famous and infamous stinky fruit from Malaysia. My colleagues had been raving for years about the complex flavor journey that this fruit takes through the palate, and that American and European wimps could never get past the unappetizing smell. Of course, this was ridiculous - I try everything.
 
-<pic images/durian-costco-1.ps 27 dollars for 400g of Stinkfruit-Marks.>
+<pic images/durian-costco-1.ps 27 Dollars for 400g of stinkfruit pulp>
 
 Yes, you read that right, there are actually fruits in this world that smell unappetizing yet taste good. Anyone who has ever had a fine wine knows that the nose and palate can sometimes give contradictory judgments. This phenomenon is particularly pronounced with the durian fruit, which smells like onion scraps left in the trash can that has been forgotten for two days. Not exactly appetizing, but certainly not as vomit-inducing as many Youtube videos suggest, showing American tourists in theatrical poses on Malaysian fruit markets.
 
-<pic images/durian-costco-2.ps Conveniently, the juice had already been extracted from the fruit.>
+<pic images/durian-costco-2.ps Conveniently, the pulp has already been extracted from the fruit.>
 
-It happened that one day our megasupermarket Costco offered the already extracted and frozen mark for a bargain price of 27 dollars per 400g. Of course I had to strike. Bravely, I tried the freshly thawed mango-like pieces lying in the package. Of course, you have to ignore the smell of rotting onions, and you can't keep the fruit in the refrigerator without stinking up the whole apartment, even through double plastic bags the stench finds its way. The taste is ... interesting. Certainly mango-like, but also nutty, and also with a gasoline-like flavor, so you don't know if it really harmonizes with the digestive tract. And indeed, I tossed and turned a bit after consuming the fruit at night. Angelika also tried a piece, but she was remarkably restrained when it came to a second helping. Conclusion: You should try it, but honestly, I prefer a good ripe mango.
+It happened that one day our megasupermarket Costco offered already extracted and frozen durian pulp for a bargain price of 27 dollars per 400g. Of course I had to pull the trigger on that deal. Bravely, I tried the freshly thawed mango-like pieces lying in the package. Of course, you have to ignore the smell of rotting onions, and you can't keep the fruit in the refrigerator without stinking up the whole apartment, even through double plastic bags the stench finds its way. The taste is ... interesting. Certainly mango-like, but also nutty, and also with a gasoline-like flavor, so you don't know if it really harmonizes with the digestive tract. And indeed, I tossed and turned a bit after consuming the fruit at night. Angelika also tried a piece, but she was remarkably restrained when it came to a second helping. Conclusion: You should try it, but honestly, I prefer a good ripe mango.
 
-gegeben
-
-@Z: Top service: Posted on Sunday.
+@Z: Top service: Post Office open on Sundays
 
 <pic images/usps-noe.ps The post office in Noe Valley is even open on Sundays during the Christmas season.>
 
 <em>Angelika</em>
-The American Post often has to endure harsh criticism. The company's deficit is large and customer service, as expected from a bureaucracy, is slow and outdated. But before Christmas we were pleasantly surprised, because several post offices in San Francisco opened their counters on Sunday mornings before Christmas, so that customers could send their Christmas packages. I used this service twice and was amazed at how many people knew about it, even though it was hardly publicized. The people were enthusiastic and full of praise.
+The American postal service often has to endure harsh criticism. The company's deficit is huge and customer service, as expected from a bureaucracy, is often slow and hasn't gone with the times. But before Christmas we were pleasantly surprised, because several post offices in San Francisco opened their counters on Sunday mornings before Christmas, so that customers could send their Christmas packages. I used this service twice and was amazed at how many people knew about it, even though it was hardly publicized. Customers were enthusiastic and full of praise.
 
 @Z: Photo exhibition
 
 <pic images/aex.ps Angelika at her photo exhibition.>
 
 <em>Angelika</em>
-I have been part of a photography collective in San Francisco for decades. A highlight is always when we organize a group exhibition. This year in October it was time again. I showed two of my collages. The theme of the exhibition was "The New World". Sandra Phillips, who had worked for years as a curator in the photography department of the San Francisco Museum of Modern Art, chose the theme and <LINK>https://www.bapc.photo/the-new-world/|put together a show from our works|Angelika's Photo Show</LINK>. The theme was how the world has changed through Covid. The show was on view from October 22 to November 19 at a gallery of the <LINK>https://minnesotastreetproject.com|"Minnesota Street Projects"|"Minnesota Street Project"</LINK>, a conglomerate of various galleries under one roof, located in the so-called "Dogpatch" district in San Francisco. I designed my collages by cutting apart old photos I had taken and putting them back together.
+I have been part of a photography collective in San Francisco for decades. A highlight is always when we organize a group exhibition. This year in October it was time again. I showed two of my collages. The theme of the exhibition was "The New World". Sandra Phillips, who had worked for years as a curator in the photography department of the San Francisco Museum of Modern Art, chose the theme and <LINK>https://www.bapc.photo/the-new-world/|put together a show from our works|Angelika's Photo Show</LINK>. The theme was how the world has changed through Covid. The show was on display from October 22 to November 19 at a gallery of the <LINK>https://minnesotastreetproject.com|"Minnesota Street Projects"|"Minnesota Street Project"</LINK>, a conglomerate of various galleries under one roof, located in the so-called "Dogpatch" district in San Francisco. I designed my collages by cutting apart old photos I had taken previously and putting them back together.
 
-Greetings from San Francisco.
+Greetings from San Francisco
 
-sind zusammen.
-
-Angelika and Michael are together.
-
+Angelika and Michael
