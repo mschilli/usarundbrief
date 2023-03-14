@@ -36,26 +36,24 @@ To be submitted are the following documents: the "Application for Retention, For
 
 Once everything is complete, the bundle is sent by regular mail to the consulate. After a few weeks, we received an email confirmation, when the application was sent internally from the consulate in San Francisco to the authorities in Germany by diplomatic mail. From the time the application was sent until it was approved, a year and three months had passed for us. In the meantime, we received emails from the application processor in Osnabrück/Germany, and had to obtain some additional documents, have them certified, and send them in. Finally, we received confirmation by email and then by letter that a decision had been made on our application. To pick up the certificate, we then needed an appointment at the consulate, which we got two months later. The fun is not cheap either, as a fee of 255 euros is charged for each BBG certificate, and even if the application is rejected, 191 euros are due, according to paragraph 38 of the German Nationality Act called StAG. Incidentally, the approved retention is only valid for two years, if the U.S. naturalization takes longer, the BBG must be extended, again for a fee.
 
-TODO
-
 @Z: Application for Citizenship
 
 <em>Angelika</em>
-Getting an American Green Card can take years or even decades. But once you have the Green Card in your pocket, it is relatively easy to become an American citizen if you have led an unblemished life in the country and always paid your taxes faithfully. Here are the conditions that must be met before an application for American citizenship can be made:
+Getting an American Green Card can take years or even decades. But once you have the Green Card in your pocket, it is relatively easy to become an American citizen if you have led an unblemished life in the country and always paid your taxes in full. Here are the conditions that must be met before an application for American citizenship can be made:
 
 Ownership of the Greencard for at least 5 years (3 years if married to a US citizen).
 
 The applicant must be 18 years old.
 
-The residence must have been continuously in the US for the five-year period prior to the application. Trips or stays that last 6 months or longer are particularly problematic.
+The residence must have been continuously in the US for the five-year period prior to the application. Trips or stays in the last 6 months or longer are particularly problematic.
 
-The residence alone is not enough. The applicant must actually stay in the country for at least 30 months of the 5 years prior to the application.
+Having a residence is not enough. The applicant must actually stay in the country for at least 30 months of the 5 years prior to the application.
 
-One must be able to read, write, and speak English, with the requirements in this regard being low, and there being many exceptions, especially for older applicants.
+One must be able to read, write, and speak English, with the requirements in this regard being very relaxed, or even absent, especially for older applicants.
 
-Before applying, one must have lived in the same state for at least 3 months. This may seem strange to you, but where the residence is located determines where the application must go and which branch of the immigration office is responsible.
+Before applying, one must have lived in the same state for at least 3 months. This may seem strange to you, but where the residence is located determines where the application must be filed and which branch of the immigration office is responsible.
 
-Proof that one has led a morally upstanding life in the country.
+Proof that the applicant has led a morally upstanding life in the country.
 
 The ability to pass the citizenship test.
 
@@ -63,7 +61,11 @@ The willingness to swear an oath and defend the American Constitution.
 
 <pic images/uscis-form.ps The application for US citizenship can be submitted online.>
 
-If all conditions are met, we can get started. The application is to be made using form N-400. It's great that this can now be done online and only one form needs to be filled out. So we both created an account on the <LINK>Website of USCIS|https:/uscis.gov</LINK> (United States Citizenship and Immigration Services) and on the same evening that we held our retention certificate from the German consulate, we submitted the application. Of course there is still the possibility to send the paper application with the accompanying documents by post, but we would strongly advise against it. The application is divided into various parts: First the questions that check the personal data: So name, date of birth and country, address, email address, telephone numbers, nationality, green card number and since when you have it, gender, ethnicity / race (typical question in every American form), height and weight, eye color, hair color, employer, marital status, number of children. If the applicant is married like us, further typical questions follow: Date of marriage, date of birth, nationality and immigration status, address and employer of the spouse. Any previous marriages that ended in divorce must also be given. Whether the applicant's parents are American citizens is also to be answered with yes or no. If the applicant has American parents or an American parent, he or she may already have American citizenship automatically. Further questions are asked whether the applicant has ever served in the American military, as there are also simplified rules regarding American citizenship. And then we had to list how often and how long we were out of the country in the last 5 years.
+If all conditions are met, the process can begin. The application is to be filed using form N-400. It's great that this can now be done online and only one form needs to be completed. So we both created an account on the <LINK>https:/uscis.gov|USCIS Website (United States Citizenship and Immigration Services)</LINK> and only hours after we received our retention certificate from the German consulate, we submitted the application for US citizenship. Of course, there is still an option to send a paper application with the accompanying documents by regular mail, but we would strongly advise against it.
+
+The application is divided into various parts: First the questions to check the personal data: Name, date of birth and country, address, email address, telephone numbers, nationality, green card number and since when you've had it it, gender, ethnicity / race (typical question in every American form), height and weight, eye color, hair color, employer, marital status, number of children. If the applicant is married, like in our case, further typical questions follow: Date of marriage, date of birth, nationality and immigration status, address and employer of the spouse. Any previous marriages that ended in divorce must also be listed. Whether the applicant's parents are American citizens is also to be answered with yes or no. If the applicant has American parents or an American parent, he or she may already have American citizenship automatically. Further questions are whether the applicant has ever served in the American military, as there are also simplified rules regarding American citizenship. And then we had to list how often and how long we were out of the country in the last 5 years.
+
+TODO
 
 A question about personal information makes one suspicious: "Are you a male who lived in the United States at any time between your 18th and 26th birthdays?"[Are you a man, and have you lived in the US at any time between your 18th and 26th birthdays?] Behind this seemingly harmless question lies the fact that every man living in the US and of the specified age is required to register with the <LINK>https://www.sss.gov|"Selective Service System"</LINK>. This applies even to immigrants, even those who are in the country illegally. The system is intended for the case that a draft is declared in times of war. Interestingly, this only applies to men. Many, even American citizens, have no idea that they are actually required to register. If one had neglected to register as a green card holder, one would have to convince immigration officials that this was done unknowingly.
 
