@@ -299,32 +299,6 @@ Bei Ebay gab's das Teil für überschaubare $12.95 portofrei, und ich kann nun
 während der Aufnahme perfekt sehen, ob mein Kopf richtig im Bildausschnitt
 liegt, ganz ohne Kameramann.  Was für eine Arbeitserleichterung! Topp-Produkt!
 
-@Z: Gehwegkabel zum Elektroauto
-
-<pic images/ev-charge.ps Kann das Auto nicht an die Dose, kommt das Kabel zum Auto.>
-
-<em>Michael</em> Würde man aufmerksame Autofahrer in unserer Bay Area danach
-fragen, welche Automarke wohl am dominantesten auf den Straßen vertreten ist,
-käme "Tesla" wohl auf einen der vordersten Plätze. Und auch andere Elektroautos
-kauft der Kalifornier gern, dabei ist die in Deutschland so oft beklagte
-mangelhafte Flächendeckung mit Ladesäulen hier ebenfalls ein Problem. 
-
-<pic images/ev-array.ps Fotosammlung von EV-Kabeln auf unseren Stadtwanderwegen.>
-
-Doch das scheint die Ökos nicht zu stören, denn oft stellt der Arbeitgeber
-Ladesäulen bereit, die man während der Arbeitszeit nutzen darf, oder man lädt
-einfach daheim. Allerdings verfügen viele Häuser hier in San Francisco entweder
-über keinen Garagenplatz, oder die Garage ist voll mit Krempel vom letzten
-Umzug, oder die Leute haben mehr als ein Auto. So sieht man als Spaziergänger
-oft atemraubende Elektroinstallationen, bei denen ein Kabel aus dem Haus zu
-einem auf der Straße vor der Haustür geparkten Auto führt. Einmal sah ich sogar
-ein Kabel, das durch ein Fenster im ersten Stock über einen Baum herunter zum
-Rinnstein führte! Das ist natürlich alles illegal und gefährlich, und die über
-den Gehsteig drapierten dicken Kabel sorgen bei Rollstuhlfahreren oder
-Kinderwagenschiebern vielleicht für Verdruß, aber man sieht's überall.  Sicher
-finden die Bürokraten San Franciscos bald einen Weg, diese Elektroautofans
-kostenpflichtig abzumahnen, auf dass sich das leere Stadtsäckel wieder fülle!
-
 @Z: Corona doch noch erwischt
 
 <pic images/corona-test.ps Schockschwerenot: Zwei Striche auf dem Corona-Test.>
