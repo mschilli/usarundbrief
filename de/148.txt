@@ -148,8 +148,6 @@ den zur Abwechslung im Überfluss. Das führte aber gleich wieder zu erneuten
 katastrophenartigen Bedingungen, nämlich zu gewaltigen Überschwemmungen,
 Erdrutschen, umgestürzten Bäumen, Stromausfällen und Evakuierungen.
 
-<pic images/bernal-mud-slide.ps Schlamm, der vom Bernal-Hügel herunterrutschte.>
-
 In Kalifornien scheint sich immer alles im Extremen abzuspielen. Es war letzten
 Winter ungewöhnlich kalt, wie Michael schon in seinem Bericht über Shelter Cove
 erwähnte. Es schneite also nicht nur im Gebirge sondern auch in niederen
@@ -157,6 +155,8 @@ Gefilden. Da der durchschnittliche kalifornische Autofahrer schon bei normalen
 Regenfällen überfordert ist, brach bei den Winterstürmen das Chaos aus. Die
 Menschen in der Bay Area wurden geradezu angefleht, sich nicht in das Skigebiet am Lake Tahoe zu begeben, was normalerweise ein beliebtes Wochenendziel ist,
 denn die Schneemassen führten dort zu Straßensperrungen.
+
+<pic images/bernal-mud-slide.ps Schlamm, der vom Bernal-Hügel herunterrutschte.>
 
 Einige ganz Schlaue folgten blind Google Maps oder Waze, um diese Sperrungen zu
 umgehen, lernten aber ziemlich schnell, dass weder Google noch Waze wissen,
@@ -335,6 +335,85 @@ hatte ich überhaupt keinen Husten, während Michael sich von einer Hustenattack
 zur nächsten durchkämpfte.  Fünf Tage waren wir beide richtig krank und nach
 zwei Wochen war alles komplett überstanden. Nach ungefähr sieben Tagen war der
 Covidtest auch endlich wieder negativ und Weihnachten war gerettet.
+
+@Z: Zollerklärung bei der Einreise
+
+<pic images/airport-1.ps Nach der Landung geht's zur Einreisekontrolle.>
+
+<em>Angelika</em> Die letzten Male, die wir nach San Francisco, aus Deutschland
+eingeflogen sind, fiel uns auf, dass wir keine Zollerklärung mehr im Flugzeug
+ausfüllen mussten. Da wir immer allerhand Geraffel mit im Gepäck haben, wenn
+wir aus Deutschland kommen, und diese Sachen auf dem Formular aufzulisten sind,
+waren wir zunächst etwas verwirrt. Informationen gab es darüber natürlich keine
+im Flugzeug. Amerikafüchse unter euch wissen sicher, dass jeder, also Touristen,
+Greencardbesitzer, und auch amerikanische Staatsbürger bei Einreise in die
+USA das sogenannte Formular mit dem schönen bürokratischen Namen "CBP
+Deklaration Form 6059B" ausfüllen musste.
+
+Auf diesem mussten nicht nur Waren, die man ins Land brachte, aufgeführt
+werden, sondern der Reisende hatte auch eine Reihe von Fragen zu beantworten,
+wie zum Beispiel, ob man Lebensmittel im Gepäck hat oder auf einer Farm war.
+Die Frage nach Früchten, Gemüse und Fleischwaren im Gepäck war ebenfalls zu
+verneinen.  In der Regel nahm einem dann der Einwanderungsbeamte zunächst das
+Formular ab, haute, nachdem er sich das Formular angeschaut und vielleicht die
+ein oder andere Frage dazustellte hatte, einen Stempel auf dasselbige, und
+drückte es einem wieder zurück in die Hand. Eine beliebte Frage für
+Einreisende, die aus Deutschland kamen, war immer: "Haben Sie Wurstwaren
+dabei?" Dann holte man sein Gepäck und reichte auf dem Weg zum Ausgang einem
+weiteren Beamten das abgestempelte Formular wieder in die Hand.
+
+<pic images/nyt-kiosk.ps Auch die New York Times hat sich schon über die Kioske gewundert.>
+
+Die letzten Male aber war alles anders. Der Beamte, dem wir unseren Pass
+zeigten, fragte nur, ob wir etwas mitgebracht hätten aus Deutschland. Ich
+erwähnte dann einige Sachen und der Beamte war zufrieden mit meiner Antwort.
+Ich recherchierte dann ein wenig und fand heraus, dass die meisten Flughäfen in
+den USA sich wegbewegen von den Papierdokumenten. Im Stil der EU will man sich
+mehr auf stichprobenartige Zollkontrollen verlassen, z.B. durch Spürhunde an
+den Gepäcklaufbändern, die unerlaubte Waren erschnüffeln, dann ziehen Beamte
+die Betroffenen heraus und das inspizieren das Gepäck gründlich. Mir soll es
+recht sein. Denn bei uns muss stets ich die Formulare ausfüllen, und ich kann
+mir wirklich etwas Besseres vorstellen, als nach zig Stunden in einem engen
+Flugzeug nach einem Kuli zu kramen, um Papierkram zu erledigen. Allerdings
+scheint es immer noch Fluggesellschaften zu geben, die das Formular im Flugzeug
+verteilen. Wie gesagt, die Informationen sind dazu dürftig und beruhen nur auf
+Erfahrungswerten.
+
+Auch gibt es in San Francisco bei der Einwanderungsabfertigung am Flughafen die
+sogenannten 
+<LINK>https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html|Kioske|Kioske bei der Einreise</LINK>
+nicht mehr, die mich stets zum Wahnsinn getrieben haben bei der
+Einreise. Hinter dem Wort Kiosk verbarg sich ein Terminal mit Monitor, an dem
+man elektronisch über den Monitor die Fragen der Zollerklärung beantwortete und
+seine Greencard und den Pass scannte. Dies sollte angeblich die Abfertigung bei
+der Einreise beschleunigen, aber die Maschinen waren ziemliches Klump und
+scannten oft nicht gescheit oder nahmen die Dokumente aus unerklärlichen
+Gründen nicht an. Daraufhin wurde der Beamte, den man nach den Kiosken
+aufsuchte, oft recht ungehalten, weil er dadurch Mehrarbeit hatte. Ganz zu
+schweigen davon, dass ich dann ein paar mal in der Schlange stehend doch wieder
+ein Papierzollformular auszufüllen hatte, weil die Kioske nicht funktionierten.
+
+Neuerdings verlässt man sich auf allen internationalen amerikanischen Flughäfen
+auf Gesichtserkennung. Bei der Einreise, wenn der Pass zu zeigen ist, macht der
+zuständige Beamte ein Foto vom Gesicht, das dann mit den biometrischen Daten im
+Pass abgeglichen wird. Ein Foto wird vom jedem geschossen, der über 14 Jahre
+alt ist, also auch von amerikanischen Staatsbürgern. Hat man einen
+amerikanischen Pass, wird das Foto angeblich innerhalb von 12 Stunden aus der
+Datenbank wieder entfernt, während bei Einreisenden ohne amerikanischen Pass
+das Foto in die biometrische Datenbank der amerikanischen Behörde "Homeland
+Security" geht.  Angeblich können amerikanische Staatsbürger das Foto ablehnen.
+Allerdings bleibt im Dunkeln, was dann passiert.
+
+Und noch etwas verschwindet langsam durch die Digitalisierung: Der Stempel im
+Pass, den ausländische Einreisende bei der Einreise in die USA erhielten,
+braucht es in den meisten Fällen nicht mehr. Dieser gab an, wo man
+amerikanischen Boden betrat, in welcher Klasse der Reisende Einlass erhielt
+(zum Beispiel als Tourist) und wie lange der Aufenthalt im Land gewährt wurde.
+Unsere alten Pässe haben viele Seiten mit diesen Stempeln. Das Klackern der
+Stempel war das vertraute Geräusch, wenn wir in der Schlange bei den
+Einwanderungsschaltern am Flughafen standen. Schade eigentlich, denn auch
+andere Länder eliminieren die Einreisestempel. Ich habe noch einen uralten
+Reisepass mit DDR-Einreisestempeln. Ein wahrlich historisches Dokument.
 
 @Z: Nanny-State Kalifornien
 
