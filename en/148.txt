@@ -72,33 +72,60 @@ traffic chaos.
 <pic images/sc-lighthouse.ps The lighthouse of Shelter Cove is next to a campsite.>
 <pic images/sc-brummi.ps Remote coastal road north of Shelter Cove.>
 
-TODO
-
-The only road connecting back to civilization was temporarily closed due to storm damage, and no one could get down to ShelterCove or up to the civilization of Northern California. The only business in town had only one server the next day, who pointed out that the fish dishes on the menu were unfortunately not available due to lack of fresh fish. And when I ordered a burger, I was told that I could have avocado on it but unfortunately no bacon, as that was also out. We like it rustic!
+The only road connecting Shelter Cove to civilization was temporarily closed
+due to storm damage, and no one could get down to ShelterCove or back up to
+Garberville on 101 to connect to the rest of Northern California. The only
+business in town had only one server the next day, who pointed out that the
+fish dishes on the menu were unfortunately not available due to lack of fresh
+fish. And when I ordered a burger, I was told that I could have avocado on it
+but unfortunately no bacon, as that was also out. We like the simple life!
 
 <pic images/sc-traffic-101.ps Traffic chaos due to a few snowflakes.>
 
-Sperrung.
+When we wanted to drive home when our vacation ended after a week, the next
+problem came up: Although the connection from Shelter Cove to the main Highway
+101 was now open again temporarily, on Highway 101, the only
+connection south, a few fallen trees, power poles and stuck trucks led to a
+<LINK>https://twitter.com/CaltransDist1/status/1629597255769669632?s=20|complete closure</LINK>.
 
-When we wanted to drive home after a week of vacation, the next problem came up: Although the connection from Shelter Cove to the main Highway 101 was now open again temporarily, on the main Highway 101, the only connection south, a few fallen trees, power poles and therefore blocked trucks led to a closure.auf SR-299 in Höhe Trinity Dam Blvd.
+It was no longer possible to drive down to the San Francisco Bay Area, unless
+one was willing to put on snow chains and crawl over adventurous small mountain
+passes to the east to reach I-5, which would have extended the four hour tour to
+more than eight hours.
 
-Closure southbound on SR-299 at Trinity Dam Blvd.It was no longer possible to drive down from the north into the San Francisco Bay Area, unless one was willing to put on snow chains and crawl over adventurous small mountain passes to the east to the I-5, which would have extended the 4-hour tour to eight hours.
+We had booked a cottage in the town for a week through AirBnB, and had
+originally planned to drive back to San Francisco on Saturday. Our landlord,
+who was not on site but had been following the situation in the news, suggested
+that we just wait until the situation normalizes and generously offered to let
+us stay in the house for free for one or two more days.
 
-We had booked a cottage in the town for a week through AirBnB, and had originally planned to drive back to San Francisco on Saturday. Our landlord, who was not on site but had been following the situation in the news, suggested that we just wait until the situation normalizes and generously offered to let us stay in the house for free for one or two more days.
-
-It was also interesting that the communication of the state road maintenance authorities was exclusively through Twitter and Facebook. We signed up on the Facebook group for Shelter Cove and there daredevils reported their adventurous and failed attempts to cross the pass back to Highway 101. "Caltrans", the state agency for traffic in California, reported on Twitter with photos about the closures of the 101 and recommended to monitor the situation and wait.
+It was also interesting that all communication by government agencies like the state road maintenance authorities was happening exclusively through Twitter and Facebook. We signed up on the Facebook group for Shelter Cove and read about daredevils reporting their adventurous and failed attempts to cross the mountain range back to Highway 101. "Caltrans", the state agency for traffic in California, reported on Twitter with photos about the closures of Highway 101 and recommended to monitor the situation and wait.
 
 <pic images/sc-snow.ps Return journey back to civilization>
 
-On Sunday morning, a favorable window of time opened up for us; the weather had cleared up, Google had given the route on the 101 with a small detour, and brave drivers reported that the pass from Shelter Cove and over the hill was passable despite some fallen trees and icy spots. Now or never, we thought, and set off, and it was quite passable. I drove our Honda Fit with summer tires slowly over the few icy spots on the pass and stopped twice to the right to wave pickup trucks with balloon tires and let them break through. As readers can imagine, under normal conditions I would have mercilessly snubbed such vehicles, but these were not normal conditions!
+On Sunday morning, a favorable window of time opened up for us; the weather had
+cleared up, Google indicated that 101 was open with just one small detour, and
+brave local drivers had reported that the road from Shelter Cove leading over
+the hills was now passable despite some fallen trees and icy spots. Now or
+never, we thought, and set off, and it was no big deal. I drove our Honda Fit
+with summer tires slowly over the few icy spots on the mountain pass and pulled
+over twice to wave pickup trucks with balloon tires through and to let them
+barrel down the road past me.  As readers can imagine, under normal conditions
+I would have mercilessly snubbed such vehicles, but these were not normal
+conditions!
 
 <pic images/sc-trees-down.ps On Highway 101, a winter storm knocked down some trees.>
 
-Except for a few places where Highway 101 southbound was only one lane open, and Caltrans employees directing traffic with "Stop/Slow" signs, letting traffic through in one direction while cars had to wait in the other, we made it through quickly and safely back to the Bay Area.
+Except for a few places where Highway 101 southbound had only one lane open,
+and Caltrans employees directing traffic with "Stop/Slow" signs, letting
+traffic through in one direction while cars had to wait in the other, we made
+it through fairly quickly and then arrived safely back in the Bay Area.
 
-Heavy rain in California.
+@Z: Heavy rain in California.
 
 <pic images/tree-smash.ps A tree that was knocked down in the storm crushed a car in front of our house.>
+
+TODO
 
 <em>Angelika</em>California is used to distress when it comes to natural disasters. Wildfires, earthquakes, and drought are usually on the agenda. A state that not only counts among the most populous, but also has a lot to offer geographically. From the ocean to the high mountains, desert, and rich agricultural land, there is something for everyone. The low rainfall in recent years has caused concern, as extreme drought leads to constant forest fires, not only during the California fire season, usually in September and October. Everyone was longing for rain and this year it came in abundance. This, however, led to catastrophic conditions again, namely to massive floods, landslides, fallen trees, power outages and evacuations.
 
