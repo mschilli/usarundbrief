@@ -121,19 +121,42 @@ and Caltrans employees directing traffic with "Stop/Slow" signs, letting
 traffic through in one direction while cars had to wait in the other, we made
 it through fairly quickly and then arrived safely back in the Bay Area.
 
-@Z: Heavy rain in California.
+@Z: Heavy California Rain
 
-<pic images/tree-smash.ps A tree that was knocked down in the storm crushed a car in front of our house.>
+<pic images/tree-smash.ps A tree that was knocked down in the rain storm crushed a car in front of our house.>
+
+<em>Angelika</em>
+California is used to distress when it comes to natural
+disasters. Wildfires, earthquakes, and droughts are usually on the agenda. 
+It's a state that not only counts among the most populous, but also has a lot to offer
+geographically. From the ocean to the high mountains, desert, and rich
+agricultural land, there is something for everyone. The sparse rainfall in recent
+years has caused concern, as extreme droughts lead to constant forest fires,
+not only during the California fire season, usually in September and October.
+Everyone was longing for rain and this year it came in abundance. This,
+however, led to catastrophic conditions again, namely to massive floods,
+landslides, fallen trees, power outages and evacuations.
+
+In California, it seems like everything always plays out to extremes. It was
+unusually cold in the winter, as Michael mentioned previously in his story on Shelter
+Cove, and it snowed not only in the mountains but also in lower areas. Since the
+average California driver is already overwhelmed by normal rainfalls, chaos
+broke out during the winter storms. People in the Bay Area were almost begged
+not to drive to the ski resorts at Lake Tahoe, which is normally a popular weekend
+destination, as the snow masses there led to road closures.
+
+<pic images/bernal-mud-slide.ps Mud sliding down from San Francisco's Bernal Hill.>
 
 TODO
 
-<em>Angelika</em>California is used to distress when it comes to natural disasters. Wildfires, earthquakes, and drought are usually on the agenda. A state that not only counts among the most populous, but also has a lot to offer geographically. From the ocean to the high mountains, desert, and rich agricultural land, there is something for everyone. The low rainfall in recent years has caused concern, as extreme drought leads to constant forest fires, not only during the California fire season, usually in September and October. Everyone was longing for rain and this year it came in abundance. This, however, led to catastrophic conditions again, namely to massive floods, landslides, fallen trees, power outages and evacuations.
-
-In California, it seems like everything always plays out to extremes. It was unusually cold in the winter, as Michael mentioned in his report about Shelter Cove. So it snowed not only in the mountains but also in lower areas. Since the average California driver is already overwhelmed by normal rainfalls, chaos broke out during the winter storms. People in the Bay Area were almost begged not to go to the ski resort at Lake Tahoe, which is normally a popular weekend destination, as the snow masses there led to road closures.
-
-<pic images/bernal-mud-slide.ps Mud sliding down from Bernal Hill.>
-
-Some very clever people followed blindly Google Maps or Waze to get around these blockages, but they quickly learned that neither Google nor Waze knew which roads were cleared and which weren't. The storms lasted for months. One storm after another since December. Many smaller coastal roads simply broke away, and in Santa Cruz, the cheerful surfer and student city, 117 kilometers south of San Francisco, people could kayak in the flooded streets. In higher areas around Los Angeles in the mountains around San Bernardino, the people there were snowed in for weeks.
+Some very clever people followed blindly Google Maps or Waze to get around
+these blockages, but they quickly learned that neither Google nor Waze knew
+which roads were cleared and which weren't. The storms lasted for months. One
+storm after another since December. Many smaller coastal roads simply broke
+away, and in Santa Cruz, the cheerful surfer and student city, 117 kilometers
+south of San Francisco, people could kayak in the flooded streets. In higher
+areas around Los Angeles in the mountains around San Bernardino, the people
+there were snowed in for weeks.
 
 Woche später schon wieder die Sonne gesichtet.
 
