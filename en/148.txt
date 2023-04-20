@@ -337,32 +337,59 @@ of the baggage claim.
 
 <pic images/nyt-kiosk.ps Even the New York Times has been wondering about the immigration kiosks.>
 
-TODO
+The last few times we've been traveling, however, it was different. The officer
+we showed our passport to only asked if we had brought anything from Germany. I
+mentioned a few things and the officer was satisfied with my answer. I then did
+some research and found out that most airports in the US are moving away from
+paper documents. In the style of the EU, they want to rely more on random
+customs checks, e.g. by service dogs at the baggage carousels, which sniff out
+unauthorized goods, after which officers pull out suspects and
+thoroughly inspect their luggage. That's fine with me. After all, it was always me
+who filled out our family form, and I can really imagine something better to do than
+rummaging around for a pen after hours in a cramped airplane and do paperwork.
+However, there still seem to be airlines that distribute the form amongst the
+passengers of the flight. As mentioned previously, there's hardly anything to be
+found online on this topic, I'm just telling facts from experience.
 
-The last few times, however, it was different. The officer we showed our
-passport to only asked if we had brought anything from Germany. I mentioned a
-few things and the officer was satisfied with my answer. I then did some
-research and found out that most airports in the US are moving away from paper
-documents. In the style of the EU, they want to rely more on random customs
-checks, e.g. by sniffer dogs on the baggage carousels, which sniff out
-unauthorized goods, after which officers pull out the affected persons and
-thoroughly inspect their luggage. That's fine with me. After all, I always have
-to fill out the forms with us, and I can really imagine something better than
-rummaging around for a pen after hours in a cramped airplane to do paperwork.
-However, there still seem to be airlines that distribute the form in the
-airplane. As I said, the information is meager and based only on experience.
+Also, right at the beginning of the immigration area in San Francisco, there
+used to be a barrage of so-called
+<LINK>https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html|kiosks</LINK>,
+which passengers had to use to scan documents and
+get their photos taken. Those are now gone. Behind the word kiosk was a
+terminal with a monitor, on which you answered the customs declaration
+questions electronically and scanned your green card and passport. This was
+supposed to speed up the entry process, but the machines were pretty clunky and
+often didn't scan properly or inexplicably didn't accept the documents. The
+officers we went to after the kiosks often got quite annoyed because it meant
+more work for them. Not to mention that I had to fill out a paper customs form
+a few times while standing in line, because the kiosks were out of order.
 
-Also at the immigration desk at the San Francisco airport there is what is known as this.mit Gesichtserkennung
+Nowadays, all international American airports rely on facial recognition.  Upon
+entry, when the passport is shown, the responsible official takes a photo of
+the face of the passenger, which is then compared electronically with the
+biometric data stored in the passport document. A photo is taken of anyone over
+14 years old, including American citizens. If you have an American passport,
+the photo is allegedly removed from the database within 12 hours, while for
+those entering without an American passport, the photo goes into the biometric
+database of the American agency "Homeland Security". Allegedly, American
+citizens can refuse the photo.  However, what happens then remains unclear.
 
-At customs kiosks, facial recognition is being used.No longer were the kiosks that always drove me crazy when entering the country. Behind the word kiosk was a terminal with a monitor, on which you answered the customs declaration questions electronically and scanned your green card and passport. This was supposed to speed up the entry process, but the machines were pretty clunky and often didn't scan properly or inexplicably didn't accept the documents. The officer you went to after the kiosks often got quite annoyed because it meant more work for him. Not to mention that I had to fill out a paper customs form a few times while standing in line because the kiosks weren't working.
+Something else is slowly disappearing due to digitalization: the entry stamp in
+passports that foreign travelers used to receive upon entering the U.S. is no
+longer needed in most cases. This stamp indicated when and where the traveler
+stepped on American soil, what class of entry they received (e.g. as a
+tourist), and how long their stay in the country was going to be permitted. Our
+old passports have many pages with these stamps. The clicking of the stamp was
+the familiar sound when we stood in line at the immigration counters at the
+airport. It's a shame, because other countries are also eliminating entry
+stamps. I still have an old travel passport with DDR entry stamps. A truly
+historical document.
 
-Nowadays, facial recognition is relied upon at all international American airports. Upon entry, when the passport is shown, the responsible official takes a photo of the face, which is then compared with the biometric data in the passport. A photo is taken of anyone over 14 years old, including American citizens. If you have an American passport, the photo is allegedly removed from the database within 12 hours, while for those entering without an American passport, the photo goes into the biometric database of the American agency "Homeland Security". Allegedly, American citizens can refuse the photo. However, what happens then remains unclear.
-
-Something else is slowly disappearing due to digitalization: the entry stamp in passports that foreign travelers used to receive upon entering the US is no longer needed in most cases. This stamp indicated where the traveler entered American soil, what class of entry they received (e.g. as a tourist), and how long their stay in the country was allowed. Our old passports have many pages with these stamps. The clicking of the stamp was the familiar sound when we stood in line at the immigration counters at the airport. It's a shame, because other countries are also eliminating entry stamps. I still have an old travel passport with DDR entry stamps. A truly historical document.
-
-California's nanny-state policies.
+@Z: California, the Nanny State
 
 <pic images/butter.ps Stimulus: Irish butter in aluminum foil.>
+
+TODO
 
 <em>Michael</em>You probably know that the legal situation in the different states of the USA takes on very different forms. Our state of California, for example, is very quick to pass laws that (allegedly) serve the protection of the public, which is why conservative voices give it the label "Nanny State".
 
