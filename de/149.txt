@@ -109,7 +109,7 @@ sei problematisch, denn dabei bestünde die Gefahr, dass die Missionen
 glorifiziert würden, ohne die Unterdrückung der Indianer an den Missionen zu
 berücksichtigen. Nun muss ich sagen, dass man hier vielleicht Viertklässler
 unterschätzt, denn die haben in dem Alter einen ausgeprägten Gerechtigkeitssinn
-und die Ausbeutung der Indianer in den Mission wird sehr wohl thematisiert.
+und die Ausbeutung der Indianer in den Missionen wird sehr wohl thematisiert.
 
 Weiter gehört dazu, dass möglichst
 ein Ausflug in die Hauptstadt nach Sacramento gemacht wird, um das Gelernte zu
@@ -127,7 +127,7 @@ ihren Kollegen ein Schwätzen ab.
 <pic images/suttersfort.ps Besichtigung des "Sutter's Fort".>
 
 Dann ging es weiter zum "Sutter's Fort". John
-(früher: Johann) Sutter war ein Schweizer Immigrant, der das Fort baute und von
+(früher: Johann) Sutter war ein schweizer Immigrant, der das Fort baute und von
 1839 bis 1949 betrieb. Er nannte seine Kolonie "Neu-Helvetien" und trieb als
 Großgrundbesitzer Handel und ließ Agrarland bestellen. Auch die Sägemühle in
 Coloma gehörte ihm. Einer seiner Mitarbeiter, James Marshall, fand dort
@@ -238,7 +238,7 @@ als derjenige, der vielleicht die besten Chancen bei den Vorwahlen gegen Trump
 hat. Allerdings hat er das Charisma einer Schlaftablette. Des weiteren sind
 aufgestellt für die republikanische Partei: Nikki Haley, ehemalige Gouverneurin
 von South Carolina und ehemalige UN-Abgeordnete unter Trump; Vivek Ramaswamy,
-Unternehmer und Autor; Aha Hutchinson, ehemaliger Gouverneur von Arkansas;
+Unternehmer und Autor; Asa Hutchinson, ehemaliger Gouverneur von Arkansas;
 Larry Elder, eine konservative Radiopersönlichkeit; Tim Scott, Senator von
 South Carolina; Mike Pence, Trumps ehemaliger Vizepräsident; Chris Christie,
 ehemaliger Gouverneur von New Jersey; Doug Burgum, Gouverneur von North Dakota,
@@ -286,7 +286,7 @@ aufmöbeln.
 <pic images/rv-park.ps Wohnmobilpark am Strand von Los Angeles>
 
 Neulich, als ich mit einem Ex-Kollegen auf einem Spaziergang durch San
-Francisco unterwegs war, fiel mir ein vor einer Luxusvilla geparktes
+Francisco unterwegs war, fiel mir ein vor einer Luxus\-villa geparktes
 ungewöhnliches Monsterwohnmobil auf, das wie eine Mischung aus militärischem
 Spähpanzer und amerikanischem Schulbus aussah (Abbildung (#2)). Mein
 Ex-Kollege, ein bekennender Autonarr, wusste sogleich, dass es sich um einen
@@ -299,7 +299,7 @@ ich sofort im Internet nach, und war geschockt. Ich wusste zwar, das
 WoMo-Narren gerne mal 200.000 Dollar für ein fahrendes Wohnzimmer hinlatzen,
 aber der Earth-Roamer ist mehr als dreimal so teuer: Der Grundpreis beträgt
 695.000 Dollar, und mit einigen Extras schlägt das rustikale Glampmobil schon
-mit knapp einer Million zu buche.
+mit knapp einer Million zu Buche.
 
 Die Chassis des Fahrzeugs besteht aus dem wohl beliebtesten amerikanischen
 Monstertruck, dem Ford F-550, natürlich geländegängig mit Hydraulik und
@@ -315,8 +315,7 @@ Einbauschränke bestehen aus schwerwertigem Massivholz.
 <pic images/er-3.ps Auf der Webseite können potentielle Kunden ihr Traum-Wohnmobil konfigurieren.>
 
 Wer nun denkt, das kann doch nicht so teuer sein, kann sich gerne die
-<LINK>https://earthroamer.com/new-lti/how-to-buy/|Preisliste|Preisliste für den
-Earth-Roamer</LINK>
+<LINK>https://earthroamer.com/new-lti/how-to-buy/|Preisliste|Preisliste für den Earth-Roamer</LINK>
 auf der Webseite anschauen und anfangen zu sparen.  Wieder
 einmal bestätigt sich, dass es in San Francisco eine nicht geringe Anzahl von
 Leuten gibt, denen ihr vieles Geld ein Loch in die Hosentasche brennt. Gut, wer
@@ -341,8 +340,8 @@ Während der letzten 20 Jahre sind die Preise Jahr für Jahr fast unmerklich
 geklettert, und während ein Burrito in einem mexikanischen Restaurant 1997 etwa
 6 Dollar gekostet hat, übersprang der Preis dieses Fast-Food-Essens irgendwann
 um 2015 die 10-Dollar-Marke, was eigentlich eine relativ akzeptable Steigerung
-der unumgänglichen Inflation ist.  Dann kam Corona und innerhalb von 2 Jahren
-sprang Preis plötzlich auf 16 Dollar hoch. Und will man Rindfleisch drauf,
+der unumgänglichen Inflation ist.  Dann kam Corona und innerhalb von zwei Jahren
+sprang der Preis plötzlich auf 16 Dollar hoch. Und will man Rindfleisch drauf,
 kommen noch 2 Dollar obendrauf, weil Rindfleisch auf einmal rar und teuer ist
 (Abbildung (#3))!
 
@@ -397,13 +396,13 @@ Trockenperioden geplagten Bundesstaat hoffentlich besser durch die Feuersaison
 bringen wird. Natürlich kann ein guter Winter nicht Jahre der Dürre
 ausgleichen, aber helfen tut es natürlich schon. So sind die Wasserreservoirs
 aufgefüllt (8 von 12 sind wieder bei 75% laut offiziellen Quellen). Und
-<LINK>https://calmatters.org/california-drought-monitor/|nur noch 5% der kalifornischen Landfläche|Dürreperiode in nur 5% Kaliforniens</LINK> befindet sich momentan in einer Dürreperiode.
+<LINK>https://calmatters.org/california-drought-monitor/|nur noch 5% der kalifornischen Landfläche|Dürreperiode in nur 5 Prozent Kaliforniens</LINK> befindet sich momentan in einer Dürreperiode.
 
 <pic images/tahoe-flooded.ps Der viele Regen hat Wanderwege überflutet.>
 
 In Kalifornien ist es mittlerweile tatsächlich so, dass man seine
 Freizeitaktivitäten um die extremen Wetterphänomene herum planen muss. Wir
-hören in den heißeren Monaten oft: "Eigentlich wollen wir wandern und campen
+hören in den heißeren Monaten oft: "Eigentlich wollen wir wandern und zelten
 gehen, aber wir wissen noch nicht genau wo, denn wir müssen erst schauen, wo
 dieses Jahr die Waldbrände passieren." Mein Bruder und meine Schwägerin, die
 uns letztes Jahr im September besuchten, konnten zum Beispiel nicht an den
