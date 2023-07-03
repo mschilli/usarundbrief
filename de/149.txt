@@ -1,0 +1,479 @@
+San Francisco, den 10.06.2023
+
+@Z: Autonomes Fahren als Realität
+
+<HTMLONLY>
+<GIF>images/waymo-cesar.gif|Ganz normal: Selbstfahrende Autos in San Francisco.</GIF>
+</HTMLONLY>
+<PRINTONLY>
+<pic images/waymo-cesar-static.ps Ganz normal: Selbstfahrende Autos in San Francisco.>
+</PRINTONLY>
+
+<em>Michael</em> Auf den Straßen von San Francisco spielen sich zur Zeit
+geradezu futuristische Szenen ab. Erst skeptisch beäugt, aber mittlerweile voll
+von den Autofahrern akzeptiert, mischen sich immer mehr selbstfahrende Autos in
+den dichten Stadtverkehr. Als ich das erste Mal an einer Kreuzung neben einem
+dieser mit auffälligen Kameras bestückten Autos stand und rüber schielte,
+glaubte ich meinen Augen nicht zu trauen: Der Fahrersitz war leer und es war
+auch sonst niemand im Auto zu sehen. Bei Grün fuhren wir beide los, und zwar
+ziemlich zügig.
+
+<HTMLONLY>
+<pic images/waymo-do-drive.ps Googles Waymo-Autos fahren besser als die meisten Einheimischen.>
+</HTMLONLY>
+
+Ich muss echt sagen, dass diese Autos erstaunlich gut fahren. Dazu muss man
+wissen, dass 90% aller Kalifornier fahren wie Zwölfjährige. Ich kenne
+Leute, die leisten sich BMWs für 200.000 Dollar, können aber nicht einparken.
+Steht man an einer Kreuzung mit vier Stoppschildern, tandelt immer einer herum,
+der eigentlich dran wäre, bis alle gleichzeitig losfahren und das Gehupe
+beginnt.
+
+Ich hatte im Stadtverkehr schon mehrere Begnungen mit den von Google
+betriebenen selbstfahrenden Waymo-Autos, und jedesmal war ich bass erstaunt,
+wie gut deren Fahrcomputer komplexe Situationen meistert. Von der Firma Cruise,
+hinter der General Motors steckt, fahren ebenfalls Autos herum, auf ähnlichem
+Niveau.  Einmal kam ich gleichzeitig mit einem Waymo-Auto an einem 4-Way-Stop
+an, und dachte mir, "oho, jetzt schauen wir mal was passiert".  Eine Sekunde
+später fuhr das Waymo-Auto vorsichtig in die Kreuzung rein, genauso, wie das
+ein menschlicher Autofahrer, der auf Zack ist, auch machen würde.
+
+<pic images/waymo-night.ps Bei Nacht arbeiten die Waymo-Autos als führerlose Taxis>
+
+Einmal sah ich, dass mir auf der Gegenfahrbahn einer zweispurigen aber nicht
+gerade breiten Straße ein Radfahrer entgegenkam, hinter ihm eine Schlange von
+Autos, die sich nicht zu überholen trauten, weil's zu eng war.  Ich fuhr auf
+meiner Seite etwas weiter rechts ran, um Platz zu machen, und zack! kam das
+Waymo-Auto einen halben Meter über die Mittellinie und überholte den Radfahrer
+sicher und sourverän. Das hätte sich hier kaum ein Autofahrer getraut, und ich
+war überrascht, dass es dem Fahrcomputer eingetrichtert wurde. Hut ab!
+
+<pic images/waymo-do-color.ps Auch bei uns im Viertel kommen oft Waymo-Autos vorbei.>
+
+Auch als Taxi kann man die führerlosen Fahrzeuge schon anheuern. Man lädt sich
+die App "Waymo-One" oder die von der Konkurrenz, "Cruise",
+aufs Telefon herunter und bucht dann wie mit Uber oder Lyft die Fahrt.
+Allerdings ist dieses Geschäft den beiden Firmen zurzeit nur nachts erlaubt.
+Die Stadt San Francisco hat die Genehmigung nur zwischen 22 Uhr abends und 5
+Uhr morgens ausgestellt.
+
+Es ist schon etwas gruselig, in ein Auto ohne Fahrer einzusteigen, aber Freunde
+haben mir berichtet, dass sie sicher am Fahrziel angekommen sind. Die
+selbstfahrenden Autos schlagen übrigens merkwürdige Routen durch die Stadt ein.
+Weil es technisch einfacher ist, rechts als links abzubiegen, wählen sie nicht
+die kürzesten Routen, sondern die ohne Linksabbiegen. So fahren sie leichte
+Umwege, die ein menschlicher Fahrer wohl nicht wählen würde, aber immerhin
+gab's noch keinen schweren Unfall. Wie immer regen sich ewiggestrigen
+Alt-Hippies in der Stadt über die Neuerung auf, wie zum Beispiel neulich, als
+im Stadteil Mission 
+<LINK>https://twitter.com/TheMarinaTimes/status/1667702963207557121?s=20|eine Schießerei mit neun Verletzten in San Franciscos Stadteil Mission</LINK>
+war, und ein Cruise-Auto anhielt und nicht weiter fuhr, auch als der
+Rettungswagen durchwollte. Linkslastige Stadträte regten sich mehr über das
+Auto auf als über die Schießerei! Und kürzlich überfuhr ein Waymo-Auto einen
+Hund, der sich von Herrchen losgerissen hatte und hinter einem Auto hervor auf
+die Straße gerannt war. Ja mei, das passiert halt, auch mit menschlichen Fahrern,
+aber beim Robotaxi geht die Motzerei los. Kommen wird die Technologie
+trotzdem, meinen Segen hat sie jedenfalls!
+
+@Z: Sachunterricht in Kalifornien
+
+<pic images/sc-arnie.ps Frühere kalifornische Gouvaneure, rechts Arnold Schwarzenegger>
+
+<em>Angelika</em> Wie aufmerksame Rundbriefleser wissen, arbeite ich als
+verhaltenstherapeutische Kraft in einer vierten Klasse. Im Sachunterricht (hier
+"Social Studies" genannt) geht es in der vierten Klasse um den Bundesstaat
+Kalifornien. Ich als Nordlicht lernte in meinen Grundschuljahren damals alles
+über das Watt und die Nordsee. Hier in Kalifornien geht es um die Missionen,
+die indianischen Ureinwohner Kaliforniens, den Goldrausch, den Ausbau der
+Eisenbahn, und den Zuzug von Immigranten.
+
+<pic images/state-capitol.ps Glasfenster im State Capitol in Sacramento>
+
+Die Kinder lernen außerdem, was es für geografische Regionen in Kalifornien
+gibt, alles über die Hauptstadt Sacramento und wie sich die kalifornische
+Regierung zusammensetzt. Auch das sogenannte Missionsprojekt zogen wir in
+unserer Klasse durch. Jeder, der in Kalifornien die Grundschule besucht hat,
+weiß, was sich dahinter verbirgt. In der vierten Klasse baut man nämlich eine
+der vielen Missionskirchen nach, die sich durch den Bundesstaat ziehen. Da wird
+dann gebastelt, was das Zeug hält. Einige Kinder kreieren 3D-Modelle, andere
+malen die Mission ihrer Wahl auf eine Leinwand oder machen einen Podcast zum
+Thema.
+
+Einer meiner Schüler baute eine virtuelle Mission in dem Videospiel
+"Minecraft".  Lustigerweise scheint dieses Projekt stets sentimentale
+Anwandlungen bei den Eltern hervorzubringen, denn bei jedem Elternabend werden
+wir danach gefragt, wenn denn nun endlich das Missionsprojekt in der vierten
+Klasse startet und ob wir es auch machen. Denn seit 2017 rät die kalifornische
+Schulbehörde eher davon ab. Besonders das Nachbauen der Missionen in Modellform
+sei problematisch, denn dabei bestünde die Gefahr, dass die Missionen
+glorifiziert würden, ohne die Unterdrückung der Indianer an den Missionen zu
+berücksichtigen. Nun muss ich sagen, dass man hier vielleicht Viertklässler
+unterschätzt, denn die haben in dem Alter einen ausgeprägten Gerechtigkeitssinn
+und die Ausbeutung der Indianer in den Mission wird sehr wohl thematisiert.
+
+Weiter gehört dazu, dass möglichst
+ein Ausflug in die Hauptstadt nach Sacramento gemacht wird, um das Gelernte zu
+vertiefen. Also packten wir unsere Viertklässler in einen Kleinbus und fuhren
+los, ein ziemlicher Aufwand für einen Tagesausflug, denn Sacramento ist
+ungefähr 2 Autostunden (einfacher Weg) von unserer Schule entfernt. Zunächst
+besichtigten wir das "State Capitol", also das Gebäude, in dem sich die
+kalifornischen Abgeordneten versammeln, um Gesetze zu beschließen und die
+Geschicke des Bundesstaates Kalifornien zu lenken. Das Gebäude ist für
+amerikanische Verhältnisse sogar recht alt, denn es wurde zwischen 1861 und
+1874 fertig gestellt. Als wir zur Besichtigung dort waren, schwirrten sogar viele
+Politiker in den Gängen herum und warteten auf die Fahrstühle oder hielten mit
+ihren Kollegen ein Schwätzen ab.
+
+<pic images/suttersfort.ps Besichtigung des "Sutter's Fort".>
+
+Dann ging es weiter zum "Sutter's Fort". John
+(früher: Johann) Sutter war ein Schweizer Immigrant, der das Fort baute und von
+1839 bis 1949 betrieb. Er nannte seine Kolonie "Neu-Helvetien" und trieb als
+Großgrundbesitzer Handel und ließ Agrarland bestellen. Auch die Sägemühle in
+Coloma gehörte ihm. Einer seiner Mitarbeiter, James Marshall, fand dort
+1848 Gold und löste damit den kalifornischen Goldrausch aus, was
+ironischerweise zum Untergang des Forts führte, da John Sutter die Arbeiter
+wegliefen, um Gold zu schürfen. Das Fort ist heute ein Museum und sehr
+kinderfreundlich ausgerichtet, denn es gibt die verschiedensten Vorführungen,
+zum Beispiel wie der Schmied arbeitete oder Mehl gemahlen und Brot gebacken
+wurde.
+
+<pic images/speisewagen.ps Speisewagen im Eisenbahnmuseum in Sacramento.>
+
+Die letzte Station unseres Ausfluges war dann das Eisenbahnmuseum in
+Sacramento. Züge haben ja auch bei der heutigen Generation von Kindern noch
+nicht ihren Reiz verloren. Meinen Schülern und auch mir gefielen besonders die
+alten Züge, in die wir reingehen konnten, um das Postabteil, Schlafwagen und
+auch Speisewagen zu bewundern. Im Eisenbahnmuseum mussten wir nicht einmal
+Eintritt bezahlen, denn mit Viertklässlern im Tau, die in der Schule sich alle
+mit der kalifornischen Geschichte befassen, wird kein Eintritt erhoben.
+Seit September 2021 können Familien, die ein Kind in der vierten Klasse haben,
+einen Jahrespass, den sogenannten "California State Adventure Park Pass"
+beantragen, der ihnen freien Eintritt zu 19 kalifornischen State Parks gewährt.
+Eine interessante Idee!
+
+@Z: Preis des Eises
+
+<pic images/icecream-mhb.ps Diese Eiskugel kostete 8,20 Dollar im kalifornischen Manhattan Beach.>
+
+<em>Michael</em> Kürzlich kam mir zu Ohren, dass die Kugel Eis in Deutschland
+mittlerweile auch schon zwei Euro kostet.  Das ist zwar für einen Dinosaurier
+wie mich, der sich noch schemenhaft daran erinnern kann, dass die Kugel Eis
+inklusive Waffel einmal 10 Pfennig gekostet hat, zwar auch schockierend, aber
+nichts im Vergleich zu den mörderischen Eispreisen in Amerika.
+
+Speiseeis war in Amerika übrigens schon immer rasend teuer, und das hat nichts
+damit zu tun, dass die Herstellung von Leckereien hier etwa kostenintensiver
+wäre als in Deutschland (eher das Gegenteil), sondern dass Amerikaner es
+einfach gewöhnt sind, absurde Summen für derartige Snacks auszugeben.
+
+<pic images/icecream-wb.ps Im bayrischen Weißenburg kostete die Kugel Eis vor einem Jahr noch 1,90 Euro.>
+
+Bei uns in San Francisco ist ein alteingesessener Laden namens "Mitchell's",
+und vor dem stehen bei schönem Wetter die Leute tatsächlich zwanzig Minuten
+schlange, um für schlappe fünf Dollar eine Eiskugel abzuholen. Auf einer Waffel
+kostet's dann nochmal 75 Cent mehr, und die Sales Tax schlägt dann nochmal mit
+fast 10% zu buche. Außerdem lechzen die Verkäufer nach Trinkgeld wie Kamele
+nach Wasser in der Wüste.  Dabei ist das kein Schicki-Laden, die Kundschaft
+besteht hauptsächlich aus Arbeitervolk, und man muss sich schon fragen, wie
+bekloppt man sein muss, ein Drittel seines Stundenlohnes für eine Kugel Eis
+auszugeben.
+
+<pic images/mitchells.ps Der uralte Eisladen Mitchell's bei uns im Viertel.>
+<pic images/icecream-mitchell.ps Bei "Mitchell's" in San Francisco kostet die Kugel Eis schlappe 5 Dollar.>
+
+Dabei ist das Speiseeis in Amerika nicht einmal besonders gut, oder die Kugeln
+signifikant größer als in Deutschland. Der oben genannte Laden "Mitchell's" hat
+zwar Sorten wie "Mexican Chocolate" die es meines Wissens selbst bei Sarcletti
+in München nicht gibt, aber die Eisqualität ist absolut auf Augenhöhe. Wie
+immer gilt: Der Preis richtet sich nicht danach, wie teuer die Herstellung und
+der Vertrieb eines Produkts ist, sondern allein danach, wieviel der Verbraucher
+im freien Markt bereit ist, dafür zu berappen.
+
+@Z: Der Wahlkampf beginnt
+
+<pic images/trump.ps Will 2024 erneut Präsident werden: Trump>
+
+<em>Angelika</em> Wir hatten eigentlich nicht gedacht, dass es noch einmal so
+kommen wird, nun wollen es Trump und auch Biden erneut versuchen und stellen
+sich 2024 wieder zur Wahl zum Präsidenten. Der Wahlkampf in Amerika hat schon
+begonnen. Trump hatte ja stets gesagt, dass er noch einmal antreten will, aber
+so richtig geglaubt, hat es dann doch keiner. Denn die Hoffnung war, dass Trump
+mit fortschreitender Zeit in Vergessenheit geraten würde. Leider ist dem nicht
+so. Seine Basis hält an ihm fest. Biden hatte auch versprochen, nach einer
+Amtsperiode in den gebührenden Ruhestand zu gehen, aber scheinbar kann auch er
+nicht vom Weißen Haus lassen. Viele demokratische Wähler sind davon gar nicht
+begeistert. Sie hätten sich einen anderen und vor allen Dingen jüngeren
+Kandidaten gewünscht. Jeder ermüdet schnell im Amt des Präsidenten, was man
+schon damals an dem auf einmal ergrauten Obama beobachten konnte, aber Biden
+scheint alle Bedenken bezüglich seines Alters zu verdrängen. Mit Kamala Harris,
+die Biden wieder an seiner Seite haben will, kann auch keiner so recht warm
+werden. Viele sind besorgt, dass es Biden eventuell nicht schafft, weitere vier
+Jahre durchzustehen, denn er wirkt jetzt schon gebrechlich, und dass dann
+Kamala Harris die Amtsgeschäfte führen muss.
+
+Bis jetzt scheint sich keiner bei den Demokraten zu trauen, Biden so richtig
+herauszufordern, zumindest keine ernstzunehmenden Kandidaten. Der aus dem
+Kennedy-Clan stammende Robert F.  Kennedy Jr., Sohn des ermordeten Politikers
+Robert Kennedy und Neffe von John F. Kennedy, ist zwar ins Rennen gesprungen,
+aber mit seinen Verschwörungstheorien und Anti-Impfkampagnen steht er nicht
+gerade gut da bei den typischen demokratischen Wählern. Dann gibt es noch
+Marianne Williamson, Autorin und frühere spirituelle Beraterin von Oprah
+Winfrey, aber ich würde einmal frech behaupten, dass ihr niemand irgendwelche
+Chancen einräumt. Die Gerüchteküche bringt immer wieder Gavin Newsom ins Spiel,
+unseren derzeitigen Gouverneur von Kalifornien, aber obwohl jeder weiß, dass er
+Ambitionen aufs Weiße Haus hat und ein ernst zu nehmender Kandidat wäre, ziert
+er sich aus irgendwelchen Gründen.
+
+<pic images/newsom-biden.ps Biden kandidiert 2024 wieder, bei Newsom weiß man's nicht.>
+
+Bei den Republikanern verliert man hingegen mittlerweile schon den Überblick.
+Das Feld der Kandidaten ist groß. Neben Trump ist da der Gouverneur von
+Florida, Ron DeSantis. Meiner Meinung nach ist er ein Möchtegerntrump, der mit
+seinen 44 Jahren einer der jüngeren Politiker im Rennen ist. Allerdings ist
+DeSantis erzkonservativ und bekannt dafür, sich gern in irgendwelche
+Kulturkämpfe zu verstricken, die in  Zeiten von Klimakrise und anderen
+Brennpunkten auf der Welt sehr antiquiert erscheinen. DeSantis gilt allerdings
+als derjenige, der vielleicht die besten Chancen bei den Vorwahlen gegen Trump
+hat. Allerdings hat er das Charisma einer Schlaftablette. Des weiteren sind
+aufgestellt für die republikanische Partei: Nikki Haley, ehemalige Gouverneurin
+von South Carolina und ehemalige UN-Abgeordnete unter Trump; Vivek Ramaswamy,
+Unternehmer und Autor; Aha Hutchinson, ehemaliger Gouverneur von Arkansas;
+Larry Elder, eine konservative Radiopersönlichkeit; Tim Scott, Senator von
+South Carolina; Mike Pence, Trumps ehemaliger Vizepräsident; Chris Christie,
+ehemaliger Gouverneur von New Jersey; Doug Burgum, Gouverneur von North Dakota,
+Francis Suarez, Bürgermeister von Miami, und Will Hurd, ehemaliger texanischer
+Kongressabgeordneter. Wer das amerikanische System der Vorwahlen kennt, weiß,
+dass sich dieses Feld sehr schnell lichten wird. 
+
+Spannend bleibt die Frage, was passiert, wenn Trump tatsächlich verurteilt
+wird, in dem anhängigen Verfahren bezüglich der Geheimakten. Die Verfassung
+verbietet es nicht, dass jemand, der vorbestraft und verurteilt ist, Präsident
+sein kann. Es ist auch nicht wahrscheinlich, dass das Verfahren abgeschlossen
+sein wird bevor die Präsidentschaftswahl beginnt. Ich denke, dass es eher
+unwahrscheinlich ist, dass Trump eine Gefängnisstrafe absitzen muss. Das
+Gefängnisszenario spielen Komödianten zur Zeit aber besonders gerne durch, denn
+der Secret Service muss den Präsidenten jederzeit und überall bewachen und kein
+Mensch weiß, wie das von der Logistik her, überhaupt zu bewerkstelligen ist im
+Gefängnis. Es wäre sicher undenkbar, die Amtsgeschäfte vom Gefängnis aus zu
+führen, aber diese Situation gab es noch nie in den USA, somit weiß keiner so
+recht, was tatsächlich passieren würde. Ein Amtsenthebungsverfahren wäre die
+eine Möglichkeit, wenn der Präsident seinen Aufgaben im Gefängnis nicht
+nachgehen kann. Eine weitere Möglichkeit wäre, dass sich Trump selbst
+begnadigt, falls er verurteilt wird. Auch hier streiten sich die Geister, ob
+das rechtlich überhaupt möglich ist. Trump nutzt das Ganze natürlich gnadenlos
+aus, um sich als Opfer darzustellen und seine Basis zu mobilisieren. Einige
+böse Stimmen behaupten sogar, dass er die geheimen Akten trotz mehrfacher
+Aufforderung nicht herausgegeben hat, um gerade dieses Szenario durchzuspielen,
+denn hätte er die Akten zurück gegeben, wäre der Fall aller Wahrscheinlichkeit
+im Sande verlaufen. Ein Irrenhaus!
+	
+@Z: Megateures Monsterwohnmobil
+
+<pic images/er-1.ps (#2) Ein 700.000 Dollar teures Earth-Roamer-Wohnmobil>
+
+<em>Michael</em> Der Amerikaner zuckelt ja gerne mit einem riesigen Wohnmobil,
+einem sogenannten "RV" (Recreational Vehicle) über die Freeways, stellt es abends
+auf einem Campingplatz ab und möchte dann alle Annehmlichkeiten des heimischen
+Wohnzimmers vorfinden. 
+
+Der Luxus beim "Glamping" (für "Glamourous Camping") definiert sich dabei
+auch über die Geräumigkeit des dabei genutzten Vehikels, Wohnmobile
+bis zu 15 Metern Länge sind keine Seltenheit, und manche bieten sogar noch
+ausfahrbahre Seitenwände, die die Wohnfläche drinnen dann in Richtung Loft
+aufmöbeln.
+
+<pic images/rv-park.ps Wohnmobilpark am Strand von Los Angeles>
+
+Neulich, als ich mit einem Ex-Kollegen auf einem Spaziergang durch San
+Francisco unterwegs war, fiel mir ein vor einer Luxusvilla geparktes
+ungewöhnliches Monsterwohnmobil auf, das wie eine Mischung aus militärischem
+Spähpanzer und amerikanischem Schulbus aussah (Abbildung (#2)). Mein
+Ex-Kollege, ein bekennender Autonarr, wusste sogleich, dass es sich um einen
+sogenannten "Earth-Roamer" handelte, ein irre teures Luxus-Wohnmobil.
+
+<pic images/er-2.ps Eine Mischung aus amerikanischem Truck und Spähpanzer>
+
+Also fotografierte ich das Teil sofort und wieder zuhause angekommen, schaute
+ich sofort im Internet nach, und war geschockt. Ich wusste zwar, das
+WoMo-Narren gerne mal 200.000 Dollar für ein fahrendes Wohnzimmer hinlatzen,
+aber der Earth-Roamer ist mehr als dreimal so teuer: Der Grundpreis beträgt
+695.000 Dollar, und mit einigen Extras schlägt das rustikale Glampmobil schon
+mit knapp einer Million zu buche.
+
+Die Chassis des Fahrzeugs besteht aus dem wohl beliebtesten amerikanischen
+Monstertruck, dem Ford F-550, natürlich geländegängig mit Hydraulik und
+klassischer Motorwinde vorne, wenn's mal hart auf hart kommt.  Und bei der
+Inneneinrichtung darf man natürlich nicht an der falschen Stelle sparen.  Wie
+der staunende Laie in einem
+<LINK>https://www.youtube.com/watch?v=Rq47gxaHp1I|Präsentations-Video|Demo-Video
+des Earth-Roamers</LINK>
+sehen kann, ist die Sitzbank am Esstisch mit edelstem
+alt gemachten Rindsleder bespannt und die ruckelsicher eingepassten
+Einbauschränke bestehen aus schwerwertigem Massivholz.
+
+<pic images/er-3.ps Auf der Webseite können potentielle Kunden ihr Traum-Wohnmobil konfigurieren.>
+
+Wer nun denkt, das kann doch nicht so teuer sein, kann sich gerne die
+<LINK>https://earthroamer.com/new-lti/how-to-buy/|Preisliste|Preisliste für den
+Earth-Roamer</LINK>
+auf der Webseite anschauen und anfangen zu sparen.  Wieder
+einmal bestätigt sich, dass es in San Francisco eine nicht geringe Anzahl von
+Leuten gibt, denen ihr vieles Geld ein Loch in die Hosentasche brennt. Gut, wer
+schon ein Haus für sechs Millionen hat, braucht vielleicht noch ein
+Outdoor-Wohnmobil für eine Mio, das ist dann auch schon wurscht. Man lebt nur
+einmal.
+
+@Z: Böse Inflation, alles wird teurer!
+
+<pic images/ifl-jb-bread-1199.ps Im März 2023 kostete ein Laib Brot 11.99 Dollar.>
+
+<em>Michael</em> Dass alles immer teurer wird, ist euch sicher nicht entgangen,
+sicher fiebert ihr danach, zu erfahren, ob's uns in den USA genauso geht wie im
+gebeutelten Deutschland.  Dazu kann ich sagen, dass hier bestimmte Waren immer
+schon im internationelen Vergleich absurd teuer waren (Käse, Butter, gutes
+Brot, Wein, Bier, Speiseeis), während Klamotten oder Rindfleisch hier eindeutig
+preisgünstiger sind.
+
+<pic images/ifl-jb-bread-899.ps Im Dezember 2022 war das gleiche Brot noch 30% billiger.>
+
+Während der letzten 20 Jahre sind die Preise Jahr für Jahr fast unmerklich
+geklettert, und während ein Burrito in einem mexikanischen Restaurant 1997 etwa
+6 Dollar gekostet hat, übersprang der Preis dieses Fast-Food-Essens irgendwann
+um 2015 die 10-Dollar-Marke, was eigentlich eine relativ akzeptable Steigerung
+der unumgänglichen Inflation ist.  Dann kam Corona und innerhalb von 2 Jahren
+sprang Preis plötzlich auf 16 Dollar hoch. Und will man Rindfleisch drauf,
+kommen noch 2 Dollar obendrauf, weil Rindfleisch auf einmal rar und teuer ist
+(Abbildung (#3))!
+
+<pic images/beef-burrito.ps (#3) Rindfleisch ist sprunghaft teurer geworden.>
+
+Schaut man auf eine Tabelle mit den offiziellen Inflationsraten, zeigt sich,
+dass 2023 mit 8% den Vogel abgeschossen hat, ganz ähnlich wie in Europa, wo's
+im Jahr 2023 sogar 9.2% waren. Man sieht auch, dass die USA in den
+80ern sogar noch höhere Werte hatten, um die 14%, und das sogar über mehrere
+Jahre.
+
+<pic images/inflation.ps Inflationsrate der USA von 1960 bis heute>
+
+Wer wie ich allerdings regelmäßig im Supermarkt Lebensmittel einkaufen geht,
+der weiß, dass die Inflationsrate zur Zeit keineswegs bei 8% liegt, sondern
+viel höher. Ein Grund dafür ist, dass die Zahlen von offizieller Seite mit
+interessanten Verfahren heruntergerechnet werden. Kostete ein Auto zum
+Beispiel früher 10.000 Dollar und heute 20.000 Dollar, wird keineswegs eine
+Preissteigerung von 100% zugrunde gelegt. Nein, die Statistiker argumentieren,
+dass das Auto ja heute viel moderner ist und über schlauere Funktionen verfügt,
+der Karren heute also viel viel wertvoller ist als das damalige Vehikel. Der
+Verbraucher darf sich glücklich schätzen, diesen Fortschritt zu einem höheren
+Preis erwerben zu können. Der Inflationsberechung wird dann ein entsprechend
+nach oben angepasster Basispreis zugrunde gelegt, und nicht etwa der frührere
+Preis.  Dass der Verbraucher vielleicht mit der alten Funktion zufrieden wäre
+und lieber ein weniger ausgefuchstes aber billigeres Auto kaufen würde, spielt
+keine Rolle. Wen's interessiert, der kann nachlesen, wie die staatliche Behörde
+"Bureau of Labor Statistics" (BLS) die Inflation als "Consumer Price Index" (CPI)
+berechnet, und mit dem sogenannten
+<LINK>https://www.bls.gov/cpi/quality-adjustment/questions-and-answers.htm#|"Hedonic Quality Adjustment"</LINK> den Wert kleinrechnet.
+
+<pic images/baguette.ps Baguette für 7.50 Dollar im Supermarkt.>
+
+Auch Essen im Restaurant ist bei uns teurer geworden, denn es finden sich kaum
+noch Leute, die im Niedriglohnsektor arbeiten wollen. Um die 25 Dollar muss man
+heute für ein günstiges Hauptgericht in San Francisco hinlegen, für etwas
+fleischlastiges gerne $40 oder mehr. Allerdings erfuhr ich bei unserem
+Deutschlandbesuch im Sommer den Schock meines Lebens, als ich sah, dass
+deutsche Speisekarten nun ebenfalls auf diesem Niveau angelangt sind!  Eines
+ist in Deutschland aber immer noch billiger: Bier.  Während eine "Pint" im
+"Zeitgeist", einem der wenigen Biergärten in San Francisco, mittlerweile 9
+Dollar kostet (plus 2 Dollar Trinkgeld), verlangt in Deutschland kaum ein Laden
+über 6 Euro.
+
+@Z: Reisen in Zeiten des Klimawandels
+
+<pic images/tahoe-lake.ps Lake Tahoe im Mai>
+
+<em>Angelika</em> Der letzte Winter und Frühling brachte endlich einmal wieder
+viel Regen und Schnee in den höheren Lagen Kaliforniens, was unseren durch
+Trockenperioden geplagten Bundesstaat hoffentlich besser durch die Feuersaison
+bringen wird. Natürlich kann ein guter Winter nicht Jahre der Dürre
+ausgleichen, aber helfen tut es natürlich schon. So sind die Wasserreservoirs
+aufgefüllt (8 von 12 sind wieder bei 75% laut offiziellen Quellen). Und
+<LINK>https://calmatters.org/california-drought-monitor/|nur noch 5% der kalifornischen Landfläche|Dürreperiode in nur 5% Kaliforniens</LINK> befindet sich momentan in einer Dürreperiode.
+
+<pic images/tahoe-flooded.ps Der viele Regen hat Wanderwege überflutet.>
+
+In Kalifornien ist es mittlerweile tatsächlich so, dass man seine
+Freizeitaktivitäten um die extremen Wetterphänomene herum planen muss. Wir
+hören in den heißeren Monaten oft: "Eigentlich wollen wir wandern und campen
+gehen, aber wir wissen noch nicht genau wo, denn wir müssen erst schauen, wo
+dieses Jahr die Waldbrände passieren." Mein Bruder und meine Schwägerin, die
+uns letztes Jahr im September besuchten, konnten zum Beispiel nicht an den
+Lake Tahoe fahren, da ein Waldbrand in der Nähe die Luftqualität so dermaßen
+verschlechtert hatte, dass ein Aufhalten in der freien Natur als extrem
+gesundheitsgefährdend eingestuft wurde. Als wir dann im Mai dieses Jahres den
+umgebuchten Kurztrip in Anspruch nahmen und die Tat umsetzten, schneite es in
+Lake Tahoe noch, und gleichzeitig hatte die Schneeschmelze eingesetzt, was zu
+überfluteten Wanderwegen führte. Verrückte neue Welt. Allerdings blieben die
+Menschenmassen, die sonst Lake Tahoe bevölkern, der Attraktion fern, und wir
+hatten den Strand und See mit den noch schneebedeckten Bergen fast ganz für
+uns allein.
+
+@Z: Toppprodukt: Chinesische Brandsalbe
+
+<pic images/balm-1.ps Der chinesische Wunderbalsam Ching Wan Hung>
+
+<em>Michael</em> Ich koche bekanntlich viel zuhause, oft bayrische
+Hausmansskost, denn die ist hier in Kalifornien nicht so einfach zu bekommen.
+Als ich nun neulich ein paniertes Schnitzel elegant ins brodelnde Pfannenfett
+schlenzte, spritze es zurück, versengte mir etwas die Haut am Unterarm, und
+hinterließ einen Gorbatschows Glatzenmal nicht unähnlichen Brandfleck (Abbildung (#1) oben).
+
+Schlimme Schmerzen stellten sich ein! Zum Glück habe ich für solche Unfälle die
+richtige Medizin zur Hand, nämlich den chinesischen Wunderbalsam "Ching Wan
+Hung" im Badezimmerschrank, den es bei
+<LINK>https://www.amazon.com/gp/product/B00885P95U|Amazon|Ching Wan Hung Balsam auf Amazon</LINK>
+für kleines
+Geld zu kaufen gibt.  Das ist so ein Döschen mit einer rostbraunen und
+interessant orientalisch nach ätherischen Ölen riechenden kettenfettartigen
+Schlotze, die trägt man kühlend auf Brandwunden auf, und schon lässt der
+Schmerz nach.
+
+<pic images/balm-2.ps (#1) Heilungsprozess der mit Schnitzelfett angesengten Haut>
+
+Außerdem scheint sie die Heilung der Haut zu beschleunigen, und der
+Narbenbildung vorzubeugen, denn selbst der schnitzelfettbedingt schlimme Fleck
+am Unterarm verkrustete innerhalb einer Woche und schöne rosa neue Haut wuchs
+darunter nach. Nach zwei Wochen konnte man nichts mehr sehen.  Besser wär's
+freilich, solche Unfälle beim Kochen zu vermeiden, aber falls doch was
+passiert, ist der Balsam sehr zu empfehlen. Toppprodukt!
+
+@Z: Gehwegkabel zum Elektroauto
+
+<pic images/ev-charge.ps Kann das Auto nicht an die Dose, kommt das Kabel zum Auto.>
+
+<em>Michael</em> Würde man aufmerksame Autofahrer in unserer Bay Area danach
+fragen, welche Automarke wohl am dominantesten auf den Straßen vertreten ist,
+käme "Tesla" wohl auf einen der vordersten Plätze. Und auch andere Elektroautos
+kauft der Kalifornier gern, dabei ist die in Deutschland so oft beklagte
+mangelhafte Flächendeckung mit Ladesäulen hier ebenfalls ein Problem. 
+
+<pic images/ev-array.ps Fotosammlung von EV-Kabeln auf unseren Stadtwanderwegen.>
+
+Doch das scheint die Ökos nicht zu stören, denn oft stellt der Arbeitgeber
+Ladesäulen bereit, die man während der Arbeitszeit nutzen darf, oder man lädt
+einfach daheim. Allerdings verfügen viele Häuser hier in San Francisco entweder
+über keinen Garagenplatz, oder die Garage ist voll mit Krempel vom letzten
+Umzug, oder die Leute haben mehr als ein Auto.
+
+So sieht man als Spaziergänger oft atemraubende Elektroinstallationen, bei
+denen ein Kabel aus dem Haus zu einem auf der Straße vor der Haustür geparkten
+Auto führt. Einmal sah ich sogar ein Kabel, das durch ein Fenster im ersten
+Stock über einen Baum herunter zum Rinnstein führte! Das ist natürlich alles
+illegal und gefährlich, und die über den Gehsteig drapierten dicken Kabel
+sorgen bei Rollstuhlfahrern oder Kinderwagenschiebern vielleicht für Verdruß,
+aber man sieht's überall. Sicher finden die Bürokraten San Franciscos bald
+einen Weg, diese Elektroautofans kostenpflichtig abzumahnen, auf dass sich das
+leere Stadtsäckel wieder fülle!
+
+Grüße aus San Francisco:
+
+Angelika \& Michael
