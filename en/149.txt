@@ -1,0 +1,69 @@
+San Francisco, 07-03 2023
+
+@Z: Autonomous Driving as a Reality
+
+<HTMLONLY>
+<GIF>images/waymo-cesar.gif|Quite normal: Self-driving cars in San Francisco</GIF>
+</HTMLONLY>
+<PRINTONLY>
+<pic images/waymo-cesar-static.ps Quite normal: Self-driving cars in San Francisco>
+</PRINTONLY>
+
+<em>Michael</em> On the streets of San Francisco, we're experiencing almost
+futuristic scenes recently. Initially skeptically received, but now fully
+accepted by the drivers, more and more self-driving cars are mixing into the
+dense city traffic.  The first time I came to a stop an intersection next to
+one of these cars equipped with conspicuous cameras and glanced over, I
+couldn't believe my eyes: the driver's seat was empty and there was nobody else
+in the car. When the light turned green, we both drove off, at pretty decent
+speed.
+
+I really have to say that these cars drive amazingly well. To that you have
+to know that 90% of Californians drive like twelve year olds. I know people
+who spent 200,000 dollars on BMWs but can't even parallel park. When you're at
+an intersection with four stop signs, there's always someone who's supposed to
+go first, but it's quite common that no one does at first, and then everyone starts going at the same time and the honking begins.
+
+I have had several encounters with Google-operated self-driving Waymo cars in
+city traffic, and every time I was amazed at how well their driving computer
+handled complex situations. Cars from the company Cruise, backed by General
+Motors, are also driving around at a similar level. Once I arrived at a 4-way
+stop at the same time as a Waymo car, and I thought to myself, "Oho, let's see
+what happens now". A second later, the Waymo car cautiously entered the
+intersection, just like a human driver who is on the ball would do.
+
+<pic images/waymo-night.ps At night, Waymo cars work as driverless taxis.>
+
+Once I saw that on the opposite lane of a two-lane but not particularly wide
+street, a cyclist was coming towards me, behind him a line of cars that didn't
+dare to overtake because it was too narrow. I drove a bit further to the right
+on my side to make room, and suddenly the Waymo car crossed the center line by
+half a meter and overtook the cyclist safely and smoothly. Here, hardly any
+driver would have dared to do that, and I was surprised that it was taught to
+the driving computer. Hats off!
+
+<pic images/waymo-do-color.ps Also in our neighborhood, Waymo cars often come by.>
+
+You can also hire the driverless vehicles as a taxi. Download the app
+"Waymo-One" or the competitor's "Cruise" on your phone and then book the ride
+like with Uber or Lyft. However, this business is currently only allowed to the
+two companies at night. The city of San Francisco has only issued the permit
+between 10 pm and 5 am.
+
+It is a bit creepy to get into a driverless car, but friends have told me that
+they arrived safely at their destination. Self-driving cars, by the way, take
+strange routes through the city. Because it is technically easier to turn right
+than left, they do not choose the shortest routes, but those without left
+turns. So they take detours that a human driver would probably not choose, but
+so far there has been no serious accident. As always, the old-fashioned hippies
+in the city are protesting against the innovation, as recently happened when
+they appeared in the Mission
+district.<LINK>https://twitter.com/TheMarinaTimes/status/1667702963207557121?s=20|A shooting with nine injured in San Francisco's Mission district.</LINK>
+There was
+a shooting, and a self-driving car stopped and didn't go any further, even when
+the ambulance drove through. Left-leaning city councils were more upset about
+the car than the shooting! Recently, a Waymo car ran over a dog that had broken
+away from its owner and ran out onto the street from behind a car. Well, that
+happens, even with human drivers, but when it comes to robot taxis, the
+complaining starts. The technology will still come, anyway, and it has my
+blessing!
