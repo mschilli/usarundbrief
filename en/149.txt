@@ -354,7 +354,7 @@ winter can't make up for years of drought, but it certainly helps. So the water
 reservoirs have been filled again (8 out of 12 are back to 75% according to
 official sources). The snow cover in the mountains has grown back to a healthy
 level and only
-<LINK>https://calmatters.org/california-drought-monitor/5% of California's land area is left in drought conditions.</LINK>
+<LINK>https://calmatters.org/california-drought-monitor/|5% of California's land area is left in drought conditions.</LINK>
 
 <pic images/tahoe-flooded.ps The heavy rain has flooded hiking trails.>
 
