@@ -36,34 +36,38 @@ intersection, just like a human driver who is on the ball would do.
 
 Once I saw that on the opposite lane of a two-lane but not particularly wide
 street, a cyclist was coming towards me, behind him a line of cars that didn't
-dare to overtake because it was too narrow. I drove a bit further to the right
-on my side to make room, and suddenly the Waymo car crossed the center line by
-half a meter and overtook the cyclist safely and smoothly. Here, hardly any
-driver would have dared to do that, and I was surprised that it was taught to
-the driving computer. Hats off!
+dare to overtake because the road was too narrow. I drove a bit further to the
+right on my side to make room, and suddenly the Waymo car came over, crossed
+the center line by half a meter and overtook the cyclist safely and smoothly.
+No driver in San Francisco, would have dared to do that, and I was surprised
+that it was taught to the driving computer. Hats off!
 
-<pic images/waymo-do-color.ps Also in our neighborhood, Waymo cars often come by.>
+<pic images/waymo-do-color.ps Self driving Waymo cars are quite common In our neighborhood.>
 
-You can also hire the driverless vehicles as a taxi. Download the app
-"Waymo-One" or the competitor's "Cruise" on your phone and then book the ride
-like with Uber or Lyft. However, this business is currently only allowed to the
-two companies at night. The city of San Francisco has only issued the permit
-between 10 pm and 5 am.
+You can also hire the driverless vehicles as cabs. Download the app "Waymo-One"
+or the competitor's "Cruise" onto your phone and then book the ride like with
+Uber or Lyft. However, this business is currently only allowed to the two
+companies in the middle of the night. The city of San Francisco has only issued
+the permit between the hours of 10 pm and 5 am.
 
 It is a bit creepy to get into a driverless car, but friends have told me that
-they arrived safely at their destination. Self-driving cars, by the way, take
-strange routes through the city. Because it is technically easier to turn right
-than left, they do not choose the shortest routes, but those without left
-turns. So they take detours that a human driver would probably not choose, but
-so far there has been no serious accident. As always, the old-fashioned hippies
-in the city are protesting against the innovation, as recently happened when
-they appeared in the Mission
-district.<LINK>https://twitter.com/TheMarinaTimes/status/1667702963207557121?s=20|A shooting with nine injured in San Francisco's Mission district.</LINK>
-There was
-a shooting, and a self-driving car stopped and didn't go any further, even when
-the ambulance drove through. Left-leaning city councils were more upset about
-the car than the shooting! Recently, a Waymo car ran over a dog that had broken
-away from its owner and ran out onto the street from behind a car. Well, that
-happens, even with human drivers, but when it comes to robot taxis, the
-complaining starts. The technology will still come, anyway, and it has my
-blessing!
+they arrived safely at their destination after booking a ride. Self-driving
+cars, by the way, take strange routes through the city. Because it is
+technically easier to turn right than left, they do not choose the shortest
+routes, but those without left turns. So they take detours that a human driver
+would probably not choose.
+
+So far there has been not a single serious accident. As
+usual, some old-fashioned hippies in our city are up in arms against the
+innovation, as recently when there was
+<LINK>https://twitter.com/TheMarinaTimes/status/1667702963207557121?s=20|a shootout with nine injured in San Francisco's Mission district.</LINK>
+In the aftermath, a self-driving car stopped and didn't go any further
+in the vicinity of the crime, even when an ambulance demanded to get
+through. Left-leaning city councils took to their Twitter accounts
+and were more upset about the car than the shooting itself!
+
+Recently, a Waymo car ran over a dog that had broken away from its owner and
+had run out onto the street from behind a car. Well, that happens, even with
+human drivers, but when it comes to robotaxis, the complainers start
+complaining. The technology will still come anyways, and it rest assured that
+it has my blessing.
