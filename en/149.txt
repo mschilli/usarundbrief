@@ -285,3 +285,60 @@ so flush with money that it starts burning a hole in their pockets.
 Well, if you already have a
 house for six million, you might just as well get an outdoor RV for a million.
 You only live once.
+
+@Z: Bad inflation, everything is getting more expensive!
+
+<pic images/ifl-jb-bread-1199.ps In March 2023, a loaf of bread cost 11.99 dollars.>
+
+<em>Michael</em> It's certainly not escaped your notice that everything is
+getting more expensive, and you're probably eager to find out if it's the same
+in the US as it is in financially-strapped Germany. To that I can say that
+certain goods have always been absurdly expensive here by
+international standards (cheese, butter, good bread, wine, beer, ice cream),
+while clothes or beef are definitely cheaper here.
+
+<pic images/ifl-jb-bread-899.ps In December 2022, the same bread was still 30% cheaper.>
+
+For the past 20 years, prices have crept up almost imperceptibly year after
+year, and while a burrito at a Mexican restaurant cost about $6 in 1997, the
+price of this fast food eventually surpassed the $10 mark by 2015, which is
+actually a relatively acceptable increase due to unavoidable inflation. Then
+came Corona and within two years the price suddenly jumped to $16. And if you
+want beef on it, add another $2 because beef has suddenly become scarce and
+expensive (Figure #3)!
+
+<pic images/beef-burrito.ps (#3) Beef has become suddenly more expensive.>
+
+Looking at a table of official US inflation rates by year, it appears that 2023
+had the highest recent rate at 8%, similar to Europe where it was 9.2% in 2023.
+It also shows that the US had even higher rates in the 80s, around 14%, and
+that was for several years.
+
+<pic images/inflation.ps US inflation rate from 1960 to present>
+
+If you, like me, regularly go to the supermarket to buy groceries, you know
+that the inflation rate is currently far from 8%. It is much higher!
+One reason for this is that
+the published numbers are reduced from official sources using interesting methods. For
+example, if a car used to cost $10,000 and now costs $20,000, it is not assumed
+that there has been a 100% increase in price. No, the statisticians argue that
+the car is now much more modern and has smarter functions, so the car is now
+much more valuable than the old vehicle. The consumer is lucky to be able to
+buy this progress at a higher price! The inflation calculation is then based on
+an appropriately adjusted base price, not the previous price. That the consumer
+might be satisfied with the old function and would rather buy a less
+sophisticated but cheaper car does not matter. Those interested can read how
+the government agency "Bureau of Labor Statistics" (BLS) calculates inflation
+as the "Consumer Price Index" (CPI) and reduces prices with the so-called
+<LINK>https://www.bls.gov/cpi/quality-adjustment/questions-and-answers.htm|"Hedonic Quality Adjustment"</LINK>.
+
+<pic images/baguette.ps A baguette for 7.50 dollars at the supermarket.>
+
+Eating out at restaurants has become more expensive for us too, since there are
+hardly any people willing to work in the low-wage sector right now. You have to
+pay around 25 dollars for a cheap main course in San Francisco, or more than
+$40 for something meaty. However, I was shocked to find out during our visit to
+Germany this summer that German menus have also reached this level! One thing
+that is still cheaper in Germany is beer. While a "pint" at "Zeitgeist", one of
+the few beer gardens in San Francisco, now costs 9 dollars (plus 2 dollars
+tip), hardly any shop in Germany charges more than 6 euros.
