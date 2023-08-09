@@ -40,7 +40,6 @@ ein menschlicher Autofahrer, der auf Zack ist, auch machen würde.
 
 <pic images/waymo-night.ps Bei Nacht arbeiten die Waymo-Autos als führerlose Taxis>
 
-
 Einmal sah ich, dass mir auf der Gegenfahrbahn einer zweispurigen aber nicht
 gerade breiten Straße ein Radfahrer entgegenkam, direkt hinter ihm ein
 Waymo-Fahrzeug samt einer Schlange normaler Autos, die sich nicht zu überholen
