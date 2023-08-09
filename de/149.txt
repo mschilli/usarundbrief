@@ -41,12 +41,13 @@ ein menschlicher Autofahrer, der auf Zack ist, auch machen würde.
 <pic images/waymo-night.ps Bei Nacht arbeiten die Waymo-Autos als führerlose Taxis>
 
 Einmal sah ich, dass mir auf der Gegenfahrbahn einer zweispurigen aber nicht
-gerade breiten Straße ein Radfahrer entgegenkam, hinter ihm eine Schlange von
-Autos, die sich nicht zu überholen trauten, weil's zu eng war.  Ich fuhr auf
-meiner Seite etwas weiter rechts ran, um Platz zu machen, und zack! kam das
-Waymo-Auto einen halben Meter über die Mittellinie und überholte den Radfahrer
-sicher und sourverän. Das hätte sich hier kaum ein Autofahrer getraut, und ich
-war überrascht, dass es dem Fahrcomputer eingetrichtert wurde. Hut ab!
+gerade breiten Straße ein Radfahrer entgegenkam, direkt hinter ihm ein
+Waymo-Fahrzeugt samt einer Schlange normaler Autos, die sich nicht zu überholen
+trauten, weil's zu eng war.  Ich fuhr auf meiner Seite etwas weiter rechts ran,
+um Platz zu machen, und zack! kam das Waymo-Auto einen halben Meter über die
+Mittellinie und überholte den Radfahrer sicher und souverän. Das hätte sich
+hier kaum ein Autofahrer getraut, und ich war überrascht, dass es dem
+Fahrcomputer eingetrichtert worden war. Hut ab!
 
 <pic images/waymo-do-color.ps Auch bei uns im Viertel kommen oft Waymo-Autos vorbei.>
 
