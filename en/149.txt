@@ -35,12 +35,13 @@ intersection, just like a human driver who is on the ball would do.
 <pic images/waymo-night.ps At night, Waymo cars work as driverless taxis.>
 
 Once I saw that on the opposite lane of a two-lane but not particularly wide
-street, a cyclist was coming towards me, behind him a line of cars that didn't
+street, a cyclist was coming towards me, behind him a Waymo vehicle followed
+by a line of cars that didn't
 dare to overtake because the road was too narrow. I drove a bit further to the
 right on my side to make room, and suddenly the Waymo car came over, crossed
 the center line by half a meter and overtook the cyclist safely and smoothly.
 No driver in San Francisco, would have dared to do that, and I was surprised
-that it was taught to the driving computer. Hats off!
+that it had been taught to the driving computer. Hats off!
 
 <pic images/waymo-do-color.ps Self driving Waymo cars are quite common In our neighborhood.>
 
