@@ -42,7 +42,7 @@ ein menschlicher Autofahrer, der auf Zack ist, auch machen würde.
 
 Einmal sah ich, dass mir auf der Gegenfahrbahn einer zweispurigen aber nicht
 gerade breiten Straße ein Radfahrer entgegenkam, direkt hinter ihm ein
-Waymo-Fahrzeugt samt einer Schlange normaler Autos, die sich nicht zu überholen
+Waymo-Fahrzeug samt einer Schlange normaler Autos, die sich nicht zu überholen
 trauten, weil's zu eng war.  Ich fuhr auf meiner Seite etwas weiter rechts ran,
 um Platz zu machen, und zack! kam das Waymo-Auto einen halben Meter über die
 Mittellinie und überholte den Radfahrer sicher und souverän. Das hätte sich
