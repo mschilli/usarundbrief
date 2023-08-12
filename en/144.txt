@@ -88,7 +88,7 @@ published a ten-page article titled
 in San Francisco, documenting the decline of the city she once loved. Worth
 reading!
 
-@Z: The @Z Supreme Court and "Roe vs. Wade"
+@Z: The US Supreme Court and "Roe vs. Wade"
 
 <pic images/supreme-court.ps The nine Constitutional judges of the US Supreme Court.>
 
@@ -170,8 +170,6 @@ replacement, so that the position would go to someone with a more moderate or
 liberal background, which is what happened. Ketanji Brown Jackson was sworn in
 on June 30, 2022, after the Senate, which currently has a narrow Democratic
 majority, confirmed her, following the required hearings.
-
-TODO
 
 It's been a common occurrance lately that Supreme Court judges just pass away
 while in office.  Antonin Scalia suddenly passed away at 79 years
