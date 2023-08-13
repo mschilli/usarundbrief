@@ -373,7 +373,7 @@ least entertaining!
 <GIF>images/beach-laugh.gif|Michael is copying Charlton Heston in 'Planet of the Apes'.</GIF>
 
 But back to the bunker ruins now found on this beach: The concrete half-circle
-protruding from the sand in Figure (#1) is a segment of a so-called Tobruk.
+protruding from the sand in Figure (#1) is a segment of a so-called
 <LINK>https://en.wikipedia.org/wiki/Panama_mount|Panama Mount</LINK>.
 
 It consists of a platform made from concrete in the shape of a circle, on which
@@ -396,7 +396,7 @@ from the sand.
 
 <pic images/ff-museum.ps On the website of the Military Museum, pictures from 1937 show the original fortifications.>
 
-At the top of the dune, there is still an old concrete bunker (#2) from the
+At the top of the dune, there is still an old concrete bunker (Figure #2) from the
 Second World War, and it's hanging there so loosely, that I always wonder when
 it will fall down next (update: it fell down in July of 2023).  The authorities
 responsible for beaches in California are usually scaredy cats who immediately
