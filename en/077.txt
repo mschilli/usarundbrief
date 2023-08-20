@@ -323,3 +323,148 @@ For more insights into time zones, on Wikipedia, under
 <LINK>https://en.wikipedia.org/wiki/Effects_of_time_zones_on_North_American_broadcasting#Broadcast_television|Effects
 of Time Zones on North American Broadcasting</LINK> there is an extensive
 explanation of this phenomenon.
+
+@Z: The Fair Credit Reporting Act
+
+<pic images/creditreport.ps Free Credit Report on the Internet at annualcreditreport.com>
+
+<em>Michael</em> In the U.S., when buying a house or leasing a car, the lender will check
+the customer's so-called credit report to make sure they are credit worthy and
+not in the habit of squandering away borrowed money. This American equivalent to the
+German Schufa is managed by three different private companies in the US:
+Equifax, Experian and Transunion. We already explained the details in
+<RBLINK>20040518#4</RBLINK>.
+
+Consumer associations also advise that every American check their own credit
+report once a year so that they can immediately detect if something is wrong
+and take countermeasures. Until recently, there used to be a fee for private
+individuals of about $30 to view their credit records on the Internet with the
+three companies.
+
+Politicians have realized that there is a lot of abuse with credit
+data and it would be very careless to omit the annual review. However, it is
+not quite fair to burden the citizen with the cost, and a new law was enacted,
+the
+<LINK>http://en.wikipedia.org/wiki/Fair_Credit_Reporting_Act|Fair Credit Reporting Act</LINK>,
+which mandates that the three companies provide this service free of charge once per year.
+
+On the official website <LINK>http://annualcreditreport.com</LINK>, the citizen
+enters their personal data and is then subsequently directed to the websites of
+Equifax, Experian and Transunion, each of which disclose the data the have stored on
+the citizen. The whole thing is somewhat clumsily implemented and the companies
+repeatedly and hypocritically ask if you don't want to pay money for a more
+detailed service, but if you always click "No" persistently, the data actually
+comes out for free. Not included in the package, however, is the so-called "Credit
+Score", a number between 300 and 850, which still costs money, but is
+irrelevant if you're just examining the data for inconsistencies.
+
+Beware: Do not fall for the similarly sounding website freecreditreport.com, it
+is a private company that charges $14.95 per month for a service that runs free
+for a week but then automatically renews. It has absolutely nothing to do with
+the free legal credit report. The correct page for the free Credit Report is
+annualcreditreport.com. Do not confuse them!
+
+@Z: Proposition Number 8 (Same Sex Marriage)
+
+<pic images/prop8.ps In San Francisco, most people are against Proposition 8.>
+
+<em>Angelika</em> While people in San Francisco were dancing in the streets to
+celebrate Obama's victory, many were disappointed by another vote: the hotly
+contested Proposition 8 (Proposition=Referendum) received a narrow majority. In
+California, voters not only cast their votes for the president, but also for
+various referendums. Proposition 8 amends the California Constitution so
+that a marriage can explicitly only exist between a man and a woman. So,
+whoever is <em>for</em> Proposition 8 is <em>against</em> same-sex marriage,
+and whoever is against Prop 8 is <em>for</em> same-sex marriage. Don't get
+confused!
+
+52% of California citizens said "yes" to Proposition 8. You may remember that
+only in May of this year the highest California court allowed same-sex marriage
+and in the meantime, 18,000 same-sex couples have said "I do" in California
+(<RBLINK>20080712#4</RBLINK>).
+
+Immediately, the analysis started of who had voted against same-sex marriage. In
+an irony of fate, the higher voter turnout of the black Californian population,
+who wanted to cast their vote for Obama, seemed to mean the end of same-sex
+marriage at the same time, since 70% of this population group voted for
+Proposition 8. However, the proportion of blacks in California is relatively
+small (6%). Generally, religious affiliation or frequent church attendance was
+a better indicator. Latinos, who are usually Catholic, also voted
+overwhelmingly for Proposition 8.
+
+<pic images/castro.ps Especially in the Castro district in San Francisco, the result of the referendum was received with regret.>
+
+Now the last word has not yet been spoken, because the case goes back to the
+highest California court. Just today the judges decided that they will deal
+with whether the 18,000 legally closed same-sex marriages remain valid and
+whether Proposition 8 is really an amendment to the constitution or a change to
+the constitution. This may seem like splitting hairs to you now, but if the
+judges decide that it is equivalent to a constitutional amendment, Proposition
+8 is invalid. A change of the constitution can only be put to a vote by the
+voters if a two-thirds majority of the legislature has voted for it beforehand,
+while for an amendment, a voter petition by signatures is sufficient. The
+opponents of Proposition 8 argue that it is a change of the constitution, since
+fundamental rights of a population group are withdrawn by simple majority vote.
+So the bickering continues.
+
+@Z: Open Studios and Berkeley Art Center
+
+<pic images/studio.ps Angelika and other photographers are exhibiting their pictures.>
+
+<em>Angelika</em> In October and November, I dragged Michael from one
+exhibition opening to the next. As I mentioned before, every October, artists
+open their studios as part of the so-called "Open Studios" to show their works
+(<RBLINK>20051208#2</RBLINK>). Now I don't own a studio, but I'm quite active
+in a photography group and so eight of us from our group decided to rent a space
+in Fort Mason, a kind of cultural center in San Francisco, and show our photos
+to the public for a weekend. I worked day and night to get everything ready,
+and Michael had to use some acrobatic skills to make his way through the living
+room. Unfortunately, our exhibition had to compete with the Blue Angels, the annual air
+show that takes place around Fort Mason. There was traffic chaos and a shortage
+of parking spaces and some photo fans didn't manage to get to us. Michael said
+that my marketing strategies still needed some improvement so that I could get
+my works out there. Well, practice makes perfect.
+
+Now in November I am exhibiting 11 of my photos again with my photography group
+at the Berkeley Art Center. The theme of the exhibition is "Loss" and I am
+showing photos that I took in my grandmother's house after her death. Something
+nerve-wracking was that I even had to give a
+<LINK>http://video.google.com/videoplay?docid=-6404522915349865561|lecture on my photos</LINK>.
+We were hosting a so-called artist talk. But the audience was friendly and interested.
+
+@Z: A screwdriver opens the door lock
+
+<pic images/lock1.ps (#6) To lock the lock, turn the small cylinder in the middle of the door knob a quarter turn to the right.>
+
+<em>Michael</em> The locks on bedroom doors in America look quite different
+than in Germany. For example, to lock the door in Figure (#6) from the inside,
+you turn the small cylinder in the middle of the door handle a quarter turn
+clockwise. After that, the door knob can no longer be turned and the lock can no
+longer be opened.
+
+<pic images/outer.ps From the outside, the bathroom lock looks like it can be opened with a key.>
+
+What I didn't know for a long time is that you can easily open these common
+door locks from the outside with a screwdriver. That's probably a safety
+mechanism so that small children, or adults who behave like small children,
+don't lock themselves in and then can't get the door to open again.
+
+<pic images/lock.ps A lock on a door can be easily opened with a screwdriver for security reasons.>
+
+Here's a trick: You simply stick a regular screwdriver from the outside into the opening that
+looks like a keyhole, and turn it a quarter turn to the right -- snap, the door
+knob turns and the door opens. A huge party fun!
+
+That was the newsletter!
+
+@Z: Solution to the Time Zone Trivia Question
+
+And now for the resolution of the trivia question on time zones above: "Jay
+Leno" runs in Denver at 9:35 PM. It is the one-hour delayed East Coast
+broadcast, which airs in New York at 10:35 PM. One hour delay makes it 11:35 PM
+and at that time it is two hours earlier in Denver, making it 9:35 PM. I bet
+none of you math-dummies figured that out!
+
+Be greeted by your friends from the "Pacific Time" time zone.
+
+Angelika and Michael
