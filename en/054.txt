@@ -133,4 +133,89 @@ delicacies, but European style bakery goods. When looking at the baked goods,
 we always think we are in a German bakery (just without the rolls). Andersen's
 cheesecake also is unbeatably good.
 
+@Z: Testing our Health insurance
+
+<em>Michael</em> On December 13th, I took the train and my bike to work as
+usual. When the train stopped at Mountain View station, I hopped on my bike,
+pedaled, and as usual, zoomed across the pedestrian bridge that leads to Yahoo!
+in Steven's Creek Park. Unfortunately, I didn't think about the fact that the
+bridge floor was made of wet wooden planks when I leaned into the ramp like a
+Formula 1 motorcyclist and, bam!, I was on the ground.
+
+Because I had straps on the pedals, my foot got stuck between the bicycle and
+the ground. It hurt like hell, but I got up right away and kept cycling to
+work. During the day, however, my ankle swelled up, and in the late afternoon
+it became too much for me, so I left the bicycle at work and took the Yahoo!
+shuttle bus to the train station and the train to San Francisco. There,
+Angelika picked up a limping invalid by car.
+
+<pic images/ankle.ps (#1) My sprained ankle>
+
+Unless you're just eating dinner right now, please take a look at the swollen foot in
+Figure (#1). I really couldn't walk anymore, every step hurt like someone was
+drilling into my ankle with a knife.
+
+Where I work, at home or at the office, doesn't matter much, so the next
+morning I just called the office and requested a week of working from home. We
+have a super-elegant armchair at home, with a footrest that pops out when you
+lean back, and equipped with a laptop and a wireless network, it was really a
+pleasure to work like that. But after a few days, when my foot didn't get
+better, I started to get anxious. Maybe I should get an X-ray done?
+
+The problem is, of course, that hospitals in the US are a nightmare. I
+believe the doctors there wouldn't find a fracture, even if it was marked with
+a thick red felt-tip pen on the X-ray. Sure, you can get a quadruple bypass or
+maybe have your brain taken out and put back in without any problem from super
+specialists, but everyday care is like in the third world.
+
+My aversion to going to the doctor in America is already legendary: Last year,
+while Angelika was traveling, I pulled a roughly 1 cm long wood fiber into my
+finger with an careless hand movement while installing a computer cable under
+my desk, directly below the nail. The fiber couldn't be grasped with tweezers,
+it had slipped too deep under the skin. It was Saturday and I would have had to
+drive to the emergency room of the hospital, which was right around the corner,
+but in a rather, uhm, vibrant part of town. I had been there once before on a
+different occation, and during my approximately one hour stay, a person with
+gun shot wounds had been wheeled in, blood-soaked. I'm no wimp, but I'm not
+going to the emergency room again anytime soon.
+
+Finally, I drank a large glass of whiskey, heated up a needle, sprayed
+disinfectant on it, and slit the skin below the fingernail. It took about half
+an hour until, after several attempts, I finally managed to grab the splinter
+with tweezers. My victory yell could be heard all the way to the hospital.
+
+Furthermore, after any visit to a doctor or hospital, one often has to struggle
+with the health insurance for months. Because hospitals have to treat people
+without insurance or means at least inadequately, and often remain stuck with
+the costs, they ruthlessly exploit people with insurance. When the insurance
+companies then refuses to pay those exorbitant amounts charged, the patient has
+to argue with rude and merciless debt collectors employted by the hospitals.
+
+Besides, our health insurance requires an annual deductible of $250 (as
+Angelika already explained in <RBLINK>20041129#8</RBLINK>). With my new job
+since the end of September, I didn't have the new health insurance for long and
+was faced with the question: Should I pay $250 to get an X-ray of my ankle? But
+in the end, I broke down and ended up going to the doctor. He sent me to the
+hospital for an X-ray, where nothing was found. Well, at least I was reassured,
+that was worth the money.
+
+<pic images/claim.ps (#2) The bill from the hospital.>
+
+When seeing a doctor, we only pay a deductible of $15, and our health insurance
+covers everything else. Not so with hospital services like X-rays: the health
+insurance only pays 90% and, as I said, I as a patient have to chip in $250 annually.
+
+Figure (#2) shows the bill that came by mail after my visit. The hospital actually
+charged $526 for the X-rays. Probably the X-ray machine was made of gold. In
+column B you can see that the insurance had previously negotiated a maximum of
+$341.90 with the hospital for X-rays of the ankle, and that is the amount that
+the hospital gets. If I wasn't insured, the hospital would have coldly charged
+me $526. In column E you can see the co-payment of $250 that your humble
+narrator unfortunately had to pay out of pocket. Of the $341.90, therefore,
+$91.90 remain, of which the health insurance reimburses 90%, and I was left
+with another $9.19. So we sent a check for $259.19 to the hospital and the
+matter was settled. Aetna, our healthcare insurance, is one of the better
+insurances and there were no complications.  Well, that was one expensive
+Formula 1 curve!
+
 TODO
