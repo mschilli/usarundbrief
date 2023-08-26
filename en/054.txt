@@ -336,6 +336,7 @@ this before. Full 10 sauna points from me for this product!
 
 <pic images/coldplay.ps Coldplay - "A Rush of Blood to the Head">
 
+<em>Michael</em>
 Although already two years old and from Great Britain, I only recently
 discovered it and was enthralled: Coldplay's second album (after "Parachute"),
 "A Rush of Blood to the Head" strikes a quiet tone, but the melodies stick in
@@ -358,6 +359,7 @@ doing here?"
 
 @Z: Dog bites Postman
 
+<em>Michael</em>
 Recently, a funny letter from the main post office in San Francisco flew into
 the house: too many mail carriers are being bitten by dogs and this can't go on
 like this! In the letter in Figure (#4) you can read that in such a case the
@@ -365,56 +367,188 @@ dog owner has to go to court and can expect a fine of up to 1,000 dollars.
 
 <pic images/bite.ps (#4) The post office reminds to leash dogs.>
 
-Actually, this punishment is still too mild. Unfortunately, it happens again and again that dogs go crazy because their irresponsible owners let them run around unleashed. It has happened to me more than once that the dog of some idiot suddenly ran after my bicycle. The good thing in America is of course that you can really make the responsible person pay. As long as you don't become deadly, everything is allowed. The first amendment of the constitution guarantees it.
+Actually, this punishment is still too mild. Unfortunately, it happens again
+and again that dogs go crazy because their irresponsible owners let them run
+around unleashed. It has happened to me more than once that the dog of some
+idiot suddenly ran after my bicycle. The good thing in America is of course
+that you can really let off steam with the irresponsible person and call them
+anything you want. As long as you don't get physical, everything is allowed.
+The first amendment of the constitution guarantees it.
  
 @Z: Book recommendation "American Conditions"
 
-<pic images/gerse.ps An interesting, albeit not entirely true, book.>
+<pic images/gerse.ps An interesting, albeit not entirely truthful, book.>
 
-There is actually hardly anyone who reports on the USA in an informed and balanced way. Two extremes stand out: On the one hand, the "Hurrah!"-shouters, mostly well-situated entrepreneurs, who annoy everyone in Germany and idealize the American conditions. At the other end of the scale are the America-haters, who have never been to the USA, but know how to tell horror stories about the "American Way of Life".
+There is actually hardly anyone in Germany who reports on the USA in an informed and
+balanced way. Two extremes stand out: On the one hand, the "Huzzah!"-shouters,
+mostly well-situated entrepreneurs, who annoy everyone in Germany and idealize
+American conditions. At the other end of the scale are the America-haters,
+who have never been to the USA, but know how to tell horror stories about the
+"American Way of Life".
 
-Our newsletter is trying to find a balance. We live in the USA, but we don't ignore the problems.
+Our newsletter is trying to find a balance. We live in the USA, but we're
+not ignoring the problems.
 
-The book "American Conditions" by Olaf Gersemann, which I recently read in English, where it is called "Cowboy Capitalism: European Myths, American Reality", can be found on the "Hurrah!"-shouter side of the scale. But Olaf Gersemann has at least tried to gather some interesting facts.
+The book "American Conditions" by Olaf Gersemann, which I recently read in
+English, where it is called "Cowboy Capitalism: European Myths, American
+Reality", can be found on the "Huzzah!"-shouter side of the scale. But Olaf
+Gersemann has at least tried to gather some interesting facts.
 
-He is analyzing typical German prejudices about the USA and refuting them using interpreted statistics. For example, only 5.3% of the American population have two or more jobs. I also found his perspective that the majority of German tuition fees are paid by people who have not studied interesting. Or that in Germany the rich surprisingly get a lot back from the state, while the redistribution of state revenues in America actually benefits the poor more.
+He is analyzing typical German prejudices about the USA and refuting them using
+interpreted statistics. For example, only 5.3% of the American population have
+two or more jobs. I also found his perspective that the majority of German
+tuition fees are paid by people who have never enjoyed higher education
+interesting. Or that in Germany, the rich surprisingly get a lot back from the
+state through tax returns, while the redistribution of state revenues in
+America actually benefits the poor more.
 
-He even admits that about 1% of the US population is incarcerated, that the pharmaceutical industry bribes politicians and makes enormous profits, that the healthcare system is the most expensive and one of the worst in the world, and that the wage gap between the poor and the rich is enormous.
+He even admits that about 1% of the US population is incarcerated, that the
+pharmaceutical industry bribes politicians and makes enormous profits, that the
+healthcare system is the most expensive and one of the worst in the world, and
+that the wage gap between the poor and the rich is enormous.
 
-Nevertheless, Gersemann-Olaf is a kind of Michael Moore of the financial magnates, who doesn't take the truth too seriously. If he can only refute a prejudice, he bends the statistics according to his wishes. Once he demonstrates a trend with three different income groups, but to show another tendency, he can't take the lowest third, but quickly changes without explanation to the lower "fifth". Or he argues adventurously that it is already okay for the pharmaceutical industry to demand excessive prices, because better medicines are created and the gross domestic product increases when people live longer.
+Nevertheless, Gersemann-Olaf is a kind of Michael Moore of financial
+magnates, who doesn't take the truth too seriously. If he can only refute a
+prejudice, he bends the statistics according to his wishes. Once he
+demonstrates a trend with three different income groups, but to show another
+tendency, he can't take the lowest third, but quickly changes without
+explanation to the lower "fifth". Or he argues adventurously that it is
+okay for the pharmaceutical industry to demand excessive prices, because better
+medicines are created and the gross domestic product increases when people live
+longer.
 
-Apart from these slips, the book is actually quite interesting, it contains a lot of facts that hardly anyone knows who hasn't lived for a long time in both Germany and the USA. If you are more likely to be found on the left side of the political scale, you will partly rage during the reading, keep valerian drops ready.
+Apart from these slips, the book is actually quite interesting, it contains a
+lot of facts that hardly anyone knows who hasn't lived for a long time in both
+Germany and the USA. If you are more likely to be found on the left side of the
+political scale, you will partly rage during the reading, keep valerian drops
+ready.
 
-@Z: Medicare: The state health insurance for retirees.
+@Z: Medicare: Health Insurance for Retirees.
  
 <pic images/rentner.ps American retirees>
 
-<em>(Angelika)</em>
-We have been complaining a lot in the newsletters lately about American health insurance and have overlooked that there is also a state health insurance in the hard-core capitalist America, namely the one for retirees - called "Medicare". A glorious exception! Every pensioner can join this state health insurance from (at the moment) 65 years of age. People under 65 with certain disabilities or severe permanent kidney failure receive Medicare benefits. The whole thing is financed by the state withholding 1.45% (as of 2005) of the employee's gross salary. The employer also contributes 1.45% - a similar principle as you know from Germany. Self-employed people pay 2.9% (employer plus employee contribution) into the pot. As a rule, one has to have paid contributions oneself or through one's spouse for at least 10 years in order to receive benefits later. The state insurance "Medicare" was founded in 1965.
+<em>Angelika</em> We have been complaining a lot in the newsletters lately
+about American health insurance, but never mentioned that there is also a
+government provided health insurance, which may sound surprising in hard-core
+capitalist America.  It's only for retirees, and it's called "Medicare". A
+glorious exception! Every retiree can join this government provided health
+insurance, starting at 65 years of age (for now). People under 65 with certain
+disabilities or diseases like severe permanent kidney failure are eligible for
+Medicare benefits. The whole thing is financed by the state withholding 1.45%
+(as of 2005) of the employee's gross salary. The employer also contributes
+1.45% - a similar principle as you know from Germany. Self-employed workers pay
+2.9% (employer plus employee contribution) into the pot. As a rule, one has to
+have paid contributions oneself or through one's spouse for at least 10 years
+in order to receive benefits later. The system of "Medicare" was founded in
+1965.
  
-Traditional Medicare insurance distinguishes two areas: hospital insurance (Part A) and insurance for doctor visits and other outpatient services (Part B). For hospital insurance, the retiree pays no monthly contributions, but a one-time self-participation of $912 (as of 2005) for hospital stays from 1 to 60 days. Stays from 61 to 90 days cost the retiree $228 per day. This amount increases to $456 (!) (you read that right) per day if the insured patient has to stay in the hospital between 91 and 150 days. After 150 days, there are no more Medicare benefits for hospital stays. However, if the patient has left the hospital for 60 days, the insurance will intervene again upon re-admission. The patient will, however, have to pay the aforementioned amounts again, i.e. the self-participation applies per stay and not per year.
+Traditional Medicare insurance distinguishes two areas: hospital insurance
+(Part A) and insurance for doctor's visits and other outpatient services (Part
+B). For hospital insurance, the retiree pays no monthly contributions, but a
+one-time self-participation of $912 (as of 2005) for hospital stays from 1 to
+60 days. Stays from 61 to 90 days cost the retiree $228 per day. This amount
+increases to $456 (!) (you read that right) per day if the insured patient has
+to stay in the hospital between 91 and 150 days. After 150 days, there are no
+more Medicare benefits for hospital stays. However, if the patient has left the
+hospital for 60 days, the insurance will intervene again upon re-admission. The
+patient will, however, have to pay the aforementioned amounts again, i.e. the
+self-participation applies per stay and not per year.
  
-The second part of Medicare, which covers doctor visits, etc., currently costs a monthly premium of $78.20. The annual deductible for 2005 is $110, after which Medicare reimburses 80% of the accepted doctor fees -- the patient is responsible for the remaining 20%.
+The second part of Medicare, which covers doctor's visits, etc., currently costs
+a monthly premium of $78.20. The annual deductible for 2005 is $110, after
+which Medicare reimburses 80% of the accepted doctor fees -- the patient is
+responsible for the remaining 20%.
  
-If you haven't fallen asleep while quoting my numbers, you have noticed that the co-payments are enormous. Even with Medicare insurance, retirees facing long-term illness are facing bankruptcy. Therefore, private insurers offer so-called "Medigap" insurance ("gap" = gap) for sale to close the supply gap and minimize co-payments. Private Medicap policies are subject to state guidelines. Premiums vary from insurer to insurer. Of course, the amount also depends on how much protection the individual wants. Neither traditional Medicare insurance nor Medigap insurance, by the way, covers dental visits, eye examinations, glasses or hearing aids, or long-term stays in nursing homes.
+If you haven't fallen asleep while I was quoting my numbers, you've noticed that
+the co-payments are enormous. Even with Medicare insurance, retirees facing
+long-term illness are facing bankruptcy. Therefore, private insurers offer
+so-called "Medigap" insurance ("gap" = gap) to close the supply gap
+and minimize co-payments. Private Medicap policies are subject to state
+guidelines. Premiums vary from insurer to insurer. Of course, the amount also
+depends on how much protection the individual wants. Neither traditional
+Medicare insurance nor Medigap insurance, by the way, covers dental visits, eye
+examinations, glasses or hearing aids, or long-term stays in nursing homes.
  
-Since the American gentleman is known to like to privatize everything and anything, the government came up with the idea early on to allow private providers alongside the traditional, state-run Medicare insurance, as long as they offer retirees insurance with at least the same benefits as the state Medicare. These private insurances are now grouped under the name "Medicare Advantage". Generally, their range of services is larger and the co-payments are smaller, but the insured is subject to restrictions, for example regarding the choice of doctor ("managed care") and often has to pay an additional fee for the additional services in addition to the monthly premium of $78.20 (see above).
+Since America has been known to privatize everything and
+anything, the government early came up with the idea on allowing private
+providers alongside the traditional, state-run Medicare insurance, as long as
+they offer retirees insurance with at least the same benefits as the state
+Medicare. These private insurances are now grouped under the name "Medicare
+Advantage". Generally, their range of services is larger and the co-payments
+are smaller, but the insured is subject to restrictions, for example regarding
+the choice of doctor ("managed care") and often has to pay an additional fee
+for the additional services in addition to the monthly premium of $78.20 (see
+above).
  
-Interestingly, traditional Medicare insurance has not paid for medications (I mean prescription ones-- for the others you have to pay for yourself anyway), which is a catastrophe for many retirees, since the need for medications increases with age, as is well known. Those who could not afford private insurance in this regard were left out in the cold or went on a weekend trip to Canada to get the medications more cheaply. We often read in the newspaper that older people do not take their necessary medications regularly because they lack the money to fill a prescription or only take half the prescribed amount.
+Interestingly, traditional Medicare insurance won't pay for medication (I
+mean prescription ones -- for the others you have to pay yourself anyway),
+which is a catastrophe for many retirees, since the need for medication
+increases with age. Those who cannot afford private
+insurance are left out in the cold or are going on a weekend trip to
+Canada to get the medications more cheaply. We often read in the newspaper that
+older people do not take the necessary medications regularly because they
+lack the money to fill a prescription or only take half the prescribed amount.
 
-This medication issue determined every election, because in America, retirees constitute an important voting bloc. By the end of 2003, after a long political struggle, it was finally decided: Medicare would include payment for medications - albeit with many restrictions - by law. 2004 and 2005 are considered transition years: the Medicare recipient receives a discount card which they present when purchasing medication, giving them a 10-15% savings. Starting in 2006, if the retiree has fulfilled their $250 self-contribution, Medicare will cover 75% of medication costs up to $2250. If the individual's medication expenses then fall between $2250 and $5100, the insurance will not pay anything. Above $5100, the retiree must contribute 5%. Additionally, there is a general monthly premium of approximately $35 for the medication insurance. Now, $2250 may sound like a lot, but I tell you, prescription medications in America are incredibly expensive. The new regulations smell like a bad compromise to many, but President Bush and his Republican party were not willing to negotiate with the pharmaceutical industry to set prices for medications, as many Democrats wished.
+This medication issue is a topic on every election campaign, because in America, retirees
+constitute an important voting bloc. By the end of 2003, after a long political
+struggle, it was finally decided: Medicare would include payment for
+medications - albeit with many restrictions - by law. 2004 and 2005 are
+considered transition years: the Medicare recipient receives a discount card
+which they present when purchasing medication, giving them a 10-15% savings.
+Starting in 2006, if the retiree has fulfilled their $250 deductible,
+Medicare will cover 75% of health care costs up to $2,250. If the individual's
+medication expenses then fall between $2,250 and $5,100, the insurance will not
+pay anything. Above $5,100, the retiree must contribute 5%. Additionally, there
+is a general monthly premium of approximately $35 for the prescription drug insurance.
+Now, $2,250 may sound like a lot, but I tell you, prescription drugs in
+America are incredibly expensive. The new regulations smell like a bad
+compromise to many, but President Bush and his Republican party were not
+willing to negotiate with the pharmaceutical industry to set prices for
+medications, as many Democrats wished.
 
-@Z: Medicaid: Health care for the poor.
+@Z: Medicaid: Health care for the poor
  
-<translation>Since I'm already at it: There is actually a health insurance program for the poorest of the poor in America. It's called "Medicaid" and was also introduced in 1965, originally for families receiving welfare and people with disabilities. It is funded by state and federal tax dollars. The states are subject to state guidelines, but have a lot of leeway in how they design Medicaid. Now it's not enough to be a poor slob to qualify for Medicaid, you have to belong to one of the following groups: children; pregnant women; parents with children still dependent on their care; people with disabilities; seniors. A 30-year-old single without children and no disabilities can be as poor as he wants. He is not "Medicaid" eligible, unless he lives in a generous state that expanded the categories mentioned above. Otherwise he joins the 45 million uninsured. </translation>
+<em>Angelika</em> Since I'm already at it: There is actually a health insurance
+program for the poorest of the poor in America. It's called "Medicaid" and was
+also introduced in 1965, originally for families receiving welfare and people
+with disabilities. It is funded with state and federal tax dollars. The states
+are subject to state guidelines, but have a lot of leeway in how they design
+Medicaid. Now it's not enough to be a poor slob to qualify for Medicaid, you
+have to belong to one of the following groups: children; pregnant women;
+parents with children still dependent on their care; people with disabilities;
+seniors. A 30-year-old single without children and no disabilities can be
+poor, but won't qualify, unless they live in a generous
+state that expanded the categories mentioned above. Otherwise they join the 45
+million uninsured.
  
-Medicaid covers, among other things, the costs of hospital stays, doctor visits, laboratory and X-ray examinations. For retirees, for example, Medicaid steps in to pay for the nursing home or to finance the premiums and co-payments for Medicare.
+Medicaid covers, among other things, the costs of hospital stays, doctor
+visits, laboratory and X-ray examinations. For retirees, for example, Medicaid
+steps in to pay for the nursing home or to finance the premiums and co-payments
+for Medicare.
  
-For a long time, problems have been looming on the horizon. First, states (as well as the federal government) are struggling with high budget deficits and are therefore cutting Medicaid benefits to save money. Second, Medicaid spending has skyrocketed because the recently very tight economic situation has made more people eligible for Medicaid benefits. Third, huge costs are incurred because Medicare (see above) does not pay for long-term nursing home stays and Medicaid often has to step in. And Bush just announced last Monday that he will make far-reaching cuts to Medicaid in order to plug his budget deficit. Hmmm, what was that again about tax cuts for the rich that will make the hole bigger and bigger?
+For a long time, problems have been looming on the horizon. First, states (as
+well as the federal government) are struggling with high budget deficits and
+are therefore cutting Medicaid benefits to save money. Second, Medicaid
+spending has skyrocketed because the very tight economic situation recently has
+made more people eligible for Medicaid benefits. Third, huge costs are incurred
+because Medicare does not, as discussed, pay for long-term nursing home stays and
+Medicaid often has to step in. And Bush just announced last Monday that he will
+make far-reaching cuts to Medicaid in order to plug his budget deficit. Hmmm,
+what was that again about tax cuts for the rich that will make the hole bigger
+and bigger?
  
 @Z: Online Green Card Lottery
  
-We surprisingly keep meeting Germans in San Francisco who have won their American Greencard in the lottery. Recently, it occurred to me that we haven't reported yet that since 2003 the required data can only be transmitted electronically - including the obligatory photograph. Apparently, the procedure is supposed to be more accurate and prevent errors. Maybe one of you has already played since then and can tell us about it. I find this step into modernity almost a bit sad, because sending one's biographical data and photograph on a simple sheet of paper was not without a certain charm (<RBLINK>000601#1</RBLINK>). And the guidelines for the envelope to be used will remain unforgettable. Ah, those days!
+<em>Angelika</em> Surprisingly, we keep meeting Germans in San Francisco who
+have won their American Greencard in the lottery. Recently, it occurred to me
+that we haven't reported yet that since 2003, the required application can only be
+transmitted electronically - including the obligatory photograph. Apparently,
+the procedure is supposed to be more accurate and prevent errors. Maybe some of
+you have already played since then and can tell us about it. I find this step
+into modernity almost a bit sad, because sending one's biographical data and
+photograph on a simple sheet of paper was not without a certain charm
+(<RBLINK>000601#1</RBLINK>). And the guidelines for the envelope to be used
+will remain unforgettable. Ah, the good old days!
 
 Your correspondents on the ground:
 
