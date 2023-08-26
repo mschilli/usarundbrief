@@ -1,10 +1,10 @@
 San Francisco, 03-19-2005
 
-@Z: Nihonmachi: San Francisco's Japantown.
+@Z: Nihonmachi: San Francisco's Japantown
 
 <pic images/jppost.ps (#3) San Francisco's "Post Street" in English and Japanese ("Po-su-to" in the Kanji character for street).>
  
-<em>(Angelika)</em> Everybody knows San Francisco's Chinatown. Even those who
+<em>Angelika</em> Everybody knows San Francisco's Chinatown. Even those who
 have never visited San Francisco are familiar with this Asian district through
 many films. Who could forget the chase scene in the classic "What's Up Doc?"
 through the Chinese New Year parade? Even though today's "Chinatown" has probably too
@@ -217,5 +217,119 @@ with another $9.19. So we sent a check for $259.19 to the hospital and the
 matter was settled. Aetna, our healthcare insurance, is one of the better
 insurances and there were no complications.  Well, that was one expensive
 Formula 1 curve!
+
+@Z: Increased Terror Alert Level
+
+<pic images/hsas.ps The Terror Warning System.>
+
+<em>Michael</em>
+Every day, while riding my bike across the grounds of Lockheed Martin to Yahoo!,
+I notice a signboard with the updated terror alert scale at the gatekeeper's.
+It ranges from "Low" (green), to "Guarded" (blue), "Elevated" (yellow), "High"
+(orange), to "Severe" (red). For months, the pointer has been in the middle at
+"Elevated".
+
+This warning system was released by the
+<LINK>http://www.whitehouse.gov/news/releases/2002/03/20020312-5.html|Department of Homeland Security</LINK>,
+an institution newly created by President Bush.
+
+The system is reminiscent of the fire warnings in American forests. There are
+usually signs with fields in four different colors, "Low" (green), "Medium"
+(yellow), "High" (orange), "Extreme" (red). And the forester sets a pointer to
+the corresponding field every day, depending on the weather, so that people
+know when the forest is bone dry and it is best not to light a campfire. Quite
+sensible.
+
+But the terror warning system? During the Cold War in the seventies and
+eighties, at least recommendations were issued on what to do if, for example,
+an atomic bomb hits (head in the sand, newspaper on top!). But what should I do
+if the terror warning shifts to orange? To red even?
+
+The satirical newspaper "The Onion" immediately came out with a warning sign
+for Iraq afterwards. The lowest warning level there was "Dull explosions in
+some distance". And a bit further up was the warning level "Let me put it this
+way; I wouldn't take any long drives."
+
+@Z: Greed is good
+
+<pic images/slick.ps The website of slickdeals.net>
+
+<em>Michael</em>
+Living in America, you definitely see a lot more great deals to purchase stuff.
+A new PC from Dell with Intel 2.8 Ghz and 512MB RAM and 17 inch LCD screen for
+$575? No problem. However, such things are always only available for a few
+hours somewhere, often only online, and one would have to be constantly on the
+lookout to get wind of it.
+
+Luckily, there are websites like
+<LINK>http://slickdeals.net|slickdeals.net</LINK> and <LINK>http://dealcatcher.com|dealcatcher.com</LINK>,
+where volunteers scour around and report the latest special offers from
+competing stores. Does Dell have a coupon for a free printer, does Amazon have
+a Friday offer, or does the computer giant Comp-USA have a router that costs
+$17 and you get a $20 mail-in-rebate (see <RBLINK>990115#7</RBLINK>)? You can
+find out on these sites. After reading it in the morning, you then have to decide
+quickly and order online, then you can get the most incredible deals. I have
+already bought 200GB hard drives for $59, wireless routers for $20 and, as I
+said, top-of-the-line computers with flat screens for $575.
+
+No doubt: The stores sell these items at a loss. This is legal in the US. Of
+course, they expect customers to flock to the store or browse the website to
+order more than just the special offers.
+
+But especially in Silicon Valley, a group of so-called "El Cheapos" has
+emerged, who rush into the stores on Saturday mornings to grab the bargain
+offers (and nothing else). And I know this from some colleagues who earn in the
+top 10 percent of the income scale -- it's just about the bargain.
+
+Partially, you can see auctions on eBay offering items that were undoubtedly
+purchased from one of the supermarkets in Silicon Valley: If you look closely
+at the pictures, you can see original packaging with price tags from Silicon
+Valley retail giants like "Fry's". To redeem the mail-in rebate
+(<RBLINK>990115#7</RBLINK>), the barcode has usually been removed from the
+packaging. Then, the eBay seller paid $20 for a DSL router at Fry's, received a
+$20 mail-in rebate from the manufacturer (Dlink, Belkin, Airlink), and then
+sells the item on eBay for $30 to a customer in South Dakota, who is happy to
+get it at that price. Everything 100% legal and a win-win situation for all
+consumers!
+
+Moreover, it leads to a different buying behavior: People no longer buy a
+product because they need it, but because it is currently cheap. This of course
+keeps the economy going, which incidentally has recovered in the US since the
+recession and is on the brink of a new boom, and you're reading it here first!
+
+For example, there is the website woot.com, a small startup company founded by
+a few immigrants from India to the USA, which offers <em>one</em> product per
+day and generates millions of dollars. The selection is completely crazy, one
+day it's a food processor, the other day a network router or a watch. The stuff
+is available as long as the stock lasts, then it's over for the rest of the day
+and the website just sits there idling. Until the next day, when the next Woot!
+Special offer goes on sale. By the way, the name of the company is derived from
+the phrase "Woot! There it is!", which can be translated as "Swoosh, there it
+is!".
+
+Or take TiVo, as another example: On December 17th, 2004, they launched an
+advertising campaign. It was announced in papers that anyone who stood at a
+certain spot in Silicon Valley at 10am would get a digital video recorder worth
+$200 for free.  The campaign was a huge success - thousands of people lined up
+and more than 1000 devices were given away. Helicopters from all the TV
+stations were there, newspaper reporters, the story was on everyone's lips and
+even some Yahoos skipped work until noon. When you consider how little
+publicity you'd get for $200,000 otherwise, it was a huge success.
+
+@Z: Top Product: Mr. Steam
+
+<em>Michael</em> This month's top product is unfortunately (not yet) in our
+possession. Rather, we found it in a cottage in Sonoma County, to which we retreated to
+for two days after New Year's. The place had a shower with a "Mr. Steam" button.
+Attached to it was a highly modern built-in device that produces such hellishly hot
+steam in the shower at the push of a button that you can hardly get any air.
+Unsurprisingly, a small sticker on the outside of the shower pointed out that
+"Mr. Steam" is not suitable for pregnant women or people with heart problems.
+
+<pic images/mrsteam1.ps The Top Product Tester in the Shower>
+
+Those who know me are aware that I like to take long and hot showers and steam
+up the bathroom like there's no tomorrow, but I've never produced a fog like
+this before. Full 10 sauna points from me for this product!
 
 TODO
