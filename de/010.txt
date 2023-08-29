@@ -103,6 +103,8 @@ die ich zum Volunteeren komme.
 
 @Z: Kurzurlaub in Shelter Cove
 
+<pic images/scove1.ps Der schwarze Sand der "Lost coast">
+
 Vorletztes Wochenende war hier einmal wieder ein Feiertag, der 
 sogenannte "Labor  Day" ("Tag der Arbeit"), an dem auch Michael frei 
 hatte. Und so haben wir uns gleich ein Auto gemietet, um das 
@@ -139,8 +141,6 @@ sowohl wissenschaftlich als auch philosophisch angehen kann. Nun, ich
 habe diese Frage nicht befriedigend beantworten können, aber ihr seht 
 schon, die Landschaft lud zum stundenlangen auf-das Meer-schauen und 
 seinen-Gedanken-nachhängen ein.
-
-<pic images/scove1.ps Der schwarze Sand der "Lost coast">
 
 <pic images/scove2.ps Unsere Fußstapfen im schwarzen Sand>
 
