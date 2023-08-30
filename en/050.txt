@@ -30,20 +30,18 @@ the memo! Even Linux creator Linus Torvalds, who has been
 living in America for a long time, seems to be unaware of this fact, as the
 pictures from the
 <LINK>https://www.youtube.com/watch?v=RGvFzPO6jW4|Linus Dunk</LINK> prove.
-Granted, it's not easy to figure out coming from Germany. But once you have,
+Granted, it's not easy to figure this out coming from Germany. But once you have,
 it's quite hilarious!
 
-@Z: Fight against obesity: The Atkins Diet.
+@Z: Fight against obesity: The Atkins Diet
 
-<pic images/atkins2.ps und Sandwiches.
-
-The fast food chain "Subway" has a new "Atkins-friendly" menu with salads and sandwiches.>
+<pic images/atkins2.ps Fast food chain "Subway" offers an "Atkins-friendly" menu with salads and sandwiches.>
  
 <em>Angelika</em> Europeans have always scoffed at the fat Americans. That 2/3
-of the American population struggles with overweight and 1/3 of them are
+of the American population struggles with being overweight and 1/3 are
 medically considered obese is no secret here in the USA either.
 
-Nowadays, there are increasingly fatter children because the kids eat too much
+Nowadays, there are increasingly fatter children because kids eat too much
 fast food and hang out in front of the TV and computer for hours. That children
 develop juvenile diabetes due to bad eating habits can almost be called a
 trend. Desperate parents therefore initially tried to sue McDonald's, since the
@@ -52,16 +50,17 @@ This typical American way of dragging everyone to court still seems absurd to
 us.
 
 Even the diet craze is not new. Every American book store has an impressive
-selection of books that are meant to help reduce pounds. Then there are the
-various talk shows that present dramatic success stories: people who suddenly
-fit into their old pants three times, smiling happily into the camera. Lately,
-you can also find entertainment shows in which a whole group fights their
-overweight together and is accompanied by television cameras for months.
+selection of books that are meant to help reduce excessive pounds. Then there
+are the various talk shows that present dramatic success stories: people who
+suddenly fit into their old pants three times, smiling happily into the camera.
+Lately, you can also find entertainment shows in which a whole group fights
+their excessive weight together and is accompanied by television cameras for
+months.
 
 There is no shortage of theories as to why Americans are gaining more and more
 weight. There is a preference for large portions and fast food. Unhealthy food
 is cheaper than healthy food (which is true). No time to cook healthier meals,
-lack of exercise, too much fat in food, too many carbohydrates. And on the
+lack of exercise, too much fat in the meals, too many carbohydrates. And on the
 packaging of each product, there are indications of calories, carbohydrates,
 etc. printed - but these always refer to a so-called "serving size", not to the
 entire package. So if someone eats the whole bag of chips, they wonder why they
@@ -71,9 +70,11 @@ The fear of high fat content in food led to a boom in reduced-fat products
 here. In every American supermarket you can find low-fat chips, cookies and the
 like. It happens to me from time to time that I grab the wrong - reduced-fat -
 bag. A misery, because the stuff simply tastes artificial and usually ends up
-in the trash can with us. My motto is: If chips, then the right ones.
+in the trash can with us. My motto is: When eating chips, then the right ones.
 
 <pic images/atkins4.ps Low-Carb Cookies: 120 Calories, 9 Net Carbs per "Serving Size".>
+
+TODO
 
 But I always get the real crisis in front of the shelf with the dairy products.
 You almost need telepathic abilities to find the full-fat yoghurt or the
