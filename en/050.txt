@@ -139,4 +139,185 @@ California (now you can't even smoke on the beach in Santa Monica). And once
 they had set their sights on the enemy "carbohydrates", there was no stopping
 them.
 
+@Z: Postal Service in the USA.
 
+<pic images/mailbox.ps (#1) Typical mailboxes. The red signal indicates that the rightmost freshly stamped mail contains something for the postman to take away.>
+
+<em>Michael</em> Neither snow, nor rain, nor heat, nor gloom of night stays
+these couriers from the swift completion of their appointed rounds. This is the
+official <LINK>http://www.usps.com/history/his8.htm|motto of the American
+Post</LINK> (no joke!), also known as the United States Postal Service (USPS).
+The motto is stolen from the ancient Greeks, 430 BC the Greek historian
+Herodotus wrote this sentence about the riding messengers of Xerxes, the King
+of Persia.
+
+Mail carriers don't enjoy the best reputation in the US. In the TV series
+"Seinfeld," the mailman "Newman" always calls in sick when it rains, hides bags
+of undelivered mail in the basement, and claims that zip codes are meaningless.
+
+But there are also positive sides: So a letter that does not weigh more than 2
+ounces (32g) costs only 37 cents, no matter where in the USA, even to Hawaii or
+Alaska. For heavier shipments, the distance also plays a role.
+
+In Figure (#1) you can see typical American mailboxes. They are not locked,
+anyone can open the flap. When the postman comes, he opens the flap and puts
+the mail in.
+
+In the cities there are also often mailboxes that look like their German
+counterparts, but are simply holes in the wall, and the mail simply falls
+inside the house after being dropped in.
+
+<HTMLONLY>A mailbox directly into the house.</HTMLONLY>
+
+In <suburbs> or <rural> areas, the mailman drives through the area in a
+right-hand-drive car. Cars with the steering wheel on the right side are
+usually only found in countries with left-hand traffic, but this special
+construction has the advantage in the US that the mailman can pull up on the
+right side and throw the mail into the mailbox without getting out. Sitting on
+the right side in the front of the car, however, he can hardly see to the left
+in the back, and therefore the mail car has several oversized mirrors so that
+the driver can safely drive the monster from mailbox to mailbox.
+
+<pic images/postauto.ps The motorized postman throws the mail from the car into the mailbox.>
+
+With the booming eBay phenomenon, more and more people are sending their junk,
+which others have bid on in auctions. The usually antiquated-looking USPS has
+come up with something new: on the internet, on the website usps.com, you can
+create a mailing label with a barcode, print it out on paper or self-adhesive
+labels with your home printer, and pay with a credit card right away. You have
+to specify the exact weight and dimensions of the package, and the USPS website
+shows how much postage it costs. Up to one pound it's $4.50, up to two pounds
+it's $8.50 for the farthest distances within America.
+
+With the label available through the new service, which has a printed tracking
+number, you can then track it on the internet to see where the package is and
+if the lucky recipient has already received it. And this originally genius
+service invented by the private delivery company UPS doesn't cost a cent more!
+
+If you then drop off the package at the post office, you don't have to queue
+up, but just slide it to the next clerk, because everything is already done.
+Or, you just give it to the postman who is currently delivering the mail in the
+house. By the way, this is common in America: The mailman not only delivers
+mail, but also takes freshly stamped new mail. In big cities this is rather
+unknown, because the postmen are totally stressed there, but in rural areas it
+is quite normal to put the sent mail in the tube-shaped own mailbox and bend up
+the red signal as shown in Figure (#1). Before the mailman then puts in the
+delivered mail, he takes out the freshly stamped one that has been prepared
+there and later hands it in at the post office.
+
+For heavier packages, the "Ground" services of private delivery companies like
+UPS and Fedex are cheaper than the US Postal Service. Instead of sending it by
+plane, heavy cargo is sent "Ground", i.e. by truck across the continent, and
+can be tracked with a tracking number to see how the heavy iron is carted
+through the individual states. A real thrill! For example, I once sold a 20kg
+computer printer on Ebay to a gentleman in New York City, who paid the 39
+dollar Fedex postage without complaint, and after a week and 3000 miles by
+truck, received the printer intact.
+
+@Z: Credit Report
+
+<pic images/crep.ps The independent magazine "Consumer Reports" reports on "Identity Theft".>
+
+<em>Michael</em> In the USA, the financial activities of every citizen are
+closely monitored by three private companies: Equifax, Trans Union and
+Experion. I mentioned this briefly in <RBLINK>20010501#6</RBLINK>. When you
+open a bank account, apply for a credit card, or take out a loan for a house --
+bam! a notification goes to the three. On the other hand, when you apply for a
+job with a company or show interest in renting a new apartment -- bam! the
+company or landlord will ask the three about your financial situation.
+
+Moreover, the three of them learn from every small mistake: If one forgets to
+transfer the monthly payment to the credit card company just once, it will
+immediately be prominently displayed in the "Credit Report". If one has 10
+credit cards, two leased cars and has financed 3 houses over the last 10 years,
+like the average American, this report will quickly become confusing.
+
+Since Americans like to keep things simple, financial companies like "Fair
+Isaac" generate a so-called "Credit Score", a number between 300 and 850 that
+indicates a person's creditworthiness. The higher the score, the better: 300
+indicates a notorious bankrupt, whom nobody would trust. However, from 720
+onwards, banks swarm around the customer like moths to a light, this value
+distinguishes carefully operating people whose transactions have been recorded
+for some time and have never shown irregularities.
+
+When someone wants to buy a house and applies for a loan, the bank employee
+goes to the computer, retrieves the score and then offers the customer the
+interest rate according to an internal table, similar to the following:
+
+<HTMLONLY><table border="1"><tr><th>Credit Score</th> <th>Interest Rate</th></tr><tr><td>720-850</td> <td>5.73%</td></tr><tr><td>700-719</td> <td>5.83%</td></tr><tr><td>675-699</td> <td>6.39%</td></tr><tr><td>620-674</td> <td>7.30%</td></tr><tr><td>560-619</td> <td>8.66%</td></tr><tr><td>500-559</td> <td>9.10%</td></tr></table></HTMLONLY>
+
+It pays off, therefore, to keep one's "Credit Report" in order and to know
+one's "Score", which could translate into actual money. For Germans who have
+recently moved to the USA, the Credit Report is simply empty, and it is not so
+easy to apply for a credit card or to rent an apartment.
+
+The "Credit Report" is kept under the Social Security Number (SSN) of a person.
+Every American has one. It consists of 9 digits, in the format XXX-XX-XXXX. It
+accompanies one throughout life, almost everyone knows it by heart. As an
+immigrant, one is assigned an SSN when registering with the Social Security
+Administration in the USA with a valid work visa (see
+<RBLINK>970126#3</RBLINK>).
+
+She should be kept secret, because it also serves for identification of a
+person. For example, when I call my bank account, the automated voice asks me
+for the last four numbers of my SSN before it reads out the account data. When
+sending an application for a new credit card, the SSN must be on it.
+
+<pic images/idt.ps (#2) A truck driver in a beauty salon? Something's not right! The Citi Bank is advertising a credit card with protection against identity theft.>
+
+In terms of <b>data protection</b>, one gets the <b>bare horror</b>. Some
+health insurance companies take the SSN as a membership number and print it on
+the card so that every doctor's assistant can see it. Every time I write
+something for an American publisher and get paid for it, I have to submit my
+SSN so that it is correctly taxed. Recently, a secretary even wanted me to send
+her the SSN by email - which I had to give a lengthy lecture about how the text
+of any normal email is accessible to anyone who sits at a computer somewhere
+between the sender and the receiver. Even the registration form for the Costco
+shopping paradise asks for the SSN, it's unbearable to keep it in mind!
+
+This total devaluation of the SSN has led to the need to think very carefully
+about who to actually give one's SSN to. Even if it is asked for, one sometimes
+has to really say "No!" In recent years, authorities have registered a drastic
+increase in "Identity Theft" crimes. If someone knows someone else's SSN and
+also knows their name and address, it is very easy to open accounts, apply for
+credit cards and do all kinds of mischief. The victims often don't notice this
+for years until one day the rude awakening comes when unexpectedly high bills
+arrive and the reputation is ruined. It often takes years for the victims to
+repair the damage.
+
+Therefore, consumer organizations and the independent magazine "Consumer
+Reports" (similar to Stiftung Warentest in Germany) recommend that one should
+check their "Credit Report" at least once a year with the three credit bureaus.
+This costs $12.95 per bureau (so a total of $38.85) and can be quickly done
+over the internet with companies like
+<LINK>http://www.myfico.com|MyFico</LINK>. There, one not only has to provide
+their SSN and driver's license number, but also has to answer a series of
+tricky questions to ensure that they are indeed who they claim to be.
+
+There, you can then see your Credit Score and all accounts, credit cards, and
+loans you have ever applied for per credit monitoring firm. Additionally, the
+website shows any irregularities and gives tips on how to increase your Credit
+Score.
+
+For example, if one has never taken out a loan, one should simply apply for a
+small one for fun, pay it back properly, and the score will increase. However,
+if one asks for the credit report too often, this will reduce the score, so be
+careful!
+
+Since Dadie works for three companies independently, it is important to check
+all three to make sure that no mistakes have been made that can be claimed to
+the respective companies. The companies usually do not delete the mistakes, but
+comments can be added.
+
+Lately, even credit card companies are advertising that they protect against
+identity theft by electronically monitoring what people buy and sounding an
+alarm if the behavior pattern changes abruptly. Newspaper ads like the one in
+Figure (#2) show grotesque situations: a truck driver sitting in his underwear
+and holding a can of soda in the hairdresser's salon under the dryer. The ad
+text begins with "It seemed strange to us" and explains that the trucker's
+credit card was suddenly charged $5000 for a beauty salon and the credit card
+company stepped in. On television there are commercials in which a grandmother
+in a deck chair speaks with the shrill voice of a teenager, telling how she
+just spent a lot of money on clothes.
+
+TODO
