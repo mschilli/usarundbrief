@@ -139,46 +139,49 @@ California (now you can't even smoke on the beach in Santa Monica). And once
 they had set their sights on the enemy "carbohydrates", there was no stopping
 them.
 
-@Z: Postal Service in the USA.
+@Z: The United States Postal Service (USPS)
 
-<pic images/mailbox.ps (#1) Typical mailboxes. The red signal indicates that the rightmost freshly stamped mail contains something for the postman to take away.>
+<pic images/mailbox.ps (#1) Typical mailboxes. The red signal indicates that the resident placed a postage-paid item for the postman to take away.>
 
-<em>Michael</em> Neither snow, nor rain, nor heat, nor gloom of night stays
-these couriers from the swift completion of their appointed rounds. This is the
-official <LINK>http://www.usps.com/history/his8.htm|motto of the American
-Post</LINK> (no joke!), also known as the United States Postal Service (USPS).
-The motto is stolen from the ancient Greeks, 430 BC the Greek historian
-Herodotus wrote this sentence about the riding messengers of Xerxes, the King
-of Persia.
+<em>Michael</em> "Neither snow nor rain nor heat nor gloom of night stays these couriers from the swift completion of their appointed rounds."
+This is the official
+<LINK>https://en.wikipedia.org/wiki/United_States_Postal_Service_creed|motto of the United States Postal Service</LINK>
+(no joke!). The motto is borrowed from the ancient Greeks, 430 BC. The Greek
+historian Herodotus wrote this sentence about the riding messengers of Xerxes,
+the King of Persia.
 
-Mail carriers don't enjoy the best reputation in the US. In the TV series
+Mail carriers don't enjoy the best reputation here in America. In the TV series
 "Seinfeld," the mailman "Newman" always calls in sick when it rains, hides bags
 of undelivered mail in the basement, and claims that zip codes are meaningless.
 
-But there are also positive sides: So a letter that does not weigh more than 2
-ounces (32g) costs only 37 cents, no matter where in the USA, even to Hawaii or
-Alaska. For heavier shipments, the distance also plays a role.
+But it has nevertheless amazing features: So a letter that does not weigh more
+than 2 ounces (32g) costs only 37 cents, no matter where to be delivered in the
+entire USA, even to Hawaii or Alaska. For heavier shipments, price depends on
+the distance to be covered.
 
 In Figure (#1) you can see typical American mailboxes. They are not locked,
 anyone can open the flap. When the postman comes, he opens the flap and puts
 the mail in.
 
-In the cities there are also often mailboxes that look like their German
+In inner cities, there are also often mailboxes that look like their German
 counterparts, but are simply holes in the wall, and the mail simply falls
 inside the house after being dropped in.
 
-<HTMLONLY>A mailbox directly into the house.</HTMLONLY>
+<HTMLONLY><pic images/kasten.ps A mailbox directly into the house.></HTMLONLY>
 
-In <suburbs> or <rural> areas, the mailman drives through the area in a
-right-hand-drive car. Cars with the steering wheel on the right side are
+In suburbs or rural areas, the mailman drives through the area in a
+right-hand-steered car. Cars with the steering wheel on the right side are
 usually only found in countries with left-hand traffic, but this special
-construction has the advantage in the US that the mailman can pull up on the
-right side and throw the mail into the mailbox without getting out. Sitting on
-the right side in the front of the car, however, he can hardly see to the left
-in the back, and therefore the mail car has several oversized mirrors so that
-the driver can safely drive the monster from mailbox to mailbox.
+construction has the advantage in the US that the mailman can pull up to the
+right side and throw the mail into the mailbox without getting out of the car.
+Sitting on the right side in the front of the car, however, he can hardly see
+to the left in the back, and therefore the mail car has several oversized
+mirrors so that the driver can safely drive the monster from mailbox to
+mailbox.
 
 <pic images/postauto.ps The motorized postman throws the mail from the car into the mailbox.>
+
+TODO
 
 With the booming eBay phenomenon, more and more people are sending their junk,
 which others have bid on in auctions. The usually antiquated-looking USPS has
@@ -244,7 +247,28 @@ When someone wants to buy a house and applies for a loan, the bank employee
 goes to the computer, retrieves the score and then offers the customer the
 interest rate according to an internal table, similar to the following:
 
-<HTMLONLY><table border="1"><tr><th>Credit Score</th> <th>Interest Rate</th></tr><tr><td>720-850</td> <td>5.73%</td></tr><tr><td>700-719</td> <td>5.83%</td></tr><tr><td>675-699</td> <td>6.39%</td></tr><tr><td>620-674</td> <td>7.30%</td></tr><tr><td>560-619</td> <td>8.66%</td></tr><tr><td>500-559</td> <td>9.10%</td></tr></table></HTMLONLY>
+<HTMLONLY>
+<table border="1"><tr><th>Credit Score</th> <th>Zinssatz</th></tr>
+<tr><td>720-850</td> <td>5.73%</td></tr>
+<tr><td>700-719</td> <td>5.83%</td></tr>
+<tr><td>675-699</td> <td>6.39%</td></tr>
+<tr><td>620-674</td> <td>7.30%</td></tr>
+<tr><td>560-619</td> <td>8.66%</td></tr>
+<tr><td>500-559</td> <td>9.10%</td></tr>
+</table> 
+</HTMLONLY>
+
+<PRINTONLY>
+\begin{tabular}[t]{p{5cm}rr}
+Credit Score & Zinssatz \\ 
+720-850 & 5.73% \\
+700-719 & 5.83% \\
+675-699 & 6.39% \\
+620-674 & 7.30% \\
+560-619 & 8.66% \\
+500-559 & 9.10% \\
+\end{tabular}
+</PRINTONLY>
 
 It pays off, therefore, to keep one's "Credit Report" in order and to know
 one's "Score", which could translate into actual money. For Germans who have
@@ -320,4 +344,268 @@ company stepped in. On television there are commercials in which a grandmother
 in a deck chair speaks with the shrill voice of a teenager, telling how she
 just spent a lot of money on clothes.
 
-TODO
+@Z: You're fired! (The Apprentice)
+
+<em>Michael</em>
+And there is a new reality show again: "The Apprentice", in which the real
+estate tycoon Donald Trump finds a CEO for one of his companies via television.
+
+<pic images/mini1.ps One of the candidates: Mini skirt from the frog's perspective.>
+
+First, the 14 young and dynamic candidates filtered from 215,000 applications
+were divided into two teams: 7 women and 7 men each formed a group. As a team,
+they had to tackle small business tasks such as renting an apartment, selling
+lemonade on the street, running a restaurant or casino for a day, or organizing
+a golf tournament. The losing team had to appear in the "Board Room" in front
+of Trump with the previously determined project manager and two other
+candidates, who then "fired" someone for it.
+
+<pic images/limo.ps The two men are "Apprentice" candidates and are selling lemonade on the street. The lady with the concrete hairstyle is Trump's briefcase carrier, overseeing the action.>
+
+Interestingly, the women won one challenge after another, following the motto
+"Sex Sells" -- at Planet Hollywood they visibly excited male customers to buy
+expensive liquor, and a gold bar dealer nervously looked into the camera as
+they performed daring exotic dances to lower the sale price. At a victory
+celebration, Trump then intervened and made it clear to the ladies' team that
+they didn't need to prostitute themselves like that.
+
+<pic images/board4.ps The dreaded "Board Room", where the failures are fired.>
+
+It is noticeable that Trump is an amazing manager with excellent personnel
+management qualities. He leaves nothing to chance. The show is an efficient
+advertising campaign for his empire, which is rumored to be in financial
+difficulties. Unscrupulously, advertising is done for his casinos, real estate
+companies and even his business buddies; some advertising agencies get a free
+appearance at prime time.
+
+However, it seems that there is a very authoritarian climate in the Trump
+empire. Everyone talks to Trump as "Mr. Trump" as if he were the emperor of
+America. Even his two "executive" briefcase carriers, who allegedly manage some
+of his businesses, are competing to flatter their boss. This so-called
+"brown-nosing" in American was new to me; my relationship with various bosses
+has been more comradely. But maybe I'm spoiled by an internet company, and I
+usually don't hang out in the upper floors. In any case, I wouldn't last two
+days with the sycophants in the Trump empire. And I've been with AOL for almost
+seven years!
+
+<pic images/yf.ps The gesture of "You're fired!" when Donald Trump gives someone the boot in "The Apprentice".>
+
+However, Trump suffers from a bad cow taste. Everything that is supposed to
+look luxurious is loaded with gold and plunder, bending and breaking, and each
+of his dependencies looks like Circus Circus in Las Vegas. And his hairstyle is
+already legendary bad. So bad that late-night show host David Letterman already
+held a quiz in which candidates had to guess which hairstyle belonged to a
+chimpanzee and which belonged to Donald Trump at half-covered photos. Pretty
+tough!
+
+Furthermore, he allegedly wants to patent the expression "You're fired!" in
+America as part of the general patent hysteria. Read it quickly in the
+newsletter before the lawyers of the Trump empire intervene!
+
+@Z: Boing-Bum-Tschack!
+
+<em>Michael</em>
+Due to a recommendation from Mr. Huber, who was enthusiastic about a concert of
+the group "Kraftwerk" in Bavaria and claimed that no one still snaps the
+tweeters as elegantly as they do, I bought a ticket for their concert in San
+Francisco and was enchanted!
+
+<pic images/k2.ps The four immobile power workers in minimalism.>
+
+The four not-so-young Germans, who remained musically faithful but switched
+consistently to laptops instead of giant computers, still play their electronic
+compositions like robots. Hardly anyone moves behind their standing desk.
+Otherwise the stage is empty. Gigantic video projections in the background. In
+the penultimate stage setting, suddenly it is not the Kraftwerker themselves on
+stage, but gracefully moving robots! Musically, most of it is pre-programmed,
+but when the Kraftwerker are on stage, they vary enough details live so that
+each concert is a little different.
+
+<HTMLONLY><pic images/kraftwerk.ps Kraftwerk concert in San Francisco></HTMLONLY>
+
+The audience was an interesting mix of German residents of San Francisco,
+top-league computer hackers (I recognized Brian Behlendorf) and black DJ types.
+
+I'm touched to think that I still have her record "Trans Europa Express" from
+1977 as a vinyl disc, which is lurking in a moving box in the attic near
+Augsburg!
+
+@Z: The Newsletter Top Product
+
+<pic images/vrec.ps The Olympus VN-900 Voice-Recorder is a very good device.>
+
+<em>Michael</em>
+Ha, another crazy idea! However, the best ideas come in the most impossible
+situations and if you don't write them down immediately, you forget them as
+quickly as they came. That's why I've been accustomed for years to jot down
+every brainwave immediately. Of course, you don't always have a pen and paper
+with you and when I'm cycling through the city or it's jolting in the train,
+it's hard to write. That's why I've been carrying a small digital dictaphone
+with me for some time now. Everywhere: on trips, in the car, on the bike, on
+the plane and even in the gym.
+
+I can quickly record short messages on the Olympus VN-900 voice recorder, which
+"the Digi", as I call it, then digitally captures in amazing quality. Until I
+have time to transform them into projects and enter them into my calendar. I
+can operate the Digi with one hand without looking and it even stores the date
+and time of the recording. And it's only slightly bigger than a disposable
+lighter, much smaller than even the smallest mobile phones and only costs about
+35 dollars. It stores up to 100 messages, up to 30 minutes, but no one has that
+many ideas. And the batteries last forever. Good thing I recently recorded a
+note to promote the Digi as a top product in the newsletter! If I look at the
+photo I just took, I wonder if I should work as a hand model for the
+advertising industry. What do you say?
+
+@Z: Hawaii - Big Island
+
+<HTMLONLY><pic images/big1.ps Angelika sitting under a palm tree></HTMLONLY>
+
+<em>Angelika</em> Munich residents go skiing in the mountains, Oldenburgers go
+shopping in the Dutch city of Groningen, and Californians go to relax in
+Hawaii. As you can see, we were back in Hawaii again. Since we had already
+visited every inhabited Hawaiian island, we thought we'd start over with "Big
+Island". Just to remind you: "Big Island" is officially called Hawaii. Since
+Hawaii is also the collective term for the island group and the state, everyone
+calls it "Big Island". The somewhat unimaginative name refers solely to the
+size of the island.
+
+<HTMLONLY><pic images/blume2.ps Red flower in the bush.></HTMLONLY>
+
+Why do we keep coming back to Hawaii? It's simple: the weather is great, the
+ocean is warm, the beaches are beautiful. You don't need a visa or annoying
+vaccinations, there's no malaria, everyone speaks English, the landscape is
+exotic without the addition of annoying, poisonous snakes or other dangerous
+animals. The snake argument is especially high on Michael's list. "Snakes" are
+not really his thing and I remember our trips to Australia, where he always
+sent me ahead on hiking trails to check out the snake situation, because
+Australia is known to have the most poisonous snakes in the world. But I
+digress.
+
+<HTMLONLY><pic images/palme.ps Palm tree on the beach></HTMLONLY>
+
+Funnily enough, the small creatures loved us on this vacation. It started when
+I stepped on a sea urchin in the ocean. I initially thought a sharp, long
+dagger had rammed into my foot to split it (seriously - that's how it feels).
+Bravely, I pulled out the spines, but I couldn't see anything in the choppy
+ocean. So, I limped out of the water and examined my foot on the beach. I
+discovered a slightly bleeding cut. A cool surfer who was strolling past our
+beach spot inspected my wound and brought up the sea urchin theory. He kindly
+explained the treatments practiced on the island: first, pee on the wound or
+soak the foot in vinegar water to relieve the burning pain, then use tweezers
+to pluck out the spines. Nurse Michael, also known as "Rabiato", took on the
+task of removing the spines. The next day, everything was forgotten, except
+that the people splashing around with me in the ocean probably wondered why the
+woman in the red bikini was walking on eggshells on the soft sand. One step on
+a sea urchin is enough.
+
+<pic images/spinne.ps Murderspider in the rental car. Allegedly not poisonous.>
+
+A few days later, a huge spider visited us, seeing the driver's door of our rental car as a cozy spot. Michael immediately named it "Murder Spider". And when I read to him from the travel guide that there is indeed a dangerous species of spider on Hawaii, the "Black Widow" ("black widow spider"), Michael was beside himself. Otherwise, we only shared our accommodation with the obligatory, insect-eating, completely harmless geckos, which are luminous green on Big Island.
+
+<pic images/gecko.ps A small gecko in the flower pot on the terrace.>
+
+<em>Michael</em> It is completely normal for geckos to roam around the house.
+The cute lizard-like reptiles occasionally make a quiet frog-like sound like
+"E-cko!", climb up walls with suction cup feet, lounge around near lamps, and
+elegantly snatch pesky mosquitoes and other pests. I always make sure there are
+enough geckos in the house. Nothing is more calming than hearing a mosquito
+buzz at night and thinking: The gecko will get you soon, bahahahaha!
+
+<pic images/beach.ps Angelika is balancing on the beach covered in lava.>
+
+<em>Angelika</em> Big Island, with its varied landscapes, almost feels like a
+mini-continent. Where else can you find active volcanoes, white, black and
+green beaches, meadows and fields, lush tropical vegetation on one side and
+hardened black lava on the other? On Big Island, I finally understood what
+volcanoes are all about and how new earth is created. Yes, I admit it,
+geography was not one of my favorite subjects in school. That may also be
+because my class teacher, Mr. Senst, tortured us with terms like end moraines
+and the effects of the Ice Age in the seventh grade, but I was more concerned
+with my effect on the opposite sex.
+
+I don't remember that certain Mr. Senstun brought volcanoes closer. Probably
+you learn that in elementary school anyway. When we drove past a papaya field,
+I expressed my amazement as to why anything grows on lava soil. Michael then
+gave me a lecture that this is the most fertile soil of all and that you learn
+this in school. He even dug the name of this special soil out of his memory.
+Hmm, I always thought he spent his school time playing football on the street
+and not buried in school books. In addition to these geological considerations,
+philosophical thoughts always come to mind on Big Island when, for example, the
+delicate green plant bravely makes its way through the hard black masses of
+rock.
+
+A plantation of papaya trees.
+
+This time we didn't go to the flowing lava (see <RBLINK>001101#1</RBLINK>), since it wasn't currently making its way to the ocean. Instead, we went to the "LavaTree State Monument" (= Park of Lava Trees). There, bizarre-looking lava tree trunks reach up to the sky. They were formed in 1790, when lava flowed through this rainforest. Parts of the lava solidified on the wet tree trunks and even though the trees themselves burned, the shaped lava shells remained standing. I wouldn't have been surprised if a dinosaur had come around the corner in this park.
+
+<pic images/lavatree.ps A tree stump made of lava in the Lava Tree Monument Park.>
+
+On Big Island (and Hawaii in general) I'm always fascinated anew by how
+American it is--and yet not: There's the obligatory American fast food, the
+same chain stores, and the same TV programming. The street signs, of course,
+don't look any different from the mainland at first glance, but a second look
+reveals them: Kealakekua, Laupahoehoe, Anaeho'omalu.
+
+<pic images/sign.ps Typical Hawaiian Street Names>
+
+The tourist finds resorts and golf courses, but also remnants of ancient
+Hawaiian culture if he ventures off the beaten path. For example, we hiked to
+the Mo'okini Heiau sacrificial site, which is considered one of the oldest
+Hawaiian temple complexes. The open-air temple, bounded by stone piles, is
+located on the windy northern tip of the island and we had to go around some
+huge puddles to get to it. The tradition says that people were also sacrificed
+to the gods here. I believed it immediately: because the temple is so far from
+the shot, nobody sees or hears anything.
+
+<HTMLONLY>
+<pic images/opfer.ps Panorama shot of the sacrifice location Mo'okini Heiau>
+</HTMLONLY>
+<HTMLONLY>
+<pic images/pfuetze.ps Puddle in front of Sea>
+</HTMLONLY>
+
+Returning to today's Hawaiian lifestyle: The inhabitants don't get easily
+flustered and don't constantly hustle and bustle. For example, we experienced
+how a typical New York family father with wife and two children at the beach
+rental spread wild chaos because he still needed this and that folding chair as
+well as a beach umbrella. The rental guy didn't care at all. Stolidly and in
+slow motion he handed him everything. The chaos simply bounced off him. Even
+that at 11 o'clock in the morning usually all beach umbrellas were already
+rented out, didn't set the American entrepreneurial spirit in motion in Hawaii
+to buy more beach umbrellas in order to be able to rent out more. "Hang loose"
+is the motto of the islanders.
+
+<HTMLONLY>
+<pic images/driver.ps Stay cool: Beer wagon driver in Hilo>
+</HTMLONLY>
+
+@Z: Addendum to same-sex marriage.
+ 
+In our last newsletter, we reported in detail about the issuance of marriage
+certificates to same-sex couples in San Francisco
+(<RBLINK>20040301#1</RBLINK>). Over 4,000 couples were able to marry before the
+California Supreme Court temporarily stopped this act of civil disobedience on
+March 11th. As previously announced, supporters and opponents of same-sex
+marriage are preparing for a lengthy legal battle in California. On the other
+hand, in the state of Massachusetts, the dream of same-sex marriage has been a
+reality since May 17th. Homosexual couples receive the marriage certificate
+with all the rights and obligations granted to heterosexual couples in
+Massachusetts. However, the parliament has stipulated that in 2006 the voters
+will decide whether same-sex marriage will remain in Massachusetts. But until
+then, the wedding bells will definitely be ringing.
+
+@Z: Current news about the war.
+
+For weeks, the newspapers have been full of discussions and debates about the
+torture that American soldiers committed in Iraq. Smart minds are discussing
+how it happened and what should be done about it. Politicians, psychologists,
+philosophers, and the general public are all voicing their opinions. There is
+also a wide range of reactions: deepest indignation, soothing, and blame. I was
+not surprised by the behavior of the American soldiers, because in other wars,
+such as the former Yugoslavia, there have always been completely inhumane
+behaviors from all sides. The fact remains that a democratic state has already
+lost when it sees war as a legitimate political means.
+
+Greetings from San Francisco, the city with an absolute majority against Bush.
+
+Angelika and Michael
