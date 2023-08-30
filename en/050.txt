@@ -288,9 +288,7 @@ sending an application for a new credit card, the SSN must be on it.
 
 <pic images/idt.ps (#2) A truck driver in a beauty salon? Something's not right! Citi Bank is advertising a credit card with protection against identity theft.>
 
-TODO
-
-In terms of <b>data protection</b>, one gets the <b>bare horror</b>. Some
+In terms of data protection, one gets the bare horror. Some
 health insurance companies take the SSN as a membership number and print it on
 the card so that every doctor's assistant can see it. Every time I write
 something for an American publisher and get paid for it, I have to submit my
@@ -298,7 +296,7 @@ SSN so that it is correctly taxed. Recently, a secretary even wanted me to send
 her the SSN by email - which I had to give a lengthy lecture about how the text
 of any normal email is accessible to anyone who sits at a computer somewhere
 between the sender and the receiver. Even the registration form for the Costco
-shopping paradise asks for the SSN, it's unbearable to keep it in mind!
+shopping paradise asks for the SSN, it's downright crazy!
 
 This total devaluation of the SSN has led to the need to think very carefully
 about who to actually give one's SSN to. Even if it is asked for, one sometimes
@@ -329,7 +327,7 @@ small one for fun, pay it back properly, and the score will increase. However,
 if one asks for the credit report too often, this will reduce the score, so be
 careful!
 
-Since Dadie works for three companies independently, it is important to check
+Since the process works for three companies independently, it is important to check
 all three to make sure that no mistakes have been made that can be claimed to
 the respective companies. The companies usually do not delete the mistakes, but
 comments can be added.
@@ -341,14 +339,14 @@ Figure (#2) show grotesque situations: a truck driver sitting in his underwear
 and holding a can of soda in the hairdresser's salon under the dryer. The ad
 text begins with "It seemed strange to us" and explains that the trucker's
 credit card was suddenly charged $5000 for a beauty salon and the credit card
-company stepped in. On television there are commercials in which a grandmother
+company stepped in. On television, there are commercials in which a grandmother
 in a deck chair speaks with the shrill voice of a teenager, telling how she
 just spent a lot of money on clothes.
 
 @Z: You're fired! (The Apprentice)
 
 <em>Michael</em>
-And there is a new reality show again: "The Apprentice", in which the real
+Now there's one new reality show: "The Apprentice", in which the real
 estate tycoon Donald Trump finds a CEO for one of his companies via television.
 
 <pic images/mini1.ps One of the candidates: Mini skirt from the frog's perspective.>
@@ -359,7 +357,7 @@ they had to tackle small business tasks such as renting an apartment, selling
 lemonade on the street, running a restaurant or casino for a day, or organizing
 a golf tournament. The losing team had to appear in the "Board Room" in front
 of Trump with the previously determined project manager and two other
-candidates, who then "fired" someone for it.
+candidates, and then Trump "fired" someone for not performing.
 
 <pic images/limo.ps The two men are "Apprentice" candidates and are selling lemonade on the street. The lady with the concrete hairstyle is Trump's briefcase carrier, overseeing the action.>
 
@@ -383,7 +381,7 @@ However, it seems that there is a very authoritarian climate in the Trump
 empire. Everyone talks to Trump as "Mr. Trump" as if he were the emperor of
 America. Even his two "executive" briefcase carriers, who allegedly manage some
 of his businesses, are competing to flatter their boss. This so-called
-"brown-nosing" in American was new to me; my relationship with various bosses
+"brown-nosing" was news to me in America; my relationship with various bosses
 has been more comradely. But maybe I'm spoiled by an internet company, and I
 usually don't hang out in the upper floors. In any case, I wouldn't last two
 days with the sycophants in the Trump empire. And I've been with AOL for almost
@@ -391,17 +389,19 @@ seven years!
 
 <pic images/yf.ps The gesture of "You're fired!" when Donald Trump gives someone the boot in "The Apprentice".>
 
-However, Trump suffers from a bad cow taste. Everything that is supposed to
-look luxurious is loaded with gold and plunder, bending and breaking, and each
-of his dependencies looks like Circus Circus in Las Vegas. And his hairstyle is
-already legendary bad. So bad that late-night show host David Letterman already
-held a quiz in which candidates had to guess which hairstyle belonged to a
-chimpanzee and which belonged to Donald Trump at half-covered photos. Pretty
-tough!
+However, Trump suffers from a bad case of what we call "cow taste" in Germany.
+Everything that is supposed to look luxurious is loaded with gold and plunder,
+bending and breaking, and each of his offices looks like Circus Circus in Las
+Vegas. And his hairstyle is already legendary bad. So bad that late-night show
+host David Letterman already held a quiz in which candidates had to guess which
+hairstyle belonged to a chimpanzee and which belonged to Donald Trump at
+half-covered photos. Pretty tough!
 
 Furthermore, he allegedly wants to patent the expression "You're fired!" in
 America as part of the general patent hysteria. Read it quickly in the
 newsletter before the lawyers of the Trump empire intervene!
+
+TODO
 
 @Z: Boing-Bum-Tschack!
 
