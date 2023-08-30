@@ -181,26 +181,25 @@ mailbox.
 
 <pic images/postauto.ps The motorized postman throws the mail from the car into the mailbox.>
 
-TODO
-
 With the booming eBay phenomenon, more and more people are sending their junk,
-which others have bid on in auctions. The usually antiquated-looking USPS has
-come up with something new: on the internet, on the website usps.com, you can
-create a mailing label with a barcode, print it out on paper or self-adhesive
-labels with your home printer, and pay with a credit card right away. You have
-to specify the exact weight and dimensions of the package, and the USPS website
-shows how much postage it costs. Up to one pound it's $4.50, up to two pounds
-it's $8.50 for the farthest distances within America.
+which others have bid on in auctions, by mail. The usually antiquated-looking
+USPS has come up with something new: on the internet, on the website usps.com,
+you can create a mailing label with a barcode, print it out on paper or
+self-adhesive labels with your home printer, and pay with a credit card right
+away. You have to specify the exact weight and dimensions of the package, and
+the USPS website shows how much postage it costs. Up to one pound it's $4.50,
+up to two pounds it's $8.50 for the farthest distances within America.
 
 With the label available through the new service, which has a printed tracking
-number, you can then track it on the internet to see where the package is and
-if the lucky recipient has already received it. And this originally genius
-service invented by the private delivery company UPS doesn't cost a cent more!
+number, you can then track it on the Internet to see where the package is and
+if the lucky recipient has already received it. And USPS version of the
+originally genius service invented by the private delivery company UPS doesn't
+cost a cent more!
 
 If you then drop off the package at the post office, you don't have to queue
 up, but just slide it to the next clerk, because everything is already done.
 Or, you just give it to the postman who is currently delivering the mail in the
-house. By the way, this is common in America: The mailman not only delivers
+neighborhood. By the way, this is common in America: The mailman not only delivers
 mail, but also takes freshly stamped new mail. In big cities this is rather
 unknown, because the postmen are totally stressed there, but in rural areas it
 is quite normal to put the sent mail in the tube-shaped own mailbox and bend up
@@ -210,12 +209,12 @@ there and later hands it in at the post office.
 
 For heavier packages, the "Ground" services of private delivery companies like
 UPS and Fedex are cheaper than the US Postal Service. Instead of sending it by
-plane, heavy cargo is sent "Ground", i.e. by truck across the continent, and
-can be tracked with a tracking number to see how the heavy iron is carted
-through the individual states. A real thrill! For example, I once sold a 20kg
-computer printer on Ebay to a gentleman in New York City, who paid the 39
-dollar Fedex postage without complaint, and after a week and 3000 miles by
-truck, received the printer intact.
+plane, heavy cargo is sent by "Ground" shipping, i.e. by truck across the
+continent, and can be tracked with a tracking number to see how the heavy iron
+is carted through the individual states. A real thrill! For example, I once
+sold a 50 lbs computer printer on Ebay to a gentleman in New York City, who paid
+the 39 dollar Fedex postage without complaint, and after a week and 3000 miles
+by truck, received the printer intact.
 
 @Z: Credit Report
 
@@ -239,7 +238,7 @@ Since Americans like to keep things simple, financial companies like "Fair
 Isaac" generate a so-called "Credit Score", a number between 300 and 850 that
 indicates a person's creditworthiness. The higher the score, the better: 300
 indicates a notorious bankrupt, whom nobody would trust. However, from 720
-onwards, banks swarm around the customer like moths to a light, this value
+onwards, banks swarm around the customer like moths to a light, this number
 distinguishes carefully operating people whose transactions have been recorded
 for some time and have never shown irregularities.
 
@@ -248,7 +247,7 @@ goes to the computer, retrieves the score and then offers the customer the
 interest rate according to an internal table, similar to the following:
 
 <HTMLONLY>
-<table border="1"><tr><th>Credit Score</th> <th>Zinssatz</th></tr>
+<table border="1"><tr><th>Credit Score</th> <th>Interest Rate</th></tr>
 <tr><td>720-850</td> <td>5.73%</td></tr>
 <tr><td>700-719</td> <td>5.83%</td></tr>
 <tr><td>675-699</td> <td>6.39%</td></tr>
@@ -260,7 +259,7 @@ interest rate according to an internal table, similar to the following:
 
 <PRINTONLY>
 \begin{tabular}[t]{p{5cm}rr}
-Credit Score & Zinssatz \\ 
+Credit Score & Interest Rate \\ 
 720-850 & 5.73% \\
 700-719 & 5.83% \\
 675-699 & 6.39% \\
@@ -282,12 +281,14 @@ immigrant, one is assigned an SSN when registering with the Social Security
 Administration in the USA with a valid work visa (see
 <RBLINK>970126#3</RBLINK>).
 
-She should be kept secret, because it also serves for identification of a
-person. For example, when I call my bank account, the automated voice asks me
+The SSN should be kept secret, because it also serves for identification of a
+person. For example, when I call my bank, the automated voice asks me
 for the last four numbers of my SSN before it reads out the account data. When
 sending an application for a new credit card, the SSN must be on it.
 
-<pic images/idt.ps (#2) A truck driver in a beauty salon? Something's not right! The Citi Bank is advertising a credit card with protection against identity theft.>
+<pic images/idt.ps (#2) A truck driver in a beauty salon? Something's not right! Citi Bank is advertising a credit card with protection against identity theft.>
+
+TODO
 
 In terms of <b>data protection</b>, one gets the <b>bare horror</b>. Some
 health insurance companies take the SSN as a membership number and print it on
