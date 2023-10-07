@@ -4,7 +4,7 @@ San Francisco, 12-22-2016
 
 <pic images/trump-landing.ps Hardly any news program comes without news about Donald Trump.>
 
-<em>Angelika</em>After Trump's victory, many people in San Francisco and
+<em>Angelika</em> After Trump's victory, many people in San Francisco and
 California, where over 60% of voters cast their ballots for Hillary Clinton are
 in a kind of shock. On Wednesday morning after the election on November 10th,
 the election result was the topic of conversation everywhere. During
@@ -94,23 +94,58 @@ practice as there are multiple levels of appeal.
 
 <pic images/obamacare-demo.ps Protesters for Obamacare in Washington DC. Photo: flickr[majunznk|majunznk/7025568957]>
 
-TODO
+<em>Angelika</em> One of the greatest achievements of the Obama administration
+might not survive the Trump presidency. The Affordable Care Act or
+Obamacare, which has provided health insurance for millions of Americans, is in
+a precarious position. This is not just due to Trump, but mainly because the
+Senate and House of Representatives now have a Republican majority. Republicans
+have been opposed to Obamacare since it was enacted and have continuously
+proposed measures to repeal it. The plan is to repeal Obamacare on the first
+day of Trump's term in office.
 
-<em>Angelika</em>One of the greatest achievements of the Obama administration is likely to survive the Trump presidency. The Affordable Care Act or Obamacare, which has provided health insurance for millions of Americans, is in a precarious position. This is not just due to Trump, but mainly because the Senate and House of Representatives now have a Republican majority. Republicans have been opposed to Obamacare since it was enacted and have continuously proposed measures to repeal it. The plan is to repeal Obamacare on the first day of Trump's term in office.
-
-"However, since there are currently about 20 million people covered under Obamacare, you cannot simply declare Obamacare invalid without presenting an alternative. The absurd idea that is constantly being brought up is to repeal Obamacare but allow it to continue running until a new law is passed, which could take several years. Experts, however, fear that the system will then collapse as insurance companies become uncertain about their future and thus stop offering plans under Obamacare."
+However, since there are currently about 20 million people covered under
+Obamacare, you cannot simply declare Obamacare invalid without presenting an
+alternative. The absurd idea that is constantly being brought up is to repeal
+Obamacare but allow it to continue running until a new law is passed, which
+could take several years. Experts, however, fear that the system will then
+collapse as insurance companies become uncertain about their future and thus
+stop offering plans under Obamacare."
 
 <pic images/no-obamacare-demo.ps Protesters against Obamacare. Photo: flickr[fibonacciblue|fibonacciblue/4430839938]>
 
-It is true that Obamacare needs improvement. Premiums are rising year after year, mainly because not enough young healthy people are signing up for insurance and would rather pay the penalty for being uninsured than get covered. A universal healthcare plan remains affordable only if young healthy individuals sign up for it, and the money is redistributed based on the solidarity principle. However, Republicans and Trump do not seem to agree on what a good alternative to Obamacare would be. They do know, though, that they want to get rid of the mandate that requires every American to have health insurance. Penalties for being uninsured should be reinstated.
+It is true that Obamacare needs improvement. Premiums are rising year after
+year, mainly because not enough young healthy people are signing up for
+insurance and would rather pay the penalty for being uninsured than get
+covered. A universal healthcare plan remains affordable only if young healthy
+individuals sign up for it, and the money is redistributed based on the
+solidarity principle. However, Republicans and Trump do not seem to agree on
+what a good alternative to Obamacare would be. They do know, though, that they
+want to get rid of the mandate that requires every American to have health
+insurance. The also demand that penalties for being uninsured should no longer
+be imposed.
 
-Translation: 'Even subsidies that allow low-income people to pay for Obamacare policies should no longer exist. On the other hand, Trump has announced that one of the best achievements of Obamacare will not be cut off, namely that insurers cannot deny coverage to patients with so-called "preexisting conditions." If you have a pre-existing condition, you can also find an insurance. This passage in the law is very popular among the population. But actually, the principle of insuring everyone, regardless of pre-existing conditions, only works if there is also a mandate for all to be insured, so that the healthy carry the sick. This wisdom, however, does not seem to have reached all politicians in Washington yet. There is still hope, though. The Democratic Party will fight for Obamacare in the Senate, and there, the Republicans only have a very narrow majority. Since Obamacare is a law passed by Congress, a simple majority would not be enough to fully repeal Obamacare.'
+Opponents of Obamacare also demand that subsidies that allow low-income people
+to pay for Obamacare policies should no longer exist. On the other hand, Trump
+has announced that one of the best achievements of Obamacare will not be cut
+off, namely that insurers cannot deny coverage to patients with so-called
+"preexisting conditions." That way, even if you have a pre-existing condition,
+you can still find an insurance.  This passage in the law is very popular among
+the population. But actually, the principle of insuring everyone, regardless of
+pre-existing conditions, only works if there is also a mandate for all to be
+insured, so that the healthy carry the sick.  This wisdom, however, does not
+seem to have reached all politicians in Washington yet. There is still hope,
+though. The Democratic Party will fight for Obamacare in the Senate, and there,
+the Republicans only have a very narrow majority. Since Obamacare is a law
+passed by Congress, a simple majority would not be enough to fully repeal
+Obamacare.
+
+TODO
 
 @Z: Executive Orders
 
 <pic images/executive-order.ps The first Executive Order by Abraham Lincoln for the emancipation of slaves. Source: Wikipedia.>
 
-<em>Angelika</em>During his tenure, Obama frequently used executive orders for implementation.<LINK>https://en.wikipedia.org/wiki/Executive_order|"Executive Orders" translates to "Reglamentos Ejecutivos".</LINK>') Policy points hammered home that he would otherwise lack a majority to obtain through Congress or the Senate due to lack of consensus. This includes the Paris Climate Agreement, the issuance of work permits for individuals who entered the country as children illegally with their parents, or even bans on drilling in the Arctic Ocean. '
+<em>Angelika</em> During his tenure, Obama frequently used executive orders for implementation.<LINK>https://en.wikipedia.org/wiki/Executive_order|"Executive Orders" translates to "Reglamentos Ejecutivos".</LINK>') Policy points hammered home that he would otherwise lack a majority to obtain through Congress or the Senate due to lack of consensus. This includes the Paris Climate Agreement, the issuance of work permits for individuals who entered the country as children illegally with their parents, or even bans on drilling in the Arctic Ocean. '
 
 Both Democratic and Republican presidents have increasingly used this strategy in the last 20 years, even though the Constitution only allows for its use in cases of urgent problems. Historically, almost every American president has made use of this tool, starting with George Washington who issued eight Executive Orders right from the start, through Abraham Lincoln who issued the famous "Emancipation Proclamation" in 1863 to free slaves, up to Ronald Reagan (381), George H.W. Bush (291), Bill Clinton (308), George W. Bush (291) and finally Obama (261).
 
@@ -120,7 +155,7 @@ The problem with this situation is that these orders are not binding laws and th
 
 <pic images/supreme-court-2010.ps The judges of the U.S. Supreme Court, as of 2010. Source: Wikipedia.>
 
-<em>Angelika</em>The question that everyone asks: What can, wants and will Donald Trump actually implement from his election promises? One thing is certain: through him, the Supreme Court of the United States will experience a stronger conservative swing, as in the event of new appointments to the nine highest judicial positions, the president plays an important role.
+<em>Angelika</em> The question that everyone asks: What can, wants and will Donald Trump actually implement from his election promises? One thing is certain: through him, the Supreme Court of the United States will experience a stronger conservative swing, as in the event of new appointments to the nine highest judicial positions, the president plays an important role.
 
 Since the death of Justice Antonin Scalia in February 2016, the Supreme Court has had an open seat and two of the more liberal justices, namely Ruth Bader Ginsburg and Stephen Breyer, are already quite elderly. Ginsburg is 83 years old and not very healthy. Breyer is already 86 years old. And Justice Kennedy, who once took a more liberal stance but then again often sided with the conservatives, is also already 80 years old. Supreme Court justices can wear their robes as long as they want; there is no mandatory retirement age. Most of them actually retire only when they leave office.
 
@@ -136,7 +171,7 @@ This completely undemocratic behavior of the voters was not punished on November
 
 <pic images/esquineros.ps South American immigrants wait at the street corner for temporary jobs.>
 
-<em>Angelika</em>To blame foreigners, asylum seekers and immigrants in the election campaign is a well-known strategy, because these population groups are always good to scapegoat for everything that is going wrong. Trump has particularly targeted people who live and work illegally in the US, 11 million people. It's true that this problem needs to be solved sensibly at some point. Bush tried to do so and would probably have succeeded if 9/11 had not occurred during his term. Obama focused on Obamacare and left the issue of illegal immigrants a little to the left.
+<em>Angelika</em> To blame foreigners, asylum seekers and immigrants in the election campaign is a well-known strategy, because these population groups are always good to scapegoat for everything that is going wrong. Trump has particularly targeted people who live and work illegally in the US, 11 million people. It's true that this problem needs to be solved sensibly at some point. Bush tried to do so and would probably have succeeded if 9/11 had not occurred during his term. Obama focused on Obamacare and left the issue of illegal immigrants a little to the left.
 
 Trump then in the campaign promised that he would not only build a wall between Mexico and the US, but also plans to deport all eleven million illegal immigrants. The implementation of the wall is a questionable undertaking because the whole thing is costly and time-consuming. It is likely that the already existing fence at many points of the border will be expanded. Eleven million immigrants without papers to deport, that's logistically impossible. There are not enough people at the Immigration and Customs Enforcement Agency ("Homeland Security") to track them down, nor enough detention centers for deportation. Not to mention the costs and consequences for the economy.
 
@@ -156,7 +191,7 @@ It is true that companies in Silicon Valley are desperately looking for people a
 
 <pic images/swingline-staple-remover.ps (#1) The Swingline office stapler deconstructs an annual report of a fund.>
 
-<em>Michael</em>For some time now, I have been carefully snipping every single paper printout upon receipt, scanning it with a document scanner, saving it digitally and then throwing the paper into the recycling bin. For example, annual reports from mutual fund companies are often sent by post and I have to first free them from their bindings before cutting them into individual pages using a paper cutter.
+<em>Michael</em> For some time now, I have been carefully snipping every single paper printout upon receipt, scanning it with a document scanner, saving it digitally and then throwing the paper into the recycling bin. For example, annual reports from mutual fund companies are often sent by post and I have to first free them from their bindings before cutting them into individual pages using a paper cutter.
 
 <pic images/staple-remover.ps (#2) Traditional office clamp zwicker.>
 
