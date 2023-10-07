@@ -233,12 +233,10 @@ deportation. Not to mention the costs and consequences for the economy.
 
 <pic images/esquineros-2.ps Day laborers wait at Cesar Chavez Street for construction jobs.>
 
-TODO
-
-In California, where estimates suggest that almost one-quarter of the state's
-eleven million illegal immigrants lack documentation, and in other states with
-similarly high numbers, entire industries would be sure to collapse.
-Practically no restaurant or construction site exists without the presence of
+In California, where estimates suggest that almost one-quarter of all eleven
+million illegal immigrants live without documentation, and in other states with
+similarly high numbers, entire industries heavily depend on them.  Practically
+no restaurant or construction site exists without the presence of
 illegally-entered labor forces. Moreover, children born to undocumented
 immigrants in the US are actually American citizens and cannot be deported with
 their parents. The police chief of Los Angeles, Charlie Beck, as well as the
@@ -246,18 +244,18 @@ mayors of Los Angeles, New York City, Chicago, and San Francisco have already
 announced that they would not cooperate with a large-scale deportation effort.
 
 In cities like Los Angeles and San Francisco, police officers do not inquire
-about immigration status. In Los Angeles, there has been a
-'<LINK>http://assets.lapdonline.org/assets/pdf/SO_40.pdf|"Special arrangement
-with number 40 | LAPD arrangement number 40 for illegal immigrants."</LINK>This
-means that police officers cannot simply arrest people because they are
-illegally in the country and only report certain crimes to immigration
-authorities. The main reason for this is that the police need to ensure that
-even illegal immigrants trust them and do not refuse to report crimes out of
-fear of deportation. Los Angeles, which has a large population of undocumented
-immigrants, could become chaotic if Trump's promised deportations became
-reality. By the way, it is wrong to believe that no undocumented immigrants
-were deported under Obama. Obama deported a total of 2.5 million illegal
-immigrants and focused on those who had committed crimes.
+about immigration status. In Los Angeles, there is a
+<LINK>http://assets.lapdonline.org/assets/pdf/SO_40.pdf|special arrangement number 40</LINK>
+to deal with illegal immigrants. It requires
+that police officers cannot simply arrest people because they are illegally in
+the country, and they will only report certain types of crimes
+to immigration authorities. The main reason for this is that police need to
+ensure that even illegal immigrants trust them and do not refuse to report
+crimes out of fear of deportation. Los Angeles, which has a large population of
+undocumented immigrants, could become chaotic if Trump's promised deportations
+became reality. By the way, it is wrong to believe that no undocumented
+immigrants were deported under Obama. Obama deported a total of 2.5 million
+illegal immigrants and focused on those who had committed crimes.
 
 <pic images/google.ps We are dependent on foreign specialists: Google. Photo: flickr[nbhattac|nbhattac/8087793186]>
 
@@ -266,17 +264,21 @@ certain work visas. He believes that these visas take jobs away from American
 workers. Trump frequently mentions the H-1B visa for highly skilled foreign
 workers, which Michael held for many years. Under this visa, employers must
 prove that there is no qualified American worker for the job, and companies are
-legally required to pay local wages. This is true for companies like Google,
+legally required to pay local wages. This is common practice at companies like Google,
 Apple, Yahoo, Facebook, etc. However, it seems that there are occasional black
-sheep that hire candidates from countries with significantly lower wages.
+sheep abusing the system by hiring and exploiting candidates from countries
+with significantly lower wages.
 
 It is true that companies in Silicon Valley are desperately looking for people
-and it is getting darker for the software industry without the H1B visa. It
+and it is getting more complicated for the software industry without a
+constant flow of new H1B visas. It
 would be completely impossible to fill even a portion of the open positions.
 The number of H1B visas issued per year is currently limited to 85,000, but
-according to employer studies, this is not enough, both front and back.
+according to employer studies, this is not enough by any means.
 American tech companies have been pleading for years to increase this number,
 but it seems unlikely that this will happen under Trump.
+
+TODO
 
 @Z: Top Product: Swingline Desk Clips Remover
 
