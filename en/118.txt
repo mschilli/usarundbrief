@@ -313,8 +313,8 @@ traditional pinch model.
 <em>Michael</em> When we moved to the USA in 1996, we brought our bed frame and
 mattress set with us from Germany. It measured 2 x 1.60 meters. From our experience
 with numerous hotel stays, we knew that American Queen-size beds (203cm x 152cm) were
-slightly narrower our German bed, and King-size beds (203cm x 193cm), which can be booked
-at an additional cost, offer significantly more comfort.
+slightly narrower than our German bed, and King-size beds (203cm x 193cm), which can be booked
+at additional cost, offer significantly more comfort.
 
 Sometimes in hotel rooms you'll find two single beds, which are often in the
 so-called "twin" format, i.e. 191 cm x 99 cm, but they are usually only
@@ -422,104 +422,103 @@ dialogues without embarassment and flesh crawling moments. The production of
 a second season under the title "Germany 86". I can't wait to watch the
 lead character again prevent total atomic war!
 
-TODO
+@Z: Surf Report from Our Local Beach
 
-@Z: "Surf report from the beach"
+<pic images/surfline.ps Pretty good wave conditions at the house beach in Pacifica.>
 
-<pic images/surfline.ps "Pretty good wave conditions at the house beach in Pacifica.">
-
-<em>Michael</em> I remain true to my passion for surfing and often travel to
-our<LINK>http://www.surfline.com/surf-report/pacifica-lindamar-northern-california_5013/|Beach
-Strand after Pacifica | Surfline report from Beach Strand</LINK>I quickly
-packed the surfboard into the elevator, down to the garage, out onto Highway
-280 and in 18 minutes I was at the so-called "Linda Mar" beach. But are the
-waves worth it today? That's often the question, because when the wind is
+<em>Michael</em> I remain true to my passion for surfing and often make a quick trip to
+our
+<LINK>http://www.surfline.com/surf-report/pacifica-lindamar-northern-california_5013/|nearest beach</LINK>.
+I quickly pack the surfboard into the elevator, go down to the garage, out onto Highway
+280 and within 18 minutes arrive at the so-called "Linda Mar" beach. But will the
+waves be worth the drive today? That's often the question, because when the wind is
 blowing strongly towards the beach, the Pacific Ocean turns into churning
-unsurfable white foam there, and then that doesn't work.
+unsurfable white foam there, and that's bad for surfing.
 
-A company called "Surfline" has set out to install cameras at every surfable
-beach in America and provide surfers like me with videos of the current wave
-conditions on the internet. Using the good footage that also shows how many
-surfers are currently in the water, it's easy to tell whether the trip will be
-worth it. I even set up an alarm that sends me a message on my cell phone if
-the waves reach a preset height and minimum swell.
+Now a company called "Surfline" has set out to install cameras at every surfable
+beach in America and provides surfers like me with videos of the current wave
+conditions via the internet. Tuning in you can also see how many
+surfers are currently in the water, which is an even better indication of 
+whether the trip will be worthwhile. Recently, I've even set up an alarm that sends me
+a message on my cell phone if the waves reach a preset height and minimum swell!
 
-The service costs nothing if you just take a quick look and don't let
+The service is free if you just take a quick look and don't let
 advertising videos deter you, for a Premier account you will be charged $14.95
-per month. You can deduce that the company Surfline is run by idiots who have
-no idea about business, just like the German internet sheep farmer operator
-Sauspiel, who also leaves half of its potentially earnable income on the table.
+per month. I'll have to conced though that the company Surfline is run by idiots who have
+no idea on how to run a business, just like the German internet sheep farmer operator
+Sauspiel, who also leaves half of its potential profits on the table.
 If Surfline would only charge $5 per month, they would have a lot more
 subscribers, but the people there probably work only in short breaks between a
 dozen surf sessions per day. Hey, money is not important to me, man!
 
-@Z: California allows hashing.
+@Z: California legalizes Marihuana
 
-<pic images/joint.ps Now legal: Scrape Photo: flickr[maxcrowe|maxcrowe/2149136890]>
+<pic images/joint.ps Now legal: Pot Photo: flickr[maxcrowe|maxcrowe/2149136890]>
 
-<em>Michael</em> In that whole Trump-Rummel is the result of the much
-anticipated vote on the legalization of marijuana smoking in California
-completely forgotten. After two unsuccessful attempts in 1996 and 2010,
-California voters actually approved the so-called "recreational use of
-marijuana" in 2016, i.e. smoking for private enjoyment. "Medical Marijuana" has
-been available to us for a long time, where you can buy your THC-containing
-cannabis product at the officially operated "Dispensories" stores, all you had
-to do was go to some doctor and get a prescription for "back pain", then
-register as a purchaser in a state database, and then smoke until your brain
-hit the ceiling.
+<em>Michael</em> With the whole Trump hullabaloo, it's easy to miss another
+groundbreaking political change: The result of the much anticipated vote on the
+legalization of marijuana smoking in California.  After two unsuccessful
+attempts in 1996 and 2010, California voters actually approved the so-called
+"recreational use of marijuana" in 2016, i.e. smoking for private enjoyment.
+"Medical Marijuana" has been available to Californians for a long time, where
+sales of your THC-containing cannabis product are legal at the officially
+operated "Dispensories" stores, all you had to do was go to some doctor and get
+a prescription for mysterious "back pain", then register as a purchaser in a
+state database, and then smoke until your brain hit the ceiling.
 
-Many people got on the deal, and an entire industry of state-licensed
+Many people got in on the deal, and an entire industry of state-licensed
 distribution outlets, as well as doctors who specialize in prescribing, shot up
 like mushrooms from the ground. Anyone who has ever strolled along Venice Beach
 in Los Angeles knows that relaxed young people in bright green overalls
-approach tourists quickly to the "doctor" who happens to have his practice
+approach tourists to quickly usher them to the "doctor" who happens to have his practice
 right on the boardwalk, and with a pointed pen and open prescription booklet
 for $30, provides the desired permit.
 
-"San Francisco has always been a marijuana metropolis even without a
-prescription. It's no secret that whole regions like Humboldt County, about 100
-miles north, mainly live off the illegal cannabis cultivation. Drug possession
-has been treated as a gentleman's crime since the '90s, and only the commercial
-distribution of it was pursued. However, according to the law, it was still
-prohibited, but a policeman in San Francisco would never arrest someone just
-for smoking a joint unless they had a personal grudge against that person."
+You'd have to know, though, that San Francisco has always been a marijuana
+metropolis, even without a prescription. It's no secret that whole regions like
+Humboldt County, about 100 miles north, mainly live off illegal cultivation of
+cannabis. Drug possession has been treated as a gentleman's crime since the
+'90s, and only the commercial distribution of it was pursued. However,
+according to existing law, it was still prohibited, although no policeman in
+San Francisco would never arrest someone just for smoking a joint unless they
+had a personal grudge against that person.
 
 I don't want to name any specific companies here, but before my last job
-change, I made myself known at several well-known Silicon Valley branches and
+change, I made myself known at several well-known Silicon Valley enterprises and
 filled out their job applications before they even interviewed me. In the
 section on criminal records, I was asked as an applicant to provide any
 "criminal records," and it made me laugh when I saw that not only at one
-company but at several that they explicitly advise leaving out convictions
+company but at several that they explicitly advised leaving out convictions
 related to marijuana use.
 
-On November 9th, the California Proposition 64 was approved by the voters
-with<LINK>http://bit.ly/2cLJy4i|"57 to 43 percent | Result of Proposition
-64"</LINK>The translated text reads: "The 2015 initiative filed with the
+Now, on November 9th, California Proposition 64 was approved by the voters
+with <LINK>http://bit.ly/2cLJy4i|"57 percent approval</LINK>.
+The initiative had been submitted in 2015 and filed with the
 Attorney General of California, and now everyone can smoke as many joints as
-they want without any regrets. However, what does the new law exactly mean in
+they want without legal repercussions. However, what does the new law exactly mean in
 practice, for example for German tourists who will undoubtedly flock like
 before to Amsterdam, the mecca of drug consumption, to pilgrimage to San
-Francisco."
+Francisco?
 
 The text of the proposition provides that consumers will only be able to
 legally purchase cannabis products at licensed stores starting in early 2018. A
-special sales tax of 15% will then be imposed, which will generate revenue for
+special sales tax of 15% will then be imposed, which will add revenue to the
 state coffers. In addition, cannabis farmers will have to pay $9.25 per ounce
 (28g) of harvested flowers, and $2.75 per ounce for leaves and stems. Revenues
 are estimated at $4 billion by 2020.
 
 California is currently discussing whether marijuana producers will be allowed
-to display their products on large billboards along the freeways or if the
-product should follow the same restrictions as tobacco
-products.<LINK>http://www.thecannifornian.com/cannabis-news/law/california-considers-ban-roadside-billboard-marijuana-ads/|Advertising prohibition</LINK>.
+to advertise their products on large billboards along the freeways or if the
+product should follow the same
+<LINK>http://www.thecannifornian.com/cannabis-news/law/california-considers-ban-roadside-billboard-marijuana-ads/|restrictions as tobacco products</LINK>.
 In the United States, the states of Alaska, Washington DC,
 Washington, Oregon, and Colorado have already legalized cannabis and are
 working on the legal details. Alaska and Oregon are still working on their
-distribution strategy. In Colorado, there are already such stores. Private
+distribution strategy. In Colorado, cannabis dispensaries are already in operation. Private
 cultivation of up to six plants is allowed, except in Washington, where only
-licensed commercial growers are allowed to plant.
+licensed commercial growers are allowed to grow.
 
-In the United States, private possession of cannabis products is allowed for
+In California, private possession of cannabis products will be allowed for
 adults aged 21 and above, with a limit of one ounce per person. Gifting
 acquired or homegrown products (also up to one ounce) is permitted. Selling
 cannabis products is only allowed through official channels, while private
@@ -529,9 +528,8 @@ residences or on balconies, depending on the state's laws.
 
 Since the legal situation is quite complicated, as I am currently reading in
 the news,
-<LINK>http://www.thecannifornian.com/cannabis-culture/marijuana-legalization-rollout-delayed|the rollout could be delayed|Delayed rollout for Canabis</LINK>.
-Bureaucracy in California grinds notoriously slow.
+<LINK>http://www.thecannifornian.com/cannabis-culture/marijuana-legalization-rollout-delayed|the rollout could be delayed</LINK>.  Bureaucracy in California has always be grinding notoriously slow.
 
-Greetings from the center of the hippie Movement:
+Greetings from the center of the hippie movement:
 
 Angelika and Michael
