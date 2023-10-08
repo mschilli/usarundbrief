@@ -278,21 +278,35 @@ according to employer studies, this is not enough by any means.
 American tech companies have been pleading for years to increase this number,
 but it seems unlikely that this will happen under Trump.
 
+@Z: Top Product: Swingline Staple Remover
+
+<pic images/swingline-staple-remover.ps (#1) The Swingline staple remover deconstructs a mutual fund annual report.>
+
+<em>Michael</em> For some time now, I have been carefully cutting every single
+paper document upon receipt, scanning it with a document scanner, saving it
+digitally and then throwing the paper into the recycling bin. For example,
+annual reports from mutual fund companies are often sent by mail and I have to
+first free them from their bindings before cutting them into individual pages
+using a paper cutter.
+
+<pic images/staple-remover.ps (#2) Traditional office clamp remover>
+
+Traditional staple removers like the Swingo in illustration (#2) are not very
+expensive and bend the staples at the open ends, before you can then push them
+through the holes in the paper from the opposite side. I was unaware until now
+that stationery departments also carry other stapler removal tools such as
+those from Swingline in illustration (#1).
+
+<pic images/swingline-amzn.ps The lavish design of the Swingline office staple remover.>
+
+The lavish design of the office tool resembles the "swinging" 50s, and when
+one holds the comfortable grip of the remover and guides the metallic tongue
+under the closed side of the clamp to be opened, it opens at the back and slowly sways
+out. One should not go too fast or else the paper will tear, but if you
+do it slowly, it actually works faster and more efficiently than with a
+traditional pinch model.
+
 TODO
-
-@Z: Top Product: Swingline Desk Clips Remover
-
-<pic images/swingline-staple-remover.ps (#1) The Swingline office stapler deconstructs an annual report of a fund.>
-
-<em>Michael</em> For some time now, I have been carefully snipping every single paper printout upon receipt, scanning it with a document scanner, saving it digitally and then throwing the paper into the recycling bin. For example, annual reports from mutual fund companies are often sent by post and I have to first free them from their bindings before cutting them into individual pages using a paper cutter.
-
-<pic images/staple-remover.ps (#2) Traditional office clamp zwicker.>
-
-Traditional desk staplers like the Swingo in illustration (#2) are not very expensive and bend the staples at the open ends, before you can then push them through the holes in the paper from the opposite side. I was unaware until now that stationery departments also carry other stapler removal tools such as those from Swingline in illustration (#1).
-
-<pic images/swingline-amzn.ps The lavish design of the Swingline office stapler.>
-
-The expansive design of the office tool resembles the "swinging" 50s, and when one holds the comfortable grip of the remover and guides the metallic tongue under the closed side of the clamp to be opened, it opens at the back and sways slowly out. One should not go too fast or else the paper will tear, but if you do it slowly, it actually works faster and more efficiently than with a traditional pinch model.
 
 @Z: "Eyes open when buying bedding"
 
