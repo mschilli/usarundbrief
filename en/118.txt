@@ -278,94 +278,258 @@ according to employer studies, this is not enough by any means.
 American tech companies have been pleading for years to increase this number,
 but it seems unlikely that this will happen under Trump.
 
-TODO
+@Z: Top Product: Swingline Staple Remover
 
-@Z: Top Product: Swingline Desk Clips Remover
+<pic images/swingline-staple-remover.ps (#1) The Swingline staple remover deconstructs a mutual fund annual report.>
 
-<pic images/swingline-staple-remover.ps (#1) The Swingline office stapler deconstructs an annual report of a fund.>
+<em>Michael</em> For some time now, I have been carefully cutting every single
+paper document upon receipt, scanning it with a document scanner, saving it
+digitally and then throwing the paper into the recycling bin. For example,
+annual reports from mutual fund companies are often sent by mail and I have to
+first free them from their bindings before cutting them into individual pages
+using a paper cutter.
 
-<em>Michael</em> For some time now, I have been carefully snipping every single paper printout upon receipt, scanning it with a document scanner, saving it digitally and then throwing the paper into the recycling bin. For example, annual reports from mutual fund companies are often sent by post and I have to first free them from their bindings before cutting them into individual pages using a paper cutter.
+<pic images/staple-remover.ps (#2) Traditional office clamp remover>
 
-<pic images/staple-remover.ps (#2) Traditional office clamp zwicker.>
+Traditional staple removers like the Swingo in illustration (#2) are not very
+expensive and bend the staples at the open ends, before you can then push them
+through the holes in the paper from the opposite side. I was unaware until now
+that stationery departments also carry other stapler removal tools such as
+those from Swingline in illustration (#1).
 
-Traditional desk staplers like the Swingo in illustration (#2) are not very expensive and bend the staples at the open ends, before you can then push them through the holes in the paper from the opposite side. I was unaware until now that stationery departments also carry other stapler removal tools such as those from Swingline in illustration (#1).
+<pic images/swingline-amzn.ps The lavish design of the Swingline office staple remover.>
 
-<pic images/swingline-amzn.ps The lavish design of the Swingline office stapler.>
+The lavish design of the office tool resembles the "swinging" 50s, and when
+one holds the comfortable grip of the remover and guides the metallic tongue
+under the closed side of the clamp to be opened, it opens at the back and slowly sways
+out. One should not go too fast or else the paper will tear, but if you
+do it slowly, it actually works faster and more efficiently than with a
+traditional pinch model.
 
-The expansive design of the office tool resembles the "swinging" 50s, and when one holds the comfortable grip of the remover and guides the metallic tongue under the closed side of the clamp to be opened, it opens at the back and sways slowly out. One should not go too fast or else the paper will tear, but if you do it slowly, it actually works faster and more efficiently than with a traditional pinch model.
+@Z: Beds and Mattresses in the United States
 
-@Z: "Eyes open when buying bedding"
+<pic images/king-size-bed.ps Our new king-size bed>
 
-<pic images/king-size-bed.ps Our new king-size bed.>
+<em>Michael</em> When we moved to the USA in 1996, we brought our bed frame and
+mattress set with us from Germany. It measured 2 x 1.60 meters. From our experience
+with numerous hotel stays, we knew that American Queen-size beds (203cm x 152cm) were
+slightly narrower than our German bed, and King-size beds (203cm x 193cm), which can be booked
+at additional cost, offer significantly more comfort.
 
-<em>Michael</em>When we moved to the USA in 1996, we brought our bed frame and mattress set, which measured 2 x 1.60 meters from Germany. From our experience with numerous hotel stays, we knew that Queen-size beds (203cm x 152cm) are slightly narrower than what is common in America, and King-size beds (203cm x 193cm), which can be rented at an additional cost, offer significantly more comfort.
+Sometimes in hotel rooms you'll find two single beds, which are often in the
+so-called "twin" format, i.e. 191 cm x 99 cm, but they are usually only
+intended to sleep individuals. In the size "double" (also called "full size"),
+beds sometimes measure even 191 cm x 137 cm, but that is rather
+rare. And super-luxury hotel suites sometimes offer "California King" beds,
+which are, surprisingly, 10 cm narrower (!) than king beds, but offer
+10 cm more leg room: 213 cm x 183 cm.
 
-Sometimes in hotel rooms there are also two single beds, which are often in the so-called "twin" format, i.e. 191 cm x 99 cm, but they are usually only intended for individual persons. In the size "double" (also called "full size") mini double beds sometimes measure even 191 cm x 137 cm, but that is rather rare. And in super-luxury hotels suites sometimes offer "California King" beds for long legs, which are indeed 10 cm narrower than king beds, but 10 cm longer: 213 cm x 183 cm.
+Buying a mattress with German measurements in the USA for a new bed is downright
+impossible, normal stores only offer twin, queen or king mattresses. Mr. and
+Mrs. Rockefeller have their mattresses custom-made, but it's not worth it for
+average Joe who throws his affordable German bed in the trash and buys a new American one
+with <LINK>http://en.wikipedia.org/wiki/Bed_size#Standard_North_American_sizes|standard measurements</LINK>
+instead. By the way, German fitted sheets for their 160 cm wide beds also
+fit a queen-sized mattresses. Conversely, American queen-sized stretchy fitted
+sheets made of elastic material with a little effort can also fit a 160 cm wide
+mattress.
 
-To buy a mattress with German measurements in the USA for a new bed is an impossibility, normal stores only offer twin, queen or king mattresses. Mr. and Mrs. Rockefeller have their mattresses custom-made, but it's not worth it for average Joe who throws his affordable German bed on the spare bedroom floor and buys a new American one instead.<LINK>http://en.wikipedia.org/wiki/Bed_size#Standard_North_American_sizes|"Bedding standards"</LINK>By the way, German fitted sheets for a 160 cm wide bed also fit a queen-sized mattress. Conversely, American queen-sized stretchy fitted sheets made of elastic material with a little effort can also fit a 160 cm wide mattress, but only at the edges.
+Americans typically share a large bedspread that covers the entire bed on
+double beds. If one of the two sleepers has the habit of constantly grabbing a
+lot of bedding during sleep, it can lead to arguments. For that reason, we've
+always had individual covers in twin size, so that each of us can toss and turn
+without waking up the other.
 
-Americans typically share a large bedspread that covers the entire bed on marriage beds. If one of the two sleepers has the habit of constantly grabbing a lot of bedding during sleep, it can lead to arguments. We therefore prefer for a long time individual covers in twin size, so that everyone can let off steam without waking up the other.
+There are many types of mattresses in the USA, especially those with spring
+cores ("spring mattress"), that can sometimes protrude up to 50 cm out of the
+bed frame, much like the beds at Neuschwanstein Castle. Latex or memory foam
+mattresses, on the other hand, are only about half as thick. The latter are
+particularly helpful for people with back problems by remembering the contours
+of the body when sinking in. However, they emit a foul chemical odor for weeks
+after installation and can become extremely hot in summer months, making them
+recommended only in cooler climates or homes with air conditioning.
 
-There are many mattresses in the USA, especially those with spring cores ("spring mattress"), that can sometimes protrude up to 50 cm out of the bed frame, much like the beds at Neuschwanstein Castle. Latex or memory foam mattresses, on the other hand, are only about half as thick. The latter are particularly helpful for people with back problems by remembering the contours of the body when sinking in. However, they emit a foul chemical odor for weeks after installation and can become extremely hot in summer months, making them recommended only in cooler climates or homes with air conditioning.
+<pic images/slats.ps "Slats" in an American bed frame Photo: flickr (brownpau/18863524008)>
 
-<pic images/slats.ps An American bed frame called "slats." Photo: flickr (brownpau/18863524008)>
+Spring mattresses sit on top of slats mounted into the bed frame. Slats are
+often separated into two equal individual parts for king-size beds that lay
+side by side in the bed frame.  Also, regarding the bed frame, America has some
+unexpected options. Many memory foam mattress manufacturers write in their
+warranty instructions that a traditional bed frame with flexible slats should
+not be placed underneath the mattress, but only a so-called "box spring", which
+is a rigid yet air-permeable wooden framework that offers no cushioning, but
+ensures that the mattress does not sink or collapse.
 
-Mattresses lie below on the bed frame which often consists of two equal individual parts for king-size beds that lay side by side in the bed frame. Also, regarding the bed frame, America has some unexpected options. Many memory foam mattress manufacturers write in their warranty instructions that a traditional bed frame with flexible slats should not be placed underneath but only an unyielding box spring which is a rigid yet air-permeable wooden framework that offers no cushioning, but ensures that the mattress does not sink or collapse.
-
-We finally decided for the Ikea mattress "HESSTUN" in King Ludwig format and a bed from EQ3 and are very satisfied with it. However, the delivery of a king-size mattress in a rental house is accompanied by surprising difficulties. The two Ikea fritzes who lifted the 70 kg heavy mattress in the format 203 cm x 193 cm x 50 cm standing out of their truck, could not convince them to bring the monster into our elevator. They were only convinced by angels' tongues to carry it through the stairwell to the second floor because the mattress-pushing union at Ikea allegedly prohibited them from entering higher floors such as our third floor.
+We finally settled on the Ikea mattress "HESSTUN" in King Ludwig format and a
+bed from EQ3 and are very satisfied with the setup. However, the delivery of a
+king-size mattress into a rental unit can be challenging as we found out the hard way.
+The two Ikea delivery men who lifted the 70 kg heavy mattress in the format 203 cm x
+193 cm x 50 cm off their truck, couldn't manage to fit it into our elevator.
+I convinced them by angels' tongues to carry it through the stairwell to the second floor,
+because apparently the mattress hauler's union at Ikea prohibited them from entering
+higher elevations, such as our third floor.
 
 <pic images/movers-dolly.ps A wheeled trolley helps with moving mattresses.>
 
-After some back and forth, it turned out that the large part of the stairwell did not fit around the corner. Gritting my teeth, I had the guys put the mattress by the front door and send them away. Armed with a wooden ruler and geometric formulas, I found out that the mattress, after removing the cardboard packaging using a cushion cutter (the two experts had refused to do so citing their extensive moving regulations), could be hyperbolic paraboloid in the elevator. I got into the elevator and pulled, Angelika pushed from outside, and as the mattress crossed the threshold, Angelika stepped back, and I quickly pressed the button for the third floor.
+After some back and forth, it turned out that the mattress was too big to fit
+around the corner in the staircase. Gritting my teeth, I had the guys put the
+mattress by the front door and sent them away. Armed with a wooden ruler and
+geometric formulas, I found out that the mattress, after removing the cardboard
+packaging using a cushion cutter (the two experts had refused to do so citing
+their extensive moving regulations), could be folded into the elevator forming
+a hyperbolic paraboloid. I got into the elevator and threw my weight against
+the mattress, Angelika pushed from outside, and as the mattress crossed the
+threshold, Angelika stepped back, and I quickly pressed the button for the
+third floor.
 
-The door closed, and the elevator started moving upwards. Upon arriving at the third floor, it was easy to roll the mattress using a so-called "furniture dolly," which I always keep handy, into the apartment and place it in the bedroom. It was even easier when the bed delivery happened a few weeks later: Although the EQ3 commissioned delivery service couldn't fit everything in the elevator, the two deliverymen carried the non-fitting but appropriate headboard of the bed up the stairwell with ease and assembled it in under an hour. I happily gave them a killer tip.
+The door closed, and the elevator started moving upwards. Upon arriving at the
+third floor, it was easy to wheel the mattress along the hallway using a so-called "furniture
+dolly," which I always keep handy. We brought it into the apartment and placed it in the
+bedroom. Contrast that ordeal to the bed delivery that happened a few weeks later:
+Although the EQ3 commissioned delivery service couldn't fit all the parts into the
+elevator, the two deliverymen carried the giant headboard up the stairwell with ease and
+assembled the bed in under an hour. I happily gave them a killer tip.
 
-@Z: Good series: Germany 83
+@Z: Good TV series: Germany 83
 
 <pic images/deutschland-83.ps German-language series that fares better in America than in Germany: Germany 83.>
 
-<em>Michael</em>That we as Germans living in America present a German TV production may seem absurd to you, but the 8-part series "Germany 83" from 2015 is relatively unknown in Germany but has become very popular here in the US.
+<em>Michael</em> That we as Germans living in America suggest watching a German TV
+production may seem absurd to you, but the 8-part series "Germany 83" from 2015
+is relatively unknown in Germany, yet has become very popular here in the US.
 
-The fictional story revolves around an East German border guard during the mid-1980s of the Cold War, who infiltrates the West German army as a spy. While the spy is portrayed as sympathetic, the handlers of the East German leadership and their Russian allies are depicted as malevolent and secretive, which some left-leaning artists in Germany may not appreciate but is more acceptable in America. The DVD features English subtitles for the German production.
+The fictional story revolves around an East German border guard during the
+mid-1980s of the Cold War, who infiltrates the West German army as a spy. While
+the spy is portrayed as likable, the handlers of the East German leadership
+and their Russian allies are depicted as malevolent and secretive, which some
+left-leaning artists in Germany may not appreciate, but this point of view
+is more common in America. The DVD features English subtitles while watching the
+German production for those who don't speak the language.
 
-What really annoys me about the series is the background music that's present in almost every scene, created by a German Hollywood wannabe on a home computer. He probably programs other things like phone waiting tunes and elevator music. The producer should have been more careful and not just accept the whole meaningless electronic sound as a cheap package deal without considering its impact on the otherwise good film. But mistakes happen, and it's frustrating.
+What really annoyed me about the series is the background music that's present
+in almost every scene, created by a German Hollywood wannabe on a home
+computer. He probably programs other things like phone ring tunes and
+elevator music. The producer should have been more careful and not just accept
+the whole meaningless electronic sound as a cheap package deal without
+considering its impact on the otherwise good film. But mistakes happen, live, learn,
+and move on!
 
-The actors are all completely unknown but play astonishingly credible, yes almost at an unfamiliar world level from Germany. Not comparable to the eternally old Tatort faces that don't even manage simple dialogues without me wriggling with disgust due to sheer foreignness. In two years, the production company has planned a second season under the title "Germany 86", one can be eagerly awaiting whether the hero in the lead role will again prevent the total atomic war!
+The actors are all completely unknown but play astonishingly convincing, dare I say it,
+at an almost unfamiliar world class level, considering they're from Germany. Not
+comparable to the eternally old Tatort faces that can't even manage simple
+dialogues without embarassment and flesh crawling moments. The production of
+"Germany 83" is supposed to resume two years from now, they're planning on
+a second season under the title "Germany 86". I can't wait to watch the
+lead character again prevent total atomic war!
 
-@Z: "Surf report from the beach"
+@Z: Surf Report from Our Local Beach
 
-<pic images/surfline.ps "Pretty good wave conditions at the house beach in Pacifica.">
+<pic images/surfline.ps Pretty good wave conditions at the house beach in Pacifica.>
 
-<em>Michael</em>I remain true to my passion for surfing and often travel to our<LINK>http://www.surfline.com/surf-report/pacifica-lindamar-northern-california_5013/|Beach Strand after Pacifica | Surfline report from Beach Strand</LINK>I quickly packed the surfboard into the elevator, down to the garage, out onto Highway 280 and in 18 minutes I was at the so-called "Linda Mar" beach. But are the waves worth it today? That's often the question, because when the wind is blowing strongly towards the beach, the Pacific Ocean turns into churning unsurfable white foam there, and then that doesn't work.
+<em>Michael</em> I remain true to my passion for surfing and often make a quick trip to
+our
+<LINK>http://www.surfline.com/surf-report/pacifica-lindamar-northern-california_5013/|nearest beach</LINK>.
+I quickly pack the surfboard into the elevator, go down to the garage, out onto Highway
+280 and within 18 minutes arrive at the so-called "Linda Mar" beach. But will the
+waves be worth the drive today? That's often the question, because when the wind is
+blowing strongly towards the beach, the Pacific Ocean turns into churning
+unsurfable white foam there, and that's bad for surfing.
 
-A company called "Surfline" has set out to install cameras at every surfable beach in America and provide surfers like me with videos of the current wave conditions on the internet. Using the good footage that also shows how many surfers are currently in the water, it's easy to tell whether the trip will be worth it. I even set up an alarm that sends me a message on my cell phone if the waves reach a preset height and minimum swell.
+Now a company called "Surfline" has set out to install cameras at every surfable
+beach in America and provides surfers like me with videos of the current wave
+conditions via the internet. Tuning in you can also see how many
+surfers are currently in the water, which is an even better indication of 
+whether the trip will be worthwhile. Recently, I've even set up an alarm that sends me
+a message on my cell phone if the waves reach a preset height and minimum swell!
 
-The service costs nothing if you just take a quick look and don't let advertising videos deter you, for a Premier account you will be charged $14.95 per month. You can deduce that the company Surfline is run by idiots who have no idea about business, just like the German internet sheep farmer operator Sauspiel, who also leaves half of its potentially earnable income on the table. If Surfline would only charge $5 per month, they would have a lot more subscribers, but the people there probably work only in short breaks between a dozen surf sessions per day. Hey, money is not important to me, man!
+The service is free if you just take a quick look and don't let
+advertising videos deter you, for a Premier account you will be charged $14.95
+per month. I'll have to conced though that the company Surfline is run by idiots who have
+no idea on how to run a business, just like the German internet sheep farmer operator
+Sauspiel, who also leaves half of its potential profits on the table.
+If Surfline would only charge $5 per month, they would have a lot more
+subscribers, but the people there probably work only in short breaks between a
+dozen surf sessions per day. Hey, money is not important to me, man!
 
-@Z: California allows hashing.
+@Z: California legalizes Marihuana
 
-<pic images/joint.ps Now legal: Scrape Photo: flickr[maxcrowe|maxcrowe/2149136890]>
+<pic images/joint.ps Now legal: Pot Photo: flickr[maxcrowe|maxcrowe/2149136890]>
 
-<em>Michael</em>In that whole Trump-Rummel is the result of the much anticipated vote on the legalization of marijuana smoking in California completely forgotten. After two unsuccessful attempts in 1996 and 2010, California voters actually approved the so-called "recreational use of marijuana" in 2016, i.e. smoking for private enjoyment. "Medical Marijuana" has been available to us for a long time, where you can buy your THC-containing cannabis product at the officially operated "Dispensories" stores, all you had to do was go to some doctor and get a prescription for "back pain", then register as a purchaser in a state database, and then smoke until your brain hit the ceiling.
+<em>Michael</em> With the whole Trump hullabaloo, it's easy to miss another
+groundbreaking political change: The result of the much anticipated vote on the
+legalization of marijuana smoking in California.  After two unsuccessful
+attempts in 1996 and 2010, California voters actually approved the so-called
+"recreational use of marijuana" in 2016, i.e. smoking for private enjoyment.
+"Medical Marijuana" has been available to Californians for a long time, where
+sales of your THC-containing cannabis product are legal at the officially
+operated "Dispensories" stores, all you had to do was go to some doctor and get
+a prescription for mysterious "back pain", then register as a purchaser in a
+state database, and then smoke until your brain hit the ceiling.
 
-Many people got on the deal, and an entire industry of state-licensed distribution outlets, as well as doctors who specialize in prescribing, shot up like mushrooms from the ground. Anyone who has ever strolled along Venice Beach in Los Angeles knows that relaxed young people in bright green overalls approach tourists quickly to the "doctor" who happens to have his practice right on the boardwalk, and with a pointed pen and open prescription booklet for $30, provides the desired permit.
+Many people got in on the deal, and an entire industry of state-licensed
+distribution outlets, as well as doctors who specialize in prescribing, shot up
+like mushrooms from the ground. Anyone who has ever strolled along Venice Beach
+in Los Angeles knows that relaxed young people in bright green overalls
+approach tourists to quickly usher them to the "doctor" who happens to have his practice
+right on the boardwalk, and with a pointed pen and open prescription booklet
+for $30, provides the desired permit.
 
-"San Francisco has always been a marijuana metropolis even without a prescription. It's no secret that whole regions like Humboldt County, about 100 miles north, mainly live off the illegal cannabis cultivation. Drug possession has been treated as a gentleman's crime since the '90s, and only the commercial distribution of it was pursued. However, according to the law, it was still prohibited, but a policeman in San Francisco would never arrest someone just for smoking a joint unless they had a personal grudge against that person."
+You'd have to know, though, that San Francisco has always been a marijuana
+metropolis, even without a prescription. It's no secret that whole regions like
+Humboldt County, about 100 miles north, mainly live off illegal cultivation of
+cannabis. Drug possession has been treated as a gentleman's crime since the
+'90s, and only the commercial distribution of it was pursued. However,
+according to existing law, it was still prohibited, although no policeman in
+San Francisco would never arrest someone just for smoking a joint unless they
+had a personal grudge against that person.
 
-I don't want to name any specific companies here, but before my last job change, I made myself known at several well-known Silicon Valley branches and filled out their job applications before they even interviewed me. In the section on criminal records, I was asked as an applicant to provide any "criminal records," and it made me laugh when I saw that not only at one company but at several that they explicitly advise leaving out convictions related to marijuana use.
+I don't want to name any specific companies here, but before my last job
+change, I made myself known at several well-known Silicon Valley enterprises and
+filled out their job applications before they even interviewed me. In the
+section on criminal records, I was asked as an applicant to provide any
+"criminal records," and it made me laugh when I saw that not only at one
+company but at several that they explicitly advised leaving out convictions
+related to marijuana use.
 
-On November 9th, the California Proposition 64 was approved by the voters with<LINK>http://bit.ly/2cLJy4i|"57 to 43 percent | Result of Proposition 64"</LINK>The translated text reads: "The 2015 initiative filed with the Attorney General of California, and now everyone can smoke as many joints as they want without any regrets. However, what does the new law exactly mean in practice, for example for German tourists who will undoubtedly flock like before to Amsterdam, the mecca of drug consumption, to pilgrimage to San Francisco."
+Now, on November 9th, California Proposition 64 was approved by the voters
+with <LINK>http://bit.ly/2cLJy4i|"57 percent approval</LINK>.
+The initiative had been submitted in 2015 and filed with the
+Attorney General of California, and now everyone can smoke as many joints as
+they want without legal repercussions. However, what does the new law exactly mean in
+practice, for example for German tourists who will undoubtedly flock like
+before to Amsterdam, the mecca of drug consumption, to pilgrimage to San
+Francisco?
 
-The text of the proposition provides that consumers will only be able to legally purchase cannabis products at licensed stores starting in early 2018. A special sales tax of 15% will then be imposed, which will generate revenue for state coffers. In addition, cannabis farmers will have to pay $9.25 per ounce (28g) of harvested flowers, and $2.75 per ounce for leaves and stems. Revenues are estimated at $4 billion by 2020.
+The text of the proposition provides that consumers will only be able to
+legally purchase cannabis products at licensed stores starting in early 2018. A
+special sales tax of 15% will then be imposed, which will add revenue to the
+state coffers. In addition, cannabis farmers will have to pay $9.25 per ounce
+(28g) of harvested flowers, and $2.75 per ounce for leaves and stems. Revenues
+are estimated at $4 billion by 2020.
 
-California is currently discussing whether marijuana producers will be allowed to display their products on large billboards along the freeways or if the product should follow the same restrictions as tobacco products.<LINK>http://www.thecannifornian.com/cannabis-news/law/california-considers-ban-roadside-billboard-marijuana-ads/|Advertising prohibition</LINK>In the United States, the states of Alaska, Washington DC, Washington, Oregon, and Colorado have already legalized cannabis and are working on the legal details. Alaska and Oregon are still working on their distribution strategy. In Colorado, there are already such stores. Private cultivation of up to six plants is allowed, except in Washington, where only licensed commercial growers are allowed to plant.
+California is currently discussing whether marijuana producers will be allowed
+to advertise their products on large billboards along the freeways or if the
+product should follow the same
+<LINK>http://www.thecannifornian.com/cannabis-news/law/california-considers-ban-roadside-billboard-marijuana-ads/|restrictions as tobacco products</LINK>.
+In the United States, the states of Alaska, Washington DC,
+Washington, Oregon, and Colorado have already legalized cannabis and are
+working on the legal details. Alaska and Oregon are still working on their
+distribution strategy. In Colorado, cannabis dispensaries are already in operation. Private
+cultivation of up to six plants is allowed, except in Washington, where only
+licensed commercial growers are allowed to grow.
 
-In the United States, private possession of cannabis products is allowed for adults aged 21 and above, with a limit of one ounce per person. Gifting acquired or homegrown products (also up to one ounce) is permitted. Selling cannabis products is only allowed through official channels, while private sales are prohibited. Consuming marijuana products is not allowed in public spaces such as streets or parks in some states; it must be done only in private residences or on balconies, depending on the state's laws.
+In California, private possession of cannabis products will be allowed for
+adults aged 21 and above, with a limit of one ounce per person. Gifting
+acquired or homegrown products (also up to one ounce) is permitted. Selling
+cannabis products is only allowed through official channels, while private
+sales are prohibited. Consuming marijuana products is not allowed in public
+spaces such as streets or parks in some states; it must be done only in private
+residences or on balconies, depending on the state's laws.
 
-Since the legal situation is quite complicated, as I am currently reading in the news,
-<LINK>http://www.thecannifornian.com/cannabis-culture/marijuana-legalization-rollout-delayed|the rollout could be delayed|Delayed rollout for Canabis</LINK>. 
-Bureaucracy in California grinds notoriously slow.
+Since the legal situation is quite complicated, as I am currently reading in
+the news,
+<LINK>http://www.thecannifornian.com/cannabis-culture/marijuana-legalization-rollout-delayed|the rollout could be delayed</LINK>.  Bureaucracy in California has always be grinding notoriously slow.
 
-Greetings from the center of the hippie Movement:
+Greetings from the center of the hippie movement:
 
 Angelika and Michael
