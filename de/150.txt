@@ -103,7 +103,7 @@ ist und mehr Bedarf hat, bin ich zur Zeit vier Tage die Woche in Mountain View
 tätig und einen Tag dann in San Francisco, wo ich zu Fuß über den Hügel zur
 Arbeit laufen kann.
 
-<pic images/gissv-sign.ps Die deutsche Schule in San Francisco>
+<pic images/gissv-building.ps Die deutsche Schule in San Francisco>
 
 Bei der Deutschen Schule handelt es sich um eine private Schule, die
 Schulgebühren erhebt und zum Verbund der ungefähr 140 weltweiten deutschen
@@ -126,8 +126,8 @@ wechseln.
 <em>Angelika</em>
 Leider muss ich jetzt an den meisten Tagen länger im Auto sitzen, um an meinem
 neuen Arbeitsplatz zu gelangen. Der Verkehr ist mittlerweile fast genauso
-schlimm wie vor der Pandemie, vor allen dienstags, mittwochs und donnerstags,
-denn dann besteht Anwesenheitspflicht in den meisten Firmen des Silicon Valley
+schlimm wie vor der Pandemie, vor allen Dingen dienstags, mittwochs und donnerstags,
+denn dann besteht Anwesenheitspflicht in den meisten Firmen des Silicon Valleys
 wie Facebook, Google, Apple. Verkehrspolitisch bewegt sich wenig in diesem
 Land, selbst in Kalifornien. Seit Jahrzehnten wird darüber gestritten und an
 dem Projekt eines Schnellzugs zwischen San Francisco und Los Angeles
@@ -142,7 +142,7 @@ auf den amerikanischen Autobahnen gibt es eigentlich schon lange,
 vor allen Dingen in Los Angeles. Die ursprüngliche Idee war, Autofahrer dafür
 zu belohnen, nicht alleine im Auto zu sitzen sondern zu Fahrgemeinschaften zu
 animieren. Hat der Autofahrer Mitfahrer im Auto, kann er zu Stoßzeiten die
-Fahrgemeinschaftsspuren ("Carpool Lanes") benutzen, die in der Theorie weniger
+Fahrgemein\-schafts\-spuren ("Carpool Lanes") benutzen, die in der Theorie weniger
 verstopft sind, d.h. man kommt schneller ans Ziel. Auch Elektroautos mit einem
 Clean-Air-Sticker an der Stoßstange dürfen auf diese besonderen Fahrbahnen,
 selbst dann wenn nur der Fahrer im Auto sitzt.
@@ -182,7 +182,7 @@ den sogenannten "Bullet Train", aber mit öffentlichen Verkehrsmitteln zur Bahns
 zu kommen ist sehr schwierig und zeitaufwendig, so dass das Auto selbst bei extrem
 hohem Verkehrsaufkommen immer noch wesentlich schneller ist. 
 
-@Z: Wie deutsche USA-Auswanderer ihren Reispass verlängern
+@Z: Wie deutsche USA-Auswanderer ihren Reise\-pass verlängern
 
 <pic images/passports.ps Alter und neuer Reisepass>
 
@@ -228,7 +228,7 @@ Zu diesem darf er dann mit seinem zu erneuernden Reisepass
 und einer
 <LINK>https://www.germany.info/us-en/service/02-PassportsandIDCards/passport-adult/951294|Latte weiterer Dokumente|Dokumente für den Reisepass</LINK>,
 unter anderem einer
-Geburtsurkunde und Eheschein, samt Fotokopien drei Wochen später zur
+Geburts- und Heiratsurkunde, samt Fotokopien drei Wochen später zur
 vereinbarten Uhrzeit am Konsulat vorbeischauen.  Verlängern kann man den alten
 Pass nicht, statt dessen muss man einen neuen beantragen. Das Konsulat darf die
 Daten auch nicht speichern, also muss man jedes Mal wieder die ganze Litanei an
@@ -276,7 +276,7 @@ Gerüchteweise habe ich auf Facebook auch von einigen Exildeutschen gehört, das
 es durchaus auch möglich sei, einen Reisepass bei einem Einwohnermeldeamt
 irgendeiner Stadt während eines Deutschlandbesuchs verlängern zu lassen, wenn
 man nur hartnäckig bleibt.  Angeblich stellen sich die Ämter in größeren
-Städten oft quer, aber kleinere Städten machen angeblich gegen eine Extragebühr
+Städten oft quer, aber kleinere Städte machen angeblich gegen eine Extragebühr
 eine Ausnahme. Allerdings muss man dann auch solange in Deutschland bleiben,
 bis der neue Pass da ist, was durchaus einen, oder sogar mehrere Monate dauern
 kann.
@@ -289,7 +289,7 @@ hatte das von mir "Fully Loaded, All Inclusive" benannte Luxuspaket gebucht,
 mit allen Extras wie Expressbearbeitung und Fedex-Zustellung. Und, siehe da,
 das Fedex-Kuvert mit dem neuen Pass kam genau 14 Tage nach meinem
 Konsulatstermin bei uns zuhause an.  Zwar war auf der Sendung "Zustellung nur
-persönlich gegen Unterschrift" zu lesen, aber ich fand es abends unten in
+persönlich gegen Unterschrift" zu lesen, aber ich fand sie abends unten in
 unserer Lobby liegend.
 
 Der alte Pass, den ich beim Antrag des neuen im Konsulat abgegeben hatte, lag
@@ -365,7 +365,7 @@ riesigen Verwaltungsapparat herumschlagen muss. Oft herrschen chaotische
 Zustände. Als ich mich zum Beispiel auf dem Portal von Dignity Health
 anzumelden versuchte, um die Arztnotizen (siehe <RBLINK>20211222#2</RBLINK>)
 und meine Laborwerte einzusehen, bekam ich stets eine Fehlermeldung, obwohl ich
-dem Link, der mir per E-Mail von Dignity Health zugeschickt worden war, gefolgt
+dem Link, der mir per Email von Dignity Health zugeschickt worden war, gefolgt
 war. Das System antwortete mit einer Fehlermeldung, die besagte, dass mein
 Geburtsdatum nicht zu verifizieren sei. Als ich dann die Hotline für
 Schwierigkeiten beim Anmelden anrief, erklärte man mir, dass ich dem Link nicht
@@ -394,7 +394,7 @@ Hochrechnungen
 
 @Z: Einkaufen ohne Mehrwertsteuer - Tax Free Global Refund
 
-<pic images/tax-free-zoll-sign.ps Auszahlung der Mehrwertsteuer am Flughafen.>
+<pic images/tax-free-zoll-sign.ps Auszahlung der Mehrwertsteuer am Flughafen>
 
 <em>Angelika</em> Wenn ihr noch zu den Menschen gehört, die gern zum
 Einkaufsbummel in die Innenstadt gehen, ist euch in größeren Geschäften
@@ -443,9 +443,9 @@ mühsam, den nötigen Papierkram bei der Abreise am Flughafen zu erledigen, weil
 es Zeit kostet. Aber da wir auf Deutschlandbesuchen immer so einiges einkaufen,
 lohnt es sich dann doch. Wo der Ausreisende den Ausfuhrzollstempel beim Zoll
 erhält ist je nach Flughafen unterschiedlich und hängt davon ab, ob man die
-ausgeführten Waren im Handgepäck oder im aufgegeben Gepäck mitführt.  Der
+ausgeführten Waren im Handgepäck oder im aufgegebenen Gepäck mitführt.  Der
 Zollbeamte will die Waren nämlich unter Umständen begutachten.  Wir machen
-schon seit Jahren das "Tax-Free-Einkaufen" und mussten bis jetzt schon zweimal
+schon seit Jahren das "Tax-Free-Einkaufen" und mussten bis jetzt zweimal
 unsere Ware vor dem Zöllner ausbreiten. Aber wir beobachten immer wieder, dass
 gestresste Reisende in ihren Koffern wühlen, um die Waren zu finden, wenn der
 Zollbeamte dies verlangt. Profis packen natürlich griffbereit alles in einen
@@ -475,14 +475,14 @@ richtige Flugzeug kommt.
 <pic images/tax-free-hirmer.ps (#7) Steuerbestätigung vom Laden>
 
 Es besteht auch die Möglichkeit, die eingekauften Sachen im Handgepäck
-mitzuführen, vorausgesetzt, diese haben Platz. Allerdings ist es wichtig, zu
+mitzuführen, vorausgesetzt diese haben Platz. Allerdings ist es wichtig zu
 bedenken, dass der Zollbesuch dann erst nach der Sicherheit stattfindet. Das
 ist etwas verwirrend und mir ist es auch schon passiert, dass ich zunächst am
 falschen Zollbüro in der Haupthalle angestanden war und mich der Zöllner dann
 wegschickte. Mit dem Handgepäck geht man nämlich zuerst durch die Sicherheit,
 die Pass\-kontrolle für die Ausreise und sucht dann auf der anderen Seite das
 Zollbüro. Dort läuft alles wie oben beschrieben, nur mit dem Unterschied, dass
-das man das Handgepäck natürlich nicht auf ein Laufband stellt sondern auf den
+man das Handgepäck natürlich nicht auf ein Laufband stellt sondern auf den
 Flug mitnimmt.  Lustigerweise fragte mich der Zöllner beim letzten Mal
 übrigens, ob ich zwei Pässe hätte, denn ich hatte meinen amerikanischen für die
 Tax-Free-Einkäufe angegeben und vorgelegt, hatte aber bei der
@@ -537,7 +537,7 @@ nicht ganz ungefährlich und außerdem anstrengend wegen der Hügel, also suchte
 ich nach einem Heckträger für's Auto, um die Fahrräder aufzuladen, in eine
 schöne flache Gegend zu fahren und dort herumzukurven.
 
-<pic images/bike-rack-amzn.ps Auf Amazon kostete der Fahrradhalter nur 35 Dollar>
+<pic images/bike-rack-amzn.ps Auf Amazon kostete der Fahrradhalter nur 35 Dollar.>
 
 Für 35 Dollar wurde ich auf Amazon fündig, bestellte einen Heckträger der Firma Allen
 mit einem Metallgestänge und vier Riemen samt gebogenen Eisenblechen, um die
@@ -546,7 +546,7 @@ Design ist so einfach wie effektiv, allerdings würde man damit in Deutschland
 sofort verhaftet und eingesperrt, wenn man so mit aufgeladenen Rädern auf der
 Autobahn herumkurvte.
 
-<pic images/sausalito-no-bikes.ps In Sausalito verbietet das Parken von Fahrrädern auf dem Gehweg.>
+<pic images/sausalito-no-bikes.ps Sausalito verbietet das Parken von Fahrrädern auf dem Gehweg.>
 
 Wir haben auch schon interessante Nebeneffekte entdeckt: Parkt man im Zentrum
 von Städten der Bay Area, dort wo die ganzen Attraktionen sind, stehen dort
@@ -563,7 +563,7 @@ darf. Was für Kasper!
 Der Träger passt auf beide unserer Autos, von denen ja eines einen Kofferraum
 hat und das andere eine Heckklappe, aber das Design ist flexibel genug. Man
 darf auch nicht allzusehr um den Klarlack der Karosserie besorgt sein, auf der
-die Eisenbleche an den Ritzen aufliegen und eventuell herumschuvveln wenn man
+die Eisenbleche an den Ritzen aufliegen und eventuell herumschuffeln wenn man
 um die Kurve fährt, aber bislang ist mir kein Schaden aufgefallen. Was
 natürlich auch daran liegen kann, dass wir mit unseren alten Autos längst über
 das Stadium hinaus sind, wo man sich noch über neue Kratzer aufregt. Toppprodukt!
