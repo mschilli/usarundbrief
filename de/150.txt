@@ -32,7 +32,7 @@ Supermarkteingang parken, damit ich mich nicht so quälen muss.
 Gesagt, getan, ich rief also die Arztpraxis an, bei der ich wegen des Knies in
 Behandlung war, und fragte nach einer Behindertenplakette. Die
 Sprechstundenhilfe des Orthopäden wusste sogleich Bescheid und schickte mir ein
-vorausgefülltes PDF-Formular mit der Ordnungsnummer 150 der kalifornischen
+ausgefülltes PDF-Formular mit der Ordnungsnummer 150 der kalifornischen
 Führerscheinstelle DMV per Email zu. Darauf hatte der Arzt per Unterschrift
 bestätigt, dass ich wegen des Knies nicht mehr mobil war. Ich füllte noch die
 restlichen Formulardaten aus, Führerscheinnummer und Adresse, und unterschrieb
@@ -45,7 +45,7 @@ Arztbestätigung mit hoch.
 <pic images/dmv-receipt.ps (#9) Die Bestätigung vom DMV erklärt, wozu die Plakette berechtigt.>
 
 Nach einigen Tagen kam per Email die Bestätigung, dass zur Weiterbearbeitung
-des Antrags eine Gebühr von 6 Dollar fällig würde, die ich postwendend online
+des Antrags eine Gebühr von 6 Dollar fällig wäre, die ich postwendend online
 per Kreditkarte entrichtete.  Ein paar Tage später kam die Zusage per Email und
 eine Woche später flatterte ein Brief vom DMV mit der roten Plastikplakette in
 Abbildung (#8) ins Haus.  Mit dabei lag die offiziell abgestempelte Urkunde aus Abbildung (#9),
@@ -92,7 +92,7 @@ anfange. Die Deutsche Schule im Silicon Valley (German International School of
 Silicon Valley) suchte eine Heilpädagogin für die Inklusion, die zur Zeit an
 der Schule verstärkt auf- und ausgebaut wird. Ich bewarb mich, bekam die Stelle,
 und seit August arbeite ich nun an der Schule als Inklusionsspezialistin
-(“Inclusion Specialist”), kümmere mich also um die Kinder, die zusätzliche
+("Inclusion Specialist"), kümmere mich also um die Kinder, die zusätzliche
 Unterstützung brauchen. Ich arbeite im Vorschul- und Kindergartenbereich
 aber auch in der Grundschule. Die Deutsche Schule besteht hier schon
 seit 1999 und ist stetig gewachsen. Es gibt mittlerweile zwei Standorte,
