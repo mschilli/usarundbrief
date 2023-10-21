@@ -18,17 +18,37 @@ disabled parking spaces, but as a neutral observer, I often notice that there
 are people emerging from these cars with astonishing mobility. This made me
 wonder: Who hands these people handicapped parking permits anyway?
 
-TODO
-
-Interestingly enough, last summer I unexpectedly had the opportunity to explore this question, because after a bad football accident, I could only walk with crutches and had to have my knee operated on. Everything that was more than 10 meters away became a burden, and so I thought, I'll give it a try, maybe I'll get a plaque and can then park in the first row at the supermarket entrance, so I don't have to torture myself so much.
+But what do you know, last summer I unexpectedly had the opportunity to explore
+this question, because after a bad football accident, I could only walk with
+crutches and after knee surgery. Every location that was more than 10
+meters away became a burden, and so I thought, I'll give it a try, maybe I'll
+get a plaque and can then park in the first row at the supermarket entrance, so
+I don't have to torture myself so much.
 
 <pic images/handi-placard.ps (#8) Disability plaque from the DMV>
 
-I said, done, I called the doctor's office where I was in treatment for the knee, and asked about a disability permit. The receptionist knew immediately and sent me an email with a filled-out PDF form with order number 150 of the California DMV. On it, the doctor had confirmed that due to my knee I could no longer move. I still filled in the remaining form data, driver's license number and address, and signed to confirm. The receptionist also warned me that the DMV sometimes requires the original form with the doctor's ink, but I just filed an online application with the DMV, and uploaded scans of my driver's license and doctor's confirmation.
+So I called the doctor's office where I was in treatment for the knee, and
+asked about a disability permit. The receptionist knew immediately what to do
+and sent me an email with a filled-out PDF form number 150 issued by the
+California DMV. On it, the doctor had confirmed that due to my knee injury I
+suffered from restricted mobility. I went ahead and filled in the remaining
+form data, driver's license number and address, and signed to confirm. The
+receptionist had also warned me that the DMV sometimes requires the original
+form with the doctor's ink, but I just gave it a try and filed an online
+application with the DMV, and uploaded scans of my driver's license and the
+doctor's confirmation on the form.
 
-<pic images/dmv-receipt.ps (#9) The certification from the DMV confirms the authority granted by the plaque.>
+<pic images/dmv-receipt.ps (#9) The DMV certificate authorizes the placard.>
 
-After a few days, I received confirmation via email that a fee of $6 was required to proceed with the application, which I promptly paid online using my credit card. A few days later, I received approval via email, and a week later, a letter from the DMV arrived with the red plastic license plate shown in image #8. Accompanying it was the officially stamped certificate from image #9, which must be carried in the wallet when attaching the plaque to the rearview mirror and at other restricted locations.
+After a few days, I received confirmation via email that a fee of $6 was
+required to proceed with the application, which I promptly paid online using my
+credit card. A few days later, I received approval via email, and a week later,
+a letter from the DMV arrived with the red plastic license plate shown in image
+#8. Accompanying it was the officially stamped certificate from image (#9),
+which must be carried while displaying the plaque hanging from the rearview
+mirror, while parking the car in restricted spot.
+
+TODO
 
 With the plaque one can actually not only park on disabled parking spaces, but also in quarters with resident parking and even at parking meters one can stand as long as one wants without paying! And since the temporary plaque is issued for six months, it remains valid even if the patient has recovered in the meantime.
 
