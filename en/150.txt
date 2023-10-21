@@ -1,0 +1,188 @@
+San Francisco, 10-19-2023
+
+@Z: Applying for a disabled parking permit
+
+<pic images/handi-view.ps "Because we have a red placard ...">
+
+<em>Michael</em> Parking tickets in America are much more expensive than in
+Germany, but if any of you want to experience a really hefty fine, I have two
+tips for you here: parking at a bus stop or in a disabled parking space - that
+costs almost a thousand dollars in fines. Even if you only stop briefly and an
+official, i.e. a policeman or meter maid sees this, you'll be hit with a
+monster ticket.
+
+<pic images/handi-paint.ps "... our car may be parked in a handicapped parking spot.">
+
+As you know, only vehicles displaying a disabled parking permit may park in
+disabled parking spaces, but as a neutral observer, I often notice that there
+are people emerging from these cars with astonishing mobility. This made me
+wonder: Who hands these people handicapped parking permits anyway?
+
+TODO
+
+Interestingly enough, last summer I unexpectedly had the opportunity to explore this question, because after a bad football accident, I could only walk with crutches and had to have my knee operated on. Everything that was more than 10 meters away became a burden, and so I thought, I'll give it a try, maybe I'll get a plaque and can then park in the first row at the supermarket entrance, so I don't have to torture myself so much.
+
+<pic images/handi-placard.ps (#8) Disability plaque from the DMV>
+
+I said, done, I called the doctor's office where I was in treatment for the knee, and asked about a disability permit. The receptionist knew immediately and sent me an email with a filled-out PDF form with order number 150 of the California DMV. On it, the doctor had confirmed that due to my knee I could no longer move. I still filled in the remaining form data, driver's license number and address, and signed to confirm. The receptionist also warned me that the DMV sometimes requires the original form with the doctor's ink, but I just filed an online application with the DMV, and uploaded scans of my driver's license and doctor's confirmation.
+
+<pic images/dmv-receipt.ps (#9) The certification from the DMV confirms the authority granted by the plaque.>
+
+After a few days, I received confirmation via email that a fee of $6 was required to proceed with the application, which I promptly paid online using my credit card. A few days later, I received approval via email, and a week later, a letter from the DMV arrived with the red plastic license plate shown in image #8. Accompanying it was the officially stamped certificate from image #9, which must be carried in the wallet when attaching the plaque to the rearview mirror and at other restricted locations.
+
+With the plaque one can actually not only park on disabled parking spaces, but also in quarters with resident parking and even at parking meters one can stand as long as one wants without paying! And since the temporary plaque is issued for six months, it remains valid even if the patient has recovered in the meantime.
+
+One must not park in forbidden places with this either, such as in absolute no-parking zones or in front of an entrance, because the vehicle will still be towed away regardless. And the permit may only be displayed on the rearview mirror if the person with mobility impairments was transported by the car. Violations and general misuse of the permit can result in even harsher penalties, up to $4,200 in fines.
+
+<pic images/dmv-form-150.ps The formula 150 for the DMV from the doctor.>
+
+On my red plastic plaque, "Temporary" is written in large and bold letters, so it expires in my case after six months, and must then be renewed with a new medical certificate. Instead of the mobile plaque, there are also car license plates with the blue disabled symbol, which are then permanent and attached to the respective vehicle, but are probably stricter checked by the DMV.
+
+<pic images/trader-handicap.ps The temporary plaque is valid for 6 months.>
+
+Ironically, it also states on the certificate that at service stations with full service, the attendant must fill up the vehicle of a disabled person at the self-service price. I would have liked to test this for our newsletter readers, but unfortunately, I am not aware of any service station where there are still attendants, except maybe in the state of Oregon.
+
+@Z: "New job for Angelika"
+
+<pic images/gissv-sign.ps Angelika's new school.>
+
+<em>Angelika</em>After five years at the Burkard School located in south San Mateo, I thought it was time for something new and applied to be a special education teacher at the German International School of Silicon Valley (GISSV). I got the job and have been working there since August as an inclusion specialist ("Inclusion Specialist"), which means I look after children who need additional support. I work in both the preschool and kindergarten areas, as well as in primary school. The German School has been around since 1999 and has grown steadily over time. There are now two locations: one in south Mountain View and another in San Francisco's Castro district, right next to us. I work at both locations, with four days a week spent in Mountain View and one day in San Francisco, where I can even walk to work over the hill.
+
+<pic images/gissv-building.ps The German School in San Francisco>
+
+At the German School, it is a private school that charges school fees and belongs to the group of approximately 140 worldwide German schools abroad that are overseen by the Federal Foreign Office. What sets it apart is that students can earn both a German diploma, such as the Abitur, and an American "High School Diploma" at the school. It goes up to grade 12 and the curriculum follows that of the state of Thuringia. The school is bilingual; in the classes for very young children and the kindergarten, there are two teachers in each classroom, one who speaks German and one who speaks English. In the first few years of primary school, however, the instruction is conducted solely in German, and English is offered as an elective subject. I am always fascinated by how effortlessly most children switch between languages, and I learn a lot about it.
+
+@Z: Dynamic toll on freeways with express lanes
+
+<pic images/express.ps Dynamic toll fees on the expressway depending on the exit>
+
+<em>Angelika</em>Unfortunately, I now have to spend most days longer in the car due to my new workplace. Traffic is now almost as bad as before the pandemic, especially on Tuesdays, Wednesdays and Thursdays, because then attendance is compulsory in most Silicon Valley companies like Facebook, Google, Apple. Politically speaking, little moves when it comes to traffic in this country, even in California. For decades, people have been arguing about a high-speed train between San Francisco and Los Angeles without any progress. Even plans to expand the BART, the subway system of the Bay Area, are constantly failing due to high costs. Everything is moving slowly but surely.
+
+Smart heads have now started the construction of what are known as "Express Lanes" on the freeways. I don't know if this is really so clever and will accelerate the traffic policy turnaround. These fast tracks on American highways have actually been around for a long time, especially in Los Angeles. The original idea was to reward car drivers who do not travel alone but are encouraged to form carpools. If the driver has a passenger in the car, they can use the carpool lanes during rush hour, which are supposed to be less congested, i.e. you reach your destination faster. Even electric cars with a clean air sticker on the windshield are allowed to use these special lanes, even if there is only one driver in the car.
+
+<pic images/express-toll.ps "When there is little traffic, the toll fee is cheaper.">
+
+On Highway 101, which runs from San Francisco down to Silicon Valley, there are now express lanes that require a toll in many areas. If the driver is alone in the car and wants to use these lanes, they must pay an extra fee between 5am and 8pm. However, electric vehicles and carpoolers receive discounts: for electric vehicles as well as cars with two occupants, the cost is half price. For three or more passengers and motorcyclists, the lanes are toll-free. Anyone wishing to use the lane, regardless of how many people are in the car, needs a Fastrak device.
+
+<pic images/fastrak-flex.ps (#10) The Fastrak-Flex Toll-Tag limits the number of passengers.>
+
+The crazy thing about this is that Express Tracks have dynamic pricing. The more congestion there is, the more expensive it is to use the fast tracks. Large signs over the express track show how much the section from here to certain exits currently costs, which can range from 50 cents to $12. There are several sections between San Francisco and Mountain View. With heavy traffic and only using the Express Tracks, it's all good. Apparently, the flow of traffic through the Express Tracks is supposed to improve. I doubt that. The revenue generated by the tracks is allegedly invested in the expansion of public transportation. That would be nice, but it has to actually move forward at some point. I would love to take the train from San Francisco to Mountain View, there's even a high-speed regional train called "Bullet Train", but getting to the train station with public transport is very difficult and time-consuming, so the car is still much faster even in heavy traffic.
+
+@Z: How do German emigrants extend their travel passport?
+
+<pic images/passports.ps New and old passport>
+
+<em>Michael</em>Those who have lived abroad for a long time no longer have a German residence. Therefore, the extension of our passports is not the responsibility of any local registration office in Germany, but rather the consulate in San Francisco is responsible for this. However, this consulate does not only serve the residents of San Francisco, but also the entire upper west coast of the USA, including Hawaii and Alaska!
+
+Accordingly big is the rush there. One cannot for example cross over there, show his passport, hit the table and have it renewed, but must first arrange an appointment, which the consulate grants only thirteen per working day. Besides Friday naturally, because there is no customer traffic at the consulate on Fridays.
+
+<pic images/german-consulate-sf.ps The German Consulate in San Francisco extends our passport.>
+
+How one can think, these dates are gone in a flash. The consulate puts new dates available from midnight German time (!) for the same day in exactly three weeks' time. At this point, i.e., at 15:00 local San Francisco time (the previous day), as one might imagine, hundreds of emigrants log onto the consulate server to grab one of the highly coveted thirteen new dates. The computer at the consulate cannot withstand the onslaught and breaks down regularly at midnight (Illustration #1).
+
+<pic images/diplo-busy.ps (#1) The consulate's termination server breaks down under the onslaught.>
+
+If one doesn't give up immediately, a few minutes later all appointments for the day are booked (Illustration 2) and the citizen must try again at midnight the next day in Germany. One should not be too hasty about it. According to the consular information, one can apply for an emergency appointment by email, and if the urgency of the appointment is successfully justified, one will reportedly be squeezed in somehow.
+
+<pic images/diplo-taken.ps (#2) Unfortunately, all appointments for today are already booked.>
+<pic images/diplo-patience.ps "He who doesn't get an appointment is asked for patience.">
+
+He who fills the online form with luck and quick fingers, including the bot-proof Captcha that only eagle-eyed people can read, faster than the rest of the hungry mob, gets an appointment assigned. To this he may then come with his renewable travel document and a<LINK>https://www.germany.info/us-en/service/02-PassportsandIDCards/passport-adult/951294|More documents needed for the passport</LINK>, including a birth and marriage certificate, along with photocopies, three weeks later at the appointed time at the consulate to check in.  One cannot extend the old passport, instead one must apply for a new one. The consulate is not allowed to store the data, so one must bring all the documents in their original form with copies every time.
+
+<pic images/photo-rules.ps (#5) "Exact specifications for passport photos">
+
+Regarding passport photos, they must measure exactly 35mm x 45mm according to the specifications in illustration (#5), the depicted head must be facing forward and meet a series of proportional requirements. If you have a camera and a color printer at home, you can make your own photos; my (admittedly not perfect, but I'm a pro) self-taken photos were accepted without any issues.
+
+People with less confidence can have their photos taken at a variety of specialty stores in San Francisco, but also at Walgreens. This does not happen in a photo studio, but instead, one stands in front of a white wall in the store, the clerk retrieves a cheap digital camera from the drawer, takes a photo, and then inserts the SD card into a color printer. Walgreens even has a setting for "German Passport" on the computer, and the image then meets the required specifications. For this service, one typically pays around $18.
+
+<pic images/pass-walgreens.ps (#6) The photo department at Walgreens also takes passport photos for German travel documents.>
+
+Generally, the citizen hands over his old passport at the appointment at the consulate, so he cannot use it until the issuance of the new passport. However, if a passport that is not yet completely expired is still urgently needed for travel, he may take it back after submitting the application. Since a German citizen can only possess one passport document at any time, he must either send the old passport by post or personally deliver it for deactivation as soon as the new passport arrives at the consulate. If he leaves the old passport at the consulate when applying for the new one, the staff will deactivate it there upon arrival of the new one. Only then can the new passport be collected, either by Fedex (at a cost of $23.60 postage) or in person at the consulate with an appointment.
+
+By the way, it is also necessary to dispel a rumor that is circulating on the Internet with great tenacity: A German passport does not necessarily have to be "valid for at least X months" in order to enter Germany with it. It actually remains valid until the very last date of validity indicated on the passport.
+
+<pic images/passport-fees.ps (#4) With express shipping and FedEx delivery, the new pass costs €136.>
+
+According to rumors, I have also heard from some expatriate Germans on Facebook that it is indeed possible to extend a passport at a residents' registration office in any city during a visit to Germany, provided that one is stubborn enough. Apparently, the offices in larger cities often put up resistance, but smaller towns allegedly make an exception for an extra fee. However, one must then stay in Germany until the new passport is ready, which can take several months.
+
+<pic images/pass-cc.ps (#3) The amount will be charged in dollars on your credit card.>
+
+On average, it takes the consulate 6-8 weeks to issue a new passport. However, by paying an express fee of €32, you can speed up the process. I had booked the "Fully Loaded, All Inclusive" luxury package, which includes all extras such as express processing and FedEx delivery. And lo and behold, the FedEx envelope with my new passport arrived exactly 14 days after my consulate appointment at our home address. However, it was marked for personal delivery only upon signature, but I found it lying in the lobby of our building that evening.
+
+The old passport that I submitted with the application for a new one at the consulate was lying in the envelope, but the machine-readable part for cancellation had been cut out with the consulate's seal (see the Schrempf story in ...)
+
+As you can see in the breakdown in diagram (#4), the processing with foreign surcharge costs 81 euros, the express fee costs 32 euros and the Fedex delivery costs 23.60 euros. The consulate accepts credit cards (Visa/Mastercard), which will be charged in euros, so the credit card company shouldn't be too paranoid about it. Supposedly you can also pay in cash in local currency (i.e., US dollars), although the consulate's website claims otherwise. The euros charged by my credit card were naturally converted back to dollars by the credit card company, and a total of $149 was charged (see diagram #3).
+
+The foreign representations of the Federal Republic of Germany are divided into consulates and embassies. There is always only one embassy per country, and in the USA it is located in the capital, Washington, DC. However, the German state also maintains a total of eight general consulates, where you can also get a new pass among other things. The head of the consulate in San Francisco, the consul, is incidentally an employee of the foreign service and reports to the German Foreign Minister, Annalena Baerbock. In more remote areas such as Hawaii, German citizens can also go to a locally resident honorary consul, who receives German citizens at home in his living room and arranges the processing of applications with the nearest consulate. This could also be a dream job for me as a career.
+
+@Z: "Drama with the family doctor"
+
+<pic images/drmike.ps The specialist of their trust.>
+
+<em>Angelika</em>In May of this year, our longtime family doctor informed us that he is retiring well-earned. We had been anticipating his departure for some time now, as our doctor was over 70 by our estimates. That he even managed to deal with the crumbling American healthcare system for so long is commendable. He was a doctor of the good old school: careful, experienced, but not prone to unnecessary panic with tests. On the other hand, he acted quickly and surely when it was necessary. He was the one who diagnosed Michael's pulmonary embolism, which the emergency room unfortunately missed. We will be forever grateful for that.
+
+In our naivety, we initially did not worry about finding a new family doctor in San Francisco. After all, we live in a big city with what we thought were many options. Our doctor didn't find any suitable successor for his practice, but he sent us a letter listing doctors who were willing to take on his patients. In July, we thought it was time to bite the bullet and find a new family doctor, because without one, sudden illnesses can become a problem. I also needed a health certificate for my new job.
+
+Michael and I both called several doctors from the list just to find out that almost nobody accepted new patients or cared enough about their own practice being on the successor list of our doctor. Often no one answered the phone, and when we left a message, no one bothered to call back. We beat our fingers raw and scoured the internet for possibilities. When we did get someone on the phone, it was almost like winning the lottery. Most didn't care at all about our situation, but once I got lucky and a nice healthcare worker gave me three phone numbers of large health organizations like Dignity Health, One Medical, and Circle Medical.
+
+This organization manages large medical practices and sometimes even hospitals. Doctors are then employed by them. Most of them do not have a particularly good reputation, as patients have to deal with excessive bureaucracy and a huge administrative apparatus. Often chaotic conditions prevail. For example, when I tried to log in to the portal of Dignity Health to view my doctor's notes (see link below), I found myself navigating through endless menus and pop-ups before finally finding what I was looking for.
+
+<pic images/hospital.ps "Woe to him who is delivered to the American healthcare system.">
+
+At least we found a family doctor over the Dignity Health group. However, not in San Francisco but in the town of Belmont, about 40 km to the south. We were even able to book an appointment online with the doctor and the community clinic has free parking, which would not be the case in San Francisco. So why is it so difficult to find a family doctor? Family doctors are poorly paid in the USA, as in Germany, and no one wants to do it anymore. Added to this is the extremely inefficient American healthcare system that demands a high bureaucratic burden from doctors, which has nothing more to do with their actual profession. As a result, according to calculations,<LINK>https://letsgethealthy.ca.gov/goals/redesigning-the-health-system/increasing-access-to-healthcare-providersh|By the year 2025, California will have a shortage of 4,700 primary care physicians.</LINK>The translation for "." in English is "period" or "full stop".
+
+@Z: Shopping without value added tax
+
+<pic images/tax-free-zoll-sign.ps Refund of value added tax at the airport>
+
+<em>Angelika</em>If you still listen to people who like shopping trips into the city center, you may have already noticed that they advertise with it that the customer can shop tax-free at their place. What is behind this? The value added tax, which Germany levies on most goods, is well known to be 19% of the purchase price. People from non-EU countries can get back the value added tax they paid on purchases during their trip. The prerequisite is that the goods are only intended for personal use and are returned in unused condition in the travel luggage.
+
+This applies to German citizens living in a non-EU country as well. However, the German passport must display the foreign residence, otherwise the customs officer will be suspicious and refuse to stamp the customs form. To claim value added tax refund, the customer can theoretically obtain an export certificate at the store, then collect the customs stamp upon departure at the airport, which certifies the export of goods, and later present or send the stamped certificate back to the store. This is naturally very cumbersome, especially when purchasing in many different stores during a tourist visit.
+
+Therefore, there are service providers that simplify the reimbursement for foreign customers for a fee. "Global Blue Refund" is one of the best-known companies, but recently it has become increasingly common to find the provider "Planet Tax Free". Customers usually work with one of these providers. In particular in cities with many foreign tourists like Amsterdam you often see the sign "Tax Free Shopping", but even in my small town of Oldenburg where I like to shop for clothes at the store "Leffers" during my visit to Germany, this is possible.
+
+<pic images/customs-global-blue.ps "To the customs office on the left, and back to the tax return on the right.">
+
+How does this work specifically when shopping? At the checkout, you tell them that you want to "Tax Free" shopping. Either, as with Leffers in Oldenburg, a form is filled out by hand from "Global Blue Refund," or, as with "Hirmer" in Munich, an electronic form from "Planet Tax Free" is completed at the checkout. It is also important that the original cash register receipt is attached to the form. The customer must then enter their contact details such as address and passport number into the form and sign it. Each country has slightly different rules. In Germany, the customer must be at least 18 years old and purchase goods worth a minimum of €50 per transaction.
+
+The second step is then at customs at the airport. It's a bit tedious to handle the necessary paperwork when leaving the airport, as it takes time. But since we always buy so much on our trips to Germany, it pays off. Where the departing traveler receives the export customs stamp depends on the airport and depends on whether the goods are carried in hand luggage or checked luggage. The customs officer will inspect the goods, depending on the circumstances. We have been doing "Tax-Free Shopping" for years and had to open our goods twice in front of the customs officer. But we always observe that stressed travelers choose their suitcases to find the goods when the customs officer demands it. Professionals, of course, pack everything easily accessible in a designated suitcase.
+
+The traveler usually first goes to the check-in counter of his airline at the airport. There he checks in his luggage and receives the luggage tag but tells the counter staff before the luggage disappears on the conveyor belt into the basements of the airport that he has "Tax-Free Shopping" in his luggage and still has to go to customs. Then he gets his luggage reissued and drags it through the airport until he reaches the customs counter, which may be quite a distance from the check-in counter of the airline. Then he joins the queue there, says a quick prayer that someone is not waiting in line who has only given the customs officer a stack of incomplete forms, and whose goods cannot be found in the suitcase. Everything has already happened. When he goes to customs, he gives the customs officer his "Tax-Free Forms" and passport. The customs officer then stamps the departure certificate on the form and hopefully does not have the need to see every underwear and every pair of socks that were purchased. Then the luggage is placed on a conveyor belt in the customs office, where it can be loaded onto the plane. I always cross my fingers that the luggage then does not disappear somewhere in the airport building and ends up on the right aircraft.
+
+<pic images/tax-free-hirmer.ps (#7) Tax control from store>
+
+There is also the possibility to carry purchased items in hand luggage, provided they have space. However, it is important to note that customs inspection will take place only after security clearance. This can be confusing and I have also experienced being directed to the wrong customs office in the main hall before. With hand luggage, one goes through security first, then passport control for departure, and finally finds the customs office on the other side. Everything proceeds as described above, with the difference that of course one does not put the hand luggage on a conveyor belt but takes it on the flight. Incidentally, the customs officer asked me on my last trip if I had two passports, because I had presented my American one for tax-free purchases and shown it at the exit passport control beforehand, but had previously presented my German passport to security ("Big brother is watching you.").
+
+Here comes the final step. Those who do not want to claim reimbursement only on their next Germany visit with a customs stamp at the store, go to large airports such as Munich and Frankfurt to one of the "Global-Blue booths" next to the customs offices. The traveler can pay for the money in cash, which again costs fees. Those who want dollars instead of euros receive an unfavorable exchange rate. Another option is to present their credit card, on which the refund will then be credited, which is less burdened with fees and goes relatively quickly.
+
+This can also be sent to Global Blue or Planet Tax Free using the enclosed label, which takes longer but is useful if the counter is not staffed. Near the customs office there are special mailboxes for this purpose. However, it always gives me a little stomach ache to enter my credit card number on the form, which then goes around the world to reach the offices of Global Blue and Planet Tax Free, which are located in Slovakia or Poland. With "Planet Tax Free" we had to send our documents last time and for weeks the money did not appear on our credit card. Michael had already filed a search request online when suddenly almost simultaneously the credit appeared on our credit card.
+
+<pic images/tax-free-refund.ps From 97.38 euros reimbursement came 66.70 dollars on the credit card.>
+
+How much now comes from the reimbursement sum? You can see in Figure (#7) that from a purchase price of 609.93 euros from the store, a total of 97.38 euros in value-added tax were withheld, which at that time was equivalent to 106.05 dollars. Exactly two months after our trip, 66.70 dollars arrived on our credit card after deducting all processing and conversion fees, so a total of 37% was deducted, no kidding!
+
+@Z: Top product: Cheaper bicycle carrier
+
+<pic images/bike-on-fit.ps "Ride on our Honda Fit">
+
+<em>Michael</em>Actually, these people who ride bicycles on the back of a pickup truck on the highway and cause traffic congestion are really annoying. But since I myself have gotten into it, I see the situation in a whole different light.
+
+<pic images/bikes-ggb.ps "Whoever rolls around on bicycles can ride beautiful paths.">
+
+Due to my knee injury, I couldn't properly run for months, so I bought a second bike for Angelika and instead of our violent city tours, we rode bikes. San Francisco is not entirely safe for cycling and it is also exhausting because of the hills, so I looked for a hatchback for the car to load the bikes, drive to a flat area and do some curves there.
+
+<pic images/bike-rack-amzn.ps On Amazon, the bicycle holder only cost 35 dollars.>
+
+I found a pair of Allen hecktr�gers on Amazon for $35, and they arrived yesterday. The design is simple yet effective, but in Germany, you would be arrested immediately if you were caught driving with them on the autobahn.
+
+<pic images/sausalito-no-bikes.ps Sausalito prohibits parking bicycles on sidewalks.>
+
+We have also discovered interesting side effects: if you park in the center of San Francisco's Bay Area, where all the attractions are, there are hungry parking meters and lurking ticket wasps. But if you have bicycles attached to a carrier, you can park laughing a kilometer away in a residential area and cycle into the city center in two minutes, where you can easily park the bikes outside a restaurant. Of course, one keeps oneself in the dwarf town of Sausalito, where there are signs everywhere that proclaim in draconian words that bicycles may not be parked on the sidewalk. What nonsense!
+
+<pic images/bike-on-integra.ps "Ride on our Integral">
+
+The carrier keeps an eye on both of our cars, one of which has a trunk and the other has a rear hatch, but the design is flexible enough. One should not be too worried about the car's clearcoat either, as the metal panels fit snugly at the seams and may even rattle when turning corners, but so far I haven't noticed any damage. Of course, this could also be due to the fact that we have long since passed the stage where new scratches would bother us with our old cars. Top product!
+
+"Greetings from San Francisco."
+
+"Angelika and Michael"
