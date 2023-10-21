@@ -20,8 +20,8 @@ wonder: Who hands these people handicapped parking permits anyway?
 
 But what do you know, last summer I unexpectedly had the opportunity to explore
 this question, because after a bad football accident, I could only walk with
-crutches and after knee surgery. Every location that was more than 10
-meters away became a burden, and so I thought, I'll give it a try, maybe I'll
+crutches and after knee surgery. Every location that was more than 30
+feet away became a burden, and so I thought, I'll give it a try, maybe I'll
 get a plaque and can then park in the first row at the supermarket entrance, so
 I don't have to torture myself so much.
 
@@ -43,28 +43,46 @@ doctor's confirmation on the form.
 After a few days, I received confirmation via email that a fee of $6 was
 required to proceed with the application, which I promptly paid online using my
 credit card. A few days later, I received approval via email, and a week later,
-a letter from the DMV arrived with the red plastic license plate shown in image
-#8. Accompanying it was the officially stamped certificate from image (#9),
+a letter from the DMV arrived with the red plastic placard shown in image
+(#8). Accompanying it was the officially stamped certificate from image (#9),
 which must be carried while displaying the plaque hanging from the rearview
 mirror, while parking the car in restricted spot.
 
-TODO
+With the placard, one can actually not only park in disabled parking spaces,
+but also in neighborhoods with residental parking, and even at parking meters,
+as long as one likes, without paying a dime! And since the temporary plaque is
+issued for six months, it remains valid even if the patient has recovered in
+the meantime.
 
-With the plaque one can actually not only park on disabled parking spaces, but also in quarters with resident parking and even at parking meters one can stand as long as one wants without paying! And since the temporary plaque is issued for six months, it remains valid even if the patient has recovered in the meantime.
+However, you can't use it to park illegally, such as in no-stopping zones or in
+front of a driveway, where the vehicle will still be towed away regardless. And
+the permit may only be displayed hanging from the rearview mirror if the person
+with mobility impairments was transported by the car. Violations and general
+misuse of the permit can result in even harsher penalties, up to $4,200 in
+fines.
 
-One must not park in forbidden places with this either, such as in absolute no-parking zones or in front of an entrance, because the vehicle will still be towed away regardless. And the permit may only be displayed on the rearview mirror if the person with mobility impairments was transported by the car. Violations and general misuse of the permit can result in even harsher penalties, up to $4,200 in fines.
+<pic images/dmv-form-150.ps DMV Form 150 for the application>
 
-<pic images/dmv-form-150.ps The formula 150 for the DMV from the doctor.>
+On my red plastic placard, the word "Temporary" is written in large and bold
+letters, so it expires in my case after six months, and must then be renewed
+with a new medical certificate if required. Instead of the tranferable placard,
+there are also special license plates with the blue disabled symbol, which are
+permanent and attached to the respective vehicle, and (probably) checked
+more strictly by the DMV.
 
-On my red plastic plaque, "Temporary" is written in large and bold letters, so it expires in my case after six months, and must then be renewed with a new medical certificate. Instead of the mobile plaque, there are also car license plates with the blue disabled symbol, which are then permanent and attached to the respective vehicle, but are probably stricter checked by the DMV.
+<pic images/trader-handicap.ps The temporary placard is valid for 6 months.>
 
-<pic images/trader-handicap.ps The temporary plaque is valid for 6 months.>
+Ironically, it also states on the certificate that at service stations with
+full service, the attendant must fill up the vehicle of a disabled person at
+the self-service price. I would have liked to test this out for our newsletter
+readers, but unfortunately, I am not aware of any service stations around
+here where there are still attendants, except maybe in the state of Oregon.
 
-Ironically, it also states on the certificate that at service stations with full service, the attendant must fill up the vehicle of a disabled person at the self-service price. I would have liked to test this for our newsletter readers, but unfortunately, I am not aware of any service station where there are still attendants, except maybe in the state of Oregon.
-
-@Z: "New job for Angelika"
+@Z: Angelika's New Job
 
 <pic images/gissv-sign.ps Angelika's new school.>
+
+TODO
 
 <em>Angelika</em>After five years at the Burkard School located in south San Mateo, I thought it was time for something new and applied to be a special education teacher at the German International School of Silicon Valley (GISSV). I got the job and have been working there since August as an inclusion specialist ("Inclusion Specialist"), which means I look after children who need additional support. I work in both the preschool and kindergarten areas, as well as in primary school. The German School has been around since 1999 and has grown steadily over time. There are now two locations: one in south Mountain View and another in San Francisco's Castro district, right next to us. I work at both locations, with four days a week spent in Mountain View and one day in San Francisco, where I can even walk to work over the hill.
 
