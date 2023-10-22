@@ -20,7 +20,7 @@ wonder: Who hands these people handicapped parking permits anyway?
 
 But what do you know, last summer I unexpectedly had the opportunity to explore
 this question, because after a bad football accident, I could only walk with
-crutches and after knee surgery. Every location that was more than 30
+crutches, even after knee surgery. Every location that was more than 30
 feet away became a burden, and so I thought, I'll give it a try, maybe I'll
 get a plaque and can then park in the first row at the supermarket entrance, so
 I don't have to torture myself so much.
@@ -82,13 +82,35 @@ here where there are still attendants, except maybe in the state of Oregon.
 
 <pic images/gissv-sign.ps Angelika's new school.>
 
-TODO
-
-<em>Angelika</em>After five years at the Burkard School located in south San Mateo, I thought it was time for something new and applied to be a special education teacher at the German International School of Silicon Valley (GISSV). I got the job and have been working there since August as an inclusion specialist ("Inclusion Specialist"), which means I look after children who need additional support. I work in both the preschool and kindergarten areas, as well as in primary school. The German School has been around since 1999 and has grown steadily over time. There are now two locations: one in south Mountain View and another in San Francisco's Castro district, right next to us. I work at both locations, with four days a week spent in Mountain View and one day in San Francisco, where I can even walk to work over the hill.
+<em>Angelika</em>After five years at the Burkard School located in San Mateo,
+south of San Francisco, I thought it was time for something new and applied to
+be a special education teacher at the German International School of Silicon
+Valley (GISSV).  I got the job and have been working there since August as an
+inclusion specialist, which means I look after children who need additional
+support. I'm working in both the preschool and kindergarten areas, as well as
+in primary school. The German School has been around since 1999 and has grown
+steadily over time. There are now two locations: one in Mountain View on the
+Peninsula and another in San Francisco's Castro district, very close to our
+neighborhood. I'm working at both locations alternatingly, with four days a
+week spent in Mountain View, and one day in San Francisco, where I can easily
+get to by simply walkng to work over the hill.
 
 <pic images/gissv-building.ps The German School in San Francisco>
 
-At the German School, it is a private school that charges school fees and belongs to the group of approximately 140 worldwide German schools abroad that are overseen by the Federal Foreign Office. What sets it apart is that students can earn both a German diploma, such as the Abitur, and an American "High School Diploma" at the school. It goes up to grade 12 and the curriculum follows that of the state of Thuringia. The school is bilingual; in the classes for very young children and the kindergarten, there are two teachers in each classroom, one who speaks German and one who speaks English. In the first few years of primary school, however, the instruction is conducted solely in German, and English is offered as an elective subject. I am always fascinated by how effortlessly most children switch between languages, and I learn a lot about it.
+The German School is a private school that charges tuition fees and
+is part of the group of approximately 140 worldwide German schools around the world that
+are overseen by Germany's federal foreign office. What sets it apart is that students
+can earn both a German diploma, such as the Abitur, and an American High
+School Diploma. It goes up to grade 12 and the curriculum
+follows that of the German state of Thuringia. The school is bilingual; in the classes
+for very young children and the kindergarten, there are two teachers in each
+classroom, one who speaks German and one who speaks English. During the first few
+years of primary school, however, the instruction is conducted solely in
+German, and English is offered as an elective subject. I am always fascinated
+by how effortlessly most children switch between languages, and I'm learning a lot
+by working in this setting.
+
+TODO
 
 @Z: Dynamic toll on freeways with express lanes
 
