@@ -1,6 +1,6 @@
 San Francisco, 10-19-2023
 
-@Z: Applying for a disabled parking permit
+@Z: Applying for a Disabled Parking Permit
 
 <pic images/handi-view.ps "Because we have a red placard ...">
 
@@ -97,34 +97,61 @@ get to by simply walkng to work over the hill.
 
 <pic images/gissv-building.ps The German School in San Francisco>
 
-The German School is a private school that charges tuition fees and
-is part of the group of approximately 140 worldwide German schools around the world that
-are overseen by Germany's federal foreign office. What sets it apart is that students
-can earn both a German diploma, such as the Abitur, and an American High
-School Diploma. It goes up to grade 12 and the curriculum
-follows that of the German state of Thuringia. The school is bilingual; in the classes
-for very young children and the kindergarten, there are two teachers in each
-classroom, one who speaks German and one who speaks English. During the first few
-years of primary school, however, the instruction is conducted solely in
-German, and English is offered as an elective subject. I am always fascinated
-by how effortlessly most children switch between languages, and I'm learning a lot
-by working in this setting.
+The German School is a private school that charges tuition fees and is part of
+the group of approximately 140 worldwide German schools around the world that
+are overseen by Germany's federal foreign office. What sets it apart is that
+students can earn both a German diploma, such as the Abitur, and an American
+High School Diploma. It goes up to grade 12 and the curriculum follows that of
+the German state of Thuringia. The school is bilingual; in the classes for very
+young children and the kindergarten, there are two teachers in each classroom,
+one who speaks German and one who speaks English. During the first few years of
+primary school, however, the instruction is conducted solely in German, and
+English is offered as an elective subject. I am always fascinated by how
+effortlessly most children switch between languages, and I'm learning a lot by
+working in this setting.
 
-TODO
-
-@Z: Dynamic toll on freeways with express lanes
+@Z: Dynamic Toll on Freeway Express Lanes
 
 <pic images/express.ps Dynamic toll fees on the expressway depending on the exit>
 
-<em>Angelika</em>Unfortunately, I now have to spend most days longer in the car due to my new workplace. Traffic is now almost as bad as before the pandemic, especially on Tuesdays, Wednesdays and Thursdays, because then attendance is compulsory in most Silicon Valley companies like Facebook, Google, Apple. Politically speaking, little moves when it comes to traffic in this country, even in California. For decades, people have been arguing about a high-speed train between San Francisco and Los Angeles without any progress. Even plans to expand the BART, the subway system of the Bay Area, are constantly failing due to high costs. Everything is moving slowly but surely.
+<em>Angelika</em>
+Unfortunately, I'm now facing a long commute and spend long hours on most days
+driving to and from my new workplace. Traffic is now almost as bad as before
+the pandemic, especially on Tuesdays, Wednesdays and Thursdays, because that's
+when most Silicon Valley companies like Facebook, Google, Apple require their
+employees to be in office.  Politically speaking, little moves when it comes to
+traffic in this country, even in California. For decades, people have been
+arguing about a high-speed train between San Francisco and Los Angeles without
+any progress. Even plans to expand BART, the subway system of the Bay Area,
+aren't going anywhere due to high costs. It's all moving way too
+slowly.
 
-Smart heads have now started the construction of what are known as "Express Lanes" on the freeways. I don't know if this is really so clever and will accelerate the traffic policy turnaround. These fast tracks on American highways have actually been around for a long time, especially in Los Angeles. The original idea was to reward car drivers who do not travel alone but are encouraged to form carpools. If the driver has a passenger in the car, they can use the carpool lanes during rush hour, which are supposed to be less congested, i.e. you reach your destination faster. Even electric cars with a clean air sticker on the windshield are allowed to use these special lanes, even if there is only one driver in the car.
+The planners at CalTrans, the California traffic agency, have now started the
+construction of what are known as "Express Lanes" on our freeways. I don't know
+if this is really the smart thing to do in order to accelerate the traffic
+policy turnaround. These restricted lanes on American highways have actually been
+around for a long time, especially in the Los Angeles area. The original idea was to
+reward drivers who do not travel alone, and encourage them to form carpools.
+If a driver has a passenger in the car, they can use the carpool lanes during
+rush hour, which are supposed to be less congested, helping you to reach your
+destination faster. Even electric cars with a clean air sticker on the
+windshield are allowed to use these special lanes, even if there is only the
+driver in the car.
 
-<pic images/express-toll.ps "When there is little traffic, the toll fee is cheaper.">
+<pic images/express-toll.ps When traffic is light, the toll is reduced.>
 
-On Highway 101, which runs from San Francisco down to Silicon Valley, there are now express lanes that require a toll in many areas. If the driver is alone in the car and wants to use these lanes, they must pay an extra fee between 5am and 8pm. However, electric vehicles and carpoolers receive discounts: for electric vehicles as well as cars with two occupants, the cost is half price. For three or more passengers and motorcyclists, the lanes are toll-free. Anyone wishing to use the lane, regardless of how many people are in the car, needs a Fastrak device.
+On Highway 101, which runs from San Francisco down to Silicon Valley, there are
+now express lanes that require a toll in many areas. If drivers are alone in
+the car and want to use these lanes, they must pay an extra fee between 5am
+and 8pm. However, electric vehicles and carpoolers receive discounts: for
+electric vehicles as well as cars with two or more occupants, it's half price.
+For three or more passengers and motorcyclists, the lanes are toll-free. Anyone
+wishing to use the lane, regardless of how many people are in the car, needs a
+Fastrak device.
 
-<pic images/fastrak-flex.ps (#10) The Fastrak-Flex Toll-Tag limits the number of passengers.>
+<pic images/fastrak-flex.ps (#10) The Fastrak Flex Device allows setting the number of passengers.>
+
+TODO
 
 The crazy thing about this is that Express Tracks have dynamic pricing. The more congestion there is, the more expensive it is to use the fast tracks. Large signs over the express track show how much the section from here to certain exits currently costs, which can range from 50 cents to $12. There are several sections between San Francisco and Mountain View. With heavy traffic and only using the Express Tracks, it's all good. Apparently, the flow of traffic through the Express Tracks is supposed to improve. I doubt that. The revenue generated by the tracks is allegedly invested in the expansion of public transportation. That would be nice, but it has to actually move forward at some point. I would love to take the train from San Francisco to Mountain View, there's even a high-speed regional train called "Bullet Train", but getting to the train station with public transport is very difficult and time-consuming, so the car is still much faster even in heavy traffic.
 
