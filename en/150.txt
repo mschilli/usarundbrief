@@ -209,7 +209,7 @@ somehow.
 Those select individuals who manage to fill in the online form with luck and quick fingers, including the
 bot-proof Captcha that only eagle-eyed people can read, faster than the rest of
 the hungry mob, get an appointment assigned. On this date, which is exactly three weeks later,
-they may then come to the embassy with their to-be-renewed travel document plus a
+they may then come to the embassy at the appointed time with their to-be-renewed travel document plus a
 set of <LINK>https://www.germany.info/us-en/service/02-PassportsandIDCards/passport-adult/951294|other documents</LINK>, including a birth and marriage
 certificate, along with photocopies.  Actually, the old passport can't be
 renewed, instead one must apply for a new one every time. Also, the consulate
@@ -218,41 +218,88 @@ documents in their original form with copies every time.
 
 <pic images/photo-rules.ps (#5) Exact specifications for passport photos>
 
-TODO
-
 Regarding passport photos, they must measure exactly 35mm x 45mm according to
-the specifications in illustration (#5), the depicted head must be facing
-forward and meet a series of proportional requirements. If you have a camera
-and a color printer at home, you can make your own photos; my (admittedly not
-perfect, but I'm a pro) self-taken photos were accepted without any issues.
+the specifications in illustration (#5). In addition, the depicted head must be
+facing the camera straigt on and meet a series of proportional requirements. If
+you have a camera and a color printer at home, you can make your own photos. My
+(admittedly perfect, but then again I'm a pro) home-made photos were accepted
+without any issues.
 
 People with less confidence can have their photos taken at a variety of
-specialty stores in San Francisco, but also at Walgreens. This does not happen
-in a photo studio, but instead, one stands in front of a white wall in the
-store, the clerk retrieves a cheap digital camera from the drawer, takes a
+specialty stores in San Francisco, but also at Walgreens. There's no photo studio
+there, but instead, one stands in front of a white wall in the
+store, the clerk retrieves a cheap digital camera from a drawer, takes a
 photo, and then inserts the SD card into a color printer. Walgreens even has a
 setting for "German Passport" on the computer, and the image then meets the
 required specifications. For this service, one typically pays around $18.
 
 <pic images/pass-walgreens.ps (#6) The photo department at Walgreens also takes passport photos for German travel documents.>
 
-Generally, the citizen hands over his old passport at the appointment at the consulate, so he cannot use it until the issuance of the new passport. However, if a passport that is not yet completely expired is still urgently needed for travel, he may take it back after submitting the application. Since a German citizen can only possess one passport document at any time, he must either send the old passport by post or personally deliver it for deactivation as soon as the new passport arrives at the consulate. If he leaves the old passport at the consulate when applying for the new one, the staff will deactivate it there upon arrival of the new one. Only then can the new passport be collected, either by Fedex (at a cost of $23.60 postage) or in person at the consulate with an appointment.
+Generally, the citizen hands over their old passport at the appointment at the
+consulate. But then of course the old document can't be used until the issuance
+of the new passport. However, if a passport that is not yet completely expired
+is still urgently needed for travel, the citizen may hold onto it after submitting the
+application at the consulate. But since a German citizen can only possess one passport document at
+any time, they must either send the old passport by mail or personally deliver it
+for deactivation as soon as the new passport arrives at the consulate. If they
+leave the old passport at the consulate when applying for the new one, on the other
+hand, the staff will deactivate it there upon arrival of the new one. Only then can the
+new passport be collected, either by Fedex (at a cost of $23.60 for postage) or in
+person at the consulate with an appointment.
 
-By the way, it is also necessary to dispel a rumor that is circulating on the Internet with great tenacity: A German passport does not necessarily have to be "valid for at least X months" in order to enter Germany with it. It actually remains valid until the very last date of validity indicated on the passport.
+By the way, I wanted to dispel a rumor that is stubbornly circulating on the
+Internet: A German passport does not necessarily have to be
+"valid for at least X months" in order to enter Germany with it. It actually
+remains valid until the very last date of validity, indicated on the document.
 
 <pic images/passport-fees.ps (#4) With express shipping and FedEx delivery, the new pass costs €136.>
 
-According to rumors, I have also heard from some expatriate Germans on Facebook that it is indeed possible to extend a passport at a residents' registration office in any city during a visit to Germany, provided that one is stubborn enough. Apparently, the offices in larger cities often put up resistance, but smaller towns allegedly make an exception for an extra fee. However, one must then stay in Germany until the new passport is ready, which can take several months.
+According to rumors, I have also heard from some expatriate Germans on Facebook
+that it is indeed possible to extend a passport at a residents' registration
+office in any city during a visit in Germany, provided that one is stubborn
+enough. From what I've heard, the offices in larger cities often put up
+resistance, but smaller towns allegedly make an exception for an extra fee.
+However, one must then stay in Germany until the new passport is ready, which
+can take several months.
 
-<pic images/pass-cc.ps (#3) The amount will be charged in dollars on your credit card.>
+<pic images/pass-cc.ps (#3) The amount will be charged in dollars to your credit card.>
 
-On average, it takes the consulate 6-8 weeks to issue a new passport. However, by paying an express fee of €32, you can speed up the process. I had booked the "Fully Loaded, All Inclusive" luxury package, which includes all extras such as express processing and FedEx delivery. And lo and behold, the FedEx envelope with my new passport arrived exactly 14 days after my consulate appointment at our home address. However, it was marked for personal delivery only upon signature, but I found it lying in the lobby of our building that evening.
+On average, it takes the consulate 6-8 weeks to issue a new passport. However,
+by paying an express fee of €32, you can speed up the process. I had booked the
+"Fully Loaded, All Inclusive" luxury package (my words), which includes all extras such as
+express processing and subsequent FedEx delivery. And lo and behold, the FedEx envelope
+with my new passport arrived exactly 14 days after my consulate appointment at
+our home address. Although it was marked for personal delivery only upon
+signature, I found it lying in the lobby of our building in the evening.
 
-The old passport that I submitted with the application for a new one at the consulate was lying in the envelope, but the machine-readable part for cancellation had been cut out with the consulate's seal (see the Schrempf story in ...)
+The old passport that I had submitted with the application at the
+consulate was also included in the envelope, although the machine-readable section had
+been cut off to cancel it (See the Schrempf story in <RBLINK>20221108#1</RBLINK>).
 
-As you can see in the breakdown in diagram (#4), the processing with foreign surcharge costs 81 euros, the express fee costs 32 euros and the Fedex delivery costs 23.60 euros. The consulate accepts credit cards (Visa/Mastercard), which will be charged in euros, so the credit card company shouldn't be too paranoid about it. Supposedly you can also pay in cash in local currency (i.e., US dollars), although the consulate's website claims otherwise. The euros charged by my credit card were naturally converted back to dollars by the credit card company, and a total of $149 was charged (see diagram #3).
+As you can see in the breakdown in Figure (#4), the processing, including the foreign
+surcharge costs 81 Euros, the express fee is an additional 32 Euros and the Fedex delivery
+costs 23.60 Euros. The consulate accepts credit cards (Visa/Mastercard), which
+will be charged in Euros from a location pretending to be located in Germany, so the
+credit card company shouldn't be too paranoid
+about it. Supposedly you can also pay in cash in local currency (US dollars in our case),
+although the consulate's website claims otherwise. The Euros charged
+to my credit card were naturally converted back to dollars by the credit card
+company, and a total of $149 was deducted (see Figure (#3)).
 
-The foreign representations of the Federal Republic of Germany are divided into consulates and embassies. There is always only one embassy per country, and in the USA it is located in the capital, Washington, DC. However, the German state also maintains a total of eight general consulates, where you can also get a new pass among other things. The head of the consulate in San Francisco, the consul, is incidentally an employee of the foreign service and reports to the German Foreign Minister, Annalena Baerbock. In more remote areas such as Hawaii, German citizens can also go to a locally resident honorary consul, who receives German citizens at home in his living room and arranges the processing of applications with the nearest consulate. This could also be a dream job for me as a career.
+Here's another bit of interesting consulate lore: The foreign representations
+of the Federal Republic of Germany are divided into consulates and embassies.
+There is always only one embassy per country, and in the United States it is
+located at the capital, Washington, DC. However, the Germany also maintains a
+total of eight general consulates here in the U.S., where you can also get a
+new passport among other things. The head of the consulate in San Francisco,
+the consul, is incidentally an employee of Germany's foreign service and
+reports to the German Foreign Minister, Annalena Baerbock. In more remote areas
+such as Hawaii, German citizens can also seek help from a locally resident
+honorary consul, who receives German citizens at home in his living room and
+arranges the processing of applications with the nearest consulate. Could this
+be the next step in my career?
+
+TODO
 
 @Z: "Drama with the family doctor"
 
