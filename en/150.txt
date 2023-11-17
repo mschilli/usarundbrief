@@ -170,7 +170,7 @@ faster, even in heavy traffic.
 
 <pic images/passports.ps New and old passport>
 
-<em>Michael</em>Germans like us who have lived abroad for a long time no longer have a
+<em>Michael</em> Germans like us who have lived abroad for a long time no longer have a
 German residence. For this reason, the extension of our passports is not the
 responsibility of any local government office in Germany, but rather handled by the
 consulate in San Francisco. However, this particular consulate
@@ -303,7 +303,7 @@ be the next step in my career?
 
 <pic images/drmike.ps You think you're in good hands with this doctor?>
 
-<em>Angelika</em>In May of this year, our longtime family doctor informed us
+<em>Angelika</em> In May of this year, our longtime family doctor informed us
 that he was retiring. We had been anticipating his departure for some time now,
 as our doctor was over 70 by our estimates. That he even managed to deal with
 the crumbling American healthcare system for so long is commendable. He was a
@@ -360,7 +360,7 @@ TODO
 
 <pic images/tax-free-zoll-sign.ps Refund of value added tax at the airport>
 
-<em>Angelika</em>If you still listen to people who like shopping trips into the city center, you may have already noticed that they advertise with it that the customer can shop tax-free at their place. What is behind this? The value added tax, which Germany levies on most goods, is well known to be 19% of the purchase price. People from non-EU countries can get back the value added tax they paid on purchases during their trip. The prerequisite is that the goods are only intended for personal use and are returned in unused condition in the travel luggage.
+<em>Angelika</em> If you still listen to people who like shopping trips into the city center, you may have already noticed that they advertise with it that the customer can shop tax-free at their place. What is behind this? The value added tax, which Germany levies on most goods, is well known to be 19% of the purchase price. People from non-EU countries can get back the value added tax they paid on purchases during their trip. The prerequisite is that the goods are only intended for personal use and are returned in unused condition in the travel luggage.
 
 This applies to German citizens living in a non-EU country as well. However, the German passport must display the foreign residence, otherwise the customs officer will be suspicious and refuse to stamp the customs form. To claim value added tax refund, the customer can theoretically obtain an export certificate at the store, then collect the customs stamp upon departure at the airport, which certifies the export of goods, and later present or send the stamped certificate back to the store. This is naturally very cumbersome, especially when purchasing in many different stores during a tourist visit.
 
@@ -390,7 +390,7 @@ How much now comes from the reimbursement sum? You can see in Figure (#7) that f
 
 <pic images/bike-on-fit.ps "Ride on our Honda Fit">
 
-<em>Michael</em>Actually, these people who ride bicycles on the back of a pickup truck on the highway and cause traffic congestion are really annoying. But since I myself have gotten into it, I see the situation in a whole different light.
+<em>Michael</em> Actually, these people who ride bicycles on the back of a pickup truck on the highway and cause traffic congestion are really annoying. But since I myself have gotten into it, I see the situation in a whole different light.
 
 <pic images/bikes-ggb.ps "Whoever rolls around on bicycles can ride beautiful paths.">
 
