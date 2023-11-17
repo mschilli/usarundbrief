@@ -299,7 +299,7 @@ honorary consul, who receives German citizens at home in his living room and
 arranges the processing of applications with the nearest consulate. Could this
 be the next step in my career?
 
-@Z: "Drama Finding a New Primary Care Doctor"
+@Z: Drama Finding a New Primary Care Doctor
 
 <pic images/drmike.ps You think you're in good hands with this doctor?>
 
@@ -354,23 +354,62 @@ that demands dealing with bureaucratic burdens, totally unrelated
 to their actual work. As a result, according to forecasts, by the year 2025, California will experience a
 <LINK>https://letsgethealthy.ca.gov/goals/redesigning-the-health-system/increasing-access-to-healthcare-providers|shortage of 4,700 primary care physicians</LINK>.
 
-TODO
-
 @Z: Shopping Tax Free in Europe
 
 <pic images/tax-free-zoll-sign.ps Refund of value added tax at the airport>
 
-<em>Angelika</em> If you still listen to people who like shopping trips into the city center, you may have already noticed that they advertise with it that the customer can shop tax-free at their place. What is behind this? The value added tax, which Germany levies on most goods, is well known to be 19% of the purchase price. People from non-EU countries can get back the value added tax they paid on purchases during their trip. The prerequisite is that the goods are only intended for personal use and are returned in unused condition in the travel luggage.
+<em>Angelika</em> If you're still one of these people who like shopping trips
+to the city center, you may have already noticed that in Europe, stores
+sometimes advertise tax-free shopping. How does this work? The value added tax,
+which Germany levies on most goods, adds 19% to the purchase price. But people
+from non-EU countries can get a refund on the tax paid on purchases during
+their trip. The prerequisite is that the goods are only intended for personal
+use and are brought abroad in unused condition and carried in the traveling
+luggage.
 
-This applies to German citizens living in a non-EU country as well. However, the German passport must display the foreign residence, otherwise the customs officer will be suspicious and refuse to stamp the customs form. To claim value added tax refund, the customer can theoretically obtain an export certificate at the store, then collect the customs stamp upon departure at the airport, which certifies the export of goods, and later present or send the stamped certificate back to the store. This is naturally very cumbersome, especially when purchasing in many different stores during a tourist visit.
+This also applies to German citizens living in non-EU countries, like us.
+It is required, though, that their German passport must show the foreign residence, or the
+customs officer will be deny the required stamp on the customs form. To
+claim a value added tax refund, customers can theoretically obtain an export
+certificate at the store, then collect the customs stamp upon departure at the
+airport, which certifies export of the goods, and then later present or send the
+stamped certificate back to the store. This is naturally very cumbersome,
+especially when you've shopped at many different stores during a tourist visit.
 
-Therefore, there are service providers that simplify the reimbursement for foreign customers for a fee. "Global Blue Refund" is one of the best-known companies, but recently it has become increasingly common to find the provider "Planet Tax Free". Customers usually work with one of these providers. In particular in cities with many foreign tourists like Amsterdam you often see the sign "Tax Free Shopping", but even in my small town of Oldenburg where I like to shop for clothes at the store "Leffers" during my visit to Germany, this is possible.
+Therefore, there are service providers that simplify the reimbursement for
+foreign customers, for a fee. "Global Blue Refund" is one of the best-known
+companies, but recently it has become increasingly common to find another provider called
+"Planet Tax Free". Customers can process the claime through either provider.
+In cities with many foreign tourists like Amsterdam, you often see
+stores display the sign "Tax Free Shopping", but even in my small town of Oldenburg where I
+like to shop for clothes at the store "Leffers" during my visit to Germany,
+this works as advertised.
 
-<pic images/customs-global-blue.ps "To the customs office on the left, and back to the tax return on the right.">
+<pic images/customs-global-blue.ps Customs office on the left, tax return on the right.">
 
-How does this work specifically when shopping? At the checkout, you tell them that you want to "Tax Free" shopping. Either, as with Leffers in Oldenburg, a form is filled out by hand from "Global Blue Refund," or, as with "Hirmer" in Munich, an electronic form from "Planet Tax Free" is completed at the checkout. It is also important that the original cash register receipt is attached to the form. The customer must then enter their contact details such as address and passport number into the form and sign it. Each country has slightly different rules. In Germany, the customer must be at least 18 years old and purchase goods worth a minimum of €50 per transaction.
+Now how does this work specifically when you're shopping? At the checkout, you tell the cashier
+that you want to shop "Tax Free". Then Leffers in Oldenburg will fill out
+a "Global Blue Refund" form by hand, and "Hirmer" in Munich will print an electronic form
+for "Planet Tax Free" at the checkout.
+It is also important that the original cash register receipt is attached to the
+form. Customers must then enter their contact details such as address and
+passport number on the form and sign it. Each country has slightly different
+rules. In Germany, the customer must be at least 18 years old and have purchased
+goods worth a minimum of €50 per transaction.
 
-The second step is then at customs at the airport. It's a bit tedious to handle the necessary paperwork when leaving the airport, as it takes time. But since we always buy so much on our trips to Germany, it pays off. Where the departing traveler receives the export customs stamp depends on the airport and depends on whether the goods are carried in hand luggage or checked luggage. The customs officer will inspect the goods, depending on the circumstances. We have been doing "Tax-Free Shopping" for years and had to open our goods twice in front of the customs officer. But we always observe that stressed travelers choose their suitcases to find the goods when the customs officer demands it. Professionals, of course, pack everything easily accessible in a designated suitcase.
+The second step then happens at customs at the airport. It's a bit tedious to
+handle the necessary paperwork before departure at the airport, as it takes
+time. But since we always buy so much on our trips to Germany, it does pay off.
+Now, where the departing traveler receives the export customs stamp depends on
+the airport and also whether the goods are carried in carry-on luggage or
+checked-in luggage. Also, the customs officer might want to inspect the goods.
+We have been doing "Tax-Free Shopping" for years and had to open our goods
+twice in front of the customs officer. And we've observed stressed travelers
+frantically unpacking their suitcases to find the goods when the customs
+officer demands it.  Experienced travelers like us, of course, pack everything
+easily accessible in a designated suitcase.
+
+TODO
 
 The traveler usually first goes to the check-in counter of his airline at the airport. There he checks in his luggage and receives the luggage tag but tells the counter staff before the luggage disappears on the conveyor belt into the basements of the airport that he has "Tax-Free Shopping" in his luggage and still has to go to customs. Then he gets his luggage reissued and drags it through the airport until he reaches the customs counter, which may be quite a distance from the check-in counter of the airline. Then he joins the queue there, says a quick prayer that someone is not waiting in line who has only given the customs officer a stack of incomplete forms, and whose goods cannot be found in the suitcase. Everything has already happened. When he goes to customs, he gives the customs officer his "Tax-Free Forms" and passport. The customs officer then stamps the departure certificate on the form and hopefully does not have the need to see every underwear and every pair of socks that were purchased. Then the luggage is placed on a conveyor belt in the customs office, where it can be loaded onto the plane. I always cross my fingers that the luggage then does not disappear somewhere in the airport building and ends up on the right aircraft.
 
