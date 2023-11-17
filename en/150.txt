@@ -299,25 +299,64 @@ honorary consul, who receives German citizens at home in his living room and
 arranges the processing of applications with the nearest consulate. Could this
 be the next step in my career?
 
+@Z: "Drama Finding a New Primary Care Doctor"
+
+<pic images/drmike.ps You think you're in good hands with this doctor?>
+
+<em>Angelika</em>In May of this year, our longtime family doctor informed us
+that he was retiring. We had been anticipating his departure for some time now,
+as our doctor was over 70 by our estimates. That he even managed to deal with
+the crumbling American healthcare system for so long is commendable. He was a
+doctor of the good old school: careful, experienced, but not prone to panic or
+ordering unnecessary tests. On the other hand, he acted quickly and surely when
+it was necessary. He was the one who diagnosed Michael's pulmonary embolism,
+which the emergency room had unfortunately missed. We will be forever grateful
+for that.
+
+In our naivety, we initially did not worry about finding a new family doctor in
+San Francisco. After all, we live in a big city with what we thought were many
+options. Our doctor didn't find a successor for his practice, but he
+sent us a letter listing half a dozen doctors who were willing to take on his patients. In
+July, we thought it was time to bite the bullet and find a new primary care physician,
+because without one, you're in trouble if you unexpectedly get sick. I also needed a
+health certificate for my new job, so that was another reason.
+
+Michael and I both called several doctors from the list, just to find out that
+almost nobody accepted new patients or cared enough about their own practice
+being on the successor list of our doctor. Often, no one answered the phone, and
+when we left a message, no one bothered to call back. We dialed and dialed 
+and scoured the Internet for other options. The few times we actually did get someone to
+pick up the phone, it felt like winning the lottery. Most didn't care at all about
+our situation, except one time I got lucky and a nice healthcare worker gave me three
+phone numbers to try a few large health organizations like Dignity Health, One Medical,
+and Circle Medical.
+
+These organizations manage large medical practices and sometimes even hospitals.
+Doctors are then employed by them. Most of them do not have a particularly good
+reputation, as patients have to deal with excessive bureaucracy and a huge
+administrative apparatus. Reviews often reveal chaotic conditions. When I
+tried to log in to the portal of Dignity Health to view my doctor's notes (see
+link below), I found myself navigating through endless menus and pop-ups before
+finally finding what I was looking for.
+
+<pic images/hospital.ps Patient experiencing the American healthcare system.>
+
+At long last, we finally found a family doctor through the Dignity Health group. Not in
+the city of San Francisco, but 20 miles south on the Peninsula, in the town of Belmont.
+We made an appointment online with the doctor, and were pleasantly surprised
+that the complex has free parking, which is unheard of in San Francisco.
+
+So why is it so difficult to find a primary care physician these days? Family
+doctors are poorly paid in the USA, just like in Germany, and there's very few
+doctors who want to work in the field for this reason.
+Added to this is the extremely inefficient American healthcare system
+that demands dealing with bureaucratic burdens, totally unrelated
+to their actual work. As a result, according to forecasts, by the year 2025, California will experience a
+<LINK>https://letsgethealthy.ca.gov/goals/redesigning-the-health-system/increasing-access-to-healthcare-providersh|shortage of 4,700 primary care physicians</LINK>.
+
 TODO
 
-@Z: "Drama with the family doctor"
-
-<pic images/drmike.ps The specialist of their trust.>
-
-<em>Angelika</em>In May of this year, our longtime family doctor informed us that he is retiring well-earned. We had been anticipating his departure for some time now, as our doctor was over 70 by our estimates. That he even managed to deal with the crumbling American healthcare system for so long is commendable. He was a doctor of the good old school: careful, experienced, but not prone to unnecessary panic with tests. On the other hand, he acted quickly and surely when it was necessary. He was the one who diagnosed Michael's pulmonary embolism, which the emergency room unfortunately missed. We will be forever grateful for that.
-
-In our naivety, we initially did not worry about finding a new family doctor in San Francisco. After all, we live in a big city with what we thought were many options. Our doctor didn't find any suitable successor for his practice, but he sent us a letter listing doctors who were willing to take on his patients. In July, we thought it was time to bite the bullet and find a new family doctor, because without one, sudden illnesses can become a problem. I also needed a health certificate for my new job.
-
-Michael and I both called several doctors from the list just to find out that almost nobody accepted new patients or cared enough about their own practice being on the successor list of our doctor. Often no one answered the phone, and when we left a message, no one bothered to call back. We beat our fingers raw and scoured the internet for possibilities. When we did get someone on the phone, it was almost like winning the lottery. Most didn't care at all about our situation, but once I got lucky and a nice healthcare worker gave me three phone numbers of large health organizations like Dignity Health, One Medical, and Circle Medical.
-
-This organization manages large medical practices and sometimes even hospitals. Doctors are then employed by them. Most of them do not have a particularly good reputation, as patients have to deal with excessive bureaucracy and a huge administrative apparatus. Often chaotic conditions prevail. For example, when I tried to log in to the portal of Dignity Health to view my doctor's notes (see link below), I found myself navigating through endless menus and pop-ups before finally finding what I was looking for.
-
-<pic images/hospital.ps "Woe to him who is delivered to the American healthcare system.">
-
-At least we found a family doctor over the Dignity Health group. However, not in San Francisco but in the town of Belmont, about 40 km to the south. We were even able to book an appointment online with the doctor and the community clinic has free parking, which would not be the case in San Francisco. So why is it so difficult to find a family doctor? Family doctors are poorly paid in the USA, as in Germany, and no one wants to do it anymore. Added to this is the extremely inefficient American healthcare system that demands a high bureaucratic burden from doctors, which has nothing more to do with their actual profession. As a result, according to calculations,<LINK>https://letsgethealthy.ca.gov/goals/redesigning-the-health-system/increasing-access-to-healthcare-providersh|By the year 2025, California will have a shortage of 4,700 primary care physicians.</LINK>The translation for "." in English is "period" or "full stop".
-
-@Z: Shopping without value added tax
+@Z: Shopping Tax Free in Europe
 
 <pic images/tax-free-zoll-sign.ps Refund of value added tax at the airport>
 
