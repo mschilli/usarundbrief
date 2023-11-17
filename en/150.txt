@@ -352,7 +352,7 @@ doctors who want to work in the field for this reason.
 Added to this is the extremely inefficient American healthcare system
 that demands dealing with bureaucratic burdens, totally unrelated
 to their actual work. As a result, according to forecasts, by the year 2025, California will experience a
-<LINK>https://letsgethealthy.ca.gov/goals/redesigning-the-health-system/increasing-access-to-healthcare-providersh|shortage of 4,700 primary care physicians</LINK>.
+<LINK>https://letsgethealthy.ca.gov/goals/redesigning-the-health-system/increasing-access-to-healthcare-providers|shortage of 4,700 primary care physicians</LINK>.
 
 TODO
 
