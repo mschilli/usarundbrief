@@ -4,9 +4,22 @@ San Francisco, 12-20-2023
 
 <pic images/apec-fence-door-open.ps During the APEC conference, the streets of San Francisco were blocked off with barriers.>
 
-<em>Angelika</em>Even German newspapers have written a lot about the decline of San Francisco this year, and especially Downtown San Francisco as an apocalyptic place was characterized where only homeless and drug addicts wander through the streets. It's not that bad yet, although it is true that San Francisco's downtown has been struggling with horrific problems that have exacerbated during the pandemic and self-perpetuated.
+<em>Angelika</em> Even German newspapers have written a lot about the decline
+of San Francisco this year, and especially Downtown San Francisco was
+characterized as an apocalyptic place where only homeless and drug addicts
+wander through the streets. It's not quite that bad yet, although it is
+true that San Francisco's downtown has been struggling with horrific
+problems that have exacerbated during the pandemic and then developed
+a life of their own.
 
-Since the pandemic, over 30% of office buildings in San Francisco's downtown area have stood empty as the new work trend with remote work has taken root, at least for three days a week. Many companies have downsized their offices, leading to fewer people frequenting the shops in downtown San Francisco or buying and eating lunch there, which then leads to more shop closures due to a lack of customers. A vicious cycle.
+Since the pandemic, over 30% of office buildings in San Francisco's downtown
+area have been vacant, coinciding with new trends like remote work on three
+days of the week. Many companies have downsized their offices, leading to fewer
+people frequenting the shops in downtown San Francisco or buying and eating
+lunch there, which then leads to more shop closures due to a lack of customers.
+A vicious cycle.
+
+TODO
 
 Even before the pandemic, cities worldwide generally struggled with the concept of a downtown shopping mecca, primarily due to the boom of e-commerce. San Francisco compensated for this quite well pre-COVID and lockdown by attracting tourists and conferences that filled up hotels in Downtown and kept stores afloat. And as long as the city's tax revenues did not plummet, city politicians blissfully ignored that companies hosting large conventions regularly at the Moscone Center threatened to take their conferences elsewhere if San Francisco didn't fix it. Finally, convention attendees shouldn't have to navigate tents on public plazas or walk with extreme caution lest they step in used needles.
 
