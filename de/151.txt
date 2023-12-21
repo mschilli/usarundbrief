@@ -302,7 +302,7 @@ so. Ganz im Gegenteil: Die absurdesten Ideen gehen durch, und es gibt keine
 Gegenpartei oder -stimmen, die darauf drängen zu schauen, ob die Maßnahmen
 überhaupt funktionieren oder nur in die Rubik "rausgeschmissenes Geld" fallen.
 
-Die Umgestaltung des Rathausplatzes (genauer besagt eines Abschnitts des
+Die Umgestaltung des Rathausplatzes (genauer gesagt eines Abschnitts des
 UN-Plazas) in der Innenstadt ist so ein fragwürdiges Projekt. Dazu müsst ihr
 wissen, dass die "City Hall", also das Rathaus San Franciscos, an ein sehr
 verhautes Viertel, das Tenderloin, grenzt.  Schon seit wir hier wohnen,
@@ -394,7 +394,7 @@ Postschlitz einwirft.
 Die meisten Bücher in der Zweigstelle dort sind alter Käse, gar nicht mal die
 klassischen amerikanischen Romanautoren, eher so die Grabbelkiste des
 Bücherladens. Eine Ausnahme ist das Regal mit der Aufschrift "Lucky Day", dort
-stehen brandneuen Erscheinungen der Buch-Tycoone. So findet man dort (mit Glück)
+stehen brandneue Erscheinungen der Buch-Tycoone. So findet man dort (mit Glück)
 zum Beispiel die Biografie über Elon Musk, oder dieses Quatschbuch von Prinz
 Harry, oder auch die neuesten New York Times Bestseller wie "Chip Wars".
 Verlängern darf man die Ausleihzeit dieser begehrten Bücher allerdings nicht.
@@ -409,7 +409,7 @@ der Frist dazu, dranzubleiben, ich lese ja nicht schnell und so ein Buch mit
 
 <pic images/libby-add.ps (#8) Auf Knopfdruck schickt Libby das Buch auf den Kindle.>
 
-Ein Regal mit DVDs gibt's auch noch, aber bitte, wer hört denn heute noch DVDs.
+Ein Regal mit DVDs gibt's auch noch, aber bitte, wer sieht denn heute noch DVDs.
 Und natürlich ist auch in der Stadtbibliothek der Fortschritt mit digitalen
 Büchern eingezogen, ebenfalls sehr zu empfehlen! Mit der App "Libby" auf dem
 Smartphone wählt man seine Bibliothek und ein Buch aus, von dem die Bücherei
@@ -417,7 +417,7 @@ eine beschränkte Anzahl von Kopien verleihen darf. Dann ein paarmal wischen und
 drücken, und das Buch landet in Amazons Kindle-Universum (Abbildung (#8)), wo
 man es mit jedem beliebigen Kindle-Reader lesen kann. Drei Wochen lang.
 
-<pic images/libby-ended.ps (#7) Nach Ablauf der Leihfrist wird das Buch eingezogen>
+<pic images/libby-ended.ps (#7) Nach Ablauf der Leihfrist wird das Buch eingezogen.>
 
 Nach Ablauf der dreiwöchigen Frist entzieht einem dann erst Libby und dann
 Amazon das Kindle-Buch wieder (Abbildung (#7))!  Das muss man sich mal
