@@ -68,43 +68,91 @@ although only by ways of a Freudian slip, saying "Oh, they're just cleaning
 up this place because all those fancy leaders are coming to town. That's true,
 because it's true." We were laughing pretty hard.
 
-TODO
+@Z: Island in the Bay: Treasure Island
 
-@Z: "Island in the Bay: Treasure Island"
+<pic images/ti-map.ps The two islands in the center of the Baybridge.>
 
-<pic images/ti-map.ps The two islands in the middle of the Baybridge.>
+<em>Michael</em> Driving eastward from San Francisco, i.e.
+towards Oakland, you'll find yourself on the busy freeway I-80 that 
+leads over the Bay Bridge.
+The bridge consists of two sections: the western section that leaves San
+Francisco and the eastern section that connects it to the other side of the bay in
+Emeryville. Almost exactly at the center of the bridge, which spans
+an impressive five miles total, it is propped up on an island in the bay,
+called "Yerba Buena Island". This mini-island is also connected to another,
+larger island named "Treasure Island" via a short road that leads over the
+water at sea level (Figure (#4)).
 
-<em>Michael</em>Driving from San Francisco with the car to the east, i.e. towards Oakland, the heavily frequented freeway I-80 leads over the Bay Bridge. The bridge consists of two sections: the western section that leaves San Francisco and the eastern section that connects to the other side of the bay in Emeryville. Exactly in the middle lie the two sections of the overall seven-kilometer-long bridge on an island in the bay, called "Yerba Buena Island". This mini-island is also connected to another island named "Treasure Island" via a short bridge road that leads over the water at sea level (image #4).
+<pic images/treas-aerial.ps (#4) On top: Yerba Buena Island, Bottom: Treasure Island>
 
-<pic images/treas-aerial.ps (#4) Above: Yerba Buena Island, Below: Treasure Island>
+Yerba Buena Island used to be home to a fishing village of the then-residing
+Ohlohne Indians in the Bay Area. Around 1870 (i.e., after the Gold Rush) the
+military seized the island and since 1936, the Bay Bridge has been using it as
+a midway pillar. For an exhibition called "Golden Gate International
+Exposition" held in 1939, city planners had the idea to fill in the shallow
+waters north of Yerba Buena with debris and created the artificial island known
+as "Treasure Island."
 
-On Yerba Buena Island there used to be a fishing village of the then-residing Ohlohne Indians in the Bay Area. Around 1870 (i.e., after the Gold Rush) the military seized the island and since 1936, the Bay Bridge has been using it as a midway stop. For an exhibition called "Golden Gate International Exposition" held in 1939, city planners had the idea to fill in the shallow area north of Yerba Buena and created the artificial island known as "Treasure Island."
+<pic images/ti-bike-lady.ps Treasure Island offers panoramic views of the San Francisco skyline.>
 
-<pic images/ti-bike-lady.ps Viewpoint with panoramic view of the San Francisco skyline.>
+Treasure Island officially belongs to the city of San Francisco, but so far
+only welfare recipients and government employees have lived in the squalid row
+houses located there. In addition, the ground is completely contaminated due to
+deposits from when the island was used as a military training ground. Anyone
+who wants to rent a residence there must contractually waive the risk.
 
-Treasure Island officially belongs to the city of San Francisco, but so far only welfare recipients and government employees have lived in the squalid row houses located there. In addition, the ground is completely contaminated due to deposits from when the island was used as a military training ground. Anyone who wants to rent a residence there must contractually waive the risk.
+<pic images/ti-housing.ps Old project housing built on contaminated ground>
 
-<pic images/ti-housing.ps Old projects are standing on contaminated ground.>
+Recently, the eastern part of the Bay Bridge had to be demolished and rebuilt
+in order to protect it against earthquakes. Local bicyclist groups took
+advantage of this opportunity and demanded a bike path for the
+newly built section, separated from the bridge highway with four lanes per
+direction for car traffic.
 
-Recently, the eastern part of the Bay Bridge had to be demolished and rebuilt anew in order to make it secure against earthquakes. Local bicyclists took advantage of this opportunity and succeeded in having not only four lanes per direction built but also a separated bike path constructed on the newly built section.
+<pic images/ti-a-bridge.ps Riding a bicycle from Emeryville onto the Bay Bridge.>
 
-<pic images/ti-a-bridge.ps One can ride a bicycle from Emeryville to the Bay Bridge.>
+Since shortly after the bridge renovation was completed in 2013, enthusiasts
+are permitted to ride a bike or walk from the small town of Emeryville, which
+borders Oakland, onto the eastern span of the bridge. Skateboards and
+rollerblades are prohibited, however!  At the western end of the eastern span,
+though, there used to be a hard stop - the path down to the island was blocked
+due to construction until 2016.  Since then, however, the entire path is now
+open, and you can proceed from Emeryville in approximately 30 minutes (it takes
+about two hours to walk, one way) via the bike and pedestrian path up onto the
+bridge, over to the center section, and then descend down onto Yerba Buena Island.
 
-Since shortly after the bridge renovation was completed in 2013, one can ride a bike or walk from the small town of Emeryville, which borders Oakland, onto the bridge on the east side. Skateboards and rollerblades are prohibited, however! At the western end of the eastern section, though, that was a wrap - the path down to the island was blocked due to construction. That lasted until 2016, but since then, the entire eastern portion of the path is now complete. One can ride a bike from Emeryville in approximately 30 minutes (it takes about two hours to walk) up onto the bike and pedestrian path, and then down the island.
+<pic images/ti-exit.ps Little trust-inspiring bicycle paths on Yerba Buena>
 
-<pic images/ti-exit.ps "Little trust-inspiring bicycle paths on Yerba Buena">
-
-The bicycle path on the south side of the eastern part of the Bay Bridge leads to Yerba Buena Island in the west after a steep descent. From there, you can reach Treasure Island in just a few minutes by crossing over a steep hill on the access road. Not only are there old military barracks there, but also cute bungalows, football fields, a whiskey distillery and several good restaurants.
+The bicycle path is located on the southern side of the Bay Bridge highway and
+leads down to Yerba Buena Island on a steep path. From there, you can procceed
+to Treasure Island by climbing a steep hill, descending onto the access road,
+and crossing over in just a few minutes.  On the larger of the two islands, you
+can find old military barracks, but also cute bungalows, football fields, a
+whiskey distillery and several good restaurants.
 
 <HTMLONLY>
 <pic images/treas-ducks.ps Soccer field with ducks on Treasure Island>
 </HTMLONLY>
 
-For knowledgeable car drivers, the island has actually always been accessible, provided that you take the appropriate exit at the tunnel in the middle of the bridge. A secret tip for our tourists! With the now complete bicycle path from Emeryville to Treasure Island, bike rental companies should now consider renting out hourly guided tours, which has been successful in the city for years. As always, I am ahead of my time.
+For knowledgeable car drivers, the island has actually always been accessible,
+provided that you took the appropriate exit in the tunnel at the center of the
+bridge. A top secret tip for our visitors! With the now complete bicycle path
+from Emeryville to Treasure Island, I'm surprised no bike rental companies have
+stepped up to consider offering guided or unguided tours, a business which has
+been successful in the city for years. As always, people snap up my ideas and
+follow my lead!
 
-<pic images/ti-housing-new.ps New apartment blocks on the island offer living space.>
+<pic images/ti-housing-new.ps New apartment buildings on the island offer living space.>
 
-The city of San Francisco has big plans for Treasure Island: As the City Council decided over 12 years ago, there will be housing for 19,000 residents, most of them in unattractive apartment blocks modeled on Vancouver. Furthermore, due to the limited space in our city because of its peninsular form, calls for more accommodation are growing louder, as this is supposed to bring rents down - which, of course, is sheer nonsense. However, we are used to such fantasies in San Francisco.
+The city of San Francisco has big plans for Treasure Island: As the City
+Council decided over 12 years ago, there will be housing for 19,000 residents,
+most of them crammed into unattractive apartment blocks, the Vancouver model.
+Furthermore, due to the limited space in our city because of its peninsular
+shape, calls for more accommodation are growing louder, as this is supposed to
+bring rents down - which, of course, is utter nonsense, perpetuated by high
+flying fantasies, which we are used to in San Francisco.
+
+TODO
 
 @Z: German Christmas market in Mountain View
 
