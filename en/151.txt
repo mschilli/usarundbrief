@@ -207,21 +207,37 @@ almost everything had been sold.
 
 TODO
 
-@Z: "Flowers against wild camping"
+@Z: Flowers Pots Against Wild Camping
 
-<pic images/tent-division.ps Flowers should stop wild boars from wandering around.>
+<pic images/tent-division.ps Flower pots to deter illegal sidewalk campers.>
 
-<em>Michael</em>Unfortunately, the city of San Francisco's administration is unable to prevent wild campers from occupying the sidewalks of the city with their tents. Wild camping, of course, is illegal, but timid city councilors are hesitant to take action to address the issue.
+<em>Michael</em> Unfortunately, the city of San Francisco's administration has
+been unable to prevent illegal campers from occupying the sidewalks of the city
+for years with their tents. Sidewalk camping, of course, is illegal, but timid
+city supervisors are hesitant to take action to address the issue.
 
-<pic images/tb-planters-close.ps Everything sealed with flower pots>
+<pic images/tb-planters-close.ps All sidewalk space occupied by flower pots>
 
-Embellished residents had however some time ago the idea to install massive flower boxes on the sidewalks in front of their homes, which is indeed also illegal, but the city council notoriously shies away from any conflict and therefore refrained from taking any action against this countermovement either.
+Industrious residents however came up with the idea some time ago, to install
+massive flower planters on the sidewalks in front of their homes, which is indeed
+also illegal, but the city council notoriously shies away from any form of
+conflict and therefore refrained from taking any action against this
+countermovement either.
 
-<pic images/tb-mech.ps This auto workshop must tolerate the sidewalk cracking.>
+<pic images/tb-mech.ps This auto repairshop must tolerate the illegal sidewalk camper.>
 
-The system seems to be working, since besides the over two meters long and almost one meter wide aluminum exteriors, which I call flower vases, each of which costs over 200 dollars, there is no room left for tents. However, it appears that the floral citizen patrol awaits the city's next eviction of tents, removal of mounds of dirt, and cleaning of sidewalks to set up more flower vases in night and fog operations. The wild tents grumble and move on to a few streets where sidewalks are still unbuilt.
+The system seems to be working. The massive aluminum planters, which are over
+eight feet long and three feet wide and cost over 200 Dollars each (I call them
+"flower coffins") take up so much space on the sidewalk that there's
+essentially none left for illegal camping. It appears that the floral citizens
+wait until the city gets around cleaning up a portion of the
+sidewalk, forcing campers to move their stuff to the next block. Then the
+vigilantes move in under cover of night with their planters, to swiftly barricade
+the temporarily open space.
 
-<pic images/tb-bus-stop.ps "So remain bus stops tent-free.">
+<pic images/tb-bus-stop.ps This bus stop used to occupied by illegal tents.>
+
+TODO
 
 By now these flower bushes spread like mushrooms from the ground, the manufacturer must set records. When driving through our neighboring district of Mission, which is almost overgrown with tents, one can already see hundreds of these flower bushes on the sidewalks. Sometimes they even stand in closed areas, presumably as material for the next night and fog operation.
 
