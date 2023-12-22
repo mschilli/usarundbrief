@@ -235,30 +235,48 @@ sidewalk, forcing campers to move their stuff to the next block. Then the
 vigilantes move in under cover of night with their planters, to swiftly barricade
 the temporarily open space.
 
-<pic images/tb-bus-stop.ps This bus stop used to occupied by illegal tents.>
+<pic images/tb-bus-stop.ps This bus stop used to be occupied by illegal tents.>
 
-TODO
+By now these planters are spreading like mushrooms from the ground, the
+manufacturer must set records. When driving through our neighboring district of
+The Mission, which is almost overgrown with tents, one can already see hundreds of
+these planters sitting on the sidewalks. Sometimes they even stand in closed
+areas, presumably as material for the next night and fog operation.
 
-By now these flower bushes spread like mushrooms from the ground, the manufacturer must set records. When driving through our neighboring district of Mission, which is almost overgrown with tents, one can already see hundreds of these flower bushes on the sidewalks. Sometimes they even stand in closed areas, presumably as material for the next night and fog operation.
+<pic images/tb-planter.ps Wild campers keeping a distance from the planter>
 
-<pic images/tb-planter.ps Wild campers keep a distance from wildflowers.>
+That must be tasted on the tongue: While the city, as an example, mercilessly
+punishes illegal parking by issueing expensive tickets, it fails to prevent
+illegal campers from blocking the sidewalks for pedestrians. Even wheelchair
+users now have to move into the street to avoid the occumpants, the strewn
+around trash and unleashed fighting dogs. The fact that no one has yet filed a
+lawsuit for non-compliance with California's very strict accessibility
+regulations surprises me honestly. Or maybe not. And the solution is that
+taxpaying citizens buy flower pots at their own expense to restore human
+conditions. You really can't make this up.
 
-That must be tasted on the tongue: While the city, for example, mercilessly punishes wrong parkers, it fails to prevent the Zelter from blocking the sidewalks for pedestrians. Even wheelchair users have to move onto the street to avoid the street vendors, the Moll and unattended fighting dogs. The fact that no one has yet filed a lawsuit for non-compliance with California's very strict accessibility regulations surprises me honestly. Or maybe not. And the solution is that taxpaying citizens buy flower pots at their own expense to restore human conditions.
-
-<pic images/tb-trash.ps The residents are upset about the pile of trash on the sidewalk.>
+<pic images/tb-trash.ps The residents are upset about strewn around trash on the sidewalk.>
 <pic images/folsom-fire.ps The San Francisco Fire Department had to go out at midnight to put out this tent fire.>
 
-And naturally, so-called homeless advocates immediately protested against the flower boxes as...<LINK>https://sfstandard.com/2023/09/21/san-francisco-planters-dubbed-hostile-architecture-what-locals-say|Homeless-hostile architecture</LINK>And the flowerpot shaped vases as heartless pranksters attacked. However, it seems that the squirrels are carelessly handling their fire sites, because fires accumulate that burn trees and adjacent houses, fortunately San Francisco has a well-functioning fire department.
+And, unsurprisingly, so-called homeless advocates immediately protested against the
+planters as being <LINK>https://sfstandard.com/2023/09/21/san-francisco-planters-dubbed-hostile-architecture-what-locals-say|Homeless-hostile architecture</LINK> and accused
+the vigilantes as heartless right wing goons. Oh well. What more concerning actually
+is that these campers seem to be handling their warming fires rather carelessly,
+and have set several trees and buildings on fire. Fortunately, San Francisco
+maintains a well trained fire department (SFFD).
 
 <HTMLONLY>
-<pic images/fire-octavia.ps (#1) This construction site went through a homeless fire in flames.>
+<pic images/fire-octavia.ps (#1) This construction site went up in flames by a homeless fire>
 </HTMLONLY>
 
-However, she arrived too late at the scene of a fire in an unfinished building located on Octavia Street: the entire wooden structure had already burned down.<LINK>https://sfstandard.com/2023/08/07/residents-fume-over-lack-of-answers-about-massive-san-francisco-fire/|Going up in flames on Octavia Street | Great fire at the Octavia Street.</LINK>"Only the framework remained."
+However, SFFD arrived too late at the scene of a
+<LINK>https://sfstandard.com/2023/08/07/residents-fume-over-lack-of-answers-about-massive-san-francisco-fire/fire in an unfinished building</LINK> located on Octavia Street: the entire wooden structure burned down and only metal poles of the scaffolding remained.
 
 <pic images/tb-sidewalk.ps This campsite is no longer accessible to hikers.>
 
-@Z: "San Francisco Civic Center Plaza" in English.
+TODO
+
+@Z: San Francisco Civic Center Plaza
 
 <pic images/skater-city-hall.ps The market had to give way, now the plaza is a skate park.>
 
