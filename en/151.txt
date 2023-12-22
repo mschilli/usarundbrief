@@ -403,45 +403,100 @@ reader who may not even be finished with it yet, so that too many copies are
 in circulation! I once had to press the emergency shutdown button on the network
 to be able to read the last pages of a book in peace. We live in strange times.
 
-TODO
-
-@Z: "Travel bread knife from Victorinox"
+@Z: Victorinox Travel Bread Knife
 
 <pic images/vic-cut.ps The knife cuts through bread like butter.>
 
-<em>Michael</em>One day I will write a comprehensive guide on typical AirBnB accommodations and their lack of home accessories. Clothes hangers, for example. Where do you hang your jacket besides the apartment door when there is no appropriate hook available? Or in general storage space. According to my planned compendium "Now we are setting up our AirBnB apartment," there should always be a small table or shelf in the entrance area, or perhaps a shelf that provides space for utensils that one should always have at hand in a foreign residence: keys, wallets or phones and their chargers.
+<em>Michael</em> One day I will write a comprehensive guide on typical AirBnB
+accommodations and their lack of home accessories. Clothes hangers, for
+example. Where do you hang your jacket besides the apartment door when there is
+no appropriate hook available? Or in general storage space. According to my
+planned compendium "Now we are setting up our AirBnB rental unit," there should
+always be a small table or cupboard in the entrance area, or perhaps a shelf that
+provides space for utensils that one should always have at hand in a foreign
+residence: keys, wallets, phones, and their chargers.
 
 <pic images/vic-drawer.ps Typical Airbnb kitchen setup: No bread knife>
 
-A common problem with this type of accommodation is the absence of sharp knives. You have bought fresh bread and want to cut it in your rented apartment, but you have to make do with a dull kitchen knife and ruin the whole lovely bread. That doesn't have to be!
+A common problem with this type of accommodation is the absence of sharp
+knives. You have bought fresh loaf of crunchy sourdough bread and want to cut
+it in your rental unilt, but you have to make do with a dull kitchen knife and
+ruin the whole lovely bread. That doesn't have to be!
 
 <pic images/vic-order.ps The knife can be had for 24 Dollars on Amazon.>
 
-Okay, Americans laugh naturally about my problems, because they buy their bread in 99 percent of all cases already cut. But also for other food products a sharp knife pays off, but one can not take monster knives with on travel without causing a stir at the airport, besides one must always wrap the sharp edges up to avoid an accident.
+Okay, Americans are laughing now naturally about my problems, because they buy
+their bread already cut in 99 percent of all cases. But also for other food
+products, a sharp knife pays off nicely. Alas, you can't take monster knives with on
+a trip without causing a stir at the airport, besides, one must always pad and
+wrap the sharp edges safely, to avoid any accidents.
 
 <pic images/vic-fold.ps Securely folded for transport>
 
-One day I stumbled upon Amazon over the Victorinox Firma Klappbrotmesser, the well-known Swiss Matador of the art of kitchen knives. The knife is not long, the blade is only 11cm long, probably due to some safety regulations so that lunatics do not misuse it. However, since the blade snaps shut in the open position and the cutting edge is very sharp, you can easily slice through fresh bread with murder crust without even a crumb falling off, and the slices will look appetizingly clean after that. The piece is missing from us on no more journey. Top product! @Z: Postboxes need security upgrades
+One day on Amazon, I stumbled upon a foldable bread knife by Victorinox,
+the well-known Swiss Matador of the art of kitchen knives. The knife is not long,
+the blade is only 4.3 inches, probably due to some safety regulations so that
+lunatics don't get any ideas. However, since the blade stays locked in the open
+position and the serrated edge is very sharp, you can easily slice through fresh
+bread, even German style sourdough with a murderous crust, without even a crumb
+falling off to the side. There it is, the slices will look amazingly clean and 
+appetizing. The knife has earned a permanent spot on my travel list and has been
+with us on every trip since. Top product!
 
-<pic images/usps-mb-wide.ps In the past, one could easily insert envelopes into mailboxes with a flap.>
+@Z: USPS Mailboxes Need Security Upgrades
 
-<em>Michael</em>The blue mailboxes of the American Post differed from the yellow German ones in that one could insert letters and even small parcels by opening a relatively large flap at the top, placing the mail or parcel inside, and snapping the flap shut, launching it into the interior. However, this is now history!<LINK>https://www.nytimes.com/2019/03/21/nyregion/mailbox-theft-fishing.html|"Finding Criminal from the New York Bronx | Post-Theft"</LINK>Years ago, people started putting sticky insect traps on fishing lines inside, and letters like Mrs. Bolt's bratwurst letterbox out to catch.
+<pic images/usps-mb-wide.ps In the past, one could easily insert thick envelopes into USPS mailboxes with a flap.>
+
+<em>Michael</em> The blue mailboxes of the United States Postal Service
+differ from the yellow ones in Germany in that one could insert letters and even
+small parcels by opening a relatively large flap at the top, placing the mail
+or parcel on top of it, and then snapping the flap shut, launching the postage item
+into the interior. Sadly, this is now history!
+
+Apparently, <LINK>https://www.nytimes.com/2019/03/21/nyregion/mailbox-theft-fishing.html|Criminals from the New York Bronx|Postage-Theft"</LINK> found out years ago,
+that the content inside the mailboxes could be extracted out by lowering a sticky
+insect trap on a string into the mailbox through the flap, and pulling out any
+postage items that got entangled with the trap.
 
 <pic images/usps-mailbox-letter.ps Finally, only narrow letters go into secure slits.>
 
-This trend now appears to have arrived in increasingly disorderly San Francisco, with complaints from postal customers indicating that mailbox theft is on the rise. In response, the United States Postal Service was forced to replace the old blue mailboxes with newer, more secure ones. Instead of a drop-off slot, these new mailboxes have a narrow opening that is secured by metal teeth and can only be used for depositing mail. This technology was previously known only from mailboxes belonging to wealthy urbanites and slot-type bank safes in Germany.
+This trend now appears to have arrived in our increasingly disorderly San
+Francisco, with rising complaints from postal customers indicating that mailbox theft
+is on the rise. In response, the United States Postal Service was forced to
+replace the old blue mailboxes with newer, more secure ones. Instead of a
+drop-off slot, these new mailboxes have a narrow opening that is secured by
+metal teeth and can only be used for depositing flat letters. This technology was
+previously only known to me from mailboxes in Germany belonging to millionaire
+urbanites and slot-type bank safes for cash heavy businesses.
 
 <HTMLONLY>
-<pic images/usps-post-office.ps "Little packet now only accepts the post office.">
+<pic images/usps-post-office.ps Small packages now require a trip to the post office.>
 </HTMLONLY>
 
-After the theft of mail was relatively rare until a few years ago, it has always been considered a federal crime. If a mail thief is caught, it is not necessarily a local prosecutor who takes action, but rather a more stringent federal official, and the offense is tried in a federal court. However, the federal authorities seem to be less willing in recent times to investigate such offenses, and in some cases, even 
+Mail theft was relatively rare until a few years ago. It has
+always been considered a federal crime. If a mail thief is caught, it is not
+necessarily a local prosecutor who takes action, but rather a more stringent
+federal official, and the offense is tried in a federal court. However, the
+federal authorities seem to be less willing in recent times to investigate such
+offenses. There's even a growing number of reports of
+<LINK>https://www.sfgate.com/bayarea/article/delivering-mail-san-francisco-oakland-robberies-18518133.php|mail carriers being robbed on their routes</LINK>,
 
-(Translation provided by Google Translate)<LINK>https://www.sfgate.com/bayarea/article/delivering-mail-san-francisco-oakland-robberies-18518133.php|The postal workers are attacked on their routes.</LINK>However, instead of legally intervening, the post now reduces the size of the mailbox slots. Therefore, the bill remains with the ordinary citizen who previously could insert smaller packages into the mailbox and now must travel to the next post office for every padded envelope.
+What interesting, though, is that instead of legally intervening and bringing a
+few mail thieves to justice, the Postal Service now reduces the size of the
+mailbox slots. This inconveniences the majority of ordinary citizens, who could
+previously insert smaller packages into the mailbox, and must now travel to the
+next post office for every padded envelope.
 
-<pic images/mailbox.ps (#2) A burglar broke into our rental house's mailbox.>
+<pic images/mailbox.ps (#2) A burglar broke into our apartment building's mailbox.>
 
-Even in our rental house, the mail thieves had already struck: One night in November, they broke into the intercom system, opened the front door and then lifted the letter box, for which only the postal worker has the master key (Illustration #2). The property management quickly had everything repaired. A report was made to the police, but it is highly likely that nothing will come of it due to too much bureaucracy and too little prospect of success.
+Even our apartment building was recently hit by mail thieves: One night in
+November, they broke into the intercom system outside the lobby door, opened
+the front door and then pried open the combined mailbox for all tenants (Figure
+(#2)). Usually postal workers carry the master key for these boxes to open them
+at the top and drop mail into individual slots. Our property management reacted
+quickly had everything repaired within a day.  A report was made to police, but
+it is highly likely that nothing will come of it due to too much bureaucracy
+and too little prospect of success.
 
 Reporting live from the city under criticism.
 
