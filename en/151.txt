@@ -324,48 +324,86 @@ don't quite understand why a skatepark would scare away drug dealers.
 
 <pic images/skater-home.ps Skater going home from the skatepark after a session.>
 
-TODO
-
 And then there's another problem. For over 40 years, a weekly market has been
-held twice a week on the "UN Plaza" in front of City Hall. This is an important
+held twice a week on the UN Plaza in front of City Hall. This is an important
 source of fresh produce at reasonable prices for residents of the Tenderloin
 neighborhood, as there is no supermarket in the area. The market had to move
-due to renovation and is now located on the other side of the "UN Plaza."
-However, the temporary location is much smaller, so many vendors have had to
-reduce their stalls. They were not enthusiastic about not being consulted on
-the redesign plans. Furthermore, they cannot park their vans behind their
-stands anymore and must now park them further away, which is a high risk in a
-city where car windows are broken instantly if even a cable is visible inside.
-This would be a problem that needs to be addressed, but as mentioned, only
-superficial improvements are being made before the elections.
+due to renovation and is now located on the other side of UN Plaza.  However,
+the temporary location is much smaller, so many vendors have had to reduce
+their booth sizes. They were of course not enthusiastic about not being
+consulted on the redesign plans at all. Furthermore, they cannot park their
+vans behind their stands anymore and must now park them further away, which is
+a high risk in a city where car windows are broken instantly if even a cable is
+visible inside.  This would be a problem that needs to be addressed, but as
+mentioned, only superficial improvements are being made before the elections.
 
-@Z: Register at the city library
+@Z: Registering at The Public Library
 
-<pic images/sfpl-presidio.ps The grand branch library of San Francisco, Presidio.>
+<pic images/sfpl-presidio.ps The grandiose architeture of the Presidio library.>
 
-<em>Michael</em>Who would have known that there is a public library in San Francisco with 31 branches? The system of borrowing a book from the shelf of a musty public institution has been familiar to me since childhood in Germany. In San Francisco, I had not managed to obtain a library card in over twenty years, but now that I have some breathing room, I thought: let's try it out.
+Francisco with no less than 31 different neighborhood branches? The system of
+borrowing a book from the shelf of a musty public institution has been familiar
+to me since my childhood days in Germany. In San Francisco, I had not managed
+to obtain a library card in over twenty years, but now that I have some
+breathing room, I thought: let's try it out.
 
-<pic images/sfpl-card.ps (#5) Michael's bookmark with cat motif>
+<pic images/sfpl-card.ps (#5) Michael's libary card with cat motif>
 
-I went to a branch of the San Francisco Public Library (SFPL) in our neighborhood on Jersey Street, showed my driver's license and said "What's a guy gotta do around here to get a library card?" or something similar, anyway I wanted to imitate Kramer from Seinfeld as much as possible. The lady behind the counter entered my details into the computer, confirmed that my address was in San Francisco and asked me what motivation I had on my four-year, free library card. Portraits of any left-wing political heroes maybe? I decided to go with the cute cat motif (Picture #5).
+So I went to a branch of the San Francisco Public Library (SFPL) in our
+neighborhood on Jersey Street, showed my driver's license and said "What's a
+guy gotta do around here to get a library card?" or something similar, anyway I
+wanted to imitate Kramer from Seinfeld as much as possible. The lady behind the
+counter entered my data into the computer, confirmed that my address was in
+San Francisco and asked me what motif i wanted on my future four-year, free library
+card. Portraits of any left-wing political heroes maybe? I decided to go with
+the cute cat motif (Picture (#5)).
 
-In an impromptu briefing, I learned that the loan period for books is three weeks and one can extend it five times (if not another bookworm has reserved the book with a so-called "Hold"). Also, the maximum number of books that a person can borrow at the same time surprised me: up to 100 books! A shopping cart is even provided to bring them all. Returning the books can be done in any (!) branch, either by placing them on the librarian's table or by dropping them into the mailbox downstairs.
+In an impromptu briefing, I learned that the loan period for books is three
+weeks and one can extend it five times (if no other bookworm has reserved the
+book with a so-called "Hold"). Also, the maximum number of books that a person
+can borrow at the same time surprised me: up to 100 books! I presume you'd have
+to bring your own wheel barrel or shopping cart in this case.  Books can be
+returned at in any (!) branch, either by placing them on the librarian's table
+or by dropping them into the mailbox downstairs.
 
-<pic images/sfpl-noe.ps Even in our district there is a branch of the city library.>
+<pic images/sfpl-noe.ps Even in our small neighborhood, there is a branch of the city library.>
 
-Most of the books in the branch are old cheese, not even classic American novelists, rather like the grab bag of the bookstore. An exception is the shelf labeled "Lucky Day," where new releases from the book-tycoon can be found. There one can find (with luck) biographies about Elon Musk, or that quack book by Prince Harry, or even the latest New York Times bestsellers like "Chip Wars." However, one cannot extend the loan period of these sought-after books.
+Most of the books in the branch are outdated snores, not even classic American
+novelists, rather like the grab bag of the bookstore. An exception is the shelf
+labeled "Lucky Day," where new releases from major publishing houses are on
+display.
+There one can find (with luck) biographies about Elon Musk, or that quack book
+by Prince Harry, or even the latest New York Times bestsellers like "Chip
+Wars." However, one cannot extend the loan period of these sought-after books.
 
 <pic images/sfpl-obama.ps In the section "Lucky Day," the library features new releases.>
 
-I have already borrowed myself a few copies and was very satisfied. Books that you can of course buy for $20, but a man like me has to count the pennies! Moreover, it forces one to adhere to the deadline, I do not read quickly and a book with 300 pages in three weeks is already quite strenuous for me.
+I have already borrowed myself a few copies and was very satisfied. Books that
+you can of course buy for $20, but a man like me has to count the pennies!
+Moreover, it forces one to adhere to the deadline, I'm not a fast reader and a
+book with 300 pages in three weeks time is already quite a stretch for me.
 
 <pic images/libby-add.ps (#8) With one button press, Libby sends the book to your Kindle.>
 
-There's also a DVD rack, but who watches DVDs these days? And of course, even in the city library, progress has been made with digital books. Highly recommended! With the "Libby" app on your smartphone, you can choose your library and download a book that the library can lend a limited number of copies. Then wipe it off twice and press it, and the book will appear in Amazon's Kindle universe (#8), where you can read it with any Kindle reader. For three weeks.
+There's also a DVD rack, but who watches DVDs these days? And of course, even
+the ole city public library has embraced  progress with digital books.
+Highly recommended! With the "Libby" app on your smartphone, you can choose
+your library and download a book that the library can lend a limited number of
+copies. Then swoosh and tap, and the book will appear in
+Amazon's Kindle universe (#8), where you can read it with any Kindle reader.
+For three weeks.
 
 <pic images/libby-ended.ps (#7) After the loan period has expired, the book will be withdrawn.>
 
-After the three-week deadline has expired, then Libby and then Amazon will take back the eBook again (Illustration #7)! You have to imagine this: To adhere to the old concept of publishers from long ago that finance the production of a book through sold copies, the library must wrestle the digital copy from the reader who may not even be finished with it yet, so that too many copies are not in circulation. I had to press the emergency shutdown button on the network to be able to read the last pages in peace. We live in strange times.
+After the three-week deadline, Libby and then Amazon will take
+back the eBook (Figure (#7))! You have to imagine this: To adhere to
+the old concept of publishers from long ago that finance the production of a
+book through sold copies, the library must wrestle the digital copy from the
+reader who may not even be finished with it yet, so that too many copies are
+in circulation! I once had to press the emergency shutdown button on the network
+to be able to read the last pages of a book in peace. We live in strange times.
+
+TODO
 
 @Z: "Travel bread knife from Victorinox"
 
