@@ -205,8 +205,6 @@ We sold chocolate sticks, dominoes, speculaas, printen, and more. We could
 hardly keep up with the customers. It was great fun and by the end of the day,
 almost everything had been sold.
 
-TODO
-
 @Z: Flowers Pots Against Wild Camping
 
 <pic images/tent-division.ps Flower pots to deter illegal sidewalk campers.>
@@ -270,25 +268,59 @@ maintains a well trained fire department (SFFD).
 </HTMLONLY>
 
 However, SFFD arrived too late at the scene of a
-<LINK>https://sfstandard.com/2023/08/07/residents-fume-over-lack-of-answers-about-massive-san-francisco-fire/fire in an unfinished building</LINK> located on Octavia Street: the entire wooden structure burned down and only metal poles of the scaffolding remained.
+<LINK>https://sfstandard.com/2023/08/07/residents-fume-over-lack-of-answers-about-massive-san-francisco-fire|fire in an unfinished building</LINK> located on Octavia Street: the entire wooden structure burned down and only metal poles of the scaffolding remained.
 
 <pic images/tb-sidewalk.ps This campsite is no longer accessible to hikers.>
 
-TODO
-
 @Z: San Francisco Civic Center Plaza
 
-<pic images/skater-city-hall.ps The market had to give way, now the plaza is a skate park.>
+<pic images/skater-city-hall.ps The farmers market had to give way, now the plaza is a skate park.>
 
-<em>Angelika</em>Many of San Francisco's problems are homemade and have accumulated over years. For example, there is no opposition on the city council. All members belong to the Democratic Party, and they actually differ only in terms of how progressive they are. At first glance, one might think that a council that is firmly in the hands of a party would receive a lot of pressure, but unfortunately, this is not the case. On the contrary: The most absurd ideas are being implemented, and there are no opposing voices to insist on checking whether the measures actually work or just waste money.
+<em>Angelika</em> Many of San Francisco's problems are self-inflicted and have
+accumulated over years. This happens because there is no opposition on the city
+council. All members belong to the Democratic Party, and their stances on policy
+only differ in terms of how progressive they are. At first glance, one might think
+that a council that is firmly in the hands of one party would get a lot done,
+but unfortunately, this is not the case. On the contrary: The most
+absurd ideas are being implemented, and there are no opposing voices to insist
+on checking whether the measures actually work or are just a waste money.
 
-The redesign of the City Hall plaza (specifically a portion of the UN Plaza) in the city center is quite a questionable project. You should know that the "City Hall", or the San Francisco city hall, borders on a rather seedy neighborhood called the Tenderloin. Since we have lived here, drug dealers have been selling on the plaza in front of the city hall. Loyal newsletter readers may remember that I worked in the Tenderloin for many years. During my active time in the neighborhood, there were a lot of undercover cops (undercover cops) who caught drug dealers and then arrested them.
+The redesign of San Francisco's City Hall Plaza (specifically a portion of the
+UN Plaza) in the city's center is a good example. You should know that in San
+Francisco, City Hall borders on a rather seedy neighborhood called the
+Tenderloin. Since we have lived here, drug dealers have been selling on the
+plaza in front of City Hall. Loyal reader of our publication may remember that
+I worked in the Tenderloin for quite some time many years ago. During my active
+time in the neighborhood, there were a lot of undercover cops who caught drug
+dealers and then arrested them.
 
-Then the city policy entered into a critical phase where drug dealers were simply allowed to operate freely, because supposedly they are just poor dogs that cannot be arrested, no matter how many victims they cause through the drug trade. However, the fentanyl crisis has resulted in San Francisco having more drug-related deaths than coronavirus deaths even during pandemic times, and the numbers of drug-related deaths have continued to rise even after the pandemic. So far in 2023, there have been<LINK>https://abc7news.com/san-francisco-record-overdose-deaths-fentanyl-wastewater-drug-testing/14186379|"752 Fillmore Street in San Francisco"</LINK>Most died from a fentanyl overdose.
+Later, the city entered a critical phase where drug dealers were
+simply allowed to operate freely, because supposedly according to some
+supervisors, they were just poor chaps who should not be arrested,
+no matter how many fatal overdose victims they caused by their drug business.
+Fast forward a few years, and the fentanyl crisis has made
+the situation by an order of magnitude worse, resulting in San Francisco having more
+drug-related deaths than coronavirus deaths even during pandemic times. Also, the
+numbers of drug-related deaths have continued to rise even after the pandemic.
+So far in 2023, there have been <LINK>https://abc7news.com/san-francisco-record-overdose-deaths-fentanyl-wastewater-drug-testing/14186379|752 drug-related deaths</LINK>,
+most of them caused by fentanyl overdoses.
 
-<pic images/ccenter-wheel.ps "Wheelchair Willy was always a regular at the Civic Center.">
+<pic images/ccenter-wheel.ps Wheelchair Willy has always been a regular at the Civic Center.>
 
-There are elections in the city next year and there is a growing sense of panic among politicians because many residents of San Francisco have become increasingly frustrated with their politicians' laissez-faire attitude. As a result, they are currently engaged in a lot of activism, inspired by the motto "Our city needs to be more beautiful." In the context of this program, UN Plaza, a part of the city hall plaza, recently received two million dollars worth of cosmetic surgery. The city council decided it was time to evict the drug dealers from the plaza and chose to build a small skatepark instead. Additionally, there are table tennis tables, foosball tables, and some fitness machines available for public use, as well as Zumba classes. At first glance, there is nothing wrong with this, but I don't quite understand why a skatepark would scare away drug dealers.
+TODO
+
+There are elections in the city next year and there is a growing sense of panic
+among politicians because many residents of San Francisco have become
+increasingly frustrated with their politicians' laissez-faire attitude. As a
+result, they are currently engaged in a lot of activism, inspired by the motto
+"Our city needs to be more beautiful." In the context of this program, UN
+Plaza, a part of the city hall plaza, recently received two million dollars
+worth of cosmetic surgery. The city council decided it was time to evict the
+drug dealers from the plaza and chose to build a small skatepark instead.
+Additionally, there are table tennis tables, foosball tables, and some fitness
+machines available for public use, as well as Zumba classes. At first glance,
+there is nothing wrong with this, but I don't quite understand why a skatepark
+would scare away drug dealers.
 
 <pic images/skater-home.ps After skateboarding, we go home again.>
 
