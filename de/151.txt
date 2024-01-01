@@ -389,7 +389,7 @@ ich an.  Zurückbringen kann man die Bücher in jeder (!) Zweigstelle, entweder
 indem man sie dem Bibliothekar auf den Tisch legt oder aber unten an der Tür im
 Postschlitz einwirft.
 
-<pic images/sfpl-noe.ps Auch in unserem Viertel ist eine Zweigstelle der Stadtbücherei>
+<pic images/nv-library.ps Auch in unserem Viertel ist eine Zweigstelle der Stadtbücherei>
 
 Die meisten Bücher in der Zweigstelle dort sind alter Käse, gar nicht mal die
 klassischen amerikanischen Romanautoren, eher so die Grabbelkiste des
