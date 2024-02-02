@@ -64,7 +64,7 @@ may, they go into the water, as the waves don't surf themselves.
 
 <pic images/dishwasher-ready.ps Our kitchen now features a German made dishwasher.>
 
-<em>Michael</em>Recently our old washing machine gave up the ghost. In America,
+<em>Michael</em> Recently our old washing machine gave up the ghost. In America,
 the landlord is responsible for providing replacement kitchen appliances if
 they break down, but since ours would have undoubtedly been replaced with
 another noisy, low quality appliance that makes you think the door's open and it's
