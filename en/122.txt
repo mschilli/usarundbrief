@@ -1,0 +1,444 @@
+San Francisco, 11-12-2017
+
+@Z: Inside San Francisco's Sewage System
+
+<pic images/sewer-tour.ps Vom fachkundigen Tourenführer erfahren Anwohner, wo ihr Abwasser hingeht.>
+
+<em>Michael</em> What happens after we flush the toilet? To find out, we booked
+a tour of the "San Francisco Public Utilities Commission Wastewater Treatment
+Plant" in the Bayview district at the end of August. Promptly at 9:45 on a
+Saturday morning, we had to report at the visitor entrance wearing long pants
+and closed shoes (!), and after an hour of theory, we were immediately equipped
+with helmets and latex gloves.
+
+<pic images/sewer-tourists.ps Typical sewage tourists>
+
+San Francisco has what's called a "combined sewer system," which means it
+directs toilet flushes and other household wastewater together with rainwater
+that runs into the sewers through the same pipe to one of the city's three
+wastewater treatment plants.
+
+<pic images/sewer-flow.ps The wastewater smells quite terribly on its way to purification..>
+
+There, machines first filter out non-decomposable parts from the wastewater,
+and we were informed that so-called "flushable wipes," or wet toilet paper,
+contrary to what the packaging claims, do not decompose in the wastewater.
+Instead, they are fished out at the sewage treatment plant along with other
+solids by large rakes and stored in a landfill.
+
+TODO
+
+<pic images/sewer-collect.ps Eine Maschine fischt nicht verrottende Teile aus dem Abwasser heraus.>
+
+<HTMLONLY><pic images/sewer-buttons.ps Knöpfedrücken war leider nicht erlaubt.></HTMLONLY>
+
+Was übrig bleibt ist übel nach Exkrementen riechendes Brackwasser, dessen
+Klärschlammanteil sich langsam nach unten absetzt und dann dort entfernt
+und chemisch verdickt wird, bis er etwa die Konsistenz von heißem Asphalt 
+hat. Er findet anschließend als Düngemittel auf Feldern Einsatz, 
+auf denen keine Nahrung angebaut wird. Das Wasser wird dann von Mikroorganismen
+weiter gereinigt, mit Chlor desinfiziert und über eine Röhre, die etwa 
+50 Meter in die San Francisco Bay hineinragt, abgepumpt. Etwa 80% des 
+Abwassers von San Francisco gelangen so zurück in den Kreislauf, die
+restlichen 20% gehen nach einem ähnlichen Verfahren (aber ohne Chlor)
+in den pazifischen Ozean.
+
+<pic images/sewer-sludge.ps Dieser Klärschlamm wird chemisch verdickt und kommt auf die Müllhalde.>
+
+Amerikaner nennen Exkremente übrigens gerne vernied\-lichend "Poop" oder auch
+"Number Two" oder "#2". Letzeres, damit kleine Kinder Pipi- ("Number One") von
+Kakamachen ("Number Two") unterscheiden können. Der Slogan der Kläranlage war
+äußert schmissig und verkündete, dass die braune Schlotze aus der Kanalisation
+die erste Priorität der Stadtkläranlage sei, als, na? Richtig: "Your #2 is my
+#1", was tatsächlich auch auf den Aufklebern prangte, die die Arbeiter stolz am
+Helm trugen.
+
+<pic images/sewer-clean.ps Gereinigtes Abwasser, das zurück in die Bay kann.>
+
+Bei starkem Regen kann es besonders in den umliegenden Städten mit kleineren
+Anlagen wie in Pacifica passieren, dass die Kanalröhren und die zur Sicherheit
+zusätzlich eingebauten Auffangbehälter vollaufen, und dann ist keine Zeit mehr
+zum Reinigen der Schlotze, die geht dann ohne Umschweife direkt in den Pazifik.
+Das erklärt auch die Warnschilder, die immer nach starken Regenfällen am Strand
+auftauchen und das Schwimmen untersagen, ich habe mich schon gewundert, woher
+das kommt.  Sagen lassen sich die Surfer dort natürlich nichts, Warnschild hin
+oder her, gehen sie ins Wasser, die Wellen surfen sich ja bekanntlich nicht von
+selbst.
+
+@Z: Die neue Geschirrspülmaschine
+
+<pic images/dishwasher-ready.ps Unsere Küche ziert nun eine deutsche Spülmaschine.>
+
+<em>Michael</em> Neulich gab unsere alte Spülmaschine den Geist auf. In Amerika
+muss ja der Vermieter für Ersatz sorgen, falls ein Küchengerät kaputtgeht, aber
+da der uns ohne Zweifel wieder so ein brülllautes Billiggerät reingestellt
+hätte, bei dem man denkt, die Tür stünde offen und es völlig unmöglich ist,
+Gäste zu unterhalten oder auch nur fernzusehen während die Maschine läuft,
+haben wir was draufgelegt und uns eine leise schnurrende Bosch-Spülmaschine
+gekauft. Ihre Kundenbewertung auf Amazon war zwar nicht gerade berauschend,
+deutsche Erzeugnisse haben mittlerweile einen katastrophalen Ruf in Amerika
+(siehe auch: deutsche Autos, die hauptsächlich in der Werkstatt stehen), 
+aber was will man machen, die perfekte Lösung gibt's halt
+nicht, hoffen wir das Beste.
+
+<pic images/dishwasher-gap.ps Kurz vor dem Einbau.>
+
+Der neue Geschirrspüler wurde nur von zwei starken Männern, die kaum Englisch
+sprachen, angeliefert, und auf meinen Wunsch hin nicht von Fachpersonal
+eingebaut, denn selber einzubauen spart nicht nur Geld (um die $150 hätte das
+gekostet), sondern man lernt auch noch Dinge fürs Leben, wie ich zu meinem
+bassen Erstaunen herausfand. Zum Glück zeigen reihenweise Hobbyhandwerker auf
+Youtube, wie man das Stromkabel sowie die Zu- und Abwasserschläuche anschließt,
+also ist das kein Problem.
+
+<pic images/dishwasher-electric.ps (#1) Schraubklemmen verbinden die Stromkabel.>
+
+Weiter sind Spülmaschinen in Amerika meist nur mittels Schraub\-klemmen wie in
+Abbildung (#1) ans Strom\-netz ange\-schlos\-sen. 
+Oft kommt unter der Küchenzeile nur
+ein Kabel aus der Wand, und nachdem der Klempner die Spülmaschine in ihre
+Nische geschoben hat, schraubt er unten an der Maschine eine Metallblende ab,
+legt das mit tausend Warnungen versehene Elektrik-Kasterl frei, isoliert die
+Enden des Kabels aus der Wand ab, verzwirbelt die Litzen mit der der Maschine,
+und schraubt ein Hütchen drauf.  Wer da die Zugentlastung vergisst, erlebt
+unter Umständen ein blaues Wunder, wenn jemand später die Maschine wieder aus
+der Nische herauszieht und vergißt, das Kabel abzuklemmen. Die
+Bosch-Spülmaschine hingegen hatte ein ganz vornehmes Verputzkasterl, das man
+unter die Spüle schraubt, einen nicht mitgelieferten Netzstecker anschließt und
+in die nächste Steckdose steckt. Zum Glück hab ich Elektriker gelernt!
+
+<pic images/dishwasher-tray.ps Ein kleines Tablettchen fängt etwaige Tröpfchen vom Wasseranschluss auf.>
+
+Dann fiel mir auf, dass die neue Bosch-Spülmaschine gut 3 Zentimeter 
+kleiner war als das vorige amerikanische Modell, also baute ich eine für
+einen Dollar im Baumarkt erworbene und anschließend schwarz lackierte 
+Holzleiste in den Spalt ein. Später erfuhr ich, dass man jede Spülmaschine
+mittels Stellrädchen tatsächlich so hoch aufbocken kann, dass sie auch hohe 
+Küchenzeilen ausfüllt. Beim nächsten Mal bin ich schlauer!
+
+<pic images/dishwasher-height.ps Eine selbstgemachte Leiste verdeckt den Spalt.>
+
+Und der Abwasserschlauch muss nach dem gestrengen "Code" des amerikanischen
+Klempnerverbands aus der Maschine heraus erst hoch, über die Höhe des
+Syphons hinaus, geführt werden und anschließend wie in einem Springbrunnen
+durch einen Luftspalt nach unten purzeln. Dadurch kann bei Stauungen
+im Waschbecken oder bei durch Verstopfungen des Syphons kein Abwasser zurück 
+zur Frischwasserzufuhr des Geschirrspülers gelangen.
+Ob das tatsächlich so wichtig ist, dass
+man dafür extra einen Luftspalt einbaut, über den das Wasser aus dem
+Abwasserschlauch erst nach oben spritzt, und dann in einen Auffangbereich
+nach unten fällt, der es weiter ins Syphon oder den Abfallschnetzler
+(Garbage Disposer) leitet, weiß ich nicht, wahrscheinlich ist das so 
+eine Regelung von Anno Dunnemals, die der Joe Schmoe blind und 
+religiös befolgt, wie so oft in der amerikanischen Bürokratie.
+
+<pic images/air-gap-all.ps Die vom Klempnerverband vorgeschriebene Rückstausperre "Air Gap".>
+
+Wenn die Spülmaschine grobe Speisereste nämlich nicht kleinhäckselt, sondern
+einfach vom Teller spritzt und abpumpt, verstopfen diese Air Gaps nämlich nicht
+selten und der Nicht-Klempner kratzt sich am Kopf und wundert sich warum
+die Spülmaschine das Wasser nicht wieder abpumpt. Dass man die chromfarbene 
+Abdeckung der Air Gap einfach nach oben abziehen kann, und durch das
+Aufdrehen der darunter verborgenen Plastikkappe den Abflussschlauch freilegen
+und etwaige darin verfangene Speisereste einfach entfernen kann, darauf
+kommen die wenigsten.
+
+@Z: New York Times Zeitungs-Abo
+
+<pic images/kindle-nyt-title.ps Für schlappe 19.99 Dollar im Monat kommt die New York Times jeden Tag auf Angelikas Kindle.>
+
+<em>Angelika</em>
+Politische Themen interessieren mich ja sehr. Jeden Tag
+schaue ich mir die einstündige Nachrichtensendung "News Hour" auf dem
+öffentlichen Sender PBS an, meist auch noch "Charlie Rose" (<RBLINK>20161030#9</RBLINK>). Auch die wöchentliche Zeitschrift "New
+Yorker" lese ich und wichtige Artikel online in der "Süddeutschen Zeitung" und
+in der "Die Zeit". Es ist dabei höchst interessant, die Berichterstattung in
+den verschiedenen Publikationen zu vergleichen. Die renommierte "New York
+Times" darf in dieser Auflistung natürlich nicht fehlen. 
+
+Weil Zeitungen mit
+ihren Druckversionen kein Geld mehr machen, da jeder die Nachrichten jetzt über
+die Zeitungswebseiten liest, gehen immer mehr Zeitungen dazu über, für ihre
+Artikel im Internet Geld zu verlangen. Bei der "New York Times" gibt es zum
+Beispiel nur 10 kostenfreie Artikel im Monat. Der Leser kann das etwas
+strecken, wenn man die Seite der New York Times auf unterschiedlichen Geräten
+aufruft, also zum Beispiel auf dem Computer, auf dem Laptop und auf dem
+Telefon. Aber mir reichte das schon seit langem nicht mehr, denn ich lese für
+mein Leben gern die Kommentare der verschiedenen Journalisten auf der
+Meinungsseite der "New York Times". 
+
+<pic images/kindle-nyt-article.ps Eine Auswahl von Artikeln liest Angelika so jeden Tag.>
+
+Diese Artikel heißen hier übrigens "Op-Ed",
+weil sie sich traditionsgemäß auf der gegenüberliegenden Seite des Leitartikels
+befanden (Op-Ed: "opposite the editorial page"). 
+Auf jeden Fall schenkte mir Michael
+zum Hochzeitstag einen Kindle. Und als ich diesen in Betrieb nahm, gab es
+gleich noch eine Überraschung: Denn auf den Kindle war das
+New-York-Times-Abbonnement draufgeladen. Dabei gibt es nicht alle Artikel der
+"New York Times" in der täglichen Kindle-Version sondern eine Auswahl. Diese
+ist allerdings sehr umfangreich und im Preis inbegriffen ist der unbegrenzte
+Zugang zu den Aritkel auf der Webseite der "New York Times". Das Abo kostet
+übrigens $19.99 im Monat. Jeden Tag lese ich jetzt also fleißig die Artikel
+auf meinem Kindle und komme mir schon vor wie Gesine Cresspahl in dem Buch
+"Jahrestage" von Uwe Johnson.  Diese Protagonistin liest nämlich auch ständig
+in der "New York Times".
+
+@Z: Rauch über der Stadt
+
+<pic images/smoke-sf-downtown.ps San Francisco Downtown ist vollkommen eingeräuchert vom Rauch aus Napa.>
+
+<em>Angelika</em> Sonntag vor vier Wochen gegen halb zwölf nachts fing es in
+unserem Viertel auf einmal an zu riechen, als hätten alle ihre Kamine
+gleichzeitig angezündet.  Wir dachten echt, dass es entweder in der
+Nachbarschaft brennt oder in unserem Haus ein Feuer ausgebrochen wäre. Ich
+sorge mich eigentlich ständig, dass unser Haus einmal in Flammen aufgeht, denn
+in unserem Apartementkomplex wohnen ein paar Typen, die heftig Alkohol und
+Marihuana konsumieren und nicht immer ganz bei sich sind. Auch schleichen
+manchmal etwas merkwürdige Gestalten auf unserer Dach. Wir müssen also ständig
+auf der Hut sein, dass nichts passiert oder jemand auf die Idee kommt, ein
+Lagerfeuer auf unserem Dach zu entzünden. An dem besagten Sonntag machten wir
+also erst die Balkontüren auf, sahen aber nichts. Es wehte uns lediglich ein
+warmer starker Wind entgegen, was wiederum komisch war, denn der Wind hier ist
+nie warm.  Michael befragte also das Internet, ob es in San Francisco irgendwo
+brennt.  Seine Recherche ergab nichts. Dann stellte er die Frage auf dem
+Nachbarschaftsforum "Nextdoor", um herauszufinden, ob es auch anderenorts nach
+Rauch röche und innerhalb kürzester Zeit erhielt er trotz der späten Stunde 70
+Antworten: Nicht nur unser Viertel "Noe Valley" roch wie ein offener Kamin,
+sondern ganz San Francisco stank nach Feuer.
+ 
+Bald stellte sich heraus, dass es im anderthalb Autostunden entfernten
+Weingebiet in Napa, und den umliegenden Orten Sonoma, Calistoga und Santa Rosa
+lichterloh brannte. Feuer sind in Kalifornien im Herbst leider keine
+Seltenheit, denn nach Monaten ohne Regen ist die Vegetation staubtrocken und
+nur ein kleiner Funke kann sich schnell zu einem großem Flächenbrand
+entwickeln, vor allen Dingen wenn die Flammen durch den Wind angetrieben
+werden. Später stellten sich die Feuer im Norden Kaliforniens dieses Jahr als
+die schlimmsten in der Geschichte Kaliforniens heraus: über 40 Menschen starben
+und 8889 Gebäude brannten nieder, darunter auch viele bekannte Weingüter.
+Calistoga, das wir jedes Jahr an einem verlängerten Wochenende besuchen
+(<RBLINK>20060421#2</RBLINK>), war ebenfalls von den Flammen bedroht, konnte
+aber in letzter Minute gerettet werden. Das Haus einer meiner Kolleginnen, die
+in Santa Rosa wohnt, ging in Flammen auf. Sie konnte sich mit ihren vier
+Kindern in Sicherheit bringen, verlor aber sonst alles.
+
+<pic images/smoke-sf-noe.ps Selbst in unserem Viertel war von der Rauchwolke alles in gelbes Licht getaucht.>
+
+Die Luft in San Francisco war tagelang so
+schlecht wie in Peking; die Sonnenunergänge schön aber gespenstisch. Ich habe
+noch nie in meinem Leben solch eine knallrote Sonne gesehen. Leute liefen
+überall mit Mundschutz herum, wobei ich mir nicht sicher bin, ob das wirklich
+hilft. In der East Bay, wo ich des öfteren arbeitete, hatte ich sogar Asche auf
+dem Auto.
+ 
+<pic images/costco-masks.ps Damit sie ja kein Kohlenstäubchen einatmen, tragen diese Einkäufer Masken.>
+
+Wir haben ja schon seit langem Erdbebennotkisten unterm Bett
+(<RBLINK>20050925#9</RBLINK>) und eine Notfallstrickleiter, über die wir uns im
+Ernstfall abseilen können,  wenn es über das Treppenhaus nicht mehr geht. In
+diesen Kisten sind natürlich nur praktische Sachen und dann haben wir noch einen
+feuerfesten Safe mit Michaels externer Festplatte und unserem Testament.
+Unsere Pässe und Greencard sollten wir vielleicht noch dazu legen und meine
+Backups von meinem Computer, damit meine vielen Fotos, an denen ich so hänge,
+nicht verloren gehen. Aber was würden wir vermissen? Was wäre nicht ersetzbar?
+Was würden wir noch schnell einsammeln, wenn wir nur Minuten hätten, um die
+Wohung zu verlassen?
+
+<pic images/smoke-mask-bike.ps Dieser Fahrradfahrer schützt sich mit einer Maske vor den Rauchschwaden aus Napa.>
+
+Unsere Antworten erscheinen jetzt vielleicht etwas klischeehaft, denn Michael
+würde seine Werkzeugsammlung vermissen und ich meinen Schmuck. Die Gründe
+ähneln sich aber: Michael hat sein Werkzeug über Jahre angesammelt und sogar
+einmal auf einem Deutschlandbesuch Werkzeug im Traditionsgeschäft Kustermann am
+Viktualienmarkt gekauft. Und bei meinen Schmuckstücken geht es auch nicht um
+den relativ geringen materiellen Wert, aber um den ideellen. Ich kaufe oft
+Schmuck, wenn wir auf Reisen sind und Michael hat mir viele wunderschöne
+Schmuckstücke zu Geburtstagen, Hochzeitstagen und anderen Festtagen geschenkt.
+Und auch gute Freundinnen haben mir über die Jahre immer wieder Schmuck
+geschenkt. So erzählt jedes Schmuckstück und jedes Werkzeugteil eine
+Geschichte. 
+
+<pic images/napa-firefighters.ps Vor einem abgebrannten Hügel bei Napa steht jetzt ein Schild, mit einem Dankeschön an die Einsatzkräfte.>
+
+Experten, die sich mit Katastrophen auskennen, raten dann auch,
+nicht nur praktische Dinge in seine Notfallkisten und den Notfallrucksack zu
+packen, sondern auch eine Schachtel mit persönlichen Dingen, die unersetzbar
+sind, dazuzulegen. Ich finde das eine interessante Übung. Was würdet ihr in so
+eine Erinnerungsschachtel tun?
+
+Die Feuer werden noch lange Auswirkungen auf die ganze Bay Area haben. Vor
+allen Dingen die Wohnungsnot wird sich verschärfen. Schon vor den verheerenden
+Bränden gab es nur 1% freie Wohnungen/Häuser in Santa Rosa und im Weingebiet
+Napa.  In Santa Rosa sind aber mindestens 5% des Wohnraumbestands verbrannt.
+Selbst wenn die Häuserbesitzer sich dafür entscheiden, ihre Häuser wieder
+aufzubauen, brauchen die Evakuierten zunächst Wohnraum, bis die Häuser
+bezugsfertig sind.  Aber das kann dauern, denn Besitzer der verbrannten Häuser
+müssen sich nicht nur mit ihren Versicherungen herumschlagen, sondern auch
+sicherstellen, dass die Erde nicht mit Schadstoffen belastet ist.
+Die Asche ist also zunächst abzutragen.
+
+<pic images/sf-smoke-baybridge.ps Von der Bay Bridge aus sichtbarer Rauch am Horizont beim Sonnenuntergang.>
+
+Hinzu kommt, dass es nicht genug Bauarbeiter gibt. Ganz schlecht sind die dran,
+die ihre Mietwohnungen  durch die Feuer verloren haben, denn die gehören in der
+Regel nicht zu den Superverdienern und die Mieten, die bereits vorher extrem
+hoch waren, werden durch die Wohnungsknappheit weiter steigen. Schon jetzt
+geben die meisten in der Bay Area 30-50% ihrer Gehälter für die Miete aus,
+manche sogar mehr. Das kalifornische
+<LINK>https://oag.ca.gov/consumers/pricegougingduringdisasters|Strafgesetzbuch
+Abschnitt 396</LINK> unterbindet zwar Preistreiberei zwar nach Katastrophen
+(Preise dürfen nicht mehr als 10% erhöht werden), aber das nützt dem Mieter
+auch nichts, der seine noch erschwingliche Wohnung durch die Feuer verloren hat
+und sich auf den überhitzten Markt etwas Neues suchen muss. Viele befürchten
+nun, dass noch mehr Geringverdiener aus der Bay Area abwandern. Schon jetzt
+fehlen Lehrer, Köche, Tellerwäscher und andere Dienstleister in der
+Serviceindustrie. Ohne die geht es aber nicht.
+
+@Z: Topprodukt: Febreze Air Freshener
+
+<pic images/febreze.ps Gar nicht aufdringlich und umweltfreundlich in der Pumpflasche: der Bambusduft von Febreze.>
+
+<em>Michael</em> Ich bin ja sehr geruchsempfindlich, nichts versaut mir den Tag
+so wie billiges Parfüm oder Schweißgeruch, wenn mal wieder ein Kollege in der
+Arbeit noch nie etwas von Deodorant gehört hat. Am schlimmsten ist
+Essiggestank, Angelika macht manchmal Experimente daheim, um irgendwelche
+Materialien für ihren Gruppenunterricht mit Essig herzustellen, da krieg ich
+die Krise. Oder der Gestank von abgestandenem Essen, wenn Angelika mal wieder
+im Auto Mittag gegessen hat und ich am nächsten Tag damit fahre. Pfui!
+
+<pic images/tree-scent.ps Grauenhaft süßlicher Kunstgestank in Tannenbaumform.>
+
+Amerikaner sind ebenfalls geruchsempfindlich, aber zu einem Grad, der
+geradezu lachhaft ist. Die meisten können gerade noch Camembert essen,
+ohne in Ohnmacht zu fallen, Emmenthaler schaffen nur besonders mutige und
+richtige Stinker wie Limburger, Münsterkäse oder mal was französisches
+wie Époisses de Bourgogne rühren vielleicht noch 1% an, der Rest 
+schaltet tragbare Tischventilatoren ein, wenn das gute Stück auf den
+Tisch kommt.
+
+Bringt man sein Auto hier zur Waschanlage, putzen es fleißige Mexikaner auch
+von innen und spritzen auch gleich noch etwas "Air Freshener" hinein, was auf
+Deutsch angeblich "Lufterfrischer" heißt. In den Autos vieler
+Amerikaner baumelt auch ein christbaumähnliches Symbol am Rückspiegel, 
+das laufend künstlichen Gestank absondert, der ebenfalls Frische 
+vermitteln soll. Beliebte Duftnoten des Herstellers "Little Trees"
+sind allerlei Früchte wie "Grüner Apfel" oder "Kokosnuss". War nie so mein
+Fall.
+
+Aber neulich, als ich wieder mal Essensgestank aus dem Auto entfernen musste,
+fand ich im Target-Supermarkt eine Sprühflasche des Duftsprayspezialisten
+"Febreze", der auch Dufttüchlein für den Trockner herstellt. Das Produkt heißt
+"Febreze One" und versprüht einen Bambusduft mittels einer Pumpflasche, wie ich
+sie noch nie gesehen habe. Man betätigt einfach den Hebel ein paarmal und nach
+drei, vier Mal versprüht der gleiche Hebel dann den Duftnebel wie wenn Treibgas
+drinnen wär, was aber nicht der Fall ist. Nicht so doof wie andere
+Pumpflaschen, bei denen man wie ein Idiot oben reindrücken muss, damit ein
+lasches Spritzerl vorne rauskommt, sondern es geht wirklich wie von selbst und
+vorne haut's einen dermaßen mächtigen Nebel raus, dass man seinen Augen nicht
+traut. Wirklich ein Topp-Produkt. Der Duft ist unaufdringlich, er machte kurzen
+Prozess mit dem Essensgestank im Auto und ich konnte wieder entspannt Gas
+geben.
+
+@Z: Jährliche Krankenkassenwahl in der Firma
+
+<pic images/united-healthcare.ps Eine traditionelle Krankenkasse mit freier Arztwahl wie United Healthcare? >
+
+<em>Angelika</em>
+Trump und Konsorten hatten sich ja bemüht, Obamacare abzuschaffen, sind
+aber damit nicht durch\-ge\-kommen. Das war kürzlich ein Dauerbrenner 
+in den Nachrichten. Nicht so bekannt ist, dass die meisten 
+Arbeitnehmer in den USA ihre Krankenkasse nicht über Obamacare sondern
+immer noch durch den Arbeitgeber erhalten.
+
+Auch wir sind über Michaels Arbeitgeber krankenversichert. Ich könnte 
+auch über die Einrichtung, für die ich arbeitete, eine Krankenkasse erhalten, 
+bin aber statt dessen bei Michael mitversichert, da er bessere Konditionen 
+bekommt. Der Arbeitgeber wählt nämlich eine oder mehrere Krankenkassen aus
+und bietet sie dann den Angestellten an, die sie jedes Jahr neu im
+sogenannten "Open Enrollment" auswählen müssen.
+
+Große Firmen bieten in der Regel nicht nur verschiedene Krankenkassen an,
+sondern auch noch verschiedene "Pläne", also Verträge mit unterschiedlichen
+Leistungen. Michaels Arbeitgeber bietet zum Beispiel die Krankenkassen "United
+Healthcare" und "Kaiser" an. Wir wählen immer "United Healthcare" als unsere
+Kasse und können dann wiederum zwischen zwei verschiedenen Plänen auswählen.
+Meist geht es um die unterschiedliche Höhe der Praxisgebühr, die Höhe der
+Selbstbeteiligung, die freie Arztwahl und die Höhe der monatlichen Beiträge.
+Der Arbeitgeber beteiligt sich in der Regel an den monatlichen Beiträgen, aber
+es gibt keine festgeschriebenen Prozentsätze über Arbeitgeber- oder
+Arbeitnehmeranteil. Die Firma zahlt in der Regel einen wesentlichen höheren
+Prozentsatz der Beiträge als der Versicherte, aber bei meinem Arbeitgeber 
+wäre es deutlich weniger als bei Michaels.
+ 
+Jedes Jahr, in der Regel im Herbst, fordert die Firma die Angestellten dazu
+auf, die Versicherung neu festzulegen, dabei kann man die Krankenkasse wechseln
+oder einen anderen Plan wählen. Natürlich gilt das nur für die Krankenkassen
+und -pläne, die die Firma anbietet. Auch kann die Firma die Konditionen
+verändern, zum Beispiel kommt es häufig vor, dass die Beiträge steigen, die
+Selbstbeteiligung oder die Praxisgebühren sich verändern. Das Ganze nennt sich
+wie gesagt "Open Enrollment". Der Arbeitnehmer entscheidet sich im Herbst und
+die neuen Konditionen gelten dann ab dem 1. Januar.
+
+<pic images/kaiser.ps ... oder doch lieber die günstigere Sozialkasse Kaiser Permanente mit weniger Wahlmöglichkeiten?>
+
+Die meisten Firmen bieten
+noch andere Zuckerl für den Arbeitnehmer an, für die man sich in dieser Phase
+ebenfalls entscheiden kann. Bei Michael sind das zum Beispiel Zahnarzt- und
+Brillenkasse, die Möglichkeit, eine kostenlos angebotene Lebensversicherung
+durch Zahlung eines geringen Beitrags zu erhöhen oder eine Lebensversicherung
+für den Partner und die eigenen Kinder abzuschließen oder eine
+ebenfalls bereits angebotene Berufsunfähigkeitsversicherung aufzubessern.
+
+Auch bestimmt der Arbeitnehmer, ob und wieviel er in den sogenannten "Flexible
+Spending Account" (<RBLINK>20091104#10</RBLINK>) einzahlen will, der
+steuerfreie Einzahlung für vorraussichtlich anfallende Behandlungskosten
+gestattet. Die steuerfrei erlaubte Höchstsumme beträgt zur Zeit $2600. Wie
+gesagt, nicht jede Firma bietet so einen großzügigen Katalog von Leistungen an.
+Bei mir gäbe es im Vergleich nur Kranken- und Zahnarztversicherung und die
+Möglichkeit in den "Flexible Spending Account" einzuzahlen. Da staatliche
+Sozialleistungen in den USA begrenzt sind, versuchen Firmen, gute Leute nicht
+nur über vernünftige Gehälter an Land zu ziehen, sondern auch durch die
+angebotenen Zusatzleistungen.
+
+In vielen Gegenden, so auch im Silicon Valley, herrscht zur
+Zeit fast Vollbeschäftigung und dadurch ist es nicht immer einfach, Stellen
+mit qualifizierten Leuten zu besetzen. Neulich hörte ich im Radio, dass die
+ersten Firmen bei der Rückzahlung von Studentendarlehen
+helfen, um Leute zu kriegen und offene Stellen zu besetzen. Denn das
+Studieren kostet in den USA ja viel Geld und gerade Leute mit höheren
+Abschlüssen arbeiten nach abgeschlossenem Studium oft jahrelang einen
+riesigen Schuldenberg ab.
+
+Auf ähnliche Weise ist das Krankenkassensystem in den USA übrigens erst
+entstanden, nachdem Arbeitgeber ihren Angestellten eine Krankenkasse anbieten.
+Im Zweiten Weltkrieg ging die Angst vor der Inflation um und die amerikanische
+Regierung beschloss, Löhne und Gehälter einzufrieren. Das gefiel den
+Gewerkschaften gar nicht, sie drohten mit Streiks und auch den Arbeitgebern war
+das Gesetz ein Dorn im Auge, da sie dringend Arbeiter brauchten, aber keine
+höheren Gehälter anbieten konnten, um diese zu rekrutieren.  Daraufhin
+beschloss die amerikanische Regierung, dass eine vom Arbeitgeber angebotene
+Krankenkasse nicht als Gehaltszahlung anzusehen ist und somit von der
+Reglementierung ausgeschlossen war. Firmen boten dann eine Krankenkasse an, um
+ihre Firma attraktiver für Arbeitssuchenende zu machen.  1943 beschloss die
+amerikanische Steuerbehörde, dass vom Arbeitgeber angebotene
+Krankenkassenzuschüsse von der Steuer befreit sind und etablierte damit das
+heutige Krankenkassensystem der USA.
+
+Übrigens macht es gerade dieses System
+so schwierig, ein nationales Krankenkassensystem für die USA zu etablieren,
+denn Firmen haben diese Leistungen stets freiwillig angeboten mit wenig
+staatlichen Regulierungen. Unter Obamacare müssen Firmen mit einer bestimmten
+Anzahl von Mitarbeitern diesen jetzt zwingend eine Krankenkasse anbieten, 
+um Geldstrafen zu
+vermeiden, aber Obamacare steht immer noch auf wackeligen Füßen, wie ihr ja
+wisst. Doch es gibt wieder Hoffnung, dass die Bevölkerung jetzt doch Obamacare
+mehr schätzt. Auch für Obamacare kann man sich jedes Jahr im Herbst
+einschreiben und die ersten Zahlen sehen gut aus. Am 1. November startete die
+Einschreibphase für Obamacare und die Beitrittszahlen sind höher als im 
+letzten Jahr. Schon verrückt: Erst schimpfte ein großer Anteil der Bevölkerung
+über Obamacare und jetzt, wo man es ihnen wegnehmen will, merken viele auf
+einmal, dass es besser ist als sein Ruf.
+
+Grüße aus Smokeytown:
+
+Angelika \& Michael
