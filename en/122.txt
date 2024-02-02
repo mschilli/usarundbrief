@@ -123,7 +123,7 @@ disposer, I don't know. It's probably one of those old regulations that Joe
 Schmoe follows blindly and religiously, as is often the case in American
 bureaucracy.
 
-<pic images/air-gap-all.ps >
+<pic images/air-gap-all.ps The air gap, to prevent backflow, required by the plumber's union.>
 
 If the dishwasher does not shred the coarse food residues but simply sprays
 them off the plate and pumps them away, these air gaps often get clogged, and
