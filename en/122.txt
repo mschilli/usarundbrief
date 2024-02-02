@@ -60,60 +60,59 @@ rains, prohibiting swimming. I've always wondered where that came from. Of
 course, the surfers there don't take any notice of warning signs; come what
 may, they go into the water, as the waves don't surf themselves.
 
+@Z: The New Dishwasher
+
+<pic images/dishwasher-ready.ps Our kitchen now features a German made dishwasher.>
+
+<em>Michael</em>Recently our old washing machine gave up the ghost. In America,
+the landlord is responsible for providing replacement kitchen appliances if
+they break down, but since ours would have undoubtedly been replaced with
+another noisy, low quality appliance that makes you think the door's open and it's
+impossible to entertain guests or even watch TV while it's running, we decided
+to bite the bullet and buy a quiet Bosch dishwasher. Its customer reviews
+on Amazon weren't exactly mind-blowing, but German products have gone downhill
+in quality and nowadays have pretty bad
+reputation in America (just like German cars that often sit in repair shops), so
+what can you do? We were just hoping for the best.
+
+<pic images/dishwasher-gap.ps Just before the installation
+
+The new dishwasher was delivered by two strong men who hardly spoke English,
+and upon my request, it was not installed by professional personnel because I
+wanted to do it myself to save the $150 which it would have cost extra
+otherwise. Who would have thought I'd learn some things for life in the
+process!  Fortunately, there are plenty of hobby craftsmen on YouTube who show
+how to connect the power cable and the water supply pipes, so that part was
+pretty straightforward.
+
+<pic images/dishwasher-electric.ps (#1) Screw clamps hold the power cable.>
+
+In America, dishwashers are usually only connected to the power grid using
+screw clamps like in Figure (#1). In many residences, there is only a cable
+coming out of the wall under the sink, and after the plumber has pushed the
+dishwasher into its niche, he unscrews the metal cover at the bottom of the
+machine, frees up the electrical connector that is marked with numerous
+warnings, insulates the ends of the cable from the wall, twists the wires with
+those of the machine, and screws on caps. Those who forget to disconnect the
+power source may experience an unpleasant surprise when someone later removes
+the dishwasher from its niche and forgets to unclamp the cable beforehand. The
+Bosch dishwasher, however, had a very elegant outlet cover that is screwed
+under the kitchen sink, which requires a separate power cord and plug that you 
+have to buy yourself, and can then be plugged into any nearby socket.
+Fortunately, I learned electrical engineering back in the day!
+
+<pic images/dishwasher-tray.ps A small shelf captures any droplets from the water connection.>
+
+It suddenly occurred to me that the new Bosch vacuum cleaner was about 3
+centimeters smaller than the previous American model, so I fitted a wooden
+strip which I had bought for a dollar at a hardware store and then blackened
+with paint into the gap. Later on, I learned that every dishwasher model can
+indeed be raised using locking wheels to such an extent that it can also cope
+with high kitchen cabinets. Next time, I'll know!
+
+<pic images/dishwasher-height.ps A self-made wooden bar conceals the gap.>
+
 TODO
-
-@Z: Die neue Geschirrspülmaschine
-
-<pic images/dishwasher-ready.ps Unsere Küche ziert nun eine deutsche Spülmaschine.>
-
-<em>Michael</em> Neulich gab unsere alte Spülmaschine den Geist auf. In Amerika
-muss ja der Vermieter für Ersatz sorgen, falls ein Küchengerät kaputtgeht, aber
-da der uns ohne Zweifel wieder so ein brülllautes Billiggerät reingestellt
-hätte, bei dem man denkt, die Tür stünde offen und es völlig unmöglich ist,
-Gäste zu unterhalten oder auch nur fernzusehen während die Maschine läuft,
-haben wir was draufgelegt und uns eine leise schnurrende Bosch-Spülmaschine
-gekauft. Ihre Kundenbewertung auf Amazon war zwar nicht gerade berauschend,
-deutsche Erzeugnisse haben mittlerweile einen katastrophalen Ruf in Amerika
-(siehe auch: deutsche Autos, die hauptsächlich in der Werkstatt stehen), 
-aber was will man machen, die perfekte Lösung gibt's halt
-nicht, hoffen wir das Beste.
-
-<pic images/dishwasher-gap.ps Kurz vor dem Einbau.>
-
-Der neue Geschirrspüler wurde nur von zwei starken Männern, die kaum Englisch
-sprachen, angeliefert, und auf meinen Wunsch hin nicht von Fachpersonal
-eingebaut, denn selber einzubauen spart nicht nur Geld (um die $150 hätte das
-gekostet), sondern man lernt auch noch Dinge fürs Leben, wie ich zu meinem
-bassen Erstaunen herausfand. Zum Glück zeigen reihenweise Hobbyhandwerker auf
-Youtube, wie man das Stromkabel sowie die Zu- und Abwasserschläuche anschließt,
-also ist das kein Problem.
-
-<pic images/dishwasher-electric.ps (#1) Schraubklemmen verbinden die Stromkabel.>
-
-Weiter sind Spülmaschinen in Amerika meist nur mittels Schraub\-klemmen wie in
-Abbildung (#1) ans Strom\-netz ange\-schlos\-sen. 
-Oft kommt unter der Küchenzeile nur
-ein Kabel aus der Wand, und nachdem der Klempner die Spülmaschine in ihre
-Nische geschoben hat, schraubt er unten an der Maschine eine Metallblende ab,
-legt das mit tausend Warnungen versehene Elektrik-Kasterl frei, isoliert die
-Enden des Kabels aus der Wand ab, verzwirbelt die Litzen mit der der Maschine,
-und schraubt ein Hütchen drauf.  Wer da die Zugentlastung vergisst, erlebt
-unter Umständen ein blaues Wunder, wenn jemand später die Maschine wieder aus
-der Nische herauszieht und vergißt, das Kabel abzuklemmen. Die
-Bosch-Spülmaschine hingegen hatte ein ganz vornehmes Verputzkasterl, das man
-unter die Spüle schraubt, einen nicht mitgelieferten Netzstecker anschließt und
-in die nächste Steckdose steckt. Zum Glück hab ich Elektriker gelernt!
-
-<pic images/dishwasher-tray.ps Ein kleines Tablettchen fängt etwaige Tröpfchen vom Wasseranschluss auf.>
-
-Dann fiel mir auf, dass die neue Bosch-Spülmaschine gut 3 Zentimeter 
-kleiner war als das vorige amerikanische Modell, also baute ich eine für
-einen Dollar im Baumarkt erworbene und anschließend schwarz lackierte 
-Holzleiste in den Spalt ein. Später erfuhr ich, dass man jede Spülmaschine
-mittels Stellrädchen tatsächlich so hoch aufbocken kann, dass sie auch hohe 
-Küchenzeilen ausfüllt. Beim nächsten Mal bin ich schlauer!
-
-<pic images/dishwasher-height.ps Eine selbstgemachte Leiste verdeckt den Spalt.>
 
 Und der Abwasserschlauch muss nach dem gestrengen "Code" des amerikanischen
 Klempnerverbands aus der Maschine heraus erst hoch, über die Höhe des
