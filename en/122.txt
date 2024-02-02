@@ -2,7 +2,7 @@ San Francisco, 11-12-2017
 
 @Z: Inside San Francisco's Sewage System
 
-<pic images/sewer-tour.ps Vom fachkundigen Tourenführer erfahren Anwohner, wo ihr Abwasser hingeht.>
+<pic images/sewer-tour.ps Residents learn where their wastewater goes from the knowledgable guide.>
 
 <em>Michael</em> What happens after we flush the toilet? To find out, we booked
 a tour of the "San Francisco Public Utilities Commission Wastewater Treatment
@@ -26,44 +26,41 @@ contrary to what the packaging claims, do not decompose in the wastewater.
 Instead, they are fished out at the sewage treatment plant along with other
 solids by large rakes and stored in a landfill.
 
+<pic images/sewer-collect.ps A machine fishes out non-decomposable parts from the wastewater.>
+
+<HTMLONLY><pic images/sewer-buttons.ps Unfortunately, pressing buttons was not allowed.></HTMLONLY>
+
+What remains is foul-smelling brackish water redolent of excrement, whose
+sludge content slowly settles to the bottom, where it is then removed and
+chemically thickened until it has about the consistency of hot asphalt. It is
+subsequently used as fertilizer on fields where no food is grown. The water is
+then further purified by microorganisms, disinfected with chlorine, and pumped
+out through a pipe extending about 50 meters into the San Francisco Bay. About
+80% of San Francisco's wastewater is thus returned to the cycle, with the
+remaining 20% undergoing a similar process (but without chlorine) into the
+Pacific Ocean.
+
+<pic images/sewer-sludge.ps This sludge is chemically thickened and goes to the landfill.>
+
+Americans often affectionately refer to excrement as "Poop" or "Number Two" or
+"#2". The latter is used so that little kids can differentiate between pee
+("Number One") and poop ("Number Two"). The slogan of the sewage treatment
+plant was quite catchy, proclaiming that the brown sludge from the sewer is the
+city sewage plant's top priority, as, right? "Your #2 is our #1", which was
+actually emblazoned on stickers that workers proudly wore on their helmets.
+
+<pic images/sewer-clean.ps Purified wastewater that can go back into the Bay>
+
+During heavy rain, especially in surrounding cities with smaller facilities
+like Pacifica, it can happen that the sewer pipes and the additionally
+installed catch basins fill up, and then there's no time left to clean the
+sludge, which then goes directly into the Pacific Ocean without further ado.
+This also explains the warning signs that appear on the beach after heavy
+rains, prohibiting swimming. I've always wondered where that came from. Of
+course, the surfers there don't take any notice of warning signs; come what
+may, they go into the water, as the waves don't surf themselves.
+
 TODO
-
-<pic images/sewer-collect.ps Eine Maschine fischt nicht verrottende Teile aus dem Abwasser heraus.>
-
-<HTMLONLY><pic images/sewer-buttons.ps Knöpfedrücken war leider nicht erlaubt.></HTMLONLY>
-
-Was übrig bleibt ist übel nach Exkrementen riechendes Brackwasser, dessen
-Klärschlammanteil sich langsam nach unten absetzt und dann dort entfernt
-und chemisch verdickt wird, bis er etwa die Konsistenz von heißem Asphalt 
-hat. Er findet anschließend als Düngemittel auf Feldern Einsatz, 
-auf denen keine Nahrung angebaut wird. Das Wasser wird dann von Mikroorganismen
-weiter gereinigt, mit Chlor desinfiziert und über eine Röhre, die etwa 
-50 Meter in die San Francisco Bay hineinragt, abgepumpt. Etwa 80% des 
-Abwassers von San Francisco gelangen so zurück in den Kreislauf, die
-restlichen 20% gehen nach einem ähnlichen Verfahren (aber ohne Chlor)
-in den pazifischen Ozean.
-
-<pic images/sewer-sludge.ps Dieser Klärschlamm wird chemisch verdickt und kommt auf die Müllhalde.>
-
-Amerikaner nennen Exkremente übrigens gerne vernied\-lichend "Poop" oder auch
-"Number Two" oder "#2". Letzeres, damit kleine Kinder Pipi- ("Number One") von
-Kakamachen ("Number Two") unterscheiden können. Der Slogan der Kläranlage war
-äußert schmissig und verkündete, dass die braune Schlotze aus der Kanalisation
-die erste Priorität der Stadtkläranlage sei, als, na? Richtig: "Your #2 is my
-#1", was tatsächlich auch auf den Aufklebern prangte, die die Arbeiter stolz am
-Helm trugen.
-
-<pic images/sewer-clean.ps Gereinigtes Abwasser, das zurück in die Bay kann.>
-
-Bei starkem Regen kann es besonders in den umliegenden Städten mit kleineren
-Anlagen wie in Pacifica passieren, dass die Kanalröhren und die zur Sicherheit
-zusätzlich eingebauten Auffangbehälter vollaufen, und dann ist keine Zeit mehr
-zum Reinigen der Schlotze, die geht dann ohne Umschweife direkt in den Pazifik.
-Das erklärt auch die Warnschilder, die immer nach starken Regenfällen am Strand
-auftauchen und das Schwimmen untersagen, ich habe mich schon gewundert, woher
-das kommt.  Sagen lassen sich die Surfer dort natürlich nichts, Warnschild hin
-oder her, gehen sie ins Wasser, die Wellen surfen sich ja bekanntlich nicht von
-selbst.
 
 @Z: Die neue Geschirrspülmaschine
 
