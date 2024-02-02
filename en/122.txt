@@ -112,32 +112,28 @@ with high kitchen cabinets. Next time, I'll know!
 
 <pic images/dishwasher-height.ps A self-made wooden bar conceals the gap.>
 
+And the drain hose must first be led up from the machine, above the height of
+the siphon, according to the strict "Code" of the American Plumbing
+Association, and then, like in a fountain, tumble down through an air gap. This
+prevents backflow into the dishwasher's fresh water supply in case of blockages
+in the sink or siphon clogs. Whether it's actually that important to install an
+air gap, where the water from the drain hose first sprays upwards and then
+falls into a catch area that leads it further into the siphon or the garbage
+disposer, I don't know. It's probably one of those old regulations that Joe
+Schmoe follows blindly and religiously, as is often the case in American
+bureaucracy.
+
+<pic images/air-gap-all.ps >
+
+If the dishwasher does not shred the coarse food residues but simply sprays
+them off the plate and pumps them away, these air gaps often get clogged, and
+the hooby plumber scratches their head wondering why the dishwasher is not
+pumping the water out. The fact that you can simply pull off the chrome cover
+of the air gap and expose the drain hose by unscrewing the plastic cap hidden
+beneath it, to then easily remove any trapped food particles, is something that
+took me years to find out.
+
 TODO
-
-Und der Abwasserschlauch muss nach dem gestrengen "Code" des amerikanischen
-Klempnerverbands aus der Maschine heraus erst hoch, über die Höhe des
-Syphons hinaus, geführt werden und anschließend wie in einem Springbrunnen
-durch einen Luftspalt nach unten purzeln. Dadurch kann bei Stauungen
-im Waschbecken oder bei durch Verstopfungen des Syphons kein Abwasser zurück 
-zur Frischwasserzufuhr des Geschirrspülers gelangen.
-Ob das tatsächlich so wichtig ist, dass
-man dafür extra einen Luftspalt einbaut, über den das Wasser aus dem
-Abwasserschlauch erst nach oben spritzt, und dann in einen Auffangbereich
-nach unten fällt, der es weiter ins Syphon oder den Abfallschnetzler
-(Garbage Disposer) leitet, weiß ich nicht, wahrscheinlich ist das so 
-eine Regelung von Anno Dunnemals, die der Joe Schmoe blind und 
-religiös befolgt, wie so oft in der amerikanischen Bürokratie.
-
-<pic images/air-gap-all.ps Die vom Klempnerverband vorgeschriebene Rückstausperre "Air Gap".>
-
-Wenn die Spülmaschine grobe Speisereste nämlich nicht kleinhäckselt, sondern
-einfach vom Teller spritzt und abpumpt, verstopfen diese Air Gaps nämlich nicht
-selten und der Nicht-Klempner kratzt sich am Kopf und wundert sich warum
-die Spülmaschine das Wasser nicht wieder abpumpt. Dass man die chromfarbene 
-Abdeckung der Air Gap einfach nach oben abziehen kann, und durch das
-Aufdrehen der darunter verborgenen Plastikkappe den Abflussschlauch freilegen
-und etwaige darin verfangene Speisereste einfach entfernen kann, darauf
-kommen die wenigsten.
 
 @Z: New York Times Zeitungs-Abo
 
