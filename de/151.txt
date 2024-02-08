@@ -266,7 +266,9 @@ Und natürlich regten sich sogleich sogenannte Homeless-Advocates auf, die die
 Blumenkästen als <LINK>https://sfstandard.com/2023/09/21/san-francisco-planters-dubbed-hostile-architecture-what-locals-say|obdachlosenfeindliche Architektur</LINK>
 und die Blumensargaufsteller als herzlose Spießbürger anprangerten.
 Allerdings scheinen die Zelter fahrlässig mit ihren Feuerstellen umzugehen,
-denn es häufen sich Brände, die Bäume und anliegende Häuser anfackeln, zum Glück
+denn
+<LINK>https://sfstandard.com/2024/02/07/san-francisco-homeless-encampment-fires|es häufen sich Brände|Durch Obdachlose verursachte Brände</LINK>,
+die Bäume und anliegende Häuser anfackeln, zum Glück
 verfügt San Francisco über eine gut funktionierende Feuerwehr.
 
 <HTMLONLY>

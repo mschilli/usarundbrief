@@ -260,8 +260,9 @@ And, unsurprisingly, so-called homeless advocates immediately protested against 
 planters as being <LINK>https://sfstandard.com/2023/09/21/san-francisco-planters-dubbed-hostile-architecture-what-locals-say|Homeless-hostile architecture</LINK> and accused
 the vigilantes as heartless right wing goons. Oh well. What more concerning actually
 is that these campers seem to be handling their warming fires rather carelessly,
-and have set several trees and buildings on fire. Fortunately, San Francisco
-maintains a well trained fire department (SFFD).
+and
+<LINK>https://sfstandard.com/2024/02/07/san-francisco-homeless-encampment-fires|have set several trees and buildings on fire</LINK>.
+Fortunately, San Francisco maintains a well trained fire department (SFFD).
 
 <HTMLONLY>
 <pic images/fire-octavia.ps (#1) This construction site went up in flames by a homeless fire>
