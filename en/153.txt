@@ -1,0 +1,492 @@
+San Francisco, den 04-28-2024
+
+@Z: Hassle With the Health Insurance
+
+<pic images/hc-shock.ps The shock comes with the doctor's bill.>
+
+<em>Michael</em> Last summer, I had the dubious pleasure of having my meniscus,
+which I tore playing soccer, surgically repaired. In Figure (#1), you can see
+the total cost of this adventure. The hospital charged a whopping $43,696. However, our
+health insurance had a deal with the place, so we got a discount of $27,775.55,
+leaving $15,275.10, which the insurance actually paid. That means everything except
+for the so-called "Copay," a deductible of $645.35, was charged to me as the
+patient. What went on there?
+
+<pic images/hc-bill-total.ps (#1) Hospitals services are very expensive.>
+
+TODO
+
+Krankenkassen in Amerika bieten, entweder über den Arbeitgeber oder einer
+staatlichen Vermittlungsstelle wie <LINK>https://www.coveredca.com/|Covered California</LINK>
+verschiedene sogenannte "Pläne" an, also unterschiedlich
+teure Versicherungsverträge.  Meist zahlt der Versicherte eine monatliche
+Prämie, muss aber bei Arztrechnungen oft auch noch einen Eigenanteil
+beisteuern. Dieses sogenannte "Copay" beträgt bei uns zum Beispiel bei
+Arztbesuchen 30 Dollar, aber bei aufwändigeren Prozeduren im
+Krankenhausbesuchen schlappe 10% der Rechnung, bis zu einem jährlichen
+Höchstbetrag von 2.000 Dollar. Damit wollen die Krankenkassen die Patienten
+dazu motivieren, möglichst wenig zum Arzt zu gehen oder sonstige Kosten zu
+verursachen. Für Pläne mit weniger Selbstbeteiligung muss der Versicherte
+entsprechend höhere monatliche Prämien berappen.
+
+Bis die Höchstgrenze (im Beispiel 2.000 Dollar pro Jahr) erreicht ist, kostet
+den Versicherten jeder Arztbesuch wie gesagt 30 Dollar.  Bekommt der Arzt also
+zum Beispiel 400 Dollar von der Versicherung für einen 10-minütigen Besuch (in
+der Höhe nicht ungewöhnlich), weil das der zwischen Arzt und Versicherung
+ausgehandelte Satz ist, überweist die Versicherung dem Arzt später nur 370
+Dollar, die restlichen 30 muss der Arzt selber vom Patienten eintreiben. Das
+wird meist am Empfang geregelt, da zahlt der Patient den geschuldeten Betrag
+normalerweise mit Kreditkarte vorab, bevor überhaupt ein Arzt auf der
+Bildfläche erscheint. Manchmal vergessen die Angestellten allerdings, das Geld
+einzutreiben, und ein paar Wochen später flattert dem erfreuten Patienten eine
+Rechnung über 30 Dollar ins Haus, die er ebenfalls meist per Kreditkarte begleichen kann.
+
+<pic images/hc-pay.ps Beim Arzt zahlt der Patient sein Co-Payment erst einmal per Kreditkarte.>
+
+Bei meinem oben erwähnten Operationssaalbesuch letztes Jahr schätzten die
+Finanzmenschen dort rätselhafterweise die Kosten der Operation auf 9,000
+Dollar, und knöpften mir schon ein paar Tage vor dem Termin 10% davon ab, also
+900 Dollar, die ich per Kreditkarte zahlte, damit die Operation überhaupt
+stattfinden konnte. Allerdings waren in der Zwischenzeit bei der
+Krankenversicherung schon mehrere Rechnungen von diversen Dienstleistern
+eingegangen: der Röntgen-Fritze wollte Geld sehen, sowie der behandelnde
+Orthopäde, der nach einem ebenfalls teuren MRI zu einer Operation geraten
+hatte. Ruckzuck war der von mir zu entrichtende jährliche Höchstbetrag von
+2.000 Dollar fast erreicht gewesen. Hurra? So kommt es jedenfalls, dass ich
+trotz der höher als geschätzten Operationskosten (15.275,10 statt 9000 Dollar)
+nicht 900, sondern nur 645,35 Dollar hätte entrichten müssen. Schlappe 254.65
+Dollar zuviel gezahlt!
+
+Nun muss man sagen, dass viele Amerikaner sich gar nicht die Mühe machen
+würden, dies nachzurechnen, aber ich habe ja bekanntlich schon einmal bei Ebay
+angerufen, um mir 10 Cent zurückerstatten zu lassen, die diese Gauner mir
+zuviel abgezweigt hatten.  Ich rief also beim Krankenhaus an, wühlte mich durch
+tausend Menüpunkte und fragte, ob ich denn mein Geld zurück bekäme. Nein, sagte
+man mir, ich hätte noch Glück gehabt, weil die Versicherung einen günstigeren
+Betrag ausgehandelt hatte. Anscheinend hatte die Finanzperson am Telefon keinen
+Schimmer, denn meines Erachtens hatte meine Versicherung dem Krankenhaus den
+verlangten Betrag bis auf 645,35 Dollar exakt erstattet, und genau diesen
+Restbetrag war ich bereit, zuzuschießen, aber keinen Pfennig mehr.  Die
+Krankenhausdame riet mir, bei meiner Krankenversicherung anzurufen, um den Fall
+zu klären.
+
+<pic images/check-mailman.ps Der Erstattungsscheck kam mit der Post.>
+
+Ich tat wie geheißen. Da unsere Krankenversicherung noch über meinen alten
+Arbeitgeber läuft, sind die Angestellten dort unglaublich auf Zack, ganz
+anders, als man das normalerweise von Krankenversicherungen in Amerika kennt.
+Die Mitarbeiterin dort sah sofort das Problem und kontaktierte, noch während
+ich am Telefon wartete, das Krankenhaus. Anscheinend bekam die
+Billing-Abteilung dort nun einen Satz heißer Ohren verpasst, denn nach einigen
+Minuten erhielt ich die erfreuliche Nachricht, dass das Krankenhaus mir mein
+Geld natürlich umgehend zurückerstatten würde.
+
+Was lernen wir daraus? Nicht einmal die Abrechnungsabteilungen der
+Krankenhäuser können hierzulande korrekt abrechnen. Die meisten Patienten sind
+mit dem Regelwerk ebenfalls überfordert oder nicht willens, sich einzulesen,
+und lassen aus Unkenntnis ihr schwer verdientes Geld auf dem Tisch liegen. Die
+Service-Provider kalkulieren dies möglicherweise sogar mit ein und spielen
+Mäuschen, falls der Patient zuviel zahlt, während sie im umgekehrten Fall
+natürlich sofort alle Hebel in Bewegung setzen, um an den Zaster zu kommen.
+
+Also, wie immer in Amerika: Immer wieder anrufen, bis alles stimmt.
+Freundlich, aber bestimmt auftreten, nie schimpfen, sondern geduldig die
+Sachlage erklären und vielleicht auch etwas Humor einfließen lassen.
+Schließlich hängen am anderen Ende der Leitung auch nur Menschen, die einen
+öden Job machen und nach Unterhaltung lechzen.  Gleichzeitig schult man so
+kostenlos sein Englisch und sein Verhandlungsgeschick.
+
+Jedenfalls kam vier Wochen später einen Brief vom Krankenhaus per Schneckenpost
+ins Haus geflattert, mit einem Anschreiben, das trotzig behauptete, dass
+angeblich ein "Internal Audit" des Krankenhauses darauf gekommen sei, dass mir
+zuviel Geld abgezweigt worden war. Anbei lag ein Scheck über die von mir
+angemahnten 254.65 Dollar. Zufälle gibt's im Leben.
+
+@Z: Amazon-Schlamassel
+
+<pic images/amzn-malta.ps Aus Malta flattern seltsame Mahnungen von Amazon.de ins Haus.>
+
+<em>Angelika</em> Im November 2023 flatterten mir zwei dubiose Briefe von
+amazon.de ins Haus mit einem Poststempel aus Malta und einem Kopfbogen mit dem
+Logo von Amazon, das nicht einmal farbig war. Angeblich hatte ich etwas bei
+Amazon bestellt, aber die Lastschrift konnte nicht eingelöst werden und ich
+schuldete Amazon jetzt jeweils 101 Euro, die ich doch bitte umgehend and das
+Kreditinstitut HSBC Trinkhaus und Burkhardt überweisen sollte.
+
+Es war nicht aufgelistet, was ich eigentlich bestellt haben sollte. Auch war
+merkwürdig, dass ich gleich zwei Briefe mit der genau gleichen Forderung und
+dann noch an meine amerikanische Adresse erhielt. Heutzutage werden Betrüger ja
+immer ausgefuchster. Mittlerweile hat sich aber herumgesprochen, dass man nicht
+auf irgendwelche Zahlungsaufforderungen per E-Mail oder SMS reagieren soll. Und
+so dachte ich mir, dass das Ganze dann ja einmal eine ganz neue Masche ist, um
+Leute abzuzocken.
+
+Und da ich gar keinen deutschen Amazon Account sondern nur einen amerikanischen
+besitze, und es dort keine merkwürdigen Bestellungen gab, ignorierte ich die
+Sache zunächst einmal, weil Michael und ich glaubten, dass es sich um einen
+frechen Betrugsversuch handelte. Ich recherchierte zwar etwas im Internet und
+stellte fest, dass es anderen Kunden bei Amazon schon genauso ergangen war.
+Dabei gab es zwei Erklärungen für diese Briefe: Einmal die, dass die Briefe
+nicht echt waren. Als zweite, mehr besorgniserregende Variante wurde
+aufgeführt, dass jemand meine Daten benutzte, um damit in meinem Namen einen
+Account bei Amazon einzurichten, aber mit falschen Bankeinzugsdaten zum
+Beispiel. Mir ist zwar immer noch nicht ganz klar, wie das funktionieren soll,
+aber es sei hier einmal die Absurdität hervorgehoben, dass Amazon in
+Deutschland erlaubt, dass der Kunde sowohl per Rechnung einkaufen kann als auch
+per Bankeinzug und scheinbar wenig daran interessiert ist, die sich dadurch
+öffnende Betrugsmöglichkeiten zu schließen.
+
+<pic images/amzn-reminder.ps Amazon.de erinnert an eine nie erfolgte Bestellung.>
+
+Ihr ahnt es schon, die Geschichte geht noch weiter.  Im Februar kam dann per
+Post, wieder aus Malta, ein Brief vom Inkassobüro Riverty. Auch hier war nicht ersichtlich, ob es
+sich um eine sehr gute Fälschung handelte oder eine echte Forderung. Amazon
+arbeitet laut Internet tatsächlich mit diesem Inkassobüro zusammen. Bei
+Inkassofirmen hat man ja eh immer gleich den Eindruck, dass sie eigentlich ein
+Arm der Mafia sind. Auch der Brief strotzte nur so von Dingen, bei denen alle
+Alarmglocken bei mir losgingen, zum Beispiel die Aufforderung, dass ich ein
+SEPA-Einzugsmandat einrichten könnte und dann würde sich die Inkassofirma um
+alles kümmern, und ich hätte null Aufwand.
+
+Nun soll man ja auch nicht wahllos
+irgendwelche Telefonnummern, die auf solchen Briefen aufgelistet sind, anrufen,
+da die unter Umständen auch zu Betrügern verlinken.
+So dachte ich mir, dann nehme ich doch erst einmal Kontakt mit
+amazon.de auf und schaue, ob die mir weiterhelfen können, denn eine
+Internetbefragung ergab, dass man solche Briefe nicht völlig ignorieren soll
+wegen der Möglichkeit des Identitätsbetrugs.
+
+Gesagt, getan. Ich loggte mich also
+mit meinen amerikanischen Amazon-Account-Zugangsdaten auf der deutschen
+Amazonseite ein, und begann einen Chatverlauf, da ich gerne etwas
+schriftlich in der Hand haben wollte. Ich hatte mit dem amerikanischen
+Kundenservice von Amazon bis jetzt nur positive Erfahrungen gemacht, die sind
+auf zack und lösen Probleme immer umgehend. In meiner Naivität dachte ich, dass
+das bei Amazon Deutschland genauso wäre.
+
+<pic images/amzn-riverty.ps Das Inkasso-Unternehmen Riverty nimmt die Hatz auf.>
+
+Es kostete mich zunächst einmal drei
+Versuche, bis überhaupt einer kapiert hatte, was mein Problem war und bereit
+war, mir zu helfen. Zunächst war ich mir nicht einmal sicher, ob ich mit einer
+Machine sprach oder einem Menschen. Die erste Info, die ich bekam, war, dass
+ich die Mahnung wegen eines technischen Problems erhielt und die E-Mail
+ignorieren sollte.
+
+Halt, stopp, ihr aufmerksamen Leser habt es gemerkt. Ich
+hatte ja keine E-Mail erhalten sondern zwei Briefe mit der Post. Dann wurde mir versprochen,
+dass meine Anfrage an die entsprechende Abteilung weitergeleitet würde und ich
+sowohl eine Kopie dieser Anfrage erhalten würde und in 2-3 Stunden eine
+Rückmeldung erwarten könnte. Beides passierte nicht.
+
+Beim nächsten Versuch
+wurde mir lapidar mitgeteilt, dass ich schließlich ein sogenanntes Amazon-Kids-Abo nicht
+bezahlt hätte und deshalb die Mahnungen erhielt. Es versteht sich von selbst,
+dass ich der Dame mit dem Namen "Meri" vorher schon erklärt hatte, dass ich
+nichts bestellt hatte und gar keinen deutschen Amazon-Account habe. Als ich die Dame dann
+fragte, ob sie mir wenigstens sagen könnte, ob jemand in meinem Namen einen
+Account angelegt hätte, schrieb sie im Chat, dass sie mir das aus
+Datenschutzgründen nicht sagen könnte. Da kann man doch nur noch schreien.
+
+Auch
+versprach sie mir, mein Anliegen an die Sicherheitsabteilung weiterzuleiten, und die
+würden sich dann bei mir melden. Darauf warte ich immer noch. Beim dritten
+Versuch geriet ihn an den Bearbeiter Kirtiman Singh Rajavat und der machte endlich Nägel mit
+Köpfen. Er wies mich an, die Mahnungen und das Schreiben von der Inkassofirma an
+eine spezielle E-Mail-Adresse bei Amazon zu schicken, was ich dann tat. Nicht
+gerade vertrauenserweckend war, dass die Anforderung voller Fehler war, aber
+ich bekam dann eine Nachricht, dass erst einmal kein weiterer Handlungsbedarf
+mehr besteht von meiner Seite aus.
+
+Es wurde mir zwar wieder angekündigt, dass ich noch eine Rückmeldung erhalten
+würde, aber diese lässt bis heute auf sich warten.  Der Wahnsinn! Ich bin mir
+immer noch nicht sicher, ob die Sache jetzt abgeschlossen ist oder mir
+demnächst dann ein Brief von einem deutschen Gericht ins Haus flattert.
+Manchmal sehne ich mich sehr an die Zeiten zurück, wo man in richtigen Läden
+nur bar zahlen konnte. 
+	
+@Z: Anza-Borrego Desert
+
+<pic images/ab-drive.ps Schon die Anfahrt stimmt auf die Wüstenlandschaft ein>
+
+<em>Angelika</em> Wer wie ich an einer Schule arbeitet, kommt in den Genuss der
+vielen Ferien, und das ist ein echtes Luxusgut in den USA.  Und da Michael nun
+seit neustem freischaffender Programmierer und Surfer ist und deshalb zeitlich
+sehr flexibel, können wir meine Ferien zum gemeinsamen Reisen nutzen.
+
+Um Weihnachten hatte ich gleich mehr als zwei Wochen Ferien, und eine Woche davon fuhren
+wir runter in die Anza-Borrego-Wüste, die sich circa 85 Kilometer nordöstlich von San
+Diego befindet. Dort waren wir vor vielen, vielen Jahren schon einmal gewesen,
+und wir hatten uns schon lange vorgenommen, dort mal wieder hinzufahren.
+Wir packten unseren Honda Fit, von uns liebevoll Brummi genannt, voll
+und düsten runter in den Süden, mit einem Zwischenstopp in Santa Barbara. Dort
+waren wir auch schon ewig nicht mehr gewesen.
+
+<pic images/ab-sculptures.ps Verrostete Metallskulpturen mitten in der Wüste>
+
+Die "Anza-Borrego Desert" ist übrigens der größte State Park in Kalifornien.
+Touristen zieht es oft in die bekannteren Nationalparks wie zum Beispiel Joshua
+Tree in Südkalifornien, aber mir sind mittlerweile die State Parks fast
+lieber, weil sie meist nicht so überlaufen sind. State Parks sind
+Naturschutzgebiete, die von den einzelnen Bundesstaaten verwaltet und
+finanziert werden, wohingegen für Nationalparks die US-Regierung zuständig ist
+beziehungsweise der National Park Service, also eine Bundesbehörde. 
+
+<pic images/ab-bike.ps Angelika radelt auf der Landstraße durch die Wüste.>
+
+Bevor wir in die USA zogen, hatte ich eine etwas einseitige Vorstellung von
+Wüstenlandschaften, frei nach dem Motto: Dort ist es heiß, es gibt viel Sand,
+es regnet dort nie, und es wächst kaum etwas. Das stimmt natürlich so nicht
+ganz. Die Temperaturen sind natürlich schon brutal, vor allen Dingen in den
+Sommermonaten, aber die Pflanzenwelt ist reichhaltig und sehr faszinierend,
+weil es dort eben besonders robuste Pflanzen gibt, die der Trockenheit und den
+Witterungsbedingungen trotzen. Das gilt natürlich auch für die Tierwelt: In der
+Anza-Borrego-Wüste leben zum Beispiel Eidechsen, Berglöwen, Kojoten,
+Dickhornschafe.
+
+<pic images/desert-yard.ps Wohnhaus mitten in der Wüste.>
+
+Es stimmt zwar, dass es dort selten regnet, aber nichtsdestotrotz registrieren
+sie dort Niederschläge in den Wintermonaten, und zwar etwa 6 inches, also ca.
+150 Millimeter, pro Jahr. An unserem Abfahrtstag nieselte es zum Beispiel. Die
+Anza-Borrego Desert könnt ihr euch am besten als gebirgiges Gelände mit
+versteckten Schluchten, aber auch grandiosen Weiten vorstellen, ein Paradies
+für jeden Wanderer und Naturliebhaber. Was mich in der Wüste immer am meisten
+fasziniert ist, wie leise es dort ist. Ein Genuss für Städter wie uns. 
+
+<pic images/ab-apache.ps Beim AirBnB war ein Pferd mit dabei.>
+
+Wir mieteten uns ein klasse Airbnb in dem Ort "Borrego Springs". Das Häuschen
+war nicht nur super ausgestattet, sondern für kalifornische Verhältnisse äußert
+preisgünstig, dass ich schon erst dachte, da müsste ein Haken dran sein. Dem
+war aber nicht so. Hinterm Haus lebte zwar ein Pferd. Dieses mussten wir aber
+nicht mit versorgen. Aber Apache Tears, so war der Name des Pferdes, freute
+sich immer über ein paar Streicheleinheiten und etwas Aufmerksamkeit und trug
+zur unserer Urlaubsidylle in der Wüste bei. Auch Fahrräder hatte unsere
+Unterkunft zur freien Benutzung. Da Michael, durch seine Meniskusoperation
+bedingt, noch nicht jeden Tag eine Mammutwanderung machen konnte, aber radeln
+kein Problem war, freuten wir uns über dieses Transportmittel.
+
+<pic images/salton-sea-inn.ps Eine gute Wirtschaft mitten in der Wüste.>
+
+Die Wüstenlandschaft hatte sich trotz der dazwischen liegenden vielen Jahre
+unseres letzten Besuches erfreulicher nicht verändert, und wir waren von der
+Anza-Borrego-Wüste genauso begeistert wie beim ersten Mal. Borrego Springs war
+kulinarisch etwas besser aufgestellt. Was aber wirklich ins Auge stach, waren
+die riesigen Metallskulpturen, die sich überall in Borrego Springs geradezu surreal
+gegen den blauen Himmel absetzten. Die waren bei unserem ersten Besuch noch
+nicht da gewesen. Rostige Dinosaurier, Adler, Pferde sowie prähistorische Tiere und
+verteilten sich nun in der Wüstenlandschaft. 130 dieser Skulpturen gibt es. Wie
+kommen diese nun in die Wüste? Was steckt dahinter? Ricardo Breceda fertigt
+diese im Auftrag von Dennis Avery seit 2008 an. Dennis Avery war ein
+amerikanischer Philanthrop, dessen Vater die recht erfolgreiche Firma Avery
+aufgebaut hatte.
+
+<pic images/bs-desert-bike.ps Mit dem Radel durch endlose Weiten.>
+
+Die Marke "Avery" kennt in den USA jeder sowie in Deutschland "UHU".
+Avery entwickelte die ersten selbstklebenden Etiketten. Dennis Avery trat nun zwar
+nicht selbst in die Firma ein, verfügte aber als Erbe über einiges Geld. Da er lange
+mit seiner eigenen Familie in Borrego Springs gelebt hatte und die
+Wüstenlandschaft liebte und schützen wollte, erwarb er ziemlich viel Land dort.
+Dann traf er Ricardo Brecado und setzte mit ihm die Idee der Skulpturen in der
+Wüstenlandschaft um und stellte diese einfach auf sein privates Land, das aber
+für die Öffentlichkeit frei zugänglich ist.
+
+<pic images/bs-sculpture-photo.ps Angelika knipst ein Foto der Metallskulptur.>
+
+Nun kann man sich über den
+künstlerischen Wert dieser Metallskulpturen sicherlich streiten, aber Borrego
+Springs hat definitiv eine neue Touristenattraktion. Und wenn das Areal dadurch
+nicht mit Häusern vollgestellt wird, ist mir das recht. Dennis Avery starb
+übrigens schon im Jahr 2012 im Alter von 71 Jahren, aber die Skulpturen werden
+jetzt von einer Stiftung verwaltet. Wir klapperten die Skulpturen mit unsern
+Fahrrädern ab, da das Gebiet sehr weitläufig ist und kamen uns vor wie in einer
+Filmkulisse.
+
+@Z: Salton Sea
+
+<pic images/salton-sea.ps Salton Sea: Ein See mit zu hohem Salzgehalt.>
+
+<em>Angelika</em>
+Gleich um die Ecke von der Anza Borrego Desert befindet sich der "Salton Sea", ein
+übersalzter, praktisch toter See, hinter dem sich eine große Umweltkatastrophe
+verbirgt. Eine unwirkliche, faszinierende, aber auch etwas gruselige Landschaft
+mitten in der heißen Wüste. Eine Gegend, die glorreiche Zeiten mit großen
+Hollywoodkünstlern hinter sich hat, und heutzutage Lebenskünstler mit
+interessanten, aber oft auch traurigen Geschichten anzieht.
+
+Mich ziehen solche Gegenden ebenfalls magisch an, und so war klar, dass wir von
+unserem Domizil in Anza Borrego einen Ausflug nach "Salton Sea" machen würden.
+Was aber war mit dem See geschehen? Schon die Entstehungsgeschichte des Sees
+ist verrückt. Wie kommt ein so großer See in die kalifornische Wüste? Die
+Schlamperei eines Ingenieurs war Schuld.
+
+<pic images/salton-billboard.ps Einsames Reklameschild des einstigen Resorts>
+
+Nun müsst ihr zunächst wissen, dass ein ausgeklügeltes und mittlerweile auch
+sehr umstrittenes Kanalsystem, das den Colorado River anzapft, das Farmland im
+südkalifornischen Imperial und Riverside Valley bewässert. Ohne solche
+Wasserquellen würden kein Gemüse auf kalifornischen Feldern wachsen.  Einer
+dieser Kanäle, nämlich der Alamo-Kanal, setzte sich um 1900 mit Schlamm zu, und
+es gelang nicht, ihn wieder flott zu machen. Die Bauern brauchten aber
+dringend das Wasser und protestierten und bettelten bei der zuständige Firma, der
+"California Development Company", das Wasser wieder fließen zu lassen.
+
+Da die Firma eh kurz vor der Pleite stand, dachte sich ihr Ingenieur Charles
+Lockwood, nun ist auch schon alles egal und ich mach einfach einen Durchbruch
+an einer anderen Stelle am Colorado River und lass das Wasser ohne Schleusen
+und ungebremst über andere Kanäle zu den Höfen im Imperial Valley fließen. Das
+ging natürlich nicht lange gut, und als 1905 der Colorado River wegen starker
+Schneeschmelze einen hohen Wasserstand hatte, lief das Flusswasser bedingt
+durch die Überlastung des Kanalsystems und weiterer Durchbrüche einfach
+ungehindert zwei Jahre lang in die Salton-Senke und formte den See.
+
+<pic images/salton-pub.ps Im einzigen Pub des Ortes sitzt man schön unter freiem Himmel.>
+
+Dieser Zufluss wurde 1907 durch Reparaturarbeiten gestoppt. Nun hat
+der See jetzt aber keinen natürlichen Zu- und Abfluss mehr und wurde über Jahrzehnte
+durch landwirtschaftliches Abwasser erhalten. Allerdings führt dieses Abwasser
+viele Pestizide und andere Chemikalien mit sich, sodass der See jetzt praktisch
+völlig versalzen ist. Der Salzgehalt ist höher als der im pazifischen Ozean. Da
+der Wasserpegel im See durch verschiedene Umweltfaktoren wie zum Beispiel
+höhere Verdunstung durch höhere Temperaturen und weniger Abwassereinleitung
+immer weiter absinkt, steigt der Salzgehalt weiter an und auch Chemikalien
+werden freigesetzt, die sich über Jahrzehnte im Schlamm des Seebettes
+angesammelt haben. Die Luftqualität ist in dieser Gegend deshalb oft schlecht
+und Erkrankungen wie Asthma und auch Krebserkrankungen häufen sich, ganz zu
+Schweigen von Fisch- und Artensterben. Der Staat Kalifornien versucht schon
+seit Jahrzehnten eine Lösung zu finden, aber die zuständigen Behörden und
+Politiker können sich einmal wieder nicht darüber einigen, welcher Weg der
+richtige ist, und dann macht man lieber gar nichts.
+
+<pic images/salton-confessions.ps Eine Kunst-Skulptur am Strand>
+
+Verrückterweise war Salton Sea in den 50er und 60er Jahren, als der Salzgehalt
+des Sees noch nicht so hoch war, ein beliebtes Ausflugs- und Badeziel mit
+Resorts mit solch schillernden Namen wie Bombay Beach. Die Ausflügler kamen von
+Los Angeles und Palm Springs angereist und badeten in dem See und fuhren
+Motorboot und fischten sogar. Heutzutage eine etwas absurde Vorstellung.
+
+<pic images/salton-palm-stumps.ps Im Ort Salton Sea wohnen nur noch Lebenskünstler.>
+
+Heute wohnen in der Regel Lebenskünstler und Menschen am Salton See, die
+günstigen, bezahlbaren Wohnraum brauchen. Diese enthusiastischen Bewohner
+kämpfen dafür, dass der Landstrich nicht in Vergessenheit gerät. So gibt es
+jedes Jahr ein Kunstfestival in Bombay Beach mit vielen Kunstobjekten am
+Strand, die dann einfach stehen bleiben. Teile erinnern an alte Geisterstädte
+mit vielen verlassenen und eingefallenen Gebäuden. Ein Paradies für jeden
+Fotografen. Trotz der harschen und toxischen Umweltbedingungen leben dort viele
+Vögel wie zum Beispiel Schneegänse, die sich am See ansiedeln. Und auch eine
+nette Kneipe mit dem lustigen Namen "Ski Inn" mit super schönem Garten, in die
+wir einkehrten und leckere deftige Burger verzehrten.  An solchen Orten wie
+"Salton Sea" komme ich immer ins Philosophieren über das Leben im Allgemeinen
+und im Besonderen.
+
+@Z: Neue Stadtwanderseite: hikethiscity.com
+
+<pic images/htc-web.ps Die neue Webseite hikethiscity.com zeigt alle unsere Stadtwanderwege.>
+
+<em>Michael</em> Während der Covid-Lockdowns hatten wir es uns angewöhnt, jeden Tag eine
+Stunde spazieren zu gehen, und damals konnte man ja entweder die Stadt nicht
+verlassen oder hatte nur beschränkt Zeit, also begann ich, mit Hilfe von
+Websites wie Google Maps und Komoot.com, verzwickte Stadtwanderwege
+auszubaldowern. San Francisco bietet ja nicht nur die allgemein bekannten
+Attraktionen für Touristen, und auch wer schon 20 Jahre hier gelebt hat, kennt noch
+nicht jedes versteckte Treppchen, Stadtgebirge, Miniparks mit atemraubenden
+Ausblicken, ob in rustikalen Arbeiterwohngegenden oder mit Old Money gebauten
+Luxusvierteln.
+
+<pic images/htc-sub.ps Jedem Stadtwanderweg liegen Fotos und eine Karte bei.>
+
+Und so stellte ich eine Weile lang hinter verschlossenen Türen fast täglich
+neue Stadtrundwanderwege zusammen, die wir dann tatsächlich komplett
+abwanderten, aufzeichneten und bewerteten. Aus den allerbesten, die durch
+verwinkelte Gassen führten, die Autobahn auf Fußgängerbrücken kreuzten oder auf denen
+man schöne alte pompöse Villen bestaunen oder einfach einen erhöhten Rundblick
+über die ganze Stadt genießen konnte, baute ich ein sogenanntes
+Coffe-Table-Book namens
+<LINK>https://www.lulu.com/shop/mike-schilli/san-francisco-urban-hikes/hardcover/product-m2dqzr7.html|"San Francisco Urban Hikes"</LINK>
+zusammen, einen kiloschweren prächtigen Hochglanz-Fotoband mit Kartenmaterial
+für die Routen.
+
+<pic images/htc-komoot.ps Auf komoot.com lassen sich die aufgezeichneten Strecken abwandern.>
+
+Aber meine Produktionsmühle steht ja bekanntlich niemals still und so fiel es mir neulich
+ein, den gesammelten Schatz auf einen Schlag der Öffentlichkeit vor die Füße zu
+werfen und unter <LINK>https://hikethiscity.com|hikethiscity.com</LINK> ins Web zu stellen. Zack-bumm, schon
+stehen 57 der besten Wanderwege San Franciscos im Netz! Wenn ihr also mal in der
+Stadt seid, könnt ihr euch ein paar aussuchen und dann mit der kostenlosen
+Komoot-App, auf die die Wege auf der Webseite durchlinken, durchnavigieren. Ihr werdet staunen!
+
+<pic images/sfuh-cover.ps (#3) Der werte Erzähler auf einem unserer Stadtwanderwege.>
+
+Nun dürft ihr noch raten, wo das Titelbild in Abbildung (#3) geschossen wurde. 
+Offensichtlich in einer eher urbanen Gegend San Franciscos, mit einer Fußgängerbrücke
+über eine stark befahrenen Straße, aber mit einem weiten Ausblick auf die Stadtteile
+Bernal Heights und Portrero Hill. Da hat sich noch kein Tourist hinverirrt!
+
+@Z: Toppprodukt: Das flexible Kabelrückgrat
+
+<pic images/cable-vertebrae-high.ps Ist die Tischplatte oben, streckt sich das Rückgrat.>
+
+<em>Michael</em> Ich tippe ja noch immer viel am Computer herum, schreibe Artikel,
+mache Open-Source-Software, verfasse scharfzüngige Emails und Posts auf Social
+Media. Im hohen Alter habe ich jetzt auch noch den Stehschreibtisch für mich
+entdeckt. Beziehungsweise einen einstellbaren Tisch, der motorgetrieben nach
+oben oder unten fährt, je nachdem, ob ich bei der Arbeit gerade sitzen oder stehen will.
+
+<pic images/cable-vertebrae-low.ps Ist der Schreibtisch unten, windet es sich.>
+
+Das Problem bei dieser flexiblen Einstellung ist allerdings, dass die Kabel,
+die von der Steckdose zum Schreibtisch führen, für Monitor- und Rechnerstrom,
+Netzwerkkabel, USB-Anschluss zum Scanner undsoweiter, sich nun im
+runtergefahrenen Zustand des Schreibtischs recht lose auf dem Boden ringeln,
+aber sich am Stehschreibtisch straffen müssen.  Außerdem sollte man um den
+Schreibtisch herumgehen beziehungsweise mit dem Staubsauger schnell mal
+durchsaugen können, und bei meinem bisherigen Setup hatten sich mangels
+Kabelmanagement unter dem chaotischen Verhau schon dicke Staubmullen gebildet.
+Unschön!
+
+<pic images/cable-vertebrae-vacuum.ps Sogar der Staubsauger kann drunter durch.>
+
+Durch Zufall entdeckte ich auf Amazon diese "Vertebrae" (Rückgrat) genannten
+Kabelführungen, die, ähnlich wie eine Wirbelsäule, eine gebogene Form annehmen
+ohne zu knicken, wenn man sie staucht. Die Glieder sind wie Wirbel frei
+aneinander gehängt und erlauben die Rotation um eine Achse (nicht wie die
+Wirbelsäule in zwei Dimensionen!). Das reicht aber, damit bis zu einem halben
+Dutzend Kabel schön aufgeräumt innerhalb der Wirbel bleiben und bei Amazon
+gibt's das Produkt von mehreren Anbietern so um 35 Dollar. Ich hab's bei Ebay
+bei einem Chinesenversand für etwas mehr als 20 bekommen. Jeden Cent wert, so
+sauber war mein Arbeitszimmer noch nie, seit ich mit unserem ebenfalls
+brandneuen Dyson-Staubsauger durchflitze. Toppprodukt!
+
+@Z: Greta übertüncht
+
+<pic images/greta-1.ps Noch wacht Greta strengen Auges über das Tenderloin-Viertel.>
+
+<em>Michael</em>
+Was Klimakleber angeht, wisst ihr in Deutschland sicher
+besser Bescheid als wir hier in den USA, aber die Greta kennen wir natürlich auch.
+Deswegen musste ich doch sehr lachen, als ich vor etwa einem halben Jahr dieses
+Wandportrait von ihr, ein sogenanntes "Mural" mitten in der Stadt entdeckte, direkt
+um die Ecke von meinem Zahnarzt. Das Bild hatte irgendwas Gruseliges, wie
+eine Puppe, die im Regal sitzt und einen anstarrt.
+
+<pic images/greta-2.ps Im Januar 2024 wurde das Mural übermalt>
+
+Jetzt ist Greta aber in Ungnade gefallen wegen ihrer politischen Äußerungen,
+und neulich berichteten Passanten aus San Franciscos Innenstadt, dass das
+Gemälde, das meines Wissens auch nicht offiziell dort aufgepinselt worden war,
+nun breitflächig mit einem beigen Farbton übertüncht ist, ebenfalls anscheinend
+in einer von jugendlichen Rebellen durchgeführten Nacht- und Nebelaktion. Nun
+ja, mir soll's egal sein, ich fand's nur interessant, wie schnell die Fans
+heutzutage ihre Idole hochputschen und dann fallen lassen, nur weil sie
+irgendeinen Schmarrn daherreden. Mit zunehmendem Alter stelle ich auch fest,
+dass ich früher viel Schmarren geredet habe, aber mei, so ist das halt wenn man
+jung ist, Schmarren reden gehört zum Lernprozess! Zum Glück hat mich niemand
+gecancelt, sowas gab's damals nicht.
+
+Grüße aus Deutschlands Zukunft:
+
+Angelika und Michael
