@@ -257,99 +257,92 @@ them on his private land, which is open to the public.
 
 <pic images/bs-sculpture-photo.ps Angelika snaps a photo of the metal sculpture.>
 
-TODO
-
-Nun kann man sich über den
-künstlerischen Wert dieser Metallskulpturen sicherlich streiten, aber Borrego
-Springs hat definitiv eine neue Touristenattraktion. Und wenn das Areal dadurch
-nicht mit Häusern vollgestellt wird, ist mir das recht. Dennis Avery starb
-übrigens schon im Jahr 2012 im Alter von 71 Jahren, aber die Skulpturen werden
-jetzt von einer Stiftung verwaltet. Wir klapperten die Skulpturen mit unsern
-Fahrrädern ab, da das Gebiet sehr weitläufig ist und kamen uns vor wie in einer
-Filmkulisse.
+One can certainly debate the artistic value of these metal sculptures, but
+Borrego Springs has definitely gained a new tourist attraction. And if the area
+is kept free from being filled with houses because of it, I'm all for it. By
+the way, Dennis Avery passed away in 2012 at the age of 71, but the sculptures
+are now managed by a foundation. We toured the sculptures on our bicycles, as
+the area is quite expansive, and felt like we were on a movie set.
 
 @Z: Salton Sea
 
-<pic images/salton-sea.ps Salton Sea: Ein See mit zu hohem Salzgehalt.>
+<pic images/salton-sea.ps Salton Sea: Artificial lake with too much salt>
 
 <em>Angelika</em>
-Gleich um die Ecke von der Anza Borrego Desert befindet sich der "Salton Sea", ein
-übersalzter, praktisch toter See, hinter dem sich eine große Umweltkatastrophe
-verbirgt. Eine unwirkliche, faszinierende, aber auch etwas gruselige Landschaft
-mitten in der heißen Wüste. Eine Gegend, die glorreiche Zeiten mit großen
-Hollywoodkünstlern hinter sich hat, und heutzutage Lebenskünstler mit
-interessanten, aber oft auch traurigen Geschichten anzieht.
+Right around the corner from the Anza Borrego Desert is
+Salton Sea, an oversalted, practically dead lake, behind which tells the story of a major
+environmental disaster. It's an unreal, fascinating, but also somewhat eerie
+landscape in the middle of the hot desert. An area that once saw glorious times
+with major Hollywood artists visiting, and nowadays attracts bohemians with interesting,
+but often also tragic life stories.
 
-Mich ziehen solche Gegenden ebenfalls magisch an, und so war klar, dass wir von
-unserem Domizil in Anza Borrego einen Ausflug nach "Salton Sea" machen würden.
-Was aber war mit dem See geschehen? Schon die Entstehungsgeschichte des Sees
-ist verrückt. Wie kommt ein so großer See in die kalifornische Wüste? Die
-Schlamperei eines Ingenieurs war Schuld.
+Such areas also have a magical pull on me, so it was clear that we would make a
+trip to Salton Sea from our base in Anza Borrego. But now what happened to the lake?
+Even the lake's origin story is crazy. How does such a large lake
+end up in the California desert? It was due to an oversight by an engineer.
 
-<pic images/salton-billboard.ps Einsames Reklameschild des einstigen Resorts>
+<pic images/salton-billboard.ps Lonely billboard of the former resort>
 
-Nun müsst ihr zunächst wissen, dass ein ausgeklügeltes und mittlerweile auch
-sehr umstrittenes Kanalsystem, das den Colorado River anzapft, das Farmland im
-südkalifornischen Imperial und Riverside Valley bewässert. Ohne solche
-Wasserquellen würden kein Gemüse auf kalifornischen Feldern wachsen.  Einer
-dieser Kanäle, nämlich der Alamo-Kanal, setzte sich um 1900 mit Schlamm zu, und
-es gelang nicht, ihn wieder flott zu machen. Die Bauern brauchten aber
-dringend das Wasser und protestierten und bettelten bei der zuständige Firma, der
-"California Development Company", das Wasser wieder fließen zu lassen.
+First, you must know that a sophisticated and now very controversial canal
+system, which taps into the Colorado River, irrigates farmland in Southern
+California's Imperial and Riverside Valleys. Without such water sources, no
+vegetables would grow on Californian fields. One of these canals, namely the
+Alamo Canal, became clogged with mud around 1900, and it was not possible to
+clear it. The farmers urgently needed the water and protested and pleaded with
+the responsible company, the "California Development Company," to let the water
+flow again.
 
-Da die Firma eh kurz vor der Pleite stand, dachte sich ihr Ingenieur Charles
-Lockwood, nun ist auch schon alles egal und ich mach einfach einen Durchbruch
-an einer anderen Stelle am Colorado River und lass das Wasser ohne Schleusen
-und ungebremst über andere Kanäle zu den Höfen im Imperial Valley fließen. Das
-ging natürlich nicht lange gut, und als 1905 der Colorado River wegen starker
-Schneeschmelze einen hohen Wasserstand hatte, lief das Flusswasser bedingt
-durch die Überlastung des Kanalsystems und weiterer Durchbrüche einfach
-ungehindert zwei Jahre lang in die Salton-Senke und formte den See.
+Since the company was already on the verge of bankruptcy, their engineer
+Charles Lockwood must have thought, everything's lost anyway, so I might as well make a
+breakthrough at another location along the Colorado River and let the water flow
+uncontrolled by dams through different channels to the farms in the
+Imperial Valley. Naturally, this didn't go well for long, and in 1905, due to
+heavy snowmelt, the Colorado River had high water levels. Because of the
+overburdening of the canal system and further breaches, the river water flowed
+unhindered into the Salton Sink for two years, forming the lake.
 
-<pic images/salton-pub.ps Im einzigen Pub des Ortes sitzt man schön unter freiem Himmel.>
+<pic images/salton-pub.ps The only pub in the village offers nice seating under the open sky.>
 
-Dieser Zufluss wurde 1907 durch Reparaturarbeiten gestoppt. Nun hat
-der See jetzt aber keinen natürlichen Zu- und Abfluss mehr und wurde über Jahrzehnte
-durch landwirtschaftliches Abwasser erhalten. Allerdings führt dieses Abwasser
-viele Pestizide und andere Chemikalien mit sich, sodass der See jetzt praktisch
-völlig versalzen ist. Der Salzgehalt ist höher als der im pazifischen Ozean. Da
-der Wasserpegel im See durch verschiedene Umweltfaktoren wie zum Beispiel
-höhere Verdunstung durch höhere Temperaturen und weniger Abwassereinleitung
-immer weiter absinkt, steigt der Salzgehalt weiter an und auch Chemikalien
-werden freigesetzt, die sich über Jahrzehnte im Schlamm des Seebettes
-angesammelt haben. Die Luftqualität ist in dieser Gegend deshalb oft schlecht
-und Erkrankungen wie Asthma und auch Krebserkrankungen häufen sich, ganz zu
-Schweigen von Fisch- und Artensterben. Der Staat Kalifornien versucht schon
-seit Jahrzehnten eine Lösung zu finden, aber die zuständigen Behörden und
-Politiker können sich einmal wieder nicht darüber einigen, welcher Weg der
-richtige ist, und dann macht man lieber gar nichts.
+This inflow was stopped in 1907 by repair works. Now, however, the lake hasn't
+had any natural inflow or outflow and its level has been maintained for decades
+by agricultural wastewater. However, this wastewater carries pesticides and
+other chemicals, making the lake practically completely saline. Its salinity is
+higher than that of the Pacific Ocean! As the water level in the lake continues
+to drop due to various environmental factors such as higher evaporation due to
+rising temperatures and less wastewater inflow, the salinity continues to
+increase, and chemicals that have accumulated in the mud of the lake bed over
+decades are released. The air quality in this area is often poor, and diseases
+such as asthma and cancer are increasing, not to mention the death of fish and
+other species. The state of California has been trying to find a solution to
+the problem for decades, but the responsible authorities and politicians cannot
+agree on the right approach, and then they prefer to do nothing.
 
-<pic images/salton-confessions.ps Eine Kunst-Skulptur am Strand>
+<pic images/salton-confessions.ps An artistic sculpture on the beach>
 
-Verrückterweise war Salton Sea in den 50er und 60er Jahren, als der Salzgehalt
-des Sees noch nicht so hoch war, ein beliebtes Ausflugs- und Badeziel mit
-Resorts mit solch schillernden Namen wie Bombay Beach. Die Ausflügler kamen von
-Los Angeles und Palm Springs angereist und badeten in dem See und fuhren
-Motorboot und fischten sogar. Heutzutage eine etwas absurde Vorstellung.
+Strangely, in the 1950s and 60s, when the salinity of Salton Sea hadn't reached
+today's levels yet, it was a popular excursion and swimming destination, with
+resorts bearing such glamorous names as Bombay Beach. Day-trippers came from
+Los Angeles and Palm Springs, bathed in the lake, zipped around on motorboats,
+and even fished. Nowadays, that's a somewhat absurd notion.
 
-<pic images/salton-palm-stumps.ps Im Ort Salton Sea wohnen nur noch Lebenskünstler.>
+<pic images/salton-palm-stumps.ps Salton Sea today is home to artists and bohemians>
 
-Heute wohnen in der Regel Lebenskünstler und Menschen am Salton See, die
-günstigen, bezahlbaren Wohnraum brauchen. Diese enthusiastischen Bewohner
-kämpfen dafür, dass der Landstrich nicht in Vergessenheit gerät. So gibt es
-jedes Jahr ein Kunstfestival in Bombay Beach mit vielen Kunstobjekten am
-Strand, die dann einfach stehen bleiben. Teile erinnern an alte Geisterstädte
-mit vielen verlassenen und eingefallenen Gebäuden. Ein Paradies für jeden
-Fotografen. Trotz der harschen und toxischen Umweltbedingungen leben dort viele
-Vögel wie zum Beispiel Schneegänse, die sich am See ansiedeln. Und auch eine
-nette Kneipe mit dem lustigen Namen "Ski Inn" mit super schönem Garten, in die
-wir einkehrten und leckere deftige Burger verzehrten.  An solchen Orten wie
-"Salton Sea" komme ich immer ins Philosophieren über das Leben im Allgemeinen
-und im Besonderen.
+Today, the area around Salton Sea is generally inhabited by bohemians and people who need
+affordable, cheap housing. These enthusiastic residents fight to ensure that
+the area is not forgotten. There is an annual art festival in Bombay
+Beach with many art objects on the beach that then are simply kept there. Parts of
+the area resemble old ghost towns with many abandoned and collapsed buildings. It's a
+paradise for every photographer. Despite the harsh and toxic environmental
+conditions, many birds, such as snow geese, settle by the lake. And there's
+also a nice bar with the funny name 'Ski Inn' with a beautiful garden, where we
+stopped by and enjoyed delicious hearty burgers. At places like Salton Sea, I
+always find myself philosophizing about life in general and in particular.
 
-@Z: Neue Stadtwanderseite: hikethiscity.com
+@Z: New City Hiking Website: hikethiscity.com
 
-<pic images/htc-web.ps Die neue Webseite hikethiscity.com zeigt alle unsere Stadtwanderwege.>
+<pic images/htc-web.ps The new website hikethiscity.com shows all of our urban hikes.>
+
+TODO
 
 <em>Michael</em> Während der Covid-Lockdowns hatten wir es uns angewöhnt, jeden Tag eine
 Stunde spazieren zu gehen, und damals konnte man ja entweder die Stadt nicht
