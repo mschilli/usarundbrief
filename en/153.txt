@@ -383,67 +383,59 @@ tourist has wandered there yet!
 
 <pic images/cable-vertebrae-high.ps When the tabletop is up, the cable organizer stretches out.>
 
-<em>Michael</em>
+<em>Michael</em> I still type a lot on the computer, writing articles, creating
+open-source software, and sending sharp-tongued emails or posts on social media.
+In my later years, I have also discovered the standing desk for myself.
+Or, rather, an adjustable desk that moves up or down with a motor, depending
+on whether I want to sit down or stand up while working.
 
-TODO
+<pic images/cable-vertebrae-low.ps If the tabletop is down, the cable organizer curls up.>
 
-Ich tippe ja noch immer viel am Computer herum, schreibe Artikel,
-mache Open-Source-Software, verfasse scharfzüngige Emails und Posts auf Social
-Media. Im hohen Alter habe ich jetzt auch noch den Stehschreibtisch für mich
-entdeckt. Beziehungsweise einen einstellbaren Tisch, der motorgetrieben nach
-oben oder unten fährt, je nachdem, ob ich bei der Arbeit gerade sitzen oder stehen will.
+The problem with this flexible setting, however, is that the cables running
+from the power outlet to the desk, which include monitor and computer power,
+a network cable, USB connection to the scanner, and so on, tend to coil loosely
+on the floor when the desk is lowered, but need to tighten when the desk is
+raised for standing. Additionally, one should be able to walk around the desk
+or quickly vacuum under it, and with my previous setup, due to a lack of cable
+management, thick dust bunnies had already formed under the chaotic tangle of
+wires. Unacceptable!
 
-<pic images/cable-vertebrae-low.ps Ist der Schreibtisch unten, windet es sich.>
+<pic images/cable-vertebrae-vacuum.ps Even the vacuum cleaner runs underneath.>
 
-Das Problem bei dieser flexiblen Einstellung ist allerdings, dass die Kabel,
-die von der Steckdose zum Schreibtisch führen, für Monitor- und Rechnerstrom,
-Netzwerkkabel, USB-Anschluss zum Scanner undsoweiter, sich nun im
-runtergefahrenen Zustand des Schreibtischs recht lose auf dem Boden ringeln,
-aber sich am Stehschreibtisch straffen müssen.  Außerdem sollte man um den
-Schreibtisch herumgehen beziehungsweise mit dem Staubsauger schnell mal
-durchsaugen können, und bei meinem bisherigen Setup hatten sich mangels
-Kabelmanagement unter dem chaotischen Verhau schon dicke Staubmullen gebildet.
-Unschön!
+By chance, I discovered some newfangled cable guides on Amazon called "Vertebrae," which,
+similar to a spine, assume a curved shape without kinking when compressed. The
+links are freely attached to each other like vertebrae and allow rotation
+around a single axis (unlike the spine in two dimensions!). The size is sufficient for up
+to half a dozen cables to stay neatly within the vertebrae, and on Amazon,
+several vendors offer this product for around 35 dollars. I got it on eBay from
+a Chinese seller for just over 20 dollars. Worth every cent, as my study has
+never been this clean since I started whizzing around with our also brand new
+Dyson vacuum cleaner. Top product!
 
-<pic images/cable-vertebrae-vacuum.ps Sogar der Staubsauger kann drunter durch.>
+@Z: Whitewashing Greta
 
-Durch Zufall entdeckte ich auf Amazon diese "Vertebrae" (Rückgrat) genannten
-Kabelführungen, die, ähnlich wie eine Wirbelsäule, eine gebogene Form annehmen
-ohne zu knicken, wenn man sie staucht. Die Glieder sind wie Wirbel frei
-aneinander gehängt und erlauben die Rotation um eine Achse (nicht wie die
-Wirbelsäule in zwei Dimensionen!). Das reicht aber, damit bis zu einem halben
-Dutzend Kabel schön aufgeräumt innerhalb der Wirbel bleiben und bei Amazon
-gibt's das Produkt von mehreren Anbietern so um 35 Dollar. Ich hab's bei Ebay
-bei einem Chinesenversand für etwas mehr als 20 bekommen. Jeden Cent wert, so
-sauber war mein Arbeitszimmer noch nie, seit ich mit unserem ebenfalls
-brandneuen Dyson-Staubsauger durchflitze. Toppprodukt!
+<pic images/greta-1.ps Greta still watches over the Tenderloin district with a stern eye.>
 
-@Z: Greta übertüncht
+<em>Michael</em> As for glueing climate activists, you in Germany probably know
+better than we do here in the USA, but of course, we are also familiar with
+Greta. That's why I had to laugh when about six months ago, I discovered this
+wall portrait of her, a so-called 'mural' in the middle of the city, right
+around the corner from my dentist. The image had something eerie about it, like
+a doll sitting on a shelf staring at you.
 
-<pic images/greta-1.ps Noch wacht Greta strengen Auges über das Tenderloin-Viertel.>
+<pic images/greta-2.ps In January 2024 the mural was painted over.>
 
-<em>Michael</em>
-Was Klimakleber angeht, wisst ihr in Deutschland sicher
-besser Bescheid als wir hier in den USA, aber die Greta kennen wir natürlich auch.
-Deswegen musste ich doch sehr lachen, als ich vor etwa einem halben Jahr dieses
-Wandportrait von ihr, ein sogenanntes "Mural" mitten in der Stadt entdeckte, direkt
-um die Ecke von meinem Zahnarzt. Das Bild hatte irgendwas Gruseliges, wie
-eine Puppe, die im Regal sitzt und einen anstarrt.
+But now, Greta has fallen out of favor due to her political statements, and
+recently, passersby in downtown San Francisco reported that the painting,
+which, to my knowledge, had not been officially commissioned there, is now
+broadly covered with a beige hue, also apparently in a covert operation carried
+out by youthful rebels. Well, it doesn't matter to me, I just found it
+interesting how quickly fans nowadays hype up their idols and then drop them
+just because they said something controversial. As I get older, I also realize
+that I used to talk a lot of nonsense in my youth, but hey, that's just how it
+is when you're young, talking nonsense is part of the learning process!
+Luckily, no one canceled me, that wasn't a thing back then.
 
-<pic images/greta-2.ps Im Januar 2024 wurde das Mural übermalt>
-
-Jetzt ist Greta aber in Ungnade gefallen wegen ihrer politischen Äußerungen,
-und neulich berichteten Passanten aus San Franciscos Innenstadt, dass das
-Gemälde, das meines Wissens auch nicht offiziell dort aufgepinselt worden war,
-nun breitflächig mit einem beigen Farbton übertüncht ist, ebenfalls anscheinend
-in einer von jugendlichen Rebellen durchgeführten Nacht- und Nebelaktion. Nun
-ja, mir soll's egal sein, ich fand's nur interessant, wie schnell die Fans
-heutzutage ihre Idole hochputschen und dann fallen lassen, nur weil sie
-irgendeinen Schmarrn daherreden. Mit zunehmendem Alter stelle ich auch fest,
-dass ich früher viel Schmarren geredet habe, aber mei, so ist das halt wenn man
-jung ist, Schmarren reden gehört zum Lernprozess! Zum Glück hat mich niemand
-gecancelt, sowas gab's damals nicht.
-
-Grüße aus Deutschlands Zukunft:
+Greetings from Germany's future:
 
 Angelika und Michael
