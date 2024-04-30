@@ -94,110 +94,98 @@ coincidences.
 
 <pic images/amzn-malta.ps Letters from Malta with strange payment reminders from amazon.de>
 
+<em>Angelika</em>
+In November 2023, two dubious letters from amazon.de landed in our snail mail
+mailbox with a postmark from Malta and a letterhead with the Amazon logo, which
+wasn't even in color. Allegedly, I had ordered something from Amazon, but the
+direct debit could not be processed, and I now supposedly owed Amazon 101 euros each,
+which I was requested to promptly transfer to the banking institution HSBC
+Trinkhaus and Burkhardt.
+
+Neither letter said precisely what I had allegedly ordered. Also, it was
+strange that I had received two separate letters with the exact same demand,
+both sent to my American address. Sadly, nowadays, scammers are becoming
+increasingly cunning. By now, it's well-known that one should not respond to
+any payment requests via email or SMS. So, I suspected that this must be a new
+snail mail scheme to scam people.
+
+And since I don't have a German Amazon account but only an American one, and
+there were no strange orders there, Michael and I initially ignored the letters,
+believing it to be a bold attempt at fraud. I did some research on the internet
+and found that other Amazon customers had experienced the same thing. There
+were two explanations for these letters: first, that the letters were not
+genuine. The second, more concerning explanation suggested that someone was
+using my data to set up an account in my name on Amazon, but with incorrect
+banking details. It's still not entirely clear to me how this could
+be exploited, but let me highlight the absurdity that Amazon in Germany allows
+customers to shop both by invoice and direct debit, and seems little interested
+in closing the fraud opportunities that this opens up.
+
+<pic images/amzn-reminder.ps Amazon.de reminds me of an order that never took place.>
+
+You guessed it, the story continues. In February, again via a grey envelope sent
+from the tiny country of Malta, a letter arrived from the debt collection
+agency Riverty.  Here, too, it wasn't clear whether it was a very good forgery
+or a legitimate claim. According to the internet, Amazon actually does work
+with this collection agency. With debt collection firms, you always get the
+impression that they are essentially an arm of the Mafia. The letter was also
+full of red flags, such as the suggestion that I could set up a SEPA direct
+debit mandate and then the collection agency would take care of everything, and
+I would have no hassle.
+
+Now, I know that you shouldn't randomly call any phone numbers listed on such
+letters, as they might also link to scammers. So I thought, first I would
+contact amazon.de to see if they could help, because an internet inquiry
+revealed that such letters should not be completely ignored due to the
+possibility of identity theft.
+
+So, I logged in with my American Amazon account credentials on
+the German Amazon site and started a chat because I wanted to have something in
+writing. I had only had positive experiences with Amazon's American customer
+service up to that point; they are sharp and always solve problems immediately.
+Naively, I thought that Amazon Germany applied similar standards.
+
+<pic images/amzn-riverty.ps The debt collection company Riverty starts the chase.>
+
+It initially took me three attempts before anyone understood what my problem
+was and was willing to help me. At first, I wasn't even sure if I was speaking
+to a machine or a person. The first piece of information I received was that I
+had received the reminder due to a technical problem and should ignore the
+email.
+
+Wait, stop, you attentive readers noticed it. I hadn't received an email, but
+two letters by mail! Then I was promised that my inquiry would be forwarded to
+the appropriate department and that I would receive a copy of this inquiry and
+could expect a response in 2-3 hours. Neither one happened.
+
+On the next attempt, I was simply told that I had not paid for a so-called
+Amazon Kids subscription and that was why I received the reminders. It goes
+without saying that I had already explained to the lady named 'Meri' that I had
+not ordered anything and did not have a German Amazon account. When I asked her
+if she could at least tell me if someone had created an account in my name, she
+wrote in the chat that she could not tell me that for data protection reasons.
+That's just scream-worthy.
+
+She also promised to forward my concern to the security department, and that they
+would then contact me. I'm still waiting for that. On the third attempt, I
+spoke with the agent Kirtiman Singh Rajavat, and he finally took decisive
+action. He instructed me to send the reminders and the letter from the debt
+collection agency to a special email address at Amazon, which I did. It was not
+exactly confidence-inspiring that the request was full of typos, but I then
+received a message that no further action was required on my part for the time
+being.
+
+Although I was again told that I would receive further feedback, I am still
+waiting for it to this day. Madness! I am still not sure if the matter is now
+closed or if I will soon receive a letter from a German court. Sometimes I
+really long for the days when you could simply pay in cash for merchandize
+in real stores.
+
+@Z: Anza Borrego Desert
+
+<pic images/ab-drive.ps The approach already sets the mood for the desert landscape.>
+
 TODO
-
-<em>Angelika</em> Im November 2023 flatterten mir zwei dubiose Briefe von
-amazon.de ins Haus mit einem Poststempel aus Malta und einem Kopfbogen mit dem
-Logo von Amazon, das nicht einmal farbig war. Angeblich hatte ich etwas bei
-Amazon bestellt, aber die Lastschrift konnte nicht eingelöst werden und ich
-schuldete Amazon jetzt jeweils 101 Euro, die ich doch bitte umgehend and das
-Kreditinstitut HSBC Trinkhaus und Burkhardt überweisen sollte.
-
-Es war nicht aufgelistet, was ich eigentlich bestellt haben sollte. Auch war
-merkwürdig, dass ich gleich zwei Briefe mit der genau gleichen Forderung und
-dann noch an meine amerikanische Adresse erhielt. Heutzutage werden Betrüger ja
-immer ausgefuchster. Mittlerweile hat sich aber herumgesprochen, dass man nicht
-auf irgendwelche Zahlungsaufforderungen per E-Mail oder SMS reagieren soll. Und
-so dachte ich mir, dass das Ganze dann ja einmal eine ganz neue Masche ist, um
-Leute abzuzocken.
-
-Und da ich gar keinen deutschen Amazon Account sondern nur einen amerikanischen
-besitze, und es dort keine merkwürdigen Bestellungen gab, ignorierte ich die
-Sache zunächst einmal, weil Michael und ich glaubten, dass es sich um einen
-frechen Betrugsversuch handelte. Ich recherchierte zwar etwas im Internet und
-stellte fest, dass es anderen Kunden bei Amazon schon genauso ergangen war.
-Dabei gab es zwei Erklärungen für diese Briefe: Einmal die, dass die Briefe
-nicht echt waren. Als zweite, mehr besorgniserregende Variante wurde
-aufgeführt, dass jemand meine Daten benutzte, um damit in meinem Namen einen
-Account bei Amazon einzurichten, aber mit falschen Bankeinzugsdaten zum
-Beispiel. Mir ist zwar immer noch nicht ganz klar, wie das funktionieren soll,
-aber es sei hier einmal die Absurdität hervorgehoben, dass Amazon in
-Deutschland erlaubt, dass der Kunde sowohl per Rechnung einkaufen kann als auch
-per Bankeinzug und scheinbar wenig daran interessiert ist, die sich dadurch
-öffnende Betrugsmöglichkeiten zu schließen.
-
-<pic images/amzn-reminder.ps Amazon.de erinnert an eine nie erfolgte Bestellung.>
-
-Ihr ahnt es schon, die Geschichte geht noch weiter.  Im Februar kam dann per
-Post, wieder aus Malta, ein Brief vom Inkassobüro Riverty. Auch hier war nicht ersichtlich, ob es
-sich um eine sehr gute Fälschung handelte oder eine echte Forderung. Amazon
-arbeitet laut Internet tatsächlich mit diesem Inkassobüro zusammen. Bei
-Inkassofirmen hat man ja eh immer gleich den Eindruck, dass sie eigentlich ein
-Arm der Mafia sind. Auch der Brief strotzte nur so von Dingen, bei denen alle
-Alarmglocken bei mir losgingen, zum Beispiel die Aufforderung, dass ich ein
-SEPA-Einzugsmandat einrichten könnte und dann würde sich die Inkassofirma um
-alles kümmern, und ich hätte null Aufwand.
-
-Nun soll man ja auch nicht wahllos
-irgendwelche Telefonnummern, die auf solchen Briefen aufgelistet sind, anrufen,
-da die unter Umständen auch zu Betrügern verlinken.
-So dachte ich mir, dann nehme ich doch erst einmal Kontakt mit
-amazon.de auf und schaue, ob die mir weiterhelfen können, denn eine
-Internetbefragung ergab, dass man solche Briefe nicht völlig ignorieren soll
-wegen der Möglichkeit des Identitätsbetrugs.
-
-Gesagt, getan. Ich loggte mich also
-mit meinen amerikanischen Amazon-Account-Zugangsdaten auf der deutschen
-Amazonseite ein, und begann einen Chatverlauf, da ich gerne etwas
-schriftlich in der Hand haben wollte. Ich hatte mit dem amerikanischen
-Kundenservice von Amazon bis jetzt nur positive Erfahrungen gemacht, die sind
-auf zack und lösen Probleme immer umgehend. In meiner Naivität dachte ich, dass
-das bei Amazon Deutschland genauso wäre.
-
-<pic images/amzn-riverty.ps Das Inkasso-Unternehmen Riverty nimmt die Hatz auf.>
-
-Es kostete mich zunächst einmal drei
-Versuche, bis überhaupt einer kapiert hatte, was mein Problem war und bereit
-war, mir zu helfen. Zunächst war ich mir nicht einmal sicher, ob ich mit einer
-Machine sprach oder einem Menschen. Die erste Info, die ich bekam, war, dass
-ich die Mahnung wegen eines technischen Problems erhielt und die E-Mail
-ignorieren sollte.
-
-Halt, stopp, ihr aufmerksamen Leser habt es gemerkt. Ich
-hatte ja keine E-Mail erhalten sondern zwei Briefe mit der Post. Dann wurde mir versprochen,
-dass meine Anfrage an die entsprechende Abteilung weitergeleitet würde und ich
-sowohl eine Kopie dieser Anfrage erhalten würde und in 2-3 Stunden eine
-Rückmeldung erwarten könnte. Beides passierte nicht.
-
-Beim nächsten Versuch
-wurde mir lapidar mitgeteilt, dass ich schließlich ein sogenanntes Amazon-Kids-Abo nicht
-bezahlt hätte und deshalb die Mahnungen erhielt. Es versteht sich von selbst,
-dass ich der Dame mit dem Namen "Meri" vorher schon erklärt hatte, dass ich
-nichts bestellt hatte und gar keinen deutschen Amazon-Account habe. Als ich die Dame dann
-fragte, ob sie mir wenigstens sagen könnte, ob jemand in meinem Namen einen
-Account angelegt hätte, schrieb sie im Chat, dass sie mir das aus
-Datenschutzgründen nicht sagen könnte. Da kann man doch nur noch schreien.
-
-Auch
-versprach sie mir, mein Anliegen an die Sicherheitsabteilung weiterzuleiten, und die
-würden sich dann bei mir melden. Darauf warte ich immer noch. Beim dritten
-Versuch geriet ihn an den Bearbeiter Kirtiman Singh Rajavat und der machte endlich Nägel mit
-Köpfen. Er wies mich an, die Mahnungen und das Schreiben von der Inkassofirma an
-eine spezielle E-Mail-Adresse bei Amazon zu schicken, was ich dann tat. Nicht
-gerade vertrauenserweckend war, dass die Anforderung voller Fehler war, aber
-ich bekam dann eine Nachricht, dass erst einmal kein weiterer Handlungsbedarf
-mehr besteht von meiner Seite aus.
-
-Es wurde mir zwar wieder angekündigt, dass ich noch eine Rückmeldung erhalten
-würde, aber diese lässt bis heute auf sich warten.  Der Wahnsinn! Ich bin mir
-immer noch nicht sicher, ob die Sache jetzt abgeschlossen ist oder mir
-demnächst dann ein Brief von einem deutschen Gericht ins Haus flattert.
-Manchmal sehne ich mich sehr an die Zeiten zurück, wo man in richtigen Läden
-nur bar zahlen konnte. 
-	
-@Z: Anza-Borrego Desert
-
-<pic images/ab-drive.ps Schon die Anfahrt stimmt auf die Wüstenlandschaft ein>
 
 <em>Angelika</em> Wer wie ich an einer Schule arbeitet, kommt in den Genuss der
 vielen Ferien, und das ist ein echtes Luxusgut in den USA.  Und da Michael nun
