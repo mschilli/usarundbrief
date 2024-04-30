@@ -14,48 +14,44 @@ patient. What went on there?
 
 <pic images/hc-bill-total.ps (#1) Hospitals services are very expensive.>
 
+Health insurance companies in America offer, either through an employer or a government agency like
+<LINK>https://www.coveredca.com/|Covered California</LINK>
+various so-called "plans," which are insurance contracts at different costs.
+Typically, the insured pays a monthly premium but often must also chip in a
+co-payment for medical bills. For example, our co-payment is $30 for doctor
+visits, but for more extensive procedures during hospital visits, it's a hefty
+10% of the bill, up to an annual maximum of $2,000. This is intended to
+motivate patients to minimize visits to the doctor or other costs. For plans
+with lower deductibles, the insured must pay correspondingly higher monthly
+premiums.
+
+Under our plan, until we reach the yearly maximum (in the example, $2,000 per
+year), each doctor visit costs us $30. So, if the insurance company agrees to
+pay the doctor $400 for a 10-minute visit (which is not unusual as health costs
+are out of control), because that's the negotiated rate between the doctor and
+the insurance company, the insurance later transfers only $370 to the doctor.
+The remaining $30 must be collected by the doctor from the patient. This is
+usually handled at the reception desk, where the patient typically pays the owed
+amount by credit card in advance, before even seeing a doctor. However,
+sometimes the staff forgets to collect the copay, and a few weeks later, the
+delighted patient receives a bill for $30 by mail, which they can also usually
+pay by credit card.
+
+<pic images/hc-pay.ps At the doctor's office, the patient initially pays their co-payment by credit card.>
+
+During my aforementioned operating room visit last year, the hospital's finance people
+mysteriously estimated the cost of the surgery at $9,000, and a few days
+before the appointment, they charged me 10% of that amount, or $900, which I paid
+by credit card, to give the go-ahead for the surgery. However, in the meantime,
+several charges from various other service providers had been filed with the
+insurance: the radiologist wanted money, as well as the treating orthopedist
+who had recommended surgery after an also expensive MRI. Quickly, my annual
+maximum amount of $2,000 had been reached. Hooray?
+That's why, later, despite the higher-than-estimated surgery costs ($15,275.10 instead
+of $9,000), the insurance calculated by co-pay not as $900, but only as $645.35.
+Wait a minute, so did I overpay the hospital by $254.65?
+
 TODO
-
-Krankenkassen in Amerika bieten, entweder über den Arbeitgeber oder einer
-staatlichen Vermittlungsstelle wie <LINK>https://www.coveredca.com/|Covered California</LINK>
-verschiedene sogenannte "Pläne" an, also unterschiedlich
-teure Versicherungsverträge.  Meist zahlt der Versicherte eine monatliche
-Prämie, muss aber bei Arztrechnungen oft auch noch einen Eigenanteil
-beisteuern. Dieses sogenannte "Copay" beträgt bei uns zum Beispiel bei
-Arztbesuchen 30 Dollar, aber bei aufwändigeren Prozeduren im
-Krankenhausbesuchen schlappe 10% der Rechnung, bis zu einem jährlichen
-Höchstbetrag von 2.000 Dollar. Damit wollen die Krankenkassen die Patienten
-dazu motivieren, möglichst wenig zum Arzt zu gehen oder sonstige Kosten zu
-verursachen. Für Pläne mit weniger Selbstbeteiligung muss der Versicherte
-entsprechend höhere monatliche Prämien berappen.
-
-Bis die Höchstgrenze (im Beispiel 2.000 Dollar pro Jahr) erreicht ist, kostet
-den Versicherten jeder Arztbesuch wie gesagt 30 Dollar.  Bekommt der Arzt also
-zum Beispiel 400 Dollar von der Versicherung für einen 10-minütigen Besuch (in
-der Höhe nicht ungewöhnlich), weil das der zwischen Arzt und Versicherung
-ausgehandelte Satz ist, überweist die Versicherung dem Arzt später nur 370
-Dollar, die restlichen 30 muss der Arzt selber vom Patienten eintreiben. Das
-wird meist am Empfang geregelt, da zahlt der Patient den geschuldeten Betrag
-normalerweise mit Kreditkarte vorab, bevor überhaupt ein Arzt auf der
-Bildfläche erscheint. Manchmal vergessen die Angestellten allerdings, das Geld
-einzutreiben, und ein paar Wochen später flattert dem erfreuten Patienten eine
-Rechnung über 30 Dollar ins Haus, die er ebenfalls meist per Kreditkarte begleichen kann.
-
-<pic images/hc-pay.ps Beim Arzt zahlt der Patient sein Co-Payment erst einmal per Kreditkarte.>
-
-Bei meinem oben erwähnten Operationssaalbesuch letztes Jahr schätzten die
-Finanzmenschen dort rätselhafterweise die Kosten der Operation auf 9,000
-Dollar, und knöpften mir schon ein paar Tage vor dem Termin 10% davon ab, also
-900 Dollar, die ich per Kreditkarte zahlte, damit die Operation überhaupt
-stattfinden konnte. Allerdings waren in der Zwischenzeit bei der
-Krankenversicherung schon mehrere Rechnungen von diversen Dienstleistern
-eingegangen: der Röntgen-Fritze wollte Geld sehen, sowie der behandelnde
-Orthopäde, der nach einem ebenfalls teuren MRI zu einer Operation geraten
-hatte. Ruckzuck war der von mir zu entrichtende jährliche Höchstbetrag von
-2.000 Dollar fast erreicht gewesen. Hurra? So kommt es jedenfalls, dass ich
-trotz der höher als geschätzten Operationskosten (15.275,10 statt 9000 Dollar)
-nicht 900, sondern nur 645,35 Dollar hätte entrichten müssen. Schlappe 254.65
-Dollar zuviel gezahlt!
 
 Nun muss man sagen, dass viele Amerikaner sich gar nicht die Mühe machen
 würden, dies nachzurechnen, aber ich habe ja bekanntlich schon einmal bei Ebay
