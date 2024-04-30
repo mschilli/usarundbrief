@@ -185,44 +185,32 @@ in real stores.
 
 <pic images/ab-drive.ps The approach already sets the mood for the desert landscape.>
 
-TODO
+<em>Angelika</em> Anyone who works at a school like I do enjoys the benefit of
+generously alotted vacation time, which is a real luxury in the USA. And now that Michael has
+recently become a freelance programmer and surfer, and is therefore very
+flexible with his time, we can use my vacations for traveling together.
 
-<em>Angelika</em> Wer wie ich an einer Schule arbeitet, kommt in den Genuss der
-vielen Ferien, und das ist ein echtes Luxusgut in den USA.  Und da Michael nun
-seit neustem freischaffender Programmierer und Surfer ist und deshalb zeitlich
-sehr flexibel, können wir meine Ferien zum gemeinsamen Reisen nutzen.
-
-Um Weihnachten hatte ich gleich mehr als zwei Wochen Ferien, und eine Woche davon fuhren
-wir runter in die Anza-Borrego-Wüste, die sich circa 85 Kilometer nordöstlich von San
-Diego befindet. Dort waren wir vor vielen, vielen Jahren schon einmal gewesen,
-und wir hatten uns schon lange vorgenommen, dort mal wieder hinzufahren.
-Wir packten unseren Honda Fit, von uns liebevoll Brummi genannt, voll
-und düsten runter in den Süden, mit einem Zwischenstopp in Santa Barbara. Dort
-waren wir auch schon ewig nicht mehr gewesen.
-
-<pic images/ab-sculptures.ps Verrostete Metallskulpturen mitten in der Wüste>
-
-Die "Anza-Borrego Desert" ist übrigens der größte State Park in Kalifornien.
-Touristen zieht es oft in die bekannteren Nationalparks wie zum Beispiel Joshua
-Tree in Südkalifornien, aber mir sind mittlerweile die State Parks fast
-lieber, weil sie meist nicht so überlaufen sind. State Parks sind
-Naturschutzgebiete, die von den einzelnen Bundesstaaten verwaltet und
-finanziert werden, wohingegen für Nationalparks die US-Regierung zuständig ist
-beziehungsweise der National Park Service, also eine Bundesbehörde. 
+Around Christmas, I had more than two weeks off, and we spent one of those
+weeks driving down to the Anza-Borrego Desert, which is located about 85
+kilometers northeast of San Diego. We had been there many, many years ago, and
+had long intended to return. We packed our Honda Fit, affectionately called
+Brummi, and zoomed down south, making a stop in Santa Barbara, where we also hadn't
+been in ages.
 
 <pic images/ab-bike.ps Angelika radelt auf der Landstraße durch die Wüste.>
 
-Bevor wir in die USA zogen, hatte ich eine etwas einseitige Vorstellung von
-Wüstenlandschaften, frei nach dem Motto: Dort ist es heiß, es gibt viel Sand,
-es regnet dort nie, und es wächst kaum etwas. Das stimmt natürlich so nicht
-ganz. Die Temperaturen sind natürlich schon brutal, vor allen Dingen in den
-Sommermonaten, aber die Pflanzenwelt ist reichhaltig und sehr faszinierend,
-weil es dort eben besonders robuste Pflanzen gibt, die der Trockenheit und den
-Witterungsbedingungen trotzen. Das gilt natürlich auch für die Tierwelt: In der
-Anza-Borrego-Wüste leben zum Beispiel Eidechsen, Berglöwen, Kojoten,
-Dickhornschafe.
+Before we moved to the USA many years ago, I had a somewhat one-sided view of
+desert landscapes, thinking: It's hot, there's a lot of sand, it never rains,
+and hardly anything grows. Of course, that's not entirely true. The
+temperatures are indeed brutal, especially in the summer months, but the plant
+life is rich and very fascinating because it consists of particularly robust
+plants that withstand the dryness and weather conditions. The same is true for
+wildlife: In the Anza Borrego Desert, for example, there are lizards,
+mountain lions, coyotes, and bighorn sheep.
 
-<pic images/desert-yard.ps Wohnhaus mitten in der Wüste.>
+<pic images/desert-yard.ps Residential house in the middle of the desert.>
+
+TODO
 
 Es stimmt zwar, dass es dort selten regnet, aber nichtsdestotrotz registrieren
 sie dort Niederschläge in den Wintermonaten, und zwar etwa 6 inches, also ca.
