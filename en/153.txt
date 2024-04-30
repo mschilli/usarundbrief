@@ -379,13 +379,15 @@ more urban area of San Francisco, with a pedestrian bridge over a busy street,
 but with a wide view of the Bernal Heights and Potrero Hill neighborhoods. No
 tourist has wandered there yet!
 
+@Z: Top Product: The Flexible Cable Organizer
+
+<pic images/cable-vertebrae-high.ps When the tabletop is up, the cable organizer stretches out.>
+
+<em>Michael</em>
+
 TODO
 
-@Z: Toppprodukt: Das flexible Kabelrückgrat
-
-<pic images/cable-vertebrae-high.ps Ist die Tischplatte oben, streckt sich das Rückgrat.>
-
-<em>Michael</em> Ich tippe ja noch immer viel am Computer herum, schreibe Artikel,
+Ich tippe ja noch immer viel am Computer herum, schreibe Artikel,
 mache Open-Source-Software, verfasse scharfzüngige Emails und Posts auf Social
 Media. Im hohen Alter habe ich jetzt auch noch den Stehschreibtisch für mich
 entdeckt. Beziehungsweise einen einstellbaren Tisch, der motorgetrieben nach
