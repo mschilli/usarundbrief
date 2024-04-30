@@ -48,8 +48,8 @@ insurance: the radiologist wanted money, as well as the treating orthopedist
 who had recommended surgery after an also expensive MRI. Quickly, my annual
 maximum amount of $2,000 had been reached. Hooray?
 That's why, later, despite the higher-than-estimated surgery costs ($15,275.10 instead
-of $9,000), the insurance calculated by co-pay not as $900, but only as $645.35.
-Wait a minute, so did I overpay the hospital by $254.65?
+of $9,000), the insurance calculated my co-pay not as $900, but only as $645.35.
+Wait a minute, so had I overpaid the hospital by $254.65?
 
 Now, it must be said that many Americans wouldn’t bother to check this, but you might have heard
 that I once called eBay to get a refund of 10 cents that those crooks had
