@@ -342,46 +342,44 @@ always find myself philosophizing about life in general and in particular.
 
 <pic images/htc-web.ps The new website hikethiscity.com shows all of our urban hikes.>
 
+<em>Michael</em> During the Covid lockdowns, we got into the habit of going for
+a walk every day, and at that time you either couldn't leave the city or had to
+quickly get a walk in before sunset, so I began to scope out intricate city hiking trails using
+websites like Google Maps and Komoot.com. San Francisco offers not only the
+well-known attractions for tourists, and even someone who has lived here for 20
+years may not know every hidden staircase, urban hill, or mini-parks with
+breathtaking views, whether in rustic working-class neighborhoods or luxury
+districts built with old money.
+
+<pic images/htc-sub.ps Each urban hiking trail comes with photos and a map.>
+
+And so, for a while, I put together new city hiking trails almost daily behind
+closed doors in stealth mode, which we then actually hiked, recorded, and
+reviewed. From the very best, which led through winding alleys, crossed the
+freeway on pedestrian bridges, or where you could admire beautiful old grand
+villas or simply enjoy an elevated panoramic view over the entire city, I
+created a coffee table book titled
+<LINK>https://www.lulu.com/shop/mike-schilli/san-francisco-urban-hikes/hardcover/product-m2dqzr7.html|"San Francisco Urban Hikes"</LINK>,
+a heavy, splendid glossy photo volume with maps for the routes.
+
+<pic images/htc-komoot.ps On komoot.com or the Kommot app you can navigate the trails.>
+
+But as you know, my production mill never stops, so recently it occurred to me
+to throw the accumulated treasure all at once at the public’s feet by putting
+it out on the web at <LINK>https://hikethiscity.com|hikethiscity.com</LINK>.
+And just like that, 57 of the best hiking trails
+in San Francisco are now online! So if you’re ever in the city, you can pick a
+few trails and navigate through them with the free Komoot app, which the detail pages on the
+website link to. You’ll be amazed!
+
+<pic images/sfuh-cover.ps (#3) Your humble narrator on one of the urban hikes.>
+
+Now you can guess where the cover photo in Figure (#3) was taken. Clearly in a
+more urban area of San Francisco, with a pedestrian bridge over a busy street,
+but with a wide view of the Bernal Heights and Potrero Hill neighborhoods. No
+tourist has wandered there yet!
+
 TODO
-
-<em>Michael</em> Während der Covid-Lockdowns hatten wir es uns angewöhnt, jeden Tag eine
-Stunde spazieren zu gehen, und damals konnte man ja entweder die Stadt nicht
-verlassen oder hatte nur beschränkt Zeit, also begann ich, mit Hilfe von
-Websites wie Google Maps und Komoot.com, verzwickte Stadtwanderwege
-auszubaldowern. San Francisco bietet ja nicht nur die allgemein bekannten
-Attraktionen für Touristen, und auch wer schon 20 Jahre hier gelebt hat, kennt noch
-nicht jedes versteckte Treppchen, Stadtgebirge, Miniparks mit atemraubenden
-Ausblicken, ob in rustikalen Arbeiterwohngegenden oder mit Old Money gebauten
-Luxusvierteln.
-
-<pic images/htc-sub.ps Jedem Stadtwanderweg liegen Fotos und eine Karte bei.>
-
-Und so stellte ich eine Weile lang hinter verschlossenen Türen fast täglich
-neue Stadtrundwanderwege zusammen, die wir dann tatsächlich komplett
-abwanderten, aufzeichneten und bewerteten. Aus den allerbesten, die durch
-verwinkelte Gassen führten, die Autobahn auf Fußgängerbrücken kreuzten oder auf denen
-man schöne alte pompöse Villen bestaunen oder einfach einen erhöhten Rundblick
-über die ganze Stadt genießen konnte, baute ich ein sogenanntes
-Coffe-Table-Book namens
-<LINK>https://www.lulu.com/shop/mike-schilli/san-francisco-urban-hikes/hardcover/product-m2dqzr7.html|"San Francisco Urban Hikes"</LINK>
-zusammen, einen kiloschweren prächtigen Hochglanz-Fotoband mit Kartenmaterial
-für die Routen.
-
-<pic images/htc-komoot.ps Auf komoot.com lassen sich die aufgezeichneten Strecken abwandern.>
-
-Aber meine Produktionsmühle steht ja bekanntlich niemals still und so fiel es mir neulich
-ein, den gesammelten Schatz auf einen Schlag der Öffentlichkeit vor die Füße zu
-werfen und unter <LINK>https://hikethiscity.com|hikethiscity.com</LINK> ins Web zu stellen. Zack-bumm, schon
-stehen 57 der besten Wanderwege San Franciscos im Netz! Wenn ihr also mal in der
-Stadt seid, könnt ihr euch ein paar aussuchen und dann mit der kostenlosen
-Komoot-App, auf die die Wege auf der Webseite durchlinken, durchnavigieren. Ihr werdet staunen!
-
-<pic images/sfuh-cover.ps (#3) Der werte Erzähler auf einem unserer Stadtwanderwege.>
-
-Nun dürft ihr noch raten, wo das Titelbild in Abbildung (#3) geschossen wurde. 
-Offensichtlich in einer eher urbanen Gegend San Franciscos, mit einer Fußgängerbrücke
-über eine stark befahrenen Straße, aber mit einem weiten Ausblick auf die Stadtteile
-Bernal Heights und Portrero Hill. Da hat sich noch kein Tourist hinverirrt!
 
 @Z: Toppprodukt: Das flexible Kabelrückgrat
 
