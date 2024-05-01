@@ -135,7 +135,7 @@ took me years to find out.
 
 @Z: My New York Times Subscription
 
-<pic images/kindle-nyt-title.ps For a whopping $19.99 a month, the New York Times is delivered daily to Angelika's Kindle.>
+<pic images/kindle-nyt-title.ps For a whopping 19.99 Dollars a month, the New York Times is delivered daily to Angelika's Kindle.>
 
 <em>Angelika</em> Political topics interest me a lot. Every day, I watch the
 one-hour news program 'News Hour' on the public broadcaster PBS, and often
