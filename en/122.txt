@@ -341,68 +341,58 @@ modifying the deductible, or altering the copay amounts. This period is known
 as "Open Enrollment." Employees make their choices in the fall, and the new
 terms take effect starting January 1st.
 
-TODO
+<pic images/kaiser.ps ... or perhaps the more affordable Kaiser Permanente with fewer choices?>
 
-<pic images/kaiser.ps ... oder doch lieber die günstigere Sozialkasse Kaiser Permanente mit weniger Wahlmöglichkeiten?>
+Most companies also offer other perks for employees, which can be selected
+during this phase as well. For Michael, these include dental and vision
+insurance, the option to increase a company-provided life insurance policy by
+paying a small premium, the possibility to purchase life insurance for a spouse
+and children, or to enhance an already offered disability insurance plan.
 
-Die meisten Firmen bieten
-noch andere Zuckerl für den Arbeitnehmer an, für die man sich in dieser Phase
-ebenfalls entscheiden kann. Bei Michael sind das zum Beispiel Zahnarzt- und
-Brillenkasse, die Möglichkeit, eine kostenlos angebotene Lebensversicherung
-durch Zahlung eines geringen Beitrags zu erhöhen oder eine Lebensversicherung
-für den Partner und die eigenen Kinder abzuschließen oder eine
-ebenfalls bereits angebotene Berufsunfähigkeitsversicherung aufzubessern.
+Employees also decide whether and how much they want to contribute to what's
+known as a "Flexible Spending Account" (FSA, <RBLINK>20091104#10</RBLINK>), which allows for tax-free
+deposits for anticipated medical expenses. The tax-free maximum amount
+currently allowed is $2,600. As mentioned, not every company offers such an
+extensive catalog of benefits. At my job, for comparison, only health and
+dental insurance are available, along with the option to contribute to an FSA.
+Since government social benefits in the USA are limited, companies try to
+attract and retain good employees not only with reasonable salaries but also
+through these additional benefits.
 
-Auch bestimmt der Arbeitnehmer, ob und wieviel er in den sogenannten "Flexible
-Spending Account" (<RBLINK>20091104#10</RBLINK>) einzahlen will, der
-steuerfreie Einzahlung für vorraussichtlich anfallende Behandlungskosten
-gestattet. Die steuerfrei erlaubte Höchstsumme beträgt zur Zeit $2600. Wie
-gesagt, nicht jede Firma bietet so einen großzügigen Katalog von Leistungen an.
-Bei mir gäbe es im Vergleich nur Kranken- und Zahnarztversicherung und die
-Möglichkeit in den "Flexible Spending Account" einzuzahlen. Da staatliche
-Sozialleistungen in den USA begrenzt sind, versuchen Firmen, gute Leute nicht
-nur über vernünftige Gehälter an Land zu ziehen, sondern auch durch die
-angebotenen Zusatzleistungen.
+In many areas, including Silicon Valley, there is currently almost full
+employment, which makes it challenging to fill positions with qualified
+individuals. Recently, I heard on the radio that some companies are starting to
+help with the repayment of student loans to attract people and fill open
+positions. Since education is very expensive in the USA, people with higher
+degrees often spend years paying off substantial debts after completing their
+studies. This new benefit can be a significant draw for prospective employees.
 
-In vielen Gegenden, so auch im Silicon Valley, herrscht zur
-Zeit fast Vollbeschäftigung und dadurch ist es nicht immer einfach, Stellen
-mit qualifizierten Leuten zu besetzen. Neulich hörte ich im Radio, dass die
-ersten Firmen bei der Rückzahlung von Studentendarlehen
-helfen, um Leute zu kriegen und offene Stellen zu besetzen. Denn das
-Studieren kostet in den USA ja viel Geld und gerade Leute mit höheren
-Abschlüssen arbeiten nach abgeschlossenem Studium oft jahrelang einen
-riesigen Schuldenberg ab.
+Similarly, the health insurance system in the USA originally emerged after
+employers began offering health insurance to their employees. During World War
+II, there were fears of inflation, and the U.S. government decided to freeze
+wages and salaries. This was unpopular with the unions, which threatened to
+strike, and employers also disliked the law because they urgently needed
+workers but could not offer higher wages to recruit them. As a response, the
+U.S. government decided that health insurance provided by an employer would not
+be considered as part of salary and thus was exempt from the regulation.
+Companies then started offering health insurance to make their firms more
+attractive to job seekers. In 1943, the U.S. tax authority decided that
+employer-provided health insurance contributions would be tax-exempt, thereby
+establishing the foundation of today's health insurance system in the USA.
 
-Auf ähnliche Weise ist das Krankenkassensystem in den USA übrigens erst
-entstanden, nachdem Arbeitgeber ihren Angestellten eine Krankenkasse anbieten.
-Im Zweiten Weltkrieg ging die Angst vor der Inflation um und die amerikanische
-Regierung beschloss, Löhne und Gehälter einzufrieren. Das gefiel den
-Gewerkschaften gar nicht, sie drohten mit Streiks und auch den Arbeitgebern war
-das Gesetz ein Dorn im Auge, da sie dringend Arbeiter brauchten, aber keine
-höheren Gehälter anbieten konnten, um diese zu rekrutieren.  Daraufhin
-beschloss die amerikanische Regierung, dass eine vom Arbeitgeber angebotene
-Krankenkasse nicht als Gehaltszahlung anzusehen ist und somit von der
-Reglementierung ausgeschlossen war. Firmen boten dann eine Krankenkasse an, um
-ihre Firma attraktiver für Arbeitssuchenende zu machen.  1943 beschloss die
-amerikanische Steuerbehörde, dass vom Arbeitgeber angebotene
-Krankenkassenzuschüsse von der Steuer befreit sind und etablierte damit das
-heutige Krankenkassensystem der USA.
+Indeed, this system makes it difficult to establish a national health insurance
+system in the USA because companies have traditionally offered these benefits
+voluntarily with little government regulation. Under Obamacare, companies with
+a certain number of employees are now required to offer health insurance to
+avoid penalties, but as you know, Obamacare's stability has often been in
+question. However, there is renewed hope as the public seems to increasingly
+value Obamacare. Enrollment for Obamacare happens every fall, and the early
+numbers look promising. The enrollment period for Obamacare started on November
+1st, and the participation numbers are higher than last year. It's quite
+ironic: initially, a large portion of the population criticized Obamacare, but
+now, as there are threats to dismantle it, many people are realizing it may be
+better than its reputation suggested.
 
-Übrigens macht es gerade dieses System
-so schwierig, ein nationales Krankenkassensystem für die USA zu etablieren,
-denn Firmen haben diese Leistungen stets freiwillig angeboten mit wenig
-staatlichen Regulierungen. Unter Obamacare müssen Firmen mit einer bestimmten
-Anzahl von Mitarbeitern diesen jetzt zwingend eine Krankenkasse anbieten, 
-um Geldstrafen zu
-vermeiden, aber Obamacare steht immer noch auf wackeligen Füßen, wie ihr ja
-wisst. Doch es gibt wieder Hoffnung, dass die Bevölkerung jetzt doch Obamacare
-mehr schätzt. Auch für Obamacare kann man sich jedes Jahr im Herbst
-einschreiben und die ersten Zahlen sehen gut aus. Am 1. November startete die
-Einschreibphase für Obamacare und die Beitrittszahlen sind höher als im 
-letzten Jahr. Schon verrückt: Erst schimpfte ein großer Anteil der Bevölkerung
-über Obamacare und jetzt, wo man es ihnen wegnehmen will, merken viele auf
-einmal, dass es besser ist als sein Ruf.
-
-Grüße aus Smokeytown:
+Greetings from Smokeytown:
 
 Angelika \& Michael
