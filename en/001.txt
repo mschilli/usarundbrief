@@ -169,8 +169,8 @@ don’t have an SSN.
 In my case, we had to do it like this: First of all, I had to
 pass the theoretical exam for the driver's license. 
 With the certificate of having
-passed the theoretical exam, I could then apply for the SSN
-since, which in turn is required for taking the practical
+passed the theoretical exam, I could then apply for the SSN,
+which in turn is required for taking the practical
 exam for the driver's licence. 
 The SSN has since been sent to me, now I can
 finally  take the practical test for the driver’s license.
