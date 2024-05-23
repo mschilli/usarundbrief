@@ -4,7 +4,6 @@ San Francisco, den 17.03.97
 
 Ihr lieben Daheimgebliebenen!
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY>
 Nun will ich endlich meinen zweiten Rundbrief starten. 
 Viele von euch warten schon sehnsüchtig auf eine 
 Fortsetzung. Bei uns hat sich in den vergangenen sechs 
@@ -13,6 +12,7 @@ etwas länger ausfallen wird.
 
 @Z: Erdbeben
 
+<em>Angelika</em>
 Am Montag haben wir hier unser erstes Erdbeben erlebt; 
 genauergesagt waren es gleich zwei Erdbeben der Stärke 
 3.6. Jedenfalls saßen Michael und ich abends gegen 22.30 
@@ -77,6 +77,7 @@ und ich gerne auf jedes weitere verzichte.
 
 @Z: Wie man einen kalifornischen Führerschein bekommt
 
+<em>Angelika</em>
 Die zweite Geschichte, die sicherlich viele von euch 
 amüsieren wird, ist die mit meinem amerikanischen 
 Führerschein. Um es kurz zu machen und euch nicht zu lang 
@@ -128,6 +129,7 @@ bestätigen:
 
 @Z: Geldgeschäfte
 
+<em>Angelika</em>
 Zunächst einmal ist dem amerikanischen Bankwesen der in 
 Deutschland so übliche Dauerauftrag, das 
 Lastschriftverfahren bzw. die Überweisung fremd. Das liegt 
@@ -193,6 +195,7 @@ leider auch nicht so genau.
 
 @Z: Öffentliche Verkehrssysteme
 
+<em>Angelika</em>
 Eine zweite Kuriosität ist das öffentliche Verkehrssystem 
 in San Francisco. Die gute Nachricht ist zunächst: San 
 Francisco verfügt über Busse, Straßenbahn und U-Bahn. 
@@ -245,6 +248,7 @@ warten muss.
 
 @Z: Pflanzenfett und Spiritus
 
+<em>Angelika</em>
 Und nun noch eine für uns besonders lustige Geschichte zum 
 Thema "Alltäglichkeiten": Am Abend meines Geburtstages 
 wollten Michael und ich traditioneller Weise ein 
@@ -274,6 +278,7 @@ gemacht?
  
 @Z: Seaworld San Diego
 
+<em>Angelika</em>
 Wir sind wieder viel unterwegs gewesen. Ein Wochenende 
 waren wir mit Sylvia und Richard in San Diego. Richard 
 hatte über seine Firma die Möglichkeit, ein 
@@ -298,6 +303,7 @@ wir alle viel Spaß.
 
 @Z: Las Vegas
 
+<em>Angelika</em>
 An meinem Geburtstag waren wir in Las Vegas. Wir hatten 
 diese Reise ja zur Hochzeit geschenkt bekommen. Es war sehr 
 aufregend nach zehn Jahren wieder in Las Vegas zu sein, 
@@ -326,6 +332,7 @@ Spiel und Pech in der Liebe!"
 
 @Z: Abenteuer Alltag
 
+<em>Angelika</em>
 Dieses Wochenende waren wir in Berkeley und haben dort 
 endlich unsere Stühle zu unserem neuen Esstisch bekommen 
 und dann sind wir heute noch an den Strand in San Francisco 
@@ -360,6 +367,7 @@ Handschellen angelegt.
 
 @Z: Leben ohne Arbeit?
 
+<em>Angelika</em>
 Ansonsten gehe ich weiterhin fleißig in meinen 
 Englischkurs. Ich habe dort eine ganz nette Deutsche 
 kennen gelernt, die aus Hamburg kommt und in Hamburg als 
