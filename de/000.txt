@@ -22,7 +22,7 @@ Oscar Wilde
 
 Ihr Lieben!
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY>
+<em>(Angelika)</em>
 Lange habe ich überlegt, wie dieses Jahr meine 
 Weihnachtspost aussehen soll, aber da ich mitten in den 
 Umzugskisten sitze, habe ich mich für einen vielleicht 
@@ -64,6 +64,7 @@ ich das Buch in den Regalen einer Buchhandlung stehen sehe.
 
 <pic images/ggs.ps San Francisco, Kalifornien mit der Golden Gate Bridge>
 
+<em>(Angelika)</em>
 Ja, und dann geht noch ein ganz großer Traum für uns in 
 Erfüllung: Wir werden für einige Zeit in San Francisco 
 leben. Geplant haben wir, zwei bis drei Jahre zu bleiben. 
@@ -100,6 +101,7 @@ Hobby auch noch Geld."
 
 @Z: Arbeit für Angelika?
 
+<em>(Angelika)</em>
 Was mich betrifft, so werde ich ersteinmal nicht arbeiten 
 dürfen. Die Amerikaner sind sehr, sehr streng mit ihren 
 Arbeitsgenehmigungen und ich habe nur ein Begleitvisum 
@@ -145,6 +147,7 @@ Francisco herumschippern. Genial, nicht?
 
 @Z: Die Wohnung
 
+<em>(Angelika)</em>
 Michael hat übrigens in San Francisco schon eine Wohnung 
 gefunden. Die Wohnungen in der Stadt sind recht teuer, aber 
 wir haben uns trotzdem dafür entschieden, dort zu wohnen, 
