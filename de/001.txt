@@ -4,7 +4,7 @@ San Francisco, den 26.01.97
 
 Hallo, ihr Lieben!
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY>
+<em>(Angelika)</em>
 Sicherlich wartet ihr schon sehnsüchtig auf ein 
 Lebenszeichen von mir bzw. uns. Da vielen der Rundbrief zu 
 Weihnachten so gut gefallen hat und es sehr viel von hier 
@@ -17,6 +17,7 @@ losgehen:
 
 <pic images/wohn.ps San Francisco. Aus dem Wohnzimmerfenster geschaut.>
 
+<em>(Angelika)</em>
 Am 30.12.1996 bin ich auf dem Flughafen in San Francisco 
 gelandet. Michael und unsere Freunde Sylvia und Richard 
 haben mich dort gebührend empfangen. Da ich abends 
@@ -93,6 +94,7 @@ Notwendigsten versorgt: Tisch, Stühle und Bett.
 
 @Z: Sichere und unsichere Stadtviertel
 
+<em>(Angelika)</em>
 Nun noch einmal zurück zu unserem Stadtviertel: Was noch 
 sehr wichtig ist, Noe Valley ist sehr sicher, d.h. man kann 
 sich zu jeder Tages- und Nachtzeit frei auf den Straßen 
@@ -166,6 +168,7 @@ betroffen und involviert, wenn man in dem Land lebt.
 
 @Z: Existenz durch Sozialversicherungsnummer Führerschein
 
+<em>(Angelika)</em>
 Viele von euch wollen jetzt sicher wissen, was ich so den 
 lieben langen Tag mache, wenn Michael in der Arbeit ist und 
 seinen Computer traktiert. Ich bin zur Zeit immer noch 
