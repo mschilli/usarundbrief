@@ -6,7 +6,8 @@ Liebe Freunde!
 
 @Z: San Francisco in der Regenzeit
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY> Da in San Francisco scheinbar 
+<em>(Angelika)</em>
+Da in San Francisco scheinbar 
 gerade die Regenzeit angebrochen ist (von 
 wegen hier regnet's nie) und wir uns kaum vor die Haustür wagen, habe 
 ich mir gedacht, dass ich euch einmal wieder mit den Neuigkeiten von 
@@ -53,6 +54,7 @@ Ausdruck für diese Leckerei nicht).
 
 @Z: Mit dem Fahrrad über die Golden Gate Bridge
 
+<em>(Angelika)</em>
 Unsere Golden-Gate-Bridge-Überquerung mit dem Fahrrad haben wir auch 
 schon hinter uns. Wir haben das bei strahlendem Sonnenschein gemacht, 
 so dass die Brücke in ihrem schönsten Rot leuchtete. Damit wir nicht 
@@ -104,6 +106,7 @@ Wolkenkratzern befinden, ist das besonders effektvoll.
 
 @Z: Dim Sum und andere Leckereien
 
+<em>(Angelika)</em>
 Bedingt durch das schlechte Wetter (sollte El Nino tatsächlich 
 existieren?) mussten wir unsere Wochenendaktivitäten in der letzten 
 Zeit auf Etablissements mit einem Dach über dem Kopf verlegen. So 
@@ -146,6 +149,7 @@ Supermarktweines ist also eindeutig vorbei.
 
 @Z: Das deutsche Filmfestival in San Francisco
 
+<em>(Angelika)</em>
 Neulich hatten wir übrigens einmal wieder die Gelegenheit, Götz 
 George, Mario Adorf, Gudrun Landgrebe und Consorten hier im Kino zu 
 bewundern. Es waren nämlich deutsche Filmfestspiele, die jedes Jahr 
@@ -180,6 +184,7 @@ gebracht.)
 
 @Z: Amerikanisches Fernsehen
 
+<em>(Angelika)</em>
 Apropos amerikanische Medien, schon lange wollte ich zu diesem Thema 
 ein paar allgemeine Bemerkungen machen. Zunächst einmal wären da die 
 Nachrichten im Fernsehen zu erwähnen. Weltnachrichten oder 
@@ -292,6 +297,7 @@ wieder so ein Attentat.
 
 @Z: Zu Besuch in der Arbeit
 
+<em>(Angelika)</em>
 So, nun aber genug mit den ernsten Themen. Nach dem Michael euch ja die 
 letzten beiden Male mit Geschichten aus seinem AOL-Leben unterhalten 
 hat, wird er heute nicht seinen Senf zur Lage der Nation abgeben, da er 

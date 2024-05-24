@@ -6,7 +6,8 @@ Hallo, ihr Lieben!
 
 @Z: Zwischenbilanz nach einem Jahr
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY> Nachdem das Jahr 1997 
+<em>(Angelika)</em>
+Nachdem das Jahr 1997 
 seinem Ende entgegen geht und Weihnachten kurz 
 vor der Tür  steht, will ich euch einmal wieder mit einem Rundbrief 
 beglücken. Letztes Jahr um diese  Zeit habe ich, auf Umzugskisten 
@@ -105,6 +106,7 @@ groben Unfugs verklagt, ist wirklich verwunderlich.
 
 @Z: Weihnachten in Amerika
 
+<em>(Angelika)</em>
 Witzig und seltsam zugleich ist auch, dass die meisten Amerikaner ihren 
 Weihnachtsbaum  schon lange vor Weihnachten aufstellen, viele z.B. am 
 ersten Advent. Der Baum ist dann  in voller Pracht geschmückt. Man 
@@ -192,6 +194,7 @@ selbst viel mitnehmen.
 
 @Z: Kurse an der UC Berkeley Extension
 
+<em>(Angelika)</em>
 Meine Kurse (Fotografiekurs, Kurs über afro-amerikanische Familien) 
 waren ein voller  Erfolg und haben mich sehr bereichert und mir viel 
 Freude gemacht. Beide Kurse waren  auf einem hohen Niveau und von sehr 
@@ -234,6 +237,7 @@ zusammenleben; einen über multikulturelle Familien).
 
 @Z: Erschreckendes Schulsystem
 
+<em>(Angelika)</em>
 Im Zuge meiner Kurse habe ich übrigens eine amerikanische Therapeutin 
 kennengelernt,  die wiederum eine Schulleiterin in Oakland (Stadt auf 
 der anderen Seite der Bay) kannte  und mich als Volunteerin vermitteln 
@@ -288,6 +292,7 @@ gereizt hätte.
 
 @Z: Local News
 
+<em>(Angelika)</em>
 Und nun will ich euch noch mit einigen Infos versorgen:
 
 Zunächst einmal haben Sylvia und Richard seit 9.10. einen ganz süßen 
@@ -308,6 +313,7 @@ mein Neffe Julian früher immer genannt hat (DANKE,  JULE!).
 
 @Z: Neues vom Führerschein
 
+<em>(Angelika)</em>
 Und der beste Witz zum Schluss: Ich habe meinen amerikanischen 
 Führerschein immer  noch nicht erhalten. Ich warte jetzt fast ein Jahr 
 auf ihn. Nachdem ich noch zweimal zur  Führerscheinstelle in San 
@@ -329,7 +335,8 @@ an uns!
 
 @Z: Weihnachtsfeier mit der Firma
 
-<HTMLONLY><I>(Michael)</I></HTMLONLY> Weihnachtsbaum, Weihnachtsbaum, 
+<em>(Michael)</em>
+Weihnachtsbaum, Weihnachtsbaum, 
 Weihnachtsbaum. Ich kann es nicht mehr 
 hö-ren! Zuerst schleppt man ein grünes Monstrum in die Wohnung, allein wie
 der stachlige Stamm sich anfasst: e-ke-lig! Und nach einer Woche, wenn der
@@ -374,6 +381,7 @@ die lang ersehnte Golden-Gate-Bridge-Überquerung in Angriff nehmen.
 
 @Z: Mit dem Fahrrad durch SF und das Silicon Valley
 
+<em>(Michael)</em>
 Ich fahre ja weiterhin jeden Tag mit dem Fahrrad zur Arbeit, und mein
 altes Rösschen hat schon schwer geschnauft, brrr, brrr, braaaav.
 Der Regen blieb bislang aus, "El Ninjo", ein vielzitiertes 

@@ -4,7 +4,8 @@ San Francisco, den 09.05.98
 
 Ihr lieben Daheimgebliebenen!
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY> Nachdem ich mit 
+<em>(Angelika)</em>
+Nachdem ich mit 
 Schrecken festgestellt habe, dass es schon 
 drei Monate her ist, dass ich meinen letzten Rundbrief 
 geschrieben habe, will ich mich gleich hinsetzen und in 
@@ -70,6 +71,7 @@ muss man durch.
 
 <pic images/steuer.ps Angelika fertigt die Steuererklärung für 1997 an> 
 
+<em>(Angelika)</em>
 Neben der leidigen Geschichte "Buch" hat ein zweites nicht 
 so berauschendes Thema so manche Nachtschicht gefordert, 
 nämlich die Abgabe unserer amerikanischen 
@@ -222,6 +224,7 @@ das ging und geht uns genauso.
 
 @Z: Soziale Einrichtungen in Kalifornien
 
+<em>(Angelika)</em>
 Ansonsten bin ich dieses Semester meinem Ziel, das 
 Fortbildungszertifikat "Kinder und die sich verändernde 
 Familie" an der Universität Berkeley zu erhalten, wieder 
@@ -347,6 +350,7 @@ ins Tenderloin.
 
 @Z: Wahlkampf für den Govaneursposten
 
+<em>(Angelika)</em>
 Da ich ja in meinem letzen Rundbrief das Thema "Medien" 
 aufgegriffen habe, will ich euch auch heute noch mit 
 einigen Geschichten diesbezüglich unterhalten. Zunächst 
@@ -378,6 +382,7 @@ Benzinpreise einsetzen würden.
 
 <pic images/seinfeld.ps Aus unserer Lieblingsfernsehsendung "Seinfeld"> 
 
+<em>(Angelika)</em>
 Und noch ein Jahrhundert-Ereignis wird nächste Woche 
 medientechnisch stattfinden: Die letzte Folge unserer 
 Lieblingssendung "Seinfeld" wird nach neunjährigem Erfolg 

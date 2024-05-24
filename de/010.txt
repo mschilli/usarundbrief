@@ -2,7 +2,8 @@ San Francisco, den 15.10.98
 
 Hallo, ihr Lieben!
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY> Nachdem ich aus 
+<em>(Angelika)</em>
+Nachdem ich aus 
 meiner Dunkelkammer (mein Fotokurs ist nämlich 
 beendet) hervorgekrochen bin, sollt ihr endlich wieder etwas von mir 
 hören. Wie Michael ja schon in seinem letzten Rundbrief berichtet hat, 
@@ -24,6 +25,7 @@ abschließen, habe ich mein Zertifikat in der Tasche. Hurra!!!
 
 @Z: Sozialarbeit im Tenderloin
 
+<em>(Angelika)</em>
 Viele haben in letzter Zeit angefragt, was eigentlich meine Arbeit im 
 Tenderloin  macht. Ich gehe nach wie vor zweimal wöchentlich, oft 
 sogar dreimal (wenn zusätzliche Hilfe wegen Ausflügen oder Festen 
@@ -105,6 +107,7 @@ die ich zum Volunteeren komme.
 
 <pic images/scove1.ps Der schwarze Sand der "Lost coast">
 
+<em>(Angelika)</em>
 Vorletztes Wochenende war hier einmal wieder ein Feiertag, der 
 sogenannte "Labor  Day" ("Tag der Arbeit"), an dem auch Michael frei 
 hatte. Und so haben wir uns gleich ein Auto gemietet, um das 
@@ -175,6 +178,7 @@ sein soll. Wir werden dann im nächsten Rundbrief berichten, wie es war.
 
 @Z: Im Nagelsalon
 
+<em>(Angelika)</em>
 Übrigens hatte ich neulich das absolute Seinfeld-Erlebnis (wer nichts 
 mehr mit  dem Stichwort "Seinfeld" anfangen kann, schaue einfach in 
 meinem letzten Rundbrief nach). Damit ihr den Gag versteht, muss ich 
@@ -216,6 +220,7 @@ echt wert. Aber keine Angst, sonst bin ich noch ganz die Alte.
 
 @Z: Wieder mal ein Erdbeben
 
+<em>(Angelika)</em>
 Vor einigen Wochen hat uns auch einmal wieder ein Erdbeben der Stärke 
 5.4 ganz unsanft geweckt. Ich sage euch, es hat ganz schön gewackelt. 
 Das Epizentrum war aber Gott sei Dank ziemlich weit im Inland, so dass 
@@ -247,6 +252,7 @@ will Michael auch noch was schreiben.....
    
 @Z: Schwaben in San Francisco
 
+<em>(Michael)</em>
 Halöle!
 Als wir neulich nachts in der Stadt ein Taxi anhielten, um nach
 Hause zu fahren, kamen wir mit dem Fahrer ins Gespräch, einem
@@ -292,6 +298,7 @@ habt, schaut einfach mal vorbei ...
 
 <pic images/shark.ps Hai-Warnung am Stinson-Beach (untere Tafel)>
 
+<em>(Michael)</em>
 Vor einigen Wochen herrschte große Aufregung am Stinson Beach, 
 ein paar Kilometer nördlich von San Francisco: 
 An diesem beliebten Ausflugsziel 
@@ -305,6 +312,7 @@ wieder!
 
 @Z: Die Lewinsky-Affäre
 
+<em>(Michael)</em>
 Wie ihr sicherlich alle mitgekriegt habt, geht's hier in Amerika zur Zeit
 dem Präsidenten Bill Clinton an den Kragen, 
 der eine Affäre mit einer Praktikantin

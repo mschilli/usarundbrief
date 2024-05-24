@@ -4,7 +4,7 @@ San Francisco, den 01.06.97
 
 Hallo, ihr Lieben!
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY>
+<em>(Angelika)</em>
 Nun sind schon wieder einige Wochen vergangen und ich will 
 endlich meinen dritten Rundbrief beginnen. Michael ist 
 jetzt bereits seit guten sechs Monaten in San Francisco und 
@@ -16,6 +16,7 @@ entdecken. Die erste größere Krise haben wir auch gerade
 
 @Z: Finanzkrise in der Firma
 
+<em>(Angelika)</em>
 <CONFIDENTIAL>Blaxxun, das ist die</CONFIDENTIAL><HTMLONLY>Die</HTMLONLY> 
 Firma für die Michael 
 arbeitet, hat nämlich gerade ihr Büro in San Francisco 
@@ -120,6 +121,7 @@ uns auch gutginge.
 
 <pic images/strand.ps Am Strand von Kauai>
 
+<em>(Angelika)</em>
 Nach diesen unsicheren und aufregenden Zeiten sind wir 
 deshalb ersteinmal kurzentschlossen für eine Woche nach 
 Hawaii geflogen. Wir hatten uns für die eine Woche die 
@@ -147,6 +149,7 @@ Wellen herumgewirbelt wurde.
 
 @Z: Immigranten-Gedanken
 
+<em>(Angelika)</em>
 Gestern ging übrigens mein erster Englischkurs mit einer 
 Party zu Ende. Und da in dem Kurs zu 95% Lateinamerikaner 
 sind, ging es richtig ab. Es wurde zu heißen Rhythmen 
@@ -323,6 +326,7 @@ Francisco sein.
 
 @Z: Englisch sprechen und verstehen
 
+<em>(Angelika)</em>
 Apropos Englisch, viele fragen mich immer 
 wieder, ob mein Englisch schon perfekt ist. Ich würde es 
 so sagen, vieles fällt mir leichter (z.B. das 
@@ -355,6 +359,7 @@ fehlen:
 
 @Z: Trinkgeld
 
+<em>(Angelika)</em>
 Zunächst ist da das Thema "Trinkgeld" zu erwähnen. Geht 
 man in Amerika auf Reisen, sollte man stets ein ganzes 
 Bündel von Ein-Dollarnoten bei sich tragen, da der 
@@ -386,6 +391,7 @@ wird aus den eben erwähnten Gründen.
 
 @Z: Schlussverkauf
 
+<em>(Angelika)</em>
 Bezüglich des Verkaufens gibt es übrigens noch ein 
 weiteres "Naturgesetz", nämlich dass es andauernd 
 irgendwelche Sonder\-angebote und so etwas wie bei uns 
@@ -419,6 +425,7 @@ free!"). Es gibt da wirklich die tollsten Varianten.
 
 <pic images/smoke.ps Anti-Raucher-Werbung>
 
+<em>(Angelika)</em>
 Ein weiteres unerschöpfliches Thema ist hier nach wie vor 
 das Thema "Rauchen", was sich mittlerweile zum richtigen 
 Krieg zwischen Rauchern und Nichtrauchern entwickelt hat. 
@@ -468,6 +475,7 @@ unterhalten:
 
 @Z: Golf
 
+<em>(Angelika)</em>
 Zunächst einmal hat Michael das Golfspielen entdeckt. Das 
 liegt natürlich daran, dass Golfspielen hier eher ein 
 Sport für jedermann ist und somit auch nicht astronomische 
@@ -483,6 +491,7 @@ Loch zu verfrachten. Ja ja, die höheren Weihen des Golfens!
 
 @Z: Die Glide-Memorial-Church
 
+<em>(Angelika)</em>
 Und zum guten Schluss möchte ich euch noch kurz von 
 unserem Gottesdienstbesuch in der Glide Memorial Church in 
 San Francisco berichten. Die Kirche befindet sich zunächst 

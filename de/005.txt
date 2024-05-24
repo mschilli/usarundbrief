@@ -4,7 +4,7 @@ San Francisco, den 15.09.97
 
 Liebe Freunde, 
 
-<HTMLONLY><I>(Michael)</I></HTMLONLY>
+<em>(Michael)</em>
 die meisten von euch wissen's ja eh schon - aber jetzt ist's offiziell: Seit
 15. September arbeite ich <CONFIDENTIAL>nicht mehr für blaxxun 
 interactive sondern </CONFIDENTIAL> für America Online. 
@@ -17,6 +17,7 @@ und bin auf Stellensuche gegangen.
 
 @Z: Jobsuche mit Erfolg
 
+<em>(Michael)</em>
 Die Amis suchen zum Glück Softwareentwickler wie die Wilden. Das Problem war
 halt nur, dass bei einem Ausländer wie mir zwischen dem Zeitpunkt, an dem
 die Firma sich entscheidet und dem Arbeitsbeginn das INS
@@ -73,6 +74,7 @@ die Cubicle-Reihen ...
 
 @Z: Mit dem Fahrrad zur Arbeit
 
+<em>(Michael)</em>
 Ja, Fahrrad: ich fahre täglich zur Bahnstation (20 min), mit dem Zug nach
 San Mateo (25 min) und dann den steilen Berg zum AOL-Gebäude hinauf (15 min,
 runterwärts die Hälfte). Da die CAL-Train-Züge maximal 24 Fahrräder 
@@ -98,6 +100,7 @@ eine Knarre mit sich führen und sehr hitzig reagieren.
 
 @Z: Arbeiten bei AOL
 
+<em>(Michael)</em>
 Als AOL-Angestellter kriegt man einen freien Account und einen zusätzlichen,
 den ich Angelika geben werde. Leider keinen weiteren, Anfragen sind zwecklos!
 UND ICH BIN AUCH NICHT FÜR IRGENDWELCHE BESETZTEN TELEFONLEITUNGEN ODER 

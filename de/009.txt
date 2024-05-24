@@ -4,7 +4,8 @@ San Francisco, den 04.07.98
 
 Ihr lieben Daheimgebliebenen!
 
-<HTMLONLY><I>(Michael)</I></HTMLONLY> Und hier bin ich wieder 
+<em>(Michael)</em>
+Und hier bin ich wieder 
 meine lieben Freunde aus dem fernen  
 Deutschland! Euer Michael, der die letzten fünf Monate geackert hat wie 
 ein  Blöder, jedes Wochenende am Computer verbrachte und unter der 
@@ -15,6 +16,7 @@ es die Leser erfreuen und die Kassen klingeln lassen!
 
 @Z: Die Freuden der Autofahrer in San Francisco
 
+<em>(Michael)</em>
 Da bleibt auch wieder Zeit, am Wochenende fortzufahren! Wir haben zwar 
 immer noch kein Auto, aber unser Freund Peter, der fünf Straßen weiter 
 wohnt  und in Besitz eines Voyager Minivans ist, verweilt gerade in  
@@ -65,6 +67,7 @@ Zeitungsjunge einen Schnitt von 12 Zeitungen pro Minute. Clever!
 
 @Z: Hire und Fire
 
+<em>(Michael)</em>
 Seit neuestem weiß ich auch, wie man bei AOL gefeuert wird: Mein  
 Cubicle-Nachbar 
 <CONFIDENTIAL>Jimmi</CONFIDENTIAL><HTMLONLY>Bob</HTMLONLY>
@@ -91,6 +94,7 @@ Ladens drin,  demnächst auf dem Internet!
 
 @Z: Weine Kaliforniens
 
+<em>(Michael)</em>
 Wie Angelika schon angedeutet hat, habe ich -- nachdem Angelika an der 
 Berkeley-Uni schon ein- und ausgeht als wär' sie da zu hause -- auch mal 
 einen Kurs belegt: In "Weine aus Kalifornien und Europa" erzählt der 
@@ -116,6 +120,7 @@ Kursgebühr inbegriffen.
 
 <pic images/lasertag.ps Zwei knallharte Kontrahenten beim Laser-Tag.>
 
+<em>(Michael)</em>
 Nachdem unser Team für das neue Projekt in der Firma recht hart 
 arbeiten musste, dachte sich unser Chef, es wäre doch ganz gut, wenn wir 
 etwas "Dampf ablassen" könnten und lud uns kurzerhand zum  Laser-Tag 
@@ -148,6 +153,7 @@ prompt hieß es auf dem Ausdruck: "You're real cannon fodder".
 
 @Z: Arbeiten von zu Hause
 
+<em>(Michael)</em>
 Inzwischen arbeite ich ja nur noch drei Tage in der Woche im Büro:  
 Montag, Mittwoch und Freitag. Dienstags und donnerstags darf ich von zu 
 Hause aus arbeiten, "Tele-Commuting" ist das große Stichwort,  mit 
@@ -184,6 +190,7 @@ teilnehme, aber leider haben wir noch kein drahtloses Telefon ...
 
 @Z: Arbeiten in Amerika
 
+<em>(Michael)</em>
 Neulich war bei AOL der halbjährliche "Performance Review", die  
 Leistungsüberprüfung, die darüber bestimmt, ob man eine Gehaltserhöhung 
 kriegt oder nicht. Da musste ich aufschreiben, was ich das letzte halbe 
@@ -230,6 +237,7 @@ Vorbereitung Prospekte, bis die Mailbox kracht.
 
 @Z: Belohnungsreisen
 
+<em>(Michael)</em>
 Um den Buch-Stress feierlich zu beenden, hatte Angelika für uns zwei 
 Reisen geplant: Einmal mit dem Leihauto ins Napa-Valley, wo wir 
 tagsüber einige uns noch unbekannte Wein-Hersteller abklapperten (viele 

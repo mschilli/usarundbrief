@@ -4,7 +4,6 @@ San Francisco, den 23.08.97
 
 Hallo, ihr Lieben!
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY>
 Nachdem ich nach meinem Deutschlandbesuch schon wieder seit 
 vier Wochen in San Francisco bin, ist -- so glaube ich --
 einmal wieder ein Rundbrief fällig. Bei uns hat sich 
@@ -17,6 +16,7 @@ mir die alten Rundbriefe durchlese.
 
 @Z: Deutschland als Ausländer
 
+<em>(Angelika)</em>
 Zurück zu meinem Deutschlandbesuch: Ich habe die vier 
 Wochen in Deutschland sehr genossen und mich besonders 
 darüber gefreut, dass ich so viele von euch sehen und 
@@ -118,6 +118,7 @@ sich meiner Meinung nach dringend auseinandersetzen.
 
 @Z: Sozialleistungen im Vergleich
 
+<em>(Angelika)</em>
 Ich habe bei meinem Deutschlandbesuch immer wieder zu 
 hören bekommen, dass in Deutschland bezüglich der 
 sozialen Absicherungen sowieso bald amerikanische Zustände 
@@ -196,6 +197,7 @@ Rückkehr aus Russland geschrieben und ihr sind dabei ganz
 
 @Z: Nörgelei und Pessimusmus
 
+<em>(Angelika)</em>
 Um noch einmal auf die Nörgelei und den Pessimusmus 
 zurückzukommen: Der Amerikaner ist da vielleicht das 
 andere Extrem, nämlich der ewige, fast schon 
@@ -285,6 +287,7 @@ oder nicht, man fühlt sich dabei irgendwie besser.
 
 @Z: Local News
 
+<em>(Angelika)</em>
 Ja, was hat sich sonst bei uns ereignet?
 
 Zunächst einmal habe ich mich um eine Praktikumsstelle 
@@ -419,6 +422,7 @@ amerikanischen Führerschein.
 
 @Z: Arbeitssuche in den USA
 
+<em>(Angelika)</em>
 Zunächst aber <CONFIDENTIAL>zu Blaxxun</CONFIDENTIAL>
 <HTMLONLY>zur Firma</HTMLONLY>.
 Die meisten sind 
@@ -521,6 +525,7 @@ mit dieser Firma erlebt man echt tausend Abenteuer.
 
 @Z: Behördenschlamperei bei der Führerscheinstelle
 
+<em>(Angelika)</em>
 So, und nun zu meinem Führerschein. Nachdem ich ihn nun 
 endlich bestanden habe, habe ich brav darauf gewartet, 
 dass man ihn mir aus der kalifornischen Hauptstadt 
