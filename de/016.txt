@@ -5,6 +5,7 @@ Neues aus der Welt der Arbeit berichten:
 
 @Z: Neu bei Netscape
 
+<em>(Michael)</em>
 Bei Netscape gab's neulich eine kleine Einführungsveranstaltung für
 die neuen Mitarbeiter von AOL -- einen sogenannten "Beer-Bash". Zu solchen
 Anlässen wird leckeres Essen aufgefahren und ein Bierfass angezapft, und
@@ -110,6 +111,7 @@ Einen für die schnellste Email, einen für den schnellsten Brief/Postkarte.
 
 @Z: X-Games in San Francisco 
 
+<em>(Michael)</em>
 Die Meisterschaften im Felsklettern, Snowboard, Skateboard,
 Rollerblade und Fahrrad fahren
 fanden heuer in San Francisco statt. Auf einer Veranstaltung, die
@@ -138,6 +140,7 @@ Once in a lifetime, Baby.
 
 @Z: Sonderangebote einkaufen
 
+<em>(Michael)</em>
 Ein Thema, das auch in Deutschland sicher bald aktuell wird,
 weil ja alles irgendwann rüberschwappt,
 sind die Geschäftsgebaren der hiesigen Händler. Alles muss
@@ -172,6 +175,7 @@ tatsächlich soviel kostet wie angezeigt.
 
 @Z: Autos mieten
 
+<em>(Michael)</em>
 Oder, wenn man ein Auto mieten will: In der Zeitung
 steht, dass das Mietauto pro Tag $19.95 kostet. Mann, das ist ja
 direkt billig, denkt man, und ruft bei der
@@ -215,6 +219,7 @@ Faden abgezockt wurden.
 
 @Z: Einkaufen bei Fry's
 
+<em>(Michael)</em>
 Eine Art Hassliebe verbindet mich mittlerweile mit dem Computersupermarkt
 "Fry's Electronics". Das ist eine Kette von Läden, die auf
 fußballfeldgroßen Verkaufsflächen Computersachen anbieten und im
@@ -263,6 +268,7 @@ Palo Alto hören.
 
 @Z: Teppichreiniger
 
+<em>(Michael)</em>
 Noch ein G'schichterl hab ich: Als ich vor ca. zweieinhalb Jahren
 unsere jetzige Wohnung in San Francisco bezog -- Angelika weilte noch
 in Deutschland -- müffelte es in den Räumen ein wenig, später
@@ -298,6 +304,7 @@ erlaubt, auch im Land der unbegrenzten Möglichkeiten nicht.
 
 @Z: Feuerwehrmann Angelika
 
+<em>(Michael)</em>
 Angelika hat ja ihren Erdbebenkurs bei der Feuerwehr erfolgreich
 abgeschlossen und -- wie ein verantwortungsbewusster Feuerwehrmann --
 gleich alles in die Praxis umgesetzt und zwei Erdbeben-Böxle
@@ -320,6 +327,7 @@ verteidigen.
 
 @Z: Angelikas Fotokunst
 
+<em>(Michael)</em>
 Angelika hängt Tag und Nacht in der Dunkelkammer des Fotolabors herum und
 fröhnt ihrem Hobby. Die Dame hat schon mehrere Phasen ihrer Fotokarriere
 hinter sich: Zuerst fotografierte sie die Kinder im Tenderloin-Kindergarten,
@@ -380,6 +388,7 @@ geht's nicht.
 
 @Z: Perl Power
 
+<em>(Michael)</em>
 Mein Buch "Perl Power", das ja seit Januar in den Buchhandlungen
 englischsprachiger Länder lungert, erfreut sich steigender Beliebtheit.
 Immer öfter kommen Leute bei Netscape an meinem Cubicle vorbei
@@ -399,6 +408,7 @@ installiert.
 
 @Z: Der Bike-Nazi
 
+<em>(Michael)</em>
 Auch ins Netscape-Büro nach Mountain View fahre ich gerne mit dem
 Fahrrad und dem Zug, da kann ich auf dem Hin- und Rückweg jeweils
 eine Stunde lang die ganzen Computerhefte und -bücher lesen, die

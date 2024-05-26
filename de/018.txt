@@ -2,6 +2,7 @@ San Francisco, den 20.11.1999
 
 @Z: Tahiti
 
+<em>(Michael)</em>
 <pic images/resort.ps Over-Water-Bungalows auf Tahiti>
 Wir sind zurück! Eine Woche Erholungsurlaub auf Tahiti, da
 gibt's wieder einiges zu berichten, da werd's spitzen! 
@@ -171,6 +172,7 @@ Technobabble!
 
 @Z: Steuern und Sozialversicherungen in den USA
 
+<em>(Michael)</em>
 Zurück im rauhen Alltag!
 Was ich schon immer mal loswerden wollte: Auch in Amerika zahlt man Steuern,
 und das nicht zu knapp!
@@ -303,6 +305,7 @@ Genüge sieht.
 
 @Z: Religionsfreiheit
 
+<em>(Michael)</em>
 Ach ja, und Kirchensteuer gibt's keine, 
 da Staat und Religion streng getrennt sind. Wenn ich in der Arbeit
 erzähle, dass in Deutschland die Kirchensteuer automatisch vom
@@ -342,6 +345,7 @@ gibt -- sehenswert!
 
 @Z: Möbel
 
+<em>(Michael)</em>
 Womit wir immer noch Schwierigkeiten haben, ist, passende Möbel für
 unsere Wohnung zu finden. 
 Es gibt hier in Amerika zwei Stilrichtungen: Einmal den rustikalen
@@ -362,6 +366,7 @@ soll in Berkeley ein riesiger IKEA aufmachen! Mann, ich kann's nicht erwarten.
 
 @Z: Neuer Fernseh
 
+<em>(Michael)</em>
 Unser Fernseh' hatte nach drei Jahren einige schwere Macken, so 
 beliebte es ihm, nur noch die Programme 7 bis 50 darzustellen. Nachdem
 in Amerika aber in den oberen Kanälen nur Schrott und Verkaufsshows kommen,
@@ -402,6 +407,7 @@ wunderbar -- die 83cm Bildschirmdiagonale sind der reine Fernsehgenuß!
 
 @Z: Fitness-Studio
 
+<em>(Michael)</em>
 Da ich auch nicht mehr der Jüngste bin und angeblich, wie mir Angelika immer
 wieder einzureden versucht, Fett ansetze, habe ich mich eines samstags
 ins Auto gesetzt und kurzerhand beim Fitness-Center angemeldet. 
@@ -466,6 +472,7 @@ Zurück ins Funkhaus, Angelika, übernehmen Sie!
 
 @Z: Rätsellösung
 
+<em>(Angelika)</em>
 So, jetzt bin ich aber auch einmal dran. Zunächst will ich den glücklichen 
 Gewinner unseres letzten Quizzes bekanntgeben. Wir gratulieren herzlich Martin 
 Weishaupt, der zielsicher und schnell alle bewohnten Inseln Hawaiis benennnen 
@@ -484,6 +491,7 @@ Extension in San Francisco ausgestellt.
 
 @Z: Fotostunde
 
+<em>(Angelika)</em>
 Mittlerweile werde ich dort nur noch 
 als "Egglady" ("Eierdame") gehandelt, da sieben meiner Stillleben mit Eiern 
 ausgestellt worden sind (ich hatte davon in dem letzten Rundbrief berichtet). 
@@ -507,6 +515,7 @@ unter den Kameras.
 
 @Z: Bürgermeisterwahl in San Francisco
 
+<em>(Angelika)</em>
 San Francisco stand übrigens in den letzten Wochen ganz unter dem Einfluss 
 der Bürgermeisterwahl und dazu gibt es einiges Interessantes anzumerken. Wie 
 ihr vielleicht wisst, war und ist Willie Brown 

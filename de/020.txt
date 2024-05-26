@@ -8,6 +8,7 @@ Zeit vergeht! Michael macht den Anfang:
 
 @Z: Personalisierte Nummernschilder
 
+<em>(Michael)</em>
 Sicher ist euch schon mal aufgefallen, dass es in den USA Autos gibt,
 die mit seltsamen Nummernschildern rumfahren. Normalerweise ist's ja
 eine Zahl, drei Buchstaben und nochmal drei Zahlen (z.B. "2ZAP438")
@@ -74,6 +75,7 @@ nach. Ihr werdet es sehen -- "PERL MAN" ist weg, da wart ihr zu spät dran!
 
 <pic images/franklin.ps Der Franklin-Kalender im Einsatz>
 
+<em>(Michael)</em>
 Bei Netscape lief neulich ein Ganztageskurs über Time-Management,
 für den ich mich einschrieb. Die Firma
 "Franklin/Covey" bietet Kurse an, in denen man lernt,
@@ -125,6 +127,7 @@ kleines Kalenderlein auf dem Gabentisch ...).
 
 <pic images/shoes.ps Michaels Turnschuhe>
 
+<em>(Michael)</em>
 Ich ziehe ja bekanntermaßen nur noch Turnschuhe an. Natürlich nicht
 irgendwelche Billig-Botten vom Supermarkt, sondern Top-High-Tech-Treter
 von Mizuno. Vergesst Addidas. Vergesst Nike. Vergesst Rebook. 
@@ -171,6 +174,7 @@ Na, ihr glaubt aber auch alles.
 
 @Z: Schafkopf im Valley
 
+<em>(Michael)</em>
 Ich hatte euch ja schon von meinem Arbeitskollegen Dieter erzählt, der
 in Santa Cruz wohnt und auch bei Netscape arbeitet -- ihr wisst schon,
 der mit der Bayernfahne am Cubicle. 
@@ -223,6 +227,7 @@ gewinnen, braucht's mehr. Viel mehr. Oh, ja. Ha! Ich kann euch sagen ...
 
 @Z: Internetanschluss im Weltraumzeitalter
 
+<em>(Michael)</em>
 Im Internetzeithalter gibt es natürlich kein Rasten oder Zaudern --
 da muss man der Konkurrenz immer einen Schritt vorauseilen. Und
 aus Europa (genaugenommen von einem Herrn aus der Schweiz) vernahm
@@ -330,6 +335,7 @@ wir ja alle nochmal Glück gehabt.
 
 @Z: Elektrische Zahnbürste
 
+<em>(Michael)</em>
 Und noch eine aufregende Neuigkeit. Darauf habt ihr alle gewartet. 
 Setzt euch hin. Jetzt kommt's:
 Wir haben uns eine neue elektrische Zahnbürste gekauft. "Oh mei, oh mei",
@@ -346,6 +352,7 @@ Sofort kaufen! Unter http://www.sonicare.com stehen mehr Informationen.
 
 @Z: Neujahr
 
+<em>(Angelika)</em>
 Genug mit dem Kommerzgefasel! Hier kommt Angelika:
 Sicher habt ihr schon mitbekommen, dass auch 
 San Francisco von den vorausgesagten Katastrophen verschont 
@@ -394,6 +401,7 @@ Wir gratulieren dem glücklichen Gewinner herzlich!
 
 @Z: Fotonews
 
+<em>(Angelika)</em>
 Im Rahmen einer meiner Kurse an der Uni Berkeley
 lief im Januar und Februar wieder eine Ausstellung:
 Zwei meiner Fotos hingen an der Wand. 
@@ -408,6 +416,7 @@ es noch!
 
 @Z: Bürgermeisterwahlen und Homo-Ehe
 
+<em>(Angelika)</em>
 Denn besonders den politischen Themen will ich mich heute widmen:
 Der Bürgermeister von San Francisco heißt auch weiterhin 
 Willie Brown -- der Kandidat Tom Ammiano verlor die Stichwahl am 14. 
@@ -524,6 +533,7 @@ wird also in den Gesetzestext aufgenommen.)
 
 @Z: Präsidentenwahlen
 
+<em>(Angelika)</em>
 Dann habt ihr vielleicht in Deutschland auch mitbekommen, 
 dass Bill Clinton seine letzte Rede zur Lage der Nation ("State 
 of the Union") gehalten hat, da ja seine Amtsperiode schon 
@@ -575,6 +585,7 @@ Man darf gespannt sein.
 
 @Z: Benetton und Todesstrafe
 
+<em>(Angelika)</em>
 Dann ist hier zur Zeit die Werbekampagne der italienischen 
 Textilfirma Benetton in aller Munde. Benetton ist ja dafür 
 bekannt, mit außergewöhnlichen und provozierenden 
@@ -612,6 +623,7 @@ Präsident der USA werden wird.
 
 @Z: Wer heiratet einen Millionär?
 
+<em>(Angelika)</em>
 Und dann durften wir hier noch dem Gipfel der 
 Geschmacklosigkeit im amerikanischen Fernsehen beiwohnen. 
 Sicher wird das aber das deutsche Fernsehen nicht daran 
@@ -667,6 +679,7 @@ Nachrichtenagenturen verzweigen.
 
 @Z: Zu Visum und Greencard
 
+<em>(Angelika)</em>
 Nun aber zu etwas ganz anderem: Wie wir ja schon mehrmals 
 erwähnt haben, läuft unser Visum Ende Juli diesen Jahres 
 aus. Da wir noch gerne etwas bleiben möchten, haben wir 
