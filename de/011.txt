@@ -2,7 +2,8 @@ San Francisco, den 20.11.98
 
 Hallo liebe Leute aus der Heimat,
 
-<HTMLONLY><I>(Michael)</I></HTMLONLY> Nachdem Angelika mächtig 
+<em>(Michael)</em>
+Nachdem Angelika mächtig 
 herumg'schaftelt mit ihren Uni-Berkeley-Kursen, 
 muss ich, euer lieber Michael, mal wieder einen Rundbrief ganz alleine
 bestreiten. Zu Weihnachten, das hat die vielbeschäftigte Dame versprochen,
@@ -16,6 +17,7 @@ aushält, muss den Brief wegwerfen oder den Computer abschalten. Jetzt!
 
 <pic images/molokai3.ps Das Flugzeug nach Molokai>
 
+<em>(Michael)</em>
 Die Hälfte unseres diesjährigen Jahresurlaubs (eine Woche) haben wir 
 auf der kleinen Insel Molokai im Hawaii-Archipel verbracht. Hawaii ist 
 für uns
@@ -152,6 +154,7 @@ der Landung ein T-Shirt mit dem Rennmotiv geschenkt.
 
 @Z: Neuer Computer über's Internet
 
+<em>(Michael)</em>
 Zurück nach San Francisco:
 Nachdem mein guter alter 486-Computer, der noch aus deutschen Landen
 stammt (sponsored by Mutti!), nach mittlerweile vier Jahren schon 
@@ -198,6 +201,7 @@ um 11:00 vormittags -- wenn das kein Fortschritt ist!
 
 @Z: Buchpreisbindung in den USA
 
+<em>(Michael)</em>
 Übrigens bestellen wir auch unsere Bücher auf dem Internet -- wann
 immer wir uns für ein Buch interessieren, der Amazon, ein Buchversand,
 bietet alle Bücher um 20% billiger auf dem Internet an. Man bestellt
@@ -235,6 +239,7 @@ in die rotierende Trommel starrt.
 
 @Z: Autokauf in den USA
 
+<em>(Michael)</em>
 Ein interessanter Markt ist auch der Automarkt.
 Wir haben immer noch kein Auto gefunden -- noch scheuen wir uns, einen
 Händler aufzusuchen, da bekannt ist, dass die alle Verbrecher sind
@@ -259,6 +264,7 @@ viel Zeit und Nerven, aber das wird schon noch klappen.
 
 @Z: Das All-Hands-Meeting bei AOL
 
+<em>(Michael)</em>
 Am 12. November war das All-Hands-Meeting von America Online. 
 Das geht so vor sich, dass sich die etwa 5000 Mitarbeiter, die im 
 Hauptquartier in Dullas/Virginia und Umgebung arbeiten, in einer Sporthalle 
@@ -298,6 +304,7 @@ der Chief Operating Officer ist, kommt in Lederjacke und Sonnenbrille
 
 @Z: Am Wochenend ins Nappa
 
+<em>(Michael)</em>
 Da, wie ihr sicher alle wisst, der 12. November auch mein Geburtstag ist, und 
 ich etwas, äh, in der Firma festgenagelt war, habe ich den nächsten 
 Tag freigenommen und Angelika und ich sind über das verlängerte Wochenende
