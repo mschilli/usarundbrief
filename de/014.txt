@@ -107,6 +107,8 @@ Ganze sieht auf jeden Fall besser aus als mein Abitur- und Unizeugnis.
 
 @Z: Feuerwehrfrau Angelika
 
+<pic images/nert.ps Angelika, die Erdbebenhelferin>
+
 <em>(Angelika)</em>
 Letzte Woche habe ich dann gleich noch eine rahmenswerte Urkunde 
 erhalten und zwar  von der Feuerwehrbehörde in San Francisco. 
@@ -163,8 +165,6 @@ das Thema noch so  ernst sein wie z.B. bei dem Erdbebentraining.
 Manchmal hat man das Gefühl, dass alles  eine große Show ist. Auf der 
 anderen Seite machen Kurse wirklich viel mehr Spaß und  sind in der 
 Regel nicht so trocken wie in Deutschland.
-
-<pic images/nert.ps Angelika, die Erdbebenhelferin>
 
 @Z: Produkthaftung
 
