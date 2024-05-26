@@ -4,7 +4,7 @@ San Francisco, den 29.05.2006
 
 @Z: Alaska
 
-(<em>Michael</em>)
+<em>Michael</em>
 Immer wieder haben uns Leute von Alaska vorgeschwärmt. Im Mai
 war es soweit und wir sind für fast zwei Wochen hingefahren. Alaska ist
 allerdings riesig und da das Terrain teilweise sehr unwegsam ist, haben
@@ -124,7 +124,7 @@ kleineren Stadt Homer fanden. Wer hätte das in Alaska vermutet?
 
 <pic images/kayak2.ps Angelika sitzt vorne in unserem Doppelkajak.>
 
-(<em>Michael</em>)
+<em>Michael</em>
 Um das Eismeer hautnah zu erleben, buchten wir in Homer eine
 Kajaktour, an der auch noch ein weiteres Urlauberpaar aus dem
 Bundesstaat Arizona teilnahm. Angelika und ich
@@ -170,7 +170,7 @@ einiges teurer werden können.
 
 <pic images/fish.ps Hafenarbeiter in Seward> 
 
-(<em>Michael</em>)
+<em>Michael</em>
 Der zwischen Alaska und Russland liegende Teil des pazifischen Ozeans,
 die so genannte Beringsee, ist die Heimat gigantischer Fischmassen. Laut
 dem Fischmuseum "SeaLife Center" 
@@ -211,7 +211,7 @@ aber sehr lecker.
 
 <pic images/blhouse.ps Häuser bei Homer, Alaska> 
 
-(<em>Angelika</em>)
+<em>Angelika</em>
 Als wir mit unseren Kajaks in den Gewässern der "Katchemak Bay"
 herumpaddelten, fiel uns auf, dass hier und da kleine, recht rustikale
 Hütten hinter den Bäumen auftauchten. Wir dachten natürlich sofort an
@@ -306,7 +306,7 @@ einigen Monaten von Jägern gefunden wurde.
 
 @Z: Bushlines
 
-(<em>Michael</em>)
+<em>Michael</em>
 Viele Haushalte in Alaska, die etwas abseits liegen, 
 haben immer noch kein Telefon. Um diesen Leuten Nachrichten
 zuzuspielen, gibt es die so genannten "Bushlines", Textzeilen ("lines"), die
@@ -327,7 +327,7 @@ ein Telefon hat, oder?
  
 <pic images/puffins.ps Die süßen Puffins> 
 
-(<em>Angelika</em>)
+<em>Angelika</em>
 Jeder, der mindestens ein Jahr lang in Alaska gelebt hat, bekommt Geld
 dafür. Der "Alaska Permanent Fund" macht
 es möglich. Er zahlt nämlich jährlich eine Dividende an die Bewohner
@@ -363,7 +363,7 @@ gescheitert.
 
 <pic images/hike2.ps Auf dem Weg zum Glacier Lake, nachdem das Wassertaxi uns in einer einsamen Gegend ausgesetzt hat> 
 
-(<em>Angelika</em>)
+<em>Angelika</em>
 In Alaska ist der Weg wirklich das Ziel, denn vielfach stellt es die
 eigentliche Herausforderung dar, zunächst irgendwo hinzukommen. Es gibt
 nur wenig Straßen in Alaska und kleine Flugzeuge, wie z.B. die netten
@@ -428,7 +428,7 @@ mich lieber auf die Bärengefahr.
 
 <pic images/bear2.ps Ein Schwarzbär, etwa hundert Meter entfernt> 
 
-(<em>Michael</em>)
+<em>Michael</em>
 Wie gesagt ist es ziemlich normal, in Alaska auf Bären zu treffen.
 Mit ihnen ist nicht zu spaßen. Sie hauen zwar normalerweise sofort
 ab, falls sie Menschen sehen, besonders wenn diese groß sind und/oder
@@ -495,7 +495,7 @@ Wanderungen unternähmen.
 
 <pic images/glac4.ps "Exit Glacier" in Seward> 
 
-(<em>Angelika</em>)
+<em>Angelika</em>
 In der Stadt Seward stellten wir überrascht fest, 
 dass Besucher des "Kenai Fjords Nationalparks" mit geringstem 
 Aufwand an den so genannten 
@@ -534,7 +534,7 @@ herumspazieren. Mein alter Erdkundelehrer wäre ausgerastet!
 
 <pic images/orca3.ps Killerwal> 
 
-(<em>Michael</em>)
+<em>Michael</em>
 Natürlich dürft ihr jetzt nicht denken, dass man einfach auf einem
 Boot herumschippert und einen Wal sichtet. Das ist auch in Alaska sehr
 selten, manchmal sieht man auf einer ganztägigen Tour nur ein paar
@@ -562,7 +562,7 @@ Francisco.
 
 <pic images/eagle4.ps Weißkopfadler an der Hafeneinfahrt von Homer> 
 
-(<em>Angelika</em>)
+<em>Angelika</em>
 In Alaska gibt es nun nicht nur Bären und haufenweise
 Weißkopfseeadler ("bald eagle", das Wappentier der USA)
 zu bewundern, sondern auch Elche ("moose") hüpfen
