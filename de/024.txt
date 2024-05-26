@@ -9,6 +9,7 @@ gelassen. Ich mache also den Anfang. Na dann mal los:
 
 @Z:Fitness
 
+<em>(Angelika)</em>
 Wie ihr vielleicht wisst, gilt Kalifornien als absolute 
 Fitnesshochburg. Hier gibt man sich gern 
 gesundheitsbewusst, was nicht nur dazu geführt hat, dass 
@@ -157,6 +158,7 @@ Yoga doch nicht so ganz das Richtige für mich ist.
 
 @Z: Die Fernsehsendung "Survivor"
 
+<em>(Angelika)</em>
 Schon öfter haben wir ja von amerikanischen 
 Medienereignissen berichtet. Und dieses Mal ist es wieder 
 so weit. Wie wir in der Süddeutschen Zeitung lesen 
@@ -234,6 +236,7 @@ einiges an lebensgefährlichem Getier gibt.
 
 @Z: Handy-Plage
 
+<em>(Angelika)</em>
 Da Michael euch in seinem Teil erklären wird, wie man in 
 Amerika telefoniert, schreibe ich euch, sozusagen zum 
 Thema passend, noch etwas über die Handy-Plage in Amerika.
@@ -297,6 +300,7 @@ die Störungsstelle anriefen, weil immer besetzt war, kommt mir
 
 @Z: Ausländer
 
+<em>(Angelika)</em>
 Bevor ich nun an Michael übergebe, möchte ich mich noch 
 für die zahlreichen Zuschriften bezüglich meiner Anfrage 
 zur wachsenden Ausländerfeindlichkeit und 
@@ -327,7 +331,7 @@ Konzentrationslager verloren.
 Hm, da wird der Übergang jetzt schwer, aber ich wollte das 
 nur noch loswerden..
 
-<HTMLONLY><I>(Michael)</I></HTMLONLY>
+<em>(Michael)</em>
 Na, das kann man wohl sagen. Deswegen auch noch mein Senf dazu: Als 
 Ausländer zu leben, schärft die Sinne für Belange dieser Art. 
 Mir ist es noch kein einziges Mal passiert, dass mich irgendein
@@ -349,6 +353,7 @@ zur Grenze des Bundesstaates Oregon, wo der "Lassen Nationalpark" liegt.
 
 @Z: Der Lassen Nationalpark
 
+<em>(Michael)</em>
 In dem kleinen Ort "Mineral", der laut Ortsschild 90 Einwohner hat, quartierten
 wir uns für drei Tage in einem Motel ein. Tagsüber stiefelten wir
 durch's Gebirge -- an einem Tag gleich 20 Kilometer! Hierfür
@@ -433,6 +438,7 @@ Doch zurück in die Zivilisation!
 
 @Z: Tipps zum Telefonieren
 
+<em>(Michael)</em>
 In unserer Serie "Amerika für Touristen" nehmen wir heute durch, wie man
 hierzulande telefoniert. Zuerst einmal: Wie telefoniert man ins Land rein?
 Man hat eine amerikanische Telefonnummer, die wie (415) 642-4321 aussieht.
@@ -692,6 +698,7 @@ anderswo wieder ab" ab.
 
 @Z: Kalifornische Weintipps
 
+<em>(Michael)</em>
 So, nun zu einer neuen Rubrik im Rundbrief: Jedes Mal werden wir zwei 
 Weine aus einem kalifornischen Weinbaugebiet untersuchen.
 Wir fahren ja seit je her gern am Wochenende
@@ -748,6 +755,7 @@ fertig damit.
 
 <pic images/quake.ps Ein Erdbeben der Stärke 5.2> 
 
+<em>(Michael)</em>
 Übrigens hatten wir neulich ein Erdbeben der Stärke 5.2! Am Samstag, den
 3.9. kamen wir spät heim, weil unsere Freundin Anne ihren Schlüssel 
 eingeschlossen hatte und wir deshalb einige Zeit in der Bar des 

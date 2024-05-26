@@ -5,9 +5,8 @@ San Francisco, den 1.11.2000
 
 @Z: Hawaii: Big Island
 
-Hallo daheim,
-
-(Michael) wir waren mal wieder 
+<em>(Michael)</em>
+Hallo daheim, wir waren mal wieder 
 auf Kurzurlaub -- ganze eineinhalb Wochen lang, schier
 unglaublich! Weil ich jetzt schon drei Jahre bei AOL bin, gibt's statt
 der üblichen zwei satte drei Wochen Urlaub. Wohin? Hawaii natürlich, 
@@ -113,7 +112,8 @@ unter die Leute trauen.
 <pic images/bi16.ps Der Vulkan raucht und zischt überall>
 <pic images/bi8.ps Die halbe Insel sieht aus wie ein umgepflügter Acker>
  
-(Angelika) Dieses Mal zeigt sich Michael doch tatsächlich von seiner 
+<em>(Angelika)</em>
+Dieses Mal zeigt sich Michael doch tatsächlich von seiner 
 großzügigen Seite und lässt mich unsere spektakuläre 
 Wanderung zur noch fließenden Lava schildern -- eine der 
 abenteuerlichsten und eindruckvollsten, die wir bis jetzt 
@@ -323,7 +323,7 @@ Orange auf mich zufloss, konnten wir nur noch staunen.
 Obwohl sich der Rückweg dann doch quälend hinzog, waren 
 auch wir wie berauscht und würden den weiten Weg jederzeit wieder laufen.
 
-(Michael)
+<em>(Michael)</em>
 Wenn ihr wissen wollt, wie die Lava nach Abbildung 1 am Anfang des
 Rundbriefs weiterfloss, braucht ihr euch nur Abbildung 10 anzusehen,
 das war wirklich beeindruckend. <CONFIDENTIAL>Auf der Internetseite 

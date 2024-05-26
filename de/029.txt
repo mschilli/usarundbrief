@@ -4,7 +4,8 @@ San Francisco, den 10.03.2001
 
 @Z: Mit Anleitung durch Chinatown
 
-<HTMLONLY><I>(Michael)</I></HTMLONLY> Auch nach mehr als 
+<em>(Michael)</em>
+Auch nach mehr als 
 vier Jahren in San Francisco finden wir immer noch 
 versteckte Attraktionen in der Stadt. So verkleiden 
 Angelika und ich uns von Zeit zu Zeit als deutsche 
@@ -168,6 +169,7 @@ siebzig Dollar!
 
 <pic images/sobe.ps Das aktuelle Rundbrief-Top-Produkt: Der Saft von SoBe>
 
+<em>(Michael)</em>
 Und auch diesmal gibt's wieder ein Rundbrief-Top-Produkt! 
 Heute: Die Säfte von der Firma SoBe. Nein, das ist kein 
 scharfes ß, was ihr da seht, sondern ein großes B -- dass 
@@ -199,6 +201,7 @@ drei Zentimeter im Durchmesser und damit vorbildlich.
 
 <pic images/movie.ps Wieder mal ein Filmteam in San Francisco>
 
+<em>(Michael)</em>
 In San Francisco werden erwartungsgemäß viele Filme 
 gedreht. Es ist ja auch eine der schönsten Städte der 
 Welt, und außerdem gibt's hier diese irre steilen Straßen. 
@@ -248,6 +251,7 @@ um ein Autogramm anhaut.
 
 <pic images/deloach.ps Ein klasse Wein: der DeLoach Zinfandel 1998>
 
+<em>(Michael)</em>
 Und hier wieder unsere beliebte Rubrik: Die besten Weine 
 aus Kalifornien! Heute: Der "DeLoach Zinfandel 1998". 
 Unwissend kaufte ich ihn von unserem Lieblingssupermarkt 
@@ -263,6 +267,7 @@ da gibt's kaum einen Wein unter 20 Dollar, der das schafft.
 
 <pic images/cop.ps Ein Motorrad-Bulle schreibt einen neuen VW-Käfer auf.>
 
+<em>(Michael)</em>
 Und hier noch das Foto des Monats, gekürt vom 
 Rundbrief-Team: Ein Motorrad-Bulle schreibt einen "New 
 Beetle" auf, der an einer abgelaufenen Parkuhr steht. Ich 
@@ -277,6 +282,7 @@ auch eine Chance!
 
 <pic images/schnee.ps Die rasenden Rundbriefreporter in ihrem Tourmobil (Aschaffenburger Kennzeichen) auf Deutschlandtournee -- im Schnee!>
 
+<em>(Michael)</em>
 Und hier die Sensation! Die beiden rasenden 
 Rundbriefreporter haben sich in ein Flugzeug gesetzt, sind 
 11 Stunden später aus demselben wieder ausgestiegen und 
@@ -547,7 +553,7 @@ treffen, liebe Rundbriefleser! Das war wirklich eine
 aufregende Zeit für uns und ihr habt sie uns so angenehm 
 bereichert. Bis in vier Jahren! Bahn frei für Angelika! 
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY>
+<em>(Angelika)</em>
 Hurra! Ich bin endlich dran. Zunächst rufe ich hier 
 schnell in Erinnerung, dass ich nicht nur in 
 Süddeutschland weilte während unseres 

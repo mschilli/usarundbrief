@@ -6,7 +6,7 @@ Liebe Rundbrief-Freunde!
 
 @Z: Fotos im Rathaus von San Francisco 
 
-<HTMLONLY><I>(Angelika)</I></HTMLONLY>
+<em>(Angelika)</em>
 Hurra! Heute fange ich an und gebe gleich 
 mit meiner Fotoausstellung im Rathaus von San Francisco an. 
 Bürgermeister Willie Brown hat damit allerdings nichts zu tun.
@@ -100,6 +100,7 @@ genug von meiner Fotografiererei.
 
 @Z: Wirtschaftskrise
 
+<em>(Angelika)</em>
 Sicher habt ihr schon in diversen Zeitungen gelesen, dass 
 sich der amerikanische Wirtschaftsboom
 deutlich verlangsamt hat.  Nun ist es ja eine Sache, davon in der
@@ -178,6 +179,7 @@ Amerikaner besetzen könnten.
 
 @Z: Neuerungen im Einwanderungsgesetz
 
+<em>(Angelika)</em>
 Neulich berichtete das Fernsehen darüber, dass viele
 entlassene H-1B-Inhaber keinen neuen Arbeitgeber 
 finden, der auch bereit ist, die erneuten 
@@ -223,6 +225,7 @@ alles wieder rückgängig macht.
 
 <pic images/ps.ps Pink-Slip-Parties für arbeitslose Dotcommer>
 
+<em>(Angelika)</em>
 Kalifornier sind ja 
 bekannt dafür, dass sie einen unerschöpflichen Optimismus 
 und Erfindungsreichtum an den Tag legen. So gibt es jetzt 
@@ -241,6 +244,7 @@ Idee!
 
 @Z: Steuererklärung
 
+<em>(Angelika)</em>
 Am 15. April gaben wir wieder einmal pflichtgemäß unsere
 amerikanische Steuererklärung ab. Ich musste mich
 wochenlang durch einen Berg von skurrilen 
@@ -273,7 +277,7 @@ um reguläres Einkommen handelte. Und nun erteile ich Michael das Wort.
 
 @Z: Konto/Schecks/Geldautomaten in den USA
 
-<HTMLONLY><I>(Michael)</I></HTMLONLY>
+<em>(Michael)</em>
 Danke! Hin und wieder taucht etwas Neues auf, da denke ich mir: 
 Die Idee hätte auch von mir sein können. Neulich flatterte 
 mit der Kontoabrechnung ein Prospekt ins Haus, der verhieß, 
@@ -588,6 +592,7 @@ anpriesen, hätte ich dagegen womöglich nichts einzuwenden.
 
 @Z: Gung Ho
 
+<em>(Michael)</em>
 Ich wäre "gung ho", sozusagen! Denn schon sind wir wieder 
 bei unserer Rubrik "Lerne amerikanisch sprechen mit den 
 Profis". "Gung ho" (gesprochen Gang ho) ist ein Ausdruck, 
@@ -602,6 +607,7 @@ Ohne Schmarr'n, das ist ein recht gebräuchlicher Ausdruck!
 
 <pic images/sfmara.ps Marathon in SF>
 
+<em>(Michael)</em>
 Am 8. Juli werde ich den San-Francisco-Marathon mitlaufen. 
 Jawohl, ihr habt richtig gehört: Der rasende 
 Rundbriefreporter wird sich seine Laufschuhe umschnallen 
@@ -684,6 +690,7 @@ angeben wie zehn nackte Wilde, keine Sorge.
 
 <pic images/krugs.ps Charles Krug, Napa Valley Cabernet Sauvignon, 1998>
 
+<em>(Michael)</em>
 Und hier wieder die beliebte Rubrik: 
 Jetzt-trink'-mer-no-ein-Fla-scherl-Wein! Diesmal ein 
 delikates Weinderl, das für 13 Dollar beim Riesensupermarkt 
@@ -702,6 +709,7 @@ hervorragendes Perl-Buch zu lesen. Aaah ....
 
 <pic images/tivobox.ps Kabelbox, Video-Rekorder und TiVo-Kasten>
 
+<em>(Michael)</em>
 Und hier das Rundbrief-Top-Produkt: Der TiVo-Kasten. Ihr in 
 Deutschland habt ja mittlerweile auch das Problem, dass nur 
 noch Kacke im Fernsehkasten kommt, die auch noch laufend 

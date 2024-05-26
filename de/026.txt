@@ -5,7 +5,7 @@ San Francisco, den 04.12.2000
 
 <pic images/f1.ps Ein Kopf-an-Kopf-Rennen in Florida.>
 
-<HTMLONLY><I>Angelika</I>:</HTMLONLY>
+<em>(Angelika)</em>
 Amerika hat noch immer keinen neuen Präsidenten. 
 In Deutschland beobachtet ihr diesen Wahlkrimi sicherlich 
 mit einem Kopfschütteln und vielleicht auch mit 
@@ -235,7 +235,7 @@ sehr befremdlich. Dass das Ausland sich heftig über
 Amerika lustig macht, wird natürlich nicht erwähnt. Wie 
 dem auch sei, es bleibt spannend...
 
-<HTMLONLY><I>Michael</I>:</HTMLONLY>
+<em>(Michael)</em>
 Endlich, endlich komme ich dran! 
 Zur heutigen Rundbrief-Quizfrage: Für welchen
 Kandidaten hätte Angelika gestimmt, hätte sie wählen dürfen?
@@ -252,6 +252,7 @@ demnach weniger Wahlmänner stellen.
 
 <pic images/aol.ps Im Hauptquartier von AOL>
 
+<em>(Michael)</em>
 Neulich war ich wieder einmal für ein paar Tage in Dulles, Virginia, 
 um dort bei AOL einige Dinge zu erledigen. Als auf dem 
 Heimweg unser Flugzeug Verspätung hatte und wir uns noch
@@ -272,6 +273,7 @@ Und das in Dulles/Virginia! Was der wohl da machte?
 
 @Z: Green Day
 
+<em>(Michael)</em>
 Nun zu den Lokalnachrichten.
 Wer das neue Album "Warning" 
 der weltbekannten Gruppe "Green Day" gekauft hat,
@@ -310,6 +312,7 @@ Seite der Bay Bridge.
 
 @Z: Weintipps
 
+<em>(Michael)</em>
 Zu unserer Wein-Rubrik: Paula Bosch von der Süddeutschen Zeitung hat
 sich noch nicht gemeldet, also scheinen unsere Tipps zumindest nicht grob
 falsch zu sein. Hier kommt der nächste: Bei einer unserer Exkursionen
@@ -326,6 +329,7 @@ Pappenstiel, aber das Geld ist gut angelegt.
 
 @Z: Redefreiheit
 
+<em>(Michael)</em>
 Nun zu Michaels heutigem Schwerpunktthema: Redefreiheit in den USA! 
 Der Verfassung hier sind einige 
 Anhänge angeschlossen, die sogenannten Amendments. Das erste Amendment 
@@ -461,6 +465,7 @@ aus der Church Street.
 
 <pic images/salat.ps Eine Woche landunter wegen Computerumrüstung>
 
+<em>(Michael)</em>
 Letzte Woche verbrachte ich unter dem Wohnzimmertisch mit meinem
 aufgeschraubten Computer. Leichtsinnigerweise hatte ich mir von einem
 Internetversand neue Hardware gekauft. Für die Insider: Eine
@@ -482,6 +487,7 @@ von wann ist egal, es ist einfach zeitlos gut.
 
 <pic images/suepple.ps Mittagessen: Chinesische Entensuppe -- schmackofatz!>
 
+<em>(Michael)</em>
 Angelika hat mir ja zum Geburtstag eine Digitalkamara geschenkt und
 damit fotografiere ich jetzt den ganzen Tag die dusseligsten Sachen. Ob
 beim Einkaufen, zur Arbeit oder Mittagessen -- die Kamera ist überall
@@ -499,6 +505,7 @@ der alte Dödel. Ach ja, aber lustig war's!
 
 @Z: Rundbrief-Topprodukt
 
+<em>(Michael)</em>
 Und nachdem Amerika dem Rest der Welt zumindest im
 Konsumgüterbereich immer leicht voraus ist, wollen
 wir euch in Europa mit dem aktuellen Rundbrief-Top-Produkt immer
@@ -522,6 +529,7 @@ Produkte lesen kann.
 
 @Z: Japanische Supermärkte
 
+<em>(Michael)</em>
 Mit meiner japanischen Arbeitskollegin Rika fuhr
 ich mal in der Mittagspause im "Nijia"-Supermarkt vorbei und ließ mir
 die Waren erklären. Das waren einerseits Sachen, die ich aus Restaurants 

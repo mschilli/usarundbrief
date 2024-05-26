@@ -4,7 +4,8 @@ San Francisco, den 01.08.2000
 
 @Z: Endlich Ikea 
 
-(Michael): Im November 99 hatte ich ja schon einmal berichtet, 
+<em>(Michael)</em>
+Im November 99 hatte ich ja schon einmal berichtet, 
 dass in Oakland, 
 direkt auf der anderen Seite der San-Francisco-Bay, ein großer Ikea 
 aufmachen sollte. Als Europäer
@@ -64,6 +65,7 @@ Museumsbesuch aussehen zu lassen, wenn man schon keine Möbel fände.
 
 @Z: Bay to Breakers
 
+<em>(Michael)</em>
 Wie jedes Jahr fand auch heuer im Mai der Stadtlauf "Bay to Breakers" statt,
 an dem euer werter Erzähler ja traditionsgemäß teilnimmt. Im Rahmen
 des Rundbriefs wurde ja schon einmal darüber berichtet, da aber ein
@@ -110,6 +112,7 @@ so eine Frechheit! Na, wartet nur, bis ich 50 bin ...
 
 @Z: Amerikanisch sprechen mit den Profis
 
+<em>(Michael)</em>
 Und hier ist wieder die Rubrik "Lerne Amerikanisch sprechen mit den 
 Profis"! Heute geht es los mit zwei Wörtern, mit denen man hohe Tiere,
 Wichtigtuer und Gschaftelhuber bezeichnet: "Bigwig" (wörtlich:
@@ -133,6 +136,7 @@ Fingern herausgeholt und weggeworfen wird.
 
 @Z: US-Warenkorb
 
+<em>(Michael)</em>
 Wir wohnen ja nun auch schon fast vier Jahre im Ausland! Immer wenn
 Besuch aus deutschen Landen bei uns in San Francisco eintrudelt, wird uns
 diese Tatsache bewusst. Ich glaube, diesen Sommer waren ungefähr 20 Leute 
@@ -185,6 +189,7 @@ Billiges Motel (DZ) in San Francisco & 85.00 & 177.65 \\
 
 @Z: Was Deutsche falsch machen in Amerika
 
+<em>(Michael)</em>
 Nun zu unserer neuen Rubrik: Was Deutsche immer falsch machen in Amerika.
 Sie setzen sich ins Restaurant, und, kommt der Kellner und fragt, was
 man bestellen will, sagen sie: "I take the steak". Aaah! Das entlarvt 
@@ -410,6 +415,7 @@ dass ihr überall gut durchkommt!
 
 @Z: Ritschratschklick und Thump!
 
+<em>(Michael)</em>
 Angelika hat im Rahmen ihrer Fotografie-Kurse festgestellt, dass traditionelle
 Spiegelreflexkameras keineswegs die Bildqualität liefern, die die
 Dame sich vorstellt, hust, hust. In der Tat gibt es sogenannte
@@ -459,7 +465,7 @@ glatt ein Tourist, ob sie eine Geologin sei. Haha! Bahn frei für Angelika!
 
 <pic images/otzen.ps Die Frau Fotografin mit der Hasselblad 503> 
 
-(Angelika:)
+<em>(Angelika)</em>
 So, jetzt aber, ich will schließlich auch noch einmal zu Wort kommen. 
 Michael hat ja schon von meiner unermüdlichen Anstrengung berichtet, eine 
 geeignete Mittelformatkamera für mich zu finden. Bis jetzt wurde noch keine 
@@ -482,6 +488,7 @@ Käuferin fand einfach, dass mein Foto ihr so viel wert ist.
 
 @Z: Abenteuer Spülmaschine
 
+<em>(Angelika)</em>
 Und von noch einem bahnbrechenden Ereignis will ich berichten. Wir haben uns 
 nach fast vier Jahren eine Spülmaschine gekauft. Nun werdet ihr das 
 vielleicht für nicht allzu spannend halten, aber ich sage euch, wer weiß, 
@@ -518,6 +525,7 @@ Geschirrspülmaschine. HURRA!!!
 
 @Z: Mietbedingungen in San Francisco
 
+<em>(Angelika)</em>
 Michael hat sich ja die Mühe gemacht und euch mit einem Warenkorb beglückt. 
 Vielleicht habt ihr dabei im ersten Moment gedacht, bei dem Preis von $2000 
 für eine Zweizimmerwohnung in unserem Viertel handelt es sich um einen

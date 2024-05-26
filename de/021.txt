@@ -4,7 +4,7 @@ Meine lieben Schulkinder,
 
 <pic images/stb2.ps Am Big Sur>
 
-<HTMLONLY><I>(Michael)</I></HTMLONLY> 
+<em>(Michael)</em>
 heute haben wir Sonderstudienrat Michael
 zu Gast, der ausnahmsweise die Geschichtsstunde halten wird. Ruhe! Schhhh!
 Ja, sag' einmal ... Bande! Euch schick' ich alle zum Direktor! Na also! 
@@ -26,6 +26,7 @@ picture, wie der Amerikaner sagt.
 
 <pic images/missions2.ps Die Missionen entlang der kalifornischen Küste>
 
+<em>(Michael)</em>
 Und das kam alles um 1600, als die Spanier sich in Schiffe setzten, um
 die Welt zu erobern. Sie segelten herum und kamen auf die Idee, 
 sich auf dem amerikanischen
@@ -75,6 +76,7 @@ Gehabt's euch wohl, habe die Ehre!"
 
 @Z: Santa Barbara
 
+<em>(Michael)</em>
 Warum ich das erzähle? Im März haben wir die Gelegenheit genutzt, um mal 
 wieder ein verlängertes Wochenende einzulegen, diesmal ging's runter
 nach Santa Barbara, fast bei Los Angeles.
@@ -126,6 +128,7 @@ mit dem Beeper nicht zu weit weg, wenn ihr einen Tisch wollt!
 
 @Z: Mindestlohn und Sweatshops
 
+<em>(Michael)</em>
 In Santa Barbara begab es sich auch, dass wir von Demonstranten einen Zettel
 in die Hand gedrückt bekamen: Der Klamottenladen GAP, eine
 sehr bekannte Kleiderkette in den USA, wurde beschuldigt, Leute unter
@@ -176,6 +179,7 @@ ich suche.
 
 <pic images/webvan.ps Der WebVan in Aktion>
 
+<em>(Michael)</em>
 Und wieder was Neues vom Internet gibt's: Da Lebensmittel einkaufen nicht
 gerade zu den interessantesten Tätigkeiten gehört, auch wenn die Läden
 Tag und Nacht und werktags und am Wochenende aufhaben, gibt's jetzt einen
@@ -206,6 +210,7 @@ so viele junge Betriebe im Internetsektor pleite).
 
 @Z: Volkszählung
 
+<em>(Michael)</em>
 Und eine Volkszählung gab's neulich: Dem Amerikaner ist ja das
 Einwohnermeldeamt fremd wie dem Deutschen das Freundlichsein.
 Deswegen hat zum Beispiel die Stadt San Francisco keine Ahnung, wieviele
@@ -258,6 +263,7 @@ auseinanderziehen.
 
 @Z: Friseure in den USA
 
+<em>(Michael)</em>
 Und noch eine Geschichte, die so wirr ist, dass sie kaum zu glauben ist:
 Jeder, der schon mal in Amerika war, weiß, dass es sehr schwierig
 ist, einen Frisör zu finden, der auch wirklich in der Lage ist, Haare
@@ -319,6 +325,7 @@ Deutschland zurückzukehren ...
 
 <pic images/aol.ps Meine Visitenkarte bei AOL>
 
+<em>(Michael)</em>
 Vielleicht ist euch schon aufgefallen, dass der amerikanische Präsident
 "Bill" Clinton heißt. "Bill" ist die Abkürzung für "William". Der
 Mann hat also in seinem Pass "William Clinton" stehen, aber die ganze
@@ -383,6 +390,7 @@ Ich heiße jetzt "Mike". Mal seh'n, wie lange mir das gefällt.
 
 @Z: Amerikanisch sprechen mit den Profis
 
+<em>(Michael)</em>
 Und ab diesem Rundbrief starten wir eine neue Reihe: Lerne amerikanisch
 sprechen mit den Profis! Mit jedem Rundbrief stellen wir drei Wörter
 oder Redewendungen vor, die typisch amerikanisch und sind und die
@@ -406,6 +414,7 @@ mit dem Visum und der Green Card in Amerika!
 
 @Z: Visa für die USA
 
+<em>(Angelika)</em>
 Sollte ich doch tatsächlich noch zum Zug kommen? Na dann schnell 
 in die Tasten gehauen, bevor Michael doch noch etwas einfällt.
 Nachdem ja plötzlich auch in Deutschland über ein 
@@ -992,6 +1001,7 @@ dem Artikel traktiert: <RBLINK>20000526#10</RBLINK>.
 
 <pic images/gcfinal.ps Die begehrte amerikanische Greencard>
 
+<em>(Angelika)</em>
 Die amerikanische Green Card ist im Gespräch, seit Bundeskanzler 
 Gerhard Schröder angekündigt hat, ausländische Computerexperten ins Land 
 zu holen. Doch auch im Land der unbegrenzten Möglichkeiten gilt es, viele 

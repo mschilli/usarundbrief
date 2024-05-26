@@ -5,7 +5,7 @@ San Francisco, den 17.01.2001
 
 <pic images/sw.ps Eine Pistole der Marke Smith \& Wesson (Model 745).>
 
-<HTMLONLY><I>(Michael)</I></HTMLONLY>
+<em>(Michael)</em>
 Gleich zum heutigen Schwerpunktthema: Ballermänner in den USA, bäng, bäng! 
 86 Millionen Amerikaner besitzen insgesamt etwa 240 Millionen Waffen.
 Hier ist
@@ -189,6 +189,7 @@ mir in der Stadt noch niemand so begegnet ist, aber wundern tät's mich nicht!
 <pic images/dvjunction.ps Die rasende Rundbriefreporterin Angelika fotografiert an einem Schauplatz am Ende der Welt>
 </HTMLONLY>
 
+<em>(Michael)</em>
 Hey, und wir waren mal wieder im Urlaub:
 Eigentlich wollten wir ja vor Weihnachten noch nach New York fahren. 
 New York zur Weihnachtszeit -- und egal, ob einem Weihnachten etwas bedeutet 
@@ -247,6 +248,7 @@ wollt, die Zimmernummer ist 534, im sogenannten "New York Tower" im
 
 @Z: Hotel-Schnickschnack
 
+<em>(Michael)</em>
 Zunächst standen wir vor dem Problem, unser Gepäck vom Auto, das wir
 in der Parkgarage geparkt hatten, ins Zimmer zu schaffen. 
 Wir hatten zwar nur zwei Reisetaschen dabei, 
@@ -276,6 +278,7 @@ Dann steigt man ein und fährt ab. Uff!
 
 @Z: Death Valley
 
+<em>(Michael)</em>
 Bevor wir Las Vegas verließen, stoppten wir noch an einem Supermarkt,
 um uns mit Lebensmitteln einzudecken. Gut gelaunt fotografierte ich 
 Angelika im Supermarkt beim Chips-Aussuchen (Bild
@@ -424,7 +427,7 @@ und 50 Jahre alte verfallene Häuser -- das ist in Amerika schon uralt!
 
 @Z: Reise nach Deutschland
 
-<HTMLONLY><I>(Angelika) </I></HTMLONLY>
+<em>(Angelika)</em>
 Michael besteht darauf, dass ich noch etwas zum Rundbrief 
 beitrage, bevor ich mich ins Flugzeug nach Deutschland 
 setze. <CONFIDENTIAL>Nun ja, da mein Abflug schon am Donnerstag, also 
@@ -450,6 +453,7 @@ halbe Studentenzeit Karten spielend in der Mensa.
 
 @Z: Politik-News
 
+<em>(Angelika)</em>
 Michael hat ja schon fleißig berichtet, was sich seit 
 unserem letzten Rundbrief alles so ereignet hat. Bleibt mir 
 noch hinzuzufügen, dass dieses Land mittlerweile auch 
@@ -508,6 +512,7 @@ nichts ausmachen.
 
 <pic images/pge.ps PG\&E: We deliver Energy -- oder auch nicht!>
 
+<em>(Angelika)</em>
 Ja, und von noch einem Politikum muss ich berichten. 
 Kalifornien kämpft gerade mit einer dicken Energiekrise. 
 Jeden Tag wird uns angedroht, dass sprichwörtlich die 
@@ -584,6 +589,7 @@ dem vermeintlichen Stromausfall fertig wird.
 
 @Z: Karaoke
 
+<em>(Angelika)</em>
 Nun möchte ich noch etwas zu eurer Erheiterung beitragen. 
 Wie Michael ja schon einmal erwähnte, werden wir in naher 
 Zukunft wahrscheinlich in Japan Urlaub machen. Deshalb gab es 
