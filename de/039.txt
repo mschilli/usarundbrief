@@ -5,7 +5,7 @@ San Francisco, den 17.09.2002
 
 <pic images/board.ps Surfer-Dude in San Diego>
 
-<HTMLONLY><I>Angelika:</I></HTMLONLY><PRINTONLY>{\em Angelika}</PRINTONLY>
+<em>(Angelika)</em>
 Als Michael sich, wie jedes Jahr, AOL-gesponsert
 zur Perl-Konferenz ins rund 1000 Kilometer südlich von
 San Francisco liegende San Diego aufmachte, dachte ich mir: 
@@ -255,6 +255,7 @@ erlangen - alles auf Eis gelegt nach den Terroranschlägen.
 
 @Z: Bundestagswahl: Im Ausland wählen 
 
+<em>(Angelika)</em>
 Mit Spannung verfolgen 
 wir hier den deutschen Wahlkampf. Schmunzelnd beobachteten 
 wir die Amerikanisierung des Wahlkampfes: Fernsehduelle, 
@@ -315,6 +316,7 @@ der Wahl)."
 
 @Z: Zurück zur Arbeit 
 
+<em>(Angelika)</em>
 Michael sehnte diesen Tag seit Jahren 
 herbei: Mit unserer neuen Greencard darf ich wieder arbeiten. 
 Bislang lag ich zwar auch nicht auf der faulen Haut, 
@@ -403,6 +405,7 @@ Kindesmißhandlung vorbestraft bin.
 
 @Z: Ab September: Fingerabdrücke bei der USA-Einreise 
 
+<em>(Angelika)</em>
 Falls 
 ihr demnächst als Tourist, Student oder auch als
 Geschäftsreisender in die USA einreist und zusäzlich die 
@@ -431,7 +434,7 @@ Bahn frei für Michael!
 
 <pic images/jjury.ps Die zwölfköpfige Jury im amerikanischen Strafprozess>
 
-<HTMLONLY><I>Michael:</I></HTMLONLY><PRINTONLY>{\em Michael}</PRINTONLY>
+<em>(Michael)</em>
 Neuerlich flatterte ein Brief vom "San Francisco Superior Court" ins Haus, dem 
 höchsten Gericht der Stadt. Angelika wurde darin barsch aufgefordert, als
 Juror an einem Gerichtsverfahren teilzunehmen. Wie ihr wahrscheinlich
@@ -717,6 +720,7 @@ man keine Anhalter mehr mitnehmen soll.
 
 <pic images/pauly2.ps Das Bier "St. Pauli Girl">
 
+<em>(Michael)</em>
 Neben Becks hält der Amerikaner übrigens auch die Marke "St. Pauli Girl"
 für deutsches Bier. Nur mit Mühe konnte ich einen Arbeitskollegen vom
 Gegenteil überzeugen. Leider verlor ich deswegen auch noch eine Wette,
@@ -748,6 +752,7 @@ durcheinanderbringen.
 
 <pic images/biore.ps Die Packung mit den Nasenschnullern>
 
+<em>(Michael)</em>
 Das "Rundbrief-Top-Produkt" sind heute die Nasenschnuller von Biore.
 Nasenschnuller? Hä? Das kommt davon, wenn man als Paar jahrelang im
 Ausland lebt und keinerlei Korrektiv in der täglichen Umgangssprache
@@ -772,6 +777,7 @@ Wär' ich nur im Nobelpreiskommitee ...
 
 @Z: Neu im Fernsehkasten: The Shield
 
+<em>(Michael)</em>
 Eigentlich hätte ich ja gedacht, es gäbe in meinem Leben keine
 interessanten Krimiserien mehr. Über "Law and Order" oder "NYPD Blue"
 kann ich nur lachen, das ist typischer Amiquatsch, der einen alten Hund
@@ -827,6 +833,7 @@ Schlägertruppe auszusagen.
 
 <pic images/bytheway.ps Die Neue von den Red Hot Chili Peppers: By The Way>
 
+<em>(Michael)</em>
 Letzten Monat hatte ich ja angekündigt, die neue von den Red Hot
 Chili Peppers zu besprechen. Diese Band kommt aus Los Angeles und
 ist für mich der Inbegriff Kaliforniens.

@@ -3,10 +3,9 @@ San Francisco, den 1.7.2001
 
 <pic images/stau.ps Wieder mal zähfließender Verkehr auf der Autobahn 101.>
 
-
 @Z: Autoverkehr im Silicon Valley
 
-<HTMLONLY><I>Michael:</I></HTMLONLY>
+<em>(Michael)</em>
 Der Verkehr auf den beiden Autobahnen 101 und 280, die von 
 San Francisco aus ins weiter südlich gelegene Silicon Valley führen,
 hat mittlerweile katastrophale Ausmaße angenommen. Die
@@ -65,6 +64,7 @@ um mit dem Zug zur Arbeit zu fahren.
 
 @Z: Die Silicon Valley Eisenbahn
 
+<em>(Michael)</em>
 Der Zug von San Francisco ins weiter südlich gelegene Silicon Valley
 heißt Caltrain und erinnert an eine Zeitreise ins Jahr 1960. Die
 Amerikaner haben in den letzten 40 Jahren alles in Autobahnen und nichts
@@ -265,6 +265,7 @@ Das peitscht auf, da würde ich für nichts und niemanden anhalten!
 
 @Z: Die Straßen von San Francisco
 
+<em>(Michael)</em>
 Außer den untragbaren Verkehrsverhältnissen gibt es
 noch einen anderen Grund, warum ich unser Auto nicht gerne
 bewege: Es ist sehr schwierig, bei uns in San Francisco einen Parkplatz
@@ -351,6 +352,7 @@ die Szene zu fotografieren. Sachen erlebt man in dieser Stadt!
 
 @Z: Radarfallen
 
+<em>(Michael)</em>
 Ich hatte schon geschrieben, dass auf der Autobahn meistens 65 Meilen
 pro Stunde (100 km/h) erlaubt sind. Wochentags hält sich aber außerhalb
 der Stauzeiten kaum jemand daran -- üblich sind vielmehr 85 mph
@@ -403,6 +405,7 @@ tilgen lassen. Das ist doch Fortschritt!
 
 @Z: Parken
 
+<em>(Michael)</em>
 Zur Parksituation:
 In San Francisco kommt auf den meisten Straßen einmal die
 Woche das Kehrauto vorbei. Dann darf man dort nicht parken, schließlich
@@ -444,6 +447,7 @@ gerade steht und ob heute dort die Kehrmaschine vorbeikommt.
 
 @Z: Öffentliche Verkehrsmittel
 
+<em>(Michael)</em>
 Auch ein öffentliches Verkehrssystem gibt's in San Francisco, 
 die "San Francisco Municipal Railway", kurz "MUNI" genannt.
 Buslinien
@@ -470,6 +474,7 @@ sonn- und feiertags kann man schon mal 20 Minuten im U-Bahnhof herumhängen.
 
 @Z: Die Hundeplage
 
+<em>(Michael)</em>
 Ist man zu Fuß unterwegs, lauern einem übrigens
 mittlerweile nicht mehr irgendwelche wildgewordenen Straßengangrüpel 
 auf -- San Francisco ist sehr brav geworden in letzter Zeit. 
@@ -515,7 +520,7 @@ tritt -- ich hatte in viereinhalb Jahren bisher nur einmal einen stinkenden
 Klumpen am Fuß. Aber das ist noch nicht alles zum Thema "Hunde".
 Angelika, übernehmen Sie!
 
-<HTMLONLY><I>Angelika:</I></HTMLONLY>
+<em>(Angelika)</em>
 Nicht erst seit Michael von einem Hund gebissen wurde, 
 beobachte ich die Hundeepidemie in San Francisco mit 
 Argwohn. Bisher hielt ich mich allerdings mit meinen 
@@ -677,6 +682,7 @@ ist das nicht!
 
 @Z: Straßenbahn und U-Bahn
 
+<em>(Angelika)</em>
 Michaels ausführlicher verkehrspolitischer Bericht weihte
 euch ja in so manches Geheimnis ein. Ich nutze Bus und 
 Straßenbahn seit jeher, um meine sozialen Studien zu 
@@ -809,6 +815,7 @@ von seiner äußerst freundlichen Seite.
 
 @Z: Neues vom Präsidenten
 
+<em>(Angelika)</em>
 Diesen Monat begab sich ja unser "Mr. President" auf 
 Europareise. Wie wir hörten und lasen, bekleckerte sich 
 Bush nicht gerade mit Ruhm, wurde er doch dem hässlichen 

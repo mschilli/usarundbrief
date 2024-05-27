@@ -3,6 +3,7 @@ San Francisco, den 23.07.2002
 
 <pic images/gca.ps Am Ziel: Die Greencard>
 
+<em>(Michael)</em>
 Und hier sind wir wieder -- eure rasenden Rundbriefreporter
 Angelika und Michael, die nun schon seit mehr als fünf Jahren
 in einer der aufregendsten Städte der USA leben, Land und Leute studieren 
@@ -15,6 +16,7 @@ Lokalnachrichten:
 
 @Z: Nachtrag zur Fußball-WM
 
+<em>(Michael)</em>
 Im Fernsehen halte ich ja nur selten ein Fußballspiel durch. Während
 ich auf dem Fußballplatz stundenlang herumtoben kann, fehlt mir
 vor dem Fernseher einfach die Geduld, dem üblichen Klein-Klein
@@ -82,6 +84,7 @@ Ausschankverbot, das strikt eingehalten wird.
 
 @Z: Personalisierte Strafzettel
 
+<em>(Michael)</em>
 Neulich dachte ich mir:
 Es wäre doch schön, wenn wir als Andenken 
 an unsere Zeit in San Francisco einen Strafzettel bekämen, auf dem
@@ -123,6 +126,7 @@ Parken darf man nur 7,5 Fuß von Eisenbahnschienen entfernt,
 
 @Z: Der rasende PERL MAN
 
+<em>(Michael)</em>
 In der Woche um den amerikanischen Nationalfeiertag am 4. Juli hatten
 viele Firmen im Silicon Valley wegen der gerade vorherrschenden
 Wirtschaftskrise geschlossen und die Straßen waren ungewöhnlich
@@ -170,6 +174,7 @@ etwas wie "4-ZAP 437" im Tarnflug rasen.
 
 <pic images/abfl1.ps (#5) Ein bisschen Obstabfall vom Juicer in den Ausguss gekippt ...>
 
+<em>(Michael)</em>
 Heute: Der Garbage-Disposer E20 von Emerson. Schon mal habe ich geschrieben,
 dass es in amerikanischen Küchen üblich ist, dass unter der Spüle 
 ein sogenannter Garbage-Disposer hängt. Zwischen Abfluss 
@@ -204,6 +209,7 @@ manuell den Abfall verkleinert, schon läuft er wieder! Ein Super-Produkt!
 
 <pic images/strokes.ps Die Platte "Is this it?" von den Strokes>
 
+<em>(Michael)</em>
 Mit Spannung erwartet, doch in letzter Zeit absent: Es gab einfach keine
 überzeugenden neuen Platten. Doch heute ist's passiert: Ich habe
 mir die Scheibe "This Is It" von "The Strokes" gekauft, 
@@ -222,6 +228,7 @@ besprechen.
 
 @Z: The Osbournes im Fernsehkasten
 
+<em>(Michael)</em>
 Die zur Zeit
 populärste Sendung im amerikanischen Fernsehen heißt "The Osbournes".
 Der Fernsehsender
@@ -286,6 +293,7 @@ Bahn frei für Angelika!
 
 @Z: Endlich die Greencard
 
+<em>(Angelika)</em>
 Hurra! Hurra! Die Greencard ist da! Es geschehen noch 
 Zeichen und Wunder. Wir sind jetzt "Permanent Resident Aliens",
 wie es im schönsten Beamtenamerikanisch heißt.
@@ -358,6 +366,7 @@ Meilensteinen beglücke ich euch.
 
 @Z: Priority Date (Vorzugsdatum) 
 
+<em>(Angelika)</em>
 Bevor wir überhaupt den 
 dritten Schritt beginnen konnten, musste unser so genanntes 
 "Priority Date" aktuell sein. Stellt euch das am besten wie 
@@ -381,6 +390,7 @@ Greencard-Anträge stellen.
 
 @Z: Die medizinische Untersuchung
 
+<em>(Angelika)</em>
 Ich habe schon erwähnt,
 dass es das INS gar nicht mag, wenn Einwanderer mit 
 ansteckenden Krankheiten wie Tuberkolose Amerika 
@@ -521,6 +531,7 @@ Papierkram, Papierkram.
 
 @Z: Lichtbilder
 
+<em>(Angelika)</em>
 Kein Greencard-Antrag ohne Lichtbilder. Und die
 Greencard-Fotos unterliegen den strengen Vorschriften
 der Einwanderungsbehörde. Der Rechtsanwalt 
@@ -541,6 +552,7 @@ linke Auge müssen zu sehen sein.
 
 @Z: Affidavit of Support
 
+<em>(Angelika)</em>
 Und es falle niemand dem amerikanischen Staat auf die 
 Tasche: die "Affidavit of Support"
 (lässt sich am ehesten mit "eidesstattlicher Versicherung 
@@ -595,6 +607,7 @@ wir dort machten, dann ans Finanzamt weiter.
 
 @Z: Fingerabdrücke
 
+<em>(Angelika)</em>
 Bevor man die Greencard erhält, möchte die amerikanische 
 Einwanderungsbehörde sicherstellen, dass der Antragsteller 
 keine Straftaten begangen hat oder gar als gesuchter Terrorist 
@@ -651,6 +664,7 @@ immer noch bei den Fingerabdrücken fest.
 
 @Z: Der Zuschlag und ein Stempel im Pass 
 
+<em>(Angelika)</em>
 Wer glaubt, dass uns die 
 Einwanderungsbehörde gleich die eigentliche Greencard 
 zusandte, täuscht sich schwer. Das wäre ja viel zu 
@@ -823,6 +837,7 @@ Büro fährt.
 
 @Z: In der gleichen Schlange mit dem Herrn Amerikaner 
 
+<em>(Angelika)</em>
 Unseren 
 begehrten Stempel testeten wir das erste Mal, als wir aus 
 Japan kommend wieder in die USA einreisten. Bei der 
@@ -843,6 +858,7 @@ anzufangen.
 
 @Z: Ende gut - alles gut 
 
+<em>(Angelika)</em>
 Am 8. Juli war es 
 endlich soweit: Gedankenverloren öffnete ich unseren 
 Briefkasten und zwei Briefe der Einwanderungsbehörde 

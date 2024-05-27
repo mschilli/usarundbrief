@@ -5,7 +5,7 @@ San Francisco, den 05.09.2001
 
 @Z: Marathon
 
-<HTMLONLY><I>(Michael)</I></HTMLONLY>
+<em>(Michael)</em>
 Am 8. Juli 2001 lief der rasende Rundbriefreporter den San Francisco Marathon
 durch. Das war so hammerhart, dass sich das unter euch
 Weicheiern wahrscheinlich wieder keiner vorstellen kann. Wer Ohren hat
@@ -123,6 +123,7 @@ gab ich im Kaufrausch gleich nochmal zwei Bestellungen auf.
 
 @Z: Putzige Tierchen
 
+<em>(Michael)</em>
 Und hier kommt "Rundi", die Rundbriefbeilage für unsere lieben
 jungen Rundbriefleser! Ihr Racker,
 in Kalifornien liegt der Pazifische Ozean
@@ -156,6 +157,7 @@ unanständig, aber die Leute sind begeistert.
 
 @Z: Süßigkeiten
 
+<em>(Michael)</em>
 Und nun, liebe Kinder, wenden wir uns einem wichtigen Thema zu.
 Das hat euer Onkel Michael extra für euch recherchiert: amerikanische
 Süßigkeiten. Natürlich nicht "Twix" oder "Milky Way", die kennt ihr 
@@ -212,6 +214,7 @@ brutale Welt der Erwachsenen.
 
 @Z: Japanisch-Kurs
 
+<em>(Michael)</em>
 Weil wir ja entweder dieses oder nächstes Jahr nach Japan wollen,
 lernen wir mittlerweile die Sprache in einem Kurs, der jeden
 Samstag in Japantown in San Francisco stattfindet. Dort bringt uns
@@ -266,6 +269,7 @@ Aber, glaubt uns, das ist schon schwer genug (Abbildung (#8)).
 
 <pic images/cake.ps (#3) Das Album "Comfort Eagle" der Gruppe "Cake">
 
+<em>(Michael)</em>
 Und hier was Neues: Der Rundbriefmusikreporter
 stellt eine neue superstarke CD aus amerikanischen Gefielden vor, die
 er gerade Tag und Nacht hört.
@@ -280,6 +284,7 @@ Sofort kaufen!
 
 @Z: Autounfall
 
+<em>(Michael)</em>
 Neulich am Samstag 
 fuhr ich mit unserem Auto "PERLMAN" auf der breiten Castro Street 
 entlang, als plötzlich aus einer Seitenstraße mit Stoppschild ein
@@ -335,7 +340,7 @@ Bahn frei für Angelika!
 @Z: Wie kriegt man die Greencard?
 
 [#gc]
-<HTMLONLY><I>(Angelika)</I></HTMLONLY>
+<em>(Angelika)</em>
 Beginnen will ich heute mit einem Bericht über unseren 
 noch immer andauernden Greencard-Prozess, denn in den 
 letzten Wochen quälten wir uns diesbezüglich einmal 
@@ -639,6 +644,7 @@ die Gelegenheit geben, die Informationen sacken zu lassen.
 
 <pic images/tax.ps Präsi Bush lässt's krachen mit 600 Dollar Steuerrückerstattung für uns>
 
+<em>(Angelika)</em>
 Von Präsident Bush und seinen politischen Ambitionen möchte ich noch
 berichten. Dieses Mal geht es um seine Steuerreform, die 
 Ende Mai verabschiedet wurde. Während des Wahlkampfs 
@@ -710,6 +716,7 @@ erfundene Bearbeitungsgebühren stellen.
 
 @Z: Hilfe beim Geldausgeben
 
+<em>(Angelika)</em>
 Gemeinnützige Einrichtungen hoffen, dass viele sich 
 ein Herz fassen und das Geld gleich wieder für einen guten 
 Zweck spenden -- auch das "Tenderloin Childcare Center", in 
@@ -764,6 +771,7 @@ besser zu entziffern.
 
 @Z: Energiekrise
 
+<em>(Angelika)</em>
 Nun noch einmal zu der kalifornischen Energiekrise, über 
 die ich schon einmal berichtete. Eigentlich sollten wir ja 
 im Sommer ständig ohne Strom dasitzen. Dies trat Gott sei 

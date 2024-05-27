@@ -13,7 +13,7 @@ im Silicon Valley", "Heim nach Deutschland?", "Die Platte des Monats" und
 
 <pic images/castro1.ps Halloween: Noble Damen im Castro-Karneval>
 
-<HTMLONLY><I>Angelika:</I></HTMLONLY><CONFIDENTIAL>{\em Angelika}</CONFIDENTIAL>
+<em>(Angelika)</em>
 Verwundert haben wir hier verfolgt,
 wie sich das amerikanische Fest "Halloween" 
 in Deutschland
@@ -135,6 +135,7 @@ eventuelle Allergien. Schon sehr traurig, das Ganze.
 
 @Z: Noch ein Feiertag: Thanksgiving
 
+<em>(Angelika)</em>
 Und da ich gerade bei den Feiertagen bin, erkläre 
 ich gleich auch noch, was es mit "Thanksgiving" auf sich 
 hat. Thanksgiving findet in den USA am vierten Donnerstag 
@@ -200,6 +201,7 @@ auf die freien Tage!
 
 @Z: Zur Lage der Nation
 
+<em>(Angelika)</em>
 Und nun noch ein paar Worte von mir zur Lage der Nation: 
 Mittlerweile hat hier der Senat die Anti-Terror-Gesetze 
 ratifiziert
@@ -291,7 +293,7 @@ weiß es nicht.
 
 @Z: Amerika nach der Attacke
 
-<HTMLONLY><I>Michael:</I></HTMLONLY><CONFIDENTIAL>{\em Michael}</CONFIDENTIAL>
+<em>(Michael)</em>
 Durch die verschärften Sicherheitsbestimmungen im Flugverkehr kommt
 auch die "Süddeutsche Zeitung", deren Freitagsausgabe wir abonniert haben,
 leider nicht mehr pünktlich ins Haus. Wie wir neulich aus einer Notiz
@@ -338,6 +340,7 @@ aus dem Silicon Valley.
 
 @Z: Aus der guadn oidn Zeit im Silicon Valley
 
+<em>(Michael)</em>
 Nachdem die legendäre Ära des Silicon Valley wohl langsam 
 zu Ende geht, muss ich noch schnell einen rührseligen 
 Bericht darüber schreiben, was für ein schlaues Leben wir 
@@ -460,6 +463,7 @@ leerstehen lassen. Wir sind bestürzt!
 
 @Z: Heim nach Deutschland?
 
+<em>(Michael)</em>
 Während die Firmen im Silicon Valley unter der Krise ächzen,
 scheint in Deutschland noch harscher Mangel an 
 Computerfritzen zu herrschen. Wie anders könnte man es sich 
@@ -487,6 +491,7 @@ Markt mit etwa 6-12-monatiger Verzögerung ebenso treffen wird.
 
 <pic images/puffy.ps "Puffy Ami Yumi", die Pop-Sensation aus Japan>
 
+<em>(Michael)</em>
 Und hier kommt wieder Diskjockey Mike mit der brandaktuellen 
 "CD des Monats". Diesmal: "Spike" von der japanischen Pop-Sensation 
 "Puffy Ami Yumi". 
@@ -507,6 +512,7 @@ eurer Wahl!
 
 @Z: Die unnützesten Sportartikel der Welt
 
+<em>(Michael)</em>
 Und hier die neue Reihe: Die unnützesten Sportartikel Amerikas. Wie
 ihr vielleicht wisst, gibt sich der Amerikaner keineswegs so natürlichen
 Sportarten wie Fußball hin, sondern zieht sich dafür Ritterrüstungen

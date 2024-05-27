@@ -5,7 +5,7 @@ San Francisco, den 24.03.2002
 
 <pic images/vichy.ps Alter Mann auf Kur>
 
-<HTMLONLY><I>Angelika:</I></HTMLONLY><PRINTONLY>{\em Angelika}</PRINTONLY>
+<em>(Angelika)</em>
 Heute öffne ich wieder unser Reisetagebuch: Dieses Mal 
 fuhren wir mit dem "PERL MAN" (Nummernschild unseres Autos) 
 zwei Stunden auf dem 
@@ -87,6 +87,7 @@ einem den Zutritt.
 
 @Z: Zur Heilerin nach Chinatown
 
+<em>(Angelika)</em>
 Und hier eine weitere Geschichte bezüglich 
 unkonventioneller Heilmethoden. In Amerika setzen sich erst 
 langsam alternative Ideen wie die der Homöopathie durch. Ärzte teilen 
@@ -174,6 +175,7 @@ allemal wert.
 
 <pic images/bergfrei1.ps Auf der Hütte der Naturfreunde von San Francisco>
 
+<em>(Angelika)</em>
 Eine Besonderheit ganz anderer Art suchten wir neulich 
 während einer unserer Wochendwanderungen im 
 Mount-Tamalpais-Gebiet auf. Die Mount-Tamalpais-Region ist 
@@ -225,6 +227,7 @@ nicht gibt.
 
 @Z: Ein Faux-Pas der Einwanderungsbehörde
 
+<em>(Angelika)</em>
 Auch heute bleibt es mir nicht erspart, über die amerikanische 
 Einwanderungsbehörde, mit der wir ja bekanntlich auf du 
 und du stehen, zu berichten. Die Presse meldete, dass eine 
@@ -259,6 +262,7 @@ verlangsamt sich alles noch mehr.
 
 <pic images/fund.ps So sammeln Kinder Geld für wohltätige Zwecke>
 
+<em>(Angelika)</em>
 Szenenwechsel: Neulich schlenderte ich einmal wieder die 
 24te Straße in unserem Viertel hoch und rannte an jeder 
 Straßenecke in ein paar Schulkinder, die Kekse oder 
@@ -342,7 +346,7 @@ Bahn frei für Michael!
 
 @Z: Aktuell im Fernsehkasten
 
-<HTMLONLY><I>Michael:</I></HTMLONLY><PRINTONLY>{\em Michael}</PRINTONLY>
+<em>(Michael)</em>
 Beim Fernsehen in den USA stellt sich die Frage: Kabel oder 
 Schüssel? Nachdem AT\&T (denen das Kabel gehört) in der 
 Fernsehwerbung lustige Geschichten bringt, nach denen 
@@ -664,6 +668,7 @@ sehen einfach zuviele amerikanische Krimiserien.
 
 @Z: Die Rundbriefredaktion
 
+<em>(Michael)</em>
 Immer wieder fragen die Rundbrief-Fans: "Wie kommen nur 
 diese absurden Rundbrief-Themen zustande? Stellt ihr extra 
 Wahnsinnige ein, die sich die ausdenken?" Heute wollen wir 
@@ -684,6 +689,7 @@ Wer wollte woanders wohnen!
 
 @Z: Blutgruppen
 
+<em>(Michael)</em>
 Neben der Sprache lernen wir im Japanischkurs auch so manche
 kulturelle Eigenheit kennen. Erstaunt stellten wir fest, dass
 es in Japan üblich ist, seinen
@@ -738,6 +744,7 @@ Manchmal lobt uns die Japanisch-Lehrerin sogar -- mein liebster Satz:
 
 @Z: Das Rundbrief-Top-Produkt
 
+<em>(Michael)</em>
 Und schließlich zum heutigen Rundbrief-Top-Produkt: Die 
 CD-Auf\-bewah\-rer von Discgear, den mir Angelika mal 
 geschenkt hat. Weil ich ja bekanntlich lieber hungern als 
@@ -787,6 +794,7 @@ Treibt die Yuppieläden in den Ruin!
 
 @Z: Coupons
 
+<em>(Michael)</em>
 Schon öfter habe ich geschrieben, dass es in den USA ganz wichtig ist,
 auf's Geld zu schauen. Es ist hier eine Art Volkssport, Waren immer dort
 zu kaufen, wo sie am billigsten sind, auch wenn's manchmal etwas 

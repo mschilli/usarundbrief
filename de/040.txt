@@ -5,7 +5,7 @@ San Francisco, den 02.06.2002
 
 @Z: Endlich Japan
 
-<HTMLONLY><I>Michael:</I></HTMLONLY><PRINTONLY>{\em Michael}</PRINTONLY>
+<em>(Michael)</em>
 Endlich haben wir's geschafft: Nach intensiven
 Vorbereitungen haben wir uns ins Flugzeug nach Japan gesetzt, um dort zwei
 Wochen allein herumzustreunen, Abenteuer zu erleben und
@@ -38,6 +38,7 @@ Fröhliches Brausen!
 
 @Z: Spielhölle Flugzeug
 
+<em>(Michael)</em>
 Wir flogen natürlich mit Japan Airlines, JAL. Es kursieren ja
 Horrorgeschichten über die geringen Sitzabstände in deren 
 Flugzeugen, denn Japaner sind im allgemeinen etwas 
@@ -72,6 +73,7 @@ Aussteigen überreden.
 
 @Z: Tokio
 
+<em>(Michael)</em>
 Gibt es einen Airport, der noch idiotischer liegt als 
 der Münchner Franz-Josef-Strauss-Flughafen? Ja! Der 
 Tokioter Narita-Airport liegt so weit vom Stadtzentrum weg, 
@@ -108,6 +110,7 @@ in den Hosentaschen.
 
 <pic images/dampf.ps Irgendwo schmurgelt immer was Feines>
 
+<em>(Michael)</em>
 Aber zurück zum Ausgangspunkt unserer Reise:
 In Tokio kann man vor allem zwei Dinge: einkaufen und 
 essen. Wir waren eine Woche lang dreimal am Tag essen, ohne dieselbe 
@@ -210,6 +213,7 @@ haben keine Ahnung, was da auf sie zukommt!
 
 @Z: Fischmarkt Tokio
 
+<em>(Michael)</em>
 In einem Lagerhallenviertel nahe der S-Bahn-Station 
 Shimbashi läuft jeden Tag der Tokioter Fischmarkt ab, der 
 größte Japans. Etwa 60.000 professionelle Einkäufer 
@@ -300,6 +304,7 @@ Europäer.
 
 @Z: Masken
 
+<em>(Michael)</em>
 In den Großstädten trifft man immer wieder Leute, die einen weißen 
 Mundschutz tragen. Zuerst dachte ich: Aha, ein Tuberkulosefall. Umgehen wir
 mal großräumig. Aber 
@@ -326,6 +331,7 @@ Dieselkraftstoff.
 
 <pic images/automat.ps Getränkeautomat bei Nacht>
 
+<em>(Michael)</em>
 In Japans Städten stehen an fast jeder Straßenecke diese 
 Automaten mit Getränken aller Art: Von Softdrinks wie Coca 
 Cola über Dosen mit kaltem Kaffee und sogar Bier und 
@@ -387,6 +393,7 @@ Tee mit Milch. Unangenehmer H-Milch-Beigeschmack.
 
 @Z: Bier
 
+<em>(Michael)</em>
 Japanische Markenbiere sind übrigens -- wie mir bereits 
 aus San Francisco bekannt war, wo japanische Restaurants und
 Supermärkte Sapporo, Kirin und Asahi führen -- den deutschen fast 
@@ -409,6 +416,7 @@ Dollar im Supermarkt), schlackerte mit den Ohren.
 
 @Z: Papiertaschentücher
 
+<em>(Michael)</em>
 In japanischen Toiletten liegt nicht immer Papier zum 
 Fingerabtrocknen bereit, deswegen muss man immer 
 Tempotaschentücher dabei haben. Statt Prospekten und 
@@ -435,6 +443,7 @@ und auf's Klo geht.
 
 @Z: Shuwattchi!
 
+<em>(Michael)</em>
 Eines Tages fiel mir ein Plakat auf, das im Fenster eines nach
 Gewerkschaftszentrum aussehenden Hauses hing. Ein Japaner hob darauf
 die Hand zum, wie es schien, Hitlergruß! Huch, dachte ich, die
@@ -461,6 +470,7 @@ Sozialversicherung aktuell halten sollen. Ha!
 
 <pic images/leute.ps Jeder ist gut angezogen>
 
+<em>(Michael)</em>
 Innerhalb von fünfeinhalb Jahren USA habe ich mich daran 
 gewöhnt, so eine Art schlampigen California-Hacker-Look 
 zu tragen: Kurze Surfer-Hosen bis kurz über's Knie mit 
@@ -504,6 +514,7 @@ ausgerichtet vor die Tatami-Matte gestellt.
 
 @Z: Sicherheit
 
+<em>(Michael)</em>
 Verbrecher gibt's glaube ich nicht in Japan. (Allerdings habe ich
 gehört, dass es eine Art japanischer Mafia, genannt "Jakuza" gibt, 
 die das "r" rollen und Ganzkörpertätowierungen haben, sodass sie
@@ -522,6 +533,7 @@ euch!
 
 @Z: Technikverliebtheit
 
+<em>(Michael)</em>
 Die Verliebtheit der Japaner in technischen Firlefanz zeigt 
 sich auch in liebevollen Details für den Alltag: Wenn man 
 den Hotelkleiderschrank aufmacht, springt drinnen wie im 
@@ -578,6 +590,7 @@ aber das wird als viel zu klobig kritisiert.
 
 <pic images/hiraki.ps Der schnittige Shinkansen "Hikari">
 
+<em>(Michael)</em>
 Mit Japans "Shinkansen"-Zug (gesprochen: "Schinkan Senn" mit säuselndem S.),
 dem Pendant zum deutschen ICE,
 brausten wir von Tokio nach 
@@ -618,6 +631,7 @@ helfen, sonst wären sie zusammengebrochen.
 
 <pic images/wohin.ps Wohin?>
 
+<em>(Michael)</em>
 Im Japanischen gibt es eine lustige sprachliche Eigenheit: 
 Man antwortet auf eine verneinte Frage mit "Ja!", falls man 
 sie verneint. Beispiel: Auf "Dieser Zug fährt 
@@ -659,6 +673,7 @@ Zerbrechliches in der Tasche befand!
 
 @Z: Gschaftigkeit
 
+<em>(Michael)</em>
 Eine nervige Angelegenheit in Japan ist die von mir 
 so genannte Gschaftigkeit. Im Bayrischen gibt es ja den 
 Ausdruck des "Gschaftlers" -- einer, der so tut, als wäre 
@@ -713,6 +728,7 @@ Schießerei geben.
 
 <pic images/kinder.ps Kindergartenkinder>
 
+<em>(Michael)</em>
 In der japanischen Gesellschaft dreht sich alles um 
 Gruppenzugehörigkeit -- meist eine Kollegengruppe in der Arbeit.
 Die Gruppe definiert die Regeln, das lernen Kinder schon früh, denn
@@ -751,6 +767,7 @@ noch keine Hose, auf deren Hinterteil quer in 10cm hohen Lettern
 
 @Z: Schulumfragen
 
+<em>(Michael)</em>
 Auf unseren Tempeltouren (Angelika befiel die von mir so 
 betitelte "Temple-Mania") trafen wir Unmengen von Schülern 
 auf Klassenfahrt, die anscheinend außer der Besichtigung 
@@ -794,6 +811,7 @@ und konnte Diskussionen über allerlei Themen führen.
 
 @Z: Geisha
 
+<em>(Michael)</em>
 Wenn ein reicher Geschäftsmann in Japan mal so richtig die 
 Sau rauslassen will, mietet er sich für den Abend zwei 
 oder drei Geishas für bis zu 3000 Dollars. Das sind 
@@ -817,7 +835,7 @@ wir gelacht! Bahn frei für Angelika!
 
 @Z: Originale und amerikanischer Abklatsch
 
-<HTMLONLY><I>Angelika:</I></HTMLONLY><PRINTONLY>{\em Angelika}</PRINTONLY>
+<em>(Angelika)</em>
 Was dem Michael sein Bier, ist mir meine gute Tasse 
 Kaffee. Ich stellte mich aber vor Antritt unserer Reise 
 darauf ein, auf grünen Tee umzusteigen, obwohl ich dafür 
@@ -869,6 +887,7 @@ passiert. Und wir essen wirklich viel Fisch.
 
 @Z: Konsumrausch
 
+<em>(Angelika)</em>
 Durch die Essensabteilungen der
 großen Kaufhäuser in Tokio zu schlendern, ist ein 
 Hochgenuss für die Sinne. Dort finden sich neben 
@@ -917,6 +936,7 @@ schließen.
 
 @Z: Japanische Toiletten 
 
+<em>(Angelika)</em>
 Bezüglich 
 Toiletten hat Japan einiges zu bieten. Da gibt es zunächst 
 die traditionellen, die man in der Regel in öffentlichen 
@@ -955,6 +975,7 @@ damit es nicht zu Verwechslungen kommt.
 
 @Z: Fahrräder in Tokio
 
+<em>(Angelika)</em>
 In der Megametropole Tokio überraschten
 uns die vielen Fahrradfahrer. Aber natürlich sind Parkplätze
 extrem rar und der Verkehr in der Stoßzeit zähfließend, so dass es naheliegt, 
@@ -978,9 +999,10 @@ sonst irgendwo auf der Welt (Abbildung (#12)).
 
 <pic images/garage.ps (#12) Knapp eingeparktes Auto in der Garage>
 
-@Z: Fahr'n wir mal öffentlich
+@Z: Bahnhof in Tokio
 
-Bahnhof in Tokio Bevor wir uns nach Tokio 
+<em>(Angelika)</em>
+Bevor wir uns nach Tokio 
 aufmachten, lasen wir Horrorgeschichten über die 
 Menschenmassen, vor allen Dingen in den U- und S-Bahnhöfen 
 und den dazugehörigen Zügen. Klar, bei 12 Millionen 
@@ -1018,6 +1040,7 @@ irre: Wie in einem Ameisenhaufen. Überall wuselt es.
 
 @Z: Uniformen 
 
+<em>(Angelika)</em>
 Uniformen zu tragen ist in Japan eine echt große 
 Sache. Heerscharen von Schulkindern springen in 
 Schuluniformen herum. Die Jungs tragen in der Regel dunkle 
@@ -1051,6 +1074,7 @@ aussahen.
 
 @Z: Taxis
 
+<em>(Angelika)</em>
 Taxifahren in Japan ist ein besonderes Erlebnis.
 Zunächst gibt es in Japan keine 
 ausländischen Taxifahrer. Wenn man wie wir an
@@ -1113,6 +1137,7 @@ haben, da diese designermäßig "verschönert" wurden.
 
 @Z: Verbeugen 
 
+<em>(Angelika)</em>
 Als Westler zu versuchen, in die höheren Weihen 
 des Verbeugens vorzudringen, ist hoffnungslos. Denn der 
 Status des Gegenübers gibt die Tiefe der Verbeugung und 
@@ -1148,6 +1173,7 @@ Handschuhe.
 
 <pic images/schuhe.ps Oberstes Gebot: Schuhe ausziehen!>
 
+<em>(Angelika)</em>
 So wie es mir immer kalt den 
 Rücken herunter läuft, wenn sich ein Amerikaner die 
 Nägel in der U-Bahn schneidet, so ergreift den Japaner das 
@@ -1212,6 +1238,7 @@ nicht direkt den Boden berührten.
 
 @Z: Hiroshima
 
+<em>(Angelika)</em>
 Wohl jeder auf der Welt weiß, was 
 sich hinter der japanischen Stadt "Hiroshima" verbirgt. 
 Dort warfen die Amerikaner im zweiten Weltkrieg die erste
@@ -1272,6 +1299,7 @@ in Hiroshima. Leider!
 
 <pic images/ryokan.ps Ryokan>
 
+<em>(Angelika)</em>
 In Kyoto mieteten wir uns in ein Ryokan ein - ein 
 traditionelles japanisches Gasthaus. Gasthaus hört sich ja 
 nun etwas zünftig an. Bei einem Ryokan handelt es sich 
@@ -1348,6 +1376,7 @@ Holzpantoffeln ("Geta") einzusteigen.
 
 @Z: Japanisches Bad
 
+<em>(Angelika)</em>
 Die Benutzung eines japanischen Bades 
 birgt die Gefahr für den westlichen Touristen, von einem 
 Fettnäpfchen in das nächste zu treten. Es gilt nämlich,
@@ -1426,7 +1455,7 @@ friert, gibt es noch eine Art Überjacke, die man über den
 
 @Z: Für AOL im Tempel
 
-<HTMLONLY><I>Michael:</I></HTMLONLY><PRINTONLY>{\em Michael}</PRINTONLY>
+<em>(Michael)</em>
 Die Shinto-Religion in Japan arbeitet viel mit Ritualen und Amuletten: 
 Wenn man eine
 5-Yen-Münze in einen vorgegebenen Kasten im Tempel wirft und in
@@ -1459,6 +1488,7 @@ buddhistische Zeichen für "Tempel".
 
 @Z: Koya-san
 
+<em>(Michael)</em>
 Zum Abschluss der Reise fuhren wir mit dem Shinkansen und mehreren 
 Vorortzügen nach Koya-san ins Kloster. Das ist ein sehr beliebtes
 spirituelles Ausflugsziel für Japaner und kaum bei ausländischen 
@@ -1502,7 +1532,7 @@ verschlangen.
 
 @Z: Friedhof in Koya-san
 
-<HTMLONLY><I>Angelika:</I></HTMLONLY><PRINTONLY>{\em Angelika}</PRINTONLY>
+<em>(Angelika)</em>
 Jeder Gläubige der buddhistischen 
 Richtung "Shingon" (und auch japanische Buddhisten anderer 
 Richtungen) möchten auf dem Friedhof in Koya-san, dem 

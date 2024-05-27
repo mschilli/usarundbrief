@@ -3,7 +3,7 @@ San Francisco, den 01.02.2002
 
 @Z: Autos mieten wie die Profis
 
-<HTMLONLY><I>Michael:</I></HTMLONLY>
+<em>(Michael)</em>
 In der Reihe "Amerika für Profis" bringen wir heute: Wie 
 komme ich preisgünstig an ein Mietauto? Typischerweise 
 bucht der deutsche Tourist das ja von Deutschland aus -- 
@@ -257,6 +257,7 @@ Kämpft mit harten Bandagen!
 
 @Z: Deutsche Einflüsse im Englischen
 
+<em>(Michael)</em>
 Habt ihr schon mal gesehen, dass an manchen Autos am Rahmen des
 vorderen Seitenfensters
 so ein kleiner Plastik-Windschutz klebt? Das ist laut "Herrington-Katalog"
@@ -387,6 +388,7 @@ heißt<HTMLONLY>(http://www.BerlinOnline.de/wissen/berliner_zeitung/archiv/2001/
 
 @Z: Der Mormonen-Tempel von San Diego
 
+<em>(Michael)</em>
 Vor einiger Zeit flogen wir ein paar Tage runter 
 nach San Diego. Eine Fahrt auf der Stadt-Autobahn führte uns
 an dem zackigen Tempel aus Abbildung (#5) 
@@ -433,6 +435,7 @@ schicken wollten -- aber wir blieben hart und gingen.
 
 @Z: Jarrrrritos -- das Rundbrief-Top-Produkt
 
+<em>(Michael)</em>
 Immer wenn ich von zuhause arbeite, hole ich mir mittags 
 von der mexikanischen Wirtschaft um die Ecke einen Burrito. 
 Der Verkaufdialog ist immer dergleiche: "Burrito to go on 
@@ -468,6 +471,7 @@ der Jugend steckt in dieser Flasche!
 
 <pic images/svm1.ps (#19) Mr. Muscle beim Silicon-Valley-Marathon-Relay>
 
+<em>(Michael)</em>
 Wer keinen ganzen Marathon schafft, darf ihn in Amerika auch durch vier
 Teilen und als Staffel laufen. Einige Kollegen bei Netscape hatten
 mich genötigt, doch die letzte 6,9-Meilen lange Etappe des 
@@ -491,7 +495,7 @@ Bahn frei für Angelika!
 
 <pic images/bodie2.ps Die Geisterstadt Bodie>
 
-<HTMLONLY><I>Angelika:</I></HTMLONLY>
+<em>(Angelika)</em>
 Zur Zeit geht eine Kampagne durchs Land, mit dem Ziel, mehr
 Touristen nach Amerika zu locken. Amerikanische 
 Berühmtheiten werben für die Schönheit der Vereinigten 
@@ -544,6 +548,7 @@ euch Bodie an.
 
 @Z: Lage der Nation
 
+<em>(Angelika)</em>
 Zur Lage der Nation: Viel Wirbel herrscht zur Zeit in San 
 Francisco und Umgebung um den von den Medien zum 
 amerikanischen Taliban-Kämpfer gekürten John Walker. Der 
@@ -602,6 +607,7 @@ und alleine in die Cessna zu springen.
 
 @Z: Politisch Korrekt
 
+<em>(Angelika)</em>
 Und noch eine uramerikanische Kontroverse spielte sich in 
 der letzten Woche in New York ab. Dort trug man sich mit 
 dem Gedanken, eine Bronzestatue zu Ehren der nach dem 
@@ -678,6 +684,7 @@ halten.
 
 @Z: Folgen des 11. Septembers
 
+<em>(Angelika)</em>
 Aber nun nocheinmal zurück nach New York. Vor kurzem 
 errichtete die Stadt am früheren World Trade Plaza eine 
 Aussichtsplattform, um Schaulustigen zu ermöglichen, sich 
@@ -707,6 +714,7 @@ Geschehnisse in ihre Geschichten einbauen.
 
 @Z: Amerikanische Rasterfahndung
 
+<em>(Angelika)</em>
 Was dem Deutschen die Rasterfahndung, ist dem Amerikaner das 
 so genannte "racial profiling". Darunter
 versteht man, eine Person allein aufgrund ihrer ethnischen 
@@ -773,6 +781,7 @@ im Dunkeln.
 
 @Z: Schnee im Silicon Valley
 
+<em>(Angelika)</em>
 Nun aber zu einem ganz unpolitischen und dennoch 
 außergewöhnlichen Ereignis: Südlich und nördlich von 
 San Francisco schneite es heute (28.1.). San Francisco blieb die 
