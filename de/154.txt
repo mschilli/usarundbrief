@@ -34,7 +34,7 @@ mächtig aufs Gas drücken.
 
 <pic images/waymo-app.ps Die App "Waymo One" bucht die Fahrt ganz wie bei Uber>
 
-Deswegen hatte ich auch Null Bedenken, in das selbstfahrende Auto einzusteigen. Nach
+Deswegen hatte ich auch null Bedenken, in das selbstfahrende Auto einzusteigen. Nach
 etwa 10 Minuten fuhr das Fahrzeug vor, und auf der Telefon-App erschien ein Knopf
 zum Entriegeln der Tür. Ich drückte drauf, und hörte es schon an der Tür des Robotaxis
 schnackeln. Ich zog am Griff der hinteren Seitentür und öffnete diese.
@@ -112,7 +112,7 @@ San Francisco in der Nähe des Rathauses befindet, zu erscheinen.
 
 Ich kam dann doch etwas ins Rotieren. Denn ich musste zunächst bei der Arbeit
 Bescheid geben, dass ich Montag nach den Ferien erst einmal nicht auftauchen
-würde und auch noch nicht genau wüsste, wieviele ich voraussichtlich fehlen
+würde und auch noch nicht genau wüsste, wieviele Tage  ich voraussichtlich fehlen
 würde, was nach über zwei Wochen Ferien natürlich immer gut ankommt.
 
 Der Arbeitgeber muss einen übrigens für die Jury Duty freistellen, aber nicht
@@ -124,8 +124,8 @@ dem zweiten Tag eine Aufwandsentschädigung von $15 pro Tag, dazu zählen auch
 die Tage des Auswahlverfahrens. Allerdings verlangt unsere Schule, dass die $15
 an die Schule abgetreten werden.
 
-Ihr könnt euch sicher vorstellen, dass es
-für viele das ein echtes Problem ist, wenn kein Gehalt gezahlt wird während der
+Ihr könnt euch sicher vorstellen, dass das
+für viele ein echtes Problem ist, wenn kein Gehalt gezahlt wird während der
 Jury Duty. Es gibt deshalb Bestrebungen, die Aufwandsentschädigung auf $100 pro
 Tag zu erhöhen für diejenigen, bei denen der Arbeitgeber nicht zahlt. Denn die Jury
 soll ja die Bevölkerung repräsentieren und oft kriegen die Leute,
@@ -195,7 +195,7 @@ wichtige Prüfungen bei Studenten.
 Am nächsten morgen erschien ich wieder um neun Uhr am Gericht. Wieder hieß es warten,
 und zwar dieses Mal vor der Tür eines Gerichtssaals. Die Gerichtsangestellte
 von gestern erschien dann Punkt neun Uhr. Sie hatte erneut ihre riesige Liste
-mit Namen dabei, die sie erst einmal durcharbeitete. Jeder muss "Here" oder
+mit Namen dabei, die sie erst einmal durcharbeitete. Jeder musste "Here" oder
 "Present" sagen, wenn der eigene Name fiel. Nicht jeder war anwesend, was
 die Dame nicht erfreute. Es standen geschätzt hundert Leute vor der Tür.
 
@@ -206,7 +206,7 @@ einen zugewiesenen Platz in der Jury Box zu setzen. Nummern hingen dafür über
 den Stühlen in der Box. Dann gab es noch Stühle vor der nur 12 Personen
 fassenden Box, da es ja 24 Personen waren.
 
-<pic images/jury-selection.ps Von 100 Einberufenen werden nur 10 ausgewählt.>
+<pic images/jury-selection.ps Von 100 Einberufenen werden nur 12 ausgewählt.>
 
 Wir anderen wurden auf die Stühle im Publikum
 verfrachtet. Wieder hieß es aufstehen, denn die Richterin erschien. Nach
@@ -220,12 +220,12 @@ es bei dem Fall ging.
 Der Kläger mit dem Nachnamen Kukushkin war ein amerikanischer ukrainischer
 Investor, der 1 Million Dollars in einen Cannabis Laden ("Med Thrive") in San
 Francisco investiert hatte, mit einem weiteren russischen Investor.  Der Kläger
-velangt, dass das investierte Geld zurückgezahlt wird, da es nach seiner
+velangte, dass das investierte Geld zurückgezahlt wird, da es nach seiner
 Darstellung veruntreut wurde.  Die Richterin wies uns an, dass nun keiner im
 Publikum am Telefon oder Laptop sein durfte und die folgende Befragung der
-vorausgewählten Juroren aufmerksam zu verfolgen sei. Man solle nur in den
+vorher ausgewählten Juroren aufmerksam zu verfolgen sei. Man solle nur in den
 Pausen den Gerichtssaal verlassen oder per Handzeichen mitteilen, dass man zum
-Beispiel aufs Klo müsste. Auch durfte man den Fall nicht im Internet zu
+Beispiel aufs Klo müsste. Auch durfte man den Fall nicht im Internet
 recherchieren, das googeln der Namen war verboten.
 
 Auch untereinander durften wir nicht über den Fall sprechen oder auf sozialen
@@ -239,12 +239,12 @@ Erst fragte die Richterin, dann der Rechtsanwalt des Klägers und schließlich
 der des Angeklagten. Die Richterin stellte zunächst allgemeinere Fragen, wie
 zum Beispiel ob jemand der 24 die beteiligten Parteien (Kläger, Angeklagter
 oder auch die Rechtsanwälte) kenne und deshalb befangen sei. Die 24
-Auserwählten müssen ihren Namen sagen, wie lange sie schon in San Francisco
+Auserwählten mussten ihren Namen sagen, wie lange sie schon in San Francisco
 wohnen, wer mit ihnen im Haushalt wohnt (Ehepartner, Kinder undsoweiter),
 welchen Beruf sie haben oder in welchem Bereich sie arbeiten, ob sie schon
 einmal auf einer Jury waren, ob es in dem Verfahren zu einem Urteil gekommen
-ist, und ob es sich dabei um einen zivilen oder strafrechtlichen Fall gehandelt
-hat.
+war, und ob es sich dabei um einen zivilen oder strafrechtlichen Fall gehandelt
+hatte.
 
 Sie erklärte, dass es Unterschiede zwischen diesen beiden
 Verfahrensarten gibt, wie etwa die Notwendigkeit der geringeren Beweislast im
@@ -253,13 +253,13 @@ Strafverfahren mitgemacht haben, ein Problem wäre. Die Rechtsanwälte stellten
 dann mehr spezifische Fragen zum aktuellen Fall, wobei sie nie ins Detail gingen.
 Es ging viel darum, ob potentielle Juroren schon einmal Firmeninhaber waren,
 was sie von Verträgen hielten und ob auch mündliche Absprachen für
-sie Gültigkeit hätten. Wie sie zu Zeugen stünden, die vorbeitraft sind. Was sie
+sie Gültigkeit hätten. Wie sie zu Zeugen stünden, die vorbestraft sind. Was sie
 von Canabisläden im Allgemeinen und im Besonderen in ihrem Wohnviertel halten.
 Wie sie zu russischen Investoren in den USA stünden.
 
 Der Rechtsanwalt des Klägers hatte dabei eine interessante Fragetechnik parat.
 Er konfrontierte die potentiellen Juroren mit allen möglichen Sprichwörtern und
-fragt sie, wie sie zu diesen stehen: "Fool me once, shame on you. Fool me
+fragte sie, wie sie zu diesen stehen: "Fool me once, shame on you. Fool me
 twice, shame on me." (Täusche mich einmal, Schande über dich. Halte mich
 zweimal zum Narren, Schande über mich.) oder "Buyer Beware." (Käufer pass
 auf.).
@@ -277,16 +277,16 @@ für befangen, weil sie ursprünglich aus der Ukraine kam.
 
 Bei den Rechtsanwälten ließ sich teilweise gut nachvollziehen, warum sie wen
 ablehnten, obwohl sie dies nicht öffentlich sagten. Bei anderen war es mir nicht
-so klar. Schließlich und endlich waren dann die zwölf ausgesucht. Aber halt stopp,
+so klar. Schließlich und endlich waren dann die Zwölf ausgesucht. Aber halt stopp,
 jetzt waren ja noch die Ersatzschöffen zu bestimmen, denn schließlich könnte jemand
 krank werden. Sechs weitere Namen wurden aufgerufen und die Personen vor der Jury-Box
 platziert. Die Befragung ging dieses Mal allerdings zügig voran und drei
 von den sechs wurden flugs zu Ersatzjuroren ernannt.
 
 Ich war schon ein wenig traurig, dass ich weder befragt wurde noch den Fall
-weiter als Juror verfolgen konnte. Allerdings darf ich jetzt die Beteiligten
-googeln. Es stellt sich heraus, dass der Kläger Kukushkin schon einmal ein Jahr
-im Gefängnis saß, weil er Geld von russischen Investoren an US-Politiker zur
+weiter als Juror verfolgen konnte. Allerdings durfte ich jetzt die Beteiligten
+googeln. Es stellte sich heraus, dass der Kläger Kukushkin schon einmal ein Jahr
+im Gefängnis gesessen hatte, weil er Geld von russischen Investoren an US-Politiker zur
 Wahlkampffinanzierung weitergeleitet hatte, in der Hoffnung, im Gegenzug
 Lizenzen für Cannabisläden zu erhalten. In den USA ist es illegal, dass
 Wahlkämpfe mit Geldern aus dem Ausland finanziert werden. Einer seiner Kumpels,
@@ -301,19 +301,19 @@ leider im Internet nicht herausfinden, welche Partei den Fall gewann.
 <em>Michael</em> Wer mich als alten Autonarren kennt, weiß natürlich, dass es
 nur eine Frage der Zeit war, bevor ich Elon Musks Cybertruck kaufen würde.
 Wirklich? Das Foto oben habe ich schätzungsweise an mindestens 10 Freunde
-versandt, von denen jeder einzelne zu hundert Prozent überzeugt davon war, dass
+versandt, von denen jeder Einzelne zu hundert Prozent überzeugt davon war, dass
 ich den Verstand verloren und das Cybermobil gekauft hätte. Okay, natürlich ist
 mir alles zuzutrauen, aber nur soviel: Ich habe noch nie im Leben ein neues
 Auto bei einem Händler gekauft, sondern immer nur Gebrauchte aus Privathand.
 Und seit ein paar Jahrzehnten liegt mein Herz bei hochdrehenden Honda-Motoren
-und japanischem Design aus den 90ern. So gut kennt ich mich also!
+und japanischem Design aus den 90ern. So gut kennt ihr mich also!
 
 <pic images/cyber-101.ps Durchaus ein Hingucker auf der Autobahn.>
 
 Aber so ab Anfang Mai 2024 konnte man die ersten Cybertrucks auf den Straßen
 von San Francisco beobachten, frisch vom Fließband der Tesla-Fabrik. Das
-Auto ist schon ein Hingucker, das muss man ihm lassen. Allein, als ich zum
-ersten Mal auf dem Freeway einen neben mir her fahren sah, ist es sogar
+Auto ist schon ein Hingucker, das muss man ihm lassen. Als ich zum
+ersten Mal auf dem Freeway einen neben mir herfahren sah, ist es sogar
 möglich, dass ich ihn verbotenenerweise mit dem Handy gefilmt habe!
 
 <pic images/cyber-edge.ps Die Nachbarn renken sich die Hälse aus nach dem Cybertruck.>
