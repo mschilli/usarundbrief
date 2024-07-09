@@ -26,26 +26,26 @@ Einwohner San Franciscos mittlerweile gewöhnt und die meisten Leute akzeptieren
 sie als gleichberechtigte Straßenverkehrsteilnehmer, die überdurchschnittlich
 gut fahren. Anders als typische Autofahrer hier machen sie keine krassen Fehler
 beim Bedienen ihres Fahrzeugs, übersehen keine roten Ampeln und halten brav an
-jedem Stoppschild an.  Dabei sind sie schwer auf zack, dödeln nicht rum weil sie
-am Telefon herumspielen und kommen schneller durch den Verkehr als unsere
+jedem Stoppschild an.  Dabei sind sie schwer auf zack, dödeln nicht rum weil
+sie am Telefon herumspielen und kommen schneller durch den Verkehr als unsere
 Schleicher. Und, wichtiger noch, sie sind leichter zu ertragen als unsere
-heißblütigen jugendlichen Raser, die allesamt nicht autofahren können aber mächtig aufs Gas
-drücken.
+heißblütigen jugendlichen Raser, die allesamt nicht Autofahren können aber
+mächtig aufs Gas drücken.
 
 <pic images/waymo-app.ps Die App "Waymo One" bucht die Fahrt ganz wie bei Uber>
 
 Deswegen hatte ich auch Null Bedenken, in das selbstfahrende Auto einzusteigen. Nach
 etwa 10 Minuten fuhr das Fahrzeug vor, und auf der Telefon-App erschien ein Knopf
 zum Entriegeln der Tür. Ich drückte drauf, und hörte es schon an der Tür des Robotaxis
-schnackeln. Ich zog am Griff der hinteren Seitentür und öffenete diese.
+schnackeln. Ich zog am Griff der hinteren Seitentür und öffnete diese.
 Wie in Amerika üblich stieg ich hinten ein, aber man dürfte auch vorne auf dem
 Beifahrersitz sitzen.
 
 Ich zog die Tür zu und ließ mich auf die Rückbank plumpsen. Alles war ganz
-still und es ertönt eine leise irre Space-Musik, ähnlich wie im Besucherzentrum
+still und es ertönte eine leise irre Space-Musik, ähnlich wie im Besucherzentrum
 des Mormonentempels, den wir mal vor langer Zeit aufgesucht hatten.  Eine
 freundliche Frauenstimme erklärte, dass dies sich zwar alles sehr futuristisch
-anmuten würde aber ich mir keine Sorgen machen müsse und die Fahrt genießen,
+anmuten würde, aber ich mir keine Sorgen machen müsse, und die Fahrt genießen,
 aber die Finger vom Lenkrad lassen solle.  Laut Ansage lässt die
 Betreiberfirma Waymo auch im Innenraum Kameras laufen, versichert aber,
 Gespräche von Fahrgästen oder deren operettenhaftes Geträller
@@ -54,7 +54,7 @@ nicht zu belauschen.
 <pic images/waymo-trip.ps Der Spaß hat 11 Dollar gekostet.>
 
 Damit das Auto losfuhr, musste ich auf der App erst einen Startknopf drücken
-und dann einen Schieber über die Bildfläche ziehen. Dann ging's los, und das
+und dann einen Schieber über die Bildfläche ziehen. Dann ging's los, das
 Auto verließ die Parklücke und mischte sich in den fließenden Verkehr, sehr zügig und
 souverän. Es hielt ordnungsgemäß an roten Ampeln an und ließ Fußgängern beim
 Abbiegen vorbildlich die Vorfahrt. Meine Fahrt war nur sehr kurz und das Auto
