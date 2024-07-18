@@ -1,6 +1,6 @@
 San Francisco, den 08.07.2024
 
-@Z: Fearlessly Riding In the Robotaxi"
+@Z: Fearlessly Riding In the Robotaxi
 
 <GIF>images/waymo-inside.gif|Michael reports live from the driverless taxi.</GIF>
 
