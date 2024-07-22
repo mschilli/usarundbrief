@@ -301,35 +301,35 @@ not in Germany: no matter how broken and crazy everything seems right now, we
 are living in the future and merely anticipating what will one day reach
 Germany. I prefer to be first.
 
+@Z: Book Recommendation: King of the Hobos
+
+<pic images/hobos.ps A very entertaining book about hobos in America>
+
+<em>Michael</em> Attentive newsletter readers already know what a hobo is: As
+explained in <RBLINK>20211101#9</RBLINK>, they are drifters who travel
+illegally across America on freight trains. In that old newsletter issue, I
+explained why this way of traveling fascinates me, but I put the hobby aside
+after the accidental death of "Stobe the Hobo." Out of the blue, an American
+friend recently brought a German book about hobos to my attention, which he
+couldn't read due to the language barrier.
+
+I quickly bought
+<LINK>https://www.amazon.com/dp/B07BFFY51X|"König der Hobos"</LINK>
+by Fredy Gareis as a Kindle edition on American Amazon, and I
+must say that rarely has a book captivated me and driven me to keep reading as
+this one did. Gareis is supposedly a journalist from Germany who spent a few
+months traveling across the country with hobos in America and recorded his
+experiences in this book.
+
+<pic images/foamer-folkston.ps A so-called "Foamer" photographs the passing freight train.>
+
+During this time, he befriended the hobo celebrity "Shoestring" and accompanied
+the hardcore vagrant on freight train trips across the vast expanses of
+America. Shoestring financed these trips by begging at supermarket entrances in
+small towns during stopovers. Without a doubt, it's a broken world! But the
+book is incredibly captivating and comes highly recommended for purchase!
+
 TODO
-
-@Z: Buchtipp: König der Hobos
-
-<pic images/hobos.ps Ein Spitzenbuch über Hobos in Amerika>
-
-<em>Michael</em> Aufmerksame Rundbriefleser wissen bereits, was ein Hobo ist:
-Wie in <RBLINK>20211101#9</RBLINK> schonmal ausgeführt sind das Landstreicher,
-die auf Frachtzügen illegal quer durch Amerika reisen. Nun hatte ich in der
-alten Rundbriefausgabe erklärt, warum mich diese Art des Reisens fasziniert,
-aber das Hobby nach dem Unfalltod von "Stobe the Hobo" irgendwie ad acta
-gelegt. Aus heiterem Himmel machte mich nun aber kürzlich ein amerikanischer
-Bekannter auf ein deutsches Buch zum Thema "Hobos" aufmerksam, das er wegen
-einer Sprachbarriere nicht lesen konnte.
-
-Flugs kaufte ich <LINK>https://www.amazon.com/dp/B07BFFY51X|"König der Hobos"</LINK>
-von Fredy Gareis als Kindle-Ausgabe auf dem
-amerikanischen Amazon und ich muss sagen, dass mich selten ein Buch so
-gefesselt und zum Weiterlesen angetrieben hat. Gareis ist angeblich Journalist
-aus Deutschland, der in Amerika ein paar Monate damit verbracht hat, mit Hobos
-durchs Land zu reisen und seine Erlebnisse in Buchform festzuhalten.
-
-<pic images/foamer-folkston.ps Ein sogenannter Foamer fotografiert den durchfahrenden Güterzug>
-
-Dabei freundete er sich mit der Hobo-Celebrity "Shoestring" an und begleitete
-den Hardcore-Penner auf Frachtzug-Trips durch die endlosen Weiten Amerikas, die sich
-Shoestring durch Betteln an Supermarkteingängen in Kleinstädten auf
-Zwischenstationen finanzierte. Ohne Frage eine kaputte Welt! Aber das Buch ist
-sehr spannend zu lesen, und sei hierbei dringenst zum Kauf empfohlen!
 
 @Z: Charleston und Savannah
 
