@@ -104,113 +104,105 @@ San Francisco and the surrounding area, schools that are already open are
 allowed to remain open.
 San Francisco, den 20.12.2020
 
+@Z: Sold-out Christmas trees
+
+<pic images/xmas-tree.ps The $119 Christmas tree on the balcony.>
+
+<em>Michael</em> If Americans buy a Christmas tree at all, they usually start
+looking for it at Thanksgiving at the end of November. They also set it up and
+decorate it right away, because after all, this way they get more out of their
+investment.
+
+Angelika also wants a Christmas tree every year, but she prefers to buy it
+shortly before the 24th and set it up only on the 24th. A week before the
+holiday, the sales locations usually still offer acceptable trees, but at our
+usual spot this year, there were only three-meter-tall giant trees and
+one-meter-small mini trees left; the mid-sized trees were completely sold out.
+We eventually found one that was 2 meters 10, but when we asked how much it
+would cost, the man said dryly: 176 dollars, which made us reconsider.
+
+After an hour of driving across the city, checking various Safeway parking lots
+where trees were supposedly being sold according to the internet, but in
+reality only housed already closed sales shacks, we finally found success at a
+garden center by the ocean. From the five remaining trees, we chose the best
+one, and while the employee was tying the tree to our car roof, he told us that
+this year had been particularly crazy. Many more people than usual were staying
+in the city for the holidays, and while the store typically sold 600 Christmas
+trees per season, they had wisely ordered 1,000 this year, but they were now
+practically all gone, and getting more stock quickly was not possible.
+
+So now a $119 tree stands on our balcony, waiting for December 24th, when it
+will be allowed into the living room and be decorated by Angelika herself in an
+elaborate process. Meanwhile, I write articles for computer magazines or go
+surfing.
+
+@Z: Voting in the garage
+
+<pic images/polling-1.ps Voters in San Francisco can cast their ballots in a garage.>
+
+<em>Michael</em> Now that the presidential election is over, readers of the
+newsletter might be wondering how people in America vote. While in Germany, a
+polling station often opens in the nearest elementary school, things can be a
+bit more rustic here in San Francisco. In our neighborhood, some residents run
+official polling stations in their home garages. This is no joke; as you can
+see from the photos, these volunteers receive official ballot boxes and papers
+and are responsible for properly delivering the cast votes to the official
+authorities.
+
+Due to the election process called the 'Electoral College' in America, each
+state individually determines the president. Some states have historical
+preferences, and since a candidate is chosen in each state on a
+winner-takes-all basis, a supporter of the Republican Party in California might
+as well not bother voting, because California has voted for the Democratic
+candidate for the past 40 years. Rumor has it that even a cardboard cutout of a
+Democrat would still have a better chance in California than the most moderate
+conservative politician.
+
+<pic images/polling-2.ps Due to COVID-19, voters wait outside the polling station until it is their turn.>
+
+But as always, the presidential election was bundled with the abundantly
+practiced California ballot initiatives, the so-called 'Ballot Measures.'
+Citizens here can vote directly on various issues, such as 'Proposition 18,'
+which proposed lowering the voting age to 17 (rejected by 56%). Or 'Proposition
+16,' which would have allowed the state, contrary to the Constitution, to give
+preferential treatment to ethnic minorities (rejected by 57.2%). Or
+'Proposition 22,' which allows taxi companies Uber and Lyft to classify drivers
+as independent contractors rather than employees (approved by 58.6%).
+
+So, when a Californian goes into a garage polling station, they receive a huge
+ballot and have to check not only 'Trump' or 'Biden,' but also several dozen
+boxes for numbered propositions. The ballot measures are named at the
+discretion of the petitioners, and it is often not easy to figure out what
+voting 'Yes' or 'No' actually means. For example, the vote on Proposition 16
+was formulated as follows: 'Repeal Prop 209 Affirmative Action Amendment.' It
+was about repealing an old proposition from 1996, which prohibited the state
+from treating citizens unequally just to benefit certain minorities.
+
+<pic images/prop-16.ps (#1) Prop 16 at the 2020 election in California.>
+
+Back then, it was a halt to the so-called 'Affirmative Action,' a state program
+that tried to improve the living conditions of minorities like Blacks or
+Latinos through state interventions, for example, by giving them preferential
+consideration in college admissions. This, of course, angered other groups like
+Whites or Asians, who, despite better grades, were at a disadvantage. So, in
+1996, Prop 209 determined that this was not lawful. Prop 16 in 2020 brought
+this old issue back and aimed to legalize this unequal treatment again.
+Therefore, voting 'Yes' on the ballot was in favor of repealing the old
+proposition, thus legalizing unequal treatment.
+
+By voting 'No,' one voted against the repeal, thereby supporting the
+continuation of the current practice of equal treatment. To ensure that even
+people without a higher education are not overwhelmed, websites like
+ballotpedia.org explain what a 'Yes' and 'No' vote means for each question.
+Voters often enter polling stations with self-written tables that indicate
+which box to check for each number to achieve the political outcomes they
+planned at home. Some also bring cheat sheets from activists, listing the
+recommended choices for those they trust to copy. The result: As mentioned
+above, Prop 16 was rejected by 57.2% of California voters, so it remains
+illegal for the state to grant advantages to minorities. The principle of equal
+treatment remains in place.
+
 TODO
-
-@Z: Ausverkaufte Weihnachtsbäume
-
-<pic images/xmas-tree.ps Der 119 Dollar teure Weihnachtsbaum auf dem Balkon.>
-
-<em>Michael</em> Wenn sie denn überhaupt einen kaufen, machen sich Amerikaner
-meist schon an Thanksgiving Ende November auf, einen Weihnachtsbaum zu kaufen.
-Sie stellen ihn auch gleich auf und schmücken ihn, denn schließlich hat man so
-mehr von der Investition.
-
-Angelika will auch jedes Jahr einen Weihnachtsbaum haben, ihn aber erst kurz
-vor dem 24sten kaufen und erst am 24sten aufstellen. Eine Woche vor dem Fest
-bieten die Verkaufsstellen normalerweise noch akzeptable Bäume feil, doch bei
-unserer normalen Anlaufstelle gab es dieses Jahr nur noch drei Meter hohe
-Riesenbäume und einen Meter kleine Mini-Bäume, das Mittelsegment war komplett
-ausverkauft.  Schließlich fanden wir noch einen, der maß 2 Meter 10, aber als
-wir fragten, wie viel er denn kosten solle, sagte der Mann trocken: 176 Dollar,
-worauf wir es uns nochmal überlegen wollten.
-
-Nach einer Stunde Autofahrt quer durch die Stadt, auf der wir verschiedenste
-Safeway-Parkplätze abklapperten, auf denen laut Internet angeblich Bäume
-verkauft wurden, aber in Wirklichkeit nur bereits eingemottete Verkaufsbaracken
-standen, wurden wir schließlich in einem Gartencenter am Ozean fündig. Aus fünf
-verbliebenen Bäumen wählten wir den besten aus, und der Angestellte erzählte
-uns, während er den Baum auf unserem Autodach festband, dass es dieses Jahr
-besonders verrückt zugegangen sei. Viel mehr Leute als sonst blieben über die
-Feiertage in der Stadt, und während der Laden sonst pro Saison 600
-Weihnachstbäume verkauft, hätten sie dieses Jahr in weiser Voraussicht 1000
-geordert, die aber nun praktisch alle weg waren, und Nachschub war auf die
-Schnelle nicht zu bekommen.
-
-Nun steht also ein 119 Dollar teures Stück auf unserem Balkon und wartet dort
-auf den 24.  Dezember, dann darf er rein ins Wohnzimmer und wird dort von
-Angelika persönlich in einer aufwändigen Prozedur geschmückt. Ich schreibe
-derweil Artikel für Computerzeitschriften oder geh Surfen.
-
-@Z: Wählen in der Garage
-
-<pic images/polling-1.ps Wähler in San Francisco können ihre Stimme in einer Garage abgeben.>
-
-<em>Michael</em> Nun ist die Präsidentenwahl ja gelaufen, aber die
-Rundbriefleser fragen sich sicher, wie wählen die Leute in Amerika überhaupt?
-Während in Deutschland oft in der nächstgelegenen Grundschule ein Wahllokal
-aufmacht, geht es hier in San Francisco auch manchmal etwas rustikaler zu. So
-betreiben in unserem Viertel einige Anwohner offizielle Wahllokale in ihren
-hauseigenen Garagen. Das ist kein Witz, sondern wie ihr an den Fotos sehen
-könnt, bekommen diese Freiwilligen offizielle Wahlurnen und -zettel und sind
-fürs ordnungsgemäße Abliefern der abgegebenen Stimmen an die offiziellen
-Stellen verantwortlich.
-
-Wegen des in Amerika "Electoral College" genannten Wahlverfahrens bestimmt ja
-jeder Bundesstaat einzeln den Präsidenten. Teilweise gibt es in einigen Staaten
-aber historische Vorlieben, und da ein Kandidat pro Bundesstaat nach dem
-Alles-oder-Nichts-Prinzip gewählt wird, bräuchte in Kalifornien ein Anhänger
-der republikanischen Partei eigentlich erst gar nicht zur Wahl zu gehen, denn
-seit 40 Jahren hat Kalifornien immer für den demokratischen Kandidaten
-gestimmt. Gerüchtehalber hätte in Kalifornien selbst ein demokratischer
-Pappkamerad immer noch mehr Chancen als der moderateste konservative
-Politiker.
-
-<pic images/polling-2.ps Wegen Corona warten die Wähler vor dem Wahllokal, bis sie an der Reihe sind.>
-
-Aber wie immer wurde die Präsi-Wahl auch dieses Mal in einen Topf geworfen mit
-den in Kalifornien so üppig praktizierten Volksbegehren, den sogenannten
-"Ballot Measures". Über alles und jedes darf der Bürger hier direkt abstimmen,
-so zum Beispiel in der "Proposition 18", ob das Wahlalter auf 17 Jahre gesenkt
-werden soll (abgelehnt mit 56%). Oder "Proposition 16", die es dem Bundesstaat im
-Widerspruch zur Verfassung erlaubt hätte, ethnische Minderheiten bevorzugt
-zu behandeln (abgelehnt mit 57.2%). Oder "Proposition 22", die es den
-Taxiunternehmen Uber und Lyft erlaubt, Fahrer als freie Mitarbeiter (und nicht
-als Angestellte) zu beschäftigen (bestätigt mit 58.6%).
-
-Geht also ein Kalifornier in so ein Garagen-Wahllokal, bekommt er einen
-Riesenwahlzettel und muss nicht nur "Trump" oder "Biden" ankreuzen, sondern mehrere
-Dutzend Kästchen mit numerierten Propositions.  Die Ballot Measures werden je
-nach Gutdünken der Antragssteller benannt, und ist es oft gar nicht so einfach,
-herauszufinden was man mit der Wahl von "Ja" oder "Nein" erreicht. Die Wahl zur
-Proposition 16 zum Beispiel war folgendermaßen formuliert: "Repeal Prop 209
-Affirmative Action Amendment". Es ging also um den Widerruf einer alten
-Proposition aus dem Jahr 1996, die es dem Staat untersagte, Bürger ungleich zu
-behandeln, nur um zurückliegenden Minderheiten Vorteile zu verschaffen.
-
-<pic images/prop-16.ps (#1) Proposition 16 bei der Wahl in Kalifornien im Jahr 2020.>
-
-Das war damals ein Stopp der sogenannten "Affirmative Action", einem
-Staatsprogramm, das versuchte, die Lebensumstände von Minderheiten wie
-Schwarzen oder Latinos mit staatlichen Eingriffen zu verbessern, indem es sie
-zum Beispiel bevorzugt bei der Vergabe von Studienplätzen berücksichtigte,
-natürlich zum Ärger anderer Gruppen wie Weißen oder Asiaten, die trotz besserer
-Noten den Kürzeren zogen. Also bestimmte Prop 206 im Jahre 1996, dass dies
-nicht rechtens sei. Prop 16 im Jahre 2020 rollte dieses alte Thema nun wieder
-auf und wollte diese Ungleichbehandlung wieder legalisieren. Wer also auf
-seinem Stimmzettel mit "Ja" stimmte, sprach sich für die Rücknahme der alten
-Proposition aus, also für die Legalisierung der Ungleichbehandlung.
-
-Mit "Nein" stimmte man gegen das Zurücknehmen, also für die Beibehaltung der
-bisherigen Praxis der Gleichbehandlung. Damit das auch Leute ohne Abitur nicht
-überfordert, erklären Internetseiten wie ballotpedia.org was bei jeder Frage
-"Ja" und was "Nein" bewirkt, und die Wähler betreten die Wahllokale oft mit
-selbstgeschriebenen Tabellen, die bestimmen, bei welcher Nummer sie welches
-Kasterl ankreuzen, damit sie auch das politisch erreichen, was sie sich zuhause
-überlegt haben.  Manche nehmen auch ein Aktivisten\-spick\-zetterl mit, auf denen andere
-Leute, denen die Wähler vertrauen, die empfohlenen Kreuze zum Abschreiben auflisten.
-Das Ergebnis: Wie oben schon erwähnt, wurde Prop 16 mit 57.2% von den
-kalifornischen Wählern abgelehnt, es bleibt also weiterhin illegal, dass der
-Staat Minderheiten Vorteile gewährt. Der Grundsatz der Gleichbehandlungs bleibt bestehen.
 
 @Z: Grippeimpfung im Drogeriemarkt
 
