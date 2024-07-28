@@ -402,95 +402,78 @@ minutes, take them out and let them cool on a rack.
 Done! I made <LINK>https://www.youtube.com/watch?v=1BGGU3KeprU|my Own Pretzel Baking Video for YouTube || Michael's Pretzel Baking Video</LINK>.
 Check it out, like it, and subscribe, as the pros say.
 
+@Z: Off to the COVID test
+
+<pic images/ctest.ps Entrance to the COVID test site.>
+
+<em>Angelika</em> As I mentioned at the beginning, one of the requirements at
+our school is that staff must regularly undergo COVID testing, even if they
+have no symptoms. However, in early September, it was not easy to get a test
+without symptoms. San Francisco had test centers that offered tests for people
+who needed them for work, but only if their workplace was in San Francisco.
+This made me grind my teeth a bit because, even though my workplace isn't in
+San Francisco, I am still a resident of this city and pay my taxes here. But
+anyway.
+
+At other test sites, you could only get a test after a prior video conference,
+which was also somewhat cumbersome. Then, our administration informed us about
+the so-called "Project Baseline." They have test centers all over the Bay Area,
+work with local and state authorities, and the test is available to people
+without symptoms and is free. However, behind Project Baseline is the company
+Verily, which is a subsidiary of Alphabet, the parent company of Google.
+
+How does the whole process work? I went to the 
+<LINK>https://www.projectbaseline.com/study/covid-19/|Project-Baseline-Covid-Website</LINK>,
+clicked on the "Get Started" button, and had to sign in with my email. Then, I had to
+electronically sign several forms confirming that I am 18 years old and
+agreeing, for example, that it is okay for the COVID sample to be sent to a lab
+and for the data to be shared with the lab for this purpose. Next, I filled out
+an online questionnaire about COVID, including questions about my age,
+symptoms, pre-existing conditions, increased risk due to my job, and so on.
+Finally, I could schedule an appointment.
+
+I was offered available appointments at test sites in the nearby area. I chose
+an appointment at a test center in San Mateo, which is conveniently located
+almost directly across from our school on a fairground. I also had to provide
+my insurance numbers when scheduling the appointment, as in California,
+insurance is billed for the test. If you don't have insurance, the test is
+free. I've taken the test a few times now, and sometimes all the appointments
+are booked. However, new slots are usually made available each day. I then
+received a confirmation email with an identification number that everyone needs
+to bring to their appointment.
+
+Then I drove to the test center in San Mateo. First, I joined the line of cars.
+Everyone was wearing masks, and the car windows remained firmly closed. An
+attendant held up a sign asking if I had an appointment with Project Baseline
+(no appointment, no test). I responded with a thumbs up to indicate yes. The
+attendant directed me to my lane, as there were also testing options from other
+providers on the site. Progressing at a snail's pace, I eventually reached
+another attendant who checked my identification number from the email through
+the closed window and my driver's license to ensure I was the correct person.
+
+After verifying my identity, an attendant placed a plastic bag with the test
+tubes under my windshield wiper. The actual test took place in an exhibition
+hall, which I drove into. There, the tester approached and asked for my name
+and date of birth again, through the still-closed window. Then, I had to open
+my car window slightly. The tester handed me a long cotton swab. I closed my
+window, pulled my mask down from my nose, so my mouth was still covered, and
+then inserted the cotton swab deep into one nostril, rotating it ten times, and
+repeated the process in the other nostril. After that, I pulled my mask back
+over my nose, opened the window a small crack again, and placed the long cotton
+swab into the test tube that was held out to me. Then, I drove away. After 1-2
+days, I received the results via email.
+
+<pic images/covid-poster.ps Poster with COVID-19 testing sites in San Francisco.>
+
+Once you're in the Project Baseline system, for subsequent tests you only need
+to provide your insurance number to get an appointment, and you can skip the
+questionnaire. Nowadays, it's generally a bit easier to get a test even if you
+don't have symptoms, including for children, although Project Baseline starts
+at 13 years old, while the competitor Curative offers tests from 5 years old. I
+would have liked to take some photos during the testing process, but that was
+strictly prohibited.
+
 TODO
-
-@Z: Ab zum Covid-Test
-
-<pic images/ctest.ps Einfahrt zum Covid-Test.>
-
-<em>Angelika</em> Wie ich eingangs schon erwähnt habe, ist eine der Auflagen an unserer
-Schule, dass Mitarbeiter regelmäßig zum Corona-Test müssen, auch wenn gar keine
-Symptome vorliegen. Anfang September war es allerdings noch gar nicht so
-leicht, bei fehlenden Symptomen einen Test zu ergattern. In San Francisco gab es zwar
-Testcenter, die Tests für Leute anboten, die arbeitsbedingt einen brauchten,
-aber nur, falls die Arbeitsstelle sich in San Francisco befand. Das ließ mich
-etwas mit den Zähnen knirschen, denn auch wenn meine Arbeitsstelle nicht in San
-Francisco liegt, gelte ich immer noch als Einwohner dieser Stadt und lasse
-meine Steuergelder hier. Aber egal.
-
-Bei anderen Teststellen bekam man nur einen Test nach vorheriger
-Videokonferenz, was auch etwas umständlich war.  Dann machte uns unsere Leitung
-auf das sogenannte "Project Baseline" aufmerksam. Die haben Testcenter überall
-in der Bay Area, arbeiten mit den lokalen und staatlichen Behörden zusammen und
-der Test steht auch Leuten ohne Symptomen zur Verfügung und ist kostenlos.
-Allerdings verbirgt sich hinter dem Project Baseline die Firma Verily, was eine
-Tochterfirma von Alphabet ist, der Google-Firma.
-Verily stampfte das Project Baseline nicht etwa wegen Corona aus der
-Erde, sondern ist allgemein daran interessiert, wie Daten und
-Forschungsergebnissse für den Einzelnen genutzt werden können, um seine
-Gesundheit zu verbessern.  Die Covid-Testerei läuft über die Google-Plattform,
-denn um einen Termin auszumachen, muss man eigentlich über einen
-Google-E-Mail-Account verfügen oder einen neuen einrichten. Das nun besorgte
-Datenschützer zu Recht, denn Google ist ja wegen Datennutzung und -speicherung
-schon oft in die Kritik geraten. Angeblich werden die Daten bezüglich des Covid-Tests
-separat gespeichert und nicht mit der Google-E-Mail verlinkt. Wegen der kritischen
-Stimmen erlaubt Google aber jetzt auch Nicht-Google-E-Mails.
-
-Wie läuft das Ganze nun ab? Ich ging auf die
-<LINK>https://www.projectbaseline.com/study/covid-19/|Project-Baseline-Covid-Webseite</LINK>,
-drückte auf den "Get Started" Knopf und musste mich dann mit meiner E-Mail
-anmelden. Dann gilt es, einige Formulare elektronisch zu unterschreiben, in
-denen man versichert, dass man 18 Jahre alt ist und sich bereit erklärt, dass
-es zum Beispiel okay ist, dass die Covidprobe an ein Labor geschickt und die
-Daten zu diesem Zweck mit diesem Labor ausgetauscht werden. Dann füllte ich
-online einen Fragebogen bezüglich Corona aus, also zum Beispiel mein Alter,
-Symptome, Vorerkrankungen, erhöhtes Risiko durch den Beruf, und so weiter, und
-dann geht es endlich an die Terminvergabe.
-
-Mir wurden freie Termine bei Teststellen in der näheren Umgebung vorgeschlagen.
-Ich suchte mir einen Termin bei einem Testzentrum in San Mateo aus, das sich
-praktisch fast gegenüber unserer Schule auf einem Messegelände befindet. Ich
-musste auch meine Krankenkassennummern zur Terminvergabe angeben, diese wird in
-Kalifornien nämlich zur Kasse gebeten. Hat man keine, kostet der Test aber nichts. Ich
-habe den Test ja jetzt schon einige Male gemacht und manchmal sind alle Termine
-weg.  Aber in der Regel werden jeden Tag neue zur Verfügung gestellt. Ich bekam
-dann die Bestätigung per E-Mail, mit einer Identifizierungsnummer, die jeder
-zum Termin mitbringen muss.
-
-Dann fuhr ich mit dem Auto zum Testcenter in San Mateo. Zunächst reihte ich
-mich in die Autoschlange ein. Jeder trug Maske und die Autofenster blieben fest
-verschlossen. Ein Einweiser hielt ein Schild hoch, auf dem die Frage stand, ob
-ich einen Termin mit Project Baseline hatte (ohne Termin geht nichts). Die
-Frage beantwortete ich mit Daumen hoch für ja.  Der Einweiser wies mir meine
-Spur zu, denn es gibt auch noch Test\-möglich\-keiten anderer Anbieter auf dem
-Gelände. Im Schnecken\-tempo ging es weiter. Dann kam eine weitere Person, die
-durch das geschlossene Fenster meine Identifizierungsnummer von der E-Mail
-prüfte und meinen Führerschein, um sicherzustellen, dass ich auch die richtige
-Person war.
-
-Nach Prüfung der Personalien brachte wurde ein Plastikbeutel mit den
-Teströhrchen hinter meinen Scheibenwischer geklemmt. Der eigentliche Test fand
-in einer Messehalle statt, in die ich mit dem Auto einfuhr. Dort kam der Tester
-an und fragte noch mal nach meinem Namen und meinem Geburtstdatum, wieder bei
-noch verschlossenen Scheiben. Dann musste ich mein Auto\-fenster einen kleinen
-Spalt öffnen. Der Tester reichte mir ein langes Wattestäbchen. Ich schloss mein
-Fenster, zog die Maske von der Nase, sodass der Mund noch bedeckt war. Dann
-führte ich selbst das Wattestäbchen tief in das Naseloch ein und drehte das
-Wattestäbchen zehnmal im ersten Nasenloch und erneute zehnmal im zweiten. Dann
-schob ich meine Maske über die Nase zurück, öffnete das Fenster wieder einen
-kleinen Spalt und steckte das lange Wattestäbchen in das mir hingehaltene
-Teströhrchen zurück. Dann fuhr ich davon. Nach 1-2 Tagen bekam ich das Ergebnis
-per E-Mail zugeschickt.
-
-<pic images/covid-poster.ps Poster mit den Covid-Teststellen in San Francisco.>
-
-Wenn man einmal im System ist bei Project Baseline, braucht man bei Folgetests
-nur seine Krankenkassennummer anzugeben, um einen Termin zu erhalten, den
-Fragekatalog kann man sich schenken. Mittlerweile ist es allgemein etwas leichter,
-einen Test zu bekommen auch wenn man keine Symptome hat, selbst für Kinder,
-allerdings erst ab 13 Jahren bei Project Baseline, die Konkurrenzfirma Curative
-macht's ab 5 Jahren. Ich hätte gerne ein paar Fotos beim Testen gemacht. Das war
-allerdings strengstens verboten.
 
 @Z: Biden gewinnt
  
