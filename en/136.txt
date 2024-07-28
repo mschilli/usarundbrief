@@ -201,75 +201,67 @@ above, Prop 16 was rejected by 57.2% of California voters, so it remains
 illegal for the state to grant advantages to minorities. The principle of equal
 treatment remains in place.
 
+@Z: Flu vaccination in the drugstore
+
+<pic images/walgreens.ps Walgreens, the leading drugstore chain with pharmacy services.>
+
+<em>Angelika</em> I haven't had the flu often in my life, but there was one
+time when it really got me. We were still living in Munich, and I thought I was
+indispensable at work, so I went in with a fever, which immediately backfired,
+sending me into a fever delirium and incapacitating me for quite a while. For
+some time now, I've been telling myself every year that this year, I'll get the
+flu shot, but then I didn't do it, even though it's recommended due to my work
+with children.
+
+But due to Corona and the fact that I have to stay home and get tested for any
+symptom that is on the official Covid list, I thought to myself, 2020 is my
+year for the flu shot. This is because flu and Corona symptoms are hard to
+distinguish from each other. Of course, I didn't want to sit in my doctor's
+waiting room with all the coughing and sneezing people just for a vaccination.
+But you have to give it to the Americans; sometimes they are very pragmatic.
+here, anyone can get vaccinated in the drugstore.
+
+<pic images/walgreens-booth.ps In the small white cubicle on the right, the pharmacist is vaccinating customers against the flu.>
+
+As has often been reported here, in the USA there isn't a classic pharmacy as
+you know it from Germany. Pharmacies are either
+located in drugstores like "Walgreens" and "CVS" or in supermarkets like the
+"Safeway" chain. German visitors always find it a bit strange that
+non-prescription medications like aspirin are available on the regular shelves
+in the supermarket. However, for prescription medications, you still need a
+prescription in the U.S., but you can get the medication from behind the counter
+in the back of a drugstore.
+
+In the U.S., the profession of a pharmacist also exists, and every drugstore or
+supermarket that offers prescription medications employs one. In all American
+states, these pharmacists are allowed to administer vaccinations to adults (not
+all states permit this for children). Generally, anyone wanting a vaccination
+can simply show up at the store to get vaccinated, or can make an
+appointment online.
+
+If you have health insurance, it covers the vaccination, and the drugstore
+bills the insurance company directly. I just had to present my insurance card.
+My insurance fully covered the flu vaccination. I made an appointment online at
+the Walgreens around the corner from us and got one for the same day. Then I
+just needed to provide my birthdate, address, and name, and answer a few
+questions such as whether I was feeling sick or if I had ever had an allergic
+reaction to vaccinations.
+
+<pic images/flu-fighter.ps Angelika got the flu vaccine at the drugstore.>
+
+At the appointed time, I went to the Walgreens drugstore, checked in at the
+pharmacy area, and after a few minutes, the on-duty pharmacist came. She led me
+into a box-like structure that looked like a small container, which turned out
+to be a tiny room with a chair. She confirmed my details once again and then
+administered the vaccination in my arm. I had always wondered what that huge,
+person-sized box at the end of the aisle in Walgreens was for when I was
+shopping there. Now I know! By the way, you can not only get flu vaccinations
+in drugstores but also vaccinations for all sorts of other things (shingles,
+whooping cough, hepatitis). I read in the German media that this year in
+Germany, there are the first pilot projects testing flu vaccinations in
+selected pharmacies.
+
 TODO
-
-@Z: Grippeimpfung im Drogeriemarkt
-
-<pic images/walgreens.ps Walgreens, die führende Drogerie-Kette mit Apothekenfunktion.>
-
-<em>Angelika</em> Ich hatte bis jetzt nicht oft richtige Grippe in meinem
-Leben, aber einmal erwischte es mich doch ziemlich. Da lebten wir noch in
-München und ich meinte damals, dass ich bei der Arbeit unentbehrlich sei und ging mit
-Fieber arbeiten, was sich postwendend rächte, mich ins Fieberdelirium
-verfrachtete und für eine gute Zeit lahm legte. Seit geraumer Zeit denke ich
-mir jedes Jahr, aber dieses Jahr lässt du dich gegen Grippe impfen und dann
-mache ich es doch nicht, obwohl es wegen meiner Arbeit mit den Kindern
-empfohlen wird.
-
-Aber durch Corona
-und die Tatsache bedingt, dass ich bei jedem auftretenden Symptom, das auf der
-offiziellen Covidliste ist, zuhause bleiben und getestet werden muss, dachte
-ich mir, 2020 ist mein Jahr der Grippeimpfung. Denn Grippe- und Coronasymptome
-sind nur schwer voneinander zu unterscheiden. Nun wollte ich natürlich nicht
-mit allen Hustenden und Prustenden im Wartezimmer meines Hausarztes sitzen, nur
-für eine Impfung. Aber das muss man dem Amerikaner lassen, manchmal ist er
-sehr pragmatisch veranlagt. Jeder kann sich hier nämlich im Drogeriemarkt
-impfen lassen.
-
-<pic images/walgreens-booth.ps In dem weißen Kabuff rechts impft der Apotheker die Kunden gegen Grippe.>
-
-Wie hier schon öfter berichtet, gibt es in den USA nicht die
-Apotheke im klassischen Sinn, wie ihr sie aus Deutschland kennt. Apotheken
-(hier "Pharmacy" genannt) befinden sich entweder im Drogeriemarkt wie dem
-"Walgreens" und "CVS" oder auch in Supermärkten wie der Kette "Safeway". Als
-deutscher Tourist kommt es einem dann auch immer etwas befremdlich vor, dass es
-im Supermarkt nicht verschreibungspflichtige Medikamente wie Aspirin im ganz
-normalen Regal gibt. Für die verschreibungspflichtigen Arzneimittel braucht
-man allerdings auch hier ein Rezept und bekommt das Medikament nur hinter dem
-Tresen ausgehändigt, der sich meist im gleichen Bereich wie die anderen, nicht
-verschreibungspflichtigen Medikamente befindet.
-
-Auch in den USA gibt es den Beruf des Pharmakologen und jeder Drogerie- oder
-Supermarkt, der verschreibungspflichtige Medikamente im Sortiment hat,
-beschäftigt einen. In allen  amerikanischen Bundesstaaten ist es diesen
-Pharmokologen erlaubt, Impfungen an Erwachsenen durchzuführen (bei Kindern
-ziehen nicht alle Bundesstaaten mit). In der Regel kann der Impfwillige einfach
-im Laden auftauchen, um sich die Impfung verpassen zu lassen oder der Kunde
-kann online einen Termin machen.
-
-Hat man eine Krankenversicherung, bezahlt diese die Impfung, und der Drogeriemarkt
-rechnet gleich direkt mit ihr ab. Ich musste dazu nur
-meine Krankenkassenkarte vorlegen. Meine Krankenkasse bezahlte die
-Grippeimpfung voll. Ich machte online einen Termin beim Walgreens bei uns um
-die Ecke, und bekam einen am selben Tag. Dann brauchte ich nur mein
-Geburtsdatum, meine Adressse und meinen Namen anzugeben, und ein paar Fragen gab es
-für mich zu beantworten wie zum Beispiel, ob ich mich krank fühle oder
-schon einmal allergisch auf Impfungen reagiert hätte.
-
-<pic images/flu-fighter.ps Angelika wurde im Drogeriemarkt gegen Grippe geimpft.>
-
-Zum ausgemachten Zeitpunkt trabte ich dann zum Drogeriemarkt "Walgreens",
-meldete mich im Pharmaziebereich, und nach einigen Minuten kam die
-diensthabende Pharmokologin.  Sie führte mich in eine kastenähnliche, wie ein
-kleiner Container aussehende Box, die sich als ein klitzekleines Zimmer mit
-einem Stuhl herausstellte. Sie fragte noch einmal meine Daten ab und gab mir
-dann die Impfung in den Arm. Ich hatte mich schon immer gewundert, wenn ich im
-Walgreens einkaufen war, was es mit dieser riesigen mannshohen Kiste am Ende
-des Ganges auf sich hat. Jetzt weiß ich es! Übrigens gibt es nicht nur
-Grippeimpfungen in Drogeriemärkten, sondern man kann sich auch gegen alle
-möglichen andere Dinge impfen lassen (Gürtelrose, Keuchhusten, Hepatitis).
-In den deutschen Medien las ich, dass es dieses Jahr in Deutschland die ersten
-Modellprojekte gibt, die das Grippeimpfen in ausgewählten Apotheken erproben.
 
 @Z: Wanderer, Jäger und Sammler
 
