@@ -5,7 +5,7 @@ San Francisco, den 18.05.2004
 
 <pic images/l1.ps Lange kurze Hosen>
 
-<em>Michael</em>:
+<em>(Michael)</em>
 Wer in den USA deutsche Badehosen trägt, verursacht Lacher der besonderen 
 Art. Ich war mir dieser Tatsache lange Zeit nicht bewusst und ging oft 
 in den typisch deutschen und knappen, auf amerikanisch "Speedos" genannten,
@@ -45,7 +45,7 @@ Aber lustig ist es trotzdem!
 
 <pic images/atkins2.ps Die Imbisskette "Subway" hat ein neues "Atkins-friendly" Menü mit Salat>
  
-<em>Angelika</em>:
+<em>(Angelika)</em>
 Europäer lästern von je her 
 über die dicken Amerikaner. Dass 2/3 der amerikanischen 
 Bevölkerung sich mit Übergewicht durchs Leben quält und 
@@ -202,7 +202,7 @@ Feind "Kohlenhydrate" eingeschossen hatte, gab's kein Halten mehr.
 
 <pic images/mailbox.ps (#1) Typische Hausbriefkästen. Das rote Signal zeigt an, dass der rechteste frisch frankierte Post für den Briefträger zum Mitnehmen enthält.>
 
-<em>Michael</em>:
+<em>(Michael)</em>
 "Neither snow, nor rain, nor heat, nor gloom of night stays these couriers
 from the swift completion of their appointed rounds." (Weder Schnee,
 noch Regen, noch Hitze, noch finstre Nacht halten diese Kuriere davon ab,
@@ -298,7 +298,7 @@ den Drucker unversehrt erhielt.
 
 <pic images/crep.ps Die unabhängige Zeitschrift "Consumer Reports" berichtet über "Identity Theft">
 
-<em>Michael</em>:
+<em>(Michael)</em>
 In den
 USA werden die finanziellen Aktivitäten jedes Bürgers genauestens 
 von drei privaten Firmen überwacht: Equifax, Trans Union 
@@ -453,11 +453,12 @@ Klamotten ausgegeben hat.
 
 @Z: The Apprentice -- "You're fired!"
 
+<pic images/mini1.ps Eine der Kandidatinnen: Minirock aus der Froschperspektive>
+
+<em>(Michael)</em>
 Und es gibt wieder eine neue Reality-Show: "The Apprentice", in der der
 Immobilien-Tycoon Donald Trump per Fernsehen einen CEO für eines
 seiner Unternehmen findet.
-
-<pic images/mini1.ps Eine der Kandidatinnen: Minirock aus der Froschperspektive>
 
 Zuerst wurden die aus 215.000 Bewerbungen ausgefilterten
 14 jung-dynamischen Kandidaten in zwei Teams aufgeteilt: 7 Frauen und 7 Männer
@@ -525,6 +526,7 @@ einschreiten!
 
 @Z: Boing-Bum-Tschack!
 
+<em>(Michael)</em>
 Wegen einer Empfehlung des Herrn Huber, der begeistert von einem
 Konzert der Gruppe "Kraftwerk" in Bayern berichtete und behauptete, so elegant
 wie die lasse nach wie vor keiner die Hochtöner schnalzen, kaufte ich eine
@@ -557,6 +559,7 @@ Augsburg in einem Dachboden in einer Umzugskiste lungert!
 
 <pic images/vrec.ps Der Olympus VN-900 Voice-Recorder>
 
+<em>(Michael)</em>
 Ha, schon wieder eine verrückte Idee! 
 Allerdings kommen die besten Einfälle in den unmöglichsten
 Situationen und wenn man sie nicht sofort notiert, vergisst man sie so
@@ -589,7 +592,7 @@ Werbeindustrie arbeiten sollte. Was sagt ihr?
 
 <HTMLONLY><pic images/big1.ps Angelika sitzt unter der Palme></HTMLONLY>
 
-<em>Angelika</em>:
+<em>(Angelika)</em>
 Münchener fahren zum Skifahren in die Berge, Oldenburger zum Einkaufen in die
 holländische Stadt Groningen und Kalifornier zum Ausspannen nach Hawaii. Ihr
 ahnt es schon: Wir waren wieder auf Hawaii. Da wir mittlerweile schon jede der
@@ -740,6 +743,7 @@ Insulaner.
 
 @Z: Nachtrag zur Homo-Ehe
  
+<em>(Angelika)</em>
 Wir berichteten im letzten 
 Rundbrief ja ausführlich über die Ausgabe von 
 Heiratsurkunden an gleichgeschlechtliche Paare in San 
@@ -761,6 +765,7 @@ die Hochzeitsglocken.
 
 @Z: Aktuelles zum Krieg
 
+<em>(Angelika)</em>
 Seit Wochen
 sind die Zeitungen voll von Abhandlungen und Diskussionen 
 über die Folter, die amerikanische Soldaten im Irak 

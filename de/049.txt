@@ -5,7 +5,7 @@ San Francisco, den 01.03.2004
 
 <pic images/castro1.ps Die Regenbogen-Fahne als Symbol der Schwulen/Lesbenbewegung im Castro>
 
-<em>Angelika:</em>
+<em>(Angelika)</em>
 Präsident Bush bevorzugt es, die liberale Hochburg San Francisco zu
 ignorieren. Auf seiner amerikanischen Landkarte existieren wir nicht. Diese
 Woche rang er sich allerdings gleich mehrmals durch, die Stadt an der Bay
@@ -152,7 +152,7 @@ weiter geht.
 
 <pic images/costco1.ps Oprah Winfrey kauft in ihrer Show bei Costco ein>
 
-<em>Michael:</em>
+<em>(Michael)</em>
 Wer kauft schon gerne im Supermarkt ein! Wenn ich allerdings einmal im
 Monat zum Super-Supermarkt "Costco" darf, erwacht in mir das Kind im
 Manne. Denn Costco, in den man nur mit Mitgliedskarte (die $45 im Jahr
@@ -230,6 +230,7 @@ glatt schon um 5:00 Uhr nachmittags zu!
 
 <pic images/dump.ps Die Panni-Knödel in Amerika>
 
+<em>(Michael)</em>
 In unserem Supermarkt um die Ecke stellte ich vor einiger Zeit verwundert
 fest, dass es sogar Pfanni-Kartoffelknödelmischungen zu kaufen gibt.
 Allerdings heißen die nicht "Pfanni" sondern "Panni", wohl weil der
@@ -290,6 +291,7 @@ Die
 
 @Z: Lebenslange Rucksackgarantie
 
+<em>(Michael)</em>
 Wie schon oft im Rundbrief erwähnt,
 lassen sich amerikanische Käufer im Gegensatz 
 zum deutschen Kunden
@@ -323,6 +325,7 @@ Briggs \& Riley!
 
 @Z: Altglasentsorgung
 
+<em>(Michael)</em>
 Wie in Deutschland zahlt man in Amerika auf Glas- und sogar manche
 Plastikflaschen Pfand im Laden. Allerdings würde niemand auf die Idee
 kommen, das Leergut wieder zurück in den Laden zu tragen, um  das Geld
@@ -372,6 +375,7 @@ Lieferwagen voll Altglas von New York nach Michigan zu kutschieren.
 
 <pic images/mbusters1.ps Die "Mythbusters">
 
+<em>(Michael)</em>
 Unsere Fernsehkasten-Hilfe Tivo (<RBLINK>20010501#10</RBLINK>)
 hat mal wieder heimlich in den Kanälen herumgestöbert
 und eine Sendung entdeckt,
@@ -449,7 +453,7 @@ Mythbusters diesen Schmarr'n auch bald!
 
 <pic images/uniform.ps Schul-Uniformen>
 
-<em>Angelika:</em>
+<em>(Angelika)</em>
 Ha, keiner hat es gemerkt, dass ich euch noch den letzten 
 Teil in meiner Triologie "Das amerikanische Schulsystem"
 schuldig bin. Es fasziniert mich immer wieder, was man sich 
@@ -571,7 +575,7 @@ für das Militär. Sachen gibt's die gibt's gar nicht.
  
 <pic images/berkex3.ps Die UC Berkeley Extension>
 
-<em>Angelika:</em>
+<em>(Angelika)</em>
 Trotz der hartnäckigen Propaganda der Bush-Administration, dass Amerika sich
 im Aufschwung befindet, finden immer noch Entlassungen bzw. kaum
 Neueinstellungen in San Francisco und im Silicon Valley statt. Der neuste
@@ -638,7 +642,7 @@ Enden.
 
 <pic images/quake.ps Ein Erdbeben mit 6.5 auf der Richterskala>
 
-<em>Michael:</em>
+<em>(Michael)</em>
 Am Montag, den 22.12. um elf Uhr morgens arbeitete ich im Büro, als
 plötzlich das AOL/Netscape-Gebäude in einer wellenförmigen, durchaus 
 harmonischen 
@@ -669,6 +673,7 @@ gekommen, Kontakt aufzunehmen. Puh!
 
 <HTMLONLY><pic images/taxref2.ps Arnie senkt die Kraftfahrzeugsteuer wieder und erstattet die Differenz></HTMLONLY>
 
+<em>(Michael)</em>
 Wir leiden ja bekanntlich unter dem neuen "Governator", wie Arnie
 Schwarzenegger in den Zeitungen genannt wird. Die Wortneuschöpfung 
 setzt sich aus "Governor" (Gouverneur) und "Terminator" (der Film)
@@ -690,6 +695,7 @@ Dümmer geht's nimmer.
 
 <pic images/netscape.ps Verwaist: Der Netscape-Campus>
 
+<em>(Michael)</em>
 Kurz vor Weihnachten letzten Jahres räumte AOL die letzten Gebäude
 auf dem ehemaligen Netscape-Campus. Von 800 Leuten wurde etwa 500 sofort 
 gekündigt

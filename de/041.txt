@@ -3,7 +3,7 @@ San Francisco, den 06.12.2002
 
 @Z: Lanai
 
-<EM>(Michael)</EM>
+<em>(Michael)</em>
 Wie die geneigte Leserschaft vielleicht weiß, 
 haben die rasenden Rundbriefreporter während ihres 
 USA-Aufenthalts bisher nur zwei von den sechs bewohnten 
@@ -174,7 +174,7 @@ Serviergehilfe arbeitete!
 
 @Z: Oahu 
 
-<EM>(Angelika)</EM>
+<em>(Angelika)</em>
 Für die meisten ist die Insel Oahu gleichbedeutend mit 
 Hawaii, was strenggenommen natürlich nicht stimmt, denn
 nur die Vulkaninsel "Big Island" heißt offiziell Hawaii. 
@@ -343,6 +343,7 @@ Taro-Blätter in San Francisco zu kaufen.
 
 @Z: Das Rundbrief-Topprodukt: "Maui Babe"
 
+<em>(Angelika)</em>
 Ich habe ja noch nie ein Topprodukt vorgestellt, wie die
 erfahrenen Rundbriefleser wissen. 
 Aber beim Produkt "Maui Babe" gab es kein Halten 
@@ -379,7 +380,7 @@ Einschmieren bekam auch mein Buch einige Flecken ab.
 
 @Z: Die Platte des Monats
 
-<EM>(Michael)</EM>
+<em>(Michael)</em>
 Mit alternden Rockmusikern ist es ja so eine Sache: 
 Paul McCartney zum Beispiel ist eine Witzfigur. Naja, der gesichtsoperierte
 Vegetarier war nach meiner persönlichen Theorie schon immer
@@ -420,6 +421,7 @@ von Rockbands hören.
 
 @Z: Mysterium Baseball
 
+<em>(Michael)</em>
 Wie schon oft erwähnt, gibt sich der Amerikaner seltsamen Sportarten hin.
 Baseball ist so ein Fall. Heute nehmen wir einmal die Regeln durch.
 
@@ -634,7 +636,7 @@ denn schon ein Sport sein muss, dann doch lieber Fußball.
 
 @Z: Wie wir so tolle Bilder machen
 
-<EM>(Michael)</EM>
+<em>(Michael)</em>
 Immer wieder fragen die Leute: Wie macht ihr so tolle Bilder? Antwort:
 Mit billigen Kameras und ein bisschen Erfahrung. Ich bekomme Anfälle,
 wenn ich höre, dass sich wieder irgendein Urlaubsfotografierer eine
@@ -703,7 +705,7 @@ Nikon F5 nur Müll.
 
 @Z: Wahlen in Amerika
 
-<EM>(Angelika)</EM>
+<em>(Angelika)</em>
 Am 5. November wählten die Amerikaner 
 hier einen neuen Kongress und Senat. Ihr wisst es längst: 
 Die Republikaner (also die konservative Partei, der auch 
@@ -825,6 +827,7 @@ sollte.
 
 @Z: Bush versus Schröder 
 
+<em>(Angelika)</em>
 Mich überraschte, wieviel die
 deutschen Zeitungen über die "vergiftete Atmosphäre" 
 zwischen Bush und Schröder wegen ihrer unterschiedlichen 

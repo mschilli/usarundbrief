@@ -5,7 +5,7 @@ San Francisco, den 26.05.2003
 
 @Z: Nachtrag zum Irakkrieg
 
-<EM>(Michael)</EM>
+<em>(Michael)</em>
 Nun ist der Krieg ja schon wieder vorbei, ein paar Dinge gibt es allerdings 
 noch nachzutragen: Deprimierend war, zu sehen, wie in Amerika die öffentliche
 Meinung von lokalen Fernsehsendern für Joe Sixpack
@@ -28,7 +28,7 @@ gar nicht geschossen.
 <pic images/war.ps "Geschlossen wegen dem bekloppten Krieg">
 <pic images/demo.ps Demo-Flugblatt>
 
-<EM>(Angelika)</EM>
+<em>(Angelika)</em>
 Dabei stand in San Francisco alles Kopf. Nachdem Ari
 Fleischer, der mittlerweile zurückgetretene Pressesprecher des Weißen 
 Hauses, lapidar mit einem
@@ -74,6 +74,7 @@ tausende abgefeuert wurden.
 
 @Z: "Support our Troops"
 
+<em>(Angelika)</em>
 Und ein ureigenes amerikanisches Phänomen beobachteten wir gleich nach
 dem Ausbruch des Krieges: Sobald amerikanische Jungs und Mädels
 kämpfen, verstummt die Kritik. Selbst die liberalsten Kommentatoren der New
@@ -123,7 +124,7 @@ waren wir live dabei.
 
 <pic images/rainbow.ps Rainbow Groceries verkauft keine israelischen Produkte mehr>
 
-<EM>Michael</EM>
+<em>(Michael)</em>
 Übrigens wundert es mich, dass die amerikanische Armee die Jugend im
 Fernsehen mit reißerischen Werbespots verblenden darf,
 (siehe <RBLINK>20020324#6</RBLINK>),
@@ -150,6 +151,7 @@ America!
 
 @Z: Abrissarbeiten am Highway 101
 
+<em>(Michael)</em>
 Man erinnert sich kaum noch, aber das Erdbeben "Loma Prieta" 
 vor vierzehn Jahren hat Teile einer damals halb
 durch San Francisco führenden Autobahn einstürzen lassen. Der Highway
@@ -176,6 +178,7 @@ und intensives Stadtplanbüffeln angesagt, wenn man vorwärts kommen will!
 
 <pic images/somamaps.ps Das "SoMa" auf dem Stadtplan von San Francisco>
 
+<em>(Michael)</em>
 Jedes Jahr kommen Millionen von Touristen nach San Francisco, die 
 lustigerweise immer die gleichen Sehenswürdigkeiten abklappern: Sie gehen
 zur Fisherman's Wharf, essen so ein ausgehöhltes Brot mit Clam-Chowder
@@ -279,6 +282,7 @@ schön zusammengefasst. Bis zum nächsten Mal!
 
 @Z: Lerne Englisch sprechen mit den Profis
 
+<em>(Michael)</em>
 Wie heißt das flatulenzartige Geräusch, das man erzeugt, indem man die 
 Zunge ein wenig aus dem leicht geöffneten Mund rausstreckt und gleichzeitig
 turbulente Luft ablässt? Eine zweifellos internationale Geste, die
@@ -322,6 +326,7 @@ aussteigt.
 
 <pic images/hogan9.ps Die Fernsehserie "Hogan's Heroes">
 
+<em>(Michael)</em>
 Neulich erzählte mir ein amerikanischer Arbeitskollege, dass er als
 kleiner Bub immer "Hogan's Heroes" im Fernsehen gekuckt hat, eine
 beliebte und ulkige Vorabendserie, die von ein paar internationalen
@@ -365,6 +370,7 @@ volle Kanne, fehlt nur noch das Oktoberfest!
 
 <pic images/icetea.ps Der "Hard Ice Tea" von Bison>
 
+<em>(Michael)</em>
 Wenn man in San Francisco oder allgemein in der Bay Area europäische 
 Lebensmittel sucht, geht man zum "Trader Joe's", einer fast schon
 alternativen Supermarktkette, bei der lauter Happy People hinter den
@@ -393,7 +399,7 @@ um Flasche in sich reinschütten könnte. Topprodukt!
 
 @Z: Beschönigende Begriffe
 
-<EM>(Angelika)</EM>
+<em>(Angelika)</em>
 Fasziniert stehe ich immer vor dem Einfallsreichtum der Amerikaner,
 wenn es darum geht, Dinge sprachlich auf den Punkt zu bringen oder
 Sachverhalte, die sich im Deutschen nur umständlich beschreiben
@@ -458,6 +464,7 @@ manchmal ins Schleudern komme!
 
 <pic images/foun1.ps Lässiges Abhängen am Trinkwasserbrunnen>
 
+<em>(Angelika)</em>
 Schon lange wollte ich einmal über die amerikanischen
 "Water-Fountains" berichten, die hier an jeder Ecke stehen.
 Diese auch "Drinking Fountains" genannten kleinen Trinkwasserbrunnen 

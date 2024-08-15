@@ -1,10 +1,11 @@
 
-<pic images/mauer.ps "Die Rundbriefreporter als Schatten an einer Mauer eines Hotels im Zion Nationalpark">
-
 San Francisco, den 15.12.2003
 
 @Z: Weihnachtsrundbrief
 
+<pic images/mauer.ps "Die Rundbriefreporter als Schatten an einer Mauer eines Hotels im Zion Nationalpark">
+
+<em>(Angelika)</em>
 Nur noch 10 Tage ... Michael grummelt, denn die Kurze-Hosen-Zeit ist
 endgültig vorbei. Bis zum Schluss wehrte er sich, die langen Hosen
 aus dem Schrank zu ziehen. Ich kaufte vor einigen Tagen erneut einen

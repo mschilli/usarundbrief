@@ -4,7 +4,7 @@ San Francisco, den 07.12.2003
 
 <pic images/dads.ps "Dad's Bail Bonds">
 
-<EM>Michael</EM>
+<em>(Michael)</em>
 Wird jemand in Amerika wegen eines Verbrechens verhaftet, gibt es -- wie
 in Deutschland auch -- die Möglichkeit, dass der Untersuchungsrichter den
 Gefangenen bis zur eigentlichen Gerichtsverhandlung auf Kaution freigibt.
@@ -117,6 +117,7 @@ das Bail-Enforcement-Training</LINK>.
 
 <pic images/mission2b.ps Reger Betrieb auf der Mission-Street>
 
+<em>(Michael)</em>
 Eine der schönsten Errungenschaften in San Francisco ist die
 internationale Atmosphäre. Man kann innerhalb einer halben Stunde von
 Japan über Italien und China nach Südamerika fahren. Letzeres Viertel
@@ -235,6 +236,7 @@ Riesentrubel mit herumrennenden Kleinkindern.
 
 <pic images/copyc.ps "Copy-Controlled" schränkt Verbraucherrechte ein>
 
+<em>(Michael)</em>
 Und noch ein Kommentar zum Thema: Warum Deutsche auf Ihre Rechte als
 Verbraucher
 verzichten und sich am Gängelband der Industrie führen lassen. Die
@@ -294,6 +296,7 @@ Macht Schluss damit! Da müsst ihr noch viel lernen, meine Lieben.
 
 <pic images/simps.ps (#2) Eine Instant Message (AIM-Nachricht) erscheint im Fernsehkasten dank Tivo!>
 
+<em>(Michael)</em>
 Vor etwa zweieinhalb Jahren habe ich euch im 
 <RBLINK>20010501#10</RBLINK> den TiVo-Kasten vorgestellt, das Gerät, 
 das in den USA einen zweiten Urknall in der Geschichte des Fernsehens 
@@ -358,6 +361,7 @@ der Couch aufzustehen, um nachzusehen wer da wieder was will!
 
 <pic images/fow.ps Fountains of Wayne: "Welcome Interstate Managers">
 
+<em>(Michael)</em>
 Die CD des Monats ist: "Welcome Interstate Managers" von 
 "Fountains of Wayne". Darauf gekommen bin ich, weil hier im Radio
 gerade "Stacey's Mom" rauf und runtergespielt wird.
@@ -371,6 +375,7 @@ Kompositionen von John Lennon. Megagut, sofort kaufen!
 
 @Z: Weihnachtsstollen auf Umwegen
 
+<em>(Michael)</em>
 Bei unserem Japanbesuch letztes Jahr fiel uns mitten in Hiroshima die
 "Andersen Bakery" auf, die Backwaren deutschen Standards verkaufte. So etwas
 kommt in den USA ungefähr nur alle dreitausend Meilen vor. Um so erfreuter
@@ -388,7 +393,7 @@ Hamburgers!
 
 <pic images/zion1.ps Wasserfall im Zion National Park>
 
-<EM>Angelika</EM>
+<em>(Angelika)</em>
 Wir verreisen ja bekanntlich gern und dulden keine weißen Flecken auf
 unserer Landkarte. Wie manche von euch wissen, lernten wir uns anno
 dazumal in Las Vegas in einer Autovermietungsfirma kennen und fuhren
@@ -542,6 +547,7 @@ es hier heißt). Ahhhh!!!!
 
 <pic images/wahl1a.ps Die beiden Bürgermeisterkandidaten in den CBS News, links Gonzalez, rechts Newsom>
 
+<em>(Angelika)</em>
 Nachdem wir uns gerade erst von dem Schock erholt hatten, dass "Mr.
 Terminator" den Staat Kalifornien regiert, brach in San Francisco der
 Wahlkampf aus. Die Stadt sucht einen neuen Bürgermeister, denn Willie

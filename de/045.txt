@@ -54,6 +54,7 @@ sie überall aus dem Boden, und alle sind begeistert. Bravo, San Francisco!
 
 @Z: Kalifornische Knarrengesetze
 
+<em>(Michael)</em>
 Entgegen der wohl in Deutschland vorherrschenden Meinung marschieren
 nicht alle Amerikaner mit geladenem Revolver im Gürtel herum oder 
 ballern nach spannenden Sportveranstaltungen aus dem Autofenster in die Luft. 
@@ -308,6 +309,7 @@ von innen ...
 
 <pic images/bags.ps 500 Mülltüten -- reichen 6,5 Jahre>
 
+<em>(Michael)</em>
 Über meine Obsession, bei meinem Lieblingssupermarkt "Costco" einzukaufen,
 habe ich schon oft berichtet. Aber nur alteingesessene
 Stammleser mit Elefantengedächtnis 
@@ -332,6 +334,7 @@ bleiben wir nochmal 6,5 Jahre?
 
 @Z: Das marode Rentensystem
 
+<em>(Michael)</em>
 Im Gegensatz zu den Deutschen, die zu meinem nicht geringen Erstaunen
 immer noch gerne von staatlicher Rente träumen, haben die Amerikaner
 bereits die Wahrheit kapiert, und niemand, der heutzutage jünger als
@@ -769,6 +772,7 @@ Im nächsten Rundbrief gibt's noch etwas mehr zum Thema "Schule".
 
 <pic images/bart1.ps Der rasende Rundbriefreporter testet die U-Bahn zum Flughafen>
 
+<em>(Angelika)</em>
 Und hier wieder der Lokalteil aus San Francisco.
 Nach 30!-jährigem Debattieren und Planen fuhr Ende Juni endlich
 die erste U-Bahn, im Volksmund BART (= Bay Area Rapid Transportation

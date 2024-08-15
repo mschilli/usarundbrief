@@ -4,7 +4,7 @@ San Francisco, den 10.03.2003
 
 <pic images/suv2.ps Ein depperter SUV-Fahrer>
 
-<EM>(Angelika)</EM>
+<em>(Angelika)</em>
 Endlich: Eine Anti-SUV-Kampagne zieht durchs Land. 
 SUV steht für "Sports Utility Vehicle", eine Automischung
 aus aufgemotztem Jeep und Kleintransporter. 
@@ -106,6 +106,7 @@ Rauf mit dem Gallonenpreis auf 5 Dollar, sagen wir!
 
 @Z: Risiko eines Terroranschlages
 
+<em>(Angelika)</em>
 Wir berichteten ja schon des öfteren, dass sich seit den 
 Terroranschlägen im September 2001 vieles geändert hat im Land 
 der unbegrenzten Möglichkeiten. Neu ist auch, dass man uns 
@@ -133,6 +134,7 @@ bisher.
 
 @Z: Duct Tape -- dein Freund
 
+<em>(Angelika)</em>
 Amerikaner sind Meister im notdürftigen Flicken von kaputten Sachen. 
 Dazu nutzen sie mit Vorliebe "Duct Tape", ein dickes, bärenstarkes, 
 graues Klebeband. Ob es sich um die Treppenstufen in unserem 
@@ -201,6 +203,7 @@ Duct-Tape weiter und hält damit halb Amerika zusammen.
 
 @Z: Mr. Bush und der Krieg
 
+<em>(Angelika)</em>
 Papier ist bekanntlich geduldig und viel Druckerschwärze 
 wurde in den letzten Monaten über die Irak-Krise 
 verbraucht. Es gab Analysen von Experten, Kommentare in den 
@@ -290,6 +293,7 @@ gesteckt werden, nicht jeder steht stramm hinter Bush.
 
 <pic images/goodwill1.ps Goodwill - Ein nobler Laden von vorne>
 
+<em>(Angelika)</em>
 So sicher wie das Amen in der Kirche ist in Amerika am 15. 
 April die Steuer fällig. Und wie überall auf der Welt, 
 versuchen am Jahresende Steuerfüchse, noch die ein oder 
@@ -352,7 +356,7 @@ macht das keiner) und ich war um eine Erfahrung reicher.
 
 <pic images/listerine.ps (#3) Der Gaumentesafilm von Listerine>
 
-<EM>(Michael)</EM>
+<em>(Michael)</em>
 Hin und wieder gibt es Produkte, die zunächst blankes Entsetzen hervorrufen.
 Wer käme zum Beispiel auf die Idee, ein Tesafilm-ähnliches Papperl 
 aus einem Spender zu ziehen, es sich in den Mund zu stecken und es mit der 
@@ -379,6 +383,7 @@ vietnamesischen Essen.
 
 @Z: Religionen der Welt
 
+<em>(Michael)</em>
 Man glaubt es kaum noch, aber vor zwei, dreihundert Jahren war Amerika noch 
 der Zufluchtsort für alle, die irgendwo im alten Europa als absonderlich galten
 oder irgendwas angestellt hatten, was gegen Gesetze ihres Herkunftslandes 
@@ -517,6 +522,7 @@ Glück gehabt.
 
 @Z: Curb Your Enthusiasm
 
+<em>(Michael)</em>
 Mittlerweile haben wir jede der bestimmt hundert Seinfeld-Episoden
 bestimmt vier- oder fünfmal gesehen. Ich kenne fast jeden Dialog
 auswendig. Ich denke in Seinfeld-Handlungssträngen. Ich ertappe mich
@@ -569,6 +575,7 @@ Zufall?
 
 @Z: Das Boot ist voll
 
+<em>(Michael)</em>
 Wenn ihr unsere Ausführungen zum Thema "Greencard" gelesen habt, dürfte
 euch die folgende Nachricht eigentlich 
 nicht überraschen: Zur Zeit ist es fast unmöglich,
@@ -621,6 +628,7 @@ für was zuständig ist.
 
 @Z: Die Platte des Monats
 
+<em>(Michael)</em>
 Wer die Musikszene aufmerksam verfolgt, den dürfte die Wahl dieses
 Monats nicht überraschen: Natürlich "Mary Star of the Sea" von 
 "Zwan". Was, wer?
