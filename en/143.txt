@@ -351,22 +351,20 @@ the house on fire, but by now I've gathered enough experience handling a
 sticky, thin layer of dough in dangerous devices under extreme temperatures.
 Top product!
 
-TODO
-
 @Z: Sliding with a potato sack
 
-<pic images/esmeralda-slide.ps With a potato sack underneath, the slide in Bernal Heights is even usable.>
+<pic images/esmeralda-slide.ps The slide in Bernal Heights is only usable when you sit on a potato sack.>
 
 <em>Michael</em> In San Francisco, a well-kept secret is a staircase in the
 hilly neighborhood of Bernal Heights called the "Esmeralda Stairs," which is
 surely a hundred meters long and has a slide built between two landings. No
 kidding, the slide is ten meters long and is constructed so sturdily from steel
 that, after a thorough inspection, I concluded that it can not only withstand
-the boisterous children it was built for but also adults of my size. Now, I
-have never seen anyone older than 10 years sliding there, but that doesn't mean
+the boisterous children it was built for but also adults of my size. Now, granted,
+I have never seen anyone older than 10 years sliding there, but that doesn't mean
 anything.
 
-<pic images/burlap-ebay.ps For 4 sacks of potatoes, Michael paid a mere 16 dollars on eBay.>
+<pic images/burlap-ebay.ps For 4 burlap sacks, Michael paid a mere 16 dollars on eBay.>
 
 In my first few attempts at sliding, however, it turned out that the steel
 slide, despite its polished surface, created too much friction with the cotton
@@ -376,7 +374,7 @@ remembered that as children in Augsburg's Ziegelstadel amusement park, we
 always zoomed down the giant slide on potato sacks. But since nowadays, as an
 urban resident of an American city, one no longer has potato sacks on hand, I
 quickly ordered a four-pack of so-called "burlap sacks," as they are called in
-English, on eBay.
+proper English, on eBay.
 
 <pic images/esmeralda-map.ps Location of the Esmeralda Slide in the Bernal Heights neighborhood.>
 
@@ -388,10 +386,12 @@ me downward, so I kept my jacket on as a precaution to prevent abrasions.
 Additionally, I am known to have cat-like reflexes due to my many years of
 martial arts experience! However, Angelika feared that I would end up in the
 emergency room, but after some persuasion, she agreed to go
-<LINK>https://youtu.be/nUgLiZkIWI0|film|Slide video on YouTube</LINK>
-the whole thing. And, behold, I went swiftly downwards, just fast enough!
-Angelika also dared to take the ride afterwards, and both newsletter reporters survived
-the experiment without injuries!
+<LINK>https://youtu.be/nUgLiZkIWI0|film|Slide video on YouTube</LINK> the whole
+thing. And, behold, I went swiftly downwards, just fast enough!  Angelika also
+dared to take the ride afterwards, and both newsletter reporters survived the
+experiment without injuries!
+
+TODO
 
 @Z: Finally understandable: Democratic, liberal, and progressive
 
