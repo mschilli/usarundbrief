@@ -227,16 +227,14 @@ Many of his film negatives were destroyed. The photos weren't even very politica
 but rather snapshots of a city. How I would love to talk to him again now about
 the current situation.
 
-TODO
-
 @Z: Cat theft in broad daylight
 
-<pic images/cat-theft-daylight.ps (#1) In broad daylight, these figures saw the catalytic converter off a car.>
+<pic images/cat-theft-daylight.ps (#1) In broad daylight, these individuals saw the catalytic converter off a car.>
 
-<em>Michael</em> As mentione in the last <RBLINK>20211222#3</RBLINK>, it is now
+<em>Michael</em> As mentioned in the last <RBLINK>20211222#3</RBLINK>, it is now
 normal here in San Francisco for petty crime to no longer be pursued by the
 police and the district attorney. Recently, thieves have been crawling under
-parked cars in broad daylight, using a battery-powered saw to cut off the
+parked cars in broad daylight, using battery-powered saw to tools cut off the
 catalytic converter, and selling the part along with the precious metals it
 contains to shady scrap dealers. The photo in illustration (#1) was taken by a
 resident who noticed the activity; however, despite an immediate emergency
@@ -253,13 +251,13 @@ later.
 
 The thieves know that the police here in San Francisco have by now given up
 patrolling the streets, and should they happen to arrest wrongdoers by chance,
-our criminal-friendly district attorney Boudin does not press charges and,
+our criminal-friendly district attorney Boudin won't press charges and,
 following his broken political ideology, immediately releases them, because no
-persons were harmed during the crime.
+people were injured during the crime.
 
 A new catalytic converter costs between $1,000 and $3,000 depending on the car
-brand, and including labor hours, a victim, or their partial coverage
-insurance, can quickly end up paying $4,000 to $5,000 for the repair. It is
+brand, and including labor hours, a victim, or their insurance coverage,
+can quickly end up paying $4,000 to $5,000 for the repair. It is
 suspected that some workshops partially buy back the stolen catalytic
 converters through dubious channels and sell them to unsuspecting customers.
 The thieves only get a fraction of the original price for a stolen catalytic
@@ -278,10 +276,12 @@ learning.
 Anthony Fauci, announced that we in the USA have moved past the acute phase of
 the pandemic. Let's hope it stays that way. After the holidays in December, the
 Omicron variant hit us with full force in San Francisco and the surrounding
-area. At the school, this resulted in a very high rate of employee illness in
+area. At the school, this resulted in a very high rate of employee sick leave in
 January, and we maintained school operations with extremely limited staff.
 Although the quarantine period is now only 5 days if you test positive and are
 vaccinated, we were still at our wits' end.
+
+TODO
 
 <pic images/walgreens-masks.ps At the drugstore Walgreens, wearing a mask is now only recommended.>
 
