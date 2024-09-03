@@ -67,37 +67,38 @@ park into a fairground.
 <pic images/real-id-sample.ps Only genuine with the bear seal: The California Real ID.>
 
 <em>Angelika</em> The USA, as is well known, does not have a registration law
-or a document like an identity card as is common within the EU.  Nevertheless,
-one still needs to identify oneself. This is usually done with a driver's
-license, which is not only needed for driving a car but also to prove that you
-are indeed who you claim to be.  And for those of you who are particularly
-attentive readers and are now wondering: what do the poor people who never learned
-to drive, who surprisingly also exist in the USA, do about that? Here is the solution to
-the puzzle: There is the option to apply for a driver's license that only
-serves as an ID, but does not grant driving privileges.
+or a document like a EU grade identity card.  Nevertheless, one still needs to
+identify oneself. This is usually done with a driver's license, which is not
+only needed for driving a car but also to prove that you are indeed who you
+claim to be.  And for those of you who are particularly attentive readers and
+are now wondering: what do the poor people who never learned to drive, who
+surprisingly also exist in the USA, do about that? Here is the solution to the
+puzzle: There is the option to apply for a driver's license that only serves as
+an ID, but does not grant driving privileges.
 
 In the United States, the issuance of driver's licenses falls under the
-jurisdiction of the individual states. Until now, they had considerable freedom
-regarding the appearance of the document and which documents needed to be
-provided to obtain a driver's license. There were no uniform rules or security
-regulations that applied to all states. However, within the United States, a
-driver's license is sufficient, for example, to board a plane. So, when we
-flew to Hawaii every year before the pandemic, we only carried our regular
-California driver's license and no passport as identification in our luggage.
+jurisdiction of individual states. Until now, they had considerable freedom
+regarding the appearance of the document, and the requirements on which
+documents needed to be presented to obtain a driver's license. There were no
+uniform rules or security regulations that applied to all states. However,
+within the United States, a driver's license is sufficient, for example, to
+board a plane. So, when we flew to Hawaii every year before the pandemic, we
+only carried our regular California driver's license every time, and no
+passport as identification in our luggage.
 
 This is about to change soon. Starting May 3, 2023, every air traveler will
 need a driver's license with standardized security features, the so-called
 "Real ID," to fly within the USA. "Real ID" roughly translates to "Real
 Identification Document." Of course, anyone with a valid passport can also
 board a flight. However, only 42% of Americans possess a passport, with the
-rest having never traveled to a distant country. Years ago, this number was
-significantly lower.
+rest having never traveled outside of the country. Years ago, this number was
+even lower.
 
-<pic images/dmv-round.ps The DMV issues the Real IDs.>
+<pic images/dmv-round.ps The DMV issues Real IDs.>
 
 The name "Real ID" is derived from the corresponding law, namely the "Real ID
 Act," which was passed by the American Congress back in 2005. Yes, you read
-that correctly, the law is a whopping 17 years old, a truly difficult birth.
+that correctly, the law is a whopping 17 years old, a truly complicated birth.
 After the attacks on September 11, 2001, in which some of the terrorists
 boarded the later hijacked planes with regular American driver's licenses that
 they should not have been able to obtain, the 9/11 Commission recommended
@@ -121,7 +122,7 @@ often found myself pulling my hair out because it was extremely cumbersome to
 get the right form, which needed to be filled out online before the in-person
 appointment at the DMV to speed up the process. Allegedly, the applicant could
 also upload their documents, but neither Michael nor I managed to do so, and
-thus the employee scanned the documents during our appointments. I must confess
+thus the DMV employee scanned the documents during our appointments. I must confess
 that I fervently hope hackers do not get the idea to steal data from the DMV,
 as I have somewhat lost confidence that digital security is ensured there. By
 the way, I received my first "Real ID" in December 2019. Michael got his a few
@@ -137,7 +138,7 @@ address plus the name (for example, utility bills, insurance contracts, rental
 agreements, bank statements). Furthermore, it is necessary to prove that one is
 legally residing in the country, which the applicant can demonstrate, for
 example, by presenting a Green Card. In California, Green Card holders and
-citizens with work or student visas can obtain a "Real ID." However, the "Real
+residents with work or student visas can obtain a "Real ID." However, the "Real
 ID" is only valid as long as the visa or Green Card is valid. A few states
 (e.g., Washington) only issue the "Real ID" to American citizens. In
 Washington, this is because it borders Canada, and the driver's license also
@@ -160,12 +161,14 @@ California "Real ID" also has features built in to prevent counterfeiting, in
 addition to the star and the bear.
 
 All "Real IDs" must be machine-readable. On the Californian one, the date of
-birth is engraved on the photo, so the numbers are slightly raised. The same
+birth is embossed on the photo, so the numbers are slightly raised. The same
 applies to the signature. When you illuminate the Californian "Real ID" with
 ultraviolet light, the Golden Gate Bridge and the Coit Tower, which is also
 located in San Francisco, appear. However, you cannot see these landmarks with
 the naked eye, which I find a bit unfortunate. Now we are curious to see if the
 deadline in May next year will finally be met.
+
+TODO
 
 @Z: Ukraine in America
 
