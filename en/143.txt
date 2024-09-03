@@ -281,8 +281,6 @@ January, and we maintained school operations with extremely limited staff.
 Although the quarantine period is now only 5 days if you test positive and are
 vaccinated, we were still at our wits' end.
 
-TODO
-
 <pic images/walgreens-masks.ps At the drugstore Walgreens, wearing a mask is now only recommended.>
 
 We are a very small school and work with challenging children. Even when one
@@ -303,10 +301,12 @@ public transportation. Now the situation is a bit more complicated, after a
 federal judge in Florida lifted the national mask mandate for transportation,
 such as buses, subways, and airplanes in the USA about two weeks ago. Now,
 individual municipalities or transportation companies themselves determine what
-applies to their transportation. In San Francisco, this has led to the
+applies to their transportation system. In San Francisco, this has led to the
 absurdity that masks are mandatory on BART (the subway in San Francisco), but
 not on buses and streetcars, because Muni, a different transportation company,
 is responsible for those.
+
+TODO
 
 <pic images/muni-streetcar.ps In the Muni streetcar, you are allowed to ride without a mask.>
 
