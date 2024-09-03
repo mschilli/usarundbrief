@@ -62,29 +62,27 @@ adventure with a good outcome! However, as mentioned, only doable in really bad
 weather, because otherwise masses of day tourists turn the popular national
 park into a fairground.
 
-TODO
-
 @Z: The true American driver's license - "Real ID"
 
 <pic images/real-id-sample.ps Only genuine with the bear seal: The California Real ID.>
 
 <em>Angelika</em> The USA, as is well known, does not have a registration law
-or a document like an identity card. Nevertheless, one still needs to identify
-oneself. This is usually done with a driver's license, which is not only needed
-for driving a car but also to prove that one is indeed who they claim to be.
-And for those of you who are particularly attentive readers and are now
-wondering what the poor people who never learned to drive, who surprisingly
-also exist in the USA, do, here is the solution to the puzzle: There is the
-possibility to apply for a driver's license that only serves as an ID but does
-not grant driving privileges.
+or a document like an identity card as is common within the EU.  Nevertheless,
+one still needs to identify oneself. This is usually done with a driver's
+license, which is not only needed for driving a car but also to prove that you
+are indeed who you claim to be.  And for those of you who are particularly
+attentive readers and are now wondering: what do the poor people who never learned
+to drive, who surprisingly also exist in the USA, do about that? Here is the solution to
+the puzzle: There is the option to apply for a driver's license that only
+serves as an ID, but does not grant driving privileges.
 
 In the United States, the issuance of driver's licenses falls under the
 jurisdiction of the individual states. Until now, they had considerable freedom
 regarding the appearance of the document and which documents needed to be
 provided to obtain a driver's license. There were no uniform rules or security
 regulations that applied to all states. However, within the United States, a
-driver's license was sufficient, for example, to board a plane. So, when we
-flew to Hawaii every year before the pandemic, we only had our regular
+driver's license is sufficient, for example, to board a plane. So, when we
+flew to Hawaii every year before the pandemic, we only carried our regular
 California driver's license and no passport as identification in our luggage.
 
 This is about to change soon. Starting May 3, 2023, every air traveler will
@@ -194,10 +192,11 @@ helplessness, as these symbols have little influence on the course of the war.
 
 In school, we always try to discuss current news with our students. We often
 use videos from the
-website.<LINK>https://www.flocabulary.com/topics/week-in-rap|Flocabulary is a
+website. The word
+ <LINK>https://www.flocabulary.com/topics/week-in-rap|Flocabulary</LINK> is a
 portmanteau of "flow" and "vocabulary." It refers to an educational platform
 that uses hip-hop music and rhythm to teach vocabulary and other academic
-content.</LINK>..brings current political events closer to students in an
+content. It brings current political events closer to students in an
 age-appropriate manner through hip-hop style. Every week, there is the
 so-called "Week in Rap" recap. The children in my class find these videos very
 appealing. I remember that during my school days, it always annoyed me terribly
@@ -231,20 +230,21 @@ city. How I would love to talk to him again now about the current situation.
 
 <pic images/cat-theft-daylight.ps (#1) In broad daylight, these figures saw the catalytic converter off a car.>
 
-<em>Michael</em> As in the last<RBLINK>20211222#3</RBLINK>It is now normal here
-in San Francisco for petty crime to no longer be pursued by the police and the
-district attorney. Recently, thieves have been crawling under parked cars in
-broad daylight, using a battery-powered saw to cut off the catalytic converter,
-and selling the part along with the precious metals it contains to shady scrap
-dealers. The photo in illustration (#1) was taken by a resident who noticed the
-activity; however, despite an immediate emergency call, the police only arrived
-hours later, by which time the thieves were long gone. In such cases, the car
-owners affected have to pay several thousand dollars for a new catalytic
-converter, depending on the vehicle type, plus an equal amount to repair the
-damage caused to the exhaust system by the rough sawing. It costs an additional
-$400 if the owner hires a workshop to weld a specially designed steel cage
-around the catalytic converter to prevent another criminal from stealing the
-replaced converter using the same method a week later.
+<em>Michael</em> As mentione in the last <RBLINK>20211222#3</RBLINK>, it is now
+normal here in San Francisco for petty crime to no longer be pursued by the
+police and the district attorney. Recently, thieves have been crawling under
+parked cars in broad daylight, using a battery-powered saw to cut off the
+catalytic converter, and selling the part along with the precious metals it
+contains to shady scrap dealers. The photo in illustration (#1) was taken by a
+resident who noticed the activity; however, despite an immediate emergency
+call, the police only arrived hours later, by which time the thieves were long
+gone. In such cases, the car owners affected have to pay several thousand
+dollars for a new catalytic converter, depending on the vehicle type, plus an
+equal amount to repair the damage caused to the exhaust system by the rough
+sawing. It costs an additional $400 if the owner hires a workshop to weld a
+specially designed steel cage around the catalytic converter to prevent another
+criminal from stealing the replaced converter using the same method a week
+later.
 
 <pic images/cat-theft-report.ps Citizens report the theft online, but no one takes care of it.>
 
@@ -381,10 +381,10 @@ wasn't entirely sure how strongly the frictionless acceleration would catapult
 me downward, so I kept my jacket on as a precaution to prevent abrasions.
 Additionally, I am known to have cat-like reflexes due to my many years of
 martial arts experience! However, Angelika feared that I would end up in the
-emergency room, but after some persuasion, she agreed to go through with the
-whole thing.<LINK>https://youtu.be/nUgLiZkIWI0|The film|Slide video on
-YouTube</LINK>And, behold, it went swiftly downwards, just fast enough!
-Angelika also dared to take the ride, and both newsletter reporters survived
+emergency room, but after some persuasion, she agreed to go
+<LINK>https://youtu.be/nUgLiZkIWI0|film|Slide video on YouTube</LINK>
+the whole thing. And, behold, I went swiftly downwards, just fast enough!
+Angelika also dared to take the ride afterwards, and both newsletter reporters survived
 the experiment without injuries!
 
 @Z: Finally understandable: Democratic, liberal, and progressive
