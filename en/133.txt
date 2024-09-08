@@ -127,23 +127,64 @@ always enough of everything. I have often complained about this because
 sometimes I don't even know where to put all the stuff. But now I am glad about
 it.
 
-TODO
-
 @Z: Shelter in Place
 
-<HTMLONLY>
+<pic images/corona-robocall.ps Governor Gavin Newsom announces shelter in place via robocall>
 
-<em>Angelika</em>Since today (March 17), we are in a state of emergency in San Francisco and the Bay Area, and we have been asked to stay in our apartments and houses and only go out if it is absolutely necessary. The government aims to slow the spread of the coronavirus with this measure. This currently affects almost seven million people in the Bay Area. Our mayor in San Francisco, London Breed, announced the measure called "Shelter in Place" yesterday. In the evening, we then received an automated message by phone, spoken by our governor Gavin Newsom, stating that the order is effective from midnight.
+<em>Angelika</em> Since today (March 17), we are in a state of emergency in San
+Francisco and the Bay Area, and we have been asked to stay in our apartments
+and houses and only go out if it is absolutely necessary. The government aims
+to slow the spread of the coronavirus with this measure. This currently affects
+almost seven million people in the Bay Area. Our mayor in San Francisco, London
+Breed, announced a measure called "Shelter in Place" yesterday. In the
+evening, we then received an automated message by phone, spoken by our governor
+Gavin Newsom, stating that the order is effective starting midnight.
 
-It is not yet a curfew, as we do not need permission to leave the house, but it is considered a misdemeanor if a citizen is out on the street without a valid reason. Most shops and businesses are closed, and only stores that provide absolutely necessary services or goods are open. These include grocery stores and farmers' markets, medical practices and hospitals, pharmacies and drugstores, banks and the post office, laundromats, gas stations, and auto repair shops. Interestingly, home improvement stores like Home Depot are also open. Important government offices like the DMV have not yet closed their counters but strongly advise only showing up in person if absolutely necessary and to handle matters online or by mail whenever possible.
+It is not yet a curfew, as we do not need permission to leave the house, but it
+is considered a misdemeanor if a citizen is out on the street without a valid
+reason. Most shops and businesses are closed, and only stores that provide
+absolutely necessary services or goods are open. These include grocery stores
+and farmers' markets, medical practices and hospitals, pharmacies and
+drugstores, banks and the post office, laundromats, gas stations, and auto
+repair shops. Interestingly, home improvement stores like Home Depot are also
+open. Important government offices like the DMV have not yet closed their
+service desks but strongly advise only showing up in person if absolutely necessary
+and to handle matters online or by mail whenever possible.
 
-Our subway, the BART, as well as buses, streetcars, and taxis, and services like Lyft and Uber, can be used to take care of necessary tasks, such as visiting a doctor's office. However, routine doctor appointments should be canceled. Restaurants are only open to sell food for takeout or to send it home via delivery service. Sitting down and dining is no longer possible anywhere. Many restaurants in our neighborhood had already been forced to close their doors because no customers were coming. Establishments like hair salons, nail and fitness studios, clothing stores, department stores, or gift shops are all closed until at least April 7th. We already know that this will drive many small businesses and restaurants in San Francisco into ruin, as many had already given up before COVID-19 due to the high rents and costs in the city.
+Our subway, the BART, as well as buses, streetcars, and taxis, and services
+like Lyft and Uber, can be used to take care of necessary tasks, such as
+visiting a doctor's office. However, routine doctor appointments should be
+canceled. Restaurants are only open to sell food for takeout or to send it home
+via delivery service. Sitting down and dining is no longer possible anywhere.
+Many restaurants in our neighborhood had already been forced to close their
+doors because few people were interested in dining out. Businesses like
+hair salons, nail and fitness studios, clothing stores, department stores, or
+gift shops are all closed until at least April 7th. We already know that this
+will drive many small businesses and restaurants in San Francisco into bankruptcy, as
+many had already given up before COVID-19 due to the high rents and costs in
+the city.
 
-You are allowed to go out if you cannot work from home and need to go to work. Trips to the supermarket and the pharmacy are also permitted. Jogging, cycling, and walking to get some exercise and fresh air are allowed as well. The authorities even encourage this, as long as you go alone or with the people you already live with. Otherwise, you must maintain a distance of at least 6 feet (1.8 meters) from other walkers. However, we wonder how long this will last, because when we went for a walk today, everyone and their dog was out. Social distancing is not so easy in densely populated areas.
+You are allowed to go out if you cannot work from home and need to go to work.
+Trips to the supermarket and the pharmacy are also permitted. Jogging, cycling,
+and walking to get some exercise and fresh air are allowed as well.
+Authorities even encourage this, as long as you go alone or with the people you
+already live with. Otherwise, you must maintain a distance of at least 6 feet
+(1.8 meters) from other walkers. However, we wonder how long this will last,
+because when we went for a walk today, everyone and their dog was out. Social
+distancing is not so easy in densely populated areas.
 
 <pic images/pacifica-hike-boots.ps To avoid cabin fever, the two newsletter writers go hiking every day during the lockdown.>
 
-In these times, our hiking boots are serving us faithfully, as they symbolize a piece of freedom and peace. They reliably carry our feet through the landscape. Since it is still allowed to go outside for fresh air, we have been putting on our hiking boots every day and heading out into nature. Often, we go to the ocean, where we let the salty air blow around our ears, and we have also walked around Lake Merced in San Francisco. Yesterday, the Pacific Ocean was so peaceful, and the sun made the water sparkle so beautifully, as if nature was trying to tell us that everything will be alright again.
+In these times, our hiking boots are serving us faithfully, as they symbolize a
+piece of freedom and peace. They reliably carry our feet through the landscape.
+Since it is still allowed to go outside for fresh air, we have been putting on
+our hiking boots every day and heading out into nature. Often, we go to the
+ocean, where we let the salty air blow around our ears, and we have also walked
+around Lake Merced in San Francisco. Yesterday, the Pacific Ocean was so
+peaceful, and the sun made the water sparkle so beautifully, as if nature was
+trying to tell us that everything will be alright again.
+
+TODO
 
 @Z: Döner in the Döner Diaspora
 
