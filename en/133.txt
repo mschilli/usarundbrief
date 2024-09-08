@@ -296,56 +296,128 @@ developed yet. Tip from the expert: It usually pays off to plan carefully and
 consider side effects before robotically always siding with the one who shouts
 the loudest.
 
-TODO
-
 @Z: Dogs in the grocery store
 
 <pic images/trader-dog.ps This calf of a dog really has no business being in the grocery store "Trader Joe's.>
 
-<em>Michael</em>Actually, California is located in the...<LINK>https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC\&sectionNum=114259.5|Chapter 8 of the "Health and Safety Code</LINK>Ironclad rule that in establishments that sell food, such as restaurants or grocery stores, dogs are not allowed inside. However, Californians are absolutely infatuated with their dogs and don't take laws very seriously. Lately, I've been noticing more and more that dog owners are not adhering to the health department's regulations, and the present store staff don't have the courage to reprimand the violators. Apparently, there are no consequences for the stores either, otherwise, they would be as strict as they are with the serving of alcohol or the sale of cigarettes, where they go to absurd lengths to comply with all the regulations that prevent minors from buying beer or tobacco products. Especially in grocery stores with a hipster-boy and yoga-girl clientele, you often encounter people with huge dogs, at least in California, who unabashedly lick the sausages displayed in the refrigerated section. The fines from the regulatory office seem to be laughable, otherwise, the management would give the employees, who naturally couldn't care less, a proper dressing-down.
+<em>Michael</em> California regulates in <LINK>https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC\&sectionNum=114259.5|Chapter 8 of the "Health and Safety Code</LINK> that no dogs are allowed in inside establishments that sell food, such as restaurants or grocery stores. However, Californians are
+absolutely infatuated with their dogs and don't take
+laws very seriously. Lately, I've been noticing more and more that dog owners
+are simply ignoring the health department's regulations, and the present store
+staff don't have the courage to reprimand the violators. Apparently, there are
+no consequences for the stores either, otherwise, they would be as strict as
+they are with the serving of alcohol or the sale of cigarettes, where they go
+to absurd lengths to comply with all the regulations that prevent minors from
+buying beer or tobacco products. Especially in grocery stores with a
+hipster-boy and yoga-girl clientele, you often encounter people with huge dogs,
+at least in California. I've even seen dogs who unabashedly licked the sausages
+displayed in the refrigerated section! The fines from the regulatory office seem to be
+laughable, otherwise, the management would give the employees, who naturally
+couldn't care less, a proper dressing-down.
 
 <pic images/trader-dog-2.ps Even this little dog shouldn't actually be allowed in the grocery store.>
 
-An exception exists in restaurants with outdoor seating: In these outdoor areas, dogs are allowed to sit under the table with their owners. However, we have also seen dog lovers offering their plates to their dogs for licking. Bon appétit, dear guests!
+An exception exists in restaurants with outdoor seating: In these outdoor
+areas, dogs are allowed to sit under the table with their owners. However, we
+have also seen dog lovers offering their plates to their dogs for licking. Bon
+appétit, dear guests!
 
 <pic images/restaurant-dog.ps Even at the Chinese take-out counter, the dog has no place.>
 
-Dog owners could, of course, declare their Fido as a service dog for the disabled, but that is not as easy as convincing airlines that the dog is an "Emotional Support Animal" without which the traveler would immediately suffer a nervous breakdown. Genuine service dogs wear special harnesses, and the owner carries the corresponding paperwork. However, I predict that the dog ban will eventually be forgotten because no one enforces it, just like camping on sidewalks in San Francisco and breaking car windows to secure the livelihood of the homeless are now considered normal, and the perpetrators go unpunished.
+Dog owners could, of course, declare their Fido as a service dog for the
+disabled, but that is not as easy as convincing airlines that the dog is an
+"Emotional Support Animal" without which the traveler would immediately suffer
+a nervous breakdown. Genuine service dogs wear special harnesses, and the owner
+carries the corresponding paperwork. However, I predict that the dog ban will
+eventually be forgotten because no one enforces it, just like camping on
+sidewalks in San Francisco and breaking car windows to secure the livelihood of
+the homeless are now considered normal, and the perpetrators go unpunished.
 
 <pic images/costco-dog.ps The Costco supermarket sells food, so the dog shouldn't really be allowed inside.>
 
-@Z: Scottsdale" is a proper noun, specifically the name of a city in the state of Arizona, USA. Proper nouns typically do not get translated between languages, so "Scottsdale" remains "Scottsdale" in English.
+@Z: Scottsdale
 
-<pic images/scottsdale-saguaro-4.ps Michael still climbs around on rocks even at an old age.>
+<pic images/scottsdale-saguaro-4.ps Michael still climbs around on rocks even at his old age.>
 
-<em>Michael</em>During the year-end holidays, Angelika booked a short vacation for us in the desert city of Scottsdale, Arizona. Upon arriving at the airport in Phoenix, we initially stood somewhat perplexed at the car rental area, as the usual wide selection of Japanese and American vehicles was not available. Instead, there were only uniform cars: five Ford Mustang convertibles and one regular Ford Mustang. Since convertibles are the ultimate tourist traps that criminals also like to slash open, we reluctantly opted for the 2020 Mustang with a regular roof. The little car turned out to be relatively decent, accelerating quickly with good cornering, and despite its 310 horsepower, it consumed only about 8 liters of regular gasoline per 100 km. I'm not a fan of American cars, but this one drove quite well.
+<em>Michael</em> During the year-end holidays, Angelika booked a short vacation
+for us in the desert city of Scottsdale, Arizona. Upon arriving at the airport
+in Phoenix, we initially stood somewhat perplexed at the car rental area, as
+the usual wide selection of Japanese and American vehicles was not available.
+Instead, there were only uniform cars: five Ford Mustang convertibles and one
+regular Ford Mustang. Since convertibles are the ultimate tourist traps that
+criminals also like to slash open, we reluctantly opted for the 2020 Mustang
+with a regular roof. The little car turned out to be relatively decent,
+accelerating quickly with good cornering, and despite its 310 horsepower, it
+consumed only about 8 liters of regular gasoline per 100 km. I'm not a fan of
+American cars, but this one drove quite well.
 
 <pic images/scottsdale-mustang.ps On vacation, you can also drive an American car.>
 
-Scottsdale itself consists of a touristy "Old Town" with clothing, cosmetics, and dreadfully kitschy gallery shops. You could easily skip that. The rest of the city is large but sparsely populated, with long street blocks. Scottsdale offers relatively monotonous shopping malls and endless settlements with bungalows, similar to Phoenix. However, the selection of innovative restaurants is surprisingly good, though they demand steep prices, almost on par with San Francisco. 
+Scottsdale itself consists of a touristy "Old Town" with clothing, cosmetics,
+and dreadfully kitschy gallery shops. You could easily skip that. The rest of
+the city is large but sparsely populated, with long street blocks. Scottsdale
+offers relatively monotonous shopping malls and endless settlements with
+bungalows, similar to Phoenix. However, the selection of innovative restaurants
+is surprisingly good, though they demand steep prices, almost on par with San
+Francisco. 
 
-For hiking, we went to the "Granite Mountain Trail" in the "McDowell Sonoran Conservancy," located 40 miles north, and to the "Saguaro National Park," which is an hour and a half away, and neither Angelika nor I had ever heard of it. In the Arizona desert, these giant cacti grow, and you can marvel at them on both sides of the highway on the way from the airport in Phoenix to Scottsdale.
+For hiking, we went to the "Granite Mountain Trail" in the "McDowell Sonoran
+Conservancy," located 40 miles north, and to the "Saguaro National Park," which
+is an hour and a half away, and neither Angelika nor I had ever heard of it. The
+Arizona desert is home to these giant cacti, and you can marvel at them on both
+sides of the highway on the way from the airport in Phoenix to Scottsdale.
 
 <pic images/scottsdale-saguaro-3.ps These cacti have sharp spines.>
 <pic images/scottsdale-granite-2.ps Michael pretends to touch the cactus spines.>
 
-We hiked every day without overexerting ourselves, usually around eight to twelve kilometers, with perhaps a maximum elevation difference of 300 meters, and the view from the rocky desert hills we climbed was magnificent. Along the way, the hiker passes by gigantic cacti, some of which reach up to eight meters in height. We experienced all kinds of weather, from bright sunshine to light drizzling rain, and even a few snowflakes, all on the same trail, with mild temperatures just above freezing. In the summer, it gets so hot there, with temperatures over 40 degrees Celsius, that you can't walk the unshaded trails in the midday heat.
+We hiked every day without overexerting ourselves, usually around five to eight
+miles, with perhaps a maximum elevation difference of 100 feet,
+and the view from the rocky desert hills we climbed was magnificent. Along the
+way, the hiker passes by gigantic cacti, some of which reach up to eight meters
+in height. We experienced all kinds of weather, from bright sunshine to light
+drizzling rain, and even a few snowflakes, all on the same trail, with mild
+temperatures just above freezing. In the summer, it gets so hot there, with
+temperatures over 100 degrees Fahrenheit, that you can't hike the unshaded trails
+in the midday heat.
 
 <pic images/scottsdale-granite-1.ps Angelika behind a huge cactus on the Granite Trail.>
 <pic images/scottsdale-granite-3.ps Angelika is taking photos like there's no tomorrow.>
 
-The roads in Saguaro National Park are mostly unpaved, and at the trailheads, there is only space for a few cars. Sometimes, people park haphazardly on the sandy track or drive a few miles in the dust until they can leave their car at the next turnout. There weren't many people there, but there were hardly any parking spots left. Anyone who goes there in a warmer season instead of the depths of winter can probably expect traffic chaos. As is well known, Americans like to drive in circles or wait in the second row just to park right in front of the spot. Walking from the car to the starting point of an activity is frowned upon, even if it's a gym or a hiking trail.
+The roads in Saguaro National Park are mostly unpaved, and at the trailheads,
+there is usually only space for a few cars. Sometimes, people park haphazardly on the
+sandy track or drive a few miles on dusty roads until they can leave their car at
+the next turnout. There weren't many people there, but there were hardly any
+parking spots left. Anyone who goes there in the warmer season instead of the
+depths of winter can probably expect traffic mayhem. As is well known, Americans
+like to drive in circles or in the second row just to park right in front
+of the spot eventually. Walking from the car to the starting point of an activity is
+frowned upon, even if it's a gym or a hiking trail.
 
 <pic images/scottsdale-saguaro-2.ps Enormous cacti in Saguaro National Park>
 <pic images/scottsdale-saguaro-5.ps A rotting cactus, that's what it looks like on the inside.>
 
-The cacti, some of which were probably eight meters high, right along the hiking trails were truly a sight to behold. They even grow on steep slopes with partially very rocky soil and seemingly survive without water. They thrive and you can see hundreds of magnificent specimens. There were also all sorts of animals around; we saw a stray coyote and the ubiquitous ground squirrels. There are supposed to be plenty of rattlesnakes as well, but thankfully, we didn't hear any rattling on our paths.
+The cacti, some of which were probably 25 feet high, right along the
+hiking trails were truly a sight to behold. They even grow on steep slopes with
+partially very rocky soil and seemingly survive without water. They thrive and
+you can see hundreds of magnificent specimens. There were also all sorts of
+animals around; we saw a stray coyote and the ubiquitous gophers.
+There are supposedly plenty of rattlesnakes as well, but thankfully, we
+didn't hear any rattling on our paths.
 
 <pic images/scottsdale-saguaro-6.ps On the hiking trail, you feel like you're in a botanical garden.>
 <pic images/scottsdale-chapel.ps (#1) The chapel from Breaking Bad>
 
-Since we were already there, we also drove past the Mission San Xavier del Bac near Tucson, which was founded by the Spaniards in 1692, demolished by Apache Indians in 1770, and rebuilt in 1783. The buildings are still well-preserved today, and the gift shop is not only advertised as "affordable" but also sells reasonably priced pilgrim goods. From a small side chapel (illustration (#1)), where it was really hot due to hundreds of lit candles, we learned that the building with the two bell towers was supposedly featured in an episode of the TV series Breaking Bad, as a pilgrimage site for the two Mexican gangsters with cowboy boots who crawled through the dust to the chapel in an extreme manner of pilgrimage.
+Since we were already in the area, we also drove to the Mission San Xavier del Bac
+near Tucson, which was founded by the Spaniards in 1692, demolished by Apache
+Indians in 1770, and rebuilt in 1783. The buildings are still well-preserved
+today, and the gift shop is not only advertised as "affordable" but also sells
+reasonably priced pilgrim goods. From a small side chapel (Figure (#1)),
+inside of which it was really hot due to hundreds of lit candles, we learned that the
+building with the two bell towers was supposedly featured in an episode of the
+TV series Breaking Bad, as a pilgrimage site for the two Mexican gangsters with
+cowboy boots who crawled through the dust to the chapel in an extreme manner of
+pilgrimage.
 
-Liebe Grüße" translates to "Best regards" or "Kind regards" in English.
+Greetings from the rural USA!
 
 Angelika and Michael
