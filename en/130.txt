@@ -115,33 +115,112 @@ Of course, I also used my summer vacation to complete various projects that I
 never have time for otherwise, and to visit family and friends. And just like
 that, the nine weeks were over, and the seriousness of life resumed.
 
-TODO
-
-@Z: Duplicate key at the machine
+@Z: Key Duplication Machine
 
 <pic images/key-cutter.ps The machine takes the old key and carves a new one.>
 
-<em>Michael</em>Recently, while visiting the grocery chain Trader Joe's, I remembered that I also wanted to get a duplicate of our apartment key made, and a sign in front of the bathroom store "Bed, Bath, and Beyond" indicated that this was possible inside. I expected to find a cobbler in a small booth near the exit behind the registers who also offered key services, but instead, I saw -- a machine.
+<em>Michael</em> Recently, while visiting the grocery chain Trader Joe's, I
+remembered that I also wanted to get a duplicate of our apartment key made, and
+a sign in front of the adjacent store "Bed, Bath, and Beyond" indicated that
+this service was offered inside. I expected to find a cobbler in a small booth near
+the exit behind the registers who also offered key services, but instead, I saw
+-- a machine.
 
-An old lady was just standing there, the machine was humming busily and spat out a newly cut key into the output slot. She took it, exclaimed "nifty!" and toddled off. So I read the instructions on the touchscreen and followed the prompts to insert the key to be copied into a keyhole-like slot on the front of the machine, select the type of key (door key or car key), and pay the required $7.49 plus tax by credit card. Until now, I thought making a duplicate key only cost a few dollars, but apparently, the price for this service, like everything else here in the Bay Area (despite the government claiming barely noticeable inflation!), has tripled over the last 20 years. Oh well!
+An old lady was just standing in front of it, the machine was humming busily and spat
+out a newly cut key into the output slot. She took it, exclaimed "nifty!" and
+toddled off. So I read the instructions on the touchscreen and followed the
+prompts to insert the key to be copied into a keyhole-like slot on the front of
+the machine, select the type of key (door key or car key), and pay the required
+$7.49 plus tax by credit card. Until now, I thought making a duplicate key only
+cost a few dollars, but apparently, the price for this service, like everything
+else here in the Bay Area (despite the government claiming barely noticeable
+inflation!), has tripled over the last 20 years. Oh well!
 
-My email address was also requested by the machine, and it promised not to store my credit card information, otherwise a villain might find out which address the key fits into the lock. It also asked if I wanted to leave my fingerprint so it could store the key under it (what?), but I politely declined. The machine then started to rattle dangerously inside, and after about a minute, a newly carved golden door key fell into the output tray. I removed the old key and simply left the store with the duplicate, as the receipt was sent to me via email. The key was a bit sharp-edged, but it fit perfectly into the lock at home. Incredible, what young foxes come up with these days! Such a machine would probably do well in Germany with its immense labor costs. However, Germans prefer significantly more complicated locks than Americans, who favor cheap goods. But who knows, maybe something like this already exists!
+My email address was also requested by the machine, and it promised not to
+store my credit card information, otherwise a villain might find out which
+address the key fits into the lock. It also asked if I wanted to leave my
+fingerprint so it could store the key under it (what?), but I politely
+declined. The machine then started to rattle dangerously inside, and after
+about a minute, a newly carved golden door key fell into the output tray. I
+removed the old key and simply left the store with the duplicate, as the
+receipt was sent to me via email. The key was a bit sharp-edged, but it fit
+perfectly into the lock at home. Incredible, what these whippersnappers come up
+with these days! Such a machine would probably do well in Germany with its
+immense labor costs. However, Germans prefer significantly more complicated
+locks than Americans, who favor cheap good-enough solutions. But who knows,
+maybe something like this already exists over there!
 
 @Z: Mode: Driving old Hondas
 
 <pic images/integra-1.ps An old Acura Integra (not ours) in the Hayes Valley neighborhood.>
 
-<em>Michael</em>As a German expatriate, I often find myself in the absurd situation of having to explain to Americans that I do not see German vehicles as the be-all and end-all of the international automotive industry. When a sports car enthusiast colleague buys a BMW or Porsche, I can't help but think to myself: You fool! Why do you spend so much money on unnecessarily complicated frills that are also so hopelessly unreliable that the car spends more time in the workshop than thundering down the highway? I also hear horror stories from colleagues about overburdened Californian mechanics having to call Sindelfingen or Munich because completely trivial things break down, which can only be fixed with special tools from the moon, and which broke in the first place because they were developed by completely incompetent German engineers who seem to have lost the concept of "reliability.
+<em>Michael</em> As a German expatriate, I often find myself in the absurd
+situation of having to explain to Americans that I do not see German vehicles
+as the be-all and end-all of the international automotive industry. When a
+sports car enthusiast colleague buys a BMW or Porsche, I can't help but think
+to myself: You fool! Why do you spend so much money on unnecessarily
+complicated frills that are also so hopelessly unreliable that the car spends
+more time in the workshop than thundering down the highway? I also hear horror
+stories from colleagues about overburdened Californian mechanics having to call
+Sindelfingen or Munich because completely trivial things break down, which then
+can only be fixed with special tools ordered straight from the mars, and which
+broke in the first place because they were developed by completely incompetent
+German engineers who seem to have lost the concept of designing reliable components.
 
-I would also never buy a Tesla, simply because I need a car for driving, not a toy, one that still runs even when there's no electricity available. But it's entertaining to watch how Tesla is giving German car manufacturers a run for their money because they aren't afraid to question everything that has existed so far and do things radically differently, so much so that Tesla drivers rub their eyes in amazement and wonder why no one thought of it before.
+I would also never buy a Tesla, simply because I need a car for driving, not a
+toy, I need a car that still runs even when there's no electricity available. But it's
+entertaining to watch how Tesla is giving German car manufacturers a run for
+their money because they aren't afraid to question everything that has existed
+so far and do things radically differently, so much so that Tesla drivers rub
+their eyes in amazement and wonder why no one thought of it before.
 
-What continues to deter me from buying new cars is the fact that car salespeople nowadays hardly make any profit from selling a vehicle. Instead, they speculate that the customer will constantly bring the car in for some costly "inspections," during which the dealer then "preventively" replaces perfectly functioning parts. Completely insane! These maintenance tasks, which the onboard computer demands every ten thousand miles, are utter nonsense and a money-making scheme. I know from car-loving colleagues that car dealers now charge extra if the buyer does not live in the nearby area. After all, they don't make any money from pointless inspections if the buyer is likely to have them done in their hometown.
+What continues to deter me from buying new cars is the fact that car
+salespeople nowadays hardly make any profit from selling a vehicle. Instead,
+they speculate that the customer will constantly bring the car in for some
+costly "inspections," during which the dealer then "preventively" replaces
+perfectly functioning parts. Completely insane! These maintenance tasks, which
+the onboard computer demands every ten thousand miles, are utter nonsense and a
+money-making scheme. I know from car-loving colleagues that car dealers now
+charge extra if the buyer does not live in the nearby area. After all, they
+don't make any money from pointless inspections if the buyer is likely to have
+them done in their hometown.
 
-For those who are interested: The maintenance cycle for our two cars looks like this: Oil is changed approximately every 8000 kilometers, at the cheapest oil change provider for about 60 dollars. Otherwise, nothing is done unless something starts to rattle, squeak, or leak. Then I either fix it myself by purchasing the necessary replacement part from Amazon or an auto parts supplier, or, if the repair is beyond my knowledge, I take it to a Chinese mechanic in the Outer Mission neighborhood, whom I know to be reliable and honest. For a few hundred dollars, the man goes above and beyond.
+For those who are interested: The maintenance cycle for our two cars looks like
+this: Oil is changed approximately every 5,000 miles, at the cheapest oil
+change provider for about 60 dollars. Otherwise, nothing is done unless
+something starts to rattle, squeak, or leak. Then I either fix it myself by
+purchasing the necessary replacement part from Amazon or an auto parts
+supplier, or, if the repair is beyond my knowledge, I take it to a Chinese
+mechanic in the Outer Mission neighborhood, whom I know to be reliable and
+honest. For a few hundred dollars, the man goes above and beyond.
 
 <pic images/rakete-dash.ps (#2) Our 21-year-old Integra now has 194,000 miles (312,000 kilometers) on it.>
 
-With our aging 1998 Acura Integra, which at 21 years old will probably soon end up in the car graveyard, similar to its predecessor, a 1991 Integra, I find myself interestingly against my will in the target group of young speedsters. Anyone who takes a look at the tachometer in figure (#2) might notice that the red zone doesn't start until 8000 RPM. I don't need to say more about that. On YouTube, there's a...<LINK>https://www.youtube.com/watch?v=8By2AEsGAhU|Nice video | Ayrton Senna races with an Acura NSX</LINK>..in which the Brazilian racing driver Ayrton Senna, who tragically died in 1994, drives an Acura NSX between seven and eight thousand RPMs around a racetrack, wearing moccasins and white socks. In San Francisco, these car enthusiasts are called "Rice Boys," mostly Asian youths who race souped-up Hondas or Toyotas in so-called "sideshows" on deserted supermarket parking lots at night. Just like in the first part of the movie...<LINK>https://de.wikipedia.org/wiki/The_Fast_and_the_Furious|The Fast and the Furious</LINK>..in which, in the first street race, a certain "Edwin" drives an Integra. These models are stolen like hotcakes, and for this reason, I recently personally installed a so-called "kill switch." This is a switch in a top-secret location that must be flipped for the fuel pump to start. Otherwise, the engine cranks endlessly and won't start even with a hot-wired ignition, causing thieves to get nervous, pull their hair out, and look for other targets.
+With our aging 1998 Acura Integra, which at 21 years old will probably soon end
+up in the car graveyard, similar to its predecessor, a 1991 Integra, I find
+that interested buyers are mainly in the "Fast and Furious" bracket.
+Anyone who takes a look at the tachometer in figure (#2) might notice that the
+red zone doesn't start until 8000 RPM. That's all I'm going to say about this. On
+YouTube, you can watch Brazilian race car driver
+<LINK>https://www.youtube.com/watch?v=8By2AEsGAhU|Ayrton Senna|Ayrton Senna races with an Acura NSX</LINK>, who tragically died in 1994, drive an Acura NSX between seven and
+eight thousand RPMs around a racetrack, wearing moccasins and white socks.
+
+In San Francisco, these young car enthusiasts are called "Rice Boys,"
+mostly Asian youths who race souped-up Hondas or Toyotas in so-called
+"sideshows" on deserted supermarket parking lots at night. Just like in the
+first part of the movie
+<LINK>https://de.wikipedia.org/wiki/The_Fast_and_the_Furious|The Fast and the Furious</LINK>
+in which, in the first street racing scene, a certain "Edwin"
+drives an Integra.
+
+Unsurprisingly, these models are stolen like hotcakes, and for this reason, I
+recently personally installed a so-called "kill switch." This is a switch in a
+top-secret location that must be flipped for the fuel pump to start.
+Otherwise, the engine cranks endlessly and won't start even with a hot-wired
+ignition, causing thieves to get nervous, pull their hair out, and look for
+other targets.
+
+TODO
 
 @Z: Polamarin Hiking Trail in Point Reyes
 
