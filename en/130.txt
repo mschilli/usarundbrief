@@ -272,48 +272,157 @@ ocean, the chirping of birds, and the rustling in the underbrush as a snake
 slithered away, as well as the footsteps of a few other hikers, we had the
 trail all to ourselves in complete silence.
 
-TODO
-
-@Z: Crosstown Trail: Across San Francisco
+@Z: Crosstown Trail: On Foot Across San Francisco
 
 <pic images/crosstown-trail-mike.ps Michael on a secret staircase between residential houses in the upscale neighborhood of Forrest Hill.>
 
-<em>Michael</em>We have been living in San Francisco for the past 22 years, and during that time, we have always been on the lookout for secluded neighborhoods that no tourist has yet discovered. Apparently, there are more people like us, because a few months ago, the "Crosstown Trail Coalition," a committee of hiking enthusiasts, published the description of the<LINK>http://crosstowntrail.org/map|San Francisco Crosstown Trails" | "San Francisco Crosstown Trail</LINK>a 27 km long footpath through the city that passes by little-known attractions even among locals.
+<em>Michael</em> We have been living in San Francisco for the past 22 years,
+and during that time, we have always been on the lookout for secluded
+neighborhoods that no tourist has yet discovered. Apparently, there are more
+people like us, because a few months ago, the "Crosstown Trail Coalition," a
+committee of hiking enthusiasts, published the description of
+the <LINK>http://crosstowntrail.org/map|San Francisco Crosstown Trails"|"San Francisco Crosstown Trail</LINK>,
+a 20 mile long footpath through the city that
+passes by little-known attractions, even by local standards.
 
 <pic images/crosstown-map.ps The second part of the Crosstown Trail goes through the upscale neighborhood of Forrest Hill.>
 
-He begins at Candlestick Park in the far southeast of the city, winds his way through the somewhat more rustic neighborhoods of Bayview and Visitation Valley up to Bernal Heights, the home of the hippie millionaires. From there, hikers then trek through the upscale Glen Park and the affluent neighborhood of Forest Hill, to then pass through the Chinese Sunset District to Golden Gate Park and subsequently through the Presidio Park to the "Lands End" viewpoint at the far northwest of the city to reach the ocean.
+It begins at Candlestick Park in the far southeast of the city, winds his way
+through the somewhat more rustic neighborhoods of Bayview and Visitation Valley
+up to Bernal Heights, the home of our hippie millionaires. From there, hikers
+then trek through the middle class Glen Park and the affluent neighborhood of Forest
+Hill, to then pass through the Chinese Sunset District, to Golden Gate Park, and
+subsequently through the Presidio Park to the "Lands End" viewpoint at the far
+northwest of the city, to reach the ocean.
 
-<pic images/little-hollywood.ps The district "Little Hollywood" is not known even to some locals.>
+<pic images/little-hollywood.ps The district "Little Hollywood" is quite unknown, even to locals.>
 <pic images/crosstown-angelika.ps Angelika on a secret staircase in the upscale neighborhood of Forrest Hill.>
 
-In doing so, the city explorer wanders through "Old Money" neighborhoods like Forrest Hill, where old mansions with a good 20 rooms stand on properties with generous driveways, and a Rolls Royce is parked out front. The path also leads over no less than 10-meter-wide staircases between residential houses, but no one climbs the stairs because in this hilly area, no one walks. These staircases probably date back to times when city planners thought that in 50 years the Pope would be boxing there, but instead, the area developed into a sleepy residential neighborhood for the super-rich.
+In doing so, the city explorer wanders through "Old Money" neighborhoods like
+Forrest Hill, where old mansions with a good 20 rooms stand on properties with
+generous driveways, and a Rolls Royce is parked out front. The path also leads
+over a no less than 30-feet-wide staircases between residential houses, but no
+one climbs the stairs because in this hilly area, no one walks. These
+staircases probably date back to times when city planners thought that within
+50 years, a crazy hustle and bustle would ensue in Forest Hill, but instead, the
+area developed into a sleepy residential neighborhood for the super-rich.
 
 <pic images/crosstown-view.ps Views of the Sunset District from Grandview Park.>
 
-Although these stairs often look like they belong to private houses, they are all public and curious individuals are allowed to use them as they please. They often connect rows of houses in hilly areas where city planners could not construct a direct connecting road due to the steepness of the slopes. The Crosstown Trail is designed to cover as many of these hidden stairs as possible, it seems to me.
+Although these stairs often look like they belong to adjacent private
+residences, they are all public and curious individuals are allowed to use them
+as they please. They often connect rows of houses in hilly areas where city
+planners could not construct a direct connecting road due to the steepness of
+the slopes. The Crosstown Trail is designed to cover as many of these hidden
+stairs as possible, it seems to me.
 
 <pic images/crosstown-tree-monkey.ps Local specimen of the tree monkey species in Grandview Park.>
 
-The path offers beautiful views continuously, but of course, only if everything isn't fogged up again, which in San Francisco northwest of Twin Peaks is always a matter of luck. As always, it is advisable to bring a warm jacket, just in case, because tourists frozen into icicles are repeatedly found along the way. We walked the Crosstown Trail in stages, and either took public transportation to the starting points or parked the car there and took an Uber back to the car after the stage.
+The path offers beautiful views continuously, but of course, only if everything
+isn't fogged up again, which in San Francisco northwest of Twin Peaks is often
+hit or miss. As always, it is advisable to bring a warm jacket, just in
+case, because tourists frozen into icicles are repeatedly found along the way.
+We walked the Crosstown Trail in stages, and either took public transportation
+to the starting points or parked the car there and took an Uber back to the car
+after the stage.
 
-<pic images/crosstown-dead-end.ps Dead end at the edge in the Sunset district.>
+<pic images/crosstown-dead-end.ps Dead end at the edge, in the Sunset district.>
 
-Since there are no signs to show the way, the hiker either uses a smartphone app<LINK>https://www.outerspatial.com|OuterSpacial" can be translated to English as "Outer Spatial." It refers to something related to or situated in the outer regions of space.</LINK>It prints out so-called cue sheets, which indicate at which street intersections to turn left or right to follow the route. Nowadays, the Crosstown Trail is very popular, so you often see people sneaking through remote residential streets with printed sheets of paper, nodding knowingly when they see that you are also reading from a sheet of paper while walking.
+Since there are no signs to outline the path, the hiker either uses
+the trail's <LINK>https://www.outerspatial.com|smartphone app|Crosstown Trail App</LINK>
+or prints out so-called cue sheets, which
+indicate at which street intersections to turn left or right, to follow the
+route. Nowadays, the Crosstown Trail is very popular, so you often see people
+sneaking through tiny residential streets with printed sheets of paper in hand,
+nodding knowingly when they see that you are also reading from a sheet of paper
+while walking.
 
-@Z: Wahlmänner" translates to "electors" and "Electoral College" remains "Electoral College" in English. So, the translation is "electors and Electoral College.
+@Z: Electoral College
 
-<pic images/electoral-college.ps In the chaos of the 2016 presidential election, it went completely unnoticed that, for example, an elector from Hawaii did not vote for the candidate chosen by the population (Source: Wikipedia).>
+<pic images/electoral-college.ps In the chaos of the 2016 presidential election, it went completely unnoticed that, for example, an elector from Hawaii did not vote for the candidate chosen by the voters (Source: Wikipedia).>
 
-<em>Angelika</em>We are in the middle of an election campaign. In 2015, when Trump appeared on the political stage, I still thought it was completely unthinkable that Donald Trump would ever become President of the United States. Four years later, I have to say that I fear we will probably have to brace ourselves for another term. I hope that I will be wrong again this time. Many Democratic voters are particularly frustrated with the American system of electors, because in two past elections (Bush vs. Gore and Trump vs. Clinton, see also...)<RBLINK>20001204#1</RBLINK>In each case, a president made it to the White House even though the opposing candidate received more total votes from the population. Hillary Clinton received over 3 million more votes nationwide than Donald Trump, and yet Trump won. In America, it is not the direct votes of the population that count, but the electoral votes from the individual states.
+<em>Angelika</em> We are in the middle of another election campaign. In 2015, when
+Trump appeared on the political stage, I still thought it was completely
+unthinkable that Donald Trump would ever become President of the United States.
+Four years later, I have to say that I fear we will probably have to brace
+ourselves for another term. I hope that I will be wrong again this time. Many
+Democratic voters are particularly frustrated with the American system of
+electors, because in two past elections (Bush vs. Gore and Trump vs. Clinton,
+see also <RBLINK>20001204#1</RBLINK>), in each case, a president made it to the
+White House even though the opposing candidate received more total votes from
+voters. Hillary Clinton received over 3 million more votes nationwide
+than Donald Trump, and yet Trump won. In America, it is not the direct votes of
+the population that count, but the electoral votes from the individual states.
 
-Although populous states like California and Florida have more electors than sparsely populated ones, the number is determined by how many representatives the state has in the House of Representatives plus the Senate. Every state, regardless of size, sends 2 senators to the Senate, but based on population, a different number of representatives to the House of Representatives. California, based on the last census in 2010, has exactly 53 representatives plus 2 senators, which results in California having 55 electors who vote for the president. Due to the knockout system applied in almost all states, the winner in each state receives all the electoral votes, even if the candidate wins by a narrow margin. This can lead to the described imbalance, where a candidate may receive the majority of votes nationwide but still not win. Many consider this undemocratic because ultimately not every voter's voice is considered. Furthermore, it leads to low voter turnout, as in states that always go to the candidate of the same party, the opposing side often doesn't bother to go to the polls because their vote changes nothing and is disregarded. This system also strengthens the electoral influence of states with lower population density, which in the U.S. are usually the more rural states that traditionally tend to give their votes to the Republican candidate.
+Although populous states like California and Florida have more electors than
+sparsely populated ones, the number is determined by how many representatives
+the state has in the House of Representatives plus the Senate. Every state,
+regardless of size, sends 2 senators to the Senate, but based on population, a
+different number of representatives to the House of Representatives.
 
-The Founding Fathers introduced the Electoral College as a compromise because many at the time were uneasy with the idea of the people directly electing the President and Vice President. However, they also did not want to transfer this responsibility to Congress, leading to the compromise of the Electoral College, established in "Article II, Section 1" of the American Constitution. Due to its entrenchment in the Constitution, it is not easy to get rid of the Electoral College system, as it requires a two-thirds majority in Congress. This unusual election procedure leads to some absurdities in the campaign, such as politicians frequently visiting states that sometimes vote for the Republican candidate and other times for the Democratic candidate, the so-called "swing states." For example, since California has consistently voted for the Democratic candidate since 1992, no Republican candidate really campaigns there anymore.
+California, based on the last census in 2010, has exactly 53 representatives
+plus 2 senators, which results in California having 55 electors who vote for
+the president. Due to the knockout system applied in almost all states, the
+winner in each state receives all the electoral votes, even if the candidate
+wins by a narrow margin. This can lead to the described imbalance, where a
+candidate may receive the majority of votes nationwide but still not win. Many
+consider this undemocratic because ultimately not every voter's voice is
+considered. Furthermore, it leads to low voter turnout, as in states that
+always go to the candidate of the same party, the opposing side often doesn't
+bother to go to the polls because their vote changes nothing and is
+disregarded. This system also strengthens the electoral influence of states
+with lower population density, which in the U.S. are usually the more rural
+states that traditionally tend to give their votes to Republican candidates.
 
-The knockout system, in which all electoral votes go to the winner in the respective state, is not actually prescribed by the Constitution, and the states have a lot of leeway in this regard. Other models are and would be possible, such as a proportional distribution or a division based on the majority per electoral district, which is already done in the states of Nevada and Maine. Another initiative, according to which the electors give their vote to the candidate who receives the most votes on a national level, regardless of whether they won in their state or not, is currently being considered.<LINK>https://www.nationalpopularvote.com|National Popular Vote Interstate Compact</LINK>In conversation. Already, 16 states have committed or even passed corresponding laws in their respective parliaments to follow this procedure. Ultimately, this is an agreement between the states and an introduction of direct election through the back door, without having to amend the Constitution. However, for the whole thing to work at all, at least enough states would have to join the pact to reach the required majority of 270 electors. Currently, the states that have joined the pact only account for 196 electors. However, legal experts are debating whether these agreements might be unconstitutional or if approval from Congress would be needed to put the whole plan into action.
+The Founding Fathers introduced the Electoral College as a compromise because
+many at the time were uneasy with the idea of the people directly electing the
+President and Vice President. However, they also did not want to transfer this
+responsibility to Congress, leading to the compromise of the Electoral College,
+established in "Article II, Section 1" of the American Constitution. Due to its
+entrenchment in the Constitution, it is not easy to get rid of the Electoral
+College system, as it requires a two-thirds majority in Congress.
 
-Something crazy is also that nowhere in the Constitution does it state that electors must necessarily cast their vote for the candidate they were appointed to by the state. Theoretically, they can change their commitment and vote according to their conscience. However, individual states try to prevent this by selecting reliable and loyal electors or by imposing fines on those who deviate. A court of appeals in Denver, consisting of three judges, confirmed on August 20 that the respective states cannot force their electors to vote for a specific candidate. Many legal experts suspect that this question will ultimately be decided by the Supreme Court. Faithless electors are rather rare, but in the 2016 presidential elections, these so-called "Faithless Electors" caused a Democratic elector in Hawaii to vote for Bernie Sanders instead of Hillary Clinton, even though Sanders had already been eliminated in the primaries.
+This unusual
+election procedure leads to some absurdities in the campaign, such as
+politicians focussing on states that sometimes vote for the Republican
+candidate and other times for the Democratic candidate, the so-called "swing
+states." For example, since California has consistently voted for the
+Democratic candidate since 1992, no Republican candidate really campaigns there
+anymore.
+
+The knockout system, in which all electoral votes go to the winner in the
+respective state, is not actually prescribed by the Constitution, and the
+states have a lot of leeway in this regard. Other models are and would be
+possible, such as a proportional distribution or a division based on the
+majority per electoral district, which is already done in the states of Nevada
+and Maine. Another initiative, according to which the electors give their vote
+to the candidate who receives the most votes on a national level, regardless of
+whether they won in their state or not, is currently being
+discussed as <LINK>https://www.nationalpopularvote.com|National Popular Vote
+Interstate Compact</LINK>. Already, 16 states have committed or
+even passed corresponding laws in their respective parliaments to follow this
+procedure. Ultimately, this is an agreement between the states and an
+introduction of direct election through the back door, without having to amend
+the Constitution. However, for the whole thing to work at all, at least enough
+states would have to join the pact to reach the required majority of 270
+electors. Currently, the states that have joined the pact only account for 196
+electors. However, legal experts are debating whether these agreements might be
+unconstitutional or if approval from Congress would be needed to put the whole
+plan into action.
+
+Another interesting fact is that nowhere in the Constitution does it state that
+electors must necessarily cast their vote for the candidate they were appointed
+to by the state. Theoretically, they can change their commitment and vote
+according to their conscience. However, individual states try to prevent this
+by selecting reliable and loyal electors or by imposing fines on those who
+deviate. A court of appeals in Denver, consisting of three judges, confirmed on
+August 20 that the respective states cannot force their electors to vote for a
+specific candidate. Many legal experts suspect that this question will
+ultimately be decided by the Supreme Court. Deviators are rather rare,
+but in the 2016 presidential elections, these so-called "Faithless Electors"
+caused a Democratic elector in Hawaii to vote for Bernie Sanders instead of
+Hillary Clinton, even though Sanders had already been eliminated in the
+primaries.
 
 In the next newsletter, I will try to explain why I believe that Donald Trump will succeed again.
 
@@ -321,20 +430,46 @@ In the next newsletter, I will try to explain why I believe that Donald Trump wi
 
 <pic images/j-b-weld.ps The two tubes of J-B Weld epoxy adhesive.>
 
-<em>Michael</em>In our household, things somehow keep breaking, but instead of replacing them with new ones, I often repair them with the help of my extensive tool collection. Recently, the bathroom fan stopped working. A new one costs only 15 dollars at the hardware store, but it was a lot of fun to take apart the electric motor, find the dirty axle, clean and lubricate it, reassemble the fan, and see that it now runs smoothly again. The knowledge gained from such a repair, as well as the excitement of whether you can even put the device back together, is priceless.
+<em>Michael</em> In our household, things somehow keep breaking, but instead of
+replacing them with new ones, I often repair them with the help of my extensive
+tool collection. Recently, the bathroom fan stopped working. A new one costs
+only 15 dollars at the hardware store, but it was a lot of fun to take apart
+the electric motor, find the dirty axle, clean and lubricate it, reassemble the
+fan, and see that it now runs smoothly again. The knowledge gained from such a
+repair, as well as the excitement of whether you can even put the device back
+together, is priceless.
 
 <pic images/fan-disassembled.ps Michael disassembled the broken bathroom fan.>
 
-Often, when working on such tasks, it is necessary to glue broken plastic or metal parts back together. I don't know why, but somehow I seem to be at odds with superglues, as I have yet to find one that permanently sticks anything together. In the advertisements, it always looks so easy, but in reality, such a superglue at best permanently sticks the repairer's fingers together, while glued plastic parts bend like modeling clay under the next application of force and then come apart.
+Often, when working on such tasks, it is necessary to glue broken plastic or
+metal parts back together. I don't know why, but somehow I seem to be at odds
+with superglues, as I have yet to find one that permanently sticks anything
+together. In the advertisements, it always looks so easy, but in reality, such
+a superglue at best permanently sticks to the repairer's fingers, while
+glued plastic parts bend like modeling clay under the subsequent application of force,
+and then come apart.
 
 <pic images/j-b-weld-mix.ps When mixed, the black resin and the white hardener form a gray mass that slowly hardens.>
 
-An American acquaintance gave me the tip to try the epoxy miracle adhesive "J-B Weld," which comes in two tubes. One contains a black paste called "Steel" (actually a resin), and the other a white goo called "Hardener." If you squeeze a small amount from both tubes onto a surface and mix them with a spatula, you get a gray paste that slowly hardens. It remains moldable for four to six hours, giving the repairer enough time to bond parts made of metal, PVC, ceramic, or wood. Within 15 hours, the paste fully hardens and bonds with the adjacent materials, creating something akin to a welded connection. I used it to firmly reattach the broken plastic tab from a folding crate, without which it wouldn't close properly (see Figure #1).
+An American acquaintance gave me the tip to try the epoxy miracle adhesive "J-B
+Weld," which comes in two tubes. One contains a black paste called "Steel"
+(actually a resin), and the other a white goo called "Hardener." If you squeeze
+a small amount from both tubes onto a surface and mix them with a spatula, you
+get a gray paste that slowly hardens. It remains moldable for four to six
+hours, giving the repairer enough time to bond parts made of metal, PVC,
+ceramic, or wood. Within 15 hours, the paste fully hardens and bonds with the
+adjacent materials, creating something akin to a welded connection. I used it
+to firmly reattach the broken plastic tab from a folding crate, without which
+it wouldn't close properly (see Figure #1).
 
 <pic images/jb-weld-crate-fixed.ps (#1) The broken plastic nose of the folding box was perfectly reattached with JB-Weld.>
 
-The German word "Laut" translates to "loud" in English.<LINK>https://en.wikipedia.org/wiki/J-B_Weld|Wikipedia|J-B Weld on Wikipedia</LINK>In 1968, an American hobbyist invented the miracle paste and, at the urging of his wife, turned it into a small business. The life dream of the company founder, who "suddenly" passed away in 1989, was allegedly to see an 18-wheeler truck on the roads of America loaded with nothing but J-B Weld. The American dream has come true, without a doubt.
+According to <LINK>https://en.wikipedia.org/wiki/J-B_Weld|Wikipedia|J-B Weld on Wikipedia</LINK>, the miracle paste was invented in 1968 by an American hobbyist,
+at the urging of his wife, turned it into a small business. The life dream of
+the company founder, who "suddenly" passed away in 1989, was allegedly to see
+an 18-wheeler truck on the roads of America loaded with nothing but J-B Weld.
+This American dream has come true, without a doubt.
 
-Größe:" translates to "Size:" in English.
+Greetings!
 
 Angelika and Michael
