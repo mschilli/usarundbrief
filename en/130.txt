@@ -57,15 +57,27 @@ with a patched tire, but in America, the speed limit is 75 mph max anyway. So
 far, the plug has held up well, and I still have 39 spare plugs left, so I'm ready
 for the next flat tire.
 
-TODO
-
-@Z: Sommerferien" translates to "summer vacation" or "summer holidays" in English.
+@Z: Summer Vacation
 
 <pic images/calli-paper.ps In a calligraphy course, Angelika learned how to write beautifully.>
 
-<em>Angelika</em>From school days, everyone surely remembers the uplifting feeling of the upcoming summer holidays, when all the exams were done and six long weeks of doing nothing and letting oneself drift lay ahead. As an adult, one rarely gets to enjoy this anymore. The semester breaks during university were not bad either, but for me, they were always filled with mandatory internships. But this summer, after decades, I finally had long holidays again because I work at a school, and even in the US, there are summer holidays or, more precisely, a period without classes. At our school, we had a whopping nine weeks off. It was wonderful. Just like in school days, there was nothing better for me than to read and immerse myself in the world of books. I had planned to read a book every week during my holidays, and I managed to do that. I read a colorful assortment of crime novels, non-fiction books, technical books, and, of course, novels.
+<em>Angelika</em> From our school days, everyone surely remembers the uplifting
+feeling of upcoming summer holidays. When all the exams were done and six long
+weeks of doing nothing and letting oneself drift lay ahead. As an adult, one
+rarely gets to enjoy this anymore. Semester breaks in college were not bad
+either, but for me, they were always filled with mandatory internships. But
+this summer, after decades, I finally had a long summer break again because I
+now work at a school, and even in the US, there are generous summer breaks or,
+more precisely, a stretch of time without classes. At our school, we had a
+whopping nine weeks off. It was wonderful. Just like in school days, there was
+nothing better for me than to read and immerse myself in the world of books. I
+had planned on reading a book every week during my time off, and I actually
+managed to do that. I read a colorful assortment of crime novels, non-fiction
+books, technical books, and, of course, novels.
 
 <pic images/calli-letter.ps The art of beautiful handwriting is a science in itself.>
+
+TODO
 
 Then I fulfilled my dream of attending a calligraphy course. I belong to the generation for whom learning cursive writing was a top priority in school. Unfortunately, this cultural technique is threatened with extinction, as it is believed that in the digital world, typing and print writing take precedence over cursive writing. In the US, many students no longer learn cursive because it has been removed from the curriculum. However, there is hope, as cursive writing is currently experiencing something of a comeback in schools here, since it has been found that it is not just about beautiful handwriting. Learning cursive not only helps with fine motor skills but also enhances memory and improves text comprehension. Students who write in cursive construct better texts than when they type them.
 
