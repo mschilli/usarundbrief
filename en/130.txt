@@ -220,21 +220,59 @@ Otherwise, the engine cranks endlessly and won't start even with a hot-wired
 ignition, causing thieves to get nervous, pull their hair out, and look for
 other targets.
 
-TODO
-
 @Z: Polamarin Hiking Trail in Point Reyes
 
 <pic images/point-reyes.ps Two hikers on the Polamarin Trail in Point Reyes>
 
-<em>Angelika</em>We love hiking, and one of our favorite nature reserves, which is just about an hour's drive north of San Francisco, is Point Reyes.<RBLINK>20060421#11</RBLINK>We go there regularly since we discovered it in 1994 during one of our West Coast trips. Since we live in San Francisco, it is practically on our doorstep. Point Reyes has become increasingly popular and is unfortunately no longer a hidden gem. Even just 10 years ago, people would often ask in surprise where Point Reyes even was when we mentioned that we were going there. Nowadays, Point Reyes is especially popular with day-trippers from San Francisco and the Bay Area because it is easy to reach and offers beautiful hiking trails of varying difficulties and lengths.
+<em>Angelika</em> We love hiking, and one of our favorite nature reserves,
+which is just about an hour's drive north of San Francisco, is Point Reyes
+(<RBLINK>20060421#11</RBLINK>). We drive up there regularly since we discovered it in
+1994 during one of our West Coast trips. Since we now live in San Francisco, it is
+practically on our doorstep. Point Reyes has become increasingly popular and is
+unfortunately no longer a hidden gem. Even just 10 years ago, people would
+often ask in surprise where Point Reyes even was when we mentioned that we were
+going there. Nowadays, Point Reyes is especially popular with day-trippers from
+San Francisco and the Bay Area because it is easy to reach and offers beautiful
+hiking trails of varying difficulties and lengths.
 
-Despite its constant popularity, there are still ways to find paths that are not overcrowded. However, on the weekend when we visited Point Reyes once again, we made the mistake of taking a hiking trail that leads to a waterfall that cascades onto the beach. This is undoubtedly a unique natural spectacle, but we didn't actually want to go to the waterfall; we just wanted to go to Bass Lake, which is along the way.
+Despite its staggering popularity, there are still ways to find paths that are
+not overcrowded. However, on the weekend when we visited Point Reyes once
+again, we made the mistake of taking a hiking trail that leads to a waterfall
+that cascades onto the beach. This is undoubtedly a unique natural spectacle,
+but we didn't actually want to go to the waterfall; we just wanted to go to
+Bass Lake, which is along the way.
 
-We had walked this path many years ago, and this weekend we were feeling a bit sentimental and wanted to enjoy the hiking trail with its spectacular views of the Pacific Ocean once again. The fact that we had to park a mile away just to get to the trailhead should have given us pause. There were no parking spaces left at the official parking lot. Another clue was that Point Reyes staff were already directing traffic and assigning parking spots to drivers. However, this initially didn't deter us, as parking spaces at hiking trails are often limited and the crowds usually disperse quickly. Unfortunately, this time we were proven wrong, as it remained crowded and the stream of hikers from both directions did not let up.
+We had walked this path many years ago, and this weekend we were feeling a bit
+sentimental and wanted to enjoy the hiking trail with its spectacular views of
+the Pacific Ocean once again. The fact that we had to park a mile away just to
+get to the trailhead should have given us pause. There were no parking spaces
+left at the official parking lot. Another clue was that Point Reyes staff were
+already directing traffic and assigning parking spots to drivers. However, this
+initially didn't deter us, as parking spaces at hiking trails are often limited
+and the crowds usually disperse quickly. Unfortunately, this time we were
+proven wrong, as it remained crowded and the stream of hikers from both
+directions did not let up.
 
-We felt like we were in Disneyland. Shockingly, every third group of hikers was blasting music from their phones, not through headphones so that the rest of the population wouldn't have to listen. No, it echoed through the speakers into nature, which sounds totally tinny when you use a phone for that. I really thought I was in the wrong movie because, in all the many hikes we've done so far, we had never encountered this phenomenon before. I really enjoy listening to music, but everything in its own time. I don't need to be bombarded with sound when I'm moving through nature.
+We felt like we were in Disneyland. Shockingly, every third group of hikers was
+blasting music from their phones, not through headphones so that the rest of
+the world wouldn't have to listen. No, it echoed through the speakers into
+nature, which sounds totally tinny when you use a phone for that. I really
+thought I was in the wrong movie because, in all the many hikes we've done so
+far, we had never encountered this phenomenon before. I really enjoy listening
+to music, but everything in its own time. I don't need to be bombarded with
+sound when I'm moving through nature.
 
-I was so confused by the experience that I did a bit of research, and indeed, the internet was full of complaints that this bad habit of playing loud music on hiking trails is spreading more and more. In fact, the first signs have already appeared in popular hiking areas asking people to refrain from doing so. It's sad that special signs are needed for this. The next day, we chose a less popular hiking trail and, lo and behold, apart from the sound of the ocean, the chirping of birds, and the rustling in the underbrush as a snake slithered away, as well as the footsteps of a few other hikers, we had the trail all to ourselves in complete silence.
+I was so confused by the experience that I did a bit of research, and indeed,
+the internet was full of complaints that this bad habit of playing loud music
+on hiking trails is spreading more and more. In fact, the first signs have
+already appeared in popular hiking areas asking people to refrain from doing
+so. It's sad that special signs are needed for this. The next day, we chose a
+less popular hiking trail and, lo and behold, apart from the sound of the
+ocean, the chirping of birds, and the rustling in the underbrush as a snake
+slithered away, as well as the footsteps of a few other hikers, we had the
+trail all to ourselves in complete silence.
+
+TODO
 
 @Z: Crosstown Trail: Across San Francisco
 
