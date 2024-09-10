@@ -278,71 +278,183 @@ It should be noted, however, that the casino tricksters are very cunning and
 always come up with new ways to take people's hard-earned money. On the next
 visit, everything will definitely be even more expensive again!
 
-TODO
-
 @Z: Video Poker
 
 <pic images/lv-straight-flush.ps Angelika won 50 dollars by getting a straight flush in video poker.>
 
-<em>Michael</em>Gambling" in the casino is the main attraction for many visitors in Las Vegas. Some save up all year just to let loose at the blackjack or craps table for a few hours—and then go home without any money. We also like to spend some time in the casino, but not just because of the slot machines; it's because human dramas unfold there that can only happen in a casino. During our last visit, we overheard a couple where the woman confessed to the man that she felt guilty about blowing her grandmother's gift money and wondered if she should rather invest it in a tank of gas for the car. No, no, the man said, after all, it was her money now and she could spend it however she wanted!
+<em>Michael</em> Gambling in the casino is the main attraction for many
+visitors in Las Vegas. Some save up all year just to let loose at the blackjack
+or craps table for a few hours -— and then go home without any money left. We also like
+to spend some time in the casino, but not just because of the slot machines;
+it's because human dramas unfold there that can only happen at a casino. During
+our last visit, we overheard a couple where the woman confessed to the man that
+she felt guilty about blowing her grandmother's gift money and wondered if she
+should rather invest it in a tank of gas for the car. No, no, the man said,
+after all, it was her money now and she could spend it however she wanted!
 
-We are not big gamblers, but we are fascinated by the somewhat outdated video poker machines. We play by some simple rules that allow us to get back 99% of our stake, and while we play, the casino waitresses serve us high-quality alcoholic drinks for free, for which we only tip the waitress about one to two dollars each time.
+We are not big gamblers, but we are fascinated by the somewhat outdated video
+poker machines. We play by some simple rules that allow us to get back 99% of
+our stake, and while we play, the casino waitresses serve us high-quality
+alcoholic drinks for free, for which we only tip the waitress about one to two
+dollars each time.
 
 <pic images/winpoker-1.ps Oops, Michael made a mistake and didn't play optimally.>
 
-Im" in German translates to "in the" in English. It is a contraction of "in dem.<RBLINK>20090315#12</RBLINK>I have already described the game and the strategy before, so just a brief recap: The goal is to keep the right cards from the five initially dealt cards and exchange the rest once, in order to form a good poker hand: a high pair, a full house, a straight, or even a royal flush. Depending on the value of the hand, the machine then pays out the winnings or remains silent. Using probability calculations, one can determine which cards to keep from a given hand for the highest possible chance of winning and which to exchange. For each situation, mathematics prescribes the "correct" move, but keeping all the individual rules in mind is not quite simple.
+I have already described the video poker strategy before
+(<RBLINK>20090315#12</RBLINK>), so just a brief recap: The goal is to keep the
+right cards from the five initially dealt cards and exchange the rest once, in
+order to form a good poker hand: a high pair, a full house, a straight, or even
+a royal flush. Depending on the value of the hand, the machine then pays out
+the winnings or remains silent. Using probability calculations, one can
+determine which cards to keep from a given hand for the highest possible chance
+of winning and which to exchange. For each situation, mathematics prescribes
+the "correct" move, but keeping all the individual rules in mind is not quite
+simple.
 
 <pic images/winpoker-2.ps Speculating on a straight and holding four cards is by far the best choice here.>
 
-But with some practice, you can achieve about a 99% payout rate; really savvy pros can even reach 99.5% -- so the casino always wins 50 cents for every hundred dollars wagered, which is more than worth the alcohol-fueled fun. If you want to test at home whether you have mastered the rules, I recommend the smartphone app "Winpoker," which not only accurately simulates the slot game but also issues warnings if the player should have chosen different cards than the ones clicked. The app even calculates how much each playing error costs, down to the last cent, and mathematically inclined individuals can compare the winning probabilities of different moves. That brings out the inner child in every man.
+But with some practice, you can achieve about a 99% payout rate; really savvy
+pros can even reach 99.5% -- so the casino always wins 50 cents for every
+hundred dollars wagered, which is more than worth the alcohol-fueled fun. If
+you want to test at home whether you have mastered the rules, I recommend the
+smartphone app "Winpoker," which not only accurately simulates the slot game
+but also issues warnings if the player should have chosen different cards than
+the ones clicked. The app even calculates how much each playing error costs,
+down to the last cent, and mathematically inclined individuals can compare the
+winning probabilities of different moves. That brings out the inner child in
+every man.
 
 @Z: Las Vegas Neon Museum
 
 <pic images/lv-neon-outside.ps Behind thick walls, beautiful old neon signs are stored.>
 
-<em>Angelika</em>When it comes to Las Vegas, we understandably get sentimental. Sometimes we really miss the old Las Vegas. After all, back then we used to go there as students to eat cheaply and abundantly at the "All You Can Eat" buffets, to snag an affordable rental car, and then to dash off to the various national parks. Las Vegas has reinvented itself many times since our first encounter there, but for us, the city is enveloped in nostalgia because that's where we met. We never tire of seeking that feeling during our visits.
+<em>Angelika</em> When it comes to Las Vegas, we understandably get
+sentimental. Sometimes we really miss the old Las Vegas. After all, back then
+we used to go there as students to eat cheaply and abundantly at the "All You
+Can Eat" buffets, to snag an affordable rental car, and then to dash off to the
+various national parks. Las Vegas has reinvented itself many times since our
+first encounter there, but for us, the city is enveloped in nostalgia because
+that's where we met. We never tire of seeking that feeling during our visits.
 
 <pic images/lv-neon-angelika.ps The Neon Museum displays all kinds of colorful, glamorous advertising signs that shine beautifully in the evening light.>
 
-At the "Neon Museum," we got our money's worth this time. Anyone who has ever been to Las Vegas knows that colorful, oversized neon signs follow you at every turn, sparkling and blinking. In Las Vegas, the lights seem to never go out. Many of these neon signs have achieved a certain iconic status, either because they have a particularly beautiful or controversial design, or because they belonged to a casino that no longer exists but once held an important place in the history of Las Vegas.
+At the "Neon Museum," we got our money's worth this time. Anyone who has ever
+been to Las Vegas knows that colorful, oversized neon signs follow you at every
+turn, sparkling and blinking. In Las Vegas, the lights seem to never go out.
+Many of these neon signs have achieved a certain iconic status, either because
+they have a particularly beautiful or controversial design, or because they
+belonged to a casino that no longer exists but once held an important place in
+the history of Las Vegas.
 
-<pic images/lv-neon-park-2.ps The statue of this billiard player used to advertise a billiard salon.>
+<pic images/lv-neon-park-2.ps The statue of this billiard player used to advertise a pool billiards salon.>
 
-The 1996 founded<LINK>https://www.neonmuseum.org|Neon Museum</LINK>The task was set to preserve these old signs and make them accessible to the public. The open-air museum displays them outside in the so-called "Boneyard," and visitors walk through the laid-out paths and can admire the neon signs set up at ground level. The sun beats down mercilessly from the sky, as Las Vegas is known to be in the desert, and there is no shade in the open-air settings. We arrived at the museum in the late afternoon because the sun then made the neon signs appear in particularly beautiful light.
+The <LINK>https://www.neonmuseum.org|Neon Museum</LINK> was founded in 1996 for
+the purpose of preserving these old signs and making them accessible to the
+public. The open-air exhibit displays them outside in the so-called "Boneyard,"
+and visitors walk through the laid-out paths and can admire the neon signs set
+up at ground level. The sun beats down mercilessly from the sky, as Las Vegas
+is known to be in the desert, and there is no shade in the open-air settings.
+We arrived at the museum in the late afternoon because the sun then made the
+neon signs appear in a particularly beautiful light.
 
 <pic images/lv-neon-milk.ps The milkman's advertising sign in the neon museum.>
 
-The idea for the museum came about when the famous casino and hotel "The Sands" closed in 1996, and no one knew what to do with the historic and oversized "Sands" sign. Unfortunately, it ended up in the trash. The friendly museum staff explained to us that the size of the signs often poses a problem, as dismantling and transportation are costly.
+The idea for the museum came about when the famous casino and hotel "The Sands"
+closed in 1996, and no one knew what to do with the historic and oversized
+"Sands" sign. Unfortunately, it ended up in the trash. The friendly museum
+staff explained to us that the size of the signs often poses a problem, as
+dismantling and transportation are costly.
 
 <pic images/lv-neon-park-3.ps Air guitar artist Michael in front of the 20-meter-high Gibson Les Paul, the centerpiece of the Neon Museum.>
 
-The company "Young Electric Sign Company" (YESCO), based in Salt Lake City, Utah, has manufactured many of these signs and is still considered a leader in the industry today. The Neon Museum now houses many well-known signs, such as those from the casinos "Stardust," "Aladdin," "Riviera," and "Sahara." However, I particularly liked the lesser-known ones, such as a little milkman figure delivering milk. The museum costs $30 per person for admission. You are only allowed to take photos with your phone or tablet. Despite the high admission price, we highly recommend a visit to the museum.
+The "Young Electric Sign Company" (YESCO), based in Salt Lake City, Utah, was
+the original manufacturer of many of these signs and is still considered a
+leader in the industry today. The Neon Museum now houses many well-known signs,
+such as those from the casinos "Stardust," "Aladdin," "Riviera," and "Sahara."
+However, I particularly liked the lesser-known ones, such as a little milkman
+figure delivering milk. The museum charges $30 per person for admission. You are
+only allowed to take photos with your phone or tablet. Despite the high
+admission price, we highly recommend a visit to the museum.
 
 @Z: Drinking water at SFO airport
 
 <pic images/sfo-water-byob.ps At SFO airport, there are no more plastic water bottles.>
 
-<em>Michael</em>Air travelers often get so thirsty on long-haul flights that flight attendants can hardly keep up with refilling drinks. Therefore, it is advisable to carry bottled mineral water. But, oh dear, unfortunately, airport security does not allow liquids to be brought through, so it has become customary for travelers to quickly purchase a plastic bottle of water at the gate area for an exorbitant price. Did I say plastic?! For heaven's sake, plastic waste is no longer acceptable in green San Francisco!
+<em>Michael</em> Air travelers often get so thirsty on long-haul flights that
+flight attendants can hardly keep up with refilling drinks. Therefore, it is
+advisable to carry bottled water. But, oh dear, unfortunately, airport
+security does not allow liquids to be brought through, so it has become
+customary for travelers to quickly purchase a plastic bottle of water at the
+gate area at an exorbitant price. Did I say plastic?! For heaven's sake,
+plastic waste is no longer acceptable in green San Francisco!
 
 <pic images/sfo-water-refill.ps At the "Hydration Station," travelers fill their brought bottles with filtered tap water.>
 
-Drinking American chlorinated tap water is also not everyone's cup of tea, and that's why the operators of the newly redesigned Terminal 1 at SFO Airport, which has recently been named "Harvey Milk Terminal" after the well-known gay activist from the 70s, installed...<RBLINK>20060720#8</RBLINK>Hydration Stations" are refill stations where passengers can fill their own containers with Brita-filtered tap water. To prevent anyone from placing the rim of their bottle, which might be contaminated with germs, directly on the spout, the stations activate the water stream using a light sensor when a container is held under an upward-facing hole in the chrome frame of the station.
+Drinking American chlorinated tap water is also not everyone's cup of tea, and
+that's why the operators of the newly redesigned Terminal 1 at SFO Airport,
+which has recently been named "Harvey Milk Terminal" after the well-known gay
+activist from the 70s (<RBLINK>20060720#8</RBLINK>), installed so-called
+"hydration stations", where passengers can fill their own containers
+with Brita-filtered tap water. To prevent anyone from placing the rim of their
+bottle, which might be contaminated with germs, directly on the spout, the
+stations activate the water stream using a light sensor when a container is
+held under an upward-facing hole in the chrome frame of the station.
 
 <pic images/sfo-water-bottle.ps The kiosk sells these reusable bottles for five dollars.>
 
-Anyone who has forgotten to bring their own bottle can purchase pre-filled reusable bottles with water at the kiosk for four or five dollars, available in two different sizes. By the way, the filling machine looked strangely familiar to me: in our fitness center at Apple, where no plastic bottles are distributed anymore, there is exactly the same unit from the company "Elkay." With this, San Francisco officially enters the heavenly realm of environmental angels.
+Anyone who has forgotten to bring their own bottle can purchase pre-filled
+reusable bottles with water at the kiosk for four or five dollars, available in
+two different sizes. By the way, the filling machine looked strangely familiar
+to me: in our fitness center at Apple, where no plastic bottles are distributed
+anymore, there is exactly the same unit from the company "Elkay." With this,
+San Francisco officially enters the heavenly realm of environmental angels.
 
 @Z: Trump's re-election 2020
 
 <pic images/election-2016.ps Trump won the election in 2016. Will he be re-elected in 2020? Source: Wikipedia>
 
-<em>Angelika</em>In the last newsletter, I promised to explain why we have great concerns that Trump might be re-elected. As I said, I would be very happy if my prediction turns out to be wrong. But why do I hold this opinion? It is true that a lot can happen before the actual election date in November 2020, but anyone who thinks that Trump will be removed from office is living in a fantasy world, because the Republican-dominated Senate will never turn its back on Trump.
+<em>Angelika</em> In the last newsletter, I promised to explain why we have
+great concerns that Trump might get re-elected. As I said, I would be very happy
+if my prediction turns out to be wrong. But why do I hold this opinion? It is
+true that a lot can happen before the actual election date in November 2020,
+but anyone who thinks that Trump will be removed from office is living in a
+fantasy world, because the Republican-dominated Senate will never turn its back
+on Trump.
 
-However, one of the glaring mistakes of the Democratic candidates is that they are aiming for a revolution instead of focusing on preventing Trump's re-election. Ultimately, everything boils down to the Democratic base and the American electoral system. The base wants to see a radical change in direction after four years of Trump. Therefore, they are backing candidates like Elizabeth Warren and Bernie Sanders, who advocate more left-leaning ideas by American standards. One such idea is to replace private health insurance, which many receive through their employers, with a state-managed health insurance system. Additionally, Elizabeth Warren has set a goal to break up large and powerful companies like Google, Amazon, and Facebook to curb their influence.
+However, one of the glaring mistakes of the Democratic candidates is that they
+are aiming for a revolution instead of focusing on preventing Trump's
+re-election. Ultimately, everything boils down to the Democratic base and the
+American electoral system. The base wants to see a radical change in direction
+after four years of Trump. Therefore, they are backing candidates like
+Elizabeth Warren and Bernie Sanders, who advocate more left-leaning ideas by
+American standards. One such idea is to replace private health insurance, which
+many receive through their employers, with a state-managed health insurance
+system. Additionally, Elizabeth Warren has set a goal to break up large and
+powerful companies like Google, Amazon, and Facebook to curb their influence.
 
-To secure the nomination for the Democratic Party, Warren and her team must win the primaries in the individual states. In these primaries, die-hard Democrats cast their votes, typically those who want a revolution. Currently, in some states like Iowa or New Hampshire, which hold their primaries first, Elizabeth Warren is leading according to polls, closely followed by Bernie Sanders. On a national level, however, Joe Biden is still the frontrunner. The problem now is that if Joe Biden does not win the primaries in the early-voting states, the entire election machinery can take on a life of its own, and campaign donations are more likely to flow to the winners. Consequently, the field of Democratic candidates may thin out because many simply run out of money.
+To secure the nomination for the Democratic Party, Warren and her team must win
+the primaries in the individual states. In these primaries, die-hard Democrats
+cast their votes, typically those who want a revolution. Currently, in some
+states like Iowa or New Hampshire, which hold their primaries first, Elizabeth
+Warren is leading according to polls, closely followed by Bernie Sanders. On a
+national level, however, Joe Biden is still the frontrunner. The problem now is
+that if Joe Biden does not win the primaries in the early-voting states, the
+entire election machinery can take on a life of its own, and campaign donations
+are more likely to flow to the winners. Consequently, the field of Democratic
+candidates may thin out because many simply run out of money.
 
-The problem with Elizabeth Warren and Bernie Sanders, on the other hand, is that if they were to run against Trump, they would need votes from independents and moderate voters to win the so-called "swing states," which are the states that sometimes go to the Democratic candidate and other times to the Republican candidate. Without these states, no candidate can become president due to the electoral college system, as it is not enough to have the majority of the direct votes. Unfortunately, Joe Biden has not exactly shone in the debates. Now, the former mayor of New York has also entered the race for the Democrats: Mike Bloomberg, who is considered pragmatic and moderate and, above all, has enough money to finance his own campaign. Many believe that he thought about this too late and, moreover, could take votes away from Joe Biden. A drama without end, which will hopefully not end in a catastrophe.
+The problem with Elizabeth Warren and Bernie Sanders, on the other hand, is
+that if they were to run against Trump, they would need votes from independents
+and moderate voters to win the so-called "swing states," which are the states
+that sometimes go to the Democratic candidate and other times to the Republican
+candidate. Without these states, no candidate can become president due to the
+electoral college system, as it is not enough to have the majority of the
+direct votes. Unfortunately, Joe Biden has not exactly shone in the debates.
+Now, the former mayor of New York has also entered the race for the Democrats:
+Mike Bloomberg, who is considered pragmatic and moderate and, above all, has
+enough money to finance his own campaign. Many believe that he thought about
+this too late and, moreover, could take votes away from Joe Biden. A drama
+without end, which will hopefully not end in a catastrophe.
 
 Greetings from the land of crazy politics:
 
