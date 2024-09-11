@@ -1,0 +1,175 @@
+San Francisco, 04-30-2019
+
+@Z: App of the Year: Citizen
+
+<pic images/citizen-car-broom.ps A citizen reported that a madman is hitting parked cars with a broom in our neighborhood.>
+
+<em>Michael</em> Just like me, more and more people are getting upset about the
+increasing neglect and lawlessness in the city of San Francisco. Therefore, it
+is not surprising that enterprising internet people are thinking about how
+technology could get the situation back under control. For example, the app
+"Citizen" (its slogan is: "Protect the World") collects police reports,
+processes them by location and time, evaluates them, and then immediately
+alerts the user's phone if something happens within the set action radius.
+
+<pic images/citizen-bart.ps Two rascals snatched a laptop from a passenger on the BART subway.>
+
+And things happen in San Francisco every few minutes: Here, someone smashes a
+car window, there, a homeless person climbs over a fence, here, a robber
+snatches a tourist's wallet, there, a few teenagers are brawling. Users are
+allowed to make funny comments about the crimes or even "go live," meaning they
+can turn on their phone camera if they see a house on fire from their window or
+want to film the emergency responders at an accident scene. The whole thing is
+really exciting, and sometimes even hilarious, because completely crazy things
+happen all the time, like a homeless person throwing trash at passersby or a
+madman swinging a long iron rod around.
+
+<pic images/citizen-trash.ps The police have been dispatched because a madman is throwing garbage at pedestrians in the city.>
+
+Citizen employs specialists who translate police reports into formally correct,
+but extremely entertaining, snarky American English. When a bum hits parked
+cars with a broom, Citizen reports "Man Whacking Cars with Broom," which
+perhaps a teenager would say rather than an adult, but that's exactly what
+makes it entertaining.
+
+Since Citizen knows where the user lives (or alternatively where they are
+currently located), users immediately receive a notification on their screen if
+something happens in the nearby area. Last Friday, I was working from home when
+suddenly a notification came in that the fire department was extinguishing a
+burning car five streets away. I immediately ran downstairs, grabbed an
+electric rental bike, rode past the scene with my phone in hand,
+and
+<LINK>https://i.citizen.com/-LaRHCaKCr-shI7gaO2U|went live"|Michael reports live on Citizen</LINK>. What you see there is my video, bravely recorded
+despite the stinking plumes of smoke! However, Citizen employees apparently
+envision live reports to be a bit more professional, because I immediately
+received an email (see Figure (#1)) pointing out that instead of silently
+recording just a few seconds, I should have kept the camera rolling longer and
+commented on the events live. There's still a lot to improve on that!
+
+<pic images/citizen-email.ps (#1) Citizen instructs the amateur reporter to keep recording longer and to comment on the events live.>
+
+The app is relatively new, currently covering only the San Francisco Bay Area
+and New York City, but it is spreading like wildfire, especially among all the
+trendy city kids who seem to be using it. Even
+the
+<LINK>https://www.nytimes.com/2019/03/17/style/citizen-neighborhood-crime-app.html|concerned hippies at the New York Times</LINK> are already getting worked up about it! Highly
+recommended!
+
+TODO
+
+@Z: Top product "Stasher": Environmentally friendly plastic bags
+
+<pic images/hawaii-plastic-trash.ps In the tropical paradise of Hawaii, the ocean washes up plastic waste, which the residents regularly collect.>
+
+<em>Angelika</em>Even in the land of packaging mania, it has now become widely known that things cannot continue as they are with waste. Above all, plastic waste needs to be reduced. Many Americans have been alarmed by the vast amounts of plastic waste floating in the ocean. In Oahu, where we were just on vacation, our favorite beach in Waimanalo had more plastic waste than usual this time, disrupting the paradisiacal image of the super fine, almost white powdery sand. Of course, depending on the weather and currents, more can be washed ashore, but if nothing is floating in the ocean, nothing can be washed ashore.
+
+<pic images/ziplock.ps Traditional ziplock bag in which Michael transports his wax for the surfboard on vacation.>
+
+The fight has been declared particularly against plastic straws since images of turtles with straws stuck in their noses have been circulating on the internet. In California, restaurant visitors have only been receiving a plastic straw upon request since January. Starting in July 2019, plastic straws will be completely banned in San Francisco, and only paper straws will be allowed. A start has been made, although the whole thing seems more like a drop in the ocean. I hope that we will see an anti-plastic campaign in the USA, comparable to the anti-smoking campaign. The wheels often turn very slowly here, but once the bell has rung, it is tackled with enthusiasm and almost pedantry: smoking is now as frowned upon here as in no other country. Perhaps a similar triumph can be achieved with plastic waste.
+
+<pic images/stasher-bbb.ps Reusable "Stasher" plastic bags at the department store "Bed Bath and Beyond".>
+
+In the meantime, one keeps asking oneself: What can I do to produce as little waste as possible? Of course, we diligently separate our waste and recycle, but it seems that much of it still ends up in incineration plants or landfills since China no longer wants our supposedly recyclable waste. The first cities in the USA are actually discontinuing their recycling programs because they can no longer sell the waste to Asia and don't know what to do with it. For example, Philadelphia burns the majority of its waste. The absurdity of shipping waste to China for recycling drives every environmentalist to despair. I also often feel like plastic packaging is practically stalking me. For instance, I get frustrated every time I see cucumbers wrapped in plastic. The deeper meaning of this measure has so far eluded me. Apparently, cucumbers stay fresh longer in plastic wrapping. However, the plastic is usually difficult to remove, and I prefer cucumbers without it. But I do wonder if the cucumbers that are sold without plastic were previously wrapped and the store removed the plastic to give the customer a clear conscience.
+
+<pic images/stasher-dishwasher.ps The environmentally conscious consumer simply washes the reusable plastic bags in the dishwasher.>
+
+I must confess that I find "Ziploc Bags" super practical. The resealable plastic bags, which come in various sizes, are suitable for storing food in the refrigerator or for safe transportation. Even cosmetics are securely packed in these bags, and if an accident happens and the shampoo leaks, everything stays in the bag and doesn't end up in the suitcase. At the megastore Costco, there are "Ziploc Bags" in bulk packs, for example, 216 bags in the size 17.7 x 18.8 cm, which are suitable for freezing, for 16 dollars. Cheap, but not exactly environmentally friendly, even if you don't throw the plastic bags away after a single use.
+
+But recently, there has been an alternative for all Ziploc fans from the company.<LINK>https://www.stasherbag.com|Stasher" is not a word in standard English. It might be a brand name, a nickname, or a term from another language. If you provide more context, I can help you better understand its meaning or find an appropriate translation.</LINK>.. which is headquartered in Emeryville, about 17 kilometers northeast of San Francisco. The bags are made of food-grade silicone, not plastic, and are supposedly designed to last forever. The material is significantly thicker than that of plastic bags, and the Stasher bags are resealable, dishwasher-safe, and can be used for freezing, microwaving, and even cooking (sous-vide method in the bag). I have now started a test phase and am satisfied so far. The bags have been washed several times in the dishwasher, have not suffered any damage, and have come out perfectly clean. The closure takes some getting used to, and you have to press firmly to ensure it is properly sealed, but the idea is good, and I am happy to support it. The relatively young company is now coming out with new sizes and is currently experiencing a bit of a boom after their product was featured on the show "Shark Tank," with Mark Cuban investing $400,000 in capital. The price of the bag is, of course, not insignificant. A single bag, which can hold a well-filled sandwich ("Sandwich Bag"), costs $12. By the way, I have seen that the Stasher bags are also available on Amazon Germany if you want to start a test phase as well.
+
+@Z: Louvered window in Hawaii
+
+<pic images/hawaii-window-1.ps When the glass louvers are open, the mild breeze flows through the apartment, providing a pleasant cooling effect.>
+
+<em>Michael</em>As we all know, we travel to Hawaii every year for one or two weeks and always enjoy our vacation there very much. Since we rent private houses and don't stay in hotels, we get more of a sense of how Hawaiians live. On the islands, it is never scorching hot, but during the day the temperature does climb to around 30 degrees Celsius, and at night it cools down to about 25 degrees. Air conditioning is rather uncommon in private houses; instead, architects take advantage of the fact that there is usually a gentle breeze and install special louvered windows. These consist of about ten glass louvers arranged one above the other, which a mechanism rotates simultaneously via a lever on the window frame, so you can either set them all vertically to create an (almost) closed glass front, or set them all horizontally so that the window is practically completely open, or any position in between these extremes.
+
+<pic images/hawaii-window-2.ps When the glass louvers are closed, the noise stays outside.>
+
+In Hawaii, practically everyone sleeps with the windows wide open throughout the house, but the glass louvers prevent wrongdoers from coming and going freely. However, they do not protect against the ubiquitous noise that starts in residential areas as early as 6:30 in the morning when people are heading to work. Hawaiians like to get up early so they can finish work by three in the afternoon, go home, and still have time to go to the beach. The gardeners' favorite machines for removing trimmed palm fronds and bushes, so-called leaf blowers, often require closing the windows if you are at home during the day, unlike your neighbors.
+
+<pic images/hawaii-window-wall.ps High property walls provide privacy despite open windows.>
+
+The windows that are left wide open throughout the house are also a reason why almost everyone in Hawaii surrounds their property with towering wooden fences or shingle-like stacked stone walls: This way, the neighbor can't just peek into the bedroom across the way.
+
+@Z: Teachers Pay Teachers
+
+<pic images/tpt-board.ps Materials from "Teachers Pay Teachers" in use in Angelika's class.>
+
+<em>Angelika</em>Due to my job change, I teach the subject "Social Emotional Learning" in my second-grade class every day, a 40-minute lesson on positive social behavior. We have core topics that we need to cover in a school year, such as peaceful conflict resolution, fostering class community and friendships, strategies for reducing aggression, learning to lose, etc., but we also have a lot of freedom in how we approach the individual topics and what materials we want to use.
+
+Through my previous job with autistic children and by leading social groups for these children, as well as the summer camps I designed, I already have many materials and activities at my disposal that I can use in my second-grade class. However, when my colleague who taught elementary school subjects abruptly resigned in February, I also took over social studies, science, and art for a few weeks until we found a substitute teacher to cover until the end of the school year. Since I am not a trained elementary school teacher, I had to familiarize myself with the entire subject matter. 
+
+In the USA, there is something like a curriculum ("Common Core Standards") in each state, which outlines what needs to be taught in each subject and what the children must have learned by the end of the school year. I was only able to take on this role because we are a private school and not a public one, as in public schools, you can only teach if you have a California Teaching Credential. By the way, the subject "Social Emotional Learning" is generally not an official subject in schools. This is something very special about our school.
+
+<pic images/tpt-cards.ps Ready-made cards for lessons from 'Teachers Pay Teachers'.>
+
+Sure, here is the translation:
+
+"So I browsed through the teaching materials we have at our school, but of course, I also consulted the internet to make the lessons interesting for my students. The internet portal<LINK>https://www.teacherspayteachers.com|Teachers Pay Teachers</LINK>Teachers Pay Teachers" is my absolute favorite. On the website, teachers can find materials and fully developed lesson plans that they can purchase for a small fee. The idea is brilliant because creating materials involves a significant amount of time. Additionally, everyone benefits from the ideas of others. For example, I often buy materials from the site, which I then use as a basis but modify for my purposes and my students.
+
+The idea came from Paul Edelman, a teacher from New York, who founded "Teachers Pay Teachers" in 2006. Meanwhile, three million prepared lesson plans or other materials are available for sale on the portal. Five million teachers use the service. The materials are organized by subject and grade level. To purchase materials on the site, the buyer only needs to register, which is free, and can then shop using a credit card or PayPal. Most materials are simply downloaded in PDF format and are ready to print. Depending on the extent of the offered materials, they often cost between $2.50 and $5. That is usually what I spend. There are also entire learning units available for purchase, which can cost $15 or even up to $30.
+
+<pic images/tpt-game.ps A finished board game from "Teachers Pay Teachers".>
+
+To sell something on the site, the interested party must register as a buyer. There are two models available. One is free, while the other costs the seller $59.95 per year. If the teacher who wants to offer their products on the site chooses the free option, "Teachers Pay Teachers" charges a fee of 30 cents per transaction, and the teacher receives 55% of the sale price. The second option, with the annual membership fee, increases the seller's share to 80%, and the transaction fee drops to 15 cents for orders under $3. There are also other rules that sellers must follow, such as ensuring that the materials they sell on "Teachers Pay Teachers" are not made available for free elsewhere on the internet by them. Incidentally, many also offer free items on the portal.
+
+There are some teachers who have now given up classroom teaching and use "Teachers Pay Teachers" as their main source of income because it is more profitable for them, although this is probably the exception. Most, however, earn a decent amount of pocket money from it. By the way, there are critical voices that say the exchange of materials between colleagues should not cost anything. I don't see it that way. Why shouldn't one be compensated for something they have spent hours working on?
+
+@Z: Polished cars as an obsession
+
+<pic images/griots-catalog-title.ps The brochure of the car detailing supply company "Griot's Garage".>
+
+<em>Michael</em>Let's put it this way: I work at a company where a considerable number of employees are immensely wealthy by German standards. And how do you think someone who has, for example, 500 million dollars in their account, which is not uncommon, gets to work? Naturally, with a status-appropriate car. Sports cars from German manufacturers are a dime a dozen, so the higher earners tend to prefer something like a Lamborghini Huracan or a McLaren 720s.
+
+<pic images/griots-catalog-rr.ps Although Michael has never been seen polishing his cars, he enjoys reading the product descriptions in the bathroom.>
+
+In Germany, no one flaunts their wealth so openly. What would the neighbors think if it suddenly became clear that the simple farmer from the countryside is sitting on a naturally inherited fortune worth millions? He might buy himself a BMW 3 Series station wagon because the neighbor has the same one, so it doesn't start the gossip right away. In my youth, I once hitchhiked with someone who was the branch manager of a small Edeka store in the countryside. He drove a Honda CRX and told me that he absolutely couldn't buy a Porsche because it would cause bad blood in the village and no one would shop at Edeka anymore.
+
+Since Americans generally aren't as obsessed with the paint on their cars, I didn't know for a long time that there is also a considerable number of total car enthusiasts who polish their vehicles like crazy until they can see their reflection in them. The technical term for this is "detailing," and car owners typically pay a few hundred dollars for this service at car wash businesses so they can sell the car at a high price afterward. During this process, an employee really gets into the pores and even uses cotton swabs to remove the last bit of dirt from the smallest crevices. I've also heard of car enthusiasts who spend a few thousand dollars at the detailer for special waxing techniques and mirror-like finishes.
+
+<pic images/griots-catalog-clay.ps To make the paint shine so much that you can see your reflection in it, the polisher rolls a piece of clay over it.>
+
+The typical car enthusiast ("car nut") usually washes and polishes their car at home themselves because the workers at car washes are allegedly too rough and leave circular scratches in the paint ("swirl marks"). To do this, they buy all sorts of special cloths and chemical miracle products from specialty stores, and one such store is "Griot's Garage" online. I believe I receive their catalog because I typically order car tires online from Tirerack.<RBLINK>20100509#5</RBLINK>) and these rascals probably forwarded my email to the polish supply company, but whatever: Although I have never been seen polishing one of our cars, I do enjoy leafing through this brochure while on the toilet. A highly praised special cloth can easily cost $70, or a lump of clay ("clay bar") that sucks the last bits of dirt from the paint costs $22. I would never buy it, but the publication from "Griot's Garage" is a great read, and I can highly recommend it.
+
+@Z: Trouble at Amazon
+
+<pic images/commingling.ps Counterfeit alert at Amazon: Suddenly, instead of highly praised quality products, cheap goods are arriving at the end customer. Is "commingling" involved?>
+
+<em>Michael</em>Isn't it amazing that Amazon has so many goods in stock and usually delivers them at breathtaking speed? For example, if you live in San Francisco like we do, the ordered goods sometimes arrive on the same day. This is particularly remarkable in America due to the vast distances, because for shipping to deliver an order so quickly, the corresponding goods must already be in a warehouse that is less than a day's truck journey from the delivery location. To ensure this fast delivery for goods sold by third-party sellers on the Amazon platform, Amazon uses an interesting trick called "commingling." And this is how it works: As is well known, third-party sellers must actually store their goods in an Amazon warehouse of their choice so that Amazon can offer them for sale on their behalf. If a customer from a more distant part of the USA orders the goods, it would take forever by mail. However, if Amazon finds in this case that the same goods from another seller are in a warehouse closer to the end customer, it sends the customer those goods instead, since it's the same item anyway, and the delivery is much faster and cheaper!
+
+Sure, the translation of "Wie neulich in einem" to English is "Like recently in a".<LINK>https://ftalphaville.ft.com/2019/03/20/1553085361000/Amazon--sub-Prime-/|Article in the Financial Times</LINK>Sure, here is the translation to English:
+
+"However, this leads to problems if scam providers send inferior goods to the Amazon warehouse. The end customer has no idea that the ordered goods are not coming from the selected provider X through Amazon, but indirectly from a scammer. To top it all off, the customer will not blame the scammer for any defects found later, but rather provider X, who will be left speechless! I have also read reviews of products that praise the item highly up to a certain date, but then suddenly turn negative because obviously inferior products are reaching the end customer. Amazon still has a lot to fix here; this can't go on.
+
+@Z: Chow is closing down" or "Chow is shutting down.
+
+<pic images/chow-outside.ps The "Chow" at the corner of Market St./Church St. Photo: flickr[Brian McKechnie|bamcat/47638882]>
+
+<em>Michael</em>One of our most beautiful traditions in San Francisco until recently was to have lunch at least once a month on the weekend at the restaurant "Chow" at the corner of Market and Church Street. You should know that "Chow" is about 1.5 kilometers away from us, and on the way there, you have to cross a murderously steep hill as high as the Zugspitze. The path then leads through Dolores Park, where an indescribable hustle and bustle takes place on the weekends. All social strata of San Francisco gather there in a sometimes slightly rowdy get-together, and the marijuana clouds waft around.
+
+<pic images/chow-menu.ps The menu of the legendary Chow restaurant.>
+
+Most of the time, it was me who urged us to go to Chow, and despite countless visits, during the entire 22 years of our stay in San Francisco, I only tried two main dishes from the extensive menu: I always ordered either the "Chinese Noodles," pasta with an exotic ginger-heavy yellow sauce, or "Spaghetti with Meatballs," the American version of Bolognese with meatballs. Angelika always had the "Thai Style Noodles," and as an appetizer, we usually had Chinese "Wontons" with an indescribably delicious vinegar sauce and spicy chilis. Of course, the place always had a rotating selection of the finest microbrew beer on tap. So, at least once a month, usually in bright sunshine, we dragged ourselves over the hill, with Angelika often grumbling loudly. Because we normally didn't eat lunch until late, around 3:30 PM on weekends, the asphalt of the surely 40-degree steep sidewalk on the way there was often scorching hot, and our bones often still ached from the gym we had visited shortly before. We happily ate our favorite dishes at Chow, and afterward, we took a small detour via Valencia Street, where Angelika always found something to buy in the little shops, before heading back to our place.
+
+<pic images/chow-table.ps After the battle was fought: The bill came in the chow in the glass.>
+
+As I said, from our arrival in 1996 until 2019, year in and year out, it was a sacred tradition. But recently, the surprising news came that "Chow" suddenly closed its doors. It also operated two other branches, one at Golden Gate Park and one in the East Bay, but now all of them are closed. It almost looks like the owner maneuvered them into bankruptcy. What a shame! Now we are left with nothing and without our favorite restaurant, and at our age, we have to find a new one. That's just not fair!
+
+@Z: Photo show in San Francisco
+
+<pic images/photoex-hotel-del-sol.ps A tourist hotel as a gallery for a weekend>
+ 
+<em>Angelika</em>Those who know me well are aware that I not only thrive in my work with children but also have a passionate love for photography. I took advantage of our move to the USA to further develop and deepen this passion. At the beginning of our stay here, I wasn't allowed to work due to my dependent visa, which gave me the time to explore and investigate things that I had always neglected. Over 18 years ago, I also joined the photography collective.<LINK>https://www.bapc.photo|Bay Area Photographers Collective</LINK>Joined. I am still a member there, and we meet regularly to critique and review each other's photos.
+
+<pic images/photoex-framed.ps Angelika's framed photo in the exhibition>
+
+Highlights are always when we have the opportunity to exhibit our photos. Last weekend in April, this opportunity arose again, specifically at the so-called San Francisco.<LINK>https://www.startupartfair.com/about/mission|Startup Fair</LINK>That is a super interesting art market in San Francisco, and it's in an unusual place for art exhibitions. The whole thing doesn't take place in a gallery, but in a<LINK>https://www.jdvhotels.com/hotels/california/san-francisco/hotel-del-sol|Hotel del Sol" translates to "Hotel of the Sun" in English.</LINK>In San Francisco. For three days, it is not tourists and businesspeople who gather in the hotel, but artists. Every hotel room becomes an exhibition space. It's not just about photography. There are collages, sculptures, and, of course, paintings to see.
+
+<pic images/photoex-poster.ps The exhibition "Start Up San Francisco>
+<pic images/photoex-bed.ps The exhibits are draped on the bed of the hotel room.>
+
+Normally, one has to apply and a jury then decides whether the artist is allowed to exhibit at the event. The whole process is also associated with significant costs, as the artist has to shell out several thousand dollars to participate. Everyone naturally hopes to sell their art, but that's often easier said than done. One advantage is that participating artists do not have to pay a commission to the organizer on sales, which is common in galleries. However, we were lucky because we are considered a non-profit organization, and a few rooms in the hotel are allocated for such groups - so we didn't have to pay anything! Each of us participants displayed a framed photo on the wall in the hotel room and then additional photos in boxes that visitors could look through. Each of us also took a shift to be present in the hotel room, greet visitors, and answer questions. I was assigned to Sunday afternoon, and I must admit that the atmosphere was great. There was a steady stream of visitors, and I was also able to check out the other exhibitions. Unfortunately, we didn't sell anything, but we all had a lot of fun.
+
+Greetings from the West:
+
+Angelika and Michael
