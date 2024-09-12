@@ -296,17 +296,40 @@ from the paint costs $22. I
 would never buy it, but the publication from "Griot's Garage" is a great read,
 and I highly recommend it.
 
-TODO
-
 @Z: Trouble at Amazon
 
-<pic images/commingling.ps Counterfeit alert at Amazon: Suddenly, instead of highly praised quality products, cheap goods are arriving at the end customer. Is "commingling" involved?>
+<pic images/commingling.ps Counterfeit alert at Amazon: Suddenly, instead of highly praised quality products, cheap goods are being sold. Is "commingling" involved?>
 
-<em>Michael</em>Isn't it amazing that Amazon has so many goods in stock and usually delivers them at breathtaking speed? For example, if you live in San Francisco like we do, the ordered goods sometimes arrive on the same day. This is particularly remarkable in America due to the vast distances, because for shipping to deliver an order so quickly, the corresponding goods must already be in a warehouse that is less than a day's truck journey from the delivery location. To ensure this fast delivery for goods sold by third-party sellers on the Amazon platform, Amazon uses an interesting trick called "commingling." And this is how it works: As is well known, third-party sellers must actually store their goods in an Amazon warehouse of their choice so that Amazon can offer them for sale on their behalf. If a customer from a more distant part of the USA orders the goods, it would take forever by mail. However, if Amazon finds in this case that the same goods from another seller are in a warehouse closer to the end customer, it sends the customer those goods instead, since it's the same item anyway, and the delivery is much faster and cheaper!
+<em>Michael</em> Isn't it amazing that Amazon has so many items in stock and
+almost always ships and delivers them at breathtaking speed? For example, if
+you live in San Francisco like we do, the ordered goods sometimes arrive on the
+same day. This is particularly remarkable in America due to the vast distances,
+because to deliver an order so quickly, the corresponding goods must already be
+in a warehouse that is less than a day's truck journey from the delivery
+location. To ensure this fast delivery for items sold by third-party sellers on
+the Amazon platform, Amazon uses an interesting trick called "commingling." And
+this is how it works: As is well known, third-party sellers must actually store
+their goods in an Amazon warehouse of their choice so that Amazon can offer
+them for sale on their behalf. If a customer from a more distant part of the
+USA orders the items, it would take forever to ship them by regular mail.
+However, if Amazon finds that the same item from another seller is already
+located in a warehouse closer to the end customer, it sends the customer those
+goods instead, since it's the same item anyway, and the delivery is much faster
+and cheaper!
 
-Sure, the translation of "Wie neulich in einem" to English is "Like recently in a".<LINK>https://ftalphaville.ft.com/2019/03/20/1553085361000/Amazon--sub-Prime-/|Article in the Financial Times</LINK>Sure, here is the translation to English:
+As I recently read in an article by the
+<LINK>https://ftalphaville.ft.com/2019/03/20/1553085361000/Amazon--sub-Prime-/|Financial
+Times</LINK>, this leads to problems if scam artists send inferior goods to
+the Amazon warehouse. The end customer has no idea that the ordered goods are
+not coming from the selected provider X through Amazon, but indirectly from a
+scammer. To top it all off, the customer will not blame the scammer for any
+defects found later, but rather provider X, who will be left speechless! I have
+also read reviews of products that praise the item highly up to a certain date,
+but then suddenly turn negative because obviously inferior products are
+reaching the end customer. Amazon still has a lot to fix here; they better
+put a stop to this soon!
 
-"However, this leads to problems if scam providers send inferior goods to the Amazon warehouse. The end customer has no idea that the ordered goods are not coming from the selected provider X through Amazon, but indirectly from a scammer. To top it all off, the customer will not blame the scammer for any defects found later, but rather provider X, who will be left speechless! I have also read reviews of products that praise the item highly up to a certain date, but then suddenly turn negative because obviously inferior products are reaching the end customer. Amazon still has a lot to fix here; this can't go on.
+TODO
 
 @Z: Chow is closing down" or "Chow is shutting down.
 
