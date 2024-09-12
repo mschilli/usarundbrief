@@ -133,21 +133,43 @@ which can hold a well-filled sandwich ("Sandwich Bag"), costs $12. By the way,
 I have seen that the Stasher bags are also available on Amazon Germany if you
 want to start a test phase as well.
 
-TODO
+@Z: Jalousie windows on Hawaii
 
-@Z: Louvered window in Hawaii
+<pic images/hawaii-window-1.ps When the glass slates are turned to open, a mild breeze flows through, providing a pleasant cooling effect.>
 
-<pic images/hawaii-window-1.ps When the glass louvers are open, the mild breeze flows through the apartment, providing a pleasant cooling effect.>
+<em>Michael</em> As you all know by now, we travel to Hawaii every year for one or two
+weeks and always enjoy our vacation there very much. Since we rent private
+houses and don't stay in hotels, we get more of a sense of how Hawaiians live.
+On the islands, it is never scorching hot, but during the day the temperature
+does often climb to around 90 degrees Fahrenheit, and at night it cools down to about 75 
+degrees. Air conditioning is rather uncommon in private houses; instead,
+architects take advantage of the fact that there is usually a gentle breeze and
+install special louvered windows. These consist of about ten glass slates
+arranged one above the other, which a mechanism rotates simultaneously via a
+lever on the window frame, so you can either set them all vertically to create
+an (almost) closed glass front, or set them all horizontally so that the window
+is practically completely open, or any position in between these extremes.
 
-<em>Michael</em>As we all know, we travel to Hawaii every year for one or two weeks and always enjoy our vacation there very much. Since we rent private houses and don't stay in hotels, we get more of a sense of how Hawaiians live. On the islands, it is never scorching hot, but during the day the temperature does climb to around 30 degrees Celsius, and at night it cools down to about 25 degrees. Air conditioning is rather uncommon in private houses; instead, architects take advantage of the fact that there is usually a gentle breeze and install special louvered windows. These consist of about ten glass louvers arranged one above the other, which a mechanism rotates simultaneously via a lever on the window frame, so you can either set them all vertically to create an (almost) closed glass front, or set them all horizontally so that the window is practically completely open, or any position in between these extremes.
+<pic images/hawaii-window-2.ps When the glass panes are closed, the noise stays outside.>
 
-<pic images/hawaii-window-2.ps When the glass louvers are closed, the noise stays outside.>
-
-In Hawaii, practically everyone sleeps with the windows wide open throughout the house, but the glass louvers prevent wrongdoers from coming and going freely. However, they do not protect against the ubiquitous noise that starts in residential areas as early as 6:30 in the morning when people are heading to work. Hawaiians like to get up early so they can finish work by three in the afternoon, go home, and still have time to go to the beach. The gardeners' favorite machines for removing trimmed palm fronds and bushes, so-called leaf blowers, often require closing the windows if you are at home during the day, unlike your neighbors.
+On Hawaii, practically everyone sleeps with the windows wide open throughout
+the house, but the glass louvers prevent wrongdoers from entering.
+However, they do not protect against the ubiquitous noise that starts
+in residential areas as early as 6:30 in the morning when people are heading to
+work. Hawaiians like to get up early so they can finish work by three in the
+afternoon, go home, and still have time to go to the beach. The gardeners'
+favorite machines for removing trimmed palm fronds and bushes, so-called leaf
+blowers, often require closing the windows as well if you are at home during the day,
+unlike your neighbors who are at work during those hours.
 
 <pic images/hawaii-window-wall.ps High property walls provide privacy despite open windows.>
 
-The windows that are left wide open throughout the house are also a reason why almost everyone in Hawaii surrounds their property with towering wooden fences or shingle-like stacked stone walls: This way, the neighbor can't just peek into the bedroom across the way.
+The windows that are left wide open throughout the house are also a reason why
+almost everyone in Hawaii surrounds their property with towering wooden fences
+or shingle-like stacked stone walls: This way, the neighbor can't just peek
+into the bedroom across the way.
+
+TODO
 
 @Z: Teachers Pay Teachers
 
