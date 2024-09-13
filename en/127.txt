@@ -1,0 +1,156 @@
+San Francisco, 12-08-2018
+
+@Z: Smoke Cover Above the City
+
+<pic images/smog-freeway.ps Looks like an episode of The Walking Dead: a smoke cloud over downtown San Francisco due to a burning forest 60 miles north.>
+
+<em>Angelika</em> In November, San Francisco set a new, sad record. We
+officially had the worst air quality in the world, even worse than Beijing. The
+cause was a wildfire up north, in the small town of Paradise. Although the
+place is a good three-hour drive north, in Butte County, wind and weather
+brought the bad air filled with soot particles all the way to San Francisco. We
+lived for more than a week as if under a smog dome. The sun was never really
+visible, hidden behind a gray veil. It smelled like something was burning, and
+we kept all the windows tightly shut for the entire week. Ventilating and going
+outside was impossible, and we only did so if it was absolutely necessary. I
+have never longed for fresh air as much as I did during this week.
+
+TODO
+
+<pic images/airnow-map.ps The government smoke meter reports unhealthy air quality throughout the Bay Area due to the fire in Butte County.>
+
+There have always been fires in California, but they have never occurred so frequently or destroyed so much landscape and settlements. There are many reasons for this, such as drier winters with little rain due to the changing climate. I still remember well when we moved to San Francisco at the end of 1996. It was pouring rain, and I immediately felt at home because it rained and rained and rained just like in northern Germany. Nowadays, it rains occasionally in the winter, but not enough to sufficiently soak the vegetation and transform the gray hills into green oases. And a state where it doesn't rain during the other months of the year needs a lot of winter rain and snow in the higher elevations.
+
+<pic images/venice-power.ps Anyone who runs their electrical wiring so carelessly and close to flammable materials shouldn't be surprised if fires keep breaking out.>
+
+Furthermore, California is very densely populated by American standards, and human dwellings are located much too close to or within forested areas. The town of Paradise was practically built into the forest. A single spark was enough to start the inferno. It is not yet known with absolute certainty what caused the fire in Paradise, but it is suspected that a power line came loose due to the wind and began to spark.
+
+<pic images/airnow-chart.ps The Air Quality Index (AQI) has spiked to 156, so you should stay indoors.>
+
+Power lines in California typically still run above ground. Then, all it takes is a strong wind, and a disaster is almost inevitable. This is because the power lines often hang close to trees and branches. Our utility provider, PG&E (Pacific Gas & Electric), is now in such a predicament that many are speculating the company might go bankrupt due to the lawsuits filed and the potential compensation payments it may face. The last fire in Napa Valley a few years ago was already attributed to PG&E, and the resulting wave of lawsuits is keeping the courts busy.
+
+<pic images/air-quality-sf.ps San Francisco has made it to second place among the cities with the dirtiest air in the world.>
+
+Even in Paradise, some affected individuals have already sought lawyers, although it is still unclear what caused the fire. PG&E is now taking preventive measures by shutting off the power when the fire risk is too high. This preventive measure affected the Napa wine region in October, and small businesses had to cope with the loss of their daily income. In Calistoga, a place we regularly visit...<RBLINK>20060421#2</RBLINK>...lost a small café, the Calistoga Roastery, which we always frequent when we are there,<LINK>https://abc7news.com/weather/pg-e-wont-pay-claims-for-losses-suffered-by-calistoga-businesses/4644313|$3000 due to the power outage day | PGE does not pay compensation for power shutoffs due to fire risk</LINK>But it's not always the power lines that are to blame. Another fire in California started because a man was working on a metal fence post with a hammer in the middle of dried-out vegetation, causing sparks to fly.
+
+<pic images/twin-peaks-smog.ps Even our view of the Twin Peaks hill was occasionally obstructed.>
+
+Surprisingly, the fires are also worsening because they are being extinguished better and faster. This, too, is due to humans, because as houses increasingly border nature, firefighters try to save the houses and do not simply let the fire burn. However, smaller fires are important for land clearing and burn bushes and grasses that would otherwise fuel larger fires. In California, the topic of controlled burns is also becoming more prevalent, as they help prevent larger fires. Unfortunately, we will likely experience poor air quality from fires in San Francisco several more times, as the problem was ignored for decades, and solving it now requires a lot of money and time.
+
+<pic images/skyline-smog.ps Due to the smoke plumes from the Camp Fire in Butte County, smoke is hanging over the city.>
+
+@Z: Top product: Air purifier from Levoit
+
+<pic images/levoit.ps The air purifier against the smoky outdoor air.> 
+
+<em>Angelika</em>Due to the poor air quality, not only were respirator masks in San Francisco highly sought after and frequently sold out, but air purifiers for living spaces also enjoyed great popularity. We, too, purchased one from the company Levoit, which is headquartered in Anaheim near Los Angeles. The LEVOIT LV-H132 humidifier not only looks good but is also supposed to filter harmful particles from the air in living spaces. We definitely ran ours extensively to ensure that even the last fine soot particles disappeared from our living spaces.
+
+@Z: Annoying Voices: Vocal Fry and Upspeak
+
+<pic images/laryngoskop.ps Doctor examines cooing millennial. Source: Wikipedia>
+
+<em>Michael</em>To find out why many Germans speak English with a terrible accent, you only need to listen closely to a native English speaker and pay attention to the intonation. While German has hardly any tonality, English is pure sing-song. Americans raise and lower their voices several times in a sentence, while Germans continue to drone on at the same pitch. To pronounce English correctly as a foreign language, Germans have to make a real effort and incorporate melodies like a canary. Because I only speak English at work, I have already adopted such a sing-song that I regularly have to pull myself together when I speak German so that it doesn't sound Americanized.
+
+The American youth of the last 10 years have now gotten into the habit of expanding this sing-song with a few more components, so much so that it regularly infuriates narrow-minded adults like me when I have to listen to brain-dead chatter with these mannerisms. The first bad habit is the so-called "upspeak," the raising of the voice at the end of a sentence. While this is normal for questions, it shouldn't be done at the end of every sentence, but that's exactly what Millennials do these days: "So I went to the cafe? Ordered a drink? It was pretty expensive?" It's enough to drive you crazy.
+
+<HTMLONLY>
+
+<HTMLONLY>
+
+The second bad habit is the so-called<LINK>https://en.wikipedia.org/wiki/Vocal_fry_register|Vocal Fry</LINK>..and for that, I need to elaborate further. Humans have a total of three so-called registers that determine the pitch of spoken (or sung) language, regulated by the "glottis," a gap in the throat between the vocal cords. In the normal state of this gap, humans speak with a normal pitch. When the vocal cords are tightly constricted, falsetto is produced, which means overtones. Serious people don't do this, but if the vocal cords are relaxed so that air bubbles through the gap with a vibrating sound, the so-called strohbass, also known as the fry register, is created. In English, this is called "vocal fry" or "creaky voice," and this register is spreading almost epidemically among young women and gay men.
+
+Prominent fashion dolls croak and coo these days, making one feel quite different. The sound is not easy to describe; if you have never consciously noticed it, it's best to listen to it on the referenced YouTube videos and pay attention! It sounds completely idiotic, this croaking. But if an uneducated young woman is sitting in some talk show, you can time it with a stopwatch until she starts croaking. What are these young people thinking these days? Nothing is spared for me either.
+
+@Z: Goodwill pop-up branches
+
+<pic images/goodwill-inside.ps Randomly set up, but selling junk like hotcakes: The goodwill pop-up.>
+
+<em>Michael</em>We don't exactly live large in a small city apartment, so we have to save space and always make sure that old junk we no longer use disappears quickly. That's why every six months we go through our wardrobe and ruthlessly sort things out. The old T-shirt that keeps getting pushed further down the pile and hasn't been worn for six months? Out it goes. The pants that are too tight? Goodbye. Or the old computer monitor that's still good but has been replaced by newer technology? It all has to go.
+
+<pic images/goodwill-entrance.ps There's always something going on at the Goodwill popup station.>
+
+But where to put it? There is no market for used clothing or household items on eBay, and selling them through local internet forums like Craigslist or a self-organized...<LINK>http://usarundbrief.com/51/p2.html|Garage-Sale" translates to "Garage Sale" in English.</LINK>It often involves more work than planned. Therefore, it makes sense to drop off items you no longer need at one of the many places for donations. So-called thrift stores accept items as donations and later sell them profitably in the store. Depending on the organization, the proceeds then go to a good cause.
+
+<pic images/goodwill-container.ps Goodwill hires people and pays them with donations in kind.>
+
+Goodwill is one of the most professional thrift stores with more than 3,200 branches worldwide. What I particularly like about the store is that it is run with an iron hand. The employees are on the ball. If you come in with stuff, someone immediately rushes over, takes it, and the form for tax deduction is already prepared. You simply write down how much the individual items are still worth, and that's it. I've never stood at the drop-off for longer than 5 minutes.
+
+<pic images/goodwill-flyers.ps The strict regulations of the Goodwill store.>
+
+Furthermore, Goodwill pays extreme attention to cleanliness; the stores are spotless like boutiques, and there are no homeless people hanging around treating the place like their living room. The fact that Goodwill's leadership is criticized for high earnings...<LINK>https://en.wikipedia.org/wiki/Goodwill_Industries|Wikipedia | Criticism of Bonuses for Goodwill's Executive Team</LINK>Criticism is laughable, in my opinion; good leadership personnel simply costs money. Moreover, they don't just throw the proceeds at some aggressive good-for-nothings who would just run to the next drug dealer, but rather support projects that reintegrate socially unfortunate individuals back into the workforce. This is not a given in San Francisco, where the motto "a lot of money helps a lot" leads to tax money being aimlessly showered on the homeless, but things have been going downhill for decades.
+
+However, Goodwill by no means accepts all donations. Old household appliances like refrigerators or dryers likely take up valuable sales space, and they also turn away mattresses and large furniture pieces. I even had trouble getting rid of a few still good-looking Ikea shelves; I had to drive around a bit, but eventually, a thrift store in the Mission District took pity on me and accepted them for free.
+
+<pic images/goodwill-table.ps A well-preserved dining table at Goodwill for a low price.>
+
+Now, retail space in San Francisco costs a fortune, and it's hardly possible to recoup that with a thrift store. However, some commercial buildings also stand temporarily vacant while their owners look for new tenants, and that's when Goodwill steps in and sets up a so-called pop-up, a kind of temporary sales area that springs up like a pop-up book, with a sales floor separated from dilapidated building parts only by curtains. For example, a year ago, the sporting goods store "Sports Authority" on Folsom Street in San Francisco's SoMa district went bankrupt. It had operated a huge department store, and suddenly, a Goodwill pop-up moved in, which has been bustling there for half a year now. We've already donated items there twice. The store is always full, and items sell as quickly as they arrive; it's pure joy to watch the hustle and bustle. We even browsed the small furniture section, saw some beautiful pieces that almost looked antique, but unfortunately, as I said, there's no space in our home—maybe in another life!
+
+@Z: Exchange coins with Coinstar
+
+<pic images/coinstar-screen.ps The Coinstar machine in the supermarket accepts coins and issues vouchers for a fee.>
+
+<em>Michael</em>Like a good American, I now confidently present my credit card when I buy rolls for $2.50 at the supermarket, even though Angelika later gets upset when she compares the charge on the credit card statement with a receipt that is often missing. But hardly anyone pays in cash in the USA, except for people who can't get a credit card.<RBLINK>20100725#4</RBLINK>Have I ever told you about the pointless American small change, and since then not much has changed.
+
+<HTMLONLY>
+
+If I do pay with a bill, I get change back that I never spend again in my life, because I no longer carry coins with me, only bills in my pocket for absolute emergencies, like if the financial system collapses and in an apocalyptic world like in the Mad Max movies, only hard currency ensures survival. Therefore, I immediately deposit received coins in a small designated cup when I get home. Once a quarter, I empty the cup and put nickels, dimes, and quarters (5, 10, 25-cent pieces) into a Ziplock bag, which I then take to our card game in our Schafkopf round. I try to offload as many coins as possible to my fellow players and mainly collect bills. The 1-cent pieces, also called pennies, are not allowed by my card-playing brothers and sisters, so I collect them in another Ziplock bag, and when about 500 have accumulated, I take them to the Coinstar machine at the Safeway supermarket.
+
+<pic images/coinstar-receipt.ps Coinstar takes 12 cents from every dollar in coins for exchanging.>
+
+There, the machine swallows coins without complaint, counts them with a loud clatter, and then issues vouchers after deducting a 12% fee, which can be redeemed at the supermarket checkout. That's quite steep, but carrying around all that loose change is really annoying to me. Coins are indispensable as cash, although one could discuss abolishing cents and rounding up or down to the nearest 5 cents. Cash itself is not a bad thing as an anonymous means of payment, but I predict it will soon be abolished anyway, both in Europe and America. The state is simply too interested in knowing who pays what, when, and where.
+
+@Z: Large companies should pay for the homeless.
+
+<pic images/sfmental.ps An obviously mentally confused homeless person in the Financial District.>
+
+<em>Michael</em>Our visitors from Germany are regularly shocked by the number of homeless people hanging around in San Francisco. It has become normal for them to set up tents right in the middle of the sidewalk, forcing regular pedestrians to walk on the street. And the police don't even come anymore when someone randomly smashes car windows to rummage inside for something to sell; this has become as much a part of the cityscape as the Cable Car. Recently, we saw someone in the middle of the city selling a whole stack of vacuum-sealed meat from the supermarket out of his anorak.
+
+<pic images/mission-meat.ps Man sells supermarket meat on the street.>
+
+San Francisco spends $305 million annually on the estimated 7,500 homeless people. Now,<LINK>https://www.sfchronicle.com/bayarea/heatherknight/article/Businesses-must-contribute-more-to-city-s-13178743.php|Left-liberal voices</LINK>Not tired of emphasizing that one should by no means divide it to determine the alarming expenditure of more than $40,000 per homeless person per year, but rather take into account that the city also uses the money to pay the rent for people who would otherwise slip into homelessness.
+
+In my opinion, the problem is that those responsible do not have to account for the fact that the problem gets worse every year. Why do they present higher homelessness numbers each year despite annual expenditures in the millions? There is simply a lack of uncovering misconduct and holding people accountable, both the failures in the city administration and the homeless who, despite offered help, continue to make their living through burglaries.
+
+The topic is, of course, endlessly discussed, and last year someone came up with the hot idea of throwing even more money at the problem—maybe it will get better! However, there was nothing in the city coffers, but in recent years, wealthy internet companies like Salesforce and Twitter have settled in the downtown area, and they are swimming in money! As always in such cases of financial shortage, San Francisco lets the citizens decide, and their voting behavior is 100% predictable when it comes to taking money from wealthy people or companies, as long as it doesn't cost them personally anything.
+
+Badda-bing-badda-bum, on November 6 (parallel to the Midterm elections) in San Francisco, there was a vote on...<LINK>https://ballotpedia.org/San_Francisco,_California,_Proposition_C,_Gross_Receipts_Tax_for_Homelessness_Services_(November_2018)|Prop C|Prop C Referendum</LINK>Translated to English:
+
+"voted, and about 60% of the voters voted 'Yes'. From now on, companies with over 50 million in revenue must contribute between 0.175% and 0.69% to the homelessness fund, and large companies with over 1 billion in revenue must donate 1.5% of their payroll costs. If you're thinking 'Taxing revenue is madness, why not tax profit?', I completely agree with you.
+
+<pic images/3carts.ps The belongings of homeless people are lying around everywhere.>
+
+This is, however, not yet the end of the story, because as soon as the vote was over, prompt reactions followed.<LINK>https://www.sfchronicle.com/bayarea/article/SF-puts-brakes-on-Prop-C-homeless-measure-13372179.php|Legal concerns on the agenda" or "Legal concerns regarding Prop C</LINK>According to California's constitution, tax increases decided by a public vote require a two-thirds majority. Consequently, a tax association promptly filed a lawsuit with the California Supreme Court, and now the matter is on hold. The companies do have to pay the levy, which is supposed to funnel a total of 250 to 300 million dollars into the homelessness fund, but the city is not allowed to spend any of it until the matter is legally resolved. I wouldn't hold my breath for that long.
+
+@Z: New job for Angelika
+
+<pic images/school.ps Angelika's new school.>
+
+<em>Angelika</em>After almost twelve years of service at the behavioral therapy early intervention facility for autistic children, I finally made the leap and changed jobs at the end of August. After twelve years, you do get into a bit of a rut. You know your way around, understand how the place operates, and have a thousand concerns about starting something new because no one can predict exactly what will come. I'm not exactly a young sprout anymore, and I also struggle with the fact that no one here really knows my qualifications. I am a certified special education teacher and additionally studied at a university of applied sciences. Back in my day, there were no other options, but studying at a university of applied sciences is often faster if you don't count the various internships that students usually have to complete and the recognition year. When converting degrees to the American system, however, usually only the years spent at the university count, and degrees from universities of applied sciences are often equated with the American bachelor's degree and are not considered higher degrees, which are called "masters" here. This is a somewhat skewed assessment because the bachelor's degree in America is more like a combination of the German Abitur and the preliminary diploma. Thus, the American bachelor's student still has to take general education courses such as English, math, and history and hardly specializes. The problem was that, although I am well-trained by German standards with a lot of experience, I lack the master's degree by American standards, and the positions that only require a bachelor's degree here are often subordinate and poorly paid.
+
+In my industry, things are often very bureaucratic. Many institutions receive government funding. The autism therapy that I provide has been financed by health insurance companies for some time now. That's when the red tape kicks in, while in other industries, like the software industry, things are a bit more relaxed and people with unusual backgrounds or degrees can certainly catapult themselves into good positions if they have the necessary talent or knowledge.
+
+But I digress, because I actually wanted to report how and what I landed for a new job. For quite some time, I had been occasionally checking the portal craigslist.org for interesting job opportunities. And one Sunday evening, I found a job listing that seemed tailor-made for me. So, I quickly revised my application, added a proper cover letter, and sent the application via email. The next day, I already received an invitation for an interview, which went well, and on the same day, the offer was on the table.
+
+So I took the leap and now work at a private school as a behavioral therapy specialist in San Mateo, about 30 km south of San Francisco. The school is still in its early stages and relatively small, essentially a start-up school. Currently, there are classes from kindergarten to sixth grade. Some classes are still combined because the number of students is still relatively low. For example, we have a third/fourth grade class where the children are taught together. The children at the school typically have behavioral issues such as hyperactivity or anxiety disorders; some in my class have autism. The students at our school are of normal or even above-average intelligence but have often had significant difficulties in regular schools due to their social behavior. Our classes are very small, and we have two staff members in each class, with a primary school teacher and a behavioral therapy specialist always present.
+
+I have a second-grade class together with my colleague, and we currently have six students. My colleague is responsible for the academic material, and I am responsible for behavior. I teach an hour every day focused on positive social behavior, called SEL (Social Emotional Learning), which I enjoy very much. The children in the class are not easy, and I have already sustained some injuries because some of my students are also aggressive. But I like the new challenge and the concept of our school very much, because otherwise the prevailing model here is that children are assigned an aide as needed to help them manage the material and integrate into the class.
+
+In this line of work, there are hardly any well-trained candidates here, and the pay is usually not good either. But our school follows the philosophy of team teaching, and my colleague and I are on the same level. Since the school is private, there are fewer government regulations, which in practice means that we also have more freedom in the classroom. In any case, I am glad that I had the courage to try something new again!
+
+@Z: Mega room antenna and SlingTV
+
+<pic images/antenna.ps The modern indoor antenna receives crystal-clear HDTV from the air.>
+
+<em>Michael</em>As is well known, I have long harbored a grudge against the cable monopolist Comcast, which dominates our region. We canceled our cable subscription at least ten years ago, and I have no intention of ever supporting that lousy company again.
+
+<pic images/sling.ps The Sling service provides channels that are not broadcast terrestrially.>
+
+For this reason, we are dealing with Third World internet through the phone cable (15mbit/1mbit), watching antenna television, and getting movies through HBONow (via internet), Netflix, and the TV service Sling. The latter costs $25 a month and brings channels like AMC (for series like "Walking Dead") or games from the World Cup last year to the screen, of course, full of advertisements.
+
+<pic images/tivo.ps The TiVo box records the programmed antenna television.>
+
+For antenna television, until recently, I had a huge antenna with a metal rake, which is actually meant to be mounted on the roof, mounted behind the TV set. However, the reception of the channels was quite poor, and the digital recorder TiVo often only recorded half of Angelika's favorite show "Dancing with the Stars," which inevitably led to tension in the evening. Then, I recently saw this new flat antenna at the big supermarket Costco. After some trial and error, I simply stuck it high up on the wall with gaffer tape, and voilà, the digital signal from the local antenna channels came in flawlessly -- a huge improvement. Who would have thought that I would experience this in my old age!
+
+Greetings from the now well-ventilated Bay Area:
+
+Angelika and Michael
