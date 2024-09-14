@@ -8,36 +8,78 @@ San Francisco, 12-08-2018
 officially had the worst air quality in the world, even worse than Beijing. The
 cause was a wildfire up north, in the small town of Paradise. Although the
 place is a good three-hour drive north, in Butte County, wind and weather
-brought the bad air filled with soot particles all the way to San Francisco. We
-lived for more than a week as if under a smog dome. The sun was never really
-visible, hidden behind a gray veil. It smelled like something was burning, and
-we kept all the windows tightly shut for the entire week. Ventilating and going
-outside was impossible, and we only did so if it was absolutely necessary. I
-have never longed for fresh air as much as I did during this week.
+brought the bad air filled with soot particles all the way to San Francisco.
 
-TODO
+We lived for more than a week as if under a smog dome. The sun was never really
+visible, hidden behind a gray veil. It smelled like something was burning, and
+we kept all the windows tightly shut for the entire week. Ventilating or going
+outside was almost impossible, and we only did so if it was absolutely necessary. I
+have never longed for fresh air as much as I did during this week.
 
 <pic images/airnow-map.ps The government smoke meter reports unhealthy air quality throughout the Bay Area due to the fire in Butte County.>
 
-There have always been fires in California, but they have never occurred so frequently or destroyed so much landscape and settlements. There are many reasons for this, such as drier winters with little rain due to the changing climate. I still remember well when we moved to San Francisco at the end of 1996. It was pouring rain, and I immediately felt at home because it rained and rained and rained just like in northern Germany. Nowadays, it rains occasionally in the winter, but not enough to sufficiently soak the vegetation and transform the gray hills into green oases. And a state where it doesn't rain during the other months of the year needs a lot of winter rain and snow in the higher elevations.
+California has always been affected by wild fires, but they have never before occurred so
+frequently or destroyed so much landscape and settlements. There are many
+reasons for this, such as drier winters with little rain due to the changing
+climate. I still remember well when we moved to San Francisco at the end of
+1996. It was pouring rain, and I immediately felt at home because it rained and
+rained and rained just like in northern Germany. Nowadays, it rains
+occasionally in the winter, but not enough to sufficiently soak the vegetation
+and transform the gray hills into green oases. And a state where it doesn't
+rain during the summer months needs a lot of winter rain and snow in
+the higher elevations to cope.
 
 <pic images/venice-power.ps Anyone who runs their electrical wiring so carelessly and close to flammable materials shouldn't be surprised if fires keep breaking out.>
 
-Furthermore, California is very densely populated by American standards, and human dwellings are located much too close to or within forested areas. The town of Paradise was practically built into the forest. A single spark was enough to start the inferno. It is not yet known with absolute certainty what caused the fire in Paradise, but it is suspected that a power line came loose due to the wind and began to spark.
+Furthermore, California is very densely populated by American standards, and
+human dwellings are often located way too close to, or even within, forested
+areas. The town of Paradise was practically built into a forest. A single
+spark was enough to start the inferno. It is not yet known with absolute
+certainty what caused the fire in Paradise, but it is suspected that a power
+line came loose due to the wind and began sparking.
 
 <pic images/airnow-chart.ps The Air Quality Index (AQI) has spiked to 156, so you should stay indoors.>
 
-Power lines in California typically still run above ground. Then, all it takes is a strong wind, and a disaster is almost inevitable. This is because the power lines often hang close to trees and branches. Our utility provider, PG&E (Pacific Gas & Electric), is now in such a predicament that many are speculating the company might go bankrupt due to the lawsuits filed and the potential compensation payments it may face. The last fire in Napa Valley a few years ago was already attributed to PG&E, and the resulting wave of lawsuits is keeping the courts busy.
+Power lines in California typically are still installed above ground. With
+this, all it takes is a strong wind, and disaster is almost inevitable. This
+is because the power lines often hang close to trees and branches. Our utility
+provider, PG&E (Pacific Gas & Electric), is now in such a predicament that many
+are speculating the company might go bankrupt due to the lawsuits filed and the
+potential fines and compensatory damages it may face. The last fire in Napa Valley a few
+years ago was already attributed to PG&E, and the resulting wave of lawsuits is
+keeping the courts busy.
 
 <pic images/air-quality-sf.ps San Francisco has made it to second place among the cities with the dirtiest air in the world.>
 
-Even in Paradise, some affected individuals have already sought lawyers, although it is still unclear what caused the fire. PG&E is now taking preventive measures by shutting off the power when the fire risk is too high. This preventive measure affected the Napa wine region in October, and small businesses had to cope with the loss of their daily income. In Calistoga, a place we regularly visit...<RBLINK>20060421#2</RBLINK>...lost a small café, the Calistoga Roastery, which we always frequent when we are there,<LINK>https://abc7news.com/weather/pg-e-wont-pay-claims-for-losses-suffered-by-calistoga-businesses/4644313|$3000 due to the power outage day | PGE does not pay compensation for power shutoffs due to fire risk</LINK>But it's not always the power lines that are to blame. Another fire in California started because a man was working on a metal fence post with a hammer in the middle of dried-out vegetation, causing sparks to fly.
+Even in Paradise, some affected individuals have already sought lawyers,
+although it is still unclear what caused the fire. PG&E is now taking
+preventive measures by shutting off the power when the fire risk is too high.
+This preventive measure affected the Napa wine region in October, and small
+businesses had to cope with loss of power, inabilty to run their daily
+operations and loss of income. Calistoga, a place we regularly visit
+(<RBLINK>20060421#2</RBLINK>) lost a small café, the Calistoga Roastery, which
+we're always frequenting when we are visiting up there.
+It could no longer deal with <LINK>https://abc7news.com/weather/pg-e-wont-pay-claims-for-losses-suffered-by-calistoga-businesses/4644313|financial losses of $3000 per day due to power outages|PGE does not pay compensation for power shutoffs due to fire risk</LINK>.
+But it's not always the power lines that are to blame.
+Another fire in California started because a man was working on a metal fence
+post with a hammer in the middle of dried-out vegetation, causing sparks to
+fly.
 
-<pic images/twin-peaks-smog.ps Even our view of the Twin Peaks hill was occasionally obstructed.>
+<pic images/twin-peaks-smog.ps Even our view of the Twin Peaks hill was partially obstructed.>
 
-Surprisingly, the fires are also worsening because they are being extinguished better and faster. This, too, is due to humans, because as houses increasingly border nature, firefighters try to save the houses and do not simply let the fire burn. However, smaller fires are important for land clearing and burn bushes and grasses that would otherwise fuel larger fires. In California, the topic of controlled burns is also becoming more prevalent, as they help prevent larger fires. Unfortunately, we will likely experience poor air quality from fires in San Francisco several more times, as the problem was ignored for decades, and solving it now requires a lot of money and time.
+Surprisingly, the fires are also worsening because they are being extinguished
+better and faster. Human intervention is indeed a factor, because as houses increasingly
+border nature, firefighters try to save the houses and do not simply let the
+fire burn. However, smaller fires are important for land clearing, burning
+bushes and grass that would otherwise fuel larger fires later. In California, the
+topic of controlled burns is also becoming more prevalent, as they also help prevent
+larger fires. Unfortunately, we will likely experience poor air quality from
+fires in San Francisco several more times, as the problem was ignored for
+decades, and solving it now requires time and financial effort.
 
-<pic images/skyline-smog.ps Due to the smoke plumes from the Camp Fire in Butte County, smoke is hanging over the city.>
+<pic images/skyline-smog.ps Due to the Camp Fire in Butte County, smoke plumes are hanging over the city.>
+
+TODO
 
 @Z: Top product: Air purifier from Levoit
 
