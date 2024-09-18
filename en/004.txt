@@ -258,8 +258,6 @@ the sailors, and now she's eager for me to teach her German. In any case, money
 doesn't seem to be an issue for her, and it's helpful for me because I can
 brush up on my English.
 
-TODO
-
 @Z: Timber Cove
 
 <pic images/jenner.ps By the sea at Timber Cove.>
@@ -270,26 +268,90 @@ official anniversary. This is mainly for the pragmatic reason that this date is
 engraved in our rings, providing Michael with a good memory aid. Looking back
 on this year, an incredible amount has happened, and somehow the year has just
 flown by. Naturally, we want to celebrate our anniversary accordingly. So, we
-are heading to the coast in the north and have booked a romantic hotel with an
-ocean view for two nights. To get to the coast, we will make our way through
+are heading to the coast up north and have booked a romantic hotel with
+ocean view for two nights. To get up there, we will make our way through
 the wine region and might even do a wine tasting. A truly Californian weekend!
 We are definitely looking forward to it.
 
 <pic images/racoon.ps A raccoon is stopping by on the balcony.>
 
-Our friends Sylvia and Richard, by the way, moved to Portland at the end of July because Richard started a new job there. Portland is located in the state of Oregon and is about a 10-hour drive from San Francisco. For us, it's naturally very unfortunate that they now live so far away, as spontaneous meetups are no longer possible. Sylvia and Richard's baby is due at the end of September, and Sylvia and I had already dreamed of starting our own playgroup. That's obviously not possible now.
+Our friends Sylvia and Richard, by the way, moved to Portland at the end of
+July because Richard started a new job there. Portland is located in the state
+of Oregon and is about a 10-hour drive from San Francisco. For us, it's
+naturally very unfortunate that they now live so far away, as spontaneous
+meetups are no longer possible. Sylvia and Richard's baby is due at the end of
+September, and Sylvia and I had already dreamed of starting our own playgroup.
+That's obviously not possible now.
 
-To conclude this newsletter, I would like to entertain you with two endless stories: one of them concerns Michael's company.
+To conclude this newsletter, I would like to entertain you with two endless
+stories: one of them concerns Michael's company.
 
 @Z: Job search in the USA
 
-<em>Sure, "Angelika" is a name and does not require translation. It is used similarly in English. If you need any further assistance or context, please let me know!</em>First of all" or "But first
+<em>Angelika</em>
+Most of you are already up to date on this, but some of you are not, so for the
+sake of completeness, I'm quickly writing down the story again. In my last
+newsletter, I described in detail that Michael is now working from home because
+the Blaxxun office in San Francisco has closed, but the Blaxxun funding is
+secured until early 1998. After Michael had just finished setting up all the
+computers in our apartment, and I had gotten used to him turning our apartment
+into an open-plan office, the next piece of bad news came (just before my
+departure to Germany), namely that the funding was withdrawn again, and Blaxxun
+will likely shut down completely by the end of June or July (including the
+office in Munich).
 
-In any case, Michael was able to apply at Oracle, NASA (unfortunately not to work as an astronaut, which would be his dream), two smaller companies, and America Online. We were quite surprised that he was called in for so many interviews, because it was clear from the start that the company would have to pay a lawyer to apply for the new visa and wait 6 to 8 weeks for the visa formalities to be completed, which is an eternity for an American company. The lucky thing is that there is currently a significant shortage of software developers here. Well, Michael decided to go with America Online (the world's largest internet provider). The company is in San Mateo, which is easily accessible from San Francisco. The visa application is already in process, so we are waiting for a positive response.
+Michael was advised to apply for a job at another company in San Francisco or the
+surrounding area, as he also faces the additional challenge of needing a new
+American visa for any potential new employer. Michael didn't hesitate and
+immediately uploaded his resume to the internet. Thirty seconds later, the
+first person called and offered him a job. In the age of the internet (at least
+in the software industry), this is how it works: "recruiters" search the
+internet on behalf of companies to identify suitable candidates and forward
+them to the relevant firm. A recruiter functions much like a broker: if an
+employment contract is signed, they receive a commission from the company.
 
-The story is not over yet: In the end, another one is coming.
+So Michael first spoke with the recruiter and then with a responsible person
+from the hiring company. He was surprised that instead of simply scheduling an
+interview, they asked him actual test questions, such as how he would program
+something in a specific language. This is because Americans often embellish
+their resumes with things they haven't actually done. Americans also generally
+enjoy phone conversations, which is very evident during the job application
+process. It often happened that Michael spoke with two or three people from the
+company over the phone, repeatedly answering the same questions, before being
+invited for an in-person interview. At the interview, he had to speak with up
+to seven different people (though in person, not over the phone). After these
+conversations, the second phone phase begins.
 
+If the company is interested in potentially hiring an applicant, they don't
+want to see work references; instead, they ask for phone numbers of people
+you've worked with before so they can call them and grill them about the
+applicant. In some cases, they even call the university the applicant graduated
+from to see if this actually checks out.  You can probably imagine that what I
+just described doesn't go so smoothly when you come from Germany. The Americans
+aren't too keen about calling internationally.
 
+In any case, Michael was able to apply at Oracle, NASA (unfortunately not to
+work as an astronaut, which would be his dream), two smaller companies, and
+America Online. We were quite surprised that he was called in for so many
+interviews, because it was clear from the start that the company would have to
+pay a lawyer to apply for the new visa and wait 6 to 8 weeks for the visa
+formalities to be completed, which is an eternity for an American company. The
+lucky thing is that there is currently a significant shortage of software
+developers here. Well, Michael decided to go with America Online (the world's
+largest internet provider). Their office is in San Mateo, which is easily
+accessible from San Francisco. The visa application is already in process, so
+we are waiting for a positive response.
+
+The story is not over yet, however, there's more Blaxxun news: The company has
+recovered, and funding is now secured again until early 1998. The good thing
+about this is that Michael can continue working for them until the new visa
+comes through, so we don't have to struggle financially.
+
+And something else, quite funny, from Black Sun: it’s now called Blaxxun. But
+the people who email me can still use the old spelling. I tell you, with this
+company, you really go through a thousand adventures.
+
+TODO
 
 @Z: Bureaucratic negligence at the driver's license office
 
