@@ -82,8 +82,6 @@ to tackle at the moment. I'm thinking, for example, of the high unemployment
 rate, increasing poverty, the endangered welfare state, etc. In my opinion,
 these are the issues that urgently need to be addressed.
 
-TODO
-
 @Z: Social benefits in comparison
 
 <em>Angelika</em> I kept hearing during my visit to Germany that soon American
@@ -93,32 +91,49 @@ will never exist in Germany. Take, for example, the troublesome issue of health
 insurance. Firstly, about 40 million Americans are not insured at all, and
 since the entire insurance system here is privately run, it happens that, for
 instance, services for AIDS patients are not covered because their treatment is
-too costly. Or, when changing insurance, which usually happens automatically
-with a job change, any illness or even pregnancy that existed six months before
-the insurance change is not covered by the new insurance for up to a year.
-Chronically ill people are truly lost in such a system. Additionally, I read
-that an American health insurance company did not cover the costs for a
-disabled child because the parents knew beforehand that there was a 50% chance
-they would have a disabled child. And I want to emphasize once again that these
-are not isolated cases. But you don't even have to go that far. Even if you are
-insured here, it can happen that the health insurance does not pay the full
-doctor's fee because it seems too high to the insurance company. And in these
-cases, it is always the patient who suffers, meaning they have to pay the
-difference. For this very reason, there is an increasing trend towards
-so-called "managed care," meaning you are only allowed to go to certain doctors
-who have contracts with the insurance company. These contracts stipulate that
-doctors can only charge a certain fee for a specific service. Then there are
-things like deductibles or lifetime benefit limits of 1 million dollars,
-meaning once the million is used up, no more payments are made, and a million
+too costly. Or, when switching insurance providers, which usually happens
+automatically with a job change, any illness or even pregnancy that existed six
+months before the change is not covered by the new insurance for up to a year.
+Chronically ill people are truly lost in such a system.
+
+Additionally, I've read that one American health insurance company did not
+cover the costs for a disabled child because the parents knew beforehand that
+there was a 50% chance they would have a disabled child. And I want to
+emphasize once again that these are not isolated cases. But you don't even have
+to go that far. Even if you are insured here, it can happen that the health
+insurance provider does not pay in full what the doctor charges because it is
+deemed too high to the insurance company. And in these cases, it is always the
+patient who suffers, meaning they have to pay the difference.
+
+For this very reason, there is an increasing trend here towards so-called
+"managed care," meaning you are only allowed to go to certain doctors who have
+contracts with the insurance company. These contracts stipulate that doctors
+can only charge a certain fee for a specific service.  Then there are things
+like deductibles or lifetime benefit limits of 1 million dollars, meaning once
+the million is used up, no more payments are made by the insurer, and a million
 can quickly be exhausted if you are seriously ill. And I emphasize once again,
-these are generally the better conditions. I think things are still somewhat
+these are generally people who are well off. I think things are still somewhat
 different in Germany. It's unimaginable to extend this discussion to other
 social benefits in America (e.g., unemployment insurance, pension insurance,
 social assistance, vacation entitlement)!
 
-To make my point absolutely clear once again: I consider it extremely important that social benefits and the principle of solidarity are maintained in Germany. This means that everyone—whether a welfare recipient, bank director, or employee at Siemens; black, white, or green-striped—is insured and receives the same benefits and is entitled to social benefits if they fall on hard times. And I am more than willing to pay more when I am doing well, if I have the assurance that I will not be completely abandoned should I find myself in a situation of need.
+To make my point absolutely clear once again: I consider it extremely important
+that social benefits and the principle of solidarity are maintained in Germany.
+This means that everyone -— whether a welfare recipient, bank director, or
+employee at Siemens; black, white, or green-striped -- is insured and receives the
+same benefits and is entitled to social benefits if they fall on hard times.
+And I am more than willing to pay more when I am doing well, if I have the
+assurance that I will not be completely abandoned should I find myself in a
+situation of need.
 
-I just realized that I've gone on about this topic for quite a while again, but it just keeps occupying my mind. By the way, anyone who wants to read a good book on the topic of "Germany" should check out the book by former ARD correspondent Gabriele Krone-Schmalz, "Now, Honestly! -- Thoughts on Germany." Krone-Schmalz wrote the book after her return from Russia, and she noticed quite similar things to what I have observed.
+I just realized that I've gone on about this topic for too long now, but
+it just keeps occupying my mind. By the way, anyone who wants to read a good
+book on the topic of "Germany" should check out the recent publication by former ARD
+correspondent Gabriele Krone-Schmalz, "Now, Honestly! -- Thoughts on Germany."
+Krone-Schmalz wrote the book after her return from Russia, and she noticed
+quite similar things to what I have observed.
+
+TODO
 
 @Z: N�rgelei und Pessimismus" translates to "nitpicking and pessimism" in English.
 
