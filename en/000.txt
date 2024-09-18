@@ -50,6 +50,7 @@ except of the preposition.
 
 <pic images/ggs.ps San Francisco, California with Golden Gate Bridge>
 
+<em>Angelika</em> 
 So a big dream comes true for us: We're going to live in San Francisco
 for a while. Our plan is to stay there for two to
 three years. A lot of people keep asking how come
@@ -81,6 +82,7 @@ says:'Now I get money for what I like to do anyways.'
 
 @Z: A job for Angelika?
 
+<em>Angelika</em> 
 One of my main concerns is that I'm not going to be allowed to work.
 Americans are very, very strict with work permits and
 I only do have a visa to come with Michael. (Michael
@@ -126,6 +128,7 @@ huh?
 
 @Z: The Appartment
 
+<em>Angelika</em> 
 By the way, Michael has already found an appartment in
 San Francisco. Accomodations in the city are pretty
 expensive but nevertheless we made the decision to
