@@ -338,20 +338,18 @@ Americans somehow don't really go for.
 
 @Z: World Cup 2018: Soccer is becoming more and more boring
 
-TODO
-
 <pic images/world-cup-russia-spain.ps Drab game at the World Cup in Russia>
 
 <em>Michael</em> Normal Americans generally lack any interest in soccer.
 There's too little action on the field, endless back-and-forth in the midfield,
-and maybe a measly goal in 90 minutes—it's just not exciting. During the World
+and maybe a measly goal in 90 minutes -— it's just not that exciting. During the World
 Cup in Russia, we, as Germans living abroad, of course watched a whole series
-of games, but I have to say that I now find the kicking around and the fuss
+of games, but I have to say that I now find the ball kicking and the fuss
 surrounding the soccer players somewhat ridiculous.
 
-Well, the German 'cucumber squad' deservedly got knocked out in the preliminary
-round, and with that, the excitement was somehow already gone. When you no
-longer have a team to cheer for, the enjoyment of watching TV is reduced to the
+Well, our German goon squad deservedly got knocked out in the preliminary
+round, and with that, the excitement for us was somehow already gone. When you no
+longer have a team to cheer for, the enjoyment of watching soccer on TV is reduced to the
 actual game itself, and that has somehow become stagnant over the years.
 Interestingly, no one questions how silly it actually is to watch 22 conceited
 peacocks, who place immense value on their hairstyles and tattoos, kicking a
@@ -359,10 +357,10 @@ ball around. And what, as an adult interested in world affairs, do I care about
 a dim little light like Özil, whose footballing failure seriously occupied the
 evening news?
 
-And then this cheating throughout the entire game! The constant falling down
+And then this constant cheating throughout the entire game! The constant falling down
 for no reason, the injury faking, the whining to the referee, the theatrical
-gestures at every whistle. Simply pathetic and dishonorable, what’s happening
-on the field. During free kicks, the players in the wall are now packed as
+gestures at every whistle. What's happening on the field is simply pathetic
+and dishonorable. During free kicks, the players in the wall are now packed as
 tightly as in a slow fox dance and cling to their opponents like koala bears.
 Isn't that rather strange for heterosexual men?
 
@@ -373,6 +371,8 @@ penalty area to get a penalty kick to win the game, and then rolls around in
 joy? Probably a similar type of person who cheats on diesel emissions and then
 rejoices over the profits of the struggling German auto industry. That's not my
 thing.
+
+TODO
 
 @Z: Homeowners must repair sidewalks.
 
