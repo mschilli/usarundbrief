@@ -231,11 +231,9 @@ unpredictable. And the fact that the Millennium skyscraper, another building whi
 from the Salesforce Tower, <LINK>https://www.mercurynews.com/2018/09/14/safety-measures-ordered-at-sinking-san-francisco-tower/|has been sinking for years|Millennium Tower is sinking</LINK>
 and already has a measurable imbalance, doesn't exactly calm our nerves either.
 
-TODO
-
 @Z: Scoops of ice cream from the hipster shop
 
-<pic images/smitten-ice-cream.ps The ice cream from the hipster shop is expensive, but it tastes very good.>
+<pic images/smitten-ice-cream.ps Ice cream from the hipster shop is expensive, but it tastes very good.>
 
 <em>Michael</em> When a new store opens in San Francisco, for example, one that
 sells ice cream, you usually can't enter it during the first year of operation
@@ -251,7 +249,7 @@ a similar experience. Initially, the ice cream shop was part of a mobile food
 truck caravan, then it moved into a store on the hipster strip, where it became
 so popular that you couldn't get in. But now, in about its second year of
 operation, the hipster crowd has moved on to newer ice cream shops, and you can
-simply walk into Smitten, order an ice cream, pay right away, and start
+simply walk into Smitten, order ice cream, pay right away, and start
 enjoying it within 5 minutes. The ice cream vendors there make the ice cream
 fresh when you order it, using dangerously hissing machines that, I believe,
 use liquid nitrogen or some other devilish substance to produce a few scoops of
@@ -263,20 +261,22 @@ a portion every now and then.
 The only bitter aftertaste, however, is the price, as a portion (waffle and a
 decent scoop) costs $7. Maybe I'm really getting old, but in my youth, a
 portion of waffle ice cream cost first 10 pfennigs, then 20, and today maybe
-one or two euros. In San Francisco, however, everything now costs fantasy
+one or two euros. In San Francisco, however, all popular shops now charge fantasy
 prices. Officially, the inflation rate is only a few percent per year, but
 anyone living here can tell you that the prices for everyday goods have
 certainly doubled, if not tripled, in the last 10 years. The salaries of high
 earners have also risen accordingly, so no one complains.
 
 I only feel sorry for the tourists who come from Germany with their saved-up
-Euros and rub their eyes in amazement when they realize what crazy prices we
-pay for things that one could get in Europe at a fraction of the cost for
+Euros, rubbing their eyes in amazement when they realize what crazy prices we
+pay for things that one could get in Europe at a fraction of the cost in
 similar quality. Well, the market will, as always, sort it out; eventually,
 every excess normalizes, and maybe then the hipster caravan will simply move
 elsewhere, and San Francisco will return to the sleepy hippie nest it once was.
 However, it is historically documented that such transformations can take
 decades, so I wouldn't speculate on it happening in the short term.
+
+TODO
 
 @Z: Hawaii 2018: Ka'ena Point
 
