@@ -369,14 +369,12 @@ though it's clear who knocked the ball out. How morally degenerate is someone
 who finds this normal, and what kind of person lets themselves fall in the
 penalty area to get a penalty kick to win the game, and then rolls around in
 joy? Probably a similar type of person who cheats on diesel emissions and then
-rejoices over the profits of the struggling German auto industry. That's not my
-thing.
+rejoices over the profits of the struggling German auto industry. That's just
+not my thing.
 
-TODO
+@Z: Homeowners must repair sidewalks
 
-@Z: Homeowners must repair sidewalks.
-
-<pic images/sf-sidewalk-tiles.ps Tree roots push the slabs up over the years.>
+<pic images/sf-sidewalk-tiles.ps Tree roots are pushing the slabs up over the years.>
 
 <em>Michael</em> A single-family home in our neighborhood now easily costs
 around 2 million dollars. However, what many newly wealthy people don't
@@ -386,8 +384,8 @@ additional costs.
 
 Since the property tax in San Francisco is about 1.2% of the purchase price,
 for a two-million-dollar house, around $22,000 per year, or almost $2,000 per
-month, must be paid to the tax authorities. Fortunate is the one who has
-calculated this beforehand, before making an insane bid; many techies with
+month, must be paid to the tax man. Fortunate is the one who has
+calculated this beforehand, before making an insane bid on a house; many techies with
 temporarily high salaries and zero knowledge realize this too late.
 
 <pic images/sf-sidewalk-paint-1.ps When the union man comes with the spray can, the fun is over.>
@@ -398,29 +396,29 @@ miscellaneous stuff, another $1000 per month quickly adds up. Repainting the
 house? $20,000. New roof? $20,000.
 
 Many people also do not know that homeowners must repair the sidewalk in front
-of their house at their own expense if the typical approximately 1m by 1m stone
-slabs in San Francisco show cracks. This mainly happens because of the trees
+of their house at their own expense if the typical approximately 3ft by 3ft stone
+slabs in San Francisco are starting to crack. This mainly happens because of trees,
 planted by the city at the roadside, which develop wild roots and destroy the
-stone slabs from below with intense pressure. If the unionized inspection team
-from the city comes by and sees damage, the inspector marks the damage with a
+stone slabs from below with intense pressure. If the unionized city inspection team
+then comes by and sees damage. The inspector marks the damage with a
 spray can, and shortly thereafter, a letter arrives in the mailbox, requesting
 the homeowner to repair the damage within 30 days.
 
-<pic images/sf-sidewalk-paint-2.ps Oh dear, several plates are broken, this is going to be expensive!>
+<pic images/sf-sidewalk-paint-2.ps Oh dear, several slabs are broken, this is going to be expensive!>
 
 And of course, not just any independent craftsman can take on the repair, but
 only those authorized by the city's union officials, who work at exorbitant
-prices. They start at $2000 just to turn on the cement mixer.
+prices. They start at $2,000, just to turn on the cement mixer.
 
-The homeowners are, of course, resisting the arbitrary actions of the
-authorities, and in the meantime, court rulings have been issued stating that
-damages caused by city tree roots after 2017 must also be repaired by the city
-at their expense. Or the 30-day ultimatum: The homeowner is only required to
-begin the repair within 30 days, but who knows how long it will drag on with
-unreliable craftsmen!
+Homeowners are, of course, resisting arbitrary actions by the authorities, and
+in the meantime, court rulings have been issued stating that damages caused by
+city tree roots after 2017 must very well be repaired by the city at their
+expense. Or take the 30-day ultimatum, issued for such tasks: The homeowner is
+only required to begin the repair within 30 days, but who knows how long it
+will drag on with unreliable craftsmen!
 
 Recently, one hears from Germany that homeowners are getting upset about having
-to co-finance the road construction in their communities, and they surely
+to co-finance road construction in their communities, and they surely
 think: "Typical German bureaucracy! It would surely be different in America!"
 But they are mistaken, at least when it comes to liberal strongholds like San
 Francisco or California in general: There, the bureaucratic red tape is even
