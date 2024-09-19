@@ -183,8 +183,6 @@ movers), but Michael is well-equipped in this regard. The new owners were able
 to track the sofa on its way to their apartment via the app, and after half an
 hour, it arrived safely. Our red sofa now has a new home.
 
-TODO
-
 @Z: Salesforce Tower
 
 <pic images/mtower-view.ps Skyline of San Francisco with the massive Salesforce Tower (far left), photographed from our balcony.>
@@ -194,44 +192,46 @@ is also evident in how the skyline of San Francisco has changed over the years.
 Our apartment offers a great view of the city, and the skyscrapers have
 steadily increased over the years, so much so that the popular Transamerica
 Pyramid is almost swallowed up by the new glass towers. The new so-called
-Salesforce Tower, which opened in May, towers over everything. Ironically, the
+Salesforce Tower, which opened in May, dominates everything now. Ironically, the
 company Salesforce didn't even exist 20 years ago when we moved to San
-Francisco. And now the skyscraper is named after the company that has rented
+Francisco. And now the latest skyscraper is named after the company that has rented
 most of the offices in the building, and you guessed it, "Salesforce." The
-skyscraper, at 326 meters, is not only the tallest building in San Francisco
+skyscraper, at 1070 feet, is not only the tallest building in San Francisco
 but also the second tallest west of the Mississippi. It now surpasses the
-Transamerica Pyramid by 66 meters, which had been the tallest building in San
+Transamerica Pyramid by 216 feet, which had been the tallest building in San
 Francisco since 1972.
 
-The Salesforce Tower really follows us at every turn in the city, and you
+Salesforce Tower really follows us around at every turn in the city, and you
 almost get startled when its somewhat bulky-looking tip suddenly juts out as if
 from nowhere. In the evenings, the tip lights up in all sorts of colors thanks
 to the light show consisting of 11,000 LED lights created by video artist Jim
 Campbell. It looks almost eerie when the tip emerges from the fog and seems to
-float. The address of the Salesforce Tower is 415 Mission St., right in the
+float on it. The street address of the Salesforce Tower is 415 Mission St., right in the
 heart of Downtown San Francisco and directly next to the new Transbay Transit
-Center, the regional bus hub.
+Center, our regional bus hub.
 
-<pic images/mtower-fog.ps In the fog that is common in San Francisco, often only the tip of the Salesforce Tower is visible.>
+<pic images/mtower-fog.ps In foggy conditions, as they're common in San Francisco, often only the tip of the Salesforce Tower is visible.>
 
-The situation is not entirely without danger, as the building ground consists
+The situation is not entirely without danger, as the building sits on ground
 of soft soil and sand, and the skyscraper is just a stone's throw away from the
 shore of the San Francisco Bay. In the event of an earthquake, however, soft
 ground can become a problem. Soft soil can sink during an earthquake and easily
 cause buildings to collapse. For this reason, tall skyscrapers were not
 particularly popular among the population of San Francisco for a long time, but
 the shortage of housing and office buildings has triggered a real construction
-boom. There are now 160 buildings in San Francisco that are higher than 73
+boom.
+
+There are now 160 buildings in San Francisco that are higher than 210 feet
 meters, and more are already in planning. All of them are located in downtown,
 in close proximity to each other, which is also risky in the event of an
 earthquake. Of course, everything is supposedly built to be earthquake-proof
 with the latest technology, but ultimately, the whole thing has not been tested
-in real life, only on paper or in the computer. Earthquakes are always
-unpredictable. And the fact that the Millennium skyscraper, which is not far
-from the Salesforce
-Tower,<LINK>https://www.mercurynews.com/2018/09/14/safety-measures-ordered-at-sinking-san-francisco-tower/|For
-years it has been sinking | Millennium Tower is sinking</LINK>and already has a
-measurable imbalance, doesn't exactly calm the nerves either.
+in real life, only on paper or in computer simulations. Earthquakes are always
+unpredictable. And the fact that the Millennium skyscraper, another building which is not far
+from the Salesforce Tower, <LINK>https://www.mercurynews.com/2018/09/14/safety-measures-ordered-at-sinking-san-francisco-tower/|has been sinking for years|Millennium Tower is sinking</LINK>
+and already has a measurable imbalance, doesn't exactly calm our nerves either.
+
+TODO
 
 @Z: Scoops of ice cream from the hipster shop
 
