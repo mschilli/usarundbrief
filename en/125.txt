@@ -75,11 +75,9 @@ above-cited New York Times article, an old woman even suspects that the
 newcomers want to run over the "old farts" with their scooters on the sidewalk
 to get their rent-controlled apartments. Will this tug-of-war ever end?
 
-TODO
-
 @Z: Dogs on the plane
 
-<pic images/support-animal-counter.ps To allow Fifi to fly, he is promptly declared an "Emotional Support Animal.>
+<pic images/support-animal-counter.ps To allow Fido to fly, he is promptly declared an "Emotional Support Animal.>
 
 <em>Angelika</em> We don't fly very often, but whenever we do, we notice that
 it has become quite common for passengers to bring their dogs onto the plane.
@@ -87,7 +85,7 @@ And these are not always small dogs or dogs traveling in a pet carrier. No, the
 dogs walk into the plane on a leash and then sit on their owner's lap. Flying
 has already become a pure ordeal because the seats are too small and cramped,
 and everyone thinks they need to bring half their household onto the plane
-since all airlines now charge fees for checked luggage. 
+since all airlines are now charging fees for checked luggage. 
 
 I'm always quite annoyed when I board the plane. The idea that I might now also
 have a dog sitting next to me, slobbering everywhere, makes flying even more
@@ -97,22 +95,19 @@ as they don't exploit the system and let their four-legged friend fly on their
 lap. By the way, I'm not the only one who gets upset about this bad habit, and
 for airlines, the issue is becoming more and more of a problem because some
 dogs go crazy in the unusual situation, poop in the aisle, bark nonstop,
-or...<LINK>https://www.washingtonpost.com/news/dr-gridlock/wp/2018/02/22/a-little-girl-saw-an-emotional-support-dog-on-a-plane-it-went-for-her-face|Bite
-even the seat neighbor | Service dog bites passenger</LINK>It seems like your
-message is incomplete. Could you please provide the text you would like
-translated into English?
+or even
+<LINK>https://www.washingtonpost.com/news/dr-gridlock/wp/2018/02/22/a-little-girl-saw-an-emotional-support-dog-on-a-plane-it-went-for-her-face|bite a seat neighbor|Service dog bites passenger</LINK>.
 
-<pic images/chinese-dog.ps Even though it's forbidden, people bring their dogs into grocery stores.>
+<pic images/chinese-dog.ps Even though it's illegal, people bring their dogs into grocery stores.>
 
-How do dog owners manage to let their Fifi fly for free? They simply declare
-him an "Emotional Support Dog," which translates to "emotional support dog,"
-essentially a supposed therapy dog that provides emotional support to the
+How do dog owners manage to let their Fido fly for free? They simply declare
+it an "Emotional Support Dog," essentially a supposed therapy dog that provides emotional support to the
 owner. This should not be confused with a properly trained service dog, which,
 for example, helps blind people in their daily lives or warns its owner of
 epileptic seizures. Service dogs are trained to perform specific tasks for
 their owners that they cannot carry out due to a disability. These dogs cost a
 lot of money (on average $20,000) due to the rigorous training. Since these
-types of dogs are vital for their owners, they are allowed to go everywhere,
+types of dogs are vital for their owners, they are allowed to go anywhere,
 even places where dogs are normally not permitted. In California, for instance,
 dogs are not allowed inside restaurants or stores where food is sold.
 
@@ -128,14 +123,14 @@ of doubt.
 
 The "Emotional Support Dog," on the other hand, is not specially trained but
 has a calming effect on its owner. If you search for "Emotional Support Dog" on
-Google, a multitude of providers will come up, where you can obtain one through
-a...<LINK>https://www.esaregistration.org|Mouse click | Registration for
-Emotional Support Dog</LINK>can register their dog as such and at the same time
+Google, a multitude of providers will come up, where you can register any random dog
+<LINK>https://www.esaregistration.org|with a mouse click|Registration for Emotional Support Dogs</LINK>
+and at the same time
 receive a letter from a therapist confirming that the dog is important for
-their mental health. Also<LINK>https://www.amazon.com/dp/B00T9S8DNK|Westen für
-Servicehunde" translates to "Vests for service dogs" in English.</LINK>...which
-identify the dog as an alleged service dog, can be easily ordered by the dog
-enthusiast on the internet, for example on Amazon.
+their mental health. Also,
+<LINK>https://www.amazon.com/dp/B00T9S8DNK|Amazon sells vests for service animals</LINK>
+which identify the dog as an alleged service dog, which can be easily ordered by the dog
+enthusiast.
 
 Unfortunately, it is now indeed the case that airlines, due to the "Air Carrier
 Access Act," must allow these "Emotional Support Dogs" on planes alongside
@@ -145,29 +140,31 @@ this leads to many problems, as no one can distinguish a real service dog from
 a falsely designated "Emotional Support Dog." Therefore, those affected have
 long been calling for this loophole to be closed.
 
-At United Airlines and Delta Airlines, stricter regulations for dogs flying in
-the passenger cabin have been in effect since March 1st of this year. At Delta
-Airlines, the number of dogs designated as service dogs or "emotional support
-dogs" has increased by 150% since 2015, and complaints about animals on board
-have also
-risen.<LINK>https://www.reuters.com/article/delta-air-safety-animals/delta-air-to-tighten-onboard-emotional-support-animal-requirements-idUSL1N1PE05B|Passenger
-complaints about dogs have surged by 84%.</LINK>The dog owner must submit a
-health certificate 48 hours before departure, along with a letter proving why
-the dog is needed as emotional support. The health certificate should list the
-dog's vaccinations and include a certificate ensuring that the dog will behave
-on the plane. I am curious to see how this will be circumvented again.
+On United Airlines and Delta Airlines flights, stricter regulations for dogs
+flying in the passenger cabin have been in effect since March 1st of this year.
+According to Delta Airlines, the number of dogs designated as service dogs or
+"emotional support dogs" on their flights has increased by 150% since 2015, and
+complaints about animals on board have also risen.
+<LINK>https://www.reuters.com/article/delta-air-safety-animals/delta-air-to-tighten-onboard-emotional-support-animal-requirements-idUSL1N1PE05B|Passenger complaints about dogs have surged by 84%.</LINK>
+According to the new rules, dog owner must submit a health certificate 48 hours before departure, along
+with a letter proving why the dog is needed as emotional support. The health
+certificate should list the dog's vaccinations and include a certificate
+ensuring that the dog will behave on the plane. I am curious to see how this
+will be circumvented again.
 
 <pic images/pug-stolen.ps (#1) Someone has stolen this pug that was tied up in front of the Whole Foods store.>
 
-By the way, passengers not only try to pass off their dogs as emotional support
+By the way, passengers are not only trying to pass off their dogs as emotional support
 animals, but they also bring all sorts of other creatures like snakes, parrots,
 or pigs. Not to mention the woman who tried to board a United flight with her
 peacock, which was denied. We also constantly see dogs in supermarkets that are
 certainly not service dogs; the owners usually justify it by saying that dogs
-tied up outside the store are often stolen (see Figure #1). Restaurants are
-usually more stringent and only allow dogs at the outdoor tables (where it is
+tied up outside the store are often stolen ((#1)). Restaurants are
+usually more stringent and only allow dogs at outdoor tables (where it is
 legal), because the health inspector would quickly revoke their license if a
-dog were inside.
+dog were found inside.
+
+TODO
 
 @Z: Santa Fe, New Mexico, in winter
 
