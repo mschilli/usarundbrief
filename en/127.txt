@@ -79,29 +79,65 @@ decades, and solving it requires significant financial investments and time.
 
 <pic images/skyline-smog.ps Due to the Camp Fire in Butte County, smoke plumes are hanging over the city.>
 
-TODO
+@Z: Top product: Air purifier by Levoit
 
-@Z: Top product: Air purifier from Levoit
+<pic images/levoit.ps The air purifier helps in times with bad air quality.> 
 
-<pic images/levoit.ps The air purifier against the smoky outdoor air.> 
-
-<em>Angelika</em>Due to the poor air quality, not only were respirator masks in San Francisco highly sought after and frequently sold out, but air purifiers for living spaces also enjoyed great popularity. We, too, purchased one from the company Levoit, which is headquartered in Anaheim near Los Angeles. The LEVOIT LV-H132 humidifier not only looks good but is also supposed to filter harmful particles from the air in living spaces. We definitely ran ours extensively to ensure that even the last fine soot particles disappeared from our living spaces.
+<em>Angelika</em> Due to the poor air quality, not only were respirator masks
+in San Francisco highly sought after and frequently sold out, but air purifiers
+for living spaces also were in high demand. We, too, purchased one from
+the company Levoit, which is headquartered in Anaheim near Los Angeles. The
+LEVOIT LV-H132 humidifier not only looks good but is also supposed to filter
+harmful particles from the air for your home. We definitely ran ours
+extensively to ensure that even the last fine soot particle disappeared from
+our living room.
 
 @Z: Annoying Voices: Vocal Fry and Upspeak
 
 <pic images/laryngoskop.ps Doctor examines cooing millennial. Source: Wikipedia>
 
-<em>Michael</em>To find out why many Germans speak English with a terrible accent, you only need to listen closely to a native English speaker and pay attention to the intonation. While German has hardly any tonality, English is pure sing-song. Americans raise and lower their voices several times in a sentence, while Germans continue to drone on at the same pitch. To pronounce English correctly as a foreign language, Germans have to make a real effort and incorporate melodies like a canary. Because I only speak English at work, I have already adopted such a sing-song that I regularly have to pull myself together when I speak German so that it doesn't sound Americanized.
+<em>Michael</em> To find out why many Germans speak English with a terrible
+accent, you only need to listen closely to a native English speaker and pay
+attention to the intonation. While German has hardly any tonality, English is
+pure sing-song. Americans raise and lower their voices several times in a
+sentence, while Germans continue to drone on at the same pitch. To pronounce
+English correctly as a foreign language, Germans have to make a real effort and
+incorporate melodies like a canary. Because I only speak English at work, I
+have already adopted such a sing-song that I regularly have to pull myself
+together when I speak German so that it doesn't sound Americanized.
 
-The American youth of the last 10 years have now gotten into the habit of expanding this sing-song with a few more components, so much so that it regularly infuriates narrow-minded adults like me when I have to listen to brain-dead chatter with these mannerisms. The first bad habit is the so-called "upspeak," the raising of the voice at the end of a sentence. While this is normal for questions, it shouldn't be done at the end of every sentence, but that's exactly what Millennials do these days: "So I went to the cafe? Ordered a drink? It was pretty expensive?" It's enough to drive you crazy.
+Now, American youth of the last 10 years have now gotten into the habit of
+expanding this sing-song and added a few more components, so much so that it
+regularly infuriates narrow-minded adults like me when I have to listen to
+brain-dead chatter with these mannerisms. The first bad habit is the so-called
+"upspeak," the raising of the voice at the end of a sentence. While this is
+normal for questions, it shouldn't be done at the end of every sentence, but
+that's exactly what Millennials do these days: "So I went to the cafe? Ordered
+a drink? It was pretty expensive?" It's enough to drive you crazy.
 
-<HTMLONLY>
+The second bad habit is the
+so-called <LINK>https://en.wikipedia.org/wiki/Vocal_fry_register|Vocal Fry</LINK>
+and for that, I need to elaborate further. Humans have a total of
+three so-called registers that determine the pitch of spoken (or sung)
+voice, regulated by the "glottis," a gap in the throat between the vocal
+cords. In the normal state of this gap, humans speak with a normal pitch. When
+the vocal cords are tightly constricted, falsetto is produced, which means
+overtones. Serious people don't do this. Now, if the vocal cords are relaxed so
+that air bubbles through the gap with a vibrating sound, the so-called
+strohbass, also known as the fry register, is created. In English, this is
+called "vocal fry" or "creaky voice," and the use of this register is, for no
+good reason, spreading almost epidemically among young women and gay men.
 
-<HTMLONLY>
+Prominent fashion dolls croak and coo these days, producing very awkward
+noises, seemingly without noticing they're out of whack. The sound is not easy
+to describe; if you have never consciously noticed it, it's best to listen to
+it on the referenced YouTube videos and endulge. It sounds completely
+idiotic, this croaking. But if an uneducated young woman is sitting in some
+talk show, you can time it with a stopwatch until she starts doing it. What are
+these young people thinking these days? Sometimes I wonder if the future will be a
+hopelessly dystopian world.
 
-The second bad habit is the so-called<LINK>https://en.wikipedia.org/wiki/Vocal_fry_register|Vocal Fry</LINK>..and for that, I need to elaborate further. Humans have a total of three so-called registers that determine the pitch of spoken (or sung) language, regulated by the "glottis," a gap in the throat between the vocal cords. In the normal state of this gap, humans speak with a normal pitch. When the vocal cords are tightly constricted, falsetto is produced, which means overtones. Serious people don't do this, but if the vocal cords are relaxed so that air bubbles through the gap with a vibrating sound, the so-called strohbass, also known as the fry register, is created. In English, this is called "vocal fry" or "creaky voice," and this register is spreading almost epidemically among young women and gay men.
-
-Prominent fashion dolls croak and coo these days, making one feel quite different. The sound is not easy to describe; if you have never consciously noticed it, it's best to listen to it on the referenced YouTube videos and pay attention! It sounds completely idiotic, this croaking. But if an uneducated young woman is sitting in some talk show, you can time it with a stopwatch until she starts croaking. What are these young people thinking these days? Nothing is spared for me either.
+TODO
 
 @Z: Goodwill pop-up branches
 
