@@ -309,6 +309,7 @@ Clear the way for Michael!
 
 <pic images/jjury.ps The twelve-member jury in the American criminal trial>
 
+<em>Michael</em>
 A letter from the "San Francisco Superior Court," the city's highest court,
 arrived by mail the other day. In it, Angelika was sternly ordered to participate as
 a juror in a trial. As you probably know from American TV series (like "Law and
@@ -536,29 +537,61 @@ correctional facilities are mostly located in remote areas. On our excursions,
 we have passed by a few of them. You can tell on the highway because suddenly
 there are signs that say you shouldn't pick up hitchhikers anywhere in the area.
 
-TODO
+@Z: Latest from the Beer Front
 
-@Z: Stories from the Beer Scene
+<pic images/pauly2.ps Allegedly a German beer: "St. Pauli Girl">
 
-<pic images/pauly2.ps The beer "St. Pauli Girl>
-
-Besides Beck's, the American also considers the brand 'St. Pauli Girl' to be German beer. I could only convince a colleague of the opposite with great effort. Unfortunately, I also lost a bet because of this, as the brew is, according to the webpage...
+<em>Michael</em>
+By the way, besides Beck’s, Americans consider the brand 'St. Pauli
+Girl' to be German beer. I could barely convince a colleague that
+there's no way that's German.
+Unfortunately, I then lost a bet over it because, according to their
+<LINK>http://stpauligirl.com|website</LINK>,
+the brew is supposedly made in Bremen (is that really
+Germany?). However, I have never seen it for sale anywhere in Germany. It also
+tastes awful, so I don’t think anyone in Germany would buy it."
 
 <pic images/gaymiller.ps Gay beer advertisement>
 
-Recently, I noticed a small advertisement in a well-known bar, where two affectionate gentlemen were actually promoting a beer! The major American beer manufacturers find themselves in a dilemma: the gay community in San Francisco not only loves to party and drink beer, but on average, they also have quite a bit of money to spend on it. A group that undoubtedly needs to be targeted with advertisements. On the other hand, they don't want to shake up traditional values. The good ol' boy from Texas must not, under any circumstances, believe that drinking Miller beer is somehow "gay"—otherwise, he might never again casually chug Miller with his football-loving drinking buddies. Consequently, the big beer companies only run targeted ads in areas where the target group is disproportionately represented. I'm waiting for the day when the billboard installers accidentally mix up the ads for San Francisco and Houston, Texas.
+Recently, I noticed a small advertisement at our table in a well-known bar,
+where two affectionate gentlemen were actually promoting a brand of beer! Major
+American beer manufacturers find themselves in a dilemma: the gay community in
+San Francisco not only loves to party and drink beer, but on average, they also
+have quite a bit of money to spend on it. A group that undoubtedly needs to be
+targeted with advertisements!
+
+On the other hand, brewing companies don't want to shake up
+traditional values. The good ol' boy from Texas must not, under any
+circumstances, believe that drinking Miller beer is somehow "gay" -— otherwise, he
+might never again casually chug Miller with his football-loving drinking
+buddies. Consequently, the big beer companies only run targeted ads in areas
+where the target group is disproportionately represented. I'm waiting for the
+day when the billboard installers accidentally mix up the ads for San Francisco
+and Houston, Texas.
 
 @Z: The newsletter top product
 
 <pic images/biore.ps The pack of nasal pacifiers>
 
-The "Top Product of the Newsletter" today is the nose patches from Biore. Nose patches? Huh? This is what happens when a couple lives abroad for years and doesn't experience any corrective influence in their daily language use: they invent new German words for things they didn't know before. What do you call sticky patches that you stick on your nose to pull out blackheads from your pores? See, you probably don't know a word for that either. The French company Biore offers these practical patches here in the USA, which you stick on your moistened nose, wait ten minutes, then peel off and admire the blackheads that have been pulled out.
+The "Newsletter Top Product" of this issue are the nose pacifier from Biore.
+Nose pacifier? Huh? This is what happens when a couple lives abroad for years
+and doesn't experience any corrective influence in their daily language use:
+they invent new German words for things they didn't know before. What do you
+call sticky patches that you stick on your nose to pull out blackheads from
+your pores? See, you probably don't know a word for that either. The French
+company Biore offers these practical patches here in the USA, which you stick
+on your moistened nose, wait ten minutes, then peel off and admire the
+blackheads that have been pulled out.
 
-<HTMLONLY>
-
-The fact is: Every now and then, you get a pimple on your nose. It's annoying and painful. But if you stick a Biore nose strip on every two months and effectively remove the blackheads with the inherent Biore super adhesive, it won't get to that point. Good mood thanks to Biore nose strips. If only I were on the Nobel Prize committee...
+Fact is: Every now and then, you get a pimple on your nose. It's annoying
+and painful. But if you stick a Biore nose strip on every two months and
+effectively remove the blackheads with the inherent Biore super adhesive, it
+won't get to that point. Good mood thanks to Biore nose strips. If only I were
+on the Nobel Prize committee ...
 
 <pic images/biorea.ps The nose pacifier peeled off my nose after 15 minutes.>
+
+TODO
 
 @Z: New on TV: The Shield
 
