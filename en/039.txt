@@ -187,6 +187,7 @@ put on hold after the terrorist attacks.
 
 @Z: German Federal Election: Voting from Abroad
 
+<em>Angelika</em>
 With anticipation, we here in the U.S. follow the German election campaign. We
 smirk as we observe the Americanization of the campaign: televised debates, a
 German newspaper suggesting which party the reader should vote for – something
@@ -573,6 +574,7 @@ and Houston, Texas.
 
 <pic images/biore.ps The pack of nasal pacifiers>
 
+<em>Michael</em>
 The "Newsletter Top Product" of this issue are the nose pacifier from Biore.
 Nose pacifier? Huh? This is what happens when a couple lives abroad for years
 and doesn't experience any corrective influence in their daily language use:
@@ -591,31 +593,79 @@ on the Nobel Prize committee ...
 
 <pic images/biorea.ps The nose pacifier peeled off my nose after 15 minutes.>
 
-TODO
-
 @Z: New on TV: The Shield
 
-Actually, I would have thought that there wouldn't be any interesting crime series left in my life. I can only laugh at "Law and Order" or "NYPD Blue"; that's typical American nonsense that doesn't get an old dog like me out from behind the stove. When Angelika watches them, I usually listen to music with headphones.
+<em>Michael</em>
+Actually, I would have thought that there wouldn't be any interesting crime
+series left to watch in my life. I can only laugh at "Law and Order" or "NYPD Blue";
+that's typical American nonsense that doesn't get an old dog like me out from
+behind the stove. When Angelika watches them, I usually listen to music with
+headphones.
 
 <pic images/shield1.ps Vic Mackey from "The Shield" is once again plotting something illegal with his colleagues.>
 
-But recently, a colleague at AOL drew my attention to "The Shield." I told my TiVo to record it for me, and what can I say, I was so electrified and shocked that I devoured the show from beginning to end without interruption. The show is insane, brutal, and unpredictable. It takes place in a police precinct in Los Angeles, whose chief, Aceveda, is a Latino who has worked his way up, wants to establish himself as a politician, and outwardly maintains a squeaky-clean image. However, behind the scenes, things get intense: The "Strike Force," consisting of the bald bruiser Vic Mackey, the unassuming gang-buster Curtis Lemansky, and the insanely dim-witted Southerner Shane Vendrell, solves stubborn cases, but mostly using illegal methods. Suspects are beaten during interrogations, confiscated cocaine is stolen, or nasty gang members who can't be legally caught are framed with a freshly fired weapon. Additionally, racial conflicts are fully played out and minorities are harassed, just like in any police precinct in the world. Addressing this in the USA is outrageous!
+But recently, a colleague at AOL drew my attention to "The Shield." I told my
+TiVo to record it for me, and what can I say, I was so electrified and shocked
+that I devoured the show from beginning to end without interruption. The show
+is insane, brutal, and unpredictable. It takes place in a police precinct in
+Los Angeles, whose chief, Aceveda, is a Latino who has worked his way up, wants
+to establish himself as a politician, and outwardly maintains a squeaky-clean
+image. However, behind the scenes, things get intense: The "Strike Force,"
+consisting of the bald bruiser Vic Mackey, the unassuming gang-buster Curtis
+Lemansky, and the insanely dim-witted Southerner Shane Vendrell, solves
+stubborn cases, but mostly using illegal methods. Suspects are beaten during
+interrogations, confiscated cocaine is stolen, or nasty gang members who can't
+be legally caught are framed with a freshly fired weapon. Additionally, racial
+conflicts are fully played out and minorities are harassed, just like in any
+police precinct in the world. Addressing this in the USA is outrageous!
 
 <pic images/shield2.ps The evil police officers happily watch interrogation videos while eating potato chips.>
 
-The fascinating thing about the show, however, is that the viewer's sympathy lies with the thugs, as beneath their rough exterior beats a soft heart: they might take in the baby of a drug-addicted prostitute for a night or make evidence disappear that would incriminate someone who is actually innocent. Naturally, the police chief goes ballistic every time he learns about such actions and wants to get rid of the chaotic team, but somehow the street-smart Vic always manages to avert disciplinary complaints or mislead investigation committees, because he has eyes and ears everywhere and is on familiar terms with the underworld.
+The fascinating thing about the show, however, is that the viewer sides
+with the thugs, as beneath their rough exterior beats a soft heart: they
+might take in the baby of a drug-addicted prostitute for a night or make
+evidence disappear that would incriminate someone who is actually innocent.
+Naturally, the police chief goes ballistic every time he learns about such
+actions and wants to get rid of the chaotic team, but somehow the street-smart
+Vic always manages to avert disciplinary complaints or mislead investigation
+committees, because he has eyes and ears everywhere and is on familiar terms
+with the underworld.
 
 <pic images/shield3.ps The insanely stupid Southerner Shane, also from Vic's gang of thugs>
 
-Additionally, there are other lovingly developed characters, such as the detective Wagenbach, who is generally called "Dutch" but is sometimes insulted as a "Nazi" because of his name. He is often despised as a wimp and a desk jockey. Then there's the Black officer Julien Lowe, who wants to be an "honest" cop but hides his homosexuality and is cruelly blackmailed by Vic, preventing him from testifying against the strike team.
+Additionally, there are other lovingly developed characters, such as
+Detective Wagenbach, who is generally called "Dutch" but is sometimes insulted
+as a "Nazi" because of his name. He is often despised as a wimp and a desk
+jockey. Then there's the Black officer Julien Lowe, who wants to be an "honest"
+cop but hides his homosexuality and is cruelly blackmailed by Vic, preventing
+him from testifying against the strike team.
 
-@Z: Platte des Monats" translates to "Record of the Month" in English.
+@Z: Record of the Month
 
 <pic images/bytheway.ps The new one from the Red Hot Chili Peppers: By The Way>
 
-Last month, I announced that I would review the new album by the Red Hot Chili Peppers. This band hails from Los Angeles and, for me, epitomizes California. Not the death penalty California or the white suburban double-garage California, but the California of chaotic cities like Los Angeles or San Francisco, where there are still crazy people like the Red Hot Chili Peppers who don't care about anything and exude new ideas. According to my favorite show "Behind the Music," their bassist "Flea" once hammered on his bass at a concert until he had a hole in his thumb! And from the series "Behind the Perl," I confide in you today that under the (almost exclusive) influence of the album "Blood, Sugar, Sex, Magik," I wrote "Effective Programming with Perl5" back then, a long, long time ago. Now it's out!
+<em>Michael</em> Last month, I announced that I would review the new album by
+the Red Hot Chili Peppers. This band hails from Los Angeles and, for me,
+epitomizes California. Not the death penalty California or the white suburban
+double-garage California, but the California of chaotic cities like Los Angeles
+or San Francisco, where there are still crazy people like the Red Hot Chili
+Peppers who don't care about anything and exude new ideas. According to my
+favorite show "Behind the Music," their bassist "Flea" once hammered on his
+bass at a concert until he had a hole in his thumb! And from the series "Behind
+the Perl," I confide in you today that under the (almost exclusive) influence
+of the album "Blood, Sugar, Sex, Magik," I wrote "Effective Programming with
+Perl5" back then, a long, long time ago. Now it's out!
 
-But what did I have to find out? The record was number one on the German charts, and even the Bild newspaper, which I regularly read online to Angelika's dismay, reviewed it! However, I have one more thing to add, which you probably won't learn from German media: "On Mercury," the 13th song on the record, has Mexican influences. Mexican folk music is quite comparable to German Oompah (beer tent) music and is as much a part of California as döner is to Bavaria. In the "Mission" district of San Francisco, you often see Mexican street gang cars (by the way, they prefer souped-up Acura Integras like our unsouped-up PERL MAN) cruising by, with Oompah music blaring and cool characters hanging their elbows out the window. The circle closes.
+But, to my amazement, the record was number one on the German
+charts, and even the Bild newspaper, which I regularly read online to
+Angelika's dismay, had reviewed it! However, I have one more thing to add, which
+you probably won't learn from German media: "On Mercury," the 13th song on the
+record, has Mexican influences. Mexican folk music is quite comparable to
+German Oompah (beer tent) music and is as much a part of California as döner is
+to Bavaria. In the "Mission" district of San Francisco, you often see Mexican
+street gang cars (by the way, they prefer souped-up Acura Integras like our
+unsouped-up PERL MAN) cruising by, with Oompah music blaring and cool
+characters hanging their elbows out the window. The circle closes.
 
 Greetings from the West!
 
