@@ -310,8 +310,6 @@ million dollars into the homelessness fund, but the city is not allowed to
 spend any of it until the matter is legally resolved. I wouldn't hold my breath
 for that long.
 
-TODO
-
 @Z: New job for Angelika
 
 <pic images/school.ps Angelika's new school.>
@@ -323,46 +321,97 @@ a bit of a rut. You know your way around, understand how the place operates,
 and have a thousand concerns about starting something new because no one can
 predict exactly what will come. I'm not exactly a young sprout anymore, and I
 also struggle with the fact that no one here really knows my qualifications. I
-am a certified special education teacher and additionally studied at a
-university of applied sciences. Back in my day, there were no other options,
-but studying at a university of applied sciences is often faster if you don't
-count the various internships that students usually have to complete and the
+have a diploma in "Heilpädagogik" from a German "Fachhochschule".
+Back in my day, there were no other options,
+but studying at a Fachhochschule is often faster than at a University if you don't
+count the various internships that students usually have to complete and then the
 recognition year. When converting degrees to the American system, however,
-usually only the years spent at the university count, and degrees from
-universities of applied sciences are often equated with the American bachelor's
-degree and are not considered higher degrees, which are called "masters" here.
-This is a somewhat skewed assessment because the bachelor's degree in America
+usually only the years spent at a university count, and degrees from
+Fachhochschulen are often equated with the American bachelor's
+degree and are not considered a higher degree, which are called "masters" here.
+This is a somewhat skewed assessment because the bachelor's degree in the USA
 is more like a combination of the German Abitur and the preliminary diploma.
-Thus, the American bachelor's student still has to take general education
-courses such as English, math, and history and hardly specializes. The problem
+Thus, an American bachelor's student still has to take general education
+courses such as English, math, and history and rarely specializes in a subject. The problem
 was that, although I am well-trained by German standards with a lot of
 experience, I lack the master's degree by American standards, and the positions
 that only require a bachelor's degree here are often subordinate and poorly
 paid.
 
-In my industry, things are often very bureaucratic. Many institutions receive government funding. The autism therapy that I provide has been financed by health insurance companies for some time now. That's when the red tape kicks in, while in other industries, like the software industry, things are a bit more relaxed and people with unusual backgrounds or degrees can certainly catapult themselves into good positions if they have the necessary talent or knowledge.
+In my field, things are often very bureaucratic. Many institutions receive
+government funding. The autism therapy that I provide has been paid by
+health insurance companies for some time now. That's when the red tape kicks
+in, while in other industries, like the software industry, things are a bit
+more relaxed and people with unusual backgrounds or degrees can certainly
+catapult themselves into good positions if they have the necessary talent or
+knowledge.
 
-But I digress, because I actually wanted to report how and what I landed for a new job. For quite some time, I had been occasionally checking the portal craigslist.org for interesting job opportunities. And one Sunday evening, I found a job listing that seemed tailor-made for me. So, I quickly revised my application, added a proper cover letter, and sent the application via email. The next day, I already received an invitation for an interview, which went well, and on the same day, the offer was on the table.
+But I digress, because I actually wanted to report how and what I landed for a
+new job. For quite some time, I had been occasionally checking the portal
+craigslist.org for interesting job opportunities. And one Sunday evening, I
+found a job listing that seemed tailor-made for me. So, I quickly revised my
+resume, added a proper cover letter, and sent the application via email.
+The next day, I already received an invitation for an interview, which went
+well, and on the same day, the offer was on the table.
 
-So I took the leap and now work at a private school as a behavioral therapy specialist in San Mateo, about 30 km south of San Francisco. The school is still in its early stages and relatively small, essentially a start-up school. Currently, there are classes from kindergarten to sixth grade. Some classes are still combined because the number of students is still relatively low. For example, we have a third/fourth grade class where the children are taught together. The children at the school typically have behavioral issues such as hyperactivity or anxiety disorders; some in my class have autism. The students at our school are of normal or even above-average intelligence but have often had significant difficulties in regular schools due to their social behavior. Our classes are very small, and we have two staff members in each class, with a primary school teacher and a behavioral therapy specialist always present.
+So I took the leap and am now working at a private school as a behavioral therapy
+specialist in San Mateo, about 20 miles south of San Francisco. The school is
+still in its early stages and relatively small, essentially a start-up school.
+Currently, there are classes from kindergarten to sixth grade. Some classes are
+still combined because the number of students is still relatively small. For
+example, we have a third/fourth grade class where the children are taught
+together. The children at the school typically have behavioral issues such as
+hyperactivity or anxiety disorders; some in my class have autism. The students
+at our school are of normal or even above-average intelligence but have often
+had significant difficulties in regular schools due to their social behavior.
+Our classes are very small, and we have two staff members in each class, with a
+primary school teacher and a behavioral therapy specialist always present.
 
-I have a second-grade class together with my colleague, and we currently have six students. My colleague is responsible for the academic material, and I am responsible for behavior. I teach an hour every day focused on positive social behavior, called SEL (Social Emotional Learning), which I enjoy very much. The children in the class are not easy, and I have already sustained some injuries because some of my students are also aggressive. But I like the new challenge and the concept of our school very much, because otherwise the prevailing model here is that children are assigned an aide as needed to help them manage the material and integrate into the class.
+I have a second-grade class together with my colleague, and we currently have
+six students. My colleague is responsible for the academic material, and I am
+responsible for behavior. I teach an hour every day focused on positive social
+behavior, called SEL (Social Emotional Learning), which I enjoy very much. The
+children in the class are not easy, and I have already sustained some injuries
+because some of my students are also aggressive. But I like the new challenge
+and the concept of our school very much, because otherwise the prevailing model
+here is that children are assigned an aide as needed to help them manage the
+material and integrate into the class.
 
-In this line of work, there are hardly any well-trained candidates here, and the pay is usually not good either. But our school follows the philosophy of team teaching, and my colleague and I are on the same level. Since the school is private, there are fewer government regulations, which in practice means that we also have more freedom in the classroom. In any case, I am glad that I had the courage to try something new again!
+In this line of work, there are hardly any well-trained candidates here, and
+the pay is usually not good either. But our school follows the philosophy of
+team teaching, and my colleague and I are on the same level. Since the school
+is private, there are fewer government regulations, which in practice means
+that we also have more freedom in the classroom. In any case, I am glad that I
+had the courage to try something new again!
 
-@Z: Mega room antenna and SlingTV
+@Z: New room antenna and SlingTV
 
-<pic images/antenna.ps The modern indoor antenna receives crystal-clear HDTV from the air.>
+<pic images/antenna.ps The modern indoor antenna receives crystal-clear HDTV over the air.>
 
-<em>Michael</em>As is well known, I have long harbored a grudge against the cable monopolist Comcast, which dominates our region. We canceled our cable subscription at least ten years ago, and I have no intention of ever supporting that lousy company again.
+<em>Michael</em> As is well known, I have long harbored a grudge against the
+cable monopolist Comcast, which dominates our region. We canceled our cable
+subscription at least ten years ago, and I have no intention of ever supporting
+that lousy company again.
 
 <pic images/sling.ps The Sling service provides channels that are not broadcast terrestrially.>
 
-For this reason, we are dealing with Third World internet through the phone cable (15mbit/1mbit), watching antenna television, and getting movies through HBONow (via internet), Netflix, and the TV service Sling. The latter costs $25 a month and brings channels like AMC (for series like "Walking Dead") or games from the World Cup last year to the screen, of course, full of advertisements.
+For this reason, we are dealing with Third World internet through the phone
+cable (15mbit/1mbit), watching antenna television, and getting movies through
+HBONow (via internet), Netflix, and the TV service Sling. The latter costs $25
+a month and brings channels like AMC (for series like "Walking Dead") or soccer games
+from the World Cup last year to the screen, of course, full of advertisements.
 
 <pic images/tivo.ps The TiVo box records the programmed antenna television.>
 
-For antenna television, until recently, I had a huge antenna with a metal rake, which is actually meant to be mounted on the roof, mounted behind the TV set. However, the reception of the channels was quite poor, and the digital recorder TiVo often only recorded half of Angelika's favorite show "Dancing with the Stars," which inevitably led to tension in the evening. Then, I recently saw this new flat antenna at the big supermarket Costco. After some trial and error, I simply stuck it high up on the wall with gaffer tape, and voilà, the digital signal from the local antenna channels came in flawlessly -- a huge improvement. Who would have thought that I would experience this in my old age!
+For antenna television, until recently, I had a huge antenna with a metal rake,
+which is actually meant to be mounted on the house roof, mounted behind the TV set.
+However, the reception was quite poor, and the digital recorder
+TiVo often only recorded half of Angelika's favorite show "Dancing with the
+Stars," which inevitably led to tension in the evening. Then, I recently saw
+this new flat antenna at the big supermarket Costco. After some trial and
+error, I simply stuck it high up on the wall with gaffer tape, and voilà, the
+digital signal from the local antenna channels came in flawlessly -- a huge
+improvement. Who would have thought that I would experience this in my old age!
 
 Greetings from the now well-ventilated Bay Area:
 
