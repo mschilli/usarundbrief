@@ -252,224 +252,212 @@ Incidentally, the US Postal Service does not charge such a surcharge for
 parcels and packages from the USA to Germany, and the delivery times are much
 shorter. It's not entirely understandable, but one blames the other.
 
-TODO
+@Z: Corona in the Fall of 2021
 
-@Z: Unser Herbst mit Corona
+<pic images/vax-dubliner.ps The Irish pub around the corner only allows guests with vaccinations.>
 
-<pic images/vax-dubliner.ps Die irische Kneipe um die Ecke lässt nur Gäste mit Impfung rein.>
+<em>Angelika</em> When autumn followed summer, San Francisco issued some
+confusing mask regulations. According to the latest newsletter, masks for
+vaccinated individuals were recommended indoors but not yet
+mandatory (<RBLINK>20210726#1</RBLINK>). However, that changed on August 3rd.
+Regardless of whether vaccinated or unvaccinated, masks were required by everyone
+in public indoor spaces, such as supermarkets, museums, churches, and fitness
+studios. However, this regulation was relaxed again on October 15th. If you are
+vaccinated, you do not need to wear a mask in San Francisco at work in the office,
+during worship services, in fitness centers, or during other gatherings.
+However, this is only the case if the vaccination status is verified at the
+entrance. Masks are still mandatory in schools, public transportation, shops,
+doctor's offices, and hospitals. Furthermore, since August 20th, only vaccinated
+individuals are allowed to visit the indoor areas of bars, restaurants, fitness
+studios, and museums in San Francisco. Certificates are checked at the
+entrance. A negative COVID test is no longer sufficient to gain entry. Children
+under 12 are exempt from this rule, as they cannot yet be vaccinated.
 
-<em>Angelika</em>
-Als nach dem Sommer der Herbst ins Land zog, erließ San Francisco einige
-verwirrende Maskenbestimmungen. Laut letztem Rundbrief waren Masken für
-Geimpfte in Innenräumen ja empfohlen, aber noch nicht wieder verpflichtend
-(<RBLINK>20210726#1</RBLINK>). Das änderte sich allerdings am 3. August. Egal
-ob geimpft oder ungeimpft, es galt Maske auf in allen öffentlichen Innenräumen, wie
-in Supermärkten, Museen, Kirchen und Fitnessstudios. Am 15. Oktober wurde
-diese Vorschrift jedoch wieder gelockert. Ist man geimpft, braucht man in San
-Francisco im Büro, im Gottesdienst, im Fitnesscenter oder während anderer
-Zusammenkünfte keine Maske zu tragen. Allerdings nur, falls der Impfstatus am
-Eingang kontrolliert wird. In Schulen, öffentlichen Verkehrsmitteln,
-Geschäften, Arztpraxen und Krankenhäusern herrscht weiterhin Maskenpflicht.
-Desweiteren gilt seit dem 20. August in San Francisco, dass nur Geimpften der
-Besuch der Innenräume von Bars, Restaurants, Fitnessstudios und Museen erlaubt
-ist. Bescheinigungen werden am Eingang geprüft. Ein negativer Coronatest
-genügt nicht mehr, um Einlass zu erhalten. Kinder unter 12 sind von dieser Regel
-ausgenommen, da sie noch nicht geimpft werden können. 
+<pic images/vax-digbys.ps The restaurant on our street only serves vaccinated guests.>
 
-<pic images/vax-digbys.ps Das Restaurant in unserer Straße bewirtet nur geimpfte Gäste.>
+The discussion about the Covid booster vaccination also got out of hand after
+President Biden pushed ahead without consulting his responsible authorities and
+promised everyone the so-called "booster" in the fall. This angered many
+scientists because the data on a booster vaccination had not been cleared. In the
+meantime, the following recommendations apply in the USA: Everyone over 65
+years old should receive the booster. The same applies to those over 18 who
+have risk factors such as cancer, diabetes, and chronic diseases of the liver,
+kidneys, lungs, or heart, as well as those who have a weakened immune system
+for other reasons. The third booster group includes those over 18 who work in
+professions where they are exposed to an increased risk of Covid because they
+encounter many people (including unvaccinated ones) at work. This applies to
+teachers, police officers, firefighters, postal workers, bus drivers, or
+employees in restaurants and supermarkets. I fall into this third category, and
+I have already made an appointment for the third shot. I will report on it
+afterward. Incidentally, different vaccines can now be combined for the
+"booster," possibly soon following the motto: "Which vaccine would you like
+today?"
 
-Auch die Diskussion um die Covid-Auffrischimpfung lief aus dem Ruder,
-nachdem Präsident Biden ohne Absprache mit seinen zuständigen Behörden
-vorgeprescht war und jedem den sogenannten "Booster" im Herbst versprach. Das
-verärgerte viele Wissenschaftler, da die Datenlage noch nicht eindeutig war
-bezüglich einer Auffrischimpfung. Mittlerweile gelten die folgenden
-Empfehlungen in den USA: Alle, die über 65 Jahre alt sind,  sollten den
-Booster erhalten. Gleiches git für über 18-jährige, die mit Risikofaktoren
-wie Krebs, Diabetes und chronischen Erkrankungen der Leber, der Nieren, der
-Lunge oder des Herzens leben, sowie diejenigen, die aus anderen Gründen ein angeschlagenes
-Immunsystem haben. Die dritte Booster-Gruppe ist die der über 18-Jährigen, die in
-Berufen arbeiten, bei denen sie einem erhöhten Covidrisiko ausgesetzt
-sind, weil sie auf viele Menschen (auch ungeimpfte) bei der Arbeit treffen.
-Das gilt für Lehrer, Polizisten, Feuerwehrleute, Postbeamte, Busfahrer
-oder Angestellte in Restaurants und Supermärkten. In diese dritte
-Kategorie falle ich, und ich habe bereits einen Termin für den dritten
-Pieks ausgemacht. Ich werde dann davon berichten. Mittlerweile dürfen für den
-"Booster" übrigens auch verschiedene Impfstoffe kombiniert werden, womöglich
-bald nach dem Motto: "Welchen Impfstoff hätten Sie denn heute gerne?".
+@Z: Construction Site "Ocean Beach"
 
-@Z: Baustelle "Ocean Beach"
+<pic images/ob-sand-sign.ps (#3) The contracted construction company announces a sand relocation at the city beach "Ocean Beach.>
 
-<pic images/ob-sand-sign.ps (#3) Die beauftragte Baufirma kündigt am Stadtstrand "Ocean Beach" eine Sandumlagerung an.>
+<em>Michael</em> Our city beach on the Pacific side is quite famous and
+notorious. At the so-called "Ocean Beach," anyone can walk for miles for free
+and enjoy the breathtaking views. Hikers can see all sorts of marine life, such
+as albatrosses, dolphins, seals, or whales. The beach stretches endlessly, from
+San Francisco's now-closed Cliff House in the north down to the suburb of Daly
+City. During winter storms, 30 foot high monster waves break off the coast,
+which even the most daring surfers avoid. On warm summer days, walkers only
+hear the splashing, and strollers enjoy fabulous sunsets. We walk there a few
+times a month and have surely covered a thousand miles by now.
 
-<em>Michael</em> Unser Stadtstrand zur Pazifikseite ist ja berühmt-berüchtigt.
-Am sogenannten "Ocean Beach" kann jedermann kostenlos meilenweit spazierengehen
-und die atemraubende Aussicht genießen. Wanderer sehen dabei allerhand
-Meeresgetier, wie Albatrosse, Delfine, Robben oder Wale. Der Strand zieht sich
-ewig, von San Franciscos mittlerweile geschlossenem Cliff-House im Norden bis
-runter in den Vorort Daly City. Bei Stürmen im Winter brechen vor der Küste 10
-Meter hohe Monsterwellen, die selbst die verwegensten Surfer meiden, an warmen
-Sommertagen hören Spaziergänger nur Geplätscher, und Lustwandler genießen
-sagenhafte Sonnenuntergänge. Wir spazieren dort ein paarmal im Monat, und sind
-sicher schon tausend Meilen abgeschritten.
+<pic images/ob-sand-before.ps Before: Rocks and plenty of space up to the waterline.>
 
-<pic images/ob-sand-before.ps Vorher: Felsen und viel Platz bis zur Wasserline.>
+However, the cold and treacherous ocean claims a few reckless individuals every
+year, who, often intoxicated, venture too close to the water and are then
+grabbed and dragged in by sudden "sneaker waves." Without a wetsuit, it's "game
+over" after just a few minutes due to the cold water, as the muscles fail, and
+even those who are otherwise good swimmers sink and drown. I've surfed there
+before, but I must say that I would only recommend it to beginners when there
+are baby waves, and the enormous current, which pulls you towards the bay or
+sweeps you south depending on the time of day, requires good paddling
+technique on the board, a well-trained back musculature, and nerves of steel.
 
-Allerdings holt sich der kalte und tückische Ozean jedes Jahr ein paar
-Leichtsinnige, die sich, oft alkoholisiert, zu nah ans Wasser wagen, und dann
-von plötzlichen "Sneaker Waves" gepackt und hineingezerrt werden. Ohne Wetsuit
-ist dann wegen des kalten Wassers nach wenigen Minuten "Game Over", denn die
-Muskeln versagen den Dienst und selbst wer sonst gut schwimmt sackt ab und
-ertrinkt. Ich bin schon mal dort gesurft, muss aber sagen, dass ich das
-Anfängern nur bei Babywellen raten würde, und die enorme Strömung, die einen je
-nach Tageszeit Richtung Bay hochzieht oder nach Süden wegschwemmt, erfordert
-gute Handpaddeltechnik auf dem Board, eine trainierte Rückenmuskulatur -- und
-Nerven wie Drahtseile.
+<pic images/ob-sand-after-1.ps Afterwards: Newly piled sand as a death trap for unsuspecting tourists.>
 
-<pic images/ob-sand-after-1.ps Nachher: Neu aufgeschichteter Sand als Todesfalle für nichtsahnende Touristen.>
+The beach borders the waterfront road "Great Highway," the fortification of
+which, as previously reported (<RBLINK>20120801#8</RBLINK>), partially consists
+of old tombstones from the former city cemetery of San Francisco. Over the
+years, however, the ocean has gradually claimed more and more sand from the
+beach, causing city officials to fear that it might also erode the street
+fortifications. Without delay, they initiated a construction project that used
+a barge anchored in the ocean to pump sand onto the beach, where it was then
+piled up with heavy construction machinery (Figure (#3)).
 
-Der Strand grenzt an die Uferstraße "Great Highway", dessen Befestigung, wie schon einmal berichtet
-(<RBLINK>20120801#8</RBLINK>), teilweise aus alten Grabsteinen des ehemaligen Stadtfriedhofs von
-San Francisco besteht. Im Laufe der Jahre hat sich der Ozean aber nun immer mehr Sand vom Strand
-einverleibt, sodass die Stadtväter wohl Angst bekamen, dass er auch die Straßenbefestigung
-wegspülen könnte. Kurzer Hand starteten sie ein Bauprojekt, das mit Hilfe einer im Ozean
-verankerten Barke Sand auf den Strand pumpte, um diesen dort mit schweren Baumaschinen 
-aufzuschütten (Abbildung (#3)).
+<pic images/ob-sand-construction.ps During the construction work, the beach was closed.>
 
-<pic images/ob-sand-construction.ps Während der Bauarbeiten war der Strand gesperrt.>
+Said and done! After several months of construction, there is now a six to
+eight feet high layer of sand between the ocean waves crashing onto the beach
+and the reinforcement of the coastal road. However, what the builders
+apparently overlooked is that when the tide comes in, a very narrow death zone
+is created between the sand wall and the water for walkers, from which there is
+no easy escape, as no one can climb a sand wall. We recently went for a walk
+there at three-quarters tide and almost got wet from the waves creeping up. I
+predict that it will get dangerous at high tide. Hopefully, the rescue
+personnel stationed further north will intervene in time in case of an
+emergency.
 
-Gesagt, getan! Nach einigen Monaten Bauzeit steht nun eine zwei bis drei Meter
-hohe Sandschicht zwischen den an den Strand schlagenden Wellen des Ozeans und
-der Befestigung der Uferstraße. Was die Bauherren aber anscheinend außer Acht
-gelassen haben, ist, dass bei auflaufendem Wasser für Spaziergänger zwischen
-der Sandmauer und dem Wasser eine sehr schmale Todeszone entsteht, aus der es
-kein leichtes Entrinnen gibt, niemand kann schließlich eine Sandmauer
-hochklettern. Wir sind neulich dort bei 3/4-Flut spazieren gegangen und wären
-beinahe schon von den hochkriechenden Wellenausläufern naß geworden. Bei einer
-hohen Flut sage ich voraus, dass es brenzlig wird. Hoffentlich schreitet das
-weiter nördlich stationierte Rettungspersonal im Notfall rechtzeitig ein.
+@Z: Rip-off at the airport: 8 dollars for a luggage cart
 
-@Z: Abzocke am Flughafen: 8 Dollar für einen Gepäckwagen
+<pic images/smarte-carte-1.ps The San Francisco airport seriously charges eight dollars for a luggage cart.>
 
-<pic images/smarte-carte-1.ps Der Flughafen von San Francisco nimmt allen Ernstes acht Dollar für einen Gepäckwagen.>
+<em>Michael</em> Whenever we're flying back to San Francisco from Germany, we travel
+with heavy luggage. Often, it's four large bags, packed full and carefully
+balanced until the maximum weight is reached. However, after landing and
+picking up the luggage from the conveyor belt, the problem arises of
+maneuvering the suitcases about a quarter mile (and up an elevator) to the taxi
+stand. Every airport in the world provides luggage carts for its passengers,
+sometimes for a small fee at popular transfer points. For example, in
+Frankfurt, renting a cart costs one Euro.
 
-<em>Michael</em> Immer wenn wir aus Deutschland kommend nach San Francisco
-zurückfliegen, reisen wir mit schwerem Gepäck. Oft sind das vier große Taschen,
-vollgepfropft und sorgfältig austariert, bis das Maximalgewicht erreicht ist.
-Nach der Landung und dem anschließenden Aufnehmen des Gepäcks vom Fließband
-stellt sich allerdings dann das Problem, die Koffer circa 500 Meter weit (und
-im Aufzug hoch) zur Taxihaltestelle zu bugsieren. Jeder Flughafen dieser Welt
-hält für seine Fluggäste hierfür Gepäckkarren vor, an beliebten Umsteigepunkten
-auch gern gegen ein geringes Entgelt, in Frankfurt zum Beispiel kostet das
-Ausleihen des Karrens einen Euro.
+<pic images/smarte-carte-2.ps For each of these carts, a passenger shelled out eight dollars for ten minutes of use.>
 
-<pic images/smarte-carte-2.ps Für jeden dieser Wagen hat ein Fluggast für zehn Minuten Benutzung acht Dollar hingeblättert.>
+Until recently, this was also the case at SFO, the international airport of San
+Francisco. However, the cart operating company "Smarte Carte" apparently
+thought, "Why not cash in big time and jack up the prices? What else are the
+passengers going to do, carry their luggage themselves?!" In my imagination,
+the haggard figures in the boardroom then burst into loud, evil laughter,
+similar to Dr. Evil's henchmen in the movie "Austin Powers."
 
-Dies war bis vor kurzem auch am SFO, dem internationalen Flughafen von San
-Francisco so, nur dachte sich die Karrenbetreiberfirma "Smarte Carte" dort
-offenbar: "Warum nicht mal kräftig abkassieren und den Preis in die Höhe
-schrauben, was wollen die Fluggäste denn sonst machen, vielleicht ihr Gepäck
-tragen?!" und in meiner Fantasie brechen die verhärmten Gestalten der
-Vorstandsetage im Sitzungsaal daraufhin in schallendes böses Gelächter aus,
-ähnlich wie die Schergen von Dr. Evil im Film "Austin Powers".
+Well, of course, one could carry less luggage and each person could just roll a
+suitcase, but for those of us who like to shop, unfortunately, this option is
+not available. Just like an obviously British gentleman who, struggling to
+balance three suitcases without a luggage cart in the elevator up to the taxi
+stand, whispered to me: "I can't believe they're taking 8 dollars for a cart!"
+and I had to agree with him with "Yep, it's ridiculous!" Because from those 8
+dollars, the passenger gets exactly zero dollars back when they return the
+cart. An employee of the company collects the carts, brings them back to the
+machine, and 8 dollars per cart go to the operating company of Dr. Evil. But
+apparently, the mayor of San Francisco, London Breed, is not inclined to ensure
+that arriving tourists are not already annoyed by the unacceptable conditions
+at their vacation destination at the airport. The nightmarishly rundown
+downtown later provides them with enough reasons for that!
 
-Gut, man könnte natürlich weniger Gepäck mitführen, und pro Person einfach
-einen Rollkoffer rollen, aber wer wie wir gern einkauft, hat diese Option
-leider nicht. Ganz so wie ein offensichtlich aus Großbritannien stammender
-Herr, der, mühevoll drei Koffer ohne Gepäckwagen im Aufzug nach oben zum
-Taxistand balancierend, mir zuraunte: "I can't believe they're taking 8 Dollars
-for a cart!" und ich musste ihm mit "Yep, it's ridiculous!" zustimmen. Denn von
-den 8 Dollars bekommt der Fluggast exakt Null Dollar zurück, wenn er den Karren
-wieder abgibt. Ein Laufjunge der Firma sammelt die Wagen wieder ein, bringt sie
-zurück zum Automaten und pro Karren gehen 8 Dollar an die Betreiberfirma von
-Dr. Evil. Aber offensichtlich steht der Bürgermeisterin von San Francisco,
-London Breed, nicht der Sinn danach, dafür zu sorgen, dass sich ankommende
-Touristen nicht schon am Flughafen über die unhaltbaren Zustände an ihrem
-Urlaubsziel ärgern. Dazu bietet ihnen die alptraumhaft heruntergekommene
-Innenstadt später schließlich Gründe genug!
+@Z: Top product: Atul Gawande "Being Mortal"
 
-@Z: Toppprodukt: Atul Gawande "Sterblich sein"
+<pic images/mortal.ps The book "Being Mortal" by Atul Gawande>
 
-<pic images/mortal.ps Das Buch "Being Mortal" von Atul Gawande>
+<em>Angelika</em> Actually, the section for top products is always reserved for
+Michael, but today it's my turn. I love reading, and this month I devoured one
+of the best non-fiction books I've read in a long time. The American doctor
+Atul Gawande, in his work "Being Mortal" (German title: "Sterblich sein"),
+deals with dying and how modern medicine miserably fails to accompany this
+process with dignity. It's about what really matters at the end of a life.
+Through many personal stories (including that of his own father), Gawande
+illustrates how often people are treated and managed without considering their
+true needs and seeks ways out of this predicament. Highly recommended!
 
-<em>Angelika</em> Eigentlich ist Michael ja immer die Rubrik des Toppprodukts
-vorbehalten, aber heute bin ich einmal dran. Ich lese ja für mein Leben gern
-und habe eines der besten Sachbücher, das ich seit langem gelesen habe, diesen
-Monat verschlungen. Der amerikanische Arzt Atul Gewande beschäftigt sich in
-seinem Werk "Being Mortal" (deutscher Titel: "Sterblich sein") mit dem Sterben
-und wie die moderne Medizin kläglich versagt, diesen Prozess würdevoll zu
-begleiten. Es geht darum, was am Ende eines Lebens wirklich zählt. Anhand
-vieler persönlicher Geschichten (u.a. die seines eigenen Vaters) stellt
-Gewande dar, wie oft am Menschen vorbei therapiert und behandelt wird und sucht
-nach Auswegen dieser Misere. Unbedingt zu empfehlen!
+@Z: Traveling as a hobo on a freight train
 
-@Z: Als Hobo mit dem Frachtzug reisen
+<pic images/stobe-jump.ps Stobe jumps onto a moving freight train.>
 
-<pic images/stobe-jump.ps Stobe springt auf einen fahrenden Frachtzug auf.>
+<em>Michael</em> From American Wild West films, we are familiar with the scenes
+where penniless individuals travel half across America in empty freight
+train cars. You can watch mile-long trains with hundreds of cars sometimes chugging
+along at only 10 or 20 mph through the endless prairie, and often there is no
+cargo on a car or there is still room for an undemanding passenger in an empty
+livestock car. Towards the end of the 19th century, it was mainly traveling
+vagrants, known as <LINK>https://en.wikipedia.org/wiki/Hobo|Hobos</LINK>, using
+this free, albeit neither comfortable nor entirely safe method of passenger
+transport. Although the railway police are working hard to deter unauthorized passengers
+from riding by being present at the loading stations, since the trains
+sometimes only travel at a slow pace, hobos often simply jump onto the moving
+wagons somewhere along the open track.
 
-<em>Michael</em> Aus amerikanischen Wildwestfilmen kennt man ja die Szenen, in
-denen Mittellose in leeren Güterzugwaggons mit der Eisenbahn quer durch halb
-Amerika fahren. Kilometerlange Züge mit hunderten von Waggons zuckeln hier
-teilweise mit nur 10 oder 20 km/h durch die endlose Prärie, und oft
-ist auf einem Wagen keine Fracht oder in einem leeren Viehwagon noch Platz für
-einen anspruchslosen Fahrgast. Gegen Ende des 19. Jahrhunderts nutzten vor
-allem fahrende Landstreicher, sogenannte
-<LINK>https://en.wikipedia.org/wiki/Hobo|Hobos</LINK>, diese kostenlose,
-wenngleich weder bequeme noch ganz ungefährliche Art des Personentransportes.
-Zwar versucht die Bahnpolizei durch Präsenz in den Verladestationen,
-unautorisierte Fahrgäste vom Mitfahren abzuhalten, aber da die Züge teilweise
-nur Schleichtempo fahren, springen Hobos oft einfach auf offener Strecke auf
-die fahrenden Waggons auf.
+Fast forward to today, where riding on freight trains, the so-called activity of
+<LINK>https://en.wikipedia.org/wiki/Freighthopping|Freighthopping</LINK>
+is of course, strictly prohibited. The
+railway police carefully ensure that no one sneaks into the partially
+fortress-like secured loading stations for freight trains. But a few daring
+individuals still are taking on the adventure today. For example, the YouTube
+personality "Stobe the Hobo," who not only traveled all over America in freight
+trains but also reported about it in captivating videos on YouTube. In these
+videos, you can see freight trains rushing through the endless expanses of the
+country in bright sunshine, while the protagonist films himself and his
+buddy "Wingman" camping in the open wagons, enjoying the ride.
 
-Auch heute ist das Mitfahren auf Güterzügen, das sogenannte
-<LINK>https://en.wikipedia.org/wiki/Freighthopping|Freighthopping</LINK>,
-selbstverständlich strengstens untersagt. Die Bahnpolizei wacht sorgfältig
-darüber, dass sich niemand in die teilweise festungsartig gesicherten
-Verladestationen für Güterzüge einschleicht. Aber ein paar verwegene Gestalten
-wagen das Abenteuer auch heute noch. So zum Beispiel die Youtube-Persönlichkeit
-"Stobe the Hobo", der nicht nur ganz Amerika in Güterzügen abgefahren hat,
-sondern auch noch in hinreißenden Videos auf Youtube darüber berichtet.
-In denen sieht man Güterzüge im prallen Sonnenschein langsam durch die endlosen Weiten
-des Landes rauschen, während der Protagonist sich selbst und
-seinen Kumpel "Wingman" dabei abfilmt, wie sie in den offenen Waggons campieren
-und die Fahrt genießen.
+<pic images/stobe-sit.ps Don't be seen by the railway police!>
 
-<pic images/stobe-sit.ps Dass das nur die Eisenbahnpolizei nicht sieht!>
+Stobe accompanies the videos with self-played piano music, mostly classical
+interpretations of songs by local rock bands. In one episode in the American
+Northwest near Seattle, for example, he played pieces by Nirvana, and one other time,
+I recognized the
+piece "Heathens" by the band "Twenty One Pilots." The whole thing is presented
+in such a cheerful and at the same time calming way that some people in the
+YouTube comments have already admitted to using the videos as a sleep aid. As
+an introductory recommendation, I suggest you try 
+<LINK>https://www.youtube.com/watch?v=LtIlIF-Wkag|"The Pacific Northwest"</LINK>
+and I guarantee you that you'll be fascinated and go on an on and won't be able to stop
+until you've watched at least several dozen episodes.
 
-Die Videos untermalt Stobe mit selbstgespielter Klaviermusik, meist klassische
-Interpretationen örtlicher Rock-Bands. In einer Episode im Nordwesten
-bei Seattle spielte er zum Beispiel Stücke von Nirvana, einmal habe ich das
-Werk "Heathens" der Band "Twentyone Pilots" erkannt. Das Ganze ist so heiter
-und gleichzeitig so beruhigend aufgemacht, dass mancher in den
-Youtube-Kommentaren schon eingeräumt hat, die Videos als Einschlafhilfe zu
-gebrauchen. Als Einstiegsdroge empfehle ich euch die
-<LINK>https://www.youtube.com/watch?v=LtIlIF-Wkag|Episode "The Pacific Northwest"</LINK>,
-und ich garantiere euch, dass ihr anschließend nicht mehr aufhören könnt,
-bis ihr mehrere Dutzend Folgen gesehen habt.
+<pic images/stobe-beer.ps "Stobe the Hobo" waiting, drinking cheap canned beer.>
 
-<pic images/stobe-beer.ps "Stobe the Hobo" in Wartestellung, billiges Dosenbier trinkend.>
+Since freight trains run according to a secret schedule known only to the
+railroad workers, hobos often have to hang around near track junctions for
+hours, sometimes even days, until an opportunity arises to catch a ride in the
+desired direction. "Stobe the Hobo," or James Stobie, as he is known by his
+real name, camps as a homeless person under bridges and regularly indulges in
+his obsession of acquiring large quantities of cheap beer from local
+supermarkets. His declared enemies, by the way, are the nerdy railroad
+enthusiasts, known as <LINK>https://www.urbandictionary.com/define.php?term=Foamer|Foamers</LINK>,
+who, in the pursuit of their declared hobby, hang around railway tracks all
+day with a camera strapped on, photographing trains, and reporting hobos to the
+railway police if they discover them engaging in illegal activities.
 
-Da die Güterzüge nach einem geheimen Fahrplan fahren, den nur die Eisenbahner
-kennen, muss der Hobo allerdings oft stundenlang, manchmal sogar tagelang in
-der Nähe von Streckenkreuzungen abhängen, bis sich wieder eine Gelegenheit zum
-Mitfahren in die gewünschte Richtung bietet. "Stobe the Hobo", oder James
-Stobie, wie er mit bürgerlichem Namen heißt, campt dann als Obdachloser unter
-Brücken, und geht regelmäßig seiner Obsession, dem Erwerb von Unmengen billigen
-Biers in den lokalen Supermärkten nach. Seine erklärten Feinde sind übrigens
-die nerdigen Eisenbahn-Freaks, sogenannte
-<LINK>https://www.urbandictionary.com/define.php?term=Foamer|Foamer</LINK>,
-die, in Ausübung ihres erklärten Hobbies, den ganzen Tag mit umgeschnalltem
-Fotoapparat an Bahnstrecken abhängen, Züge ablichten und Hobos bei der
-Eisenbahngesellschaft verpfeifen, falls sie einen bei der Ausübung illegaler
-Aktivitäten entdecken.
+<pic images/stobe-train.ps Stobe the Hobo in his element on a freight train.>
 
-<pic images/stobe-train.ps Stobe the Hobo in seinem Element auf einem Güterzug.>
+"Stobe the Hobo" unfortunately had to learn firsthand that jumping onto moving
+freight trains is indeed life-threatening: In 2017, he died 
+<LINK>https://www.dailydot.com/upstream/stobe-the-hobo-dath/|in a railroad accident</LINK>.
+The sad end of a great man, but in his YouTube videos, he will live on forever.
+Peace out!
 
-Dass das Aufspringen auf fahrende Güterzüge tatsächlich lebensgefährlich ist, 
-musste "Stobe the Hobo" übrigens leider am eigenen Leib erfahren: Im Jahre 2017 kam er
-<LINK>https://www.dailydot.com/upstream/stobe-the-hobo-dath/|bei einem Bahnunfall ums Leben|Stobes tödlicher Unfall</LINK>.
-Das traurige Ende eines großen Mannes, aber in seinen Youtube-Videos wird er ewig
-weiterleben. Peace out!
+Greetings from the vast expanses of the country:
 
-Grüße aus den unendlichen Weiten des Landes:
-
-Angelika und Michael
+Angelika and Michael
