@@ -1,0 +1,514 @@
+San Francisco, den 31.10.2024
+
+@Z: Amerika im Wahlfieber
+
+<pic images/vote-president.ps Wer soll Präsident werden, Trump oder Harris?>
+
+<em>Angelika</em> Die USA befinden sich in den letzten Zügen des Wahlkampfs und
+die Schreiberlinge tippen sich die Finger wund. Wir sind schon ganz erschöpft
+von den ganzen Debatten, Analysen und Prognosen. Viele fragen uns oft nach
+unserer Einschätzung, da wir ja in diesem Land leben. Wer wird gewinnen, Harris
+oder Trump? Das hört sich jetzt vielleicht etwas lapidar an, aber die Chancen
+sind weiterhin 50-50 für beide. Schlauere Analysen können wir auch nicht
+abgeben. Es bleibt sehr knapp. Die Entscheidung, dass Biden das Feld räumte im
+Juli, war nötig und wichtig, kam aber leider etwas zu spät. Ich hätte mir
+zumindest einen offenen Parteitag der Demokraten gewünscht, indem nicht nur
+Kamala Harris aufgestellt gewesen wäre, sondern auch weitere Kandidaten, für
+die dann die Delegierten ihre Stimmen abgegeben hätten. Aber mich fragt ja
+keiner.
+
+<pic images/harris-lawn-sign.ps Dieser Hausbesitzer wählt demokratisch.>
+
+Denn es geht nicht darum, die demokratischen Wähler in Kalifornien oder
+New York zu überzeugen, sondern die Unentschlossenen in der Mitte des Landes.
+Und Kamala Harris ist nun einmal mit Bidens Politik verbunden und hatte als
+Vizepräsidentin zwischenzeitlich extrem schlechte Zustimmungswerte in Umfragen.
+Diese haben sich mittlerweile aber verbessert und liegen
+<LINK>https://news.gallup.com/poll/649127/democrats-give-harris-nearly-unanimous-positive-ratings.aspx|knapp unter 50%|Zustimmungswerte für Harris</LINK>.
+Laut New York Times wusste einer von sechs Wählern im Oktober immer noch nicht, für
+wen er am 5. November seine Stimme abgibt. Zu dieser Gruppe gehören aber auch
+die Wähler, die sich schlussendlich dazu entscheiden, gar nicht zu wählen, weil
+sie sich weder für Harris noch für Trump erwärmen können oder aus Protest einen
+Quatsch-Kandidaten in den Wahlzettel eintragen. Interessanterweise steht auch
+noch Robert Kennedys Name auf den kalifornischen Wahlzetteln, obwohl er
+offiziell seine Kandidatur zurück gezogen hat, aber da waren die Wahlzettel
+schon gedruckt. 
+
+<pic images/trump-sign-kauai.ps In San Francisco kaum zu finden, deshalb Trump-Werbung aus Hawaii.>
+
+Unsere Wahlunterlagen liegen schon zuhause, denn in Kalifornien bekommen wir
+seit der Pandemie automatisch Briefwahlunterlagen zugesandt. Auch türmen sich
+mittlerweile Berge von Pamphleten in unserer Wohnung, und jeden Tag bekomme ich
+irgendwelche Textnachrichten, dass ich doch bitte für Kamala Harris spenden
+soll. Keine Ahnung, woher die meine Mobilnummer haben. In diesen
+Textnachrichten werde ich auch des öfteren mit Henry angesprochen. Hmmm. Die
+Broschüren, die täglich unseren Briefkasten verstopfen, beziehen sich übrigens
+auf die lokalen Wahlen, denn in Kalifornien und San Francisco darf der Wähler
+wieder über zig Volksbegehren ("Propositions") entscheiden. Und in San
+Francisco ist Bürgermeisterwahl, darüber
+berichtet die internationale Presse nicht, denn dafür steht die
+Präsidentschaftswahl zu sehr im Vordergrund.
+
+<pic images/harris-sign-miraloma.ps Ein Fan von Kamala Harris und Tim Walz.>
+
+Eigentlich hätten wir schon im November 2023 Bürgermeisterwahl gehabt, aber
+durch die Verabschiedung der Proposition H im Jahr 2022 haben die Wähler
+bestimmt, dass Bürgermeisterwahlen jetzt immer mit den Präsidentschaftswahlen
+zusammen fallen, weil man sich dadurch eine höhere Wahlbeteiligung erhofft. San
+Francisco beuteln ja schon seit längerer Zeit so einige Probleme. Downtown
+liegt seit der Pandemie brach und erholt sich einfach nicht. Die
+Kriminalitätsrate ist hoch, Einbrüche in Häuser und Autos, Ladendiebstähle im
+großen Stil, Obdachlosenzeltstädte auf Bürgersteigen und die Fentanylkrise
+haben die Lebensqualität von vielen in dieser Stadt stark eingeschränkt. Viele
+Wähler sind angefressen vom Status Quo und wollen, dass sich etwas verändert.
+
+Politik ist in dieser Stadt allerdings kompliziert.  Es gibt letztendlich keine
+Opposition im Stadtrat, sondern Politiker werden einkategorisiert, in moderate
+oder linkslastige Demokraten. Wohlgemerkt, nach den Maßstäben San
+Franciscos, ein moderater Demokrat hier würde in anderen Gegenden in den USA
+wahrscheinlich als Linker gelten.  Politiker in San Francisco kämpfen auch
+immer wieder mit Korruptionswürfen. Es herrscht ein aufgeblähter
+Bürokratiedschungel und wenig Kontrolle darüber, ob Steuergelder auch so
+eingesetzt werden wie vorgesehen.
+
+<pic images/voter-guide.ps Wer Rat sucht, liest diverse "Voter Guides".>
+
+Und das ist noch nicht alles: Neben dem Präsidenten der USA und dem
+Bürgermeister von San Francisco stehen auch ein gutes Dutzend weiterer Ämter
+zur Wahl: Unter anderem der Sheriff, die Vorsitzenden des Schulamts ("School
+Board"), der Direktor der U-Bahn (BART) und noch einige Stadtratsabgeordnete,
+die allerdings nur Stimmen von Wählern erhalten, die im jeweiligen Distrikt
+wohnen.
+
+@Z: Wahl in einem Rutsch: Ranked Choice
+
+<pic images/vote-mayor.ps Den Bürgermeisterkandidaten werden Ränge zugewiesen>
+
+<em>Angelika</em>
+Dann hat San Francisco noch ein interessantes Wahlsystem, nämlich das
+sogenanntes <LINK>https://ballotpedia.org/Ranked-choice_voting_(RCV)|"ranked-choice voting" (Rangfolgewahl)</LINK>. Grob und vereinfacht
+ausgedrückt bringt der Wähler alle Kandidaten in eine Rangfolge. Der Kandidat,
+den er am besten findet, kommt an die erste Stelle, die zweite Wahl an Stelle
+zwei usw. Das hört sich zunächst einfach an, hat aber seine Tücken, wie ich
+gleich noch näher erklären werde. Durch ein solches Wahlverfahren verhindert
+man Stichwahlen, aber das Wahlverfahren wird oft als zu kompliziert oder zu
+undurchsichtig kritisiert.
+
+<pic images/noe-valley-store-signs-1.ps Unser Donut-Laden ist im Wahlfieber.>
+
+Aber wie geht das in San Francisco nun genau? Der Wähler kann bis zu 10
+Kandidaten in der Reihenfolge seiner Präferenz bewerten.  Bei unserer
+Bürgermeisterwahl dieses Jahr sind 13 Kandidaten aufgestellt. Trotzdem ist bei
+10 Schluss mit der Rangfolge. Jeder Wahlberechtigte kann so viele (maximal 10)
+oder so wenige Kandidaten bewerten, wie er möchte. Jeder der Kandidaten muss
+dabei auf dem Wahlzettel eine andere Rangfolge haben und derselbe Kandidat darf
+nur eine Bewertung erhalten. 
+
+<pic images/ranked-choice.ps Ein Ranked-Choice-Verfahren über sechs Runden>
+
+Wie wird nun ausgezählt? Zunächst wird gezählt, wieviel Mal jeder einzelne
+Kandidat auf Platz 1 bei den einzelnen Wählern gelandet ist. Erzielt ein
+Kandidat in dieser Runde die Mehrheit (also mehr als 50%), gewinnt dieser. Die
+Auszählung ist beendet. Gibt es nach dieser ersten Runde der Auszählung keinen
+Gewinner, scheidet der Kandidat mit den wenigsten Stimmen aus. Hat der Wähler
+diesen als erste Wahl angegeben, wird dessen zweite Präferenz als neue erste
+gezählt.
+
+Erzielt ein Kandidat in der zweiten Runde mehr als 50%, gewinnt dieser Kandidat
+und die Auszählung ist ebenfalls beendet. Wenn es in der zweiten Runde wieder
+keinen Gewinner gibt, scheidet der Kandidat mit den wenigsten Stimmen erneut
+aus und die Rangfolgen verschieben sich dementsprechend. Dies Verfahren geht
+solange weiter, bis ein Gewinner ermittelt wird. 
+
+<pic images/flyers-mail.ps Eine Auswahl der Pamphlete, die in letzter Zeit im Briefkasten lagen>
+
+In der Theorie hört sich das logisch an, aber das Auszählverfahren setzt
+darauf, dass der Wähler tatsächlich eine Rangfolge angibt. Wählt ein Wähler zum
+Beispiel nur einen Kandidaten, der gleich in der ersten Runde rausfällt, ist
+die Stimme weg. Das kann unter Umständen dazu führen, dass ein Kandidat
+gewinnt, der allgemein nicht favorisiert wurde und mit weniger als 50% der
+Stimmen siegt, wegen des vorher erläuterten Prinzips der aufgebrauchten
+Stimmzettel.  Wenn zum Beispiel 200 Stimmzettel abgegeben wurden und 80 davon
+aufgrund fehlender Bewertungen für die verbleibenden Kandidaten erschöpft sind,
+könnte ein Kandidat mit 61 Stimmen gewinnen. Das sind mehr als 50% der
+verbleibenden 120 Stimmzettel, aber 30,5% aller ursprünglich abgegebenen
+Stimmzettel.
+
+Wer begibt sich nun für San Francisco ins Rennen? Von der Liste der 13 sind
+eigentlich nur 5 wirklich ernst zu nehmen. Da wäre zunächst unsere jetzige
+Bürgermeisterin London Breed, die es noch einmal versuchen will. Dann Mark
+Farrell, der von 2010 bis 2018 im Stadtrat saß, und 2018 übergangsweise für ein
+halbes Jahr als Bürgermeister fungierte, nach dem Tod des damals amtierenden
+Bürgermeisters Ed Lee. Desweiteren Ahsha Safaí, ebenfalls Supervisor im
+Stadtrat. Dann Aaron Peskin, der seit Jahrzehnten die Stadtpolitik im Stadtrat
+prägt, und zur Zeit als dessen Vorsitzender fungiert. Er hat den Spitznamen
+"Napoleon von North Beach", nach dem Namen des Stadtteils, in dem er wohnt. Er
+verkauft sich als besonders linksliberal, hat aber nur seine eigenen Interessen
+im Blick. Zum Beispiel gibt er vor, die Schaffung von Wohnraum in San Francisco
+zu unterstützen, blockt aber Bauprojekte in seinem Viertel stets ab. Auch
+machte er Wahlkampf damit, dass San Francisco unbedingt politische Veränderungen
+braucht, obwohl er seit über 20 Jahren Teil des System ist als einflussreicher
+Supervisor im Stadtrat. Da fühlt man sich als Wähler doch etwas auf den Arm
+genommen. Leider sehen wir seine Wahlplakate immer noch in vielen Fenstern
+hängen.
+
+<pic images/womens-voter-guide.ps Der "Women's Voter Guide" rät dazu, London Breed im Ranked Choice auf Platz 1 zu setzen, und Aaron Peskin auf Platz 2.>
+
+Und dann ist da noch der politische Außenseiter Daniel Lurie, der bis dato noch
+kein politisches Amt inne hatte, allerdings mit einer sehr bekannten San
+Francisco Familie verbandelt ist, nämlich der von Levi Strauss. Sicher
+wisst ihr alle, wer Levi Strauss ist. Der Mann beglückte die Welt mit der
+legendären Levis Jeans. Daniel Lurie hat einige Millionen seines eigenen
+Vermögens in den Wahlkampf gepumpt, und es scheint sich auszuzahlen, denn er
+mischt jetzt ganz vorne mit. Von Lurie flatterte jeden Tag eine Broschüre bei
+uns ins Haus.
+
+Für die Bürgermeisterwahl in San Francisco erwarten wir, dass der Gewinner
+nicht schon nach der ersten Runde feststeht, sondern dass sich die
+Wählerstimmen hauptsächlich auf Breed, Farrell, Lurie und Peskin verteilen
+werden. Es bleibt spannend auf allen Ebenen.
+
+@Z: Das teuerste Klo Amerikas
+
+<pic images/toiletgate-outside.ps Dieses Klo auf dem Marktplatz von Noe Valley kostete ursprünglich 1.7 Millionen.>
+
+<em>Michael</em>
+Unser Stadtteil Noe Valley in San Francisco liegt ja bekanntlich 
+fast im Zentrum der Halbinsel, auf der sich die Stadt ausbreitet.
+Kaum ein Tourist kennt aber unsere kleine Oase, ein wohlbehütetes kleines
+Dorf mit eigenem Marktplatz, inmitten einer verkommenen Stadt,
+in der wegen verfehlter Politik seit Jahren das Chaos herrscht.
+
+<pic images/nv-map.ps Hier liegt unser Stadtteil Noe Valley auf einer Karte von San Francisco>
+
+Auf unserem Marktplatz nun findet samstäglich ein Wochenmarkt statt, auf dem
+Bauern aus der Umgebung biologisch hochwertige Ware an eine wohlbetuchte
+Kundschaft verkaufen. Unter der Woche stehen auf dem Platz Tischlein mit
+Stühlen, auf denen komischerweise praktisch nie Obdachlose lungern sondern dem
+Anschein nach nur besserverdienendes Stadtpublikum, das sich offensichtlich
+nach dem Bummel durch die Modeboutiquen auf der 24. Straße ein Päuschen gönnt.
+Erstaunlich brave Kinder spielen unter Aufsicht ihrer Nannies auf der Rutsche
+des Kinderspielplatzes.
+
+<pic images/toiletgate-construction.ps Der Rundbriefreporter überwacht die Bauarbeiten an der berühmten Toilette>
+
+Eine Idylle, ein Juwel der Stadtplanung! Nur eines fehlte bis vor
+kurzem: eine öffentliche Toilette, denn die umliegenden Restaurants
+lassen aus Kostengründen eigentlich nur Gäste pinkeln. Nun begab es
+sich, dass im Jahre 2018 der damalige Supervisor Matt Haney einen Plan 
+aus der Tasche zog, das Klo zu bauen. Aber natürlich kann auf
+dem prestigeträchtigen Marktplatz von Noe Valley kein Pixie-Klo stehen,
+wir sind ja hier nicht auf dem Heavy-Metal-Open-Air-Festival von Wacken!
+So wurden einige Entwürfe eingeholt, der beste ausgewählt und genehmigt.
+
+Dass das geplante 20 Quadratmeter füllende Monument der Entschlackung nun
+schlappe 1.7 Millionen Dollar kosten sollte, schreckte Supervisor Haney nicht,
+denn bekanntlich fordert unsere Stadt ja für jeden Pups 42 kostenpflichtige
+Genehmigungen, und für jegliche Bauunternehmung halten 17 verschiedene
+Gewerkschaften die Hand auf. Das kommt euch jetzt grotesk vor, aber in San
+Francisco kassieren tatsächlich das Bauamt (Department of Public Works), die
+Behindertenkommission (Mayor's Office on Disability), Kunstgutachter (Arts
+Commission), der Stromversorger (PG\&E), das Stadtplanungskommittee und viele
+weitere Organisationen horrende Gebühren für undurchsichtigen Bürokram und
+Gutachten, bevor so ein Projekt überhaupt Gestalt annimmt.  Weiter dürfen von
+Gesetz her nur hochqualifizierte Gewerkschafler die Baumaßnahmen erledigen.
+
+Nichtsdestrotrotz hatte Matt Haney die 1.7 Millionen bereits organisiert
+gehabt, das Geld sollte aus dem Steuersäckel von Stadt und Bundesland kommen,
+und das Projekt war, wie man so sagt, im Sack. Matt Haney hatte mittlerweile
+Karriere gemacht und war vom Stadtrat zum Abgeordneten der Regierung in
+Sacramento aufgestiegen.  Überraschenderweise empfand aber unser sonst gar
+nicht geiziger Gouverneur Gavin Newsom die Klokosten als horrend und strich
+paukenschlagartig die Beteiligung des Bundesstaates Kalifornien. Damit war das
+Projekt erstmal auf Eis. Nun begann eine wilde Jagd nach Sponsoren, und eine
+Toilettenfirma aus Nevada erklärte sich bereit, das Bauwerk kostenlos zu
+errichten. Problem was nur, dass die Stadträte San Franciscos einige Zeit vorher
+vollmundig erklärt hatten, mit Bundesstaaten wie Nevada keine Geschäfte mehr zu
+machen, da Nevada die hehren LBTQ-Gesetze San Franciscos nicht im vollem Umfang
+implementierte. Parbleu!
+
+<pic images/toiletgate-inside.ps Der Rundbriefreporter inspiziert den Innenraum und stellt nichts Glamourörses fest.>
+
+Mit dem Rücken zur Wand lockerten die Stadtväter nun ihre moralischen Ansprüche
+an die Politik anderer Bundesstaaten, und das Klo wurde geliefert, wobei zwei
+verschiedene Firmen nicht nur die Konstruktions- sondern auch den Löwenanteil
+der gewerkschaftlich extrahierten Baukosten übernahmen. Die Stadt schoss
+lediglich 200.000 Dollar zu, ebenfalls an gewerkschaftlich organisierte
+Bauarbeiter.
+
+Mittlerweile hat die "Toiletgate"-Affäre bereits US-weite Wellen geschlagen,
+und auch ein
+<LINK>https://en.wikipedia.org/wiki/Noe_Valley_public_toilet|Wikipedia-Artikel|Wikipedia-Artikel zum öffentlichen Klo in Noe Valley</LINK>
+besteht seit einiger Zeit (nicht von
+mir übrigens). Reist man heutzutage als kalifornischer Einheimischer in andere
+Bundesstaaten, ist es nicht ungewöhnlich, augenrollend auf derartigen "typisch
+kalifornischen" Unsinn angesprochen zu werden.
+
+<pic images/toiletgate-nyt.ps Sogar die New York Times schrieb einen Artikel über das Marktplatzklo in Noe Valley>
+
+Auch die renommierte Tageszeitung New York Times hat das Thema bereits
+<LINK>https://www.nytimes.com/2024/04/28/opinion/san-francisco-public-toilet.html|aufgerollt|Noe Valleys Toilette in der New York Times</LINK>.
+Und Ex-Präsident Trump hat neulich das Thema als Wahlkampfrhetorik
+<LINK>https://x.com/DefiantWorld/status/1834928835672129795|aufgegriffen|Trump spricht über das Klo in Noe Valley</LINK>,
+als Beleg verfehlter Politik seitens der demokratischen Partei.
+Als rasender Rundbriefreporter habe ich die Toilette, die nur
+etwa 500 Meter von unserem Haus entfernt ist, übrigens schon mal
+benutzt und kann bestätigen, dass sie funktioniert. In die Königsklasse
+einordnen würde ich sie allerdings nicht, da habe ich sogar auf
+Wanderwegen in der Pampa schon deutlich ansprechendere Konstruktionen gesehen.
+
+@Z: Polizei schnappt Raser an Zebrastreifen
+
+<pic images/xwalk-chicken-1.ps Das Polizei-Huhn will über den Zebrastreifen, aber der Raser rast.>
+
+<em>Michael</em> Bin ich als Fußgänger unterwegs, finde ich den kalifornischen
+Autofahrer leichter zu ertragen als die anderer Bundesstaaten oder gar den
+deutschen. Okay, die meisten können hier überhaupt nicht autofahren, schleichen wie
+Fünfjährige, aber dank Automatik bewegt sich das Auto trotzdem vorwärts.
+Allerdings fehlt es kalifornischen Autofahrern einfach an elementarsten
+Fähigkeiten, um Situationen im Verkehr zu überblicken. Halt wie jemand, der mit
+fünf Jahren schon am Steuer sitzt.
+
+Aber, egal: sie fahren im allgemeinen super vorsichtig. Müssen sie an einem
+Stoppschild halten, oder abbiegen, bleiben sie selbst dann stehen, wenn ein
+Fußgänger nur daran denkt, in nächster Zeit irgendwann die Kreuzung zu
+überqueren. Das ist beileibe nicht Standard, in anderen Bundesstaaten oder
+sogar Deutschland wird man als Fußgänger nicht vorrangig behandelt und darf
+nicht blindlings die Straße überqueren.
+
+Es gibt allerdings eine Ausnahme, bei der ich mir hier oft die Augen reibe:
+Zebrastreifen ohne Stoppschild. Da marschiert man als kalifornischer Fußgänger
+couragiert Richtung Straßenmitte und stellt verwundert fest, dass kein
+Autofahrer anhält.
+
+Laut Straßenverkehrsordnung ist dies eindeutig geregelt, auf dem Zebrastreifen
+hat der Fußgänger Vorfahrt, egal ob der Autofahrer ein Stoppschild hat oder
+nicht. Neugierig fragte ich bei einem amerikanischen Bekannten nach, und der
+erläuterte, dass es ein ungeschriebenes Gesetz sei, dass Autofahrer nur an
+Kreuzungen mit Stoppschild anhielten, da man als Fußgänger ja in Gottes Namen
+warten könne, bis das Auto durch wäre.
+
+<pic images/xwalk-chicken-2.ps Die Strafe folgt auf dem Fuß: Polizeimotorrad jagt den Raser.>
+
+Dieser Diskrepanz zwischen Straßenverkehrsordung und kalifornischem Verständnis
+derselben ging nun neulich die örtliche Polizei in San Francisco nach. Sie postierte
+einen Polizisten mit einem riesigen Gockelkostüm an einem Zebrastreifen, instruierte
+ihn, auf den Zebrastreifen zu treten, um die Straße zu überqueren, als Autos
+angeschossen kamen.
+
+Wer nicht anhielt, dem wurde flugs ein Motorradpolizist mit Blaulicht
+hinterhergeschickt, der den Raser zum Anhalten zwang und ein teures Ticket
+aushändigte. An Kreativität mangelt es den Gesetzeshütern hier nicht, das muss
+man umumwunden zugeben. Allerdings
+<LINK>https://x.com/CollinRugg/status/1837639499247178090|regten sich gleich wieder Leute auf|Polizei-Huhn auf Zebrastreifen</LINK>, die dem
+SFPD (San Francisco Police Department) vorwarfen, sich nicht um die eigentlichen
+Probleme der Stadt zu kümmern. Die Polizei hat's nicht leicht in unserer Stadt,
+man kann's den Bürgern hier einfach nicht recht machen!
+
+@Z: Gut und preiswert: Tommy's Joynt
+
+<pic images/tj-vanness.ps Westlich des Tenderloin-Viertels findet sich das Restaurnt Tommy's Joynt.>
+
+<em>Michael</em>
+Die Preise für Speisen im Restaurant haben spürbar angezogen in San Francisco,
+deshalb ist es wichtig, zu wissen, wo man noch gut und preiswert
+isst und trinkt in unserer teuren Stadt.
+
+<pic images/tj-counter.ps Der Mann an der Theke gibt das Essen aus.>
+
+Eine altehrwürdige Institution dieser Art ist Tommy's Joynt, auf der Van Ness
+Avenue auf der Höhe der Bush Street. Für Touristen ist sie etwas ab vom Schuss,
+aber doch zu Fuß schnell von der Innenstadt zu erreichen, wenn man sich nicht
+scheut, das etwas verhaute Tenderloin-Viertel zu durchqueren. Touristen sieht
+man in dieser rustikalen Wirtschaft eher selten, vielmehr Arbeitervolk, das
+werktag mittags schon Schlange steht, wenn der Laden um 11 Uhr aufmacht.
+
+<pic images/tj-bill.ps Gutes Essen zu vertretbaren Preisen bei Tommy's Joynt.>
+
+Bei Tommy's Joynt herrscht Selbstbedienung, man ordert an der Theke sein Essen,
+das der fachkundige Angestellte dort auf den Teller schlenzt, und man bezahlt
+sofort an der Kasse dort. Es gibt allerlei Grill- und Bratenfleisch, mit
+Beilagen wie Kartoffelbrei oder Salat.
+
+<pic images/tj-plate.ps Der beste Deal ist das sogenannte "Plate".>
+
+Ich nehme gerne das BBQ-Brisket mit Kartoffelsalat als sogenanntes "Plate",
+wofür der Laden berühmt ist. Die Sandwiche dort kann ich nicht empfehlen, denen
+fehlt der Pfiff. Aber so ein "Plate" ist genau die richtige Portion für einen
+hungrigen Arbeiter wie mich, und dazu hole ich mir gerne ein Bier an der Bar, die
+eigenständig und von der Theke unabhängig operiert. Dort wird separat
+bezahlt.
+
+<pic images/tj-bar.ps Die Barfrau zapft Faßbier in Tommy's Joynt.>
+
+Das ganze Arrangement ist also gewöhnungsbedürftig, aber man findet zumindest
+unter der Woche immer einen freien Tisch und das Essen ist wirklich gut. Die
+Bierauswahl ist mit bestimmt 20 Bieren vom Fass überdurchschnittlich und das
+Publikum, eine Mischung aus Arbeitervolk und lokalen Größen wie mir, definitiv
+sehenswert.
+
+Die berühmtesten Kunden des Ladens sind übrigens die Mitglieder der Band
+Metallica, die in der Bay Area aufwuchsen und berühmt wurden, und als arme
+junge Musiker oft dort aßen, angeblich vor allem deshalb, weil man sich bei
+Tommy's Joynt soviel eingelegte Essiggurken aus dem regentonnengroßen Fass
+nehmen kann wie man will, ohne dafür extra zu bezahlen. Vielleicht schwimmt
+auch noch die eine oder andere Gurke darin herum, die James Hetfield schon
+berührt hat!
+
+@Z: Topp-Musikempfehlung: Sierra Eagleson
+
+<pic images/going-to-california.ps Passende Kulisse zum Lied "Going to California">
+
+<em>Angelika</em> Ich höre gern Musik, aber bin nicht gerade super
+experimentierfreudig, wenn es um unterschiedliche Musikrichtungen geht, und
+auch nicht immer auf dem neuesten Stand. Ich bin ein bisschen in meinen
+jugendlichen Sturm-und Drangjahren stecken geblieben, wenn es um Musik geht.
+Ich höre immer noch gerne Beatles, Pink Floyd, Elton John, Supertramp, Billy
+Joel, Meat Loaf, Herbert Grönemeyer, BAP, Udo Lindenberg usw. Es liegt
+vielleicht auch daran, dass ich allgemein zur Nostalgie neige.
+
+Und bei der erwähnten Musik kommen viele Erinnerungen auf, zum Beispiel  von
+legendären Klassenfahrten, in denen wir wild zu den Klassikern von Supertramp
+tanzten.  Durch "Spotify" und dergleichen Anbieter erhält man ja immer wieder
+Musikvorschläge, die zu dem eigenen Musikgeschmack passen könnten, und entdeckt
+dabei durchaus Neues, worüber ich mich dann immer freue. Neulich stolperte ich
+aber lustigerweise beim Lesen der New York Times über eine mir bis dahin noch
+unbekannte Musikerin, nämlich Sierra Eagleson.
+
+Bret Stephens, ein Kolumnist der
+New York Times, schlägt regelmäßig am Ende seiner Artikel entweder andere
+lesenswerte Artikel oder Gedichte vor oder eben auch einmal Musik. Er erwähnte,
+dass er die Interpretation des Led-Zeppelin-Songs
+<LINK>https://www.youtube.com/watch?v=JzcOW0v17m4|"Going to California" von Sierra Eagleson</LINK>
+besser fände als das Original. Led Zeppelin ist natürlich auch
+so eine legendäre Gruppe, besonders das Lied "Stairway to Heaven" habe ich rauf
+und runter gehört. Deshalb war klar, dass ich mir "Going to California" gleich
+anhören musste.
+
+Es sind Sternstunden des Genusses, wenn dies auf einem kalifornischen Freeway
+beim Sonnenaufgang bei der Fahrt zur Arbeit geschehen kann. Der akustische,
+emotionale, ruhige Musikstil von Sierra Eagleson mit wenig Instrumenten
+(Klavier oder Gitarre), die alle von ihr selbst gespielt werden, hat mich
+gleich angesprochen. Sierra Eagleson ist in Ohio ansässig. Sie hat neben ihren
+Interpretationen von sehr bekannten Liedern (Vive la Vida von Coldplay kann ich
+euch auch nur ans Herz legen) auch einige Lieder selbst komponiert, zum
+Beispiel <LINK>https://www.youtube.com/watch?v=Cc_1hPfK17w|"Darcy's Song"</LINK>.
+Ich hoffe, dass wir noch mehr von ihr hören werden und auch von ihrem
+Bruder Chase Eagleson, mit dem sie oft zusammen spielt.
+
+@Z: Hitzewelle
+
+<pic images/sf-fog.ps Oft liegt bei uns eine Nebelschicht über Downtown>
+
+<em>Angelika</em> San Francisco hat ja bekanntlich eine eingebaute natürliche
+Klimaanlage, nämlich den Nebel. Das ist äußerst praktisch, denn die Temperatur kühlt sich
+nachts ab, selbst nach heißen Tagen. Überhaupt hat San Francisco ein
+angenehmes, mildes Klima. Es ist nie brüllheiß, aber es gibt viele sonnige Tage
+mit T-Shirt-Wetter.
+
+Wir hoffen, dass das auch in Zukunft so bleibt, denn wir
+sind nicht ausgerüstet für große Hitzewellen. Klimaanlagen in Wohnungen und
+Häusern sind zum Beispiel sehr selten in San Francisco. Im September/Oktober
+ist traditionell das Wetter am wärmsten in unserer Stadt. Da kann es dann auch
+schon einmal den einen oder anderen heißen Tag geben, ohne das es sich abends
+signifikant abkühlt. Mehr als 2 Tage hält dies aber in der Regel nicht an.
+
+Anfang Oktober waren wir aber einer regelrechten Hitzewelle ausgesetzt. Es war
+eine Woche lang tagsüber 30 Grad Celsius heiß, von Nebel und Wind keine Spur.
+Die Hitze stand nur so in der Stadt und jeder stöhnte und ächzte und sehnte
+sich den Nebel herbei. Die Wetterfritzen versprachen uns jeden Tag, dass der
+bei uns "Karl" genannte Nebel bald kommen würde. Pustekuchen. Es blieb heiß und
+stickig. Nachts rann uns der Schweiß nur so über unsere Gesichter. (Anmerkung
+Michael: In weiser Vorraussicht hatte ich zwei riesige baustellentaugliche
+Ventilatoren gekauft).  Als dann endlich die Abkühlung und der Nebel kam, hatte
+das fast etwas Poetisches.
+
+@Z: In-N-Out Burger
+
+<pic images/innout-outside.ps Die legendäre Burgerkette In-N-Out Burger>
+
+<em>Michael</em> Was Burgerlokale in Amerika angeht, gibt es hier so ein
+Drei-Klassen-System. Wer in normalen Restaurants, also etwa einer Kneipe namens
+"Cactus Jack's Bar and Grill" einen Burger bestellt, bekommt oft einen dickeren
+Hackfleischklotz (das sogenannte Patty) auf einem
+<LINK>Bhttps://en.wikipedia.org/wiki/Brioche|Brioche-Bun</LINK>,
+einer zwar immer noch windelweichen Semmel, aber mit etwas festerer Struktur
+und goldbraunem Glanz. In vornehmen Etablissements ist das Hackfleisch auch
+ gerne mal ein
+frisch durch den Wolf gelassener Halbpfünder, und man kann (und sollte) den
+Burger "medium" ordern, wenn nicht sogar "medium rare". Allerdings hat die
+galoppierende Inflation dazu geführt, dass so ein Gericht a) mittlerweile 20
+Dollar kostet und b) weil es eigentlich mehr als 30 Dollar kosten müsste, aber
+keiner soviel für einen Burger zahlt, die Patties immer dünner werden.
+
+<pic images/innout-animal.ps Der Double-Double mit Pommes "Animal Style">
+
+Dann die Klasse der Null-Acht-Fünfzehn-Restaurants in der Pampa, die halt einen
+Burger anbieten, aber die Patties waren eingefroren und schmecken
+etwa 10% besser als bei McDonalds. Außerdem kommen sie schön auf einem Teller
+angerichtet auf den Tisch.
+
+Kommen wir nun zur Billigklasse der Imbissrestaurants. Ketten wie McDonalds,
+Burger King, Jack in the Box und noch tausend regional unterschiedliche
+"Restaurants", die sich alle nicht viel nehmen und billige aber auch
+zerquetschte Labbersemmeln in typischer Schnellimbiss-Qualität liefern. Die
+Angestellten dort machen oft den Eindruck, als wären sie höchst genervt
+darüber, auf der niedrigsten Stufe des Billiglohnsektors angelangt zu sein.
+
+<pic images/burger-home-big.ps Von Michael zu Hause zubereiteter Burger>
+
+Am oberen Ende dieser Fastfood-Ketten ist nun In-N-Out-Burger, eine Kette mit
+geradezu religiös-fanatischer Kundschaft, die auch gern eine halbe Stunde lang
+mit dem Auto in der Drive-Through-Schlange steht, um einen Burger zu ordern.
+Die Patties auf den Burgern von In-N-Out werden der Werbung nach niemals
+eingefroren, und das ganze Arrangement liegt höchst sauber drapiert auf dem
+Tablett. Der Preis eines Burgers mit zwei Patties und Käse, dem sogenannten
+Double-Double, liegt mittlerweile bei etwa 5 Dollar.  Das ist weit teurer als
+McDonald's, aber eben noch in einem Bereich, in dem sich auch ein Arbeiter mal
+etwas Besonderes leisten kann.
+
+<pic images/innout-check.ps Nicht super billig, aber noch im Rahmen.>
+
+Was bei In-N-Out auffällt, ist, dass die Angestellten dort schwer auf Zack
+sind. Alles blitzt und blinkt, und die Uniformen sitzen wie beim Militär. Beim
+Drive-Through spricht man seine Bestellung nicht etwa in einen Lautsprecher,
+sondern ein uniformierter Angestellter kommt zackig ans Autofenster und fragt
+mit bestimmter Freundlichkeit nach den Wünschen des Gastes.
+
+Andere Franchise-Ketten bieten hier im Vergleich ein geradezu tragisches Bild.
+Die Inneneinrichtung bei In-N-Out gleicht zwar der anderer Fast-Food-Ketten, was
+Amerikaner zu meiner Verwunderung immer noch ohne zu zögern "Restaurant" nennen.
+Aber auch wenn das Design der Möbel bei In-N-Out dieses typische
+Fast-Food-Feeling auslöst, muss man doch sagen, dass dort immer einer dafür
+sorgt, dass eingesaute Tische sofort sauber gewischt werden, während bei
+McDonald's und Co bei den Angestellten dahingehend eine gewisse Luschigkeit
+vorherrscht. Nur die ebenfalls konservativ geführte Kette "Chick Fil A" bietet
+vergleichbare Sauberkeit.
+
+<pic images/innout-kitchen.ps Die Angestellten sind schwer auf Zack.>
+
+Das mag auch daran liegen, dass In-N-Out seine Angestellten sehr gut bezahlt.
+Lange schon bevor Politiker in San Francisco per Dekret den Mindestlohn
+auf 20 Dollar pro Stunde hochsetzten, verdienten Angestellte bei In-N-Out
+über 20 Dollar.
+
+<pic images/innout-window.ps Innen ist's super sauber.>
+
+Das Management der Kette ist konservativ christlich angehaucht, was man unter
+anderem daran sieht, dass unten auf den Getränkebechern immer Bibelsprüche
+abgedruckt sind, was die gottlosen Ultralinken San Franciscos zur Weißglut
+treibt. Als Marketing-Gag hat die Kette übrigens ein nirgendwo im Laden
+sichtbares "Secret Menu", nach dem man seine Pommes (oder auch den Burger) zum
+Beispiel "Animal Style" ordern kann.  Dann findet der erstaunte Gast darauf
+gebräunte Zwiebeln in einer dicklichen Soße, die zwar sehr gut schmeckt,
+allerdings die Arterien scheinbar in Echtzeit zukalkt. Diese Geheimnistuerei
+kommt natürlich bei unseren modischen Hipstern gut an, wer wollte nicht mit
+seinen Insider-Kenntnissen protzen beim Ordern von Fastfood!
+
+Jedenfalls ist die Kette ein gutes Beispiel dafür, dass es durchaus
+funktionierende Business-Modelle im Fastfoodketten-Sektor gibt. Die
+ultralinken Politiker San Fransicos treibt das in den Wahnsinn.
+
+Grüße aus dem Schlaraffenland:
+
+Angelika und Michael
