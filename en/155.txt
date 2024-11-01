@@ -158,11 +158,9 @@ be determined after the first round, but rather that the votes will be mainly
 distributed among Breed, Farrell, Lurie, and Peskin. It remains exciting on all
 levels.
 
-TODO
-
 @Z: The most expensive toilet in America
 
-<pic images/toiletgate-outside.ps This toilet in the marketplace of Noe Valley originally cost 1.7 million.>
+<pic images/toiletgate-outside.ps This toilet at the town square of Noe Valley originally cost 1.7 million.>
 
 <em>Michael</em> Our neighborhood, Noe Valley in San Francisco, is known to be
 almost at the center of the peninsula on which the city spreads out. However,
@@ -172,13 +170,13 @@ years due to misguided policies.
 
 <pic images/nv-map.ps Here is our neighborhood Noe Valley on a map of San Francisco.>
 
-In our marketplace, a weekly market now takes place every Saturday, where
+On our town square, a weekly market now takes place every Saturday, where
 farmers from the surrounding area sell high-quality organic goods to a
 well-to-do clientele. During the week, there are small tables with chairs on
-the square, where, strangely enough, homeless people practically never linger.
+the square, where, strangely enough, you hardly see any homeless people lingering.
 Instead, it seems to be frequented only by the higher-earning city crowd, who
 apparently take a break after strolling through the fashion boutiques on 24th
-Street. Amazingly well-behaved children play under the supervision of their
+Street. Amazingly well-behaved children are playing under the supervision of their
 nannies on the slide of the playground.
 
 <pic images/toiletgate-construction.ps The newsletter reporter is monitoring the construction work on the famous toilet.>
@@ -198,7 +196,7 @@ because, as is well known, our city requires 42 paid permits for every little
 thing, and for any construction project, 17 different unions have their hands
 out. This may seem grotesque to you now, but in San Francisco, the Department
 of Public Works, the Mayor's Office on Disability, the Arts Commission, the
-electricity provider (PG&E), the city planning committee, and many other
+electricity provider (PG\&E), the city planning committee, and many other
 organizations actually charge exorbitant fees for opaque paperwork and
 assessments before such a project even takes shape. Furthermore, by law, only
 highly qualified union workers are allowed to carry out the construction work.
@@ -227,7 +225,7 @@ $200,000, also to unionized construction workers.
 Currently, the "Toiletgate" affair has already made waves across the US, and
 also a <LINK>https://en.wikipedia.org/wiki/Noe_Valley_public_toilet|Wikipedia article about the public restroom in Noe Valley</LINK> has existed for some time now
 (not written by me, by the way). Nowadays,
-when traveling as a Californian native to other states, it's not uncommon to be
+when traveling as a California resident to other states, it's not uncommon to be
 confronted with such 'typically Californian' nonsense with eye-rolling.
 
 <pic images/toiletgate-nyt.ps Even the New York Times wrote an article about the marketplace toilet in Noe Valley.>
@@ -241,6 +239,8 @@ roving newsletter reporter in charge, I have recently tested the toilet, which i
 only about 500 meters from our house, and I can confirm that it works. However,
 I would not classify it as top-notch, as I have seen much more appealing
 constructions even on hiking trails in the middle of nowhere.
+
+TODO
 
 @Z: Police catch speeders at crosswalk
 
