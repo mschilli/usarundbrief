@@ -236,7 +236,7 @@ Dokumenten im Original mit Kopien mitbringen.
 
 <pic images/photo-rules.ps (#5) Genaue Vorschriften für die Passfotos>
 
-Was die Passfotos betrifft, müssen dieses laut den Vorschriften in Abbildung
+Was die Passfotos betrifft, müssen diese laut den Vorschriften in Abbildung
 (#5) genau 35mm x 45mm messen, der abgebildete Kopf muss gerade in die Kamera
 schauen und eine Reihe von Proportionsvorgaben erfüllen. Wer zuhause eine
 Kamera und einen Farbdrucker hat, kann die Bilder selbst anfertigen, meine
