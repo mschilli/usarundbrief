@@ -281,8 +281,6 @@ However, <LINK>https://x.com/CollinRugg/status/1837639499247178090|some people i
 Francisco Police Department) of not addressing the real problems in the city.
 The police have it tough in this town; you just can't please the citizens here!
 
-TODO
-
 @Z: Good and affordable: Tommy's Joynt
 
 <pic images/tj-vanness.ps West of the Tenderloin district, you will find the restaurant Tommy's Joynt.>
@@ -291,14 +289,14 @@ TODO
 in San Francisco, so it's important to know where you can still eat and drink
 well and affordably in our expensive city.
 
-<pic images/tj-counter.ps The man at the counter is serving the food.>
+<pic images/tj-counter.ps The man behind the counter is plating the food you order.>
 
 An institution of this kind with a long-standing tradition is Tommy's Joynt,
 located on Van Ness Avenue at the intersection with Bush Street. For tourists,
 it is somewhat off the beaten path, but still within walking distance from
 downtown if one doesn't mind passing through the somewhat rough Tenderloin
 district. Tourists are rarely seen in this rustic establishment; instead, it is
-mostly working-class people who line up on weekdays as early as noon when the
+mostly working-class people who line up on weekdays as early as 10:45am when the
 place opens at 11 a.m.
 
 <pic images/tj-bill.ps Good food at reasonable prices at Tommy's Joynt.>
@@ -310,17 +308,17 @@ like mashed potatoes or salad.
 
 <pic images/tj-plate.ps The best deal is the so-called "Plate".>
 
-I would like to have the BBQ brisket with potato salad as a so-called "plate,"
+I can recommend the BBQ brisket with potato salad as a so-called "plate,"
 for which the place is famous. I can't recommend the sandwiches there; they
 lack flair. But such a "plate" is just the right portion for a hungry worker
-like me, and I like to get a beer at the bar, which operates independently and
-separately from the counter. Payment is made separately there.
+like myself, and I like to get a beer at the bar, which operates independently and
+separately from the counter. You pay your bar tap right there as well.
 
 <pic images/tj-bar.ps The barmaid is pouring draft beer at Tommy's Joynt.>
 
 The whole arrangement takes some getting used to, but at least during the week,
 you can always find a free table, and the food is really good. The beer
-selection, with certainly 20 beers on tap, is above average, and the crowd, a
+selection, with certainly 20 drafts on tap, is quite stellar, and the crowd, a
 mix of working-class people and local celebrities like me, is definitely worth
 seeing.
 
@@ -330,6 +328,8 @@ musicians, they often ate there, supposedly mainly because at Tommy's Joynt you
 can take as many pickles as you want from the barrel-sized jar without having
 to pay extra. Perhaps there's even a pickle or two in there that James Hetfield
 has already touched!
+
+TODO
 
 @Z: Top music recommendation: Sierra Eagleson
 
