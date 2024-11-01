@@ -240,8 +240,6 @@ only about 500 meters from our house, and I can confirm that it works. However,
 I would not classify it as top-notch, as I have seen much more appealing
 constructions even on hiking trails in the middle of nowhere.
 
-TODO
-
 @Z: Police catch speeders at crosswalk
 
 <pic images/xwalk-chicken-1.ps The police chicken wants to cross the crosswalk, but the speeder won't stop.>
@@ -275,13 +273,15 @@ passed.
 
 This discrepancy between the traffic regulations and the Californian understanding of them was recently investigated by the local police in San Francisco. They stationed a police officer in a giant rooster costume at a crosswalk and instructed him to step onto the crosswalk to cross the street as cars were approaching.
 
-Translate to English: "Anyone who did not stop was quickly pursued by a
+Anyone who did not stop was quickly pursued by a
 motorcycle police officer with flashing lights, who forced the speeder to stop
 and handed out an expensive ticket. The law enforcers here certainly do not
 lack creativity, that must be admitted.
-However, <LINK>https://x.com/CollinRugg/status/1837639499247178090|people immediately got upset again</LINK> and accused the SFPD (San
+However, <LINK>https://x.com/CollinRugg/status/1837639499247178090|some people immediately got upset</LINK> and accused the SFPD (San
 Francisco Police Department) of not addressing the real problems in the city.
-The police have it tough in our city; you just can't please the citizens here!
+The police have it tough in this town; you just can't please the citizens here!
+
+TODO
 
 @Z: Good and affordable: Tommy's Joynt
 
