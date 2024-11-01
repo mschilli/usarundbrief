@@ -5,8 +5,8 @@ San Francisco, 10-31-2024
 <pic images/vote-president.ps Who should become president, Trump or Harris?>
 
 <em>Angelika</em> The USA is in the final stages of the election campaign, and
-the writers are typing their fingers to the bone. We are already quite
-exhausted from all the debates, analyses, and forecasts. Many often ask us for
+newspaper writers are typing their fingers to the bone. We are already quite
+exhausted from all the debates, analyses, and forecasts. Many have asked us for
 our assessment since we live in this country. Who will win, Harris or Trump?
 This may sound a bit offhand, but the chances are still 50-50 for both. We
 can't provide any smarter analyses either. It's very close. The decision for
@@ -18,12 +18,12 @@ me.
 
 <pic images/harris-lawn-sign.ps This homeowner votes Democratic.>
 
-Because it's not about convincing the Democratic voters in California or New
+And it's not about convincing the Democratic voters in California or New
 York, but rather the undecided ones in the middle of the country. And Kamala
 Harris is, after all, associated with Biden's policies and, as Vice President,
 had extremely low approval ratings in polls at times. However, these have since
 improved and are now
-<LINK>https://news.gallup.com/poll/649127/democrats-give-harris-nearly-unanimous-positive-ratings.aspx|Just under 50%|Approval ratings for Harris</LINK>.
+<LINK>https://news.gallup.com/poll/649127/democrats-give-harris-nearly-unanimous-positive-ratings.aspx|just under 50%|Approval ratings for Harris</LINK>.
 According to the New York Times, one in six voters still did not know in
 October for whom they would cast their vote on November 5th. This group also
 includes voters who ultimately decide not to vote at all because they cannot
@@ -34,12 +34,14 @@ ballots had already been printed.
 
 <pic images/trump-sign-kauai.ps In San Francisco, it's hard to find, therefore Trump advertising from Hawaii.>
 
-Our voting materials are already at home because in California, since the
+Our voter ballots are already on our living room table because in California, since the
 pandemic, we automatically receive mail-in voting materials. We also have piles
 of pamphlets accumulating in our apartment, and every day I receive text
 messages asking me to donate to Kamala Harris. I have no idea where they got my
-mobile number. In these text messages, I'm often addressed as Henry. Hmm. The
-brochures that clog our mailbox daily are about the local elections, because in
+mobile number. In these text messages, I'm often addressed as Henry. Hmm.
+
+Living in an already decided state, we never get presidential campaign advertisements.
+The brochures that clog our mailbox daily are about the local elections, because in
 California and San Francisco, voters can once again decide on numerous
 propositions. And there's a mayoral election in San Francisco, which the
 international press isn't reporting on because the presidential election is too
@@ -69,18 +71,17 @@ ensure that tax dollars are used as intended.
 
 And that's not all: In addition to the President of the USA and the Mayor of
 San Francisco, a good dozen other offices are also up for election: Among
-others, the Sheriff, the Chairpersons of the School Board, the Director of the
+others, the sheriff, the chairpersons of the school board, the director of the
 subway (BART), and several city council members, who will only receive votes
 from voters residing in their respective districts.
 
-@Z: The translation of "Wahl in einem Rutsch: Ranked Choice" to English is "Election in one go: Ranked Choice.
+@Z: Election in one go: Ranked Choice.
 
 <pic images/vote-mayor.ps The mayoral candidates are being assigned ranks.>
 
 <em>Angelika</em> San Francisco has an interesting voting system, namely the
 so-called
-<LINK>https://ballotpedia.org/Ranked-choice_voting_(RCV)|"Ranked Choice Voting"</LINK>
-
+<LINK>https://ballotpedia.org/Ranked-choice_voting_(RCV)|"Ranked Choice Voting"</LINK>.
 Roughly and simply put, the voter ranks all the candidates in order of
 preference. The candidate they like the most is placed first, the second choice
 in second place, and so on.  This initially sounds simple, but it has its
@@ -99,7 +100,7 @@ receive one ranking.
 
 <pic images/ranked-choice.ps A ranked-choice process over six rounds>
 
-How is the counting done now? First, it is counted how many times each
+How is the counting done? First, it is counted how many times each
 individual candidate has landed in first place among the voters. If a candidate
 achieves the majority in this round (i.e., more than 50%), that candidate wins.
 The counting is then finished. If there is no winner after this first round of
@@ -113,10 +114,10 @@ round, the candidate with the fewest votes is eliminated once more, and the
 rankings are adjusted accordingly. This process continues until a winner is
 determined.
 
-<pic images/flyers-mail.ps Some of the pamphlets that have recently been in the mailbox>
+<pic images/flyers-mail.ps Some of the pamphlets that have recently landed in our mailbox>
 
 In theory, that sounds logical, but the counting method relies on the voter
-actually providing a ranking. If a voter, for example, only chooses one
+actually providing a complete ranking ladder. If a voter, for example, only chooses one
 candidate who is eliminated in the first round, the vote is lost. This can
 potentially lead to a candidate winning who was not generally favored and who
 wins with less than 50% of the votes, due to the previously explained principle
@@ -149,13 +150,15 @@ political office to date, but is connected to a very well-known San Francisco
 family, namely that of Levi Strauss. I'm sure you all know who Levi Strauss is.
 The man delighted the world with the legendary Levi's jeans. Daniel Lurie has
 pumped several million of his own fortune into the election campaign, and it
-seems to be paying off, as he is now mixing it up at the forefront. We received
-a brochure from Lurie in our mailbox every day.
+seems to be paying off, as he is now mixing it up at the forefront. We've been
+receiving brochures from Lurie in our mailbox almost every day.
 
 For the mayoral election in San Francisco, we expect that the winner will not
 be determined after the first round, but rather that the votes will be mainly
 distributed among Breed, Farrell, Lurie, and Peskin. It remains exciting on all
 levels.
+
+TODO
 
 @Z: The most expensive toilet in America
 
