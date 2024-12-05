@@ -450,7 +450,8 @@ with carrying the suitcases, otherwise they would have collapsed.
 
 <pic images/wohin.ps Where to?>
 
-<em>In Japanese, there is a funny linguistic peculiarity: One answers a
+<em>Michael</em>
+In Japanese, there is a funny linguistic peculiarity: One answers a
 negative question with "Yes!" if they want to negate it. For example, to the
 question "This train doesn't go to Shibuya?" a Japanese speaker would answer
 with "Yes" if the train indeed does not go to Shibuya, while in German or
