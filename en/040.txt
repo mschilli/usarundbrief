@@ -222,6 +222,11 @@ that children should wear masks.
 <pic images/mask.ps Masks in traffic>
 <pic images/mask2.ps (#11) Masks for children>
 
+(Note: Thanks to reader Olaf from Berlin for the correction that face masks are worn
+when one has a cold (to avoid infecting coworkers/customers) and for pollen
+allergies. The poster with the masked children is part of a local campaign
+against illegally adulterated diesel fuel with kerosene or heavy oil.)
+
 @Z: Beverages
 
 <pic images/automat.ps Vending machine at night>
