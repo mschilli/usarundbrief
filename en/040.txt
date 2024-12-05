@@ -158,119 +158,234 @@ TODO
 
 @Z: Tokyo Fish Market
 
-<em>Could you please provide the text you would like translated into English?</em>In a warehouse district near the Shimbashi train station, the Tokyo fish market, the largest in Japan, takes place every day. Around 60,000 professional buyers search for fresh goods for their restaurants and shops starting at four in the morning. Tourists are not actually allowed there, but the travel guide mentioned that you won't be thrown out as long as you don't stand around stupidly in the way and disrupt people while they're trading. As usual, there were no signs, and we wandered around the district for a while until we finally made our way through the vegetable market with wildly zooming carts into the fish halls.
+<em>Michael</em Could you please provide the text you would like translated
+into English?</em>In a warehouse district near the Shimbashi train station, the
+Tokyo fish market, the largest in Japan, takes place every day. Around 60,000
+professional buyers search for fresh goods for their restaurants and shops
+starting at four in the morning. Tourists are not actually allowed there, but
+the travel guide mentioned that you won't be thrown out as long as you don't
+stand around stupidly in the way and disrupt people while they're trading. As
+usual, there were no signs, and we wandered around the district for a while
+until we finally made our way through the vegetable market with wildly zooming
+carts into the fish halls.
 
 <pic images/karren.ps Crazy cart driver>
-<HTMLONLY>
 
-It was bustling there, you can't imagine. Buyers were darting at a run through the narrow alleys between piled-up styrofoam boxes filled with dead and live fish, shellfish, and other sea creatures. Fish sellers were chopping up the partially frozen fish with axes, sawing them with electric saws, and amidst an indescribably fast and loud chaos, the trading was taking place.
+It was bustling there, you can't imagine. Buyers were darting at a run through
+the narrow alleys between piled-up styrofoam boxes filled with dead and live
+fish, shellfish, and other sea creatures. Fish sellers were chopping up the
+partially frozen fish with axes, sawing them with electric saws, and amidst an
+indescribably fast and loud chaos, the trading was taking place.
 
 <pic images/tuna.ps A tuna is being cut up.>
-<HTMLONLY>
 
-Like a guerrilla squad (small teams, strike quickly, disappear quickly), the dynamic newsletter duo dashed through the alleys, took photos, and ducked for cover between fish boxes every time a grumpy fish buyer came running or a crazy cart driver wanted to pass by.
+Like a guerrilla squad (small teams, strike quickly, disappear quickly), the
+dynamic newsletter duo dashed through the alleys, took photos, and ducked for
+cover between fish boxes every time a grumpy fish buyer came running or a crazy
+cart driver wanted to pass by.
 
-<pic images/fmhaendl.ps The phrase "R�de H�ndler" seems to have some encoding issues with the special characters. Assuming it is meant to be "Røde H�ndler" in Danish or Norwegian, it translates to "Red Dealers" in English. If this is not the correct interpretation, please provide more context or correct the characters.>
-<HTMLONLY>
+<pic images/fmhaendl.ps Rude Fishmongers>
 
-We stormed through the cauldron for about an hour, thrilled by the fish glowing in supernatural colors under the bright spotlight, the flashing pieces of ice, the professionalism of the sawyers and the hackers, overwhelmed by the noise -- and always on guard and ready to jump aside to not obstruct the market activity. After an hour and 100 photos, we made our way out. What madness!
+We stormed through the cauldron for about an hour, thrilled by the fish glowing
+in supernatural colors under the bright spotlight, the flashing pieces of ice,
+the professionalism of the sawyers and the hackers, overwhelmed by the noise --
+and always on guard and ready to jump aside to not obstruct the market
+activity. After an hour and 100 photos, we made our way out. What madness!
 
-<HTMLONLY>
+We had breakfast after the experience at the counter of a well-visited sushi
+restaurant located on the edge of the market. Raw fish and beer at nine in the
+morning can only be handled by the iron stomachs of the racing newsletter
+reporters! The sushi was wonderfully fresh, and even the usually tougher items
+like squid and shellfish were nice and tender. By the way, the sushi chef at
+this establishment had a knack for giving the piece of dead fish on the rice
+ball a quick, powerful slap just before serving, causing it to arch slowly once
+more when placed on the wooden counter, from where you pick it up with
+chopsticks and devour it.
 
-We had breakfast after the experience at the counter of a well-visited sushi restaurant located on the edge of the market. Raw fish and beer at nine in the morning can only be handled by the iron stomachs of the racing newsletter reporters! The sushi was wonderfully fresh, and even the usually tougher items like squid and shellfish were nice and tender. By the way, the sushi chef at this establishment had a knack for giving the piece of dead fish on the rice ball a quick, powerful slap just before serving, causing it to arch slowly once more when placed on the wooden counter, from where you pick it up with chopsticks and devour it.
+The portion of sea urchin (orange, looks like tongues) that I had never taken
+from the conveyor belt of the floating sushi restaurant in San Francisco tasted
+somewhat musty. And Angelika absolutely couldn't manage to eat the small white
+worms, each with two staring eyes at the end (Chirimen Jako), so Michael, who
+is known for being unfazed by anything that can be washed down with beer, had
+to take over. The secretly curious onlookers (and of course, as always,
+entirely Japanese) and the staff were impressed by these two tough Europeans.
 
-<HTMLONLY>
+@Z: Masks
 
-The portion of sea urchin (orange, looks like tongues) that I had never taken from the conveyor belt of the floating sushi restaurant in San Francisco tasted somewhat musty. And Angelika absolutely couldn't manage to eat the small white worms, each with two staring eyes at the end (Chirimen Jako), so Michael, who is known for being unfazed by anything that can be washed down with beer, had to take over. The secretly curious onlookers (and of course, as always, entirely Japanese) and the staff were impressed by these two tough Europeans.
+<em>Michael</em>
 
-<HTMLONLY>
+In the big cities, you often encounter people wearing white face masks. At
+first, I thought: Aha, a tuberculosis case. Let's keep a wide berth. But after
+the tenth person, I revised my opinion and concluded that the hospital masks
+are worn because of air pollution. Although Tokyo isn't excessively smoggy,
+there is a bit of smog. The poster in illustration (#11) even promotes the idea
+that children should wear masks.
 
-@Z: The German word "Masken" translates to "masks" in English.
-
-<em>Could you please provide the text you would like translated into English?</em>In the big cities, you often encounter people wearing white face masks. At first, I thought: Aha, a tuberculosis case. Let's keep a wide berth. But after the tenth person, I revised my opinion and concluded that the hospital masks are worn because of air pollution. Although Tokyo isn't excessively smoggy, there is a bit of smog. The poster in illustration (#11) even promotes the idea that children should wear masks.
-
-<HTMLONLY>
-
-
-<pic images/mask.ps Masken im Straßenverkehr" translates to "Masks in road traffic" in English.>
+<pic images/mask.ps Masks in traffic>
 <pic images/mask2.ps (#11) Masks for children>
 
-@Z: The German word "Getränke" translates to "drinks" or "beverages" in English.
+@Z: Beverages
 
 <pic images/automat.ps Vending machine at night>
 
-<em>Could you please provide the text you would like translated into English?</em>In Japanese cities, there are vending machines on almost every street corner offering drinks of all kinds: from soft drinks like Coca Cola to cans of cold coffee and even beer and whiskey, you can find everything you want there, 24 hours a day. You read that right: there's even beer in the vending machines, and we've also seen whiskey. The machines accept up to 500 yen coins (about 4.30 euros) and even 1000 yen bills (about 9 euros) and reliably return the change. A small keg of Asahi beer and a bottle of whiskey for about 20 euros were the most expensive products I saw; otherwise, a can costs about 140 yen (1.20 euros).
+<em>Michael</em> In Japanese cities, there are vending machines on almost every
+street corner offering drinks of all kinds: from soft drinks like Coca Cola to
+cans of cold coffee and even beer and whiskey, you can find everything you want
+there, 24 hours a day. You read that right: there's even beer in the vending
+machines, and we've also seen whiskey. The machines accept up to 500 yen coins
+(about 4.30 euros) and even 1000 yen bills (about 9 euros) and reliably return
+the change. A small keg of Asahi beer and a bottle of whiskey for about 20
+euros were the most expensive products I saw; otherwise, a can costs about 140
+yen (1.20 euros).
 
-<HTMLONLY>
-
-In the USA, such a vending machine would have an average lifespan of a few hours before someone broke into it, but in Japan, this system seems to work brilliantly; people even throw the drink cans into the appropriate trash containers after use—unbelievable!
+In the USA, such a vending machine would have an average lifespan of a few
+hours before someone broke into it, but in Japan, this system seems to work
+brilliantly; people even throw the drink cans into the appropriate trash
+containers after use—unbelievable!
 
 <pic images/drinks.ps (#1) Japanese drinks>
 
-Different countries, different drinking customs: I have tried out the most exciting new flavors of the drink selection for you. In illustration (#1), we move from the top left to the bottom right:
+Different countries, different drinking customs: I have tried out the most
+exciting new flavors of the drink selection for you. In illustration (#1), we
+move from the top left to the bottom right:
 
-Chinese Tea by Coca Cola (1): Unfermented Chinese tea, not quite as harsh in aftertaste as its original green counterparts. A bit friendlier for the Western palate. Kirin Fire (2) and Kirin Super Fire (3): Chilled coffee with milk and sugar, nicely rounded in flavor, with a long, fine finish. Georgia Emerald Mountain Blend (4): Chilled coffee with milk, pleasantly spicy, but with a slightly fishy aftertaste. Natua (5): A milk-like refreshing drink tasting like thin kefir, without any other recognizable additives, similar to Turkish Ayran. Acerola Drink (6): A drink tasting like artificial cherries with vitamins, without carbonation. Takes some getting used to. Kirin Kiki-Chi-ya (7): Oolong tea, somewhat unusual for Western palates, with a strong tannin aftertaste. Unlike unfermented green tea and fermented black tea, Oolong tea is semi-fermented and therefore tastes a bit less grassy than green tea. Calpis Cool Soda (8): Lemonade tasting like Chabeso. Suntory Green Tea (9): Cold green tea. Takes some getting used to, but very refreshing. Suntory Gokuri (10): A delicious grapefruit drink, with an exceptionally pure, fresh taste, pleasant, balanced sweetness, not as overly sweet as the American stuff. I strongly suspect this will be an export hit, and as always, you read it here first in the newsletter. Green Tea by Kirin (11): Cold green tea, drinkable. Kirin Milk Tea (12): A mild chilled black tea with milk. Unpleasant UHT milk aftertaste.
+Chinese Tea by Coca Cola (1): Unfermented Chinese tea, not quite as harsh in
+aftertaste as its original green counterparts. A bit friendlier for the Western
+palate. Kirin Fire (2) and Kirin Super Fire (3): Chilled coffee with milk and
+sugar, nicely rounded in flavor, with a long, fine finish. Georgia Emerald
+Mountain Blend (4): Chilled coffee with milk, pleasantly spicy, but with a
+slightly fishy aftertaste. Natua (5): A milk-like refreshing drink tasting like
+thin kefir, without any other recognizable additives, similar to Turkish Ayran.
+Acerola Drink (6): A drink tasting like artificial cherries with vitamins,
+without carbonation. Takes some getting used to. Kirin Kiki-Chi-ya (7): Oolong
+tea, somewhat unusual for Western palates, with a strong tannin aftertaste.
+Unlike unfermented green tea and fermented black tea, Oolong tea is
+semi-fermented and therefore tastes a bit less grassy than green tea. Calpis
+Cool Soda (8): Lemonade tasting like Chabeso. Suntory Green Tea (9): Cold green
+tea. Takes some getting used to, but very refreshing. Suntory Gokuri (10): A
+delicious grapefruit drink, with an exceptionally pure, fresh taste, pleasant,
+balanced sweetness, not as overly sweet as the American stuff. I strongly
+suspect this will be an export hit, and as always, you read it here first in
+the newsletter. Green Tea by Kirin (11): Cold green tea, drinkable. Kirin Milk
+Tea (12): A mild chilled black tea with milk. Unpleasant UHT milk aftertaste.
 
-@Z: The German word "Bier" translates to "beer" in English.
+@Z: Beer"
 
-<em>Could you please provide the text you would like translated into English?</em>Japanese brand beers are, by the way—as I already knew from San Francisco, where Japanese restaurants and supermarkets carry Sapporo, Kirin, and Asahi—almost on par with German ones. And believe me, all the major breweries in the world tremble at my beer taste.
+<em>Michael</em> Japanese brand beers are, by the way—as I already knew from
+San Francisco, where Japanese restaurants and supermarkets carry Sapporo,
+Kirin, and Asahi—almost on par with German ones. And believe me, all the major
+breweries in the world tremble at my beer taste.
 
-The brand Yesibu from the house of Sapporo is truly world-class, a strong lager, quite comparable to, and I am not afraid to say it, the Augustiner Edelstoff, probably the best widely available beer in Germany. Indeed! However, the stuff is brutally expensive. The gigantic 1L can, which I am holding in picture (#7), cost the hefty price of 560 Yen (about 5 Euros). Even I, who am used to fantasy prices for good beer in the USA (1 six-pack microbrew = 2L costs 8 dollars in the supermarket), was taken aback.
+The brand Yesibu from the house of Sapporo is truly world-class, a strong
+lager, quite comparable to, and I am not afraid to say it, the Augustiner
+Edelstoff, probably the best widely available beer in Germany. Indeed! However,
+the stuff is brutally expensive. The gigantic 1L can, which I am holding in
+picture (#7), cost the hefty price of 560 Yen (about 5 Euros). Even I, who am
+used to fantasy prices for good beer in the USA (1 six-pack microbrew = 2L
+costs 8 dollars in the supermarket), was taken aback.
 
 <pic images/asahi.ps (#7) Beer in liter cans>
 
-@Z: The German word "Papiertaschentücher" translates to "paper tissues" or "paper handkerchiefs" in English.
+@Z: Paper tissues
 
-<em>Could you please provide the text you would like translated into English?</em>In Japanese toilets, paper for drying your hands is not always available, so you should always have tissues with you. Instead of brochures and flyers, distributors on the street often hand out packs of tissues, which sometimes advertise (occasionally questionable) services.
+<em>Michael</em> In Japanese toilets, paper for drying your hands is not always
+available, so you should always have tissues with you. Instead of brochures and
+flyers, distributors on the street often hand out packs of tissues, which
+sometimes advertise (occasionally questionable) services.
 
 <pic images/tempo.ps A tissue distributor brings a pack.>
 
-Distributors usually do not offer tissues to foreigners, by the way. However, in the hustle and bustle of the subway stations, we managed to grab some a few times. As for using the tissues: place them on the shelf *before* washing your hands—rummaging in your pocket with wet fingers after washing is uncool.
+Distributors usually do not offer tissues to foreigners, by the way. However,
+in the hustle and bustle of the subway stations, we managed to grab some a few
+times. As for using the tissues: place them on the shelf *before* washing your
+hands—rummaging in your pocket with wet fingers after washing is uncool.
 
-By the way, in Japan, it is considered extremely rude to blow your nose in public. This is even stricter than in the USA, where you are not supposed to blow your nose at the table and should excuse yourself to go to the restroom instead.
+By the way, in Japan, it is considered extremely rude to blow your nose in
+public. This is even stricter than in the USA, where you are not supposed to
+blow your nose at the table and should excuse yourself to go to the restroom
+instead.
 
-@Z: Shuwattchi!" is a Japanese onomatopoeic expression often used to mimic the sound of something moving quickly or energetically, similar to "whoosh" or "zoom" in English. It doesn't have a direct translation but conveys a sense of speed or excitement.
+@Z: Shuwattchi!
 
-<em>Could you please provide the text you would like translated into English?</em>One day, I noticed a poster hanging in the window of a building that looked like a trade union center. On it, a Japanese person appeared to be giving a Hitler salute! Wow, I thought, the Japanese Nazi party—I absolutely have to report on this, and quickly took a photo (Figure (#5)). Back home, I asked my Japanese colleague at work what it was all about.
+<em>Michael</em> One day, I noticed a poster hanging in the window of a
+building that looked like a trade union center. On it, a Japanese person
+appeared to be giving a Hitler salute! Wow, I thought, the Japanese Nazi
+party—I absolutely have to report on this, and quickly took a photo (Figure
+(#5)). Back home, I asked my Japanese colleague at work what it was all about.
 
 <pic images/rider.ps (#5) Yikes! What is the man doing?>
 
-The pose is by no means associated with a right-wing political group, but rather comes from the popular Japanese TV series "Kamen Rider".
+The pose is by no means associated with a right-wing political group, but
+rather comes from the popular Japanese TV series "Kamen Rider".
 
-@Z: The word "Mode" in English can have several meanings depending on the context. It can refer to:
-
-1. A manner or way of doing something.
-2. In statistics, the value that appears most frequently in a data set.
-3. In fashion, it can refer to style or trend.
-4. In music, it refers to a type of scale or a series of pitches.
-
-If you have a specific context in mind, please let me know for a more precise translation.
+@Z: Fashion
 
 <pic images/leute.ps Everyone is well-dressed.>
 
-<em>Could you please provide the text you would like translated into English?</em>In five and a half years in the USA, I have gotten used to wearing a sort of sloppy California hacker look: short surfer shorts that come just above the knee with roomy side pockets (mostly from Billabong, DKNY, or Quicksilver), T-shirts that have been washed a thousand times (also surfer brands, but also Nike, Adidas, and some from the Costco supermarket in Maui, Hawaii), and sneakers that haven't been cleaned in years and are only half-laced (Mizuno Wave Rider) are what I usually wear -- my idea of a crossover between the Beach Boys and Public Enemy.
+<em>Michael</em> In five and a half years in the USA, I have gotten used to
+wearing a sort of sloppy California hacker look: short surfer shorts that come
+just above the knee with roomy side pockets (mostly from Billabong, DKNY, or
+Quicksilver), T-shirts that have been washed a thousand times (also surfer
+brands, but also Nike, Adidas, and some from the Costco supermarket in Maui,
+Hawaii), and sneakers that haven't been cleaned in years and are only
+half-laced (Mizuno Wave Rider) are what I usually wear -- my idea of a
+crossover between the Beach Boys and Public Enemy.
 
-In San Francisco and the surrounding Bay Area, you rarely encounter this: I only know of two establishments from which I was once kicked out for it: The cocktail lounge of the Bank of America building (no shorts or sneakers after 5:00 PM) and the bar room of the Fairmont Hotel (no T-shirts in the evening, must be a shirt or jacket). Since then, I've avoided these snobby hangouts during critical times and have been happily getting by with my choice of clothing.
+In San Francisco and the surrounding Bay Area, you rarely encounter this: I
+only know of two establishments from which I was once kicked out for it: The
+cocktail lounge of the Bank of America building (no shorts or sneakers after
+5:00 PM) and the bar room of the Fairmont Hotel (no T-shirts in the evening,
+must be a shirt or jacket). Since then, I've avoided these snobby hangouts
+during critical times and have been happily getting by with my choice of
+clothing.
 
 <pic images/schuh.ps The Japanese woman loves the elegant shoe.>
 
-In Japan, on the other hand, there is a stricter dress code: Most men wear suits with ties, and the women wear business suits and high heels. This is because office jobs require this dress code, and people usually only go out with business colleagues after work.
+In Japan, on the other hand, there is a stricter dress code: Most men wear
+suits with ties, and the women wear business suits and high heels. This is
+because office jobs require this dress code, and people usually only go out
+with business colleagues after work.
 
-Funnily enough, even in the upscale restaurants, you won't get kicked out despite having a shabby California look—either you enjoy the exotic bonus as a Westerner, or such an affront would be far too embarrassing for the Japanese. I never tried it in shorts (it's not that hot in Japan in May), but even in the most elegant restaurant, my worn-out sneakers were neatly placed in front of the tatami mat without any eye-rolling.
+Funnily enough, even in the upscale restaurants, you won't get kicked out
+despite having a shabby California look—either you enjoy the exotic bonus as a
+Westerner, or such an affront would be far too embarrassing for the Japanese. I
+never tried it in shorts (it's not that hot in Japan in May), but even in the
+most elegant restaurant, my worn-out sneakers were neatly placed in front of
+the tatami mat without any eye-rolling.
 
-@Z: The German word "Sicherheit" translates to "safety" or "security" in English.
+@Z: Safety
 
-<em>Could you please provide the text you would like translated into English?</em>I don't think there are criminals in Japan. (However, I have heard that there is a kind of Japanese mafia called the "Yakuza," who roll their "r"s and have full-body tattoos, which means they are not allowed in public baths). You can carry hundreds of thousands of yen in cash without worry (you have to, because hardly anyone accepts credit cards, not even some hotels) and walk around with it at any time of day or night. It's also noticeable how clean the cities are. No graffiti, no trash. You only see homeless people hidden away in parks, and you really have to look closely to find them. No one hits you up for money. No one loiters or hangs around provocatively. No one honks wildly, yells, or makes offensive gestures. There's a lot more going on in San Francisco, I tell you!
+<em>Michael</em> I don't think there are criminals in Japan. (However, I have
+heard that there is a kind of Japanese mafia called the "Yakuza," who roll
+their "r"s and have full-body tattoos, which means they are not allowed in
+public baths). You can carry hundreds of thousands of yen in cash without worry
+(you have to, because hardly anyone accepts credit cards, not even some hotels)
+and walk around with it at any time of day or night. It's also noticeable how
+clean the cities are. No graffiti, no trash. You only see homeless people
+hidden away in parks, and you really have to look closely to find them. No one
+hits you up for money. No one loiters or hangs around provocatively. No one
+honks wildly, yells, or makes offensive gestures. There's a lot more going on
+in San Francisco, I tell you!
 
-@Z: The German word "Technikverliebtheit" can be translated to English as "technophilia" or "love of technology." It refers to a strong enthusiasm or affection for technology and technological advancements.
+@Z: Technophilia
 
-<em>Could you please provide the text you would like translated into English?</em>The Japanese infatuation with technical gadgets is also evident in the loving details for everyday life: When you open the hotel wardrobe, the light turns on inside just like in a refrigerator. Or the bathroom mirror is heated from the inside, so you can still admire yourself even when you've taken such a hot shower that everything steams up. Department stores like Takashimaya offer lockers for purchases — and they are refrigerated, so you can store perishable groceries you just bought there.
+<em>Michael</em> The Japanese infatuation with technical gadgets is also
+evident in the loving details for everyday life: When you open the hotel
+wardrobe, the light turns on inside just like in a refrigerator. Or the
+bathroom mirror is heated from the inside, so you can still admire yourself
+even when you've taken such a hot shower that everything steams up. Department
+stores like Takashimaya offer lockers for purchases — and they are
+refrigerated, so you can store perishable groceries you just bought there.
 
-<HTMLONLY>
+And the taxi drivers can open and close the rear side door from the driver's
+seat, so when the passenger gets out, they don't need to close it. The driver
+presses the button, and the door quickly folds in. Our travel guide mentioned
+that the authors, after several years of living in Tokyo, got so used to not
+closing the taxi door that they did the same in New York—which, of course,
+resulted in a fit of rage from the driver.
 
-And the taxi drivers can open and close the rear side door from the driver's seat, so when the passenger gets out, they don't need to close it. The driver presses the button, and the door quickly folds in. Our travel guide mentioned that the authors, after several years of living in Tokyo, got so used to not closing the taxi door that they did the same in New York—which, of course, resulted in a fit of rage from the driver.
+<pic images/cell3.ps Instant messages via mobile phone>
 
-<pic images/cell3.ps The phrase "Instant Messages übers Handy" translates to "Instant messages via mobile phone" in English.>
 
 The mobile phone industry in Japan is always a step ahead of the rest of the world. There are already mobile phones with built-in cameras that allow you to send pictures to the person you're talking to! Additionally, I find it remarkable that phone conversations in Japan are much more discreet. No one loudly shouts into their phone on the train or lets it ring with annoying melodies, unlike what Americans do (as in...<RBLINK>20010701#2</RBLINK>The text translates to:
 
