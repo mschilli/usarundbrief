@@ -272,7 +272,7 @@ suspect this will be an export hit, and as always, you read it here first in
 the newsletter. Green Tea by Kirin (11): Cold green tea, drinkable. Kirin Milk
 Tea (12): A mild chilled black tea with milk. Unpleasant UHT milk aftertaste.
 
-@Z: Beer"
+@Z: Beer
 
 <em>Michael</em> Japanese brand beers are, by the way—as I already knew from
 San Francisco, where Japanese restaurants and supermarkets carry Sapporo,
@@ -416,7 +416,8 @@ is criticized as being far too cumbersome.
 
 <pic images/hiraki.ps The sleek Shinkansen "Hikari">
 
-<em>With Japan's "Shinkansen" train (pronounced "Shinkan Senn" with a soft
+<em>Michael</em>
+With Japan's "Shinkansen" train (pronounced "Shinkan Senn" with a soft
 's'), the equivalent of the German ICE, we sped from Tokyo to Hiroshima, then
 to Kyoto, and finally, with local trains, to a sacred Buddhist mountain at
 Koya-san. If you, as a foreigner, pay about 250 euros per week, you can get a
