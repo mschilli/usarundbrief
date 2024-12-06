@@ -288,19 +288,18 @@ costs 8 dollars in the supermarket), was taken aback.
 
 <pic images/asahi.ps (#7) Beer in liter cans>
 
-TODO
-
 @Z: Paper tissues
 
-<em>Michael</em> In Japanese toilets, paper for drying your hands is not always
-available, so you should always have tissues with you. Instead of brochures and
-flyers, distributors on the street often hand out packs of tissues, which
-sometimes advertise (occasionally questionable) services.
+<em>Michael</em> Visiting Japanese public bathroom, you'll notice that paper
+for drying your hands is not always available, so you should always have
+tissues with you. Instead of brochures and flyers, distributors on the street
+often hand out packs of tissues, which sometimes advertise (occasionally
+questionable) services.
 
-<pic images/tempo.ps A tissue distributor brings a pack.>
+<pic images/tempo.ps Paper tissues are handed out as advertisment.>
 
-Distributors usually do not offer tissues to foreigners, by the way. However,
-in the hustle and bustle of the subway stations, we managed to grab some a few
+Those distributors usually do not offer tissues to foreigners, by the way. However,
+in the hustle and bustle of the subway stations, we managed to grab some several
 times. As for using the tissues: place them on the shelf *before* washing your
 hands—rummaging in your pocket with wet fingers after washing is uncool.
 
@@ -313,14 +312,22 @@ instead.
 
 <em>Michael</em> One day, I noticed a poster hanging in the window of a
 building that looked like a trade union center. On it, a Japanese person
-appeared to be giving a Hitler salute! Wow, I thought, the Japanese Nazi
-party—I absolutely have to report on this, and quickly took a photo (Figure
+appeared to be giving the Hitler salute! Wow, I thought, the Japanese Nazi
+party, I absolutely have to report on this! And I quickly took a photo (Figure
 (#5)). Back home, I asked my Japanese colleague at work what it was all about.
 
 <pic images/rider.ps (#5) Yikes! What is the man doing?>
 
 The pose is by no means associated with a right-wing political group, but
-rather comes from the popular Japanese TV series "Kamen Rider".
+rather comes from the popular Japanese TV series
+<LINK>http://www.kamenrider.net|Kamen Rider"</LINK>, whose Superman-like hero,
+whenever he transforms into Superman (in Japanese: enters "Rider" mode),
+strikes this pose and shouts "Shuwattchi!" The gesture and expression are
+widely understood in Japan, and the poster, if you understand the Kanji
+characters, is simply promoting that employees should keep their social
+security information up to date. Ha!
+
+TODO
 
 @Z: Fashion
 
