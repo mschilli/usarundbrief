@@ -154,8 +154,6 @@ weather in German-Japanese relations, as preparation for the soon-to-arrive
 football hooligans -- the Japanese will be in for a surprise, it's going to be
 a disaster, they have no idea what's coming their way!
 
-TODO
-
 @Z: Tokyo Fish Market
 
 <em>Michael</em> In a warehouse district near the Shimbashi train station, the
@@ -165,8 +163,8 @@ starting at four in the morning. Tourists are not actually allowed there, but
 the travel guide mentioned that you won't be thrown out as long as you don't
 stand around stupidly in the way and disrupt people while they're trading. As
 usual, there were no signs, and we wandered around the district for a while
-until we finally made our way through the vegetable market with wildly zooming
-carts into the fish halls.
+until we finally made our way through the vegetable market, escaping
+recklessly zooming motorized cart drivers, into the fish halls.
 
 <pic images/karren.ps Crazy cart driver>
 
@@ -179,13 +177,13 @@ indescribably fast and loud chaos, the trading was taking place.
 <pic images/tuna.ps A tuna is being cut up.>
 
 Like a guerrilla squad (small teams, strike quickly, disappear quickly), the
-dynamic newsletter duo dashed through the alleys, took photos, and ducked for
-cover between fish boxes every time a grumpy fish buyer came running or a crazy
+dynamic newsletter duo dashed through the aisles, took photos, and ducked for
+cover between fish boxes every time a grumpy fish monger came running or a crazy
 cart driver wanted to pass by.
 
-<pic images/fmhaendl.ps Rude Fishmongers>
+<pic images/fmhaendl.ps Rambunctious Fishmongers>
 
-We stormed through the cauldron for about an hour, thrilled by the fish glowing
+We stalked through the cauldron for about an hour, thrilled by the fish glowing
 in supernatural colors under the bright spotlight, the flashing pieces of ice,
 the professionalism of the sawyers and the hackers, overwhelmed by the noise --
 and always on guard and ready to jump aside to not obstruct the market
@@ -193,7 +191,7 @@ activity. After an hour and 100 photos, we made our way out. What madness!
 
 We had breakfast after the experience at the counter of a well-visited sushi
 restaurant located on the edge of the market. Raw fish and beer at nine in the
-morning can only be handled by the iron stomachs of the racing newsletter
+morning can only be handled by the iron stomachs of your dynamic newsletter
 reporters! The sushi was wonderfully fresh, and even the usually tougher items
 like squid and shellfish were nice and tender. By the way, the sushi chef at
 this establishment had a knack for giving the piece of dead fish on the rice
@@ -201,7 +199,7 @@ ball a quick, powerful slap just before serving, causing it to arch slowly once
 more when placed on the wooden counter, from where you pick it up with
 chopsticks and devour it.
 
-The portion of sea urchin (orange, looks like tongues) that I had never taken
+The portion of sea urchin (orange, looks like tripe) that I had never taken
 from the conveyor belt of the floating sushi restaurant in San Francisco tasted
 somewhat musty. And Angelika absolutely couldn't manage to eat the small white
 worms, each with two staring eyes at the end (Chirimen Jako), so Michael, who
@@ -212,8 +210,8 @@ entirely Japanese) and the staff were impressed by these two tough Europeans.
 @Z: Masks
 
 <em>Michael</em>
-In the big cities, you often encounter people wearing white face masks. At
-first, I thought: Aha, a tuberculosis case. Let's keep a wide berth. But after
+In Japan's big cities, you often encounter people wearing white face masks. At
+first, I thought: Aha, a case of tuberculosis. Let's keep a wide berth. But after
 the tenth person, I revised my opinion and concluded that the hospital masks
 are worn because of air pollution. Although Tokyo isn't excessively smoggy,
 there is a bit of smog. The poster in illustration (#11) even promotes the idea
@@ -244,12 +242,12 @@ yen (1.20 euros).
 In the USA, such a vending machine would have an average lifespan of a few
 hours before someone broke into it, but in Japan, this system seems to work
 brilliantly; people even throw the drink cans into the appropriate trash
-containers after use—unbelievable!
+containers after use -— unheard of!
 
 <pic images/drinks.ps (#1) Japanese drinks>
 
 Different countries, different drinking customs: I have tried out the most
-exciting new flavors of the drink selection for you. In illustration (#1), we
+exciting new flavors of the local drink selection for you. In illustration (#1), we
 move from the top left to the bottom right:
 
 Chinese Tea by Coca Cola (1): Unfermented Chinese tea, not quite as harsh in
@@ -268,26 +266,29 @@ Cool Soda (8): Lemonade tasting like Chabeso. Suntory Green Tea (9): Cold green
 tea. Takes some getting used to, but very refreshing. Suntory Gokuri (10): A
 delicious grapefruit drink, with an exceptionally pure, fresh taste, pleasant,
 balanced sweetness, not as overly sweet as the American stuff. I strongly
-suspect this will be an export hit, and as always, you read it here first in
-the newsletter. Green Tea by Kirin (11): Cold green tea, drinkable. Kirin Milk
-Tea (12): A mild chilled black tea with milk. Unpleasant UHT milk aftertaste.
+suspect this will be a future Japanese export hit, and as always, you read it
+here first in the newsletter. Green Tea by Kirin (11): Cold green tea,
+drinkable. Kirin Milk Tea (12): A mild chilled black tea with milk. Unpleasant
+UHT milk aftertaste.
 
 @Z: Beer
 
-<em>Michael</em> Japanese brand beers are, by the way—as I already knew from
+<em>Michael</em> Japanese brand beers are, by the way -— as I already knew from
 San Francisco, where Japanese restaurants and supermarkets carry Sapporo,
-Kirin, and Asahi—almost on par with German ones. And believe me, all the major
-breweries in the world tremble at my beer taste.
+Kirin, and Asahi —- almost on par with German beers. And believe me, all the major
+breweries in the world are trembling when I arrive to taste their beers.
 
 The brand Yesibu from the house of Sapporo is truly world-class, a strong
 lager, quite comparable to, and I am not afraid to say it, the Augustiner
 Edelstoff, probably the best widely available beer in Germany. Indeed! However,
-the stuff is brutally expensive. The gigantic 1L can, which I am holding in
+Yesibu is crazy expensive. The gigantic one liter can, which I am holding in
 picture (#7), cost the hefty price of 560 Yen (about 5 Euros). Even I, who am
-used to fantasy prices for good beer in the USA (1 six-pack microbrew = 2L
+used to fantasy prices for good beer in the USA (1 six-pack microbrew = 2 liters
 costs 8 dollars in the supermarket), was taken aback.
 
 <pic images/asahi.ps (#7) Beer in liter cans>
+
+TODO
 
 @Z: Paper tissues
 
