@@ -362,11 +362,9 @@ for the Japanese. I never tried it in shorts (it's not that warm in Japan in
 May), but even in the most elegant restaurant, my worn-out sneakers were neatly
 placed in front of the tatami mat without any eye-rolling.
 
-TODO
-
 @Z: Safety
 
-<em>Michael</em> I don't think there are criminals in Japan. (However, I have
+<em>Michael</em> I don't think there are any criminals in Japan. (However, I have
 heard that there is a kind of Japanese mafia called the "Yakuza," who roll
 their "r"s and have full-body tattoos, which means they are not allowed in
 public baths). You can carry hundreds of thousands of yen in cash without worry
@@ -381,23 +379,23 @@ in San Francisco, I tell you!
 @Z: Technophilia
 
 <em>Michael</em> The Japanese infatuation with technical gadgets is also
-evident in the loving details for everyday life: When you open the hotel
-wardrobe, the light turns on inside just like in a refrigerator. Or the
-bathroom mirror is heated from the inside, so you can still admire yourself
-even when you've taken such a hot shower that everything steams up. Department
-stores like Takashimaya offer lockers for purchases — and they are
-refrigerated, so you can store perishable groceries you just bought there.
+evident in everyday life: When you open the hotel wardrobe, the light turns on
+inside just like in a refrigerator. Or the bathroom mirror is heated from the
+inside, so you can still admire yourself even when you've taken such a hot
+shower that everything steams up. Department stores like Takashimaya offer
+lockers for purchases — and they are refrigerated, so you can store perishable
+groceries you just bought there.
 
-And the taxi drivers can open and close the rear side door from the driver's
+The taxi drivers can open and close the rear side door from the driver's
 seat, so when the passenger gets out, they don't need to close it. The driver
 presses the button, and the door quickly folds in. Our travel guide mentioned
 that the authors, after several years of living in Tokyo, got so used to not
-closing the taxi door that they did the same in New York—which, of course,
-resulted in a fit of rage from the driver.
+closing the taxi door that they did the same in New York -— which, of course,
+resulted in the driver throwing a hissy fit.
 
 <pic images/cell3.ps Instant messages via mobile phone>
 
-The mobile phone industry in Japan is always a step ahead of the rest of the
+The mobile phone industry in Japan is a step ahead of the rest of the
 world. There are already mobile phones with built-in cameras that allow you to
 send pictures to the person you're talking to! Additionally, I find it
 remarkable that phone conversations in Japan are much more discreet. No one
@@ -408,6 +406,8 @@ calls, one steps outside (in the train to the vestibule) and speaks quietly and
 with one hand (!) covering the mouth, so that you can hardly hear anything.
 That's what I call manners! The etiquette prize is going to Japan this
 year!
+
+TODO
 
 <pic images/celln.ps The Japanese love their mobile phones ... but are considerate.>
 
