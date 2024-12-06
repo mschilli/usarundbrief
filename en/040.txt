@@ -407,8 +407,6 @@ with one hand (!) covering the mouth, so that you can hardly hear anything.
 That's what I call manners! The etiquette prize is going to Japan this
 year!
 
-TODO
-
 <pic images/celln.ps The Japanese love their mobile phones ... but are considerate.>
 
 But it's not just phone calls that are made on the go. Anyone who frequently
@@ -441,7 +439,7 @@ Because Japanese people, when they go on vacation, absolutely have to bring
 back gifts (called O-miyage) for their colleagues, these are naturally offered
 at train stations and even on the train. Additionally, as shown in illustration
 (#17), there are pretty Eki-(station)-Bento boxes available for purchase, which
--- typically Japanese -- contain all sorts of delicacies (mostly fish-based) in
+-- typical Japanese -- contain all sorts of delicacies (mostly fish-based) in
 square compartments for immediate consumption.
 
 <pic images/abahn.ps (#6) Lots of luggage at the train station>
@@ -453,6 +451,8 @@ with three stripes that I personally designed. By the way, Japanese people
 travel with very light luggage -- with our two huge bags, we were constantly
 looked at in amazement, and I had to repeatedly help the slight hotel staff
 with carrying the suitcases, otherwise they would have collapsed.
+
+TODO
 
 @Z: English
 
