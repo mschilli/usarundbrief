@@ -452,33 +452,31 @@ travel with very light luggage -- with our two huge bags, we were constantly
 looked at in amazement, and I had to repeatedly help the slight hotel staff
 with carrying the suitcases, otherwise they would have collapsed.
 
-TODO
-
-@Z: English
+@Z: Japanese speaking English
 
 <pic images/wohin.ps Where to?>
 
 <em>Michael</em>
 In Japanese, there is a funny linguistic peculiarity: One answers a
-negative question with "Yes!" if they want to negate it. For example, to the
+negative question with "Yes!" if you want to negate it. For example, to the
 question "This train doesn't go to Shibuya?" a Japanese speaker would answer
 with "Yes" if the train indeed does not go to Shibuya, while in German or
 English, you'd answer "no" for emphasis.
 
 This leads to all sorts of amusing misunderstandings between cultures. For
 example, when we initially had trouble finding an ATM that accepted our
-American card, we spoke with a bank employee. In broken English, she responded
+American debit card, we spoke with a bank employee. In broken English, she responded
 several times in a row to our question, "So we can’t use this card at your
 ATM?" with "Yes! No!" I was still laughing about it 10 minutes later on the
 street.
 
 <pic images/station.ps In the countryside: Game over, no more English. In the cities, at least the name of the station is still in Latin script.>
 
-In general, there are hardly any people in Japan who speak fluent English. When
+In general, there are hardly any people in Japan who speak English fluently. When
 you go to a restaurant, at least in the big cities, you might sometimes find
 someone who knows at least 10 words, so you can at least order a beer and maybe
 (!) request a menu with pictures or even in English. But be careful: sometimes
-the spoken English is a fantasy version that has little to do with the real
+the English spoken there is a fantasy version that has little to do with the real
 thing. When we boarded a bus at Narita Airport to ride into Tokyo, the baggage
 handler slapped our suitcase with his flat hand and shouted "No Breakup!" We
 looked at each other questioningly because "breakup" in English means "to
@@ -503,22 +501,28 @@ thinking also prevails: it can happen that an employee frantically busies
 himself on the subway so that his boss, with whom he is going to lunch, gets a
 seat.
 
-<pic images/gschaftl.ps Construction workers busy bodies>
+<pic images/gschaftl.ps Construction worker busy bodies>
 
 Another mass phenomenon is what I call the "people's run," a group dynamic that
 occurs when a crowd of people suddenly starts running. I first noticed this
-peculiarity when we were standing in line at passport control upon entering the
-country. For the Japanese, there were about ten lines open for queuing, which
+peculiarity when we were standing in line at airport immigration upon entering the
+country. For Japanese citizens, there were about ten lines open for queuing, which
 the steady stream of arriving people distributed themselves evenly across.
-Suddenly, another counter opened at one end—and as if pulled by a string, the
-arriving people accelerated continuously to the speed of a "people's run."
+Suddenly, another counter opened at one end —- and as if pulled by a string, the
+arriving people accelerated really fast to the speed of a "people's run" to
+line up at the new counter.
 Everything proceeds in an extremely controlled manner, and it is very rare for
 someone to be jostled. (About as often as in West Germany, a little less than
 in East Germany. In the USA or Great Britain, however, it *never* happens that
-someone jostles you; that is considered a mortal sin). However, the Japanese do
+someone jostles you; that is considered a mortal sin). However, people in Japan do
 not aggressively insist on their right of way; in case of doubt, they will let
 you go ahead just before a collision. You also often see people, even those of
-advanced age, in suits running through the city.
+advanced age, in suits running through the city, probably because they're late for something.
+In the USA, on the other hand, no one ever runs -- except for joggers and criminals on the run.
+If someone in the USA is running in non-sports attire, you'd better take cover because
+there might be a shootout soon.
+
+TODO
 
 @Z: Rambunctious Youth
 
