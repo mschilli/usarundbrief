@@ -522,8 +522,6 @@ In the USA, on the other hand, no one ever runs -- except for joggers and crimin
 If someone in the USA is running in non-sports attire, you'd better take cover because
 there might be a shootout soon.
 
-TODO
-
 @Z: Rambunctious Youth
 
 <pic images/kinder.ps Kindergarten children>
@@ -533,12 +531,12 @@ affiliation -— usually a group of colleagues at work. The group defines the
 rules, and children learn this early on, as they hardly do anything other than
 kindergarten and school (from 8 a.m. to 6 p.m.), sometimes even on weekends.
 This, by the way, leads to the fact that it is almost impossible for foreigners
-to start friendships with Japanese people. Even those "Gaijins" ("foreigners")
-who live over there permanently and speak perfect Japanese reportedly find no
+to start friendships with Japanese natives. Even those "Gaijins" ("foreigners")
+who live in Japan permanently and speak perfect Japanese reportedly find no
 entry into these closed-off groups.
 
-<pic images/hemd.ps (#14) School fashion: Letting your shirt hang out of your pants -- cool!>
-<pic images/bua.ps Furious youth are glued to their phones, while the elders polish the monuments.>
+<pic images/hemd.ps (#14) School fashion: Letting your shirt hang out of your pants -- outrageous!>
+<pic images/bua.ps Rambunctious youth are glued to their phones, while the elders polish the monuments.>
 
 It is naturally difficult for young people to break out of there -- sometimes you
 see amusing attempts within their means, like when the boys let their neatly
@@ -560,6 +558,8 @@ the "Isetan" department store in Tokyo.
 
 <pic images/gang.ps Young Mafia>
 <pic images/tshirt.ps (#14) Youth running around with funny T-shirt slogans.>
+
+TODO
 
 @Z: School surveys
 
