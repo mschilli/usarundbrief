@@ -559,19 +559,17 @@ the "Isetan" department store in Tokyo.
 <pic images/gang.ps Young Mafia>
 <pic images/tshirt.ps (#14) Youth running around with funny T-shirt slogans.>
 
-TODO
+@Z: Surveyed by Students
 
-@Z: School surveys
+<pic images/buddha.ps Temple-Mania: Great Buddha>
 
 <em>Michael</em> On our temple tours (Angelika was struck by what I called
 "temple mania"), we encountered a large number of students on school trips who
 apparently had an English class assignment to complete in addition to
 sightseeing. Groups of four, consisting of around seventh graders, had to
 approach one of the few foreign tourists (about five out of a hundred visitors)
-and ask them a few questions in English, note down the answers, and take a
+and ask them a few questions in English, jot down the answers, and take a
 group photo as proof.
-
-<pic images/buddha.ps Temple-Mania: Great Buddha>
 
 It was hilarious to secretly watch the children as they overcame their
 hesitation to make the first contact. An older teacher joined a group of two
@@ -582,8 +580,9 @@ different groups at different temples where we were from ("Germany" was
 unfamiliar to them, the Japanese "Doitsu" was more common), how old we were
 (around 20), and what we liked about Japan (under Angelika's eye-rolling, I
 listed the different beer brands). The children's English skills were not very
-advanced, so the teacher often had to step in and translate our answers. In
-Japan, it seems that English classes are conducted in Japanese, focusing on dry
+advanced, so the teacher often had to step in and translate our answers.
+
+In Japan, it seems that English classes are conducted in Japanese, focusing on dry
 grammar rules. Most children can't speak English at all. According to our
 findings, most have studied English for six years, three hours a week. What
 happens there is a mystery to me. English classes in Germany during my school
@@ -620,7 +619,7 @@ but also delicious cakes, including cream cakes. The cafes were always packed.
 The Japanese love their coffee. Unfortunately, there is also a "Starbucks" on
 every corner, the American coffeehouse chain that, like McDonald's, establishes
 itself in every country in the world (I read with horror in the New York Times
-that there are now "Starbucks" in Austria and Germany too - a misery). I
+that there are now "Starbucks" locations in Austria and Germany too - a misery). I
 believe you won't find as many "Starbucks" in any American city as you do in
 Tokyo.
 
@@ -638,21 +637,21 @@ the menu.
 In Tokyo, we went to eat Italian for testing purposes. And once again, we
 revised a prejudice: the food did not lack authenticity. Who would have
 thought? Usually, immigrants bring their cuisine to the respective country. Not
-so in Japan: here, only a vanishingly small proportion of foreigners live. And
-I swear that both the chefs and the waitstaff in the Italian restaurant were
-entirely Japanese. We noticed that no one alters the food to suit Japanese
-taste buds, as is often the case in America, where suddenly every dessert is
-overly sweet. There is also always the right cutlery: I read in the travel
-guide that the Japanese place great importance on this. Michael ate fish at the
-Italian restaurant and actually received a fish knife. That has never happened
-to us in our five and a half years in San Francisco. And we really do eat a lot
-of fish.
+so in Japan: here, only a vanishingly small proportion of foreigners actually
+live there. And I swear that both the chefs and the waitstaff in the Italian
+restaurant were entirely Japanese. We also noticed that the food wasn't altered
+to suit Japanese taste buds, as is often the case in America, where suddenly
+every dessert is overly sweet. Restaurants also always provide the correct
+silverware, I read in the travel guide that the Japanese place great importance
+on this. Michael ate fish at the Italian restaurant and actually received a
+fish knife. That has never happened to us in our five and a half years in San
+Francisco. And we really do eat a lot of fish.
 
 @Z: Consumer Frenzy
 
 <em>Angelika</em> Strolling through the food sections of the large department
 stores in Tokyo is a delight for the senses. There, alongside delicacies from
-around the world, you can find Japanese specialties such as the sinfully
+around the world, you can find Japanese specialties such as crazy
 expensive Kobe beef. It comes only from specially raised cows that are massaged
 daily and even fed beer at times, costing up to 160 euros per kilo at the
 butcher. Unfortunately, the fourth case of BSE has just occurred in Japan, and
@@ -665,21 +664,22 @@ straight from the Viennese court bakery. And what did we discover as we
 leisurely strolled through the aisles of the "Takashimaya" department store
 (pronounced: Takashima Ya!)? Sausages from Dahlmayer in Munich - the original!
 There were lovely gift baskets with ham and all sorts of different sausages.
-However, a generous gift basket, a set of three consisting of a large whole
-smoked ham, another piece of meat, and some sausages, cost 40,000 yen, which is
-345 euros.
+However, a generous gift basket, a threesome of a large whole smoked ham,
+another piece of meat, and some sausages, cost 40,000 yen, which is 345 euros.
 
-Overall, the department stores are very much to our liking. There are extremely
+Overall, the department stores were absolutely stunning. There are extremely
 beautiful things from all over the world to buy, and you can really get
 everything your heart desires. In this regard, Tokyo is truly a cosmopolitan
 city, while San Francisco is more provincial, if we're being honest.
 
-In better Japanese department stores and in some important public buildings, we
+In upscale Japanese department stores and in some important public buildings, we
 encountered what I have termed elevator ladies (again, no men in sight), whose
 job is to operate the elevator all day. Uniform, hat, and white gloves are
 mandatory. The elevator ladies not only continuously use Japanese polite
 expressions but also indicate with hand signals whether the elevator is going
-up or down or if the doors are closing.
+up or down or when the doors are closing.
+
+TODO
 
 @Z: Japanese toilets
 
