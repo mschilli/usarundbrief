@@ -990,8 +990,6 @@ we often desperately tried to store our things somehow. The rooms of an upscale
 ryokan often offer a view of a Japanese garden. But be careful: if you want to
 view the garden up close, you need to step into wooden clogs ("geta").
 
-TODO
-
 @Z: Japanese Bath
 
 <em>Angelika</em> The use of a Japanese bath poses the risk for Western
@@ -1044,6 +1042,8 @@ longer among the living. The only question that remained unanswered: What
 should we wear under the Yukata? Underwear? T-shirt? Socks? No travel guide
 answered this crucial question. To prevent getting cold, there is also a kind
 of overcoat that you can wear over the "Yukata," called "Tanzen".
+
+TODO
 
 @Z: In the temple for AOL
 
