@@ -756,26 +756,24 @@ tiny in comparison. There are 60 exits, a labyrinth of underground passages,
 department stores, and restaurants. It's completely crazy: like an anthill.
 There's hustle and bustle everywhere.
 
-TODO
-
 @Z: Uniforms
 
 <em>Angelika</em> Wearing uniforms is a really big deal in Japan. Armies of
-schoolchildren hop around in school uniforms. The boys usually wear dark pants
+schoolchildren are hopping around in school uniforms. The boys usually wear dark pants
 with a white shirt and a suit jacket that resembles Michael's wedding suit (a
 jacket with a stand-up collar that can be worn without a tie). However, we also
 saw some students with ties.
 
 <pic images/struempf.ps (#13) School fashion: Rolling down winter socks -- cool!>
 
-Girls wear skirts and often a top that resembles a sailor shirt. On their feet,
+Girls are wearing skirts and often a top that resembles a sailor shirt. On their feet,
 both girls and boys wear modern sneakers. For girls, the latest fashionable
 school uniform trend is to wear thick winter knee socks, which are casually
 rolled down to slouch around the legs. There are always ways to loosen the
 uniform requirements. Incidentally, Japanese schoolchildren also carry a
 backpack, while this is otherwise a 100% identifying feature of non-Japanese
-tourists. Japanese tourists are usually seen with neat little bags. The
-receptionists (I didn't see any men) at the information desks in upscale
+tourists. Japanese tourists are usually seen carrying neat little bags. The
+receptionists (only females, I didn't see any men) at the information desks in upscale
 department stores also wear uniforms and look like flight attendants. Often, a
 hat is part of the outfit for women. It's all very nice. We were also
 fascinated by the uniforms of the road workers because they looked so
@@ -789,14 +787,14 @@ different.
 there are no foreign taxi drivers in Japan. If you're used to American
 conditions like we are, you'll be quite surprised, because in San Francisco,
 you almost never encounter an American taxi driver. We also didn't see any
-female taxi drivers in Japan. The taxi drivers usually wear a suit with a tie
-and a hat that resembles that of a conductor from my old picture book. But the
-absolute highlight is the white gloves that many of them wear. Every taxi we
+female taxi drivers in Japan. Taxi drivers usually wear suit and tie
+and a hat that resembles that of a train conductor from my old picture book. But the
+absolute highlight is the white gloves. Every taxi we
 rode in was spotlessly clean, and the seats were adorned with white lace
 covers. Taxi drivers don't speak any English at all, and I was glad that we had
 learned from our Japanese teacher how to say where we wanted to go. The problem
 is that it's not enough to show the taxi driver an address (preferably written
-in characters). He usually needs a very precise route description. This is due
+in Japanese characters). He usually needs a very precise route description. This is due
 to the chaotic system in which addresses are written in Japan: it goes
 hierarchically by areas (first the district, then the city, followed by the
 neighborhood, individual streets, and buildings) and not by street names. House
@@ -806,8 +804,8 @@ be that building number 20 is next to building number 1.
 <pic images/taxi.ps Japanese taxi drivers, white seat covers, white gloves>
 
 Of course, taxi drivers know where the train station, major hotels, or other
-attractions are located. Unfortunately, the tourist often doesn't know which
-famous landmark the restaurant they want to visit is near. However, Japanese
+attractions are located. Unfortunately, tourists often don't know which
+famous landmark the restaurant they want to visit is nearby. However, Japanese
 taxi drivers are fundamentally honest and won't rip you off. If they can't find
 the address, they will drive to the nearest Koban in the desired district and
 ask for directions. A "Koban" is a small police station. These can be found in
@@ -823,6 +821,8 @@ and gave up in frustration despite having a map. Additionally, restaurant names
 typically include Kanji characters, which are wonderfully decipherable in the
 printed travel guide, but have little to do with the signs in the real world,
 as they have been "enhanced" for design purposes.
+
+TODO
 
 @Z: To Bow
 
