@@ -936,31 +936,29 @@ on Earth. When you consider the consequences of Hiroshima, it is
 incomprehensible to me why nuclear weapons still exist at all. The leaders in
 Pakistan and India have probably never been to Hiroshima. Unfortunately!
 
-TODO
-
 @Z: Ryokan
 
 <pic images/ryokan.ps A traditional inn, called Ryokan>
 
 <em>Angelika</em> In Kyoto, we rented a room in a ryokan - a traditional
 Japanese inn. The term "inn" might sound a bit rustic, but a ryokan is more of
-an upscale version. It allows you to immerse yourself in the old Japan.
+an upscale version. It allows you to immerse yourself in ancient Japan.
 
 <pic images/ryokan1.ps Ryokan Entrance>
 
 Following the custom of removing shoes is very important in a ryokan. The room
 itself consists of tatami mats and a low table, where meals are eaten while
-sitting. In a ryokan, meals are typically served in the room by a lady dressed
+sitting on the mat. In a ryokan, meals are typically served in the room by a lady dressed
 in a kimono. Usually, both Japanese breakfast and dinner are offered. A
 traditional Japanese breakfast consists of fish, miso soup, pickled vegetables,
 some kind of egg dish, rice, and often tofu. Black tea is served as a drink. We
-often received small fish with eyes (Chirimen Jako), which always looked at me
+often received tiny fish with eyes (Chirimen Jako), which always looked at me
 so nicely and resembled prehistoric worms.
 
-The dinner can best be described as Japanese "high cuisine" (in Japanese:
+Dinner can best be described as Japanese "high cuisine" (in Japanese:
 Kaiseki). It follows a strict etiquette: the freshness of the ingredients and
-the presentation are paramount. The food is lovingly arranged on small, very
-tasteful plates and dishes and served one after the other. You can imagine it
+the presentation are paramount. The food is lovingly and tastefully arranged on small
+plates, and dishes and served one after the other. You can imagine it
 as if there is one appetizer after another. The dishes include, among others:
 sashimi or sushi, tempura, miso soup, cooked or grilled fish, something
 pickled, rice. With Kaiseki, the saying holds true: you eat with your eyes.
@@ -969,28 +967,30 @@ pickled, rice. With Kaiseki, the saying holds true: you eat with your eyes.
 <pic images/frueh1.ps Delicious!>
 <pic images/fishf.ps ... and it comes with a fish.>
 
-The attentive readers among you are probably now wondering: But where do you
+Attentive readers among you are probably now wondering: But where do you
 sleep in a Ryokan? Are there beds, or cozy mattresses on the floor? After
 dinner, the kimono lady returns, clears the table, moves the cushions aside,
 and lays out the futon and blankets on the tatami mats. By the way, Japanese
-pillows tend to be on the harder side. The barley filling makes it possible. My
+pillows tend to be on the harder side. The reason ist their barley stuffing. My
 ears did hurt a bit from that. In the morning, the kimono lady appears before
 breakfast and stores the futon and bedding back in a designated closet. Taking
 a nap in a Ryokan? No way! Unless you lie down on the tatami mat without a
 futon and blanket, which I only recommend for the very tired and hardy. Often,
 there is a small corner in the room with chairs and a table in a Western style.
 
-Michael managed to break the backrest of his chair on the very first day in our
+Michael managed to break the backrest of a chair on the very first day in our
 ryokan. Although he managed to put the chair back together in a makeshift way,
 the next day it (the chair, not Michael) was nowhere to be seen (we suspected
 it was being repaired), which reduced the number of chairs in our room to one.
 In traditional Japanese rooms, you often find an alcove ("tokonoma") with
-arranged artworks or flowers. The Japanese do not appreciate it when tourists
+arranged artworks or flowers. Japanese do not appreciate it when tourists
 place their suitcases or other belongings in the alcove. I admit that one is
 inclined to do so because there is hardly any furniture in Japanese rooms, and
 we often desperately tried to store our things somehow. The rooms of an upscale
 ryokan often offer a view of a Japanese garden. But be careful: if you want to
 view the garden up close, you need to step into wooden clogs ("geta").
+
+TODO
 
 @Z: Japanese Bath
 
