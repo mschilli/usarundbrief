@@ -679,29 +679,28 @@ mandatory. The elevator ladies not only continuously use Japanese polite
 expressions but also indicate with hand signals whether the elevator is going
 up or down or when the doors are closing.
 
-TODO
-
 @Z: Japanese toilets
 
 <em>Angelika</em> Regarding toilets, Japan has a lot to offer. First, there are
 the traditional ones, which are usually found in public restrooms: a toilet set
-into the floor that looks like an oversized slipper. You squat over it while
-standing. But don't worry: no one watches you during this balancing act. There
-are doors in front of the toilets.
+into the floor that looks like an oversized slipper. You squat over it.
+But don't worry: no one watches you during this balancing act. There
+are stall doors you can close.
 
 <pic images/klo.ps Traditional Japanese toilet>
 
 On the other hand, there are the state-of-the-art variants: the obligatory
 bidet, heated toilet seats, and automatic water sounds to drown out unpleasant
 noises. In Japan, one should be cautious of this technical frippery and avoid
-pressing random buttons on the toilets if one wants to avoid getting an
+pressing random buttons on the toilet if you want to avoid taking an
 unexpected shower. In our traditional inn (Ryokan), we had one of these
 hyper-modern devices. The toilet had a control panel with various push and turn
 buttons, which activated different bidet functions. You could adjust the water
 temperature, water pressure, and spray technique. Despite all the warnings, we
 naturally tried out every conceivable button. And lo and behold, there was the
 consequence of such reckless behavior when I couldn't manage to stop the bidet
-water jet. Fortunately, Michael already knew the button to turn it off.
+water jet. Fortunately, Michael already knew the button to turn it off which was
+naturally only labeled in Japanese.
 
 <pic images/kloctrl.ps In the cockpit of the brown bomber>
 
@@ -711,14 +710,15 @@ Style" or "Japanese Style" written on the outside to avoid confusion.
 @Z: Bicycles in Tokyo
 
 <em>Angelika</em> In the mega-metropolis of Tokyo, we were surprised by the
-many cyclists. But of course, parking spaces are extremely scarce, and traffic
-during rush hour is slow-moving, so it makes sense to use not only public
-transportation but also bicycles. We saw men in suits and women in stylish
-shoes pedaling away. No one wore a helmet. Some brave souls even rode on the
-street in the thickest traffic. It is often allowed to ride on the sidewalk.
-Sometimes, there is even a lane designated as a bike path. However, cyclists
-speed along quite quickly even when there is no specially designated bike path.
-Like in a slalom, they maneuver their bicycles through the crowds.
+many cyclists. But of course, parking spaces in such a dense environment are
+extremely scarce, and traffic during rush hour is only slowly moving, so it
+makes sense to use not only public transportation but also bicycles. We saw men
+in suits and women in stylish shoes pedaling away. No one wore a helmet. Some
+brave souls even rode on the street in the thickest traffic. It is often
+allowed to ride bicyles on the sidewalk.  Sometimes, there is even a lane
+designated as a bike path. However, cyclists speed along quite quickly even
+when there is no specially designated bike path.  Like in a slalom, they
+maneuver their bicycles through the crowds of pedestrians.
 
 <pic images/radl.ps Cyclist in a suit>
 <pic images/rad.ps The youth romantically rides together as a couple.>
@@ -731,22 +731,22 @@ world (Figure (#12)).
 
 @Z: Train station in Tokyo
 
-<em>Angelika</em> Before we set off for Tokyo, we read horror stories about the
-crowds, especially in the subway and train stations and the trains themselves.
-Of course, with 12 million inhabitants, we generally moved in a throng of
-people.
-
 <pic images/ubahn.ps S-Bahn station Shinjuku in Tokyo>
 
-Everything runs quite disciplined and orderly, so the many people don't really
-bother you, and we made sure to avoid rush hour. In the stations, arrows showed
-us which side to go up and down the stairs. The whole system is very cleverly
-designed, as there is a barrier in the middle of the stairs, but it's not
-exactly in the center, taking into account that the crowd rushes to the stairs
-when a train arrives. In Japan, by the way, people go up and down the stairs on
-the left side due to the prevailing left-hand traffic. However, it is advisable
-to follow the arrows during peak times. I once didn't, and despite my best
-efforts, I couldn't get back to the correct side.
+<em>Angelika</em> Before we set off for Tokyo, we read horror stories about the
+crowds, especially in the subway and train stations and the trains themselves.
+Of course, with 12 million inhabitants, we weren't surprised to generally move
+in a throng of people.
+
+But everything is running quite disciplined and orderly, so the many people
+don't really bother you, and we made sure to avoid rush hour. In the stations,
+arrows showed us which side to go up and down the stairs. The whole system is
+very cleverly designed, as there is a barrier in the middle of the stairs, but
+it's not exactly in the center, taking into account that largers crowds are
+rushing to the stairs when a train arrives. In Japan, by the way, people go up
+and down the stairs on the left side due to the prevailing left-hand traffic.
+It is advisable to follow the arrows during peak times. I once didn't,
+and despite my best efforts, I couldn't get back to the correct side.
 
 <pic images/down.ps Marked areas for going up and down>
 
@@ -755,6 +755,8 @@ channels up to 2 million people daily, making the Munich Central Station seem
 tiny in comparison. There are 60 exits, a labyrinth of underground passages,
 department stores, and restaurants. It's completely crazy: like an anthill.
 There's hustle and bustle everywhere.
+
+TODO
 
 @Z: Uniforms
 
