@@ -890,12 +890,10 @@ Japanese people who did not even place their bags on the floor and put a
 newspaper under their shoeless feet on the train to prevent their socks from
 directly touching the floor.
 
-TODO
-
 @Z: Hiroshima
 
-<em>Angelika</em> Almost everyone in the world knows what is behind the
-Japanese city "Hiroshima." During World War II, the Americans dropped the first
+<em>Angelika</em> Almost everyone in the world knows the story of the
+Japanese city "Hiroshima." During World War II, Americans dropped the first
 atomic bomb there, killing hundreds of thousands of people in an instant.
 
 <pic images/uhr.ps The clock that stopped at 8:15 when the bomb fell.>
@@ -913,28 +911,32 @@ commemorates the dropping of the atomic bomb with a museum and various
 memorials, visitors would not guess that this city lay in ruins in 1945. In the
 Peace Park, the so-called A-Dome is the first thing to catch the eye. This is
 the ruin of the only building that remained standing at the center of the bomb
-drop. Throughout the park, there are various memorials, including one for the
+drop.
+
+<pic images/hiro.ps Hiroshima -- Memorial site. In the background, the "Industrial Promotion Hall," which was miraculously preserved and stood almost at the center of the atomic bomb explosion.>
+
+Throughout the park, there are various memorials, including one for the
 children and the Korean forced laborers who were killed by the atomic bomb. The
 memorial for the Korean forced laborers was only erected in 1970, as the
 Japanese had diligently suppressed and ignored what they had done to the Korean
 forced laborers until then. At the memorial for the children, entire school
-classes lay down folded cranes in memory of the girl Sadako. I have already
-recounted the story of the girl Sadako, who fell ill with leukemia in 1955 as a
+classes lay down folded cranes in memory of a girl named Sadako. I have already
+recounted the story of Sadako, who fell ill with leukemia in 1955 as a
 result of the atomic bombing and began folding cranes to wish for health, and
 how cranes are now considered a symbol of peace. The laying down of the cranes,
 strung on threads, is often very solemn and accompanied by a small ceremony.
 
-<pic images/hiro.ps Hiroshima -- Memorial site. In the background, the "Industrial Promotion Hall," which was miraculously preserved and stood almost at the center of the atomic bomb explosion.>
+<pic images/hiro3.ps Hiroshima -- Memorial Site>
 
 We observed schoolchildren singing, performing, and playing the flute. There
-are so many chains of cranes that behind the children's memorial, there are
+are many chains of paper cranes, and behind the children's memorial, there are
 small transparent tent-like structures where the chains are hung. The peace
 flame is also impressive; it will burn until there are no more nuclear weapons
 on Earth. When you consider the consequences of Hiroshima, it is
 incomprehensible to me why nuclear weapons still exist at all. The leaders in
 Pakistan and India have probably never been to Hiroshima. Unfortunately!
 
-<pic images/hiro3.ps Hiroshima -- Memorial Site>
+TODO
 
 @Z: Ryokan
 
