@@ -1043,11 +1043,9 @@ should we wear under the Yukata? Underwear? T-shirt? Socks? No travel guide
 answered this crucial question. To prevent getting cold, there is also a kind
 of overcoat that you can wear over the "Yukata," called "Tanzen".
 
-TODO
-
 @Z: In the temple for AOL
 
-<em>Angelika</em> The Shinto religion in Japan involves many rituals and
+<em>Michael</em> The Shinto religion in Japan involves many rituals and
 amulets: If you throw a 5-yen coin into a designated box in the temple and clap
 your hands, it brings good luck in a requested area. You can also buy lucky or
 disaster-repelling charms: Illustration (#16) shows one that you hang on the
@@ -1061,24 +1059,24 @@ completely dissolve and disappear when thrown into water, symbolizing the
 disappearance of those worries. My biggest concern at the moment is, of course,
 the low price of AOL stock, and I dutifully paid the 200 yen (1.70 euros) fee,
 filled out a piece of paper, and let it dissolve in the water. Since then, at
-least the stock hasn't fallen any further!
+least the stock price hasn't fallen any further!
 
 <pic images/aol1.ps Shinto: Write down your worries ...>
 <pic images/aol2.ps ... and let dissolve in water.>
 
 By the way, do you see the flag in illustration (#15) that shows a chapel? The
 mirrored swastika does not indicate a far-right party, but is actually the
-Buddhist symbol for "temple.
+Buddhist symbol for "temple".
 
 <pic images/fried.ps (#15) The symbol for "temple" is a mirrored swastika.>
 
 @Z: Koya-San
 
-<em>Angelika</em> To conclude our trip, we took the Shinkansen and several
+<em>Michael</em> To conclude our trip, we took the Shinkansen and several
 local trains to Koya-san to visit the monastery. This is a very popular
 spiritual destination for Japanese people and is hardly known among foreign
 tourists. You travel about 200 kilometers south of Kyoto, spending roughly a
-day on slow trains into the middle of nowhere, and then take a cable car for
+day on slow trains to the middle of nowhere, and then take a cable car for
 the last five minutes to steeply ascend the sacred mountain.
 
 For a fee, which is paid not at the monastery but at an office at the train
@@ -1090,7 +1088,7 @@ and it is expected that you attend.
 
 In the room, we had a so-called Kotatsu, a traditional Japanese invention: a
 low table with an electric heater attached underneath its tabletop and a thick
-down blanket that extends from the tabletop to the floor. You can heat under
+down blanket that extends from the tabletop to the floor. You can generate heat under
 the table with the heater, and the blanket keeps the warmth in. You sit on a
 cushion on the floor, stretch your feet underneath, and can read, work, or even
 sleep. It's so cozy and practical that I've seriously considered getting
@@ -1109,7 +1107,7 @@ Wiener Schnitzel, at a nearby restaurant.
 @Z: Cemetery in Koya-San
 
 <em>Angelika</em> Every believer of the Buddhist "Shingon" sect (and also
-Japanese Buddhists of other sects) wishes to be buried in the cemetery at
+Japanese Buddhists of other sects) wishes to be buried at the cemetery at
 Koya-san, the headquarters of the Shingon sect. Even if it is just a lock of
 hair, fingernails, or parts of the deceased's ashes that find their final
 resting place in this cemetery.
@@ -1129,7 +1127,7 @@ Japanese.
 
 <pic images/rakete.ps A tombstone stands out from the rest. Which one?>
 
-That was the vacation! We are already back in San Francisco and working like
-crazy. See you soon! Your adventurers:
+That was our trip to Japan! We are already back in San Francisco and working like
+maniacs again. See you soon! Your adventurers:
 
 Michael and Angelika
