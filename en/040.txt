@@ -822,17 +822,16 @@ typically include Kanji characters, which are wonderfully decipherable in the
 printed travel guide, but have little to do with the signs in the real world,
 as they have been "enhanced" for design purposes.
 
-TODO
-
 @Z: To Bow
 
 <em>Angelika</em> Trying to delve into the higher art of bowing as a Westerner
-is hopeless. The status of the person you are interacting with dictates the
-depth of the bow and the order. No Japanese person expects a tourist to know
-how to bow. However, bowing can be contagious. In any case, I always
-automatically started to lower my head and perform a kind of bobbing motion,
-which regularly caused Michael to burst into laughter. Bows are more associated
-with formal situations, meaning friends, for example, do not bow to each other.
+is not an easy task. The status of the person you are interacting with dictates
+the depth of the bow and the order in which the two people bow to each other.
+No Japanese person expects a tourist to know how to bow. However, bowing can be
+contagious. In any case, I always automatically started to lower my head and
+perform a kind of bobbing motion, which regularly caused Michael to burst into
+laughter. Bows are more associated with formal situations, meaning that
+friends, for example, do not bow to each other.
 
 Immediately after our arrival, we had our first experiences with bowing. We
 took the so-called limousine bus, which is actually a regular coach, from the
@@ -857,8 +856,8 @@ doesn't take off their shoes at the right moment. In Japanese homes, Japanese
 restaurants, accommodations in Japanese style (traditional inns called Ryokan
 or Minshuku), and temples, it's customary to take off your shoes. If any type
 of shoes (even slippers) touch the tatami mats (tatami mats are straw mats that
-cover the floor like a carpet), the Japanese person turns pale with shock. Now,
-this might initially sound uncomplicated: take off your shoes—no problem. But I
+cover the floor like a carpet), a witnessing Japanese person turns pale with shock. Now,
+this might initially sound uncomplicated: take off your shoes -— no problem. But I
 tell you, it's a science in itself, because before you reach the room with the
 tatami mats, you switch to provided slippers at the entrance of the
 establishment.
@@ -874,22 +873,24 @@ that were often much too small for us, we shuffled through the corridors,
 constantly reminding each other to slip out of the slippers when stepping onto
 a tatami mat. However, we often forgot to position the slippers so that we
 could step back into them without having to turn them around (as the Japanese
-do). A particularly amusing variant is the toilet slippers. Yes, you guessed
-it: upon entering the bathroom, you switch to the so-called "bathroom
-slippers," hideous plastic items. We were just waiting for the faux pas to
-happen where we would accidentally wander outside the bathroom in the toilet
+do). A particularly amusing variant is the bathroom slippers. Yes, you guessed
+it: upon entering a bathroom, you switch to the so-called "bathroom
+slippers," hideous plastic items. We were just waiting for a faux pas to
+happen where we would accidentally wander outside the bathroom in the bathroom
 slippers. Miraculously, we never forgot to switch back to the other slippers.
 We remembered the story our Japanese teacher in San Francisco told us. She once
-trotted back into the temple wearing her toilet slippers, prompting several
+trotted back into the temple wearing her bathroom slippers, prompting several
 monks to rush over and yank the "impure" slippers off her feet.
 
 In our Japanese course, we also learned that Japanese people do not squat on
 the floor unless it is covered with a tatami mat. However, there seems to be a
 clear generational gap here. We often encountered schoolchildren and teenagers
 sitting on the floor. On the other hand, we observed middle-aged and older
-Japanese people who did not even place their bags on the floor or put a
+Japanese people who did not even place their bags on the floor and put a
 newspaper under their shoeless feet on the train to prevent their socks from
 directly touching the floor.
+
+TODO
 
 @Z: Hiroshima
 
