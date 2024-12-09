@@ -11,7 +11,7 @@ Waikiki Beach) and the rather secretive Lanai, where only the super-rich and fam
 are supposedly vacationing. This year, we deemed it necessary to visit both
 islands, as we do not tolerate any blank spots on our map.
 
-<pic images/beach.ps Super-rich actor>
+<pic images/beach.ps Super-rich actor on Lanai>
 
 After a five-hour flight from Oakland (across the Bay from San Francisco), a small propeller
 plane took us from Honolulu to Lanai. Angelika had planned everything
@@ -135,26 +135,24 @@ Hawaii, which strictly speaking is not true, because only the volcanic island
 
 <pic images/honolulu.ps The main island of Oahu has well-developed highways.>
 
-TODO
+The island of Oahu is known for the capital of Hawaii, Honolulu. Then there's
+the TV series "Magnum" and Waikiki Beach, which is considered the birthplace of
+surfing, and of course Pearl Harbor, the naval base that is synonymous with the
+historical event every American knows, even if they live in the remotest corner
+of America. For those of you who are not history buffs, here's a quick lesson:
+The Japanese surprisingly attacked Pearl Harbor during World War II, forcing
+the USA to enter the war. Oahu, more precisely Waikiki, is a mix of Mallorca
+and Ibiza; only there it's not German and British tourists but Japanese and
+Americans who flock there.
 
-The island of Oahu is known for the capital Honolulu, the TV series "Magnum,"
-Waikiki Beach, which is considered the birthplace of surfing, and of course
-Pearl Harbor, the naval base that is synonymous with the historical event every
-American knows, even if they live in the remotest corner of America. For those
-of you who are not history buffs, here's a quick lesson: The Japanese
-surprisingly attacked Pearl Harbor during World War II, forcing the USA to
-enter the war. Oahu, more precisely Waikiki, is a mix of Mallorca and Ibiza;
-only there, it's not German and British tourists but Japanese and American ones
-who flock there.
+<pic images/baywatch.ps Waikiki Beach: Isn't that guy from Baywatch? Hmm, no.>
 
-<pic images/baywatch.ps Waikiki Beach: Isn't that from Baywatch? Hmm, no.>
-
-One hotel complex after another as far as the eye can see, and in front of them
-a small "see and be seen" sandy beach. Otherwise, Waikiki consists of numerous
+One hotel complex after another as far as the eye can see, usually fronted by
+small "see and be seen" sandy beaches. Otherwise, Waikiki consists of numerous
 "shopping centers" and department stores that primarily cater to Japanese
 tourists, for whom Hawaii is the closest sunny travel destination. Many things
-are labeled with Japanese characters. When we went to eat at the beer
-restaurant "Gordon Biersch" in Honolulu, the waiter actually handed us a
+are labeled in Japanese characters. When we went to eat at the brew pub
+"Gordon Biersch" in Honolulu, the waiter actually handed us a
 Japanese menu at first. We had a good laugh.
 
 <pic images/sale.ps Honolulu: Prices also in Japanese>
@@ -162,12 +160,12 @@ Japanese menu at first. We had a good laugh.
 We already suspected that it would be like that in Waikiki, so we booked a
 small apartment in Kailua (about a 30-minute drive from Waikiki and Honolulu)
 in a quiet residential area -- a lucky find, as it soon turned out, because the
-apartment was large and spacious and had a balcony with a view of the sea. We
+apartment was large and spacious and had a balcony with a view of the ocean. We
 were practically a stone's throw from the beautiful long sandy beach. "Kailua
 Beach" is not only considered one of the best swimming beaches -- all year
 round -- but also a top beach for windsurfing.
 
-<pic images/kite1.ps The new dragon surfers>
+<pic images/kite1.ps The new kite surfers>
 
 Until now, we understood windsurfing to mean strapping a surfboard under your
 feet with a sail attached to catch the wind. Let me tell you, that is so "out"
@@ -178,12 +176,12 @@ Kailua Beach, we had to be extremely careful not to get run over by one of
 those giant parachute things. Michael, who usually tries out all sorts of crazy
 sports, couldn't stop laughing at this type of windsurfing. He said that people
 might as well screw a propeller to their foreheads because it looks just as
-"elegant.
+"elegant".
 
 <pic images/kailua.ps At the beach in Kailua/Oahu>
 
 The north coast of Oahu, on the other hand, is a paradise for the best surfers
-in the winter. We have already mentioned that the Hawaiian islanders often
+in the winter. We have already mentioned that Hawaiian islanders often
 describe winter and summer by indicating the wave heights during these seasons,
 due to the consistently stable temperatures year-round. In the winter
 (approximately October to April), they expect dangerously high waves at many
@@ -192,9 +190,9 @@ In the summer, however, even average swimmers have a chance.
 
 <pic images/wasser.ps Michael splashes in the water.>
 
-On the north coast of Oahu, it's hard to find a beach during the winter months
-where swimmers dare to venture into the water. Waves rising to heights of 10 to
-12 meters are quite normal. In Hawaii, a sure sign of a great beach or good
+On the north shore of Oahu, it's hard to find a beach during the winter months
+where swimmers dare to venture into the water. Waves rising to heights of 30 to
+40 feet are quite normal. In Hawaii, a sure sign of a great beach or good
 waves is, confusingly, when countless cars suddenly park haphazardly along the
 roadside. Among them, there are always a few pickup trucks, as the surfboard
 fits well in the truck bed. Yes, surfers are indeed a funny bunch.
@@ -214,7 +212,7 @@ so-called "Chinatown," with predominantly Vietnamese restaurants where people
 stand in line for hours to eat "Pho" soup. Coming from San Francisco, one can
 only laugh at this, because eating "Pho" there is about as exotic as having a
 hamburger; you don't need to stand in line for it, and on Geary Street alone,
-there are surely twenty restaurants.
+there are surely twenty Pho restaurants.
 
 There is a corner on the island of Oahu that is still completely undeveloped
 for tourism. Most native Hawaiians live on the "Waianae Coast" and are fighting
@@ -226,9 +224,9 @@ Waianae Coast. Rental cars are sometimes broken into, side windows smashed, or
 tourists robbed and harassed.
 
 That didn't deter us, even though we were easily recognizable as tourists due
-to our rental car, driving three kilometers against the wind. We experienced
-this area as one of the most interesting corners of Oahu. It's quite anarchic
-there -- everywhere you see people camping wildly or staying in old VW buses.
+to our rental car from miles away. We experienced this area as one of the most
+interesting corners of Oahu. It's quite anarchic there -- everywhere you see
+people camping illegally on the beach or staying in old VW buses.
 
 <pic images/summit2.ps Honolulu: Metropolis in the Green>
 
@@ -245,6 +243,8 @@ you can roughly imagine how it tastes). We ate it with pork and chicken and the
 cooked green leaves of the taro plant, which resemble spinach but taste even
 better. While Poi is not exactly one of my favorite foods, I wish taro leaves
 were available for purchase in San Francisco.
+
+TODO
 
 @Z: Top product: "Maui Babe"
 
