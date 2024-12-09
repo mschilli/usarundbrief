@@ -536,42 +536,111 @@ equipment only contributes 10%. A professional can produce excellent pictures
 even with a pinhole camera (a cardboard box with a hole). An amateur will
 produce only rubbish even with a Nikon F5.
 
-TODO
-
 @Z: Elections in America
-
-<em>Could you please provide the text you would like translated to English? "Angelika" appears to be a name.</em>On November 5th, the Americans elected a new Congress and Senate here. As you already know, the Republicans (the conservative party to which Bush belongs) not only expanded their majority in Congress but also regained control of the Senate. Although with an extremely narrow majority, it's still a victory. For the next two years, we now have to endure not only a Colt-waving President but also live with the rightward shift that has occurred in both political institutions.
-
-Bush naturally puffed up his chest; he will now be able to push through many of his plans with ease, such as the appointment of highly questionable constitutional judges. What is particularly tragic is that these judges hold their positions for life and will continue their mischief long after Bush's term in office.
-
-Living in San Francisco, we once again wondered where on earth the Republicans get their votes from. Apart from the Republican real estate agent on 24th Street in our neighborhood, who, as previously mentioned, decorates his shop window with pro-Republican slogans and a photo of Ronald Reagan, we only know people who are sickened by Bush's policies.
 
 <pic images/schau2.ps The crazy real estate agent on 24th Street who idolizes the Republicans.>
 
-The Republican election victory is not easy to understand at first glance, because the American economy is stagnant, unemployment numbers are rising, one corporate scandal follows another, and many Americans have lost large portions of their privately saved retirement funds due to the weakened stock market.
+<em>Angelika</em> On November 5th, Americans elected a new Congress and
+Senate. As you already know, Republicans (the conservative party to
+which Bush belongs) not only expanded their majority in Congress but also
+regained control of the Senate. Although with an extremely narrow majority,
+it's still a victory. For the next two years, we now have to endure not only a
+Colt-waving President but also live with the rightward shift that has occurred
+in both political institutions.
 
-Of course, on one hand, Bush is a master at diverting attention from domestic issues with his war rhetoric. However, if you ask me, the real reason for the Republicans' election victory is the Democrats, who have turned into a party of wimps, and the American television news broadcasts. Out of fear of being seen as unpatriotic, the Democratic politicians are echoing Bush and standing behind him. There is currently no opposition in America. This angered many liberal voters so much that they gave their votes to independents or Green Party candidates, or they didn't vote at all. Unfortunately, it will probably take another 20 years in America before the Greens rise to become a serious third party.
+Bush naturally puffed up his chest; he will now be able to push through many of
+his plans with ease, such as the appointment of highly questionable
+Supreme Court judges. What is particularly tragic is that these judges hold
+their positions for life and will continue their mischief long after Bush's
+term in office.
 
-<pic images/schau6.ps The translation of "Er treibt seine Späße mit den Linken" to English is "He is joking around with the leftists.>
+Living in San Francisco, we once again wondered where on earth Republicans
+get their votes from. Apart from the Republican real estate agent on 24th
+Street in our neighborhood, who, as previously mentioned, decorates his shop
+window with pro-Republican slogans and a photo of Ronald Reagan, we only know
+people who are sickened by Bush's policies.
 
-But why is television partly to blame? American news broadcasts are consistently at the level of tabloid journalism. Even CNN, the news channel that is still considered reputable in many places, is not worth much. No one provides background information or a balanced perspective. American TV stations are firmly in private hands. Independence is a foreign concept there. Additionally, there are huge media conglomerates that usually own multiple channels, which is why viewers are fed the same nonsense everywhere. And, of course, the interests of advertisers must also be taken into account.
+The Republican election victory is not easy to understand at first glance,
+because the American economy is stagnant, unemployment numbers are rising, one
+corporate scandal follows another, and many Americans have lost large portions
+of their privately saved retirement funds due to the weakened stock market.
 
-However, an estimated 90% of Americans rely on this type of opinion formation. To be well-informed in America, one must turn to newspapers, public radio stations (yes, such things exist here too), or the internet: The New York Times, which you of course know, and The New Yorker (weekly) are among them -- the reports show balance and good research. We also receive a magazine called "The Nation" (www.thenation.com). It is published weekly, is independent, and has existed since 1865. Politically, it can be characterized as left-liberal. It reveals that there is also a left in America. I always study the letters to the editor with interest, look at which state the people live in, and am pleased when I find liberally-minded people in other corners of America.
+Of course, on one hand, Bush is a master at diverting attention from domestic
+issues with his war rhetoric. However, if you ask me, the real reason for the
+Republicans' election victory is the Democrats, who have turned into a party of
+wimps, and the American television news broadcasts. Out of fear of being seen
+as unpatriotic, Democratic politicians are echoing Bush and standing behind
+him. There is currently no opposition in America. This angered many liberal
+voters so much that they gave their votes to independents or Green Party
+candidates, or they didn't vote at all. Unfortunately, it will probably take
+another 20 years in America before the Greens rise to become a serious third
+party.
+
+<pic images/schau6.ps He is joking around with the leftists>
+
+But why is television partly to blame? American news broadcasts are
+consistently at the level of tabloid journalism. Even CNN, the news channel
+that is still considered reputable in many places, is not worth much. No one
+provides background information or a balanced perspective. American TV stations
+are firmly in private hands. Independence is a foreign concept there.
+Additionally, there are huge media conglomerates that usually own multiple
+channels, which is why viewers are fed the same nonsense everywhere. And, of
+course, the interests of advertisers must also be taken into account.
+
+However, an estimated 90% of Americans rely on this type of opinion formation.
+To be well-informed in America, one must turn to newspapers, public radio
+stations (yes, such things exist here too), or the internet: The New York
+Times, which you of course know, and The New Yorker (weekly) are among them --
+the reports show balance and good research. We also receive a magazine called
+"The Nation" (www.thenation.com). It is published weekly, is independent, and
+has existed since 1865. Politically, it can be characterized as left-liberal.
+It reveals that there is also a left in America. I always study the letters to
+the editor with interest, look at which state the people live in, and am
+pleased when I find liberally-minded people in other corners of America.
 
 <pic images/schau1.ps Some are against the war.>
 
-Recently, I often click on the articles on "salon.com". The publications are only available to read online, but unfortunately, "salon.com" recently ran into financial difficulties, so most articles can now only be accessed by those who pay a monthly fee.
+Recently, I often click on the articles on "salon.com". The publications are
+only available to read online, but unfortunately, "salon.com" recently ran into
+financial difficulties, so most articles can now only be accessed by those who
+pay a monthly fee.
 
-I don't listen to the radio much, but our well-informed acquaintances swear by the public broadcaster NPR (National Public Radio: www.npr.org), which has existed since 1970, or the local station KQED Public Radio (www.kqed.org), which was founded in 1969. Here, the listener gets what they search for in vain on television: journalists who ask tough questions, background reports on crisis situations, and detailed analyses of various political topics.
+I don't listen to the radio much, but our well-informed acquaintances swear by
+the public broadcaster NPR (National Public Radio: www.npr.org), which has
+existed since 1970, or the local station KQED Public Radio (www.kqed.org),
+which was founded in 1969. Here, the listener gets what they search for in vain
+on television: journalists who ask tough questions, background reports on
+crisis situations, and detailed analyses of various political topics.
 
-And since I'm on the topic of politics, I want to quickly report on something that has repeatedly amazed me in recent weeks: American voters find it completely normal to call their respective congressional representatives and senators to express their political opinions. Of course, they call the politician's office and speak with a staff member. I still think it's great. Before the vote in Congress and the Senate regarding a war with Iraq, the representatives received thousands of calls, and the voters articulated how their representative should vote.
+And since I'm on the topic of politics, I want to quickly report on something
+that has repeatedly amazed me in recent weeks: American voters find it
+completely normal to call their respective congressional representatives and
+senators to express their political opinions. Of course, they call the
+politician's office and speak with a staff member. I still think it's great.
+Before the vote in Congress and the Senate regarding a war with Iraq, the
+representatives received thousands of calls, and the voters articulated how
+their representative should vote.
 
-@Z: The translation of "Bush versus Schröder" to English is "Bush versus Schröder." The names remain the same as they are proper nouns.
+@Z: Bush vs. Schröder
 
-<em>Could you please provide the text you would like translated to English? "Angelika" appears to be a name.</em>I was surprised by how much the German newspapers reported on the "poisoned atmosphere" between Bush and Schröder due to their differing views on an Iraq war. Some comments, especially in the Süddeutsche Zeitung, which I usually hold in high regard, were so pro-Bush that I mentally composed several letters to the editor and wondered what was going on in the Süddeutsche Zeitung's editorial office.
+<em>Angelika</em> I was surprised by how much the German newspapers reported on
+the "poisoned atmosphere" between Bush and Schröder due to their differing
+views on the Iraq war. Some comments, especially in the Süddeutsche Zeitung,
+which I usually hold in high regard, were so pro-Bush that I mentally composed
+several letters to the editor and wondered what was going on in the Süddeutsche
+Zeitung's editorial office.
 
-Of course, it is wrong for Schröder to oppose Bush solely to win an election campaign. One should also be wary of blind anti-Americanism. However, with Bush's foreign policy, one wishes that not only Schröder's alarm bells would ring, but also those of other European politicians. After all, Bush recently presented a document to the public in which preventive military strikes are approved as a legitimate measure and the military dominance of the USA is henceforth considered untouchable. I always thought that the old guard, namely Bush, Rumsfeld, and Cheney, behaved towards Germany like teenagers: first, they threaten us, and if we don't comply, they withdraw in a huff and sulk. It's pure puppet theater.
+Of course, it is wrong for Schröder to oppose Bush solely to win an election
+campaign. One should also be wary of blind anti-Americanism. However, with
+Bush's foreign policy, one wishes that not only Schröder's alarm bells would
+ring, but also those of other European politicians. After all, Bush recently
+presented a document to the public in which preventive military strikes are
+approved as a legitimate measure and the military dominance of the USA is
+henceforth considered untouchable. I always thought that the old guard, namely
+Bush, Rumsfeld, and Cheney, behaved towards Germany like teenagers: first, they
+threaten us, and if we don't comply, they withdraw in a huff and sulk. It's
+pure puppet theater.
 
-The phrase "Grüße nach drüben!" translates to "Greetings to over there!" in English.
+Greetings to you guys over there!
 
-The translation of "Angelika und Michael" to English is "Angelika and Michael.
+Angelika and Michael
