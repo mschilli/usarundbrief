@@ -115,31 +115,94 @@ provider, namely Kaiser Permanente.
 
 <pic images/kaiser-web.ps On the Kaiser website, you can take care of all your paperwork.>
 
-TODO
+Kaiser Permanente is a very interesting health insurance provider because it
+operates its own network of hospitals, clinics, and doctors. Members typically
+receive services only at Kaiser facilities, meaning they cannot simply choose a
+doctor who is not part of the Kaiser network or have surgery at a non-Kaiser
+hospital. Exceptions are only allowed if the Kaiser-insured individual has a
+life-threatening emergency and there is no Kaiser hospital nearby, or if the
+patient has something so complicated that Kaiser is overwhelmed, such as an
+extremely complex brain surgery.
 
-Kaiser Permanente is a very interesting health insurance provider because it operates its own network of hospitals, clinics, and doctors. Members typically receive services only at Kaiser facilities, meaning they cannot simply choose a doctor who is not part of the Kaiser network or have surgery at a non-Kaiser hospital. Exceptions are only allowed if the Kaiser-insured individual has a life-threatening emergency and there is no Kaiser hospital nearby, or if the patient has something so complicated that Kaiser is overwhelmed, such as an extremely complex brain surgery.
+However, Kaiser must first approve this. Kaiser Permanente now has over 12
+million members. It operates approximately 700 medical facilities such as
+medical offices and clinics in nine states. Kaiser has a strong presence,
+particularly in California, as the company's headquarters is in Oakland, right
+across the Bay from San Francisco.
 
-However, Kaiser must first approve this. Kaiser Permanente now has over 12 million members. It operates approximately 700 medical facilities such as medical offices and clinics in nine states. Kaiser has a strong presence, particularly in California, as the company's headquarters is in Oakland, right across the bay from San Francisco.
-
-Kaiser operates a mixed organizational model, with the Kaiser Foundation Health Plan and the Kaiser Foundation Hospitals being non-profit organizations. This means that revenues and surpluses are reinvested back into these medical facilities. Additionally, there is a third component, the for-profit "Permanente Medical Group," where Kaiser doctors are employed.
+Kaiser operates a mixed organizational model, with the Kaiser Foundation Health
+Plan and the Kaiser Foundation Hospitals being non-profit organizations. This
+means that revenues and surpluses are reinvested back into these medical
+facilities. Additionally, there is a third component, the for-profit
+"Permanente Medical Group," where Kaiser doctors are employed.
 
 <pic images/kaiser-entrance.ps In the Kaiser Building, there are a pharmacy, a laboratory, and specialist doctors.>
 
-Die<LINK>https://about.kaiserpermanente.org/who-we-are/our-history/how-it-all-started|The translation of "Geschichte von Kaiser Permanente" to English is "History of Kaiser Permanente.</LINK>The history, by the way, dates back to the 1930s. A young doctor named Sidney Garfield opened a hospital in the Mojave Desert in California at that time to treat workers involved in the construction of the Los Angeles Aqueduct. The workers paid five cents daily in advance for their future medical care. The idea of modern health insurance was born. Henry J. Kaiser, an industrialist, then collaborated with Garfield in the 1940s to offer this health model to shipyard workers in Richmond, California, during World War II. After World War II, in 1945, Kaiser Permanente introduced this health insurance model, namely the integration of hospitals, clinics, and doctors under the umbrella of a health insurance plan, to the broader population. Starting in the 1950s, Kaiser expanded beyond California and opened medical facilities in Hawaii, Colorado, and other states.
+The <LINK>https://about.kaiserpermanente.org/who-we-are/our-history/how-it-all-started|History of Kaiser Permanente.</LINK>, by the way, dates back to the 1930s. A young
+doctor named Sidney Garfield opened a hospital in the Mojave Desert in
+California at that time to treat workers involved in the construction of the
+Los Angeles Aqueduct. The workers paid five cents daily in advance for their
+future medical care. The idea of modern health insurance was born. Henry J.
+Kaiser, an industrialist, then collaborated with Garfield in the 1940s to offer
+this health model to shipyard workers in Richmond, California, during World War
+II. After World War II, in 1945, Kaiser Permanente introduced this health
+insurance model, namely the integration of hospitals, clinics, and doctors
+under the umbrella of a health insurance plan, to the broader population.
+Starting in the 1950s, Kaiser expanded beyond California and opened medical
+facilities in Hawaii, Colorado, and other states.
 
-Now you must know that I had always sworn to myself never to be insured with Kaiser. For a long time, that was my absolute nightmare. Coming from Germany, it was extremely important to me to have the freedom to choose my doctor and, if necessary, to go to top hospitals like the University Hospital in San Francisco (UCSF) or Stanford in Palo Alto. I knew people who were either absolutely convinced and enthusiastic about the Kaiser system or others who avoided Kaiser like the plague because they hadn't been adequately helped in more complex medical cases, with dramatic consequences. However, since my school offered nothing but Kaiser, and after intensive questioning of my colleagues, who are also well acquainted with the German system, I heard mostly positive things in the end, I thought to myself, let's just give it a try.
+Now you must know that I had always sworn to myself never to be insured with
+Kaiser. For a long time, that was my absolute nightmare. Coming from Germany,
+it was extremely important to me to have the freedom to choose my doctor and,
+if necessary, to go to top hospitals like the University Hospital in San
+Francisco (UCSF) or Stanford in Palo Alto. I knew people who were either
+absolutely convinced and enthusiastic about the Kaiser system or others who
+avoided Kaiser like the plague because they hadn't been adequately helped in
+more complex medical cases, with dramatic consequences. However, since my
+school offered nothing but Kaiser, and after intensive questioning of my
+colleagues, who are also well acquainted with the German system, I heard mostly
+positive things, and in the end, I thought to myself, let's just give it a try.
 
-Now one must know that Kaiser has undergone a certain metamorphosis. Just 20 years ago, every doctor wanted to open their own practice, which sometimes meant that Kaiser couldn't always recruit the absolute top medical professionals. However, nowadays it is completely insane to run one's own medical practice. The bureaucracy is so time-consuming and absurd, and it becomes more cumbersome every year, that many doctors hardly have any time left for their patients.
+Now one must know that Kaiser has undergone a significant metamorphosis lately. Just 20
+years ago, every doctor wanted to open their own practice, which sometimes
+meant that Kaiser couldn't always recruit the absolute best medical
+professionals. However, nowadays it is completely insane to run one's own
+medical practice. The bureaucracy is so time-consuming and absurd, and it
+becomes more cumbersome every year, that many doctors hardly have any time left
+for their patients.
 
-I had already mentioned once that it is almost impossible to find a new general practitioner in San Francisco.<RBLINK>20231019#5</RBLINK>As a patient, you often have to wait an incredibly long time for an appointment, whether it's with a general practitioner or a specialist. For example, I used to go to a gynecologist at the UCSF university hospital. Getting an appointment with her required a lot of advance notice and planning. It doesn't help the patient much if the doctor is an expert but the patient can't get an appointment. That's why more and more doctors are choosing to work in group practices. The Kaiser system, as a large group practice, is particularly attractive to many doctors because they don't have to deal with the various American health insurance companies with hundreds of different plans, but instead operate as employees within one system. Interestingly, Kaiser is now attracting better and better doctors.
+In a previous issue, I had already mentioned once that it is almost impossible to find a new general
+practitioner in San Francisco (<RBLINK>20231019#5</RBLINK>). As a patient, you
+often have to wait weeks and months for an appointment, whether it's
+with a general practitioner or a specialist. For example, I used to go to a
+gynecologist at the UCSF university hospital. Getting an appointment with her
+required a lot of advance notice and planning. You see: it doesn't help the patient much
+if the doctor is an expert but the patient can't get an appointment. That's why
+more and more doctors are choosing to work in group practices. The Kaiser
+system, as a very large group practice, is particularly attractive to many doctors
+because they don't have to deal with various American health insurance
+companies with hundreds of different plans, but instead operate as employees
+within one system. Interestingly, Kaiser is now attracting better and better
+doctors.
 
 <pic images/kaiser-appointment.ps With the phone app, you can make appointments with the doctor ...>
 
-But now back to our personal experiences at Kaiser. First of all, I sent Michael, who is known to be more flexible and has more time nowadays. He was impressed by the efficiency and a system that is relatively patient-friendly.
+But now back to our personal experiences at Kaiser. First of all, I sent
+Michael, who is known to be more flexible and has more time nowadays. He was
+impressed by the efficiency and a system that is relatively patient-friendly.
 
-Michael chose a primary care doctor at the state-of-the-art Kaiser facility in the Mission Bay neighborhood. The principle at Kaiser is that the primary care doctor is the central point of contact who takes care of all health-related matters and coordinates them, such as referring you to a specialist or for a blood test. As a new Kaiser member, you first select a primary care doctor through the patient portal. There is also the option to receive advice on this by phone, but we did it online. The portal provides the doctors' resumes and indicates whether they are still accepting new patients.
+Michael chose a primary care doctor at the state-of-the-art Kaiser facility in
+the Mission Bay neighborhood. The general thread at Kaiser is that the primary care
+doctor is the central point of contact who takes care of all health-related
+matters and coordinates them, such as referring you to a specialist or for a
+blood test. As a new Kaiser member, you first select a primary care doctor
+through the patient online portal. There is also the option to receive advice on this
+by phone, but we did it online. The portal provides the doctors' resumes and
+indicates whether they are still accepting new patients.
 
-<pic images/kaiser-app.ps ... and query test results.>
+<pic images/kaiser-app.ps ... and check test results.>
+
+TODO
 
 With one click, we selected our primary care physicians. It is very easy to change your primary care doctor, which can also be done through the portal. Women are allowed to choose a primary care doctor and a gynecologist and do not need a referral from their primary care doctor if they want to see their gynecologist. At Kaiser, the primary care doctor is not isolated in their practice; you should imagine the whole thing as a huge medical center where everything is under one roof: primary care doctors, internists, orthopedists, dermatologists, gynecologists, and ear, nose, and throat doctors. The radiology department, pharmacy, and laboratory are also all part of the same system. The doctors all work together since they are employed by Kaiser and all have access to the patient records.
 
