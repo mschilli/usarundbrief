@@ -202,17 +202,48 @@ indicates whether they are still accepting new patients.
 
 <pic images/kaiser-app.ps ... and check test results.>
 
+With one click each, we selected our primary care physicians. It is very easy
+to change your primary care doctor later if you want, which can also be done
+through the portal.  Women are allowed to choose a primary care doctor and a
+gynecologist and do not need a referral from their primary care doctor if they
+want to see their gynecologist. At Kaiser, the primary care doctor is not
+isolated in their practice; you should imagine the whole thing as a huge
+medical center where everything is under one roof: primary care doctors,
+internists, orthopedists, dermatologists, gynecologists, and ear, nose, and
+throat doctors. The radiology department, pharmacy, and laboratory are also all
+part of the same system. The doctors all work together since they are employed
+by Kaiser and all have access to the patient records.
+
+Doctors aren't paid based on the individual procedures they perform on the
+patient, but simply receive a salary. This means that doctors have much more
+time for their patients and do not have to rush them through in 10-minute
+intervals to keep their practice running. Kaiser places great emphasis on
+prevention and generally has a good reputation in this area. Appointments are
+relatively easy to get. Patients can usually choose whether they want a video
+conference or an in-person visit. Video conferences are suitable for follow-up
+appointments to discuss results or are practical if you don't want to sit in a
+waiting room with the flu, although sometimes it is important for the doctor to
+examine you in person.
+
+<pic images/kaiser-lab.ps Even the lab for blood tests is in the same building.>
+
+Meanwhile, I've visited with my general practitioner and it was great. In the USA,
+it is quite common to have an annual check-up that includes a blood test,
+listening to the lungs, measuring blood pressure, etc., which I signed up for
+to get to know the doctor. She took a lot of time for me and first chatted
+extensively about what I do for work and my Christmas plans. For the blood
+test, I simply went three floors down. I have to say that I've had to somewhat
+revise my prejudices about Kaiser, although I still worry about what will
+happen if I ever have something super complicated, because the best system only
+proves itself when you are really sick.
+
+What many insured individuals particularly appreciate about Kaiser is that the
+hassle of dealing with unexpected bills is generally reduced, as everything
+takes place within the same network. In this regard, we have already
+experienced quite a bit with various other health insurance companies we have
+been insured with, and the Kaiser system is significantly less nerve-wracking.
+
 TODO
-
-With one click, we selected our primary care physicians. It is very easy to change your primary care doctor, which can also be done through the portal. Women are allowed to choose a primary care doctor and a gynecologist and do not need a referral from their primary care doctor if they want to see their gynecologist. At Kaiser, the primary care doctor is not isolated in their practice; you should imagine the whole thing as a huge medical center where everything is under one roof: primary care doctors, internists, orthopedists, dermatologists, gynecologists, and ear, nose, and throat doctors. The radiology department, pharmacy, and laboratory are also all part of the same system. The doctors all work together since they are employed by Kaiser and all have access to the patient records.
-
-The doctor is not paid based on the individual procedures they perform on the patient, but simply receives a salary. This means that doctors have much more time for their patients and do not have to rush them through in 10-minute intervals to keep their practice running. Kaiser places great emphasis on prevention and generally has a good reputation in this area. Appointments are relatively easy to get. Patients can usually choose whether they want a video conference or an in-person visit. Video conferences are suitable for follow-up appointments to discuss results or are practical if you don't want to sit in a waiting room with the flu, although sometimes it is important for the doctor to examine you in person.
-
-<pic images/kaiser-lab.ps Even the laboratory for blood tests is in the same building.>
-
-I had an appointment with my general practitioner in the meantime. In the USA, it is quite common to have an annual check-up that includes a blood test, listening to the lungs, measuring blood pressure, etc., which I signed up for to get to know the doctor. She took a lot of time for me and first chatted extensively about what I do for work and my Christmas plans. For the blood test, I simply went three floors down. I have to say that I had to somewhat revise my prejudices about Kaiser, although I still worry about what will happen if I ever have something super complicated, because the best system only proves itself when you are really sick.
-
-What many insured individuals particularly appreciate about Kaiser is that the hassle of dealing with unexpected bills is generally reduced, as everything takes place within the same network. In this regard, we have already experienced quite a bit with various other health insurance companies we have been insured with, and the Kaiser system is significantly less nerve-wracking.
 
 @Z: Amazon delivery driver off course
 
