@@ -243,28 +243,59 @@ takes place within the same network. In this regard, we have already
 experienced quite a bit with various other health insurance companies we have
 been insured with, and the Kaiser system is significantly less nerve-wracking.
 
-TODO
-
 @Z: Amazon delivery driver off course
 
 <pic images/amzn-prime.ps The Amazon van, the delivery is about to arrive!>
 
-<em>Michael</em>Not only do we order like crazy from Amazon, but also the neighbors in our apartment building shop from the online giant, and so packages often pile up in rows in the so-called "lobby" at the street entrance. The delivery drivers ring the recipient through the intercom, and the recipient presses the so-called "buzzer" on the phone, which unlocks the entrance door. The delivery driver briefly enters, leaves the package, and takes a photo (Figure (#4)), which then appears on the Amazon app of the buyer. I then immediately rush down the stairs excitedly to receive my delivery.
+<em>Michael</em> Not only do we order like crazy from Amazon, but also the
+neighbors in our apartment building seem to shop at the online giant, and so packages
+often pile up in rows in the so-called "lobby" at the street entrance. The
+delivery drivers ring recipients through the intercom, and the recipient
+presses the so-called "buzzer" on the phone, which unlocks the entrance door.
+The delivery driver briefly enters the lobby, leaves the package, and takes a photo
+(Figure (#4)), which then appears on the buyer's Amazon app. As soon as I get
+a notification, I immediately rush down the stairs excitedly to receive my delivery.
 
 <pic images/amzn-delivered.ps (#4) Normally, Amazon delivery drivers drop off packages in the lobby.>
 
-The delivery drivers would, of course, prefer to just throw the packages in front of the door and quickly move on to the next house, but unfortunately, such deliveries are stolen by criminal creatures loitering on the street, and Amazon then has to replace them. That's why Amazon forces the delivery drivers to ring the doorbell and bring the package inside. This almost always works, but sometimes things go wrong. I have already found packages that the delivery drivers, under time pressure, have thrown over the gate into the garage; some I later found torn open on the street as if by wild animals, and some had completely and mysteriously disappeared.
+Delivery drivers would, of course, prefer to just throw down the packages in
+front of the lobby door and quickly move on to the next house, but unfortunately,
+such deliveries are stolen by criminal creatures loitering in our neighborhood, and
+then Amazonn has to replace them. That's why Amazon forces the delivery drivers
+to ring the doorbell and bring the packages inside. This almost always works,
+but sometimes things go wrong. I have already found packages that the delivery
+drivers, under time pressure, have thrown over the gate into the garage; some I
+later found torn open on the street as if by wild animals, and some had
+completely and mysteriously disappeared.
 
-<pic images/amzn-app.ps The app shows where the package was delivered.>
+<pic images/amzn-app.ps The app shows a photo of the delivered package.>
 <pic images/amzn-digbys.ps (#5) Strange delivery photo, where did the package go?>
 
-Consequently, when I am expecting a delivery, I am as vigilant as a hawk and not only receive packages immediately upon delivery but also bring up the packages for the neighbors on our floor who are not quite as attentive. However, something strange happened recently: a delivery was supposedly made, but it was nowhere to be found. The delivery photo on the Amazon app did not show our lobby with the mailboxes but instead appeared to be a shelf with groceries and kitchen utensils (Image (#5)). Amidst all the chaos, there was also a yellow envelope that looked just like my order.
+Consequently, when I am expecting a delivery, I am as vigilant as a hawk and
+not only take possession of packages immediately upon delivery but also bring up the
+packages for neighbors on our floor who are not quite as attentive.
+However, something strange happened recently: a delivery was supposedly made,
+but the package was nowhere to be found. The delivery photo on the Amazon app did not
+show our lobby with the mailboxes but instead appeared to be a shelf with
+groceries and kitchen utensils (Image (#5)). Amidst all the chaos, there was
+also a yellow envelope that looked just like my order.
 
-I thought hard, and suddenly it hit me like a ton of bricks: The photo showed the shelf of a restaurant kitchen! And as luck would have it, there is indeed a restaurant with a bar in the house next door, and the photo could be showing the kitchen there! So I went downstairs, into the restaurant, and explained my problem to the waitress. She fetched the manager, and I showed him the delivery photo. After I assured him that I wasn't crazy, he took my phone, marched into the kitchen with it, and came back a short time later with my package. We had a good laugh! Apparently, the Amazon guy, instead of ringing the doorbell, must have lazily thrown my order through the open kitchen door of the restaurant next door. You can't make this stuff up.
+I thought hard, and suddenly it hit me like a ton of bricks: The photo showed
+the shelf of a restaurant kitchen! And as luck would have it, there is indeed a
+restaurant with a bar in the building next door, and the photo could be showing
+the kitchen there! So I went downstairs, into the restaurant, and explained my
+problem to the waitress. She fetched the manager, and I showed him the delivery
+photo. After I assured him that I wasn't crazy, he took my phone, marched into
+the kitchen with it, and came back a short time later with my package. We had a
+good laugh! Apparently, the Amazon guy, instead of ringing our doorbell, must
+have lazily thrown my order through the open kitchen window of the restaurant
+next door. You can't make this stuff up.
 
-@Z: Immobilienfalle Property Tax" translates to "Real Estate Trap Property Tax" in English.
+@Z: Real Estate Trap Property Tax
 
 <pic images/proptax-shock.ps Homeowner shocked by property tax assessment.>
+
+TODO
 
 <em>Michael</em>An average single-family home in our neighborhood costs just under two million dollars. Now, in the heart of the tech industry, many people in the tech sector have money burning holes in their pockets, so the exorbitant purchase price isn't really the problem. But one must consider that San Francisco County levies a property tax of 1.17% per year on the house price. That amounts to $23,400 a year on 2 million, which is almost $2,000 a month. For that, you could almost rent a rundown place. You could even say that homeowners are essentially renting their house from the county, at the price of the annual property tax, even though they bought it with already taxed income.
 
