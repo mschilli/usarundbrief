@@ -313,7 +313,7 @@ usually have the best public schools, while poorer areas often have deplorable
 ones. Since most parents prefer good schools for their children, this way
 they're driving up house prices in expensive areas with good schools.
 
-<pic images/proptax-sold.ps (#7) For this property, the new owner pays $117,000 in property tax per year.>
+<pic images/proptax-sold.ps (#7) For this property, the new owner pays 117,000 Dollars in property tax per year.>
 
 Now, until 2017, homeowners were able to fully deduct their property tax (and
 also interest on loans) from their income tax to the federal tax office
