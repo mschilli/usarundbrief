@@ -27,36 +27,95 @@ Turtle Bay at the north end of the island.
 <pic images/kauai-golf.ps The area around Princeville is known for its golf courses.>
 <pic images/kauai-beer.ps Local beer on the porch of the Airbnb>
 
-TODO
+However, Waikiki is much too crowded and filled with high-rises for us, and
+it's not what we have in mind for a Hawaii vacation. We understand that living
+space is limited on the islands and that measures need to be taken to ensure that
+people living on Oahu can still find housing. However, perhaps the authorities
+could have proceeded a bit less radically, because after all, the islands also
+rely on tourists. The inlaw unit we used to rent in Waimanalo was in the
+owners' garden and was very nice, but really not suitable or recommended for
+long-term rentals. But since it's now located in the wrong zone, it's no longer
+available. What a shame! Nevertheless, we are drawn back to Hawaii. I step off
+the plane and immediately feel relaxed. The beautiful turquoise warm water, the
+stunning beaches, the laid-back atmosphere, perfect surfing conditions for
+Michael, the gorgeous nature —- what more could you want?
 
-However, Waikiki is much too crowded and filled with high-rises for us, and it's not what we imagine for a vacation in Hawaii. We understand that living space is limited on an island and that measures need to be taken to ensure that people living on Oahu can still find housing. However, perhaps the authorities could have proceeded a bit less radically, because after all, the islands also rely on tourists. The little house we used to rent in Waimanalo was in the owners' garden and was very nice, but really not suitable or recommended for long-term rentals. But since it's now in the wrong zone, it's no longer possible. What a shame! Nevertheless, we are drawn back to Hawaii. I step off the plane and immediately feel relaxed. The beautiful turquoise warm water, the stunning beaches, the laid-back atmosphere, perfect surfing conditions for Michael, the gorgeous nature—what more could you want?
-
-<pic images/kauai-stairs.ps To secret beaches lead winding paths.>
+<pic images/kauai-stairs.ps Winding paths are leading to secret beaches.>
 <pic images/kauai-gecko.ps A gecko like the one from the Geico commercial.>
 
-Since my school partially follows the German school holiday calendar, and we always have a week of autumn break in October when American schools do not have time off, we took the opportunity to fly to the Hawaiian island of Kauai. We hadn't been there for a long time. Kauai was the first island we ever visited, and it is known for its lush vegetation and great beaches. This time, we were drawn to the north of the island, and we rented a nice little apartment in Princeville. The landlord, Gary, lived next door in the big house. Gary was super generous and even lent Michael his surfboards without batting an eye. We spent every day in the warm ocean, discovered hidden beaches, and ate endless amounts of poke, the traditional Hawaiian dish made from raw fish. We are already dreaming of our next vacation in Hawaii.
+Since the school I work at partially follows the German school holiday calendar, and we
+always have a week of autumn break in October when American schools do not have
+time off, we took the opportunity to fly to the Hawaiian island of Kauai this year. We
+hadn't been there in a long time. Kauai was the first island we ever visited way back,
+and remembered it for its lush vegetation and great beaches. This time, we were
+drawn to the north side of the island, and we rented a nice little apartment in
+Princeville. The landlord, Gary, lived next door in the big house. Gary was
+super generous and even lent Michael his surfboards without batting an eye. We
+spent every day swimming in the warm ocean, discovered hidden beaches, and ate endless
+amounts of poke, the traditional Hawaiian dish made from raw fish. We are
+already planning our next vacation in Hawaii.
 
 @Z: Newly insured with Kaiser
 
 <pic images/kaiser-logo.ps Welcome to Kaiser Permanente Health Insurance>
 
-<em>Angelika</em>We have often expressed our views in the newsletter about the deplorable health insurance system in the USA. It is completely overpriced, inefficient, and only produces mediocre results. A huge, complex, bureaucratic apparatus in which everything has fallen apart and no one can see through it anymore, causing both doctors and patients to despair.
+<em>Angelika</em> In the newsletter, we have often expressed our views on the
+deplorable health insurance system in the USA. It is completely overpriced,
+inefficient, and only produces mediocre results. A huge, complex, bureaucratic
+apparatus in which everything has fallen apart and no one can see through it
+anymore, causing grief to both doctors and patients.
 
-We believe that the system is on the verge of collapse if reforms do not happen soon, but we have little hope that this will occur in the near future. As is the case everywhere, action is only taken when it is already far too late. It is also alarming that it now seems acceptable for a CEO of a health insurance company to be shot in the open street, and for the murderer to be glorified as a hero because the frustration with the behavior of the health insurance companies is so great.
+We believe that the system is on the verge of collapse if reforms do not happen
+soon, but we have little hope that this will occur in the near future. As is
+the case everywhere, action is only taken when it is already far too late. I
+also find it downright crazy that some people now deem it acceptable that the
+CEO of a health insurance company is shot in the open street, and for the
+murderer to be glorified as a hero because the frustration with the behavior of
+the health insurance companies is so great.
 
-<pic images/kaiser-checkin.ps Checking in at the reception is quick and easy.>
+<pic images/kaiser-checkin.ps Checking in at the front desk is quick and easy.>
 
-Obamacare has indeed improved many things and led to far more Americans being insured. For example, 2024 was a record year in which over 21 million Americans obtained health insurance with the help of Obamacare. However, Obamacare is also part of a system with rising costs and ever-increasing monthly premiums. Most notably, the insured do not receive other health insurance options through Obamacare; only the large, well-known insurance companies offer their contracts under Obamacare. Currently, there are still tax benefits that significantly lower premiums for most people who purchase health insurance policies through the "Affordable Care Act" (i.e., Obamacare). However, these government subsidies are set to expire at the end of 2025 unless the U.S. Congress decides to extend them.
+Obamacare has indeed improved US healthcare and led to far more Americans being
+insured. For example, 2024 was a record year in which over 21 million Americans
+had health insurance with the help of Obamacare. However, Obamacare is
+also part of a system with rising costs and ever-increasing monthly premiums.
+Most notably, the insured cannot choose other health insurance options through
+Obamacare; only the large, well-known insurance companies offer their contracts
+under Obamacare. Currently, there are still tax benefits that significantly
+lower premiums for most people who purchase health insurance policies through
+the "Affordable Care Act" (i.e., Obamacare). However, these government
+subsidies are set to expire at the end of 2025 unless the U.S. Congress decides
+to extend them.
 
 <pic images/kaiser-doc.ps At Kaiser, every interaction first goes through the primary care physician.>
 
-In my opinion, one of the significant drawbacks of the American health insurance system is that employees typically receive their health insurance through their employer. Depending on the size of the company one works for, the company can offer its employees corresponding health insurance contracts, called "plans." Large companies with thousands of employees, like Apple or Google, accordingly have many different plans with various health insurance providers that offer high benefits.
+In my opinion, a significant drawback of the American health
+insurance system is that employees typically receive their health insurance
+through their employer. Depending on the size of the company one works for, the
+company can offer its employees corresponding health insurance contracts,
+called "plans." Large companies with thousands of employees, like Apple or
+Google, accordingly have many different plans with various health insurance
+providers that offer generous benefits.
 
-The health insurance companies are, of course, very interested in offering these companies good conditions. When Michael was still at Apple, we both had a top plan with the insurance company United Healthcare. It was never a problem to receive services because Apple always had a handle on it. Now, as is well known, Michael no longer works at Apple, and our Cobra insurance...<RBLINK>20221220#2</RBLINK>) has also expired after 18 months.
+The health insurance companies are, of course, very interested in offering
+these companies good conditions. When Michael was still at Apple, we both had a
+top plan with the insurance company United Healthcare. It was never a problem
+to receive services because Apple always had a handle on it. Now, as is well
+known, Michael no longer works at Apple, and our Cobra
+insurance (<RBLINK>20221220#2</RBLINK>) has also expired after 18 months.
 
-What now? Obamacare is not really an option if you have the possibility to be insured through your employer, because then the insured person always pays the full expensive premiums without subsidies. However, my school also offers a health insurance plan for me and allows me to insure my partner and children for higher monthly contributions. Now, my school is not a big company like Apple and therefore cannot offer an unlimited number of health insurance plans. Specifically, there are only two plans to choose from and only one insurance provider, namely Kaiser Permanente.
+What now? Obamacare is not really an option if you have the possibility to be
+insured through your employer, because in this case the Obamacare-insured person always pays the
+full expensive premiums without subsidies. However, my school also offers a
+health insurance plan for me and allows me to insure my partner and children
+for higher monthly contributions. Now, my school is not a big company like
+Apple and therefore cannot offer a large number of health insurance plans.
+Specifically, there are only two plans to choose from and only one insurance
+provider, namely Kaiser Permanente.
 
-<pic images/kaiser-web.ps On the Kaiser website, you can take care of all your office tasks.>
+<pic images/kaiser-web.ps On the Kaiser website, you can take care of all your paperwork.>
+
+TODO
 
 Kaiser Permanente is a very interesting health insurance provider because it operates its own network of hospitals, clinics, and doctors. Members typically receive services only at Kaiser facilities, meaning they cannot simply choose a doctor who is not part of the Kaiser network or have surgery at a non-Kaiser hospital. Exceptions are only allowed if the Kaiser-insured individual has a life-threatening emergency and there is no Kaiser hospital nearby, or if the patient has something so complicated that Kaiser is overwhelmed, such as an extremely complex brain surgery.
 
