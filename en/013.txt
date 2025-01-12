@@ -6,11 +6,9 @@ And once again, it's time to say: Welcome to the news from the new world! Your
 tireless adventurers Angelika and Michael are serving up diligently collected
 stories from everyday American life -- enjoy reading!
 
-<pic images/aol.ps The headquarters of AOL -- in Dulles, Virginia>
-
 @Z: German food in the USA
 
-<em>(Michael)</em> When it comes to traditional German food, we haven't
+<em>Michael</em> When it comes to traditional German food, we haven't
 suffered any shortage so far, as there are two German stores just two streets
 away from our apartment. One of them offers German beer mugs, beauty products (Fa
 shower gel, unfortunately no Cliff), and during Christmas time, nutcrackers and
@@ -42,9 +40,11 @@ for causing headaches, and it has actually established a foothold
 here -- every third pub serves it. And I've actually been living for over
 two years without Augustiner Edelstoff! Who will bring me someee ... :) ?
 
-@Z: At the headquarters of AOL
+@Z: At AOL Headquarters
 
-<em>(Michael)</em> In the second week of December, I had the honor of visiting
+<pic images/aol.ps The headquarters of AOL -- in Dulles, Virginia>
+
+<em>Michael</em> In the second week of December, I had the honor of visiting
 the headquarters of AOL in Dulles, Virginia (very close to the capital of the
 USA, Washington D.C.) to give a two-day course on a programming language (for
 the experts among you: Tcl) for the folks there. Since Virginia is on the East
@@ -106,6 +106,8 @@ international, colorful mix. Who would want to live anywhere else!
 
 @Z: 29 Palms and Joshua Tree National Park
 
+<pic images/joshua.ps The typical Joshua trees in the desert>
+
 <em>Michael</em> 
 The second half of our annual vacation (1 week) was spent in the
 deserts down by San Diego. Within California, you can fly around very
@@ -134,8 +136,6 @@ streets. Unfortunately, we didn't spot Cindy Crawford in a worn-out
 tracksuit or Steven Spielberg in swim trunks, but Angelika thought
 that an elderly gentleman who was lurking around the bar in the
 evening was a famous director, though she couldn't recall his name.
-
-<pic images/joshua.ps The typical Joshua trees in the desert>
 
 Anyway, we had our fun exploring the deserts in our legendary hiking
 boots during the day and inhaling the remarkable air, which lacks any
