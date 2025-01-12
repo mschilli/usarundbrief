@@ -189,8 +189,6 @@ up, but the rest is true, really true!
 
 @Z: "You've got Mail"
 
-TODO
-
 <em>Michael</em> 
 Back in San Francisco, we watched the latest movie: "You've Got
 Mail," starring Meg Ryan and Tom Hanks. The funny thing about it is
@@ -214,7 +212,7 @@ And there is also news to report from the production mill of the
 tireless Michael S.: The reach of German books is inevitably limited
 to German-speaking countries, and as is well known, I want to bombard
 the whole world with my products. So it was very convenient for me to
-hear from the UK branch of the publisher Addison-Wesley that they
+hear from the UK branch of publisher Addison-Wesley that they
 were interested in translating my German book into English and
 launching it on the world market. No sooner said than done: A
 translator received the book via email, worked on it for a month, and
@@ -223,15 +221,17 @@ and there, sent it back, and after a few rounds, the final result was
 ready: It will be in stores at the end of January. I have already
 received 6 sample copies and have given most of them to my colleagues
 at AOL. You can also order it from the largest bookstore on the
-Internet, Amazon: Go to http://www.amazon.com and enter "schilli" in
+Internet, Amazon: Go to <LINK>https://www.amazon.com|amazon.com</LINK>
+and enter "schilli" in
 the search field -- and you'll be beamed to the right place. It's
 quite strange to read my text in English -- but hey, if it brings
 money in... and my declared life goal is, as is well known, for my
 book to one day be in the bookstore of Stanford University. That
 could happen soon, then we'll go there with the camera...
 
-<pic images/perlpower.ps The translation of "Mein neues Buch -- auf
-Englisch" to English is "My new book -- in English.>
+<pic images/perlpower.ps My new book -- in English.>
+
+TODO
 
 @Z: Sales tax and mail-in rebate
 
