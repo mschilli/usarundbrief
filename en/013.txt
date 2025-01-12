@@ -268,6 +268,8 @@ account for tax and postage.
 
 @Z: Christmas tree in San Francisco
 
+<pic images/tanne.ps The (real!) Christmas tree in San Francisco>
+
 <em>Michael</em> 
 Like typical Germans in exile--giving in to hopeless sentimentality--we
 naturally couldn't resist buying a Christmas tree this year. We had to shell
@@ -277,8 +279,6 @@ was important because we still don't have a car, and transporting a
 conspicuous. Since the houses here are made of wood and real candles
 on Christmas trees are actually illegal, I kept a filled bucket of
 water ready just in case... but everything went well.
-
-<pic images/tanne.ps The (real!) Christmas tree in San Francisco>
 
 @Z: Getting connected to the Internet
 
