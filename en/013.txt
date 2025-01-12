@@ -205,7 +205,9 @@ funny, and if you're technology-averse yetis who still use pens,
 typewriters, and other antique devices, you absolutely must watch it
 to learn how things work nowadays and all that.
 
-@Z: Perl Power" -- Go to Perl in English
+@Z: "Perl Power" -- Go to Perl in English
+
+<pic images/perlpower.ps My new book -- in English.>
 
 <em>Michael</em> 
 And there is also news to report from the production mill of the
@@ -229,10 +231,6 @@ money in... and my declared life goal is, as is well known, for my
 book to one day be in the bookstore of Stanford University. That
 could happen soon, then we'll go there with the camera...
 
-<pic images/perlpower.ps My new book -- in English.>
-
-TODO
-
 @Z: Sales tax and mail-in rebate
 
 <em>Michael</em> 
@@ -241,7 +239,7 @@ a store in America, it's well-known that the sales tax is added to
 the listed price, which is 8.5% in San Francisco. If you buy a
 chocolate bar for $0.99, you pay $1.08 at the register. This is
 always confusing for tourists and especially leads to problems when
-you've painstakingly added up the prices of all the items in your
+you've painstakingly added up the amounts of all the items in your
 head before paying, intending to dump the kilo of loose change you've
 been carrying around for weeks onto the counter--only for the cashier
 to suddenly ask for a completely different amount! However, you get
@@ -267,6 +265,8 @@ simultaneously receive a coupon for the same amount--if you send this
 in along with the receipt, you receive a check for $9.95 after a few
 weeks, and the diskettes were practically free: you just have to
 account for tax and postage.
+
+TODO
 
 @Z: Christmas tree in San Francisco
 
