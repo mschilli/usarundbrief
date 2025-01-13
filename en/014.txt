@@ -141,9 +141,7 @@ topic may be, like in earthquake training. Sometimes you get the
 feeling that everything is a big show. On the other hand, such classes are
 really much more fun and are generally not as dry as in Germany.
 
-TODO
-
-@Z: Produkthaftung
+@Z: Liability Craziness in the U.S.
 
 <em>Angelika</em> 
 I was able to experience something else typically American during the
@@ -173,7 +171,10 @@ reserve exercise) twice a year. This year, the first one is on April
 
 So, now it's Michael's turn.
 
-@Z: Perl Power" spotted at Stanford
+@Z: "Perl Power" spotted at Stanford
+
+<pic images/stanford.ps Finally: My book in the Stanford University
+bookstore!>
 
 <em>Michael</em> 
 News from the book front: My tome "Perl Power" has finally appeared
@@ -184,17 +185,16 @@ that was quick! Time to find a new one ... hmm ... hmm ... grumble
 ... aha, here it comes: a red Ferrari F355. Let's see, maybe that
 will work out too.
 
-<pic images/stanford.ps Finally: My book in the Stanford University
-bookstore!>
-
 @Z: Snowboarding in Tahoe
+
+<pic images/snow.ps The happy snowboarders Larry, Chris, and Michael>
 
 <em>Michael</em> 
 What I've always wanted to share: For over two years, a pair of skis
-has been lying under our bed. We had them shipped over here with our
+has been lying under our bed. We had them shipped over here to the U.S. with our
 furniture back then because I thought I would get a chance to go
 skiing here, but that didn't happen. So far, I haven't managed to go
-to nearby Lake Tahoe, a fairly large ski area in the Sierra Nevada.
+to Lake Tahoe, a fairly large ski area in the Sierra Nevada.
 Then one Friday, my colleagues Chris and Larry asked me if I wanted
 to go to Sugar Bowl near Lake Tahoe on Saturday to take a
 snowboarding course with them. Since I was living the bachelor life
@@ -205,23 +205,21 @@ dollars for a lift ticket, rental snowboard and boots, and a two-hour
 beginner's course -- super awesome! Now, there's a huge difference
 between skiing and snowboarding; just because you can do one doesn't
 mean you can do the other. Snowboarding is like being strapped to a
-skateboard or surfboard, and without a course, you can't get anywhere
-without falling on your face.
+skateboard or surfboard, and without instructions, you can't get anywhere
+without constantly falling on your face.
 
 The ski instructor then patiently showed us how to first strap one
 foot in and then push off with the other foot like on a skateboard,
 leaning the board into the turn. Once you strap both feet onto the
-board, you canât even stand up at first, and when you finally
+board, you can't even stand up at first, and when you finally
 manage to, you immediately fall over again, which is always good for
 a laugh. But after two hours, we all got the hang of it and started
-surfing down the slopes--still beginner hills, of course--and it got
-better and better. We kept going up with the lift and couldnât get
+surfing down the slopes--still beginner hills, of course--but we got
+better and better. We kept going up with the lift and couldn't get
 enough, even though I crashed about 50 times. The muscle soreness the
-next day wasnât in the legs, as is usually the case with skiing,
+next day wasn't in the legs, as is usually the case with skiing,
 but in the arms from getting up so many times after contact with the
 snow.
-
-<pic images/snow.ps The happy snowboarders Larry, Chris, and Michael>
 
 @Z: Working conditions in the USA
 
@@ -232,57 +230,64 @@ Americans are content with a lousy two weeks of vacation a year. And,
 since there is no state religion here--unlike in Germany--but rather
 a colorful mix of cultures, everyone is allowed to define three
 additional holidays on top of the few public holidays in the year
-(New Yearâs, Martin Luther King Day, Thanksgiving, Lincolnâs
-Birthday, Independence Day, Presidentâs Day, Labor Day come to
+(New Year's, Martin Luther King Day, Thanksgiving, Lincoln's
+Birthday, Independence Day, President's Day, Labor Day come to
 mind). This way, the Chinese can celebrate their New Year sometime in
-February, and every one of the many religions, Mormons, Baptists,
+February, and all the many religions, Mormons, Baptists,
 Scientologists, and whatever else there is--everyone gets their due.
+
 Faced with this question, I would naturally choose February 19th--the
 death anniversary of Bon Scott, the singer of my favorite band AC/DC,
 but I usually take some Friday or Monday to extend a weekend. And
 regarding the working hours: My colleagues regularly laugh themselves
 sick when I tell them that in Germany the 35-hour workweek is
-actually the norm. In computer companies like AOL, thereâs no punch
+actually the norm. In computer companies like AOL, there's no punch
 card, but everyone logs the hours they work on a project into a
 computer program, which allows the company not only to determine how
 much a project costs but also how many hours an individual works in a
 week. If there are only 40 hours logged, you can expect the boss to
-drop by and cautiously ask if youâre still satisfied with the work
+drop by and cautiously ask if you're still satisfied with the work
 and so on. The norm is more like 50 and sometimes 60 hours--and
-overtime is, of course, not paid; itâs just a sign of how much you
-enjoy working. So itâs no big deal to work until three in the
-morning if thereâs a serious bug in the system or to work over the
+overtime is, of course, not paid; it's just a sign of how much you
+enjoy working.
+
+So it's no big deal to work until three in the
+morning if there's a serious bug in the system or to work over the
 weekend if a project needs to be finished by Monday--totally normal,
-right! If thereâs a fire, you put it out, and just going home would
-be an absolute faux pas and uncollegial. On the other hand, you have
+right! If there's a fire, you put it out, and just going home would
+be an absolute faux pas and unfair towards your colleagues. On the other hand, you have
 to see that in Germany hardly any employer would allow me to work
 from home two days a week and come to the office whenever I want. By
-the way, thereâs always a good mood in the office; being "annoyed"
+the way, people are always in a good mood at the office; being "annoyed"
 or complaining is considered completely unacceptable. "No problem!"
 or "That's ok!" is the standard response to "Sorry." This is true for
 all situations: Even if someone accidentally poured a bucket of water
 over your head, the response would still be "Don't worry, that's ok!"
-Anything else would be a gross rudeness. "Socializing" in the
-workplace is emphasized; you talk to people you donât know yet, ask
-a few questions about what theyâre working on, and maybe crack a
+
+Anything else would be downright rude. "Socializing" in the
+workplace is emphasized; you talk to people you don't know yet, ask
+a few questions about what they're working on, and maybe crack a
 few jokes, even if you only see them briefly. One thing I always
-notice with visitors from Germany: You donât just say "Yes" or
+notice with visitors from Germany: You don't just say "Yes" or
 "No," you always add something. When the server in a restaurant asks
-if you want another coffee, itâs not "No," but "No, thanks, I'm
+if you want another coffee, it's not "No," but "No, thanks, I'm
 just fine." Or not just "Yes," but you say something original like
 "Yeah, sounds great!" or "Coffee'd be awesome, dude!" The latter, of
-course, only if youâre dressed like a snowboarder :). At work,
-itâs also the case: If someone asks something, you help, even if
-you actually donât have time. This can be totally annoying when
-youâre working on something and someone keeps coming by wanting to
+course, only if you're dressed like a snowboarder :). At work,
+it's similar:
+If someone asks something, you help, even if
+you actually don't have time. This can be totally annoying when
+you're working on something and someone keeps coming by wanting to
 know something silly. And if you, like me, work in a cubicle,
-youâre never really alone; thereâs always something going on.
-Since everyone gives their cubicle a personal touch, Iâm planning
+you're never really alone; there's always something going on.
+Since everyone gives their cubicle a personal touch, I'm planning
 to put a chair in soon so my visitors can sit comfortably. No
 kidding! I already have the chair at home; I just need to bring it to
 the office.
 
-@Z: Autokauf
+TODO
+
+@Z: Buying a Car
 
 <em>Michael</em> 
 And -- what takes a long time will finally be good -- we finally
