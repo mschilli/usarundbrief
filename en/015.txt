@@ -150,9 +150,7 @@ who have studied in Germany for some time humorously and seriously
 describe their impressions of the country. It's a highly recommended
 read!
 
-TODO
-
-@Z: American Store Chains
+@Z: U.S. Store Chains
 
 <em>Angelika</em> 
 For a long time, I've wanted to talk about American cities. We've
@@ -164,20 +162,24 @@ Boston -- forgive me if I've forgotten a city) all look the same,
 meaning they are quite boring and monotonous. This is partly because
 they are all laid out like a grid, with miles of parallel streets
 that are usually numbered for simplicity. This design might be
-practical, but it also leads to monotony. In American cities, you
+practical, but it also leads to monotony.
+
+In American cities, you
 typically find skyscrapers with offices in downtown (city center)
 and, if you're lucky, a huge shopping mall. You search in vain for
 nice little cafes or shops and a marketplace. Surrounding downtown,
 connected by many highways, are residential areas, which are usually
 designed according to a pattern: single-family homes with double
-garages and, again, the shopping mall. You search in vain for a
+garages and, again, shopping malls. You search in vain for a
 corner bakery. To go shopping at the mall, you naturally have to use
 a car. What I find particularly dreadful is that these shopping malls
 are almost entirely made up of chains, meaning that no matter which
 American city you're in, it's the same stores that generally look
-exactly the same (inside and out). The chain phenomenon even extends
-to chain restaurants (a well-known chain is "Olive Garden," which
-serves Italian food). Perhaps that's why Americans move so often,
+exactly the same (inside and out).
+
+The chain phenomenon even extends
+to chain restaurants. A well-known chain is "Olive Garden," which
+serves Italian food. Perhaps that's why Americans move so often,
 because despite changing locations, everything stays the same, at
 least in terms of the city's appearance. San Francisco and New York
 stand out because they break away from this monotony and uniformity,
@@ -190,7 +192,9 @@ this way, strong neighborhood associations have formed in San
 Francisco, trying by all means to prevent chains from settling in
 their neighborhoods. Unfortunately, they don't always succeed, as
 rents in San Francisco are currently so high that only chains can
-afford them. This trend, for example, led to our beloved "Bakers of
+afford them.
+
+This trend, for example, led to our beloved "Bakers of
 Paris," which sold the world's best croissants, having to throw in
 the towel. Truly sad! By the way, if you want to identify yourself as
 a true San Francisco resident, you must avoid the coffeehouse chain
@@ -199,7 +203,7 @@ very small. Nowadays, there's a "Starbucks" on every other corner. It
 must be noted positively that "Starbucks" has managed to make good
 coffee, cappuccino, espresso, etc., available in America. And anyone
 who, like me, loves their cup of coffee and has had to endure the
-extremely thin coffee (1 coffee bean per liter of water and kept warm
+extremely watery coffee (1 coffee bean per liter of water and kept warm
 for at least an hour) that was common everywhere ten years ago knows
 what I'm talking about. Nevertheless, as a San Franciscan (unless
 you're traveling and there's nothing else), you don't go to
@@ -207,12 +211,14 @@ you're traveling and there's nothing else), you don't go to
 Francisco (e.g., "Martha"). It should be noted in passing that the
 boycott also has to do with the fact that "Starbucks" originally
 comes from Seattle, and the Seattle-San Francisco relationship is
-roughly like that of Northern Germany-Bavaria. Well! Of course, I
+roughly like that of Northern Germany vs. Bavaria. Well! Of course, I
 know that the described chain phenomenon has long since entered
 German cities. Therefore, I can only advise every city planner or
 chain lover: If you want to see a deterrent example of a totally
 American city, go to San Jose, an hour's drive south of San
 Francisco.
+
+TODO
 
 @Z: Weapons and violence
 
