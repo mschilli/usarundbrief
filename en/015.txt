@@ -99,12 +99,10 @@ won't work much longer because no one has rotary phones anymore.
 Since I'm sure that these "automated phone directories" will soon
 come to Germany as well, you now have something to look forward to.
 
-TODO
-
-@Z: Bazillenfimmel
+@Z: Germophobia
 
 <em>Angelika</em> 
-And because it's just so nice, I can think of another funny little
+And while we're having fun, I can think of another interesting little
 episode from American everyday life. One of the stereotypes that
 Germans are always associated with is that they have a bit of a
 cleanliness obsession and always carry a bottle of disinfectant with
@@ -112,14 +110,17 @@ them (I'm exaggerating a bit). I'm not going to discuss whether this
 is actually true. I can only say that Americans are in no way
 inferior to this phenomenon in one respect, as they have a tremendous
 fear of bacteria and germs of all kinds, and this fear has led to
-some grotesque consequences. It's not only considered polite to
+some grotesque consequences.
+
+It's not only considered polite to
 cancel an invitation (even among friends) if you have a cold, but you
 also don't blow your nose at the table; instead, you excuse yourself
 and do it at a discreet distance, preferably turned away from the
 table. In restaurants, this often means you really have to go to the
-restroom to blow your nose, as you're surrounded by people. However,
+restroom to blow your nose, as you're surrounded by people at the table. However,
 cutting your nails in public is completely okay, go figure!
-Naturally, all sorts of products are sold that kill bacteria. A
+
+Naturally, all sorts of products are sold here that kill bacteria. A
 disinfectant enthusiast would find America to be a true paradise.
 There are dishwashing liquids that kill bacteria, cleaning sprays
 that simultaneously wipe out every living germ on the continent
@@ -149,7 +150,9 @@ who have studied in Germany for some time humorously and seriously
 describe their impressions of the country. It's a highly recommended
 read!
 
-@Z: Amerikanische Ketten" translates to "American chains" in English.
+TODO
+
+@Z: American Store Chains
 
 <em>Angelika</em> 
 For a long time, I've wanted to talk about American cities. We've
