@@ -354,9 +354,7 @@ know how much to tip in such a situation, but the valet guy was
 visibly pleased with the five dollars I gave him; we read up on it at
 home: two dollars would have been appropriate. Every day is an adventure.
 
-TODO
-
-@Z: Shopping on the internet
+@Z: Shopping On the Internet
 
 <em>Michael</em> 
 An old computer geek like me naturally has to keep his hardware
@@ -388,6 +386,8 @@ process started all over again: This time I decided on a burner from
 another company (HP), ordered again online, and when the UPS man
 brought the package to the front door, the joy was great, because the
 CDs produced were of excellent quality, and now I burn day and night!
+
+TODO
 
 @Z: Soccer in America
 
