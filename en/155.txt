@@ -410,12 +410,14 @@ to such a dish a) now costing 20 dollars and b) because it should actually cost
 more than 30 dollars, but no one would pay that much for a burger, the patties
 are getting thinner and thinner.
 
-<pic images/innout-animal.ps The Double-Double with fries "Animal Style">
+<pic images/innout-outside.ps Usually there's long lines at In-N-Out Burger>
 
 Then there's the class of run-of-the-mill restaurants in the middle of nowhere
 that offer a burger, but the patties were frozen and taste about 10% better
 than McDonald's. Additionally, they are nicely arranged on a plate when served
 at the table.
+
+<pic images/innout-animal.ps The Double-Double with fries "Animal Style">
 
 Let's now turn to the budget category of fast-food restaurants. Chains like
 McDonald's, Burger King, Jack in the Box, and thousands of other regionally
