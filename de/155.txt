@@ -425,7 +425,7 @@ das fast etwas Poetisches.
 
 @Z: In-N-Out Burger
 
-<pic images/innout-outside.ps Die legendäre Burgerkette In-N-Out Burger>
+<pic images/innout-sign.ps Die legendäre Burgerkette In-N-Out Burger>
 
 <em>Michael</em> Was Burgerlokale in Amerika angeht, gibt es hier so ein
 Drei-Klassen-System. Wer in normalen Restaurants, also etwa einer Kneipe namens
