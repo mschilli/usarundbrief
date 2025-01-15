@@ -218,9 +218,7 @@ chain lover: If you want to see a deterrent example of a totally
 American city, go to San Jose, an hour's drive south of San
 Francisco.
 
-TODO
-
-@Z: Weapons and violence
+@Z: Guns and violence
 
 <em>Angelika</em> 
 And since I'm in the mood today to address quintessentially American
@@ -237,8 +235,10 @@ people--so-called copycats. After the Littleton incident, the
 American media feverishly searched for the causes of this increase in
 violence, digging up everything from the decline in values, the
 internet, the portrayal of violence in the media, overwhelmed
-parents, and the easy access to weapons. It should be mentioned in
-passing that while all the reporters condemned the excessive
+parents, and the easy access to weapons.
+
+It should be mentioned in
+passing that while all reporters condemned excessive
 portrayal of violence in the media, they relentlessly showed images
 of blood-covered teenagers or mercilessly interviewed completely
 shocked students. Or President Clinton tearfully mourned the victims
@@ -250,7 +250,7 @@ adolescents is a worldwide phenomenon (at least in most
 industrialized nations), and the causes are certainly multifaceted.
 However, I am always fascinated by how lightly the arming of
 teenagers in the USA is taken and how deeply rooted the belief is
-that everyone has the right to own a weapon, even though teenagers
+that everyone has the right to own a firearm, even though teenagers
 are disproportionately often victims of gun violence: Teenagers up to
 15 years old in the USA have up to twelve times the risk of being
 killed by a gun compared to children in the 25 most industrialized
@@ -260,18 +260,15 @@ Naturally, after the Littleton incident, there is renewed discussion
 about tightening gun laws, but it tends to focus more on the details
 (e.g., raising the minimum age from 18 to 21 or making access to
 certain types of weapons more difficult) rather than challenging the
-fundamental right to own weapons. In America, it has become easier
+fundamental right to own firearms. In America, it has become easier
 for a teenager to buy a gun than cigarettes or alcohol.
 
-Here's the translation to English:
+So much for serious topics -- Ring free for the jokester Michael:
+"Shall we let him in??? Let him in! Toot toot toot..."
 
-"So much for serious topics -- Ring free for the jokester Michael:
-shall we let him in??? Let him in! Toot toot toot...
+@Z: Bay to Breakers
 
-@Z: Bay to Breakers" is already in English. It is the name of an
-annual footrace in San Francisco, California, that starts at the
-northeast end of the city near the San Francisco Bay and ends at the
-Great Highway, adjacent to the Pacific Ocean breakers.
+<pic images/btb2.ps (#1) Two tough sportsmen in pursuit of the gold medal>
 
 <em>Michael</em> 
 On May 16th, as on every third Sunday in May, the traditional
@@ -281,28 +278,31 @@ at the shores of the San Francisco Bay (made famous by the song
 "Sittin' on the Dock of the Bay"), run across the entire city, past a
 multitude of Victorian houses, sprint through Golden Gate Park, and
 finally arrive exhausted at the ocean with its breaking waves
-(Breakers). San Francisco is famously located at the tip of a
+(Breakers).
+
+San Francisco is famously located at the tip of a
 peninsula, with the Bay on its right and the Pacific Ocean on its
 left. Twelve kilometers is, of course, a breeze for reasonably active
 athletes, but the race owes its fame to the amusing antics of runners
 who dress up, and some old '68ers even like to run naked, although
-that's technically prohibited by the police, but who lets themselves
-be prohibited from anything in San Francisco! But don't worry, our
+that's technically prohibited by the police, but who cares about
+what's prohibited in San Francisco!
+
+<pic images/btbair.ps (#2) 73,000 people run Bay-To-Breakers.>
+
+Don't worry, our
 friend Anthony and I ran in normal sports attire, and we lined up
 with 73,000 other runners at the starting line. At exactly eight
-o'clock in the morning, the starting gun was fired (Figure 2). In the
+o'clock in the morning, the starting gun was fired (Figure (#2)). In the
 front row stood the qualified runners, who were allowed to start
 immediately, and then the crowd slowly began to move. Very slowly! It
 took a full half hour before Anthony and I could finally start.
-Angelika, who had positioned herself a few hundred meters further to
+Angelika, who had positioned herself a few hundred yards further to
 take photos, was already wondering where we were, but quickly pressed
-the shutter, and the result is shown in Figure Number 3. If you
+the shutter, and the result is shown in Figure (#1). If you
 subtract the waiting time from our official result time of 1:53:36
 (if you don't believe it, you can check it on...
-<LINK>https://www.athlinks.com/Events/133780/Courses/182625/Bib/15017
-|The translation from German to English is: "the Internet|San
-Francisco Bay to Breakers 1999 results</LINK>
-When you subtract the time spent reading, you end up with
+<LINK>https://www.athlinks.com/Events/133780/Courses/182625/Bib/15017|the Internet|San Francisco Bay to Breakers 1999 results</LINK>, you end up with
 approximately one hour and 20 minutes, which is not exactly
 world-class for 12 kilometers, but it's quite okay for a hilly
 course. I finished in 21,643rd place, unfortunately not enough for a
@@ -310,20 +310,15 @@ medal, as the winner, the Kenyan Lazarus Nyakeraka, only needed 34
 minutes and 11 seconds -- but he didn't have to wait as long at the
 start!
 
-<pic images/btbair.ps 73,000 people run Bay-To-Breakers.>
+@Z: New Car
 
-<pic images/btb2.ps Two tough sportsmen in pursuit of the gold medal>
-
-@Z: Neues Auto" translates to "New Car" in English.
+<pic images/auto.ps (#4) The Acura on a steep slope on 23rd Street. Vroom!>
 
 <em>Michael</em> 
 And finally, there's a picture of our new car! It continues to drive
-very well; we've already put 6,000 kilometers on it since the
-purchase date. Figure 4 shows me parking it on the steep 23rd Street
+very well; we've already put 4,000 miles on it since the
+purchase date. Figure (#4) shows me parking it on the steep 23rd Street
 just around the corner from us. The clutch is smoking there.
-
-<pic images/auto.ps The Acura on a steep slope on 23rd Street.
-Vroom!>
 
 As we were recently driving back from a weekend trip to Point Reyes,
 we passed by the "Buckeye Roadhouse" restaurant and decided to
@@ -331,16 +326,19 @@ quickly stop for dinner. Unlike previous visits, there was now a
 liveried employee waiting there, and a sign indicated "Valet
 Parking." By the way, Americans like to pronounce "valet" in their
 inimitable way as "Wuh-layyyy" in a sort of pseudo-French manner.
-This is an American custom typically found only in very expensive
+
+Valet is an American custom typically found only in very expensive
 restaurants, where you drive your car right up to the entrance
-(preferably in a Ferrari), and after a uniformed guy opens the door,
+(preferably a Ferrari), and after a uniformed guy opens your car door,
 you get out and leave the key in the car. The valet then gets into
 the car, and while the owners head into the restaurant, the employee
 drives the car to a nearby parking lot. When you come out of the
 restaurant, the valet rushes to get the car, drives it up, quickly
 jumps out, and lets the owner get in with the engine running, then
-there's a tip, and off you go home. Unfortunately, our Ferrari is
-still at the dealer, so we unexpectedly got to experience this valet
+there's a tip, and off you go home.
+
+Unfortunately, our Ferrari is
+still at the dealership, so we unexpectedly got to experience this valet
 circus with our Acura, which hadn't been washed in three months and
 had paint peeling off the roof. I was so surprised to suddenly see
 the valet sign that I almost backed up, but the guy waved me over
@@ -348,12 +346,15 @@ friendly, opened the door, and -- what a laugh we had -- I was
 wearing shorts and was barefoot! The valet was very friendly and said
 we should take our time to get ready, and then he would park the car
 for us, plus the valet parking was "complimentary," meaning free.
+
 Well then! So we did, and after we had a nice dinner, he promptly
 brought the car back for us -- just like for Mr. & Mrs. Millionaire!
 Unfortunately, we didn't have a travel guide with us, so we didn't
-know how much to tip in such a situation, but the gentleman was
+know how much to tip in such a situation, but the valet guy was
 visibly pleased with the five dollars I gave him; we read up on it at
-home: two would have been appropriate. Every day is an adventure.
+home: two dollars would have been appropriate. Every day is an adventure.
+
+TODO
 
 @Z: Shopping on the internet
 
