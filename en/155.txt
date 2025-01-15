@@ -396,7 +396,7 @@ finally came, it was almost poetic.
 
 @Z: In-N-Out Burger
 
-<pic images/innout-outside.ps The legendary burger chain In-N-Out Burger>
+<pic images/innout-sign.ps The legendary burger chain In-N-Out Burger>
 
 <em>Michael</em> When it comes to burger joints in America, there is sort of
 a three-tier system. If you order a burger in regular restaurants, let's say at a pub
