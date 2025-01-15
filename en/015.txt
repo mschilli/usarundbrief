@@ -387,8 +387,6 @@ another company (HP), ordered again online, and when the UPS man
 brought the package to the front door, the joy was great, because the
 CDs produced were of excellent quality, and now I burn day and night!
 
-TODO
-
 @Z: Soccer in America
 
 <em>Michael</em> 
@@ -405,10 +403,10 @@ around on the field chewing huge pieces of gum) and American football
 (the one with people in armor-like costumes and helmets fighting over
 an egg-shaped ball) are popular, and at most some immigrant Mexicans
 can play soccer reasonably well. The rest couldn't even score a
-penalty in an empty goal. Just like in Germany, no one knows how many
+penalty on an empty goal. Just like in Germany, no one knows how many
 strikes the hitter is allowed in baseball before he's "out." Or do
 they? Does anyone among our educated newsletter readers actually
-know? The crÃ¨me de la crÃ¨me of German intellectuals (ahem!)?
+know? The creme de la creme of German intellectuals (ahem!)?
 
 ATTENTION: Starting today, each newsletter will include a question to
 test your knowledge of America and distinguish "Heroes" from
@@ -425,9 +423,9 @@ will be in seventh heaven! Write in masses! And remember: Time is
 running out--only the first email and the first mail submission will
 score!
 
-@Z: Point Reyes" is a proper noun and does not need to be translated
-into English. It is the name of a prominent cape and region in Marin
-County, California.
+@Z: Point Reyes
+
+<pic images/whale.ps A whale off the coast of Point Reyes blows out air.>
 
 <em>Michael</em> 
 With only two weeks of vacation a year, you certainly have to make
@@ -440,7 +438,7 @@ pictures. They look as blurry as those of the Loch Ness Monster--but
 try focusing a 300mm telephoto lens! I guess I need to practice a bit
 more.
 
-<pic images/whale.ps A whale off the coast blows out air.>
+TODO
 
 @Z: AOL buys Netscape.
 
