@@ -280,12 +280,10 @@ form with his letter that you just had to fill out to receive a share
 of the large compensation amount that Sears had to pay. Not
 everything is allowed, even in the land of unlimited possibilities.
 
-TODO
-
 @Z: Firefighter Angelika
 
 <em>Michael</em> 
-Angelika successfully completed her earthquake course with the fire
+Angelika recently completed her earthquake course with the fire
 department and, like a responsible firefighter, immediately put
 everything into practice. She packed two earthquake boxes (as she
 calls them) and included old shoes (in case you're surprised in your
@@ -293,7 +291,7 @@ sleep, you need to quickly put on shoes to walk through broken
 glass), water for three days, some food, clothing, and emergency
 sleeping bags made of aluminum foil. If there is no earthquake, the
 boxes are also good for the turn of the millennium, as many people
-fear that the electricity or water, or even worse, my internet
+fear that electricity or water, or even worse, my internet
 connection, could fail--or everything at once--because everything is
 controlled by computers, which, as is well known, could have
 difficulties entering the new millennium due to potential programming
@@ -303,8 +301,10 @@ his supplies if necessary.
 
 @Z: Angelika's Photographic Art
 
+<pic images/a1.ps Angelika: Children of the Tenderloin>
+
 <em>Michael</em> 
-Angelika spends day and night in the darkroom of the photo lab,
+Angelika spends day and night at the darkroom of the photo lab,
 indulging in her hobby. The lady has already gone through several
 phases of her photography career: First, she photographed the
 children in the Tenderloin kindergarten, then came what I call the
@@ -312,9 +312,13 @@ vegetable period: still lifes of radishes, cauliflower, and similar
 subjects, arranged in hours-long sessions with changing lighting
 conditions, captured according to the latest insights in photography
 technology -- unfortunately, I can't say much more about it, as I'm
-just a dumb software engineer. Then followed, for a course, people in
+just a dumb software engineer.
+
+<pic images/a2.ps Angelika: "Pencils with egg">
+
+Then followed, for a course, people in
 the city, which is very exciting in San Francisco, as all skin colors
-are truly represented. Currently, it's arranged pictures again, the
+are truly represented. Currently, it's back to arranged still life pictures again, the
 latest trend being compositions with eggs and pencils. I still like
 the pictures from the kindergarten, but the lady artist gets furious
 when you bring up the past phases of her career. Soon, her works will
@@ -326,39 +330,35 @@ self-portrait -- of course, run through a printer and copier, as the
 lady artist emphasizes, not to be compared with the originals, but
 still!
 
-<pic images/a1.ps The title "Angelika: Die Kinder vom Tenderloin"
-translates to "Angelika: The Children of the Tenderloin" in English.>
+<pic images/a3.ps Angelika: "Self-portrait">
 
-<pic images/a1a.ps The title "Angelika: Die Kinder vom Tenderloin"
-translates to "Angelika: The Children of the Tenderloin" in English.>
+@Z: Austin Powers
 
-<pic images/a2.ps Angelika: "Pencils with egg>
+<pic images/austin.ps Austin Powers -- The New Movie Hero.>
 
-<pic images/a3.ps Angelika: "Self-portrait>
-
+<em>Michael</em>
 The new Austin Powers movie "The Spy Who Shagged Me" (the German
 translation will certainly be interesting) is out, and Angelika and I
-watched it one weekend at a theater in Japantown. We laughed so much,
-and afterwards, we treated ourselves to some Japanese soups with Udon
+watched it one weekend at a theater in Japantown. We laughed so hard,
+and afterwards, we treated ourselves to some Japanese soup with Udon
 noodles, delicious! The film is full of references to American
 society; for instance, the center of evil in the movie is the
 headquarters of the coffeehouse chain "Starbucks," which is hated by
 all San Franciscans and originates from Seattle, a city that no one
-from San Francisco can stand. The superhero's crooked teeth, by the
-way, are a nod to Europe: Austin Powers is English and speaks with a
+from San Francisco can stand.
+
+The superhero's crooked teeth, by the
+way, are a nod to Europe: Austin Powers from England and speaks with a
 British accent, and unlike in America, where every child wears
 braces, a bit of natural growth is tolerated in Europe, which
 Americans like to make fun of. Some dialogues from the film have
 already made their way into everyday language: If you want someone to
 be quiet, you first try with shhhh! and then with
 "double-u-double-u-double-u-dot-shhhh!-dot-com" (www.shhhh!.com)!
-Very good movie, a must-see! -- Or as the advertisement for the film
+Excellent movie, highly recommended. Or, as the advertisement for the film
 suggests: "If you only see one movie this summer -- watch 'Star
 Wars.' If you manage to see two: also go see 'The Spy Who Shagged
 Me.' It doesn't get more modest than that.
-
-<pic images/austin.ps The translation of "Austin Powers -- Der neue
-Kinoheld" to English is "Austin Powers -- The New Movie Hero.>
 
 @Z: Perl Power
 
@@ -382,50 +382,60 @@ he just hadn't installed a module correctly.
 <em>Michael</em> 
 I also enjoy biking and taking the train to the Netscape office in
 Mountain View, as it allows me to read all the computer magazines and
-books that pile up at home for an hour each way. Plus, there's always
-something to laugh about on the train ride. As I've mentioned before,
+books that pile up at home. And that's one hour each way! Plus, there's always
+something to laugh about on the train ride.
+
+As I've mentioned before,
 each train can carry 24 bicycles, and the conductors usually make
-sure that no more than that get on. At each stop, they rush into the
-so-called bike car and stand at the door to turn away any cyclists
-trying to board if the car is already full. Some conductors, who are
+sure that no more than that get on. At each stop, conductors rush to the
+so-called bike car and stand at its door to turn away any cyclists
+trying to board, if the car is already full. Some conductors, who are
 the favorites of the cyclists and celebrated like heroes, avoid
 confrontation and simply never show up in the bike car when the train
-stops. As a result, new cyclists board at every station--I once
+stops.
+
+As a result, new cyclists board at every station--I once
 experienced a situation where there were 35 bicycles inside, and you
 could hardly breathe, but whenever that happens, there's a great
 atmosphere in the bike car. The cyclists in San Francisco and Silicon
 Valley are an oppressed minority, and a nice sense of camaraderie
 develops. Stories are shared about who had the most spectacular
-accidents and how clueless car drivers are. However, one conductor,
+accidents and how clueless car drivers are.
+
+However, one conductor,
 who is called the "Bike Nazi" by the cyclists, is particularly strict
 and insists that everyone places their bicycle in the exact spot he
 assigns. The Bike Nazi bases this on some obscure calculations,
 claiming it's more efficient if the person getting off first has
 their bike at the front. I always chuckle to myself and say nothing,
 but recently, a passenger lost his temper and angrily insulted the
-Bike Nazi. He, the conductor, was the only one enforcing this
-"nonsense," and the passenger threatened to complain, predicting that
+Bike Nazi: He, the conductor, was the only one enforcing this
+"nonsense," and the passenger threatened file a complaint, predicting that
 the conductor would soon receive his "pink slip" (termination
-letter). I had to smile as I continued reading my book. In San
+letter). I had to smile as I continued reading my book.
+
+In San
 Francisco, there are also specific routes for cyclists that allow you
 to get from A to B without having to cross any of the exhausting
 hills. These routes are given funny names known only to cyclists and
 are passed down orally from biker to biker.
-<LINK>http://en.wikipedia.org/wiki/The_Wiggle|Duboce-Shuffle</LINK>
-For example, a tricky route from Market Street to Golden Gate Park --
+The <LINK>http://en.wikipedia.org/wiki/The_Wiggle|Duboce-Shuffle</LINK>,
+for example, is a clever route from Market Street to Golden Gate Park --
 without much car traffic and almost no hills. Or the "John Benton
-Overpath," from the train station on 22nd Street to Noe Valley, where
+Overpath," from the train station at 22nd Street to Noe Valley, where
 we live. The route was devised by a gentleman named John Benton, a
-Caltrain biker, whom I have the honor of knowing personally. Yours,
-Michael -- "Man of the people, friend to the stars!
+Caltrain biker, whom I have the honor of knowing personally. Yep,
+that's me, "Man of the people, friend to the stars!"
 
 So, we have reached the end, and the lady photographer has promised
-to provide something written next time as well. Remember, there's
+to provide something in writing next time as well. Remember, there's
 something to win this time too: Which image, apart from the first
 printed one, has been digitally altered and is therefore a blatant
 forgery? The first correct email and the first letter received
 through regular mail will win the exclusive prize: A hand-developed
 original (hand-signed upon request) by the artist, in the format 25cm
-x 20cm. It will turn any student dorm into an intellectual loft. See
-you soon! Michael and Angelika
+x 20cm. It will turn any student dorm into an intellectual loft.
 
+See you soon!
+
+Michael and Angelika
