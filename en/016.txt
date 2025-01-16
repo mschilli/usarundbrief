@@ -199,8 +199,6 @@ almost everyone gets talked into paying for a larger one. When we didn't have
 a car of our own, we rented one every few weeks, and we regularly watched
 German tourists getting ripped off by this scheme left and right.
 
-TODO
-
 @Z: Shopping at Fry's
 
 <em>Michael</em> 
@@ -208,13 +206,15 @@ A kind of love-hate relationship has developed between me and the
 computer superstore "Fry's Electronics." This is a chain of stores
 that offer computer products on sales floors the size of football
 fields and regularly place six-page color ads in the "San Jose
-Mercury," the newspaper in Silicon Valley. On one hand, they are
-quite cheap, but on the other hand, everyone knows that they operate
+Mercury," the newspaper in Silicon Valley. On one hand, their prices
+are quite low, but on the other hand, everyone knows that they operate
 with dubious business practices, such as repackaging returned goods
 in the original plastic wrap and selling them as new, among other
-tricks. The pricing is also dubious, and the price tags on the
+tricks.
+
+The pricing is also dubious, and the price tags on the
 shelves often show a much lower price than what the cashier then
-charges you. So there I was at the checkout, suddenly expected to pay
+rings up. One day I found myself at the checkout, suddenly expected to pay
 $30 more for a $200 hard drive. Naturally, I kicked up a fuss, as you
 might expect. Eventually, the manager came over and said that if I
 insisted, an employee would accompany me to the shelf to show me the
@@ -227,8 +227,9 @@ sign, I could read that the lower price was after a mail-in rebate,
 meaning you had to pay more at the register and then send a coupon to
 the company, which would then mail you a $30 check. I was, of course,
 quite embarrassed, so I apologized profusely, went back to the
-register with the guy, and bought the item at the higher price. At
-that time, we didn't have a car yet, so I had ridden my bike and
+register with the guy, and bought the item at the higher price.
+
+At that time, we didn't have a car yet, so I had ridden my bike and
 taken the train to Fry's in Palo Alto after work. When I got home, I
 opened the package and was horrified to find that there was no coupon
 for the mail-in rebate. Oh, the misery! I didn't go to Fry's for
@@ -244,38 +245,42 @@ deliberately poor copy where the date couldn't be clearly seen, sent
 in the stuff--and, behold: six weeks later, the check arrived. My
 triumphant roar could be heard all the way to Palo Alto.
 
-@Z: Teppichreiniger
+@Z: Carpet Cleaning
 
 <em>Michael</em> 
-Here's a translation of the text into English:
-
-I have another little story: About two and a half years ago, when I
+I have another story: About two and a half years ago, when I
 moved into our current apartment in San Francisco -- Angelika was
-still in Germany -- there was a bit of a musty smell in the rooms.
+still in Germany -- there was a bit of a musty smell in the space.
 Later, we found out from our neighbors that the previous tenant had
 cats that had probably peed on the carpet. After I signed the lease,
 I asked the real estate agent if I could have a carpet cleaning
 company come in, and he said yes. He had just read in the newspaper
 that the company Sears (a large department store chain in the USA,
-similar to Karstadt in Germany) had an ad running that they would
-clean any apartment for $19.95. I called them, made an appointment,
+similar to Karstadt in Germany) had run an ad that promised they would
+clean any apartment for $19.95.
+
+I called them, made an appointment,
 and the carpet guy came, looked around the apartment, made a face,
 and said in all seriousness that we had an extraordinary carpet, a
 "Berber carpet," which required special treatment, and that $19.95
 wouldn't cover it. I should mention that our carpet was probably the
 most average carpet in all of America. I wasn't an expert in the
 field, new to the country, and relatively relaxed since the landlord
-had promised to cover the costs. The carpet guy asked a few more
+had promised to cover the costs anyway. The carpet guy asked a few more
 questions about whether I wanted the carpet super-deep-cleaned and
 specially perfumed, and I said, "Yes, yes, yes, I want it all, the
-full package!" The bill then came to about $120 -- we laughed so
-much! And the real estate agent paid for everything. But wait, the
+full package!" The bill then came out to $120 -- I laughed so
+much! And the real estate agent paid for everything.
+
+But wait, the
 story doesn't end there. About a year later, we received a letter
 from a lawyer who had apparently had a similar experience. He had
 sued Sears for these business practices, won in court, and included a
 form with his letter that you just had to fill out to receive a share
 of the large compensation amount that Sears had to pay. Not
 everything is allowed, even in the land of unlimited possibilities.
+
+TODO
 
 @Z: Firefighter Angelika
 
