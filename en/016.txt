@@ -101,32 +101,31 @@ the printed pictures (except for the first one) was also manipulated?
 As always, there are two prizes: One for the fastest email, one for
 the fastest letter/postcard.
 
-TODO
-
 @Z: X-Games in San Francisco
+
+<pic images/x3.ps (#3) The cyclist in the half-pipe>
 
 <em>Michael</em> 
 The championships in rock climbing, snowboarding, skateboarding,
 rollerblading, and cycling took place this year in San Francisco. At
-an event called the "X-Games," people ride wildly back and forth in
+an event called the "X-Games," people keep riding back and forth in
 so-called half-pipes. These are half-open tubes with a diameter of
-about five meters and a length of ten meters, where you can speed
+about 15 feet and a length of 30 feet, where you can speed
 down on one side and up on the other. The cyclists, rollerbladers,
 and skateboarders perform all sorts of tricks, flipping and spinning,
 sliding along the edges, shooting over the rim, and jumping two or
-three meters into the air -- and whoever has the best tricks wins. On
+three meters into the air -- and whoever performs the best tricks wins. On
 Saturday, I went there early with a friend from AOL, and the line at
-the entrance was about a kilometer long, all people in their
+the entrance was about a mile long, all people in their
 twenties. I think we were the only ones not wearing a baseball cap
 backward. I felt like a grandpa; at 34, you're not the youngest
 anymore, cough, cough. With the camera I brought, I was able to take
-some snapshots: Here you go, images 3 and 4 show the whirling bike
+some snapshots: Here you go, images (#3) and (#4) show the whirling bike
 masters -- live at the X-Games 1999! Once in a lifetime, baby.
 
-<pic images/x3.ps The cyclist in the half-pipe>
+<pic images/x4.ps (#4) He doesn't even have his hands on the handlebars!>
 
-<pic images/x4.ps The translation is: "He doesn't even have his hands
-on the handlebars!>
+TODO
 
 @Z: Shop for special offers
 
