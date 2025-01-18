@@ -84,6 +84,8 @@ professionals.
 
 @Z: News from the Darkroom
 
+<pic images/retusch.ps (#5) Photographer Angelika retouching.>
+
 <em>Michael</em> 
 Angelika is meanwhile diligently working on her photos. Figure (#5)
 shows the artist retouching the images, where even the last specks of
@@ -102,28 +104,25 @@ she wants, even when it is officially closed to the public, like
 during the holidays. I already know who will take full advantage of
 that until the very end.
 
-TODO
+<pic images/bb.ps (#6) Original ... Forgery from the last newsletter ...  and an even more brazen forgery!!>
 
-<pic images/retusch.ps (#5) The woman photographer retouching.>
-
-The prize puzzle last time really gave you a hard time. Dear people,
-it seems you are greatly overestimating my athletic abilities. While
-I can easily fall a few thousand meters from the sky, I certainly
-can't jump one and a half meters to the basketball hoop--am I Magic
-Johnson or what? Figure 6 shows the original image that a colleague
-took at Netscape, the fake version from the last newsletter, and
-another version where perhaps more people would have caught on. But
-after a few days of anxious waiting and a series of incorrect
-attempts (most guessed the Austin Powers image with the crooked
-teeth), an email with the correct solution arrived: Mother and Bernd
-Schï¿½nke, who noticed the error due to the incorrect shadow in the
-image, sent in their tip via email and won! Congratulations and enjoy
-the hand-signed artwork!
-
-<pic images/bb.ps Original ... Forgery from the last newsletter ...
-and an even more brazen forgery!!>
+The prize puzzle last time really gave you a hard time. Dear people, it seems
+you are greatly overestimating my athletic abilities. While I can easily fall a
+few thousand meters from the sky, I certainly can't jump up five feet high to
+reach the basketball hoop--am I Magic Johnson or what? Figure (#6) shows the
+original image that a colleague took at Netscape, the fake version from the
+last newsletter, and another version where perhaps more people would have
+caught on. But after a few days of anxious waiting and a series of incorrect
+attempts (most guessed the Austin Powers image with the crooked teeth was
+fake), an email with the correct solution arrived: Mother and Bernd Schünke,
+who noticed the error due to the incorrect shadow in the image, sent in their
+suspicion via email and won! Congratulations and enjoy the hand-signed artwork!
 
 @Z: New at Netscape
+
+<pic images/ns2.ps The beverage refrigerator at Netscape -- please help yourself, everything is free!>
+
+TODO
 
 <em>Michael</em> 
 Recently, I was walking through the cubicle rows at Netscape again to
@@ -142,9 +141,6 @@ well as more exotic things like "Welch's Lemonade" and "Fruit Punch"
 -- there's something for every taste. The absolute in-drink in hacker
 circles at the moment is "Mountain Dew," a neon green shimmering
 caffeinated soda -- just an insider tip.
-
-<pic images/ns2.ps The beverage refrigerator at Netscape -- please
-help yourself, everything is free!>
 
 As I was once again strolling through the rows, I noticed that
 something had changed in one of the cubicles. There, a blue and white
