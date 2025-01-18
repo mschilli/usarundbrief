@@ -218,65 +218,60 @@ opportunity, although the requirements here are a bit tougher. It's not certain
 how many of my submitted pictures will make it, as a small jury selects them.
 We'll see how it goes!
 
-TODO
-
 @Z: Hawaii -- Maui
 
-<em>Angelika</em> 
-We still have sand in our shoes from Hawaii... that's no joke,
-because a week ago we returned from our one-week vacation, which we
-spent this time on the island of Maui. Just like that, five hours on
-a plane and you're in a tropical paradise, without even needing to
-show your passport, since Hawaii is, as we know, part of the USA. The
-word "Hawaii" probably conjures up images of surfers, palm trees,
-sandy beaches, cocktails, landscapes like Jurassic Park (the movie
-was actually filmed on Kauai), and floral print shirts not just for
-us. And let me tell you, you can find all of that here. Sometimes you
-really feel like you're looking at a postcard and not reality (see
-Figure 9).
+<pic images/hw9.ps (#9) Palm tree and sunset>
 
-<pic images/hw9.ps Palm tree and sunset>
+<em>Angelika</em> 
+We still have sand in our shoes from Hawaii... that's an old German song and no
+joke, because just one week ago we came back from our one-week vacation, which
+we spent this time on the island of Maui. Just like that, five hours on a plane
+and you're in a tropical paradise, without even needing to show your passport,
+since Hawaii is, as you know, part of the USA. The word "Hawaii" probably
+conjures up images of surfers, palm trees, sandy beaches, cocktails, landscapes
+like Jurassic Park (the movie was actually filmed on Kauai), and floral print
+button down shirts not just for us. And let me tell you, you can find all of
+that there. Sometimes you really feel like you're looking at a postcard and not
+reality (see Figure (#9)).
 
 <pic images/hw2.ps The Lady and the Rental Car>
 
-And the weather is world-class: It's never too hot, yet you never
-need more than shorts and a T-shirt (even late at night). You can
-safely leave socks, undershirts, sweaters, and jackets at home. The
-ocean has such pleasant temperatures that even Michael spends hours
-in it, and I do too, as I'm known to be a North German water rat. Of
-course, every paradise has its downsides, because after all, everyone
-wants to enjoy it, and others want to profit from tourism, so some
-major construction sins have already been committed on Maui. And it's
-so expensive that it makes you dizzy. A fish dish (without drinks,
-appetizers, or dessert) in a somewhat nicer restaurant costs a
-whopping 36 dollars, after all, you don't treat yourself to anything
-else. And the argument that the exclusive location in the middle of
-the ocean makes everything so expensive because everything has to be
-transported there doesn't make sense for fish, since it's right at
-the doorstep. Otherwise, Maui is quite large, so you can always find
-quiet, less touristy spots. The beach in front of our hotel, for
-example, was a beautiful white sandy beach where we were often almost
-alone. On the last evening, we swam here while the sun set into the
-sea before us. It was such a spectacle that my heart almost ached
-from so much beauty. Of course, we also rented a so-called boogie
-board again. It's the smaller version of a surfboard, with the
-difference that you don't have to stand on it but ride the waves
-lying on the board. So it's just right for beginners like us. You
-should know that the waves in Hawaii are something else, after all,
-top surfers from all over the world come here, always in search of
-the perfect wave. In Hawaii, the seasons are also indicated by the
-height of the waves. Winter (October to April) is the season when the
-waves are murderously high at many beaches, and summer (May to
-September) is the time when the ocean shows its friendlier side--it's
-always pleasantly warm. Waves of 10 meters in height are not uncommon
-in winter. At a beach called "Jaws" (the English title of the movie
-"Der weiÃe Hai"), whose location the locals keep strictly secret,
-surfers catapult themselves into waves with jet ski equipment that
-most of us would avoid the ocean by a wide margin (Figure 10, archive
-image).
+Also, the weather there is world-class: It's never too hot, and of course you
+never need more than shorts and a T-shirt (even late at night). You can safely
+leave socks, undershirts, sweaters, and jackets at home. The ocean has such
+pleasant temperatures that even Michael spends hours in it, and I do too, as
+I'm known to be a North German water rat.
 
-<pic images/jaws.ps (Archivfoto) The translation of "Jaws - Jetzt
-spinnen's!" to English is "Jaws - Now they're going crazy!>
+Of course, every paradise has its downsides, because after all, everyone wants
+to enjoy it, and others want to profit from tourism, so some major construction
+sins have already been committed on Maui. And it's so expensive that it makes
+you dizzy. A fish dish (without drinks, appetizers, or dessert) in a somewhat
+nicer restaurant costs a whopping 36 dollars, but hey, you only live once. And
+the argument that the exclusive location in the middle of the ocean makes
+everything more expensive because everything has to be shipped there doesn't
+make sense for fish, since it's right at the doorstep.
+
+Otherwise, Maui is quite large, so you can always find quiet, less touristy
+spots. The beach in front of our hotel, for example, was a beautiful white
+sandy beach where we were often almost alone. On the last evening, we swam
+there while the sun set into the sea before our eyes. It was such a spectacle
+that my heart almost ached from so much beauty. Of course, we also rented a
+so-called boogie board again. It's the smaller version of a surfboard, with the
+difference that you don't have to stand on it but ride the waves lying on the
+board. So it's just right for beginners like us.
+
+You should know that the waves in Hawaii are something else, after all, top
+surfers from all over the world come here, always in search of the perfect
+wave. In Hawaii, the seasons are also indicated by the height of the waves.
+Winter (October to April) is the season when the waves are murderously high at
+many beaches, and summer (May to September) is the time when the ocean shows
+its friendlier side--it's always pleasantly warm. Waves 30 feet high are not
+uncommon during the winter season. At a beach called "Jaws" (the English title
+of the movie called "Der weiße Hai" in German), whose location the locals keep
+strictly secret, surfers catapult themselves into waves with jet ski equipment
+that most of us would avoid the ocean by a wide margin (Figure (#10)).
+
+<pic images/jaws.ps Jaws - (#10) Now they're going crazy!>
 
 We had, so to speak, caught the off-season. The anticipation of
 winter and the high waves was there, but the ocean still appeared
@@ -284,34 +279,35 @@ relatively friendly, much to the disappointment of Michael, who
 annoyed me daily by complaining that the waves weren't high enough
 for him. It was enough for me because when we swam at the beach on
 the first day (without a board at that time), we immediately had to
-use the diving method to avoid being tossed around by the waves like
+use the duck dive method to avoid being tossed around by the waves like
 a cabbage. The diving method works as follows: If the waves are very
 high, you have to dive under the wave before it breaks. If you wait
 too long, masses of water crash down on you, creating a current that
 tosses you around for several seconds, leaving you unsure of which
 way is up. The trick works great, but it takes a bit of courage at
-first. However, when the wave suddenly rolls in meters high in front
-of you, you prefer to dive quickly. And one more thing about Maui: We
+first. However, when the wave suddenly rolls in high in front
+of you, you better dive quickly.
+
+<pic images/hw7.ps (#12) Inside the Volcano crater>
+
+And one more thing about Maui: We
 were also very impressed by the crater landscape "Haleakala," which
 was formed during a volcanic eruption 200 years ago (Figure 12). It's
-hard to describe how unique it looks; I imagine it to be like the
+hard to describe how unique it looks; I'd say it's like being on the
 moon, and I'm probably quite right, as I read in the travel guide
-that American astronauts prepared for their moon flight here because
+that American astronauts prepared for their first moon landing here because
 the landscape is so similar to that on the moon. The crater is as
-large as the New York City borough of Manhattan and is crisscrossed
+large as the New York City borough of Manhattan and it is crisscrossed
 by three hiking trails. We hiked one of these trails, which was not
 entirely easy, as you descend into the crater landscape and
 unfortunately have to return the same way, meaning it's constantly
 uphill, and the air is a bit thinner due to the altitude, as the
-summit is at 3100 meters. However, we were rewarded with a unique
+summit is at 10,000 feet. However, we were rewarded with a unique
 natural spectacle: mist gently covering the crater landscape, the
 rocks shimmering in various shades of red and gray, and a unique
 silence, as hardly anything grows here and even animals can't
-withstand the harsh conditions--so you only hear the rhythm of your
+handle the harsh conditions--so you only hear the rhythm of your
 own footsteps over the hardened lava.
-
-<pic images/hw7.ps The translation of "Im Vulkan" from German to
-English is "In the Volcano.>
 
 Anyone who has ever seen the Grand Canyon or something similar at
 their feet knows how we felt. And since Maui is still fresh in our
@@ -322,6 +318,4 @@ win the prize: a tropical surprise package.
 
 Until next time, let us hear from you!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
