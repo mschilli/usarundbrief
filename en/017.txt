@@ -120,9 +120,7 @@ suspicion via email and won! Congratulations and enjoy the hand-signed artwork!
 
 @Z: New at Netscape
 
-<pic images/ns2.ps The beverage refrigerator at Netscape -- please help yourself, everything is free!>
-
-TODO
+<pic images/ns2.ps (#7) The beverage refrigerator at Netscape -- please help yourself, everything is free!>
 
 <em>Michael</em> 
 Recently, I was walking through the cubicle rows at Netscape again to
@@ -130,42 +128,41 @@ make myself a cappuccino in the kitchen. There's a professional
 espresso machine there that not only creates a top-notch "crema" but
 also has an endless steam wand for frothing milk, hiss, hiss. On one
 of my first days at work, I had to have a colleague explain how to
-use it, but by now I could easily serve at the counter in a cafÃ©. By
-the way, the drinks at Netscape are free and available in unlimited
+use it, but by now I could easily serve at the counter in a cafe.
+
+By the way, the drinks at Netscape are free and available in unlimited
 quantities, in line with an ancient hacker tradition, which,
 incidentally, the now infamous giant "Microsoft" started: In the
 kitchen, there's a huge refrigerator like in a supermarket, with
-hundreds of drink cans (Figure 7); maybe 15 types of "Coke," "Pepsi,"
+hundreds of drink cans (Figure (#7)); maybe 15 types of "Coke," "Pepsi,"
 all the associated diet, caffeine-free, and other combinations, as
 well as more exotic things like "Welch's Lemonade" and "Fruit Punch"
 -- there's something for every taste. The absolute in-drink in hacker
 circles at the moment is "Mountain Dew," a neon green shimmering
 caffeinated soda -- just an insider tip.
 
-As I was once again strolling through the rows, I noticed that
-something had changed in one of the cubicles. There, a blue and white
-flag with the state coat of arms and the inscription "Free State of
-Bavaria" was prominently displayed (Figure 8). Outraged, I exclaimed!
-I looked into the cubicle and addressed the gentleman sitting there
-in English, asking if he knew that I also came from this region.
-Immediately, in a strong Bavarian dialect, he responded, asking if I
-spoke German. It turned out that "Dieter" was from Rosenheim near
-Munich, had been living in the USA for twenty years, and was married
-to an American. He spoke in the original dialect, and we chatted for
-half an hour until Chris (my boss) came by and reminded me that I was
-supposed to be in a meeting, haha!
+As I was once again strolling through the rows, I noticed that something had
+changed in one of the cubicles. There, a blue and white flag with the state
+coat of arms and the inscription "Free State of Bavaria" was prominently
+displayed (Figure (#7)). What on earth was going on there?!  I looked into the
+cubicle and addressed the gentleman sitting there in English, asking if he knew
+that I also came from this region in Germany.  Immediately, in a strong
+Bavarian dialect, he responded, asking if I spoke German. It turned out that
+"Dieter" was from Rosenheim near Munich, had been living in the USA for twenty
+years, and was married to an American. He spoke in the original dialect, and we
+chatted for half an hour until Chris (my boss) came by and reminded me that I
+was supposed to be in a meeting, haha!
 
-<pic images/ns4.ps The translation of "Noch ein Bayer bei Netscape"
-to English is "Another Bavarian at Netscape.>
+<pic images/ns4.ps Another Bavarian at Netscape.>
 
-Here's the translation to English:
+In closing, here's an internal announcement of the newsletter
+editorial team: After the Süddeutsche Zeitung and the computer magazine iX, for
+which I occasionally write, have decided to switch to the new spelling rules,
+the newsletter is following suit -- even though at our age, we are not as
+flexible anymore. But if Günter Grass is against it, I must be for it. Make way
+for Angelika!
 
-"Another note from the newsletter editorial team on our own behalf:
-After the SÃ¼ddeutsche Zeitung and the computer magazine iX, for
-which I occasionally write, have decided to switch to the new
-spelling rules, the newsletter is following suit -- even though at
-our age, we are not as flexible anymore. But if GÃ¼nter Grass is
-against it, I must be for it. Make way for Angelika!
+TODO
 
 @Z: Fotostunde
 
