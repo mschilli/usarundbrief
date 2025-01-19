@@ -1,0 +1,646 @@
+San Francisco, 03-09-2000
+
+@Z: Personalized License Plates
+
+<pic images/pm3.ps Our car with the new license plate>
+
+<em>Michael</em> 
+Surely you've noticed that in the USA there are cars with strange
+license plates. Normally, it's a number, three letters, and then
+three more numbers (e.g., "2ZAP438"), and unlike in Germany, it
+doesn't indicate which city the car is from. Instead, only the design
+and color of the license plate show which state the car is registered
+in. In California, it says "California," in Oregon, there are forests
+depicted. Additionally, each state has a slogan: Arizona -- Sunshine
+State. Hawaii -- Aloha State. Oregon -- where it rains all year long.
+Haha. Just kidding. But: Some license plates don't have the usual
+number-letter combinations, but simply read "CLINTON" or "ARNOLD" or
+"YEAH." It works like this: Just as you can get the license plate
+"M-AX 1964" in Munich by paying a fee to the vehicle registration
+office, in America, you can get any (I emphasize: any!) license plate
+for your car. This costs, depending on the design, between 20 and 30
+dollars a year, which goes to a charitable cause. Now, I've always
+wanted to be the "PERL MAN," yes, in fact, Angelika once gave me a
+fake license plate with this inscription as a gift -- so I asked
+myself: Why not for real?
+
+<pic images/pm2.ps Once again up close: The license plate of the PERL MAN>
+
+I went to the website of the California DMV and checked -- indeed, it
+was still available. You can also print out a registration form
+online, which you then send by mail to the central DMV office in
+Sacramento, California, and barely four weeks later, you receive a
+notification in the mailbox that you can pick up the license plate
+from a DMV office. I scheduled an appointment by phone, as I already
+knew that there is usually a long wait otherwise. This is done with
+an automated system, where you instruct a computer on the other end
+to find an appointment. You then receive a confirmation number, which
+you use to show up at the DMV office at the suggested time. The man
+at the counter almost burst out laughing when he opened the envelope
+with my new license plates, which had "PERL MAN" written in large
+letters. He asked if it referred to the rock band "PEARL JAM," and I
+explained to him that it was a reference to a programming language.
+
+<pic images/plate.ps The internet software currently still allows super funny license plates.>
+
+I also received a new vehicle registration certificate -- everything
+must be in order -- and went outside to attach the new license plates
+to the car with a screwdriver I had brought with me. Since then, I am
+the "PERL MAN." Everyone at Netscape knows who's coming. But there
+are others: The head of the computer maintenance department at
+Netscape, who has been around for a while and has earned quite well,
+drives a Porsche Carrera (which costs about $80,000 here) with the
+license plate "THX AOL" ("Thanks, AOL"). A former colleague of mine
+is a specialist in the Java programming language and drives around in
+his BMW M3 with "MMM JAVA" on the plate. Yes, you have to have fun.
+If you want to find out which license plates are still available in
+California, just check out http://plates.ca.gov/search. You'll see --
+"PERL MAN" is gone, you were too late!
+
+@Z: A New Kind Of Calendar
+
+<pic images/franklin.ps The Franklin Planner in Use>
+
+<em>Michael</em> 
+Recently, I attended a full-day course on time management at
+Netscape, which I had signed up for. The company "Franklin/Covey" offers
+courses where you learn how to use their calendar system. You learn
+how to manage your time effectively, prioritize tasks, and
+distinguish between important and unimportant matters to achieve more
+in less time. It was an impressive presentation.
+
+Typically American, the course was not just some boring lecture but was filled
+with, yes, I would even say, moving moments. For instance, when the instructor
+asked us to anonymously write on small cards what we would do if we had more
+time. Later, after we had almost forgotten about the collected cards, she
+played a video that illustrated how short life is and how important it is to
+focus on the important things. When the video ended, the screen went dark, but
+the music continued, and she began reading the contents of the cards. There
+were things like "If I had more time, I would climb Half Dome in Yosemite
+Park." "If I had more time, I would create the most visited website in the
+world." "If I had more time, I would travel all over Europe with my family."
+"If I had more time, I would write a science fiction novel." One of the cards
+was, of course, mine, and you can guess which one. Anyway -- I was moved.
+
+And I liked the calendar so much that since then, I've
+been running around with a planner larger than A5, writing
+everything, yes, everything in it. It's really clever, this thing; I
+actually accomplish more now and forget nothing because everything is
+in the calendar. The essential point is that you don't separate
+personal events from business ones, so a wedding anniversary or a
+birthday gift is just as important as professional matters. For those
+interested: You can order the stuff at http://www.franklincovey.com,
+it's not exactly cheap, but very well made. Of course, it's only
+suitable for people with self-discipline who don't shy away from
+sitting down at midnight to check off the task list of the past day
+and go through the tasks for the next day, as well as creating a
+weekly plan with the most important goals once a week. Angelika also
+jumped on the bandwagon and is demanding the same calendar, which is
+only available in a specific store in San Francisco. Unfortunately,
+she hasn't yet added this task to a corresponding list due to the
+lack of a calendar system, so this project is still awaiting
+completion, but she's working on it... (Note from the newsletter
+editorial team: On Angelika's birthday on March 2nd, a small calendar
+was on the gift table...).
+
+@Z: Crazy About Sneakers
+
+<pic images/shoes.ps Michael's sneakers>
+
+<em>Michael</em> I am known for only wearing sneakers these days. Of course,
+not just any cheap shoes from the supermarket, but top high-tech sneakers from
+Mizuno. Forget Adidas. Forget Nike. Forget Reebok. I hereby declare the "Mizuno
+Waverider" as the shoe of the season. Of the year. Maybe even of the decade. I
+need to elaborate a bit on my sneaker obsession. Here in America, everyone
+wears sneakers, from teenagers to the elderly, it's completely normal. And if
+you work in the software industry, sneakers are more than just footwear. If
+you're a programmer, you wear sneakers. Period. If you work in sales or
+marketing, you don't. Just like in Germany, where people distinguish between
+those who wear ties and those who don't.  The latest insider term, by the way,
+is "Marketroid" for marketing people, a mix of marketing person and "android,"
+meaning robot. Just a side note.
+
+Back to the sneakers: More than a year ago, I bought a pair of "Mizuno
+Waverider" and was absolutely thrilled. Sneakers have a life cycle of about
+twelve months for me, so I recently set out to buy a new pair as the old ones
+were slowly reaching the stage of decay. But, oh dear! The darn sneaker chain
+"Footlocker," which usually offers a pretty good selection, simply didn't carry
+the model anymore. So I desperately tried to remember which branch of the shoe
+giant I had bought the pair from back then. And then it hit me: at the Valley
+Fair Shopping Center in San Jose, where we shopped with Sylvia and Richard at the time.
+One weekend, when we were once again hanging around the South Bay, we drove
+past this shopping center, and I persuaded Angelika to take a look inside --
+and lo and behold: there was still a small "Footlocker" that even had a pair of
+"Waveriders" in stock.  Eagerly, I asked the salesperson if they had a pair in
+my size 10 1/2 (size 44 in German standards), and he disappeared into the
+stockroom, shortly returning with just such a pair. Even though I had arrived
+in "Mizuno Waverider" sneakers of the same size, I quickly tried on the new
+ones, and, behold, they fit just like the old ones. I was thrilled. Cautiously,
+I asked the young salesperson if he also had a second pair in the same size.
+Again, he briefly disappeared into the stockroom and brought out a second pair.
+I rejoiced. He asked if this was the best sneaker model of my life, and I said
+"yes." The joy was certainly great, and I think the salesperson was allowed to
+take the rest of the afternoon off. I thought I heard champagne corks popping
+in the stockroom as we left the store. By the way, my new Perl book will have a
+small Mizuno logo on the cover with the note "Written in Mizuno Shoes." Oh yes.
+Well, you believe anything.
+
+@Z: Schafkopf in the Valley
+
+<pic images/schaf.ps Eight trumps in hand -- probably the easiest game in Schafkopf.>
+
+<em>Michael</em> 
+I had already told you about my colleague Dieter, who lives in Santa
+Cruz and also works at Netscape -- you know, the one with the
+Bavarian flag in his cubicle. It turns out that Dieter also knows
+Christian, who came from Bavaria to the USA with Siemens and now
+works at Netscape. Among the two thousand employees at Netscape,
+there are, believe it or not, three Germans. We all met for lunch at
+a Mexican burrito place, and it turned out that Christian also
+studied at the Technical University of Munich and often played cards
+in the cafeteria during his studies (he studied almost at the same
+time as I did) -- which your dear narrator, ahem, also loved to do.
+So we planned to find a fourth Bavarian, Ernst from Siemens, and
+persuade him to play Schafkopf in Silicon Valley. A pub was
+immediately chosen: "Hardy's Bavaria" in Sunnyvale, where a Bavarian
+is the host and, according to insider circles, you are allowed to
+play cards -- possibly the only pub in all of America where that's
+possible.
+
+<pic images/pit.ps The cheerful Schafkopf group in Silicon Valley>
+
+For three weeks, emails went back and forth, and there was always
+someone who couldn't make it. Then finally, on a Monday, suddenly
+everyone was available. Only problem: "Hardy's Bavaria" is closed on
+Mondays! So we played at Christian's house in Cupertino. For those of
+you in the know: Sauspiel 10 cents, Solo 25, runner in Solo from
+three, in Wenz from two, everyone can double up, no color Wenz, with stock
+if no one plays, shot takes over. A successful evening... and now
+Christian has set up the mailing list schafkopf@netscape.com at
+Netscape, where it's decided when the next game round will take
+place.
+
+So, if you're ever in the area and know how to play Schafkopf,
+sign up. I can only say that I play as well as ever, and I was able
+to keep up with the skilled card players who even counted points and
+(!) trumps, even though I still play "by feel." There's nothing like
+a six-year intensive college training! An American colleague at Netscape
+recently asked me how long it takes to become a reasonably good
+Schafkopf player, and after some thought, I replied that it would
+take seven or eight years of continuous training. Indignantly, he
+turned away! No patience, these people. But honestly, it's really
+true. You learn the rules faster, of course, but to actually win, it
+takes more. Much more. Oh, yes. Ha! I can tell you...
+
+@Z: Internet Connection in the Space Age
+
+<em>Michael</em> 
+In the internet age, there is, of course, no resting or hesitating --
+you always have to stay one step ahead of the competition. And from
+Europe (specifically from a gentleman in Switzerland), I heard some
+mild mockery regarding my internet connection. Because I was still
+using a regular modem, while nowadays (greetings to Oldenburg: even
+ISDN is Stone Age technology!) people have either cable modems or
+DSL. "Enough!" I shouted and called our telephone company "Pacific
+Bell."
+
+After being on hold for 20 minutes, a friendly lady took my
+order for DSL. However, when I mentioned that I wanted the internet
+connection not on Windows 98 but on the mega-trendy operating system
+Linux, she got a bit flustered and consulted a specialist, who
+confirmed that it was no problem. It should be noted that Linux is
+currently being discussed as a real (and free!) alternative to
+Microsoft products like Windows 95 or 98 or whatever. Not a day goes
+by without it appearing in the newspaper or on the TV news. The
+phenomenon: This thing was developed by people on the internet in
+their free time and made available to the public for free -- it still
+has its rough edges, but this model of software development, where
+people sit down in their free time and contribute to the "community"
+(the internet community), is making its way into the press. By the
+way, the author of these lines has been using Linux for about 8 years
+and develops things in his free time, which he gives to the
+"community" without charging money. But enough hype!
+
+In any case,
+Linux is still not as well-known as Windows -- but the lady from Pac
+Bell said it was fine. In 14 days, someone would come by, and I could
+choose whether I wanted to wait for the technician in the morning
+(8-12) or in the afternoon (12-5). It should be noted that "Pac Bell"
+here in California has about the same ring as saying "Siemens" in
+Germany. Oops, I meant to say "Deutsche Bundespost." But I heard that
+they were privatized too. Anyway, you know what I mean. A week later,
+on a Friday, I was suddenly told that someone would come by on
+Monday. I was allowed to work from home on Monday and could wait for
+the service person. He came at 2 PM and had heard of "Linux" but said
+he lacked the experience to install DSL on it. Fine, I said, then
+let's do it on Windows, which I run as a second operating system on
+my machine. That went smoothly -- almost, because he injured his
+finger while cutting a cable, but luckily I had band-aids and
+disinfectant at home, and he was treated on the spot. I got a modem
+that looks like a warp generator from the Starship Enterprise, and
+through the regular phone line, both a data signal for the computer
+and normal phone traffic come through -- in short: you can make phone
+calls while the computer is online.
+
+Since we have a second phone
+line, now even two people can make calls simultaneously while one
+browses the internet! And you surf the internet about 50 times faster
+than with a modem. It's really impressive: you click somewhere and --
+bam! -- the page is there. This is, of course, also because the most
+important parts of the internet are located here in California, and,
+for example, Yahoo is just a few miles around the corner. Oh yes:
+with the help of the internet, I was able to set it up on Linux as
+well, no problem. Naturally, because people on the internet helped
+me. For free. If there is a society of the 21st century anywhere,
+it's here. In cyberspace. By the way, this newsletter is being
+created on Linux. And so are all my magazine articles and books. Back
+to the DSL connection: I had to sign a one-year contract, costing $49
+a month. Well, I can deduct it from my taxes. Not from regular income
+tax, since the concept of work-related expenses is foreign to
+Americans, but because of my writing activities, whose modest
+earnings I also have to pay taxes on here in the USA, but that's just an
+aside.
+
+A few days later, I was happily surfing the internet at top speed,
+when I heard a radio advertisement from Pacific Bell during my drive
+from Mountain View to San Francisco: As a special offer, DSL was now
+available for only $39 a month (that's $10 less!) if ordered by April
+30th. Furious, I called Pacific Bell the next day, after all, this is
+America. "This is America!" is the phrase used to make it clear that
+things are possible here that would only cause raised eyebrows in
+Germany: "Have it your way" is one of these principles. In a
+restaurant, the menu is seen as merely a well-intentioned suggestion,
+and you order according to your preferences: "I would like the steak,
+but instead of mashed potatoes, I'd prefer French fries, and for the
+salad, just tomatoes on a separate plate, blue cheese dressing, and
+also some rye bread." In the Suppenküche, the German restaurant in
+San Francisco, I once saw an American who ordered dumplings on a
+separate plate with some sausage dish because he had tried them
+somewhere before. Imagine this scene in the Schwabinger Weißbierhaus
+in Munich -- the waiter would be dancing the tango. "This is America"
+also means that you can return anything and everything with the
+flimsiest of excuses. You say, "My wife doesn't like the new VCR,"
+and it is promptly taken back without question, and the purchase
+price is refunded. And "This is America" also means that I called
+Pacific Bell the next day and said that I didn't see why I should
+have to pay $49 while all new customers were paying $39 -- and
+presto, the lady on the phone said she would immediately change my
+contract to $39. Well, we all got lucky there.
+
+@Z: Electric toothbrush
+
+TODO
+
+<em>Michael</em> 
+And here's some more exciting news. You've all been waiting for this.
+Sit down. Here it comes: We bought a new electric toothbrush. "Oh my,
+oh my," you might say now, but it really is exciting: The company
+"Sonicare" manufactures an electric toothbrush that moves its brush
+head so quickly that it creates ultrasonic waves. I bought it right
+away at Costco, only a hundred dollars! Brush your teeth with it for
+two minutes and you'll feel like you've just come from the dentist,
+who treated you with that thing that always goes "eee-eee-eee." I
+keep licking my teeth all day, it's that good. Buy it immediately!
+More information is available at http://www.sonicare.com.
+
+<pic images/sonicare.ps The new toothbrush>
+
+@Z: Neujahr
+
+<em>Angelika</em> 
+Enough with the commercial chatter! Here comes Angelika: Surely
+you've already heard that San Francisco was also spared from the
+predicted catastrophes and entered the new millennium well (including
+the narrators). Due to the astronomical prices everywhere and the
+announced crowds, Michael and I stayed at home for our traditional
+fondue in cozy togetherness. It was lovely! At midnight, we could
+watch the gigantic fireworks from our window (with the music "I Lost
+My Heart in San Francisco" playing in the background, of course). The
+whole city was glowing.
+
+<pic images/sfworks1.ps Year 2000 fireworks in San Francisco ...>
+
+It's pretty clear that we can never move out of our apartment because
+the view from our window is simply priceless. It was also funny when,
+at 11 PM, our Mexican neighbor rang the doorbell with his daughter
+and a canister of tequila in tow to toast with us. He had smuggled
+the plastic container in his suitcase from Mexico, where he was on a
+home vacation with his family. Michael was initially worried about
+going blind from the moonshine, but -- as you can see -- we survived
+the wonderfully smooth tequila just fine. On New Year's Day, Michael
+was on call for AOL in the morning, meaning he had to be reachable by
+phone to log into the company via our home computer in case any Y2K
+problems arose. But, surprise, surprise, nothing happened, and no one
+needed the top hacker. As compensation, there was an extra day off,
+which we will use in March for a long weekend. Hooray!
+
+<pic images/sfworks2.ps ... from our living room.>
+
+Regarding New Year's Eve: The New Year's Eve surprise package was won
+by Martin Weishaupt. He managed to solve the November quiz question,
+"How do you say 'thank you' in Tahitian?" Many of you guessed "merci"
+because Tahitians speak French as an official language -- but we were
+looking for the expression in the native language: it's "mauruuru,"
+as you can find out with a quick internet search. We warmly
+congratulate the lucky winner!
+
+@Z: Fotonews
+
+<em>Angelika</em> 
+As part of one of my courses at Berkeley University, an exhibition
+took place again in January and February: Two of my photos were
+hanging on the wall. This time, they were cleverly arranged
+black-and-white self-portraits that showed some skin without
+revealing too much. I found it highly amusing, and of course, I won't
+spoil the fun by providing photos. That would be going too far!
+
+<pic images/ucb.ps The newspaper advertisement for the photo
+exhibition>
+
+@Z: Mayoral elections and same-sex marriage
+
+<em>Angelika</em> 
+Because today I particularly want to focus on political topics: The
+mayor of San Francisco will continue to be Willie Brown -- the
+candidate Tom Ammiano lost the runoff election on December 14th (see
+November newsletter). I find that very unfortunate. I would have
+preferred Tom Ammiano as mayor. It's a real pity when you aren't
+allowed to vote yourself. That's when you realize what a privilege it
+is to be able to vote. I have long been in favor of allowing
+foreigners who live in a particular country for an extended period to
+vote, at least on a local level. And I don't mean this just in
+relation to the USA, but quite generally. I am also firmly convinced
+that elections in the USA would turn out completely differently if
+all Green Card holders (American permanent work and residence
+permits) were allowed to vote (just a quick reminder: even in the
+USA, only American citizens are allowed to vote).
+
+But that's just a side note. Back to Tom Ammiano: It is suspected
+that he couldn't succeed in the election because, for many voters, it
+was too much that he openly acknowledged his homosexuality. It's like
+saying: We are liberal, but a homosexual mayor is a bit too much. I'm
+not sure if that's true, because San Francisco is known as the
+stronghold of the homosexual movement, and Tom Ammiano already holds
+a high political office in the city council, which he continues to
+hold. On the other hand, unfortunately, one hears and reads more
+frequently about discriminatory attacks against homosexuals lately.
+Especially the American political right (and I'm not referring to
+right-wing extremists here), which is strongly supported by various
+American churches, has declared war on the homosexual movement. In my
+opinion, this is because conservatives feel extremely threatened as
+homosexuals suddenly demand the right to marriage and family. For
+years, the homosexual movement in San Francisco and elsewhere was
+more about being tolerated and accepted--but also distinguishing
+themselves from the bourgeois society. Nowadays, more and more
+same-sex couples want to marry or have decided to have children
+through adoption or artificial insemination, meaning they want to
+start normal families. In this light, the so-called "Knight
+Initiative" should also be seen. As you may know, a new president
+will be elected in America this year. Therefore, primaries are
+currently taking place in various states. On March 7, it's
+California's turn. This date is not only used for the primaries but
+also to vote on so-called "propositions" (comparable to referendums).
+Propositions are numbered for brevity, and you see signs everywhere
+promoting "No on 5" and "Yes on 42." The Knight Initiative
+("Proposition 22") was introduced by a senator named Knight. Knight
+wants voters to support the inclusion of the following sentence in
+California's law books: "Only marriage between a man and a woman is
+valid or recognized in California.
+
+<pic images/22.ps Advertisement for Proposition 22 in the front yard
+of an American>
+
+Now, it must be noted that neither in California nor in any other
+American state is same-sex marriage currently legalized, meaning the
+statement is actually redundant. Therefore, critics believe that
+there are two entirely different motives behind the Knight
+Initiative. Firstly, there is a concern that other states might
+legalize same-sex marriage in the near future (this could indeed
+happen in the state of Vermont), and then California would be
+obliged, under current law, to recognize a marriage between two
+homosexuals, for example, one that was conducted in Vermont. Hence,
+the idea of the Knight Initiative is to explicitly state once again
+that only a marriage between a woman and a man is valid in
+California. Secondly, many fear that the Knight Initiative aims to
+undermine, so to speak, the achievements that same-sex couples have
+in most cities in California even without a state marriage, such as
+the ability to adopt children, or for the same-sex partner to be
+considered like a married spouse in health insurance (a common
+practice in all Silicon Valley companies and in San Francisco), as
+well as visitation rights in hospitals, meaning being regarded as a
+family member, etc. Incidentally, Knight himself has a son who openly
+acknowledges his homosexuality and publicly opposes his father's
+initiative. This raises the suspicion that the father cannot cope
+with the fact that his own son is homosexual. It's all very sad. The
+Knight Initiative is also heavily financially supported by the Mormon
+Church (among others), which is known to be very wealthy in the USA.
+Money plays a crucial role in getting referendums passed. This
+financial involvement can indeed have consequences, as churches are
+largely exempt from taxes. They are not allowed to actively finance
+political initiatives with their church funds. But that's just an
+aside. One can only hope that California voters will vote against the
+Knight Initiative. We will let you know in our next newsletter.
+(Editor's note: Shortly before the newsletter went to press, voters
+voted 60% in favor and 40% against the proposal. The sentence will
+therefore be included in the legal text.)
+
+@Z: Präsidentenwahlen
+
+<em>Angelika</em> 
+Then you might have also heard in Germany that Bill Clinton gave his
+last State of the Union address, as his term is soon coming to an
+end. As mentioned above, there are presidential elections in America.
+This State of the Union report takes place annually and, as the name
+suggests, it's about the current state of America. Naturally, the
+President also uses the speech to present what he intends to do in
+the future. Clinton will soon have to step down, as a president in
+America can only be elected twice in a row and then has to make way
+for a new one. Nevertheless, he threw around reform ideas -- which
+means absolutely nothing, as Clinton has often been unable to
+implement his plans, since the American Congress is known to have a
+Republican majority, which has somewhat different ideas than the
+Democratic president. As you might notice, I followed the speech
+attentively on television. More precisely, I stared at the screen,
+fascinated by how different such a speech is compared to the German
+Bundestag. First of all, I was once again unpleasantly struck by the
+fact that in the USA, it is completely normal and even a must to be
+patriotic. Following the motto: America, the promised land, the
+supernation that everyone admires. Of course, Clinton has every
+reason to boast a little, after all, the record is not bad: The state
+budget is showing surpluses, the country is experiencing the longest
+economic boom in its history. Crime has decreased, the unemployment
+rate is extremely low, much lower than in Germany. Millions of new
+jobs have been created. But the whole thing also has a price, and
+many things are extremely amiss. Among other things, the healthcare
+and education systems (especially shameful when you have budget
+surpluses). And many of the newly created jobs offer extremely poor
+pay and no social security. It was also interesting that Clinton
+appeared quite emotional. You could often see tears in his eyes, both
+from emotion and from sadness. Naturally, he also thanked his wife
+Hillary for her tireless support, which seemed a bit strange, as his
+affair with intern Monica Lewinsky is not yet forgotten. Some cynics
+even suspect that Hillary Clinton will immediately file for divorce
+as soon as Clinton's term is over. It will be interesting to see.
+
+@Z: Benetton and the death penalty
+
+<em>Angelika</em> 
+Currently, the advertising campaign of the Italian textile company
+Benetton is a hot topic here. Benetton is known for shocking the
+world with extraordinary and provocative advertising campaigns. This
+time, photos of death row inmates in U.S. prisons are making their
+way around the globe. Benetton aims to draw attention to the issue of
+the death penalty in the United States. The focus is not on whether
+the inmates might be innocent, but on the general question of whether
+a state has the right to use death as a form of punishment. The
+prosecutor's office in the state of Missouri has already filed a
+lawsuit against Benetton, and the American department store chain
+"Sears" has decided to stop offering Benetton clothing in its stores.
+
+<pic images/benn.ps The phrase "Todeskandidaten in der
+Benetton-Werbung" translates to "Death row inmates in the Benetton
+advertisement" in English.>
+
+I just hope that Benetton remains steadfast. Anyone who wants to view
+the photos can find them at www.benetton.com. Here, too, reference is
+made once again to the election campaign. No presidential candidate
+can "afford" to be against the death penalty if they want to win.
+George Bush, the Republican presidential candidate and governor
+(similar to our Minister President) of the state of Texas, recently
+rejected the clemency request of a woman over 60, whose death
+sentence was therefore carried out. It really felt like he was using
+that for his campaign. By the way, Texas is also the state with the
+most executions in 1999. A very macabre and sad first place, although
+Bush certainly sees it differently. It really makes you anxious and
+worried when you consider that he is very likely to become the next
+President of the USA.
+
+@Z: Who marries a millionaire?
+
+<em>Angelika</em> 
+And then we were allowed to witness the pinnacle of tastelessness on
+American television. However, this will certainly not prevent German
+television from producing a similar show for the German market, since
+every American show has always been copied, no matter how bad it may
+be. The show was titled "Who Wants to Marry a Multi-Millionaire?" and
+was broadcast by the American network Fox. Fifty women competed
+against each other. The prize was to marry the super-rich bachelor in
+front of the camera. One of the rules is that none of the women are
+allowed to have met or even seen this potential husband beforehand.
+The final round is, so to speak, the highlight of the show. This is
+when the identity of the multi-millionaire is revealed for the first
+time, as he appears on stage and proposes to the woman he likes best
+among the finalists. And then, of course, they get married right
+there on the spot. It's legally binding, as the show takes place in
+the state of Nevada (where Las Vegas is), where such things are
+possible.
+
+<pic images/milli.ps Freshly married on TV ...>
+
+I emphasize once again: The woman only knows that the man has money.
+Game rounds include, for example, women parading on stage in bikinis
+while Mr. Multimillionaire awards points. Family members and friends
+are also allowed to give points. In hindsight, the whole thing might
+not have turned out to be such a brilliant idea after all. The
+ratings were huge, but Mr. Multimillionaire had already faced a
+lawsuit for beating up one of his girlfriends. His wealth is also
+smaller than stated. It seems the network didn't do its homework
+properly. The marriage will definitely be annulled. The American
+media were on cloud nine, as they could report on this event for
+days. In the end, the jilted bride agreed to do an interview with
+"Good Morning America." And she actually said that she only
+participated to get a paid vacation (she meant the honeymoon). How
+stupid can one be? And was the show's title perhaps: "How to Train to
+Be a Prostitute?" For those interested in the story: A rich selection
+of "links" leading to reports from various news agencies can be found
+at http://pw1.netcom.com/~warnerwa/rockwell.html.
+
+<pic images/schmooch.ps The phrase "... und gleich
+schmoopi-schmoopi!" can be translated to English as "... and
+immediately schmoopi-schmoopi!" The term "schmoopi-schmoopi" doesn't
+have a direct translation and seems to be a playful or affectionate
+expression, possibly similar to "smoochy-smoochy" or "cuddly-cuddly"
+in English.>
+
+@Z: About Visa and Green Card
+
+<em>Angelika</em> 
+But now for something completely different: As we have mentioned
+several times, our visa expires at the end of July this year. Since
+we would like to stay a bit longer, we have applied for an extension,
+which is still not processed, as the American immigration authority
+is not exactly the fastest. In recent weeks, everyone has been
+looking towards America again, as Chancellor SchrÃ¶der announced
+plans to bring foreign computer experts into the country. We laughed
+ourselves silly when suddenly the term "Green Card" was on everyone's
+lips in Germany. It seems to be particularly trendy to use American
+terms, regardless of whether they are used correctly or incorrectly.
+In America, a Green Card refers to a permanent work and residence
+permit. However, Gerhard SchrÃ¶der only has temporary permits in
+mind. That's exactly what Michael has here, and it's called an H-1B
+visa. We didn't find it funny at all that the German press acted as
+if one could get a Green Card in America on a silver platter.
+Especially when you are going through the highly complicated, lengthy
+Green Card process yourself and are also anxiously waiting for your
+visa extension, a huge amount of anger arises over so much
+misinformation. Therefore, I want to do a bit of educational work.
+I'll save how to get a Green Card in America for the next newsletter.
+So today, the episode on how the H-1B visa works. The H-1B visa is
+issued to highly qualified foreigners. Initially, you get it for
+three years, with the possibility of extending it for another three
+years. In total, you can work in the USA on an H-1B visa for six
+years. After that, no amount of begging and pleading will help; there
+is no further extension. If you don't have a Green Card in hand after
+six years, you must leave the country. This visa program was
+introduced in 1990 to fill positions for which no Americans can be
+found, meaning you only have a chance to work on an H-1B visa if you
+have a profession that is in short supply in America (e.g., software
+engineer). One of the prerequisites for obtaining this type of visa
+is having a high level of education (i.e., a completed degree) and/or
+relevant professional experience. As mentioned, Americans also want
+to bring highly qualified people into the country, not unskilled
+workers. Unfortunately, the prejudice still persists that it is easy
+to obtain the necessary papers in the USA. Completely wrong! For the
+H-1B visa, the "Department of Labor" (American labor authority) first
+checks whether there really is no American available for the
+advertised job. The American employer applying for the visa for the
+foreign employee must demonstrate that they are paying the
+industry-standard wage and even post the job offer within the company
+for two weeks so that other employees have the opportunity to object.
+If the Department of Labor gives its consent, all required documents
+are submitted in a second step to the immigration authority, which
+then checks whether everything is in order. It takes at least six to
+eight weeks to complete all the paperwork, during which time you are
+not allowed to work. The immigration authority also issues only a
+certain number of H-1B visas per year to limit the influx of foreign
+workers. Currently, 115,000 visas are issued per year. If the quota
+is exhausted, which is currently the case after just a few months,
+you're out of luck. You have to wait until the next year. There are
+so many open positions in the computer industry here that companies
+would like to hire even more foreign specialists and are advocating
+for an increase in the visa cap. The issue has become so pressing
+that it has even become a campaign topic, as companies are losing
+money because positions cannot be filled. Another thing to consider
+with the H-1B visa: It can only be applied for once you have found an
+American company willing to employ you, as the company submits the
+application. This means that the work permit is only valid for this
+company and the specifically advertised job. If you lose your job,
+you must leave the country within 10 days, and the company is obliged
+to pay for the flight. Or if you no longer like the job and look for
+another one, the bureaucratic process starts all over again, meaning
+a new H-1B visa must be applied for. By the way, my visa is called
+H-4 and, as you already know, allows me to stay in the USA--but not
+to work.
+
+So, enough for today! We hope that we, your intrepid newsletter
+reporters, were able to whisk you away from everyday life for a few
+minutes and delight you with insider information from the land of
+unlimited possibilities. We will stay a little longer in sunny
+California--not just because of the weather, but because we love the
+daily adventure.
+
+Until next time!
+
+The translation of "Angelika und Michael" to English is "Angelika and
+Michael.
+
