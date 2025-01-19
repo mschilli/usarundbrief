@@ -147,9 +147,9 @@ download the latest software for free at http://www.mp3.com. And one
 more thing from the internet world: You can now read the newsletter
 online at <LINK>https://usarundbrief.com</LINK>. But enough technobabble!
 
-TODO
-
 @Z: Taxes and social security in the USA
+
+<pic images/data.ps (#1) Taxes in America>
 
 <em>Michael</em> 
 Back to the rough everyday life! Something I've always wanted to get
@@ -157,13 +157,13 @@ off my chest: People pay taxes in America too, and not just a little!
 In Germany, everyone looks to the USA and complains: Oh my, oh my,
 how much tax do I have to pay! And how complicated is the annual tax
 return! Over there, everything is much better and a thousand times
-simpler! But I tell you: Anyone who has ever filled out a 1040 form
-from the American tax authority IRS (Internal Revenue Service) will
+simpler! But I'll tell you: Anyone who has ever filled out a 1040 form
+for the American tax authority IRS (Internal Revenue Service) will
 never complain about German taxes again. Although the agency is
 up-to-date and provides the forms on the internet, where you can
 download and print them at home, when you take a closer look, you
 come to the conclusion that the IRS employs crazy people who come up
-with these monsters.
+with such monstrous bureaucracy.
 
 Our tax situation here has become so complicated--due to the extra
 kickbacks from the sale of my books in Germany--that I can no longer
@@ -176,7 +176,7 @@ regulations, and can only be operated by Angelika.
 The tax is divided into two components, simply put: the "Federal
 Tax," which is the actual income tax, and the "State Tax," which in
 our case, since we live in sunny California, is called the
-"California Tax." It's like having to pay extra taxes if you lived in
+"California Tax." It's like having to pay extra German taxes if you lived in
 Bavaria! However, it should not be confused with the sales tax, which
 is also levied depending on the state but is collected at the store
 and often surprises tourists because you end up paying more at the
@@ -188,7 +188,7 @@ the same everywhere.
 
 Using a complex calculation program and space-age computer
 technology, I have illustrated in Figure (#1) how the total tax rate
-in California depends on annual gross income. The segmented columns
+in California depends on annual gross income. The stacked columns
 show how much of the tax rate is federal tax and how much is state
 tax. For example, if someone earns, say, $75,000 a year, the tax rate
 is still a manageable 25% (if married), but top earners who make half
@@ -204,61 +204,58 @@ only specific fees for certain services. At AOL and the insurer
 United Healthcare, there are three options: In the first option, you
 don't pay any health insurance premium yourself, but you can only go
 to contracted doctors--in San Francisco, this is not a problem since
-there are hundreds of doctors in the "network." However, if you are
-somewhere remote and need to see a doctor, it is unlikely that the
-nearest one works with the insurance you are covered by, and you
-would have to pay everything out of pocket in an emergency. On the
-other hand, if you pay an additional $80 per month (for two people),
-you are also covered for cases where you need to see a non-contracted
-doctor in an emergency, although with a deductible. Our plan is
-called "Point-of-Service," as we must always first contact our
-primary care physician, who then, if necessary, grants permission for
-us to see a specialist. There is a third plan
-(Preferred-Provider-Network, PPO), which costs about twice as much
-and allows the patient to go directly to any doctor on the insurer's
-"preferred list" without consulting the primary care physician. For
-each of the plans, a $10 fee must be paid for each visit to the
-primary care physician, $20 for a specialist, and $50 for the
-emergency room at the hospital.
+there are hundreds of doctors in the "network."
 
-All in all, the financial settlement for the patient can be quite
-nerve-wracking. Most doctors somehow try to charge more than the set
-rates, to which the health insurance simply pays the set rate. Then,
-the billing services of the medical practices send reminders to the
-patients, sometimes rudely pointing out that it is ultimately the
-patient's responsibility to pay the full bill. As a result, the
-patient has to mediate between the insurance and the medical
-practice, and so on and so forth--it's enough to make you tear your
-hair out! We once had a case where such a dispute over 80 dollars
-dragged on for over a year. It eventually turned out that the billing
-service of the medical practice had submitted the case to the wrong
-insurance company, but by the time the case was resolved, I had to
-call at least five times and explain to totally clueless clerks how
-to do their job. I felt like I was in kindergarten.
+However, if you are somewhere remote and need to see a doctor, it is unlikely
+that the nearest one works with the insurance you are covered by, and you would
+have to pay everything out of pocket in an emergency. On the other hand, if you
+pay an additional $80 per month (for two people), you are also covered for
+cases where you need to see a non-contracted doctor in an emergency, although
+with a deductible. Our plan is called "Point-of-Service," as we must always
+first contact our primary care physician, who then, if necessary, grants
+permission for us to see a specialist. There is a third plan
+(Preferred-Provider-Network, PPO), which costs about twice as much and allows
+the patient to go directly to any doctor on the insurer's "preferred list"
+without consulting the primary care physician. For each of the plans, a $10 fee
+must be paid for each visit to the primary care physician, $20 for a
+specialist, and $50 for the emergency room at the hospital.
 
-<pic images/data.ps (#1) Taxes in America>
+All in all, patient billing can be quite nerve-wracking. Most doctors somehow
+try to charge more than the set rates, to which the health insurance simply
+pays the set rate. Then, the billing services of the medical practices send
+reminders to the patients, sometimes rudely pointing out that it is ultimately
+the patient's responsibility to pay the full bill. As a result, the patient has
+to mediate between the insurance and the medical practice, and so on and so
+forth--it's enough to make you tear your hair out! We once had a case where
+such a dispute over 80 dollars dragged on for over a year. It eventually turned
+out that the billing service of the medical practice had submitted the case to
+the wrong insurance company, but by the time the case was resolved, I had to
+call at least five times and explain to totally clueless representatives how to
+do their job. I felt like I was in kindergarten.
 
 There is still a social insurance, the "Social Security Tax," which
-amounts to 6.2% of income, up to an annual salary of $65,000, and
-serves as old-age and disability insurance. However, it only provides
+amounts to 6.2% of income, capped at an annual salary of $65,000, and
+serves as retirement and disability insurance. However, it only provides
 a minimal pension at a welfare level, and no one in their right mind
-relies on it; everyone sets aside private money to secure their
+relies on it; everyone sets aside private funds to secure their
 retirement financially. The government offers tax advantages with the
-so-called 401K plan, allowing you to save money relatively tax-free.
+so-called 401K plan, allowing you to save money tax-free until you
+take some out, at which point it is taxed.
 Amusingly, almost all American retirement money is invested in stock
 funds, and in the event of a stock market crash, the entire American
 pension system would collapse like a house of cards. But in the last
 thirty years or so, stocks have only gone up, and everyone assumes
 that this will continue for the next thirty years.
 
-There is also a government health insurance: One pays 1.45% of the
-gross salary, and then the so-called "Medicare" kicks in at
-retirement age (65, 67 for those born after 1960). Additionally,
-Medicare provides the most necessary services for welfare recipients
-who are chronically ill. Otherwise, there is no mandatory health
-insurance, which results in a third of Americans having no health
-insurance and, if they become seriously ill, they might really have
-to beg -- which can be seen plenty on the streets.
+There is also a government health insurance: One pays 1.45% of the gross
+salary, and then the so-called "Medicare" kicks in at retirement age (65).
+Additionally, Medicaid provides the basic services for welfare recipients who
+are chronically ill. Otherwise, there is no mandatory health insurance, which
+results in a third of Americans having no health insurance at all and, if they
+become seriously ill, they might go bankrupt and become homeless -- which can
+be seen plenty on the streets.
+
+TODO
 
 @Z: Religionsfreiheit
 
