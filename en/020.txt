@@ -480,12 +480,12 @@ affair with intern Monica Lewinsky is not yet forgotten. Some cynics
 even suspect that Hillary Clinton will immediately file for divorce
 as soon as Clinton's term is over. It will be interesting to see.
 
-TODO
-
 @Z: Benetton and the death penalty
 
+<pic images/benn.ps Death row inmates in Benetton advertisement
+
 <em>Angelika</em> 
-Currently, the advertising campaign of the Italian textile company
+Currently, the advertising campaign of Italian textile company
 Benetton is a hot topic here. Benetton is known for shocking the
 world with extraordinary and provocative advertising campaigns. This
 time, photos of death row inmates in U.S. prisons are making their
@@ -497,16 +497,12 @@ prosecutor's office in the state of Missouri has already filed a
 lawsuit against Benetton, and the American department store chain
 "Sears" has decided to stop offering Benetton clothing in its stores.
 
-<pic images/benn.ps The phrase "Todeskandidaten in der
-Benetton-Werbung" translates to "Death row inmates in the Benetton
-advertisement" in English.>
-
 I just hope that Benetton remains steadfast. Anyone who wants to view
 the photos can find them at www.benetton.com. Here, too, reference is
 made once again to the election campaign. No presidential candidate
 can "afford" to be against the death penalty if they want to win.
 George Bush, the Republican presidential candidate and governor
-(similar to our Minister President) of the state of Texas, recently
+(similar to our German Ministerpräsident) of the state of Texas, recently
 rejected the clemency request of a woman over 60, whose death
 sentence was therefore carried out. It really felt like he was using
 that for his campaign. By the way, Texas is also the state with the
@@ -515,12 +511,14 @@ Bush certainly sees it differently. It really makes you anxious and
 worried when you consider that he is very likely to become the next
 President of the USA.
 
-@Z: Who marries a millionaire?
+@Z: Who Wants To Marry a Millionaire?
+
+<pic images/milli.ps Freshly married on TV ...>
 
 <em>Angelika</em> 
 And then we were allowed to witness the pinnacle of tastelessness on
 American television. However, this will certainly not prevent German
-television from producing a similar show for the German market, since
+broadcasters from producing a similar show for the German market, since
 every American show has always been copied, no matter how bad it may
 be. The show was titled "Who Wants to Marry a Multi-Millionaire?" and
 was broadcast by the American network Fox. Fifty women competed
@@ -535,7 +533,7 @@ there on the spot. It's legally binding, as the show takes place in
 the state of Nevada (where Las Vegas is), where such things are
 possible.
 
-<pic images/milli.ps Freshly married on TV ...>
+<pic images/schmooch.ps ... and immediately schmoopi-schmoopi!
 
 I emphasize once again: The woman only knows that the man has money.
 Game rounds include, for example, women parading on stage in bikinis
@@ -555,28 +553,22 @@ Be a Prostitute?" For those interested in the story: A rich selection
 of "links" leading to reports from various news agencies can be found
 at http://pw1.netcom.com/~warnerwa/rockwell.html.
 
-<pic images/schmooch.ps The phrase "... und gleich
-schmoopi-schmoopi!" can be translated to English as "... and
-immediately schmoopi-schmoopi!" The term "schmoopi-schmoopi" doesn't
-have a direct translation and seems to be a playful or affectionate
-expression, possibly similar to "smoochy-smoochy" or "cuddly-cuddly"
-in English.>
-
 @Z: About Visa and Green Card
 
 <em>Angelika</em> 
 But now for something completely different: As we have mentioned
 several times, our visa expires at the end of July this year. Since
 we would like to stay a bit longer, we have applied for an extension,
-which is still not processed, as the American immigration authority
+which still hasn't been processed, as the American immigration authority
 is not exactly the fastest. In recent weeks, everyone has been
-looking towards America again, as Chancellor SchrÃ¶der announced
-plans to bring foreign computer experts into the country. We laughed
+looking towards America again, as Chancellor Schröder announced
+plans to bring foreign computer experts to Germany. We laughed
 ourselves silly when suddenly the term "Green Card" was on everyone's
 lips in Germany. It seems to be particularly trendy to use American
 terms, regardless of whether they are used correctly or incorrectly.
+
 In America, a Green Card refers to a permanent work and residence
-permit. However, Gerhard SchrÃ¶der only has temporary permits in
+permit. However, Gerhard Schröder only has temporary permits in
 mind. That's exactly what Michael has here, and it's called an H-1B
 visa. We didn't find it funny at all that the German press acted as
 if one could get a Green Card in America on a silver platter.
@@ -584,14 +576,17 @@ Especially when you are going through the highly complicated, lengthy
 Green Card process yourself and are also anxiously waiting for your
 visa extension, a huge amount of anger arises over so much
 misinformation. Therefore, I want to do a bit of educational work.
+
 I'll save how to get a Green Card in America for the next newsletter.
-So today, the episode on how the H-1B visa works. The H-1B visa is
+Today's episode is about how the H-1B visa works. The H-1B visa is
 issued to highly qualified foreigners. Initially, you get it for
 three years, with the possibility of extending it for another three
 years. In total, you can work in the USA on an H-1B visa for six
 years. After that, no amount of begging and pleading will help; there
 is no further extension. If you don't have a Green Card in hand after
-six years, you must leave the country. This visa program was
+six years, you must leave the country.
+
+This visa program was
 introduced in 1990 to fill positions for which no Americans can be
 found, meaning you only have a chance to work on an H-1B visa if you
 have a profession that is in short supply in America (e.g., software
@@ -600,14 +595,15 @@ is having a high level of education (i.e., a completed degree) and/or
 relevant professional experience. As mentioned, Americans also want
 to bring highly qualified people into the country, not unskilled
 workers. Unfortunately, the prejudice still persists that it is easy
-to obtain the necessary papers in the USA. Completely wrong! For the
+to complete the necessary paperwork. Completely wrong! For the
 H-1B visa, the "Department of Labor" (American labor authority) first
 checks whether there really is no American available for the
 advertised job. The American employer applying for the visa for the
 foreign employee must demonstrate that they are paying the
 industry-standard wage and even post the job offer within the company
 for two weeks so that other employees have the opportunity to object.
-If the Department of Labor gives its consent, all required documents
+
+If the Department of Labor then gives its consent, all required documents
 are submitted in a second step to the immigration authority, which
 then checks whether everything is in order. It takes at least six to
 eight weeks to complete all the paperwork, during which time you are
@@ -615,7 +611,9 @@ not allowed to work. The immigration authority also issues only a
 certain number of H-1B visas per year to limit the influx of foreign
 workers. Currently, 115,000 visas are issued per year. If the quota
 is exhausted, which is currently the case after just a few months,
-you're out of luck. You have to wait until the next year. There are
+you're out of luck. You have to wait until the next year.
+
+There are
 so many open positions in the computer industry here that companies
 would like to hire even more foreign specialists and are advocating
 for an increase in the visa cap. The issue has become so pressing
@@ -624,7 +622,7 @@ money because positions cannot be filled. Another thing to consider
 with the H-1B visa: It can only be applied for once you have found an
 American company willing to employ you, as the company submits the
 application. This means that the work permit is only valid for this
-company and the specifically advertised job. If you lose your job,
+company and the specifically advertised job. If you lose that job,
 you must leave the country within 10 days, and the company is obliged
 to pay for the flight. Or if you no longer like the job and look for
 another one, the bureaucratic process starts all over again, meaning
@@ -641,6 +639,4 @@ daily adventure.
 
 Until next time!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
