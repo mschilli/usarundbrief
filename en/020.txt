@@ -289,7 +289,7 @@ contract to $39. Well, we all got lucky there.
 
 @Z: Electric toothbrush
 
-TODO
+<pic images/sonicare.ps The new toothbrush>
 
 <em>Michael</em> 
 And here's some more exciting news. You've all been waiting for this.
@@ -303,9 +303,9 @@ who treated you with that thing that always goes "eee-eee-eee." I
 keep licking my teeth all day, it's that good. Buy it immediately!
 More information is available at http://www.sonicare.com.
 
-<pic images/sonicare.ps The new toothbrush>
+@Z: New Year's Eve 2000
 
-@Z: Neujahr
+<pic images/sfworks1.ps Year 2000 fireworks in San Francisco ...>
 
 <em>Angelika</em> 
 Enough with the commercial chatter! Here comes Angelika: Surely
@@ -318,8 +318,6 @@ watch the gigantic fireworks from our window (with the music "I Lost
 My Heart in San Francisco" playing in the background, of course). The
 whole city was glowing.
 
-<pic images/sfworks1.ps Year 2000 fireworks in San Francisco ...>
-
 It's pretty clear that we can never move out of our apartment because
 the view from our window is simply priceless. It was also funny when,
 at 11 PM, our Mexican neighbor rang the doorbell with his daughter
@@ -330,7 +328,7 @@ going blind from the moonshine, but -- as you can see -- we survived
 the wonderfully smooth tequila just fine. On New Year's Day, Michael
 was on call for AOL in the morning, meaning he had to be reachable by
 phone to log into the company via our home computer in case any Y2K
-problems arose. But, surprise, surprise, nothing happened, and no one
+problems would arise. But, surprise, surprise, nothing happened, and no one
 needed the top hacker. As compensation, there was an extra day off,
 which we will use in March for a long weekend. Hooray!
 
@@ -344,7 +342,9 @@ looking for the expression in the native language: it's "mauruuru,"
 as you can find out with a quick internet search. We warmly
 congratulate the lucky winner!
 
-@Z: Fotonews
+@Z: Photo News
+
+<pic images/ucb.ps The newspaper advertisement for the photo exhibition>
 
 <em>Angelika</em> 
 As part of one of my courses at Berkeley University, an exhibition
@@ -354,15 +354,14 @@ black-and-white self-portraits that showed some skin without
 revealing too much. I found it highly amusing, and of course, I won't
 spoil the fun by providing photos. That would be going too far!
 
-<pic images/ucb.ps The newspaper advertisement for the photo
-exhibition>
+@Z: Mayoral Elections And Same-Sex Marriage
 
-@Z: Mayoral elections and same-sex marriage
+<pic images/22.ps Advertisement for Proposition 22 in a neighbor's front yard.>
 
 <em>Angelika</em> 
 Because today I particularly want to focus on political topics: The
-mayor of San Francisco will continue to be Willie Brown -- the
-candidate Tom Ammiano lost the runoff election on December 14th (see
+mayor of San Francisco will continue to be Willie Brown --
+challenger Tom Ammiano lost the runoff election on December 14th (see
 November newsletter). I find that very unfortunate. I would have
 preferred Tom Ammiano as mayor. It's a real pity when you aren't
 allowed to vote yourself. That's when you realize what a privilege it
@@ -394,21 +393,18 @@ more about being tolerated and accepted--but also distinguishing
 themselves from the bourgeois society. Nowadays, more and more
 same-sex couples want to marry or have decided to have children
 through adoption or artificial insemination, meaning they want to
-start normal families. In this light, the so-called "Knight
-Initiative" should also be seen. As you may know, a new president
-will be elected in America this year. Therefore, primaries are
-currently taking place in various states. On March 7, it's
-California's turn. This date is not only used for the primaries but
-also to vote on so-called "propositions" (comparable to referendums).
-Propositions are numbered for brevity, and you see signs everywhere
-promoting "No on 5" and "Yes on 42." The Knight Initiative
-("Proposition 22") was introduced by a senator named Knight. Knight
-wants voters to support the inclusion of the following sentence in
-California's law books: "Only marriage between a man and a woman is
-valid or recognized in California.
+start normal families.
 
-<pic images/22.ps Advertisement for Proposition 22 in the front yard
-of an American>
+In this light, the so-called "Knight Initiative" should also be seen. As you
+may know, a new president will be elected in America this year. Therefore,
+primaries are currently taking place in various states. On March 7, it's
+California's turn. This date is not only used for the primaries but also to
+vote on so-called "propositions" (comparable to referendums).  Propositions are
+numbered for brevity, and you see signs everywhere promoting "No on 5" and "Yes
+on 42." The Knight Initiative ("Proposition 22") was introduced by a senator
+named Knight. Knight wants voters to support the inclusion of the following
+sentence in California's law books: "Only marriage between a man and a woman is
+valid or recognized in California."
 
 Now, it must be noted that neither in California nor in any other
 American state is same-sex marriage currently legalized, meaning the
@@ -425,7 +421,7 @@ California. Secondly, many fear that the Knight Initiative aims to
 undermine, so to speak, the achievements that same-sex couples have
 in most cities in California even without a state marriage, such as
 the ability to adopt children, or for the same-sex partner to be
-considered like a married spouse in health insurance (a common
+considered like a married spouse for health insurance (a common
 practice in all Silicon Valley companies and in San Francisco), as
 well as visitation rights in hospitals, meaning being regarded as a
 family member, etc. Incidentally, Knight himself has a son who openly
@@ -444,7 +440,7 @@ Knight Initiative. We will let you know in our next newsletter.
 voted 60% in favor and 40% against the proposal. The sentence will
 therefore be included in the legal text.)
 
-@Z: Präsidentenwahlen
+@Z: Presidential Elections
 
 <em>Angelika</em> 
 Then you might have also heard in Germany that Bill Clinton gave his
@@ -459,21 +455,23 @@ for a new one. Nevertheless, he threw around reform ideas -- which
 means absolutely nothing, as Clinton has often been unable to
 implement his plans, since the American Congress is known to have a
 Republican majority, which has somewhat different ideas than the
-Democratic president. As you might notice, I followed the speech
+Democratic president.
+
+As you might notice, I followed the speech
 attentively on television. More precisely, I stared at the screen,
-fascinated by how different such a speech is compared to the German
+fascinated by how different such a speech is compared to one in the German
 Bundestag. First of all, I was once again unpleasantly struck by the
 fact that in the USA, it is completely normal and even a must to be
 patriotic. Following the motto: America, the promised land, the
 supernation that everyone admires. Of course, Clinton has every
-reason to boast a little, after all, the record is not bad: The state
-budget is showing surpluses, the country is experiencing the longest
+reason to boast a little, after all, his record is not bad: The state
+budget is showing a surplus, the country is experiencing the longest
 economic boom in its history. Crime has decreased, the unemployment
 rate is extremely low, much lower than in Germany. Millions of new
 jobs have been created. But the whole thing also has a price, and
 many things are extremely amiss. Among other things, the healthcare
-and education systems (especially shameful when you have budget
-surpluses). And many of the newly created jobs offer extremely poor
+and education systems (especially shameful when you have a budget
+surplus). And many of the newly created jobs offer extremely poor
 pay and no social security. It was also interesting that Clinton
 appeared quite emotional. You could often see tears in his eyes, both
 from emotion and from sadness. Naturally, he also thanked his wife
@@ -481,6 +479,8 @@ Hillary for her tireless support, which seemed a bit strange, as his
 affair with intern Monica Lewinsky is not yet forgotten. Some cynics
 even suspect that Hillary Clinton will immediately file for divorce
 as soon as Clinton's term is over. It will be interesting to see.
+
+TODO
 
 @Z: Benetton and the death penalty
 
