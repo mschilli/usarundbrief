@@ -1,5 +1,7 @@
 San Francisco, 05-26-2000
 
+@Z: The History of California
+
 <pic images/stb2.ps At Big Sur>
 
 <em>Michael</em> 
@@ -19,14 +21,9 @@ hair, short mind! Yes? Yes? Oh, in vain ... well, dear children,
 these are all names of religious figures: Saint Anthony, Saint
 Joseph, Saint Charles, you get the picture, as Americans says.
 
-TODO
-
-@Z: The History of California
-
 <pic images/missions2.ps The missions along the California coast>
 
-<em>Michael</em> 
-And all of this happened around 1600, when the Spaniards boarded
+And all of this happened around the year 1600, when the Spaniards boarded
 ships to conquer the world. They sailed around and came up with the
 idea of settling on the American continent. By 1700, they had taken a
 liking to Mexico, and they called the strip of the west coast there
@@ -38,9 +35,11 @@ California). From San Diego up to San Francisco, they established
 missions at every corner to convert the Native Americans. Believe it
 or not, where we live today in San Francisco, the Ohlone Indians
 lived 250 years ago. They subsisted on berries, seaweed, and fish, if
-I can believe the history book I recently bought. Honestly, I would
+I can believe the history book I recently bought. Honestly, personally, I would
 prefer a decent hamburger. And occasionally, they had geese, which,
 according to the book, were called "Laklak" in the Ohlone language.
+
+TODO
 
 All these missions, most of which were accompanied by a so-called
 "Presidio," a type of barracks for the Spanish soldiers, were
