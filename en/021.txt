@@ -155,24 +155,21 @@ find what I'm looking for.
 
 <pic images/webvan.ps The WebVan in action>
 
-TODO
-
 <em>Michael</em> 
 And here's something new from the internet: Since grocery shopping
 isn't exactly one of the most interesting activities, even though the
 stores are open day and night, weekdays and weekends, there's now a
-new service to keep the fridge from being empty: The WebVan, the
+new service to prevent the fridge from being empty: WebVan, the
 internet delivery van, brings groceries directly to your home. Here's
 how it works: On the website webvan.com, you can choose your items,
-and there's more selection than even in the largest supermarket.
+and there's more variety than even in the largest supermarket.
 Personally, I always measure the size of a supermarket here using the
 milk index I invented: How many different types of milk are there?
 Not dairy products like yogurt and cottage cheese, but regular milk
 in bottles or cartons. In Germany, there might be about 5. Here in
 the USA, it's always 10-15. And at WebVan, I counted: 28.
 
-<pic images/milch.ps A dozen of the 28 different types of milk
-available on webvan.com.>
+<pic images/milch.ps A dozen of the 28 different types of milk available on webvan.com.>
 
 And the best part is that the items are cheaper than in the
 supermarket, even with delivery. After selecting your items on the
@@ -180,7 +177,7 @@ website, you proceed to checkout--still online--and choose when the
 goods will be delivered, usually the next day. You can select a
 half-hour time slot between seven in the morning and eight in the
 evening (for example, 7:30 PM - 8:00 PM) when the WebVan guy comes by
-with his delivery van, carries the items up, and spreads them out on
+with his delivery van, brings the items to your door, and spreads them out on
 the kitchen table. Shopping is fun this way! (Editor's note: WebVan
 went bankrupt in 2001, like many young companies in the internet
 sector.)
