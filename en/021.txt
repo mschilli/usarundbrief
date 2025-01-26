@@ -184,37 +184,36 @@ sector.)
 
 @Z: Volkszählung
 
+<pic images/census.ps The questionnaire for the 2000 census>
+
 <em>Michael</em> 
-And there was a census recently: The concept of a registration office
+We had a census recently: You have to know that the concept of a registration office
 is as foreign to Americans as friendliness is to Germans. That's why,
 for example, the city of San Francisco has no idea how many people
 currently live there. When you move, you don't register or deregister
 anywhere--you just move, and where from and to is nobody's business.
 Now, of course, the city wants to know how many schools it needs to
-build and which tram lines, and how much money needs to flow into the
-individual districts--and for this, it relies on population data.
+build and which streetcar lines, and how much money needs to flow into the
+individual districts--and for this, it relies on census data.
 That's why the government distributes questionnaires every 10 years
 that people have to fill out, and not just in San Francisco: Census
 takers even reach the Eskimos in the far north of Alaska and register
-every igloo, as was recently reported in the SÃ¼ddeutsche Zeitung.
+every igloo, as was recently reported in the Süddeutsche Zeitung.
 
-I still remember the census in Germany. It must have been in the
-eighties. Everyone was extremely upset -- but compared to this one,
-that was quite harmless. Although the data is anonymized, meaning it
-is processed statistically so that no conclusions can be drawn about
-the individual household affected, the questions were quite shocking
-for us: You not only had to check how many people live in the
-household, but also specify their ethnic origin: Black or white skin
-color, Latino, Asian, or Native American. This is unusual because
-otherwise, great importance is placed on "politically correct" (PC)
-treatment, meaning no one should be disadvantaged because of their
-skin color or origin. For example, a job application to a local
-company must not include a passport photo. An employer cannot base
-the decision to invite a candidate for an interview on their ethnic
-origin. In a job interview, you are not even allowed to ask which
-country the candidate comes from; that would be illegal.
-
-<pic images/census.ps The questionnaire for the 2000 census>
+I still remember the last census in Germany. It must have been in the eighties.
+Everyone was extremely upset -- but compared to the request we received here
+recently, that was quite harmless. Although the data is anonymized, meaning it
+is processed statistically so that no conclusions can be drawn about the
+individual household affected, the questions were quite shocking to us: You not
+only had to say how many people live in the household, but also specify their
+ethnic origin: Black or white skin color, Latino, Asian, or Native American.
+This is unusual because otherwise, great importance is placed on "politically
+correct" (PC) treatment, meaning no one should be disadvantaged because of
+their skin color or origin. For example, a job application to a local company
+must not include a passport photo. An employer cannot base the decision to
+invite a candidate for an interview on their ethnic origin. In a job interview,
+you are not even allowed to ask which country the candidate comes from; that
+would be illegal.
 
 Angelika filled out the form without any complaints and sent it back.
 The accompanying letter warned that if one did not do so, a reminder
@@ -223,7 +222,7 @@ collect the completed form. If one still did not comply, a
 representative would show up after a certain period to "assist" with
 filling it out. The image above shows the census form -- as always,
 internet users have the advantage, as they can enlarge the image to
-readability by clicking on it with the mouse. Traditional mail
+read it by clicking on it with the mouse. Traditional mail
 recipients enlarge the image by soaking the circular in kerosene for
 three weeks and then slowly pulling it apart with a trouser
 stretcher.
