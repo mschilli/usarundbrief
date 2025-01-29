@@ -699,8 +699,6 @@ computer experts into the country. However, even in the land of
 unlimited opportunities, there are many hurdles to overcome before
 one can hold the coveted document in their hands.
 
-TODO
-
 Ran to the mailbox full of excitement again. Will the long-awaited
 letter be there this time? Just a few seconds later, disappointment
 sets in. Unfortunately, nothing won. But maybe tomorrow. There is
@@ -708,12 +706,13 @@ still hope.
 
 We are not waiting for the grand prize in a sweepstakes, but rather
 for mail from the American immigration authorities. This is because
-we have hoped for our luck for the third time and participated in the
+we tried our luck for the third time and participated in the
 Green Card lottery. Yes, the Americans allow you to win your
 permanent work and residence permit, the so-called Green Card, in a
 lottery. Every year, 55,000 of these no longer green cards are
 raffled off among applicants from countries that send only a few
 immigrants to the USA. Germany also falls into this category.
+
 However, no single country receives more than 7% of the total amount
 through the lottery. The chances are still not bad, especially if you
 are married, as both spouses are allowed to participate
@@ -724,15 +723,17 @@ send the ticket by mail. You can play from both Germany and the USA.
 You hardly need to send more than your name, date of birth, the
 country you were born in, and a valid address. A passport photo must
 also be included. Of course, there are some small traps built in, as
-they don't want to make it too easy for applicants. For example, the
+they don't want to make it too easy for applicants.
+
+For example, the
 application can only be sent via regular mail within a precisely
-defined period. The envelope must not exceed a certain size, and the
-passport photo has exact dimensions. Only those letters that meet the
+defined time frame. The envelope must not exceed a certain size, and the
+passport photo has to have exact dimensions. Only those letters that meet the
 form requirements are accepted, and then a computer draws the lucky
 winners. But even if you win, you cannot breathe a sigh of relief
 yet. "Winning" only means that the American immigration authorities
 will check whether you are even worthy of receiving a Green Card.
-This includes having completed an education equivalent to the
+This includes you must have completed an education equivalent to the
 American high school diploma--twelve years of schooling in Germany or
 two years of work experience within the last five years in a
 profession that requires at least two years of training. You must not
@@ -757,24 +758,24 @@ professions for which America is desperately seeking people. And here
 the circle closes, as there is a strong demand for computer experts,
 especially in the high-tech Silicon Valley adjacent to San Francisco.
 
-If you follow the discussion about the SchrÃ¶der proposal, you get
+If you follow the discussion about the Schröder proposal, you get
 the impression that in America, a Green Card is practically handed to
 you. Far from it. Obtaining a Green Card with the help of an American
 employer is a lengthy, nerve-wracking, and extremely bureaucratic
 process. If you are unlucky enough to have to apply in California,
 one of the states with the highest immigration numbers in the USA,
-you can currently expect waiting times of up to six years. Most
-foreign computer experts in the USA work on what is known as an H-1B
-visa, which grants highly skilled workers a work and residence permit
-for a maximum of six years. This puts you at a disadvantage: the visa
-expires before the immigration authorities have finished processing
-the Green Card application--even if the application is submitted as
-soon as you set foot on American soil. Additionally, companies are
-not always willing to immediately apply for a Green Card, as they
-first want to ensure that the foreign employee provides good service.
-Moreover, the H-1B visa has a significant advantage for the employer:
-the work permit is valid only for a specific company--a job change
-sets the massive bureaucratic machinery in motion again.
+you can currently expect wait times of up to six years.
+
+Most foreign computer experts in the USA work on what is known as an H-1B visa,
+which grants highly skilled workers a work and residence permit for a maximum
+of six years. This puts you at a disadvantage: the visa expires before the
+immigration authorities have finished processing the Green Card
+application--even if the application is submitted as soon as you set foot on
+American soil. Additionally, companies are not always willing to immediately
+apply for a Green Card, as they first want to ensure that the foreign employee
+provides good service.  Moreover, the H-1B visa has a significant advantage for
+the employer: the work permit is valid only for a specific company--a job
+change sets the massive bureaucratic machinery in motion again.
 
 The Green Card, on the other hand, grants free choice of employment.
 Companies thus lose the visa dependency of the employee, but due to
@@ -806,29 +807,19 @@ to three years! That makes five to six years for all three steps.
 Adding to the difficulty is the fact that during this time period,
 one cannot change employers nor be laid off. If this happens, even
 just before reaching the goal, it means: back to square one!
-Ruthless.
+It's tough.
 
-With a lottery win, it would naturally go a bit faster. If won this
+With a lottery win, it would naturally go a bit faster. If you won this
 year, the Green Card could already be in the mailbox by the end of
 2001. With a bit of luck -- or, if not: It's heard that computer
 specialists are being sought again in Germany...
 
-\begin{em}
-
 Angelika Schilli has been living with her husband in San Francisco,
 California, for three years.
-
-\end{em}
 
 <pic images/tender.ps Angelika in kindergarten>
 
 We hope you enjoyed the newsletter -- let us hear from you and tune
 in again -- see you soon!
 
-\vspace{0.2cm}
-
-The names "Angelika & Michael" are already in English. They are
-proper nouns and do not require translation.
-
-\vspace{0.2cm}
-
+Angelika & Michael
