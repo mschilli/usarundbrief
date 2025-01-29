@@ -386,8 +386,6 @@ your spouse, even though in most cases the accompanying family members do not
 receive a work permit. The tendency for family reunification is also evident
 with the Green Card.
 
-TODO
-
 There are the following visa categories in the non-immigrant
 category:
 
@@ -420,16 +418,13 @@ decide during your trip that you want to study in the USA, it is not
 possible to apply for a student visa while in the country. Also, the
 90-day limit cannot be exceeded or extended under any circumstances.
 
-
 C-1 visa for transit travelers (alien in transit), i.e., individuals
 who travel through the USA without interruption to reach their
 destination country.
 
-
 D-1 visa for crew members (sea or air). It refers to the guys and
 gals who serve you food on the plane, as well as the pilot and
 co-pilot.
-
 
 E-1 Visa for Treaty Traders, including spouses and children. This
 visa is for individuals entering the USA to engage in trade. There
@@ -438,7 +433,6 @@ and the entering person must hold citizenship of the partner country.
 The trade between the USA and the respective country must be of
 substantial nature. Accompanying family members are not allowed to
 take up employment in the USA.
-
 
 E-2 Visa for Investors, including Spouses and Children (Treaty
 Investor): The investor must be a national of a treaty country with
@@ -450,7 +444,6 @@ sufficient. The visa is typically issued initially for five years and
 can be renewed, provided the business is successful. Accompanying
 family members are not allowed to work in the USA.
 
-
 F-1 Student Visa (Academic or Language Students). Anyone who wants to
 study at an American college, university, language school, etc.,
 needs this visa. The educational institution must be recognized by
@@ -461,30 +454,25 @@ to finance their studies and living expenses. The visa is valid until
 the completion of studies. In exceptional cases, one may take up
 part-time employment.
 
-
 F-2 visa for spouses and minor children (under 21 years of age) of
 students in the F-1 category. A work permit is not granted in this
 category.
-
 
 G-Visa for employees of international organizations (Representatives
 to International Organizations). There are five different categories.
 This refers to organizations such as the Red Cross or the UN.
 
-
 H-1A visa for nurses (Registered Nurse): This visa category was
 introduced exclusively for nurses in 1989 and was discontinued in
 September 1995.
 
-
 H-1B visa for temporary workers in specialty occupations. This is the
 visa that Michael has, and you already know all about it. Just as a
-reminder: It is granted for a maximum of six years, requires having a
-profession that is in short supply in America, and possessing a
+reminder: It is granted for a maximum of six years, requires working in a
+profession for which there is a short supply of American workers, and possessing a
 higher academic degree (equivalent to an American bachelor's degree)
 or the corresponding work experience. With this visa, you are only
 allowed to work for the employer who applied for the visa.
-
 
 H-2A visa for temporary agricultural workers. This refers to, for
 example, pickers who are brought into the country during harvest time
@@ -493,53 +481,44 @@ reality is that in the artichoke and strawberry fields of California,
 you often find illegally immigrated Mexicans who are harvesting the
 fields.
 
-
 H-2B visa for temporary skilled and unskilled workers. To obtain this
 visa, it must also be demonstrated that there are no American workers
 available for the respective job.
-
 
 H-3 visa for interns and trainees (Temporary Trainees). This visa
 allows foreigners to temporarily undergo practical training that is
 not available in their home country.
 
-
 H-4 visa for spouses and children of foreigners who have an H-1B,
 H-2A/B, or H-3. This includes myself. In this category, it is not
 permitted to take up employment.
-
 
 I-Visa for foreign media representatives, including their spouses and
 children (Representatives of International Media). If you are a
 representative of the press, radio, or television, you can obtain
 this visa to conduct journalistic work in the USA.
 
-
 J-1 visa for participants in exchange programs (Exchange Visitor).
-This visa is granted to foreign pupils, students, interns, teachers,
+This visa is granted to foreign students, interns, teachers,
 researchers, professors, etc., who participate in an exchange
 program. Au pairs also fall under this category. The exchange program
 must be recognized by the USIA (United States Information Agency).
 The permitted duration of stay depends on the exchange program.
 
-
 J-2 visa for spouses and children of J-1 visa holders. Spouses can
 work with permission from the immigration authorities if the income
 is needed to support living expenses.
 
-
-K-1 Visa for FiancÃ©es or FiancÃ©s of U.S. Citizens. FiancÃ©es or
-fiancÃ©s of Americans are allowed to enter the USA if they get
+K-1 Visa for Fiancées or Fiancés of U.S. Citizens. Fiancées or
+fiancés of Americans are allowed to enter the USA if they get
 married within 90 days. A medical certificate and police clearance
-certificates, among other documents, must be provided. The fiancÃ©es
-or fiancÃ©s must have met in person within the last two years. This
+certificates, among other documents, must be provided. The fiancées
+or fiancés must have met in person within the last two years. This
 visa is subject to particularly strict scrutiny to ensure all
 conditions are met, as marriage can lead to obtaining a Green Card.
 
-
-The K-2 visa is intended for the minor children of the fiancÃ©(e), as
+The K-2 visa is intended for the minor children of the fiancé(e), as
 they also want to be present at the wedding.
-
 
 L-1 Visa for Intra-Company Transferees (Multinational Companies):
 This visa category was introduced to allow multinational companies to
@@ -561,9 +540,7 @@ This is cleverly designed, as many companies are now multinational,
 allowing for the possibility of applying for both an H-1B and an L-1
 in many cases.
 
-
 L-2 visa for the spouses and children of the L-1 visa holder.
-
 
 M-1 Visa for Vocational and Nonacademic Students: This visa, unlike
 the F-1 visa (academic student visa), is intended for foreigners who
@@ -575,16 +552,13 @@ English skills, as well as be able to finance their education and
 stay independently. The maximum duration of stay is one year or as
 long as the training lasts. After completing the training, one may be
 employed for up to six months, as long as it is practical training
-related to the education.
-
+related to the program.
 
 M-2 visa for spouses and minor children of an M-1 visa holder.
-
 
 NATO visa for NATO employees: Yes, NATO employees actually receive
 their own visa, and there are, believe it or not, a total of 7 (in
 words, seven) subcategories.
-
 
 O-1 visa for individuals with extraordinary abilities in the fields
 of arts, sciences, education, business, film and television, and
@@ -593,57 +567,44 @@ Education, Business or Athletics). This visa allows Nobel Prize
 winners or even Thomas Gottschalk and the like to live and work
 temporarily in the USA.
 
-
 O-2 visa for assistants of artists, entertainers, athletes,
 scientists who are needed to carry out an artistic, athletic, etc.
 event.
 
-
 O-3 visa for spouses and children of O-1/O-2 visa holders.
-
 
 The P-1 visa (Internationally Recognized Athletes and Artists) is for
 individual athletes or sports teams, as well as entertainers when
 they perform as groups. The athletes and entertainers must be
 internationally recognized.
 
-
 The P-2 visa (Artists and Entertainers in Reciprocal Exchange
 Programs) can be applied for by artists and entertainers
 participating in a reciprocal exchange program.
-
 
 The P-3 visa (Artists and Entertainers Coming to the U.S. to Give
 Culturally Unique Performances) is intended for artists and
 entertainers who wish to participate in a culturally unique program.
 
-
 P-4 visa for spouses and children of P-1/P-2/P-3 visa holders.
-
 
 Q-1 Visa for Participants in Cultural Exchange Programs: The visa can
 be obtained for a maximum of 15 months if, as part of the program,
-one represents the culture, history, and traditions of their own home
+holders represent the culture, history, and traditions of their own home
 country.
 
-
 Q-2 visa for immediate family members of the Q-1 visa holder.
-
 
 R-1 Visa for Clergy of Recognized Religions (Temporary Religious
 Worker). The visa is issued for a maximum of five years to allow
 clergy (pastors, priests, pastoral assistants, nuns, etc.) to work
 for a recognized church or non-profit religious organization.
 
-
 R-2 visa for spouses and minor children of R-1 visa holders.
-
 
 S-1/S-2 Visa for informants to combat crime (Criminal Informants).
 
-
 S-3 visa for immediate relatives of S-1/S-2 visa holders.
-
 
 TN Visa: Mexican and Canadian citizens who have a recognized
 profession under the North American Free Trade Agreement (NAFTA) are
@@ -652,33 +613,29 @@ professions under the agreement include, for example, architect,
 engineer, computer specialist, mathematician, nurse, doctor, social
 worker, etc.
 
-
 TD visa for the spouse and children of the TN visa holder. No work
 permit is granted.
 
-Now one must know that the immigration authority generally does not
-issue visas to the following groups of people:
+Quite a long list, isn't it? Now one must know that the immigration
+authority generally does not issue visas to the following groups of people:
 
-The translation to English is: "Foreigners who have dangerous
-contagious diseases such as AIDS.
+Foreigners who have dangerous contagious diseases such as AIDS.
 
 Persons with physical or mental disorders, as well as behavioral
 disorders, who pose a danger to themselves or others.
 
-The German word "DrogenabhÃ¤ngige" translates to "drug addict" in
-English.
+Drug addicts
 
 Foreigners who have been convicted or arrested for certain crimes
 (this includes crimes of "moral turpitude," sounds good, doesn't it?
 :)
 
-The German word "Prostituierte" translates to "prostitute" in
-English.
+Prostitutes
 
 Terrorists or individuals who could threaten the public safety of the
 USA
 
-Translation: "Persons who are or have been members of a communist or
+Persons who are or have been members of a communist or
 other totalitarian party within the last two years prior to applying
 for a visa.
 
@@ -688,7 +645,7 @@ the territories occupied by Germany.
 
 Foreigners who have been deported from the USA before.
 
-Those of you who have been to the USA before might remember that on
+Those of you who have visited the USA before might remember that on
 the plane, you always have to fill out a green form from the
 immigration authorities (if you are not subject to visa
 requirements), which checks exactly these categories. Questions such
@@ -699,7 +656,9 @@ appear on it. Of course, the whole thing seems somewhat ridiculous,
 because which terrorist would willingly answer "yes" to these
 questions? The comforting note on the form that answering "yes" does
 not automatically result in being denied entry also seems rather
-absurd. Another peculiar aspect of entering the United States, which
+absurd.
+
+Another peculiar aspect of entering the United States, which
 often confuses foreigners, is that an American visa in your passport
 does not automatically entitle you to enter the USA. The immigration
 officer at the border (in practice, this is usually the airport where
@@ -716,22 +675,18 @@ home without a word. The immigration officer also determines the
 length of stay, which can certainly differ from the maximum allowed
 by the visa.
 
-Here's the translation to English:
-
-"This on the topic of American visas. Just one last thing: Our visa
+That's all on the topic of American visas. Just one last thing: Our visa
 was actually extended until October 2002. That really borders on a
 miracle, hooray!
 
 Now, I had promised you some information about the American Green
 Card. Here follows an exclusive (haha) article that I wrote myself
 when the Green Card discussion started in Germany. I boldly sent it
-to the SÃ¼ddeutsche Zeitung, hoping they would be interested.
+to the Süddeutsche Zeitung, hoping they would be interested.
 Unfortunately, that was not the case; it seemed to me that they
 didn't even read it. But now I have a rejection letter from the
-SÃ¼ddeutsche Zeitung, which I can frame on occasion. So now you will
-be subjected to the article:
-<RBLINK>20000526#10</RBLINK>
-.
+Süddeutsche Zeitung, which I can frame on occasion. Here's the (unpublished)
+article for your reading pleasure:
 
 @Z: Waiting for the Green Card
 
@@ -739,10 +694,12 @@ be subjected to the article:
 
 <em>Angelika</em> 
 The American Green Card has been a topic of discussion since
-Chancellor Gerhard SchrÃ¶der announced plans to bring foreign
+Chancellor Gerhard Schröder announced plans to bring foreign
 computer experts into the country. However, even in the land of
 unlimited opportunities, there are many hurdles to overcome before
 one can hold the coveted document in their hands.
+
+TODO
 
 Ran to the mailbox full of excitement again. Will the long-awaited
 letter be there this time? Just a few seconds later, disappointment
