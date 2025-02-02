@@ -99,9 +99,7 @@ Now, a marathon is 26 miles, and I ran 9 miles, so this makes his 9 mile
 time, crunch, crunch, 01:03:01. What, the old man is faster than
 I am? Outrageous! Wait until I'm 50 ...
 
-TODO
-
-@Z: Speaking American with the Pros
+@Z: How To Speak American with the Pros
 
 <em>Michael</em> 
 And here is the segment "Learn to Speak American with the Pros"
@@ -125,13 +123,13 @@ gradually stopped doing that because it generally leads to the stuff
 rotting in the fridge for two weeks and then being taken out and
 thrown away with a pinch of the fingers.
 
-@Z: US-Warenkorb
+@Z: US Basket of Goods and Services
 
 <em>Michael</em> 
 We've been living abroad for almost four years now! Every time
 visitors from Germany arrive here in San Francisco, we become aware
-of this fact. I think about 20 people visited us this summer -- let's
-see if I can remember them all: (GÃ¼nter, Thomas & Helmut & Konrad,
+of this fact. I think that about 20 people visited us this summer -- let's
+see if I can remember them all: (Günter, Thomas & Helmut & Konrad,
 Matthias, Fritz & Traudl, Ursel & Peter, Heinz & Ursel & Bernd &
 Julian & Yves-Ole, Susanne, Christian, Markus).
 
@@ -139,17 +137,21 @@ Julian & Yves-Ole, Susanne, Christian, Markus).
 
 A popular ongoing topic among German tourists is, of course,
 complaining about the rather high dollar exchange rate! Oh, how
-expensive the goods are! We noticed that we have no idea anymore what
+expensive the goods are! We've noticed that we have no idea anymore what
 these things actually cost in Germany. That's why today we have put
 together a newsletter shopping basket: typical items and services and
 what you pay for them in San Francisco (as of June 1, 2000). For some
 things, your jaw will surely drop:
 
+Item/Service USD (Exchange Rate DM 2.09) DM (DM 2.09) 
 
-\begin{tabular}[t]{p{5cm}rr}
+1 Liter of Milk 1.33 2.78
 
-@Z: The translation of "Was Deutsche falsch machen in Amerika" to
-English is "What Germans do wrong in America.
+1 Liter of good (microbrew) beer (supermarket) 4.00 8.36
+
+500g Emmenthaler Cheese 8.87 18.54
+
+@Z: What Germans Do Wrong in America
 
 <em>Michael</em> 
 Now to our new section: What Germans always do wrong in America. They
