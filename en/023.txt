@@ -60,42 +60,46 @@ look like a museum visit if no furniture could be found.
 
 <pic images/b2bm3.ps The racecourse of the Bay-to-Breakers run across San Francisco.>
 
-TODO
-
 <em>Michael</em> 
-As every year, the "Bay to Breakers" city run took place this May, in
-which your esteemed narrator traditionally participates. This has
-already been reported in the newsletter, but since a newsletter
-reader, whom I won't name here (GÃ¼nter Speckhofer, the editor),
+As every year, the "Bay to Breakers" city run took place in May, and
+your esteemed narrator participated, continuing on a developing tradition. This has
+already been reported in the newsletter, but since one particular newsletter
+reader, whom I won't name here (Günter Speckhofer, the editor),
 recently asked again what "Bay to Breakers" actually means, here are
 the facts once more: It's a fun race from the San Francisco Bay in
 the east, across the city to the ocean in the west (Breakers are the
 incoming waves), with 70,000 people participating. Many compete in
 costumes or in groups, and the streets are closed off.
 
-The old
-<RBLINK>19990603#1</RBLINK>
-You can look it up on the internet, by the way. I ran at an easy pace
+The old <RBLINK>19990603#1</RBLINK> you can look up on the internet,
+by the way. This year, I ran at an easy pace
 and finished with a time of 01:25:37, placing 8,151st out of 52,356
 runners who reached the finish line. 01:25:37 is still not impressive
-for 12km, but you have to account for a waiting time of about 15
-minutes at the start. That's how long it took for the crowd of 70,000
+for 9 miles, but you have to account for a waiting time of about 15
+minutes at the start line. That's how long it took for the crowd of 70,000
 people to start moving from the spot where I was.
 
-<pic images/b2ba1.ps The translation to English is: "Two runners with
-body paint.>
+<pic images/b2ba1.ps Two runners wearing body paint.>
 
-<pic images/b2ba2.ps Grandpa is also walking along with the
-handcart.>
+<pic images/b2ba2.ps Grandpa is also walking along with a handcart.>
 
-As always, the whole thing is of course documented online. The race
-management has published the following link:
+As always, the whole race is of course documented online. Race
+management has published the this <LINK>http://www.active.com/breakers/results2000/results_list.cfm?keywords=schilli&type=name">www.baytobreakers.com|link</LINK>:
+Just type "Schilli" into the search box labeled "How'd I do?" and there you
+go. You can also see that Reuben Cheruiyot from Kenia was even faster: It took
+himt only 34 minutes and 54 seconds, and that landed him the number one spot.
 
-<pic images/b2bme.ps Bay to Breakers: Finish line photo, in which one
-of the newsletter writers is visible (far right)>
+<pic images/b2bme.ps Bay to Breakers: Finish line photo, one of the newsletter writers is on the far right.>
 
-The translation of "Wie ich gerade in dem Buch" to English is "As I
-just (read) in the book.
+Also, recently, I read a book by
+German Minister of Foreign Affairs Joschka Fischer, titled
+<LINK>https://www.amazon.de/exec/obidos/ASIN/3462027948|"Mein langer Lauf zu mir selbst"</LINK>,
+in which he boasts that in 1998, he ran the Hamburg marathon in 3:41:36.
+Now, a marathon is 26 miles, and I ran 9 miles, so this makes his 9 mile
+time, crunch, crunch, 01:03:01. What, the old man is faster than
+I am? Outrageous! Wait until I'm 50 ...
+
+TODO
 
 @Z: Speaking American with the Pros
 
