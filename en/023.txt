@@ -147,8 +147,8 @@ things, your jaw will surely drop:
 <TABLE BORDER=1>
 <TR>
 <TD>Item/Service</TD>
-<TD>USD (Exchange Rate DM 2.09)</TD>
-<TD>DM (DM 2.09)</TD>
+<TD>USD</TD>
+<TD>DM (Exchange Rate 2.09)</TD>
 </TR>
 <TR>
 <TD>1 Liter of Milk</TD>
@@ -164,6 +164,82 @@ things, your jaw will surely drop:
 <TD>500g Emmenthaler Cheese</TD>
 <TD>8.87</TD>
 <TD>18.54</TD>
+</TR>
+
+<TR>
+<TD>1 Hamburger bei McDonalds im Angebot</TD>
+<TD>0.29</TD>
+<TD>0.61 </TD>
+</TR>
+<TR>
+<TD>1 Mietauto für 1 Tag mit Versicherung</TD>
+<TD>50.00</TD>
+<TD>104.50 </TD>
+</TR>
+<TR>
+<TD>1 Burrito beim Mexikaner</TD>
+<TD>5.00</TD>
+<TD>10.45 </TD>
+</TR>
+<TR>
+<TD>1 belegtes Sandwich im Supermarkt</TD>
+<TD>4.00</TD>
+<TD>8.36 </TD>
+</TR>
+<TR>
+<TD>1 Schachtel Zigaretten</TD>
+<TD>4.50</TD>
+<TD>9.40 </TD>
+</TR>
+<TR>
+<TD>1 Flasche halbwegs trinkbarer Wein</TD>
+<TD>10.00</TD>
+<TD>20.90 </TD>
+</TR>
+<TR>
+<TD>1 Porsche Boxter mit Extras</TD>
+<TD>48000.00</TD>
+<TD>100320.00 </TD>
+</TR>
+<TR>
+<TD>30er Packung 'Twix' im Supermarkt</TD>
+<TD>12.00</TD>
+<TD>25.08 </TD>
+</TR>
+<TR>
+<TD>1 Liter Normalbenzin</TD>
+<TD>0.48</TD>
+<TD>1.00 </TD>
+</TR>
+<TR>
+<TD>1 Hand-Autowäsche innen/außen</TD>
+<TD>12.00</TD>
+<TD>25.08 </TD>
+</TR>
+<TR>
+<TD>Gut und billig chinesisch Mittag essen (pro Person)</TD>
+<TD>5.00</TD>
+<TD>10.45 </TD>
+</TR>
+<TR>
+<TD>Gut und billig Abend essen (pro Person)</TD>
+<TD>20.00</TD>
+<TD>41.80 </TD>
+</TR>
+<TR>
+<TD>Sehr gut und teuer essen gehen (pro Person)</TD>
+<TD>100.00</TD>
+<TD>209.00 </TD>
+</TR>
+<TR>
+<TD>Monatsmiete 2-Zimmer Wohnung in unserem Viertel</TD>
+<TD>2000.00</TD>
+<TD>4180.00 </TD>
+</TR>
+<TR>
+<TD>Billiges Motel (DZ) in San Francisco</TD>
+<TD>85.00</TD>
+<TD>177.65 </TD>
 </TR>
 </TABLE>
 </HTMLONLY>
