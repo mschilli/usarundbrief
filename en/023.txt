@@ -143,13 +143,30 @@ together a newsletter shopping basket: typical items and services and
 what you pay for them in San Francisco (as of June 1, 2000). For some
 things, your jaw will surely drop:
 
-Item/Service USD (Exchange Rate DM 2.09) DM (DM 2.09) 
-
-1 Liter of Milk 1.33 2.78
-
-1 Liter of good (microbrew) beer (supermarket) 4.00 8.36
-
-500g Emmenthaler Cheese 8.87 18.54
+<HTMLONLY>
+<TABLE BORDER=1>
+<TR>
+<TD>Item/Service</TD>
+<TD>USD (Exchange Rate DM 2.09)</TD>
+<TD>DM (DM 2.09)</TD>
+</TR>
+<TR>
+<TD>1 Liter of Milk</TD>
+<TD>1.33</TD>
+<TD>2.78</TD>
+</TR>
+<TR>
+<TD>1 Liter of good (microbrew) beer (supermarket)</TD>
+<TD>4.00</TD>
+<TD>8.36</TD>
+</TR>
+<TR>
+<TD>500g Emmenthaler Cheese</TD>
+<TD>8.87</TD>
+<TD>18.54</TD>
+</TR>
+</TABLE>
+</HTMLONLY>
 
 @Z: What Germans Do Wrong in America
 
