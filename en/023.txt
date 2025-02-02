@@ -333,14 +333,12 @@ a bit of it sticking out so the waiter can see it when they pass by
 next. When they see the card sticking out, they take the tray/folder,
 charge the amount to the credit card, and then return it, this time
 with a so-called credit card slip, a small receipt like the one you
-see in Figure 10.
+see in Figure (#10).
 
-TODO
+<pic images/cc3m.ps (#10) Credit card slip for the restaurant>
 
-<pic images/cc3m.ps Credit card slip for the restaurant>
-
-Only now is the tip entered. In Figure 10, you can see that the meal
-cost $32.39. 15% of that would be $4.86, but since I'm not stingy, I
+Only now is the tip entered. In Figure (#10), you can see that our bill
+was $32.39. 15% of that would be $4.86, but since I'm not stingy, I
 entered $5.50 in the "Tip" field. Then everything is added up, and
 $37.89 is the total amount. Since you probably don't always have a
 calculator with you, here's a rule of thumb: divide the bill amount
@@ -350,7 +348,7 @@ exactly by 6, but since 5 * 6 = 30 and 6 * 6 = 36, you're safe with
 should definitely keep the copy of the receipt, which is usually
 yellow, while the original receipt for the restaurant is white.
 Sometimes the original says "Merchant Copy" and the copy says
-"Customer Copy," as shown in Figure 11. You don't need to sign it, as
+"Customer Copy," as shown in Figure (#11). You don't need to sign it, as
 it's just for you, but to Angelika's dismay, I always use the receipt
 to practice my most flamboyant signatures. But I digress.
 
@@ -358,46 +356,42 @@ Are you ready? You don't have to wait for the waiter to come back;
 you simply leave the receipt on the tray, get up, and leave the
 restaurant. It's that simple!
 
-<pic images/cc3c.ps Credit card slip for the customer (copy)>
+<pic images/cc3c.ps (#11) Credit card slip for the customer (copy)>
 
-Here's a translation to English:
-
-"One more thing: A persistent mistake is writing ones with a serif,
-as is common in German regions. However, they also write sevens with
-a crossbar there, which Americans do not do. This is particularly
-critical on credit card statements, as ones written in the German
-style can be interpreted by Americans as sevens. In Figure 11, you
+One more thing: A common mistake is writing ones on the bill with a serif,
+as is common in Germany. However, over there they also write sevens with
+a crossbar, which Americans do not do. This is particularly
+critical on credit card statements, as "1"s written in the German
+style can be interpreted by Americans as sevens. In Figure (#11), you
 can see how the seven in the amount of $37.89 is written without a
 crossbar -- this is the usual practice here. It looks surprisingly
-like a one, doesn't it? So, if you mean 'one,' please just write a
-vertical line. Figure 12 illustrates this again. It concerns a letter
+like a German one, doesn't it? So, if you mean 'one,' please just write a
+vertical line. Figure (#12) illustrates this again. It shows a letter
 I once received that miraculously arrived, even though letters
-addressed so incorrectly are lost 90% of the time, as experience has
+addressed in this way are lost 90% of the time, as experience has
 shown. Also, the apartment number is not 16, but 6. This usually
-means the end for the letter, as the mail carrier does not pay
+means the end of the road for the letter, as the mail carrier does not pay
 attention to the nameplates on the mailbox; it is purely based on
 house number and apartment number. If either is missing, the letter
 immediately goes into the trash bin; there is no investigation like
 with the German postal service.
 
-<pic images/addrf.ps A letter addressed to me -- wrong, incorrigible
-& typically German!>
+<pic images/addrf.ps (#12) A letter addressed to me -- wrong, incorrigible and typical German!>
 
-In Figure 12, all the ones are written with an upward stroke -- they
-are interpreted here as sevens, and the house number 7765 simply
-doesn't exist on Church Street. Figure 13 shows how it's done
+In Figure 12, all the ones are written with a serif -- they
+are interpreted by Americans as sevens, and the house number 7765 simply
+doesn't exist on Church Street. Figure (#13) shows how it's done
 correctly: ones are just vertical lines, which the mail carrier can
 read without any problems.
 
-<pic images/addrc.ps The translation to English is: "That's right --
-ones without a serif.>
+<pic images/addrc.ps (#13) That's right -- ones without a serif.>
 
-Translate to English: One more thing: It is completely impossible to
+One more thing: It is completely impossible to
 pay the bill separately in a restaurant. The server has no idea who
 had what and will not go around to find out, as is common in Germany.
 However, what you can do is simply put in, for example, two credit
-cards and ask if it would be possible to charge both equally. Each
-person must then enter their tip separately. Another option is to pay
+cards and ask if it would be possible to split the bill. Each
+person must then enter their tip on their slip separately. Another option is to pay
 in cash and pool the money, the easiest way being to divide the total
 amount by the number of people present. Saying, "But I only had a
 small salad and you had the 2-pound rib-eye steak!" and calculating
@@ -406,7 +400,7 @@ among yourselves. You should always just order the most expensive
 dish, then you'll be on the safe side.
 
 I still need to catch up on how to pay with cash: You also ask for
-the bill here, and when the little folder/tray comes, there are two
+the "check" here, and when the little folder/tray comes, there are two
 options again: Either you have the exact amount including (!) the
 pre-calculated tip ready. Then you place the exact amount, stand up,
 and leave. Really, you can leave the establishment immediately; the
@@ -422,14 +416,15 @@ because they can check the bills behind the scenes. Then the server
 comes back, and if they don't immediately understand what's going on,
 you simply ask, "Can we get some change, please?" They will take the
 tray/pouch with the large bills and bring back change according to
-the bill amount. But be careful: no tip has been included yet. You've
+the bill amount. But be careful: no tip has been included yet. But
+of course you've
 already calculated this beforehand, and now you only take as much of
-the change as needed to leave the exact tip you calculated, leave it
+the change as needed to leave the exact tip you calculated, place it
 in the pouch/tray, stand up, and leave. Why did I say earlier that
 you should put in enough money to cover the bill plus (!) the tip?
 Exactly, so that you have the necessary small change to leave the
 tip. Otherwise, you might find out afterward that you don't have
-enough, have to ask again, and that's uncool. It doesn't matter if
+enough, have to ask again, and that's dumb. It doesn't matter if
 the bills far exceed the bill amount or if there's even an extra bill
 in there. For example, if the bill is 36 dollars, but you only have
 three twenties, just put in the three twenties -- the servers are
@@ -445,7 +440,7 @@ takes care of it, you can easily find out by observing the other
 guests or simply asking for the bill and waiting half an hour for the
 server. Then it's pretty certain!
 
-Since I'm already on the topic: How does it work in a bar? Usually,
+Since I'm already on the topic: How does paying work in a bar? Usually,
 one person goes to the counter, gets drinks for everyone, and pays in
 cash immediately. You get your change back right away, and you leave
 a little bit as a tip, around 10% or so. Ordering and paying for beer
@@ -454,10 +449,12 @@ have no idea why, but that's not what Americans do. Someone always
 buys a round.
 
 I hope you're not thinking now, "My God, the old man is completely
-crazy!" Your intrepid newsletter reporter has spent years exploring
+out of his mind!" Your intrepid newsletter reporter has spent years exploring
 restaurants and pubs in all areas of America, from Texas to Chicago,
 from Miami to Seattle, to share this knowledge with you today and
 ensure that you get by well everywhere!
+
+TODO
 
 @Z: The phrase "Ritschratschklick und Thump!" is an example of
 onomatopoeia, where words are used to imitate sounds. In English, it
