@@ -261,7 +261,7 @@ The German groans: Oh dear, oh dear, the high dollar exchange rate!
 And in San Francisco, a meal for two in a fairly normal restaurant
 can quickly cost 50 dollars. Then giving an additional 8 to 10
 dollars as a tip really hurts the German's wallet. What he doesn't
-consider, however, is that the waiter works for a minimum wage and
+consider, however, is that the waiter works for minimum wage and
 earns his income from tips. Unlike in Germany, where every server is
 legally covered by pension, health, and social insurance, people here
 usually have to pay for their insurance out of their own pocket. To
@@ -288,7 +288,9 @@ like "How are you today?", to which you respond with something like
 "Party of two" if there are two of you, and respectively "three,"
 "four," etc. if there are three or four of you. "Two for lunch" or
 "Two for dinner" also works for lunch or dinner. Then you're led to
-the table, sit down, and receive the menu. When the waiter comes back
+the table, sit down, and receive the menu.
+
+When the waiter comes back
 shortly after, they will ask something like "Have you had a chance to
 decide yet?" to see if you're ready to order. If you're not ready yet
 because translating the menu is taking a bit longer, you simply say
@@ -311,11 +313,11 @@ pseudo-Italian as "Parmashan" with nasal sounds more commonly found
 in French), or freshly ground pepper ("fresh pepper"), and then you
 may start eating. After a few minutes, the server comes by again and
 asks, "Everything okay?" to which you naturally respond, if
-everything is good, "Excellent!
+everything is good, "Excellent!"
 
 So, now for the payment. Usually, the waiter comes by and asks, "Can
 I get you anything else?" If you respond with "No, thanks, we're just
-fine," they usually bring the bill themselves. Sometimes, in more
+fine," they usually bring the bill without further ado. Sometimes, in more
 affordable establishments, the server will place the bill on the
 table without being asked and say, "Whenever you're ready." This is
 not meant to be impolite; it's standard practice there. You can more
@@ -332,6 +334,8 @@ next. When they see the card sticking out, they take the tray/folder,
 charge the amount to the credit card, and then return it, this time
 with a so-called credit card slip, a small receipt like the one you
 see in Figure 10.
+
+TODO
 
 <pic images/cc3m.ps Credit card slip for the restaurant>
 
