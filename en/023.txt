@@ -454,24 +454,22 @@ restaurants and pubs in all areas of America, from Texas to Chicago,
 from Miami to Seattle, to share this knowledge with you today and
 ensure that you get by well everywhere!
 
-TODO
-
-@Z: The phrase "Ritschratschklick und Thump!" is an example of
-onomatopoeia, where words are used to imitate sounds. In English, it
-can be translated to "Clickety-clack and Thump!
+@Z: Clickety-clack and Thump!
 
 <em>Michael</em> 
 Angelika discovered during her photography courses that traditional
 SLR cameras do not deliver the image quality that she envisions,
 ahem, ahem. In fact, there are so-called medium format cameras, whose
 negatives are 6 by 6 (or 6 by 7, depending on the model) centimeters
-in size, which is about four times the area of conventional films.
-This results in double the resolution and stunning image quality --
+in size, which is about four times the area of conventional film.
+This results in double the resolution are of stunning image quality --
 however, the cameras for this are quite bulky and expensive. But in
-San Francisco, there are photo shops where you can rent such a camera
-for just a little money over the weekend, and that's what we did when
+San Francisco, there are camera shops where you can rent such a camera
+for little money over the weekend, and that's what we did when
 we recently went down to San Luis Obispo (about halfway between San
 Francisco and Los Angeles) for a long weekend.
+
+TODO
 
 <pic images/pmam.ps The "Perlman" before the mission near the city of
 San Luis Obispo>
