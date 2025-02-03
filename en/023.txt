@@ -125,6 +125,8 @@ thrown away with a pinch of the fingers.
 
 @Z: US Basket of Goods and Services
 
+<pic images/touris1.ps Always funny: Tourists!>
+
 <em>Michael</em> 
 We've been living abroad for almost four years now! Every time
 visitors from Germany arrive here in San Francisco, we become aware
@@ -132,8 +134,6 @@ of this fact. I think that about 20 people visited us this summer -- let's
 see if I can remember them all: (Günter, Thomas & Helmut & Konrad,
 Matthias, Fritz & Traudl, Ursel & Peter, Heinz & Ursel & Bernd &
 Julian & Yves-Ole, Susanne, Christian, Markus).
-
-<pic images/touris1.ps Always funny: Tourists!>
 
 A popular ongoing topic among German tourists is, of course,
 complaining about the rather high dollar exchange rate! Oh, how
@@ -245,6 +245,8 @@ things, your jaw will surely drop:
 
 @Z: What Germans Do Wrong in America
 
+<pic images/cc3m.ps (#10) Credit card slip for the restaurant>
+
 <em>Michael</em> 
 Now to our new section: What Germans always do wrong in America. They
 sit down in a restaurant, and when the waiter comes and asks what
@@ -334,8 +336,6 @@ next. When they see the card sticking out, they take the tray/folder,
 charge the amount to the credit card, and then return it, this time
 with a so-called credit card slip, a small receipt like the one you
 see in Figure (#10).
-
-<pic images/cc3m.ps (#10) Credit card slip for the restaurant>
 
 Only now is the tip entered. In Figure (#10), you can see that our bill
 was $32.39. 15% of that would be $4.86, but since I'm not stingy, I
@@ -456,6 +456,8 @@ ensure that you get by well everywhere!
 
 @Z: Clickety-clack and Thump!
 
+<pic images/mamiya1.ps Angelika with the Mamiya 7>
+
 <em>Michael</em> 
 Angelika discovered during her photography courses that traditional
 SLR cameras do not deliver the image quality that she envisions,
@@ -469,10 +471,7 @@ for little money over the weekend, and that's what we did when
 we recently went down to San Luis Obispo (about halfway between San
 Francisco and Los Angeles) for a long weekend.
 
-TODO
-
-<pic images/pmam.ps The "Perlman" before the mission near the city of
-San Luis Obispo>
+<pic images/pmam.ps The "Perlman" in front of the mission near the city of San Luis Obispo>
 
 First, there was a Mamiya 7, a bulky rangefinder camera that's about
 twice the size of a regular SLR and has a 6 by 7 centimeter negative.
@@ -485,8 +484,6 @@ It hardly takes less than 5 minutes. A roll of film has only 12
 pictures. The film is wound after each picture with an old-fashioned
 crank on the side of the camera, which you turn in a circle like a
 barrel organ.
-
-<pic images/mamiya1.ps Angelika with the Mamiya 7>
 
 When you press the shutter release, the camera makes a dull sound
 that can be heard within a 50-meter radius and sounds like Mike Tyson
@@ -501,13 +498,13 @@ Angelika was busily handling the separate light meter and the hefty
 camera in the national park, a tourist actually asked if she was a
 geologist. Haha! Make way for Angelika!
 
-<pic images/otzen.ps The female photographer with the Hasselblad 503>
+<pic images/otzen.ps Photographer operating a Hasselblad 503>
 
 <em>Angelika</em> 
 So, now I want to have my say as well. Michael has already mentioned
-my tireless effort to find a suitable medium format camera for
+my tireless efforts to find a suitable medium format camera for
 myself. No purchase decision has been made yet, but I'm working on
-it. In addition to testing cameras, I also learned last semester how
+it. In addition to testing cameras, I've also learned last semester how
 to develop and enlarge color images myself. Color and black-and-white
 photography are quite different. With color, in addition to the fact
 that the color balance must be perfect, there's the added difficulty
@@ -521,28 +518,31 @@ $120. And Michael just can't understand how someone would voluntarily
 pay more. But the buyer simply felt that my photo was worth that much
 to her. Yay!!!
 
-@Z: The translation of "Abenteuer SpÃ¼lmaschine" to English is
-"Dishwasher Adventure.
+@Z: Adventure with a Dishwasher
+
+<pic images/spueli.ps The new rolling dishwasher>
 
 <em>Angelika</em> 
 And I want to report on another groundbreaking event. After almost
 four years, we bought a dishwasher. Now, you might not find this too
 exciting, but I tell you, anyone who knows how much Michael and I
 hate washing dishes, and anyone who has visited us and experienced
-firsthand how the dishes pile up and had to join in the dishwashing
+firsthand how the dishes pile up, and had to join in the dishwashing
 routine, will not only be happy for us but will thank us on their
 knees. Hey, stop the eye-rolling and gossiping. Now comes the funny
 part of the story. In our kitchen, it is impossible to install a
 dishwasher because the cabinets next to the sink are built in such a
 way that they can't be moved even a centimeter. This, by the way,
 seems to be a very common problem in American rental apartments,
-because there are rolling dishwashers available for purchase. Maybe
+because there are rolling dishwashers available for purchase.
+
+Maybe
 you can't quite imagine it, but as the name suggests, you roll the
-dishwasher to the sink, connect it to the faucet, and off you go.
+dishwasher up to the sink, connect its hose to the faucet, and off you go.
 This is, of course, not the most elegant solution in the world, as
 the machine then stands right in the way, and in our case, since our
 kitchen is so small, you can't reach the refrigerator or any cabinets
-when it's in operation. Yes, go ahead and laugh, I also wonder daily
+when it's in operation. Yes, go ahead and laugh, I also wonder on a daily basis
 how it can be that in the land of unlimited possibilities, one
 sometimes feels transported back to the Stone Age, but we will put up
 with anything as long as we don't have to wash dishes anymore. By the
@@ -555,10 +555,7 @@ from buying one before--you know, we live in a wooden house and the
 neighbor below us is a nagging goat), we are now proud owners of a
 dishwasher again. HURRAY!!!
 
-<pic images/spueli.ps The new rolling dishwasher>
-
-@Z: The translation of "Mietbedingungen in San Francisco" to English
-is "Rental conditions in San Francisco.
+@Z: The San Francisco Rental Market
 
 <em>Angelika</em> 
 Michael went to the trouble of putting together a shopping basket for
@@ -568,8 +565,8 @@ were! Unfortunately, the dizzyingly high rents are a harsh reality in
 San Francisco.
 
 Many of you already know that we pay "only" $1100 for our two-bedroom
-apartment. This is solely due to the fact that there is something as
-social as rent control in San Francisco, which is quite unusual in
+apartment. This is solely due to the fact that there is something from
+the socialist textbook called "rent control" San Francisco, which is quite unusual in
 capitalist America. Generally, the market strictly dictates prices
 here: if demand is high, prices are correspondingly high. Rent
 control in San Francisco simply means that the rent can only be
@@ -585,10 +582,11 @@ used commercially. This means that our corner newsstand cannot hope
 for "rent control." Additionally, the landlord is allowed to
 accumulate increases, meaning if they do not raise the rent in one
 year, they can increase it by not only the percentage valid for the
-current year but also add the percentage from the previous year. In
-San Francisco, however, a catastrophic situation has arisen from the
-fact that the landlord can charge as much as they want when a tenant
-moves out. Since the housing market in San Francisco has changed so
+current year but also add the percentage from the previous year.
+
+However, in San Francisco, all bets are off when a tenant
+moves out, then the landlord can charge as much as they want.
+Since the housing market in San Francisco has changed so
 dramatically in recent years, it is common for rent increases of
 200%-300% or more to occur when a tenant who has lived in the same
 apartment for a long time moves out. For example, our neighbor lives
@@ -600,8 +598,8 @@ This housing policy naturally leads to landlords being interested in
 getting long-term tenants with lower rents to move out if possible.
 In San Francisco, there are increasing reports of landlords letting
 apartments fall into disrepair to force tenants to leave, which was
-also very popular in New York in the eighties. In New York, "Rent
-Control" is also known -- but that's just a side note. I also know
+also very popular in New York City in the eighties. Yes, New York City also
+knows "Rent Control" -- but that's just a side note. I also know
 quite a few people who have had to leave their apartments because the
 buildings they lived in were sold and the new owner claimed personal
 use. This particularly affects tenants living in the very typical
@@ -619,13 +617,13 @@ booming internet industry, which should actually promise prosperity
 and tax revenue that should benefit a city, is responsible for the
 whole misery. The problem is that housing is limited, and more and
 more companies want to settle in San Francisco and Silicon Valley.
-And company openings also mean employees who need a place to live.
+And when company are hiring, their employees also need a place to live.
 Most internet companies are quite financially strong, so they can
 offer their employees good salaries, which in turn allows them to pay
-absurdly high rents to secure a part of the much too scarce housing.
+absurdly high rents to secure housing in a scarce market.
 
 The companies, in turn, are now settling in neighborhoods where
-artists had found their niche. These are usually unattractive
+traditionally artists had had found their niche. These are usually unattractive
 residential areas with old factory buildings that the artists had
 converted into studios and were affordable until now. The problem is
 that internet companies are willing to pay much higher rents, thereby
@@ -636,8 +634,8 @@ meters in an older company building. They paid $2000 in rent per
 month. But from now on, the studio will be an office for a computer
 company and will cost $12000 in rent per month. This month, the only
 two photo labs in San Francisco where you could do your own color
-developments also had to close. The rent was increased to the point
-where the owners could no longer operate them profitably. All the
+developments also had to close. The rent increased to the point
+where the owners could no longer operate profitably. All the
 renowned photographers of San Francisco developed and enlarged their
 own color photos there, as you can't just set up a color darkroom in
 your garage or basement.
@@ -649,8 +647,8 @@ generally refers to internet companies because they usually have a
 ".com" in their web address, such as yahoo.com. "Dot" (English for
 point) simply means the dot that precedes the "com." A "Dotcommer"
 works for an internet company, is a 25-year-old upstart fresh out of
-college, earns a lot of money, drives a fancy car, is always on their
-phone, and lives in San Francisco because it's currently "hip.
+college, earns a lot of money, drives a fancy car, is always on the
+phone, and lives in San Francisco because it's currently hip.
 
 And since I'm already dealing with negative developments, I must
 express our dismay that right-wing radical violence against
@@ -665,8 +663,6 @@ you could share your opinions and impressions on this. We rely on
 German newspapers and the Tagesschau over the internet, but of
 course, we are very interested in your personal experiences.
 
-The translation to English is: "So, write diligently!
+So, please drop us a note!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
