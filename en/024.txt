@@ -211,8 +211,6 @@ simple: everything in its own time. I have my own theory about why
 people like to use cell phones in public: so that everyone can see
 how important they are and how many people they know.
 
-TODO
-
 And since I'm already on the topic of the negative developments in
 modern communication technology, I must quickly get off my chest that
 there is one innovation, which almost every American household
@@ -223,10 +221,10 @@ engaged in a conversation, the person with "Call Waiting" suddenly
 hears the signal. They can then switch to the other call, leaving you
 bored on the line until they're ready to speak with you again. Even
 though there have been instances in Germany where people desperately
-tried to reach me and even called the fault service because the line
+tried to reach me and even called technical support because the line
 was always busy, "Call Waiting" will not be coming into my house.
 
-@Z: Ausländer
+@Z: Foreigners
 
 <em>Angelika</em> 
 Before I hand over to Michael, I would like to thank you for the
@@ -261,6 +259,8 @@ mind! On the contrary, people listen intently when I talk about how
 things are in Germany. And that's how I want it to be in Germany too.
 Don't mess things up! Don't embarrass me! And now, on to more
 pleasant things.
+
+TODO
 
 Oh my, time flies! I wanted to add something about the American
 Independence Day. This year, it fell on a Tuesday, and because of
