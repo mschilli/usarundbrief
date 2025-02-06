@@ -130,8 +130,6 @@ Germany. However, in the USA, "Big Brother" has surprisingly had
 little success and has been overshadowed by the reality show
 "Survivor" from the television network CBS. What is "Survivor" about?
 
-TODO
-
 Sixteen contestants of varying ages, genders, and personalities are
 stranded on an island with the melodious name "Pulau Tiga" near
 Malaysia. The "survival battle" is set for 39 days, broadcast over 13
@@ -145,11 +143,13 @@ breath underwater the longest; they even have to eat worms. The team
 that loses must vote out one of their members, who must immediately
 leave the island. This happens at the end of each show in a
 ceremonial tribunal. After several episodes, the tribes are merged. A
-competition takes place on each broadcast day, but now the winner
+competition takes place on each episode, but now the winner
 receives a talisman as a prize, which prevents them from being voted
 out. The very last "Survivor" receives a prize of one million dollars
 and is chosen in the final episode by the seven people who had to
 leave the island last.
+
+TODO
 
 You might be wondering what is so special about the show and that it
 probably has nothing to do with reality. I admit that running cameras
