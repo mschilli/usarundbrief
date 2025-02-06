@@ -321,9 +321,7 @@ impression one gets--and which I, of course, never tired of
 mentioning--is that someone here, after consuming plenty of eggs,
 onions, and beer, let out some, um, emissions. We laughed so much!
 
-TODO
-
-And we also hiked up a dormant volcano. After the half-hour ascent,
+And we also hiked up to a dormant volcano. After the half-hour ascent,
 we walked around the rim of the crater at the top. To give the
 curious newsletter readers a glimpse into the farthest corners of the
 world, the intrepid newsletter reporter even descended into the
@@ -338,19 +336,19 @@ crater. I was furious!
 
 <pic images/lassen5.ps Ascent to the Volcano>
 
-<pic images/lassen8.ps Looked from the edge of the crater into the
-hinterland>
+<pic images/lassen8.ps Looked from the edge of the crater into the hinterland>
 
-<pic images/kraterp.ps A circular letter narrator has descended
-bravely into the crater.>
+<pic images/kraterp.ps A circular letter narrator has descended bravely into the crater.>
 
-On the mountain, it looks like the moon, completely surreal. With
+The top of the mountain, looks like the surface of the moon, completely surreal. With
 each step, you sink a little into the fine-grained brown gravel that
 lies on the surface of the mountain. By the way, volcanoes in the USA
-are by no means extinct; ten years ago, Mount St. Helens in Oregon
+are by no means all dormant; ten years ago, Mount St. Helens in Oregon
 erupted and turned square kilometers of forest into rubble and ash.
 We were there six years ago, and it looked like a mess. But back to
 civilization!
+
+TODO
 
 @Z: Tips for Making Phone Calls
 
