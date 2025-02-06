@@ -149,8 +149,6 @@ out. The very last "Survivor" receives a prize of one million dollars
 and is chosen in the final episode by the seven people who had to
 leave the island last.
 
-TODO
-
 You might be wondering what is so special about the show and that it
 probably has nothing to do with reality. I admit that running cameras
 and TV crews hardly create a genuine Robinson Crusoe feeling, but
@@ -177,11 +175,11 @@ II is already in the planning stages. This time, the survival
 challenge will take place in Australia, where there is also quite a
 bit of dangerous wildlife.
 
-@Z: Handy-Plage
+@Z: The Mobile Phone Plague
 
 <em>Angelika</em> 
 Since Michael will explain to you in his section how to make phone
-calls in America, I will write to you, somewhat fittingly on the
+calls in America, I will write, somewhat fittingly on the
 topic, about the cell phone plague in America. On a current note:
 Michael has been provided with a cell phone as a bonus from his boss
 because he solved a software problem so elegantly. Well, of course,
@@ -193,7 +191,11 @@ don't want to risk receiving angry letters, let me note right away
 that I acknowledge that a cell phone can be very useful in
 emergencies. But does it really have to be used everywhere? I do
 enjoy talking on the phone for long periods, but I don't want to
-share my conversations with the whole world. In San Francisco, it has
+share my conversations with the whole world.
+
+TODO
+
+In San Francisco, it has
 really become a plague. The best experience I've had so far is a
 woman standing in a public restroom happily chatting away, which
 prompted me to wash my hands particularly loudly and for a long time
