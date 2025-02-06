@@ -260,38 +260,41 @@ things are in Germany. And that's how I want it to be in Germany too.
 Don't mess things up! Don't embarrass me! And now, on to more
 pleasant things.
 
-TODO
-
 Oh my, time flies! I wanted to add something about the American
 Independence Day. This year, it fell on a Tuesday, and because of
 that, Monday was also a day off -- a four-day weekend, we cried tears
-of joy. With the "PERL MAN," we drove up almost to the border of the
+of joy. With the "PERL MAN," we drove up almost all the way to the border of the
 state of Oregon, where the "Lassen National Park" is located.
 
-<pic images/lassen9.ps A bubbling mud pot in Lassen Volcanic National
-Park>
-
 @Z: The Lassen National Park
+
+<pic images/lassen9.ps A bubbling mud pot in Lassen Volcanic National Park>
 
 <em>Michael</em> 
 In the small town of "Mineral," which, according to the town sign,
 has 90 inhabitants, we checked into a motel for three days. During
 the day, we hiked through the mountains--20 kilometers in one day! We
 were on the move for about seven hours because we had to photograph
-every tree stump, every pretty piece of bark, and every moss on the
+every tree stump, every pretty piece of bark, and every growth of moss on
 trees. From these pictures, one could put together the most boring
 exhibition in the world under the motto "Trees and Mosses." We're
 working on it!
 
 <pic images/lassen6.ps The "Perlman" in alpine terrain>
 
-Ein
+A special hiking trail leading to the park's hot springs had been reopened
+recently, even though (at this time of year!) a lot of snow and ice still
+made the path quite difficult.
 
-<pic images/lassen1.ps Angelika on a snowfield on the way to the hot
-springs.>
+Most people were only wearing sneakers or sandals, and quite a few hikers took
+a tumble. I casually snapped a photo of a Frenchman who fell backward into the
+mud and had to walk around with brown pants afterward.
 
-<pic images/lassen3.ps Haha, the French sandal-wearing tourist ended
-up in the mud!>
+<pic images/lassen1.ps Angelika on a snowfield on the way to the hot springs.>
+
+<pic images/lassen3.ps Haha, the French sandal-wearing tourist ended up in the mud!>
+
+TODO
 
 The bubbling water holes in the national park are formed, according
 to the signs, because water at an altitude of 2500 meters boils at
