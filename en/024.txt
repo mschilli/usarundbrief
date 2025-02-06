@@ -59,10 +59,8 @@ marveled at and made fun of some of the achievements. I couldn't stop
 thinking about what remarks he would have made about a fitness
 center:
 
-TODO
-
 The Papalagi (as the chief refers to the European in his speeches)
-loves to exert himself in enclosed spaces where the sun cannot
+loves to exert himself in enclosed spaces which the sun cannot
 penetrate. He uses all sorts of things that resemble torture
 instruments. He forces himself into these machines and seems to seek
 pain, as his face is petrified and covered in beads of sweat.
@@ -98,7 +96,7 @@ that there are now supposedly more people practicing yoga actively in
 California than in India. I'm not sure if that's true, but it would
 fit with health-obsessed California.
 
-<pic images/yoga.ps The yoga center on Dolores Street>
+<pic images/yoga.ps The Yoga center on Dolores Street>
 
 What I actually wanted to tell you is that last week we couldn't
 attend our usual yoga class. Since there is now a yoga institute in
@@ -110,6 +108,7 @@ the building and were surrounded by incense sticks, photos of Indian
 gurus, and votive candles. After we paid at the reception and the
 girl there also mentioned that our class would take place in the
 temple, we rolled our eyes a bit and were very glad to be together.
+
 Nevertheless, we bravely climbed the stairs to the so-called temple,
 passing countless "guru pictures" along the way. Well, the whole
 thing continued in an esoteric style. Before we began our exercises,
@@ -119,7 +118,11 @@ to sing something like "Om, Om Shanti Shanti Shanti," and I could
 barely suppress a fit of laughter, I decided that this type of yoga
 wasn't quite right for me.
 
-@Z: The TV show "Survivor
+TODO
+
+@Z: New TV show "Survivor"
+
+<pic images/survivor.ps The motto of the Survivor show: Outwit-Outplay-Outlast (Outsmart-Outplay-Endure)>
 
 <em>Angelika</em> 
 We have often reported on American media events, and this time it's
@@ -146,9 +149,6 @@ receives a talisman as a prize, which prevents them from being voted
 out. The very last "Survivor" receives a prize of one million dollars
 and is chosen in the final episode by the seven people who had to
 leave the island last.
-
-<pic images/survivor.ps The motto of the Survivor show:
-Outwit-Outplay-Outlast (Outsmart-Outplay-Endure)>
 
 You might be wondering what is so special about the show and that it
 probably has nothing to do with reality. I admit that running cameras
