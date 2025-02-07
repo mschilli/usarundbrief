@@ -348,10 +348,11 @@ erupted and turned square kilometers of forest into rubble and ash.
 We were there six years ago, and it looked like a mess. But back to
 civilization!
 
-TODO
-
 @Z: Tips for Making Phone Calls
 
+<pic images/telefon.ps (#13) The number keys 2 to 9 are each assigned three letters of the alphabet: 2-ABC, 3-DEF, 4-GHI, 5-JKL, 6-MNO, 7-PRS, 8-TUV, 9-WXY. Q and Z are not included.>
+
+What do you do as a tourist visiting the country? You can call from the
 <em>Michael</em> 
 In our series "America for Tourists," today we will cover how to make
 phone calls in this country. First of all: How do you call into the
@@ -363,9 +364,9 @@ deduce the neighborhood from the three digits before the hyphen.
 
 By the way, according to scientific studies (the Bild newspaper
 always writes "American researchers have found out"), seven digits
-are the maximum that the human short-term memory can still
+are the maximum that the human short-term memory can
 retain--ideal for hearing the number and writing it down immediately.
-When asked for the phone number, people quickly recite the numbers,
+When asked for their phone number, people quickly recite the numbers,
 with a short pause instead of a hyphen.
 
 Every American phone number looks like this. It doesn't matter
@@ -395,28 +396,23 @@ here the word simply means 'practical'. Mobile phones are called
 The equivalent of the toll-free 0130 numbers in Germany are the
 so-called 1-800 numbers here. These are numbers with the area code
 (800), which, as explained above, must always be preceded by a 1.
-Recently, there are also 1-877 and 1-888 numbers, which are also
+Recently, 1-877 and 1-888 numbers were also introduced, which are also
 toll-free. The equivalent of the German 0190 number in America is
 1-900, which is known for high charges. By the way, the 1-800 numbers
 do not work from abroad. If there is no additional "normal" number,
 the only option is to call one of the American telephone companies
 (such as AT&T) and pay with a credit card.
 
-A typical American invention is the telephone letters. As shown in
-Figure 13, each number key on American phones is assigned three
+A typical American invention is the telephone number letters. As shown in
+Figure (#13), each number key on American phones is assigned three
 letters of the alphabet, with only the keys 1 and 0 remaining free.
 The purpose of this exercise: Companies can choose numbers that form
 meaningful words, making them easier to remember. If a radio
 advertisement, for example, said "Sign up for a tandem parachute jump
 today! Call 1-800-759-3483!" no one would likely remember the number.
 Instead, it says "1-800-SKYDIVE," which even the dimmest person can
-remember.
+recall.
 
-<pic images/telefon.ps The number keys 2 to 9 are each assigned three
-letters of the alphabet: 2-ABC, 3-DEF, 4-GHI, 5-JKL, 6-MNO, 7-PRS,
-8-TUV, 9-WXY. Q and Z are not included.>
-
-What do you do as a tourist in the country? You can call from the
 hotel, but they charge an arm and a leg. Most of the time, they not
 only demand a service fee before the call even starts, but the rates
 are also much higher compared to what you would pay with a private
@@ -499,7 +495,7 @@ which stands for "Call AT&T," the telephone company), and the
 automated voice will prompt you to enter the desired phone number.
 You can also record a short message that will be played to the
 recipient (e.g., "Hey, it's me, Michael, don't leave me hanging!!"),
-so they can decide whether to accept the call and cover the costs. If
+so they can decide whether to accept the call and cover the cost. If
 they say "yes," the call goes through.
 
 <pic images/pbooth2.ps 0.35 cents for a local call>
@@ -568,11 +564,11 @@ kids, we are trained professionals!
 <pic images/att.ps A section from our phone bill: Saved 457 dollars!>
 
 By the way, American phone bills are meticulously itemized, showing
-when you called which number, how long the conversation lasted, and
+when you called which number, how long the conversation went on, and
 how much it cost. The bill is usually four to six pages long,
 includes dozens of opaque taxes and fees, and you need at least a
 high school diploma, if not a doctorate in business administration,
-to make sense of it. For example, a basic connection costs about $19
+to make sense of it. For example, a basic hookup costs about $19
 per month. Exactly eleven (11) different items are itemized: The
 largest portion is the "Residence Flat Rate Service," the basic fee
 that includes all local calls at a fixed price. Then there are things
@@ -582,6 +578,8 @@ newsletter readers can help me out: From "Number Portability Svc
 Charge" ($0.34), to "CA High Cost Fund Surcharge" ($0.27), to "State
 Regulatory Fee" ($0.01), I file the whole thing every month under
 "Clear rip-off, but I'll get it back from you elsewhere.
+
+TODO
 
 @Z: Californian Wine Tips
 
