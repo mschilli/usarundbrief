@@ -2,7 +2,7 @@ San Francisco, 11-1-2000
 
 @Z: Hawaii: Big Island
 
-<pic images/bi20.ps A lava flow begins to flow on Big Island, Hawaii.>
+<pic images/bi20.ps (#1) A lava flow begins to flow on Big Island, Hawaii.>
 
 <em>Michael</em> Hello at home, we went on a short vacation again -- an entire
 one and a half weeks, simply incredible! Since I've been with AOL for three
@@ -18,11 +18,9 @@ can be enlarged if you click on them. It's worth throwing a few deutschmarks at
 the German Telekom to cover the cost! There you go, the lava flowing in red, the
 waves foaming in white! Click diligently on the following pictures!
 
-TODO
-
 Of course, on Big Island, just like everywhere else in Hawaii, there
 are those beaches with almost snow-white sand and blue-green water,
-which is a delightful 22 degrees Celsius, allowing you to frolic in
+which is at a delightful 22 degrees Celsius, allowing you to frolic in
 it for hours. In the fall, the ocean brings pleasantly high waves,
 and we discovered a new passion: surfing the waves without a board,
 called "body-surfing," because you surf with your body. You let
@@ -32,11 +30,9 @@ meters to the shore. To achieve this, years of training are, of
 course, necessary, so don't try this at home, kids! We certainly had
 our fun and spent at least an hour in the water every day.
 
-<pic images/bi9.ps Michael gasps for air after a wave hit him hard in
-the evening light.>
+<pic images/bi9.ps Michael gasps for air after a wave hit him hard in the evening light.>
 
-<pic images/bi12.ps Angelika realizes just in time that the wave is
-too high to surf and dives underneath it.>
+<pic images/bi12.ps Angelika realizes just in time that the wave is too high to surf and dives underneath it.>
 
 The waves sometimes come in very powerfully and often break
 unexpectedly, so you have to be very careful and, if necessary,
@@ -60,21 +56,21 @@ you return the whole plastic thing for developing.
 
 <pic images/bi11.ps Angelika snorkeling>
 
-<pic images/bi3.ps A giant turtle in the sea almost at the beach.>
+<pic images/bi3.ps (#5) A giant turtle in the water almost at the beach.>
 
-Furthermore, on Big Island, you can rent diving masks and swim fins
-for little money and snorkel around in the water. There are plenty of
+Furthermore, on Big Island, you can rent diving masks and fins
+for little money and then snorkel around in the water. There are plenty of
 colorful tropical fish, which are also quite large; 50 cm is not
 uncommon. As a special attraction, there are these giant turtles down
-there, which can grow up to a meter long (see Figure 5). With a
+there, which can grow up to a meter long (see Figure (#5)). With a
 diving mask and fins, you can swim very close to them. They don't
-care about the tourists at all and continue to calmly clean the algae
+care about the tourists at all and continue to calmly to snap up the algae
 between the stones. They get tossed around quite a bit by the waves
 because they swim very slowly, but that doesn't seem to bother them.
 
 But the real highlight on Big Island is the active volcanoes. The
-island has been overrun a few times by dangerous, bubbling lava
-flows. There are roads that have been simply buried by the glowing
+island has seen dangerous, bubbling lava flows several times in the
+past. There are roads that have been simply buried by the glowing
 lava on its way to the sea and have not been restored since. Formerly
 inhabited, then evacuated villages are now ghost towns. The lava,
 which is molten rock, flows very slowly during an eruption, allowing
@@ -87,33 +83,33 @@ stone.
 <pic images/bi18.ps It's steaming!>
 
 In certain regions, you can purchase land on Big Island very cheaply;
-sometimes you pay only a few thousand dollars for a hectare that is
+sometimes you pay only a few thousand dollars for an acre that is
 very close to the threatened areas. No one knows when the next lava
-flow will come, and then it will be: That was your price! Once, we
+flow will come, and then it'll be: This would have been your prize! Once, we
 drove around at night in the southeast of the island, where the lava
-last raged. There, we saw the last hippies of the USA. Rumor has it
+last raged. There, we saw the last hippies in all of America. Rumor has it
 that the FBI also hides people here who fall under the Witness
 Protection Program, meaning "key witnesses" who no longer dare to
 mingle with the public because of their court testimonies.
 
-<pic images/bi16.ps The volcano smokes and hisses everywhere.>
+<pic images/bi16.ps The volcano smokes and hisses all over the place.>
 
-<pic images/bi8.ps The half of the island looks like a plowed field.>
+<pic images/bi8.ps Half of the island looks like a plowed field.>
 
 <em>Angelika</em> 
 This time, Michael actually shows his generous side and lets me
 describe our spectacular hike to the still-flowing lava--one of the
 most adventurous and impressive experiences we've had so far. Michael
 already mentioned that Big Island is practically made up entirely of
-volcanoes, which have internalized the local way of life and take
-everything a bit more calmly and leisurely: The lava flows extremely
+volcanoes, which determine the local way of life, and residents
+there take everything a bit more calmly and leisurely: The lava flows extremely
 slowly. That's why it usually hardens again right away as it makes
 its way. I must admit that I am not very knowledgeable in geology
 (geologists among you, please forgive me if I don't use terms like
 "lava," "magma," and the like quite accurately) and until now, I
 believed that volcanic eruptions are always violent, bubbling, and
 frothing with huge fountains of fire, and everything screams: "Save
-yourself if you can!
+yourself if you can!"
 
 In Hawaii, it's quite the opposite: A volcano erupts, and everyone
 sets out to witness the magnificent natural spectacle. I was also
@@ -125,27 +121,25 @@ flow on the surface; it often makes its way to the sea underground.
 But we were lucky: When we visited the national park, it was flowing
 above ground.
 
-<pic images/bi19.ps The lava flow in Figure 1 continues to flow
-further.>
+<pic images/bi19.ps The lava flow in Figure (#1) continues to flow further.>
 
-Anyone who has been to American national parks knows the phenomenon
+Anyone who has been to an American national park knows the phenomenon
 that they are usually designed in such a way that many of the
 attractions can be easily reached by car, and you generally only have
-to walk a few meters. This has always bothered Michael and me, so we
-always go on extensive hikes to escape the crowds. The "Hawaii
-Volcanoes National Park" can also be experienced as a
+to walk a few feet. This has always bothered Michael and me, so we
+usually go on extensive hikes to escape the crowds. Now, the "Hawaii
+Volcanoes National Park" can be experienced as a
 "Drive-Thru-Experience." Of course, we didn't want that, so we
 decided to hike to the flowing lava.
 
-You can only get there if you're willing to walk 5 to 6 hours (round
-trip) on an unmarked path over hardened lava parallel to the ocean.
-We weren't initially deterred by the fact that the hiking trail is
-considered extremely dangerous and that the park rangers (similar to
-forest rangers) don't directly prohibit the hike but strongly advise
-against it. But by now, we're used to the American obsession with the
-fear of being sued. This leads to over-cautiousness and sometimes
-absurd safety measures. I just want to remind you that the manual for
-our American microwave actually states that the device is not
+You can only get there if you're willing to walk 5 to 6 hours (round trip) on
+an unmarked path over hardened lava parallel to the ocean.  We weren't
+initially deterred by the fact that the hiking trail is considered extremely
+dangerous and that the park rangers (similar to forest rangers) don't directly
+prohibit the hike but strongly advise against it. But by now, we're used to
+American being overly cautious because they're afraid of of being sued. This
+does sometimes lead absurd safety measures. I just want to remind you that the
+manual for our American microwave actually states that the device is not
 suitable for drying your cat.
 
 We were a bit puzzled, however, that our favorite travel guide
@@ -160,8 +154,9 @@ into her eye from the smoke cloud (despite wearing sunglasses). And
 this German woman in question was at least 10 years younger than us
 and didn't exactly give a frail impression.
 
-<pic images/bi21.ps Angelika is almost melting from the heat. The
-molten rock on the right is really glowing.>
+<pic images/bi21.ps Angelika is almost melting from the heat. The molten rock on the right is really glowing.>
+
+TODO
 
 It should be noted with some reservation that the hiker who did not
 return alive from the hike had set out alone at night, which is
