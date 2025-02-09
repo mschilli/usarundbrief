@@ -121,7 +121,7 @@ flow on the surface; it often makes its way to the sea underground.
 But we were lucky: When we visited the national park, it was flowing
 above ground.
 
-<pic images/bi19.ps The lava flow in Figure (#1) continues to flow further.>
+<pic images/bi19.ps (#10) The lava flow from intro photo continues to flow further.>
 
 Anyone who has been to an American national park knows the phenomenon
 that they are usually designed in such a way that many of the
@@ -156,8 +156,6 @@ and didn't exactly give a frail impression.
 
 <pic images/bi21.ps Angelika is almost melting from the heat. The molten rock on the right is really glowing.>
 
-TODO
-
 It should be noted with some reservation that the hiker who did not
 return alive from the hike had set out alone at night, which is
 perhaps something one should not do. However, many people set out
@@ -168,11 +166,10 @@ somewhat night-blind), we decided to steer clear of this idea.
 Stumbling over black lava for five to six hours, armed only with a
 flashlight, didn't seem so dreamy to us--adventure or not.
 
-<pic images/bi22.ps Beneath the feet flows the glowing lava. Or is it
-called magma?>
+<pic images/bi22.ps Beneath our feet flows the glowing lava. Or is it called magma?>
 
-Well, we decided to follow the rangers' recommendations under letter
-F and also to set off very early in the morning to avoid walking in
+Well, we decided to follow the rangers' recommendations to the letter
+and set off very early in the morning to avoid walking in
 the midday heat. A wise decision, as it turned out later, because
 black lava heats up well and, of course, there is no shade due to the
 lack of plants or trees, not to mention the heat emitted by the
@@ -181,9 +178,9 @@ glowing lava. So we armed ourselves with 3 liters of water per person
 bars, an energy drink, sunglasses to avoid getting glass particles in
 our eyes, scarves as mouth protection against the fumes near the lava
 flow, rain jackets (the only thing we didn't need), a first aid kit,
-and of course our good hiking boots, which accompany us on every hike
-anyway (mine had to be retired after this one, as they were already a
-bit old and the heat from the lava finished them off).
+and of course our good hiking boots, which have been accompanying us on every hike
+so far.  Mine had to be retired after this one, as they were already a
+bit old and the heat from the lava finished them off.
 
 I even put on the recommended long pants, a real concession in
 Hawaii, as you can easily fall on the hardened lava (as mentioned,
@@ -218,10 +215,9 @@ this: black lava as far as the eye can see, the ocean on the right
 sparkling in competition with the sun, mountains or volcanoes on the
 left, no one in sight, just the two of us in endless vastness.
 
-<pic images/bi50.ps Hardened lava: On top, an almost metallic-looking
-layer, underneath crumbly stuff.>
+<pic images/bi50.ps Hardened lava: On top, an almost metallic-looking layer, underneath crumbly stuff.>
 
-At the beginning of the path, there are always warning signs that you
+At the trail head, there are always warning signs that you
 should not get too close to the ocean, but instead keep a distance of
 about 400 to 500 meters. This is because the hardened lava near the
 ocean forms new land, which is very unstable. There can be
@@ -229,7 +225,7 @@ underground explosions that tear huge areas into the ocean. To make
 people believe this, the dead and injured from previous accidents are
 listed in all the brochures. They ignored the warning signs and were
 swept into the sea. After a few kilometers, you suddenly come across
-a stretch of road, which seems completely surreal.
+a stretch of abandoned road, which seems completely surreal.
 
 <pic images/bi53.ps The lava has buried the road.>
 
@@ -246,14 +242,13 @@ your feet get hot, we were told. And that's exactly how it was: The
 cloud blows and wafts acrid fumes into your face. Your lungs hurt,
 and your feet become incredibly hot despite the thickest hiking
 soles. When you look down, you can see the lava glowing beneath your
-feet.
+feet through cracks in the rocks.
 
 <pic images/bi5.ps Angelika is exhausted from hiking!>
 
-<pic images/bi52a.ps Michael doesn't know what to do with all his
-strength and lifts up a solidified lump of lava.>
+<pic images/bi52a.ps Michael doesn't know what to do with all his strength and lifts up a solidified lump of lava.>
 
-Comparable to standing on glowing coals. We felt like we were
+It's like standing on glowing coals. We felt like we were
 melting. Additionally, there was a tremendous crunching sound when we
 stepped on the super-fresh crusted surface. In that moment, you don't
 think about the dangers at all. You feel as if you are part of this
@@ -262,15 +257,17 @@ feel, and experience how the Earth is formed. Indescribable! Then, as
 we were almost on our way back, the newly crusted lava suddenly
 opened up just a meter away from my feet and slowly and leisurely
 flowed towards me in a bright orange, we could only marvel. Even
-though the way back dragged on painfully, we were also in a kind of
+though the hike back was dragging on painfully, we were also in a kind of
 trance and would walk the long path again at any time.
 
 <em>Michael</em> 
-If you want to know how the lava continued to flow after Figure 1 at
-the beginning of the newsletter, you just need to look at Figure 10;
-it was really impressive. On the website http://usarundbrief.com, you
+If you want to know how the lava continued to flow after Figure (#1) at
+the beginning of the newsletter, you just need to look at Figure (#10);
+it was really impressive. On the website https://usarundbrief.com, you
 can see it much more clearly than in the printout. Not only in color,
 but also with the option to zoom in.
+
+TODO
 
 On the way there, we saw red lava streams pouring into the sea as if
 from thick fire hoses. I wanted to quickly attach the telephoto lens
