@@ -377,10 +377,8 @@ Des Moines, Iowa, where I've never been, and I'll get you a six-pack
 of beer from the fridge in 30 seconds. Second row from the left, of
 course.
 
-TODO
-
-This helps people here, who move much more frequently than, for
-example, Germans, to quickly find their way around new areas. 5000
+This helps people here, who move their home much more frequently than, for
+example, Germans, to quickly find their way around new areas. 5,000
 miles away from home, but at least the supermarket reminds them of
 home -- people need continuity. So we didn't hesitate for long (or
 rather, I pestered Angelika until she agreed) to go to our (or more
@@ -393,12 +391,12 @@ home but Hawaiian, otherwise everything was the same. I almost bought
 the 48-piece tire pressure set, but at the last second, I remembered
 that we were on vacation. Well, already completely Americanized...
 
-What I also noticed: the incredible cold that prevails in the
+What I've also noticed: the incredible low temperature that prevails in the
 supermarkets in Hawaii. I believe every store needs its own nuclear
 power plant, that's how cold they set the air conditioning there.
-When it's still a pleasant 25 degrees outside, they cool it down to
-16 or so inside, which is apparently considered a symbol of luxury.
-Yet, it's still wonderfully warm in Hawaii even in the evening hours,
+When it's still a pleasant 75 degrees Fahrenheit outside, they cool it down to
+58 or so inside, which is apparently considered a symbol of luxury.
+On that note, it's still wonderfully warm in Hawaii even in the evening hours,
 and anyone coming from San Francisco knows how valuable that is. One
 evening, when we were sitting outside at Roy's restaurant in T-shirts
 and a pleasant breeze started, the head waiter immediately came over
@@ -413,12 +411,9 @@ A pound of the best costs 25 dollars! We joined a tour of the
 plantation. The fruits, which grow on bushes and look somewhat like
 rose hips, are picked when they are red.
 
-<pic images/bi41.ps A coffee shrub bears fruits that later become
-coffee beans.>
+<pic images/bi41.ps A coffee shrub bears fruits that later become coffee beans.>
 
-Here's the translation to English:
-
-"Subsequently, an ancient machine removes approximately three layers
+Subsequently, an ancient machine removes approximately three layers
 of shell, leaving behind small kernels that look like a mixture of
 hazelnut and oatmeal. Or unsalted peanuts without shells. These are
 then dried, and finally, they go into the roastery, which roasts them
@@ -442,8 +437,8 @@ food, I also quickly disproved the theory of relativity in the
 process.
 
 In Hawaii, there is an old law that states: Every beach must be
-publicly accessible. If a hotel chain sets up near the beach, it must
-leave a small access path to the beach open. Begrudgingly, the
+publicly accessible. If a hotel chain sets up an ocean front property, it must
+leave a small access path open for locals to get to the beach. Begrudgingly, the
 uniformed staff will let you pass when you shuffle by them in
 flip-flops to get to the beach. No wealthy snob is allowed to build
 their fortress on the beach and fence it off--the beach is for
@@ -453,8 +448,7 @@ East Coast where you had to drive around for hours to get to the
 beach because house after house was built along the beach and
 everything was fenced off.
 
-<pic images/bi4.ps In Hawaii, the beaches are sometimes a bit
-hidden.>
+<pic images/bi4.ps In Hawaii, the beaches are sometimes a bit hidden.>
 
 Hawaii has beaches for tourists and also some for the locals. Tourist
 beaches are signposted. That's where all the clueless people go. The
@@ -494,6 +488,4 @@ South Sea paradise.
 
 Until the next newsletter, again from San Francisco!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
