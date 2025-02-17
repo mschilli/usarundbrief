@@ -1,0 +1,459 @@
+
+San Francisco, 12-04-2000
+
+@Z: The Presidential Election Disaster
+
+<pic images/f1.ps A neck-and-neck race in Florida.>
+
+<em>Angelika</em> 
+America still does not have a new president. In Germany, you are
+surely observing this election thriller while shaking your head and
+perhaps with a bit of schadenfreude, because it is indeed fascinating
+that a country that always prides itself on being a leader in this
+and that cannot manage to count votes accurately. Although
+the German press has reported extensively on the presidential election, I
+would still like to add a few details, as some classic American
+phenomena are emerging.
+
+First of all, there is the highly complicated and yet quite
+old-fashioned seeming election process. The American President is not
+elected directly by the people, but by a body of electors known as
+the "Electoral College." Each American state sends electors to this
+body. A candidate needs at least 270 out of a total of 538 electoral
+votes to become President. However, not every state is allocated the
+same number of electors. The more populous the state, the more
+electors it sends. For example, California is one of the most
+populous states and therefore sends 54 electors, whereas Hawaii sends
+only 4. The election on November 7th was therefore intended to
+determine the composition of the group of electors. Generally, the
+candidate who wins in a particular state (known as the "popular
+vote") receives all of that state's electoral votes. Winning at this
+stage does not require an absolute majority; even a lead of a handful
+of votes is enough to secure all the electoral votes. This is why
+Florida is currently the deciding factor. Without Florida's electoral
+votes, neither Bush nor Gore can achieve an absolute majority in the
+Electoral College. The electors are usually long-standing, loyal
+party members to ensure they do not vote against the will of the
+people. What seems bizarre about this system is that a candidate can
+have more total votes nationwide than their opponent but still receive
+fewer electoral votes. This is already the case in this election, as
+Al Gore has secured the "popular vote" (votes cast nationwide).
+Nevertheless, Bush is likely to become President.
+
+TODO
+
+The Electoral College is set to convene on December 18 to elect the
+president. The official inauguration will then take place on January
+20. By the way, the Electoral College system dates back to 1787 and
+was intended, among other things, to ensure that the states have
+sufficient say. Numerous attempts have been made to modify the
+Electoral College system, but so far without success. We can only
+hope that after this election disaster, something will finally
+happen. Some critics already suggest that it might not be necessary
+to change the electoral system, but that it might help to acquire
+more modern counting machines. In Germany, you might wonder how it is
+possible that not every state uses the same technology in a
+presidential election. This is again due to the principle that each
+state has extensive decision-making freedom. For example, not only is
+the death penalty present in some states in America and not in
+others, but there are also different technologies for counting votes
+and different ballots. These can vary not only from state to state
+but also from district to district. As a result, some Americans make
+crosses, others draw black lines in a designated field, and still
+others punch holes. For this, the ballots are clamped into a device,
+and you receive a pen-like tool to punch out a pre-drawn hole--next
+to the name of your preferred candidate. This voting method led to
+chaos in Florida. Where a hole is punched, there is circular confetti
+waste, called "chad" in America.
+
+<pic images/election.ps Red: Bush. Blue: Gore.>
+
+Unfortunately, this is apparently not so simple, because sometimes
+this punched-out waste still hangs by a thread on the ballot card.
+The counting machine then doesn't understand what's going on and
+rejects the ballot as invalid. Therefore, hand counting in Florida
+should provide more accurate results. The question that went around
+the country was: What counts as a valid vote? Thus, the "chads" were
+also categorized. My two favorites are: "pregnant chads," the waste
+pieces that have barely detached from the card, and "dimpled chads,"
+where only a bulge is visible. However, since there are unfortunately
+no uniform guidelines for hand counting in Florida, experts were seen
+arguing about "chads" on every TV channel - a perfect absurd theater.
+
+Although the results of the counts (including the highly
+controversial hand counts) were announced in Florida at 5 PM local
+time last Sunday (November 26), this does not necessarily mean that
+the winner of the 25 electoral votes in Florida, George Bush, will
+remain the winner, as numerous lawsuits are still pending in various
+American courts.
+
+What is crucial now, above all, is what the American "Supreme Court"
+(similar to the Federal Constitutional Court in Germany) will decide
+in the coming days. The question is whether the highest court in
+Florida was authorized to allow manual recounts in Florida beyond the
+deadline set in the election law. George Bush says the judges in
+Florida exceeded their authority. Al Gore, on the other hand,
+believes that everything was done correctly, as no voter's voice
+should be disregarded.
+
+Incidentally, it is sensational that for the first time in U.S.
+history, the Supreme Court in Washington is intervening in an
+election. Americans firmly believe in the sovereignty of individual
+states, as previously mentioned, and election laws are, even in
+presidential elections, a matter for the states, in this case,
+Florida. However, a decision by the Supreme Court in favor of Bush
+can only increase his lead. Currently, Bush is ahead of Gore in
+Florida by 537 votes. If the hand recounts are declared invalid
+beyond the deadline, the lead increases to 930 votes, and the legal
+battle shifts back to Florida. Gore wants to ensure that a hand
+recount is conducted in a county called "Leon" (a "county" can be
+compared to a German district) because the counting machines there
+failed to account for about a thousand ballots. Since this county
+typically votes Democratic, Al Gore hopes to gain votes through a
+hand recount and ultimately defeat Bush.
+
+The problem is that time is running out, and the hand recount should
+actually begin immediately. By December 12, the electors must be
+definitively appointed so that they can cast their official votes on
+December 18 and elect the president. And the hand recount can take
+time. In Florida, the state legislature is already threatening to
+simply appoint the electors themselves if there is still no proper,
+official election result by December 12. The problem is that the
+state legislature in Florida has a Republican majority (the same
+party to which George Bush belongs) and would thus appoint
+Republican-leaning electors. Allegedly, this is supposed to be legal,
+but I find it quite dubious, as the votes of the people in Florida
+would not be considered at all.
+
+Regarding the media: They behaved very much like the American media
+on election night, as they did not shy away from spreading reports
+(in the pursuit of higher ratings) that were based only on vague
+predictions--and were also completely wrong. For instance, Florida
+was first called for Al Gore, then for Bush. Only afterward did they
+report that the result was too close to call and that all votes would
+need to be counted. Such false reports can indeed influence the
+election outcome, as, due to the different time zones, polling
+stations on the West Coast are still open while counting is already
+underway in other states.
+
+The narrow election result also clearly reflects the state of the
+nation. None of the candidates really impressed the Americans, and
+the country seems like a divided nation. The coastal states and those
+around the Great Lakes (a traditional stronghold of unions) went to
+the more liberal Gore, who advocates for better social programs,
+environmental protection, improved healthcare, stricter gun laws,
+reducing national debt, and more government control (a very sensitive
+topic in America). Meanwhile, the states in the middle went to the
+conservative Bush, who promotes tax cuts (especially for the
+wealthy), the right to bear arms, strengthening the military,
+voluntary environmental protection, and as little government
+regulation as possible. I wonder how anyone can be so mentally
+deranged as to vote for Bush, but I seem to keep forgetting that San
+Francisco cannot be compared to the rest of the USA. Not only is
+voter turnout in San Francisco always enormous by American standards
+(around 80% in this election, compared to about 50% nationwide), but
+the more liberal candidate is always chosen, with many in San
+Francisco finding Al Gore too backward and most preferring to vote
+for Ralph Nader of the American Greens. In general, I find it
+interesting that everyone openly talks about whom they voted for; it
+is absolutely not a taboo.
+
+Perhaps you are also interested in how to register as a voter in
+America, since there is no mandatory registration. In San Francisco,
+for example, you often encounter people in public places or on the
+subway who are running around with lists that you can sign to
+register as a voter. Alternatively, authorities like the DMV send out
+registration forms. Only American citizens who are at least 18 years
+old are eligible to vote. Those who only have a Green Card or a visa
+are not allowed to vote. In most American states, convicted felons
+are also not allowed to vote, and in a few states, this restriction
+even applies for life, which is quite alarming.
+
+Well, the American courts have to decide. This is another one of
+those American phenomena: suing at every opportunity. I also find it
+fascinating that a major state crisis hasn't erupted because of this
+election disaster. There are increasing voices saying that enough is
+enough, but no one criticizes America per se. Even in the greatest
+chaos, it is repeatedly emphasized how well and democratically
+everything is going and how grateful people are to live "in the
+greatest country" in the world. I find that quite strange. The fact
+that foreign countries are making fun of America is, of course, not
+mentioned. Be that as it may, it remains exciting...
+
+<em>Michael</em> 
+Finally, finally it's my turn! Regarding today's newsletter quiz
+question: For which candidate would Angelika have voted if she had
+been allowed to vote? Haha, just kidding. Regarding the election, I
+just wanted to add that Figure 2 clearly shows how Republicans and
+Democrats divide the country: the middle for Bush and the coastal
+areas for Gore. And although at first glance it looks like Bush won
+by a landslide in terms of area, it ultimately almost ended in a tie,
+because the states in the middle of the USA are much less densely
+populated and therefore have fewer electoral votes.
+
+@Z: At the headquarters of AOL
+
+<pic images/aol.ps At the headquarters of AOL>
+
+<em>Michael</em> 
+Recently, I was in Dulles, Virginia, for a few days to take care of
+some things at AOL. On the way home, when our flight was delayed and
+we wanted to quickly grab some lunch, my colleague Chris and I came
+across a tavern advertising its beer with an "Oktoberfest" sign. Next
+door was a McDonald's, so we quickly decided to combine food from one
+place with a drink from the other. Suddenly, a group of
+German-speaking gentlemen rushed by--and I couldn't believe my eyes,
+among them was the actor Armin Mueller-Stahl! You know, the
+gray-haired guy with the mustache who also appears in many American
+films (like "Night on Earth" by Jim Jarmusch, for example). He also
+noticed the "Oktoberfest" sign, slowed down, and went back, seemingly
+intending to grab a beer, but then changed his mind and took off
+again. And that in Dulles, Virginia! I wonder what he was doing
+there?
+
+@Z: Green Day" is already in English. It is the name of an American
+rock band. If you are referring to something else, please provide
+more context.
+
+<em>Michael</em> 
+Now for the local news. Those who have purchased the new album
+"Warning" by the world-famous group "Green Day" may have wondered
+what the following lyrics mean:
+
+\begin{verse}
+
+<pic images/greenday.ps One of Michael's favorite bands: Green Day
+from Berkeley>
+
+City by the Bay" naturally refers to San Francisco, and "Mr. Whirly,"
+who faced misfortune, had to sell his house and spend the night in
+the "Haight," the neighborhood in San Francisco where the last
+hippies live. Because the Golden Gate Park is so close, where you can
+sleep in the woods at night, albeit uncomfortably but for free, this
+area is particularly popular with the homeless, which also includes
+many young runaways. If the stock prices keep falling like this,
+we'll be there soon too! No, no, just kidding, please don't send
+money yet. No, what I meant to say is: The world-famous band "Green
+Day," which I already enjoyed listening to in Munich, comes from
+Berkeley--right next to San Francisco, on the opposite side of the
+Bay Bridge.
+
+@Z: Weintipps
+
+<em>Michael</em> 
+To our wine section: Paula Bosch from the SÃ¼ddeutsche Zeitung has
+not yet responded, so our tips don't seem to be completely wrong.
+Here comes the next one: During one of our excursions through the
+Sonoma Valley, we stumbled upon an excellent Zinfandel wine. And I am
+not afraid to shout this to the world: The St. Francis, "Old Vines",
+Zinfandel, 1998 is so powerful, it will knock you off your feet. An
+extraordinary aroma of raspberries and vanilla. As mentioned before,
+this is, of course, red Zinfandel; no sensible person drinks the pink
+stuff. Ideal for dishes with garlic or other spicy foods. It costs
+$22, not cheap, but the money is well spent.
+
+<pic images/francis.ps Good Wine: St. Francis, "Old Vines", Zinfandel
+1998>
+
+@Z: Redefreiheit
+
+<em>Michael</em> 
+Now to Michael's main topic of the day: Freedom of speech in the USA!
+The Constitution here has several additions, the so-called
+Amendments. The First Amendment is "Freedom of Speech," which is
+truly worth discussing here and is not as restricted as in Germany.
+
+
+The strange English is due to the fact that a) it is a legal text and
+b) from 1791. So far, so dry. Let me explain the meaning of this part
+of the Constitution with a practical example: If you want to insult
+someone in the USA, you don't tap your forehead with your index
+finger -- this gesture doesn't mean anything bad, at most it means: I
+am smart. No one pays any attention to it at all, which often happens
+to me when I'm out on my bike, some idiot cuts me off, I shout and
+give the bird, and only get puzzled looks in return. It's always very
+funny, but these are behaviors programmed in over decades that I
+unfortunately can't turn off.
+
+No, seriously, here, the middle finger is used to seriously insult
+someone. And the good thing about it: It's constitutionally approved
+by the aforementioned "Amendment" and not punishable. No kidding, the
+insulted person can't do anything about it, except, of course, draw a
+gun and shoot, but we'll cover gun laws in the next newsletter. You
+can also shout "You @#$@!" Insert the worst swear word you
+know--whatever you want to say or imply, you can express it
+completely without penalty, no problem. As long as you don't touch
+the other person, everything is allowed. However, if you cross that
+line, there are draconian penalties. If you just touch someone with
+your finger, they can immediately drag you to court and sue you for
+millions. Verbal or gestural insults, however, are absolutely
+meaningless--when I tell my American colleagues that in Germany
+drivers report each other because someone tapped their forehead, they
+laugh their heads off.
+
+There are two exceptions to "verbal abuse," or "spoken abuse": You
+are not allowed to shout "Fire, fire!" in a crowded cinema. And you
+are not allowed to threaten to kill the President of the USA. A
+colleague once told me that one of his classmates wrote something
+like that in a school essay, and the police immediately showed up.
+Seriously, only these two exceptions are punishable by law;
+everything else is protected by the Constitution.
+
+Our friend Greg once irrefutably proved the validity of the First
+Amendment by giving the finger to all the drivers on the highway for
+no reason during his drive home from work -- and received one or two
+disapproving looks, but no aggression. He even claimed that one could
+insult police officers at will, but the intrepid newsletter reporter
+didn't want to test that out.
+
+Freedom of Speech" also means that every political party here has
+unrestricted freedom of speech. The first immigrants to the USA were
+persecuted by political or religious institutions, seeking protection
+here, and that's why the founding fathers enshrined unrestricted
+freedom of speech and religion as one of the most important and
+comprehensive principles. This is also the reason why Americans often
+look disapprovingly at Germany when the Scientology sect is
+persecuted again -- here, that would be unthinkable and would trigger
+a revolution.
+
+By the way, the previously mentioned freedom of speech does not apply
+to radio or television -- this is strictly controlled by an authority
+called the FCC (Federal Communications Commission). For example, it
+is not allowed to say even "ScheiÃe!" (Shit!) on the radio or
+television. Therefore, for current rap songs, which do not shy away
+from using crude and even cruder words, there is usually the original
+version on CD, which bears the sticker "Parental Advisory -- EXPLICIT
+LYRICS" ("Warning to all parents: Explicit language"), and the radio
+version, from which the indecent words have already been edited out
+by the record company using sophisticated technical means. The music
+continues to play in the background while the singer suddenly cannot
+be heard. This is often quite silly, because in 9 out of 10 cases,
+you can easily deduce the missing word from the rhyming lines.
+
+\begin{verse}
+
+<pic images/springer.ps Things are getting wild on the Jerry Springer
+Show. The security guards are preventing the participants from
+beating each other up.>
+
+Talk show television programs, where people hurl insults at each
+other (such as "Jerry Springer"), are edited before airing, and
+indecent words are drowned out by a beep (English: Bleep). When
+things really get heated, you often can't hear the text anymore
+because of all the bleeping. This is also a popular source of humor:
+when someone is speaking on TV and suddenly every other word is
+drowned out by a beep, it always causes laughter because you know the
+person is using a lot of indecent words. Ha. Haha.
+
+In live broadcasts, the technical effort naturally increases. From a
+notorious radio show called "Lamont and Tonelli" on 92.3 KSJO, which
+I used to listen to on the drive from San Francisco to Mountain View
+until a year ago (now I listen to Howard Stern on 105.3 when I
+drive), I know that it is broadcast with a 20-second (!) delay. The
+hosts are, of course, seasoned pros who never let a bad word slip
+and, in case of doubt, use a made-up word that sounds similar --
+that's legal. But on the mentioned radio show, regular people are
+also allowed to call in and express their opinions unfiltered. If
+someone uses an indecent word, a censor employed by the radio
+triggers an alarm, and the offending sentence is -- in real-time! --
+muted, and the listeners hear the sound of a toilet flushing instead
+of the rest of the sentence. When you imagine how that works, it
+makes your head spin. According to my theory, this 20-second safety
+interval must shrink with each incident until the station staff have
+to play three minutes of music from a super-fast CD player to refill
+the safety buffer.
+
+In cinemas and on pay TV, however, offensive language is permitted --
+but the film is then rated for ages 13 and up, and the posters warn
+of "adult language." Now, on to the news from Church Street.
+
+@Z: Localnews
+
+<pic images/salat.ps A week of downtime due to computer upgrades>
+
+<em>Michael</em> 
+Last week, I spent time under the living room table with my unscrewed
+computer. Recklessly, I had bought new hardware from an online
+retailer. For the insiders: a 30 GB hard drive and a Netgear RT314
+router. Now I'm in seventh heaven, and Angelika is also surfing the
+internet at top speed from her computer, as the little router simply
+turns one DSL connection into two. And one more unfortunate piece of
+news: our newspaper vendor can no longer get the SÃ¼ddeutsche Zeitung
+from his distributor. This hurts a lot because we used to shell out
+$4.50 every Saturday to read the magazine that comes with the Friday
+edition. Tip for visitors: you could make us very happy if you bring
+us one, two, or many SZ magazines, it doesn't matter from when,
+they're just timelessly good.
+
+<pic images/mall.ps Taken with the new digital camera: In the parking
+lot of the shopping mall>
+
+@Z: Entensuppe
+
+<pic images/suepple.ps Lunch: Chinese duck soup -- delicious!>
+
+<em>Michael</em> 
+Angelika gave me a digital camera for my birthday, and now I spend
+all day taking pictures of the silliest things. Whether I'm shopping,
+at work, or having lunch--the camera is always with me. For those
+wondering where I'm skillfully eating lunch with chopsticks in one of
+the pictures, I'll tell you straight out: In Mountain View, there
+aren't many good restaurants, but once a week, my colleague Hoang and
+I visit one that's also incredibly cheap: a Chinese restaurant on
+Castro Street, whose name I can't mention here, as I don't want
+millions of newsletter readers showing up--after all, even a
+superstar needs their privacy! I'll just say this: there are roasted
+ducks hanging in the window. They have the best noodle soup with duck
+in the whole world. Unfortunately, the photo is a bit blurry because
+Hoang was laughing while taking it, the old goof. Oh well, it was
+fun!
+
+@Z: Rundbrief-Topprodukt
+
+<em>Michael</em> 
+And since America is always slightly ahead of the rest of the world,
+at least in the consumer goods sector, we want to introduce you in
+Europe to something special with the current newsletter top product.
+Things that you can't buy at home yet, but that might soon make their
+way over. Then you can say, "I already know it, I don't need it, I
+read about it in the newsletter a year ago!" when someone proudly
+shows off a newly acquired product. And to be clear: You won't find
+our suggestions in America's forest areas or suburbs. This is only
+about the mega-trendy products that are only available in mega-trendy
+metropolises like New York or San Francisco. Right now, everything
+Japanese is mega-trendy here. People go on vacation to Japan--we
+might try it next year. People eat Japanese food, for example, in
+Japantown in San Francisco. And, most recently: People shop in
+Japanese supermarkets, where even die-hard Japan enthusiasts get
+overwhelmed because they can't even read the product packaging.
+
+<pic images/miso.ps Today's newsletter top product: Japanese miso
+soup>
+
+@Z: Japanese supermarkets
+
+<em>Michael</em> 
+Here's the translation:
+
+"During a lunch break, I once stopped by the 'Nijia' supermarket with
+my Japanese colleague Rika and had her explain the products to me. On
+one hand, there were things I already knew from restaurants, like
+'Edamame' (soybeans served as an appetizing starter or snack, which
+you boil, salt, and then pop out of their bean-like pods), Miso soup
+(fermented soy mixed with hot water and usually enriched with seaweed
+and tofu chunks), and on the other hand, there were products that
+were new to me, like dried shrimp that you eat like potato chips from
+a bag and that smell like fish food for an aquarium. When Angelika
+eats them, I feel sick. And cold coffee with milk and sugar from a
+drink can, the product's name: 'Boss Sharp'. Super delicious! Today's
+top product: The instant Miso soup, which you just have to unpack and
+pour hot water over. Unfortunately, I can't tell you the product's
+name because I don't know Japanese. However, in Figure 10, you can
+see what the package looks like. It's important to buy the same brand
+because, according to the expert, the soup otherwise doesn't taste as
+good. So, that's it for today from our colorful world in San
+Francisco. Take care, until the next newsletter!
+
+The translation of "Angelika und Michael" to English is "Angelika and
+Michael.
+
