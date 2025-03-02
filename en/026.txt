@@ -40,8 +40,6 @@ fewer electoral votes. This is already the case in this election, as
 Al Gore has secured the "popular vote" (votes cast nationwide).
 Nevertheless, Bush is likely to become President.
 
-TODO
-
 The Electoral College is set to convene on December 18 to elect the
 president. The official inauguration will then take place on January
 20. By the way, the Electoral College system dates back to 1787 and
@@ -77,7 +75,7 @@ the country was: What counts as a valid vote? Thus, the "chads" were
 also categorized. My two favorites are: "pregnant chads," the waste
 pieces that have barely detached from the card, and "dimpled chads,"
 where only a bulge is visible. However, since there are unfortunately
-no uniform guidelines for hand counting in Florida, experts were seen
+no uniform guidelines for hand counting in Florida either, experts were seen
 arguing about "chads" on every TV channel - a perfect absurd theater.
 
 Although the results of the counts (including the highly
@@ -100,7 +98,7 @@ Incidentally, it is sensational that for the first time in U.S.
 history, the Supreme Court in Washington is intervening in an
 election. Americans firmly believe in the sovereignty of individual
 states, as previously mentioned, and election laws are, even in
-presidential elections, a matter for the states, in this case,
+presidential elections, a matter for the states, and in this particular case,
 Florida. However, a decision by the Supreme Court in favor of Bush
 can only increase his lead. Currently, Bush is ahead of Gore in
 Florida by 537 votes. If the hand recounts are declared invalid
@@ -111,6 +109,8 @@ compared to a German district) because the counting machines there
 failed to account for about a thousand ballots. Since this county
 typically votes Democratic, Al Gore hopes to gain votes through a
 hand recount and ultimately defeat Bush.
+
+TODO
 
 The problem is that time is running out, and the hand recount should
 actually begin immediately. By December 12, the electors must be
