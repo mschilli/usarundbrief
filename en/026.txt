@@ -370,9 +370,7 @@ In cinemas and on pay TV, however, offensive language is permitted --
 but the film is then rated for ages 13 and up, and the posters warn
 of "adult language." Now, on to local news from Church Street.
 
-TODO
-
-@Z: Localnews
+@Z: Local Local News
 
 <pic images/salat.ps A week of downtime due to computer upgrades>
 
@@ -383,17 +381,16 @@ retailer. For the insiders: a 30 GB hard drive and a Netgear RT314
 router. Now I'm in seventh heaven, and Angelika is also surfing the
 internet at top speed from her computer, as the little router simply
 turns one DSL connection into two. And one more unfortunate piece of
-news: our newspaper vendor can no longer get the SÃ¼ddeutsche Zeitung
+news: our newspaper vendor can no longer get the Süddeutsche Zeitung
 from his distributor. This hurts a lot because we used to shell out
 $4.50 every Saturday to read the magazine that comes with the Friday
 edition. Tip for visitors: you could make us very happy if you bring
 us one, two, or many SZ magazines, it doesn't matter from when,
 they're just timelessly good.
 
-<pic images/mall.ps Taken with the new digital camera: In the parking
-lot of the shopping mall>
+<pic images/mall.ps Taken with the new digital camera: In the parking lot of the shopping mall>
 
-@Z: Entensuppe
+@Z: Duck Soup
 
 <pic images/suepple.ps Lunch: Chinese duck soup -- delicious!>
 
@@ -401,46 +398,47 @@ lot of the shopping mall>
 Angelika gave me a digital camera for my birthday, and now I spend
 all day taking pictures of the silliest things. Whether I'm shopping,
 at work, or having lunch--the camera is always with me. For those
-wondering where I'm skillfully eating lunch with chopsticks in one of
-the pictures, I'll tell you straight out: In Mountain View, there
+wondering where I'm skillfully eating lunch with chopsticks in the photo
+above,  I'll tell you straight out: In Mountain View, there
 aren't many good restaurants, but once a week, my colleague Hoang and
 I visit one that's also incredibly cheap: a Chinese restaurant on
 Castro Street, whose name I can't mention here, as I don't want
 millions of newsletter readers showing up--after all, even a
-superstar needs their privacy! I'll just say this: there are roasted
+superstar like myself needs his privacy! I'll just say this: there are roasted
 ducks hanging in the window. They have the best noodle soup with duck
 in the whole world. Unfortunately, the photo is a bit blurry because
 Hoang was laughing while taking it, the old goof. Oh well, it was
 fun!
 
-@Z: Rundbrief-Topprodukt
+@Z: Rundbrief Top Product
+
+<pic images/miso.ps Today's newsletter top product: Japanese miso soup>
 
 <em>Michael</em> 
 And since America is always slightly ahead of the rest of the world,
-at least in the consumer goods sector, we want to introduce you in
-Europe to something special with the current newsletter top product.
-Things that you can't buy at home yet, but that might soon make their
+at least in the consumer goods sector, we want to introduce you people
+of Europe to something special. And so the newsletter's top product section
+was born. Products that you can't buy at home yet, but that might soon make their
 way over. Then you can say, "I already know it, I don't need it, I
 read about it in the newsletter a year ago!" when someone proudly
-shows off a newly acquired product. And to be clear: You won't find
-our suggestions in America's forest areas or suburbs. This is only
+shows off a newly acquired product.
+
+And to be clear: You won't find
+our suggestions in America's rural areas or suburbs. This is only
 about the mega-trendy products that are only available in mega-trendy
-metropolises like New York or San Francisco. Right now, everything
-Japanese is mega-trendy here. People go on vacation to Japan--we
+metropolitan areas like New York or San Francisco.
+
+Right now, everything
+Japanese is mega trendy here. People go on vacation to Japan--we
 might try it next year. People eat Japanese food, for example, in
 Japantown in San Francisco. And, most recently: People shop in
 Japanese supermarkets, where even die-hard Japan enthusiasts get
 overwhelmed because they can't even read the product packaging.
 
-<pic images/miso.ps Today's newsletter top product: Japanese miso
-soup>
-
 @Z: Japanese supermarkets
 
 <em>Michael</em> 
-Here's the translation:
-
-"During a lunch break, I once stopped by the 'Nijia' supermarket with
+During a lunch break, I once stopped by the 'Nijia' supermarket with
 my Japanese colleague Rika and had her explain the products to me. On
 one hand, there were things I already knew from restaurants, like
 'Edamame' (soybeans served as an appetizing starter or snack, which
@@ -449,16 +447,15 @@ you boil, salt, and then pop out of their bean-like pods), Miso soup
 and tofu chunks), and on the other hand, there were products that
 were new to me, like dried shrimp that you eat like potato chips from
 a bag and that smell like fish food for an aquarium. When Angelika
-eats them, I feel sick. And cold coffee with milk and sugar from a
-drink can, the product's name: 'Boss Sharp'. Super delicious! Today's
-top product: The instant Miso soup, which you just have to unpack and
+eats them, I feel sick. Then there's cold coffee with milk and sugar from a
+can, the product's name: 'Boss Sharp'. Super delicious!
+
+Today's top product: Instant Miso soup, which you just have to unpack and
 pour hot water over. Unfortunately, I can't tell you the product's
-name because I don't know Japanese. However, in Figure 10, you can
+name because I don't speak Japanese. However, in Figure 10, you can
 see what the package looks like. It's important to buy the same brand
 because, according to the expert, the soup otherwise doesn't taste as
 good. So, that's it for today from our colorful world in San
 Francisco. Take care, until the next newsletter!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
