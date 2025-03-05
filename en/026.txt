@@ -179,8 +179,6 @@ greatest country" in the world. I find that quite strange. The fact
 that foreign countries are making fun of America is, of course, not
 mentioned. Be that as it may, it remains exciting...
 
-TODO
-
 <em>Michael</em> 
 Finally, finally it's my turn! Regarding today's newsletter quiz
 question: For which candidate would Angelika have voted if she had
@@ -192,9 +190,9 @@ by a landslide in terms of area, it ultimately almost ended in a tie,
 because the states in the middle of the USA are much less densely
 populated and therefore have fewer electoral votes.
 
-@Z: At the headquarters of AOL
+@Z: At AOL Headquarters
 
-<pic images/aol.ps At the headquarters of AOL>
+<pic images/aol.ps At AOL Headquarters>
 
 <em>Michael</em> 
 Recently, I was in Dulles, Virginia, for a few days to take care of
@@ -203,48 +201,49 @@ we wanted to quickly grab some lunch, my colleague Chris and I came
 across a tavern advertising its beer with an "Oktoberfest" sign. Next
 door was a McDonald's, so we quickly decided to combine food from one
 place with a drink from the other. Suddenly, a group of
-German-speaking gentlemen rushed by--and I couldn't believe my eyes,
+German-speaking gentlemen rushed by -- and I couldn't believe my eyes,
 among them was the actor Armin Mueller-Stahl! You know, the
 gray-haired guy with the mustache who also appears in many American
 films (like "Night on Earth" by Jim Jarmusch, for example). He also
-noticed the "Oktoberfest" sign, slowed down, and went back, seemingly
+had noticed the "Oktoberfest" sign, slowed down, and went back, seemingly
 intending to grab a beer, but then changed his mind and took off
 again. And that in Dulles, Virginia! I wonder what he was doing
 there?
 
-@Z: Green Day" is already in English. It is the name of an American
-rock band. If you are referring to something else, please provide
-more context.
+@Z: Green Day
 
 <em>Michael</em> 
-Now for the local news. Those who have purchased the new album
+Now for some local news. Those who have purchased the new album
 "Warning" by the world-famous group "Green Day" may have wondered
 what the following lyrics mean:
 
-\begin{verse}
+Mr. Whirly had a catastrophic incident --
+he fell into the city by the bay --
+he liquidated his estate --
+now he sleeps up on the Haight --
+panhandling misery
 
-<pic images/greenday.ps One of Michael's favorite bands: Green Day
-from Berkeley>
+<pic images/greenday.ps One of Michael's favorite bands: Green Day from Berkeley>
 
-City by the Bay" naturally refers to San Francisco, and "Mr. Whirly,"
+"City by the Bay" naturally refers to San Francisco, and "Mr. Whirly,"
 who faced misfortune, had to sell his house and spend the night in
-the "Haight," the neighborhood in San Francisco where the last
-hippies live. Because the Golden Gate Park is so close, where you can
+the "Haight," the neighborhood in San Francisco where the last of
+the hippies reside. Because the Golden Gate Park is so close, where you can
 sleep in the woods at night, albeit uncomfortably but for free, this
 area is particularly popular with the homeless, which also includes
-many young runaways. If the stock prices keep falling like this,
+many young runaways. If the stock market keeps losing points at this rate,
 we'll be there soon too! No, no, just kidding, please don't send
-money yet. No, what I meant to say is: The world-famous band "Green
+any money yet. No, what I meant to say is: The world-famous band "Green
 Day," which I already enjoyed listening to in Munich, comes from
 Berkeley--right next to San Francisco, on the opposite side of the
 Bay Bridge.
 
-@Z: Weintipps
+@Z: Wine Recommendations
 
 <em>Michael</em> 
-To our wine section: Paula Bosch from the SÃ¼ddeutsche Zeitung has
+To our wine section: Paula Bosch from the Süddeutsche Zeitung has
 not yet responded, so our tips don't seem to be completely wrong.
-Here comes the next one: During one of our excursions through the
+Here comes the next one: On one of our excursions through
 Sonoma Valley, we stumbled upon an excellent Zinfandel wine. And I am
 not afraid to shout this to the world: The St. Francis, "Old Vines",
 Zinfandel, 1998 is so powerful, it will knock you off your feet. An
@@ -253,30 +252,31 @@ this is, of course, red Zinfandel; no sensible person drinks the pink
 stuff. Ideal for dishes with garlic or other spicy foods. It costs
 $22, not cheap, but the money is well spent.
 
-<pic images/francis.ps Good Wine: St. Francis, "Old Vines", Zinfandel
-1998>
+<pic images/francis.ps Good Wine: St. Francis, "Old Vines", Zinfandel 1998>
 
-@Z: Redefreiheit
+@Z: Freedom Of Speech
 
-<em>Michael</em> 
-Now to Michael's main topic of the day: Freedom of speech in the USA!
-The Constitution here has several additions, the so-called
-Amendments. The First Amendment is "Freedom of Speech," which is
-truly worth discussing here and is not as restricted as in Germany.
+<em>Michael</em> Now my topic of the day: Freedom of speech in the USA!  The
+Constitution here has several additions, the so-called Amendments. The First
+Amendment is labeled "Freedom of Speech," which is truly worth discussing here,
+as verbal expression in the US is not as restricted as in Germany.
 
+Here it is: "Congress shall make no law respecting an establishment of religion, 
+or prohibiting the free exercise thereof; or abridging the freedom of speech,
+or of the press; or the right of the people peaceably to assemble, and 
+to petition the government for a redress of grievances."
 
-The strange English is due to the fact that a) it is a legal text and
-b) from 1791. So far, so dry. Let me explain the meaning of this part
-of the Constitution with a practical example: If you want to insult
-someone in the USA, you don't tap your forehead with your index
-finger -- this gesture doesn't mean anything bad, at most it means: I
-am smart. No one pays any attention to it at all, which often happens
-to me when I'm out on my bike, some idiot cuts me off, I shout and
-give the bird, and only get puzzled looks in return. It's always very
-funny, but these are behaviors programmed in over decades that I
-unfortunately can't turn off.
+The strange verbage is due to the fact that a) it is a legal text and b) from
+1791. So far, so dry. Let me explain the meaning of this part of the
+Constitution with a practical example: If you want to insult someone in the
+USA, you don't tap your forehead with your index finger as you would in Germany
+-- this gesture doesn't mean anything bad here, at most it means: I am smart.
+No one pays any attention to it at all, which often happens to me when I'm out
+on my bike, some idiot driver cuts me off, I shout and tip my index finger
+against my forehead, and only get puzzled looks in return. It cracks me up every time,
+but these are behaviors programmed in over decades that I unfortunately can't turn off.
 
-No, seriously, here, the middle finger is used to seriously insult
+No, seriously, here in the US, only the middle finger is used to seriously insult
 someone. And the good thing about it: It's constitutionally approved
 by the aforementioned "Amendment" and not punishable. No kidding, the
 insulted person can't do anything about it, except, of course, draw a
@@ -289,8 +289,8 @@ line, there are draconian penalties. If you just touch someone with
 your finger, they can immediately drag you to court and sue you for
 millions. Verbal or gestural insults, however, are absolutely
 meaningless--when I tell my American colleagues that in Germany
-drivers report each other because someone tapped their forehead, they
-laugh their heads off.
+drivers report each other because someone tapped their forehead, they're
+laughing their heads off.
 
 There are two exceptions to "verbal abuse," or "spoken abuse": You
 are not allowed to shout "Fire, fire!" in a crowded cinema. And you
@@ -307,35 +307,35 @@ disapproving looks, but no aggression. He even claimed that one could
 insult police officers at will, but the intrepid newsletter reporter
 didn't want to test that out.
 
-Freedom of Speech" also means that every political party here has
+"Freedom of Speech" also means that every political party here has
 unrestricted freedom of speech. The first immigrants to the USA were
 persecuted by political or religious institutions, seeking protection
-here, and that's why the founding fathers enshrined unrestricted
+in the US, and that's why the founding fathers enshrined unrestricted
 freedom of speech and religion as one of the most important and
 comprehensive principles. This is also the reason why Americans often
-look disapprovingly at Germany when the Scientology sect is
-persecuted again -- here, that would be unthinkable and would trigger
+look disapprovingly at Germany when the Church of Scientology is
+persecuted again -- here, that would be unthinkable, maybe even trigger
 a revolution.
 
-By the way, the previously mentioned freedom of speech does not apply
-to radio or television -- this is strictly controlled by an authority
+By the way, the previously mentioned freedom of speech clause does not apply
+to radio or television -- which are strictly controlled by an authority
 called the FCC (Federal Communications Commission). For example, it
-is not allowed to say even "ScheiÃe!" (Shit!) on the radio or
+is not allowed to say even "Shit!" on the radio or
 television. Therefore, for current rap songs, which do not shy away
-from using crude and even cruder words, there is usually the original
+from using such crude and even cruder words, there is usually an uncensored
 version on CD, which bears the sticker "Parental Advisory -- EXPLICIT
-LYRICS" ("Warning to all parents: Explicit language"), and the radio
+LYRICS", which differs from the radio
 version, from which the indecent words have already been edited out
 by the record company using sophisticated technical means. The music
 continues to play in the background while the singer suddenly cannot
 be heard. This is often quite silly, because in 9 out of 10 cases,
 you can easily deduce the missing word from the rhyming lines.
 
-\begin{verse}
+"You better quit -- talkin' that --
+or you'll be leaving with a fat lip. --
+Limp Bizkit, "Break Stuff"
 
-<pic images/springer.ps Things are getting wild on the Jerry Springer
-Show. The security guards are preventing the participants from
-beating each other up.>
+<pic images/springer.ps Things are getting wild on the Jerry Springer Show. The security guards are preventing the participants from beating each other up.>
 
 Talk show television programs, where people hurl insults at each
 other (such as "Jerry Springer"), are edited before airing, and
@@ -349,24 +349,28 @@ person is using a lot of indecent words. Ha. Haha.
 In live broadcasts, the technical effort naturally increases. From a
 notorious radio show called "Lamont and Tonelli" on 92.3 KSJO, which
 I used to listen to on the drive from San Francisco to Mountain View
-until a year ago (now I listen to Howard Stern on 105.3 when I
+until about a year ago (now I listen to Howard Stern on 105.3 when I
 drive), I know that it is broadcast with a 20-second (!) delay. The
 hosts are, of course, seasoned pros who never let a bad word slip
 and, in case of doubt, use a made-up word that sounds similar --
-that's legal. But on the mentioned radio show, regular people are
+that's legal.
+
+But on the aforementioned radio show, regular people are
 also allowed to call in and express their opinions unfiltered. If
-someone uses an indecent word, a censor employed by the radio
+someone uses an indecent word, a censor employed by the radio station
 triggers an alarm, and the offending sentence is -- in real-time! --
 muted, and the listeners hear the sound of a toilet flushing instead
 of the rest of the sentence. When you imagine how that works, it
 makes your head spin. According to my theory, this 20-second safety
-interval must shrink with each incident until the station staff have
+interval must shrink with each incident word uttered until the station staff have
 to play three minutes of music from a super-fast CD player to refill
 the safety buffer.
 
 In cinemas and on pay TV, however, offensive language is permitted --
 but the film is then rated for ages 13 and up, and the posters warn
-of "adult language." Now, on to the news from Church Street.
+of "adult language." Now, on to local news from Church Street.
+
+TODO
 
 @Z: Localnews
 
