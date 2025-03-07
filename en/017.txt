@@ -27,6 +27,8 @@ course on the most important safety regulations, and had to sign
 about 15 different documents, assuring that we would not sue the
 parachute company if something went wrong during the jump.
 
+<GIF>images/skydive-board.gif|Boarding a skydiver's airplane>
+
 Then we were put into overalls, a parachutist named "Zach" introduced himself
 to me, and like astronauts heading to the Space Shuttle, we walked across the
 tarmac to a small propeller plane waiting there, which we squeezed into. The
@@ -60,6 +62,8 @@ speed and feel completely weightless. It’s as if you’re floating in space,
 except you feel the wind and hear the roaring sound. This lasted for 60
 seconds. The Earth slowly came closer, and I just looked around in amazement,
 unable to comprehend it.
+
+<GIF>images/skydive-fall.gif|During the free fall</GIF>
 
 Suddenly, there was another signal, and Zach opened the parachute, abruptly
 slowing us down from 120 mph to about 20 mph. It felt as if someone had
