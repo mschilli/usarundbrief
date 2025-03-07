@@ -22,7 +22,7 @@ Sekunden lang im freien Fall auf die Erde zu, bevor der
 Fallschirmspringer die Leine zieht und der Fallschirm sich öffnet,
 worauf man gemütlich zurück zum Ausgangspunkt segelt.
 
-<GIF>images/skydive-board.gif Der rasende Rundbrief-Reporter beim Einsteigen.</GIF>
+<GIF>images/skydive-board.gif|Der rasende Rundbrief-Reporter beim Einsteigen.</GIF>
 
 Und so kam es: An einem Samstag fuhren wir hoch nach Davis bei Sacramento,
 wo "in the middle of nowhere" am Ende einer Straße namens "29a" 
@@ -53,7 +53,7 @@ Hirn rauschte, war unglaublich, während wir fielen und fielen und
 innerhalb weniger 
 Sekunden auf etwa 200 Stundenkilometer beschleunigten (Abbildung 1). 
 
-<GIF>images/skydive-fall.gif Tandemsprung, im freien Fall.</GIF>
+<GIF>images/skydive-fall.gif|Tandemsprung, im freien Fall.</GIF>
 
 Ich fiel voran,
 waagerecht, mit dem Bauch auf die Erde zu, Zach war über mir 
