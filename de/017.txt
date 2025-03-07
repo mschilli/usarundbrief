@@ -2,6 +2,8 @@ San Francisco, den 26.09.1999
 
 @Z: Mit dem Fallschirm aus dem Flugzeug
 
+<pic images/sdj3.ps Der rasende Rundbrief-Reporter riskiert Kopf und Kragen für eine gute Story>
+
 <em>(Michael)</em>
 Auf der Suche nach immer neuen, aufregenderen Rundbriefthemen muss euer 
 rasender Reporter Michael auch mal ungewohnte Wege gehen. Um im knallharten 
@@ -20,7 +22,7 @@ Sekunden lang im freien Fall auf die Erde zu, bevor der
 Fallschirmspringer die Leine zieht und der Fallschirm sich öffnet,
 worauf man gemütlich zurück zum Ausgangspunkt segelt.
 
-<pic images/sdj3.ps Der rasende Rundbrief-Reporter riskiert Kopf und Kragen für eine gute Story>
+<GIF>images/skydive-board.gif Der rasende Rundbrief-Reporter beim Einsteigen.</GIF>
 
 Und so kam es: An einem Samstag fuhren wir hoch nach Davis bei Sacramento,
 wo "in the middle of nowhere" am Ende einer Straße namens "29a" 
@@ -33,6 +35,7 @@ schiefginge beim Sprung. Dann wurden wir in Overalls gesteckt, ein
 Fallschirmspringer namens "Zach" stellte sich mir vor und wie die
 Astronauten zum Space-Shuttle spazierten wir über das Rollfeld zu einer
 dort wartenden kleinen Propellermaschine, in die wir uns hineinzwängten.
+
 Die Maschine nahm kurz Anlauf, hob ab, und schraubte sich in die Höhe.
 Nach etwa 20 Minuten erreichten wir eine Höhe von 5000 Metern, es ging los!
 Eine Luke wurde geöffnet, und ein eiskalter Wind strömte herein, die
@@ -50,16 +53,16 @@ Hirn rauschte, war unglaublich, während wir fielen und fielen und
 innerhalb weniger 
 Sekunden auf etwa 200 Stundenkilometer beschleunigten (Abbildung 1). 
 
+<GIF>images/skydive-fall.gif Tandemsprung, im freien Fall.</GIF>
+
 Ich fiel voran,
 waagerecht, mit dem Bauch auf die Erde zu, Zach war über mir 
 festgeschnallt. Als wir uns stablisierten, signalisierte er mir mit 
 dem "Daumen nach oben", dass ich die Hände ausstrecken konnte (Abbildung 2). 
 
-<HTMLONLY><pic images/sdf2.ps Im freien Fall der Erde entgegen ...></HTMLONLY>
-<pic images/sdf1.ps ... 60 Sekunden lang!>
+<pic images/sdf2.ps Im freien Fall der Erde entgegen ...>
 
-Der
-Kameramann, ein weiterer Fallschirmspringer, der eine Videokamera auf
+Der Kameramann, ein weiterer Fallschirmspringer, der eine Videokamera auf
 seinem Helm montiert hatte, war uns hinterhergesprungen und kreiste
 nun um uns herum, um ein paar Schnappschüsse zu machen. Es war 
 völlig irreal: Nach der Beschleunigungsphase fällt man mit 
@@ -67,6 +70,9 @@ konstanter Geschwindigkeit und fühlt sich völlig schwerelos, es
 ist, als schwebe man im Weltraum, nur spürt man den Wind
 und hört das Brausen. 60 Sekunden lang hielt das an, die
 Erde kam langsam näher, ich schaute nur und konnte es nicht fassen. 
+
+<pic images/sdf1.ps ... 60 Sekunden lang!>
+
 Plötzlich kam wieder ein Zeichen, und 
 Zach öffnete den Fallschirm, was uns blitzschnell
 von 200 km/h auf etwa 30 km/h abbremste, es fühlte sich an, als zöge uns
