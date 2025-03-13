@@ -351,25 +351,21 @@ large pillow in my backpack, haha!
 
 <pic images/stein.ps A strange rock at the mine entrance. Precious borax for pest control!>
 
-TODO
-
-In the park, there is still this completely surreal landscape with
-the sand dunes. By the way, Ansel Adams photographed it in the 50s
-with a black-and-white film; it's the photo where the dune looks like
+The park offers a completely surreal landscape with
+sand dunes. By the way, Ansel Adams photographed here in the 50s
+with a black-and-white film; there's this photo where the dune looks like
 a crescent moon. We went there twice because the first time it was
 almost too dark, and the lady photographer demanded optimal lighting
 conditions. Do you see the small black spot on top of the dune in
-Figure 2517? That's Angelika, who was up there with her photography
+Figure (#5)? That's Angelika, who was up there with her photography
 equipment. If you enlarge the picture on the internet by clicking on
 it, you can see Angelika with two backpacks.
 
-<pic images/dune1.ps The translation of "Angelika auf der SanddÃ¼ne"
-to English is "Angelika on the Sand Dune.>
+<pic images/dune1.ps (#5) Angelika on the Sand Dune.>
 
-<pic images/dunemark.ps Who wrote "perlmeister.com" in the sand
-dune?>
+<pic images/dunemark.ps Who stomped "perlmeister.com" into the sand here?>
 
-And there's another ghost town called Rhyolite near Death Valley.
+And there's another attraction, a ghost town called Rhyolite near Death Valley.
 Ghost towns are simply abandoned towns that were deserted after the
 reason for settlement (e.g., gold rush) disappeared. In the case of
 Rhyolite, borax mining simply became unprofitable, and people
@@ -377,10 +373,11 @@ scattered in all directions. Today, you can see dilapidated cars and
 50-year-old crumbling houses there -- that's considered really old in
 America!
 
-<pic images/ghost2.ps The racing newsletter reporters visit the ghost
-town "Rhyolite.>
+<pic images/ghost2.ps The intrepid newsletter reporters visit the ghost town "Rhyolite".>
 
 <pic images/ghost.ps A rusty old car in the ghost town>
+
+TODO
 
 @Z: Trip to Germany
 
