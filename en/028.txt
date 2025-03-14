@@ -377,14 +377,12 @@ America!
 
 <pic images/ghost.ps A rusty old car in the ghost town>
 
-TODO
-
 @Z: Trip to Germany
 
 <em>Angelika</em> 
 Michael insists that I contribute something to the newsletter before
 I board the plane to Germany. Well, since my departure is already on
-Thursday, which is tomorrow, I need to get a move on. I'll keep it
+Thursday, which is tomorrow, I need to hurry up. I'll keep it
 shorter this time, as there are still a thousand and one things to
 do. Most of you are already well-informed about our travel plans. I
 will head to Northern Germany on Thursday and spend the first two
@@ -394,53 +392,54 @@ Michael hasn't been to Germany in over four years. However, since he
 now gets three weeks of annual leave at AOL, I was able to persuade
 him to spend a week in Germany. We are eager to hear his impressions.
 Incidentally, his first action was to organize a card game night with
-his old friends from university. After all, Michael spent half of his
-student days playing cards in the cafeteria.
+his old friends from college. After all, Michael spent half of his
+student days playing cards in the college cafeteria.
 
-@Z: Politik-News
+@Z: News in Politics
 
 <em>Angelika</em> 
 Michael has already diligently reported on everything that has
 happened since our last newsletter. I would just like to add that
-this country now also has a president (so nicely called
-"president-elect" here). But of course, you have followed that
-despite the BSE crisis in Germany. I just can't help but note that
+this country now also has a new president (so nicely called
+"president-elect" here). But of course, you have heard about this
+despite the BSE crisis dominating the news in Germany. I just can't help but note that
 with Bush, something is coming our way. Not only does the man want to
-push through his idiosyncratic "Star Wars version," a missile defense
+push through his idiosyncratic "Star Wars," a missile defense
 system in space, but he also sees no issue with drilling for more gas
 in Alaska, leaving environmental regulations to be voluntarily
 followed by companies, and talking up a recession to push through his
-controversial tax cuts. Only the NRA (see Michael's weapons report)
-and Bill Gates probably love him, as he neither wants to restrict the
-right to bear arms nor break up Bill Gates' Microsoft monopoly. Not
-to mention the death penalty and his "tough on crime" rhetoric. His
-cabinet nominations are cause for concern. Above all, John Ashcroft,
-who is to become the U.S. Attorney General, is giving liberals and
-women's organizations sleepless nights. He is considered deeply
-religious, arch-conservative, and more right-wing than right. He is a
-staunch opponent of abortion and would like to ban it altogether. On
-the other hand, he is a strong supporter of the death penalty (please
-don't ask me how that fits together). He also firmly believes that
-the right to bear arms is every American's birthright. Currently,
-Ashcroft's hearings are taking place in the Senate, which must
-confirm the candidates put forward by Bush. Although Ashcroft is
-viewed critically by many Senate members, no one believes he will be
-rejected. A misery! Interestingly, the close election outcome has
-almost been forgotten. There is hardly any mention that the Supreme
-Court ultimately stopped the controversial hand recounts in Florida,
-thus helping Bush to victory, or that Gore was more than half a
-million votes ahead of him in the so-called "popular vote" (see last
-newsletter). Amusingly, counting continues merrily in Florida. There
-is a law in Florida that allows the public to inspect the ballots.
-Now, among others, leading American newspapers have taken up this
-right and continue counting. Even if these new counts were to make
-Gore the winner, it would probably not change the official result at
-all. Bush's reputation could, of course, suffer, but the man is so in
-love with himself that it probably wouldn't bother him.
+controversial tax cuts.
 
-@Z: Stromversorgungs-Chaos
+Only the NRA (see Michael's gun ownership report) and Bill Gates probably love him,
+as he neither wants to restrict the right to bear arms nor break up Bill Gates'
+Microsoft monopoly. Not to mention the death penalty and his "tough on crime"
+rhetoric. Also, his cabinet nominations are cause for concern. Above all, John
+Ashcroft, who is to become the U.S. Attorney General, is giving liberals and
+women's organizations sleepless nights. He is considered deeply religious,
+arch-conservative, and more right-wing than right. He is a staunch opponent of
+abortion and would like to ban it altogether. On the other hand, he is a strong
+supporter of the death penalty (please don't ask me how that fits together). He
+also firmly believes that the right to bear arms is every American's
+birthright.
 
-<pic images/pge.ps PG&E: We deliver energy -- or maybe not!>
+Currently, Ashcroft's hearings are taking place in the Senate,
+which must confirm the candidates put forward by Bush. Although Ashcroft is
+viewed critically by many Senate members, no one believes he will be rejected.
+A misery! Interestingly, the close election outcome has almost been forgotten by now.
+There is hardly any mention that the Supreme Court ultimately stopped the
+controversial hand recounts in Florida, thus helping Bush to victory, or that
+Gore was more than half a million votes ahead of him in the so-called "popular
+vote" (see last newsletter). Amusingly, counting continues merrily in Florida.
+There is a law in Florida that allows the public to inspect the ballots.  Now,
+among others, leading American newspapers have taken up this right and continue
+counting. Even if these new counts were to make Gore the winner, it would
+probably not change the official result at all. Bush's reputation could, of
+course, suffer, but the man is so in love with himself that it probably
+wouldn't bother him.
+
+@Z: Chaos On the Electrical Grid
+
+<pic images/pge.ps PG\&E: We deliver energy -- or maybe not!>
 
 <em>Angelika</em> 
 Yes, and I have to report on another political issue. California is
@@ -449,44 +448,48 @@ threatened with the possibility that, literally, the lights will go
 out for a few hours because the electricity being produced is no
 longer sufficient. Even today, we are at energy alert level 3, which
 means that the power companies might turn off the supply in the late
-afternoon, leaving us without electricity for a few hours. Go ahead
+afternoon, leaving us without electricity for a few hours.
+
+Go ahead
 and mock this supposedly high-tech country! So far, however, there
 hasn't been a so-called "blackout," but only because many companies
-voluntarily close early to save electricity. I can tell you, it's
-really annoying to have to walk around everywhere with a flashlight,
+voluntarily close early to save on power usage. I can tell you, it's
+really annoying having to walk around equipped with a flashlight,
 especially in the darkroom where I was really nervous last week. If
 the power goes out there, and with it the red light, you can't see
 your hand in front of your face because the walls are painted black
 and there are no windows. It's well known that Americans aren't
-exactly masters at saving electricity. It's therefore quite amusing
-to watch when measures are discussed on how to save power. At AOL,
+exactly masters at conserving power. It's therefore quite amusing
+to watch when measures are discussed on how to save. At AOL,
 for example, employees were instructed to turn off their computers
 when they go home.
 
-The Californian crisis is, of course, self-inflicted. First, there's
+The crisis in California is, of course, self-inflicted. First, there's
 the booming Silicon Valley, which, with its high-tech companies,
-consumes enormous amounts of electricity. Then there's the
+and those consume enormous amounts of electricity. Then there's the
 never-ending growth of the Californian population. However, the main
 cause is that in 1996, under Governor Pete Wilson, the energy market
-was deregulated: the prices that energy companies can charge
-consumers cannot exceed a certain level. But when energy companies
+was deregulated: prices that energy companies can charge
+consumers cannot exceed a certain level.
+
+But when energy companies
 have to purchase electricity themselves, the free market applies. A
 very illogical situation. Since Californian energy companies obtain
 most of their electricity from other states (there are far too few
 power plants in California, and too few new ones have been built to
-meet demand), and the energy companies there are ruthlessly
+meet demand), and energy companies there are ruthlessly
 exploiting the situation, prices on the free market have skyrocketed
-to astronomical levels. This means that Californian energy companies
+to astronomical levels. This means that energy companies in California
 are buying at much higher prices than they are selling, accumulating
-debt upon debt, so that, for example, the company PG&E (Pacific Gas
+debt upon debt, so that, for example, the company PG\&E (Pacific Gas
 and Electric Company) is facing bankruptcy. As an initial emergency
 measure, it was decided that prices could be temporarily increased (I
-turned pale when I opened our electricity bill), but that's probably
+turned pale when I opened last month's electricity bill), but that's probably
 just a drop in the bucket. It's a good thing I bought one of those
 huge flashlights, like the ones used in construction, a few months
 ago. I had thought of power outages after an earthquake and had to
 endure Michael's mocking comments, but he who laughs last, laughs
-best.
+best, as they say.
 
 Ha, information can change in minutes. There have just been the first
 so-called "rolling blackouts": each time a different neighborhood is
@@ -494,13 +497,13 @@ without power, and it rotates. Our neighborhood hasn't been affected
 yet. However, I just found out that we are in Block 12. So, we are
 twelfth in line, and at 5 PM, the power was cut for the people in
 Block 5. By the way, you can find out which block you belong to by
-looking at your electricity bill (bottom left, in case anyone is
+looking at your power bill (bottom left, in case anyone is
 interested). So now I have to type even faster to finish the
-newsletter before the potential power outage.
-
-<pic images/karaoke3.ps The karaoke machine>
+newsletter before the power goes out.
 
 @Z: Karaoke
+
+<pic images/karaoke3.ps A Karaoke machine>
 
 <em>Angelika</em> 
 Now I would like to contribute something to your amusement. As
@@ -508,20 +511,19 @@ Michael already mentioned once, we will probably be going on vacation
 to Japan in the near future. That's why this year for Christmas,
 there were all sorts of gifts related to "Japan." Michael was
 delighted with sake cups (sake = Japanese rice wine), various types
-of sake, miso soup bowls, and the highlight, a Japanese course that
+of sake, miso soup bowls, and the highlight, a Japanese language class that
 we will both start in April. But what would Japan be without karaoke?
 You know, that's the thing where you sing along to well-known music.
-Usually, a video plays on a screen, the music plays, and the lyrics
-are displayed--you have to sing yourself. Now, Michael's Japanese
-colleague loves "karaoke." She says that singing relaxes her
-completely. During a Christmas party at another colleague of
-Michael's, she tried to persuade us to go to karaoke with her. At
+Usually, a video plays on the screen, the music plays, and the lyrics
+are displayed--but you have to sing yourself. Now, Michael's Japanese
+colleague at work loves "karaoke." She says that singing relaxes her
+completely. During a Christmas party at the house of Michael's other colleague,
+she tried to persuade us to go to karaoke with her. At
 first, I turned pale with shock, as I assumed I would have to sing on
 a stage in front of several hundred people (that's how I knew it from
 television).
 
-<pic images/karaoke2.ps Angelika is looking for her favorite cuddle
-songs.>
+<pic images/karaoke2.ps Angelika is looking for her favorite cuddle songs.>
 
 Not at all. In Japan, karaoke is quite different: You rent a room
 equipped with a TV, video, and of course, a microphone and gigantic
@@ -538,27 +540,24 @@ was filled with English songs, another with Japanese songs). Then you
 enter the song number into the karaoke machine using a remote
 control, and immediately the music starts playing and the video
 appears with the lyrics on the screen. To know when to start singing,
-the text is highlighted in color.
+the lyrics are highlighted in color.
 
-<pic images/karaoke1.ps The racing newsletter reporters sing like
-nightingales.>
+<pic images/karaoke1.ps The intrepid newsletter reporters, singing like nightingales.>
 
 By the way, they don't play the well-known music videos that belong
-to the original songs there, but probably due to copyright reasons,
-completely different ones, which can be hilarious at times. You
+to the original songs there, probably due to copyright reasons,
+and instead use completely different movies, which can be hilarious at times. You
 should have seen us. Michael, of course, sang "Sharp Dressed Man" by
 "ZZ Top" -- priceless. By the way, the whole thing is not that easy.
 You often start at the wrong time, even though the lyrics are
 highlighted, and because of the microphone and the amplification,
-it's not easy to stay on pitch. But the more off-key, the funnier it
+it's not easy to stay on pitch. But the more off-key the singing gets, the funnier it
 is! And Michael's colleague was right. The whole thing is actually
-relaxing. The two hours we rented the room flew by. So, would any of
+relaxing. The two hours we rented the room just flew by. So, would any of
 you like to try it out when you visit us next time?
 
 So, that's it once again from the wild, wild West from your intrepid
 newsletter reporters who fear neither death nor the devil. Four fists
 for a hallelujah, yeehaw!
 
-The translation of "Michael und Angelika" to English is "Michael and
-Angelika.
-
+Michael und Angelika
