@@ -4,10 +4,8 @@ San Francisco, 03-10-2001
 
 <pic images/button.ps Angelika shows her tourist button. Local man, looking doubtful, suspects something terrible.>
 
-TODO
-
 <em>Michael</em> 
-Even after more than four years in San Francisco, we still find
+Even after more than four years in San Francisco, we keep finding
 hidden attractions in the city. So, from time to time, Angelika and I
 disguise ourselves as German tourists: backpack on our backs, camera
 bag around our necks, Levi's 501 jeans, trekking shoes, and fleece
@@ -15,11 +13,13 @@ jackets on! Then we blend into the hustle and bustle of the tourist
 area around Powell, stand in line for two hours at the cable car, and
 laugh at the same old jokes from the black musicians there! No, that
 was an exaggeration, but Angelika recently discovered that there is a
-tour through Chinatown that takes you to the most rundown restaurants
+tour through Chinatown that takes you to the most exotic restaurants
 in the area, the kind you would never enter alone for fear of food
 poisoning or the Chinese mafia.
 
 <pic images/noodles.ps In the kitchen, pasta (above) and fried bread (below) are waiting.>
+
+TODO
 
 The meeting is in the morning at 9:00 at "Wokwiz" on Commercial
 Street 645 in Downtown San Francisco. You pay the hair-raising price
