@@ -139,26 +139,24 @@ for that!
 
 <pic images/sobe.ps The current newsletter top product: The juice from SoBe>
 
-TODO
-
 <em>Michael</em> 
 And once again, we have a top product in our newsletter! Today: the
-juices from the company SoBe. No, that's not a sharp "Ã" you're
-seeing, but a capital "B"--so don't let anyone say "SoÃe," it's
+juices from the company SoBe. No, that's not a sharp "ß" you're
+seeing, but a capital "B"--so don't let anyone say "Soße," it's
 pronounced "Sohbie"! By the way, "SoBe" stands for "South Beach,"
 which is the name of the beverage company based in the US state of
 Connecticut. They make extraordinary juices from fruits and
 vegetables, enriched with various herbs and exotic teas. I'm not a
 health fanatic, but in America, you probably become one sooner or
-later. All the juices are super delicious and currently a huge hit
+later. All of their beverages are super delicious and currently a huge hit
 with kids and teenagers--Angelika discovered them during her
-photography courses at the Berkeley Extension. By the way, I'm not
+photography classes at Berkeley Extension. By the way, I'm not
 recommending the sugar-free "SoBe Lean" variant here, but only the
 full version. I particularly like "SoBe Energy (Guarana, Yohimbe,
 Arginine)" and "SoBe Elixir (Cranberry, Grapefruit)." But actually,
 they're all good, each one better than the last! You can find more
-information on the web at www.sobebev.com. Only genuine with the two
-lizards on it! Additionally, the bottles have a pleasantly wide
+information on the web at <LINK>https://www.sobebev.com</LINK>.
+Only genuine with the two lizards on it! Additionally, the bottles have a pleasantly wide
 neck--I usually can't pour drinks from conventional bottles into my
 throat fast enough; you always have to let air bubble in, and that's
 annoying when time is money! The rim of the SoBe bottle is about
@@ -166,36 +164,38 @@ three centimeters in diameter, which is exemplary.
 
 @Z: Movies and Movie Stars in San Francisco
 
-<pic images/movie.ps Once again a film crew in San Francisco>
+<pic images/movie.ps (#5) Another movie crew in San Francisco>
 
 <em>Michael</em> 
-In San Francisco, as expected, many films are shot. It is, after all,
+In San Francisco, there's often movie sets, as you might expect. It is, after all,
 one of the most beautiful cities in the world, and besides, there are
 these insanely steep streets here. Recently, I found out that two of
 them have a record-breaking incline of 31.5%: Filbert Street, which
 runs parallel to the famous winding Lombard Street, and 22nd Street,
 which steeply descends right around the corner from us. With the
 beautiful old Victorian houses and the quaint neighborhoods, it's no
-wonder that many films are shot here. The following productions
+wonder that many movie makers choose San Francisco as the location.
+The following productions
 immediately come to mind: Mrs. Doubtfire and Dirty Harry. In the
 latter (shot sometime in the '70s), to my surprise, Dirty Harry
 chased a villain up a side street called "Osgood Place" in the North
 Beach district. Osgood Place--where the branch of the company
 "Blaxxun Interactive" was, with which I came to San Francisco back
 then! Man, those were the days! Anyway--what I actually wanted to
-point out is that films are constantly being shot in San Francisco,
-and streets are always being closed off somewhere so that film crews
-can shoot their kissing scenes, shootouts, and car chases. The film
-stars stay in trailers. As Figure 1311 shows, there are even
-companies that specialize in outfitting such trailers. If I ever have
-to travel from TV show to TV show, I'll buy one of those too.
+point out is that films are constantly being shot here in San Francisco,
+and if this happens on a block, the streets are always being closed off
+so that film crews
+can shoot their kissing scenes, shootouts, and car chases. The movie
+stars reside in trailers. As Figure (#5) shows, there are even
+companies that specialize in outfitting such trailers. If I'm ever
+famous enough to travel from TV show to TV show, I'll buy one of those as well.
 
-<pic images/movie2.ps Film star caravan in San Francisco>
+<pic images/movie2.ps Film star mobile home in San Francisco>
 
-Accordingly, quite a few movie stars are seen walking around on the
-street. In our neighborhood on 24th Street, Julia Roberts was
+Accordingly, quite a few movie stars are being seen walking around on city
+streets. In our neighborhood on 24th Street, Julia Roberts was
 recently spotted at the coffee shop "Martha" with her new beau
-Benjamin Bratt, as the man from the video store excitedly told me. If
+Benjamin Bratt, as the man from the video store excitedly told me the other day. If
 I had been at Martha's at the time, I would have naturally ignored
 them, as I can't stand them! Maybe they would have recognized me
 first: "Aren't you ... the author of ... 'Perl Power'? Tina, come
@@ -233,66 +233,65 @@ get a chance next time!
 
 @Z: Once every four years: Germany
 
-<pic images/schnee.ps Intrepid newsletter reporters in their tour van in Germany>
+<pic images/schnee.ps Tour van of our intrepid newsletter reporters, in Germany>
 
 <em>Michael</em> 
 And here is the sensation! The two intrepid newsletter reporters
-boarded a plane, got off the same plane 11 hours later, and suddenly
+have boarded a plane, got off the same eleven hours later, and suddenly
 found themselves in a parallel universe called "Munich"! While
 Angelika makes this trip almost every year, I actually hadn't been to
 Germany for a full four years. I tell you, it was a culture shock of
 the highest order.
 
-The first thing I noticed were the green and white police cars. I
-felt like I was in a TV movie from the 60s or 70s, like "Monaco
-Franze" or "MÃ¼nchner G'schichten." On the drive from Munich Airport
-to Augsburg-Land, I couldn't stop laughing at the most ridiculous
-things: signs with the word "Fremdenzimmer" (guest rooms), for
-example. Or the fact that traffic lights are generally positioned
-before the intersection, so if you're the first at the red light, you
-practically have to twist your neck to see if it finally changes. The
-pedestrian lights with little figures instead of the "Walk" and
-"Don't Walk" signs! You're probably thinking I'm completely crazy,
-but after four years, you really reprogram your brain quite a bit.
+The first thing I noticed were the green and white police cars. I felt like I
+was in a TV movie from the 60s or 70s, like "Monaco Franze" or "Münchner
+G'schichten." On the drive from Munich Airport to rural Augsburg ourskirts, I
+couldn't stop laughing at the most ridiculous things: signs with the word
+"Fremdenzimmer" (guest rooms), for example. Or the fact that traffic lights are
+generally positioned on the part of the intersection where you come to a halt,
+so if you're the first at the red light, you practically have to twist your
+neck to see if it finally changes. The pedestrian lights with little figures
+instead of the "Walk" and "Don't Walk" signs! You're probably thinking I'm
+completely crazy, but after four years, you really reprogram your brain quite a
+bit.
 
 <pic images/ampel.ps Funny pedestrian traffic light>
 
 Just like "Wait to be seated" has become ingrained in me. At the
-restaurant "Die Ecke" in Augsburg, I stood at the entrance and wanted
-to wait until the staff assigned me a seat, but fortunately, Angelika
+restaurant "Die Ecke" in Augsburg, I stood at the entrance, waiting
+until the staff would assign me a seat, but fortunately, Angelika
 quickly pointed out to me that in Germany, even in fine
-establishments, you seat yourself at a table.
+establishments, you seat yourself at a random table.
 
 If Rudi opens a pub, it's called Rudi's Pub. The pet food store is
 called Kira's Pet World. Aaahhh! That's a genitive "s" and is added
-without an apostrophe! So: Rudis Kneipe. Kiras Futterwelt. But Max
+without an apostrophe in proper German! So: Rudis Kneipe. Kiras Futterwelt. But Max
 Goldt once wrote that one shouldn't nitpick about other people's
-spelling, as that would be arrogant, so I don't want to be like that.
+spelling, as that would be arrogant, and I don't certainly don't want to be that guy.
 
 <pic images/apo.ps A Funny Apostrophe>
 
-You are probably wondering if I had any difficulties with the
-language. Actually, only once: On the Lufthansa flight from San
-Francisco to Munich, the German stewardess asked me if I wanted
-another beer. Since I had been speaking English with my seat neighbor
-until then, I wanted to say "No thanks, I'm fine!" but translated it
-too hastily and cheerfully exclaimed, "Thank you, I'm fine!" -- to
-which the stewardess burst out laughing and exclaimed, "That's nice
-to hear!" because I had already had a beer and was a bit tipsy! Oh
-yes, it was nice.
+You are probably wondering if I had any difficulties with the language.
+Actually, there was one incident. On the Lufthansa flight from San Francisco to
+Munich, the German stewardess asked me if I wanted another beer. Since I had
+been speaking English with my seat neighbor until then, I wanted to say "No
+thanks, I'm fine!" but translated it too hastily and cheerfully exclaimed,
+"Danke, mir geht's gut!" ("Thanks, I'm doing well!") -- to which the stewardess
+burst out laughing and exclaimed, "That's nice to hear!" because I had already
+had a beer and was a bit tipsy! Oh yes, it was nice.
 
 <pic images/augsburg.ps Rain in Augsburg>
 
 The weather was amazing -- after initially dumping 20cm of snow,
 which then melted and was followed by rain, we finally had three days
-of fantastic FÃ¶hn weather. In Munich, we sat outside for an hour at
-a cafÃ© in the pedestrian zone, squinting into the sun!
+of fantastic Föhn (warm alpine wind) weather. In Munich, we sat outside for an hour at
+a cafe in the pedestrian zone, squinting into the sun!
 
-<pic images/bier.ps The unbeatable good beer>
+<pic images/bier.ps Unbeatably good beer>
 
-And how good is the beer! Augustiner, Andechser, and the Kellerbier
-from the UnionsbrÃ¤u in Munich -- oh my, that was delicious! I had
-completely forgotten, I thought the American microbrews were
+And how good is the beer there! Augustiner, Andechser, and the Kellerbier
+from the Unionsbräu in Munich -- oh my, that was delicious! I had
+completely forgotten, had thought that American microbrews were
 comparable. In short: They are not. Not even close. The brewers here
 in the USA still have a lot to learn!
 
@@ -306,38 +305,39 @@ supermarket!
 
 <pic images/m1.ps At Stachus in Munich>
 
-I had completely forgotten how extensive the residential areas in
-Munich are! In America, everyone lives in bungalows; there are no
-five-story apartment buildings made of stone anywhere. In San
-Francisco, I've gotten so used to this chaos -- one person paints
-their house purple, another hangs out a rainbow flag, and a third has
-a funny sign in the window. However, I remembered Germany as being
-much cleaner. I always chuckle to myself in San Francisco when old
-newspaper scraps blow through the streets and constantly tell my
-colleagues that in Germany you could eat off the ground, the streets
-were swept so clean -- and what do I find? Everything is totally
-neglected! Potholes in the middle ring in Munich! Soon, newspaper
-scraps will be blowing through the alleys in Laim too, and I'll laugh
-and shout: "I know this already, I don't need it, I already saw it
-back in San Francisco!".
+I had completely forgotten how densely populated the residential areas in
+Munich are! In America, everyone lives in bungalows; there are no five-story
+apartment buildings made of stone anywhere. And in San Francisco, I've gotten
+used to individual styles -- one person paints their house purple, another
+hangs out a rainbow flag, and a third has a funny sign in the window, whereas
+Munic is rather drab.  However, I remembered Germany as being much cleaner as I
+found it to be on this trip. I always chuckle to myself in San Francisco when
+old newspaper scraps are blowing through the streets and constantly tell my
+colleagues that in Germany you could eat off the ground, because the streets
+are swept so thoroughly -- and what do I find? Everything is totally neglected!
+Potholes in the Middle Ring in Munich! Soon, newspaper scraps will be blowing
+through the alleys in Laim too, and I'll laugh and shout: "I know this already,
+I don't need it, I already saw it back in San Francisco!".
 
 <pic images/mwohn.ps Residential area in Munich>
 
-<pic images/sfm.ps For comparison: The mission in San Francisco>
+<pic images/sfm.ps For comparison: The Mission in San Francisco>
 
 The most difficult thing was, of course, the BSE. I had already
-dreamed of white sausages and liver loaf, and then I couldn't eat any
-of it! Well, at Max's there were excellent turkey white sausages that
+dreamed of Weißwurst and Leberkäs, and then I couldn't eat any
+of it! Well, at Max's place he served were excellent turkey white sausages that
 tasted like the real thing. Even McDonald's now has a pork burger
 called the "McFarmer." On the Lufthansa flight, we were offered "beef
 from Argentina." In Munich, I ate roast pork with dumplings twice
 because of this, once at UnionsbrÃ¤u and once at Forsthaus
-WÃ¶rnbrunn. By the way, I wanted to add that my hairdresser Paolo
-from Friedenheimer StraÃe in Munich, whom I naturally visited, knows
-the chef from "Forsthaus WÃ¶rnbrunn," Andi Geitel, because he used to
+Wörnbrunn. By the way, I wanted to add that my hairdresser Paolo
+from Friedenheimer Straße in Munich, whom I naturally visited, knows
+the chef from "Forsthaus Wörnbrunn," Andi Geitel, because he used to
 play soccer with him! So the circle closes.
 
 <pic images/mcdonald.ps McDonald's now has a pork burger.>
+
+TODO
 
 The strong dollar "goes a long way" in Germany. When you compare food
 prices in restaurants, you end up paying almost half as much. And CDs
