@@ -337,93 +337,91 @@ play soccer with him! So the circle closes.
 
 <pic images/mcdonald.ps McDonald's now has a pork burger.>
 
-TODO
-
 The strong dollar "goes a long way" in Germany. When you compare food
-prices in restaurants, you end up paying almost half as much. And CDs
-are really cheap! On sale, they cost 20 Marks, while in the USA, you
+prices at German restaurants, you end up paying almost half as much. And CDs
+are really cheap, too! On sale, they cost 20 Marks, while in the USA, you
 can't find anything for less than $12.99. I stocked up generously on
 "Haindling," "Eros Ramazzotti," "Modern Talking," "Dschingis Khan,"
-"Falco," and compilations of folk music to give my colleagues at work
+"Falco," and compilations of traditional music to give my colleagues at work
 something to smile about. Lev, a Russian at Netscape, had previously
 told me that he was really into the 70s hit "Moskau" by Dschingis
 Khan: When I handed him the CD, he was almost beside himself with
 joy!
 
 But the gasoline! My jaw dropped when I had to shell out 80 Marks for
-a fairly full tank. That would have only cost 20 dollars in America.
-I also noticed the many small cars like the "Smart" -- I haven't seen
-any of those in America yet.
+a full tank. That would have only cost 20 dollars in America.
+I also noticed many small cars like the "Smart" on German roads -- something
+I haven't seen in America yet.
 
-Driving a car! I was absolutely amazed at the high level at which
-Germans drive. No one changes lanes on the highway without looking or
-signaling, no one suddenly stops in the middle of the street for
-inexplicable reasons, and no one makes any major mistakes. According
-to cautious estimates by the newsletter editorial team, about 20% of
-Americans would never pass a German driving test, even after
-approximately 1,200 hours of driving. How smoothly things progress on
-German roads! The American, on the other hand, lives by the
-principle: "Oops, here I come!" And if they have to stop, they don't
-care at all if someone behind them has to brake and stop because of
-it. In our neighborhood in San Francisco, there are already signs
+Driving skills! I was absolutely amazed at the high level at which Germans
+drive. No one changes lanes on the highway without looking or signaling, no one
+suddenly stops in the middle of the street for inexplicable reasons, and no one
+makes any major mistakes. According to cautious estimates by the newsletter
+editorial team, about 20% of Americans would never pass a German driving test,
+even after approximately 1,200 hours of tutoring. How smoothly traffic flows on
+German roads! Americans, on the other hand, lives by the principle: "Oops, here
+I come!" And if they're hitting the brake for no reason, they don't care at all
+if someone behind them has to hit their brake as well and stop because of it.
+
+In our neighborhood in San Francisco, there are already signs
 everywhere that make double parking punishable by a $100 fine -- but
 people still do it. This is, by the way, a general American
 phenomenon that also applies in other social situations: Even in the
-longest lines at the supermarket, the American still takes the time
+longest lines at the supermarket, Americans still take their sweet time
 to leisurely dig out their stupid credit card from their wallet or
 laboriously write a check for a $5 bill. Or casually order dessert in
 a restaurant while crowds of people are waiting at the door.
 
-<pic images/zigaretten.ps Zigarettenautomaten>
+<pic images/zigaretten.ps Cigarette vending machines>
 
 Cigarette vending machines! In America, anyone who wants to buy
 cigarettes anywhere must show an ID and prove they are at least 18/21
 years old (depending on the state). In Germany, anyone who is tall
 enough to insert 6 marks can operate the vending machine!
 
-<pic images/smart.ps Small cars at moon prices for gasoline!>
+<pic images/smart.ps Small cars because of exorbitant prices for gasoline>
 
 What I found really pleasant was how polite the sales staff in
-Germany suddenly are. I remembered it quite differently! From the
+Germany suddenly have become. I remembered that quite differently. From the
 small bakery to the cashiers in the big department stores -- people
-are now exceptionally friendly. Or the service in the restaurants!
-Until now, I had always complained about the "service desert" of
+are now exceptionally friendly. Or service in restaurants!
+Until now, I had always complained about the "service wasteland" of
 Germany in newsletters, but now I take it all back and claim the
 opposite. Respect, respect!
 
 <pic images/shop.ps "Shop till you drop" in Munich>
 
-Shopping in Munich is even more fun when you live in the USA: you
-don't have to pay value-added tax (VAT). The easiest way to do this
+Shopping in Munich is even more fun when you live in the USA, because you
+don't have to pay Germany's value-added tax (VAT). The easiest way to do this
 is as follows: First, you pay the full price including VAT in the
 store and receive a confirmation called "Tax Free" for the purchase
 price. Before your flight back to the States, you go to the customs
 office at the airport, present proof that you reside in the USA, and
 then receive about 12% back in cash (not the full 16%, as the rest is
-a processing fee). If you return to the country within a year, or
+a processing fee). If you return to Germany within a year, or
 know someone who can visit the store, you can opt for an "Export
-Certificate" from the store instead of the "Tax Free." You present
-this at the airport customs before departure, have it stamped, and
-can then collect the full 16% in cash at the store within a year. In
+Certificate" from the store instead of the "Tax Free" process. You present
+the certificate at the airport customs before departure, have it stamped, and
+then you can collect the full 16% in cash at the store within a year. In
 both cases, you must present a departure ticket and the goods at the
-airport. So, it's not a good idea to check in your luggage
-beforehand, as you won't get any money.
+airport. So, it's not a good idea to check it into your luggage
+beforehand, as then you won't get reimbursed.
 
 Since the line at this particular customs office is quite long and
 only a single officer is handling the processing, with only one
 person allowed in the office at a time, and people often having to
 unpack their goods from their suitcases, you need plenty of time
-before your flight. There are two lines: one in front of the cashier
+before your flight departs. There are two lines: one in front of the cashier
 and one in front of the processing office. Due to the lack of a sign,
 you naturally first join the shorter line, only to find out at the
 cashier that you need to go to the office first, and then you
-grudgingly move over to the longer line. Well! The customs office is
+grudgingly move over to the longer line. Oh well! The customs office is
 not eager to give back the 16%, so they make it as difficult as
-possible. It's only worth it for larger amounts.
+possible. It's only worth your time for larger amounts.
 
-<pic images/telekom.ps Kartentelefone>
+<pic images/telekom.ps Card Pay Phones>
 
-These phone card phones everywhere! Luckily, I had a phone card.
+These phone card phones everywhere! Luckily, I actually had a phone card with me.
 However, what puzzled me was how to make a call from a phone booth
 without money or a card. Why can't you call a 0130 number from a
 phone booth, where the recipient covers the cost anyway? Maybe
@@ -431,19 +429,16 @@ someone can enlighten me. In America, you can call free 1-800 numbers
 from any public phone booth, use "Call Collect," or call the police
 at 911--no change or card needed.
 
-<pic images/wsv.ps Winterschlussverkauf>
+<pic images/wsv.ps Winter Sale>
 
-Clearance sale! That's an everyday occurrence in America. The stores
-always have a sign with "Sale" in the window. There isn't an official
-clearance sale; rather, it runs all year long. Or those boards with
-the current special offers written in chalk. That seems to be a
-German specialty.
+Clearance sale! That's an everyday occurrence in America. US stores practically
+have a "Sale" sign with in the window all year around. There isn't an official
+clearance sale; rather, it runs all year long. Or those boards with the current
+special offers written in chalk. That seems to be a German specialty.
 
-<pic images/tafel.ps Special offers marked with chalk>
+<pic images/tafel.ps Special offers written on a chalk board>
 
-Here is the translation of the text:
-
-"As far as my impressions as a stranger in my own country go -- in
+As far as my impressions as a stranger in my own country go -- in
 short: I really enjoyed it, and above all, Angelika and I were
 thrilled to meet you all, dear newsletter readers! It was truly an
 exciting time for us, and you enriched it so pleasantly. See you in
@@ -454,12 +449,14 @@ Hooray! It's finally my turn. First, let me quickly remind you that
 during our stay in Germany, I was not only in Southern Germany but
 also in Northern Germany (specifically in Oldenburg). Just so that
 doesn't get overlooked. Michael has already shared one or two German
-adventures with you, and this time, I'm generously letting him take
-the lead, as he hasn't breathed German air for four years.
+adventures with you, and this time, I generously had let him take
+the lead, as he hadn't breathed German air for four years.
 Nevertheless, I will delight you with a few remarks. You'll just have
 to bear with me.
 
 <pic images/kuppel.ps The dome of the new Reichstag>
+
+TODO
 
 Berlin is on everyone's lips; even the American AAA magazine (the AAA
 is somewhat like the ADAC in Germany, and the magazine corresponds to
