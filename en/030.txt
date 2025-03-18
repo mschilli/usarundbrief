@@ -2,7 +2,7 @@ San Francisco, 05-01-2001
 
 <pic images/cityhall.ps The scientific community is puzzled over Angelika's photos.>
 
-@Z: Photos in the San Francisco City Hall
+@Z: Photos in San Francisco City Hall
 
 <em>Angelika</em> 
 Dear newsletter friends!
@@ -21,18 +21,16 @@ photographic ambitions.
 
 <pic images/cityhall5.ps The City Hall -- the town hall of San Francisco>
 
-TODO
-
-Originally, we planned to rent premises, meet there regularly, and
+Originally, we planned to lease a venue, meet there regularly, and
 hold exhibitions. However, the tight rental market in San Francisco
 quickly showed us that this goal was more wishful thinking than
-reality, so we are trying to exhibit our pictures in other locations.
-But it's not just about organizing exhibitions for us. We meet to
+reality, so we were trying to exhibit our pictures in other locations.
+And it's not just about organizing exhibitions for us. We meet to
 view each other's photos and provide constructive criticism. We
 organize workshops to learn photographic techniques, visit museums
 together, or invite photographers to talk about their photos.
 
-Now, back to the town hall. Various exhibitions are regularly held
+Now, back to San Francisco City Hall. Various exhibitions are regularly held
 there--there's even a "curator" who organizes them. If you want to
 display photos or similar works in the town hall, you get in touch
 with the curator, explain why the town hall is particularly suitable
@@ -40,12 +38,11 @@ for the exhibition, show your portfolio, and if you're lucky, you get
 the go-ahead. As you can tell, we were lucky because our photos will
 be on display from March 20th to May 27th. Anyone who happens to be
 in San Francisco during this period is, of course, obliged to stop by
-the town hall. You can then admire the photos from 27 members. There
+City Hall. You can then admire the photos from 27 members. There
 is no specific theme, and each of us has submitted three to four
 photos.
 
-<pic images/cityhall2.ps Museum-quality name tags in the exhibition
-at the town hall!>
+<pic images/cityhall2.ps Museum-quality name tags in the exhibition at the town hall!>
 
 The official exhibition opening took place on March 22nd and was
 organized in a highly professional manner. Not only did we have
@@ -53,7 +50,7 @@ printed postcards as announcements, which were distributed and sent
 everywhere, but we also sent so-called press kits to various
 newspapers, hoping that our exhibition would be announced with a
 photo in the newspapers' event calendars. In San Francisco, this is
-not so easy due to the diverse cultural offerings, but it was indeed
+a challenge due to the diverse cultural offerings, but it was indeed
 prominently announced in the so-called "Pink Pages" (weekly event
 calendar) of the Chronicle (a daily newspaper in San Francisco). At
 the exhibition opening, there were easily 400 people. Even Michael,
@@ -62,10 +59,10 @@ now say that such events usually only attract friends or well-meaning
 acquaintances. Far from it!!! Even if each of us dragged 10 friends
 or acquaintances to the exhibition opening, I would only reach 270.
 Ha! And even if you might think I'm approaching delusions of
-grandeur, I tell you, there's nothing better than seeing your own
-photos hanging on the wall in an exhibition.
+grandeur, I'm telling you, there's nothing better than seeing your own
+photos hanging on the wall in a public place.
 
-<pic images/cityhall3.ps Three pictures in the town hall!>
+<pic images/cityhall3.ps Three of my pictures in City Hall!>
 
 I was so excited that the day before the exhibition opening, I snuck
 into the town hall to stand, completely moved, in front of my own
@@ -74,14 +71,13 @@ people I didn't know at all--I emphasize, complete
 strangers--approached me about my photos. That's what I really love
 about Americans; they aren't shy about sharing their enthusiasm and
 giving praise. By the way, during the opening, Michael often stood
-behind the people looking at my photos to catch their comments, and
+behind some people who were looking at my photos, trying to catch their comments, and
 he didn't report any devastating criticism to me. But enough about my
 photography.
 
-<pic images/cityhall4.ps Angelika photographs details of corners and
-edges.>
+<pic images/cityhall4.ps Angelika photographs details of corners and edges.>
 
-@Z: Wirtschaftskrise
+@Z: Economy in Crisis
 
 <em>Angelika</em> 
 You have probably already read in various newspapers that the
@@ -91,8 +87,8 @@ gates of Silicon Valley and witness it live. Michael and I were quite
 surprised at how quickly the whole situation changed. As late as the
 end of 2000, high-tech companies were desperately looking for people,
 and three months later, there were mass layoffs, and newly founded
-and highly praised dot-com companies were closing their doors. It was
-foreseeable that this couldn't continue indefinitely, as everyone
+and highly praised dot-com companies closed their doors. It was
+foreseeable that the party couldn't continue indefinitely, as everyone
 knows that lean years follow fat ones. Additionally, many of the
 young dot-com companies (where "dot" means point and "com" means
 commercial, both referring to components in an email address)
@@ -110,8 +106,7 @@ the established companies have used the stock market collapse and the
 end of the boom as an opportunity to get rid of employees, as many of
 the specialists and software engineers were completely overpaid.
 
-<pic images/lambo.ps Due to the economic crisis, used Italian luxury
-cars are available for purchase at a low price.>
+<pic images/lambo.ps Due to the economic crisis, used Italian luxury cars are available for purchase at a low price.>
 
 In San Francisco, the wave of layoffs has suddenly resulted in
 apartments becoming available for rent again. As recently as
@@ -119,15 +114,14 @@ December, there was absolutely nothing on the market. Walking around
 our neighborhood, you would only occasionally see signs for
 outrageously overpriced house sales. Now, we suddenly come across
 signs saying "Apartment for Rent." Many people have to move away
-because they have lost their jobs. The stocks that were part of their
+because they have lost their jobs. Stock options that were part of their
 salary are now worthless, making the exorbitantly expensive life in
 San Francisco and its surroundings unaffordable. Unfortunately, the
 slight easing of the housing market has not yet led to a decrease in
 rental prices. Landlords probably still don't quite believe that the
 golden age is over.
 
-<pic images/forrent.ps There are apartments available for rent again
-in Noe Valley.>
+<pic images/forrent.ps There are apartments available for rent again in Noe Valley.>
 
 They are already complaining that they no longer earn anything from
 rentals. However, I have no sympathy, as the high-price policy has
@@ -145,7 +139,9 @@ handle the boom. And we are already wondering if soon the first
 people will start shouting that foreigners are blocking jobs that
 Americans could fill.
 
-@Z: Changes in the Immigration Law
+@Z: Changes in Immigration Law
+
+TODO
 
 <em>Angelika</em> 
 Recently, television reported that many laid-off H-1B holders are
