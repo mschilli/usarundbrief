@@ -141,8 +141,6 @@ Americans could fill.
 
 @Z: Changes in Immigration Law
 
-TODO
-
 <em>Angelika</em> 
 Recently, television reported that many laid-off H-1B holders are
 unable to find a new employer willing to go through the visa
@@ -173,11 +171,7 @@ can be extended until our Green Card is approved. As mentioned, we
 hope to benefit from these changes and that Bush does not reverse
 everything.
 
-@Z: Pink-Slip Parties" refers to social events where individuals who
-have been laid off or are unemployed gather to network, share job
-leads, and support each other in finding new employment
-opportunities. The term "pink slip" is often used to refer to a
-notice of termination from a job.
+@Z: Pink-Slip Parties
 
 <pic images/ps.ps Pink-slip parties for unemployed dot-commers>
 
@@ -193,16 +187,18 @@ beer or a glass of wine in a nightclub. The goal is to make
 connections in a pleasant atmosphere and hopefully be invited to a
 job interview. Not a bad idea!
 
-@Z: Steuererklärung
+@Z: Filing an Income Tax Return
 
 <em>Angelika</em> 
 On April 15th, we once again dutifully submitted our American tax
 return. I had to struggle for weeks through a mountain of bizarre
 forms, but I found it interesting to learn from the news that the
-American President and Vice President disclose their tax returns.
+American President and Vice President actually disclose their tax returns.
 Although they are not legally required to do so, it has been
 customary since Nixon's tax scandal (Jimmy Carter set a shining
-example in this regard). We learned that Bush earned $894,880 and
+example in this regard).
+
+We learned that Bush earned $894,880 and
 paid $240,342 in taxes, which corresponds to a tax rate of 26.9%.
 Vice President Dick Cheney earned over 36 million dollars and paid
 about 14.3 million dollars in taxes (39.6%). Bush's income mostly
@@ -212,26 +208,25 @@ supposedly low tax rates for top earners is mistaken. The percentages
 only refer to the federal tax and do not take into account local
 taxes (state/city tax), which are still applicable in most states
 (though not in Texas, where Bush has lived until now). And of course,
-the percentage decreases the more deductions are made. For example,
+the percentage decreases if more deductions are made. For example,
 Bush donated 16% of his income, which is deductible. Additionally,
 profits from stock transactions are generally taxed at only 20%.
 Cheney, on the other hand, paid the top federal tax rate because it
-mostly involved regular income. And now I hand over to Michael.
+mostly involved regular income. And now I hand it over to Michael.
 
 @Z: Accounts/Checks/ATMs in the USA
 
 <em>Michael</em> 
 Thank you! Every now and then, something new comes up, and I think to
 myself: That idea could have been mine. Recently, along with my bank
-statement, I received a brochure that promised you could win money by
+statement, I received a brochure that promised that you could win money by
 using the bank's ATM. I had this idea back in 1970! But I probably
 need to elaborate a bit more for the German readers, so I'm making it
 a main topic in my newsletter: Financial transactions in the USA!
 
-<pic images/bofa.ps Great business idea: The combination of a bank
-and a slot machine.>
+<pic images/bofa.ps Great business idea: The combination of a bank and a slot machine.>
 
-The American word for "Geldautomat" is "ATM," pronounced "Ey-Tie-Em."
+The American word for "Geldautomat" is "ATM," pronounced "Ay-Tee-Em."
 It stands for "Automatic Teller Machine," which roughly translates to
 "Automatische Bankkassierermaschine" in German. These machines have
 three advantages over the German ones, and I don't know if I could
@@ -241,16 +236,15 @@ button called "Quick Cash." You tell the bank once what amount you
 usually withdraw from the ATM, and the machine remembers it. Then you
 just go there, enter your PIN, press "Quick Cash," and the ATM
 dispenses the same amount of money every time. By the way, ATMs here
-only have twenties because no one withdraws huge amounts. Third, and
+only dispense twenty dollar bills because no one withdraws huge amounts. Third, and
 this is what I'm really getting at, you can not only withdraw money
-from American ATMs but also deposit it.
+from American ATMs but also deposit cash.
 
-<pic images/atm.ps An American ATM: Note that you can observe in the
-rearview mirror who is sneaking around!>
+<pic images/atm.ps An American ATM: Note that you can observe in the rearview mirror who is sneaking around!>
 
 Here in the USA, instead of using cash, people often pay with checks.
 These are so-called "personal checks," which are not like Eurocheques
-that guarantee the recipient will receive 400 marks. Instead,
+that guarantee the recipient will receive at least 400 marks. Instead,
 personal checks do not guarantee anything. If someone writes a check
 and doesn't have enough money in their account, the check "bounces."
 The word "bounce" means something like "to be rejected." The doorman
@@ -259,19 +253,21 @@ full with 24 bicycles and the conductor turns you away, you might
 tell your fellow cyclists, "I got bounced off the train, man, this
 sucks big time!" But I digress.
 
-Checks are received from people you know to settle amounts of more
-than twenty dollars, or for example, as a payment method for a
+You receive checks from people you know to settle amounts of more
+than twenty dollars, or, for example, as a payment method for a
 mail-in rebate -- you know, where you pay more at the register, send
 in a coupon by mail, and get the money back after a few weeks.
 
-You can then deposit it at the ATM and the amount is credited to your
+You can then deposit the check at an ATM and the amount is credited to your
 account immediately. However, you can only access the money once the
 transaction is finalized and the bank has collected the funds from
 the check issuer, which can take up to a week. Of course, instead of
-using the ATM, you can simply go to the counter. In the USA, you
+using the ATM, you can simply go to the teller. In the USA, you
 typically don't pay any monthly fees for a checking account --
 however, at our bank, it costs two dollars each time you have
-something done by the staff instead of the machine. Depositing a
+something done by the staff instead of the machine.
+
+Depositing a
 check at the ATM is quite simple: First, you need to "endorse" the
 check. You write your name, account number, and signature on the back
 of the check you received from someone. Then you go to the ATM, take
@@ -286,18 +282,17 @@ next, I can only guess: The next day, a bank employee opens the
 envelope, checks if the amount was correct, and processes the
 transaction.
 
-<pic images/checkb.ps The back of a check, 'endorsed' for depositing
-into one's own account.>
+<pic images/checkb.ps The back of a check, 'endorsed' for depositing into one's own account.>
 
 Exactly this check depositing (and you can also deposit cash this
-way) is currently being rewarded by our bank with a chance to win.
+way) is currently being rewarded by our bank with a chance to win a prize.
 Every time you deposit a check and luck is on your side, you can win
 three times the deposited amount. Therefore, if you've ever wanted to
 send me a check, send it now!
 
-Now the question -- how do I write a check? In Figure 11, you can see
-a sample. Let's assume I received an invoice from a company called
-"Bullerbï¿½ Enterprises" for 10 dollars and 95 cents. I would agree
+Now the question -- how do I write a check? In Figure (#11), you can see
+an example. Let's assume I received an invoice from a company called
+"Bullerbü Enterprises" for 10 dollars and 95 cents. I would agree
 with it and want to send them a check. First, you write the date in
 the "Date" field at the top right. Month, day, year, separated by
 slashes or dashes, as is customary in America. In the image, you see
@@ -308,7 +303,7 @@ cashed immediately. In America, the bank will not cash it before the
 entered date.
 
 Then, in the "Pay to the order of" field, you enter the name of the
-company that will receive the check, in this case, "BullerbÃ¼
+company that will receive the check, in this case, "Bullerbü
 Enterprises." It is very important to write the name correctly, as
 the check is only valid for this company or person--for security
 reasons, since it could get lost in the mail. Similar to an "account
@@ -326,7 +321,7 @@ XX/100. In our case, it's 95 cents, so it reads "Ten and 95/100".
 Quite unusual, but that's how it's done in America.
 
 As with German checks, you should fill in the blank spaces in the
-fields with lines so that no one can tamper with them. Then don't
+fields with horizontal lines so that no one can tamper with them. Then don't
 forget to sign, and you're all set. In the "For" field, you can enter
 a kind of purpose, such as writing the phone number when paying the
 phone bill, or perhaps the name of the magazine and the subscription
@@ -334,39 +329,42 @@ duration for a magazine subscription, but this is all optional and
 will most likely not be noticed by anyone. It's sometimes quite
 useful just for your own bookkeeping.
 
-<pic images/checka.ps A correctly issued check>
+<pic images/checka.ps (#11) A correctly issued check>
 
 In the top right corner of the check, you will find the current check
-number (2145), and at the bottom in the machine-readable line, there
+number (2145), and at the bottom in the machine-readable section, there
 are first 9 and then another 4 digits for the routing information (a
 type of bank code), followed by two sets of five numbers for the
 account number (12345-12345 in the illustration).
 
 Then you stick a 34-cent stamp on an envelope (that's how much it
 costs to send a letter within the USA that weighs no more than one
-ounce, about 28.35 grams) and send off the money. On the received
-invoice, you write "Paid 01/31/01 Check #2145" and file it in a
+ounce, about 28.35 grams) and send it off. On your
+invoice copy, you write "Paid 01/31/01 Check #2145" and file it in a
 folder so you know that you've paid the bill in case a reminder comes
 at some point, and also with which check. If the check gets lost in
-the mail, you have it canceled at the bank and send a new one. This
+the mail, you can call to have it canceled at the bank, so you can send
+a new one. This
 happens in about 1% of cases. In your checkbook, you record that a
 check for the amount of $10.95 was written and calculate how much is
-left in the account. If you neglect to do this, you might end up
+left in your account. If you forget to do this, you might end up
 writing checks that aren't covered, and they "bounce," which is
 uncool.
 
-By the way, you might be wondering how to do this if you want to
-ensure that the check is covered. Because a "Personal Check" does not
-have guaranteed coverage, hardly anyone accepts it except for the
+By the way, you might be wondering how you can be sure
+that a check you receive is covered. Because a "Personal Check" does not
+have guaranteed coverage, hardly anyone accepts one except for the
 corner supermarket, which will also ask to see your ID. In such
 places, it might happen that bounced checks are publicly displayed so
 everyone can see what kind of fool doesn't have enough money in their
 account. Letting a check bounce is considered pretty foolish, and if
-it happens to someone once, they are forever discredited. So, for
+it happens to someone once, they are forever discredited.
+
+So, for
 example, if you're buying a used car, no one will accept a "Personal
 Check." Once the purchase price is negotiated, the buyer goes to the
 bank and obtains a so-called "Cashier's Check," which is guaranteed
-to be honored. By the way, the check has a detachable side strip.
+to be honored. By the way, the cashier's check has a detachable side strip.
 I've heard that if you tear it off, the "Cashier's Check" is no
 longer valid! The bank requires real cash from the account for a
 "Cashier's Check," otherwise, they won't issue it. The buyer then
@@ -376,19 +374,19 @@ transaction. With cash, no one can prove who received what and when.
 However, when a check for a certain amount is cashed at a bank, it is
 officially recorded because the bank logs it.
 
-What if you buy a used car on Saturday? In the USA, the customer is,
-of course, not the fool but the king -- and so some banks are
+What if you buy a used car on a Saturday? In the USA, the customer is,
+of course, not the fool but a king -- and so some banks are
 naturally open on Saturdays as well. By the way, it's quite funny
 because that's when they have "Casual Day," meaning none of the
-employees have to wear a suit with a tie or a costume. Angelika and I
-went to a bank four years ago, when we were new in the country, on a
+employees have to wear a suit with a tie, or a costume. Angelika and I
+went to our bank four years ago, when we were new in the country, on a
 Saturday to open an account, and someone in jeans and a shirt
 approached us in the lobby to ask about our needs. Confused, I
 thought, "What does the janitor want from me?" but it was a bank
 employee from the counter who was walking around the customer area!
 It's funny what you have programmed into your brain.
 
-Traveller's checks" that can be purchased at banks in Germany are, by
+"Traveller's checks" that can be purchased at banks in Germany are, by
 the way, the ideal means of payment for tourists. Amex traveller's
 checks are accepted everywhere here in the USA, as long as they are
 issued in dollars. Even the corner store or a restaurant will gladly
@@ -396,7 +394,7 @@ accept them without any fees to settle the bill, as long as you don't
 try to pay a $5 bill with a $100 traveller's check. Otherwise,
 tourists are best off using a credit card, as it offers the best
 exchange rate and only about 1% in fees. With cash, the exchange rate
-is approximately 5% worse.
+is approximately worse by 5%.
 
 It's also amusing what happens when you first arrive in the country
 and receive your first checkbook, usually containing about 20
@@ -408,7 +406,9 @@ will send you a proper checkbook after a few weeks. Since many stores
 are rather dismissive towards people who have just received their
 first checkbook, the bank will suggest starting the check numbers not
 at 1, but at, for example, 1000. Over the years, you build up
-"credit," or creditworthiness. At some point after a year, you can
+"credit," or creditworthiness.
+
+At some point after a year, you can
 apply for a credit card. Incidentally, it doesn't matter if you
 already had a credit card from the same company (American Express,
 Visa, MasterCard/Eurocard) in Germany; American credit companies
@@ -423,10 +423,11 @@ paid their credit, you can file an objection against the entry (which
 will then be noted in the entry), but the entry itself remains. I've
 read that people have had to fight against these arbitrary or
 erroneous entries for years before they were finally corrected. The
-best stories, by the way, are in the very good book.
+best stories, by the way, are in the very good book
+<LINK>"Database Nation"|https://www.amazon.de/exec/obidos/ASIN/0596001053/perlmeistercom04</LINK>
+by Simson Garfinkel.
 
-<pic images/costco.ps The membership card from Costco. On the other
-side, there is a machine-readable barcode.>
+<pic images/costco.ps The membership card from Costco. On the other side, there is a machine-readable barcode.>
 
 Anyone who once fell out of line (even if it was just for not paying
 the rent, missing an installment payment, or running out of money in
@@ -434,21 +435,21 @@ the account) has a very hard time correcting this mistake. When you
 apply for a credit card, the card company checks the "Credit Report"
 to see how creditworthy the potential new customer is. In the case of
 a foreigner newly arrived from Germany, this inquiry results in a
-blank sheet of paper, which leads to the rejection of the
+blank sheet of paper, which leads to the automatic rejection of the
 application. The same applies, by the way, when renting an apartment:
 the landlord checks the "Credit Report," and if there is something
 negative or nothing at all, you don't get the apartment. At that
-time, I had to plead with our landlord until I finally got the
+time, I had to plead with our landlord until I finally got our
 apartment -- because my credit report was simply empty.
 
 Having "credit" or creditworthiness is very important in America. If
 someone pays amounts over 20 dollars in cash at the supermarket, they
-are looked at strangely, as if the cashier is thinking: Doesn't
+are looked at strangely, as if the cashier is thinking: Why doesn't
 anyone give them a credit card or a check? What's wrong with them?
 However, I still like to pay in cash, and I don't care what they
 think of me. On the contrary, it drives me crazy when some fool pays
-a 5-dollar bill with a credit card, and it takes forever--quite
-common in America. Those with a good "credit report" receive about
+a 5-dollar purchase with a credit card, and it takes forever--quite
+common in America. Those with a good credit receive about
 two offers every day (by mail or phone call) for new credit cards.
 This starts happening to foreigners who haven't had any negative
 incidents after about two years, as they become known in the system.
@@ -458,29 +459,26 @@ bought what, where, and when. However, supermarkets are naturally
 interested in collecting data on purchasing behavior and selling it
 back to advertisers, who then bombard you with targeted, tailor-made
 advertising. For example, a check might have your phone number on it,
-which the supermarket can sell to people who call you at 8 PM trying
+which the supermarket can sell to people who call you at 8 PM at home trying
 to sell you something. If the bank doesn't write the phone number on
 the check, the cashier will ask for it. Of course, you can say you
 don't want to provide it or just give a fake number like 123-4567,
 but it's amusing. Supermarkets like "Safeway" issue customer cards,
 and certain special offers are only available at a discounted price
 if you present the customer card. And you can't even enter our
-favorite supermarket, "Costco," without a membership card! This way,
+favorite supermarket, "Costco," without your membership card! This way,
 the supermarket knows who bought what and has more data to feed into
 the computer. I don't think this is bad at all because the
 advertising that bombards us today is so annoying precisely because
-it is so indiscriminately targeted. When the TV interrupts a program
+it is not targeted. When the TV interrupts a program
 for 5 minutes to show beer or detergent ads, it's a waste of time.
 If, during the same time, computer stores advertised their products,
 I might not have any objections.
 
-@Z: The term "Gung Ho" is derived from Chinese and is often
-translated to English as "work together" or "enthusiastic
-cooperation." It is used to describe someone who is very eager,
-enthusiastic, or zealous about a task or mission.
+@Z: "Gung Ho"
 
 <em>Michael</em> 
-I would be "gung ho", so to speak! Because we are already back to our
+I would be "gung ho", as they say here! Welcome back to our
 segment "Learn to Speak American with the Pros". "Gung ho"
 (pronounced Gang ho) is an expression that originated from some US
 troops stationed in Asia during World War II. It is derived from the
@@ -488,9 +486,11 @@ Mandarin Chinese 'gonghe' and means that you enthusiastically go
 along with what everyone else is doing. "I am gung ho with ..." means
 that you agree joyfully. No kidding, it's quite a common expression!
 
-@Z: Marathon-Planung
+@Z: Planning For the Marathon 
 
 <pic images/sfmara.ps Marathon in San Francisco>
+
+TODO
 
 <em>Michael</em> 
 On July 8th, I will be participating in the San Francisco Marathon.
