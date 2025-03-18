@@ -444,6 +444,10 @@ thrilled to meet you all, dear newsletter readers! It was truly an
 exciting time for us, and you enriched it so pleasantly. See you in
 four years! Make way for Angelika!
 
+@Z: Berlin
+
+<pic images/kuppel.ps The dome of the new Reichstag>
+
 <em>Angelika</em> 
 Hooray! It's finally my turn. First, let me quickly remind you that
 during our stay in Germany, I was not only in Southern Germany but
@@ -454,10 +458,6 @@ the lead, as he hadn't breathed German air for four years.
 Nevertheless, I will delight you with a few remarks. You'll just have
 to bear with me.
 
-<pic images/kuppel.ps The dome of the new Reichstag>
-
-TODO
-
 Berlin is on everyone's lips; even the American AAA magazine (the AAA
 is somewhat like the ADAC in Germany, and the magazine corresponds to
 the "ADAC Motorwelt") dedicated several pages to the German capital.
@@ -467,53 +467,57 @@ this city fascinated me. I had long wanted to visit again, but as is
 often the case when you only come to Germany for a short visit, there
 is no time for such excursions. However, since Berlin can be easily
 reached from Oldenburg in four hours by train, my mother and I
-followed the example of the Americans who travel through Europe in 14
-days and went to Berlin for two days. I can warmly recommend this to
-every newsletter reader. Berlin is not only in motion but also in
+followed the example of Americans traveling through Europe in 14
+days and went to Berlin for two days.
+
+I can warmly recommend Berlin to
+every newsletter reader. It's not only in motion but also in
 transition, as evidenced by the numerous construction sites.
 Naturally, we also completed the standard tourist program: the
 Reichstag (the new dome is a delight for anyone who enjoys
 photography), the Brandenburg Gate (currently wrapped in T-Online
 advertising because it is being renovated), Unter den Linden,
-FriedrichstraÃe, Berlin Cathedral, Museum Island, Hackesche HÃ¶fe,
+Friedrichstraße, Berlin Cathedral, Museum Island, Hackesche Höfe,
 Potsdamer Platz, and the New Synagogue. But we also simply strolled
-through the streets. I was particularly drawn to the contrasts.
+through random streets. I was particularly drawn to the contrasts.
 Often, a freshly renovated building stands next to one that is on the
 verge of collapse. Precisely because much in Berlin is so
 questionable, one approaches it similarly to New York: either you
-love this city or you hate it. The newly designed Potsdamer Platz,
+love this city or you hate it.
+
+The newly designed Potsdamer Platz,
 which appears hyper-modern like something out of a science fiction
 film, is, for example, a project worth discussing. It is also worth
 questioning whether it was right that no piece of the Wall remains
-standing directly behind the Reichstag. I really struggled to imagine
+standing directly behind the Reichstag. I really struggled to remember
 exactly where the Wall once ran. However, I am full of praise for the
 colorful variety of restaurants, pubs, and cafes. And since the
 weather in Berlin wasn't exactly warm and I still had a bit of San
 Francisco weather in my bones, constantly feeling cold, my mother and
 I made extensive use of these offerings.
 
-<pic images/luise.ps View from the window of the artist's home Luise>
+<pic images/luise.ps View from the window of Künstlerheim Luise>
 
-The highlight was the hotel "KÃ¼nstlerheim Luise" on LuisenstraÃe,
+The highlight was the hotel "Künstlerheim Luise" on Luisenstraße,
 where we stayed for one night. Each room was designed by a different
 artist. Ours was called "Baustelle Deutschland" by Oliver Jordan. We
 slept like logs, surrounded by the predominant colors black, red, and
-gold, and the portraits of Dutschke, BÃ¶ll, Grass, Brecht, and Anna
+gold, and the portraits of Dutschke, Böll, Grass, Brecht, and Anna
 Seghers (the ghost train of German literature! Note from Michael).
 It's also amusing that the hotel is located right next to the railway
 tracks, allowing you to watch the S-Bahn, ICE, etc., pass by. Now you
 might exclaim in horror: "Oh no, then you can't sleep because of the
 noise!" But that was really not the case, as the windows were
-triple-glazed, and for those sensitive to noise, earplugs are
+triple-glazed, and for those sensitive to noise, earplugs were
 provided as a precaution. The breakfast was also lovely, waiting for
 you in a communal kitchen in the morning. If you want to take a
-closer look at the hotel, just click on
+closer look at the hotel, just click on <LINK>https://www.kuenstlerheim-luise.de</LINK>.
 
-<pic images/ossi.ps Ossi-Charme: Dilapidated houses next to newer ones>
+<pic images/ossi.ps East German Charm: Dilapidated buildings next to new ones>
 
 What amused me greatly in Germany, by the way, are the Anglicisms
 that you encounter at every turn. German advertising seems unable to
-do without English phrases anymore. When you enter a bookstore, you
+do without English idioms anymore. When you enter a bookstore, you
 feel like you're in an English-speaking country, as titles like "Fit
 for Life" immediately catch your eye. Now, you shouldn't think that
 I'm as extreme about language purity as the French, who even have
@@ -521,7 +525,7 @@ their own word for "computer," but there's no need to overdo it,
 especially just to give the impression of being cosmopolitan. That
 ends up feeling really forced.
 
-Michael has already written that we shopped diligently in Germany. We
+Michael has already written that we were shopping diligently while in Germany. We
 stocked up on everything: Cliff shower gels, Kneipp baths, German
 books, Milka chocolate. We just didn't think of the good old Tempos.
 And that immediately came back to bite us, as both Michael and I
@@ -529,14 +533,16 @@ caught a cold right after our return. When it comes to tissues,
 America is really behind the times. Perhaps some of you who have
 traveled to America have noticed that tissues are usually only
 available for purchase in boxes. But it's extremely impractical to
-carry a box around when you're going somewhere. By now, there are
+carry a box around when you're going somewhere.
+
+In the meantime, the US market came up with
 packages that look like Tempo, but the tissues are so bad that they
-make you want to cry on top of having a cold. Not only are they as
-hard as anything, so that after blowing your nose three times you end
+make you want to cry on top of having a cold. Not only are they
+scratchy and hard, so that after blowing your nose three times you end
 up with a sore nose, but they are also so thin that you might as well
 take three at once to prevent the snot from suddenly spreading on
 your hand. It really can't be that hard to sell decent tissues that
-you can easily put in your pocket! The solution to the mystery, of
+you can easily slip into your pocket! The solution to the mystery, of
 course, lies in a cultural peculiarity: Americans stay home with a
 box full of tissues when they have a common cold. In these cases, all
 appointments are canceled, because nothing is worse for Americans
@@ -556,8 +562,8 @@ safely stay until October 2002.
 In the USA, there is a somewhat absurd regulation that allows you to
 apply for a visa extension while in the country and receive all the
 official documents, but you can only get the stamp (which is now a
-self-adhesive label) in your passport outside the USA. Without it,
-you can leave the country but cannot re-enter. You might remember
+self-adhesive label) in your passport while staying outside the USA. Without the stamp,
+you can leave the country, but cannot re-enter. You might remember
 that during one of my visits to Germany, I had to go to the American
 consulate in Frankfurt for this reason. There is one exception: under
 certain conditions, you can send your passport and the original
@@ -573,7 +579,9 @@ America). Happily, we boarded the plane to Germany and had no worries
 about returning. Upon our return, we stood a little tired in the long
 "immigration line" at the airport in San Francisco and ended up with
 a female immigration officer whose correctness would have made any
-German official turn green with envy. After she looked at our
+German official turn green with envy.
+
+After she looked at our
 passports and asked Michael where he worked, she actually wanted to
 see the original Form I-797. This is the document that confirms how
 long we are allowed to stay in the country, and according to the
@@ -596,10 +604,8 @@ be downright boring.
 
 Until the next newsletter!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
+Angelika und Michael
 
 P.S.: As always, the newsletter is available live and in color on the
 internet -- with images that can be enlarged. Just visit
-http://usarundbrief.com!
-
+https://usarundbrief.com!
