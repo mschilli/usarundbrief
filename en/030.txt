@@ -553,8 +553,6 @@ report on it at length and boast like ten naked savages, don't worry.
 
 <pic images/krugs.ps Charles Krug, Napa Valley Cabernet Sauvignon, 1998>
 
-TODO
-
 <em>Michael</em> 
 And here again is the popular section:
 Now-let's-drink-another-bottle-of-wine! This time, a delicate little
@@ -563,8 +561,8 @@ Costco and apparently only caught the eye of the speedy newsletter
 reporter. When you stick your nose in the glass, something wafts
 towards you that the American wine connoisseur would describe as
 'liquorish', almost a brandy-like note. Also not unlike the scent of
-Mon Cheri. Very delicious. On the palate, nicely balanced, fine,
-unobtrusive tannins, a wonderfully heavy red wine that is best suited
+Mon Cheri, a popular German pre-christmas snack. Very delicious. On the palate, nicely balanced, fine,
+unobtrusive tannins. A wonderfully heavy red wine that is best suited
 for snuggling into a heavy Italian leather armchair in the evening
 and reading an excellent Perl book. Aaah ....
 
@@ -573,56 +571,57 @@ and reading an excellent Perl book. Aaah ....
 <pic images/tivobox.ps Cable box, video recorder, and TiVo box>
 
 <em>Michael</em> 
-And here is the newsletter's top product: the TiVo box. In Germany,
-you also have the problem that only crap is on TV, which is
+And here is this month's newsletter's top product: the TiVo box. In Germany,
+you have the problem that only crap is on TV, which is
 constantly interrupted by commercials. In America, it's even worse,
 and that's why the company TiVo came up with a box that contains a
 small computer that continuously records the TV program onto a hard
-drive while you watch.
+drive while you're watching.
 
-If you miss a sentence in a TV show because you were munching on
+If you miss a dialogue in a TV show because you were munching on
 potato chips too loudly, you can quickly press the TiVo remote and
-jump back in time--up to half an hour. However, you will then be
+jump back in time--up to half an hour if needed. However, you will then be
 watching the program on a delay: you are watching the past while the
-TiVo box continues to record the present. A clever way to skip the
-frequently inserted commercials is, of course, to let TiVo record the
+TiVo box continues to record the present. That's also a clever way to skip the
+frequently inserted commercials. You let TiVo record the
 show, watch it with a slight delay, and fast-forward through the
 commercial breaks.
 
-The first ones are already shouting: Hahaha, my VCR can do that too!
+Some readers are already shouting: Hahaha, my VCR can do that too!
 To which your uncle from America says: Not so fast, kids. The TiVo
-box can record one show while playing another one thatâs already
-saved. Or even play the beginning of a recorded show while itâs
+box can record one show while playing another that's already been
+saved. Or even play the beginning of a recorded show while it's
 still not finished! So if you come home late and your favorite TV
-show has already started, you donât have to freak out and run to
+show has already started, you don't have to freak out and run to
 the gun cabinet (see the second-to-last newsletter), you just let the
 TiVo box play the beginning of the show while it continues to record
 the end. This way, you watch the show just slightly delayed! During
 commercial breaks, you can fast forward to catch up a few minutes
-until youâre back in the present!
+until you're back in the present!
 
-This time delay feature is also used when you're watching something
+This time delay feature is also useful when you're watching something
 live on TV but need to quickly run to the phone because someone is
 calling during prime time. You simply press the "Pause" button, and
 the TiVo box continues recording the show. When you later press the
 "Play" button, the TiVo box resumes playback from the interruption
-point while still recording the present.
+point in the past while still recording the present.
 
-Furthermore, the box also knows the entire TV schedule by heart
-because it secretly calls the TiVo headquarters at night and
-downloads the current day's schedule. Thanks to smart software, you
+Furthermore, the box knows the entire TV station schedule by heart
+because it secretly calls TiVo headquarters every night and
+downloads the current day's schedule for all available stations in your area.
+And, thanks to smart software, you
 don't have to tell the TiVo box, "Switch to channel 2 on Tuesday at
 7:00 PM and record for half an hour." Instead, you just tell it the
 name of the show. For example, if I say "Seinfeld," it asks me if I
-only want the next episode that's airing somewhere soon or perhaps
-even a so-called "Season Pass," which is like a "season ticket" that
+only want the next episode that's airing somewhere soon or if maybe
+I want to obtain a
+so-called "Season Pass," which is like a "season ticket" that
 records every "Seinfeld" episode that airs at any time on the 60 or
 so channels we can receive. The box can store 30 hours of television,
 and you don't have to deal with video tapes, as the computer in the
 box saves it on its hard drive.
 
-<pic images/tivodsp.ps The TiVo has been diligently recording and
-offers a personalized television program.>
+<pic images/tivodsp.ps The TiVo has been diligently recording and is serving up a personalized television program.>
 
 You come home in the evening, turn on the TV, and are offered a menu
 with shows that were recorded during the previous night and the past
@@ -630,49 +629,42 @@ day. In my case, there's a list with "Seinfeld," "The Simpsons," the
 6 o'clock news, and various movies that aired on the pay-TV channel
 HBO (similar to Premiere in Germany).
 
-The translation to English is:
-
-"You simply record everything, better too much than too little (you
-can always delete it later) -- even news broadcasts. Because even
-that isn't enough to fill the entire TiVo storage, the box tries to
+You simply keep recording everything, better too much than too little (you
+can always delete it later) -- even news broadcasts. Because all of
+that isn't even enough to fill the entire TiVo storage, the box tries to
 record shows that are similar to the ones you have selected, if there
 is still space. On the remote control of the TiVo box, there are two
 buttons: thumbs down and thumbs up. With these, you can give the box
-bonus or penalty points, depending on how much you like the selected
-shows. The box is constantly learning and getting better.
+bonus or penalty points, depending on how much you like the automatically selected
+shows. That way, the box is constantly learning and getting better.
 
-<pic images/tivodsp2.ps The TiVo knows the TV schedule and can even
-tell you what the current episode is about at the push of a button.
-The bar at the bottom shows how much of the recorded program has
-already been played. You can, of course, click it away.>
+<pic images/tivodsp2.ps The TiVo knows the TV schedule and can even tell you what the current episode is about at the push of a button.  The bar at the bottom shows how much of the recorded program has already been played. You can, of course, click it away.>
 
-Moreover, he shares these decisions during the nightly phone calls to
-the TiVo headquarters, which supposedly anonymizes this information
-and resells it to advertisers--a video recorder and Allensbach
-Institute in one. However, you can call them and request that your
-data not be used, and this will be promptly taken care of. I really
+Moreover, the box shares your ratings with TiVo's data center during the nightly phone calls to
+their headquarters, and supposedly anonymizes this information
+before it gets sold to advertisers--a video recorder and Allensbach
+Institute in one. However, you can call TiVo and request that your
+data not be used, and they promis this will be promptly be taken care of. I really
 like the box, and it has completely changed my TV habits because I no
-longer wait for something to air on TV. Instead, I have so much
-recorded that if I have time to watch TV, I can immediately turn it
-on and "watch away" everything the box has recorded that interests
+longer wait for something to air on TV. Instead, I have so many
+recording that if I have time to watch TV, I can immediately turn it
+on and "watch away" everything the box has recorded and interests
 me. Angelika has also become fond of the box and no longer rushes to
 the TV when a show is on. Thanks to my intensive TiVo courses, she
-watches TV when she has time! Additionally, I'm always the one who
+watches TV when she has time! Admittedly, I'm always the one who
 munches on potato chips the loudest and therefore often misses a
 dialogue. No problem anymore. Thank you, TiVo! A true top product for
 newsletters!
 
-Or in American: "The best thing since sliced bread." The best thing
-since the invention of sliced bread. This is a common expression used
-to suggest that something is considered a great invention. In
-America, you can have a freshly bought loaf of bread sliced into
-perfectly even slices by a machine in bakeries and supermarkets.
+Or, as they say in American: "The best thing since sliced bread."
+This is a common expression used
+to suggest that something is considered a great invention. Here's some background:
+In America, you can have a freshly bought loaf of bread sliced into
+perfectly even slices by a machine installed at most bakeries and supermarkets.
 Indeed, a great invention that Germans will be chewing over for a
 long time. By the way, Angelika often says "Das sind ja wieder
 Bemmen!" when I cut bread into extra-thick slices -- can someone
 explain the etymological origin of this apparently northern German
 word to me? Until next time!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
