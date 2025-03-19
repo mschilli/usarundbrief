@@ -475,7 +475,7 @@ for 5 minutes to show beer or detergent ads, it's a waste of time.
 If, during the same time, computer stores advertised their products,
 I might not have any objections.
 
-@Z: "Gung Ho"
+@Z: American Expressions: "Gung Ho"
 
 <em>Michael</em> 
 I would be "gung ho", as they say here! Welcome back to our
@@ -486,25 +486,23 @@ Mandarin Chinese 'gonghe' and means that you enthusiastically go
 along with what everyone else is doing. "I am gung ho with ..." means
 that you agree joyfully. No kidding, it's quite a common expression!
 
-@Z: Planning For the Marathon 
+@Z: Preparing For the Marathon 
 
 <pic images/sfmara.ps Marathon in San Francisco>
 
-TODO
-
 <em>Michael</em> 
 On July 8th, I will be participating in the San Francisco Marathon.
-Yes, you heard correctly: the speedy newsletter reporter will lace up
-his running shoes and race 42.195 km across San Francisco with a few
+Yes, you heard that right, the speedy newsletter reporter will lace up
+his running shoes and race 42.195 km across San Francisco city streets with a few
 thousand other enthusiasts. While I am in pretty good shape, a
 special training regimen is necessary for such an ordeal: since March
 8th, I have been training four times a week following a proven
-special program. I started with 5-kilometer runs and increase the
-distance weekly so that the muscles can build up gradually and there
-is no risk of injury. By the way, the longest training run is one
+special program. I started with 5-kilometer runs and increased the
+distance weekly so that my muscles could build up gradually and there
+is no risk of injury. By the way, the longest training run in the program is one
 week before the San Francisco Marathon and is 29 kilometers long. So,
-the full 42 kilometers are only run on the marathon day itself, and
-then probably not at all for a week afterward.
+the full 42 kilometers are only being run on marathon day itself, and
+then probably not ever again.
 
 In the San Francisco Marathon, you run across the city past many
 landmarks. If you've been to San Francisco before, you'll recognize
@@ -514,11 +512,11 @@ the Embarcadero by the Bay, into the tech district "SoMa," then
 briefly through the Mexican neighborhood "Mission," almost past our
 home in "Noe," up Laguna Street to Market and all the way back up to
 Golden Gate Park. Across the park to the ocean, where the Pacific
-waves crash onto the beach, then along the promenade down to Lake
+waves are crashing onto the beach, then along the promenade down to Lake
 Merced, turn around and run the same road back up to Golden Gate Park
 -- and to the finish line. So it definitely won't be boring, I just
 have to keep going. And it's quite simple: You have to drink enough
-water and just not stop running!
+water and remidn yourself to not stop running!
 
 The History of the Marathon: Around 490 BC, the Greeks drove back the
 advancing Darius (King of Persia) and his troops--a successful battle
@@ -532,19 +530,19 @@ At the first Olympic Games in Athens in 1896, the marathon was
 immediately included as a discipline because it was considered almost
 superhuman to cover this distance by running. In 1912, at the Olympic
 Games in Sweden, the distance was adjusted to the now standard 42.195
-kilometers, actually by chance, because the runners were supposed to
-run exactly to the throne of the King of Sweden.
+kilometers, actually by circumstance, because the runners were supposed to
+run exactly to the location of the throne of the King of Sweden.
 
 The problem with a marathon is not the 42 kilometers; it's only the
-last ten that are hell on earth. Here's why: The muscles of the body
+last ten that are hell on earth. Here's why: The muscles in the body
 derive their energy from adenosine triphosphate (ATP), which the body
 produces during an easy long-distance run from about 50%
 carbohydrates and 50% fats. After about 30 to 35 kilometers, all the
 carbohydrates are depleted, and the body begins to generate energy
-from pure fat. This is said to be quite painful and requires a lot of
+from pure fat. This is said to be quite painful and it requires a lot of
 willpower to break through this barrier. In American terms, this is
 called "hitting the wall." You have to run slower and drag your
-leaden body laboriously to the finish. If you regularly consume
+leaden body laboriously to the finish. But if you regularly consume
 carbohydrates during the run in the form of drinks like Gatorade, you
 can delay this barrier, and if done skillfully, even until the end of
 the marathon. I have read several books on the subject and am
@@ -553,8 +551,9 @@ report on it at length and boast like ten naked savages, don't worry.
 
 @Z: Wine of the Month
 
-<pic images/krugs.ps Charles Krug, Napa Valley Cabernet Sauvignon,
-1998>
+<pic images/krugs.ps Charles Krug, Napa Valley Cabernet Sauvignon, 1998>
+
+TODO
 
 <em>Michael</em> 
 And here again is the popular section:
