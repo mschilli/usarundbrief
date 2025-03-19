@@ -1,0 +1,791 @@
+
+San Francisco, 7-1-2001
+
+<pic images/stau.ps Once again, there is heavy traffic on the Autobahn 101.>
+
+@Z: Car traffic in Silicon Valley
+
+<em>Michael</em> 
+The traffic on the two highways, 101 and 280, which lead from San
+Francisco to the more southernly located Silicon Valley, has now
+reached catastrophic proportions. The speed limit of 65 miles per
+hour (about 100 km/h) on these four-lane highways (per direction!)
+does mean that everyone drives roughly at the same speed, which is why
+American highways generally handle much more traffic than German
+ones, but too much is too much.
+
+Between 7 and 9:30 in the morning and 5 and 7:30 in the evening, you
+can no longer drive here. Instead of the record 35 minutes it once
+took me to drive the 60 km from San Francisco to Mountain View (don't
+try this at home, kids!), now it can take me up to an hour and a half during
+rush hour to get to the office. And every time, it drives me crazy
+that Americans can't drive. They can't handle the technical aspects of their
+oversized cars. Americans also have no sense of what moves the
+entirety of highway drivers forward. The focus is solely on the
+individual car--at the slightest delay, they slam on the brakes,
+causing the biggest traffic jam. Additionally, the plague of SUVs
+(Sport Utility Vehicles, a mix of delivery and sports car) means
+that as a driver of a normal low exposure car, you can hardly see anything.
+Hopefully, the gas price will soon shoot up to five dollars so that
+these idiots and their monstrosities disappear from my highway!
+
+<pic images/gap.ps A huge (approximately 35 by 15 meters) billboard at the edge of the highway. Zoom in on the image and you'll see the four helmeted workers at the very top, securing the material!>
+
+TODO
+
+If any drivers is getting bored, they can look at the huge billboards lined up
+along the edge of the highway. There, companies like Oracle,
+Microsoft, or sometimes a clothing chain like Gap advertise their
+products! Traffic planners also come up with the craziest things to
+regulate traffic: for example, traffic lights at highway on-ramps
+that turn green for exactly one second and then switch back to red.
+This way, a car enters every 10 seconds, quickly merging into the
+constant flow of traffic on the highway without causing anyone to
+brake. Although this means a long wait at the entrance, once you're
+on the highway, the traffic flows smoothly. At least in theory.
+
+I have already mentioned the carpool lanes before: During peak hours,
+only cars with two or more occupants (sometimes the limit is even
+three) are allowed to drive in the leftmost lane, encouraging people
+to form carpools. By the way, a child in a car seat also counts as a
+passenger. A pregnant woman once even tried to argue before the
+California Supreme Court that she should count as two people -- but
+she was unsuccessful.
+
+But even the carpool lane is congested in the morning hours. Instead
+of getting upset pointlessly, I like to hop on my bike -- as I
+mentioned in an earlier newsletter -- to ride to the train and
+commute to work.
+
+@Z: The Silicon Valley Railway
+
+<em>Michael</em> 
+The train from San Francisco to the more southernly located Silicon
+Valley is called Caltrain and feels like a time travel back to the
+year 1960. Over the last 40 years, Americans have invested everything
+in highways and nothing in public transportation, which results in
+the fact that even in the most successful high-tech area in the
+world, train travel is still exactly like it was forty years ago:
+with a diesel locomotive that the engineer pushes to a maximum speed
+of about 80 km/h and constantly rings a mechanically operated bell.
+The train rattles like on the route from Kolkata to New Delhi. The
+journey from San Francisco to Mountain View, which is about 60 km
+further south, takes an hour. The trains run hourly, with slightly
+more frequent service during peak times in the morning and evening.
+
+<pic images/sfcal.ps At the "4th and King" train station in San
+Francisco>
+
+<pic images/4th.ps The train is still empty.>
+
+Every morning when leaving the San Francisco station, the conductor
+announces over the loudspeaker that 1) smoking is not allowed (in
+California, you can't smoke anywhere except on the street), 2) you
+are not allowed to put your feet on the seats (which is an imposition
+for Americans, as they tend to put their feet everywhere, some even
+put their feet on the conference table during meetings!), and 3) you
+should not adjust the seats. These seats have backs that seemingly
+allow you to adjust them to face forward or backward -- but if you
+try, the backrest gets terribly stuck halfway, making the seat
+unusable and requiring the carriage to go into maintenance. I laugh
+myself half to death every time an American, who has never taken a
+train in their life, tries it and spends the rest of the journey
+trying to fix the backrest. No one has ever succeeded; it's hopeless.
+At stations, people often ask if you know where to buy tickets. There
+are Americans my age who have never taken a train in their life. And
+I'm not getting any younger!
+
+The conductor remembers whose ticket he has already punched by
+hanging a small card over the corresponding seat. If you change seats
+because your neighbor is snoring or smells of alcohol, you have to
+take the card with you and move it, otherwise the conductor will ask
+for your ticket again the next time he comes through. By the way, why
+doesn't the German conductor remember this and runs through with
+"Shift change, tickets please?" Incidentally, changing seats is a
+typical American phenomenon that I have never found described in
+literature and that I want to discuss today: People here in the bus,
+tram, or train change seats unexpectedly. In Germany, if your seat
+neighbor gets up and moves three rows ahead, you think, "Did I eat
+garlic yesterday or what?" I have often noticed in Munich that I
+stayed in my seat even if it was drafty, smelly, or the sun was
+glaring--just to not offend my seat neighbor. Here, it's not uncommon
+for people to change seats three times if they are traveling ten
+stops. Mysterious America! You read it first in the newsletter!
+
+<pic images/station.ps Two passengers are waiting for the "Caltrain"
+train.>
+
+In America, by the way, employees cannot deduct commuting expenses
+from their taxes. If you live far from work, it's your own fault.
+However, Netscape pays each employee $30 a month if they use public
+transportation to get to work. You receive a check that can only be
+accepted by train, bus, and subway operators. This only covers about
+a quarter of the costs, but it's at least a step in the right
+direction. Additionally, Netscape offers a shuttle (a private bus)
+that picks people up from the train station and takes them to work.
+In Mountain View, private buses arrive in the morning with
+"Netscape," "Microsoft," or "Hewlett Packard" written on them. Public
+transportation in Silicon Valley is practically useless; I've never
+seen a bus going anywhere I wanted to go. I would never get on the
+Microsoft bus, of course; I would rather walk the three kilometers to
+Netscape in torrential rain.
+
+The one-way trip from San Francisco to Mountain View costs four
+dollars. If the station has a ticket counter but you buy the ticket
+out of laziness from the conductor on the train, it costs an extra
+dollar. In Germany, this is quite normal. But anyone who thinks an
+American would accept this is mistaken: If the conductor asks for the
+extra dollar and politely explains why, there are regularly people
+who get upset and start lengthy discussions! Some conductors simply
+no longer charge the additional dollar because it doesn't really show
+up in the evening's accounting; after all, the passenger could just
+as easily have boarded at a station without a ticket counter. There
+are only three stations with ticket counters between San Francisco
+and San Jose, which is 90 kilometers further south! As we hear,
+ticket machines are supposed to be introduced soon! Wonders of
+technology!
+
+By the way, no one is expected to deal with any confusing zone
+systems. In illustration (#6), you can see the ten-ride ticket (costs
+$34, saving 15%) that shows "Zone 4." But that's only for the
+conductor; no passenger would know that. Instead, you simply tell the
+ticket counter where you want to go. It's also straightforward in the
+subway: you pay the same price ($1.10) throughout the entire city,
+and if you want to go to the suburbs, every ticket machine indicates
+how much it costs to go where. No one is required to abstract
+themselves into any complicated grid or zone systems.
+
+<pic images/ticket.ps (#6) A ten-ride ticket for the Caltrain from
+San Francisco to Mountain View. 34 dollars!>
+
+Bringing a bicycle onto the train, as I have written before, is often
+an incredible source of frustration, especially when the bicycle car
+is full, you are not allowed to board, and you have to wait half an
+hour or an hour for the next train. Some conductors allow more than
+the maximum additional number of bicycles on board, and then there
+are no problems. But if one is strict and leaves people standing
+outside, they get a lot of flak from the cyclists. Here in
+California, it's common to be flexible when the situation requires
+it. Anyone who blindly follows silly rules is considered a fool. I
+still remember Munich, where it's a regulation that buses must have
+"contact" with the bus stop sign, meaning they can't stop beforehand.
+Here in San Francisco, a bus might stop well before the stop
+depending on the traffic situation, and then you just quickly walk
+between the cars to get on, no problem at all. Recently, a bus driver
+didn't open the door beforehand when traffic came to a halt and drove
+all the way to the bus stop sign. People couldn't stop complaining
+about it!
+
+By the way, someone who is very meticulous, as I have mentioned
+before, is called a "Nazi." The first time I heard this was on the TV
+show "Seinfeld," where it was about a soup vendor who always harassed
+people and was colloquially called the "Soup Nazi." If someone from
+the Seinfeld crew didn't follow his rather arbitrary rules, he simply
+wouldn't sell them soup and would say with an Argentine accent: "No
+soup for you! Come back next year!" But the soup was so good that
+people came in droves and allowed themselves to be harassed. I am a
+lucky guy!
+
+<pic images/cell.ps Another chatterbox on the phone>
+
+Many people type away on their laptop computers during train rides,
+which is okay. But, to my dismay, there is too much phone calling.
+I've heard that by now, everyone in Germany has a mobile phone too. I
+also have one because it's practical if my bike has a flat tire or if
+I miss the last bus. But I would never think of making a phone call
+on the train, where everyone can hear what I'm saying! I don't know
+why, but when someone next to me is on the phone, it annoys me more
+than if they were talking to their neighbor. Probably because the
+protocol is so predictable: "Hello, this is...!" ... "Good, and you?"
+... "Hey, I'm on the Caltrain!" ... "So, I have to go now!" ...
+Arrrgh! I would be a regular in mobile phone-free carriages! By the
+way, more and more fine restaurants here are starting to note on
+their menus that a) smoking and b) letting mobile phones ring are not
+allowed.
+
+<pic images/mvcal.ps The train arrives in Mountain View.>
+
+In Mountain View, through years of pioneering work, I discovered a
+route from the train station to Netscape that goes over bridges
+designated only for bicycles and through parks, instead of following
+the congested main roads. Initially, I asked colleagues based in
+Mountain View if such a route existed, but received negative
+responses, as no one in Mountain View rides a bike or walks. In
+suburban America, people tend to drive even for small errands, like
+buying bread, even if the supermarket is only 100 meters away from
+home. In the Los Angeles area, this sometimes leads to the police
+stopping and checking pedestrians, as no "normal" person walks. As a
+result, locals are familiar with every car shortcut that involves
+briefly getting on and off three highways, but they know nothing
+about routes through parks where you can zip through on a bike like
+lightning. In contrast, I believe Mountain View has the slowest
+traffic light in the Northern Hemisphere. At the intersection of
+Central Expressway and Moffett Boulevard, it surely takes five
+minutes to change!
+
+<pic images/bikebridge.ps (#9) The bicycle bridge over the highway in
+Mountain View>
+
+But in Mountain View, there is actually a bicycle bridge that goes
+over the highway (Figure (#9)). In winter, by the way, it is pitch
+dark there by 6 PM, and in the park through which I ride after work,
+there is no light anywhere. My bicycle only has a blinking light,
+which makes me visible but does not illuminate the path. The result
+is a 1.5 km long blind ride through the park, and every rustle in the
+bushes makes me pedal faster. It gets my adrenaline pumping, and I
+wouldn't stop for anything or anyone!
+
+<pic images/cube.ps My bicycle with helmet in my cubicle>
+
+@Z: The Streets of San Francisco
+
+<em>Michael</em> 
+Apart from the unbearable traffic conditions, there is another reason
+why I don't like to move our car: It is very difficult to find a
+parking spot in San Francisco. Since we don't have a garage, if one
+of us comes home with the car after seven in the evening, we
+sometimes have to drive around the block for up to half an hour to
+find a spot. If we happen to have parked the car near our apartment,
+we think twice about moving it again. Parking spots are evaluated
+based on street cleaning days -- a "Monday parking spot" has to be
+vacated on Monday because that's when the street sweeper comes.
+Getting a Monday parking spot on a Tuesday, where the car can
+theoretically stay for a whole week, is considered a superhuman
+achievement, often celebrated with champagne. On the other hand, if
+you park your car late on Tuesday evening on a 7 AM Wednesday parking
+spot due to lack of alternatives, you might as well go to bed wearing
+a fool's cap.
+
+The best parking spot is, by the way, what I call the "Pole Position"
+-- right in front of the house. ("Pole Position" is what they call
+the best starting position in car races). We get this parking spot
+extremely rarely, maybe once every three months. Then the car is only
+moved if someone needs to go to the emergency room at the hospital.
+
+<pic images/pole.ps A historic event on June 9, 2001: The "PERL MAN"
+in pole position.>
+
+Here's the translation of the text into English:
+
+"Furthermore, you are not allowed to park near fire hydrants; you
+have to keep a distance of about eight and a half feet or so. Back
+when I obtained my California driver's license, I had to memorize
+that, but by now, I don't remember it anymore. It always reminds me
+of an old movie with the Marx Brothers, in which Groucho Marx had an
+inflatable hydrant in the car that he would place on the sidewalk
+when needed to scare away drivers parked in that spot. There's also
+some rule about intersections, but it's not taken very seriously. The
+rule is more like: if it doesn't directly harm anyone, it won't be
+punished. In Germany, I once received a ticket for parking against
+the direction of traffic--here, no one cares which way the car is
+facing. What's important on steep streets is to turn the wheels in
+such a way that if the gear slips and the handbrake fails, the car
+rolls against the curb and stops there. If you don't do that, you'll
+get a ticket because there have been serious accidents when old cars
+started moving on their own and thundered down the hills. Angelika
+always scolds me when I only gently turn the wheels and not, as the
+lady wishes, so that they almost pop out of their sockets. However,
+my dream is to one day get such a ticket, frame it, and hang it in
+the bathroom.
+
+<pic images/wrong.ps The wheels of the front car are turned the wrong
+way -- it would roll into the street! The rear two did it correctly.>
+
+<pic images/parktick.ps A ticket for the car that turned its wheels
+the wrong way -- 23 dollars!>
+
+A recent update: The other day, I wanted to drive to the office in
+the morning, went over to 23rd Street where our car was parked, and
+couldn't believe my eyes: On a 30% incline, there was a black Acura
+Integra parked sideways on the sidewalk, right in front of a garage.
+And the license plate read "PERL MAN"! An approximately
+hundred-year-old woman was excitedly moving around it, and a younger
+gentleman, who could no longer get out of his garage because of it,
+had just called the towing service. It turned out that while parking,
+the woman had bumped into our car with her massive 1960s Oldsmobile
+from above, causing it to roll down the hill on its own, despite the
+handbrake being engaged and the gear in place. Thanks to the wheels
+being turned towards the curb as required (Angelika had parked), it
+only hopped up the curb and came to a stop just before the garage.
+The woman had kindly already tucked a note under my windshield wiper:
+"Please ring 647-92.. -- will explain." ("Please call (phone number).
+Will explain."). Well, I would have been curious about that
+explanation. Luckily, I happened to pass by, found that nothing much
+had happened to the car (minor scratches don't count in America),
+whereupon the woman thanked me with "Thank you for being so nice,"
+the garage man quickly canceled the tow truck, I drove the car off
+the sidewalk, and headed off to work in Mountain View as usual. In
+all the excitement, I unfortunately forgot to photograph the scene.
+You experience things in this city!
+
+<pic images/note.ps The note from the woman who pushed our car down
+the hill.>
+
+@Z: Radarfallen
+
+<em>Michael</em> 
+I had already written that on the highway, the speed limit is usually
+65 miles per hour (100 km/h). However, on weekdays, outside of rush
+hours, hardly anyone adheres to this limit -- 85 mph (130 km/h) is
+more common. You can do this safely as long as you're not the only
+speeder on the road, because in America, there are no speed cameras.
+Instead, a police officer in an officially marked patrol car has to
+park on the side of the highway, measure a car's speed with a radar
+gun, chase the speeder, catch them, pull them over, and issue a
+ticket by hand. This takes a good 20 minutes, so if there are maybe 5
+patrol cars between San Jose and San Francisco, the chance of getting
+caught is almost zero. You usually see the police car from a
+distance, and then the whole line of cars magically slows down, only
+to speed back up to 85 shortly after. It's only dangerous to drive
+faster than everyone else or to constantly change lanes. That stands
+out, and it can also happen that a police car or motorcycle comes up
+from behind faster than everyone else. In that case, you need to be
+careful and keep an eye on the rearview mirror. If it does happen
+that a "Ford" brand car, model "Crown Victoria," with flashing lights
+is following you, you should immediately pull over to the right and
+stop on the shoulder, even on the highway, if it's safe to do so.
+It's also very important to stay calm and not get out of the car, as
+police officers in America are allergic to any kind of sudden
+movements. When the officer gets out and approaches the car (on the
+highway, by the way, on the passenger side), you roll down the
+window, and if he says "License and registration please," you hand
+over your driver's license and vehicle registration. If the latter is
+in the glove compartment, it's advisable to open it with a quick hand
+movement -- but only if you want to hear the sound of a cocking
+hammer and look into the barrel of a revolver. By the way, the police
+officer doesn't take any money; that is done via a transfer, and any
+waving of cash is considered bribery, so be careful. If you receive a
+"ticket" for speeding, you get penalty points in California, which
+not only go on your driving record but are also 100% certain to be
+reported to your auto insurance. The insurance then promptly raises
+the premium. However, you can work off the points by attending
+traffic school. Usually, this involves sitting in a classroom for a
+few hours on a Saturday, listening to accident statistics and driving
+tips, but recently, in some counties, you can also work through a
+traffic rules catalog online, take a test in the form of a webpage,
+and if you pass, have the points removed. That's progress!
+
+<pic images/hydrant.ps A rowdy teenager parked his pickup truck at
+the fire hydrant!>
+
+@Z: Parken
+
+<em>Michael</em> 
+Regarding the parking situation: In San Francisco, a street sweeper
+comes by most streets once a week. During this time, parking is not
+allowed, as the sweeper needs to pass through without obstruction.
+Therefore, it's important to always check the street cleaning sign
+before parking your car. Each street has its own cleaning schedule.
+For example, on the east side of Church Street, where we live, it's
+Wednesday from 8 to 10 in the morning. On the west side, it's Monday,
+also from 8 to 10. On the north side of 23rd Street, it's Friday from
+12 to 2 in the afternoon. On the south side, it's Tuesday, also from
+12 to 2 in the afternoon. The street sweeper usually comes by right
+in the middle of the two-hour window, accompanied by some ticketing
+officers who issue $30 tickets for each parked car--but only
+immediately before the sweeper passes through. Once the sweeper has
+gone by, you can park again right away, even if the two-hour period
+isn't over yet.
+
+<pic images/wespe.ps The evil parking ticket wasp that leads the
+street sweeper!>
+
+The 22nd Street is so steep at 31.5% that no street sweeper can drive
+there. And the trash rolls down the hill on its own. That's why you
+can always park there. However, the car is parked at such an angle
+that it would likely fall during an earthquake. If you go on vacation
+for a week, you need to find someone to move your car.
+
+<pic images/park.ps Everything is parked haphazardly in Noe Valley.
+Street cleaning is scheduled on this street for Wednesday from 8 to
+10.>
+
+<pic images/plan.ps We remember where the car is parked.>
+
+Since the car is often parked five minutes away from the house, I
+tend to forget exactly where it is. Who was the last person to come
+home with the car and when? Where is the parking spot this time?
+That's why Angelika once went through all the streets in the
+neighborhood, noted down the respective cleaning times, and manually
+created a nice plan that hangs on our door. An oversized thumbtack
+always indicates where the car is currently parked and whether the
+street sweeper is coming by today.
+
+@Z: The translation of "Ãffentliche Verkehrsmittel" to English is
+"public transportation" or "public transport.
+
+<em>Michael</em> 
+San Francisco also has a public transportation system called the "San
+Francisco Municipal Railway," or "MUNI" for short. Bus lines with
+numbers and streetcars with letters (J, K, L, M, N) transport people
+above ground. The line that passes by our house on Church Street is
+called J-Church. By the way, there is a fairly well-known alternative
+rock band in the USA named "J-Church." The music might be rather
+ungrounded, but guess which city they come from?
+
+There's also a subway: the so-called 'BART', which stands for "Bay
+Area Rapid Transit". However, one shouldn't imagine it as a subway
+network like those in European metropolises. Instead, there is
+exactly one line from Daly City (south of San Francisco) up to the
+Bay Bridge, going under the Bay. On the other side (in the East Bay),
+it continues in various directions. While BART is much more reliable
+than the MUNI, it still doesn't run as regularly as its European
+counterparts: on weekdays during the day, it might run every 10
+minutes, but on Sundays and public holidays, you might end up waiting
+around the subway station for 20 minutes.
+
+<pic images/bart.ps The subway in San Francisco: BART>
+
+@Z: The Dog Plague
+
+<em>Michael</em> 
+When you're on foot, you no longer have to worry about being ambushed
+by some wild street gang members -- San Francisco has become very
+tame lately. Instead, there's a new nuisance: Recently, while I was
+training for the marathon and running through the "Glen Park"
+neighborhood, I encountered a dog and a woman pushing a stroller. The
+dog was a completely unremarkable-looking Collie (like Lassie), and I
+unsuspectingly ran past the trio. Suddenly, the unleashed mutt
+snapped at my calf and bit into it!
+
+<pic images/dog.ps Dog owner in San Francisco. The gentleman is
+holding a bag with the dog poop in his left hand.>
+
+<pic images/poop.ps Here are free plastic bags for dog poop (from the
+newsletter correspondent in San Diego).>
+
+I barked a few words at the woman that were shocking even by American
+standards (see the newsletter before last on freedom of speech) and
+ran on, only to realize shortly after that I was actually bleeding!
+Fortunately, the tetanus shot I received six years ago in Munich was
+still effective. Funnily enough, a somewhat more tragic incident
+involving a fighting dog had occurred a few weeks earlier in San
+Francisco: In a high-rise building, a leashed fighting dog had
+snapped at a neighbor's neck and killed her! The two owners were then
+charged with "attempted murder" or "manslaughter" because they had
+allegedly trained the animal that way. I could have easily gotten
+millions out of the stupid cow with the unleashed dog, but I am
+generous and do not sue mentally challenged people.
+
+Generally speaking, dog owners are a bit eccentric. If a dog poops on
+the sidewalk, the owner must clean it up immediately, or else they
+face fines. People use a transparent crinkly bag, which they bring
+with them, to cover their hand, then they reach into the -- I
+speculate -- still body-warm clay-like droppings, pull the bag off
+like a glove, and wrap it around the brown giant. Well, to each their
+own. This does have the advantage that in America, you rarely step in
+dog poop -- in four and a half years, I've only had a stinky lump on
+my shoe once. But that's not all there is to say about "dogs."
+Angelika, take it away!
+
+<em>Angelika</em> 
+Not only since Michael was bitten by a dog have I been observing the
+dog epidemic in San Francisco with suspicion. Until now, I held back
+with my comments, thinking that I might be suffering from selective
+perception. I am simply afraid of dogs. Dog owners also make me
+uneasy, as they always claim their Fido is the most peaceful. Even if
+Hasso is baring his teeth and pulling on the leash. I am one of those
+people who often cross the street just to move in a "dog-free" zone.
+This is becoming increasingly difficult in San Francisco. Walking up
+24th Street in our neighborhood "Noe Valley" (or is it perhaps
+already "Dog Valley"?) on the weekend is no easy task for a
+dog-phobic person like me. Every three meters (I'm not exaggerating),
+you stumble over a dog surrounded by a crowd of people: "Oh, isn't he
+beautiful!" "What's his name?" "Can I pet him?" Many shop owners also
+have their dogs with them during the day. A nightmare for people like
+me who love to shop but prefer to avoid every dog. That's why I don't
+enter the new boutique on 24th Street called "A Girl and Her Dog."
+They do sell very nice clothes, but, you guessed it, I would also
+have to deal with the shop owner's dog. A few doors down at
+"Tully's," a small street cafÃ©, you find a water-filled dog bowl and
+a friendly note that they have small treats for four-legged friends
+inside the cafÃ©.
+
+<pic images/girldog.ps The boutique "A Girl and her Dog," which
+Angelika is boycotting.>
+
+San Francisco loves its dogs. I am no longer alone in this
+observation. Just in May, I read an article in the "San Francisco
+Chronicle" magazine that extensively reported on this "crazy love"
+and raised the question of when the humanization of dogs began. The
+concept of the dog as man's best friend is not exactly new, but the
+services for dogs and stressed dog owners that are mushrooming in and
+around San Francisco are. I'm not talking about the traditional dog
+boarding facilities that take care of the beloved four-legged friend
+when the owners are on vacation. I've long gotten used to the many
+professional dog walkers, who can be recognized by the cluster of
+dogs that always surrounds them (which always reminds me of the Pied
+Piper of Hamelin). The latest establishment is day care centers for
+dogs, called "Doggie Day Care." Since Americans--and employees of
+Silicon Valley in particular--are known to work a lot, man's best
+friend often stays home alone for many hours. This triggers the dog
+owner's guilty conscience. The solution: you take your dog to
+kindergarten. Don't think I'm crazy. The "Doggie Day Cares" actually
+have a lot in common with a kindergarten. There are toys, sofas for
+resting, and often a playground-like outdoor area. They go for walks,
+groom, pet, and train the dogs, and if necessary, even celebrate the
+dog's birthday. Kennel-like structures are, of course, absolutely
+taboo, as the dogs are supposed to interact with each other. Some
+"Doggie Day Cares" even install web cameras so that the working dog
+owner can check via the internet from the office how their
+four-legged friend is doing. However, "Doggie Day Cares" are not
+cheap. "Every Dog Has Its Day Care Inc." charges $395 monthly if the
+dog is registered for three months, $345 monthly if it's six months
+(www.everydog.com). At "K9to5" (www.k9to5.com) in San Francisco, it
+costs $32 per day for an adult dog, $300 for 10 visits, or $455 per
+month. The whole thing has become so popular that there are waiting
+lists. Of course, not every dog is accepted. Unsocial or even
+aggressive dogs are excluded. Therefore, dog owners and their dogs go
+through an admission process. An interview is scheduled. I know this
+firsthand because my photography teacher's dog was rejected because
+it didn't fit into the dog group.
+
+<pic images/water.ps The translation of "Wasser fï¿½r's Hundi im
+Laden" to English is "Water for the doggy in the store.>
+
+Doggie Day Cares" are not only extremely popular in San Francisco and
+its surroundings, but they can also be found elsewhere in the USA.
+However, San Francisco claims to have started the movement. The
+private organization "San Francisco Society for the Prevention of
+Cruelty to Animals" (SPCA), which is funded solely by donations,
+launched the first "Doggie Day Care" as a pilot project in 1994. This
+animal-loving society (abbreviated as SPCA) is heaven on earth for
+dogs and cats. It has been advocating for animal rights in San
+Francisco since 1868. Today, the SPCA ensures that abandoned, stray,
+or neglected animals are not killed but are nursed back to health and
+rehabilitated so they can live in families rather than shelters. Even
+fighting dogs are given a chance. However, since 1997, it has been
+the policy that Pit Bulls are euthanized if their past is unknown.
+Incidentally, in 1998, the SPCA opened an animal shelter that,
+according to their own description, resembles the Ritz (Hotel)
+(www.sfspca.org/maddies.html). Dogs and cats have their own rooms
+with parquet floors, sofas, aquariums, toys, and televisions. Rumor
+has it that the shelter offered homeless people the opportunity to
+stay with the animals some time ago, which the homeless thankfully
+refused indignantly. Sometimes one wonders at the things that exist.
+
+Finally, two very current stories about dogs. On Tuesday, twelve
+jurors in San Jose found Andrew Douglas Burnett guilty of animal
+cruelty (in America, the names of defendants are boldly published in
+the newspaper), which could mean up to three years in prison for him.
+After a rear-end collision, in his anger, he dragged the dog of the
+woman who caused the accident out of her car and threw it into
+oncoming traffic, which the dog did not survive. Not that I want all
+the animal rights activists to get upset with me now. Of course, I
+find such behavior wrong, and it's right that he has to be held
+accountable for it. I just wanted to report on the commotion this
+case caused. Animal rights activists quickly raised $120,000 to
+ensure the suspect would be appropriately sentenced (court
+proceedings in America are expensive), which drew criticism because
+the amount was far higher than the rewards offered for several open
+cases of missing children combined. Some said that the priorities
+here are somewhat misplaced. Many were also outraged that the dog
+owner spoke on camera about her child/baby being brutally murdered.
+Just to avoid any misunderstandings: she meant her dog.
+
+Also on Tuesday, on the other side of the bay in Richmond, three
+freely roaming fighting dogs attacked a ten-year-old boy who was out
+riding his new bicycle. The dogs injured the boy so severely that he
+remains in critical condition. He not only lost both of his ears but
+also suffered deep lacerations on his face, which will take years to
+fully heal. What particularly shocked me was that in the neighborhood
+where the dogs attacked the boy, it is quite normal for fighting dogs
+to roam around. This incident, along with a few others, sparked a
+debate about fighting dogs, similar to the one you had in Germany
+some time ago. On both sides of the debate, the same arguments are
+presented: that the real problem is the owners or the breeders who
+breed the most aggressive dog breeds. But I wonder what on earth goes
+through the minds of dog lovers for whom there is nothing better than
+owning a fighting dog? Why not a peaceful Saint Bernard? That's not
+normal!
+
+@Z: StraÃenbahn und U-Bahn" translates to "tram and subway" in
+English.
+
+<em>Angelika</em> 
+Michael's detailed report on transportation policy revealed quite a
+few secrets to you. I've always used buses and trams to conduct my
+social studies. If you really want to get to know San Francisco, just
+hop on public transportation. Many adventures await you. I'm not
+talking about the world-famous Cable Car, because locals in San
+Francisco generally don't use the Cable Car to get from point A to
+point B. No, even the "locals" ride the Cable Car more for fun, often
+with visitors in tow. Take the bus, tram, or BART if you want to
+understand what makes this city tick. One of my favorite bus lines is
+number 30 "Stockton," because this bus goes right through Chinatown,
+and you can feel firsthand that San Francisco has the largest Chinese
+population outside of China. But be careful! The bus is always
+packed, so it's not for those who suffer from claustrophobia. From
+Asia to South America is just a stone's throw in San Francisco. Hop
+on bus No. 14 "Mission," which takes you past taquerias and a
+colorful mix of shops through the Latin American neighborhood (called
+"The Mission"). You'll encounter colorful characters on bus number
+48, which departs almost right outside our door. The reason for the
+extravagance is rather sad, as the bus line passes by the "General
+Hospital," which has a crisis intervention center for psychiatric
+patients. Patients are treated at this center even if they are
+uninsured.
+
+<pic images/bus.ps The 48-er experience bus in San Francisco passes
+by our home.>
+
+I am also often a passenger on the "J" streetcar, as it takes me from
+the city to Church Street, where we live. It always gets interesting
+when school is out and the students from "Mission High" board at
+Dolores Park. The reputation of this high school leaves much to be
+desired, and I often feel sorry for the teachers when I observe the
+students' behavior, even though I'm not particularly sensitive about
+such things due to my profession. Recently, I was quite surprised
+when suddenly some girls from this school, about 13 or 14 years old,
+entered the streetcar with life-sized baby dolls in their arms. Since
+Americans are known for their love of conversation, I didn't have to
+wait long before someone asked the girls what the dolls were all
+about. It turned out that the "baby doll project" is a type of sex
+education. The girls (I didn't see any boys armed with baby dolls)
+take the dolls home over the weekend. The homework is to take care of
+the "baby." To make the experience more realistic, the dolls have a
+computer chip installed that makes them cry at irregular intervals
+for extended periods (including at night, of course). Thanks to
+technology, the "baby" also starts crying if it is held awkwardly,
+for example, with its head down. However, you can't feed the doll,
+and the diapers stay clean. The girls keep a diary over the weekend,
+writing down how they feel when their baby cries. One of the
+passengers then asked a pedagogically valuable question to one of the
+girls about what they were supposed to learn from this. She received
+the answer: "To take on more responsibility!" WRONG! Ideally, the
+crying of the babies is supposed to annoy the girls so much that they
+resist sex for a long time and don't get pregnant. I immediately felt
+that the baby project is not the right way to reduce the high number
+of teenage pregnancies in the USA. This approach is like putting the
+cart before the horse, which is known not to work.
+
+And now a little story that will make the inspectors of the Munich
+public transport services perk up. We've mentioned before that the
+Muni (you remember, that's the public transport service in San
+Francisco) is not exactly super reliable. For quite some time now,
+everyone who is anyone has been trying to improve the Muni. And I
+admit that it's not as bad as it once was. There still isn't a proper
+schedule for buses and streetcars, but the waiting times have
+shortened somewhat. As part of these improvements, about six months
+ago, it was introduced that passengers with a valid ticket are
+allowed to board at any door of the bus or streetcar. A valid ticket
+is considered to be a monthly pass or the so-called "transfer," which
+you receive as proof when paying and use for possible transfers.
+Until then, you could only board at the driver, where you paid or
+showed your monthly pass or "transfer." Boarding and alighting took
+forever with this procedure. Since humans are known to be creatures
+of habit, the new boarding method was prepared for the long term.
+There were brochures, loudspeaker announcements, and signs, because
+passengers had to be drilled to always carry their "transfer" with
+them from now on. Inspectors are also needed from now on, because
+someone might just jump on the bus or streetcar without a ticket. The
+concept of inspectors is relatively unusual in American cities with
+public transport systems.
+
+Usually, a turnstile or a person prevents you from fare dodging when
+boarding. Inspectors seem suspicious to Americans, as they are
+authorized to restrict individual freedom and impose fines.
+Naturally, the inspectors wear uniforms so they can be easily
+recognized. Sneaking onto the bus in plain clothes would be
+considered an imposition by American passengers. I've already been
+checked twice. The last time, it so happened that two passengers
+couldn't show a ticket. I watched with interest to see what would
+happen next. The passengers simply jumped to the tram driver and
+paid. The inspector politely remarked that they should please pay
+when boarding next time to avoid misunderstandings and so he wouldn't
+have to impose a fine. Wow! I remember the story from Munich with an
+American tourist who took the S-Bahn from the airport to the city and
+forgot to validate his ticket. He was checked and had to pay the
+fine, even though it was obviously a mistake. Sometimes San Francisco
+really shows its extremely friendly side.
+
+<pic images/transfer.ps Front and back of a transfer ticket for the
+"Muni" in San Francisco -- proof that you have paid in case the
+inspector comes!>
+
+@Z: News from the President
+
+<em>Angelika</em> 
+This month, our "Mr. President" embarked on a trip to Europe. As we
+heard and read, Bush did not exactly cover himself in glory, as he
+lived up to the ugly image of the stubborn, unyielding Texan cowboy
+who prioritizes his friends in the oil industry above all else.
+Environmental protection? Never heard of it! This lack of
+environmental awareness is also causing Bush to lose face
+domestically. The Kyoto Protocol may be an unfamiliar term to many
+Americans, but the fact that Bush wants to drill for gas in Alaska or
+that he reversed the law reducing the maximum levels of arsenic in
+drinking water (initiated by Clinton) angers many. Therefore, before
+his trip to Europe, Bush showed some concern for the environment by
+visiting two national parks (the "Everglades" in Florida and the
+"Sequoia National Park" in California). Will that help?
+
+Even California is not speaking well of Bush at the moment. Bush is
+ignoring the ongoing energy crisis in California and is refusing any
+assistance, even though, on a global scale, California represents the
+sixth-largest economy, a not insignificant state for the nation. The
+energy crisis is already showing economic impacts. And economic
+growth is supposedly Bush's top priority. He argues against the Kyoto
+Protocol, claiming that the agreement would supposedly ruin the
+American economy. Many believe that his disregard for California is
+solely because the state is firmly in the hands of the Democrats, and
+Bush cannot expect any votes from California. As is well known, Bush
+belongs to the Republican Party.
+
+And even within his own party, not everything looks rosy for Bush.
+You might have heard of the American Senator James Jeffords, who left
+the Republican Party in May after almost a lifetime of membership and
+now acts as an independent in the U.S. Senate. The national and
+international press reported extensively on this bold move because
+his departure from the party changed the majority balance in the U.S.
+Senate. The Democrats now hold 50 seats and the Republicans 49.
+Although this is still almost a tie, the shift in the majority
+balance means that the Democrats will now hold most of the committee
+chair positions, which clearly changes the political landscape. The
+chairpersons of the various committees, among other things, determine
+the topics that are addressed in the committees. The Senate
+leadership also shifted to a Democrat, Tom Daschle.
+
+James Jeffords, by the way, chose independence because he no longer
+wanted to support the changes in the Republican Party that had been
+emerging for several years and were intensifying under Bush.
+Traditionally, the Republican Party, dating back to Abraham Lincoln,
+included many more liberal figures who were respected and heard by
+the more conservative party members. Nowadays, the Christian
+fundamentalist right dominates the party with Bush at the helm.
+Politicians like James Jeffords or John McCain are being pushed to
+the sidelines. When you look at what Jeffords stands for, you can
+hardly believe he once belonged to the Republicans. He supports
+environmental protection and abortion rights, as well as stricter gun
+laws, and he opposes any discrimination against homosexuals. He also
+holds the record for having voted against his own party on many
+important issues. It should be noted in passing that American
+politicians generally submit much less to party discipline. This
+independence is seen quite positively. What matters is their own
+conscience and the welfare of the state they represent. Incidentally,
+Jeffords is the senator of the small state of Vermont, which, like
+its senator, is making waves with liberal initiatives. Vermont, for
+example, is the first American state to grant homosexual couples the
+same rights and responsibilities as married couples (at the state
+level) if they register as a partnership (the term "marriage" is not
+officially used here either). A small sensation!
+
+Yes, and Mr. Bush is also facing some trouble at home. His two
+daughters were caught in Texas buying and consuming alcohol in a bar,
+even though they are not yet 21 years old. The German press pointed
+out that Bush introduced this strict age limit as the governor of
+Texas. That's not entirely true. The age limit for buying alcohol is
+21 almost everywhere in the USA, including in California. However, it
+is true that Bush initiated a law in Texas that, under certain
+circumstances, punishes those who are caught "under-age drinking"
+three times with imprisonment.
+
+So, Michael has been complaining the whole time that the newsletter
+is getting way too long -- well, then I'll wrap it up. Just consider
+it as summer reading!
+
+From sunny California:
+
+The translation of "Angelika und Michael" to English is "Angelika and
+Michael.
+
