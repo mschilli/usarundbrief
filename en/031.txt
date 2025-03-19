@@ -31,18 +31,18 @@ these idiots and their monstrosities disappear from my highway!
 
 <pic images/gap.ps A huge (approximately 35 by 15 meters) billboard at the edge of the highway. Zoom in on the image and you'll see the four helmeted workers at the very top, securing the material!>
 
-TODO
-
 If any drivers is getting bored, they can look at the huge billboards lined up
 along the edge of the highway. There, companies like Oracle,
 Microsoft, or sometimes a clothing chain like Gap advertise their
-products! Traffic planners also come up with the craziest things to
+products. Traffic planners also come up with the craziest things to
 regulate traffic: for example, traffic lights at highway on-ramps
 that turn green for exactly one second and then switch back to red.
 This way, a car enters every 10 seconds, quickly merging into the
 constant flow of traffic on the highway without causing anyone to
-brake. Although this means a long wait at the entrance, once you're
-on the highway, the traffic flows smoothly. At least in theory.
+slam on the brake. Although this means a long wait at the entrance, once you're
+on the highway, the traffic is flowing smoothly. At least in theory.
+
+TODO
 
 I have already mentioned the carpool lanes before: During peak hours,
 only cars with two or more occupants (sometimes the limit is even
