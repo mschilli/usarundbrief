@@ -42,8 +42,6 @@ constant flow of traffic on the highway without causing anyone to
 slam on the brake. Although this means a long wait at the entrance, once you're
 on the highway, the traffic is flowing smoothly. At least in theory.
 
-TODO
-
 I have already mentioned the carpool lanes before: During peak hours,
 only cars with two or more occupants (sometimes the limit is even
 three) are allowed to drive in the leftmost lane, encouraging people
@@ -54,8 +52,8 @@ she was unsuccessful.
 
 But even the carpool lane is congested in the morning hours. Instead
 of getting upset pointlessly, I like to hop on my bike -- as I
-mentioned in an earlier newsletter -- to ride to the train and
-commute to work.
+mentioned in an earlier newsletter -- to ride to the train station, 
+and take Silicon Valley railway to commute to work.
 
 @Z: The Silicon Valley Railway
 
@@ -67,14 +65,13 @@ in highways and nothing in public transportation, which results in
 the fact that even in the most successful high-tech area in the
 world, train travel is still exactly like it was forty years ago:
 with a diesel locomotive that the engineer pushes to a maximum speed
-of about 80 km/h and constantly rings a mechanically operated bell.
+of about 80 km/h, constantly ringing a mechanically operated bell.
 The train rattles like on the route from Kolkata to New Delhi. The
 journey from San Francisco to Mountain View, which is about 60 km
 further south, takes an hour. The trains run hourly, with slightly
 more frequent service during peak times in the morning and evening.
 
-<pic images/sfcal.ps At the "4th and King" train station in San
-Francisco>
+<pic images/sfcal.ps At the "4th and King" train station in San Francisco>
 
 <pic images/4th.ps The train is still empty.>
 
@@ -82,7 +79,7 @@ Every morning when leaving the San Francisco station, the conductor
 announces over the loudspeaker that 1) smoking is not allowed (in
 California, you can't smoke anywhere except on the street), 2) you
 are not allowed to put your feet on the seats (which is an imposition
-for Americans, as they tend to put their feet everywhere, some even
+for Americans, as they tend to put their feet up everywhere, some even
 put their feet on the conference table during meetings!), and 3) you
 should not adjust the seats. These seats have backs that seemingly
 allow you to adjust them to face forward or backward -- but if you
@@ -91,7 +88,7 @@ unusable and requiring the carriage to go into maintenance. I laugh
 myself half to death every time an American, who has never taken a
 train in their life, tries it and spends the rest of the journey
 trying to fix the backrest. No one has ever succeeded; it's hopeless.
-At stations, people often ask if you know where to buy tickets. There
+At the station, people often ask me if you know where to buy tickets. There
 are Americans my age who have never taken a train in their life. And
 I'm not getting any younger!
 
@@ -100,11 +97,11 @@ hanging a small card over the corresponding seat. If you change seats
 because your neighbor is snoring or smells of alcohol, you have to
 take the card with you and move it, otherwise the conductor will ask
 for your ticket again the next time he comes through. By the way, why
-doesn't the German conductor remember this and runs through with
-"Shift change, tickets please?" Incidentally, changing seats is a
+don't train conductors in Germany remember it this way and runs through with
+"Shift change, tickets please?" instead? Incidentally, changing seats is a
 typical American phenomenon that I have never found described in
-literature and that I want to discuss today: People here in the bus,
-tram, or train change seats unexpectedly. In Germany, if your seat
+literature and that I want to discuss today: People here, on the bus,
+tram, or train, tend to change seats unexpectedly. In Germany, if your seat
 neighbor gets up and moves three rows ahead, you think, "Did I eat
 garlic yesterday or what?" I have often noticed in Munich that I
 stayed in my seat even if it was drafty, smelly, or the sun was
@@ -112,14 +109,13 @@ glaring--just to not offend my seat neighbor. Here, it's not uncommon
 for people to change seats three times if they are traveling ten
 stops. Mysterious America! You read it first in the newsletter!
 
-<pic images/station.ps Two passengers are waiting for the "Caltrain"
-train.>
+<pic images/station.ps Two passengers are waiting for the "Caltrain" train.>
 
 In America, by the way, employees cannot deduct commuting expenses
 from their taxes. If you live far from work, it's your own fault.
 However, Netscape pays each employee $30 a month if they use public
 transportation to get to work. You receive a check that can only be
-accepted by train, bus, and subway operators. This only covers about
+cashed by train, bus, and subway operators. This only covers about
 a quarter of the costs, but it's at least a step in the right
 direction. Additionally, Netscape offers a shuttle (a private bus)
 that picks people up from the train station and takes them to work.
@@ -139,39 +135,39 @@ extra dollar and politely explains why, there are regularly people
 who get upset and start lengthy discussions! Some conductors simply
 no longer charge the additional dollar because it doesn't really show
 up in the evening's accounting; after all, the passenger could just
-as easily have boarded at a station without a ticket counter. There
-are only three stations with ticket counters between San Francisco
+as easily have boarded at a station with no ticket booth. There
+are only three stations with ticket booths between San Francisco
 and San Jose, which is 90 kilometers further south! As we hear,
-ticket machines are supposed to be introduced soon! Wonders of
+ticket machines are supposed to be introduced soon everywhere! Wonders of
 technology!
 
 By the way, no one is expected to deal with any confusing zone
-systems. In illustration (#6), you can see the ten-ride ticket (costs
+systems here like in Germany. In illustration (#6), you can see a 10-ride ticket (costs
 $34, saving 15%) that shows "Zone 4." But that's only for the
 conductor; no passenger would know that. Instead, you simply tell the
-ticket counter where you want to go. It's also straightforward in the
+ticket counter person where you want to go. It's also straightforward in the
 subway: you pay the same price ($1.10) throughout the entire city,
 and if you want to go to the suburbs, every ticket machine indicates
 how much it costs to go where. No one is required to abstract
 themselves into any complicated grid or zone systems.
 
-<pic images/ticket.ps (#6) A ten-ride ticket for the Caltrain from
-San Francisco to Mountain View. 34 dollars!>
+<pic images/ticket.ps (#6) A ten-ride ticket for the Caltrain from San Francisco to Mountain View. 34 dollars!>
 
 Bringing a bicycle onto the train, as I have written before, is often
 an incredible source of frustration, especially when the bicycle car
-is full, you are not allowed to board, and you have to wait half an
+is full, which is when you're not allowed to board, and you have to wait half an
 hour or an hour for the next train. Some conductors allow more than
-the maximum additional number of bicycles on board, and then there
-are no problems. But if one is strict and leaves people standing
+the maximum number of bicycles on board, and there usually
+are no problems with that. But if a conductor is strict and leaves people standing
 outside, they get a lot of flak from the cyclists. Here in
 California, it's common to be flexible when the situation requires
 it. Anyone who blindly follows silly rules is considered a fool. I
 still remember Munich, where it's a regulation that buses must have
-"contact" with the bus stop sign, meaning they can't stop beforehand.
+"contact" with the bus stop sign, meaning they can't stop beforehand,
+for example when traffic conditions would allow it.
 Here in San Francisco, a bus might stop well before the stop
 depending on the traffic situation, and then you just quickly walk
-between the cars to get on, no problem at all. Recently, a bus driver
+between stalled cars to get on, no problem at all. Recently, a bus driver
 didn't open the door beforehand when traffic came to a halt and drove
 all the way to the bus stop sign. People couldn't stop complaining
 about it!
@@ -180,17 +176,17 @@ By the way, someone who is very meticulous, as I have mentioned
 before, is called a "Nazi." The first time I heard this was on the TV
 show "Seinfeld," where it was about a soup vendor who always harassed
 people and was colloquially called the "Soup Nazi." If someone from
-the Seinfeld crew didn't follow his rather arbitrary rules, he simply
-wouldn't sell them soup and would say with an Argentine accent: "No
+the Seinfeld crew didn't follow the soup nazi's rather arbitrary rules, he simply
+wouldn't sell them soup and would yell with his Argentine accent: "No
 soup for you! Come back next year!" But the soup was so good that
-people came in droves and allowed themselves to be harassed. I am a
-lucky guy!
+people came in droves and allowed themselves to be harassed. I laughed
+tears!
 
 <pic images/cell.ps Another chatterbox on the phone>
 
-Many people type away on their laptop computers during train rides,
-which is okay. But, to my dismay, there is too much phone calling.
-I've heard that by now, everyone in Germany has a mobile phone too. I
+Many people are typing away on their laptop computers during train rides,
+which is okay. But, to my dismay, there is too much mobile phone use.
+I've heard that, by now, everyone in Germany has a mobile phone too. I
 also have one because it's practical if my bike has a flat tire or if
 I miss the last bus. But I would never think of making a phone call
 on the train, where everyone can hear what I'm saying! I don't know
@@ -200,44 +196,49 @@ protocol is so predictable: "Hello, this is...!" ... "Good, and you?"
 ... "Hey, I'm on the Caltrain!" ... "So, I have to go now!" ...
 Arrrgh! I would be a regular in mobile phone-free carriages! By the
 way, more and more fine restaurants here are starting to note on
-their menus that a) smoking and b) letting mobile phones ring are not
+their menus that a) smoking and b) letting mobile phones ring is not
 allowed.
 
 <pic images/mvcal.ps The train arrives in Mountain View.>
 
-In Mountain View, through years of pioneering work, I discovered a
-route from the train station to Netscape that goes over bridges
+In Mountain View, through years of pioneering work, I've discovered a
+route from the train station to Netscape that goes over a few bridges
 designated only for bicycles and through parks, instead of following
 the congested main roads. Initially, I asked colleagues based in
 Mountain View if such a route existed, but received negative
-responses, as no one in Mountain View rides a bike or walks. In
+responses, as no one in Mountain View is riding a bike or walks. In
 suburban America, people tend to drive even for small errands, like
 buying bread, even if the supermarket is only 100 meters away from
-home. In the Los Angeles area, this sometimes leads to the police
+their home.
+
+<pic images/bikebridge.ps (#9) The bicycle bridge over the highway in Mountain View>
+
+In the Los Angeles area, this sometimes leads to the police
 stopping and checking pedestrians, as no "normal" person walks. As a
 result, locals are familiar with every car shortcut that involves
 briefly getting on and off three highways, but they know nothing
 about routes through parks where you can zip through on a bike like
-lightning. In contrast, I believe Mountain View has the slowest
+lightning. Going on a tangent, I firmly believe that Mountain View has the slowest
 traffic light in the Northern Hemisphere. At the intersection of
 Central Expressway and Moffett Boulevard, it surely takes five
 minutes to change!
 
-<pic images/bikebridge.ps (#9) The bicycle bridge over the highway in
-Mountain View>
+<pic images/cube.ps My bicycle with helmet in my cubicle>
 
 But in Mountain View, there is actually a bicycle bridge that goes
-over the highway (Figure (#9)). In winter, by the way, it is pitch
+over highway 85 (Figure (#9)). In winter, by the way, it is pitch
 dark there by 6 PM, and in the park through which I ride after work,
 there is no light anywhere. My bicycle only has a blinking light,
-which makes me visible but does not illuminate the path. The result
+which makes me visible but does not illuminate my path. The result
 is a 1.5 km long blind ride through the park, and every rustle in the
 bushes makes me pedal faster. It gets my adrenaline pumping, and I
 wouldn't stop for anything or anyone!
 
-<pic images/cube.ps My bicycle with helmet in my cubicle>
-
 @Z: The Streets of San Francisco
+
+<pic images/pole.ps A historic event on June 9, 2001: The "PERL MAN" in pole position.>
+
+TODO
 
 <em>Michael</em> 
 Apart from the unbearable traffic conditions, there is another reason
@@ -261,9 +262,6 @@ The best parking spot is, by the way, what I call the "Pole Position"
 the best starting position in car races). We get this parking spot
 extremely rarely, maybe once every three months. Then the car is only
 moved if someone needs to go to the emergency room at the hospital.
-
-<pic images/pole.ps A historic event on June 9, 2001: The "PERL MAN"
-in pole position.>
 
 Here's the translation of the text into English:
 
