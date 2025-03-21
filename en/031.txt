@@ -238,8 +238,6 @@ wouldn't stop for anything or anyone!
 
 <pic images/pole.ps A historic event on June 9, 2001: The "PERL MAN" in pole position.>
 
-TODO
-
 <em>Michael</em> 
 Apart from the unbearable traffic conditions, there is another reason
 why I don't like to move our car: It is very difficult to find a
@@ -263,9 +261,7 @@ the best starting position in car races). We get this parking spot
 extremely rarely, maybe once every three months. Then the car is only
 moved if someone needs to go to the emergency room at the hospital.
 
-Here's the translation of the text into English:
-
-"Furthermore, you are not allowed to park near fire hydrants; you
+Furthermore, you are not allowed to park near fire hydrants; you
 have to keep a distance of about eight and a half feet or so. Back
 when I obtained my California driver's license, I had to memorize
 that, but by now, I don't remember it anymore. It always reminds me
@@ -273,7 +269,7 @@ of an old movie with the Marx Brothers, in which Groucho Marx had an
 inflatable hydrant in the car that he would place on the sidewalk
 when needed to scare away drivers parked in that spot. There's also
 some rule about intersections, but it's not taken very seriously. The
-rule is more like: if it doesn't directly harm anyone, it won't be
+actual rule is more like: if it doesn't directly harm anyone, it won't be
 punished. In Germany, I once received a ticket for parking against
 the direction of traffic--here, no one cares which way the car is
 facing. What's important on steep streets is to turn the wheels in
@@ -286,58 +282,61 @@ lady wishes, so that they almost pop out of their sockets. However,
 my dream is to one day get such a ticket, frame it, and hang it in
 the bathroom.
 
-<pic images/wrong.ps The wheels of the front car are turned the wrong
-way -- it would roll into the street! The rear two did it correctly.>
+<pic images/wrong.ps The wheels of the car in front are turned the wrong way -- it would roll into the street! The two cars behind it did it correctly.>
 
-<pic images/parktick.ps A ticket for the car that turned its wheels
-the wrong way -- 23 dollars!>
+<pic images/parktick.ps A ticket for the car that turned its wheels the wrong way -- 23 dollars!>
 
 A recent update: The other day, I wanted to drive to the office in
 the morning, went over to 23rd Street where our car was parked, and
 couldn't believe my eyes: On a 30% incline, there was a black Acura
 Integra parked sideways on the sidewalk, right in front of a garage.
 And the license plate read "PERL MAN"! An approximately
-hundred-year-old woman was excitedly moving around it, and a younger
+hundred-year-old woman was frantically moving around it, and a younger
 gentleman, who could no longer get out of his garage because of it,
 had just called the towing service. It turned out that while parking,
 the woman had bumped into our car with her massive 1960s Oldsmobile
-from above, causing it to roll down the hill on its own, despite the
+from above, causing our car to roll down the hill on its own, despite the
 handbrake being engaged and the gear in place. Thanks to the wheels
 being turned towards the curb as required (Angelika had parked), it
 only hopped up the curb and came to a stop just before the garage.
 The woman had kindly already tucked a note under my windshield wiper:
-"Please ring 647-92.. -- will explain." ("Please call (phone number).
-Will explain."). Well, I would have been curious about that
-explanation. Luckily, I happened to pass by, found that nothing much
-had happened to the car (minor scratches don't count in America),
-whereupon the woman thanked me with "Thank you for being so nice,"
-the garage man quickly canceled the tow truck, I drove the car off
+"Please ring 647-92.. -- will explain."
+Well, I would have been curious about that
+explanation. But luckily, I happened to be there, found that nothing much
+had happened to our car (minor scratches don't count in America),
+whereupon the woman thanked me with "Thank you for being so nice."
+The garage guy quickly canceled the tow truck, I drove the car off
 the sidewalk, and headed off to work in Mountain View as usual. In
-all the excitement, I unfortunately forgot to photograph the scene.
+all the excitement, I unfortunately had forgotten to photograph the scene.
 You experience things in this city!
 
-<pic images/note.ps The note from the woman who pushed our car down
-the hill.>
+<pic images/note.ps The note from the woman who pushed our car down the hill.>
 
-@Z: Radarfallen
+@Z: Radar Traps
+
+<pic images/hydrant.ps A rowdy teenager parked his pickup truck at
+the fire hydrant!>
 
 <em>Michael</em> 
-I had already written that on the highway, the speed limit is usually
+I had already written that on California highways, the speed limit is usually
 65 miles per hour (100 km/h). However, on weekdays, outside of rush
 hours, hardly anyone adheres to this limit -- 85 mph (130 km/h) is
 more common. You can do this safely as long as you're not the only
 speeder on the road, because in America, there are no speed cameras.
+
 Instead, a police officer in an officially marked patrol car has to
-park on the side of the highway, measure a car's speed with a radar
+park on the side of the highway, measure a passing car's speed with a radar
 gun, chase the speeder, catch them, pull them over, and issue a
 ticket by hand. This takes a good 20 minutes, so if there are maybe 5
 patrol cars between San Jose and San Francisco, the chance of getting
-caught is almost zero. You usually see the police car from a
+caught speeding is almost zero. You usually see the police car from a
 distance, and then the whole line of cars magically slows down, only
-to speed back up to 85 shortly after. It's only dangerous to drive
-faster than everyone else or to constantly change lanes. That stands
-out, and it can also happen that a police car or motorcycle comes up
-from behind faster than everyone else. In that case, you need to be
+to speed back up to 85 shortly after.
+
+It's only dangerous to drive
+faster than everyone else or to keep changing lanes. That stands
+out, and it can also happen that a police car or motorcycle cop comes up
+from behind faster than everyone else. In that scenario, you need to be
 careful and keep an eye on the rearview mirror. If it does happen
 that a "Ford" brand car, model "Crown Victoria," with flashing lights
 is following you, you should immediately pull over to the right and
@@ -345,13 +344,13 @@ stop on the shoulder, even on the highway, if it's safe to do so.
 It's also very important to stay calm and not get out of the car, as
 police officers in America are allergic to any kind of sudden
 movements. When the officer gets out and approaches the car (on the
-highway, by the way, on the passenger side), you roll down the
+highway, by the way, they approach on the passenger side), you roll down the
 window, and if he says "License and registration please," you hand
 over your driver's license and vehicle registration. If the latter is
 in the glove compartment, it's advisable to open it with a quick hand
 movement -- but only if you want to hear the sound of a cocking
-hammer and look into the barrel of a revolver. By the way, the police
-officer doesn't take any money; that is done via a transfer, and any
+hammer and look into the barrel of a handgun. By the way, police
+officers in the US don't collect any fines; that is done via a transfer, and any
 waving of cash is considered bribery, so be careful. If you receive a
 "ticket" for speeding, you get penalty points in California, which
 not only go on your driving record but are also 100% certain to be
@@ -363,10 +362,11 @@ tips, but recently, in some counties, you can also work through a
 traffic rules catalog online, take a test in the form of a webpage,
 and if you pass, have the points removed. That's progress!
 
-<pic images/hydrant.ps A rowdy teenager parked his pickup truck at
-the fire hydrant!>
+TODO
 
-@Z: Parken
+@Z: Parking
+
+<pic images/wespe.ps The evil parking ticket wasp that leads the street sweeper!>
 
 <em>Michael</em> 
 Regarding the parking situation: In San Francisco, a street sweeper
@@ -384,9 +384,6 @@ officers who issue $30 tickets for each parked car--but only
 immediately before the sweeper passes through. Once the sweeper has
 gone by, you can park again right away, even if the two-hour period
 isn't over yet.
-
-<pic images/wespe.ps The evil parking ticket wasp that leads the
-street sweeper!>
 
 The 22nd Street is so steep at 31.5% that no street sweeper can drive
 there. And the trash rolls down the hill on its own. That's why you
