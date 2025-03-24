@@ -362,17 +362,15 @@ tips, but recently, in some counties, you can also work through a
 traffic rules catalog online, take a test in the form of a webpage,
 and if you pass, have the points removed. That's progress!
 
-TODO
+@Z: Parking in the City
 
-@Z: Parking
-
-<pic images/wespe.ps The evil parking ticket wasp that leads the street sweeper!>
+<pic images/wespe.ps The evil parking ticket wasp followed by the street sweeper!>
 
 <em>Michael</em> 
-Regarding the parking situation: In San Francisco, a street sweeper
-comes by most streets once a week. During this time, parking is not
-allowed, as the sweeper needs to pass through without obstruction.
-Therefore, it's important to always check the street cleaning sign
+Regarding our parking situation: In San Francisco, a street sweeper
+truck comes by on most streets once a week. During this time, parking is not
+permitted, as the sweeper needs to pass through without obstruction.
+Therefore, it's important to always check the displayed street cleaning signs
 before parking your car. Each street has its own cleaning schedule.
 For example, on the east side of Church Street, where we live, it's
 Wednesday from 8 to 10 in the morning. On the west side, it's Monday,
@@ -382,32 +380,32 @@ also from 8 to 10. On the north side of 23rd Street, it's Friday from
 in the middle of the two-hour window, accompanied by some ticketing
 officers who issue $30 tickets for each parked car--but only
 immediately before the sweeper passes through. Once the sweeper has
-gone by, you can park again right away, even if the two-hour period
-isn't over yet.
+gone by, you can park again on that side right away, even if the two-hour period
+hasn't passed yet.
 
-The 22nd Street is so steep at 31.5% that no street sweeper can drive
-there. And the trash rolls down the hill on its own. That's why you
-can always park there. However, the car is parked at such an angle
-that it would likely fall during an earthquake. If you go on vacation
-for a week, you need to find someone to move your car.
+However, 22nd Street down to Church St is so steep at 31.5% that no street
+sweeper can drive there. And the trash rolls down the hill on its own! That's
+why you can always park there. However, parking your car at 90 degrees as required,
+and it'll end up sitting at a disturbing angle, and
+would likely tilt during an earthquake. If you go on vacation for a week,
+you need to find someone to keep moving your car around according to the schedule.
 
-<pic images/park.ps Everything is parked haphazardly in Noe Valley.
-Street cleaning is scheduled on this street for Wednesday from 8 to
-10.>
+<pic images/park.ps Reckless parking in Noe Valley. Street cleaning is scheduled on this street on Wednesday, between 8 and 10.>
 
-<pic images/plan.ps We remember where the car is parked.>
+<pic images/plan.ps How we remember where the car is parked.>
 
-Since the car is often parked five minutes away from the house, I
+Since our car is often parked five minutes away from the house, I
 tend to forget exactly where it is. Who was the last person to come
 home with the car and when? Where is the parking spot this time?
 That's why Angelika once went through all the streets in the
 neighborhood, noted down the respective cleaning times, and manually
-created a nice plan that hangs on our door. An oversized thumbtack
-always indicates where the car is currently parked and whether the
+created a nice plan that now hangs on our door. An oversized thumbtack
+always indicates where the car is currently parked at and whether the
 street sweeper is coming by today.
 
-@Z: The translation of "Ãffentliche Verkehrsmittel" to English is
-"public transportation" or "public transport.
+@Z: Public Transportation
+
+<pic images/bart.ps The subway in San Francisco: BART>
 
 <em>Michael</em> 
 San Francisco also has a public transportation system called the "San
@@ -422,16 +420,18 @@ There's also a subway: the so-called 'BART', which stands for "Bay
 Area Rapid Transit". However, one shouldn't imagine it as a subway
 network like those in European metropolises. Instead, there is
 exactly one line from Daly City (south of San Francisco) up to the
-Bay Bridge, going under the Bay. On the other side (in the East Bay),
+Bay Bridge, to continue under the Bay. On the other side (in the East Bay),
 it continues in various directions. While BART is much more reliable
 than the MUNI, it still doesn't run as regularly as its European
 counterparts: on weekdays during the day, it might run every 10
 minutes, but on Sundays and public holidays, you might end up waiting
-around the subway station for 20 minutes.
-
-<pic images/bart.ps The subway in San Francisco: BART>
+around at the subway station for 20 minutes and more.
 
 @Z: The Dog Plague
+
+<pic images/dog.ps Dog owner in San Francisco. The gentleman is holding a bag with the dog poop in his left hand.>
+
+TODO
 
 <em>Michael</em> 
 When you're on foot, you no longer have to worry about being ambushed
@@ -442,9 +442,6 @@ neighborhood, I encountered a dog and a woman pushing a stroller. The
 dog was a completely unremarkable-looking Collie (like Lassie), and I
 unsuspectingly ran past the trio. Suddenly, the unleashed mutt
 snapped at my calf and bit into it!
-
-<pic images/dog.ps Dog owner in San Francisco. The gentleman is
-holding a bag with the dog poop in his left hand.>
 
 <pic images/poop.ps Here are free plastic bags for dog poop (from the
 newsletter correspondent in San Diego).>
