@@ -621,15 +621,15 @@ uninsured.
 
 <pic images/bus.ps The 48-er experience bus in San Francisco passes by our home.>
 
-TODO
-
 I am also often a passenger on the "J" streetcar, as it takes me from
-the city to Church Street, where we live. It always gets interesting
+downtown to Church Street, where we live. It always gets interesting
 when school is out and the students from "Mission High" board at
 Dolores Park. The reputation of this high school leaves much to be
 desired, and I often feel sorry for the teachers when I observe the
 students' behavior, even though I'm not particularly sensitive about
-such things due to my profession. Recently, I was quite surprised
+such things due to my profession.
+
+Recently, I was quite surprised
 when suddenly some girls from this school, about 13 or 14 years old,
 entered the streetcar with life-sized baby dolls in their arms. Since
 Americans are known for their love of conversation, I didn't have to
@@ -646,15 +646,15 @@ and the diapers stay clean. The girls keep a diary over the weekend,
 writing down how they feel when their baby cries. One of the
 passengers then asked a pedagogically valuable question to one of the
 girls about what they were supposed to learn from this. She received
-the answer: "To take on more responsibility!" WRONG! Ideally, the
+the answer: "To take on more responsibility!" WRONG, I thought! Ideally, the
 crying of the babies is supposed to annoy the girls so much that they
 resist sex for a long time and don't get pregnant. I immediately felt
 that the baby project is not the right way to reduce the high number
 of teenage pregnancies in the USA. This approach is like putting the
 cart before the horse, which is known not to work.
 
-And now a little story that will make the inspectors of the Munich
-public transport services perk up. We've mentioned before that the
+And now a little story that will make the fare inspectors of the Munich
+public transport services perk up. We've mentioned before that
 Muni (you remember, that's the public transport service in San
 Francisco) is not exactly super reliable. For quite some time now,
 everyone who is anyone has been trying to improve the Muni. And I
@@ -664,28 +664,31 @@ shortened somewhat. As part of these improvements, about six months
 ago, it was introduced that passengers with a valid ticket are
 allowed to board at any door of the bus or streetcar. A valid ticket
 is considered to be a monthly pass or the so-called "transfer," which
-you receive as proof when paying and use for possible transfers.
-Until then, you could only board at the driver, where you paid or
-showed your monthly pass or "transfer." Boarding and alighting took
-forever with this procedure. Since humans are known to be creatures
-of habit, the new boarding method was prepared for the long term.
-There were brochures, loudspeaker announcements, and signs, because
-passengers had to be drilled to always carry their "transfer" with
-them from now on. Inspectors are also needed from now on, because
-someone might just jump on the bus or streetcar without a ticket. The
-concept of inspectors is relatively unusual in American cities with
+you receive as proof when paying your fare, to be possibly used
+for connecting rides.
+
+Until recently, you could only board at the driver door, where you paid or
+showed your monthly pass, or "transfer." Boarding and deboarding took forever
+with this procedure. Since humans are known to be creatures of habit, the new
+boarding method had been in the works for a long time.  There were brochures,
+loudspeaker announcements, and signs, because passengers had to be drilled to
+always carry their "transfer" with them from now on. Inspectors are also needed
+from now on, because someone might just jump on the bus or streetcar without a
+ticket. The concept of inspectors is relatively unusual in American cities with
 public transport systems.
 
-Usually, a turnstile or a person prevents you from fare dodging when
+Usually, a turnstile or a person prevents you from fare evasion when
 boarding. Inspectors seem suspicious to Americans, as they are
 authorized to restrict individual freedom and impose fines.
-Naturally, the inspectors wear uniforms so they can be easily
+Naturally, the new inspectors are wearing uniforms so they can be easily
 recognized. Sneaking onto the bus in plain clothes would be
-considered an imposition by American passengers. I've already been
+considered an imposition by American passengers.
+
+I've already been
 checked twice. The last time, it so happened that two passengers
 couldn't show a ticket. I watched with interest to see what would
-happen next. The passengers simply jumped to the tram driver and
-paid. The inspector politely remarked that they should please pay
+happen next. The passengers simply jumped up, ran to the front and
+paid with the driver. The inspector politely remarked that they should please pay
 when boarding next time to avoid misunderstandings and so he wouldn't
 have to impose a fine. Wow! I remember the story from Munich with an
 American tourist who took the S-Bahn from the airport to the city and
@@ -693,9 +696,7 @@ forgot to validate his ticket. He was checked and had to pay the
 fine, even though it was obviously a mistake. Sometimes San Francisco
 really shows its extremely friendly side.
 
-<pic images/transfer.ps Front and back of a transfer ticket for the
-"Muni" in San Francisco -- proof that you have paid in case the
-inspector comes!>
+<pic images/transfer.ps Front and back of a transfer ticket for the "Muni" in San Francisco -- proof that you have paid in case the inspector comes!>
 
 @Z: News from the President
 
@@ -711,20 +712,20 @@ Americans, but the fact that Bush wants to drill for gas in Alaska or
 that he reversed the law reducing the maximum levels of arsenic in
 drinking water (initiated by Clinton) angers many. Therefore, before
 his trip to Europe, Bush showed some concern for the environment by
-visiting two national parks (the "Everglades" in Florida and the
+visiting two National Parks (the "Everglades" in Florida and the
 "Sequoia National Park" in California). Will that help?
 
-Even California is not speaking well of Bush at the moment. Bush is
+California isn't speaking well of Bush at the moment either. Bush is
 ignoring the ongoing energy crisis in California and is refusing any
 assistance, even though, on a global scale, California represents the
-sixth-largest economy, a not insignificant state for the nation. The
+sixth-largest economy, so it's a significant state for the nation. The
 energy crisis is already showing economic impacts. And economic
 growth is supposedly Bush's top priority. He argues against the Kyoto
 Protocol, claiming that the agreement would supposedly ruin the
 American economy. Many believe that his disregard for California is
 solely because the state is firmly in the hands of the Democrats, and
-Bush cannot expect any votes from California. As is well known, Bush
-belongs to the Republican Party.
+Bush cannot expect any votes from California anyway. As is well known, Bush
+is with the Republican Party.
 
 And even within his own party, not everything looks rosy for Bush.
 You might have heard of the American Senator James Jeffords, who left
@@ -740,32 +741,32 @@ chairpersons of the various committees, among other things, determine
 the topics that are addressed in the committees. The Senate
 leadership also shifted to a Democrat, Tom Daschle.
 
-James Jeffords, by the way, chose independence because he no longer
-wanted to support the changes in the Republican Party that had been
-emerging for several years and were intensifying under Bush.
-Traditionally, the Republican Party, dating back to Abraham Lincoln,
-included many more liberal figures who were respected and heard by
-the more conservative party members. Nowadays, the Christian
-fundamentalist right dominates the party with Bush at the helm.
-Politicians like James Jeffords or John McCain are being pushed to
-the sidelines. When you look at what Jeffords stands for, you can
-hardly believe he once belonged to the Republicans. He supports
-environmental protection and abortion rights, as well as stricter gun
-laws, and he opposes any discrimination against homosexuals. He also
-holds the record for having voted against his own party on many
-important issues. It should be noted in passing that American
-politicians generally submit much less to party discipline. This
-independence is seen quite positively. What matters is their own
-conscience and the welfare of the state they represent. Incidentally,
+James Jeffords, by the way, chose independence because he no longer wanted to
+support the changes in the Republican Party that had been emerging for several
+years and were intensifying under Bush.  Traditionally, the Republican Party,
+dating back to Abraham Lincoln, included many more liberal figures who were
+respected and heard by the more conservative party members. Nowadays, the
+Christian fundamentalist right dominates the party with Bush at the helm.
+Politicians like James Jeffords or John McCain are being pushed to the
+sidelines. When you look at what Jeffords stands for, you can hardly believe he
+once registered as a Republican. He supports environmental protection and
+abortion rights, as well as stricter gun laws, and he opposes any
+discrimination against homosexuals. He also holds the record for having voted
+against his own party on many important issues. It should be noted in passing
+that American politicians generally submit much less to party discipline than
+in other countries. This independence is seen quite positively. What matters is
+their own conscience and the welfare of the state they represent.
+
+Incidentally,
 Jeffords is the senator of the small state of Vermont, which, like
 its senator, is making waves with liberal initiatives. Vermont, for
 example, is the first American state to grant homosexual couples the
 same rights and responsibilities as married couples (at the state
-level) if they register as a partnership (the term "marriage" is not
+level) if they register their partnership (the term "marriage" is not
 officially used here either). A small sensation!
 
 Yes, and Mr. Bush is also facing some trouble at home. His two
-daughters were caught in Texas buying and consuming alcohol in a bar,
+daughters were caught in Texas buying and consuming alcohol at a bar,
 even though they are not yet 21 years old. The German press pointed
 out that Bush introduced this strict age limit as the governor of
 Texas. That's not entirely true. The age limit for buying alcohol is
@@ -780,6 +781,4 @@ it as summer reading!
 
 From sunny California:
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
