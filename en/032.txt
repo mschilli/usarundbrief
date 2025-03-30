@@ -449,7 +449,7 @@ generally requires successfully completing three steps:
 
 @Z: The president is sending us money
 
-<pic images/tax.ps President Bush is making a splash with a $600 tax refund for us.>
+<pic images/tax.ps President Bush is making a splash with a 600 Dollars tax refund for us.>
 
 <em>Angelika</em> 
 I would like to report on President Bush and his political ambitions.
