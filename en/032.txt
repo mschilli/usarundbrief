@@ -36,43 +36,53 @@ on: "Way to go! You're all winners! Looking strong!"
 
 <pic images/mara1.ps Top fit at kilometer 16, passing by the Bay Bridge>
 
-TODO
-
-By the way, each runner receives a small computer chip that is
-attached to their shoe. It sends signals to the measurement stations
-that you pass by. This allows the marathon organizer not only to see
-exactly how long it actually took you from the starting line (which
-you may only cross a few minutes after the starting gun due to the
-many runners) to the finish line, but also to verify that you
-actually passed all the measurement stations along the route.
+By the way, every runner receives a small computer chip that is attached to
+their shoe. It sends signals to the measurement stations that you pass by
+during the race. This allows the marathon organizer not only to see exactly how
+long it actually took you from the starting line (which you may only cross a
+few minutes after the starting gun due to a bulk of runners) to the finish line,
+but also to verify that you actually passed all the measurement stations along
+the route.
 
 <pic images/chip.ps The chip on the shoe sends an electronic signal to the measurement stations.>
 
 The first 32 kilometers go by quite easily; although there are some
-nasty hills in the way in San Francisco, it's manageable. However,
-from kilometer 32 onwards, it becomes extremely tough. The muscles
-threaten to cramp, the knees ache from the pounding of feet against
-the asphalt, even the arm muscles hurt and need to be shaken out
+nasty hills in the way in San Francisco, but it's manageable. However,
+from kilometer 32 onwards, it becomes extremely tough. Muscles
+threaten to cramp, knees ache from the pounding of feet against
+the asphalt, even arm muscles hurt and need to be shaken out
 regularly. This is the point where many people give up--either
 because they set a time limit that is now impossible to achieve or
 because it seems pointless to struggle through the last stage just to
-cover a few more kilometers. One might think that if you can run 32
-kilometers, you can also manage the last 10, but that's misleading.
-Experienced runners know: A marathon is divided into two stages: the
-first 32 kilometers and the last 10 kilometers, both of which should
-not be underestimated. Of course, your honorable newsletter reporter
-couldn't give up for at least two reasons: Firstly, he didn't see why
-he should pay another 50 dollars entry fee for the next marathon, and
-secondly, he had already told so many people about this run that the
-shame of giving up would have been immense. The many millions of
-newsletter readers would surely have laughed themselves silly! And
-so, the racing newsletter reporter gritted his teeth and galloped
-through to the finish line. Thank you, dear readers, you saved me!
+cover a few more kilometers.
+
+One might think that if you can run 32 kilometers, you can also manage the last
+10, but that's misleading.  Experienced runners know: A marathon is divided
+into two stages: the first 32 kilometers and the last 10 kilometers, both of
+which should not be underestimated. Of course, your honorable newsletter
+reporter couldn't give up for at least two reasons: Firstly, he didn't see why
+he should pay another 50 dollars of entry fees for another marathon, and
+secondly, he had already told so many people about this run that the shame of
+giving up would have been insurmountable. Had I given up, the many millions of
+newsletter readers would surely have laughed themselves silly! And, because of
+this, the intrepid newsletter reporter gritted his teeth and galloped through,
+all the way across the finish line. Thank you, dear readers, you saved me!
 
 To celebrate the occasion, I would like to share a quote that I saved
 especially for this event (I planned ahead). From the internet
 broadcast of the football match in which the club Bayern Munich
-recently won the European Cup:
+recently won the European Cup: "Effenberg steps up and confidently converts
+low into the bottom right corner.  No chance for Cañizares, who jumped
+in the other direction. Effe’s facial expression after the goal shows
+absolute determination. His expression can almost be called manic.
+You can tell: he wants this cup with all his might."
+
+Oh yes, my time: 4:38:20, as you can very easily see on the
+<LINK>http://www.chroniclemarathon.com|internet</LINK>.
+Click on "2001 Finish Results", enter my bib number ("2003")
+into the "Bib" field, and activate "Find a Runner"! Bam, here's my time!
+
+TODO
 
 The next day was, of course, terrible. I discovered that you can
 drive even the shortest distances by car and that many buildings have
