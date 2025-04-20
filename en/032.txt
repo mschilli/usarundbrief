@@ -107,8 +107,6 @@ in the shopping frenzy, I placed two more orders.
 
 <pic images/mizuno.ps New sneakers, ordered online. Photographed on the beach in Half Moon Bay.>
 
-TODO
-
 @Z: Cute little animals
 
 <em>Michael</em> 
@@ -116,11 +114,11 @@ And here comes "Rundi," the newsletter supplement for our dear young
 newsletter readers! You little rascals, in California, the Pacific
 Ocean is practically on your doorstep, and you don't need to go to
 the zoo to see the cutest animals. I already mentioned once that we
-saw whales from the beach near the "Point Reyes" area, frolicking in
+saw whales from the beach near the Point Reyes area, frolicking in
 the water and spouting water fountains. Recently, we were down in
 Morro Bay and walked along the beach. Suddenly, there was a splash in
-the water, and we looked out to sea: there were actually some
-dolphins in the water, jumping around each other! In the photo with
+the water, and we looked out to sea: there were actually
+dolphins in the water, jumping around! In the photo with
 the arrows, you can see the black tail fins of the two flippers
 sticking out of the water. It's a bit hard to see in the printed
 version, but on the internet, you can enlarge the picture nicely. If
@@ -129,13 +127,13 @@ you up with AOL!
 
 <pic images/delfine.ps Two dolphins in the water at Morro Bay>
 
-You don't need to go to the zoo to see seals. Right in the middle of
+You don't need to go to the zoo to see seals, either. Right in the middle of
 San Francisco, they swim to Fisherman's Wharf and sunbathe on some
-wooden decks. Down at Big Sur, right by the "Highway 1," there's a
+wooden decks. Down at Big Sur, right by "Highway 1," there's a
 beach where the somewhat larger elephant seals bask in the sun--and
 you can get really close to them. No kidding, there were at least a
-few hundred lying there. They do smell a bit fishy and grunt
-indecently, but people are thrilled.
+few hundred lying there last time we were there. They do smell a bit
+fishy and grunt indecently, but people are thrilled.
 
 <pic images/robben.ps Elephant seals on the beach at Big Sur>
 
@@ -161,12 +159,13 @@ Butter" are small cookies, most comparable to "Spekulatius." Taste
 rating: 2. The blue "Oreo's" package contains black round sandwich
 cookies with white filling--not really my thing, but when I recently
 left a large pack from the supermarket unattended at home, Angelika
-tore it open and greedily devoured a bag before I could intervene.
+tore it open and greedily devoured it all before I had a chance to intervene.
 Rating: 3. Second row from the left: the "Clif Bar." A "healthy" bar
 (with important vitamins and nutrients and such) from Berkeley!
-Rating: 1, it's really super strong, I eat it often. By the way, it
-costs $1.75 in the store, which is a real moon price for American
-bars. At Costco, you can get it for $1 in the large pack. Next:
+Rating: 1, it's really super tasty, I eat it often. By the way, it
+costs $1.75 at the store, which is a real moon price for American
+granola bars. At Costco, you can get it for $1 a piece if you buy
+in bulk. Next:
 "Reese's"--small chocolate cups with peanut butter filling. When I
 first encountered this treat in America, it always seemed slightly
 perverse to me. Slightly salty peanut butter in sweet chocolate? Call
@@ -174,7 +173,7 @@ me crazy, but I've gotten so used to it by now that I have to give it
 a rating of 1. Next: "Hershey's" chocolate bar. Americans can't make
 chocolate, I would trade 10 pallets of "Hershey's" for just one bar
 of Milka. Sigh! Rating: 4. "Chips Ahoy": so-called cookies (in German
-PlÃ¤tzchen or Swabian Loibla) with chocolate chips. Not bad, rating:
+Plätzchen or Swabian Loibla) with chocolate chips. Not bad, rating:
 3. Last row from the left: "Reese Sticks," like the "Reese's" above,
 also peanut-based, but more with the consistency of peanut flips,
 pressed into Twix-like chocolate bars. Quite good, rating: 2. Next:
@@ -186,11 +185,12 @@ Newtons," fig paste in wafer dough, very tasty, rating: 2 plus.
 
 That was the children's supplement "Rundi". Until next time! 'Night,
 you rascals! Quick, quick, brush your teeth, off to bed, it's already
-late! Back to the brutal world of adults.
+past bedtime! Back to the brutal world of adults.
 
 @Z: Japanese Class
 
 <em>Michael</em> 
+TODO
 Since we want to go to Japan either this year or next year, we are
 currently learning the language in a course that takes place every
 Saturday in Japantown in San Francisco. There, a Japanese woman
