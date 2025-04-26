@@ -137,6 +137,9 @@ Safety." So far, only a few of the cameras have been activated, and even those
 are currently only sending warning notices without fines by mail to drivers.
 The website of the responsible agency
 <LINK>https://www.sfmta.com/projects/speed-safety-cameras|SFMTA shows the current status|Status of the speed cameras</LINK> of all 33 installed traps (Figure (#8)).
+
+<pic images/radar-traps-sf-map.ps (#8) 33 radar traps installed all over the city.>
+
 To prevent any caught driver from getting the idea to sue the city,
 there are large signs a few feet before the cameras indicating the permitted maximum speed
 and the note "Photo Enforced" (Illustration (#7)).
