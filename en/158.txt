@@ -188,25 +188,22 @@ insurance, unlike with police-issued fines.
 
 <pic images/ugh-road.ps The Upper Great Highway is now closed to cars.>
 
-TODO
-
 <em>Angelika</em> 
-Did you know that in San Francisco, the coastal road at Ocean Beach
+Did you know that in San Francisco, the coastal road along Ocean Beach
 has recently been closed to cars? Here's how it happened: During
 COVID, the city's transportation department in San Francisco came up
 with the brilliant idea of establishing so-called "Slow Streets,"
 which are traffic-calmed roads where pedestrians and children on
-bicycles could spread out.
-<RBLINK>20200911#5</RBLINK>
-...So you didn't feel so confined. The 'Slow Streets' still allowed
-access for residents and suppliers. They were not completely closed
-to cars. The program was so popular in San Francisco that some 'Slow
-Streets' were maintained even after the pandemic, such as Sanchez
+bicycles could spread out (<RBLINK>20200911#5</RBLINK>),
+so you didn't feel so confined. "Slow Streets" still allowed
+access for residents and delivery people. They were not completely closed
+to cars. The program was so popular in San Francisco that some "Slow
+Streets" were kept that way even after the pandemic, such as Sanchez
 Street around the corner from us, which we still frequently use for
 our walks.
 
-San Francisco is famously located on the Pacific Ocean and has
-several city beaches in the western part of the city. "Ocean Beach"
+San Francisco is famously located by the Pacific Ocean and has
+several beaches in the western part of the city. "Ocean Beach"
 is the longest. Directly adjacent to "Ocean Beach" is the "Great
 Highway," a four-lane access road. "Highway" sounds somewhat
 grandiose because it brings to mind German autobahns. However, in the
@@ -223,12 +220,11 @@ the public could engage in physical activities there. This closure
 was also very popular, and no cars were allowed to drive on this
 section.
 
-<pic images/ugh-truck.ps The rushing newsletter reporter supervises
-the construction work by bicycle.>
+<pic images/ugh-truck.ps The rushing newsletter reporter supervises the construction work by bicycle.>
 
 At the beginning of the pandemic, this was not a problem at all, as
 many people were working from home and traffic was light. Residents
-simply diverted to the side streets. But soon, voices grew louder to
+simply diverted to the neighborhood streets. But soon, voices grew louder to
 lift the closure. Supporters faced off against those residents who
 were annoyed by the traffic on the side streets with stop signs at
 every intersection. And lo and behold, in our city, where compromises
@@ -241,95 +237,83 @@ side also got something they wanted.
 
 <pic images/ugh-paint.ps Artists are painting the once busy street.>
 
-In English, that's called a "win-win situation." This could have put
-the issue to rest, but wait, that would be too easy. The compromise
-that was worked out was limited as a pilot project and was set to
-expire at the end of 2025. The city wanted to collect data to see how
-much the closed section was used by pedestrians and cyclists, and
-what the impacts on traffic flows were. I have no idea why the data
-collection took four years, but such things are not unusual in this
-city. Instead of properly evaluating the data and then deciding in
-the city council whether the pilot project could continue as is or if
-changes needed to be made, they preferred to rely on the
-tried-and-true method of voter referendum through the so-called
-proposition (roughly translated as a citizens' initiative). Five city
-representatives and our then-mayor, London Breed, ensured that
-Proposition K was on our ballot in November 2024, coinciding with the
-mayoral election in this city, and therefore a high voter turnout was
-expected.
+In English, that's called a "win-win situation." This could have put the issue
+to rest, but wait, that would be too easy. The compromise that was worked out
+was limited as a pilot project and was set to expire at the end of 2025. The
+city wanted to collect data to see how much the closed section was used by
+pedestrians and cyclists, and what the impact was on traffic flows. I have no
+idea why the data collection took four years, but such things are not unusual
+in this city. Instead of properly evaluating the data and then deciding at city
+council whether the pilot project could continue as is or if changes needed to
+be made, they preferred to rely on the tried-and-true method of voter
+referendum through a so-called proposition. Five city representatives and our
+then-mayor, London Breed, pushed that Proposition K was on our ballot in
+November 2024, coinciding with the mayoral election in this city, and therefore
+a high voter turnout was expected.
 
-<pic images/ugh-paint-ocean.ps Artists paint so-called murals on the
-street.>
+<pic images/ugh-paint-ocean.ps Artists paint so-called murals on the street.>
 
-An intense battle immediately erupted between the supporters and the
-opponents. Now you must know that these propositions are often
+An intense battle immediately erupted between supporters and
+opponents of the measure. Now you must know that these propositions are often
 tricky, because at first glance everything sounds just great.
 However, when you delve into the details, which only a few voters do,
 it looks quite different. Proposition K, for example, promised that
 not only would the 2-mile section be permanently closed to car
 traffic, but the road would be completely transformed into a park. Of
 course, everyone generally wants a nice new park right by the sea.
-What could be against that? But Proposition K only promised the park,
+What would be an argument against that? But Proposition K only promised the park,
 without plans for its financing or even ideas for its design.
 
-<pic images/ugh-rock-1.ps A boulder for the park is being brought in
-...>
+<pic images/ugh-rock-1.ps A boulder for the park is being brought in ...>
 
-<pic images/ugh-rock-2.ps The translation of "... und installiert."
-to English is "... and installed.>
+<pic images/ugh-rock-2.ps ... and installed.>
 
-Additionally, the Great Highway faces challenges with large sand
+Additionally, the Great Highway already faced challenges with large sand
 drifts several times a year due to its proximity to the ocean and the
-beach, and anyone planning a park must take this into account. On
+beach, and anyone planning a park should have taken this into account. On
 election day in November, 54% of citizens voted in favor of
 Proposition K, and as a result, the "Upper Great Highway" has been
 permanently closed to all vehicle traffic since March 14 of this
 year. Interestingly, most of the "no" votes for Proposition K came
 from the districts bordering the ocean, namely the "Outer Richmond"
-and "Sunset" neighborhoods. On the other hand, this is not
+and "Sunset" neighborhoods. This is not
 surprising, as the people living there are the most affected by the
 closure in their daily lives.
 
-<pic images/prop-k-by-district.ps Only residents in other districts
-support the closure.>
+<pic images/prop-k-by-district.ps Only residents in other districts support the closure.>
 
-Many of them found it unfair that their voices didn't carry more
-weight. Consequently, there were efforts to remove city council
+Many of the neighborhood residents found it unfair that their voices didn't carry more
+weight. Consequently, there were efforts to recall city council
 member Joel Engardio, who represents the Sunset District and had
-advocated for the highway closure and the park, through a recall
-process. This is a common strategy among the politically dissatisfied
+advocated for the highway closure and the park.
+This is a common strategy among the politically dissatisfied
 in this city and in California in general. Nevertheless, the same
 Joel Engardio officially opened the new park in mid-April, now
-officially named "Sunset Dunes Park.
+officially named "Sunset Dunes Park."
 
-<pic images/ugh-mural-wide.ps The translation of "KÃ¼nstler bemalen
-die StraÃe ..." to English is "Artists are painting the street ...>
-
-<pic images/ugh-mural.ps ... on which cars were still driving until
-recently.>
+<pic images/ugh-mural-wide.ps Artists are painting the street ...>
+<pic images/ugh-mural.ps ... on which cars were still driving until recently.>
 
 Currently, this only means that a few artworks have been painted on
-the street. Sculptures and fitness equipment are supposedly to
+the street. Sculptures and fitness equipment are supposed to
 follow. Art is always good. Otherwise, the city plans to use the
 funding from the California Coastal Conservancy, one million dollars,
 to explore how the new park will affect traffic and the environment.
-It will also be examined how the potential rise in sea level might,
-in turn, impact the park. Ahhh, we've been here before, so the circle
-closes.
+It will also be examined how the potential rise of the sea level might,
+in turn, impact the park. Ahhh, we've been here before.
 
-<pic images/ugh-bike-loop-komoot.ps Michael has scouted out a bike
-loop to the Upper Great Highway.>
+<pic images/ugh-bike-loop-komoot.ps Michael has scouted out a bike loop to the Upper Great Highway.>
 
-In any case, Michael, an enthusiastic cyclist, has a...
-<LINK>https://www.komoot.com/tour/2153123137|Circular Route|Bicycle
-Loop Ocean Beach</LINK>
-Translated to English, the text reads:
+In any case, Michael, who is an enthusiastic cyclist, has scouted out a
+<LINK>https://www.komoot.com/tour/2153123137|bicycle loop route|Bicycle Loop Ocean Beach</LINK>
+from our home in Noe Valley to the close section of the Great Highway. The
+route first goes down through the Glen Park neighborhood, then through City
+College, through the University of San Francisco campus, then along the
+highway, up to Golden Gate Park and back through the park, onto the so-called
+'Wiggle', to return through the Mission back to Noe Valley. It takes about two
+hours.
 
-"Scouted from our home in Noe Valley to the Great Highway. The route
-first goes down through the Glen Park neighborhood, then through City
-College, through the University of San Francisco campus, then along
-the highway, through Golden Gate Park and the so-called 'Wiggle' to
-return through the Mission back to Noe Valley. Takes about two hours.
+TODO
 
 @Z: Car failed the smog test.
 
