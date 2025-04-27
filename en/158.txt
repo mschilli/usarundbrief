@@ -389,15 +389,13 @@ can produce.
 
 <pic images/eorder-wh.ps President Trump signs an executive order.>
 
-TODO
-
 <em>Angelika</em> 
 We already know that you are eagerly waiting to hear how things are
 going for us in Trumphausen. As expected, there is such a mess and
 chaos that it's hard to keep up. Tariffs up and down. Stock market up
 and down. Visas are revoked and then reinstated. People in government
 agencies are fired and then rehired because it turns out that certain
-positions cannot be left vacant. The speed at which things are being
+positions cannot be left vacant. The speed at which changes are being
 introduced and pushed through with brute force is surprising and
 surely intentional, as so many things are happening simultaneously
 that even seasoned journalists and political observers can't keep up.
@@ -406,7 +404,7 @@ daily life.
 
 Through the German press, you are surely quite well informed about
 what is currently happening in the USA, but I wanted to shed light on
-something that I have long considered a major problem. The USA claims
+particular processes that I have long considered a major problem. The USA claims
 to be a solid democracy with a firm separation of powers, where all
 three branches--namely the executive, legislative, and judicial--are
 equal, independent, and subject to mutual control ("checks and
@@ -415,10 +413,10 @@ undermine this system and have not been closed so far because
 everyone has relied on the assumption that no one would ruthlessly
 exploit these loopholes.
 
-As one of the largest and, in my opinion, most undemocratic excesses,
-I see governing by decrees, so-called "Executive Orders," in the US
-government system. These are presidential directives that come into
-effect without the approval of Congress--an instrument originally
+As one of the largest and, in my opinion, most undemocratic excesses
+I see is governing by decrees, so-called "Executive Orders."
+These are presidential directives that come into
+effect without the approval of Congress--as an instrument originally
 intended to ensure the efficiency of the executive branch, but today
 increasingly used as a tool to bypass the legislature. Although all
 presidents have used this method so far, Donald Trump is really
@@ -427,30 +425,27 @@ albeit narrow - majority of his Republican Party in both houses. By
 the way, Joe Biden signed 162 decrees during his term, Barack Obama
 signed 277 in eight years, and Bill Clinton issued 364 in the same
 eight-year period. Donald Trump issued 220 Executive Orders in his
-first term--and in his second term, he is already...
-<LINK>https://www.federalregister.gov/presidential-documents/executiv
-e-orders|The phrase "bei 103|Executive Orders" can be translated to
-English as "at 103|Executive Orders." However, the context is not
-entirely clear. If "bei" is part of a specific title or reference, it
-might not need translation. If you have more context, I could provide
-a more accurate translation.</LINK>
-.
+first term--and in his second term, he is already
+<LINK>https://www.federalregister.gov/presidential-documents/executive-orders|at 103|Executive Orders>.
+Franklin Roosevelt holds the record so far with an incredible 3,721 executive
+orders, including 2,023 between 1937 and 1945 alone — that is, during World War
+II.
 
 In my opinion, decrees should only be used in absolute emergencies,
 such as a natural disaster or pandemic, to allow for swift action.
 Instead, democratic processes are being undermined to avoid the
 effort of passing laws. Interestingly, the term "Executive Order"
 does not appear in the American Constitution. The legal basis is
-usually Article II of the Constitution, which grants the President
+usually Article II, which grants the President
 executive power--with the obligation to "ensure that the laws are
 faithfully executed," although this is a very vague formulation.
 Decrees must not violate existing laws and are not considered laws
 themselves. This leads to what we are currently experiencing. There
-is an increase in lawsuits challenging the legality of the decrees.
-Since decrees are not laws, any new president can immediately revoke
+is an increase in lawsuits challenging the legality of these decrees.
+And, since decrees are not laws, any new president can immediately revoke
 them, which happens regularly.
 
-I see another problem in the unrestricted pardons that a president
+Another problem I see is with unrestricted pardons that a president
 can issue with a stroke of a pen. This should only happen in absolute
 exceptional cases. However, it has become customary for presidents to
 quickly pardon various individuals just before the end of their term.
@@ -482,13 +477,13 @@ exactly? The President can grant full pardons, commutations, and
 reprieves without needing the approval of Congress or the courts.
 However, these pardons only apply to federal offenses and not to
 crimes at the state level, for which the individual governors of the
-states are responsible. As mentioned, impeachment cases are also
+states are in charge. As mentioned, impeachment cases are also
 excluded.
 
-The Supreme Court, that is, the American Supreme Court, then made a
+The Supreme Court then made a
 consequential ruling in July 2024 regarding the criminal immunity of
 the President. The court decided by a vote of 6 to 3 that a (former)
-President enjoys at least a presumed immunity for actions that belong
+President enjoys at least a presumed immunity for actions related
 to their official duties. This means that prosecution is only
 possible if it is proven that the charge does not impair the
 constitutional function of the President. For certain areas, such as
@@ -518,33 +513,29 @@ yet either, and the Democratic Party is still licking its wounds and
 coming up with old, outdated ideas. Time is running out, let's get
 going.
 
-@Z: The translation of "Neumodische HÃ¼llenmaschinen" to English is
-"Newfangled envelope machines.
+@Z: Newfangled Suicide Machines
 
 <pic images/ssm-1.ps Fast and casual, but extremely dangerous>
 
 <em>Michael</em> 
 Who hasn't noticed that nowadays even older grandpas are zipping
 through city streets on e-bikes as if they've been stung by a
-tarantula, turning even remote forest trails into death traps?
+tarantula, and turning even remote forest trails into death traps?
 
-<pic images/inmotion.ps The translation to English is: "Cave device
-for only 1,699 dollars!>
+<pic images/inmotion.ps Dangerous device for only 1,699 dollars!>
 
-<pic images/inmotion-ggp.ps These unicycles can travel up to 50
-km/h.>
+<pic images/inmotion-ggp.ps These unicycles can travel up to 30 mph.>
 
 Electromobility is taking increasingly bizarre forms here. First came
 the e-bikes, where you still had to pedal a bit to get some boost
 from the battery. Then came these murderously fast moped-like
 machines, which really only differ from a motorcycle that requires a
-license in that they don't make any noise on their journey. And, of
-course, the skateboards with electric drives, often spotted as
-hipster transport. And they all crowd onto the narrow bike paths of
+license in that they don't make any noise while speeding down  the street. And, of
+course, the skateboards with electric motors, often spotted as a form of
+hipster transportation. And they all crowd onto the narrow bike paths of
 the city. Classic cyclists duck their heads in fright.
 
-<pic images/ssm-2.ps Armor with an integral helmet doesn't help in an
-emergency either.>
+<pic images/ssm-2.ps Armored with an integral helmet, but still exposed.>
 
 And finally, there are what I call "suicide machines," e-motorized
 unicycles, either as a board on a thick rubber roller or with a wheel
@@ -553,37 +544,30 @@ with two footrests on the left and right. The rider stands on it, and
 like a Segway, the device balances itself while the rider propels it
 forward by leaning forward or slows it down by leaning back.
 
-<pic images/ssm-3.ps The translation of the German sentence "Sogar
-Opa Meume fÃ¤hrt noch todesmutig." to English is: "Even Grandpa Meume
-still drives daringly.>
+<pic images/ssm-3.ps Even Grandpa is still riding daringly.>
 
-I have already seen with my own eyes how lunatics on these electric
-scooters have raced through the dense city traffic at surely 50 miles
-per hour, weaving between cars stuck in traffic, and seemingly
-completely ignoring the fact that one in a hundred cars could change
-lanes and send the daredevil flying high into the air like Evil
-Knievel once did.
+I have already seen with my own eyes how lunatics on these electric unicycles
+have raced through the dense city traffic at surely 30 miles per hour, weaving
+between cars stuck in traffic, and seemingly completely ignoring the fact that
+one in a hundred cars could change lanes any point in time and send the
+daredevil flying high into the air like Evil Knievel.
 
-<pic images/ssm-powell.ps Shoved in the train station>
+<pic images/ssm-powell.ps Packed and rolling out of the train station>
 
-The problem is not the bike itself, as cyclists also survive in city
+The problem is not the unicycle itself, as cyclists also survive in city
 traffic, but rather the extreme speed of these vehicles. The speeding
 is not legal; the maximum allowable speed in California is 15 mph (24
 km/h). Nevertheless, there are shops here in San Francisco that sell
 souped-up vehicles that go twice as fast.
 
-<pic images/ssm-kennedy.ps Hell machine driver (Arrow) races through
-Golden Gate Park.>
+<pic images/ssm-kennedy.ps Hell machine driver (Arrow) races through Golden Gate Park.>
 
 To ensure the store is on the safe side legally, it sells the part
 with a switch that, in its normal position, limits the vehicle's
-speed to the legal value. However, the customer can then flip the
-switch themselves and zoom around at double the speed. Of course,
+speed to the legal requirement. However, the customer can then flip the
+switch on their own and zoom around at double the speed. Of course,
 this is illegal, but our police do not (yet) check for such things.
 
-The translation from German to English is: "Greetings from the crazy
-country!
+Greetings from our crazy country!
 
-The translation of "Michael und Angelika" to English is "Michael and
-Angelika.
-
+Michael und Angelika
