@@ -1,6 +1,6 @@
 San Francisco, 04-25-2025
 
-@Z: Devastating fires in Malibu
+@Z: Devastating Fires In Malibu
 
 <pic images/corral-canyon-pano.ps On a hiking trail through a previously burned area.>
 
@@ -111,7 +111,7 @@ the New York Times that some clever folks are switching to
 alternatives, such as coloring potatoes instead of eggs. Well, to
 each their own.
 
-@Z: New speed traps in San Francisco
+@Z: New Speed Traps In San Francisco
 
 <pic images/speed-trap-sja.ps Getting caught speeding by this speed camera results in a fine.>
 
@@ -184,7 +184,7 @@ speeders will pay fines to the city, but won't receive any points on their
 record. Additionally, nothing is reported to the vehicle owner's
 insurance, unlike with police-issued fines.
 
-@Z: San Francisco's Upper Great Highway becomes car-free 'Sand Dunes Park'
+@Z: San Francisco's Upper Great Highway Becomes Car-Free 'Sand Dunes Park'
 
 <pic images/ugh-road.ps The Upper Great Highway is now closed to cars.>
 
@@ -313,7 +313,7 @@ highway, up to Golden Gate Park and back through the park, onto the so-called
 'Wiggle', to return through the Mission back to Noe Valley. It takes about two
 hours.
 
-@Z: My Car Failed the Smog Test.
+@Z: My Car Failed The Smog Test.
 
 <pic images/intake-replace.ps The old intake is being replaced by one for tuned sports cars.>
 
