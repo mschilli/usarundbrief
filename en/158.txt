@@ -426,7 +426,7 @@ the way, Joe Biden signed 162 decrees during his term, Barack Obama
 signed 277 in eight years, and Bill Clinton issued 364 in the same
 eight-year period. Donald Trump issued 220 Executive Orders in his
 first term--and in his second term, he is already
-<LINK>https://www.federalregister.gov/presidential-documents/executive-orders|at 103|Executive Orders>.
+<LINK>https://www.federalregister.gov/presidential-documents/executive-orders|at 103|Executive Orders</LINK>.
 Franklin Roosevelt holds the record so far with an incredible 3,721 executive
 orders, including 2,023 between 1937 and 1945 alone — that is, during World War
 II.
