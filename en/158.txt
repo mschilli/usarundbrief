@@ -313,32 +313,27 @@ highway, up to Golden Gate Park and back through the park, onto the so-called
 'Wiggle', to return through the Mission back to Noe Valley. It takes about two
 hours.
 
-TODO
+@Z: My Car Failed the Smog Test.
 
-@Z: Car failed the smog test.
-
-<pic images/intake-replace.ps The old air filter is being replaced by
-an intake manifold for racing cars.>
+<pic images/intake-replace.ps The old intake is being replaced by one for tuned sports cars.>
 
 <em>Michael</em> 
-I have often expressed in our publication that there is no TÃV
-(Technical Inspection Association) in America. Some states really
+I have often expressed in this publication that there is no equivalent to the
+German TÜV (Technical Inspection Association) in America. Some states really
 allow any vehicle on four wheels to drive on the highways, but
 California tends to overregulate in this area as well. Every
 registered motor vehicle must pass the so-called smog test every two
 years (older vehicles even every year).
 
-<pic images/low-rider.ps No TÃV approval but legal in California.>
+<pic images/low-rider.ps No TÜV approval, but legal in California.>
 
-Recently, I learned firsthand that the test not only evaluates the
-exhaust gases escaping from the tailpipe, but the inspector also goes
-through a checklist with at most a peripheral connection. For
-example, the gas cap must seal airtight; if it doesn't, the onboard
-computer will display an error message, and the emissions inspector
-will refuse to give the stamp.
+Recently, I learned firsthand that the smog test not only evaluates the exhaust
+gases escaping from the tailpipe. The inspector also goes through a checklist
+with at most a peripheral connection to the car's emissions. For example, the
+gas cap must seal airtight; if it doesn't, the onboard computer will display an
+error message, and the emissions inspector will refuse to give the stamp.
 
-<pic images/smog-test-fail.ps (#5) Failed the smog test due to cracks
-in the air filter hose.>
+<pic images/smog-test-fail.ps (#5) Failed the smog test due to cracks in the air filter hose.>
 
 Recently, it happened to me when I cheerfully drove our aging Acura
 Integra, affectionately called "Rocket," to the smog center and, to
@@ -349,17 +344,17 @@ found out that our Rocket hadn't exceeded the permissible emission
 levels; instead, a manual inspection of the engine compartment by the
 smog technician had discovered a crack in the hose to the air filter.
 
-Such a small mishap should, of course, be fixed by oneself, even with
-a 27-year-old car with 300,000 kilometers on the clock, because
-otherwise, the engine will suck in soot particles instead of filtered
-air and ruin its interior. But honestly, I was surprised to learn
-that the smog inspector has TÃV-like authority when it comes to
-identifying defects. Anyway, I set about repairing the hose and, to
-my utter astonishment, also discovered that the spare part was no
-longer available and was only sporadically traded on eBay at
-astronomical prices, even when used.
+Such a small flaw should, of course, be fixed sooner than later, even with a
+27-year-old car with 300,000 kilometers on the clock, because otherwise, the
+engine will suck in dust particles instead of filtered air, and ruin its
+interior. But honestly, I was surprised to learn that the smog inspector has
+TÜV-like authority when it comes to identifying defects. Anyway, I set about
+repairing the hose and, to my utter astonishment, also discovered that the
+spare part was no longer available by the manufaturer or 3rd party providers,
+and was only sporadically traded on eBay at astronomical prices, even as
+a pre-owned part.
 
-<pic images/intake-box.ps Air filter from Rennsemmel-Versand.>
+<pic images/intake-box.ps Air filter from a tuning supply site.>
 
 Now, one must know that Japanese cars from the 1990s are still
 considered popular racing machines among young speedsters in San
@@ -368,23 +363,21 @@ interest in the "Fast and Furious" tuning scene. With only 170
 horsepower, the vehicle, reminiscent of an Opel Manta, may not be
 exciting by today's standards, but it produces an infernal Formula
 One howl at 8000 revolutions per minute, just before the red zone
-begins. Not being foolish, I ordered an intake manifold for racing
-machines from a tuning supplier and installed it in place of the
+begins. Smart cookie that I am, I ordered an intake manifold for race
+cars from a tuning parts supplier and installed it in place of the
 regular air filter.
 
-<pic images/intake-installed.ps The racing air filter is fully
-installed.>
+<pic images/intake-installed.ps The racing air filter is fully installed.>
 
-That went relatively smoothly after I had to rearrange some hoses in
-the engine compartment due to space constraints, from which coolant
-aggressively gushed out when I unplugged them. Now we have a
-brand-new racing air filter in a 27-year-old engine. When I went to
-the smog guy for the (free) retest, all the emission values were
-correct, and he waved me through. I also bought an extra $200 filter
-that had the California certification (CARB), which would have only
-cost $50 in other states. Thanks, California!
+That went relatively smoothly after I had to rearrange some hoses in the engine
+compartment due to space constraints, from which coolant aggressively gushed
+out when I unplugged them. Now we have a brand-new racing air filter in a
+27-year-old engine. When I went to the smog guy for the (free) retest, all the
+emission values were again within legal limits, and he waved me through. I had
+made sure to buy a $200 filter that had the California certification (CARB).
+The part would have only cost $50 in other states. Thank you, California!
 
-Recently, I drove up to the oil change guy, and he immediately waved
+Recently, when I went to get an oil change, the mechanic immediately waved
 his colleagues over to show them the new part in the engine
 compartment. And our car now sounds normal when idling, but at higher
 speeds, it makes a noise that makes other drivers immediately take
@@ -392,13 +385,11 @@ notice and respectfully move to the right lanes. That's how it should
 be. It's funny what unexpected side effects government overregulation
 can produce.
 
-@Z: Trump II" is already in English. It likely refers to a second
-term or iteration involving Donald Trump, such as a hypothetical
-second presidency or a sequel to something associated with him. If
-you have more context or a specific phrase you need translated,
-please provide additional details.
+@Z: Trump II
 
 <pic images/eorder-wh.ps President Trump signs an executive order.>
+
+TODO
 
 <em>Angelika</em> 
 We already know that you are eagerly waiting to hear how things are
