@@ -18,8 +18,6 @@ opponents. Until recently, the latter group consisted of a few
 extreme environmentalists and people like us, who deal daily with the
 excesses of the SUV plague.
 
-TODO
-
 In the fall of last year, columnist Arianna Huffington suddenly wrote
 an article in which she provocatively linked driving an SUV to the
 financing of terrorism. Her line of reasoning: SUV = gas guzzler =
@@ -40,8 +38,7 @@ spectacle.
 <pic images/suv4.ps September 12th is "Sell Your SUV" Day.>
 
 Meanwhile, she, along with others who are annoyed by SUVs, founded
-the so-called...
-<LINK>http://www.thedetroitproject.com|Detroit Project</LINK>
+the so-called <LINK>http://www.thedetroitproject.com|Detroit Project</LINK>
 and started their own advertising campaign. Two television spots were
 produced. In one, you see a man named George who is fueling his SUV:
 "This is George. This is the gas that George bought for his SUV. This
@@ -50,7 +47,7 @@ his SUV. These are the countries where the executive bought the oil
 that made the gas that George bought for his SUV. And these are the
 terrorists who get money from those countries every time George fills
 up his SUV. Oil money supports some terrible things. What kind of
-mileage does your SUV get?
+mileage does your SUV get?"
 
 <pic images/rotten.ps Expensive gasoline>
 
@@ -63,7 +60,8 @@ And even President Bush supports the idea of becoming independent
 from oil-producing countries: In the annual "State of the Union"
 address, which was broadcast a month ago and heavily debated, he
 repeatedly brought up the idea of the hydrogen car, which no longer
-consumes gasoline and produces no emissions, amidst threats of war.
+consumes gasoline and produces no emissions, in between elaborating about
+a looming war.
 
 Due to the Iraq crisis, the oil companies thought: Let's raise the
 gasoline prices. And within the last month, the prices at the pumps
@@ -82,7 +80,7 @@ road. Let's raise the price per gallon to 5 dollars, we say!
 <em>Angelika</em> 
 We have reported several times that since the terrorist attacks in
 September 2001, many things have changed in the land of unlimited
-possibilities. It is also new that we are being warned about how
+possibilities. It is also new that we are now being warned about how
 likely terrorist attacks are.
 
 Since March 2002, the government has been using a series of color
@@ -108,10 +106,12 @@ live your life as before.
 <em>Angelika</em> 
 Americans are masters at makeshift repairs of broken things. They
 particularly like to use "duct tape," a thick, incredibly strong,
-gray adhesive tape. Whether it's the steps in our fitness center, a
+gray adhesive tape. Whether it's the steps at our fitness center, a
 cracked windowpane in the streetcar, or the drip tray under the
 freezer compartment of our refrigerator, duct tape holds everything
 together.
+
+TODO
 
 In recent weeks, "Duct Tape" has risen to some fame because the
 Department of Homeland Security (the newly established agency
@@ -461,8 +461,8 @@ typical Seinfeld everyday odysseys, only much more hair-raising.
 Larry David is accosted by a homeowner for throwing a piece of paper
 into their trash can as he walks by. Or an acquaintance gets upset
 because Larry thanks her husband for paying for dinner but not her,
-since she doesn't earn any money! Or Larry is criticized by a Black
-friend just because he fires his Black TV repairman!
+since she doesn't earn any money! Or Larry is criticized by a black
+friend just because he fires his black TV repairman!
 
 And parallels to Seinfeld become clear: The bald Larry David, who
 suffers greatly from his lack of hair, is clearly behind the
@@ -559,12 +559,11 @@ members are illegally bringing 9-millimeter guns into the club! For
 those interested, here is an excellent translation of the not
 entirely family-friendly song (for which you also need to understand
 American slang well to avoid misunderstandings):
-<LINK>http://www.citay.de/texte/0_9/50_club.html|www.citay.de</LINK>
-.
+<LINK>http://www.citay.de/texte/0_9/50_club.html|www.citay.de</LINK>.
 
 Also, the word 'nigga' is constantly used. I need to elaborate a bit on this:
 About 150 years ago, when slavery was still practiced in the USA, it was common
-to contemptuously refer to Black people as 'niggers.' Nowadays, this is a slur
+to contemptuously refer to black people as 'niggers.' Nowadays, this is a slur
 so severe that it cannot even be said in jest or when quoting someone else. As
 a white person, in such a situation, you would say: 'He said the N-word.' Make
 no mistake: In the USA, there is no shortage of vulgar expressions, the caliber
@@ -584,7 +583,7 @@ car full of people booing a drunk person because he said "Go back to
 China" to an Asian woman.
 
 On the other hand, it has become common in the last 15 years or so
-for Black people to refer to each other as "niggas." It's not refined;
+for black people to refer to each other as "niggas." It's not refined;
 this word would not be uttered by anyone in a high position. However,
 you encounter it frequently in street or gang dialects. As a white
 person, though, you can't use it.
