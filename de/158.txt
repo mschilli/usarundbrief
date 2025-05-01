@@ -216,6 +216,7 @@ diesem sportlich betätigen konnte. Auch diese Sperrung war sehr beliebt, und es
 durften gar keine Autos auf diesem Teilstück fahren.
 
 <pic images/ugh-truck.ps Der rasende Rundbriefreporter überwacht die Bauarbeiten mit dem Fahrrad.>
+<pic images/ugh-paint-ocean.ps Künstler malen sogenannte Murals auf die Straße.>
 
 Am Anfang der Pandemie war das alles kein Problem, denn viele
 arbeiteten von zu Hause und das Verkehrsaufkommen war gering. Anwohner wichen
@@ -247,7 +248,7 @@ Proposition K auf unserem Wahlzettel im November 2024 stand, zeitgleich
 mit der Bürgermeisterwahl in dieser Stadt, und deshalb war mit einer hohen
 Wahlbeteiligung zu rechnen.
 
-<pic images/ugh-paint-ocean.ps Künstler malen sogenannte Murals auf die Straße.>
+<pic images/ugh-recall.ps Dieser Anwohner ist weniger begeistert über die Sperrung.>
 
 Sofort entbrannte ein erbitterter Kampf zwischen den Befürwortern und den
 Gegnern. Nun müsst ihr wissen, dass diese Propositions oft tückisch sind, denn
