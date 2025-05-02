@@ -111,8 +111,6 @@ cracked windowpane in the streetcar, or the drip tray under the
 freezer compartment of our refrigerator, duct tape holds everything
 together.
 
-TODO
-
 In recent weeks, "Duct Tape" has risen to some fame because the
 Department of Homeland Security (the newly established agency
 responsible for domestic security in the United States) recommended
@@ -126,7 +124,7 @@ method to be completely nonsensical and pointed out that the
 potential suffocation in completely sealed rooms without air
 circulation posed a greater danger. TV stations interviewed duct tape
 buyers in hardware stores, and David Letterman & Co (comparable to
-Harald Schmidt) made "duct tape jokes" on his late show for days.
+Harald Schmidt) made "duct tape jokes" on their late shows for days.
 
 Funnily enough, lots of "duct tape" and huge plastic garbage bags
 have been in our earthquake emergency kits under our bed for a long
@@ -138,37 +136,35 @@ against attacks with chemical weapons.
 On the newly established webpage of the "Department of Homeland
 Security" with the beautiful name
 <LINK>http://www.ready.gov|ready.gov</LINK>
-Here are more tips on how to best behave during terrorist attacks
+You can find more tips on how to best behave during terrorist attacks
 involving biological, nuclear, or the aforementioned chemical
 weapons. The whole thing isn't exactly very reassuring. I'm waiting
 for people to start building nuclear bunkers again soon. We've been
 through that before. Head down, newspaper on top! Ah yes, those were
 the days.
 
-<pic images/garage.ps Our house, patched together with duct tape>
+<pic images/garage.ps Our house, held together with duct tape>
 
-The text is asking about the origin of the name "Duct Tape."
-Initially, the person thought it might be similar to how "Tesafilm"
+Now where does the name "Duct Tape" origin from?
+Initially, I thought it might be similar to how "Tesafilm"
 is called "Scotch Tape" in America because the manufacturer is named
-"Scotch," whereas in Germany, it's called "Tesa." However, the...
-(The text cuts off here, so the continuation is missing.)
-<LINK>http://www.octanecreative.com/ducttape/duckvsduct.html|Truth about Duct Tape.</LINK>
-The translation to English is: "is that the American soldiers in the
+"Scotch," whereas in Germany, it's called "Tesa." However, the
+<LINK>http://www.octanecreative.com/ducttape/duckvsduct.html|Truth about Duct Tape</LINK>
+is that the American soldiers in the
 Second World War needed a waterproof adhesive tape to seal ammunition
 boxes and similar items.
 
-The company "Johnson & Johnson" subsequently produced an olive-green
-adhesive tape that withstood all natural elements. The soldiers
-called it "Duck Tape," after the duck, which is known to defy water.
-After the war, there was a housing boom, and the tape was further
-produced in a silver color for home builders, without losing its
-indestructibility. Today, the company Henkel (which also makes Persil
-in Germany) continues to produce duct tape and holds half of America
-together with it.
+The company "Johnson & Johnson" subsequently produced an olive-green adhesive
+tape that withstood all natural elements. The soldiers called it "Duck Tape,"
+after the duck, which is known to defy water.  After the war, there was a
+housing boom, and the tape was further produced in a silver color for home
+builders, without losing its indestructibility. Today, the company Henkel
+(which also makes the Persil brand laundry detergent in Germany) continues to
+produce duct tape and holds half of America together with it.
 
 @Z: Mr. Bush and the War
 
-<pic images/irak3.ps Bush's tactics endanger America and turn the world against us.>
+<pic images/irak3.ps The sign reads "Bush's tactics endanger America and turn the world against us.">
 
 <em>Angelika</em> 
 Paper is known to be patient, and a lot of printer's ink has been
@@ -177,6 +173,8 @@ experts, commentaries in various newspapers, discussions, debates,
 and quite a bit of polemics, not to mention the systematic
 manipulation of public opinion, especially on this side of the
 Atlantic.
+
+TODO
 
 Just recently, I read in an article by William Greider in the
 magazine 'The Nation'(<RBLINK>20021206#7</RBLINK>).
