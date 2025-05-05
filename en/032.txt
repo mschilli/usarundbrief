@@ -190,7 +190,6 @@ past bedtime! Back to the brutal world of adults.
 @Z: Japanese Class
 
 <em>Michael</em> 
-TODO
 Since we want to go to Japan either this year or next year, we are
 currently learning the language in a course that takes place every
 Saturday in Japantown in San Francisco. There, a Japanese woman
@@ -198,7 +197,7 @@ teaches us Japanese in both spoken and written form. It's absolutely
 crazy, of course--Japanese has absolutely nothing in common with
 European languages, and it is also written completely differently.
 There are no individual letters, but thousands of symbols that either
-represent things or regulate pronunciation or grammar.
+represent things or determine pronunciation or grammar.
 
 <pic images/jp1.ps (#8) My Japanese exercises in Hiragana.>
 
@@ -206,12 +205,12 @@ That's why one learns in two stages: Practical phrases are learned
 acoustically and written down in a "romanized" script, meaning with
 Western letters that roughly represent the pronunciation. For
 example, "Hajimemashite. AOL no Schilli desu. Dozo yoroshiku onegai
-itashi masu." translates to German as "Hello, how are you? My name is
+itashi masu." translates to "Hello, how are you? My name is
 Schilli and I work for AOL. Very pleased to meet you." It is spoken
-as "Haschieme-maschte. AOL no Schilli dess. Dooso yoroschko
-onegai-itashimass.
+as "Hascheeme-mush-te. AOL no Schilli dess. Douso yorosch-ko
+onega-e-eetashymass."
 
-The writing system is divided into three sections: Kanji, the Chinese
+The writing system is divided into three parts: Kanji, the Chinese
 (!) characters that represent things or concepts. Then there are
 Katakana characters, which the Japanese use to phonetically spell out
 foreign words. Naturally, there is no Kanji character for "computer"
@@ -233,10 +232,12 @@ Japanese word, so it is phonetically spelled out in Katakana
 ("A-me-ri-ka"). The rest is grammar ("ma-de" for "to" and "onegai
 shimasu" for "please") and consists of Kanji and Hiragana.
 
-<pic images/embassy.ps The sentence "Bitte bringen Sie mich zur amerikanischen Botschaft" in Japanese>
+<pic images/embassy.ps The sentence "Please take me to the American embassy" in Japanese>
 
 We are learning Hiragana so that we can just read like children. But
 believe us, that's already hard enough (Figure (#8)).
+
+TODO
 
 @Z: The record of the month
 
