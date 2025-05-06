@@ -237,36 +237,33 @@ shimasu" for "please") and consists of Kanji and Hiragana.
 We are learning Hiragana so that we can just read like children. But
 believe us, that's already hard enough (Figure (#8)).
 
-TODO
-
-@Z: The record of the month
+@Z: Record of the month
 
 <pic images/cake.ps (#3) The album "Comfort Eagle" by the band "Cake>
 
 <em>Michael</em> 
-And here's something new: The newsletter music reporter is
-introducing a new super-strong CD from American fields, which he is
-currently listening to day and night. Today: The band "Cake," which
+And here's something new: The newsletter music reporter will be
+introducing new super-strong CDs freshly squeezed from the American music scene.
+Usually this is what is on 24 hour non-stop rotation at newsletter headquarters.
+In this issue: The band "Cake," which
 hails from the Californian capital Sacramento, has released a new
-album called "Comfort Eagle," whose cover you can see in illustration
-(#3). On the internet, you can find the super funny...
-<LINK>https://www.youtube.com/watch?v=X5KmB8Laemg|The translation to
-English is: "Video for the song 'Short Skirt/Long Jacket'.</LINK>
-The translation to English is: "listen -- in the end, a German
-tourist even appears there! An amazing record! Buy it immediately!
+album called "Comfort Eagle." Figure (#3) shows the cover illustration.
+On the internet, you can find the super funny
+<LINK>https://www.youtube.com/watch?v=X5KmB8Laemg|Video for the song 'Short Skirt/Long Jacket'</LINK>. Listen to the song all the way till the end, and a German tourist will make
+an appearance! An amazing record! Buy it immediately!
 
-@Z: Autounfall
-
-<em>Michael</em> 
-Recently on Saturday, I was driving our car "PERLMAN" along the wide
-Castro Street when suddenly a "Lexus" car shot out from a side street
-with a stop sign and crashed right into the driver's side of my car.
-There was a huge bang, I braked, and when I got out, I could barely
-open the door because it was so dented (see illustration (#7)).
+@Z: Getting Into a Car Accident
 
 <pic images/putti.ps (#7) The Sick Perlman>
 
-A nightmare to get into an accident in America! Fortunately, the
+<em>Michael</em> 
+Recently on Saturday, I was driving our car "PERLMAN" along the wide
+Castro Street when suddenly a "Lexus" car shot out from a side street,
+running a stop sign and crashing right into the driver's side of my car.
+There was a huge bang, I hit the brakes, and when I got out, I could barely
+open the door because it was so dented (see illustration (#7)).
+
+A nightmare to get into a car accident in America! Fortunately, the
 other driver was insured (not a given in America, even though it's
 legally required), and I was faced with the question of whether to
 call the police or not. Since the other driver seemed quite
@@ -274,47 +271,50 @@ reasonable, I just copied his address from his driver's license and
 took down his insurance details. Rumor has it that in America, you
 only call the police if there are injuries or if the other person is
 being difficult. The following Monday, I called our insurance
-company, and since we only have liability insurance and not
+company, and since we only have liability insurance and no
 comprehensive coverage, our agent advised me to deal with the other
-person's insurance myself. If both parties have comprehensive
-insurance, each simply reports the accident to their own insurer, who
-then battle over the question of fault for years and haggle over
-every penny. All the acquaintances we told about this were horrified
-that I didn't have a witness to confirm the incident! We should
-prepare for years of litigation! I then called the other person's
-insurance myself and described the incident. After about five rounds
-of "Buchbinder Wanninger," the agent there finally accepted liability
-for the accident -- it was pretty clear that the other driver had run
-a stop sign. As a result, I was granted a rental car and given the
-address of a repair shop. A week and 2400 dollars later, the sick
-PERLMAN was released as healed -- the insurance covered the costs.
-Now the car looks a bit funny since the paint is peeling everywhere
-except on the new fender and door, but we are glad that everything
-went so smoothly.
+person's insurance myself.
+
+If both parties have comprehensive insurance, each simply reports the accident
+to their own insurer, who then battle over the question of fault for years and
+haggle over every penny. All the acquaintances we told about this were
+horrified to learn that I didn't have a witness to confirm the incident! We
+should prepare ourselves for years of litigation! I then called the other
+person's insurance myself and described the incident. After about five rounds
+of "Buchbinder Wanninger," the agent there finally accepted liability for the
+accident -- it was pretty clear that the other driver had run a stop sign. As a
+result, I was granted a rental car and given the address of a repair shop. A
+week and 2400 dollars later, the sick PERLMAN was released as healed -- the
+insurance covered the costs.  Now the car looks a bit funny since the paint is
+peeling everywhere except on the new fender and door, but we are glad that
+everything went so smoothly.
 
 <pic images/heile.ps ... and a week later, all healed again!>
 
 And here is one last announcement before Angelika gets to work:
 Recently, a German expatriate living in San Francisco informed us
-about how to get the Friday edition of the SÃ¼ddeutsche Zeitung,
+about how to get the Friday edition of the Süddeutsche Zeitung,
 along with our beloved magazine, delivered to your doorstep. The
-company GLP-News (www.glpnews.com) does this reliably and even below
+company GLP-News (www.glpnews.com) is shipping it reliably and even below
 the usual San Francisco retail price of $4.50 per issue! We are happy
-again and thank the friendly newsletter readers who spoiled us with
-brought-along SZ magazines during the cucumber season! Clear the way
+again and thank the friendly visiting newsletter readers who spoiled us with
+brought-along SZ magazines during the magazine drought! Clear the way
 for Angelika!
 
 @Z: How does one get the Green Card?
+
+<pic images/gc.ps The Green Card>
 
 <em>Angelika</em> 
 I want to start today with a report about our still ongoing Green
 Card process, because in the last few weeks we have once again been
 struggling through the bureaucratic mills in this regard. Some time
-ago, I...
-<RBLINK>20000526#10</RBLINK>
-I have already written about this before, but due to the current
-occasion and because we keep receiving inquiries, I am happy to
+ago, in <RBLINK>20000526#10</RBLINK>
+I already wrote about this, but due to the current events
+and because we keep receiving inquiries, I am happy to
 summarize it once again.
+
+TODO
 
 The coveted document is traditionally called a "Green Card" because
 it used to be green. It represents the permanent residence and work
@@ -330,8 +330,6 @@ sufficient to vacation in America for a few weeks once a year is a
 myth. Leaving the USA for more than a year risks losing the American
 Green Card. Engaging in criminal activities is also not advisable if
 one wishes to retain their Green Card status.
-
-<pic images/gc.ps The Green Card>
 
 Additionally, there are already a hundred and one reasons why the
 American immigration authorities might not grant someone a Green Card
