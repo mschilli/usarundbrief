@@ -314,14 +314,12 @@ I already wrote about this, but due to the current events
 and because we keep receiving inquiries, I am happy to
 summarize it once again.
 
-TODO
-
 The coveted document is traditionally called a "Green Card" because
 it used to be green. It represents the permanent residence and work
 permit, meaning that American Green Card holders are allowed to take
 any job anywhere in the USA (or not work at all), choose their
 American place of residence freely, and live permanently on American
-soil. Entry and exit to the USA is unrestricted. American citizenship
+soil. Entry and exit to the USA are unrestricted. American citizenship
 can be applied for after five years of holding the Green Card.
 However, Green Card holders are not allowed to vote and will lose
 their Green Card if they give up their American residence. The idea
@@ -351,19 +349,25 @@ But who on earth is even allowed to apply for the Green Card? The
 following groups of people are free to navigate through the
 bureaucratic jungle:
 
-1. Immediate relatives of American citizens, no quota regulation:
+1. Immediate relatives of American citizens, no quota yearly 
+quota restrictions:
+a) Spouses b) unmarried children under 21 years of age c) parents
+of American citizens at least 21 years old.
 
 2. Immigration through other relatives ("family-sponsored
-immigrants"), annual quota:
+immigrants"), annual quota: a) unmarried children of American
+citizens, 21 years or older b) spouses and unmarried children
+of greencard holders c) children of American citizens d) siblings of
+American citizens, 21 years or older
 
 The possibility of immigration based on the listed family ties
-initially sounds quite generous. However, in this category, it is
+initially sounds quite generous. However, this category is
 subject to numerical annual limitations, meaning it can take years
 (waiting times of 10 years are not uncommon) before the applicant
-actually holds the Green Card in their hands. The waiting times also
-depend on the country of origin. If there is a quota system, no more
+will actually hold a Green Card. The waiting times also
+depend on the country of origin. If there is a quota system for a category, no more
 than 7% of the total amount is allocated to a specific country.
-Additionally, the total amount issued worldwide annually is not
+Additionally, the total number of greencards issued worldwide annually is not
 necessarily abundant. For example, 65,000 Green Cards are allocated
 annually worldwide to siblings of American citizens. This corresponds
 to the number of siblings in Mexico alone who are waiting for their
@@ -377,17 +381,17 @@ In this category "Immigration for Employment Reasons," a so-called
 indeed no qualified American available for the advertised job.
 Investors and highly skilled workers, including prominent professors
 and researchers as well as executives, can consider themselves
-fortunate because they do not need a "Labor Certificate.
+fortunate because they do not need a Labor Certificate.
 
 4. Green Card Lottery, annual quota: People from countries with a
-comparatively low number of immigrants living in the USA. It is a
-lottery. To participate in the lottery, in addition to the correct
+comparatively low number of immigrants living in the USA. It is indeed a
+lottery. To participate, in addition to a qualifying
 country affiliation, you also need to have completed an education.
 Michael and I, of course, participate every year. And I have to get
 this off my chest: It seems to have become fashionable in Germany to
 participate in the Green Card Lottery just for fun, even if one never
 intends to work and live in America. Yes, dear people, please think
-of those who have been waiting for years for their Green Card...
+of those who have been waiting for years for their Green Card ...
 
 5. Political asylum/refugee status, quota regulation for refugees:
 Political asylum seekers and refugees who are persecuted because of
@@ -438,15 +442,15 @@ your job if you have been in the third and final step of the Green
 Card process for 180 days and have not yet received a decision.
 However, a prerequisite for transferring the Green Card application
 to the new employer is that the new job is similar to the old one.
-And here we face the next problems, because the law is quite vaguely
+And here we face the next problem, because the law is quite vaguely
 formulated, and no one currently knows how the immigration
 authorities will interpret "similar," for example. Everyone is
 eagerly waiting for the immigration authorities to come out with
 regulations that describe how the law should be implemented in
-practice. However, this can take months, sometimes even years. The
+practice. However, this could take months, sometimes even years. The
 law also only considers the case where the employee changes jobs (it
 was introduced under rosy economic conditions). But what happens if
-you are laid off? Does the Green Card application remain valid if you
+you get laid off? Does the Green Card application remain valid if you
 quickly find a new, similar job? And if so, how quickly must this
 happen? I tried last week to get an answer to this question by
 surfing the internet for hours, but everyone is clueless, even the
@@ -456,9 +460,53 @@ jobs!!!
 To obtain a Green Card with the help of one's American employer
 generally requires successfully completing three steps:
 
+The first step: "Labor Certification" (The Work Certificate).  The American
+employer submits the required documents to the state and federal labor
+departments ("Department of Labor").  The goal is to prove that no American
+worker is available for the advertised job.  The employer must not only place
+advertisements in newspapers or similar public media, but also conduct
+interviews with potential candidates.  The labor department determines how the
+advertisements must be designed.
+
+The second step: "The Immigrant Visa Petition." The American employer submits
+the petition for the foreign worker to the immigration authorities.  It is
+verified whether the worker truly possesses the required skills, for example
+through diplomas and employment references.  In addition, the employer must
+prove that they genuinely need someone with the described qualifications and
+that they have the financial capacity to pay the locally prevailing wage for
+the advertised position.
+
+The third step: "The Green Card Application." This is the formal application to
+obtain a Green Card, submitted to the immigration authorities. At this stage,
+you transition from non-immigrant to immigrant status.  For the first time, you
+appear as the applicant yourself, rather than just your employer.  The
+application is submitted either to the U.S. immigration authority ("adjustment
+of status") or to the American consulate in your home country ("consular
+processing").
+
+The latter might seem confusing at first, but it's entirely possible to have a
+U.S. job offer while still outside the U.S.—in that case, the consulate in your
+home country is responsible for issuing the Green Card.  Or, one might travel
+from the U.S. back to their home country and complete the final step there.
+
+Until a few years ago, this was often much faster than going through the usual
+procedure within the U.S. However, after the German company SAP reportedly sent
+hordes of employees to the consulate in Frankfurt to speed up the Green Card
+process, a new form was introduced to close that loophole.
+
+As a result, most Green Card applicants now file in the U.S.—as are we.  We’re
+currently in this third step. It’s here that you must prove you have a clean
+bill of health and a spotless record.
+
+And the adventures we had during this step—you’ll hear about them in
+<RBLINK>20020723#7</RBLINK>, but I’ll let you digest all this information
+first.
+
 @Z: The president is sending us money
 
 <pic images/tax.ps President Bush is making a splash with a 600 Dollars tax refund for us.>
+
+TODO
 
 <em>Angelika</em> 
 I would like to report on President Bush and his political ambitions.
