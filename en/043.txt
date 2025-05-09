@@ -164,7 +164,7 @@ produce duct tape and holds half of America together with it.
 
 @Z: Mr. Bush and the War
 
-<pic images/irak3.ps The sign reads "Bush's tactics endanger America and turn the world against us.">
+<pic images/irak3.ps The sign reads "Bush's policies: Endangering America, enraging the world.">
 
 <em>Angelika</em> 
 Paper is known to be patient, and a lot of printer's ink has been
@@ -174,10 +174,8 @@ and quite a bit of polemics, not to mention the systematic
 manipulation of public opinion, especially on this side of the
 Atlantic.
 
-TODO
-
 Just recently, I read in an article by William Greider in the
-magazine 'The Nation'(<RBLINK>20021206#7</RBLINK>).
+magazine 'The Nation' (<RBLINK>20021206#7</RBLINK>).
 According to a survey by the New York Times and CBS News, 42 percent
 of respondents believed that Saddam Hussein was personally
 responsible for the attacks on the World Trade Center and the
@@ -195,7 +193,7 @@ analyses are unnecessary; action is required, and the associated
 risks are accepted. If the problem-solving approach is wrong, the
 strategy is simply changed.
 
-<pic images/irak2.ps Stop the American aggression abroad!>
+<pic images/irak2.ps "Save American Lives ... by stopping U.S. Aggression Abroad!">
 
 Diplomacy, on the other hand, requires patience. Bush has little of
 it. He sees Saddam Hussein as a problem that he wants to get out of
@@ -221,18 +219,18 @@ believers with strict moral views. Incidentally, before his
 conversion, Bush was regarded as a right-wing bon vivant who was very
 fond of alcohol. That was a long, long time ago!
 
-In conclusion, a few remarks about the gap between America and
+And last but not least, a few remarks about the rift between America and
 Germany, as many of you have expressed concern in your letters to us
 -- whether we as Germans can even dare to go out on the streets in
-America anymore?
+the U.S. anymore?
 
-<pic images/irak5.ps No war against Iraq>
+<pic images/irak5.ps "No war against Iraq">
 
 As I said, we live in liberal San Francisco, and the people here are
 closer to the views of the Germans and French on the Iraq crisis than
 to their own government. No one here supports Bush's policies. In San
-Francisco, the population protests against the war just like in
-Europe. When I was in the darkroom last week, an American woman told
+Francisco, the population is protesting against the war just like in
+Europe. When I was in the photography class' darkroom last week, an American woman told
 me that I should be glad to be German. She, on the other hand, said
 she was now ashamed to be American. She meant it quite seriously. So,
 be kind to the Americans; not all of them want to be lumped together,
@@ -240,20 +238,19 @@ and not everyone stands firmly behind Bush.
 
 @Z: Goodwill
 
-<pic images/goodwill1.ps Goodwill - A Noble Store from the Front>
+<pic images/goodwill1.ps Goodwill - Used items behing a fancy store front.>
 
 <em>Angelika</em> 
-As sure as the amen in church, taxes are due in America on April
+As sure as the Amen in church, taxes are due in America on April
 15th. And like everywhere else in the world, at the end of the year,
-tax-savvy individuals try to make a few donations to get some of it
-back on their taxes.
+tax-savvy individuals try to make a few tax-saving donations.
 
-In addition to monetary donations, the American tax office also
-allows clothing donations to charitable organizations to be deducted
-from taxes. And since I thought it was urgently necessary to clean
-out our wardrobe in December, I'll let you in on how it's done. Of
-course, you can't declare the new value of the clothing on your tax
-return, but rather the so-called second-hand price.
+In addition to monetary donations, the U.S. Internal Revenue Service also
+allows donations of clothes to charitable organizations to be deducted from
+taxes. And since I thought it was urgently necessary to clean out our wardrobe
+back in December, I'll let you in on how to get a tax deduction on this. Of
+course, you can't declare the new value of the clothing on your tax return, but
+rather the so-called second-hand price.
 
 <pic images/goodwill2.ps Goodwill - Clothing donations are accepted.>
 
@@ -265,7 +262,7 @@ certificates or receipts with your tax return; they only need to be
 presented during an audit), I diligently listed every single piece of
 clothing. After all, I am the daughter of a tax advisor.
 
-It is important to bring the clothing to an organization recognized
+It is important to bring the used clothes to an organization recognized
 by the tax office, such as homeless shelters, the Salvation Army, or
 Goodwill. Goodwill is a large, now international, non-profit
 organization with the goal of providing people with disabilities or
@@ -273,11 +270,11 @@ other disadvantages with career opportunities through training and
 employment opportunities. To finance this, Goodwill sells donated
 clothing and household goods in their own stores.
 
-<pic images/gwr2.ps Goodwill-Richtlinien>
+<pic images/gwr2.ps Goodwill guidelines>
 
-In San Francisco, there is a large Goodwill that also accepts
+In San Francisco, there is a large Goodwill store that also accepts
 donations, located at the corner of South Van Ness and Mission. So I
-drove up with our Perlman. In the parking lot, there was a truck
+drove up there in our Perlman. In the parking lot, there was a truck
 trailer, and friendly men immediately loaded my bags of clothes into
 it.
 
@@ -288,6 +285,8 @@ had to fill in my name and address, specify the value of the donated
 clothing, and in a flash, an employee signed it and praised me highly
 for the attached detailed list (apparently, no one does that), and I
 gained another experience.
+
+TODO
 
 @Z: The newsletter top product
 
