@@ -418,11 +418,9 @@ kosher? It's about ensuring that no ingredient is of animal origin,
 or if it is, that it complies with kosher regulations. Our cucumbers
 seem to be okay. Well, we all got lucky there.
 
-TODO
-
 @Z: Curb Your Enthusiasm
 
-<pic images/larry.ps Larry David (right) in "Curb Your Enthusiasm>
+<pic images/larry.ps Larry David (right) in "Curb Your Enthusiasm">
 
 <em>Michael</em> 
 By now, we have probably watched each of the hundred Seinfeld
@@ -431,8 +429,8 @@ think in Seinfeld plotlines. I often catch myself using the sentence
 structures and timing of Seinfeld episodes when I tell a funny story
 in English.
 
-What is so special about Seinfeld? Why is it funnier by magnitudes
-than anything else? Than, let's say, "Cheers" or "Married with
+What is so special about Seinfeld? Why is it funnier by an order of
+magnitude than anything else? Than, let's say, "Cheers" or "Married with
 Children"? So much funnier that it doesn't just play in a completely
 different league, but in a completely different humor universe?
 
@@ -471,13 +469,13 @@ Coincidence?
 @Z: The Boat Is Full
 
 <em>Michael</em> 
-If you have read our explanations on the topic of "Green Card," the
+If you have read our explanations on the topic of the "Green Card," the
 following news should not really surprise you: At the moment, it is
 almost impossible to obtain a work visa or a Green Card through an
 employer.
 
 Why? As we've explained back in <RBLINK>20010905#7</RBLINK>,
-one of the first necessary steps for permanent residency this is the Labor
+one of the first necessary steps for permanent residency is the Labor
 Certification from the Department of Labor, which certifies that
 the employer who wants to hire the foreigner cannot find an American
 for the position in question. This usually involved the employer
@@ -498,8 +496,9 @@ And even for the people who have already gone through all the
 necessary steps over the past few years and are now just waiting for
 the actual card to be issued, unexpected hurdles are arising: Rumor
 has it that the INS installed new computers at the beginning of the
-year and hasn't sent out any green cards since December. The people
-who are ready to go are getting restless, as March is approaching.
+year and hasn't sent out any green cards since December. Applicants
+near process completion
+are getting restless, as March is approaching.
 But well, the INS is notorious for its snail's pace, so let's give
 them six months, which is just about a week on the INS clock.
 
