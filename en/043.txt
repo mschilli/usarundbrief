@@ -286,9 +286,7 @@ clothing, and in a flash, an employee signed it and praised me highly
 for the attached detailed list (apparently, no one does that), and I
 gained another experience.
 
-TODO
-
-@Z: The newsletter top product
+@Z: Newsletter Top Product
 
 <pic images/listerine.ps (#3) The Listerine breath strip>
 
@@ -313,12 +311,12 @@ with wild beeping sounds.
 
 But one advantage cannot be overlooked: Unlike chewing gum, with
 palate tape in your mouth, you don't speak Texan gibberish in
-meetings but speak clearly and distinctly. Especially tasty after
+meetings but pronounce clearly and distinctly. Especially tasty after
 spicy Indian, Thai, or Vietnamese food.
 
 @Z: Religions of the World
 
-<pic images/tbaj.ps The phrase "To be a Jew" clarifies Jewish customs.>
+<pic images/tbaj.ps "To be a Jew" clarifies Jewish customs.>
 
 <em>Michael</em> 
 It's hard to believe now, but two or three hundred years ago, America
@@ -382,7 +380,7 @@ is closed and orders are not processed until Sunday.
 <pic images/kosher.ps (#13) Kosher pickles>
 
 You might have already heard the word "kosher." Whenever I buy
-pickles, I wonder about the "Kosher" label (illustration (#13)). It
+pickles, I keep wondering about the "Kosher" label (illustration (#13)). It
 means something like "okay" when referring to people ("You know, that
 guy isn't quite kosher!"), but it mostly relates to food: "Kosher"
 food contains only permitted ingredients and is prepared according to
@@ -403,7 +401,7 @@ its display and does not beep under any circumstances.
 Another rule is "You shall not boil a kid in its mother’s milk," which has been
 interpreted to mean that meat and milk may not be cooked together. This makes
 beef fried in butter off-limits for strictly observant Jews.  Beef in creamy
-sauces is also taboo.  The rule was even extended to chicken, so no "Kan Kari
+sauce is also taboo.  The rule was even extended to chicken, so no "Kan Kari
 Gai" at the Thai restaurant either.  And in the kitchen, separate pots are used
 for meat and milk. Even the dish towels used to dry washed plates—on which
 either milk or meat was served—are color-coded!  And after eating meat, one
@@ -415,10 +413,12 @@ also restrictions with fish: only those with fins and scales are
 allowed. No lobster, no oysters, no shrimp, mussels, or crabs, no eel
 or snails.
 
-What does all this have to do with cucumbers, how could they not be
+What does all this have to do with pickles, how could they not be
 kosher? It's about ensuring that no ingredient is of animal origin,
 or if it is, that it complies with kosher regulations. Our cucumbers
 seem to be okay. Well, we all got lucky there.
+
+TODO
 
 @Z: Curb Your Enthusiasm
 
