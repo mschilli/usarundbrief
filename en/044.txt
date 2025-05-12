@@ -280,16 +280,14 @@ However, as far as I know, there is no German word for it. In
 English, however, there are two expressions: 'Bronx Cheer' and
 'Raspberry.'
 
-TODO
-
 The "Bronx Cheer" (a celebratory gesture from the New York Bronx)
 undoubtedly comes from the working-class fans of the New York Yankees
 (a baseball team from New York City), who apparently produced the
 sound en masse during the surely boring baseball games (as reported
 by the newsletter).
 
-But "raspberry" is the English word for "Himbeere" (raspberry). What
-does that have to do with the derogatory gesture just mentioned?
+But "raspberry" is the English word for "Himbeere". What
+does that fruit have to do with the derogatory gesture just mentioned?
 Well, my dear friends, it pays off to receive a daily email from the
 so-called "Wordsmith," like I do, with a rarely used word from
 Webster's Dictionary, along with its origin and meaning. Recently,
@@ -307,15 +305,16 @@ British English, although such expressions would likely only cause
 raised eyebrows in America.
 
 By the way, if you want to receive a daily email from Wordsmith, you
-can sign up at
-<LINK>http://wordsmith.org/awad/index.html|wordsmith.org</LINK>
-The translation to English is: "Sign up. It doesn't cost anything,
+can sign up at <LINK>http://wordsmith.org/awad/index.html|wordsmith.org</LINK>.
+Sign up. It doesn't cost anything,
 but you always get smarter from it and eventually can speak English
 in a way that would leave any high school teacher stumped.
 
 @Z: Hogan's Heroes
 
-<pic images/hogan9.ps The television series "Hogan's Heroes>
+<pic images/hogan9.ps The television series "Hogan's Heroes">
+
+TODO
 
 <em>Michael</em> 
 Recently, an American colleague told me that as a little boy, he
