@@ -1,0 +1,731 @@
+San Francisco, 08-01-2003
+
+@Z: Traffic lights in the space age
+
+<pic images/ampel.ps The traffic light counts the seconds: 5, 4, 3 ...>
+TODO
+
+<em>Michael</em> 
+Anyone who has been to America knows that the traffic lights work
+differently there than in Germany: Firstly, there is no yellow phase
+for drivers when the light changes from red to green. It just goes
+"bam!" and this is probably due to the many cars with automatic
+transmissions: No one needs to engage a gear to start driving.
+
+Before the traffic light switches back to red at the end of the green
+phase, there is, of course, a second of yellow so that you can brake
+in time. This is crucial: as soon as one light turns red, the one in
+the cross direction is already green! There is no grace period like
+in Germany -- if you try to rush through on red, it's not uncommon
+for the first vehicle coming from the side to crash into your side
+door.
+
+However, Americans are notoriously bad drivers, and many of them talk
+on the phone, fiddle with the car radio, or drink coffee, and you
+often see completely absent-minded wrong-way drivers rushing through
+red lights. We've really gotten into the habit of starting cautiously
+when the light turns green and peeking into the side street to see if
+the cars there are actually stopping.
+
+The lack of a grace period also affects pedestrians: They have to be
+extremely careful to make it to the other side before the pedestrian
+light switches from "Walk" to "Stop" -- because then the cars
+immediately (!) get a green light. To give an approximate estimate,
+an electric hand typically starts blinking at a point when a sporty
+runner can just barely make it to the other side. Older people
+usually stop then, while we young folks switch to 100-meter sprint
+mode.
+
+Of course, the blinking doesn't always help, because each
+intersection has different settings. You have to rely on the traffic
+light technician who measured it at some point. That's why there's
+something new now: traffic lights with large digital displays that
+count down the number of seconds until "Stop." Brilliant!
+
+Not only pedestrians love the new technology, but also the drivers
+speeding by in the same direction, who can now peek over and read the
+exact number of seconds before their traffic light turns "yellow"!
+This often makes decisions easier, such as "Should I quickly change
+lanes to overtake the slowpoke in front of me, or can I still make it
+through behind them?" A year ago, these super traffic lights were
+only found sporadically at very wide intersections in San Francisco,
+but now they are popping up everywhere, and everyone is thrilled.
+Bravo, San Francisco!
+
+@Z: Kalifornische Knarrengesetze" translates to "California ratchet
+laws" in English.
+
+<em>Michael</em> 
+Contrary to the prevailing opinion in Germany, not all Americans walk
+around with a loaded revolver in their belt or shoot into the air
+from car windows after exciting sports events. No, gun ownership and
+use are strictly regulated.
+<RBLINK>20010117#1</RBLINK>
+We have already touched on the theory of American gun laws. Today,
+let's go over what that looks like in everyday life in California.
+
+<pic images/hg.ps Popular gun magazine: "Handgunner>
+
+This is not so easy, because the regulations vary greatly from state
+to state, are subject to constant changes by the legislature, and are
+then interpreted very inconsistently by the courts. So: Don't sue the
+newsletter editorial team if something isn't exactly correct, but
+rather, in case of doubt, hire a legal bloodsucker of your choice and
+ask for advice.
+
+In English, the text translates to:
+
+"California distinguishes between two gun regulations: One determines
+when a weapon can be carried concealed (Concealed Gun Law, CGL), and
+the other pertains to loaded weapons (Loaded Gun Law, LGL). The
+courts apply both laws strictly and separately: For example, someone
+who walks into a government building with a loaded revolver in their
+coat will face penalties twice: once for a...
+<em>versteckten</em> 
+The translation to English is: "Weapon, and once because of a
+<em>geladenen</em> 
+The translation to English is: "Weapon. In the legal sense, 'loaded'
+means that the ammunition is in the weapon: it is sufficient for the
+magazine to be inserted in the pistol; it does not matter whether the
+weapon is cocked or the safety is off.
+
+<pic images/rebate.ps Advertisement: This gun is on special offer,
+save 40 dollars!>
+
+Almost no one is allowed to walk around in a California city with a
+weapon concealed under their clothing -- not even if it is unloaded.
+Anyone caught doing so (and not falling under the exceptions
+described below) commits a crime that is punishable by a fine or
+imprisonment. Exception: A so-called CCW (Carry Concealed Weapons)
+permit, which is only issued by the sheriff of the respective county
+if someone proves that they need the weapon for professional reasons
+(for example, a bounty hunter chasing escaped criminals) or is
+otherwise seriously threatened. Typically, these CCWs are only issued
+in rural areas, and the cities almost always reject applications.
+
+Another exception: In their own home, any ordinary citizen is allowed
+to hide a loaded firearm. However, this does not apply to those with
+a criminal record, illegal immigrants, those dishonorably discharged
+from the military, and the like. By the way, "home" also includes
+one's own garden, a rented motel room, or a campsite. Store owners
+(only the owners, not the employees) are also allowed to have a
+loaded weapon in their store. As a small legal peculiarity, one is
+not allowed to walk around with a weapon concealed under clothing in
+their own driveway. The weapon may be hidden in the "home," but not
+"on the person.
+
+U.S. citizens who are at least 18 years old are allowed to transport
+firearms in a car, provided they are unloaded and stored in a locked
+container (not in the glove compartment!). Those who reside in the
+U.S. but do not hold U.S. citizenship may only transport firearms in
+a car on a direct route between locations with special exemptions
+(for example, from home to a shooting club where they are a member,
+or from the gun dealer where the firearm was purchased to the office
+they own).
+
+<pic images/uhose.ps Advertisement: The Ballermann in the Underpants>
+
+Let's assume a store owner has a loaded gun in his drawer. If he
+drives home in the evening and wants to take the gun with him, he
+must remove the magazine with the bullets and place the gun in a
+portable, lockable box and lock it. When carrying both to the car, he
+must either carry the magazine with the bullets openly (otherwise it
+would be a violation of the "Concealed Gun Law," as the magazine is
+part of the weapon) or remove the bullets and lock the magazine in
+the box as well. Once home, the store owner is allowed to take the
+gun from the car into the house and load it there. However, he must
+ensure that his children cannot access it.
+
+An unloaded firearm can, amusingly enough, be carried openly almost
+everywhere. One could easily march through downtown San Francisco
+with a Colt in an (open) cowboy holster--except in weapon-free zones
+like government buildings, schools, or airports. (Editor's note: This
+was the situation in 2003; since January 1, 2012, this is no longer
+the case. Governor Jerry Brown signed a law in October 2011 that
+equates carrying unloaded weapons with loaded ones.) However, if the
+weapon is loaded, you are not allowed to take it onto the street,
+even if you carry it openly. Rifles are not covered under the CGL, as
+they are very difficult to conceal under clothing, but they are
+covered under the LGL: No one is allowed to stand on the street with
+a loaded rifle.
+
+Anyone openly carrying a weapon can be checked by the police at any
+time. This is usually prohibited for police officers in the USA -- if
+someone hasn't done anything wrong, no one is allowed to even ask for
+their ID. "Routine checks" like in Germany would be illegal. However,
+if a police officer sees someone carrying a weapon, they are allowed
+to check and ensure that it is not loaded.
+
+<pic images/gun.ps How to own a firearm and not go to jail>
+
+What to do with the gun? You are allowed to defend your home,
+yourself, and other people against villains. It is important to note
+that there is no obligation to retreat if a confrontation could be
+avoided by doing so. However, you are only allowed to shoot if there
+is an immediate threat to the life and limb of individuals from the
+villain. If a thief is escaping through the window with a TV under
+their arm, it would be a crime to shoot after them. However, if the
+thief is attacking with a baseball bat, you are allowed to shoot.
+
+The rules are very complicated and require precise legal abstraction
+to determine which regulation applies in which case. Hardly any
+resident of California (except perhaps the police and professional
+gun dealers) knows these rules exactly. I bought the now out-of-print
+book "How to Own a Gun in California and Stay Out of Jail" by John
+Machtinger, who compiled all the important facts back in 1999. Very
+nice!
+
+For the pictures in the newsletter, I specifically bought two gun
+magazines from our local newsagent around the corner. To my
+astonishment, the tiny shop had a whopping ten different magazines.
+The seller said that he doesn't sell much in this neighborhood, and
+he always puts them on the top shelf so that small children can't
+reach them. He probably thinks I'm a gun enthusiast now, but I'll
+have to live with that.
+
+@Z: The translation of "Kalifornisches Kasperltheater" to English is
+"Californian Puppet Show.
+
+<pic images/davis.ps News: Governor Gray Davis is being called back.>
+
+<em>Angelika</em> 
+After California struggled with various power outages due to the
+energy crisis (as we reported), the bursting of the internet bubble
+with company closures and rising unemployment, and now faces a budget
+deficit of 38 billion dollars, discontent is spreading among the
+population. Just as the Germans complain about SchrÃ¶der and company,
+many Californians are angered by Gray Davis, the Democratic governor
+of California, who was re-elected at the end of 2002 (comparable to a
+prime minister).
+
+Although the energy crisis is partly attributed to the Republican
+Governor Pete Wilson (who served before Gray Davis) and Davis did not
+cause the generally poor American economic situation, he serves as a
+scapegoat for most Californians. This may also be due to the fact
+that Davis appears rather colorless and stiff, and he fails to
+connect with the public. However, democracy means that once elected,
+a person serves for a full term, and those dissatisfied with Davis
+can express their discontent in the next election. Far from it: In
+California (and also in other American states), there is the
+possibility of a so-called recall: Voters can remove a politician
+from office before the end of their term. Originally included in the
+California constitution in 1911 to deal with corrupt politicians, the
+recall initiative is now causing a complete circus in California. In
+Germany, you are probably scratching your heads: "Recall - never
+heard of it!" Let me try to explain what it's all about.
+
+<pic images/davis2.ps Protesters against Gray Davis>
+
+To initiate a recall process, a certain number of signatures from
+California voters who support the recall must be collected. In
+California, this amounts to 12% of all votes cast in the last
+statewide election, which is 897,158 signatures. Compared to other
+states, this is extremely low; most other states that allow recall
+procedures require a hefty 25%.
+
+So in the past months and weeks, we frequently encountered signature
+collectors on our way to the supermarket or the subway. In San
+Francisco, however, only a few support the recall initiative, as
+estimates suggest that the special election will cost the already
+struggling state a hefty 30 million dollars. As a result, other
+groups are simultaneously collecting signatures.
+<em>für</em> 
+The signatures for and against the "recall" are not offset against
+each other. By a certain deadline, the signatures must be submitted
+for verification, which happened last week. Under the leadership of
+the Republican but considered untrustworthy politician Darrell
+Issa--who was arrested twice by the police some time ago on suspicion
+of car theft--far more than the necessary 1.3 million valid
+signatures were collected.
+
+Issa financed the "recall" signature collection with 1.5 million
+dollars. Because in America, nothing happens without money. The
+election date has already been set. On October 7, voters will decide
+whether Davis stays or goes, and at the same time, they will choose
+their preferred new governor from a list of candidates. It seems
+somewhat crazy to me that a voter is allowed to vote for a candidate
+even if they are against Davis's recall.
+
+Every Tom, Dick, and Harry, regardless of their party, can run for
+office. Only Gray Davis draws the short straw. He is not allowed to
+run. To participate in the governor's race, one only needs to be an
+American citizen, pay a $3,500 administrative fee, and present 65
+valid signatures from supporters. If the candidate doesn't have the
+$3,500 on hand, the 65 signatures increase to 10,000. You can
+probably imagine that this means every fool wants to "join in." The
+danger of this special election is that, in addition to a likely low
+voter turnout, a completely inexperienced person could become
+governor, as a simple majority is enough to win, which in practice
+means that one can win with very few votes.
+
+It currently seems certain that the aforementioned Darrell Issa wants
+to be involved. But the Republican businessman Bill Simon, who lost
+to Davis in the last election, also senses his chance. And the rumor
+mill is buzzing that the film star Arnold Schwarzenegger, known as
+the muscleman, who is also a member of the Republican Party and a
+native Austrian with an American passport, might run. As absurd as
+that sounds, it is by no means far-fetched. In television news polls,
+perfectly normal-looking Californians admit they are willing to lend
+their vote to the "Terminator." Arnie is keeping a low profile at the
+moment, and the press speculates that his wife Maria Shriver, a
+Democrat who is also part of the Kennedy clan, is advising against
+it. I tell you, if I have to endure "I'll be back"-Arnold alongside
+Cowboy Bush, I'll go crazy.
+
+@Z: Topprodukt
+
+<pic images/sticker.ps Kleideretiketten>
+
+<em>Michael</em> 
+Surely, you've also stared at a label in a piece of clothing before:
+"Ooh, Giorgio Armani...," wondering what it might have cost. "Ah,
+Prada!" The sweater may look like it's from a thrift store, but hey,
+it was surely expensive! Recently, in a magic shop in Las Vegas, I
+discovered something to put an end to this nonsense: sew-in labels
+with fabricated nonsense on them. One says "100% Pure Shit," another
+"100% Cow Dung." And I immediately sewed it by hand into the faux fur
+sweater that I've been wearing every day for years. It's just
+difficult to show the label to someone, but hey, humor comes from
+within...
+
+@Z: How much longer?
+
+<pic images/bags.ps 500 garbage bags -- last 6.5 years>
+
+<em>Michael</em> 
+Over the years, I've often talked about my obsession with shopping at
+my favorite supermarket, "Costco." However, only long-time regular
+readers with an elephant's memory would know that six and a half
+years ago, one of my first actions in San Francisco was buying a
+500-pack of trash bags there.
+<RBLINK>961215#2</RBLINK>
+The translation of "steht's beschrieben und auf diesem" to English is
+"it's described and on this.
+<LINK>http://usarundbrief.com/0/images/costco.html|Foto</LINK>
+Can you see it: In front of the Sharp TV set, which was also newly
+purchased at the time and has long since stopped working, and to the
+left of the Corona beer crate, which lasted even less time, you can
+see a pack of 500 garbage bags from the company Kirkland. Why am I
+writing this? A few days ago, we used the last one. However, this is
+not because we produced extremely little waste, but rather because in
+the USA, you always get inundated with plastic bags at the
+supermarket, which you then use for trash, so you hardly use any
+garbage bags you bought yourself. Now I'm faced with the question:
+Should I buy another 500-pack, will we stay another 6.5 years?
+
+@Z: The ailing pension system
+
+<em>Michael</em> 
+In contrast to the Germans, who to my considerable surprise still
+like to dream of a state pension, the Americans have already grasped
+the truth, and no one under the age of 35 today, who earns decent
+money and is reasonably sane, expects any significant pension
+payments from the state.
+
+I don't know exactly what kind of fantasy mathematics German
+politicians base their calculations on, but let's try a very simple
+calculation: While today in the USA, 15 workers pay for the pension
+of one retiree, in 40 years it will only be two. In Germany, the
+problem will be even more severe due to the much lower proportion of
+foreigners. This cannot work. Anyone who retires in 40 years will
+have to be able to support themselves with privately (!) saved funds.
+The brutal truth is that no one will give up 50% of their salary to
+us greedy retirees. The generational contract is dead, dead, dead.
+
+<pic images/oma.ps Oma Meume has to earn her pension by playing in
+the game show.>
+
+In contrast to Germany, where the so-called Riester pension does not
+find much appeal, the American equivalent, the so-called 401(k) plan,
+is practically a given for anyone who does not intend to sleep in a
+cardboard box under a bridge in old age. The funny name is derived
+from tax code number 401, section (k).
+
+Typically, employers offer a 401(k) plan for middle to higher-paying
+jobs. In this plan, the employee automatically deducts a certain
+amount from their gross salary (tax-free!) each month, which is then
+transferred to private investment companies like Fidelity
+(www.401k.com). The employee usually has the option to invest the
+money with varying levels of risk: money market funds (similar in
+safety to fixed deposits), bonds, or stock funds. However, sometimes
+only the employer's stocks are available for purchase, which isn't as
+ideal.
+
+Even though the money is held by private companies like Fidelity, it
+is subject to the legal regulations for 401k plans. The money grows
+tax-free because any bond interest and stock fund gains are not
+taxed. You can manage the account as you wish and move the virtual
+money -- typically via the internet -- between different types of
+investments.
+
+When you change employers, you set up a new 401k plan there and
+maintain it in addition to the old one. A maximum of $12,000 per year
+can be contributed to the 401k plan, and starting in 2006, this will
+increase to $15,000. When you are 59, you are allowed to start
+withdrawing money from your bundle -- however, every cent of it must
+then be taxed according to your income for that year.
+
+Typically, as an elderly person, you need less money, which is why
+the tax rate is lower than during your working life. If you go to a
+financial advisor, they usually calculate how much money you need to
+deposit monthly and when you can stop working so that the money lasts
+until the average life expectancy, assuming a positive stock market
+development, say 10% per year. If you live longer or the stock market
+crashes, you might end up under a bridge.
+
+Due to the stock market crash of 2000 and the ongoing poor investment
+climate, the 401k investments of many Americans went in the wrong
+direction: Instead of the required 10% growth per year, the
+retirement accounts of those who had invested their pensions in
+so-called "Aggressive Funds" particularly plummeted. At the same
+time, many also ran out of household money, which led quite a few to
+prematurely cash out their bundles, accepting the immediate taxation
+and a penalty fee.
+
+A good employer supports the retirement provision of their employees
+with contributions of up to 50% on the payments, up to 6% of the
+salary -- that is free money, and on top of that, it is also
+tax-free, as the table in...
+<RBLINK>991120#2</RBLINK>
+The phrase "zeigt, ganz schÃ¶n reinhaut" can be translated to English
+as "shows that it really packs a punch.
+<LINK>http://www.401k.com/401k/about/about.htm|401k-Webseite</LINK>
+branches out into all sorts of 401k intricacies
+
+Apart from the 401k plan, there are other retirement options, such as
+the "Roth IRA," named after a senator named William V. Roth, who
+strongly advocated for this plan. The Roth IRA can indeed be
+maintained alongside the 401k. You can contribute up to $3,000 of
+already taxed money annually to the plan, but you won't have to pay
+any taxes on interest, stock gains, or withdrawals in retirement.
+However, high earners who make $110,000 individually or $160,000 as a
+couple per year are excluded from the Roth IRA.
+http://www.fairmark.com/rothira/roth101.htm
+The exact regulations are very complicated, and like all tax laws,
+can only be understood if you read thick tomes and regularly
+internalize the latest changes.
+
+And, as always in the USA, there is no equality: Upper and
+middle-class individuals typically have a 401(k) plan and/or a Roth
+IRA, while those who earn less need everything for living expenses
+and cannot save for retirement. They rely on the government
+retirement safety net, "Social Security," into which both employers
+and employees contribute 6.2 percent of their gross salary, up to a
+maximum limit of $87,000 in annual salary (as of 2003). However, one
+can already calculate the insolvency date of this insurance: 2032.
+
+An interesting twist arises from the population distribution in the
+age pyramid: In 30 years, it will mainly be foreign immigrants,
+especially from Latin American countries, who will contribute to the
+pension system and thus finance the pensions of a predominantly white
+population group -- racial conflicts are inevitable.
+
+@Z: The American school system
+
+<pic images/school.ps Caution, school!>
+
+<em>Angelika</em> 
+Vacation time in Germany: How fitting to write something about the
+American school system. Everyone thinks they know it from American TV
+shows. But do you also believe that private schools dominate in
+America? Wrong, only 11% of American students attended a private
+school in 2002 - at least according to the statistics from the
+"National Center for Education Statistics.
+
+Private schools charge tuition fees--between 200 and 1000 dollars per
+child per month. Public schools, on the other hand, are free of
+charge. Approximately 80% of private schools are run by churches and
+other religious organizations. While religious education is not
+allowed in the curriculum of public American schools (due to the
+separation of church and state), it is an integral part of
+religiously affiliated private schools.
+
+The idea of free education for all is fundamentally American. The aim
+was to ensure that the still young nation with few commonalities
+would grow together more quickly, which especially benefited the
+immigrant children of the large waves of immigration between 1890 and
+1930.
+
+As in other areas in America, the government plays only a subordinate
+role in the education system. For example, there is no nationally
+standardized curriculum, which does not mean that every American
+school teaches in its own way. There are certain subjects that every
+American student struggles with to some extent, regardless of whether
+they live in Hawaii or Alaska: mathematics, English (writing,
+reading, grammar, literature), science, geography, history, social
+studies, art, and music.
+
+<pic images/edison1.ps A privatized public school>
+
+On the other hand, learning a foreign language over a certain number
+of years, as it is known in Germany,
+<em>nicht</em> 
+Obligation. Many American students only start learning a foreign
+language in high school (usually 9th to 12th grade). Interestingly,
+Americans often believe that learning a foreign language, such as
+German, for two years is sufficient to use it well. I frequently meet
+people who boast that they speak German because it was part of their
+"high school" curriculum for two years. However, you don't hear much
+more than phrases from them.
+
+Even though the state does not take on a central role, it does not
+completely stay out of it. The legislative initiative "No Child Left
+Behind," which President Bush signed into law in early 2002, is a
+good example of this type of involvement. The law aims, broadly
+speaking, to achieve higher standards in public schools through
+increased student testing, hiring of qualified teachers, quality
+controls at individual schools, and so on.
+
+In general, the authority over schools in America lies with the
+individual states (similar to the federal states in Germany). The
+states are divided into individual entities known as school
+districts. These school districts have significant influence because
+the control of public schools is intended to remain as local as
+possible. The school district is managed by the school board, which
+consists of elected citizens. Private schools must also follow
+certain guidelines set by the individual state, but they have more
+freedoms than public schools, for example, in their selection of
+students. In addition to private and public schools, there is the
+option to educate children at home, a method that is gaining
+popularity in America, known as "home schooling." Honestly, I'm not
+sure if that's really "the best thing since sliced bread.
+
+The funding of public schools is provided through tax money, with the
+lion's share being contributed by the state, cities, and counties
+(about 90%), while the federal government only adds the remaining
+10%. Generally, the property tax that Americans pay when they own a
+house goes directly to local schools. And this is where the problem
+begins: If you live in an upscale neighborhood where houses and
+properties are expensive, you pay a lot of taxes, and the schools in
+the area receive a lot of money. If you are unfortunate enough to
+grow up in a poorer area, the schools there are left with little
+funding. There is no talk of equal opportunities.
+
+Now, you're probably eager to know how the American school system is
+structured. Typically, boys and girls attend school for 12 years,
+whether it's a public or private school, or even at home with "home
+schooling" by mom and dad. The compulsory schooling age varies
+slightly across different states: in 30 states, compulsory education
+ends at 16 years old, in nine states at 17 years old, and in the
+remaining 11 states at 18 years old. At six years old (with slight
+variations from state to state), an American child is enrolled in
+"Elementary School" (comparable to the German Grundschule).
+
+In contrast to the German "Kindergarten," when an American speaks of
+"kindergarten," they mean the year.
+<em>unmittelbar</em> 
+Before starting school. In most states, kindergarten is not yet
+mandatory, including in California. However, since kindergarten
+involves the initial learning of letters and numbers and is generally
+quite structured (there are homework assignments!), almost all
+children attend a "kindergarten." Kindergartens are usually located
+within the "Elementary School" building and are an integral part of
+the school (similar to the somewhat outdated school kindergartens in
+Germany).
+
+Many children attend a so-called "Preschool" or "Nursery School"
+(Vorschule) before kindergarten. The "Elementary School" spans from
+the first to the fourth, fifth, sixth, seventh, or eighth grade ("8th
+Grade"), depending on the state or school district. After the fourth
+or fifth grade, a "Middle School" (Mittelschule) may follow up to the
+eighth grade. In San Francisco, public schools adhere to the
+following model: five years of "Elementary School," three years of
+"Middle School," and four years of "High School.
+
+Please do not confuse the American "Middle School" with the German
+"Realschule." In the USA, there is no tripartite school system, only
+a comprehensive school system. The term "Middle School" refers solely
+to the period when children attend this school, namely between
+"Elementary School" and "High School.
+
+Starting from the ninth grade, "High School" typically begins and
+ends with the 12th grade. In some school districts, there is also a
+distinction between "Junior High School" (often 7th - 9th grade) and
+"Senior High School" (10th - 12th grade). If a student successfully
+completes the 12th grade, they receive a "High School Diploma," which
+should not be confused with the Abitur.
+
+<pic images/school3.ps First Writing Skills: Decorated School Window>
+
+However, if a student leaves school before completing the twelfth
+grade because they have fulfilled the compulsory education
+requirement, they receive nothing and are considered a dropout.
+Although there is the possibility of obtaining the diploma later in
+adult life, high school dropouts are not exactly at the top of the
+social ladder in America. The diploma obtained later also has its own
+name, namely "General Educational Development," commonly known as
+GED.
+
+The American school is a full-day school and starts between 7:30 AM
+and 8:30 AM and ends between 3 PM and 4 PM. As in Germany, there are
+different class periods (called "periods") and breaks ("recess").
+American children also rest on Saturdays and Sundays. The school year
+usually lasts 9 months (or 180 school days per year) and runs from
+around the beginning of September to mid-June.
+
+In contrast to Germany, the holidays are less spread out over the
+year. Most schools give their students a week of spring break and a
+few days around Christmas. However, the summer vacation lasts about 9
+weeks. Not too long ago, American students used to get almost 3
+months of summer vacation, a historical legacy from the times when
+children had to help in the fields during the summer, which is now
+recognized as outdated.
+
+To prevent parents from going crazy during the long summer holidays
+and to allow them to continue working without having to take their
+children to the office, you can find summer programs everywhere,
+offered by organizations such as non-profit institutions. The famous
+American summer camp should not be forgotten either. Many schools
+offer what is called "Summer School," which means no vacation and
+lounging around: learning takes place. Since the concept of repeating
+a grade is hardly known in America, students here have the
+opportunity to catch up on gaps. There is also the possibility to
+retake subjects in which the student failed.
+
+Older students often look for jobs over the summer or work as
+volunteers. In the Tenderloin, where I work as a substitute, there
+are currently a bunch of teenagers who are using their vacation to
+help us with the children. Our facility only closes for one week in
+the summer.
+
+<pic images/school2.ps Translation: Drawing and inscription at a
+school. The students are enthusiastic about the teacher.>
+
+But back to school: In elementary school, a teacher instructs the
+basic subjects and may be supported by some specialist teachers. In
+higher grades, students are taught by different teachers (depending
+on the subject) and move from classroom to classroom, because in
+America, it is not the teacher who moves from class to class, but
+rather stays in their own classroom. This is also because teachers
+often keep all their teaching materials at the school. Therefore, the
+teacher designs their own classroom.
+
+In "high school" (usually starting from 9th grade), American students
+encounter a pure course system with a very broad range of subjects.
+The discussion continues in the USA about how much freedom should be
+given to individual students in choosing their subjects. Generally,
+however, every student must complete certain mandatory courses, which
+are supplemented by elective courses. The course system in the USA
+does not strongly commit students to a specific direction regarding
+their future career path. However, almost all high schools offer more
+academically oriented courses that better prepare students for
+attending college or university.
+
+Grades and homework are common almost everywhere in the world,
+including in the USA. However, grades are not expressed numerically
+but with the help of letters: A, B, C, D, F. An A corresponds to the
+best grade, comparable to a grade of one, B is considered good, C is
+closest to a grade of 3, and D to a 4. If a student receives an F, it
+means they have not passed. However, in America, it is considered
+completely unacceptable to demotivate a poor student with bad grades.
+Therefore, hardly anyone receives anything other than an "A" or "B".
+
+In America, teachers are considered regular employees and can be
+dismissed just as quickly as anyone else. Additionally, they earn
+relatively low salaries. In the 2001/2002 school year, the average
+annual salary of a teacher was $44,367, with the starting salary
+averaging only $30,719. For comparison, a bus or subway driver earns
+about the same. Salaries vary significantly from state to state.
+Teachers in the USA have a better reputation than in Germany. You
+often hear stories about particularly dedicated teachers who even
+sacrifice their own money to buy missing materials for their
+students. This must happen quite frequently, as since 2002, teachers
+have been able to deduct a certain portion of these "expenses" from
+their taxes.
+
+<pic images/edison3.ps Edison Charter Schools>
+
+In conclusion, I would like to report on a new American curiosity in
+the school system, the so-called "Charter Schools." Charter Schools
+are considered public schools and are therefore funded by tax
+dollars. However, in this case, the school district or the state
+transfers the educational mandate to the respective school through a
+contract. There are already 2,799 Charter Schools in the USA (428 in
+California), and during the 2002/2003 school year, they educated a
+total of 685,000 students nationwide.
+<LINK>http://www.uscharterschools.org|www.uscharterschools.org</LINK>
+Zeigt Details" translates to "Show details" in English.
+
+Charter schools generally have more freedom than traditional public
+schools. The idea is that this greater freedom leads to more creative
+teaching and better academic performance among individual students.
+In theory, parents or teachers can come together and establish their
+own charter school.
+
+This doesn't sound bad in principle. However, since the early 1990s,
+there has been a trend in America for charter schools to be run by
+companies that not only aim to improve public schools but also want
+to make a profit from it.
+
+One of the most well-known charter school companies is "Edison
+Schools Inc.," which now operates in 20 states. Typically, Edison
+takes over completely run-down public schools. To the company's
+credit, it should be mentioned that money is initially invested in
+the schools. The philosophy of the company's founder, Chris Whittle,
+is that the funds received by traditional public schools are consumed
+by existing bureaucracy, and he believes that through sensible
+management at his schools, he can not only prevent this but also turn
+it into profit.
+
+The profit, however, is still a long time coming -- Edison Schools
+Inc. is facing significant financial difficulties. Critics argue that
+schools should not generate profit at all, as they are funded by
+public money. Many also characterize Edison Schools as a chain
+(essentially the Starbucks of schools), similar to what you would
+find in any American shopping mall, because Edison Schools operate
+with a standardized curriculum that is used in all their schools,
+regardless of regional differences. I personally believe that money
+cannot be made from education and healthcare. It simply doesn't work.
+There will be more on the topic of "school" in the next newsletter.
+
+@Z: San Francisco Local: Subway to the Airport
+
+<pic images/bart1.ps The racing newsletter reporter tests the subway
+to the airport.>
+
+<em>Angelika</em> 
+And here is the local news from San Francisco again. After 30 years
+of debating and planning, the first subway, popularly known as BART
+(Bay Area Rapid Transportation System), finally ran on a newly
+constructed route to San Francisco's airport, SFO, at the end of
+June. This may seem a bit backward to you Europeans. However, those
+who have traveled extensively in the USA know that even major
+airports often lack a subway connection to the city center, let alone
+cities having a reasonable public transportation system. Thus, the
+San Francisco model is considered groundbreaking. As in most American
+cities, the only options to reach the airport until now were by taxi,
+private car, or the so-called "Door-to-Door Shuttle.
+
+Until recently, we always resorted to the latter option, because the
+"Door-to-Door Shuttle," as the name suggests, picks you up right at
+your doorstep. This is especially convenient when traveling with a
+lot of luggage. The "Door-to-Door Shuttle" is a minibus with a
+driver. Since a minibus can accommodate more people who share the
+ride, it makes the trip cheaper. There are several companies in San
+Francisco that offer this service. The whole experience costs between
+12 and 17 dollars per person, depending on the provider, and some
+offer about a 50% discount for additional group travelers. Naturally,
+you also tip the driver. In comparison, a taxi from the airport to
+downtown costs about 37 dollars plus tip, while the subway ride from
+our station, 24th Street, costs 4.60 dollars.
+
+<pic images/bart3.ps The rushing newsletter reporter in the
+"Airtrain" from the Bart to the departure hall>
+
+We Old Europeans immediately tried out this new BART service when we
+set off for the Perl Conference in Portland. With the help of our
+rolling turbo luggage, the journey down the steep 24th Street to the
+subway station was a breeze, and indeed everything went like
+clockwork. The BART zoomed into the brand-new, ultra-modern SFO
+station, then it was up a few escalators to the AirTrain, the
+internal airport train that connects terminals, parking garages, etc.
+In the end, though, we felt a bit like we were in the provinces
+again, because passengers can only reach the terminal for domestic
+departures by passing through the parking garage. We had a good laugh
+about it.
+
+Until next month! Your America Foxes:
+
+The translation of "Michael und Angelika" to English is "Michael and
+Angelika.
+
