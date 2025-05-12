@@ -314,48 +314,44 @@ in a way that would leave any high school teacher stumped.
 
 <pic images/hogan9.ps The television series "Hogan's Heroes">
 
-TODO
-
 <em>Michael</em> 
 Recently, an American colleague told me that as a little boy, he
-always watched "Hogan's Heroes" on TV, a popular and funny early
-evening series about a group of international soldiers in a German
+used to watch "Hogan's Heroes" on TV, a popular and funny early
+evening series about a group of US soldiers in a German
 prisoner-of-war camp during World War II. For research purposes, I
-programmed it into the TiVo--and promptly, the 1960s series was
+programmed it into our TiVo--and what do you know, the 1960s series was
 repeated on some obscure channel at an ungodly hour and successfully
-recorded. The episodes are hilarious!
+recorded by the TiVo. These episodes are truly hilarious!
 
 <pic images/hogan6.ps Hogan and his friends are devising a plan.>
 
-The Germans speak English with a terrible accent, are all extremely
-obedient to authority, and are incredibly stupid. The prisoners, on
+The Germans in the series speak English with a terrible accent, are all extremely
+obedient to authority, and incredibly stupid. The prisoners, on
 the other hand--English, French, and Americans, led by the American
-Colonel Hogan--secretly run the camp. They have secret tunnels to the
-outside, radio equipment, steal tanks, and don't escape only so they
-can continue to spy and pull strings in secret.
+Colonel Hogan--are secretly running the camp. They use hidden tunnels to the
+outside, radio equipment, steal tanks, and won't escape simply because so they
+can continue spying and pulling strings behind the scenes.
 
-<pic images/hogan4.ps Kommandant Klink was tricked again.>
+<pic images/hogan4.ps Colonel Klink was tricked again.>
 
 The German camp commandant Klink (played by a recently deceased
-German named Werner Klemperer) and the good-natured but simple-minded
-Sergeant Schultz often act busy, but ultimately they have given up
+German actor named Werner Klemperer) and the good-natured but simple-minded
+Sergeant Schultz just pretend to care, but ultimately they have given up
 against the cunning prisoners and grant them unusual freedoms. This
 way, if a car with swastika flags and a pompous SS officer arrives,
 they can rely on the camp appearing exemplary.
 
-<pic images/hogan1.ps The translation of "Amerikanische FliegermÃ¼tze
-Ã¼ber deutscher Pickelhaube" to English is "American aviator cap over
-German pickelhaube.>
+<pic images/hogan1.ps American aviator cap over German pickelhaube.>
 
 The typically American historical mix-up is, of course, hilarious:
 Pickelhaube helmets were no longer around in the Second World War,
 and there were probably hardly any commanders like Klink who wore a
-monocle. But, hey, if it's supposed to be German, then go all out;
+monocle. But, hey, if it's supposed to be German, then go all in;
 all that's missing is Oktoberfest!
 
-@Z: Topgetränk
+@Z: Beverage Of The Month
 
-<pic images/icetea.ps The "Hard Ice Tea" from Bison>
+<pic images/icetea.ps "Hard Ice Tea" from Bison>
 
 <em>Michael</em> 
 When you're looking for European groceries in San Francisco or the
@@ -363,8 +359,8 @@ Bay Area in general, you go to "Trader Joe's," an almost alternative
 supermarket chain where lots of happy people stand behind the
 registers, and sometimes the shoppers even help pack their own
 groceries--unheard of! In any case, the store has many things that
-are hardly available elsewhere in America: good German (Cambozola),
-English (Stilton), or French (Roquefort) cheese, excellent beer
+are hardly available elsewhere in America: good German blue cheese (Cambozola),
+English cheddar (Stilton), or French cheese (Roquefort), excellent beer
 (Mendocino Brewing Company, SLO Brewery, Dutch Grolsch, and I even
 spotted Weihenstephaner recently), and unsweetened, whole fruit
 juices.
@@ -373,7 +369,7 @@ In the party scene, it has somehow become common in recent years for
 more and more sugary drinks for adults to flood the market. These
 drinks have an alcohol content similar to beer but also delight the
 taste buds of the fairer sex: for example, "Mike's Hard Lemonade,"
-which tastes quite good, like lemon soda with vodka. As a newcomer on
+which tastes quite good, is lemon soda with vodka. As a newcomer on
 the shelf, I recently noticed "Hard Ice Tea" by the company Bison in
 the flavor "Peach Rooibos" at the "Trader." "Rooibos" is a very
 popular reddish tea-like drink from South Africa, which tastes
@@ -381,27 +377,26 @@ somewhat rougher than conventional black tea, and when mixed with
 alcohol, it develops such an incredibly delicious aftertaste that you
 could drink bottle after bottle. Top product!
 
-@Z: The phrase "BeschÃ¶nigende Begriffe" translates to "euphemistic
-terms" in English.
+@Z: Euphemistic Terms
 
 <em>Angelika</em> 
 I am always fascinated by the ingenuity of Americans when it comes to
 expressing things concisely or vividly and clearly depicting
 situations that can only be described in a roundabout way in German.
-Here, one might recall the Iraq War, during which many euphemisms
+In this context, one might recall the Iraq War, during which many euphemisms
 were used. For example, the military strategy of the bombing campaign
 on Baghdad was described as "shock and awe," and the countries that
 uncritically aligned themselves with Bush were referred to as the
-"coalition of the willing.
+"coalition of the willing."
 
-The American truly excels when it comes to inventing acronyms that
+Americans truly excel when it comes to inventing acronyms that
 make sense on their own, making them easier to remember and
 visualize. A particularly popular area of application is laws or
 other bureaucratic documents. At the end of this year, a new system
 called USVISIT (US Visitor and Immigration Status Indication
 Technology System) will be tested at airports and ports. This
 involves border authorities collecting biometric data from tourists,
-businesspeople, and students (USVISIT = US visit) upon their entry
+businesspeople, and students upon their entry
 into the USA and later recording the time of their departure.
 
 The abbreviation TIPS (Terrorism Information and Prevention System)
@@ -417,7 +412,7 @@ This may initially be due to the fact that there is a subject called
 "Spelling" in school. But the spelling competitions held at local and
 national levels certainly also contribute to its popularity.
 
-Spelling Bees" are what these competitions are called here, where
+"Spelling Bees" are what these competitions are called here, where
 students of all ages compete against each other and have to spell the
 craziest words. A judge provides a word, and the student then spells
 it out from memory. Writing down the word is, of course, forbidden.
@@ -428,8 +423,8 @@ even find in my best dictionary, into individual letters. In 2001, it
 was "succedaneum," whatever that may mean.
 
 Funnily enough, spelling is sometimes used as a secret language
-between parents, caregivers, and teachers when present children, who
-cannot yet read, are not supposed to understand what is being
+between parents, caregivers, and teachers when young children are present who
+cannot yet read, and are not supposed to understand what is being
 discussed: S-E-X is always spelled out in prudish America, as is
 B-U-L-L-S-H-I-T (big nonsense/rubbish). Some people, however, spell
 so quickly that even I, who never went through rigorous spelling
@@ -437,29 +432,26 @@ training, sometimes get confused!
 
 @Z: Water-Fountains
 
-<pic images/foun1.ps The translation of "LÃ¤ssiges AbhÃ¤ngen am
-Trinkwasserbrunnen" to English is "Casual hanging out at the drinking
-water fountain.>
+<pic images/foun1.ps Casual hanging out at the water fountain.>
 
 <em>Angelika</em> 
-For a long time, I have wanted to write about the American "water
-fountains" that are found on every corner here. These small drinking
-water fountains, also known as "drinking fountains," actually look
+For a long time, I have wanted to write about American "water
+fountains" that are found on every corner here. These small
+splashing faucets, also known as "drinking fountains," actually look
 like elevated bird baths. The difference is that you don't drink the
 water from a stagnant basin; instead, you press a small button on the
 side, which causes the water to spout upwards from a tap, allowing
 you to catch it with your mouth.
 
 Drinking water fountains are located in America wherever there are
-many people who might suddenly become thirsty: in schools,
+many people who might suddenly get thirsty: in schools,
 universities, offices, parks, and sports facilities.
 
 Drinking properly from a water fountain is not that easy and requires
 years of practice -- Europeans who did not grow up with it generally
 struggle with it at first.
 
-<pic images/foun2.ps The translation of "Eine 'Water Fountain'" to
-English is "A 'Water Fountain'".>
+<pic images/foun2.ps A Water Fountain>
 
 For hygienic reasons, you should not touch the faucet with your
 mouth. Instead, gently start the water flowing by pressing a button
@@ -475,14 +467,11 @@ people. There were "drinking fountains" for Black people and others
 for white people. The civil rights movement addressed this injustice
 in the 1950s and 1960s. And one thing that surely only exists in
 dog-loving San Francisco should be mentioned here: even Fido is taken
-care of in hot weather. He has his own, lower drinking fountain.
+care of in hot weather. He has his own, lowered drinking fountain.
 However, he can't operate it by himself yet, as his owner has to
-press the button for him to make the water flow. You can see it live
-in Dolores Park in San Francisco!
+press the button for him to make the water flow. You can see it live nearby
+in Dolores Park here in San Francisco!
 
-The translation of "Eure 'Frisco' Kids" to English is "Your 'Frisco'
-Kids.
+Your Frisco Kids!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
