@@ -3,7 +3,6 @@ San Francisco, 08-01-2003
 @Z: Traffic lights in the space age
 
 <pic images/ampel.ps The traffic light counts the seconds: 5, 4, 3 ...>
-TODO
 
 <em>Michael</em> 
 Anyone who has been to America knows that the traffic lights work
@@ -14,7 +13,7 @@ transmissions: No one needs to engage a gear to start driving.
 
 Before the traffic light switches back to red at the end of the green
 phase, there is, of course, a second of yellow so that you can brake
-in time. This is crucial: as soon as one light turns red, the one in
+in time. This is crucial: as soon as the light in one direction turns red, the one in
 the cross direction is already green! There is no grace period like
 in Germany -- if you try to rush through on red, it's not uncommon
 for the first vehicle coming from the side to crash into your side
@@ -22,15 +21,15 @@ door.
 
 However, Americans are notoriously bad drivers, and many of them talk
 on the phone, fiddle with the car radio, or drink coffee, and you
-often see completely absent-minded wrong-way drivers rushing through
-red lights. We've really gotten into the habit of starting cautiously
+often see completely absent-minded ghost drivers rushing through
+red lights. We've really gotten into the habit of driving off very cautiously
 when the light turns green and peeking into the side street to see if
-the cars there are actually stopping.
+approaching cars are actually stopping.
 
 The lack of a grace period also affects pedestrians: They have to be
 extremely careful to make it to the other side before the pedestrian
 light switches from "Walk" to "Stop" -- because then the cars
-immediately (!) get a green light. To give an approximate estimate,
+immediately (!) get a green light. To give an approximate estimate on time remaining,
 an electric hand typically starts blinking at a point when a sporty
 runner can just barely make it to the other side. Older people
 usually stop then, while we young folks switch to 100-meter sprint
@@ -38,59 +37,55 @@ mode.
 
 Of course, the blinking doesn't always help, because each
 intersection has different settings. You have to rely on the traffic
-light technician who measured it at some point. That's why there's
+light technician who measured it at some point. That's why now there's
 something new now: traffic lights with large digital displays that
-count down the number of seconds until "Stop." Brilliant!
+count down the number of seconds until "Stop" appears. Brilliant!
 
-Not only pedestrians love the new technology, but also the drivers
+Not only pedestrians love the new technology, but also drivers
 speeding by in the same direction, who can now peek over and read the
 exact number of seconds before their traffic light turns "yellow"!
 This often makes decisions easier, such as "Should I quickly change
 lanes to overtake the slowpoke in front of me, or can I still make it
 through behind them?" A year ago, these super traffic lights were
-only found sporadically at very wide intersections in San Francisco,
+only found sporadically at very large intersections in San Francisco,
 but now they are popping up everywhere, and everyone is thrilled.
 Bravo, San Francisco!
 
-@Z: Kalifornische Knarrengesetze" translates to "California ratchet
-laws" in English.
+@Z: California Gun Laws
+
+<pic images/hg.ps Popular gun magazine: "Handgunner>
 
 <em>Michael</em> 
 Contrary to the prevailing opinion in Germany, not all Americans walk
 around with a loaded revolver in their belt or shoot into the air
 from car windows after exciting sports events. No, gun ownership and
 use are strictly regulated.
-<RBLINK>20010117#1</RBLINK>
-We have already touched on the theory of American gun laws. Today,
+We have already touched on the theory of American gun laws
+(<RBLINK>20010117#1</RBLINK>). Today,
 let's go over what that looks like in everyday life in California.
 
-<pic images/hg.ps Popular gun magazine: "Handgunner>
-
-This is not so easy, because the regulations vary greatly from state
+This is by no means trivial, because gun regulations vary greatly from state
 to state, are subject to constant changes by the legislature, and are
 then interpreted very inconsistently by the courts. So: Don't sue the
 newsletter editorial team if something isn't exactly correct, but
 rather, in case of doubt, hire a legal bloodsucker of your choice and
-ask for advice.
+ask for professional advice!
 
-In English, the text translates to:
-
-"California distinguishes between two gun regulations: One determines
+California distinguishes between two gun regulations: One determines
 when a weapon can be carried concealed (Concealed Gun Law, CGL), and
 the other pertains to loaded weapons (Loaded Gun Law, LGL). The
-courts apply both laws strictly and separately: For example, someone
+courts apply both laws strictly separately: For example, someone
 who walks into a government building with a loaded revolver in their
-coat will face penalties twice: once for a...
-<em>versteckten</em> 
-The translation to English is: "Weapon, and once because of a
-<em>geladenen</em> 
-The translation to English is: "Weapon. In the legal sense, 'loaded'
+coat will face penalties twice: once for carrying a conceiled weapon,
+and secondly for bringing a loaded gun.
+In the legal sense, "loaded"
 means that the ammunition is in the weapon: it is sufficient for the
 magazine to be inserted in the pistol; it does not matter whether the
 weapon is cocked or the safety is off.
 
-<pic images/rebate.ps Advertisement: This gun is on special offer,
-save 40 dollars!>
+<pic images/rebate.ps Advertisement: This gun is on special offer, save 40 dollars!>
+
+TODO
 
 Almost no one is allowed to walk around in a California city with a
 weapon concealed under their clothing -- not even if it is unloaded.
