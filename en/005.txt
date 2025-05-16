@@ -14,29 +14,26 @@ the deportation plane. So, I took my suit and tie out of the closet,
 coughed a bit because of the dust, rented a car, and went job
 hunting.
 
-TODO
-
 @Z: Successful job search
 
 <em>Michael</em> 
-The Americans are fortunately looking for software developers like
+Currently, employers here in the U.S. are fortunately looking for software developers like
 crazy. The only problem was that for a foreigner like me, between the
 time the company makes a decision and the start of work, the INS
 (Immigration and Naturalization Service) takes months to process and
-produces a huge amount of paperwork. In American companies,
+produces a huge amount of paperwork. At U.S. companies,
 applications usually go like this: "When can you start?" "Tomorrow!"
 "Good!" But AOL was very interested because of my Perl expertise,
 etc., and they provided the lawyer who kept the authorities in check
 - and now I'm here!
 
-<pic images/tshirt.ps Michael works and advertises for America
-Online.>
+<pic images/tshirt.ps Michael works and advertises for America Online.>
 
 AOL Productions, the group I'm with, is working on new developments
 for www.aol.com and some other projects for AOL (not everything,
 there's another department in Virginia, on the East Coast of America,
 that also develops) consists of about 70 people, all based in San
-Mateo, 30 km south of San Francisco. Like everyone else, I sit in a
+Mateo, 20 miles south of San Francisco. Like everyone else, I sit in a
 cubicle (partitioned square in an open-plan office) with a PC and an
 X-terminal. All very nice people, the guy in the cubicle next to
 mine, Mike Gleeson, sat in front of the screen with sunglasses on all
@@ -52,28 +49,29 @@ On Wednesday, there was a company outing to Alcatraz (for those
 unfamiliar with America: the prison on the island off San Francisco).
 Although it's a tourist attraction, most of the locals have never
 been there, just like hardly any Munich residents go to the
-HofbrÃ¤uhaus. When the tour guide there asked where we were from and
+Hofbräuhaus. When the tour guide there asked where we were from and
 the guys said in perfect local dialect, "San Mateo!" he was quite
 surprised and said, "Man, what a drive! Are you tired???
 
-Today was the New Employee Welcome Lunch at TGIF. That stands for
+Today was the New Employee Welcome Lunch at TGIF's. That stands for
 "Thank God it's Friday" and it's a chain that serves really hearty
 American food, really good.
 
-And I have to do Java. My job description says: "Very strong
+And I have to program in Java. My job description says: "Very strong
 understanding of OO-development in Java." Well, that fits perfectly.
 So, you can expect a Java book soon ...
 
 It's a very relaxed atmosphere: No one (not even the boss) wears a
-suit or tie or even a shirt. On my first day, when I parked my bike
+suit or tie or even a button down shirt. On my first day, when I parked my bike
 downstairs, I was asked if I wanted to bring it up to the office like
 everyone else - since then, it stays with me during the day - cool.
 In the morning, I roll it over the carpet in the entrance hall, say
 "Hello" to the receptionist (the first time she said, "Hey, you got a
 bike - cool!") and then continue through the rows of cubicles...
 
-<pic images/bike.ps Michael can no longer keep the bicycle on the
-ground because of its power.>
+<pic images/bike.ps Michael can no longer keep the bicycle on the ground because of its power.>
+
+TODO
 
 @Z: By bike to work
 
