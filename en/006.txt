@@ -1,22 +1,19 @@
 San Francisco, 12-12-1997
 
-<pic images/merry.ps It's Christmas time again>
+<pic images/merry.ps It's Christmas time again.>
 
-Hello, my dears!
-
-@Z: Interim report after one year
-
-TODO
+@Z: Interim Report After One Year
 
 <em>Angelika</em> 
-As the year 1997 comes to an end and Christmas is just around the
+Hello, my dears!
+As the year 1997 comes to an end, and Christmas is just around the
 corner, I want to delight you once again with a newsletter. Around
 this time last year, I started my first newsletter while sitting on
 moving boxes, and since then, I've been diligently reporting on our
 experiences here. Yes, it's hard to believe, but true, Michael has
 been here for over a year now, and I will celebrate my anniversary on
 December 30th. During this time, we've experienced quite a lot,
-gained new experiences, learned a lot, and have become quite familiar
+gained new insights, learned a lot, and have become quite familiar
 with the country and its people. Hopefully, you're not horrified at
 the thought that we've turned into real Americans, whatever that
 means. No, don't worry, I don't walk around with red-painted
@@ -28,21 +25,21 @@ Gottschalk (yes, you read that right), who is known to live in
 Malibu, wrote a pretty funny article on this topic in Spiegel Spezial
 "California," from which I'll quickly quote a few lines:
 
-My mother occasionally grumbles, 'You and your California,' and
+"My mother occasionally grumbles, 'You and your California,' and
 reproachfully adds that someone like me, who has neither wandered
-through RÃ¼gen nor the Masurian avenues, doesn't know what scenic
+through Rügen nor the Masurian avenues, doesn't know what scenic
 beauty is anyway. She also dismisses my repeated point that you can
 buy groceries around the clock in Malibu: Anyone who has their
 thoughts together during the day doesn't need to buy mustard at two
 in the morning... So why? What is the point of Californian existence?
 Probably in the nonsense! If the Romans are crazy, this is a
 madhouse. Almost nothing makes sense, not the weather, not the
-people, not the cars...
+people, not the cars ..."
 
-By the way, the Spiegel magazine is very worth reading. It includes
+By the way, this Spiegel magazine issue is worth reading. It includes
 very good reports about life in California, a good mix of humorous,
 socially critical, and unusual content. So, anyone planning a trip to
-visit us should get the magazine.
+visit us should get a copy.
 
 To return once more to the topic of America versus California versus
 San Francisco: When you have settled in San Francisco, you become a
@@ -60,7 +57,7 @@ advantages, such as fantastic views, with the view from our apartment
 topping the Top 10 list (those who visited us this year know what I
 mean), great restaurants, good weather, people of all skin colors and
 cultures, the Golden Gate Bridge, the ocean, funny colorful houses,
-crazy shops... you see, it's quite easy to enjoy life here.
+crazy shops ... you see, it's quite easy to enjoy life here.
 
 Many people have been asking us lately when we will be returning to
 Germany. First of all, we still have every intention of doing so. Our
@@ -73,6 +70,8 @@ say, "we'll see." A lot also depends on my situation. At the moment,
 I am very satisfied with how I spend my days (courses, working in the
 Tenderloin), but at some point, I would like to work properly again,
 which means for money.
+
+TODO
 
 Many of you have also asked when we will visit Germany again. That is
 still uncertain. It mainly depends on whether Michael will come
