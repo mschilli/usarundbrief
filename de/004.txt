@@ -359,7 +359,6 @@ Aktivitäten verlegt, bei denen man natürlch auch
 kräftigst Englisch sprechen muss und sicher auch lernen 
 kann.
 
-<CONFIDENTIAL>
 Dann habe ich, so glaube ich, noch nicht davon berichtet, 
 dass ich seit einiger Zeit private Übersetzungen vom 
 Englischen ins Deutsche mache. Der Kontakt ist über fünf 
@@ -372,14 +371,14 @@ einem Containerschiff mit deutscher Besatzung gereist und
 hat sich nun eingebildet, dass sie ihre Briefe für die 
 Deutschen auch auf deutsch haben möchte, obwohl 
 diejenigen, denen sie schreibt, ziemlich gut die englische 
-Sprache beherrschen. Mir soll es recht sein, denn so 
-verdiene ich schwarz etwas Geld. Es hat sich jetzt auch 
+Sprache beherrschen. Es hat sich jetzt auch 
 noch herausgestellt, dass sie in einen der Matrosen 
 verliebt ist und nun möchte sie unbedingt, dass ich ihr 
 die deutsche Sprache näher bringe. Auf jeden Fall scheint 
 bei der Frau Geld keine Rolle zu spielen und mir ist auch 
 geholfen, weil ich mein Englisch wieder aufpolieren kann.
-</CONFIDENTIAL>
+
+@Z: Timber Cove
 
 <pic images/jenner.ps Am Meer bei Timber Cove.>
 
