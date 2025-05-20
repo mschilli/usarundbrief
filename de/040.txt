@@ -1,9 +1,9 @@
 
-<pic images/rtemp.ps Koya-san/Japan>
-
 San Francisco, den 02.06.2002
 
 @Z: Endlich Japan
+
+<pic images/rtemp.ps Koya-san/Japan>
 
 <em>(Michael)</em>
 Endlich haben wir's geschafft: Nach intensiven
