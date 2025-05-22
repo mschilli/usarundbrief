@@ -47,23 +47,22 @@ on a Monday, giving you a long weekend.  The downside, of course, is that
 everyone hits the road, and it gets a bit crowded everywhere, but you have to
 deal with that.
 
-TODO
-
-@Z: The American tax return
+@Z: The American Tax Return
 
 <pic images/steuer.ps Angelika prepares the tax return for 1997.>
 
 <em>Angelika</em> 
-Besides the tedious "book" story, a second not-so-thrilling topic has
+Besides the tedious "Perl Book" story, a second not-so-thrilling topic has
 demanded quite a few night shifts: namely, filing our American tax
-return. First of all, I want to clear up some misconceptions that
+return. First of all, I want to clear up some misconceptions by Germans that
 seem impossible to eradicate: Firstly, you do pay taxes in America,
 and they are not necessarily lower than in Germany. However, it is
-true that you pay less in social contributions (pension insurance,
+true that you pay less in social security contributions (retirement insurance,
 health insurance, unemployment insurance), but it should be
 considered what price Americans have to pay for this, namely that
-millions are uninsured and that unemployment and pension insurance
+millions are uninsured and that unemployment and social security
 are rather a joke, not providing sufficient security in emergencies.
+
 Secondly, filling out the American tax return is at least as
 complicated as the German one, contrary to the belief that everything
 here is simpler and less bureaucratic. With the forms, you get the
@@ -75,8 +74,10 @@ and documents out the window. This year, I had the honorable task of
 filling out the documents. Michael had a good excuse because of his
 book (Next year, I'll write a book too!). Moreover, he enticed me
 with the argument that the daughter of a tax advisor should be able
-to handle this with ease and that I am much more conscientious than
-he is, etc., etc. I didn't even know what qualities I had. So, I bit
+to handle this with ease and that I am much more thorough than
+he is, etc., etc. I didn't even know what qualities I had.
+
+So, I bit
 the bullet, read all the tax books, and spent nights brooding over
 the forms. You might now want to know why we, as Germans, are paying
 taxes in America at all. This is actually a matter that is quite
@@ -86,36 +87,36 @@ German book earnings). The same goes for an American living in
 Germany for 183 days; they have to tax everything in Germany. This
 regulation seems to have been invented by someone with common sense.
 You might also wonder why we didn't just have an American tax advisor
-do our tax return. We would have loved to, after all, they want to
-earn something too. But our German friends who also live here
-strongly advised against it because no one understands it anymore
-once you say you also earn something in Germany.
+do our tax return. We would have loved to, and after all, they want to
+make some money too. But our German friends who also live here
+strongly advised against it because none of them can handle
+foreign income from Germany to be taxed in the U.S.
 
 It's also funny that every American and Resident Alien (that's what
-we're called in bureaucratic American; it reminds me a lot of E.T.,
+we're called in bureaucratic English; it reminds me a lot of E.T.,
 and often you do feel like an alien from another planet) has to
 submit their tax return by April 15th. Since most Americans have
 quite a horror of tax returns (I understand that well), many follow
 the strategy of postponing this unpleasant topic as long as possible.
 So, shortly before the 15th, you see people in the subway filling out
 their forms on their knees, many post offices are open until midnight
-on the 15th, as are the tax advisor offices. There are often parties
-to celebrate the submission of the tax return, and our American
-friend Anne told us that on the weekend after the 15th, all the
+on the 15th, as are the tax advisor offices, for last minute submissions. There are often parties
+where people celebrate successful submitting their tax return, and our American
+friend Anne told us that on the first weekend after the 15th, all the
 restaurants are full because people finally have time to go out
-again. What's also different here compared to Germany is that you
+again. What's also different here in the U.S. compared to Germany is that you
 don't have to send in receipts, and only 5% of tax returns are
 audited. 5% is, of course, vanishingly small, and so everyone hopes
 that their return won't be audited and that they won't end up in the
-so-called "audit." The only problem is, if you do get audited, you're
+grueling audit. The only problem is, if you do get audited, you're
 in for it, as everything is thoroughly checked, and the authorities
-can trace back up to three years. The more complicated your tax
+can trace back previous submissions, up to three years. The more complicated your tax
 situation is, the more likely you are to be audited. So, we have
 pretty good chances, which only led Michael to remark: "You have to
 experience everything once." Well, I don't know, I can certainly do
 without that.
 
-Regarding the issue with the receipts, I've heard some of the most
+Regarding the receipts issue, I've heard some of the most
 adventurous stories here. Since it's relatively unlikely to be
 audited, many Americans claim deductions for things they don't
 actually have receipts for. However, during an audit, you have to
@@ -124,8 +125,7 @@ lost their receipts in a house fire, or a popular excuse in
 California after the big earthquake in 1989 was that everything was
 lost due to this natural disaster. It's only embarrassing when people
 mix up the dates and claim they have no receipts for things that
-happened long after the earthquake, which apparently happened quite
-often.
+happened long after the earthquake, which allegedly happened in many cases.
 
 After Michael and I were already firmly convinced that nothing could
 surpass the bureaucracy regarding American taxes, the publisher for
@@ -134,19 +134,19 @@ the melodious name "Application for the Issuance of a Certificate of
 Exemption for Royalties and Similar Payments under the Double
 Taxation Agreement between the Federal Republic of Germany and the
 United States of America." This means we have to fill out this form
-and send it to the Federal Office of Finance so that we don't have to
+and send it to the Federal Office of Finance in Germany so that we don't have to
 pay taxes twice, in both Germany and America. The fact that there is
 already an agreement between the two countries that clearly regulates
 this situation (see the 183-day rule) seems not to have reached the
 relevant authorities, and so they produce unnecessary piles of
-paperwork, driving little Angelika and little Michael to the brink of
+paperwork, driving little Angelika and Michael to the brink of
 madness. The ultimate joke is that, of course, you also need a
 confirmation from the American tax office proving that we are taxable
 here. The friendly German text informs you of this (to understand
 which, you need a degree in public administration). After reading it
-several times, Michael and I finally understood that we need to fill
-out the American form 6166, which you get from the American tax
-office. So Michael called there at seven in the evening and actually
+several times, Michael and I finally understood that we needed to fill
+out U.S. tax form 6166, which you get from the American IRS.
+So Michael called there at seven in the evening and actually
 reached someone, which is a clear difference from the German
 authorities. The friendly lady on the other end of the line then
 informed him that this form has not existed for five years, but she
@@ -156,18 +156,19 @@ one might sometimes feel like biting the telephone receiver out of
 frustration. It really makes you wonder whether buzzwords like
 "globalization" and "flexibility" can be taken seriously or if it's
 really about encouraging people to stay in their own country. Or as
-the clerk at the Techniker Krankenkasse so nicely put it when we
-moved to America and I wanted to clarify something in this regard:
-"You don't have to go abroad!
+the clerk at the Techniker Krankenkasse (our German health insurance) so nicely put it before we
+moved to America and I had some questions on the implications:
+"You don't have to go abroad!"
 
 If you've lost the thread during the whole description and can't see
 through it anymore, take comfort in the fact that we felt and feel
 the same way.
 
-<pic images/rainbc.ps Again the beautiful rainbow -- well, it was
-really beautiful!>
+@Z: Social Services in California
 
-@Z: Social institutions in California
+<pic images/rainbc.ps Again the beautiful rainbow -- well, it was really beautiful!>
+
+TODO
 
 <em>Angelika</em> 
 Otherwise, this semester I have come a good deal closer to my goal of
