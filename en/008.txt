@@ -168,8 +168,6 @@ the same way.
 
 <pic images/rainbc.ps Again the beautiful rainbow -- well, it was really beautiful!>
 
-TODO
-
 <em>Angelika</em> 
 Otherwise, this semester I have come a good deal closer to my goal of
 obtaining the continuing education certificate "Children and the
@@ -188,7 +186,7 @@ Moreover, she has been married four times and has thus raised her own
 children and "stepchildren." The course was mainly about learning the
 normal phases this new family goes through and how to professionally
 support them to make living together easier. In the USA, there is
-already a lot of research on this topic, and the course leader is
+already a lot of research on this topic, and the course teacher is
 considered an expert in this regard. What made it so enjoyable was
 that this woman was not only an excellent teacher but also conveyed
 the topic with a lot of enthusiasm and conviction. Despite the
@@ -210,7 +208,9 @@ California is one of these more liberal states. Additionally,
 California is a wealthy state and is therefore willing to spend more
 on the socially disadvantaged. However, even in California, there are
 cuts and savings everywhere, so many effective and preventive
-programs are no longer funded. For this course, we had to do very
+programs are no longer funded.
+
+For this course, we had to do very
 meaningful "assignments" ("homework"). Since the goal was to learn as
 much as possible about the various social institutions, we had to,
 for example, gather information about institutions in the
@@ -218,9 +218,9 @@ neighborhood where we work or live. Another time, we were given a
 case study in which a mother with three children was homeless. We had
 to find out what assistance was available for this family in San
 Francisco. It was not enough to list various institutions; we had to
-call the individual institutions and ask detailed questions, such as
-how long the waiting time is to get a place in a homeless shelter.
-Initially, I was skeptical that the relevant institutions would even
+call the individual providers and ask detailed questions, such as
+how long the waiting time is to get a place at a homeless shelter.
+Initially, I was skeptical that the relevant providers would even
 take the time to answer my questions. However, I had consistently
 positive experiences. People were always very enthusiastic that I, as
 a foreigner, was taking such a course and patiently answered all
@@ -245,27 +245,27 @@ children if admission to such an institution is necessary. In
 summary, one can say that the goal is integration. Whether a child
 receives special education is decided by a multidisciplinary team of
 the school authority. The law actually sounds quite promising.
-Unfortunately, no one considered who would bear the enormous costs
+Unfortunately, no one thought about who would bear the enormous costs
 necessary to properly implement this law. Thus, in practice, the
 integration of these children does not look so rosy. There is a lack
 of well-trained teachers, and the quality of support again depends
 heavily on the individual state.
 
-I am also determined to volunteer again in a special class or
-facility, just to gain a better insight. So, enough about my courses.
-Just this much: Next semester, I have enrolled in four courses again.
-However, this time there is also a photography course included. As
-you can see, there's no chance of getting bored. After all, I
-continue to go to the childcare facility in the Tenderloin twice a
-week.
+I am also determined to volunteer again in a special class or facility, just to
+gain a better insight. So, enough about my courses.  Just this much: Next
+semester, I have enrolled in four courses again.  However, this time there is
+also a photography course included. As you can see, there's no chance of me
+getting bored. After all, I continue to go to the childcare facility
+volunteering in the Tenderloin twice a week.
 
-@Z: Election campaign for the governor's office
+@Z: Election Campaign For the Governor's Office
 
 <em>Angelika</em> 
 Since I touched on the topic of "media" in my last newsletter, I want
 to entertain you today with some stories related to it. First of all,
 not only is there an election campaign going on in Germany, but a new
 governor (something like a prime minister) is also being elected in
+the state of
 California. There are three Democratic candidates in the race and one
 Republican (a Republican is from the conservative party; please do
 not confuse them with the right-wing Republicans in Germany). Now,
@@ -273,18 +273,18 @@ one might think that the Democrats would unite against the Republican
 candidate. Wrong. The three Democratic candidates are engaging in
 real mudslinging battles on television. The election commercials are
 no longer about what political program each candidate has, but only
-about the insults one has said about the other. All of this is done
+about the insults one has hurled at the other. All of this is done
 with name-calling, which is not prohibited in America due to freedom
 of speech. It's a real circus. It's also alarming that each of the
-candidates boasts about being in favor of the death penalty and
+candidates boasts being in favor of the death penalty and
 wanting to take a tougher stance against criminals. Mind you, I'm
 talking about the Democrats, who are generally considered liberal.
 Very strange. It's roughly like the Greens suddenly advocating for
 lowering gasoline prices.
 
-@Z: Seinfeld comes to an end.
+@Z: Seinfeld Comes To an End
 
-<pic images/seinfeld.ps From our favorite TV show "Seinfeld>
+<pic images/seinfeld.ps From our favorite TV show "Seinfeld">
 
 <em>Angelika</em> 
 And yet another once-in-a-century event will take place next week in
@@ -298,7 +298,7 @@ appealing:
 First of all, the show is an American "sitcom." This is a program
 that is broadcast daily for half an hour, always set in the same
 environment, usually with the same actors. In other words, something
-similar to your "LindenstraÃe." A hallmark of "sitcoms," which are
+similar to your "Lindenstraße" A hallmark of "sitcoms," which are
 considered funny, is that laughter is played from a tape, which is
 totally annoying, but that's another topic. "Seinfeld" is about the
 New York comedian Jerry Seinfeld, who plays himself, and his neurotic
@@ -317,7 +317,7 @@ entertainingly showcases the dark side of people. We particularly
 like that the show brutally mocks American society, which might also
 explain why Seinfeld wasn't successful in Germany. You only
 understand it if you live here. By the way, Seinfeld is so popular
-here that people tell the jokes at parties and at work. Usually, just
+here that people tell the show's jokes at parties and at work. Usually, just
 a keyword is enough, and everyone around bursts into laughter. For
 example, if you don't know what "yada-yada-yada" means, you're out.
 "Yada-yada-yada" means something like "etc. etc." You even read it in
@@ -328,8 +328,6 @@ what you're missing.
 So, enough chatting for now! Michael will write something next time
 as well, promise!
 
-So long" is an informal way of saying "goodbye" in English.
+So long!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
