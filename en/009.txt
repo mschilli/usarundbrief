@@ -15,17 +15,15 @@ life's work and finally finished the second edition of his book: In
 July, "GoTo Perl 5" will hit the stores, may it delight the readers
 and make the cash registers ring!
 
-TODO
-
-@Z: The Joys of Drivers in San Francisco
+@Z: Joy Of Driving in San Francisco
 
 <em>Michael</em> 
-That leaves time to go out again on the weekend! We still don't have
-a car, but our friend Peter, who lives five streets away and owns a
+That leaves time for going out again on the weekends! We still don't have
+a car, but our friend Peter, who lives five blocks away and owns a
 Voyager minivan, is currently in Germany. The thing is, you can't
 just leave a car parked on the street in San Francisco for a few
-weeks: every street is cleaned on a different weekday at a time
-indicated by a street sign. If a car is parked on the designated side
+weeks: every street is cleaned on a different weekday, at a time
+indicated by a street sign. If a car is parked on this particular side
 of the street during cleaning time, the street sweeper simply goes
 around it--that's not the problem--but unfortunately, it's always
 accompanied by a ticket officer who mercilessly issues $25 fines! So,
@@ -33,56 +31,50 @@ at the moment, we have the honor of constantly moving Peter's car,
 and--as a practical side effect--a means of transportation. Last
 weekend, we went to the beach at Half Moon Bay, and this weekend to
 Point Reyes, which was very nice! Unfortunately, Peter's car has a
-flaw: when stuck in traffic, it starts to smoke from the exhaust. You
+flaw: when stuck in traffic, it starts to emit blue smoke from the exhaust. You
 should know that Americans place great importance on low emissions,
-and they had catalytic converters as standard before the word was
+and they have had catalytic converters as standard since before the word was
 even known in Germany. Smelly cars are dealt with swiftly: anyone who
 sees one can call a free 1-800 number to "report" the car--the owner
-then receives a form from the DMV, where they must check whether a)
+then receives a form from the DMV, where they must check whether A)
 they were not at the specified location at the specified time, so
-it's obviously a mistake, or b) the car has already been repaired. If
+it's obviously a mistake, or B) the car has already been repaired. If
 you drive through poor neighborhoods like the "Mission" around the
 corner from us, no one cares, as every car smokes, but if you're in
 "Tiburon," "Sausalito," or "Palo Alto," where all the suburban snobs
 live, you get "reports" constantly--Peter alone has already received
-three. It's becoming noticeable to keep checking a)! That's why over
+three. It's becoming noticeable to keep checking option A! That's why, over
 the weekend, we desperately tried to avoid any traffic jams and drove
 an extra hundred kilometers just to prevent the car from smoking.
 Yes, we're now also considering getting our own car!
 
-<pic images/exhaust.ps The toll-free 1-800 number for reporting
-smelly cars.>
+<pic images/exhaust.ps The toll-free 1-800 number for reporting smelly cars.>
 
-I still commute to work by bike and train, and recently, as I was
-pedaling up the hill in San Mateo, a delivery van overtook me, and
+I'm still commuting to work by bike and train, and recently, as I was
+pedaling up a hill in San Mateo, a delivery van overtook me, and
 there was a dull thud that almost startled me! Then I saw that it was
-the paperboy, who drives past the bungalows at a speed of 20 km/h,
+the paperboy, driving by the single homes at a speed of 20 km/h,
 throwing the daily newspapers, wrapped in plastic covers, into the
 driveways every five seconds. Wroom -- Tok! Wrooom -- Tok! Wroom --
-Tok! Since Americans don't care about having the newspaper in the
+Tok! Since Americans don't insist on having the newspaper in the
 mailbox and aren't bothered if it ends up half under a parked car or
 near abandoned children's toys, the paperboy manages an average of 12
 newspapers per minute. Clever!
 
-@Z: Hire und Fire" is a German phrase that translates to "hire and
-fire" in English. It refers to a management practice where employees
-are hired and dismissed quickly based on the company's immediate
-needs, often without long-term job security.
+@Z: Hire und Fire
 
 <em>Michael</em> 
-Here's the translation of the text into English:
-
-"Recently, I also found out how one gets fired at AOL: My cubicle
-neighbor JimmiBob got a visit from the HR manager at noon, and
+Recently, I also found out how one gets fired at AOL: My cubicle
+neighbor Jimmi got a visit from the HR manager at noon, and
 eventually, he had to pack his things into a box under supervision
-and take off! Boom! Fired within an hour! Not because of any
+and take off! Boom! Fired within the hour! Not because of any
 particular incident, just a small restructuring in the department,
 and the position was redundant! I was very surprised because I had
-only heard such stories secondhand. For example, from the company
-TRW, where a meeting was called on a Friday afternoon, attended by a
+only heard such stories secondhand. For example, from the American company
+TRW we used to collaborate with in Germany, where a meeting was called on a Friday afternoon, attended by a
 number of security personnel who escorted the employees of an entire
 department to their workstations, had them pack their things, and
-then led them out of the building. Life is tough! Now, JimmiBob at
+then led them out of the building. Life is tough! Now, Jimmi at
 AOL wasn't exactly a star performer -- but believe me, I've seen much
 bigger slackers in German companies! That's just how it is in America
 -- hire and fire, but on the other hand, you can get a new job within
@@ -90,13 +82,14 @@ a few days. But no worries -- Michael, the super-hacker, is currently
 involved in the company's most important project, soon to be on the
 internet!
 
-<pic images/ggsnow.ps A picture from Angelika's photography course --
-developed by herself in the darkroom.>
+<pic images/ggsnow.ps A picture from Angelika's photography course -- developed by herself in the darkroom.>
 
 @Z: Wines of California
 
+TODO
+
 <em>Michael</em> 
-As Angelika already hinted, I also took a course after Angelika has
+As Angelika already pointed out, I also took a course after Angelika has
 been going in and out of Berkeley University as if she were at home
 there. The course is called "Wines from California and Europe." On
 Tuesdays from seven to ten in the evening, the teacher first shares
