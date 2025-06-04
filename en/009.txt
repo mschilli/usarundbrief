@@ -86,10 +86,8 @@ internet!
 
 @Z: Wines of California
 
-TODO
-
 <em>Michael</em> 
-As Angelika already pointed out, I also took a course after Angelika has
+As Angelika already pointed out, I also took a class, after Angelika has
 been going in and out of Berkeley University as if she were at home
 there. The course is called "Wines from California and Europe." On
 Tuesdays from seven to ten in the evening, the teacher first shares
@@ -108,7 +106,7 @@ cheeky American exclaimed, "Horrible, liverwurst!" That made everyone
 laugh a lot. By the way, the most expensive wine that has been
 featured so far, a French "Sauternes," a delicious dessert wine, cost
 a whopping 42 dollars, which is 76 marks per bottle! Fortunately,
-that was included in the course fee.
+the samples are included in the course fee.
 
 @Z: Laser-Tag
 
@@ -138,16 +136,14 @@ game ends, you receive a computer printout listing how many times you
 hit each opponent and what rank you held within your team. In one of
 the four rounds, I took a lot of hits because I was determined to
 destroy the enemy headquarters, and the printout promptly said:
-"You're real cannon fodder.
+"You're real cannon fodder."
 
-<pic images/foofi.ps The (newsletter-writing) "FooFighter" won this
-laser tag round.>
+<pic images/foofi.ps The (newsletter-writing) "FooFighter" won this laser tag round.>
 
-@Z: Arbeiten von zu Hause" translates to "working from home" in
-English.
+@Z: Working From Home
 
 <em>Michael</em> 
-In the meantime, I only work three days a week in the office: Monday,
+In the meantime, I only work three days a week at the office: Monday,
 Wednesday, and Friday. On Tuesdays and Thursdays, I get to work from
 home; "telecommuting" is the big buzzword, which could best be
 translated as "commuting by phone." This saves me a 30-kilometer
@@ -155,7 +151,7 @@ commute from San Francisco to San Mateo and is being used by more and
 more Americans who work on the phone or computer all day anyway.
 Since we have a second phone line (which costs only $15 a month) and
 local calls are free here, I can play around on the company's
-computer via the internet all day and develop my programs. Once, at
+computer via the internet all day and develop my source code. One day, at
 midnight, the date on www.aol.com was incorrect, so I logged into the
 super-secure internal network from home and uploaded a corrected
 webpage. Considering that this page is viewed by more than 10 million
@@ -168,18 +164,17 @@ unusual for voices of people who are not on-site to come from a
 speaker in the conference table. At home, it all looks like this: I
 leisurely get up at nine in the morning and initially sit at the
 computer unwashed -- much to Angelika's delight -- in my old jogging
-pants. Once the first part of the work is done and everything is
+pants. Once the initial part of my daily work is done and everything is
 running smoothly, I eventually take a leisurely shower and have
 breakfast. At lunchtime, I get a burrito from the Mexican place on
 Tuesdays and a salami sandwich and sushi from the supermarket on
 Thursdays. I casually stroll up 24th Street in shorts, greeting the
 shop owners who know us well. In the afternoons, I like to take a
-bath in between... my dream would be to participate in a meeting from
+bath in between ... my dream would be to participate in a meeting from
 the bathtub someday, but unfortunately, we don't have a cordless
-phone yet...
+phone yet ...
 
-@Z: Arbeiten in Amerika" translates to "Working in America" in
-English.
+@Z: Working in America
 
 <em>Michael</em> 
 Recently, AOL had its semi-annual "Performance Review," the
@@ -201,9 +196,9 @@ become much more moderate; an important American principle is to
 always highlight the positive aspect of a situation and mention the
 negative in passing, so as not to discourage people! This is also why
 schools are sparing with bad grades, and even those who only manage
-to get a high school diploma (which is like a comprehensive school)
-already get a graduation cap. An American would never say, "I can't
-do it," they would try in any case, and I do think that's a
+to get a high school diploma already get a graduation cap.
+Americans would never say, "I can't
+do it," they would try it in any case, and I do think that's a
 significant part of the economic success here in Silicon Valley.
 Especially in the software industry, things sometimes seem endlessly
 difficult when you tackle them. Oh dear! That's what the guy at
@@ -213,21 +208,21 @@ eventually, it works out. Not right away, but after all, delivery
 dates can be postponed.
 
 An important American principle that people in Germany should not
-hesitate to consider is that holidays falling on the weekend are not
+hesitate to consider is that holidays falling on a weekend are not
 simply lost, no, no! When Germans are once again annoyed that May 1st
 falls on a Sunday, Americans can only laugh about it -- if the
 American national holiday, July 4th, falls on a Saturday, then Friday
 is a day off. Hooray! Holidays are, of course, primarily used for
 shopping -- when else do you really have time? The stores are, of
 course, open all day and lure people in with super bargain offers --
-and they send out flyers for proper preparation until the mailbox is
+and they send out flyers leading up to the date until the mailbox is
 overflowing.
 
-@Z: Belohnungsreisen
+@Z: Travel Rewards
 
 <em>Michael</em> 
 To ceremoniously end the book stress, Angelika had planned two trips
-for us: First, with a rental car to Napa Valley, where we visited
+for us: First, driving to Napa Valley in a rental car, where we visited
 some wine producers that were still unknown to us during the day
 (there aren't many left, as we already know most of them) and checked
 into a small, cozy hotel with an open fireplace in the room. In the
@@ -239,47 +234,43 @@ certainly one of the top three dishes of my life. We added a bottle
 of wine from the excellent Hess Collection, and although the credit
 card winced in pain, the evening was truly an experience.
 
-The second reward trip went to the Los Angeles area: not by car, but
+On the second reward trip, we went to the Los Angeles area: not by car, but
 by the Amtrak train "Starlight Express," which runs from Seattle to
 San Diego along the west coast of the USA and therefore also passes
 by Big Sur, south of San Francisco.
 
-<pic images/amstat.ps At the train station in Oakland, where the
-Amtrak train from Seattle to Los Angeles passes through.>
+<pic images/amstat.ps At the train station in Oakland, where the Amtrak train from Seattle to Los Angeles passes through.>
 
 Train travel is completely unpopular in America -- those who want to
 travel prefer to take a plane due to the large distances. At Amtrak,
 a conductor approaches you on the platform, shows you where you can
-board, and another places a small bridge at the entrance so you don't
+board, and another worker places a small bridge at the door so you don't
 injure yourself on the 20cm high step. The seats in "Coach" (standard
-train car) are significantly wider than the first-class seats we have
+train car) are significantly wider than the first-class seats in Germany,
 and are spaced so far apart that you can comfortably stretch out your
 legs, completely! Of course, there are dining cars and, as a special
 feature, an observation car where the seats are not facing forward
-but towards the floor-to-ceiling windows. There, with a bottle of
+but towards the floor-to-ceiling side windows. There, with a bottle of
 wine again, we spent several hours just watching as the Pacific waves
-crashed against the cliffs.
+were crashing against the cliffs.
 
-<pic images/traincoast.ps The Amtrak winds along the coast. On board:
-Angelika and Michael.>
+<pic images/traincoast.ps The Amtrak train winding along the coast. On board: Angelika and Michael.>
 
 Upon arriving in Oxnard (near L.A.), we spent the night at a motel
 and the next day we crossed over to the Channel Islands, offshore
 islands that are completely uninhabited and where you can enjoy
 hiking. We were brought ashore from the ship with a dinghy.
 
-<pic images/channel.ps Abandoned with the inflatable boat on the
-Channel Islands>
+<pic images/channel.ps Abandoned with the inflatable boat on the Channel Islands>
 
 The boat tour there takes just 2 hours, and we saw a Fin whale that
 was surely 10 meters long and dozens of cute dolphins that swam
 alongside the boat and jumped around in the bow waves. The next day,
-we took the Amtrak back -- after all, it was just a weekend. With the
+we took the Amtrak back -- after all, it was just a weekend trip. With the
 ten days of vacation per year that you get here in America, we have
 to be frugal.
 
-<pic images/amgirl.ps Photographed from a moving train at a station
-along the route>
+<pic images/amgirl.ps Photographed from a moving train at a station along the route>
 
 After Angelika is "totally" stressed out because of her many courses,
 she can't contribute anything this time! The fine lady has even taken
@@ -293,11 +284,9 @@ university, she is now allowed to use a lab and work with chemicals
 as long as the course lasts, until finally the first black-and-white
 prints are produced. Of course, it's not entirely without risk: the
 other day, she ended up with a bump on her head because she ran into
-a wall in the dark, hahaaaa... In the meantime, the first prints are
+a wall in the dark, hahaaaa ... In the meantime, the first prints are
 already finished, and they turned out really well, yes indeed, the
-lady photographer, soon to be seen in the Ansel Adams Museum...
+lady photographer, soon to be seen at the Ansel Adams Museum...
 That's it for today! Take care! Keep in touch!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika and Michael
