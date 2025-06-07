@@ -85,8 +85,6 @@ weapon is cocked or the safety is off.
 
 <pic images/rebate.ps Advertisement: This gun is on special offer, save 40 dollars!>
 
-TODO
-
 Almost no one is allowed to walk around in a California city with a
 weapon concealed under their clothing -- not even if it is unloaded.
 Anyone caught doing so (and not falling under the exceptions
@@ -107,26 +105,26 @@ one's own garden, a rented motel room, or a campsite. Store owners
 loaded weapon in their store. As a small legal peculiarity, one is
 not allowed to walk around with a weapon concealed under clothing in
 their own driveway. The weapon may be hidden in the "home," but not
-"on the person.
+"on" the person.
 
 U.S. citizens who are at least 18 years old are allowed to transport
-firearms in a car, provided they are unloaded and stored in a locked
+firearms by car, provided the latter are unloaded and stored in a locked
 container (not in the glove compartment!). Those who reside in the
 U.S. but do not hold U.S. citizenship may only transport firearms in
 a car on a direct route between locations with special exemptions
 (for example, from home to a shooting club where they are a member,
-or from the gun dealer where the firearm was purchased to the office
-they own).
+or from the gun dealer where the firearm was purchased to their own home
+or office).
 
 <pic images/uhose.ps Advertisement: The Ballermann in the Underpants>
 
-Let's assume a store owner has a loaded gun in his drawer. If he
+Now, let's assume a store owner has a loaded gun in a drawer at the store. If he
 drives home in the evening and wants to take the gun with him, he
-must remove the magazine with the bullets and place the gun in a
-portable, lockable box and lock it. When carrying both to the car, he
-must either carry the magazine with the bullets openly (otherwise it
+must remove the magazine with the rounds and place the gun in a
+portable, lockable box and lock it. When transporting both ammo and gun in the car, he
+must either carry the magazine with the rounds openly (otherwise it
 would be a violation of the "Concealed Gun Law," as the magazine is
-part of the weapon) or remove the bullets and lock the magazine in
+part of the weapon) or remove the rounds and lock the magazine in
 the box as well. Once home, the store owner is allowed to take the
 gun from the car into the house and load it there. However, he must
 ensure that his children cannot access it.
@@ -138,14 +136,14 @@ like government buildings, schools, or airports. (Editor's note: This
 was the situation in 2003; since January 1, 2012, this is no longer
 the case. Governor Jerry Brown signed a law in October 2011 that
 equates carrying unloaded weapons with loaded ones.) However, if the
-weapon is loaded, you are not allowed to take it onto the street,
+weapon is loaded, you are not allowed to take it outside,
 even if you carry it openly. Rifles are not covered under the CGL, as
 they are very difficult to conceal under clothing, but they are
 covered under the LGL: No one is allowed to stand on the street with
 a loaded rifle.
 
 Anyone openly carrying a weapon can be checked by the police at any
-time. This is usually prohibited for police officers in the USA -- if
+time. Searches are usually prohibited for police officers in the USA -- if
 someone hasn't done anything wrong, no one is allowed to even ask for
 their ID. "Routine checks" like in Germany would be illegal. However,
 if a police officer sees someone carrying a weapon, they are allowed
@@ -158,7 +156,7 @@ yourself, and other people against villains. It is important to note
 that there is no obligation to retreat if a confrontation could be
 avoided by doing so. However, you are only allowed to shoot if there
 is an immediate threat to the life and limb of individuals from the
-villain. If a thief is escaping through the window with a TV under
+villain. If a thief is escaping through the window with your TV under
 their arm, it would be a crime to shoot after them. However, if the
 thief is attacking with a baseball bat, you are allowed to shoot.
 
@@ -167,21 +165,22 @@ to determine which regulation applies in which case. Hardly any
 resident of California (except perhaps the police and professional
 gun dealers) knows these rules exactly. I bought the now out-of-print
 book "How to Own a Gun in California and Stay Out of Jail" by John
-Machtinger, who compiled all the important facts back in 1999. Very
-nice!
+Machtinger, who compiled all the important facts back in 1999. It's very
+well and precisely written.
 
-For the pictures in the newsletter, I specifically bought two gun
+For our illustratinos in the newsletter, I specifically bought two gun
 magazines from our local newsagent around the corner. To my
-astonishment, the tiny shop had a whopping ten different magazines.
-The seller said that he doesn't sell much in this neighborhood, and
+astonishment, the tiny shop had a whopping ten different gun magazines.
+The owner told me that he doesn't sell many in this neighborhood, and
 he always puts them on the top shelf so that small children can't
 reach them. He probably thinks I'm a gun enthusiast now, but I'll
 have to live with that.
 
-@Z: The translation of "Kalifornisches Kasperltheater" to English is
-"Californian Puppet Show.
+@Z: California Governor Recall
 
 <pic images/davis.ps News: Governor Gray Davis is being called back.>
+
+TODO
 
 <em>Angelika</em> 
 After California struggled with various power outages due to the
