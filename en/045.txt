@@ -180,25 +180,22 @@ have to live with that.
 
 <pic images/davis.ps News: Governor Gray Davis is being called back.>
 
-TODO
-
 <em>Angelika</em> 
 After California struggled with various power outages due to the
-energy crisis (as we reported), the bursting of the internet bubble
-with company closures and rising unemployment, and now faces a budget
-deficit of 38 billion dollars, discontent is spreading among the
-population. Just as the Germans complain about SchrÃ¶der and company,
+energy crisis (as we've reported), the bursting of the internet bubble
+with company closures and rising unemployment, the state now faces a budget
+deficit of 38 billion dollars and discontent is spreading among the
+population. Just as the Germans complain about Schröder and company,
 many Californians are angered by Gray Davis, the Democratic governor
-of California, who was re-elected at the end of 2002 (comparable to a
-prime minister).
+of California, who was re-elected at the end of 2002.
 
-Although the energy crisis is partly attributed to the Republican
+Although the energy crisis is partly attributed to Republican
 Governor Pete Wilson (who served before Gray Davis) and Davis did not
 cause the generally poor American economic situation, he serves as a
 scapegoat for most Californians. This may also be due to the fact
 that Davis appears rather colorless and stiff, and he fails to
 connect with the public. However, democracy means that once elected,
-a person serves for a full term, and those dissatisfied with Davis
+a person serves a full term, and those dissatisfied with Davis
 can express their discontent in the next election. Far from it: In
 California (and also in other American states), there is the
 possibility of a so-called recall: Voters can remove a politician
@@ -210,7 +207,7 @@ heard of it!" Let me try to explain what it's all about.
 
 <pic images/davis2.ps Protesters against Gray Davis>
 
-To initiate a recall process, a certain number of signatures from
+To initiate a recall, a certain number of signatures from
 California voters who support the recall must be collected. In
 California, this amounts to 12% of all votes cast in the last
 statewide election, which is 897,158 signatures. Compared to other
@@ -222,10 +219,10 @@ collectors on our way to the supermarket or the subway. In San
 Francisco, however, only a few support the recall initiative, as
 estimates suggest that the special election will cost the already
 struggling state a hefty 30 million dollars. As a result, other
-groups are simultaneously collecting signatures.
-<em>für</em> 
-The signatures for and against the "recall" are not offset against
-each other. By a certain deadline, the signatures must be submitted
+groups are simultaneously collecting signatures in favor of Davis
+staying in office.
+Alas, signatures for and against the "recall" are not offset against
+each other. By a certain deadline, the signatures must then be submitted
 for verification, which happened last week. Under the leadership of
 the Republican but considered untrustworthy politician Darrell
 Issa--who was arrested twice by the police some time ago on suspicion
@@ -268,7 +265,7 @@ Cowboy Bush, I'll go crazy.
 
 @Z: Topprodukt
 
-<pic images/sticker.ps Kleideretiketten>
+<pic images/sticker.ps Funny clothing stickers>
 
 <em>Michael</em> 
 Surely, you've also stared at a label in a piece of clothing before:
@@ -284,21 +281,19 @@ within...
 
 @Z: How much longer?
 
-<pic images/bags.ps 500 garbage bags -- last 6.5 years>
+<pic images/bags.ps 500 garbage bags -- they lasted 6.5 years>
 
 <em>Michael</em> 
 Over the years, I've often talked about my obsession with shopping at
 my favorite supermarket, "Costco." However, only long-time regular
 readers with an elephant's memory would know that six and a half
-years ago, one of my first actions in San Francisco was buying a
-500-pack of trash bags there.
-<RBLINK>961215#2</RBLINK>
-The translation of "steht's beschrieben und auf diesem" to English is
-"it's described and on this.
-<LINK>http://usarundbrief.com/0/images/costco.html|Foto</LINK>
-Can you see it: In front of the Sharp TV set, which was also newly
+years ago, 
+<LINK>http://usarundbrief.com/0/images/costco.html|one of my first actions</A>
+in San Francisco was buying a
+500-pack of trash bags there (<RBLINK>961215#2</RBLINK>).
+Click the link and look at the photo: In front of the Sharp TV set, which was also newly
 purchased at the time and has long since stopped working, and to the
-left of the Corona beer crate, which lasted even less time, you can
+left of the Corona beer crate, which lasted even shorter, you can
 see a pack of 500 garbage bags from the company Kirkland. Why am I
 writing this? A few days ago, we used the last one. However, this is
 not because we produced extremely little waste, but rather because in
@@ -307,7 +302,9 @@ supermarket, which you then use for trash, so you hardly use any
 garbage bags you bought yourself. Now I'm faced with the question:
 Should I buy another 500-pack, will we stay another 6.5 years?
 
-@Z: The ailing pension system
+@Z: The Ailing Retirement System
+
+TODO
 
 <em>Michael</em> 
 In contrast to the Germans, who to my considerable surprise still
