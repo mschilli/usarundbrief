@@ -304,14 +304,12 @@ Should I buy another 500-pack, will we stay another 6.5 years?
 
 @Z: The Ailing Retirement System
 
-TODO
-
 <em>Michael</em> 
-In contrast to the Germans, who to my considerable surprise still
-like to dream of a state pension, the Americans have already grasped
+In contrast to my fellow Germans, who to my considerable surprise still
+like dreaming of a state pension, Americans have already grasped
 the truth, and no one under the age of 35 today, who earns decent
-money and is reasonably sane, expects any significant pension
-payments from the state.
+money and is reasonably sane, expects any significant retirement
+support from the state.
 
 I don't know exactly what kind of fantasy mathematics German
 politicians base their calculations on, but let's try a very simple
@@ -323,13 +321,12 @@ have to be able to support themselves with privately (!) saved funds.
 The brutal truth is that no one will give up 50% of their salary to
 us greedy retirees. The generational contract is dead, dead, dead.
 
-<pic images/oma.ps Oma Meume has to earn her pension by playing in
-the game show.>
+<pic images/oma.ps Oma Meume has to earn her pension by playing in the game show.>
 
 In contrast to Germany, where the so-called Riester pension does not
 find much appeal, the American equivalent, the so-called 401(k) plan,
 is practically a given for anyone who does not intend to sleep in a
-cardboard box under a bridge in old age. The funny name is derived
+cardboard box under a bridge at old age. The funny name is derived
 from tax code number 401, section (k).
 
 Typically, employers offer a 401(k) plan for middle to higher-paying
@@ -339,7 +336,7 @@ transferred to private investment companies like Fidelity
 (www.401k.com). The employee usually has the option to invest the
 money with varying levels of risk: money market funds (similar in
 safety to fixed deposits), bonds, or stock funds. However, sometimes
-only the employer's stocks are available for purchase, which isn't as
+only the employer's stocks are available for purchase, which isn't
 ideal.
 
 Even though the money is held by private companies like Fidelity, it
@@ -361,7 +358,7 @@ the tax rate is lower than during your working life. If you go to a
 financial advisor, they usually calculate how much money you need to
 deposit monthly and when you can stop working so that the money lasts
 until the average life expectancy, assuming a positive stock market
-development, say 10% per year. If you live longer or the stock market
+development, of say 10% gains per year. If you live longer or the stock market
 crashes, you might end up under a bridge.
 
 Due to the stock market crash of 2000 and the ongoing poor investment
@@ -374,14 +371,12 @@ prematurely cash out their bundles, accepting the immediate taxation
 and a penalty fee.
 
 A good employer supports the retirement provision of their employees
-with contributions of up to 50% on the payments, up to 6% of the
+with contributions of up to 50% on the payments, up to 6% of
 salary -- that is free money, and on top of that, it is also
-tax-free, as the table in...
-<RBLINK>991120#2</RBLINK>
-The phrase "zeigt, ganz schÃ¶n reinhaut" can be translated to English
-as "shows that it really packs a punch.
-<LINK>http://www.401k.com/401k/about/about.htm|401k-Webseite</LINK>
-branches out into all sorts of 401k intricacies
+tax-free, which are considerable savings, as the table in 
+<RBLINK>991120#2</RBLINK> illustrates.
+The <LINK>http://www.401k.com/401k/about/about.htm|401k Website</LINK>
+branches out into all sorts of 401k intricacies if you're interested.
 
 Apart from the 401k plan, there are other retirement options, such as
 the "Roth IRA," named after a senator named William V. Roth, who
@@ -391,8 +386,8 @@ already taxed money annually to the plan, but you won't have to pay
 any taxes on interest, stock gains, or withdrawals in retirement.
 However, high earners who make $110,000 individually or $160,000 as a
 couple per year are excluded from the Roth IRA.
-http://www.fairmark.com/rothira/roth101.htm
-The exact regulations are very complicated, and like all tax laws,
+The <LINK>http://www.fairmark.com/rothira/roth101.htm|exact regulations</LINK>
+are very complicated, and like all tax laws,
 can only be understood if you read thick tomes and regularly
 internalize the latest changes.
 
@@ -401,8 +396,8 @@ middle-class individuals typically have a 401(k) plan and/or a Roth
 IRA, while those who earn less need everything for living expenses
 and cannot save for retirement. They rely on the government
 retirement safety net, "Social Security," into which both employers
-and employees contribute 6.2 percent of their gross salary, up to a
-maximum limit of $87,000 in annual salary (as of 2003). However, one
+and employees contribute 6.2 percent of the gross salary, up to a
+maximum limit of $87,000 in annual gross income (as of 2003). However, one
 can already calculate the insolvency date of this insurance: 2032.
 
 An interesting twist arises from the population distribution in the
@@ -411,9 +406,11 @@ especially from Latin American countries, who will contribute to the
 pension system and thus finance the pensions of a predominantly white
 population group -- racial conflicts are inevitable.
 
-@Z: The American school system
+@Z: The American School System
 
 <pic images/school.ps Caution, school!>
+
+TODO
 
 <em>Angelika</em> 
 Vacation time in Germany: How fitting to write something about the
