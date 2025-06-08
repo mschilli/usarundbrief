@@ -460,21 +460,19 @@ speaking, to achieve higher standards in public schools through
 increased student testing, hiring of qualified teachers, performing quality
 controls at individual schools, and so on.
 
-TODO
-
-In general, the authority over schools in America lies with the
-individual states (similar to the federal states in Germany). The
+In general, authority over schools in America generally lies with the
+individual states (similar to the federal states of Germany). The
 states are divided into individual entities known as school
 districts. These school districts have significant influence because
 the control of public schools is intended to remain as local as
-possible. The school district is managed by the school board, which
+possible. Each school district is managed by its school board, which
 consists of elected citizens. Private schools must also follow
 certain guidelines set by the individual state, but they have more
-freedoms than public schools, for example, in their selection of
+leeway than public schools, for example, in their selection of
 students. In addition to private and public schools, there is the
 option to educate children at home, a method that is gaining
 popularity in America, known as "home schooling." Honestly, I'm not
-sure if that's really "the best thing since sliced bread.
+sure if that's really "the best thing since sliced bread."
 
 The funding of public schools is provided through tax money, with the
 lion's share being contributed by the state, cities, and counties
@@ -498,9 +496,8 @@ variations from state to state), an American child is enrolled in
 "Elementary School" (comparable to the German Grundschule).
 
 In contrast to the German "Kindergarten," when an American speaks of
-"kindergarten," they mean the year.
-<em>unmittelbar</em> 
-Before starting school. In most states, kindergarten is not yet
+"kindergarten," they mean the year immediately leading up to school.
+In most states, kindergarten is not yet
 mandatory, including in California. However, since kindergarten
 involves the initial learning of letters and numbers and is generally
 quite structured (there are homework assignments!), almost all
@@ -516,20 +513,20 @@ Grade"), depending on the state or school district. After the fourth
 or fifth grade, a "Middle School" (Mittelschule) may follow up to the
 eighth grade. In San Francisco, public schools adhere to the
 following model: five years of "Elementary School," three years of
-"Middle School," and four years of "High School.
+"Middle School," and four years of "High School."
 
 Please do not confuse the American "Middle School" with the German
 "Realschule." In the USA, there is no tripartite school system, only
 a comprehensive school system. The term "Middle School" refers solely
 to the period when children attend this school, namely between
-"Elementary School" and "High School.
+"Elementary School" and "High School."
 
-Starting from the ninth grade, "High School" typically begins and
-ends with the 12th grade. In some school districts, there is also a
+Starting from the ninth grade, "High School" typically begins. It ends
+with the 12th grade. In some school districts, there is also a
 distinction between "Junior High School" (often 7th - 9th grade) and
 "Senior High School" (10th - 12th grade). If a student successfully
 completes the 12th grade, they receive a "High School Diploma," which
-should not be confused with the Abitur.
+should not be confused with the German Abitur.
 
 <pic images/school3.ps First Writing Skills: Decorated School Window>
 
@@ -542,7 +539,7 @@ social ladder in America. The diploma obtained later also has its own
 name, namely "General Educational Development," commonly known as
 GED.
 
-The American school is a full-day school and starts between 7:30 AM
+School in the USA is a full-day school and starts between 7:30 AM
 and 8:30 AM and ends between 3 PM and 4 PM. As in Germany, there are
 different class periods (called "periods") and breaks ("recess").
 American children also rest on Saturdays and Sundays. The school year
@@ -563,10 +560,10 @@ children to the office, you can find summer programs everywhere,
 offered by organizations such as non-profit institutions. The famous
 American summer camp should not be forgotten either. Many schools
 offer what is called "Summer School," which means no vacation and
-lounging around: learning takes place. Since the concept of repeating
+lounging around: there's more learning on the schedule. Since the concept of repeating
 a grade is hardly known in America, students here have the
 opportunity to catch up on gaps. There is also the possibility to
-retake subjects in which the student failed.
+retake subjects which the student failed.
 
 Older students often look for jobs over the summer or work as
 volunteers. In the Tenderloin, where I work as a substitute, there
@@ -574,8 +571,7 @@ are currently a bunch of teenagers who are using their vacation to
 help us with the children. Our facility only closes for one week in
 the summer.
 
-<pic images/school2.ps Translation: Drawing and inscription at a
-school. The students are enthusiastic about the teacher.>
+<pic images/school2.ps Drawing and inscription at a school. These students are enthusiastic about their teacher.>
 
 But back to school: In elementary school, a teacher instructs the
 basic subjects and may be supported by some specialist teachers. In
@@ -628,11 +624,11 @@ dollars. However, in this case, the school district or the state
 transfers the educational mandate to the respective school through a
 contract. There are already 2,799 Charter Schools in the USA (428 in
 California), and during the 2002/2003 school year, they educated a
-total of 685,000 students nationwide.
-<LINK>http://www.uscharterschools.org|www.uscharterschools.org</LINK>
-Zeigt Details" translates to "Show details" in English.
+total of 685,000 students nationwide. 
+<LINK>http://www.uscharterschools.org|www.uscharterschools.org|Here</LINK>
+you can find more details if you're interested.
 
-Charter schools generally have more freedom than traditional public
+Charter schools generally enjoy more freedom than traditional public
 schools. The idea is that this greater freedom leads to more creative
 teaching and better academic performance among individual students.
 In theory, parents or teachers can come together and establish their
@@ -662,15 +658,15 @@ find in any American shopping mall, because Edison Schools operate
 with a standardized curriculum that is used in all their schools,
 regardless of regional differences. I personally believe that money
 cannot be made from education and healthcare. It simply doesn't work.
-There will be more on the topic of "school" in the next newsletter.
+But that's it on the topic for today, there will be more on US schools
+in the next newsletter.
 
 @Z: San Francisco Local: Subway to the Airport
 
-<pic images/bart1.ps The racing newsletter reporter tests the subway
-to the airport.>
+<pic images/bart1.ps The intrepid newsletter reporter tests the subway to the airport.>
 
 <em>Angelika</em> 
-And here is the local news from San Francisco again. After 30 years
+And here is local news from San Francisco again! After 30 years
 of debating and planning, the first subway, popularly known as BART
 (Bay Area Rapid Transportation System), finally ran on a newly
 constructed route to San Francisco's airport, SFO, at the end of
@@ -680,7 +676,7 @@ airports often lack a subway connection to the city center, let alone
 cities having a reasonable public transportation system. Thus, the
 San Francisco model is considered groundbreaking. As in most American
 cities, the only options to reach the airport until now were by taxi,
-private car, or the so-called "Door-to-Door Shuttle.
+private car, or the so-called "Door-to-Door Shuttle."
 
 Until recently, we always resorted to the latter option, because the
 "Door-to-Door Shuttle," as the name suggests, picks you up right at
@@ -690,13 +686,12 @@ driver. Since a minibus can accommodate more people who share the
 ride, it makes the trip cheaper. There are several companies in San
 Francisco that offer this service. The whole experience costs between
 12 and 17 dollars per person, depending on the provider, and some
-offer about a 50% discount for additional group travelers. Naturally,
+offer about a 50% discount for additional travelers in your group. Naturally,
 you also tip the driver. In comparison, a taxi from the airport to
 downtown costs about 37 dollars plus tip, while the subway ride from
 our station, 24th Street, costs 4.60 dollars.
 
-<pic images/bart3.ps The rushing newsletter reporter in the
-"Airtrain" from the Bart to the departure hall>
+<pic images/bart3.ps The intrepid newsletter reporter in the "Airtrain" from the Bart to the departure hall>
 
 We Old Europeans immediately tried out this new BART service when we
 set off for the Perl Conference in Portland. With the help of our
@@ -712,6 +707,4 @@ about it.
 
 Until next month! Your America Foxes:
 
-The translation of "Michael und Angelika" to English is "Michael and
-Angelika.
-
+Michael and Angelika
