@@ -410,15 +410,13 @@ population group -- racial conflicts are inevitable.
 
 <pic images/school.ps Caution, school!>
 
-TODO
-
 <em>Angelika</em> 
-Vacation time in Germany: How fitting to write something about the
+Summer break in Germany: How fitting to write something about the
 American school system. Everyone thinks they know it from American TV
 shows. But do you also believe that private schools dominate in
 America? Wrong, only 11% of American students attended a private
 school in 2002 - at least according to the statistics from the
-"National Center for Education Statistics.
+National Center for Education Statistics.
 
 Private schools charge tuition fees--between 200 and 1000 dollars per
 child per month. Public schools, on the other hand, are free of
@@ -428,41 +426,41 @@ allowed in the curriculum of public American schools (due to the
 separation of church and state), it is an integral part of
 religiously affiliated private schools.
 
-The idea of free education for all is fundamentally American. The aim
-was to ensure that the still young nation with few commonalities
-would grow together more quickly, which especially benefited the
-immigrant children of the large waves of immigration between 1890 and
-1930.
+The idea of free education for all is fundamentally American. The goal was to
+ensure that the still young nation with few commonalities amongst its citizens
+would grow together more quickly, which especially benefited the immigrant
+children of the large waves of immigration between 1890 and 1930.
 
-As in other areas in America, the government plays only a subordinate
+As in other areas in America, government plays only a subordinate
 role in the education system. For example, there is no nationally
 standardized curriculum, which does not mean that every American
 school teaches in its own way. There are certain subjects that every
-American student struggles with to some extent, regardless of whether
-they live in Hawaii or Alaska: mathematics, English (writing,
+American student has to deal with to some extent, regardless of whether
+they live in Hawaii or Alaska: math, English (writing,
 reading, grammar, literature), science, geography, history, social
 studies, art, and music.
 
 <pic images/edison1.ps A privatized public school>
 
-On the other hand, learning a foreign language over a certain number
-of years, as it is known in Germany,
-<em>nicht</em> 
-Obligation. Many American students only start learning a foreign
+On the other hand, learning a foreign language during a certain number
+of school years, as it is known in Germany, is not required.
+Many American students only start learning a foreign
 language in high school (usually 9th to 12th grade). Interestingly,
 Americans often believe that learning a foreign language, such as
 German, for two years is sufficient to use it well. I frequently meet
 people who boast that they speak German because it was part of their
 "high school" curriculum for two years. However, you don't hear much
-more than phrases from them.
+more than a few common phrases from them.
 
 Even though the state does not take on a central role, it does not
 completely stay out of it. The legislative initiative "No Child Left
 Behind," which President Bush signed into law in early 2002, is a
-good example of this type of involvement. The law aims, broadly
+good example of this type of involvement. The law set out, broadly
 speaking, to achieve higher standards in public schools through
-increased student testing, hiring of qualified teachers, quality
+increased student testing, hiring of qualified teachers, performing quality
 controls at individual schools, and so on.
+
+TODO
 
 In general, the authority over schools in America lies with the
 individual states (similar to the federal states in Germany). The
