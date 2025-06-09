@@ -18,8 +18,6 @@ supposed to be a completely normal day: darkroom, laundromat,
 errands ... but early in the morning, we are surprised by a "Breaking
 News" from New York.
 
-TODO
-
 Television images like something out of a science fiction film. A
 commercial airliner crashes directly into one of the towers of the
 World Trade Center. At first, I think: a terrible accident. But
@@ -30,7 +28,7 @@ deaths from the upper floors to escape the spreading fire. The news
 is overwhelming. The Pentagon, the American Department of Defense, is
 also hit by a crashing commercial airliner.
 
-Only terrorists are being considered; they hijacked American
+Those were clearly terrorists, they hijacked American
 commercial airplanes filled with passengers from the airlines
 American and United Airlines and used the planes in the most
 perfidious way as bombs. The American aviation security authority has
@@ -40,15 +38,17 @@ could not leave the country at the moment.
 
 Then the unimaginable happens. The two towers of the World Trade
 Center collapse one after the other, burying thousands of victims
-under tons of steel. Memories of one's own visit to the World Trade
-Center flicker. Debris is visible everywhere. A huge gray layer of
+under tons of steel. Memories of our own visit to the World Trade
+Center return. Debris is visible everywhere. A huge gray layer of
 dust, making everything appear apocalyptic, settles over the disaster
 site. People in shock wander through the streets of New York's
-Downtown Manhattan. But the horror does not end. Another hijacked
+Manhattan downtown. But the horror does not end. Another hijacked
 United Airlines plane on its way from Newark to San Francisco crashes
 near Pittsburgh, Pennsylvania. It is suspected that it was targeting
 "Camp David," the presidential retreat, but for reasons still
 unclear, it missed its target.
+
+TODO
 
 In other major American cities, there is growing concern that further
 terrorist attacks may follow. In San Francisco, City Hall is
