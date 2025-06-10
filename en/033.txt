@@ -48,8 +48,6 @@ near Pittsburgh, Pennsylvania. It is suspected that it was targeting
 "Camp David," the presidential retreat, but for reasons still
 unclear, it missed its target.
 
-TODO
-
 In other major American cities, there is growing concern that further
 terrorist attacks may follow. In San Francisco, City Hall is
 initially evacuated for security reasons. Then, kindergartens and
@@ -110,7 +108,7 @@ Even in the liberal stronghold of San Francisco, you can see American
 flags waving everywhere. They meet us at every turn: in store
 windows, on residential buildings, and on car antennas.
 
-<pic images/rusp4.ps Many people in San Francisco hang flags on their houses.>
+<pic images/rusp4.ps Many people in San Francisco hoist flags on their houses.>
 
 Many people attach red, white, and blue ribbons to their sweaters or
 jackets. Americans generally approach their national flag with a
@@ -135,9 +133,9 @@ an unknown person threw a blood-filled bag at the entrance of an
 Islamic facility. Just as frequently as we see the American flag, we
 now encounter yellow posters in our neighborhood, hanging in shop
 windows and private residences, declaring the neighborhood a
-"hate-free zone.
+"hate-free zone."
 
-<pic images/rusp5.ps A poster declares a "hate-free zone".>
+<pic images/rusp5.ps A poster declares a "hate-free zone.">
 
 Although it is true that, according to surveys, about 90% of the
 American population considers military retaliation for the terrorist
@@ -165,6 +163,8 @@ Nervousness is spreading alongside grief in San Francisco, as no one
 knows what else is to come. The absence of tourists and empty
 restaurants also speak volumes. We are still far from a normal
 everyday life.
+
+TODO
 
 @Z: San Francisco, October 7, 2001
 
