@@ -8,27 +8,22 @@ the Nation", "America After the Attack", "From the Good Old Days in
 Silicon Valley", "Home to Germany?", "Album of the Month" and "The
 Most Useless Sports Items in the World". Enjoy reading!
 
-TODO
-
 @Z: Halloween
 
-<pic images/castro1.ps Halloween: Noble Ladies at the Castro
-Carnival>
+<pic images/castro1.ps Halloween: Noble Ladies at the Castro Carnival>
 
 <em>Angelika</em> 
-We have been following with surprise how the American festival
-"Halloween" is enjoying growing popularity in Germany. According to
-rumors, on October 31st in Germany, there were not only Halloween
-parties but also children going through neighborhoods trying to
-collect sweets. Until now, I actually thought that there were enough
-holidays in Germany. I know that the festival dates back to the
-Celtic Druids, who celebrated the god of darkness on the night of
-October 31st to November 1st more than 2000 years ago, and that
-Christians later transformed the pagan custom into All Saints' Day.
-The festival finally came to America with Irish and English
-immigrants in the mid-19th century.
+We have been following with surprise how American "Halloween" celebrations are
+enjoying growing popularity in Germany. According to rumors, on October 31st in
+Germany, there were not only Halloween parties but also children going through
+neighborhoods trying to collect sweets. Until now, I actually thought that
+there were enough holidays in Germany. I know that the festival dates back to
+the Celtic Druids, who celebrated the god of darkness on the night of October
+31st to November 1st more than 2000 years ago, and that Christians later
+transformed the pagan custom into All Saints' Day.  The festival eventually
+came to America with Irish and English immigrants in the mid-19th century.
 
-Germany does not rely on Celtic traditions -- the whole thing seems
+Germany does not really celebrate Celtic traditions -- the whole thing seems
 more like "looking towards America" and commerce to me. Halloween
 costumes and all sorts of spooky masks seem to sell well in Germany
 too. What scares me the most, however, is the thought that we might
@@ -45,14 +40,15 @@ various things here, like Bahlsen's peanut flips, but there's nothing
 more delightful for me than indulging in a bag during a visit to
 Germany or joyfully receiving a "care package" from Germany
 containing treats we can't get here. Feel free to think I'm a bit
-crazy. To anyone who doesn't believe in the horror of uniformity, I
-recommend a tour through the American suburbs. There, you mostly find
+crazy. To anyone who doesn't believe this horror of uniformity actually exists, I
+recommend a tour through American suburbs. There, you mostly find
 shopping centers with the same stores. Everything is completely
 interchangeable, whether you're in California, Idaho, or anywhere
 else in the USA.
 
-<pic images/treat.ps The shop owner nervously hands out sweets so
-that the child doesn't play a trick on him!>
+<pic images/treat.ps The shop owner nervously hands out sweets so that the child doesn't play a trick on him!>
+
+TODO
 
 Once again back to "Halloween": The term is composed of the three
 words "All Hallows Eve," which means "the night before All Saints'
