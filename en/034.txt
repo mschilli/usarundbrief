@@ -48,13 +48,11 @@ else in the USA.
 
 <pic images/treat.ps The shop owner nervously hands out sweets so that the child doesn't play a trick on him!>
 
-TODO
-
 Once again back to "Halloween": The term is composed of the three
 words "All Hallows Eve," which means "the night before All Saints'
 Day." Here in the USA, children dress up in costumes and roam the
 streets, going from door to door or even from store to store, and
-threaten "trick or treat" -- loosely translated: Either you hand over
+threaten to "trick or treat" -- loosely translated: Either you hand over
 the candy, or we'll play a trick on you. A popular activity around
 Halloween is for American families to go to so-called "Pumpkin
 Patches" (pumpkin farms) and pick out pumpkins, which are then
@@ -66,30 +64,29 @@ glow.
 
 This year, even "Halloween" was overshadowed by the terrorist attacks
 in September. Many security experts expressed concerns about the
-crowds at the various Halloween parties that took place on the
+crowds at various Halloween parties that took place on the
 streets of several cities on October 31st. As a result, many cities
 canceled their events. However, San Francisco was not deterred. For
-years, there has been a street party in the Castro, San Francisco's
+years, there had been a street party in the Castro, San Francisco's
 gay district, during Halloween. There, you can see not only the most
 amazing costumes, but the atmosphere is also truly lively. No one
 wanted to miss out on the fun. By the way, the party in the Castro
 district is unofficial. The city of San Francisco has been trying for
-some time to move the party entirely to the Civic Center (where San
+some time to move the party entirely to Civic Center (where San
 Francisco's City Hall is located) because Castro Street is relatively
 narrow and can hardly accommodate the large crowds--there simply
 isn't enough space. So now the official party always takes place at
 the Civic Center, which no one seems to care about, and everyone goes
 to celebrate in the Castro.
 
-<pic images/castro2.ps It's getting busy in front of Harvey's in the
-Castro.>
+<pic images/castro2.ps It's getting busy in front of Harvey's in the Castro.>
 
 The safety of Halloween is generally a constant topic in America,
-especially concerning the children who go from door to door. Several
+especially concerning children who go from door to door. Several
 years ago, a few completely deranged individuals hid razor blades in
 oranges that they gave to children at the door, so now only
-pre-packaged candies are distributed. Stores sell large packs before
-Halloween, where all the candies are individually wrapped. Many
+pre-packaged candies are being distributed. Stores sell candy in bulk before
+Halloween, and all the candies are individually wrapped. Many
 families who live in less safe neighborhoods (meaning: rough areas
 with burning trash cans -- Michael) drive with their children to
 safer areas and let them go door to door there. With the children in
@@ -101,27 +98,26 @@ immediately, as there is a rule that parents must first inspect the
 candies for safety reasons when they pick up their children. And it's
 not just about potential allergies. It's all very sad.
 
-<pic images/castro3.ps The translation of "BlutrÃ¼nstige Verkleidung"
-to English is "bloodthirsty disguise.>
+<pic images/castro3.ps Halloween costumes are supposed to be scary.>
 
 @Z: Another holiday: Thanksgiving
 
 <em>Angelika</em> 
 And since I'm already on the topic of holidays, I'll also explain
-what "Thanksgiving" is all about. Thanksgiving takes place in the USA
+what "Thanksgiving" is all about. In the USA, Thanksgiving takes place
 on the fourth Thursday in November. Although many countries have
 "harvest festivals" on their calendars, the American one has a
 special significance. The Pilgrims, who came from England to America
-across the great ocean in 1620, had an indescribably hard first year
+across the Atlantic in 1620, had an indescribably hard first year
 in the New World. The local Native Americans then showed them how to
 cultivate corn and other grains, resulting in an exceptionally
 bountiful harvest the following year. The recipe for popcorn is also
-said to have originated from the Native Americans. In gratitude, the
+said to have originated from Native Americans. In gratitude, the
 Pilgrims held a feast for the Native Americans. Today, "Thanksgiving"
 is one of the most important holidays in America. Families come
 together, which has led to the time around Thanksgiving being the
-peak travel season in the USA: roads are congested, flights are fully
-booked. Additionally, the majority of workers have not only
+peak travel season in the USA. Roads are congested, flights are fully
+booked. Additionally, the majority of workers not only have
 Thanksgiving off but also the following Friday, which, when combined
 with the weekend, gives most people four days off. A real luxury in
 America!
@@ -138,14 +134,14 @@ haven't yet figured out why. One nice thing about Thanksgiving is
 that no gifts need to be bought and no cards need to be written.
 Additionally, because of its timing in November, the Christmas
 shopping season (along with Christmas decorations) in the USA starts
-significantly later, specifically on the Friday after Thanksgiving,
+significantly later than elsewhere, typically on the Friday after Thanksgiving,
 since hardly anyone works that day, leaving time for shopping.
 However, Thanksgiving is not without controversy, especially among
 more liberal circles. Many people are initially bothered by the fact
-that the active role of the Native Americans (referred to here as
+that the active role of American Indians (referred to here as
 "Native Americans") in the first Thanksgiving celebration is not
 emphasized enough. And then, of course, there is the issue of the
-extermination of the Native Americans, a topic that is often swept
+decimation of Native Americans, a topic that is often swept
 under the rug in America.
 
 In general, the story with holidays that one did not grow up with is
@@ -155,8 +151,9 @@ foreigners far from home rely more on their familiar customs and
 traditions than in their country of origin. Regardless of
 Thanksgiving, we are definitely looking forward to the days off!
 
-<pic images/castro4.ps These figures certainly do not celebrate
-Thanksgiving.>
+<pic images/castro4.ps These characters certainly do not celebrate Thanksgiving.>
+
+TODO
 
 @Z: On the State of the Nation
 
