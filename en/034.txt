@@ -153,12 +153,10 @@ Thanksgiving, we are definitely looking forward to the days off!
 
 <pic images/castro4.ps These characters certainly do not celebrate Thanksgiving.>
 
-TODO
-
-@Z: On the State of the Nation
+@Z: On the State Of the Nation
 
 <em>Angelika</em> 
-And now a few words from me on the state of the nation: The Senate
+And now a few words from me on the State of the Nation: The Senate
 has now ratified the anti-terrorism laws here (I briefly mentioned it
 in my last newsletter). The package of laws has the resounding name
 "Uniting and Strengthening America by Providing Appropriate Tools
@@ -174,9 +172,9 @@ In Congress, only 66 representatives voted against the law, with 356
 voting in favor. In the Senate, there was only one opposing vote
 against 98 supporters.
 
-The surveillance of phones and the snooping into private emails is no
-longer a problem and is almost entirely beyond the control of the
-courts. No search warrant is required for house searches, and the
+Surveillance of phones and the snooping into private emails is
+easily accomplished and almost entirely beyond the control of the
+courts. No search warrant is required to search residences, and the
 searches can even take place in the absence of the residents. Bank
 and medical confidentiality practically no longer exist, or as
 Senator Feingold aptly noted: If you are merely sitting on a plane
@@ -201,37 +199,35 @@ terrorists before a military court also contradicts the principles of
 a democratic constitutional state. Military courts can take place
 away from the public eye, and the verdict does not need to be
 unanimous--a two-thirds majority is sufficient. The right to freely
-choose one's own lawyer and the possibilities for appeal are limited.
+choose one's own attorney and the possibility for appeal are limited.
 It is also incomprehensible that the USA is vehemently opposed to an
 international court. This would provide the opportunity to prosecute
 terrorists in the future. The Bush administration justifies its
 opposition by arguing that there is a risk that American citizens
 would also have to answer before this court. Hmmm...
 
-Recently, the topic of torture is being discussed again in America.
-According to a CNN survey, 45% of Americans support the use of
-torture as a means of pressure to obtain information about terrorism.
-It's truly unbelievable. We are living in crazy times. Almost every
-day, we hear a new anthrax story. Just today, a 94-year-old woman in
-Connecticut died of inhalation anthrax. However, the FBI is still in
-the dark. That's why, at the beginning of November, they released a
-profile of the possible perpetrator. I used to only see things like
-this in Hollywood movies: The perpetrator is most likely male. He is
-a loner, both at home and at work. He finds it difficult to form
+Recently, the topic of torture is being discussed again in America.  According
+to a CNN survey, 45% of Americans support the use of torture as a means of
+pressure to obtain information about terrorism.  It's truly unbelievable. We
+are living in crazy times. Almost every day, we hear a new anthrax story. Just
+today, a 94-year-old woman in Connecticut died of anthrax inhalation. However,
+the FBI is still in the dark about his case. That's why, at the beginning of
+November, they released a profile of the possible perpetrator. I used to only
+see things like this in Hollywood movies: The perpetrator is most likely male.
+He is a loner, both at home and at work. He finds it difficult to form
 relationships. He is familiar with the Trenton area (some of the
-anthrax-infected letters were sorted in Trenton post offices). He has
-a scientific background or a strong interest in science. He is
-knowledgeable in laboratory work. In fact, he prefers test tubes to
-people. Perhaps he is taking antibiotics... whether that will help in
-the search is unknown.
+anthrax-infected letters were sorted in Trenton post offices). He has a
+scientific background or a strong interest in science. He is knowledgeable in
+laboratory work. In fact, he prefers test tubes to people. Perhaps he is taking
+antibiotics ... whether this will help in the manhunt is unknown.
 
 @Z: America After the Attack
 
 <em>Michael</em> 
 Due to the tightened security regulations in air travel, the
-"SÃ¼ddeutsche Zeitung," whose Friday edition we have subscribed to,
+"Süddeutsche Zeitung," whose Friday edition we have subscribed to,
 unfortunately no longer arrives on time. As we recently learned from
-a distributor's note, the printed material now has to spend 24 hours
+a note from distributor, the printed material now has to spend 24 hours
 in a compression chamber along with other air freight to ensure that
 the sharply written articles, with their concentrated journalistic
 impact, do not blow up an airplane. Oh man! Hopefully, the ladies and
@@ -239,27 +235,21 @@ gentlemen at the FAA or whoever issues these ridiculous regulations
 will attend a proper security training session to distinguish between
 blind activism and sensible security measures. An excellent article
 by a security guru in the field of computing, Bruce Schneier, can be
-found...
-<LINK>https://www.schneier.com/crypto-gram/archives/2001/0930.html|In
-his blog | Bruce Schneier: Crypto-Gram September 30, 2001</LINK>
-.
+found <LINK>https://www.schneier.com/crypto-gram/archives/2001/0930.html|here| Bruce Schneier: Crypto-Gram September 30, 2001</LINK>.
 
-<pic images/glp.ps The SÃ¼ddeutsche has to go into the compression
-chamber before it comes to us.>
+<pic images/glp.ps The Süddeutsche Friday edition has to go into a compression chamber before it comes to us.>
 
-The BART, the subway in San Francisco, is not far behind and closes
-all station restrooms for security reasons. Hmm, that will surely
-deter the terrorists. One gets the impression that many are taking
-advantage of the situation to abolish inconvenient things (like
-station restrooms) or to push through previously blocked intrusions
-into privacy under the guise of "We need more security." At the
-airport, soldiers in camouflage uniforms and with long rifles are
-standing around. Well, at least they are safer than the Uzis
-(submachine guns) with which the German police made airports insecure
-in the early 70s at the height of the terrorism scene.
+BART, San Francisco subway system, is not far behind and closes all station
+restrooms for security reasons. Hmm, that will surely deter the terrorists. One
+gets the impression that many are taking advantage of the situation to abolish
+inconvenient things (like maintaining train station restrooms) or to push
+through previously blocked intrusions into privacy under the guise of "We need
+more security." At the airport, soldiers in camouflage uniforms and with long
+rifles are standing around. Well, at least they are safer than the Uzis
+(submachine guns) with which the German police made airports insecure in the
+early 70s at the height of the terrorism scare.
 
-<pic images/bart.ps The subway in San Francisco is closing the
-station restrooms.>
+<pic images/bart.ps The subway in San Francisco is closing the station restrooms.>
 
 Since everyone is now afraid of receiving mail with anthrax spores,
 the American postal service has issued a flyer with instructions on
@@ -268,21 +258,20 @@ know? Is it over-posted? Is there no return address? Then you should
 not open the mail, not shake it, not sniff it, but forward it to the
 appropriate authorities.
 
-<pic images/post.ps The post office provides advice on what letters
-containing anthrax spores might look like.>
+<pic images/post.ps The post office provides advice on what letters containing anthrax spores might look like.>
 
-Here is the latest news from Silicon Valley.
+But let's move on to the latest news from Silicon Valley.
 
 @Z: From the good old days in Silicon Valley
 
 <em>Michael</em> 
-After the legendary era of Silicon Valley is slowly coming to an end,
-I need to quickly write a sentimental report about what a smart life
+Now, that the legendary era of Silicon Valley is slowly coming to an end,
+I need to quickly write a sentimental report about what kind of smart life
 we software developers had when things were still in full swing.
 
 In the meantime, things are only going downhill. Companies are laying
 off people in large numbers, the job market is once again heavily
-employer-biased, and it's actually difficult to get a good position
+employer-friendly, and it's actually difficult to find a good position
 again. Gone are the days when people were desperately sought after,
 and anyone who could spell "Java" was picked up off the street,
 driven to the company in a limousine, and immediately hired. Now it's
@@ -296,45 +285,42 @@ buildings, not only the Netscape "N" but also the AOL logo has been
 displayed since AOL acquired Netscape. By the way, Netscape only
 rented the buildings and recently gave up some of them. About a year
 ago, at the height of the dot-com bubble, the company Veritas agreed
-to rent them for $600 million for 10 years. Now, of course, the
+to lease them for $600 million for 10 years. Now, of course, the
 entire market has collapsed, and negotiations with the landlord have
 been reopened. It was agreed that Veritas could now purchase the
 buildings for $280 million. Imagine that, the buildings are changing
 hands for half of the originally negotiated rental price! Even the
 fountain with the Netscape logo, in front of which Netscape founder
 Marc Andreessen liked to pose for newspapers, was sold off: it is now
-adorned with the logo of the company "Verisign.
+adorned with the logo of the company "Verisign."
 
-<pic images/fountain.ps The Netscape fountain now belongs to the
-company Verisign.>
+<pic images/fountain.ps The Netscape fountain now belongs to the company Verisign.>
 
-But enough of the gloomy predictions. Let your Silicon Valley
-maverick ramble on before everything finally collapses:
+But enough of the gloomy predictions. Listen to your Silicon Valley
+maverick rambling on before everything finally collapses:
 
 Between the beige buildings, there are park benches and fountains so
-that people can relax. The young people! The new boss of Netscape is
+that people can relax. Those whippersnappers! The new boss of Netscape is
 somehow 26 years old. And I always feel ancient when I look at my
-colleagues who have just graduated from university. Oh well, the
-youth still has a lot to learn!
+colleagues who have just graduated from university. Oh well, our
+youngens still have a lot to learn!
 
 <pic images/arbeit.ps Two colleagues are pondering over something.>
 
-The dress code is, of course, California casual. I don't think I've
-seen anyone wearing a tie in four years. In the summer, shorts and
-T-shirts are the norm, and baseball caps are also popular. Recently,
-I've been getting terrible blisters from wearing leather shoes, as
-I've only worn sneakers or Birkenstocks for the past five years. At
-home in the closet, there's a jacket, a shirt, a tie, and a "nice"
-pair of pants sealed in a plastic cover--just in case the worst-case
-scenario happens and I have to present myself somewhere. Until then,
-the plastic stays on.
+The dress code at Netscape is, of course, California casual. I don't think I've
+seen anyone wearing a tie in my four years here. In the summer, shorts and T-shirts are
+the norm, and baseball caps are also popular. Recently, I've been getting
+terrible blisters when wearing leather shoes, as I've only worn sneakers or
+Birkenstocks for the past five years. At home in the closet, there's a jacket,
+a shirt, a tie, and a "nice" pair of pants sealed in a plastic cover--just in
+case the worst-case scenario happens and I have to present myself somewhere.
+Until then, the plastic stays on.
 
-<pic images/cube.ps The entrance to my cubicle. I am the King of
-Bavaria.>
+<pic images/cube.ps The entrance to my cubicle. I am the King of Bavaria.>
 
 <pic images/foosball.ps A relaxing foosball game>
 
-There is also pool billiards, foosball machines, a mini-golf course,
+There is also pool billiards, foosball tables, a mini-golf course,
 an outdoor beach volleyball court, basketball courts, a roller hockey
 rink, and a putting green for golfers. A dedicated fitness center
 with treadmills, weight machines, various modern equipment, and
@@ -342,22 +328,15 @@ showers has also been built. The underlying idea, of course, is that
 almost any price is justified to keep people at the company as long
 as possible. Recently, I read an article stating that every manager
 of software developers must ask themselves what they are doing wrong
-if people are already going home at 6 p.m.
-<LINK>http://philip.greenspun.com/ancient-history/managing-software-e
-ngineers|The text "Managing Software Engineers|Philip Greenspun:
-Managing Software Engineers" is already in English. It appears to be
-a title or heading, possibly referring to a work or article by Philip
-Greenspun on the topic of managing software engineers.</LINK>
+if people are already going home at 6 p.m (<LINK>http://philip.greenspun.com/ancient-history/managing-software-engineers|"Managing Software Engineers|Philip Greenspun: Managing Software Engineers"</LINK>)
 
-
-<pic images/volley.ps Beach volleyball on Fridays at five at
-Netscape>
+<pic images/volley.ps Beach volleyball on Fridays at five at Netscape>
 
 I have, by the way, set up a small program that implements a table
 tennis ranking system and is becoming increasingly popular. People in
 the department can challenge each other and improve their rank by
 competing against one another according to meticulously established
-rules set by me.
+rules, set by me.
 
 <pic images/pingpong.ps A colleague in the table tennis room>
 
@@ -377,29 +356,28 @@ a week in the Netscape parking lot recently went bankrupt. Tough
 times are also approaching for party organizers, T-shirt printers,
 and game equipment manufacturers.
 
-<pic images/gladiators.ps The gladiator game during the summer
-festival 2001>
+<pic images/gladiators.ps The gladiator game during the summer festival 2001>
 
-In San Francisco, the luxury restaurants where employees of internet
-companies used to have their upscale lunches are closing down one
-after another. The "$1000 dresser but the drawers don't close
+San Francisco's luxury restaurants also depended on internet
+companies, teams used to have their upscale lunches there's now they're
+closing down one after the other. The "$1000 dresser but the drawers don't close
 properly" furniture stores are groaning under the economic crisis.
 Landlords have to leave "$2000 for two small rooms but the plaster is
 falling off the walls" apartments vacant. We are dismayed!
 
-@Z: Heim nach Deutschland?" translates to "Home to Germany?" in
-English.
+@Z: Home to Germany?
 
 <em>Michael</em> 
 While companies in Silicon Valley are groaning under the crisis,
 there seems to be an even harsher shortage of computer experts in
 Germany. How else could one explain that the "Stuttgart Region" is
 calling back the computer superheroes who had taken off to the USA
-and enticing them with all sorts of amusing gimmicks like a "free
+and are now enticing them with all sorts of amusing gimmicks like a "free
 city tour"?
 
-<pic images/home.ps No Place Like Home -- The Stuttgart region brings
-back the runaway heroes from Silicon Valley.>
+TODO
+
+<pic images/home.ps No Place Like Home -- The Stuttgart region tries to bring back the runaway heroes from Silicon Valley.>
 
 The website www.move-back.de even announced that on September 5,
 2001, planes with huge advertising banners would fly over the
