@@ -328,7 +328,7 @@ showers has also been built. The underlying idea, of course, is that
 almost any price is justified to keep people at the company as long
 as possible. Recently, I read an article stating that every manager
 of software developers must ask themselves what they are doing wrong
-if people are already going home at 6 p.m (<LINK>http://philip.greenspun.com/ancient-history/managing-software-engineers|"Managing Software Engineers|Philip Greenspun: Managing Software Engineers"</LINK>)
+if people are already going home at 6 p.m (<LINK>http://philip.greenspun.com/ancient-history/managing-software-engineers|"Managing Software Engineers"|Philip Greenspun: Managing Software Engineers</LINK>)
 
 <pic images/volley.ps Beach volleyball on Fridays at five at Netscape>
 
@@ -347,7 +347,7 @@ web browser and see if the table tennis table is currently available
 for a match.
 
 But as I said, those times are over: Such equipment can currently be
-purchased cheaply at foreclosure auctions of bankrupt so-called
+purchased cheaply at foreclosure auctions by bankrupt so-called
 "DotCom" companies. This, of course, also affects the rest of the
 economy, because when the Silicon Jockeys are no longer earning
 millions, they are not throwing money around with full hands anymore.
@@ -359,11 +359,11 @@ and game equipment manufacturers.
 <pic images/gladiators.ps The gladiator game during the summer festival 2001>
 
 San Francisco's luxury restaurants also depended on internet
-companies, teams used to have their upscale lunches there's now they're
+companies, teams used to have their upscale lunches there. Now they're
 closing down one after the other. The "$1000 dresser but the drawers don't close
 properly" furniture stores are groaning under the economic crisis.
 Landlords have to leave "$2000 for two small rooms but the plaster is
-falling off the walls" apartments vacant. We are dismayed!
+falling off the walls" apartments vacant. What a disaster!
 
 @Z: Home to Germany?
 
