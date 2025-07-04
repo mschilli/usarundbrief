@@ -17,10 +17,8 @@ in fast-track procedures, and most politicians care little about
 whether they suspend democratic principles. There is still war in
 Afghanistan, and in Israel, everyone is sitting on a powder keg.
 
-TODO
-
-The history has shown the negative phenomena to which fear and the
-resulting fanaticism for security and intolerance lead: Germany finds
+History has shown the negative phenomena to which fear and the
+resulting fanaticism for security and intolerance can lead: Germany finds
 itself at the forefront of this. Today, however, I would like to talk
 about a dark chapter in American history that we encountered up close
 on one of our recent short trips in September, and about which little
@@ -30,11 +28,11 @@ school). Parallels to the current situation are intentional.
 <pic images/m1.ps Memorial stone in Manzanar>
 
 We are driving through the vast expanse of California. On Highway
-395, we head south towards Lone Pine. To the right, the mountain
+395, we're heading south, towards Lone Pine. To the right, the mountain
 ranges of the Sierra Nevada rise up. We wouldn't be surprised if a
 cowboy appeared over the next hilltop, riding his horse into the
 sunset. This is the land of diners, steaks, and weak coffee--and
-breathtaking landscapes. A Wild West clichÃ©. The heat fits the
+breathtaking landscapes. A Wild West cliche. The heat fits the
 picture as well. But shortly after the town of "Independence," the
 myth of the Marlboro advertisement fades. We approach the "Manzanar"
 memorial. Here, during World War II, the American government under
@@ -67,12 +65,14 @@ During our visit, we encountered only one other tourist. To learn
 about the history of Manzanar, we stopped at the museum in
 Independence, where there is a lovingly crafted, amateurish,
 permanent exhibition about the camp. They also built a faithful
-replica of a barrack room there. On the campgrounds themselves, only
+replica of a barrack room there. On the site itself, only
 the original auditorium, which was used for social gatherings, parts
 of the cemetery with a memorial stone, the pagoda-like police post,
 and one of the guardhouses still exist.
 
-<pic images/m3.ps Hinweisschild>
+<pic images/m3.ps Sign>
+
+TODO
 
 Visitors are allowed to drive their cars along the dusty roads of the
 camp. And although there are hardly any buildings left to see,
