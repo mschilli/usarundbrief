@@ -72,8 +72,6 @@ and one of the guardhouses still exist.
 
 <pic images/m3.ps Here were the Barracks>
 
-TODO
-
 Visitors are allowed to drive their cars along the dusty roads of the
 camp. And although there are hardly any buildings left to see,
 visitors can sense what the internees went through here. Wooden signs
@@ -89,24 +87,20 @@ folding cranes to wish for health but died before she could complete
 the 1,000 cranes. As a result, many projects were initiated in her
 name to create lasting peace in the world.
 
-<pic images/m4.ps Papier-Kraniche>
+<pic images/m4.ps Paper Cranes>
 
-<pic images/m5.ps Papier-Kraniche>
+<pic images/m5.ps Paper Cranes>
 
 When you leave the former internment camp, you pass by a plaque with
-the following inscription:
-
-The translation you provided is already in English: "May the
+the following inscription: "May the
 injustices and humiliation suffered here as a result of hysteria,
-racism, and economic exploitation never emerge again.
+racism, and economic exploitation never emerge again."
 
 In my opinion, there is no better Christmas message this year.
 
 In this spirit, we wish you thoughtful, peaceful holidays!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
+Angelika und Michael
 
 P.S.: Last week, Americans of Japanese descent presented cranes to
 their Muslim fellow citizens to show their solidarity.
-
