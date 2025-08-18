@@ -424,6 +424,8 @@ Und neben Müllabfuhr ($200 im Monat), Strom (bis zu $400 mit dem neuen
 sind schnell nochmal $1000 pro Monat beisammen. Haus neu anstreichen? $20.000.
 Neues Dach drauf? $20.000.
 
+<pic images/sf-sidewalk-colors.ps Die Sprühfarbe gibt an, wer zuständig ist für die Reparatur.>
+
 Auch wissen viele nicht, dass Hausbesitzer den Gehsteig vor dem Haus auf eigene
 Kosten instandsetzen müssen, falls die in San Francisco üblichen etwa 1m mal 1m
 großen Steinplatten Sprünge aufweisen. Das passiert hauptsächlich wegen den am
