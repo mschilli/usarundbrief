@@ -228,63 +228,57 @@ these days is to simply carry out every silly idea that pops into my
 head in the morning, I recently drove there as a roving newsletter
 reporter and explored the situation.
 
-TODO
-
 To understand this, one must know that "South San Francisco" and "San
 Francisco" are two completely different cities, each with its own
-administration. Yes, the smaller sister city located 20 km south of
-the original is not even in San Francisco County, but belongs to San
+administration. Yes, the smaller sister city located 10 miles south of
+the original is not even located in San Francisco County, but belongs to San
 Mateo County, which extends further down into Silicon Valley.
 
-<pic images/ssf-sign-m2.ps The racing newsletter reporter in Sign
-Hill Park>
+<pic images/ssf-sign-m2.ps The racing newsletter reporter at Sign Hill Park>
 
 To the history: The letters were carved into the hill in 1929 (after
 a temporary installation in 1923) at the urging of the Chamber of
 Commerce of the then-bustling small city of South San Francisco,
-which was thriving with the steel industry, meat processing plants,
+which was thriving with steel industry, meat processing plants,
 and shipyards. The goal was likely to encourage the influx of
-additional industries. Nowadays, the pharmaceutical giant Genentech
+additional business. Nowadays, the pharmaceutical giant Genentech
 is the most active employer there. The hill with the letters is part
 of the San Bruno Mountains, although "Mountains" is relative here, as
-the little hill is only 177 meters high.
+the tiny hill is only 400 feet high.
 
 The outlines of the letters were carved into the hill in 1929 and
 filled with white cement. The construction costs amounted to 5,000
-dollars. To ensure that the lettering could be easily read from a
+dollars at the time. To ensure that the lettering could be easily read from a
 great distance, despite the slope of the hill, the project's engineer
 employed all sorts of geometric tricks. The letters are enormous,
-with the third line alone stretching almost 200 meters in width.
+with the third row alone stretching almost 200 meters in width.
 
-Auf" is a German preposition that can be translated to English as
-"on" or "upon," depending on the context.
-<LINK>https://en.wikipedia.org/wiki/South_San_Francisco_hillside_sign
-|Wikipedia article on the letters in South San Francisco</LINK>
-There are still interesting details about the installation, for
+On <LINK>https://en.wikipedia.org/wiki/South_San_Francisco_hillside_sign|Wikipedia</LINK>
+you can find still more interesting details about the installation, for
 example, that in 1932 an additional electrically operated luminous
 beacon was installed, but it was turned off due to fear of air
-bombardment during the then-raging Second World War--and it was never
+strikes during the then-raging Second World War--and it was never
 turned on again.
 
-<pic images/ssf-sign-l.ps View from Sign Hill Park over to the east
-towards the bay.>
+<pic images/ssf-sign-l.ps View from Sign Hill Park over to the east towards the Bay.>
 
 With Google Maps, you can easily find out exactly where the entrance
-to this "Sign Hill Park" is located on a hidden residential street in
-South San Francisco. A circular trail of about 3 km leads up the
-steep slope via stairs to the summit plateau with a weather station,
+to the "Sign Hill Park" is located. It's off a hidden residential street in
+South San Francisco. A circular trail about two miles long leads up the
+steep slope via stairs and to the summit plateau with a weather station,
 from where you can enjoy an impressive panoramic view in good
 weather, overlooking the San Francisco Bay and the suburbs of Silicon
 Valley.
 
-<pic images/ssf-sign-t.ps Only with an extreme wide-angle lens can
-the letters be captured, here the 'T' in 'SOUTH'.>
+<pic images/ssf-sign-t.ps Only with an extreme wide-angle lens can the letters be captured, here's the 'T' in 'SOUTH'.>
 
-The hiker can get very close to the letters if they deviate slightly
+Hikers can get very close to the letters if they deviate slightly
 from the marked path, but the slope is estimated to be 45 degrees
 steep and there is little to hold onto. Additionally, coyotes are
 prowling around. The whole thing is a rewarding excursion, especially
 for curious people like me.
+
+TODO
 
 @Z: Gerrymandering
 
