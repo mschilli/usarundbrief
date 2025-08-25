@@ -84,10 +84,10 @@ mit schweren, lebensbedrohlichen Erkrankungen, die seit mindestens fünf Jahren
 in der Wohnung leben. Schätzungsweise die Hälfte der Mieter in unserem Haus
 fällt unter diese Kategorien.
 
-<pic images/compass-rent-roll.ps Was jede Partei an Miete zahlt wird in der Rent Roll öffentlicht.>
+<pic images/compass-rent-roll.ps Was jede Partei an Miete zahlt wird in der Rent Roll öffentlich.>
 
 Wenn ein Haus zum Verkauf steht, findet in den USA das sogenannte "Staging"
-stat, das heißt, die Wohnungen werden mit schicken Möbeln drapiert und tolle
+statt, das heißt, die Wohnungen werden mit schicken Möbeln drapiert und tolle
 aufgemotzte Fotos geschossen, damit sich das Haus besser und teurer verkauft.
 In einem Mietshaus, in dem Leute wohnen, ist das natürlich etwas schwieriger,
 aber der Makler gab trotzdem sein Bestes. Die Wohnung von unserem Nachbarn
@@ -156,10 +156,10 @@ Alufolie.
 
 <pic images/costco-biz-avocado.ps (#1) Avocados bis sie einem zu den Ohren rauskommen.>
 
-Das beste ist aber das Kühlregal mit den ganzen Ziegen (Abbildung (#2)), die
+Das Beste ist aber das Kühlregal mit den ganzen Ziegen (Abbildung (#2)), die
 fertig ausgenommen an Haken hängen und pro Pfund nur $3.39 kosten. Ich habe
 tatsächlich schon Kunden dabei beobachtet, wie sie einen Ziegenkörper vom
-Haken nahmen und quer über ihren Einkaufswagen legten um sie zur Kasse zu schieben!
+Haken nahmen und quer über ihren Einkaufswagen legten, um sie zur Kasse zu schieben!
 
 <pic images/costco-biz-goat.ps (#2) Oder wie wär's mit einer ganzen australischen Ziege?>
 
@@ -274,9 +274,9 @@ Midterm-Wahlen (Zwischenwahlen) an. Dann werden alle 435 Sitze im
 Repräsentantenhaus und 35 der 100 Senatssitze neu vergeben. Traditionell
 bekommt der amtierende Präsident bei diesen Wahlen einen Dämpfer, das heißt, die
 Mehrheiten verschieben sich in der Regel, was das Regieren erschwert, wenn sich
-diese Verschiebung zu seinen Ungunsten auswirkt. Trump weiß das – und versucht
+diese Verschiebung zu seinen Ungunsten auswirkt. Trump weiß das -- und versucht
 vorzubeugen, unter anderem mithilfe der politischen Strategie des
-“Gerrymandering”.
+"Gerrymandering".
 
 Aber was bedeutet Gerrymandering eigentlich genau? Wir haben diese Taktik hier
 und da schon einmal erwähnt (<RBLINK>20061124#8</RBLINK>), heute möchte ich
@@ -511,7 +511,7 @@ Rathaus von San Francisco zu leiten. Inzwischen hat sich das Programm stark
 erweitert und umfasst zahlreiche Viertel in der ganzen Stadt. Es steht immer
 noch unter der Schirmherrschaft der
 <LINK>https://sfpl.org|Website der Stadtbücherei San Franciscos</LINK>,
-auf der man sich unkompliziert anmelden kann – und los geht's.
+auf der man sich unkompliziert anmelden kann -- und los geht's.
 
 <pic images/noe-walking-tour-2.ps Der krönende Abschluss der Tour auf unserem Marktplatz>
 
