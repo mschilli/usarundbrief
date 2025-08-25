@@ -203,7 +203,7 @@ When I discover something funny during my shopping trips, I like to
 send a photo via WhatsApp to Angelika to tease her. She often
 promptly replies with "Absolutely No Way!!" and I crack up laughing.
 
-@Z: South San Francisco Sign Park
+@Z: South San Francisco Sign Hill Park
 
 <pic images/ssf-sign-south-view.ps (#4) The well-known letters on the hill in South San Francisco>
 
@@ -278,15 +278,12 @@ steep and there is little to hold onto. Additionally, coyotes are
 prowling around. The whole thing is a rewarding excursion, especially
 for curious people like me.
 
-TODO
-
 @Z: Gerrymandering
 
-<pic images/gerry-examples.ps Gerrymandering: Depending on how the
-district boundaries are drawn, the election outcome changes.>
+<pic images/gerry-examples.ps Gerrymandering: Depending on how the district boundaries are drawn, the election outcome changes.>
 
 <em>Angelika</em> 
-In the last newsletter, I had already begun to outline the weaknesses
+In the last newsletter, I had already begun to outline some weaknesses
 in the American Constitution and the political system of the USA in
 general, which can lead to abuses of power in various degrees,
 depending on who is currently in charge. Trump tests the limits every
@@ -297,19 +294,17 @@ up for grabs. Traditionally, the sitting president receives a setback
 in these elections, meaning that the majorities usually shift, which
 makes governing more difficult if this shift is to his disadvantage.
 Trump is aware of this and is trying to take precautions, including
-through the political strategy of "gerrymandering.
+through the political strategy of "gerrymandering".
 
-The translation of the German text to English is: "But what exactly
-does gerrymandering mean? We have mentioned this tactic here and
-there before.
-<RBLINK>20061124#8</RBLINK>
+But what exactly does gerrymandering mean? We have mentioned this tactic here and
+there before (<RBLINK>20061124#8</RBLINK>).
 Today, however, I would like to delve deeper. Partisan gerrymandering
 refers to the practice of drawing (or rather manipulating) electoral
 district boundaries in such a way that a particular party or
 candidate is clearly favored. The whole concept hinges on the fact
 that the election results of a district do not contribute
 proportionally to the overall outcome, but rather only one candidate
-wins the district: "Winner takes all.
+wins the district: "Winner takes all."
 
 In theory, electoral districts should be designed in such a way that
 different voter groups are fairly represented. Therefore, in the
@@ -331,29 +326,28 @@ Cracking is the opposite strategy: the voters of the opposing party
 are spread as widely as possible across many districts so that they
 cannot form a majority anywhere.
 
-Here is an example that might make the whole thing clearer: A state
+Here is an example that might make the whole thing clearer: An area
 with 100 voters is to be divided into 5 districts, each with 20
-voters. 60 voters support the Republicans, and 40 voters support the
+voters. 60 voters support Republicans, and 40 voters support
 Democrats. With a fair division, this would result in 3 Republican
 and 2 Democratic seats, corresponding exactly to the 60/40 ratio.
 Now, let's imagine the Republican Party controls the districting and
 wants to reduce the Democratic seats as much as possible by packing
-their voters into as few districts as possible. In District 1, all 20
+their voters into as few districts as possible. Therefore, in District 1, all 20
 votes go to the Democratic Party and none to the Republican Party.
 The packed district thus goes 100% to the opposing party. However,
 these votes are now missing in the other districts and are thus
 wasted. In Districts 2, 3, 4, and 5, 12 votes go to the Republican
-Party, and accordingly, 8 go to the Democratic Party. The Republicans
+Party, and accordingly, 8 go to the Democratic Party. Republicans
 win these districts with 60% each, as the "winner takes all"
 principle applies. This leads to the overall result that the
 Republican Party now gets 4 seats and the Democratic Party only one.
 In "cracking," the opposite strategy is applied, as already
 mentioned. In our example, all 5 districts then go 60% to the
 Republican Party, which thus receives 5 seats, but this no longer
-reflects the political landscape of the state.
+reflects the political landscape of the area.
 
-<pic images/gerry.ps A pamphlet against gerrymandering arrives in the
-mail.>
+<pic images/gerry.ps A pamphlet against gerrymandering arrives in the mail.>
 
 It is common to redraw the electoral districts after a census (the
 last one took place in 2020). However, Trump is currently pursuing a
@@ -370,7 +364,7 @@ congressional elections in November 2026. This has since been passed.
 
 Our Californian Governor Gavin Newsom is now following suit and wants
 to also redefine the electoral districts in California. California is
-firmly in Democratic hands. Until now, the delineation of electoral
+firmly in Democratic hands. Until now, the outline of electoral
 districts in California has been handled by an independent
 commission, but Newsom wants to temporarily transfer this
 responsibility back to the California State Assembly. A move that
@@ -379,7 +373,7 @@ could send more Democrats to Congress and thereby counterbalance the
 approach taken by Texas. Ultimately, this does not solve the real
 problem, namely that gerrymandering is undemocratic and should be
 abolished. In deeply polarized times, however, it seems to be all
-about "an eye for an eye, and a tooth for a tooth.
+about "an eye for an eye, and a tooth for a tooth."
 
 Now you must know that in our state, the California Constitution
 actually guarantees the independence of district determination. It
@@ -398,17 +392,20 @@ California Constitution will be amended, and for the elections in
 politicians. This week, the first election pamphlets have already
 arrived at our house.
 
-<pic images/spezi.ps (#7) The beverage market sells Spezi for 3.50
-dollars per 0.33-liter bottle.>
+@Z: Spezi in America
+
+<pic images/spezi.ps (#7) The beverage market sells Spezi for 3.50 dollars per 0.33-liter bottle.>
 
 <em>Michael</em> 
-At the end of 2023, here with us
-<LINK>https://stacker.news/items/338097|Gerüchte</LINK>
-The hope was that the quintessentially German driver's drink "Spezi"
+At the end of 2023, we'd heard
+<LINK>https://stacker.news/items/338097|rumors</LINK>
+that the quintessential German driver's drink "Spezi"
 would make it to the USA. In reality, Spezi is nothing special, just
 cola with Fanta and a bit of lemon, but all the sweetness of youth is
-contained in these memories of the bulbous 0.4-liter glasses of the
+contained in these memories of bulbous 0.4-liter glasses of the
 brown drink, with a half slice of lemon floating on top.
+
+TODO
 
 Due to the lack of purchasing options, I had already tried mixing
 Spezi myself in the meantime.
