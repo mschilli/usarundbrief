@@ -203,7 +203,7 @@ schon viele erschlagen, die stärker war'n als du, schallalalong ..."
 
 <pic images/ssf-sign-map.ps Der Hügel mit den Lettern liegt auf dem Weg zum Flughafen SFO.>
 
-Nun, in San Francisco haben wir (fast) so etwas ähnliches nämlich die Lettern
+Nun, in San Francisco haben wir (fast) so etwas Ähnliches nämlich die Lettern
 <LINK>https://en.wikipedia.org/wiki/South_San_Francisco_hillside_sign|"South San Francisco The Industrial City"</LINK>,
 die sieht man gut, wenn man bei Tag vom
 Flughafen auf dem Freeway 101 Richtung Norden in die Stadt reinfährt (Abbildung (#4)). Schon
@@ -251,7 +251,7 @@ Mit Google Maps kann man leicht herausfinden, wo genau der Eingang zu diesem
 Ein etwa 3km langer Rundweg führt über Treppen den steilen Abhang hinauf, zum
 Gipfelplateau mit Wetterstation, von wo man bei schönem Wetter einen
 beeindruckenden Rundblick genießen kann, auf die San Francisco Bay und die
-Vorstädte des Silicon Valley.
+Vorstädte des Silicon Valleys.
 
 <pic images/ssf-sign-t.ps Nur mit einem extremen Weitwinkel lassen sich die Lettern einfangen, hier das "T" in "SOUTH".>
 
@@ -312,7 +312,7 @@ Bundesstaat mit 100 Wählern ist in 5 Wahlkreise mit je 20 Wählern aufzuteilen.
 60 Wähler unterstützen die Republikaner, 40 Wähler die Demokraten. Bei einer
 fairen Aufteilung würden daraus 3 republikanische und 2 demokratische Sitze
 werden, also genau dem Verhältnis 60/40 entsprechend. Nun stellen wir uns vor,
-die republikanische Partei kontrolliert die Wahlkreiseinteilung und möchte die
+die republikanische Partei kontrolliert die Wahlkreis\-einteilung und möchte die
 Sitze der Demokraten so weit wie möglich reduzieren, indem sie deren Wähler in
 möglichst wenige Wahlkreise hineinpackt. In Wahlkreis 1 gehen alle 20 Stimmen
 somit an die demokratische Partei und keine an die republikanische. Der
@@ -376,6 +376,7 @@ Wahlpamphlete bei uns ins Haus.
 
 <pic images/spezi.ps (#7) Der Getränkemarkt verkauft Spezi für 3.50 Dollar pro 0.33l-Flasche.>
 
+<em>Michael</em>
 Ende 2023 kamen hier bei uns <LINK>https://stacker.news/items/338097|Gerüchte</LINK> auf,
 dass es das urdeutsche Autofahrergetränk "Spezi" in die USA schaffen
 würde. Eigentlich ist Spezi ja nichts Besonders, nur Cola mit Fanta und
@@ -460,6 +461,7 @@ Butzenhaken? Topp-Produkt!
 
 <pic images/bitters.ps Die bombige Bitters-Essenz>
 
+<em>Michael</em>
 Die Cowboy-Zeiten, in denen ein harter Bursche in staubiger Kleidung, Typ Clint
 Eastwood, einen Saloon betritt und nur leise "Whiskey!" sagt, worauf eine
 Flasche und ein Glas quer über den Tresen sausen, und der harte Bursche sich
