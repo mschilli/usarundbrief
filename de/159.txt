@@ -260,9 +260,9 @@ abweicht, aber der Abhang ist dort schätzungsweise 45 Grad steil und es gibt
 kaum Halt. Außerdem scharwenzeln Koyoten herum. Das Ganze ist ein lohnender
 Ausflug, besonders für neugierige Leute wie mich.
 
-@Z: Gerrymandaring
+@Z: Gerrymandering
 
-<pic images/gerry-examples.ps Gerrymandering: Je nachdem, wie die Distriktgrenzen gezogen werden, verändert sich das Wahlergebnis.>
+<pic images/gerry-examples.ps Gerrymendering: Je nachdem, wie die Distriktgrenzen gezogen werden, verändert sich das Wahlergebnis.>
 
 <em>Angelika</em>
 Im letzten Rundbrief hatte ich bereits begonnen darzulegen, welche Schwächen es
