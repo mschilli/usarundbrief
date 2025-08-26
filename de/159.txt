@@ -262,7 +262,7 @@ Ausflug, besonders für neugierige Leute wie mich.
 
 @Z: Gerrymandering
 
-<pic images/gerry-examples.ps Gerrymendering: Je nachdem, wie die Distriktgrenzen gezogen werden, verändert sich das Wahlergebnis.>
+<pic images/gerry-examples.ps Gerrymandering: Je nachdem, wie die Distriktgrenzen gezogen werden, verändert sich das Wahlergebnis.>
 
 <em>Angelika</em>
 Im letzten Rundbrief hatte ich bereits begonnen darzulegen, welche Schwächen es

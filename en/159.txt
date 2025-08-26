@@ -326,6 +326,8 @@ Cracking is the opposite strategy: the voters of the opposing party
 are spread as widely as possible across many districts so that they
 cannot form a majority anywhere.
 
+<pic images/gerry.ps A pamphlet against gerrymandering arrives in the mail.>
+
 Here is an example that might make the whole thing clearer: An area
 with 100 voters is to be divided into 5 districts, each with 20
 voters. 60 voters support Republicans, and 40 voters support
@@ -347,7 +349,8 @@ mentioned. In our example, all 5 districts then go 60% to the
 Republican Party, which thus receives 5 seats, but this no longer
 reflects the political landscape of the area.
 
-<pic images/gerry.ps A pamphlet against gerrymandering arrives in the mail.>
+<pic images/gerry-flyer-1.ps This election flyer refers to the 2010 ban on Gerrymandering in California.>
+
 
 It is common to redraw the electoral districts after a census (the
 last one took place in 2020). However, Trump is currently pursuing a
@@ -374,6 +377,8 @@ approach taken by Texas. Ultimately, this does not solve the real
 problem, namely that gerrymandering is undemocratic and should be
 abolished. In deeply polarized times, however, it seems to be all
 about "an eye for an eye, and a tooth for a tooth."
+
+<pic images/gerry-flyer-2.ps Allegedly, the upcoming special election on Gerrymandering will cost tax payers 200 million dollars.>
 
 Now you must know that in our state, the California Constitution
 actually guarantees the independence of district determination. It
