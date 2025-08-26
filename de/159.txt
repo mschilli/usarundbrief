@@ -307,6 +307,8 @@ umgekehrte Strategie: Man verteilt die Wähler der gegnerischen Partei so breit
 wie möglich über viele Wahlkreise, sodass sie nirgends eine Mehrheit bilden
 können.
 
+<pic images/gerry.ps Pamphlet gegen das Gerrymandering flattert per Post ins Haus.>
+
 Hier ein Beispiel, das das Ganze vielleicht anschaulicher macht: Ein
 Bundesstaat mit 100 Wählern ist in 5 Wahlkreise mit je 20 Wählern aufzuteilen.
 60 Wähler unterstützen die Republikaner, 40 Wähler die Demokraten. Bei einer
@@ -328,7 +330,7 @@ alle 5 Wahlkreise mit 60% an die republikanische Partei, die somit 5 Sitze
 erhält, was aber nicht mehr der politischen Landschaft des Bundesstaates
 entspricht. 
 
-<pic images/gerry.ps Pamphlet gegen das Gerrymandering flattert per Post ins Haus.>
+<pic images/gerry-flyer-1.ps Diese Wahlwerbung verweist auf den 2010 beschlossenen Bann des Gerrymanderings in Kalifornien.>
 
 Üblich ist es, die Wahlkreise nach einer Volkszählung (die letzte fand 2020
 statt) neu zu ziehen. Trump verfolgt derzeit jedoch die Strategie,
@@ -343,6 +345,8 @@ Texas folgte jedoch Trumps Aufruf und zog einige Wahlkreise neu, um
 voraussichtlich fünf zusätzliche Sitze bei den Kongresswahlen im November 2026
 für die republikanische Partei zu sichern. Dies wurde mittlerweile
 verabschiedet.
+
+<pic images/gerry-flyer-2.ps 200 Millionen soll die Gerrymander-Abstimmung den Steuerzahler kosten.>
 
 Unser kalifornischer Gouverneur Gavin Newsom zieht nun nach und möchte auch in
 Kalifornien die Wahlkreise neu festlegen. Kalifornien ist fest in
