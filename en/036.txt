@@ -3,21 +3,19 @@ San Francisco, 02-01-2002
 
 @Z: Rent Cars Like the Pros
 
-TODO
-
 <em>Michael</em> 
-In the series "America for Professionals," today we present: How can
-I get a rental car at a reasonable price? Typically, the German
-tourist books this from Germany -- and that's okay because travel
+In our ongoing series "America by the Pros," today we present: How can
+I get a rental car at a reasonable price? Typically, German
+tourists book rental cars from Germany -- and that's okay because travel
 agencies usually negotiate good rates. However, at the car rental
-counter, things get serious: The salesperson there will try various
+counter, things take a turn: The salesperson there will try various
 tricks to drive up the price. And that's why today we'll take a close
-look at what exactly goes on in detail.
+look at what exactly goes on here in detail.
 
 <pic images/av2.ps At the car rental return station>
 
 In the USA, every driver needs liability insurance. Driving without
-it is illegal and can end badly. When a German tourist rents a car,
+it is illegal and can end badly. When German tourists rent a car,
 liability insurance with a high coverage amount is almost always
 included in the rental price, as Germans are accustomed to having
 liability insurance. However, make sure to read your contract
@@ -26,28 +24,28 @@ carefully!
 In contrast, car rental companies in America will sell "Extended
 Liability" for about $10 a day. In America, the statutory minimum
 liability coverage only offers about $30,000 in coverage -- a joke!
-If you hit just one pedestrian, you could declare bankruptcy.
+If you hit just one pedestrian, you'll have to declare bankruptcy.
 Therefore, it is important to read the contract carefully and ensure
 a coverage amount of at least $500,000.
 
 And there's another special feature: In the USA, if you own a car and
 have liability insurance for it, you are generally covered not only
-for your private car but for any car you drive. This means that if
-Angelika or I drive a rental car (or a friend's car) in the USA, we
-are automatically covered by liability insurance. If we rent a car
+for your private car but for any other car you drive. This means that if
+Angelika or I are driving a rental car (or a friend's car) in the USA, we
+are automatically covered by our own liability insurance. If we rent a car
 because, for example, we fly somewhere and want to be mobile there,
 we get it without liability insurance. However, this must be
-explicitly stated in the private auto liability insurance contract.
+explicitly stated in your private auto liability insurance contract.
 
 But what if someone steals the rental car or you crash it yourself?
 In that case, the renter is fully liable and must not only pay for
 the damage to the car but also fully compensate the rental company
 for the downtime during which the company can no longer rent out the
-car. This can become very expensive. However, you can protect
-yourself against this: The rental company's insurance, called CDW
+car ("loss of use"). This can become very expensive. However, you can protect
+yourself against this scenario: The rental company's insurance, called CDW
 "Collision Damage Waiver" or LDW "Loss Damage Waiver," offers a type
 of comprehensive coverage according to German standards for about $10
-(depending on the size of the car) with a deductible.
+a day (depending on the size of the car) with a deductible.
 
 If you live in the USA and have certain credit cards, things are
 easier for you here as well: these cards cover liability for
@@ -55,34 +53,35 @@ self-caused accidents (only for the rental car, not for the other
 party in an accident!) and theft, if you pay the car rental bill with
 them. Our "American Express" card, for example, includes this in the
 contract--so when we rent a car, we pay nothing beyond the listed
-price. Even if the salesperson at the car rental does flips. They
-always have us sign a few forms stating that we are fully liable for
-everything. But we are always fully insured, once through private
-liability insurance and also through the credit card. However, not
-all residents of the USA think about this, pretend to the car rental
+price. Even if the salesperson at the car rental throws a hissy fit. They
+always have us sign a few forms stating that we are now fully liable for
+everything. But we are always fully insured, one part through private
+liability insurance and the other part through our credit card. However, not
+all residents of the USA think this through. They pretend to the car rental
 agent that they have private insurance, and then drive without any
 insurance. If something happens, they have to deal with the American
 legal system.
 
-<pic images/ryder.ps You can also rent trucks.>
+<pic images/ryder.ps You can even rent trucks.>
 
-Therefore: Never skimp on insurance. However, if you already have
-insurance, the seller might try to talk you into buying a pointless
+Memorize this: Never skimp on insurance. However, if you already have
+insurance, the rental agent might try to talk you into buying a pointless
 additional insurance policy -- so be cautious and, above all, make
 sure you are familiar with the contract you signed in Germany
 (usually with the travel agency). Unfortunately, among the clerks of
 large car rental companies, there are many bad apples who thoroughly
 deceive tourists. They take advantage of the fact that most
 foreigners are not familiar with the American insurance system and,
-when in doubt, prefer to buy one insurance policy too many rather
+when in doubt, can be talked into buying one insurance policy too many rather
 than too few. As always, being smart gives you an advantage.
 
-There are two more types of insurance that the seller will probably
-try to sell you: The "Uninsured Motorist Insurance" protects you in
-case an American without insurance crashes into your car. This is not
+There are two more types of insurance that the agent will probably
+try selling to you: "Uninsured Motorist Insurance" protects you in
+case that someone without insurance crashes into your car. This is not
 all that unlikely, and that's why I have to say that it might be
 sensible to get this insurance, unless it's already included
-somewhere else. The so-called "Medical" insurance, which costs only
+somewhere else (also note that this won't cover hit and runs).
+Also, the so-called "Medical" insurance, which costs only
 about a dollar a day or so, is complete nonsense, as you and your
 passengers hopefully have extra health insurance when traveling to
 the USA; otherwise, you're already in a precarious situation.
@@ -97,7 +96,7 @@ liability and comprehensive insurance and charges DM 110 a day or
 less -- go for it, because you won't get it cheaper in the USA
 either.
 
-Upon arriving in the USA, the salesperson will immediately try to
+Upon arriving at the counter, the salesperson will immediately try to
 talk you into a "better," meaning larger, car. They will argue that,
 for example, for $10 more per day, you could get a convertible.
 However, this only applies to the base price, turning $25 into $35,
@@ -120,20 +119,20 @@ vacation. We laughed so much!
 
 Then the salesperson asks if you would like to buy discounted fuel
 from the car rental company. Gasoline in the Bay Area currently costs
-about $1.35 per gallon at the gas station (approximately â¬0.40 per
+about $1.35 per gallon at the gas station (approximately 0.40 Euros per
 liter), but the car rental company will sell it for $1.10 if you take
 a full tank. Sounds good, right? But it's a scam. The renter has the
 option to either a) return the car with a full tank, or b) buy a full
-tank of gas so that you can return the car empty to the parking lot.
+tank of gas so that you can return the car empty to the rental lot.
 
-The problem, of course, is that you can never run the tank completely
-empty (unless, of course, your name is GÃ¼nter Speckhofer, who, with
+The problem, of course, is that you can never run the car completely
+empty (unless, of course, your name is Günter Speckhofer, who, with
 his iron nerves, is known to leave only homeopathic amounts in the
 tank), because who would risk running out of gas on the highway? Even
-the most cunning driver must always leave at least five liters in the
+the most cunning driver will always leave at least five liters in the
 tank (by then, the needle is already deep in the red) and give that
 to the car rental company -- which, of course, totally ruins the
-cheaper fuel price. Or, you might not drive enough to empty the tank.
+cheaper fuel price. Or, you might not be driving enough to empty the tank at all.
 A person from Portland, whose identity we won't reveal here (Richard
 Patten), once chose the "I buy a full tank" option for a two-day stay
 in San Diego. The only way to empty the tank would have been to leave
@@ -147,8 +146,7 @@ option. This is also a scam because no one can accurately estimate
 how many liters you need to fill up to make the tank of an unfamiliar
 car exactly half full.
 
-<pic images/av1.ps (#3) The translation of "Dullentabelle einer
-Autovermietung" to English is "Dent chart of a car rental company.>
+<pic images/av1.ps (#3) Dent chart issued by the car rental company.>
 
 What about scratches and dents? The large car rental companies
 "Dollar," "Alamo," "Avis," and "Budget" are not very strict about
@@ -159,7 +157,7 @@ receipt on a mobile computer -- and that's it. You take the shuttle
 bus to the airport and you're on your way. Some smaller companies
 (e.g., Enterprise) create a small diagram of the existing dents when
 you pick up the vehicle, which you have to sign (illustration (#3)),
-and this is then compared with the vehicle upon return.
+and this is then compared to how the vehicle looks upon return.
 
 How can you find a good car rental deal when you're in the USA? You
 can either read the Sunday newspaper and study the large-format ads
@@ -180,11 +178,11 @@ money. If you do show up at the car rental at 6:00 PM, it's not a
 problem. Conversely, if you pick up the car at 7:00 PM and state 8:00
 PM as the pickup time, the car rental company will charge you for an
 entire extra day! By the way, if you want to keep the car longer than
-planned, just call them; it's usually possible. The same applies in
+planned, just call them; they'll usually allow it. The same applies in
 case of an accident: call the car rental company immediately and ask
-for advice, as their centers are staffed around the clock.
+for advice, as their call centers are staffed around the clock.
 
-When making a reservation by phone, you don't have to pay anything
+When making a rental reservation by phone, you don't have to pay anything
 upfront. They will only ask if you will be paying later with a "major
 credit card" -- such as American Express, Visa, or Mastercard. You
 will then receive a reservation number, which you can use to simply
@@ -197,23 +195,23 @@ There, you present your driver's license and credit card and acquire
 the necessary insurance. By the way, the agent might ask you not only
 to sign the contract at the bottom but also to place your "initials"
 at certain spots. By putting your initials (e.g., "M.S.") there, you
-agree to the respective clauses, and you can't later claim you didn't
+agree to the respective clauses, and you can't later claim you hadn't
 read them. If there are two or more of you, you need to inform the
-seller who will be driving. Usually, only the person listed in the
+agent who will be driving. Usually, only the person listed in the
 contract is insured. There are exceptions for married couples, but
 always ask and present the driver's license -- all drivers must be
 present in person. Often, an additional driver costs money, $3 per
 day is common. And a warning to our dear youngsters: Those under 25
 or so have to pay more. Then you get the key, go to the garage, and
-are assigned a car. By the way, it's always automatic and perfumed
+are assigned a car. By the way, it always comes with automatic transmission and perfumed
 with an interior spray -- phew! And off you go!
 
-Sure, here's the translation:
+So, that should be enough to keep you from falling for the car rental scammers.
+Yes, I am not afraid to shout this out to the world: All American car rental
+companies are trying to take advantage of you! Or are very, um, business-savvy,
+as the Americans say. Fight with tough measures!
 
-"So, that should be enough to keep you from falling for the car
-rental scammers. Yes, I am not afraid to shout this out to the world:
-All American car rental companies are scammers! Or very, um,
-business-savvy, as the Americans say. Fight with tough measures!
+TODO
 
 @Z: German Influences in English
 
