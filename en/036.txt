@@ -317,13 +317,13 @@ about the German cat food "Kinky," which an advertising agency
 supposedly withdrew at the last moment in the eighties because
 "Kinky" simply means "perverse" in English.
 
-TODO
-
 @Z: The Mormon Temple of San Diego
+
+<pic images/moc.ps (#6) Visible from the highway: The Mormon Temple in San Diego>
 
 <em>Michael</em> 
 Some time ago, we flew down to San Diego for a few days. A drive on
-the city highway took us past the jagged temple shown in illustration
+the highway down there took us past the pointy temple shown in illustration
 (#5). We remembered our journalistic duties as newsletter reporters,
 took the next exit, and approached the brilliantly white structure.
 It turned out to be a Mormon temple, or as it is called here in the
@@ -338,13 +338,11 @@ finished with the other group she was with. Despite Angelika's
 eye-rolling, I asked (but politely!) how long it would take, but was
 reassured that it would be soon.
 
-<pic images/moc.ps (#6) Visible from the highway: The Mormon Temple
-in San Diego>
+<pic images/tem.ps (#5) The newsletter reporters were allowed into the courtyard.>
 
-<pic images/tem.ps (#5) The newsletter reporters were allowed into
-the courtyard.>
+TODO
 
-Sister Rebecca" turned out to be the wife of "Bob" and guided us
+"Sister Rebecca" turned out to be the wife of "Bob" and guided us
 through the temple's gardens. The temple is the sanctuary of the
 Mormons and is visited by followers of the religion only on special
 occasions, such as for weddings. Otherwise, the faithful gather in
