@@ -211,70 +211,62 @@ Yes, I am not afraid to shout this out to the world: All American car rental
 companies are trying to take advantage of you! Or are very, um, business-savvy,
 as the Americans say. Fight with tough measures!
 
-TODO
+@Z: German Influences in America
 
-@Z: German Influences in English
+<em>Michael</em> Have you ever seen that some cars have a small plastic wind
+deflector stuck to the frame of the front side window? According to the
+"Herrington Catalog," this is "typically European" and is called a
+"Wind-und-Stürm-Shield" (illustration (#9)). You can often find such
+absurdities because Americans think: If it has lots of umlauts, it's got to be
+German! And everything that comes from Germany has an unchecked quality bonus
+here.  You wouldn't believe how proud some Americans are to drive not just a BMW or
+Mercedes, but even just a Volkswagen! A Jetta driver in the USA enjoys about
+the same reputation as an Alfa Romeo or MG driver in Germany: young, dynamic,
+sporty, slightly exotic.
 
-<em>Michael</em> 
-Have you ever seen that some cars have a small plastic wind deflector
-stuck to the frame of the front side window? According to the
-"Herrington Catalog," this is typically European and is called a
-"Wind-und-Sturm-Shield" (illustration (#9)). You can often find such
-absurdities because Americans think: It's German if it has lots of
-umlauts! And everything that comes from Germany has a quality bonus.
-You wouldn't believe how proud an American is to drive not just a BMW
-or Mercedes, but even just a Volkswagen. A Jetta driver in the USA
-enjoys about the same reputation as an Alfa Romeo or MG driver in
-Germany: young, dynamic, sporty, slightly exotic.
+<pic images/kata2.ps (#9) The "Wind-and-Stürm" plastic thing>
 
-<pic images/kata2.ps (#9) The "Wind-and-Storm" plastic thing>
-
-<pic images/kata1.ps The car cleaning product "Klasse>
+<pic images/kata1.ps The car cleaning product "Klasse">
 
 But that brings me to an interesting topic: the incorporation of
-German words into the English language, which also exists! In
-Germany, people often use English words to appear cool. "Networking"
-instead of "Kontakte knÃ¼pfen," for example. On the other hand,
-German words in the English language mainly serve to make the writer,
-who is already dealing with unusual words, appear particularly
+German words into the English language, and that's not as uncommon as you'd think.
+In Germany, people often use English words to appear cool. "Networking"
+instead of "Kontakte knüpfen," for example. On the other hand,
+German words in the English language mainly serve to make the author of
+an article, who is already using unusual words, appear particularly
 educated, as perhaps only 5% of Americans understand them.
 
-The New Yorker," for example, is a weekly magazine read not only in
+The "New Yorker," for example, is a weekly magazine read not only in
 New York City but nationwide, featuring lengthy articles that even I,
 after five years in America, still have to work through with a
 dictionary. Or do any of you newsletter-reading know-it-alls perhaps
 know what "impetuous," "to imbue," "swashbuckler," "prescience,"
 "apt," or "to rummage" mean? "Portend," "putative," "to loathe," or
-"tizzy"? Ha! In case you're interested: "impetuous," "to imbue,"
-"swashbuckler," "prescience," "apt," "to rummage." And "portend,"
-"putative," "to loathe," and "tizzy." But what I actually wanted to
+"tizzy"? Ha! But what I actually wanted to
 say is: Americans sometimes use German words to express things for
 which there is no English word. "Schadenfreude," for example. It's
-mentioned in the book "Word Freak" by Stefan Fatsis (illustration
-(#12)). You heard right, there is no English word for the most
-beautiful of all joys! Or "DoppelgÃ¤nger." It was recently in The New
+mentioned in the book "Word Freak" by Stefan Fatsis (figure (#12)).
+You heard that right, there is no English word for the most
+beautiful of all joys! Or "Doppelgänger." It was recently in The New
 Yorker (illustration (#10)).
 
-<pic images/schadenf.ps (#12) The English word "schadenfreude" is
-borrowed directly from German and refers to the feeling of pleasure
-or satisfaction derived from witnessing someone else's misfortune or
-suffering.>
+<pic images/schadenf.ps (#12) The word "schadenfreude" appears in a New Yorker article.>
 
-<pic images/doppel.ps (#10) The English word "doppelgÃ¤nger>
+<pic images/doppel.ps (#10) The word "doppelgänger" is used in English>
 
-There is indeed the word "look-alike" for people who bear a striking
+Now, there actually is the word "look-alike" for people who bear a striking
 resemblance to others (usually celebrities), but the eerie notion
 that there is someone who not only looks like you but also leads a
 similar life and perhaps has even stolen the original's identity is a
-nightmare expressed only by the English word "doppelgÃ¤nger." I don't
-need to elaborate on "Kindergarten," as everyone knows that anyway.
+nightmare expressed only by the word "doppelgänger." I don't
+need to elaborate on "Kindergarten," as everyone knows that one anyway.
 
 <pic images/schtick.ps (#14) The word "schtick" in a film review>
 
 Some American expressions that sound somewhat German also originate
 from Yiddish. For example, when the well-known film critic Roger
-Ebert writes about the old film "Dead Poet's Society" (Club der toten
-Dichter), stating that the main actor Robin Williams oscillates
+Ebert writes about the old film "Dead Poet's Society",
+stating that the main actor Robin Williams oscillates
 between "restraint and schtick" (illustration (#14)), educated
 Americans understand that Williams fluctuates between restraint and
 gimmicky routine. In colloquial usage, a "schtick" is either a
@@ -286,13 +278,12 @@ Yiddish and originally comes from German. Another example is "to
 schlep" for schleppen: "I don't like to schlep my bags!" is quite
 understandable English if you encounter someone with at least a basic
 education.
-http://koshernosh.com/yiddish.htm
-The translation to English is: "You will find the most common
-phrases.
+On the <LINK>http://koshernosh.com/yiddish.htm|Koshernosh</LINK> website
+you will find the most common phrases.
 
 <pic images/schdict.ps (#15) The word "schtick" in the dictionary>
 
-And some expressions may sound like their German "doppelgÃ¤ngers,"
+And some expressions may sound like their German "doppelgängers,"
 but they mean something slightly different: "Spiel," for example.
 When an American says "we went through the same spiel again," they
 mean that the same performance or routine happened again. And the
@@ -312,21 +303,21 @@ The participants in the meeting who had dialed in over the phone had
 no idea what was going on. And even today, when I say "Grugenheimer!"
 we burst into laughter.
 
-And something else: Sometimes advertisements come to the house that
+And something else: Sometimes advertisements come to the house by mail that
 make me laugh my head off. Maybe it's because I'm easily amused, but
 a vacuum cleaner named "ORECK" -- I just can't help myself.
 
-<pic images/oreck.ps (#4) The Super Vacuum Cleaner "ORECK>
+<pic images/oreck.ps (#4) The Super Vacuum Cleaner "ORECK">
 
 I scanned the direct mail item for the dear newsletter audience in
 illustration (#4) -- please send your humor ratings! In Germany, it
-probably wouldn't have a market chance, as the risk of confusion with
+probably wouldn't sell, as the risk of confusion with
 the word "Dreck" (dirt) is too great. This reminds me of the story
 about the German cat food "Kinky," which an advertising agency
 supposedly withdrew at the last moment in the eighties because
-"Kinky" simply means "perverse" in English
-(http://www.BerlinOnline.de/wissen/berliner_zeitung/archiv/2001/0605/
-medien/0008/index.html).
+"Kinky" simply means "perverse" in English.
+
+TODO
 
 @Z: The Mormon Temple of San Diego
 
