@@ -387,8 +387,6 @@ contained in this bottle!
 
 <pic images/svm1.ps (#19) Mr. Muscle at the Silicon Valley Marathon Relay>
 
-TODO
-
 <em>Michael</em> 
 If you can't complete a full marathon, you can also divide it into
 four parts and run it as a relay in America. Some colleagues at
@@ -401,11 +399,11 @@ leg muscles during the final sprint!
 <pic images/schoko.ps (#11) We are stocked up on chocolate.>
 
 Shortly before Christmas, our mailman had to carry a heavy load
-because all the packages from Germany arrived -- the children of our
-neighbor were already getting really curious. Thanks to everyone who
+because all the packages that arrived from Germany -- our neighbor's
+children were already getting really curious. Thanks to everyone who
 showered us with gifts -- apparently, word got around that we love
 Milka chocolate, which isn't available here. Figure (#11) shows the
-haul -- we're well-stocked, many thanks to everyone! Make way for
+haul -- we're well-stocked now, many thanks to everyone! Make way for
 Angelika!
 
 @Z: Geisterstädte
@@ -422,55 +420,55 @@ patriotic behaviors here in the USA! However, we are not driven by
 patriotic motives to explore the world -- our goal is to discover as
 much of California as possible while we live here. During one of our
 short trips in California, we visited the former gold mining town of
-"Bodie" some time ago -- a so-called ghost town.
+"Bodie" recently -- a so-called ghost town.
 
-<pic images/bodie1.ps An old living room in Bodie>
+<pic images/bodie1.ps An old living room in the ghost town Bodie>
 
-Bodie is located in the middle of the Californian outback, just
-before the Nevada border and about 100 miles northeast of Yosemite
+Bodie is located in the middle of the Californian outback, close
+to the Nevada border and about 100 miles northeast of Yosemite
 National Park. As our somewhat aging car struggled over mountain
 passes and the last three miles of unpaved road, we kept asking
-ourselves what motivated people back in the day to pitch their tents
+ourselves what had motivated people back in the day to pitch their tents
 in this rugged terrain. Naturally, it was the lure of gold. But the
 winters in this region are extremely harsh (yes, that exists in
 California too). Even today, the towns are cut off from the rest of
 the world for months because the passes over the Sierra Nevada
 mountain range are impassable. In 1859, gold was discovered in a town
 called Bodie. At the height of the gold rush, around 1879, about
-10,000 people lived in Bodie. There were, among other things, 65
+10,000 people lived in Bodie. It had, among other things, 65
 saloons. After the gold mines were exhausted, the residents gradually
 left Bodie, taking what they could carry but also leaving a lot
 behind. Due to its isolated location, much has remained as the
-residents left it: in some cases, the dishes are still in the
+residents had left it: in some cases, the dishes are still in the
 cupboards. Although only about five percent of the buildings still
 stand today, it took us hours to see everything. The buildings are
-not restored, but only minimally maintained, for example, supported
-if they are in danger of collapsing. Western enthusiasts or die-hard
+not restored, but only minimally maintained, for example, they're supported
+if they are in danger of collapsing. Western movie enthusiasts or die-hard
 fans of the TV series "Little House on the Prairie" will be in
 seventh heaven in Bodie. I wouldn't have been surprised to run into
 Laura Ingalls. If you're in the area, check out Bodie.
 
-<pic images/bodie3.ps The translation of "Auslage einer Apotheke in
-Bodie" to English is "Display of a pharmacy in Bodie.>
+<pic images/bodie3.ps Display of a pharmacy in Bodie.>
 
-@Z: Lage der Nation" translates to "State of the Nation" in English.
+@Z: State of the Nation
 
 <em>Angelika</em> 
 Regarding the State of the Nation: There is currently a lot of
 commotion in San Francisco and its surroundings about John Walker,
-who has been dubbed the American Taliban fighter by the media. The
+who has been exposed as an American Taliban fighter by the media. The
 20-year-old American grew up in wealthy Marin County, the district
 just outside San Francisco (north of the Golden Gate Bridge), and
-converted to Islam in his early teenage years. After stops in various
+had converted to Islam in his early teenage years. After stops in various
 Arab countries, he eventually ended up in Afghanistan, where he was
 captured by US troops in early December. Walker is suspected of
 having fought alongside the Taliban and Al Qaeda and is therefore
 charged with conspiracy and the murder of Americans, as well as
 aiding terrorism, which could result in a life sentence if convicted.
-In San Francisco, we occasionally hear some gleeful comments that
-Marin County produced a Taliban fighter. This is because San
+
+In San Francisco, we occasionally hear some sarcastic comments on
+Marin County having produced a Taliban member. This is because San
 Francisco has always looked down on Marin County: "too white" and
-"too rich" is the unanimous verdict. John Walker, the offspring of a
+"too rich" is the unanimous verdict. John Walker, offspring of a
 wealthy lawyer, fits this image. On a national level, "Johnny"
 sparked a heated debate about the honor of being an American citizen.
 Many were so outraged by his behavior that they would prefer to strip
@@ -484,13 +482,13 @@ face the federal court in Alexandria, Virginia, and not a military
 tribunal. This raises the suspicion that the US government sees him
 more as a lost son.
 
-Regarding confused young men: Surely you also heard in Germany that a
+Regarding confused young men: Surely you've also heard in Germany that a
 15-year-old in Florida attempted to imitate the terrorist attacks on
 the World Trade Center in order to commit suicide. He flew a small
 plane into the Bank of America building in Tampa. Allegedly, he
 expressed admiration for Osama Bin Laden in his farewell letter.
 Immediately, there was a discussion about security regulations at
-airports with private planes and an investigation into the causes of
+airports with private planes and an investigation into what led to
 the suicide. Even the 15-year-old's acne medication was scrutinized,
 as it is suspected of causing severe depression. I was amazed to see
 that no one questioned the fact that a 15-year-old in this country is
@@ -500,8 +498,7 @@ allowed to fly with an instructor, but it shows how easy it was for
 the 15-year-old to outsmart the instructor and take off alone in the
 Cessna.
 
-@Z: Politisch Korrekt" translates to "politically correct" in
-English.
+@Z: Politically Correct
 
 <em>Angelika</em> 
 And yet another all-American controversy unfolded in New York last
@@ -513,7 +510,7 @@ bronze figures (including the flag). The problem was that the real
 three firefighters were all white. This was deemed politically
 incorrect, and--just like that--it was decided to depict one white,
 one black, and one Latino firefighter. The firefighters in New York
-promptly protested, arguing that this completely distorted the true
+promptly protested, arguing that this completely distorted the actual
 event. Others countered that it was not about depicting reality but
 about the symbolic content. The fact is that almost the entire corps
 of firefighters in New York is composed of white individuals, which
@@ -522,21 +519,21 @@ In any case, the project was initially put on hold. The artist is now
 considering other design possibilities.
 
 Behaving politically correct is considered good manners, especially
-in San Francisco; however, sometimes it can lead to some peculiar
+here in San Francisco; however, sometimes it can lead to some peculiar
 outcomes. But in principle, it's a good thing not to act like an
 insensitive oaf and, for example, to choose your words carefully. To
 prepare you for your next visit to America, here's a quick "crash
 course": Black Americans are referred to as "African American." You
 should definitely avoid using the terms that Black people use among
-themselves if you have a different skin color, as these can be some
-of the worst insults.
+themselves if you have a different skin color, as these are interpreted
+as insults.
 
-An "Indianer" is not an "Indian" but a "Native American." The word
+Instead of "Indian", Americans refer to "Native Americans." The word
 "Indian" nowadays characterizes a person who comes from India.
 Referring to Asians as "Oriental" will earn you many disapproving
 looks; the correct term is "Asian-American." In general, caution is
 advised: not every person who looks Asian comes from China, so it's
-better to choose the broader category "Asian American.
+better to choose the broader category "Asian American."
 
 People from Latin America are referred to here as either "Latinos" or
 "Hispanics," with endless discussions about which term is better.
@@ -546,7 +543,7 @@ fact that the term "Hispanic" emphasizes Spanish roots too much, as
 Spain ultimately dominated and oppressed Latin America. Others feel
 that both terms are overly generalized, so many Mexicans living here,
 for example, prefer to be called "Mexican American" or something
-similar. In short, at the moment, neither "Latino" nor "Hispanic" is
+similar. But, at the moment, neither "Latino" nor "Hispanic" is
 completely off the mark.
 
 When filling out official forms in America, one typically encounters
@@ -571,7 +568,7 @@ they are now issuing tickets, which, it should be noted, are free of
 charge. Still, the question remains: is it disrespectful or
 pragmatic? I'll leave the answer to you.
 
-And yet another curiosity has been appearing more frequently lately:
+And yet another curiosity I've noticed more frequently lately:
 TV shows set in New York are incorporating the events of September
 11th. When you watch series like "Law and Order" (a crime series
 where the police and prosecutor work together to solve a murder) or
@@ -583,20 +580,16 @@ have someone try to cover up the murder of a woman by claiming she
 died in the World Trade Center. It's quite remarkable how quickly the
 scriptwriters are integrating these events into their stories.
 
-<pic images/lo.ps The TV show "Law & Order>
+<pic images/lo.ps The TV show "Law & Order">
 
-@Z: The term "Amerikanische Rasterfahndung" translates to "American
-dragnet investigation" in English. "Rasterfahndung" is a German term
-referring to a method of systematic search or dragnet investigation,
-often used in law enforcement to identify suspects by filtering
-through large sets of data.
+@Z: Operation Dragnet
 
 <em>Angelika</em> 
 What the "Rasterfahndung" is to the Germans, "racial profiling" is to
 the Americans. This term refers to singling out a person solely based
 on their ethnic background, skin color, or nationality.
-Theoretically, "racial profiling" is prohibited. Therefore, the
-police are not allowed to suspect, stop, or arrest someone simply
+Theoretically, "racial profiling" is prohibited. Therefore,
+police are not allowed to identify, stop, or arrest someone simply
 because of their skin color. However, in practice, there are frequent
 reports of this happening, particularly to young black men. "Racial
 profiling" has become a hot topic again since Attorney General
@@ -604,21 +597,21 @@ Ashcroft ordered 5,000 foreigners, who are in the U.S. on tourist,
 business, or student visas, to be questioned in connection with the
 terrorist attacks. These individuals are primarily men between the
 ages of 18 and 33 from the Middle East. Although Ashcroft
-preemptively emphasized that the interviews are voluntary and that
-the men are not considered suspects, this is precisely what makes it
-"racial profiling," as nationality alone determined who was invited
-for an interview. Criticism of this approach came from an unusual
+preemptively emphasized that those interviews are voluntary and that
+those men are not considered suspects, this is precisely what makes it
+"racial profiling," as nationality alone determines who was invited
+for the interview. Criticism of this approach came from an unusual
 source. The police chief of Portland, Oregon, refused to locate 200
 men in his area who were to be questioned, as he believed the ordered
-interviews did not comply with his state's laws. In Oregon, the
+interviews did not comply with his state's laws. In Oregon,
 police are prohibited from questioning a person about their political
 or religious views unless the person is suspected of a crime and the
-questions could help solve it. However, the ordered, standardized
-interview questions aimed to elicit political and religious ideas.
+questions could help solve it. However, the catalogue of standardized
+interview questions aimed to investigate political and religious standpoints.
 Among other things, Ashcroft expects information on how the person
 felt when they heard about the September 11 attacks and whether they
 sympathized with the hijackers. Another question aims to find out
-which cities and landmarks the individuals visited in the U.S. How
+which cities and landmarks those individuals had visited in the U.S. How
 one could infer potential terrorism from this answer is a mystery to
 me. After all, anyone who visited New York, for example, also went to
 the observation deck of the World Trade Center. Incidentally, the
@@ -629,12 +622,12 @@ But in the fight against terrorism, it's not just the stick that's
 wielded in this country; the carrot is also offered: Foreigners who
 provide useful information leading to the capture of terrorists are
 enticed with the possibility of immigrating to the USA. Since 1994,
-there has been a special visa category that allows one to stay in the
-country for three years, even if they are residing illegally in the
+there has been a special visa category that allows an individual to stay in the
+country for three years, even if they are currently residing illegally in the
 USA. The idea is not foolish, as individuals who are in the country
-unlawfully remain silent out of fear of being deported. Attorney
+illegally often remain silent out of fear of being deported. Attorney
 General Ashcroft assured that even individuals who are not currently
-in the USA have a right to this special visa: Any American embassy
+in the USA can expect to receive this special visa: Any American embassy
 will accept useful information regarding terrorists. And although the
 visa is only valid for three years, Ashcroft even hinted at the
 possibility of American citizenship for informants in the long term.
@@ -645,7 +638,7 @@ However, how this would be achieved remains unclear.
 <em>Angelika</em> 
 Now, to a completely non-political yet extraordinary event: It snowed
 today (January 28th) south and north of San Francisco. However, San
-Francisco itself was spared from the white wonder. Since snow only
+Francisco itself was spared from the white wonder. Since snowfall only
 occurs in this region once every few decades, everyone was thrilled.
 Even the local news anchors and weather experts had a childlike gleam
 in their eyes. For many children, it was the first snow they had ever
@@ -653,8 +646,6 @@ seen. In Petaluma (located north of San Francisco), they happily
 built snowmen, and in many areas, schools were closed due to the
 snow. What a joyful day.
 
-In this sense, many greetings from the bitterly cold San Francisco!
+In this sense, many greetings from the currently bitterly cold San Francisco!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
