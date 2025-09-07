@@ -340,8 +340,6 @@ reassured that it would be soon.
 
 <pic images/tem.ps (#5) The newsletter reporters were allowed into the courtyard.>
 
-TODO
-
 "Sister Rebecca" turned out to be the wife of "Bob" and guided us
 through the temple's gardens. The temple is the sanctuary of the
 Mormons and is visited by followers of the religion only on special
@@ -358,7 +356,7 @@ it difficult to leave, as various people kept offering us a video
 they wanted to send to our home address -- but we stood firm and
 left.
 
-@Z: Jarritos -- the newsletter top product
+@Z: Jarritos -- Top Product!
 
 <em>Michael</em> 
 Whenever I work from home, I get a burrito for lunch from the Mexican
@@ -369,17 +367,17 @@ else? Mild salsa, guacamole, sour cream, please." Translation for
 non-Californians: Burrito (wheat pancake roll with filling), no
 cheese, refried beans, shredded beef, mild salsa (tomatoes and
 cilantro, slightly spicy), guacamole (avocado-based paste), and sour
-cream. The burrito then costs about five dollars, I eat half, and
+cream. The burrito then costs about five dollars, I eat half of it, and
 Angelika warms up the other half in the microwave in the evening when
 she comes home from photography school. I've been doing this once a
-week for about four years. But recently, I discovered another treat
+week for about four years now. But recently, I discovered another treat
 in the Mexican's refrigerated section: the "Jarritos" soda.
 
 <pic images/jarritos.ps The Mexican woodruff soda from Jarritos>
 
-A genuine "Product of Mexico," as the sign indicates, and certainly
+A genuine "Product of Mexico," as the label indicates, and certainly
 made with additives that are not permitted in Germany. How else could
-this delicious lemonade in the "LemÃ³Ã³n" version taste like the
+this delicious lemonade in the "Lemon" version taste like the
 woodruff soda that was available at kiosks in German swimming pools
 in the seventies? If you ever find yourself in California or Mexico,
 you absolutely must try it. Oh, all the sweetness of youth is
@@ -387,8 +385,9 @@ contained in this bottle!
 
 @Z: Marathon and chocolate
 
-<pic images/svm1.ps (#19) Mr. Muscle at the Silicon Valley Marathon
-Relay>
+<pic images/svm1.ps (#19) Mr. Muscle at the Silicon Valley Marathon Relay>
+
+TODO
 
 <em>Michael</em> 
 If you can't complete a full marathon, you can also divide it into
