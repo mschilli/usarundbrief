@@ -4,20 +4,20 @@ San Francisco, 03-24-2002
 
 <pic images/vichy.ps Old Man on a Spa Treatment>
 
-<em>Angelika</em> 
-Today I am opening our travel journal again: This time we drove with
-the "PERL MAN" (our car's license plate) for two hours on Highway 101
-(a highway with the number 101) northward in California to Ukiah to
-the "Vichy Springs Resort." There, you can find a natural healing
-spring, where warm, carbonated, and mineral-rich water comes from the
-depths of the earth. This water can be drunk and also promises
-various benefits when you bathe in it. It not only helps with stomach
-ulcers, gout, rheumatism, and arthritis but also soothes sunburn.
-Burns and skin injuries heal faster. And for those who do not yet
-suffer from the various ailments described, the soothing water is
-simply used to relax and unwind. By the way, the place is called
-"Vichy Springs" because the Californian water is remarkably similar
-to the French original--showing the American's pragmatic nature.
+<em>Angelika</em> Today I am opening our travel journal again: This time we
+drove with the "PERL MAN" (our car's license plate) for two hours on Highway
+101 North to Ukiah, to the "Vichy Springs Resort." There, you can find a
+natural healing spring, where warm, carbonated, and mineral-rich water comes
+from the depths of the earth. This water is safe to drink and also promises
+various benefits when you bathe in it. It not only helps with stomach ulcers,
+gout, rheumatism, and arthritis but also soothes sunburn.  Burns and skin
+injuries heal faster. And for those who do not yet suffer from the various
+ailments described, the soothing water helps to simply relax and unwind. By
+the way, the place is called "Vichy Springs" because their water is
+remarkably similar to the French original--showing America's pragmatic
+nature.
+
+TODO
 
 The healing properties of the spring water have been known to the
 Pomo Indians for millennia. The current resort opened its doors in
