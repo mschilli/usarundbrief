@@ -17,10 +17,8 @@ the way, the place is called "Vichy Springs" because their water is
 remarkably similar to the French original--showing America's pragmatic
 nature.
 
-TODO
-
 The healing properties of the spring water have been known to the
-Pomo Indians for millennia. The current resort opened its doors in
+ancient Pomo Indians for millennia. The current resort opened its doors in
 1854. By American standards, that's ancient, a historical sensation.
 Vichy Springs attracted notable figures such as Mark Twain, Robert
 Louis Stevenson, Jack London, and even a few American presidents.
@@ -28,11 +26,11 @@ Back then, it was considered "mega cool" in San Francisco to head to
 Vichy Springs. There was even a dance hall to ensure that the fun
 didn't come to an abrupt end after a refreshing bath. Today, things
 are a bit more tranquil, and you're more likely to encounter famous
-pearl book authors (haha!). We slept in a cozy room that was
+Perl book authors (haha!). We slept in a cozy room that was
 renovated not too long ago and enjoyed long walks on the vast grounds
 in addition to extensive baths.
 
-<pic images/rot.ps On the walk in Vichy Springs: The reddest tree in America>
+<pic images/rot.ps On a walk in Vichy Springs: The reddest tree in America>
 
 Bathing in the healing water proceeds as follows: Since it would be
 somewhat impractical and perhaps not very environmentally friendly
@@ -46,7 +44,7 @@ prudish America. However, there are several places in Northern
 California with natural springs where you are allowed to enter
 unclothed ("clothing optional" is what it's called here). This might
 also be because these places attract many freedom-loving old hippies
-or "New Age people.
+or "New Age" people.
 
 But I digress. The bathtubs have a huge metal plug that you simply
 pull out on one side and then plug back in on the other side. As soon
@@ -59,27 +57,29 @@ circulate more vigorously, and your body warms up from the inside, so
 to speak. Usually, the stomach area warms up first, followed by the
 other parts of the body. It's a funny feeling. By the way, the
 bathtubs are brownish in color due to the minerals in the water. On
-the first evening, we got into the baths at dusk, and Michael amused
+our first evening there, we got into the baths at dusk, and Michael amused
 me with stories about what might be at the bottom of the bathtub.
 It's a good thing I'm not easily scared. If you ever find yourself in
 the Ukiah area, stop by Vichy Springs. By the way, you don't have to
 be a hotel guest to enjoy the healing waters. A day pass grants you
 access.
 
-@Z: To the healer in Chinatown
+@Z: At the Healer in Chinatown
 
 <em>Angelika</em> 
 And here is another story regarding unconventional healing methods.
 In America, alternative ideas like homeopathy are only slowly gaining
-acceptance. Doctors still freely prescribe antibiotics for colds.
+acceptance. Doctors still readily prescribe antibiotics for colds.
 Medications like aspirin are bought in bulk at the supermarket.
 However, in San Francisco, methods like acupuncture, acupressure, or
-holistic medicine are not unfamiliar. Immigrants from various
+holistic medicine are quite common. Immigrants from various
 cultural backgrounds enrich San Francisco not only culinarily.
 Furthermore, San Francisco has always been known as a melting pot of
 alternative movements. For enthusiasts of natural medicine, the
-"Chinatown" district offers a true treasure trove, as traditional
-Chinese medicine can be found at every turn.
+"Chinatown" neighborhood offers a true treasure trove, as traditional
+Chinese medicine can be found there at every turn.
+
+TODO
 
 I still remember well our beginnings in San Francisco. Back then, I
 dutifully attended my English courses at City College (something like
