@@ -79,10 +79,8 @@ alternative movements. For enthusiasts of natural medicine, the
 "Chinatown" neighborhood offers a true treasure trove, as traditional
 Chinese medicine can be found there at every turn.
 
-TODO
-
 I still remember well our beginnings in San Francisco. Back then, I
-dutifully attended my English courses at City College (something like
+dutifully attended various English courses at City College (something like
 adult education classes). One of the course participants, an older
 Vietnamese gentleman, complained about knee pain and went to his
 regular doctor, who immediately wanted to perform knee surgery. The
@@ -98,24 +96,26 @@ suffering from an undefined throat problem for quite some time, which
 conventional doctors can't seem to solve, I thought I would give it a
 try as well.
 
-<pic images/herb.ps Chinese medicinal herbs with formulation>
+<pic images/herb.ps Traditional Chinese medicinal herbs with formulation>
 
 Making an appointment was not easy at all, as the person who answered
 the phone spoke hardly any English, a very common phenomenon in
-Chinatown. However, I eventually managed to do it. Now, you shouldn't
+Chinatown. However, I eventually managed to snag one. Now, you shouldn't
 imagine the whole thing as a doctor's office. Quite the opposite, the
 specialist sat at a desk in the back of the herbal shop. In front of
 her desk were a few chairs for those waiting, meaning everyone could
-hear everything, including the customer standing at the counter
-buying something. When I entered the shop, I traveled at light speed
-from San Francisco to China. The shop was filled with Chinese
-customers, and snippets of Chinese words flew around me. Being in an
+hear everything, including customers standing at the counter
+buying something. When I entered the shop, it seemed like I traveled
+from San Francisco to China at light speed. The shop was filled with Chinese
+customers, and snippets of Chinese words were flying around me. Being in an
 environment where you suddenly find yourself in the minority is an
 extremely interesting experience. Although everyone was very friendly
 to me, I felt a bit out of place because I didn't understand
-anything. Eventually, I reached the herbal specialist and described
-my symptoms to her. She asked me a few questions and wrote Chinese
-characters on a piece of paper at lightning speed. I turned pale with
+anything.
+
+Eventually, I reached the herbal specialist and described
+my symptoms to her. She asked me a few questions and quickly wrote Chinese
+characters down on a piece of paper. I turned pale with
 envy, as we were just struggling through our first Chinese characters
 in our third Japanese course. Then she measured my pulse, looked at
 my tongue, and handed the note to her colleague standing behind the
@@ -130,9 +130,11 @@ also had to drink the tea. It didn't even taste that bad.
 Unfortunately, my throat is still bothering me, but the experience
 was definitely worth the visit to the herbal specialist.
 
-@Z: Bavarian influences in the California mountains
+@Z: Bavarian Influences In the California Mountains
 
-<pic images/bergfrei1.ps "At the lodge of the Friends of Nature from San Francisco.>
+<pic images/bergfrei1.ps At the lodge of the "Friends of Nature" from San Francisco.>
+
+TODO
 
 <em>Angelika</em> 
 A unique feature of a completely different kind was what we were
