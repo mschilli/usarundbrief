@@ -215,22 +215,24 @@ and donating the difference for a good cause. This is called "fundraising"
 in America.
 
 For example, our neighbor's school needs new computers.
-The kids aren't collecting because their school is in dire straits.
+The kids aren't collecting money because their school is in dire straits.
 Fundraising is a quintessentially American principle. It runs like a
 red thread through the life of every American. Since the American
 government only helps when there's no other option, American
 non-profit organizations rely on donations. Americans are not only
 world champions in donating but also extremely creative when it comes
-to raising money. There are marathons and balls where participants
-gather sponsors to pay the high entry fees (sometimes amounting to
+to raising money. There are marathons and ballroom events where participants
+gather sponsors to pay high entry admissions (sometimes amounting to
 several thousand dollars), which then go to the good cause. People
 cycle from San Francisco to Los Angeles, and kids sell lemonade on
 the sidewalk. On weekends, we often see teenagers waving signs to
 direct cars into a parking lot, where they then wash the cars for a
-fee that goes to the charity. Donations are made on a large scale:
+contribution that goes to their charity. Donations are made on a large scale:
 entire museums and universities have been created this way. In such
 institutions, you will usually find at least one employee whose sole
-task is to solicit donations from industry and wealthy citizens.
+purpose is to solicit donations from the industry and wealthy citizens.
+
+TODO
 
 <pic images/laidsf.ps Fundraising for AIDS by Bicycle>
 
