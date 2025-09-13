@@ -482,24 +482,22 @@ and potato states of the USA), Canadians, Australians, Irish,
 British, Scots, and foreigners who speak English with an accent:
 Asians, Indians, Italians, Spaniards, Russians, and Germans.
 
-TODO
-
 This tradition is still maintained in Hollywood. When a previously
-unknown character speaks in a film, an American sitting in the cinema
+unknown character speaks in a movie, an American sitting in the cinema
 can determine within three seconds which continent the person comes
 from. Just as someone in a Hamburg bakery saying "Gehm's mer mol zwoa
-Semmel, bittschï¿½n!" would immediately be identified as Bavarian, it
+Semmel, bittschön!" would immediately be identified as Bavarian, it
 is noticeable in films like "Crocodile Dundee" that the hero greets
 people with an Australian "G'Day Mate," which is unheard of in the
 USA. Such nuances are naturally lost in the German
 translation--unless Crocodile Dundee were to speak Bavarian in New
 York, which could, of course, unleash unexpected comedic energy if he
-were to throw a firm "GrÃ¼Ã Gott!" at the doorman.
+were to throw a firm "Grüß Gott!" at the doorman.
 
-In the numerous Nazi films in the USA, the ringleaders speak short
+In the numerous Nazi films made in the USA, the ringleaders speak short
 German phrases that every American knows: "Schnell, Schnell!" (Quick,
 Quick!), "Marsch!" (March!), "Blitzkrieg!" -- and otherwise, of
-course, a ludicrous English. They pronounce the English "th" as a
+course, English with ludicrous grammar. They pronounce the "th" in English as a
 hissing "s" (American "z"), and the English "r," which usually
 resides in the back of the throat with a rolled tongue, is either
 rolled Bavarian-style or rasped North German-style. The English "w,"
@@ -521,13 +519,13 @@ the "Starship Enterprise" is called "Scotty" only because he rolls
 the "r" like a Scot?
 
 In the course of the Olympic coverage, television aired a report
-about the Bavarian national hero and luger Georg Hackl, who is also
+about the Bavarian national hero and bobsled athlete Georg Hackl, who is also
 called the "flying white sausage" and unfortunately messed up the
 gold medal this time. Schorsch's English is, of course, a bit, um,
 limited. He spoke German while an American voice provided a
 translation of his audible remarks in the background for the American
 viewers. But the fascinating thing was: the translator spoke American
-with a German accent! Not even artificially -- the broadcaster
+with a German accent! Not even artificially -- the broadcasters
 specifically hired a German expatriate to present the interview with
 Hacklschorsch in such a way that even the last American would
 understand: Schorsch is from Germany.
@@ -543,7 +541,7 @@ too many American crime series.
 @Z: The newsletter editorial team
 
 <em>Michael</em> 
-Again and again, the newsletter fans ask: "How do these absurd
+Again and again, our newsletter fans keep asking: "How do these absurd
 newsletter topics come about? Do you hire crazy people to come up
 with them?" Today, we want to take a look behind the scenes of the
 newsletter editorial team: Illustration (#2) shows Michael during the
@@ -558,14 +556,17 @@ would want to live anywhere else!
 
 <pic images/gruebel.ps (#2) The harsh working conditions in the newsletter editorial office>
 
-@Z: Blutgruppen
+@Z: Blood Types
 
 <em>Michael</em> 
-In addition to learning the language, we also get to know some
+In addition to learning the language, we also got to know about some
 cultural peculiarities in the Japanese course. We were surprised to
 find out that in Japan it is common to directly ask someone about
 their blood type. Belonging to A, B, O, or AB is somewhat similar in
 importance to zodiac signs in the Western world.
+
+TODO
+
 http://www.geocities.com/~castleinthesky/blood.htm
 As you can read, people with blood type A are supposedly very
 serious, determined, reliable, but also stubborn. On the other hand,
