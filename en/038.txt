@@ -1,0 +1,736 @@
+San Francisco, 07-23-2002
+
+<pic images/gca.ps Achievement unlocked: The Green Card.>
+
+<em>Michael</em> 
+And here we are again -- your intrepid newsletter reporters Angelika
+and Michael, who have been living in one of the most exciting cities
+in the USA for more than five years now, studying the country and its
+people, and still earnestly trying not to become completely
+Americanized! And I'm bursting to share the sensational news: We
+recently, after years of hoping and worrying, finally received our
+Green Card in the mail! Angelika will describe in detail how the
+final steps went -- but first, a few local news updates:
+
+@Z: Addendum to the Soccer World Cup
+
+<em>Michael</em> I rarely manage to sit through a soccer game on TV these days.
+While I can run around on the soccer field for hours, I just don't have the
+patience to watch the usual back-and-forth in the midfield during the usual
+soccer games on TV. I always think to myself: Oh my, the time, the time! I
+could have written three Perl programs by now!
+
+This year, however, we couldn't resist: We actually got up at 4:30 in
+the morning and watched the World Cup games live. Probably because no one does that
+here. Although the USA made it to the round of 16 this time,
+"soccer," as the Americans call it, remains an exotic sport.
+
+<pic images/soccer.ps David Beckham and I wear the same football boots.>
+
+TODO
+
+Except for our Mexican neighbor, of course, who watched
+enthusiastically. And suffered along when Mexico lost to the USA.
+Mexicans are not highly regarded in the USA, as most have to work in
+minimum-wage jobs due to a lack of alternatives, and very few manage
+to escape the vicious cycle.
+
+In California, Mexicans harvest citrus fruits and grapes, cover
+roofs, and carry out private demolition work, clean cars, mow lawns,
+and wash dishes in restaurants.
+
+<pic images/chavez.ps Union leader Cesar Chavez on a postage stamp>
+
+Without Mexicans, the Californian economy would immediately collapse.
+On Cesar Chavez Street in San Francisco, which ironically bears the
+name of a man who advocated for fairer wages for low-wage workers,
+hundreds of Mexicans stand every day waiting for a wealthy homeowner
+in a pickup truck to drive by and pick up three or four people so
+they can do jobs for five or six dollars an hour that no one else
+wants to do. But in soccer, they had been ahead so far -- and then
+the exploiting USA comes and wins, which was bitter and was discussed
+as such here and in Mexico.
+
+<pic images/wasch2.ps In California, almost only Mexicans wash cars.>
+
+What I actually wanted to say: The Mexicans here are absolutely
+passionate about soccer and speak very highly of the German team. Our
+neighbor recently told me that the German superstar goalkeeper Oliver
+Kahn is called "el gato volador" on the Spanish channel in San
+Francisco -- the "flying cat," who pounces like a predator and
+deflects the balls. Recently, the Mexican commentators on TV have not
+only been extending the word "Gooooool" for 20 seconds (no joke, I
+timed it), but the latest trend is to chant "Gol Gol Gol Gol Gol
+Gol," which sounds like an American police siren. By the way, it
+doesn't matter which team scores the goal, the "goool!" celebration
+happens in any case.
+
+And in San Francisco, as is well known, there are more foreigners
+than Americans, and that's why some bars were even open in the early
+morning hours to give soccer fans the opportunity to watch the games
+live. However, there was no beer, because there is a ban on alcohol
+sales between 2 and 6 AM in San Francisco, which is strictly
+enforced.
+
+@Z: Personalized tickets
+
+<em>Michael</em> 
+Recently, I thought to myself: It would be nice if we got a parking
+ticket as a memento of our time in San Francisco, with "PERL MAN" on
+it -- the personalized police license plate of our car.
+<RBLINK>000309#1</RBLINK>
+On Sunday afternoon, it finally happened: I came home from the
+supermarket and boldly parked the trusty "PERL MAN" on the sidewalk
+to unload it. Upstairs in the apartment, Angelika signaled to me that
+she was on the phone with Oldenburg and that we could set off on an
+outing in two minutes. In high spirits, I turned on the TV. An hour
+later, it happened, and we had a parking ticket on the car, hooray!
+At $25, it wasn't exactly cheap, but it's a unique souvenir, as you
+can see in illustration (#3)!
+
+<pic images/ticket.ps (#3) A ticket for PERL MAN>
+
+The translation of the provided text is:
+
+"You can also see that it costs $250 if you park at a bus stop or
+$275 if you park a car without a disabled permit in a disabled
+parking space -- or come within three feet (about one meter) of a
+disabled ramp! Similarly draconian penalties are imposed for driving
+in the carpool lane...
+<RBLINK>20010701#1</RBLINK>
+Here's the translation to English:
+
+"A fine of $274 is imposed if you are sitting alone in the car.
+'Parking within 18 inches of curb' costs 23 dollars--I assume this
+means that you must not park more than 18 inches (45.54 cm) away from
+the curb. And parking in front of a hydrant costs only the everyday
+low price of $33--I can afford that, just wait, maybe soon in the
+newsletter!
+
+On the
+Website by Sï¿½ren F. Ragsdale
+The translation of the text is: "By the way, all the absurd numerical
+values that a Californian driver must know when applying for a
+driver's license are listed: You may only park 7.5 feet away from
+railroad tracks, 15 feet from a fire hydrant, and 3 feet from a curb
+ramp.
+
+@Z: The Raging PERL MAN
+
+<em>Michael</em> 
+During the week of the American national holiday on July 4th, many
+companies in Silicon Valley were closed due to the ongoing economic
+crisis, and the streets were unusually empty. So, one morning, I
+drove quickly to the office, which is located 60 km south of San
+Francisco in Mountain View. On Highway 101, as usual in the leftmost
+of four lanes, just before the Mountain View exit, I suddenly saw a
+police car appear in the rearview mirror and routinely slowed down to
+the prescribed 65 miles per hour (about 100 km/h).
+
+After following the "PERL MAN" for a while, who didn't seem to notice
+and was leisurely drinking his coffee from a commuter mug, the cop
+suddenly turned on his siren. At first, I assumed he just wanted to
+pass, so I moved to the next right lane. But he followed, and in the
+USA, that means: pull over to the right shoulder and prepare to be
+checked. Since routine checks are not allowed in the USA, it
+generally means you've done something wrong and will have to pay a
+fine.
+
+So I changed lane by lane to the left, slowed down, and finally
+stopped on the unpaved shoulder of Highway 101. When the cop got out
+and approached the car on the passenger side, I rolled down the
+window and took out my driver's license, insurance certificate, and
+vehicle registration from my wallet. The cop leaned in through the
+window and informed me that he had stopped me because someone had
+called the police station and complained about the "PERL MAN" for
+"reckless driving." I was unaware of any wrongdoing, insisted that I
+was driving as fast as usual, and truthfully answered "no" when asked
+if I had consumed alcohol or taken drugs that morning. Then he wished
+me "safe holidays," and I was allowed to drive off, which I did,
+kicking up dust on the shoulder.
+
+That's crazy, just imagine! An obviously mentally challenged person
+calls the police because they can remember the personalized license
+plate "PERL MAN," and the police actually find it among tens of
+thousands of cars on one of the busiest highways in the world! If
+this happens more often, I might have to give the license plate back
+and speed around incognito with something like "4-ZAP 437.
+
+@Z: The newsletter top product
+
+<pic images/abfl1.ps (#5) A little fruit waste from the juicer poured
+into the sink ...>
+
+<em>Michael</em> 
+Today: The Garbage Disposer E20 by Emerson. I have previously written
+that it is common in American kitchens to have a so-called garbage
+disposer installed under the sink. Between the drain and the
+drainpipe, there is a small grinding mechanism that starts at the
+push of a button and grinds waste that could clog the pipes into
+pieces small enough to pass through the drainpipe. Whatever you chop
+up in the kitchen, you simply dump into the sink, turn on the water
+and the grinding mechanism--and whoosh, it goes down the drain!
+
+<pic images/abfl5.ps (#6) ... naturally clogs the pipe.>
+
+Figure (#5) shows how I poured fruit waste into the sink, and in
+Figure (#6) you can see the resulting moderate pipe blockage.
+However, a solid half horsepower in the Emerson engine mercilessly
+eliminates even stubborn waste (Figure (#7)). Powerful. Reliable.
+Emerson.
+
+<pic images/abfl3.ps (#7) At the push of a button, the Emerson E20
+clears the line again!>
+
+Some time ago, I overdid it and dumped too much waste in, and Emerson
+promptly stopped working. Oh no, I thought, now I have to call the
+landlord and wait for a disposal specialist to kindly come by.
+However, a look under the sink revealed that the Emerson E20 comes
+with a small Allen wrench, which you just insert at the bottom, turn
+it around once to manually reduce the waste, and it works again! A
+great product!
+
+<pic images/abfl4.ps The newsletter top product: The Emerson E20>
+
+@Z: The CD of the Month
+
+<pic images/strokes.ps The album "Is This It?" by The Strokes>
+
+<em>Michael</em> 
+Eagerly anticipated, but recently absent: There just haven't been any
+compelling new records. But today it happened: I bought the album
+"This Is It" by "The Strokes," which was released half a year ago! I
+already knew the song "Last Nite" from the radio, but I had no idea
+that "Hard to Explain" and "SOMA" were also on it -- for both songs,
+the best way to listen is on a hot day in San Francisco in an
+11-year-old Acura Integra without air conditioning, with the windows
+rolled down, wearing shorts and barefoot, speeding up the hill trio
+on Church Street between 17th and 22nd Street. Then it sounds as if
+the music was invented in California, even though it comes from New
+York City! Buy it immediately and listen to it nonstop! Until we
+discuss the new one from the "Red Hot Chili Peppers," my favorite
+band, in the next newsletter.
+
+@Z: The Osbournes in the TV box
+
+<em>Michael</em> 
+The most popular show on American television at the moment is called
+"The Osbournes." The TV channel MTV came up with the idea of placing
+a camera crew in the home of Ozzy Osbourne, the former singer of the
+band "Black Sabbath," to follow Ozzy, his wife Sharon, and their two
+rambunctious teenage children every step of the way and capture the
+everyday life in this unusual household.
+
+<pic images/o1.ps In the living room of the Osbournes>
+
+The Osbournes are British, but they live in an ugly mansion for the
+nouveau riche in the upscale suburb of Beverly Hills in Los Angeles.
+Ozzy Osbourne is now 53 years old and a total wreck. With "Black
+Sabbath"--absolute superstars of the hard rock scene in the
+seventies--it was wild: Ozzy consumed drugs like a centrifugal pump.
+Today, he shuffles around the house like a zombie, mutters incoherent
+things, and yells for his wife (Sharon! Shaarooooon!!) when he can't
+find something, the TV is acting up, or the dog has pooped on the
+carpet again.
+
+<pic images/o6.ps The luxurious house of the Osbournes>
+
+Parents and children constantly use terrible swear words that
+wouldn't even go unpunished in a ghetto family. However, with the
+Osbournes, it's completely normal to use the so-called F-word.
+Because of this, television has to (as it has before in...
+<RBLINK>20001204#5</RBLINK>
+The dialogues are censored with beeps: Ozzy: "What the --BLEEP-- is
+that?" Daughter Kelly: "The --BLEEP--ing dog --BLEEP-- on the
+--BLEEP-ing carpet again!".
+
+<pic images/o4.ps Cursing, Ozzy chases after the cat that has hidden
+in the bushes.>
+
+It gets interesting when the completely tattooed Ozzy presents
+himself to his offspring as the responsible father and insists, for
+example, that the children come home from a party at a certain time.
+Or when he confesses to his lovely wife in a Midlands English
+working-class dialect: "Sharon, I love you more than life itself..."
+("Sharon, I love you more than life itself"). That's what makes the
+show so charming.
+
+<pic images/o3.ps The defiant 16-year-old son wants to go to the
+rave, but he is not allowed to!>
+
+MTV produced it with a small budget and did not expect it to be
+successful at all. However, it was a huge hit and even surpassed the
+mega-million productions on other channels in the ratings. MTV
+recently extended the contract with the Osbournes for a second
+season. The people in charge reported that the negotiations were
+completely chaotic, with Ozzy's wife Sharon repeatedly stalling the
+MTV people and making wild back-and-forth decisions. Ozzy himself
+only catches half of what's going on anyway and will surely be
+satisfied with the negotiated fee.
+<LINK>http://www.mtv.com/onair/osbournes|The Osbournes</LINK>
+The translation to English is: "you will find more about this unusual
+family.
+
+Clear the way for Angelika!
+
+@Z: Finally, the Green Card
+
+<em>Angelika</em> 
+Hooray! Hooray! The Green Card is here! Miracles still happen. We are
+now "Permanent Resident Aliens," as it's called in the finest
+bureaucratic American English. We still can't believe it. The word
+"Alien" always amuses us greatly because no one in everyday language
+refers to a foreigner as an "Alien." That would raise eyebrows and be
+politically incorrect. The term is "Foreigner." When people hear
+"Alien" here, they think of extraterrestrials and the movie "ET," but
+the "INS" (INS = Immigration and Naturalization Services = American
+immigration authority) doesn't care about that. Oops, I'm digressing.
+
+Some time ago, I announced that I would report on our third and final
+- extremely nerve-wracking - Green Card step. If anyone would like to
+read my previous explanations about the Green Card again, they can do
+so in the...
+<RBLINK>20010905#7</RBLINK>
+The translation of "sein GedÃ¤chtnis auffrischen" to English is "to
+refresh his memory.
+
+And since I don't want to be difficult, here's a quick summary of
+steps one and two: We were allowed to apply for the Green Card
+because Michael's professional qualifications are beneficial to the
+American economy, as there is (or was) a shortage of American
+software engineers, which they sought to address with well-educated
+foreigners--this is known as immigration for employment reasons
+("green card through employment").
+
+AOL applied for Michael's Green Card. The first step was to prove to
+the relevant labor authorities that Michael was not taking a job away
+from an American, meaning that there was indeed a labor shortage in
+his field. The authorities issued the highly sought-after "Labor
+Certificate," which is needed to proceed to the second step. By the
+way, it has become significantly more difficult to obtain a Labor
+Certificate. Due to the weakened American economy, there have been
+many layoffs, which have eliminated the shortage, meaning that there
+are now enough Americans entering the job market.
+
+In the second step, the American immigration authorities checked
+whether Michael really had the necessary qualifications to fill the
+position at AOL. The third and final step was to transition from
+non-immigrant status (people with visa status) to immigrant status
+(people with green cards). The application is usually submitted to
+the relevant immigration authority in America and is called
+"Adjustment of Status." Throughout this process, I once again played
+the "apron strings card" (original quote from Michael). By this,
+Michael means that I only got the green card because I am married to
+him. Family is a big deal in America.
+
+Even in the last step, it was all about filling out form after form.
+If you woke me from a deep sleep, I could still recite off the top of
+my head the exact dates of Michael's military service, the companies
+he has worked for and for how long, including the corresponding
+company addresses, how long we lived at each address, and so on. But
+don't panic, I won't write about every single form from the third
+step. I'll just share the milestones with you.
+
+@Z: Priority Date
+
+<em>Angelika</em> 
+Before we could even begin the third step, our so-called "Priority
+Date" had to be current. It's best to think of it like a place in the
+Green Card queue, similar to taking a number in some grocery stores
+and government offices. Since most Green Cards in the various
+categories are subject to an annual quota, bottlenecks occur when the
+quota for the respective year is reached - the queue grows and grows.
+The number of Green Cards issued by the immigration authorities each
+year is then evenly distributed among the individual countries. For
+example, people from India usually wait longer because the U.S.
+receives many applications from Indian citizens - the Green Cards
+available each year are logically used up more quickly. If you come
+from Germany, you are among the lucky ones who can essentially jump
+right to the counter without waiting, as there are not as many
+Germans applying for Green Cards.
+
+@Z: The medical examination
+
+<em>Angelika</em> 
+I have already mentioned that the INS (Immigration and Naturalization
+Service) does not like it when immigrants with contagious diseases
+like tuberculosis populate America. Therefore, for us, it meant going
+to the doctor as step number three to rule this out. You can imagine
+the whole process as being similar to a medical examination by a
+public health officer. We were not allowed to go to our family
+doctor; instead, we had to choose one from a list provided by the
+INS, who could conduct the examination according to INS regulations
+and also fill out the corresponding form correctly. These doctors do
+not work exclusively for the immigration authorities; they usually
+run a regular private practice. However, they don't earn much from
+these examinations, which is why the list mainly includes "doctors
+for the poor" from typical immigration countries.
+
+<pic images/doktor.ps The medical practice of the Filipino green card
+doctor in the Mission.>
+
+I quickly looked for a doctor in our immediate vicinity and ended up
+in the heart of the Mission, the South American neighborhood that is,
+as you know, just around the corner from us. We went separately, and
+each of us told the same story afterward: In the waiting room, no one
+spoke English except for the receptionist, but the doctor, who was
+from the Philippines, spoke it quite well and seemed experienced.
+
+He first underwent a very general examination. You know: looking in
+the throat, listening to the chest, measuring blood pressure,
+determining height and weight, etc. Then he injected us with the
+substance for the tuberculosis test and discussed in detail which
+vaccinations we had received in childhood and adulthood, as well as
+which childhood diseases we had suffered from. On his list for our
+age group were: mumps, measles, rubella, tetanus, diphtheria, polio,
+whooping cough, chickenpox. Oh, how pleased we were that, as an
+organized person, I could present all the vaccination records (even
+those from childhood). However, Michael had to bite the bullet: he
+had skipped rubella as a child and therefore had to get a
+vaccination. We paid $125 for my examination, and $175 for Michael's
+due to the additional vaccination.
+
+<pic images/mission.ps Typical: Neighborhood "Mission>
+
+Then it was off to the AIDS test. In the USA, by the way, the doctor
+sends you to special labs for blood tests. It's a bit inconvenient,
+but the people there are blood-drawing professionals since they do
+nothing else all day. Our doctor sent us to a branch of St. Luke's
+Hospital right on Mission Street. When I arrived there, I initially
+thought something was off. I had to pass by shop windows that, in
+typical Mission tradition, advertised cheap, colorful goods with a
+South American flair, walk down a dark hallway, and finally stood in
+front of an office door. It didn't look like a lab at all. However,
+the sign on the door indicated that I was in the right place.
+Bravely, I entered and found myself in a tiny room containing a desk,
+a table with blood-drawing equipment, a chair, and a person in a
+white coat. The first thought that crossed my mind was: Oh dear, I
+hope they work diligently here and I don't catch something (Michael
+had the same concerns). Don't think we're arrogant, but the American
+healthcare system is really in such a bad state, you have no idea
+what I've experienced, but maybe more on that another time.
+
+<pic images/test.ps The Testing Laboratory in the Mission>
+
+Before the medical assistant started drawing blood, I signed a form
+stating that I understood it was an HIV test. By the way, everyone
+signs this, not just Green Card applicants. In general, it's
+questionable to undergo such a potentially life-changing test just
+because it's required for the Green Card. Just imagine the scenario
+of testing positive for HIV. Of course, we also had to pay in
+advance. The whole thing cost $126.90 per person, with $77 of that
+amount being for the HIV test alone. The rest was for the test that
+detects syphilis and some other unclear items. In typical American
+fashion, there was a discount if we paid in cash or by check, a hefty
+40%. Naturally, we did that. "HIV test on sale!
+
+<pic images/mission2.ps Typical neighborhood 'Mission'>
+
+A few days later, we set off again to see the doctor so he could
+examine our tuberculosis skin test. Naturally, we were also
+interested in the results of the blood test. When we arrived at the
+doctor's office, I asked the receptionist about the results. She
+rummaged through our file and cheerfully said that they hadn't
+received anything in writing yet, but she would call St. Luke's
+Hospital to inquire about the results. She then pulled out the phone
+and dialed. I turned a bit pale when she put the call on
+speakerphone, as I was in a full waiting room. However, she
+reconsidered and turned off the speaker when someone answered on the
+other end. Unfortunately, it took forever for the person to find the
+results, and I felt a chill run down my spine--you never know.
+Finally, the receptionist ended the call but didn't bother to tell me
+the results. I shyly asked, and she shrugged nonchalantly, saying
+everything was okay. Unbelievable! The rest was quick and painless:
+the doctor read the TB test and filled out the form for the
+immigration office with shaky hands, with the receptionist
+occasionally correcting him. We still wonder today that everything
+was correct.
+
+We had already read one or two horror stories on the internet about
+how the immigration office, upon later reviewing the form, criticized
+incorrect completion, and not only did the Green Card applicants have
+to repeat the medical examination, but the process was also further
+prolonged. The trick is that the form is placed in an envelope, and
+the doctor seals the envelope with a stamp. Only the honorable
+immigration office is allowed to open the envelope again.
+
+By the way, not every detection of an illness leads to the Green Card
+applicant being disqualified. If it is a curable disease, it must be
+proven that the person is healthy again, which, however, means:
+paperwork, paperwork, paperwork.
+
+@Z: Lichtbilder
+
+<em>Angelika</em> 
+No green card application without photographs. And the green card
+photos are subject to the strict regulations of the immigration
+authority. The lawyer gave us a typewritten DIN A4 information sheet
+with instructions, along with a list of photo shops that are familiar
+with the 101 regulations and have experience in implementing them.
+Here are some excerpts from the information sheet for your amusement:
+Glasses, earrings, and hair clips are taboo. The photo should be 30
+mm (1 3/16 inches) long--from the hair to below the chin--and 26 mm
+(1 inch) wide--from the right ear to the left cheek. The background
+must be white. The photo must not have shadows or be retouched.
+Polaroid film #5 is acceptable, but SX-70 film is not. The photo must
+show the entire face of the person (3/4 pose). The right ear and left
+eye must be visible.
+
+@Z: Affidavit of Support" is already in English. It refers to a legal
+document in which an individual pledges financial support for another
+person, often used in immigration contexts to demonstrate that the
+sponsored individual will not become a public charge.
+
+<em>Angelika</em> 
+And no one should become a burden on the American state: the
+"Affidavit of Support" (which can best be translated as "sworn
+declaration of financial support") is one of my favorite forms in our
+Green Card process. You may recall: I received the Green Card because
+I am married to Michael. Michael not only had to assure that he could
+support me so that I would not be a burden on the American state, but
+also that he had sufficient financial means to support both of us: a
+highly official matter with a notary and oath.
+
+In the third step, there is also the opportunity to apply for a
+provisional work permit ("Employment Authorization Document") until
+the actual Green Card application is approved. This is because the
+third step typically takes a very long time, and for many applicants,
+the time comes when their visa and the associated work permits expire
+before the Green Card is processed. The card allows one to work
+temporarily as if they had a Green Card. The only catch is that if
+you use the work document, you lose your H-1B visa status even if the
+visa is still valid. Therefore, we applied for the provisional work
+permit (for emergencies) but did not use it.
+
+If you are in the process of "Adjustment of Status," you are not
+allowed to leave the USA without special permission from the
+immigration authorities. This also applies to travel to Canada and
+Mexico. Therefore, it is better to apply for what is known as
+"Advance Parole." This can best be translated as provisional release.
+It is a travel document that you need to re-enter the country. By the
+way, in America, "parole" is also used to refer to when a prisoner is
+released on probation from prison. H and L visa holders fall under an
+exception: as long as the visas are still valid, entry and exit are
+permitted on them.
+
+Not only did the immigration authority burden us with forms, but the
+tax office (called the "Internal Revenue Service" in America,
+abbreviated as IRS) also insisted on participating in our Green Card
+process. The tax authority checks whether we dutifully paid our taxes
+in America and submitted a tax return. To do this, we answered
+questions on the "IRS Form 9003." The immigration authority then
+forwarded the information we provided there to the tax office.
+
+@Z: Fingerabdrücke
+
+<em>Angelika</em> 
+Before one receives the Green Card, the American immigration
+authority wants to ensure that the applicant has not committed any
+crimes or is listed as a wanted terrorist. Just as one applies for a
+certificate of conduct in Germany, fingerprints are taken in America.
+For the Green Card, the FBI uses fingerprints to check whether one
+has been and is a law-abiding citizen. In practice, it works as
+follows: After our lawyer sent the required documents (and a few
+more) to the Immigration Office, we patiently waited for the
+confirmation of receipt. However, we had to bite the bullet again, as
+countless applications flooded the responsible immigration authority
+in California, causing delays of weeks in opening the incoming mail
+and thus also in sending out the confirmation of receipt. Just so you
+believe me: Our documents for the third step were received by the
+immigration authority on July 23, 2001, and the confirmation of
+receipt was sent out by the authority on September 6, 2001. Weeks
+later, we received a letter with the appointment date (November 30,
+2001) for taking our fingerprints. Everyone eagerly awaits this
+letter because it indicates that one's file is not gathering dust in
+a large pile but that something is happening. By the way, the FBI
+does not take the fingerprints directly; instead, the immigration
+authority sends the applicants to a designated center on-site. The
+fingerprinting is done digitally: no annoying ink on the fingers. The
+fingerprints appear immediately on the screen and are promptly sent
+to the FBI. The FBI works quite efficiently in this regard and sends
+the results back to the immigration authority relatively quickly.
+
+After the fingerprint procedure, it's back to waiting. The
+immigration office is sometimes not technically stuck in the Stone
+Age, as there is the possibility to call and check on the progress of
+your case. To do this, you dial into an automated system, listen to
+announcements for several minutes, and eventually enter your case
+number to finally hear a computer-generated voice. In January 2002,
+we heard the voice say that the results of our fingerprint check were
+available to the immigration office and that our case was being
+processed further. The system sounds brilliant, doesn't it? However,
+there's a catch: firstly, the line is constantly busy (you can
+usually get through well at 2 a.m.), and the announcement is not
+always up to date. We had long since received approval for our Green
+Card, yet the announcement was still stuck on the fingerprint stage.
+
+@Z: The surcharge and a stamp in the passport
+
+<em>Angelika</em> 
+Anyone who thinks that the immigration office immediately sent us the
+actual Green Card is greatly mistaken. That would be far too easy.
+First, a notice arrives at your home stating that the application has
+been approved. In April 2002, our mail carrier delighted us with the
+aforementioned notice. Along with the joyful news, the letter
+instructed us to appear at the immigration office in San Francisco
+with two brand-new passport photos, our passport, etc. The goal was
+to get a stamp in the passport, which serves as a temporary Green
+Card and entitles one to work and travel.
+
+On a Tuesday in April, we set out early in the morning, armed with
+thick jackets, all necessary documents, and reading material, to join
+the line at the immigration office in San Francisco. We had already
+heard that there are two lines in San Francisco: one for people with
+an appointment (e.g., for an interview) and the other for the
+unfortunate souls without one (which is notoriously long).
+Unfortunately, there was some confusion about which line we should
+join. The immigration office is located in San Francisco's "Financial
+District," specifically at the corner of Sansome and Washington
+Street--a huge building. To be seen early, we arrive at the INS
+building at 6:10 AM. The line for those without an appointment
+already winds around the block. No one is standing at the other
+entrance, where people with appointments are processed. Dutifully, we
+join the line behind about 80 people, grateful for our warm jackets
+as the wind is quite brisk around the corner. Naturally, we
+immediately ask the people standing in front of and behind us in
+line. In front of us is a married couple. He is American, and she is
+a foreigner in the process of obtaining a green card through
+marriage. They seem like pros to us, as this is not their first time
+in line. They assure us that we are in the right line. Behind us is a
+software engineer from India, who, like Michael, received the green
+card through an American employer, so he is in the same boat as we
+are. He is just as uncertain as we are about the line issue.
+
+<pic images/queue2.ps The line at the INS building in San Francisco>
+
+After 10 minutes, I decide to wander over to the other entrance,
+hoping to find someone competent who can solve the line puzzle for
+us, even though the doors for the general public are still closed
+(Did I mention that there are no signs anywhere providing guidance?).
+I encounter security personnel standing at the entrance. Patiently, I
+explain that the immigration office has approved our I-485 (people
+always throw around form abbreviations; it makes it seem like you
+know what you're talking about) and that we are here to get our stamp
+in our passport. Prompt response: "Do you have an appointment?"
+Somewhat desperate reply: "No, not really," because the letter we are
+holding does not specify a concrete date or time for our appearance.
+Expected response: "Then you have to line up with everyone else!" And
+just like that, I'm back in line next to Michael, which is steadily
+growing. While we wait patiently, I wonder why no one has thought of
+selling coffee and bagels (something like a roll with a hole) to
+those waiting. A real market gap. Behind our Indian fellow stands
+another Indian compatriot with his family and child--everyone must
+appear in person at the INS. Once again, the line problem arises,
+someone else wanders to the other entrance, asks the questions I
+already asked, and returns with the same answer. Slowly, our
+skepticism fades, and we begin to believe that we are indeed in the
+right line.
+
+At 6:45 AM, the crowd of people starts to stir. The doors open. About
+10 people are allowed into the building at a time. Everyone must show
+identification, bags are scanned, and you go through the metal
+detector. The line moves at a snail's pace because there is only one
+metal detector and one scanning machine. Hooray, at 7:30 AM, we enter
+the hallowed halls. The security personnel confiscate Michael's
+digital camera (don't worry, he got it back when we left the
+building), and we navigate through a maze of barriers, eventually
+reaching three counters. We hand our papers to the man behind the
+counter. He initially looks a bit confused but then wants to direct
+us to the next counter, where there apparently are waiting numbers.
+Suddenly, another INS officer (apparently a supervisor) next to him
+intervenes and informs him that we could go directly to office 200-B,
+as our positive notice is equivalent to an appointment. You can guess
+what that means: we had been standing in the wrong line. After a few
+quiet sighs, we make our way through the maze of corridors and stand
+in front of office door 200-B. It is now 7:50 AM. A sign on the
+office door instructs us to drop the letter indicating our
+appointment through the designated slot in the door. The only
+problem: we don't have a set appointment. By now, many people are
+sitting in the waiting area--some with appointments, some
+without--and the discussion begins about what those without a fixed
+appointment should drop in the slot, because how else will the
+responsible officers know that we are waiting outside the door? The
+only option is to drop the original (!) of the positive notice we are
+holding. However, many are distressed about this because the notice
+is the only proof that the immigration office approved the Green Card
+application. Naturally, Michael makes silly jokes about a shredder
+being behind the slot, destroying all the papers.
+
+Shortly before 8 o'clock, a female officer slips out of one of the
+back doors, and although there are signs everywhere with the
+inscription "NO QUESTIONS, NO INFORMATION," I bravely approach her to
+find out what we are supposed to drop into the slot. At first, she
+remains silent, but after I look at her desperately, she shows her
+generous side -- the official notice is to be dropped in. At 8
+o'clock, the office door opens, and INS officers call the first
+people in for interviews, just like in the movie "Green Card." Those
+waiting not only have family photo albums ready to prove, for
+example, that the marriage to an American citizen truly exists, but
+they also usually have a lawyer in tow. If you apply for a Green Card
+with the help of an employer, the interview is generally waived, as
+was the case with us.
+
+At 8:05, another officer directs all individuals who already have a
+positive Green Card notice (including us) to the waiting area of
+another counter and begins his work. At 8:30, he calls us up. We hand
+over our passports and photos, a fingerprint from a single finger is
+taken twice (this time with ink), and we sign a designated form
+twice. The fingerprint, signature, and photo will later appear on the
+actual Green Card. The officer also confirms our address, to which
+the Green Card should be sent, and then we take a seat in the waiting
+room again. By the way, it's better not to move until the Green Card
+arrives in the mailbox, as the postal service is not allowed to
+forward Green Cards. Although there is an option to notify the
+immigration authorities of an address change, based on our
+experiences, we wouldn't dream of taking that risk--who knows where
+the notifications might end up.
+
+At 9:30 AM, another officer calls us. She holds our passports in her
+hands, shows us the stamp that serves as a temporary Green Card and
+is valid for one year (with the possibility of extension after the
+year expires). She also informs us that the actual Green Card will
+arrive in six to twelve months. Michael later claims that the red
+stamp looks like a potato print, which is true. Our names are
+handwritten under the stamp, which is a bit disappointing after all
+the waiting. At 9:40 AM, we leave the building beaming with joy and
+go for a royal breakfast to celebrate the day before Michael heads to
+the office.
+
+@Z: In the same line with the American gentleman
+
+<em>Angelika</em> 
+We tested our coveted stamp for the first time when we re-entered the
+USA coming from Japan. At the immigration office at the airport,
+there are usually two lines: one for American citizens and Green Card
+holders, and the other for visa holders and tourists, meaning one
+short and one very long line. This time, we lined up with the
+Americans and breezed through immigration. Michael initially doubted
+our "potato print stamp," but everything went smoothly. The
+immigration officer just grumbled about where we got the stamp. We
+dutifully replied, "From San Francisco!" And I held back my comment
+that it was obvious from the stamp itself, as Michael had strictly
+instructed me not to start arguing.
+
+@Z: All's well that ends well.
+
+<em>Angelika</em> 
+On July 8th, the moment had finally arrived: Lost in thought, I
+opened our mailbox and two letters from the immigration office
+greeted me. I already suspected it: The arduous journey of the Green
+Card process had finally come to an end. And indeed, I opened the
+mail and found our brand-new Green Card plastic cards. Hooray! By the
+way, they are sent via regular mail and not by registered mail.
+
+Hard to believe that we already started the formalities for the Green
+Card application in July 1999! The process was finally completed in
+July 2002. Currently, you have to expect it to take three years,
+which is quite average. However, there is a fear that there will soon
+be longer waiting times again, because the files are piling up at the
+immigration office due to the tightened security measures after
+September 11th. In any case, we are very relieved that the paperwork
+madness is now over and we can hang around in California a bit freely
+and casually. Stay tuned!
+
+The translation of "Michael und Angelika" to English is "Michael and
+Angelika.
+
