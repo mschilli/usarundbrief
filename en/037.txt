@@ -565,10 +565,7 @@ find out that in Japan it is common to directly ask someone about
 their blood type. Belonging to A, B, O, or AB is somewhat similar in
 importance to zodiac signs in the Western world.
 
-TODO
-
-http://www.geocities.com/~castleinthesky/blood.htm
-As you can read, people with blood type A are supposedly very
+According to Japanese science, people with blood type A are supposedly very
 serious, determined, reliable, but also stubborn. On the other hand,
 carriers of blood type B show a wide range of interests, so many that
 they sometimes jump too quickly from one topic to the next. They are
@@ -587,7 +584,7 @@ will be rewarded with a self-burned newsletter CD, with which you can
 read all the newsletters from 1996 to 2002 on your computer without
 having to dial into the internet!
 
-And I gather some more peculiarities from our textbook: It is
+And I gather some more peculiarities from our course textbook: It is
 completely normal for Japanese people to ask how old their
 conversation partner is. If it is an unmarried woman over 25, the
 question "Why are you not married yet?" immediately follows. This is
@@ -603,32 +600,32 @@ smile and say nothing, which is culturally perfectly acceptable.
 By the way, we both passed our "Beginning 3" exam in the intense
 course at the Soko-Gakuen School in San Francisco's Japantown
 (Angelika 99%, me 90%) and are well-prepared with the essential
-phrases, 250 Hiragana/Katakana, and 80 Kanji characters for our trip
+phrases, 250 Hiragana/Katakana, and 80 Kanji characters for our immanent trip
 to Japan. Sometimes, our Japanese teacher even praises us -- my
-favorite sentence: "Very good! -- for this level.
+favorite quote by her: "Very good! -- for this level."
 
-@Z: The newsletter top product
+@Z: Newsletter Top Product: CD Storage Units
 
 <em>Michael</em> 
-And finally, today's newsletter top product: the CD storage units
+And finally, this issue's top product: the CD storage units
 from Discgear, which Angelika once gave me as a gift. Since I am
 known to prefer starving over living without music, I tend to
 accumulate quite a few CDs. I always immediately throw away the small
 plexiglass boxes (so-called jewel cases) in which CDs are sold these
 days, as they are the most useless invention since the bendable
-straw. If I kept all of them, my CD collection would be taller than
+straw. Had I kept all of them so far, my CD collection would be taller than
 the Bank of America building in San Francisco. Instead, I use the
-futuristic-looking boxes from the company Discgear, which are only
+futuristic-looking boxes made by Discgear, which are only
 about 30 cm wide and can hold 80 CDs (nowadays, there are even ones
 that hold 100!). A refreshing alternative to the
-300-mark-but-only-hold-60-CDs stands from the yuppie stores. To
-retrieve the CDs, there is a slider on the front of the box that you
+300-mark-but-only-hold-60-CDs stands from certain yuppie stores. To
+retrieve a particular CD, there is a slider at the front of the box that you
 set to a number between 1 and 80. When you then open the lid, the
-selected CD pops up, and you can easily take it out with your fingers
-and place it in the CD player. On the other hand, each CD has a small
+selected CD pops out, and you can easily pick it with your fingers
+and place it into the CD player. Also, each CD has a small
 sticker indicating which box and position it belongs to, in case 20
 CDs are lying around the apartment again because you were too lazy to
-put them back in the box.
+put them back in the box, it's easy to find the slots to stash them were they belong.
 
 <pic images/discgear.ps The CD organization system by Discgear. In the background, the self-written sorting software.>
 
@@ -638,33 +635,36 @@ However, the software that comes with Discgear is somewhat subpar and
 not recommended. But since I'm in the field, there's more: On my
 website, there's a program that searches for a keyword you enter (for
 example, "Red Hot Chili Peppers") and then tells me in which of my
-Discgear cases and at which positions CDs from this group are
+Discgear cases and at which positions CDs from this band are
 located. If anyone is interested, I'd be happy to send them the small
 Perl program. And in my monthly column for the German Linux Magazine,
-which I've been writing for almost five years, I introduced a small
-program for labeling the case in the March issue.
-http://www.linux-magazin.de/ausgabe/2002/03/perl/perl.htm
-The Discgear storage is available at www.discgear.com, not very
+which I've been writing columns for for almost five years, I've introduced a small
+program for labeling the case (https://www.linux-magazin.de/ausgabe/2002/03/perl/perl.htm).
+The Discgear storage is available at www.discgear.com, not particularly
 cheap, but very practical. Drives the yuppie stores to ruin!
 
 @Z: Coupons
 
-<em>Michael</em> 
-I have often written that in the USA, it is very important to pay
-attention to money. It is a kind of national pastime here to always
-buy goods where they are cheapest, even if it is sometimes a bit
-inconvenient. For example, supermarkets here continuously send out
-advertisements with attached "coupons." If you present the coupon in
-the store, you get the item at the offered price; if you buy it
-without a coupon, you pay more. You can't imagine how many people
-actually cut out the coupons from the newspaper, present them at the
-supermarket, and then save a dollar when they buy three packs of the
-advertised product. This is quite normal in the USA, and no one looks
-at you strangely if you hand over 20 collected coupons at the
-checkout. Except, of course, if the person is unlucky enough that...
-ich
+<em>Michael</em> I have often written that in the USA, it is very important to
+pay attention to expenses. It is a kind of a national pastime here to always
+buy goods where they are cheapest, even if it is sometimes a bit inconvenient.
+For example, supermarkets here continuously send out advertisements with
+attached "coupons." If you present the coupon in the store, you get the item at
+the offered price; if you buy it without a coupon, you pay more. You can't
+imagine how many people actually cut out the coupons from newspaper issues,
+present them at the supermarket, and then save a dollar when they buy three
+packs of the advertised product. This is quite normal in the USA, and no one
+looks at you strangely if you hand over 20 collected coupons at the checkout.
+Except, of course, if someone has the bad luck that I'm standing further back
+in line — I’m the one sighing provocatively and rolling my eyes.  The coupons
+have barcodes, and the checkout computers are so smart that when they scan the
+coupons, they deduct the correct discount from the total bill, even if you only
+pull them out of your pocket after all has been scanned and hand them to the
+cashier, or if you exceed the fine-print rule of “only once per household” —
+the cashier just feeds them to the computer and it does the rest, nice and
+quick.
 
-<pic images/ad.ps An advertisement for cat food in the newspaper. If you buy two cans, you get one free when you present the coupon!>
+<pic images/ad.ps An advertisement for cat food in the newspaper. If you buy two cans, you get one free if you present the coupon!>
 
 Today, I'm going to exclusively share with you my personal theory on
 why the glaring difference between the rich and the poor in America
@@ -683,16 +683,17 @@ little bit better, it immediately costs ten times as much.
 <pic images/flyer.ps A dentist distributes flyers to advertise his practice.>
 
 In addition to the coupons in newspaper ads, we receive an envelope
-full of coupons for the local stores once a month. While I usually
-throw the envelope away unopened, I took a closer look at the
-newsletter once: As you can see in illustration (#10), everything is
-included: From rabies vaccinations for cats ($4) to Japanese sushi
+full of coupons for our local stores once a month. While I usually
+throw the envelope away unopened, I took a closer look this time, simply for
+my report to our newletter readers:
+As you can see in illustration (#10), there's coupons for anything you can
+imagine: From rabies vaccinations for cats ($4) to Japanese sushi
 ($5 discount on a bill of $25) and a coupon for a dentist who whitens
-teeth and offers a special price of only $99 instead of the usual
+teeth and offers a special rate of only $99 instead of the usual
 $250. The joint practice of Terry Nguyen (sounds Vietnamese) and
 David Barrelier (obviously of French descent), both DDS, meaning
-dentists, makes it possible. Well, but the team at Jang Associates
-probably can't be outdone by the two!
+dentists, are running this special. Well, but the team at Jang Associates
+probably can't be outdone by those two!
 
 That's it for today, dear friends in faraway Germany! To all of you:
 
