@@ -103,7 +103,7 @@ newsletter!
 By the way, all of the absurd numerical
 values that every Californian driver must know when applying for a
 driver's license are listed on a 
-<<LINK>http://www.monkeydyne.com/soren/tips/dmv-numbers.html|Website by Søren F. Ragsdale</LINK>:
+<LINK>http://www.monkeydyne.com/soren/tips/dmv-numbers.html|Website by Søren F. Ragsdale</LINK>:
 For example, you may only park 7.5 feet away from railroad tracks, 15 feet from a fire
 hydrant, and 3 feet from a curb ramp.
 
@@ -148,12 +148,11 @@ calls the police because they can remember the personalized license
 plate "PERL MAN," and the police actually find it among tens of
 thousands of cars on one of the busiest highways in the world! If
 this happens more often, I might have to give the license plate back
-and speed around incognito with something like "4-ZAP 437.
+and speed around incognito with something like "4-ZAP 437".
 
 @Z: The newsletter top product
 
-<pic images/abfl1.ps (#5) A little fruit waste from the juicer poured
-into the sink ...>
+<pic images/abfl1.ps (#5) A little fruit waste from the juicer poured into the sink ...>
 
 <em>Michael</em> 
 Today: The Garbage Disposer E20 by Emerson. I have previously written
@@ -166,6 +165,8 @@ up in the kitchen, you simply dump into the sink, turn on the water
 and the grinding mechanism--and whoosh, it goes down the drain!
 
 <pic images/abfl5.ps (#6) ... naturally clogs the pipe.>
+
+TODO
 
 Figure (#5) shows how I poured fruit waste into the sink, and in
 Figure (#6) you can see the resulting moderate pipe blockage.
