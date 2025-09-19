@@ -27,9 +27,7 @@ here. Although the USA made it to the round of 16 this time,
 
 <pic images/soccer.ps David Beckham and I wear the same football boots.>
 
-TODO
-
-Except for our Mexican neighbor, of course, who watched
+Except for our Mexican neighbor, of course, who was watching
 enthusiastically. And suffered along when Mexico lost to the USA.
 Mexicans are not highly regarded in the USA, as most have to work in
 minimum-wage jobs due to a lack of alternatives, and very few manage
@@ -48,7 +46,7 @@ hundreds of Mexicans stand every day waiting for a wealthy homeowner
 in a pickup truck to drive by and pick up three or four people so
 they can do jobs for five or six dollars an hour that no one else
 wants to do. But in soccer, they had been ahead so far -- and then
-the exploiting USA comes and wins, which was bitter and was discussed
+the overlord USA comes and wins, which was bitter and was discussed
 as such here and in Mexico.
 
 <pic images/wasch2.ps In California, almost only Mexicans wash cars.>
@@ -77,12 +75,11 @@ enforced.
 <em>Michael</em> 
 Recently, I thought to myself: It would be nice if we got a parking
 ticket as a memento of our time in San Francisco, with "PERL MAN" on
-it -- the personalized police license plate of our car.
-<RBLINK>000309#1</RBLINK>
+it -- the personalized police license plate of our car (<RBLINK>000309#1</RBLINK>).
 On Sunday afternoon, it finally happened: I came home from the
 supermarket and boldly parked the trusty "PERL MAN" on the sidewalk
 to unload it. Upstairs in the apartment, Angelika signaled to me that
-she was on the phone with Oldenburg and that we could set off on an
+she was on the phone with Oldenburg and that we could set off to an
 outing in two minutes. In high spirits, I turned on the TV. An hour
 later, it happened, and we had a parking ticket on the car, hooray!
 At $25, it wasn't exactly cheap, but it's a unique souvenir, as you
@@ -90,30 +87,25 @@ can see in illustration (#3)!
 
 <pic images/ticket.ps (#3) A ticket for PERL MAN>
 
-The translation of the provided text is:
-
-"You can also see that it costs $250 if you park at a bus stop or
+You can also see that it costs $250 if you park at a bus stop or
 $275 if you park a car without a disabled permit in a disabled
 parking space -- or come within three feet (about one meter) of a
-disabled ramp! Similarly draconian penalties are imposed for driving
-in the carpool lane...
-<RBLINK>20010701#1</RBLINK>
-Here's the translation to English:
-
-"A fine of $274 is imposed if you are sitting alone in the car.
-'Parking within 18 inches of curb' costs 23 dollars--I assume this
+ramp for the disabled! Similarly draconian penalties are imposed for driving
+in the carpool lane (<RBLINK>20010701#1</RBLINK>),
+a fine of $274 is imposed if you are driving by yourself instead of carrying the mandatory
+passenger.
+"Parking within 18 inches of curb" costs 23 dollars--I assume this
 means that you must not park more than 18 inches (45.54 cm) away from
 the curb. And parking in front of a hydrant costs only the everyday
 low price of $33--I can afford that, just wait, maybe soon in the
 newsletter!
 
-On the
-Website by Sï¿½ren F. Ragsdale
-The translation of the text is: "By the way, all the absurd numerical
-values that a Californian driver must know when applying for a
-driver's license are listed: You may only park 7.5 feet away from
-railroad tracks, 15 feet from a fire hydrant, and 3 feet from a curb
-ramp.
+By the way, all of the absurd numerical
+values that every Californian driver must know when applying for a
+driver's license are listed on a 
+<<LINK>http://www.monkeydyne.com/soren/tips/dmv-numbers.html|Website by Søren F. Ragsdale</LINK>:
+For example, you may only park 7.5 feet away from railroad tracks, 15 feet from a fire
+hydrant, and 3 feet from a curb ramp.
 
 @Z: The Raging PERL MAN
 
@@ -126,6 +118,8 @@ Francisco in Mountain View. On Highway 101, as usual in the leftmost
 of four lanes, just before the Mountain View exit, I suddenly saw a
 police car appear in the rearview mirror and routinely slowed down to
 the prescribed 65 miles per hour (about 100 km/h).
+
+TODO
 
 After following the "PERL MAN" for a while, who didn't seem to notice
 and was leisurely drinking his coffee from a commuter mug, the cop
