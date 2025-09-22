@@ -544,7 +544,7 @@ Köstlichkeiten zu laben! In einem der nächsten Rundbriefe werde ich
 mal eine langatmige Abhandlung darüber schreiben, dass Mexikaner
 immer mexikanisch essen. Echt wahr!
 
-@Z: Garbage Shoot
+@Z: Garbage Chute
 
 <pic images/gshoot.ps (#7) Ein klassischer Garbage Chute runter zur Mülltonne>
 
