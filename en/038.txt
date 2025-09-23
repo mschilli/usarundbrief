@@ -119,18 +119,16 @@ of four lanes, just before the Mountain View exit, I suddenly saw a
 police car appear in the rearview mirror and routinely slowed down to
 the prescribed 65 miles per hour (about 100 km/h).
 
-TODO
-
 After following the "PERL MAN" for a while, who didn't seem to notice
 and was leisurely drinking his coffee from a commuter mug, the cop
 suddenly turned on his siren. At first, I assumed he just wanted to
 pass, so I moved to the next right lane. But he followed, and in the
 USA, that means: pull over to the right shoulder and prepare to be
-checked. Since routine checks are not allowed in the USA, it
+pulled over. Since routine checks are not allowed in the USA, it
 generally means you've done something wrong and will have to pay a
 fine.
 
-So I changed lane by lane to the left, slowed down, and finally
+So I changed lane by lane to the right, slowed down, and finally
 stopped on the unpaved shoulder of Highway 101. When the cop got out
 and approached the car on the passenger side, I rolled down the
 window and took out my driver's license, insurance certificate, and
@@ -150,7 +148,7 @@ thousands of cars on one of the busiest highways in the world! If
 this happens more often, I might have to give the license plate back
 and speed around incognito with something like "4-ZAP 437".
 
-@Z: The newsletter top product
+@Z: The Newsletter Top Product
 
 <pic images/abfl1.ps (#5) A little fruit waste from the juicer poured into the sink ...>
 
@@ -166,26 +164,23 @@ and the grinding mechanism--and whoosh, it goes down the drain!
 
 <pic images/abfl5.ps (#6) ... naturally clogs the pipe.>
 
-TODO
-
 Figure (#5) shows how I poured fruit waste into the sink, and in
 Figure (#6) you can see the resulting moderate pipe blockage.
 However, a solid half horsepower in the Emerson engine mercilessly
 eliminates even stubborn waste (Figure (#7)). Powerful. Reliable.
 Emerson.
 
-<pic images/abfl3.ps (#7) At the push of a button, the Emerson E20
-clears the line again!>
+<pic images/abfl3.ps (#7) At the push of a button, the Emerson E20 clears the pipe again!>
 
 Some time ago, I overdid it and dumped too much waste in, and Emerson
 promptly stopped working. Oh no, I thought, now I have to call the
-landlord and wait for a disposal specialist to kindly come by.
+landlord and wait for a garbagge disposer specialist to kindly come by.
 However, a look under the sink revealed that the Emerson E20 comes
 with a small Allen wrench, which you just insert at the bottom, turn
-it around once to manually reduce the waste, and it works again! A
+it around once to manually reduce the waste, and it works again! What a
 great product!
 
-<pic images/abfl4.ps The newsletter top product: The Emerson E20>
+<pic images/abfl4.ps This newsletter's top product: The Emerson E20>
 
 @Z: The CD of the Month
 
@@ -202,11 +197,11 @@ the best way to listen is on a hot day in San Francisco in an
 rolled down, wearing shorts and barefoot, speeding up the hill trio
 on Church Street between 17th and 22nd Street. Then it sounds as if
 the music was invented in California, even though it comes from New
-York City! Buy it immediately and listen to it nonstop! Until we
+York City. Buy it immediately and listen to it nonstop! Until we
 discuss the new one from the "Red Hot Chili Peppers," my favorite
 band, in the next newsletter.
 
-@Z: The Osbournes in the TV box
+@Z: The Osbournes on TV
 
 <em>Michael</em> 
 The most popular show on American television at the moment is called
@@ -217,6 +212,8 @@ rambunctious teenage children every step of the way and capture the
 everyday life in this unusual household.
 
 <pic images/o1.ps In the living room of the Osbournes>
+
+TODO
 
 The Osbournes are British, but they live in an ugly mansion for the
 nouveau riche in the upscale suburb of Beverly Hills in Los Angeles.
