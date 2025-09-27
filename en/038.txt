@@ -213,8 +213,6 @@ everyday life in this unusual household.
 
 <pic images/o1.ps In the living room of the Osbournes>
 
-TODO
-
 The Osbournes are British, but they live in an ugly mansion for the
 nouveau riche in the upscale suburb of Beverly Hills in Los Angeles.
 Ozzy Osbourne is now 53 years old and a total wreck. With "Black
@@ -230,38 +228,34 @@ carpet again.
 Parents and children constantly use terrible swear words that
 wouldn't even go unpunished in a ghetto family. However, with the
 Osbournes, it's completely normal to use the so-called F-word.
-Because of this, television has to (as it has before in...
-<RBLINK>20001204#5</RBLINK>
-The dialogues are censored with beeps: Ozzy: "What the --BLEEP-- is
+Because of this, US television stations have to bleep it.
+(reported previously in <RBLINK>20001204#5</RBLINK>)
+Ozzy: "What the --BLEEP-- is
 that?" Daughter Kelly: "The --BLEEP--ing dog --BLEEP-- on the
 --BLEEP-ing carpet again!".
 
-<pic images/o4.ps Cursing, Ozzy chases after the cat that has hidden
-in the bushes.>
+<pic images/o4.ps Cursing, Ozzy chases after the cat that has hidden in the bushes.>
 
 It gets interesting when the completely tattooed Ozzy presents
 himself to his offspring as the responsible father and insists, for
 example, that the children come home from a party at a certain time.
 Or when he confesses to his lovely wife in a Midlands English
-working-class dialect: "Sharon, I love you more than life itself..."
-("Sharon, I love you more than life itself"). That's what makes the
-show so charming.
+working-class dialect: "Sharon, I love you more than life itself...".
+That's what makes the show so charming.
 
-<pic images/o3.ps The defiant 16-year-old son wants to go to the
-rave, but he is not allowed to!>
+<pic images/o3.ps The defiant 16-year-old son wants to go to the rave, but he is not allowed to!>
 
 MTV produced it with a small budget and did not expect it to be
 successful at all. However, it was a huge hit and even surpassed the
 mega-million productions on other channels in the ratings. MTV
 recently extended the contract with the Osbournes for a second
 season. The people in charge reported that the negotiations were
-completely chaotic, with Ozzy's wife Sharon repeatedly stalling the
+utterly chaotic, with Ozzy's wife Sharon repeatedly stalling the
 MTV people and making wild back-and-forth decisions. Ozzy himself
 only catches half of what's going on anyway and will surely be
 satisfied with the negotiated fee.
-<LINK>http://www.mtv.com/onair/osbournes|The Osbournes</LINK>
-The translation to English is: "you will find more about this unusual
-family.
+You will find more about this unusual family
+<LINK>http://www.mtv.com/onair/osbournes|here|The Osbournes</LINK>.
 
 Clear the way for Angelika!
 
@@ -281,10 +275,7 @@ immigration authority) doesn't care about that. Oops, I'm digressing.
 Some time ago, I announced that I would report on our third and final
 - extremely nerve-wracking - Green Card step. If anyone would like to
 read my previous explanations about the Green Card again, they can do
-so in the...
-<RBLINK>20010905#7</RBLINK>
-The translation of "sein GedÃ¤chtnis auffrischen" to English is "to
-refresh his memory.
+so here: <RBLINK>20010905#7</RBLINK>.
 
 And since I don't want to be difficult, here's a quick summary of
 steps one and two: We were allowed to apply for the Green Card
@@ -296,7 +287,7 @@ foreigners--this is known as immigration for employment reasons
 
 AOL applied for Michael's Green Card. The first step was to prove to
 the relevant labor authorities that Michael was not taking a job away
-from an American, meaning that there was indeed a labor shortage in
+from any Americans, meaning that there was indeed a labor shortage in
 his field. The authorities issued the highly sought-after "Labor
 Certificate," which is needed to proceed to the second step. By the
 way, it has become significantly more difficult to obtain a Labor
@@ -315,12 +306,12 @@ the "apron strings card" (original quote from Michael). By this,
 Michael means that I only got the green card because I am married to
 him. Family is a big deal in America.
 
-Even in the last step, it was all about filling out form after form.
+Even at the last step, it was all about filling out form after form.
 If you woke me from a deep sleep, I could still recite off the top of
 my head the exact dates of Michael's military service, the companies
 he has worked for and for how long, including the corresponding
-company addresses, how long we lived at each address, and so on. But
-don't panic, I won't write about every single form from the third
+company mailing addresses, how long we've lived at each address, and so on. But
+don't panic, I won't write about every single form required in the third
 step. I'll just share the milestones with you.
 
 @Z: Priority Date
@@ -328,18 +319,20 @@ step. I'll just share the milestones with you.
 <em>Angelika</em> 
 Before we could even begin the third step, our so-called "Priority
 Date" had to be current. It's best to think of it like a place in the
-Green Card queue, similar to taking a number in some grocery stores
-and government offices. Since most Green Cards in the various
+Green Card queue, similar to taking a number in some grocery store
+or government office. Since most Green Cards in the various
 categories are subject to an annual quota, bottlenecks occur when the
-quota for the respective year is reached - the queue grows and grows.
+quota for the respective year is reached - the queue keeps growing.
 The number of Green Cards issued by the immigration authorities each
 year is then evenly distributed among the individual countries. For
 example, people from India usually wait longer because the U.S.
-receives many applications from Indian citizens - the Green Cards
-available each year are logically used up more quickly. If you come
+receives many applications from Indian citizens - the number of Green Cards
+available to them each year are logically gone more quickly. If you come
 from Germany, you are among the lucky ones who can essentially jump
 right to the counter without waiting, as there are not as many
 Germans applying for Green Cards.
+
+TODO
 
 @Z: The medical examination
 
