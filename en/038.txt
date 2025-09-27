@@ -332,14 +332,12 @@ from Germany, you are among the lucky ones who can essentially jump
 right to the counter without waiting, as there are not as many
 Germans applying for Green Cards.
 
-TODO
-
-@Z: The medical examination
+@Z: Medical Examination For the Green Card
 
 <em>Angelika</em> 
-I have already mentioned that the INS (Immigration and Naturalization
+I had already mentioned that the INS (Immigration and Naturalization
 Service) does not like it when immigrants with contagious diseases
-like tuberculosis populate America. Therefore, for us, it meant going
+like tuberculosis come to America. Therefore, for us, it meant going
 to the doctor as step number three to rule this out. You can imagine
 the whole process as being similar to a medical examination by a
 public health officer. We were not allowed to go to our family
@@ -351,11 +349,10 @@ run a regular private practice. However, they don't earn much from
 these examinations, which is why the list mainly includes "doctors
 for the poor" from typical immigration countries.
 
-<pic images/doktor.ps The medical practice of the Filipino green card
-doctor in the Mission.>
+<pic images/doktor.ps The medical practice of the Filipino Green Card doctor in the Mission.>
 
 I quickly looked for a doctor in our immediate vicinity and ended up
-in the heart of the Mission, the South American neighborhood that is,
+in the heart of the Mission, the Latin American neighborhood that is,
 as you know, just around the corner from us. We went separately, and
 each of us told the same story afterward: In the waiting room, no one
 spoke English except for the receptionist, but the doctor, who was
@@ -364,9 +361,9 @@ from the Philippines, spoke it quite well and seemed experienced.
 He first underwent a very general examination. You know: looking in
 the throat, listening to the chest, measuring blood pressure,
 determining height and weight, etc. Then he injected us with the
-substance for the tuberculosis test and discussed in detail which
-vaccinations we had received in childhood and adulthood, as well as
-which childhood diseases we had suffered from. On his list for our
+substance for the tuberculosis test and inquired in detail which
+vaccinations we had received in our childhood and adulthood, as well as
+which childhood diseases we had gone through. On his list for our
 age group were: mumps, measles, rubella, tetanus, diphtheria, polio,
 whooping cough, chickenpox. Oh, how pleased we were that, as an
 organized person, I could present all the vaccination records (even
@@ -375,12 +372,12 @@ had skipped rubella as a child and therefore had to get a
 vaccination. We paid $125 for my examination, and $175 for Michael's
 due to the additional vaccination.
 
-<pic images/mission.ps Typical: Neighborhood "Mission>
+<pic images/mission.ps Typical: San Francisco's "Mission" Neighborhood>
 
 Then it was off to the AIDS test. In the USA, by the way, the doctor
 sends you to special labs for blood tests. It's a bit inconvenient,
 but the people there are blood-drawing professionals since they do
-nothing else all day. Our doctor sent us to a branch of St. Luke's
+nothing else all day long. Our doctor sent us to a branch of St. Luke's
 Hospital right on Mission Street. When I arrived there, I initially
 thought something was off. I had to pass by shop windows that, in
 typical Mission tradition, advertised cheap, colorful goods with a
@@ -390,15 +387,15 @@ the sign on the door indicated that I was in the right place.
 Bravely, I entered and found myself in a tiny room containing a desk,
 a table with blood-drawing equipment, a chair, and a person in a
 white coat. The first thought that crossed my mind was: Oh dear, I
-hope they work diligently here and I don't catch something (Michael
+hope they work diligently here and I don't catch anything (Michael
 had the same concerns). Don't think we're arrogant, but the American
 healthcare system is really in such a bad state, you have no idea
-what I've experienced, but maybe more on that another time.
+what I've experienced, but maybe more on that some other time.
 
-<pic images/test.ps The Testing Laboratory in the Mission>
+<pic images/test.ps The blood test lab in the Mission>
 
 Before the medical assistant started drawing blood, I signed a form
-stating that I understood it was an HIV test. By the way, everyone
+stating that I understood it was for an HIV test. By the way, everyone
 signs this, not just Green Card applicants. In general, it's
 questionable to undergo such a potentially life-changing test just
 because it's required for the Green Card. Just imagine the scenario
@@ -407,9 +404,11 @@ advance. The whole thing cost $126.90 per person, with $77 of that
 amount being for the HIV test alone. The rest was for the test that
 detects syphilis and some other unclear items. In typical American
 fashion, there was a discount if we paid in cash or by check, a hefty
-40%. Naturally, we did that. "HIV test on sale!
+40%. Naturally, we did that. "HIV test on sale!"
 
-<pic images/mission2.ps Typical neighborhood 'Mission'>
+<pic images/mission2.ps San Francisco's "Mission" neighborhood.>
+
+TODO
 
 A few days later, we set off again to see the doctor so he could
 examine our tuberculosis skin test. Naturally, we were also
