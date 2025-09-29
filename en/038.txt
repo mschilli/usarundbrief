@@ -497,65 +497,63 @@ authority (called the "Internal Revenue Service" in America, abbreviated as
 authority checks whether we dutifully paid our taxes in America and if we
 submitted our tax return on time. To do this, we answered questions on the "IRS
 Form 9003." The immigration authority then forwarded the information we
-provided to IRS.
+provided to the IRS.
 
-TODO
+@Z: Finger Prints
 
-@Z: Fingerabdrücke
+<em>Angelika</em> Before one receives the Green Card, the American immigration
+authority wants to ensure that the applicant has not committed any crimes or is
+listed as a wanted terrorist. Just as one applies for a certificate of conduct
+in Germany, fingerprints are taken in America.  For the Green Card, the FBI
+uses fingerprints to check whether one has been and is a law-abiding citizen.
+In practice, it works as follows: After our lawyer sent the required documents
+(and a few more) to the Immigration Office, we patiently waited for the
+confirmation of receipt. However, we had to bite the bullet again, as countless
+applications flooded the responsible immigration authority in California,
+causing week-long delays in opening the incoming mail and thus also adding
+delays to sending out the confirmation of receipt.
 
-<em>Angelika</em> 
-Before one receives the Green Card, the American immigration
-authority wants to ensure that the applicant has not committed any
-crimes or is listed as a wanted terrorist. Just as one applies for a
-certificate of conduct in Germany, fingerprints are taken in America.
-For the Green Card, the FBI uses fingerprints to check whether one
-has been and is a law-abiding citizen. In practice, it works as
-follows: After our lawyer sent the required documents (and a few
-more) to the Immigration Office, we patiently waited for the
-confirmation of receipt. However, we had to bite the bullet again, as
-countless applications flooded the responsible immigration authority
-in California, causing delays of weeks in opening the incoming mail
-and thus also in sending out the confirmation of receipt. Just so you
-believe me: Our documents for the third step were received by the
-immigration authority on July 23, 2001, and the confirmation of
-receipt was sent out by the authority on September 6, 2001. Weeks
-later, we received a letter with the appointment date (November 30,
-2001) for taking our fingerprints. Everyone eagerly awaits this
-letter because it indicates that one's file is not gathering dust in
-a large pile but that something is happening. By the way, the FBI
-does not take the fingerprints directly; instead, the immigration
-authority sends the applicants to a designated center on-site. The
-fingerprinting is done digitally: no annoying ink on the fingers. The
-fingerprints appear immediately on the screen and are promptly sent
-to the FBI. The FBI works quite efficiently in this regard and sends
-the results back to the immigration authority relatively quickly.
+Just so you believe me: Our documents for the third step were received by the
+immigration authority on July 23, 2001, and the confirmation of receipt was
+sent out by the authority on September 6, 2001. Weeks later, we received a
+letter with the appointment date (November 30, 2001) for taking our
+fingerprints. Everyone eagerly is awaiting this letter because it indicates
+that one's file is not gathering dust in a large pile and that something is
+happening. By the way, the FBI does not take the fingerprints directly;
+instead, the immigration authority sends the applicants to a designated third
+party processing center.
+The fingerprinting is done digitally: no annoying ink on the fingers.
+The fingerprints appear immediately on the screen and are promptly sent to the
+FBI. The FBI works quite efficiently in this regard and sends the results back
+to the immigration authority relatively quickly.
 
-After the fingerprint procedure, it's back to waiting. The
-immigration office is sometimes not technically stuck in the Stone
-Age, as there is the possibility to call and check on the progress of
-your case. To do this, you dial into an automated system, listen to
-announcements for several minutes, and eventually enter your case
-number to finally hear a computer-generated voice. In January 2002,
-we heard the voice say that the results of our fingerprint check were
-available to the immigration office and that our case was being
-processed further. The system sounds brilliant, doesn't it? However,
-there's a catch: firstly, the line is constantly busy (you can
-usually get through well at 2 a.m.), and the announcement is not
-always up to date. We had long since received approval for our Green
-Card, yet the announcement was still stuck on the fingerprint stage.
+After the fingerprint procedure, it's back to waiting. The immigration office
+is sometimes not technically stuck in the Stone Age, as there is the
+possibility to call and check on the progress of your case. To do this, you
+dial into an automated system, listen to announcements for several minutes, and
+eventually enter your case number to finally hear a computer-generated voice.
+In January 2002, we heard the voice saying that the results of our fingerprint
+check were available to the immigration office and that our case was being
+processed further. The system sounds brilliant, doesn't it? However, there's a
+catch: firstly, the phone lines ares busy all the time (you can usually get
+through well at 2 a.m.), and the announcement is not always up to date. At some
+point, we've had long received our Green Card approval by mail, yet the
+phone announcement was still stuck at the fingerprint stage.
 
-@Z: The surcharge and a stamp in the passport
+@Z: Processing Fee and Passport Stamp
 
 <em>Angelika</em> 
 Anyone who thinks that the immigration office immediately sent us the
 actual Green Card is greatly mistaken. That would be far too easy.
-First, a notice arrives at your home stating that the application has
+First, a letter arrived at our home, stating that the application had
 been approved. In April 2002, our mail carrier delighted us with the
 aforementioned notice. Along with the joyful news, the letter
 instructed us to appear at the immigration office in San Francisco
-with two brand-new passport photos, our passport, etc. The goal was
-to get a stamp in the passport, which serves as a temporary Green
-Card and entitles one to work and travel.
+with two brand-new passport photos, our current passports, etc. The intent was
+to receive a stamp into our passports, which served as a temporary Green
+Card, and entitled us to work and travel.
+
+TODO
 
 On a Tuesday in April, we set out early in the morning, armed with
 thick jackets, all necessary documents, and reading material, to join
