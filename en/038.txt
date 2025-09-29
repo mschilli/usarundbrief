@@ -443,16 +443,14 @@ paperwork, paperwork, paperwork.
 
 @Z: Passport Psotos
 
-TODO
-
 <em>Angelika</em> 
-No green card application without photographs. And the green card
+No green card application goes without photographs. And the green card
 photos are subject to the strict regulations of the immigration
 authority. The lawyer gave us a typewritten DIN A4 information sheet
-with instructions, along with a list of photo shops that are familiar
-with the 101 regulations and have experience in implementing them.
-Here are some excerpts from the information sheet for your amusement:
-Glasses, earrings, and hair clips are taboo. The photo should be 30
+with instructions, along with a list of photo studios that are familiar
+with the regulations and have experience in implementing them.
+Here are some excerpts from the information sheet, for your amusement:
+Glasses, earrings, and hair clips are not allowed. The photo should be 30
 mm (1 3/16 inches) long--from the hair to below the chin--and 26 mm
 (1 inch) wide--from the right ear to the left cheek. The background
 must be white. The photo must not have shadows or be retouched.
@@ -460,20 +458,19 @@ Polaroid film #5 is acceptable, but SX-70 film is not. The photo must
 show the entire face of the person (3/4 pose). The right ear and left
 eye must be visible.
 
-@Z: Affidavit of Support" is already in English. It refers to a legal
-document in which an individual pledges financial support for another
-person, often used in immigration contexts to demonstrate that the
-sponsored individual will not become a public charge.
+@Z: Affidavit of Support
 
 <em>Angelika</em> 
-And no one should become a burden on the American state: the
+And no immigrant should evolve into a burden on the American state: the
 "Affidavit of Support" (which can best be translated as "sworn
 declaration of financial support") is one of my favorite forms in our
 Green Card process. You may recall: I received the Green Card because
 I am married to Michael. Michael not only had to assure that he could
-support me so that I would not be a burden on the American state, but
+support me so that I would not be a burden on the American social system, but
 also that he had sufficient financial means to support both of us: a
-highly official matter with a notary and oath.
+highly official matter with a sworn notary.
+
+TODO
 
 In the third step, there is also the opportunity to apply for a
 provisional work permit ("Employment Authorization Document") until
