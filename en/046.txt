@@ -182,8 +182,6 @@ for 20 years should be allowed to run for the presidency. And guess
 when Arnold Schwarzenegger exchanged his Austrian passport for an
 American one. 20 years ago! What a coincidence!
 
-TODO
-
 @Z: Oahu
 
 <em>Michael</em> 
@@ -208,40 +206,34 @@ potential retirement homes. As seasoned travelers, we no longer stay
 in hotels in Hawaii; instead, we always rent small houses from
 private individuals.
 
-<pic images/sears.ps The translation of "Reisfelder und Sears" to
-English is "Rice fields and Sears.>
+<pic images/sears.ps Rice fields and Sears.>
 
 We also explored the less attractive sides of Hawaii: The main island
 of Oahu, with the capital Honolulu, already shows some significant
 architectural sins. Honolulu always reminds me of San Jose, a typical
 American city, built up in the 50s and 60s without any historical
 context. As a result, an entire city can quickly end up looking like
-LandsbergerstraÃe in Munich.
+Landsbergerstraße in Munich.
 
-<pic images/m3.ps The translation of "GeschÃ¤ft um die Ecke" to
-English is "store around the corner.>
+<pic images/m3.ps Corner Store>
 
-<pic images/oahu1.ps Wasserohre>
+<pic images/oahu1.ps Water pipes>
 
 However, if you head out to the east or up to the north coast, the
-concrete jungles disappear, and you're back in surfer's paradise. You
+concrete jungle disappears, and you're back in surfer's paradise. You
 hang out on beaches where mainly locals and surfers from all over the
-world who have left the working life hang out. It's quite
+world who have retired from working life hang out. It's quite
 fascinating: on one hand, having a hut on the beach, and on the
 other, having a huge supermarket like "Costco" within reach, where
 you can buy a pack of 20 shrimp for 8 dollars, which you can quickly
 throw on the gas grill, naturally set up in front of the hut, and
-devour in no time. Aahh!
+devour in no time. Oh yeah.
 
-<pic images/sb.ps Surfboardträger>
+<pic images/sb.ps Surf Board Rack>
 
-@Z: Platte des Monats" translates to "Plate of the Month" in English.
+@Z: Record of the Month
 
-<pic images/astoria.ps So Long, Astoria" by The Ataris is a song
-title. In English, it remains the same: "So Long, Astoria." The
-phrase "so long" is a way of saying goodbye, and "Astoria" is a place
-name, so the title can be interpreted as a farewell to a place called
-Astoria.>
+<pic images/astoria.ps "So Long, Astoria" by The Ataris
 
 <em>Michael</em> 
 To recommend this album, I waited a few months at first, because
@@ -253,6 +245,8 @@ slightly serious fun-punk. Of course, I can't go to the concert; I'd
 be kicked out immediately as the old guy. I may quote: "Being grown
 up isn't half as fun as growing up." Ah, youth! (No, I'm not having a
 midlife crisis).
+
+TODO
 
 @Z: An Ode to the Internet
 
