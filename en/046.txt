@@ -246,8 +246,6 @@ be kicked out immediately as the old guy. I may quote: "Being grown
 up isn't half as fun as growing up." Ah, youth! (No, I'm not having a
 midlife crisis).
 
-TODO
-
 @Z: An Ode to the Internet
 
 <em>Michael</em> 
@@ -260,29 +258,26 @@ playing on the radio?" "Why is the sky blue?" "Why does the stack on
 the HP-41CV have no more than four registers?" No one knew the
 answers to these questions.
 
-With the internet, suddenly everything is available. Because there's
+With the internet, now suddenly everything is available. Because there's
 always someone somewhere who knows exactly what you're looking for.
 However, the internet is typically American: a bunch of chaos and
 half of it isn't true. But Google outsmarts this by using clever
 algorithms to prioritize information that more people find useful.
 
-Here's the translation to English:
-
-"This is how the internet solves problems today that were difficult
-to solve in the past: A provider that cheats its customers is done
-for within days. Well-informed consumers quickly put an end to shady
-providers. Or take eBay, for example: This system of mutual
-self-regulation actually makes it possible to conduct business by
-mail with people you've never seen in your life and probably never
-will meet.
+This is how the internet solves problems today that were difficult to solve in
+the past: A provider that cheats its customers will be exposed and done for
+within days. Well-informed consumers quickly put an end to shady providers. Or
+take eBay, for example: This system of mutual self-regulation actually makes it
+possible to conduct business by mail with people you've never seen in your life
+and probably never will meet.
 
 Or when I recently watched the excellent film "Crouching Tiger,
 Hidden Dragon," and I wondered if I had already seen the actress
-Zhang Ziyi, who stars in it, in the Jackie Chan kung fu movie "Rush
+Zhang Ziyi, who is starring in it, in the Jackie Chan kung fu movie "Rush
 Hour 2." In the past, no one could have researched such questions.
 Today, it takes 20 seconds. The answer is: Yes!
 
-And often it happens that I don't understand the lyrics of songs.
+And often it happens that I don't understand the lyrics of a song.
 What an effort that used to be! I can still clearly remember the
 hours spent rewinding and fast-forwarding to catch even the last
 scrap of content. Nowadays, that's no longer a problem: You simply
@@ -291,16 +286,16 @@ of "google.com," and the search engine immediately provides dozens of
 references to websites where diligent helpers have accurately typed
 out those exact lyrics. Recently, I was puzzled by the word
 "Shucklak" in the song "Mic Check" by "Rage Against The Machine." No
-problem: On...
-<LINK>http://www.musicfanclubs.org/rage/lyrics/miccheck.htm|the
-Internet | 'Mic Check' Lyrics</LINK>
-The exact lyrics and also an explanation of the word I found via
-Google: That is the sound a gun makes when being cocked.
+problem: On <LINK>http://www.musicfanclubs.org/rage/lyrics/miccheck.htm|the Internet|'Mic Check' Lyrics</LINK> I found the
+exact lyrics to the song and also an explanation of the unusual word:
+That is the sound a gun makes when being cocked.
 
 And just as we contribute to this revolution with our newsletters and
 proclaim the unvarnished truth about America, hundreds of thousands
 of others do the same in their fields of expertise. Who would want to
 live in another time!
+
+TODO
 
 @Z: Queer Eye for the Straight Guy
 
