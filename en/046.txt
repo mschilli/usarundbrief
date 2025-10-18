@@ -396,24 +396,21 @@ programs after the student has obtained a "Bachelor's Degree", in order to
 pursue a higher academic degree, the so-called "Master's Degree" or, for those
 eager to learn more, a doctorate.
 
-TODO
-
 According to statistics from the U.S. Bureau of Labor, 65 percent of
 American students with a high school diploma attended college in
 2002. This percentage might seem a bit high to you, but you must
-consider that America does not have a tripartite school system. While
+consider that America does not have a tripartite school system like
+Germany. While
 high school graduates in Germany enroll directly in a specific
 subject at the university, the first two years at a four-year
 American college typically serve as general education, including
 humanities, natural and social sciences, arts, languages, and
 mathematics. After completing the general education requirements, the
-student focuses their studies on one or two subjects ("majors").
+student then focuses their studies on one or two subjects ("majors").
 Depending on the chosen major, they are awarded a "Bachelor of Arts"
-(B.A.) or "Bachelor of Science" (B.S.) after an additional two years.
+(B.A.) or a "Bachelor of Science" (B.S.) after an additional two years.
 
-<pic images/stan3.ps The translation of "Auf alt gemachtes GemÃ¤uer
-in der Stanford-Uni" to English is "Wall made to look old at Stanford
-University.>
+<pic images/stan3.ps Wall made to look old at Stanford University.>
 
 The "Bachelor of Business Administration" (B.B.A. = Bachelor of
 Economic Sciences) is also common. The four-year college can perhaps
@@ -434,42 +431,41 @@ of the first two years of four-year college programs and often
 additionally focus on specialized vocational areas such as nursing,
 business, or technology. If one wishes to transfer to a four-year
 college later, this is generally not a problem, as the qualifications
-obtained are recognized.
+obtained previously are recognized.
 
-Many students choose a community college because of the more
-affordable tuition fees, which are often astronomically high in
-America. The City College of San Francisco, a community college that
-offers countless educational programs for further education, personal
-development (similar to the German Volkshochschulen), and the
-acquisition of various degrees, costs, for example, $18 per unit for
-California residents (a California resident is someone who has lived
-in California for more than a year).
+Many students choose community college because of the more affordable tuition
+fees, which are often astronomically high in America for private
+universities. City College of San Francisco, for example, a community college
+that offers countless educational programs for further education, personal
+development (similar to the German Volkshochschulen), and the acquisition of
+various degrees, charges only $18 per unit for California residents (a
+California resident is someone who has lived in California for more than a
+year).
 
 Most courses consist of three units per semester. So that amounts to
 54 dollars for one course. If a student, for example, takes five such
 courses, they pay 270 dollars for the respective semester. Since many
-community college students work on the side, they do not enroll as
+community college students are working part time, they do not enroll as
 full-time students. Many use community college as a second
 educational path. Perhaps you remember that I also diligently went to
 City College during the first months of our stay in San Francisco to
-study English.
+study English as a second language.
 
-For certain professional fields, including medicine, dentistry,
-pharmacy, law, and theology, one must first obtain a "Bachelor's
-Degree" in the USA before enrolling in an advanced study program to
-earn a "Master's Degree" (equivalent to a Magister). Dentists spend
-an additional four years in school after their "Bachelor's Degree,"
-while lawyers spend at least three years. Becoming a doctor is also a
-lengthy process in the USA: after the "Bachelor's," there are four
-years of study, followed by a one-year clinical internship, which is
-then followed by specialist training (residency) that can last from
-one to eight years, depending on the specialty.
-The American student life takes place on the "campus." While in
-Germany university buildings of various faculties are often spread
-throughout the city, in America everything is centrally located in
-one place: lecture halls, research facilities, student dormitories,
-library and student bookstore, sports and recreational facilities,
-student organizations, and the cafeteria.
+For certain professional fields, including medicine, dentistry, pharmacy,
+law, and theology, students must first obtain a "Bachelor's Degree" in the
+USA before enrolling in an advanced study program to earn a "Master's Degree"
+(equivalent to a Magister in Germany). Dentists spend an additional four
+years in school after their "Bachelor's Degree," while lawyers spend at least
+three years. Becoming a doctor is also a lengthy process in the USA: after
+the "Bachelor's," there are four years of study, followed by a one-year
+clinical internship, which is then followed by specialist training
+(residency) that can last from one to eight years, depending on the
+specialty.  American student life often takes place on the "campus." While in
+Germany university buildings of various faculties are often spread throughout
+the city, in America everything is typically centrally located in one place:
+lecture halls, research facilities, student dormitories, library and student
+bookstore, sports and recreational facilities, student organizations, and the
+cafeteria.
 
 The campus of the prestigious private Stanford University in Palo
 Alto--about a 45-minute drive from San Francisco--feels like its own
@@ -477,27 +473,28 @@ little town. Many students live on campus in dormitories ("dorms")
 because, due to the high tuition fees, they can hardly afford
 anything else.
 
-You are probably familiar with the situation from American TV shows:
-a room is often shared by two or three students. How anyone is
-supposed to get any studying done in such a setting is beyond me.
-Single rooms are usually only available for students in higher
-semesters. It is considered normal to go into debt for one's studies.
-At an elite university, that can quickly add up to $100,000.
+You are probably familiar with the situation from American TV shows: a
+dormitory room is often shared by two or three students. How anyone is
+supposed to get any studying done in such a setting is beyond me.  Single
+rooms are usually only available for students in higher semesters. It is
+considered normal to go into debt for one's studies.  At an elite university,
+that can quickly add up to $100,000 or more.
 
 <pic images/s71.ps The Stanford Library>
 
 Every state and some larger American cities have their own public
-universities. In California, this is the "University of California,"
-with the world-famous "University of California, Berkeley" located
-right in our backyard. Colleges or universities, whether public or
-private, charge tuition fees in the USA. Public institutions, like
-the University of California, are often more affordable--at least for
-students who are considered residents of the respective state. The
-funding for these institutions relies more heavily on public funds.
-Currently (as of 2003), the University of California, Berkeley
-charges $2,135 per semester in pure tuition fees for California
-residents (one-year rule, see above), but a hefty $9,240 for
-non-residents. In comparison, the private elite university Stanford
+universities. In California, this is the "University of California," with the
+world-famous "University of California, Berkeley" located right in our
+backyard across the Bay. Colleges or universities, whether public or private,
+charge tuition fees in the USA. Public institutions, like the University of
+California, are often more affordable--at least for students who are
+considered residents of the respective state. The funding for these
+institutions relies more heavily on public funds.  Currently (as of 2003),
+the University of California, Berkeley charges $2,135 per semester in pure
+tuition fees for California residents (one-year rule, see above), but a hefty
+$9,240 for non-residents.
+
+In comparison, the private elite university Stanford
 charges $9,520 per semester for programs leading to a "Bachelor's
 Degree." Medical students, however, pay $11,572. As mentioned, I am
 only talking about tuition fees here, meaning what the student pays
@@ -509,79 +506,58 @@ modest 30% (already reflected in the number given above) because
 public subsidies were drastically cut due to California's budget
 crisis.
 
-To finance the exorbitantly expensive education, American students
-have the following options: 1) They have extremely wealthy parents
-who are not hesitant to spend money with both hands. 2) The parents
-have iron discipline and have been saving for college since the birth
-of their son or daughter. 3) They are super smart, talented, or an
-athlete and secure a scholarship. However, there are often only
-partial scholarships that do not cover all costs, but at least they
-do not have to be repaid. 4) They work part-time and therefore take a
-bit longer to complete their studies. 5) They possess an arsenal of
-credit cards with high credit limits. 6) They apply for a student
-loan.
+To finance the exorbitantly expensive education after high school, American
+students have the following options: 1) They have extremely wealthy parents
+who are not hesitant to spend money with both hands. 2) The parents have iron
+discipline and have been saving for college since the birth of their son or
+daughter. 3) They are super smart, talented, or an athlete and secure a
+scholarship. However, there are often only partial scholarships that do not
+cover all costs, but at least debt does not have to be repaid. 4) They work
+part-time and therefore take a bit longer to complete their studies. 5) They
+possess an arsenal of credit cards with high credit limits. 6) They apply for
+a student loan.
 
-Many of our friends and acquaintances have financed their studies
-through a student loan. The amount of the loan depends on the
-financial situation of the parents. Student loans benefit from
-government support, so no interest payments are required during the
-course of study. However, the amount that must be repaid later does
-include interest, although the interest rate is low. Most people make
-their repayments in the form of monthly installments over a period of
-many years.
+Many of our friends and acquaintances have financed their studies through a
+student loan. The amount of the loan depends on the financial situation of
+the parents. Student loans benefit from government support, so no interest
+payments are required before graduation. However, the amount that must be
+repaid later does include interest, although the interest rate is
+comparatively low. Most people make their repayments in the form of monthly
+installments over the course of many years.
 
 Since America does not have the Abitur or another qualification that
-automatically opens the doors to college, many higher education
-institutions set their own admission requirements. First, the grade
-point average (GPA) of the high school diploma is considered, which
-is expressed numerically for these purposes rather than in the usual
-letter grading system. The scale ranges from 0 to 4.0--the higher the
-number, the better the average.
+automatically opens the doors to college, many higher education institutions
+set their own admission requirements. First, the grade point average (GPA) of
+the student's high school diploma is considered, which is expressed
+numerically for these purposes rather than in the usual letter grading
+system. The scale ranges from 0 to 4.0--the higher the number, the better the
+grades.
 
-Most people also want to see a so-called SAT score. SAT stands for
+Most institutions also want to see a so-called SAT score. SAT stands for
 Scholastic Aptitude Test, which is a standardized test that assesses
-verbal and mathematical skills. The test lasts over three hours, and
+verbal and mathematical skills. The SAT test goes on for three hours, and
 most high school students take it. However, please do not confuse the
 SAT with an exam like the Abitur. Students can score between 200 and
 800 points per section (verbal and mathematical) on the SAT.
 Incidentally, students can take the test as often as they like to
 potentially improve their SAT score. Naturally, the free market also
-offers various preparatory courses to help achieve better results on
+offers various preparatory courses to help achieve better grades on
 the SAT.
 
 For their college application, the prospective student usually has to
 write an essay, submit letters of recommendation, and pay a fee.
-Additionally, social engagement is always well-received. Here are
-two...
-<LINK>http://www.collegeboard.com/article/0,3868,5-26-0-108,00.html|E
-xamples of essay topics</LINK>
-The text you provided is already partially in English. Here's the
-translation of the German parts:
+Additionally, the student's previous social engagement is always
+well-received. Here are two
+<LINK>http://www.collegeboard.com/article/0,3868,5-26-0-108,00.html|E xamples of essay topics</LINK>: "'Why is XYZ a good college choice for you?' 'How would you describe yourself as a human being?'"
 
-"...that I found on a website: 'Why is XYZ a good college choice for
-you?' (Warum ist XYZ eine gute College-Wahl fÃ¼r dich?) 'How would
-you describe yourself as a human being?' (Wie wÃ¼rdest du dich als
-Mensch beschreiben?). There is also an unusual 'weil' circulating on
-the internet..."
-
-Note: The word "weil" is German for "because," but in this context,
-it seems to refer to something specific or unusual that is
-circulating online.
-<LINK>http://www.meyerweb.com/other/humor/application.html|Humorous
-example of an essay for a university application</LINK>
+And here's another <LINK>http://www.meyerweb.com/other/humor/application.html|humorous example of an essay for a university application</LINK>.
 However, securing a place at a college or university with a good
 reputation is not easy.
 
-In the next newsletter, the final part about the American education
-system will follow. I will then reveal some curiosities to you, such
-as an interesting form of quota regulation ("Affirmative Action").
+In the next newsletter, I'll publish the final part, describing the American
+education system. I will then reveal some curiosities to you, such as an
+interesting form of quota regulation ("Affirmative Action") and more.
 
-The text appears to contain a character encoding issue with
-"grï¿½ï¿½en." Assuming it is meant to be "grÃ¼Ãen," the translation
-from German to English would be:
+Greetings from the country under Schwarzenegger's rule:
 
-"Greetings from the country under Schwarzenegger's rule:
-
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
