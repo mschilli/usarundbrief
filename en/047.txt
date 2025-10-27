@@ -51,8 +51,6 @@ methods that are often on the edge of legality and deliver them in
 exchange for a reward paid by the bondsman (usually 10% of the bail
 amount).
 
-TODO
-
 There are legendary figures like Ray Hawkins, a daring bounty hunter
 who claims to have captured 7,000 escapees in his 50 years of
 service! The professional bounty hunters do an excellent job: in 87
@@ -67,7 +65,7 @@ their own home until they can safely deliver them to the police.
 The bounty hunter business used to be relatively unregulated; it
 wasn't until January 2000 that a law was enacted in California
 regarding the training of bounty hunters. It mandates that future
-bounty hunters complete a 40-hour course on arrest techniques, a
+bounty hunters complete a 40-hour course on arresting techniques, a
 12-hour legal course focusing on bail law, and a 3-hour security
 guard training. The exact number of bounty hunters in the USA is
 unknown, with estimates ranging from 1,200 to 7,000.
@@ -79,15 +77,15 @@ fugitive, they must notify the police no more than 6 hours in
 advance. They are also not allowed to arbitrarily enter any private
 residences or deceive people with uniforms or badges. No later than
 48 hours after a successful arrest, they must hand over the fugitive
-at the police station.
+at a police station.
 
-<pic images/dads2.ps Dad's Bail Bonds" with an open bar>
+<pic images/dads2.ps "Dad's Bail Bonds" with an open bar>
 
 For success in this rough business, a bounty hunter needs a good
 connection to the underworld and a knack for dealing with bad guys.
 He must know where the underworld bars are, where the shady
-characters hang out. He snoops around like a private detective with
-relatives and ex-girlfriends who might want to get back at the
+characters are hanging out. He's snooping around like a private detective,
+locating relatives and ex-girlfriends who might want to get back at the
 target. He spreads rumors in the underworld and gets the startled
 crooks to call fake phone numbers, which then, in turn, locate the
 calling phone.
@@ -96,19 +94,17 @@ One of the most famous bondsmen in San Francisco is not a man but a
 60-year-old woman named Mackenzie Green from the bail bond agency
 "Mackenzie Green and Partner," known for taking on almost any bail.
 In case one of her clients disappears, she has a few strongmen for
-support, but she still goes bounty hunting herself for the "thrill.
+support, but she still goes bounty hunting herself for the "thrill."
 
-Have you also caught the scent of adventure? On the internet, there's
-a...
-Training Seminar for Bounty Hunters
-The translation of "und sogar ein" to English is "and even a.
-Certificate for Bail Enforcement Training
-.
+Now, have you caught the scent of adventure? On the internet, there's
+a <LINK>http://www.beabountyhunter.com/seminar.htm|Training Seminar for Bounty Hunters</LINK>
+and even a <LINK>http://www.bailtraining.com/certification.cfm|Certificate for Bail Enforcement Training</LINK> available.
+
+TODO
 
 @Z: San Francisco Views: Mission
 
-<pic images/mission2b.ps The translation of "Reger Betrieb auf der
-Mission-Street" to English is "Busy activity on Mission Street.>
+<pic images/mission2b.ps Busy activity on Mission Street.>
 
 <em>Michael</em> 
 One of the most beautiful achievements in San Francisco is the
