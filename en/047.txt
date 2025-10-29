@@ -100,9 +100,7 @@ Now, have you caught the scent of adventure? On the internet, there's
 a <LINK>http://www.beabountyhunter.com/seminar.htm|Training Seminar for Bounty Hunters</LINK>
 and even a <LINK>http://www.bailtraining.com/certification.cfm|Certificate for Bail Enforcement Training</LINK> available.
 
-TODO
-
-@Z: San Francisco Views: Mission
+@Z: San Francisco Neighborhoods: Mission
 
 <pic images/mission2b.ps Busy activity on Mission Street.>
 
@@ -112,27 +110,27 @@ international atmosphere. Within half an hour, you can travel from
 Japan through Italy and China to South America. The latter
 neighborhood is just around the corner from us, and when you descend
 from our Noe Valley into the colorful Mexican "Mission," you can
-hardly believe your eyes and ears: everything suddenly speaks
-Spanish, people drive rundown cars, trash is on the streets, and
+hardly believe your eyes and ears: everybody suddenly is speaking
+Spanish, people drive rundown cars, more trash lying in the streets, and
 Mexican oom-pah music blares from apartments and bars. One taqueria
 after another offers tacos, burritos, fajitas, and chile relleno.
 
-<pic images/mission7.ps Friseursalon>
+<pic images/mission7.ps Hairdresser in the Mission>
 
 In the Mission, people from Mexico and other South American
-countries--Nicaragua, Peru, Brazil, Chile--have primarily lived since
-ancient times. Interestingly, the Mission has the warmest climate in
+countries--Nicaragua, Peru, Brazil, Chile--have chosen this neightborhood
+for a very long time. Interestingly, the Mission has the warmest climate in
 San Francisco: never foggy, and on some summer days, it's actually as
 scorching hot as in South America. Carlos Santana, the guitar legend,
 grew up here.
 
 During the dot-com boom in the late nineties, the Mission was quite a
-wild neighborhood, with shootings every night. However, it was
+wild neighborhood, with shootouts every night. However, it was
 considered extremely chic among the newly wealthy yuppies to find
 apartments in the Mission and furnish them in a hyper-modern style.
 Suddenly, between the dented cars of the old Mission residents, there
 were Daimlers, Porsches, and BMWs. This was not well-received, as it
-drove up rental prices and displaced some of the poorer long-time
+drove up the cost of rent and displaced some of the poorer long-time
 residents from their neighborhood, which they and their families had
 inhabited for generations.
 
@@ -141,65 +139,55 @@ that are parked there, you often see unsightly meter-long scratches
 in the paint, which were obviously caused intentionally by angry
 people.
 
-<pic images/truck.ps The translation of "Truck, Mission" to English
-is "Truck, Mission." These words are already in English.>
+<pic images/truck.ps Truck, Mission district.>
 
-<pic images/haken.ps Haken>
+<pic images/haken.ps Hooks in the Mission>
 
-Alternative small businesses also settled in the Mission due to the
-lower rental prices: For example, 'Die Werkstatt,' a motorcycle
-workshop run by a German. Or
-<LINK>http://timbuk2.com|The company Timbuk2</LINK>
-The company, which makes messenger bags popular among bicycle
+Alternative small businesses had settled in the Mission due to the
+lower rents: For example, 'Die Werkstatt,' a motorcycle workshop run by a German. Or
+<LINK>http://timbuk2.com|The company Timbuk2</LINK>,
+which makes messenger bags popular amongst bicycle
 couriers, is based here. Every hardcore cyclist in San Francisco
 carries one. It's more than just a bag; it's a clear political
 statement. You can buy them in select stores in San Francisco or
 order them online. But they are made in the Mission.
 
-<pic images/eff.ps Even alternative internet organizations like the
-"EFF" have set up their headquarters in the Mission.>
+<pic images/eff.ps Even alternative internet organizations like the "EFF" have set up their headquarters in the Mission.>
 
-The translation of "Und auch die" to English is "And also the.
-<LINK>http://eff.org|The translation of "Electronic Frontier
-Foundation" to English is actually the same, as it is the name of an
-organization. The Electronic Frontier Foundation (EFF) is a nonprofit
-organization that focuses on defending civil liberties in the digital
-world.</LINK>
+And also the
+<LINK>http://eff.org|Electronic Frontier Foundation</LINK> has its
+office there. It's an organization that focuses on defending civil liberties
+in the digital world.
 The organization is based in the Mission. The small, shop-like office
 serves as the headquarters for the globally known, somewhat radical
 organization that stands against any form of internet censorship.
 
-<pic images/ad2.ps Reklametafel auf Spanisch" translates to
-"billboard in Spanish" in English.>
+<pic images/ad2.ps Billboard in Spanish>
 
 Because most people in the Mission speak Spanish and many do not
-speak English, the advertisements on billboards or the notices in
+speak English, the advertisements on billboards or the menus in
 restaurants are often in Spanish. And probably due to the proximity
 of our apartment to the Mission, I often receive promotional letters
 from the telephone company in Spanish (Figure (#3)).
 
-<pic images/spanisch.ps (#3) The translation of "Bin ich Mexikaner
-oder was?" to English is "Am I Mexican or what?>
+<pic images/spanisch.ps (#3) Am I Mexican or what?>
 
 What many Europeans don't know: In the USA, there is this
-language-based two-class society. People who only speak Spanish and
-not English typically work in low-wage jobs, such as car washers or
-kitchen assistants. The head chef in a restaurant
-muss
-For example, speaking fluent Spanish, since most of the kitchen staff
-do not speak English. And while waiters always speak English, in more
+a language-based two-class society. People who only speak Spanish and
+not English typically work in low-wage jobs, such as washing cars or
+as kitchen assistants. The head chef in a restaurant is required to
+speak Spanish fluently, since most of the kitchen staff
+do not speak English. And while waiters almost always speak English, in more
 affordable restaurants it can certainly happen that the assistant who
 clears the empty plates after a meal (the "bus boy") does not
 understand a question asked in English and has to call the waiter for
 help.
 
-<pic images/truck2.ps The translation from German to English is: "Car
-with structure, mission.>
+<pic images/truck2.ps Car with rig, Mission district.>
 
-<pic images/mission6.ps The translation of "Viktorianische HÃ¤user in
-der Mission" to English is "Victorian houses in the Mission.>
+<pic images/mission6.ps Victorian houses in the Mission>
 
-As is common in South America, on hot days ice cream vendors push
+As is common in South America, on hot days ice cream vendors are pushing
 white handcarts, softly jingling, through the streets. Ancient pickup
 trucks with massive, amateurishly constructed structures transport
 towering loads in defiance of regulations -- in Germany, such an
@@ -212,7 +200,7 @@ five minutes of driving.
 
 Many house walls display so-called "murals," typical South American
 wall paintings with various political or religious content, which,
-especially in the sunshine, give the neighborhood its distinctive
+especially in sunny weather, give the neighborhood its distinctive
 southern flair with their colorful diversity.
 
 <pic images/mission4.ps A small taqueria>
@@ -231,12 +219,11 @@ unusual in America, where everyone usually has their own table) and
 enjoy the delicacies amidst a bustling atmosphere with toddlers
 running around.
 
-<pic images/view.ps View from our window in SF: In the background,
-the Bay Bridge; in the foreground, parts of SoMa and the Mission.>
+<pic images/view.ps View from our window in SF: In the background, the Bay Bridge; in the foreground, parts of SoMa and the Mission.>
 
-@Z: Kopierschutz
+@Z: Copyright Mania
 
-<pic images/copyc.ps Copy-Controlled" restricts consumer rights.>
+<pic images/copyc.ps Copy-controlled products restricts consumer rights.>
 
 <em>Michael</em> 
 And here's another comment on the topic: Why Germans give up their
@@ -259,12 +246,8 @@ romantic or intense factor and make my selection according to the
 situation. On a single computer, you can store more than 5,000 CDs.
 For your Stone Age method, you'd have to rent an extra room. I can
 play songs on portable devices that are as small as a matchbox (e.g.,
-the...
-<LINK>http://www.nomadworld.com/products/MuVo|The translation of
-"MP3-Player MuVo" to English is "MP3 Player MuVo." The term
-"MP3-Player" is already in English, and "MuVo" is a brand name, so it
-remains the same.</LINK>
-...and deliver stereo system quality, even if you throw them on the
+the <LINK>http://www.nomadworld.com/products/MuVo|"MP3 Player MuVo"</LINK>
+and deliver stereo system quality. Even if you drop them on the
 floor -- because no rotating silver disc is necessary. Angelika has
 one of these devices and is very satisfied with it. Or has anyone
 heard of the iPod? Once you've experienced all of this, you can only
@@ -272,17 +255,16 @@ laugh at the obvious idiocy of the poor CD players.
 
 Because the music industry is too dumb to find a method that
 digitally replicates the previously functioning system (copies for
-private use and friends are practiced, but no unlimited piracy), more
+private use and friends are okay, but no unlimited piracy), more
 and more so-called "copy-controlled" CDs are sneaking onto the German
 market. This method restricts the rights of consumers who pay a lot
 of money for music and cannot fully use it because the music cannot
 even be stored on their own computer. Back to the Stone Age, just
 because there are only blockheads working in the record industry?
 I don't think so.
-.
 
 People, stand up for yourselves! Don't let the record company guys
-fool you. Do like the people in America: simply stop buying these
+fool you. Do it like the people in America: simply stop buying these
 CDs. Value your rights. The result of the copy-control misstep in the
 USA: American consumers vehemently demanded their rights, and these
 CDs disappeared from the shelves as quickly as they had arrived due
@@ -291,7 +273,9 @@ problem shelling out the same amount of money for fewer rights. Wake
 up! Those who buy such CDs not only disregard their own claim to
 reasonably usable quality but also help to restrict the rights of
 others. Put an end to it! You still have a lot to learn, my dear
-ones.
+friends.
+
+TODO
 
 @Z: TiVo Hacking
 
