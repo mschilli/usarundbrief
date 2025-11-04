@@ -15,7 +15,7 @@ the pedals, and magically turns the steering wheel.
 Now, as you may know, the purpose of this publication is to keep the world on
 the edge of their seats about current events here in San Francisco. So, I
 downloaded the 'Waymo One' app, gave it my credit card, and ordered an
-autonomous taxi on a whim one time when I was too lazy to walk a mil through
+autonomous taxi on a whim one time when I was too lazy to walk a mile through
 the city to a targeted pub.
 
 <pic images/waymo-enter.ps The Rundbrief tester bravely steps into the robotaxi.>
