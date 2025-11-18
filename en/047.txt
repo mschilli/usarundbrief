@@ -442,6 +442,9 @@ insurance payout.
 
 After an hour, Michael came back safe and sound and showed me a short
 film of Angel's Landing on his digital camera.
+
+<HTMLONLY><VIDEO>-To3EAQS_rk|Angel's Landing: Not for people who are afraid of heights</VIDEO></HTMLONLY>
+
 Even just looking at the pictures made me dizzy. When Michael then
 told me that some hikers were crawling on their behinds at particularly narrow
 spots to get through, I thought to myself that there's really no point in
@@ -458,14 +461,12 @@ sun. So, dear newsletter readers, if you ever find yourselves in the
 area and tired of gambling, visit this park - it's an absolute
 insider tip.
 
-TODO
-
 <pic images/vfire2.ps Valley of Fire: Rock Formations>
 
 <pic images/vfire5.ps Prehistoric Native American rock paintings>
 
 To explore the park extensively, we stayed overnight in the nearby
-"Overton," which, aside from a Best Western motel, a supermarket, and
+town of "Overton," which, aside from a Best Western motel, a supermarket, and
 two restaurants, didn't offer much excitement. When we travel through
 the vastness of America, I'm always amazed anew at the small towns
 (hey, I'm a city person) where people live. In Overton, it is also
@@ -474,7 +475,7 @@ was bone-dry and covered with a grayish layer. The question plagued
 me as to how people can endure it here in the summer when the
 thermometer rises to unbearable heights.
 
-<pic images/moon.ps The desert vehicle behind the monster truck>
+<pic images/moon.ps A desert vehicle behind the monster truck>
 
 Owning an oversized car ("truck") with a trailer apparently helps
 combat boredom in Overton. The trailer usually carries a Jeep-like
@@ -485,7 +486,7 @@ dinner. We immediately stood out as tourists from the big city
 because Michael wasn't wearing a baseball cap. When he then asked the
 waitress if they served local microbrews (often very good beers from
 small breweries), which made me want to sink into the ground with
-embarrassment, and she looked at him as if he came from the moon, we
+embarrassment, and she looked at him as if he came from mars, we
 were completely labeled as snobs in the place. It's a good thing no
 one knew us there.
 
@@ -500,7 +501,7 @@ when it comes to "sinful" behaviors. We only experienced comparable
 strictness in Utah, the state with an extremely high Mormon
 population, where Zion National Park is located. Buying alcohol there
 is similarly restricted as in Finland. For example, in the
-supermarket, you can find beer but not stronger wine. Back to
+supermarket, you can find beer but not wine. Back to
 Overton: The next day, we bought a bottle of sparkling wine and a few
 other things at the supermarket. A very young person (apparently only
 teenagers work in Overton) was at the checkout, and as the bottle of
@@ -509,17 +510,16 @@ called her supervisor over the internal intercom, and said that she
 wasn't allowed to ring up the sparkling wine because she was under 21
 ("under age" as they say here). Ahhhh!!!!
 
-@Z: Mayor election in San Francisco
+@Z: Election of the Mayor in San Francisco
 
-<pic images/wahl1a.ps The two mayoral candidates on CBS News,
-Gonzalez on the left, Newsom on the right.>
+<pic images/wahl1a.ps The two mayoral candidates on CBS News, Gonzalez on the left, Newsom on the right.>
 
 <em>Angelika</em> 
-After we had just recovered from the shock that "Mr. Terminator" was
-governing the state of California, the election campaign broke out in
-San Francisco. The city is looking for a new mayor because Willie
+After we had just recovered from the shock that "Mr. Terminator" is now
+governing the state of California, another election campaign started in
+San Francisco. The city is looking for a new mayor, because Willie
 Brown, who had steered the city's affairs for eight years, has to
-step down, as required by election laws. San Francisco has always
+step down, as required by reelection laws. San Francisco has always
 been an island in the American sea: liberal, a little quirky, firmly
 in Democratic hands, so to speak, a Bush-free zone.
 
@@ -538,16 +538,16 @@ Transferred to the German party system, he seems to me more like a
 dynamic FDP man. However, Newsom also did not secure the required 50%
 of the votes on November 3 to win the election. Since Gonzalez landed
 in second place, albeit significantly behind Newsom (by 40,000
-votes), a runoff election will take place on December 9, and since
-then, the city seems to be splitting into the Gonzalez and Newsom
+votes), a runoff election will take place on December 9, and as of now,
+the city seems to be splitting into the Gonzalez and Newsom
 camps.
 
-<pic images/newson.ps Newsom-Werbung>
+<pic images/newson.ps Newsom Mayoral Ad>
 
 Gonzalez, who only switched from the Democratic Party to the Greens
 three years ago, always reminds me of Joschka Fischer during his
 Sturm und Drang phase, when he still sat in the Bundestag wearing
-sneakers and jeans, and everyone in Germany laughed at green
+sneakers and jeans, and everyone in Germany smirked at green
 politicians. The Greens still have a hard time in America, with only
 1% of voters supporting them. In San Francisco, it's three percent.
 It would be nothing short of sensational if San Francisco, a city of
@@ -566,10 +566,9 @@ advocates for keeping large retail chains out of San Francisco's
 neighborhoods, a hot political topic in the city. Additionally, he
 wants to impose higher taxes on larger companies.
 
-<pic images/gonz3.ps Matt Gonzales in Chinese with a view of
-Alcatraz>
+<pic images/gonz3.ps Matt Gonzales in Chinese with a view of Alcatraz>
 
-He became popular with the hardworking man by supporting, in his role
+He became popular with blue collar workers by supporting, in his role
 as acting city councilor, the initiative to raise the minimum wage in
 San Francisco to $8.50 (for comparison: the minimum wage in
 California is currently $6.75), which voters approved by a large
@@ -588,8 +587,7 @@ political opponents always admiringly note that Gonzalez is not for
 sale, a refreshing change, as Willie Brown's cronyism achieved
 notoriety during his time as mayor.
 
-<pic images/gonz.ps A small campaign poster in the window for Matt
-Gonzalez>
+<pic images/gonz.ps A small campaign poster in the window for Matt Gonzalez>
 
 But once again back to Newsom: There is only one issue that stirs
 emotions in this city more than the unreliability of the MUNI: the
@@ -606,7 +604,7 @@ and alcohol.
 
 The idea may initially sound reasonable, but there are already not
 enough homeless shelters in San Francisco, let alone affordable
-housing or therapy places, especially for the high proportion of
+housing or therapy spots, especially for the high proportion of
 mentally ill people living on San Francisco's streets. To make a long
 story short: "Care not Cash" was put before voters as the ballot
 initiative "Proposition N" in November 2002, received almost 60%
@@ -620,7 +618,7 @@ In America, by the way, every election campaign relies on so-called
 "endorsements" (support, backing). Newspapers, for example, openly
 and very directly state in their editorials shortly before the
 election who their readers should vote for. The idea that the
-SÃ¼ddeutsche Zeitung could write "Vote for SchrÃ¶der!" always amuses
+Süddeutsche Zeitung could write "Vote for Schröder!" always amuses
 me greatly. But it's not just newspapers that endorse certain
 candidates; unions and all sorts of other interest groups do as well.
 Therefore, a crucial part of every campaign is who endorses whom. For
@@ -634,6 +632,4 @@ and Gonzalez is 38.
 
 Greetings from the city that keeps you young:
 
-The translation of "Michael und Angelika" to English is "Michael and
-Angelika.
-
+Michael und Angelika
