@@ -275,17 +275,14 @@ reasonably usable quality but also help to restrict the rights of
 others. Put an end to it! You still have a lot to learn, my dear
 friends.
 
-TODO
-
 @Z: TiVo Hacking
 
-<pic images/simps.ps (#2) An instant message (AIM message) appears on
-the TV screen thanks to Tivo!>
+<pic images/simps.ps (#2) An instant message (AIM message) appears on the TV screen thanks to Tivo!>
 
 <em>Michael</em> 
-About two and a half years ago, I (have) [verb missing] you in...
+About two and a half years ago, I introduced the TiVo box here (<RBLINK>20010501#10</RBLINK>),
 <RBLINK>20010501#10</RBLINK>
-Translate to English: "introduced the TiVo box, the device that has
+the device that has
 caused a second Big Bang in the history of television in the USA. I
 would estimate that by now almost 50% of all Americans know what a
 TiVo is. Do you know? If not, I would suggest that you quickly look
@@ -299,7 +296,7 @@ Anyone who now believes that they can catch up with us by purchasing
 a TiVo is mistaken: The Americans have used the two and a half years
 of technological advantage to crack open the box, inject all sorts of
 self-written software into the computer-like (Linux!) platform under
-the hood, and expand the TiVos with the most outlandish functions.
+the hood, and expand their TiVos with the most outlandish functions.
 
 The whole thing is called "TiVo Hacking," but I need to elaborate a
 bit. In the media, there's this term "hacker." In the common
@@ -307,9 +304,9 @@ understanding of the average person, this is someone who illegally
 breaks into other people's computer systems and steals data or causes
 other damage. Professional programmers, on the other hand, use the
 term appreciatively for honest, talented colleagues, while they refer
-to the troublemakers as "crackers.
+to the troublemakers as "crackers."
 
-TiVo Hacking" is somewhere in the middle: you need some tinkering and
+"TiVo Hacking" is somewhere in the middle: you need some tinkering and
 programming experience to technically upgrade a standard TiVo and
 customize it with unofficially developed software to suit personal
 needs. "Modding" is currently very trendy, not just with TiVo, but
@@ -317,16 +314,16 @@ also with gaming consoles like the "PlayStation" and "Xbox". The
 company TiVo raises a warning finger and voids the warranty if you
 crack open the box--so you're always playing with the risk of turning
 your TiVo, along with its lifetime program service, into a $500 piece
-of junk. On the other hand, TiVo looks on with a wink, because the
+of junk. On the other hand, TiVo looks at it with a wink, because the
 wealth of talent that high-caliber people accumulate in TiVo internet
 forums to exploit the revolutionary technology is something the small
 company could never afford to pay for. There are even books available
 on the topic now (see illustration (#4))!
 
-<pic images/htivo.ps (#4) The best current book on upgrading Tivo>
+<pic images/htivo.ps (#4) The best current book on upgrading a Tivo>
 
 On the online auction site ebay.com, professional TiVo enhancers
-offer their products for sale. These individuals purchase new TiVos,
+offer their finished products for sale. These individuals purchase new TiVos,
 modify them according to the latest underground insights, and then
 sell them to the highest bidder. Thanks to the modifications (which
 I, of course, carried out myself following the above instructions),
@@ -340,8 +337,7 @@ something again!
 
 @Z: Record of the Month: Fountains of Wayne
 
-<pic images/fow.ps Welcome Interstate Managers" is an album by the
-band Fountains of Wayne.>
+<pic images/fow.ps "Welcome Interstate Managers" is an album by the band Fountains of Wayne.>
 
 <em>Michael</em> 
 The CD of the month is: "Welcome Interstate Managers" by "Fountains
@@ -354,12 +350,11 @@ British band Oasis, while others, like "Fire Island," recall the
 brilliant compositions of John Lennon. It's fantastic, buy it
 immediately!
 
-@Z: Weihnachtsstollen auf Umwegen" translates to "Christmas Stollen
-by Detours" in English.
+@Z: Christmas Stollen on Detour
 
 <em>Michael</em> 
-During our visit to Japan last year, we noticed the "Andersen Bakery"
-right in the middle of Hiroshima, which sold baked goods of German
+During our visit to Japan last year, we noticed "Andersen Bakery"
+right in the center of Hiroshima, which sold baked goods of German
 standards. Such a thing happens in the USA only about every three
 thousand miles. We were all the more delighted to see that a
 "Andersen" also opened in San Francisco's "Japantown." The saleswoman
@@ -370,8 +365,7 @@ At the end of November, there was even German Stollen available
 there, and at 9 dollars per piece, it was relatively inexpensive for
 such an exotic pastry in the land of hamburgers!
 
-<pic images/stollen.ps German stollen from the Japanese store in San
-Francisco>
+<pic images/stollen.ps German stollen from the Japanese store in San Francisco>
 
 @Z: Zion National Park
 
@@ -379,27 +373,25 @@ Francisco>
 
 <em>Angelika</em> 
 We are known to love traveling and do not tolerate any blank spots on
-our map. As some of you know, we met back in the day at a car rental
+our map. As some of you know, we both met back in the day at a car rental
 company in Las Vegas and traveled with a spontaneously assembled
 group of 8 people through the national parks of the American West:
 Grand Canyon, Bryce Canyon, Canyonlands, Arches. Zion National Park
 was also on the itinerary back then, but time was running short and a
-winter storm was approaching, so we only drove through the park
-briefly. I believe we took some photos, but the memory of this park
+winter storm was approaching, so we only drove through this particular park
+briefly. I believe we took some photos, but my memory of this park
 had faded significantly. That needed to change: So, at the beginning
 of November, we boarded a plane to Las Vegas, stayed for two nights
 at the MGM Grand Hotel, and then continued from there with a rental
 car to Zion National Park.
 
-<pic images/vegas2.ps The translation of "Reger Betrieb vor dem
-Kasino in Las Vegas" to English is "Busy activity in front of the
-casino in Las Vegas.>
+<pic images/vegas2.ps Busy activity at the casino in Las Vegas.>
 
-From the MGM, we looked over at the Motel 6 where my friend Marianne
-and I stayed almost 17 years ago. Michael and his college friend
+From our room in the MGM, we glanced over at the Motel 6 where my friend Marianne
+and I had stayed almost 17 years ago. Michael and his college friend
 Christian had chosen the youth hostel. The MGM didn't even exist back
 then: typical Las Vegas, the undeniably most surreal city in America,
-which is constantly changing at a rapid pace. Only one thing remained
+which is constantly changing at a rapid pace. Only one thing has remained
 constant in Las Vegas until recently: the show of the German-born
 magicians Siegfried and Roy. You know, the ones with the white
 tigers. The duo had been performing in Las Vegas for almost 30 years
@@ -407,8 +399,7 @@ until recently, when a tiger attacked the dark-haired Roy on stage in
 October and seriously injured him. All of Las Vegas was in mourning
 when we visited.
 
-<pic images/vegas1.ps The translation to English is: "The tiger bit
-Roy from Siegfried & Roy.>
+<pic images/vegas1.ps The tiger bit Roy from Siegfried & Roy.>
 
 But now to Zion: The landscape of the American West has fascinated me
 since I first saw it in 1987. This may also be because there is
@@ -419,49 +410,42 @@ river squeezes through the massive canyons. To truly experience Zion
 Park, visitors must explore it on foot. Of course, that's what we
 did.
 
-<pic images/zion3.ps Weeping Rock, the "weeping rock" in Zion Park>
+<pic images/zion3.ps "Weeping rock" in Zion Park>
 
-The hike with the poetic name "Angel's Landing" is considered the
+A hike with the poetic name "Angel's Landing" is considered the
 absolute highlight. It involves a rather strenuous ascent, initially
 leading to the viewpoint "Scout's Lookout" and then almost a
-kilometer over a narrow mountain ridge. I was somewhat surprised that
+mile over a narrow mountain ridge. I was somewhat surprised that
 the park brochures vehemently emphasized that the last half mile is
 not suitable for small children and people with a fear of heights.
 Arrogantly--despite being quite a coward when it comes to heights--I
 ignored the warning because I once again thought it was an
 exaggerated American precaution.
 
-<pic images/zion5.ps The translation to English is: "You climb up
-using this chain.>
+<pic images/zion5.ps You climb up Angel's Landing using this chain.>
 
-<pic images/zion6.ps Angel's Landing" is already in English. It is
-the name of a famous hiking trail located in Zion National Park,
-Utah, USA.>
+<pic images/zion6.ps Angel's Landing in Zion National Park, Utah, USA.>
 
 Ha, that lasted until we reached Scout's Lookout and I saw tiny dots
-in the distance climbing around on a hair-thin ridge: it dropped 500
-meters on both sides. The dots were "daredevil" hikers for whom the
+in the distance climbing around on a hair-thin ridge: it dropped 1,500
+feet on each side. The dots were "daredevil" hikers for whom the
 word "fear of heights" did not exist. After a feeble attempt to
 conquer the ridge, I declared Scout's Lookout as my summit after 100
 meters. For Michael, who is known to love adventure, there was no
-stopping. So he conquered the summit, clinging to chains, while I
+stopping. So he conquered the summit, clinging to the chains serving as ropes, while I
 stayed back with the more faint-hearted souls at the viewpoint,
 exchanging horror stories. For example, that last year a man pushed
 his wife off the ridge to murder her after he had increased her life
 insurance payout.
 
-<pic images/zion4.ps Alone at the Summit: The Roving Newsletter
-Reporter>
+<pic images/zion4.ps Alone at the Summit: The Roving Newsletter Reporter>
 
 After an hour, Michael came back safe and sound and showed me a short
 film of Angel's Landing on his digital camera.
-
-Angel's Landing: Not for people with a fear of heights
-
 Even just looking at the pictures made me dizzy. When Michael then
-told me that some hikers slid on their behinds at particularly narrow
-spots to get through, I thought to myself, you really don't have to
-experience everything in person.
+told me that some hikers were crawling on their behinds at particularly narrow
+spots to get through, I thought to myself that there's really no point in
+experiencing everything in person.
 
 <pic images/vfire4.ps Valley of Fire -- a surreal landscape>
 
@@ -473,6 +457,8 @@ us. The rocks glowed in the most magnificent colors under the Nevada
 sun. So, dear newsletter readers, if you ever find yourselves in the
 area and tired of gambling, visit this park - it's an absolute
 insider tip.
+
+TODO
 
 <pic images/vfire2.ps Valley of Fire: Rock Formations>
 
