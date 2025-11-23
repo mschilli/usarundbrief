@@ -426,9 +426,7 @@ watching American TV shows. For example, everyone knows from the teen
 series "90210" that dates in high school are always arranged in front
 of the obligatory lockers.
 
-TODO
-
-Lockers" are steel cabinets in which students lock away their books
+"Lockers" are steel cabinets in which students lock away their books
 and other belongings, which is actually quite practical because this
 way, students don't have to carry their heavy books back and forth
 every day. The social calendar of high school also seems familiar to
@@ -442,18 +440,18 @@ the show "90210," all sorts of dramas unfolded at the prom. The
 dances (not parties) sometimes didn't even take place in the school
 building but in hotels or similar venues.
 
-Homecoming," on the other hand, can be found at both American high
+"Homecoming," on the other hand, can be found at both American high
 schools and colleges/universities. The football team comes "home" for
 the first home game. In addition to the football game, there is often
 a parade and a party. A female student and a male student are elected
 as "Homecoming Queen" and "Homecoming King" (similar to a beauty
 queen and king).
 
-<pic images/school1.ps Schulbusse>
+<pic images/school1.ps School buses>
 
 I also like the American school buses. They always remind me of a
 children's book that I owned at a young age. The school bus in the
-book had a thousand adventures and looked just like the American
+book experienced a thousand adventures and looked just like the American
 ones. Whenever I see one of those yellow school buses here, I always
 think it's about to talk to me, because the front of the bus has
 almost human-like facial features. But I digress.
@@ -483,7 +481,7 @@ admissions and give them preference. This is intended to create more
 equal opportunities. Naturally, there is strong criticism of this
 practice. For example, the passing of Proposition 209 in California
 in 1996 significantly restricted the previously common practice of
-"Affirmative Action.
+"Affirmative Action."
 
 I am always fascinated by the fact that good students in America are
 not immediately categorized as "nerds." How else could one explain
@@ -513,20 +511,19 @@ unfounded, as 40 percent of students who go through a JROTC program
 later enlist in the military. There are things that are hard to
 believe.
 
-@Z: The translation to English is: "Poor economic situation and
-closures.
+@Z: Poor Economic Situation and Closures.
 
 <pic images/berkex3.ps The UC Berkeley Extension>
 
 <em>Angelika</em> 
 Despite the persistent propaganda from the Bush administration that
 America is experiencing an economic upturn, layoffs are still
-occurring, and there are hardly any new hires in San Francisco and
+occurring, and there are hardly any new hirings in San Francisco and
 Silicon Valley. The latest trend is that companies are not only
 outsourcing their production to low-cost countries but also their
 development departments, as firms in India pay programmers a fraction
-of the salary that would have to be paid here. Many companies,
-including financially strong large ones, are cutting back on their
+of the salary that would have to be paid here. Also, many companies,
+including large and financially strong ones, are cutting back on their
 health insurance programs.
 
 But even the medium-sized businesses are suffering. As we walk up
@@ -557,30 +554,31 @@ roughly be defined as adult education, is indeed affiliated with the
 renowned University of Berkeley, but it must independently generate a
 profit.
 
-The attentive newsletter reader knows that the building on Laguna
+Attentive newsletter reader know that the building on Laguna
 Street was like my second home, because not only did I attend
 countless photography courses there, but it also housed "my"
 darkroom. Eliminated! Although courses are still offered in another
-building in the city and in Berkeley, the photography program and art
-offerings in general have shrunk alarmingly, and there is no
+building in our city and in Berkeley, the photography program and art
+offerings in general have shrunk at an alarminging rate, and there is no
 replacement for the darkroom. "Unprofitable arts," the dean declared.
 We protested, collected signatures, wrote letters, and discussed with
 the dean. It was all to no avail. Now the building stands sad and
 abandoned, waiting for demolition. Rumor has it that investors want
-to build new apartments on the highly coveted land.
+to build new apartments on the highly coveted lot.
 
-In February, I set out to find a new darkroom. The "Harvey Milk Photo
+In February, I set out to find a new darkroom location. The "Harvey Milk Photo
 Center" came to the rescue. It is a large group darkroom operated by
-the city of San Francisco. You pay a small fee to use the darkroom. I
-was already familiar with the center because my photography
-collective regularly meets in their other facilities. Now I just hope
+the city of San Francisco. You pay a small fee to use it. I
+was already familiar with the center because members of the photography
+collective I'm a member of regularly meets in their other facilities. Now I just hope
 that the Harvey Milk Center remains open, as San Francisco's budget
 is also lacking in many areas.
 
-@Z: It is shaking again" or "It's shaking again.
+@Z: It's Shaking Again
 
-<pic images/quake.ps An earthquake with a magnitude of 6.5 on the
-Richter scale.>
+<pic images/quake.ps An earthquake with a magnitude of 6.5 on the Richter scale.>
+
+TODO
 
 <em>Michael</em> 
 On Monday, December 22nd, at eleven o'clock in the morning, I was
