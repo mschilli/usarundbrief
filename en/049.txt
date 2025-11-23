@@ -307,15 +307,13 @@ Instead, people throw the bottles into a blue bin, put it out on the
 street on a specific day of the week for the municipal glass
 collector, and forgo the money.
 
-TODO
-
 This is a phenomenon in America: It's considered uncool to worry
 about cents or small dollar amounts. Although there is the saying "A
 penny saved is a penny earned," almost everyone throws their coins
 into the next beggar's cup. Only old grandmas with small pensions
 rummage through their wallets at the checkout to use the annoying
 small change to pay odd amounts. Young people pull bills out of their
-pockets and immediately deposit any coins in the "tip jar," a tip
+pockets and immediately deposit any coins in the "tip jar," a
 container often placed at the register in coffee shops and small
 stores--even though such places don't actually provide services that
 require tipping.
@@ -330,44 +328,41 @@ supermarket and fast-food chains: At McDonald's or Safeway,
 everything is accounted for precisely, and no one accepts tips. The
 uniforms of McDonald's employees have no pockets for a reason.
 
-<pic images/mihobo.ps (#1) Homeless person with a shopping cart and
-deposit bottles>
+<pic images/mihobo.ps (#1) Homeless person with a shopping cart and bottles>
 
-But back to the glass recycling: The bottles and cans placed in the
+But back to glass recycling: Bottles and cans placed in the
 blue crates on the sidewalk are often picked up by resourceful
 homeless people, who roll through the streets with supermarket
-shopping carts packed to the brim and loaded with empties (Figure
-(#1)). They take them to the return machines located at some
+shopping carts packed to the brim and loaded with empties
+(Figure (#1)). They wheel the loot to the return machines located at some
 supermarkets and receive a few cents for each can or bottle. By the
-way, the refund depends on the state. In Michigan, oddly enough, you
-get a bit more than elsewhere. In an episode of the comedy
+way, the amount of the refund depends on the state. In Michigan, oddly enough, you
+get a bit more than elsewhere. In an episode of the comedy show
 "Seinfeld," two of the characters try to drive a whole van full of
 recyclables from New York to Michigan because of this.
 
-<pic images/redemp.ps Deposit information on the beer bottle.>
+<pic images/redemp.ps Deposit information on a beer bottle.>
 
 @Z: New on TV: Mythbusters
 
 <pic images/mbusters1.ps The "Mythbusters>
 
 <em>Michael</em> 
-Our TV box assistant Tivo (
-<RBLINK>20010501#10</RBLINK>
-.. once again secretly browsed through the channels and discovered a
-show that I like: The show "Mythbusters" on the Discovery Channel.
+Our TV box assistant Tivo (<RBLINK>20010501#10</RBLINK>) once again secretly
+scouted through obscure TV channels and discovered a
+show that I like: "Mythbusters" on the Discovery Channel.
 
-There are these urban legends: sensational rumors, mostly completely
+You know, there are these urban legends: sensational rumors, mostly completely
 made up, that stubbornly stick in people's minds and that everyone
-eventually believes blindly. For example, that a penny (1-cent coin)
-dropped from the Empire State Building can seriously injure someone
+eventually believes blindly. For example, that a penny (1-cent coin),
+when dropped from the Empire State Building can seriously injure someone
 standing on the street below. Or that a cell phone ringing while
-refueling can cause a gas station explosion. Or that a microwave oven
+refueling your car can cause a gas station explosion. Or that a microwave oven
 will explode if you put something metallic inside. Or that a piece of
-meat soaked in cola overnight will dissolve. Or that a drug test will
+meat soaked in Coca Cola overnight will dissolve. Or that a drug test will
 come out positive if you have eaten poppy seed cake.
 
-<pic images/mbusters4.ps Jamie Hyneman fires a penny at 100
-kilometers per hour at a plastic skull.>
+<pic images/mbusters4.ps Jamie Hyneman fires a penny at 100 kilometers per hour at a plastic skull.>
 
 The declared goal of the two "Mythbusters" hosts, Adam Savage and
 Jamie Hyneman, is to get to the bottom of such rumors through
@@ -384,19 +379,19 @@ you might get a slight scratch.
 
 <pic images/mbusters3.ps Adam Savage breaks a CD in his hand.>
 
-The translation to English is: "Or a spoon in the microwave: It will
+Or a spoon in the microwave: It will
 at most get hot. However, aluminum foil crumpled into a ball will
-emit nasty sparks.
+be emitting nasty sparks.
 
 Or the case with the gas station: Even if a cell phone rings in a
-glass box filled with gasoline vapor, nothing explodes. Even a
-robotic arm operating there, which generated static electricity with
-a synthetic material, could not cause anything to happen. Only an
+glass box filled with gasoline vapor, nothing explodes. Even when adding a
+robotic arm in there, which generates static electricity with
+a synthetic material, nothing dangerous will happen. Only an
 artificially generated electrical spark, created using high voltage,
 was able to initiate the desired explosion and blow up the
-experimental setup to the delight of the two hosts.
+experimental setup, to the delight of the two hosts.
 
-And since the show is coming from San Francisco, one thing cannot be
+And since the show is made in San Francisco, one thing cannot be
 missing: the escape from the prison island of Alcatraz in the middle
 of the Bay to the mainland. In a Mythbusters episode, the two
 researchers glued together a triangular raft made of rubber raincoats
@@ -407,12 +402,9 @@ cold the Bay water is: But the two hosts and a volunteer actually
 managed to maneuver their raft in the middle of the night with oars
 nailed together from planks to the northern end of the Golden Gate
 Bridge and reach the shore.
-<em>Myth busted" translates to English as "Myth busted." It is
-already in English.</em> 
-!
+<em>Myth busted!</em> 
 
-<pic images/alc2.ps The Mythbusters escape at night on a raft made of
-raincoats from Alcatraz to the mainland.>
+<pic images/alc2.ps The Mythbusters escape at night on a raft made of raincoats from Alcatraz to the mainland.>
 
 I would, however, like to have another myth clarified: On long,
 exposed country roads where the police couldn't possibly park a radar
@@ -422,7 +414,7 @@ measuring the speed of cars? That's just an old wives' tale! How is
 that supposed to work? Besides, it would be far too expensive.
 Hopefully, the Mythbusters will debunk this nonsense soon!
 
-@Z: Curiosities in the American School System
+@Z: Peculiarities of the American School System
 
 <pic images/uniform.ps Schul-Uniformen>
 
@@ -433,6 +425,8 @@ half-knowledge one acquires about American schools through years of
 watching American TV shows. For example, everyone knows from the teen
 series "90210" that dates in high school are always arranged in front
 of the obligatory lockers.
+
+TODO
 
 Lockers" are steel cabinets in which students lock away their books
 and other belongings, which is actually quite practical because this
