@@ -230,14 +230,12 @@ There you'll find, for example, that 1 cup is exactly 8 fluid ounces. One
 ounce is just under 30 milliliters, one cup is 237ml, which is
 approximately a quarter of a liter.
 
-TODO
-
 The fluid ounces should not be confused with weight ounces, which
 correspond to 28.35 grams. At the butcher, it is impossible to order
 200g of sausage. I usually order "half a pound," with the American
 pound weighing 453g, which is slightly less than the German pound.
 
-I have also ordered a beer in restaurants, to which the waiter asked,
+I have also experience ordering beer in restaurants, to which the waiter once asked,
 "12 or 16 ounces?" Since only child-sized portions are served in
 America anyway, you can safely always order the larger amount. By the
 way, 12 fluid ounces is a small drink can, 16 ounces is equivalent to
@@ -251,39 +249,38 @@ the drain was about two and a half inches wide. One inch is
 approximately 2.54 cm, but that's just a side note. When I arrived at
 the store, I discovered that there were stoppers in two sizes: two
 and a half inches and 2 3/8 inches. The difference between 2.5 and 2
-3/8 is only 1/8 inch, which is 3 mm, so I drove back home cursing to
+3/8 is only 1/8 inch, which is 3 mm, so I drove back home cursing, to
 take a more precise measurement.
 
 And in everyday interactions, you have to adjust: If you explain
 directions to someone and say "left after 400 meters," no one
 understands. However, "after a quarter mile" is understood by
-everyone. For shorter distances, "feet" are used, which are units
+most. For shorter distances, "feet" are used, which are units
 30.49 cm long. In the sentence "could you maybe move your
-gas-guzzling car back a meter so I can pull out," you need to use "3
+gas-guzzling truck back a meter so I can pull out," you need to use "3
 feet" for the length to avoid confusion. And here are all the length
 measurements in relation: 12 "inches" make a "foot" (30.49 cm), 3
 "feet" are a yard (91.4 cm), and a mile is 1760 yards or 5280 feet
 (1.609 kilometers).
 
 And now the newsletter quiz question: How much does a car consume if
-it is advertised with "25 miles per gallon"? The American does not
+it is advertised with "25 miles per gallon"? Americans do not
 calculate how many liters of gasoline a car consumes per 100
 kilometers, but rather how many miles it can drive with one gallon of
-gasoline. A high value therefore indicates low fuel consumption. Who
-knows the answer?
-<LINK>gallons.html|Auflösung</LINK>
-The translation of "steht auf unserer Webseite" to English is "is on
-our website.
+gasoline. A high miles per gallon value therefore indicates low fuel consumption. Who
+knows the answer? <LINK>gallons.html|Peek here</LINK>
 
 @Z: Lifetime backpack warranty
 
 <em>Michael</em> 
-As often mentioned in the newsletter, unlike German customers,
+As often mentioned in our newsletter, unlike German customers,
 American buyers do not let retailers make a fool of them. Stores are
 open when the customer has time to shop, not when it suits the noble
 sales staff to start working. If you don't like a product, you
 exchange it--no silly questions are asked, no drama with vouchers is
 performed; instead, you get your money back, and that's that.
+
+TODO
 
 But that's not all. Recently, after a full five years of heavy use,
 my backpack broke. Every weekday, I stuffed it full with a laptop and
