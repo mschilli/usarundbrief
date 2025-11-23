@@ -578,25 +578,22 @@ is also lacking in many areas.
 
 <pic images/quake.ps An earthquake with a magnitude of 6.5 on the Richter scale.>
 
-TODO
-
 <em>Michael</em> 
 On Monday, December 22nd, at eleven o'clock in the morning, I was
 working in the office when suddenly the AOL/Netscape building began
 to sway back and forth in a wave-like, quite harmonious motion, about
-half a meter. We had just moved into new premises on the third floor,
+half a meter each way. We had just moved into new premises on the third floor,
 and at first, I thought someone was pushing a heavy cabinet down the
 hallway. When it continued and even the colleague who was standing at
-the entrance to my cubicle talking to me looked puzzled, I quickly
+the entrance to my cubicle talking to me started looking puzzled, I quickly
 checked the internet, and lo and behold: a 6.5 on the Richter scale.
 
-<pic images/quakeimb.ps The translation to English is: "An IM
-conversation during the quake.>
+<pic images/quakeimb.ps An IM conversation during the quake.>
 
 While one gets used to minor tremors over the years in a seismically
 active area, a 6.5 on the nonlinear scale is a serious
 magnitude--poorly constructed buildings can collapse, and being
-buried under them is no fun. In fact, in the town of Paso Robles,
+buried under one is no fun. In fact, in the town of Paso Robles,
 which was near the epicenter, three people lost their lives when a
 building collapsed. I immediately called Angelika's cell phone, but
 unfortunately, no one answered. At home, I left a message on the
@@ -606,33 +603,30 @@ Extension, where she was once again spending time--fortunately, no
 one there had noticed the quake and would have thought to make
 contact. Phew!
 
-@Z: Der Governator" translates to "The Governor" in English. This
-nickname is often associated with Arnold Schwarzenegger, who served
-as the Governor of California.
+@Z: The Governator
 
-<pic images/taxref2.ps Arnie lowers the motor vehicle tax again and
-refunds the difference.>
+<pic images/taxref2.ps Arnie lowers the motor vehicle tax again and refunds the difference.>
 
 <em>Michael</em> 
 As we all know, we are currently dealing with the new "Governator,"
 as Arnie Schwarzenegger is called in the newspapers. This neologism
 is a combination of "Governor" and "Terminator" (the movie). One of
-his first actions in office was to roll back the vehicle tax increase
-implemented by his predecessor, Gray Davis. In America, this tax is
+his first actions in office was to roll back the vehicle registration fee increase
+implemented by his predecessor, Gray Davis. In America, this fee is
 hardly worth mentioning, and for our 13-year-old "PERL MAN," we paid
 about $80 a year after the increase, whereas it was $40 before.
 Recently, we received a refund check from the Department of Motor
 Vehicles to reimburse us for the $41.07 we overpaid.
 
-The downside, of course, is that this money is now missing for quite
+The downside, of course, is that these funds are now missing for quite
 reasonable projects, such as schools. But for Arnie's Republican
 sponsors, who drive gas-guzzling "Hummer" SUVs and shout
 "Environment? Nonsense!", this action was probably important. It
 doesn't get any dumber than this.
 
-@Z: Netscape at the end?
+@Z: Netscape End of Life?
 
-<pic images/netscape.ps Orphaned: The Netscape Campus>
+<pic images/netscape.ps Deserted: The Netscape Campus>
 
 <em>Michael</em> 
 Shortly before Christmas last year, AOL cleared out the last
@@ -650,7 +644,7 @@ Fortunately, I wasn't affected, but unfortunately, 90% of my
 colleagues are now gone. Interestingly, immediately after the layoffs
 were announced, some competing companies like Yahoo or eBay held
 so-called "Open Houses," specifically for those laid off from AOL,
-probably to snap up the best talent. We are still in contact through
+probably to snap up the best talent. I'm still in contact with my ex-colleagues through
 mailing lists, and some have already found new jobs, but the job
 market situation is not very promising.
 
