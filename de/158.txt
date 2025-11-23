@@ -514,7 +514,8 @@ Opas mit E-Bikes wie von der Tarantel gestochen durch die Städte
 rasen und selbst abgelegene Waldwanderwege zu Todesfallen machen?
 
 <pic images/inmotion.ps Höllengerät für nur 1.699 Dollar!>
-<pic images/inmotion-ggp.ps Diese Einräder fahren bis zu 50 km/h schnell.>
+
+<GIF>images/monowheel.gif|Diese Einräder fahren bis zu 50 km/h schnell.</GIF>
 
 Die Elektromobilität nimmt bei uns immer bizarrere Formen an. Erst kamen die
 E-Bikes, bei denen man noch in die Pedale treten musste, um ein bisserl Schub
