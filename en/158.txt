@@ -524,7 +524,7 @@ tarantula, and turning even remote forest trails into death traps?
 
 <pic images/inmotion.ps Dangerous device for only 1,699 dollars!>
 
-<pic images/inmotion-ggp.ps These unicycles can travel up to 30 mph.>
+<GIF>images/monowheel.gif|These unicycles can travel up to 30 mph.</GIF>
 
 Electromobility is taking increasingly bizarre forms here. First came
 the e-bikes, where you still had to pedal a bit to get some boost
