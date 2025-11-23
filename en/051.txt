@@ -5,13 +5,11 @@ San Francisco, 08-26-2004
 
 @Z: Moving in the USA
 
-TODO
-
 <em>Angelika:</em> 
 We have been living in San Francisco for almost 8 years now and have
 never moved apartments. This was partly due to the unaffordable rents
 in San Francisco and partly because of Michael's refusal to move--he
-dreaded all the work involved. Back then, I managed the move to
+dreaded all the work involved. Way back in Munich, I managed the move to
 America all by myself, as Michael had left seven weeks before me,
 armed with only two small travel bags!
 
@@ -22,6 +20,8 @@ became extremely tight due to the clutter accumulated over the years.
 Michael insists that he must own every Perl book on the planet, and
 I'm not far behind with my thousand and one boxes filled with my
 photos.
+
+TODO
 
 But anyone who moves naturally wants to improve their situation, so
 we created the following list of requirements: three rooms (called
