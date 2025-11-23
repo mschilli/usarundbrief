@@ -280,27 +280,24 @@ sales staff to start working. If you don't like a product, you
 exchange it--no silly questions are asked, no drama with vouchers is
 performed; instead, you get your money back, and that's that.
 
-TODO
-
 But that's not all. Recently, after a full five years of heavy use,
 my backpack broke. Every weekday, I stuffed it full with a laptop and
 books and dragged it back and forth between Mountain View and San
 Francisco by bike and train. It was with me on all my travels, from
 Hawaii to Japan, from Washington to San Diego. And eventually, the
 zipper burst open. But I remembered that the manufacturer of the
-backpack, Briggs & Riley, at that time had a...
-lebenslange
-Warranty on the part was offered.
+backpack, Briggs & Riley, at that time had offered a life long warranty
+on the backpack.
 
-Now, this backpack was no longer available in the program, but I
+Now, this backpack was no longer available in their program, but I
 simply called the toll-free 1-800 number listed on the saved warranty
 card. And, lo and behold, customer service was happily willing to
 repair the item for free--I just had to send the backpack by mail to
-the repair service in Half Moon Bay. It cost about 4 dollars, and a
+the repair service in Half Moon Bay. Shipping it cost about 4 dollars, and a
 few days later, the backpack came back perfectly repaired and with a
 new zipper at no cost. A really good store, this Briggs & Riley!
 
-@Z: Altglasentsorgung
+@Z: Glass Recycling
 
 <em>Michael</em> 
 In America, just like in Germany, you pay a deposit on glass and even
@@ -309,6 +306,8 @@ bringing the empties back to the store to get the money back.
 Instead, people throw the bottles into a blue bin, put it out on the
 street on a specific day of the week for the municipal glass
 collector, and forgo the money.
+
+TODO
 
 This is a phenomenon in America: It's considered uncool to worry
 about cents or small dollar amounts. Although there is the saying "A
