@@ -140,8 +140,6 @@ registered partner is American, which is quite significant in the
 immigration state of California. We will keep you updated on how
 things progress.
 
-TODO
-
 @Z: Costco Nation
 
 <pic images/costco1.ps Oprah Winfrey shops at Costco on her show.>
@@ -170,7 +168,7 @@ not cheaply, but at reasonable prices. "Costco doesn't sell crap" -
 that's the favorite saying of the Costco CEO, who was recently
 interviewed in Money Magazine.
 
-Take my flashlight: In the USA, the power supply is notoriously in
+Take my flashlight: In the USA, the power grid is notoriously in
 the hands of clowns -- and having the lights go out for a while in
 the evening is already routine for us. When it happens again, we
 calmly go to our closet, which we call the "kabuff," and get the
@@ -184,12 +182,12 @@ this flashlight to break a window, drive a nail into the wall, or
 defend your home against intruders. Once you've experienced the
 quality of this flashlight, you'll never settle for less. Of course,
 it's not exactly cheap: you have to shell out about 20 dollars. Where
-to buy it? At Costco, of course, in a set with a mini-Maglite for the
+to buy it? At Costco, of course, in a set with a mini-Maglite torch for the
 car and a set of batteries, for, guess what? Exactly: 20 dollars.
 
 <pic images/mag.ps The best flashlight in the world: The Maglite>
 
-Costco is now spread across the entire country. They have even
+Costco has spread out across the entire country. They have even
 expanded to Japan. And although I am actually against the fact that
 every city now has the same department store, coffee shop, and
 fast-food chains, I immediately get a sense of home when I discover a
@@ -201,7 +199,7 @@ patterns -- super cool!
 Costco speculates that people will buy gigantic quantities when there
 is top quality at low prices. The shopping carts there are oversized.
 Homeless people, who like to push around their belongings, value a
-"Costco" like a Mercedes Benz. Also, at Costco, there is no "Express
+Costco cart like a Mercedes Benz. Also, at Costco, there is no "Express
 Checkout Lane" at the register, as is common in other American
 supermarkets, where you are only allowed to line up if you have, for
 example, up to five or ten items and pay quickly, either in cash or
@@ -226,11 +224,13 @@ pronounce "Pf" correctly and would say "Fanni," which means "funny."
 And the preparation posed unexpected difficulties: you had to
 dissolve the dumpling mix provided in the package in "2 1/8 cups" of
 water. With the help of the internet, you can quickly get to the
-bottom of such things: On
-<LINK>http://convertalot.com/kitchen.html|convertalot.com</LINK>
-It states, for example, that 1 cup is exactly 8 fluid ounces. One
+bottom of such things, for example, check out
+<LINK>http://convertalot.com/kitchen.html|convertalot.com</LINK>.
+There you'll find, for example, that 1 cup is exactly 8 fluid ounces. One
 ounce is just under 30 milliliters, one cup is 237ml, which is
 approximately a quarter of a liter.
+
+TODO
 
 The fluid ounces should not be confused with weight ounces, which
 correspond to 28.35 grams. At the butcher, it is impossible to order
