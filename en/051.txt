@@ -21,8 +21,6 @@ Michael insists that he must own every Perl book on the planet, and
 I'm not far behind with my thousand and one boxes filled with my
 photos.
 
-TODO
-
 But anyone who moves naturally wants to improve their situation, so
 we created the following list of requirements: three rooms (called
 "two-bedroom"), with a balcony and a fantastic view, as well as a
@@ -31,20 +29,17 @@ We wanted to live on the top floor of the building so that in the
 event of an earthquake, the neighbor wouldn't fall on our heads.
 
 The "stomp factor" is also not to be underestimated in American
-houses in this regard. Due to the lightweight wooden construction,
+buildings in this regard. Due to the lightweight wooden construction,
 normal walking already sounds like elephants trampling. When we stay
-in a two-story motel, we always make sure to stay upstairs. The new
+in a two-story motel, we always make sure to stay on the upper floor. The new
 apartment had to face the back, not the street, and be located in our
 beloved neighborhood of "Noe Valley." We also needed the so-called
 "Rent Control." It ensures that the rent remains stable, as it did
-once before in...
-<RBLINK>000801#8</RBLINK>
-The German word "beschrieben" translates to "described" in English.
+once before in our previous location (<RBLINK>000801#8</RBLINK>).
 
-<pic images/rent.ps A 4-room (3-bedroom) apartment in the Mission is
-for rent ...>
+<pic images/rent.ps A 4-room (3-bedroom) apartment in the Mission is for rent ...>
 
-For a long time, we had dismissed this list as completely unrealistic
+For a long time, we had dismissed this list as completely unrealistic,
 and, consequently, weren't even looking for a new apartment. But in
 recent months, "For Rent" signs have been appearing more frequently
 on doors and windows in our neighborhood. This doesn't mean that
@@ -66,23 +61,20 @@ looking for a job, or wants to make connections. Every landlord and
 apartment seeker also knows the website address "www.craigslist.org"
 by heart.
 
-<pic images/rent3.ps ... with 2400 dollars per month, however, not
-our price range.>
+<pic images/rent3.ps ... with 2400 dollars per month, however, not our price range.>
 
-article about it. Like a newspaper, the website lists, among other
+Like a newspaper, the website lists, among other
 things, housing offers. Craigslist, by the way, started in 1994 in
 San Francisco when a certain Craig Newmark (hence the name) began
 sending listings of events in and around San Francisco via email to
 his friends and acquaintances. The list became very popular and kept
 growing, so that now 15 permanent employees work for Craig. The
 newspaper "San Francisco Chronicle" recently published an interesting
-article about it.
-<LINK>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/08/15/NEW
-MARK.TMP|Interview</LINK>
+article about it and featured <LINK>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/08/15/NEWMARK.TMP|Interview</LINK>
 with the local hero. 'Craigslist' is now available in 45 cities in
 the USA, with branches in Canada and England. The internet company
 makes money by charging companies and employers $75 (in San
-Francisco) to list a job offer.
+Francisco) to list a job offer, everything else is free of charge.
 
 One afternoon in May, we were strolling down 24th Street in our
 neighborhood and saw a "For Rent" sign. Since the sign advertised the
@@ -98,13 +90,12 @@ Since we were seriously interested in the apartment after the
 viewing, we filled out the customary "Application." Typically, you
 provide your employer, monthly income, Social Security Number, and
 driver's license number on it. The landlord has the right to verify
-the information and check the credit report (see...
-<RBLINK>20040518#4</RBLINK>
+the information and check the credit report (see <RBLINK>20040518#4</RBLINK>).
 Some landlords also require the potential tenant to bring the credit
 report to the viewing appointment. By the way, the credit report
-almost became Michael's downfall when we rented our first apartment.
+almost became Michael's downfall when we set out to rent our first apartment.
 Freshly arrived from Germany, it was just a blank sheet of paper.
-Thankfully, the other applicant had a cat, and the cat-less Michael
+Thankfully, the only competing applicant had a cat, and cat-less Michael
 therefore outshone him. This time, everything went smoothly, and we
 eventually signed the lease agreement.
 
@@ -114,14 +105,10 @@ deposit is also paid, typically amounting to one and a half to two
 months' rent. As in Germany, the landlord may retain the deposit if
 the tenant damages the apartment or falls behind on rent. Over the
 years, the tenant earns interest on the deposit amount. The
-municipal...
-<LINK>http://www.ci.sf.ca.us/site/rentboard_page.asp?id=5941|Rent
-Board" translates to English as "Rent Board." It is already in
-English. If you meant to translate it from another language, please
-provide the original language.</LINK>
-The (tenant office) sets the annual interest rate in the process.
+municipal <LINK>http://www.ci.sf.ca.us/site/rentboard_page.asp?id=5941|Rent Board</LINK>
+sets the annual interest rate in the process.
 
-When you move, you naturally also submit a forwarding request for the
+When you move, you naturally also submit a forwarding request for your
 mail in America. The United States Postal Service is very modern in
 this regard, as the address change can be done online for a fee of
 $1. However, if you submit the request directly at the post office,
@@ -135,13 +122,13 @@ standards) and continues to be responsible for us. Hooray!
 Everyone knows that America does not have a registration law.
 However, in California, you must inform the Department of Motor
 Vehicles (called DMV) of your address change within 10 days. And
-Green Card holders like us (as well as visa holders) cannot avoid
-sending their new address to the immigration authorities -- also
+Green Card holders like us (as well as visa holders) should not forget to
+send their new address to the immigration authorities -- also
 within 10 days.
 
 The latter, by the way, should not be taken lightly. Although this
 regulation has existed for ages, the immigration authorities did not
-pursue negligence in this regard. However, after the terrorist
+pursue charges in this regard. However, after the terrorist
 attacks on September 11, 2001, people were suddenly arrested for not
 sending the address change form to the immigration authorities, as
 the authorities used this violation as a pretext to detain people.
@@ -152,21 +139,21 @@ This led, in turn, to all foreigners suddenly reporting their address
 changes like crazy, and the immigration office was completely
 inundated with forms. I sent everything by registered mail with a
 return receipt to ensure that we could prove that we had sent the
-stuff on time.
+letter on time.
 
 It's a good thing the internet exists because anyone can download the
-forms from the immigration authority's server. Hats off, most
+required forms from the immigration authority's server. Hats off, most
 American authorities are really on the ball in this regard.
 
-<em>Michael:</em> 
+<em>Michael</em> 
 After almost eight years in the USA, we thought nothing could shock
 us anymore. You get used to a lot of things: nothing here is
 reliable. It's the exception when something actually works as
 promised. Whenever someone confirms something to me, I've made it a
 habit to make a note in my calendar. A week later, there's an entry
 reminding me to check if what was promised actually happened. In 90%
-of cases, it doesn't work out, and then you have to do the so-called
-"follow-up.
+of cases, it didn't work out, and then I have to do the so-called
+"follow-up."
 
 When reminding someone, you must remain friendly, because no one
 wants to be reminded of their own sloppiness. So instead of saying,
@@ -178,17 +165,16 @@ any progress, as people will become stubborn.
 
 What happened during the move, however, knocked us both out: Two
 weeks earlier, we called the local telephone company "SBC" to request
-that the line be moved one street over while keeping the same number.
+that the land line be moved one street over while keeping the same number.
 "No problem, we'll take care of it!" they said, and I became
-suspicious. Why is it so easy? "Do I really not need to do anything
+suspicious. Why is it so easy? "I really won't need to do anything
 else for the line to be switched in fourteen days?" "No, you're all
 set!" I didn't quite want to believe it, but okay.
 
-<pic images/kamin.ps Michael lit a fire in the fireplace and cozied
-up with his laptop (wireless internet!).>
+<pic images/kamin.ps Michael lit a fire in the fireplace and cozied up with his laptop (wireless internet!).>
 
-The next morning, our phone was dead. I called the local telephone
-company with my cell phone. Yes, the line had been switched. "But the
+The next morning, our phone line was dead. I called the local telephone
+company on my cell phone. Yes, the line had been switched. "But the
 agreed date was the 29th -- today is the 15th." "Hmm, yes, you're
 right, today is not the 29th." "Can you fix it?" "Sure, no problem,
 where can we reach you -- at your registered phone number?" "No.
@@ -196,7 +182,7 @@ That's why I'm calling." "Oh, I see." Good grief.
 
 It continued like this. In the new apartment, neither the phone nor
 the DSL connection worked. I had to call two different companies for
-both and insist for hours that it wasn't my phone or my DSL router
+both and keep arguing for hours on end that it wasn't my phone or my DSL router
 that was defective, but rather that the line simply wasn't working:
 "We know this, it's usually the phone." "I've had this phone for
 seven years, and it has always worked perfectly." "It could still be
@@ -205,16 +191,17 @@ either." "Alright, we'll send someone over, but if it's your fault,
 we'll charge you." Madness. Dealing with the customer service of the
 local telephone monopoly "SBC" feels like being in East Germany.
 
-But thanks to the thick skin developed over many years by our
-American professionals, we have managed to clean up the chaos step by
+But thanks to the thick skin developed over many years by your
+two protagonists, we have managed to clean up the chaos step by
 step. During the cleanup, unnecessary furniture was also given away
 or sold. Slowly, normality is returning. But I guarantee that I won't
 be moving again in the next twenty years.
 
 @Z: Free Stuff
 
-<pic images/free1.ps A box with old junk placed in front of the door
-...>
+<pic images/free1.ps A box with old junk placed in front of the door ...>
+
+TODO
 
 Americans are often accused of producing excessive waste. This is
 often true when you think of the plastic bag madness in supermarkets
