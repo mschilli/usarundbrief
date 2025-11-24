@@ -201,26 +201,22 @@ be moving again in the next twenty years.
 
 <pic images/free1.ps A box with old junk placed in front of the door ...>
 
-TODO
+Americans are often accused of producing excessive waste. This is somewhat true
+when you think of the plastic bag madness in supermarkets and the practically
+non-existent waste separation in rural areas.  However, there is a recycling
+process here that I was not familiar with from Germany. (Informants from Berlin
+have, however, told me that it works similarly there.) You put old junk out on
+the sidewalk, stick a note on it that says "Free Stuff", and wait an hour or
+two.
 
-Americans are often accused of producing excessive waste. This is
-often true when you think of the plastic bag madness in supermarkets
-and the practically non-existent waste separation in rural areas.
-However, there is a recycling process here that I was not familiar
-with from Germany.
-1
-
-1
-
-On August 15th at 1:54 PM, we repeated an experiment that had already
-been conducted dozens of times for the newsletter: An old plastic box
+On August 15th at 1:54 PM, we repeated the experiment, which I had already
+been conducted dozens of times, for the newsletter: An old plastic box
 with leftover items from the move was placed on the sidewalk in front
 of the house with a note attached. The box contained: two wire
 baskets for hanging in a shelf, a dish rack, an old telephone, and 50
 ballpoint pens that I had once received as promotional gifts.
 
-<pic images/free2.ps ... and an hour later everything is gone,
-including the box!>
+<pic images/free2.ps ... and an hour later everything is gone, including the box!>
 
 Approximately two hours later, at 3:49:33 PM, I went down again, and
 lo and behold: everything was gone, including the box.
@@ -247,7 +243,9 @@ particularly popular on weekends, when you often see half a dozen
 cars parked haphazardly in front of some people with their junk
 spread out on the sidewalk. It's unbelievable what can be sold; some
 people probably buy the stuff just to resell it at their own "garage
-sale.
+sale."
+
+TODO
 
 @Z: Incident in the Netscape Parking Lot
 
