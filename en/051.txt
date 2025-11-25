@@ -245,12 +245,9 @@ spread out on the sidewalk. It's unbelievable what can be sold; some
 people probably buy the stuff just to resell it at their own "garage
 sale."
 
-TODO
+@Z: Incident In the Netscape Parking Lot
 
-@Z: Incident in the Netscape Parking Lot
-
-<pic images/s2.ps A gopher snake in the Netscape parking lot crawls
-out of the bushes ...>
+<pic images/s2.ps A gopher snake in the Netscape parking lot crawls out of the bushes ...>
 
 It was a completely normal workday in June when I routinely rode my
 bike into the Netscape parking lot at ten o'clock in the morning. I
@@ -266,20 +263,19 @@ through the bushes!
 Quickly, I went into the building, informed my colleagues, grabbed
 the camera from my backpack, and soon everyone rushed out to marvel
 at the spectacle! An expert among the people responsible for building
-maintenance identified it as a so-called "Gopher Snake," a
+maintenance identified the reptile as a so-called "Gopher Snake," a
 non-venomous snake that preys on ground squirrels. A SUV was quickly
 brought around, a billiard cue and a trash can were fetched from the
 game room, and after some back and forth, the snake was placed
-inside.
+in the bin.
 
-My suggestion to simply drive them to Microsoft and let them loose in
+My suggestion to simply drive it to Microsoft and let them loose in
 the parking lot was brusquely rejected "for legal reasons,"
 unfortunately! No sense of humor, these Americans!
 
-<pic images/s4.ps ... and is eventually captured by fearless security
-personnel.>
+<pic images/s4.ps ... and is eventually captured by fearless security personnel.>
 
-@Z: Closeness to citizens through propositions
+@Z: Democracy Through Propositions
 
 <pic images/prop.ps Propositions>
 
@@ -300,13 +296,12 @@ numbers at the state level. For example, the proposal against
 same-sex marriage was labeled as "Proposition 22," and the
 homelessness debacle was referred to as "N." On mini election
 posters, often hung on street lamps, you might see slogans like "Yes
-on N, safer Taxis, safer Streets!" and the informed citizen needs to
+on N, Safer Taxis, Safer Streets!" and the informed citizen needs to
 know what that means.
 
-<pic images/gaccess.ps The live broadcast of the city council meeting
-with a representative of the restaurant industry in the foreground.>
+<pic images/gaccess.ps The live broadcast of the city council meeting with a representative of the restaurant industry in the foreground.>
 
-The meetings of the "Supervisors" are, by the way, broadcast live on
+The meetings of the city's "Supervisors" are, by the way, broadcast live on
 local television channels. This might seem completely crazy to you,
 but it is highly interesting to watch these extremely smart and
 dedicated people during these transparent sessions. Recently, a
@@ -317,7 +312,7 @@ show an "A," "B," or "C," allowing customers to assess the health
 risk they might be exposed to when entering the establishment.
 
 What fascinates me about it is how friendly and collegial these
-people are with each other: There is indeed competition and political
+people interact with each other: There is indeed competition and political
 games, but time and again, the representatives of the restaurant
 industry were addressed kindly with "You Guys," sometimes there was
 even laughter, and discussions are generally conducted in a very
@@ -325,19 +320,17 @@ factual manner. Hats off to these people, who really commit
 themselves to their city in meetings that often last late into the
 evening.
 
-@Z: The translation of "The Lost Coast II" to English is "The Lost
-Coast II." The title is already in English.
+@Z: The Lost Coast Part II.
 
 <pic images/perlman.ps The PERL MAN races along the Lost Coast.>
 
-The regular readers will remember, in
-<RBLINK>981015#2</RBLINK>
-We have already reported on the "Lost Coast," the stretch of
+The regular readers will remember, in <RBLINK>981015#2</RBLINK>
+we already reported on the "Lost Coast," the stretch of
 coastline near Mendocino that is cut off from Highway 1.
 
 Because it was so nice back then, we did it again: This time we
 really sped along deserted, unpaved country roads right by the ocean,
-and the good old "PERL MAN" even had to cross a small stream. He did
+and the good old "PERL MAN" even had to cross a small creek. He did
 creak a bit when the underbody slid over a small rock, but he made it
 through without any damage to the oil pan. As a reward, he got a hand
 car wash at home.
@@ -357,7 +350,7 @@ However, you can forget about going there: Last week, the place
 "Shelter Cove" on the Lost Coast was on TV. The series "Bay Area
 Backroads" reported on it in detail and, here's the kicker, even
 showed our motel room called "Captain's Lodge"! Goodbye Lost Coast,
-you're too late now, sorry!
+it's gonna be busy now, sorry!
 
 @Z: Divine Love Whispers
 
@@ -375,20 +368,20 @@ American politicians, on the other hand, find the phrase "God bless
 America" great. No speech or interview ends without God's blessing,
 and this has been the case long before Bush became president.
 However, I had to smile when Germany's new Federal President, Horst
-KÃ¶hler, drew on his American experience and invoked God's blessing
+Köhler, recently drew on his American experience and invoked God's blessing
 over Germany in his inaugural speech.
 
 @Z: Election Campaign in America: Bush versus Kerry
 
+<em>Angelika:</em> 
 Although the convention of the American Republican Party, during
 which Bush's official nomination as the presidential candidate will
 take place, is still pending, everyone already knows: Kerry is
 running against Bush.
 
-The sentence translates to: "America is known to have a rather
+The United States are known to have a rather
 sophisticated electoral system, which appears extremely convoluted to
-Europeans.
-<RBLINK>20001204#1</RBLINK>
+Europeans (<RBLINK>20001204#1</RBLINK>).
 This process begins with the so-called primaries (internal party
 elections). Between January and June of the election year, the
 official candidate of each party is determined through primaries in
@@ -419,7 +412,7 @@ had no opponent within his own party. Among the Democrats, Kerry
 eventually won, although Howard Dean was initially considered the
 favorite.
 
-We have been in an election campaign conducted at tabloid level for
+We have been seeing an election campaign conducted at tabloid level for
 months now. It's enough to make you cry. Initially, there was no more
 important question than who had the better head of hair: Kerry or
 Bush. Then, some eager journalists, close to the tabloid press, began
@@ -433,15 +426,15 @@ Heinz ketchup empire. In contrast, Laura Bush deliberately plays the
 role of the homemaker.
 
 In the meantime, the smear campaign shifted to more political topics.
-Since Bush boasts of being a war president who protects America from
+Since Bush boasts of being a war President who protected America from
 terrorists with a firm hand, Kerry cannot lag behind. He needs to
 prove that he can fulfill the role of Commander-in-Chief of the armed
-forces as president. What better suits him than his Vietnam
+forces as President. What better suits him than his Vietnam
 experience? After all, Kerry returned from the war zone in the
 seventies as a decorated soldier and had even volunteered. In
 contrast, Bush served in the National Guard on American soil.
 
-A plus for Kerry in gathering votes from Vietnam veterans. The
+A plus for Kerry in gathering votes from Vietnam veterans.
 Americans have a thing with Vietnam anyway. The trauma still runs
 deep in their bones. However, some cheeky former Vietnam comrades of
 Kerry, who have given themselves the name "Swift Boat Veterans for
@@ -484,21 +477,19 @@ to despair.
 @Z: Copy-Protected CDs
 
 <em>Michael:</em> 
-The translation of "Da habe ich in" to English is "There I have in".
-<RBLINK>20031207#3</RBLINK>
+Back in the <RBLINK>20031207#3</RBLINK> issue
 I was boasting that American consumers would never put up with
 copy-protected CDs, and bam! Reality slapped me with a wet towel: The
 new CD from the "Guns 'n Roses" offshoot "Velvet Revolver" can't be
 listened to as an MP3 on the computer, and consumers apparently don't
-mind. What sheep! For "Velvet Revolver," this means they're out--at
+mind. What sheep! For "Velvet Revolver," this means they're banned--at
 least from my record shelf. For life!
 
 @Z: The newsletter top product
 
-<pic images/dolly.ps The newsletter top product: The high-end
-handcart>
+<pic images/dolly.ps The newsletter top product: The high-end handcart>
 
-Moving boxes is no fun and can be hard on your back--unless, like us,
+Moving boxes around is no fun and can be hard on your back--unless, like us,
 you've bought a handcart at the "Home Depot" hardware store. In
 American English, these rolling helpers are also called "dollies,"
 but when I asked the store clerk, "Where might I find a dolly?" he
@@ -508,22 +499,18 @@ cart stuff around. Ah, he understood and informed me that "hand
 trucks" could be found in the last aisle on the shelf next to the
 trash cans. I chose the top model for $39.99, which can handle up to
 600 pounds. That's quality! It even withstood the heavy moving goods
-and now stands on the balcony. Unfortunately, it can't be folded!
+and now stands on the balcony. Unfortunately, it won't fold!
 
 By the way, I always notice in the hardware store how limited my
 English skills still are, even after eight years in America. Quick
-test before you laugh: plane? file? regular screwdriver? Phillips
+test before you laugh: Regular screwdriver? Cross-head
 screwdriver? See, you don't know either.
 
-The translation of the text is: "'Plane', 'File', 'Flat head',
-'Phillips' are the answers. The name for the cross-head screwdriver,
-which sounds quite strange to European ears, is actually derived from
-the name of its inventor.
-<LINK>http://ask.yahoo.com/ask/20021107.html|Henry F. Phillips is a
-proper noun, specifically a name, and does not require translation
-into English. It is already in its English form.</LINK>
-The translation to English is: "derived, which led him to patent it
-in the year 1936.
+Regular screwdrivers are 'Flat heads', 'Phillips' is the name for the
+cross-head screwdriver, which sounds quite strange to European ears, is
+actually derived from the name of its inventor
+<LINK>http://ask.yahoo.com/ask/20021107.html|Henry F. Phillips</LINK>,
+who patented it in the year 1936.
 
 Recently, I was standing in the hardware store around the corner and
 wanted to buy a dustpan with a broom, but when I tried to find the
@@ -533,6 +520,4 @@ learned in kindergarten, while such things are less common at AOL.
 
 Greetings from the new place:
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
