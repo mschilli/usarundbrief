@@ -1,0 +1,700 @@
+
+San Francisco, 11-29-2004
+
+@Z: South City, Don't Tell Anything
+
+<em>Michael</em> 
+On the morning train ride to Silicon Valley, I recently decided
+to stare out the window for a change and noticed that the sun was
+beautifully illuminating the industrial area of South San Francisco.
+I quickly grabbed my digital camera, which I always have with me,
+from my backpack and started taking pictures.
+
+<pic images/southcity1.ps Graffiti on the railway line, South San Francisco>
+
+TODO
+
+The mix of unadorned industry and graffiti has always fascinated me,
+as is well known. I fondly remember my first visit to New York City
+in the mid-eighties when I got my hands on this book about subway
+graffiti that never let me go. That was always my dream of America.
+
+<pic images/southcity2.ps Spedition, South San Francisco" translates
+to "Freight Forwarding, South San Francisco" in English. "Spedition"
+is a German term for freight forwarding or shipping services.>
+
+In the South City, mainly people who cannot afford the rents in the
+city live. Anyone who reads Bukowski's "Post Office" can imagine what
+it means to work in low-wage jobs in slaughterhouses and shipping
+companies in South City.
+
+<pic images/southcity3.ps The translation of "Industrieanlage, South
+San Francisco" to English is "Industrial Plant, South San Francisco.>
+
+But the American Dream is dreamed here just like everywhere else: The
+predominantly Asian residents work tirelessly to send their children
+to good schools and perhaps one day move to a better neighborhood.
+
+SÃ¼dstadt verzÃ¤ll nix" is, of course, a title by the band BAP from
+Cologne, who once played in the small Barbara Hall in Augsburg in
+1984 in front of about 400 people. And even today, I still enjoy
+listening to Mr. Niedecken's compositions. Although they no longer
+blow me away musically, according to my theory, the lyrics in German
+are so powerful that they make up 80% of a song. Ah, when the album
+"Amerika" is playing, we get quite sentimental as we look at the
+skyline of San Francisco.
+
+<pic images/southcity5.ps Schrottplatz" is German for "junkyard" or
+"scrapyard." So, "Schrottplatz, South San Francisco" translates to
+"Junkyard, South San Francisco" in English.>
+
+@Z: Obrigkeitsablehnung
+
+I have already mentioned that the American gentleman does not like to
+adhere to arbitrary rules. As a typical example, I always mention the
+white lines painted on the baseball field, which designate rectangles
+about two by five meters in size for the coaching areas. Everyone,
+and I really mean everyone,
+<em>jeder</em> 
+The translation to English is: "The coach stands one meter next to
+the box. If I were a baseball official, I would take strong action!
+
+<pic images/bbf.ps The baseball coaches are blatantly standing
+outside the permitted area.>
+
+However, this does not mean that there is a lack of bureaucracy: In
+institutions like the Department of Motor Vehicles (DMV), the
+Internal Revenue Service (IRS), and the Immigration and
+Naturalization Service (INS), red tape is rampant, worse, yes worse
+than in Germany. Many Germans do not realize this, assuming that
+everything in America is more efficient and less bureaucratic.
+
+A similar rule applies to time arrangements. If you show up to a
+casual party at the agreed time, you'll be greeted by people with
+curlers in their hair, looking at you in confusion. Naturally, the
+food isn't ready yet, and everything is terribly awkward. So: Always
+arrive an hour late. Oh, and if you confirmed your attendance a week
+in advance but don't call the day before to reconfirm, no one will
+expect you to show up. If you then actually arrive as promised
+without reconfirming, there won't be any beer in the fridge.
+
+When AOL bought Netscape in 2000 and we moved onto the campus, two
+worlds collided: At Netscape, it was common to arrive 15 minutes late
+to meetings. Sometimes it happened that I was sitting alone in the
+meeting room, discussing everything with the counterparts in Dulles
+over the phone and sometimes even finishing the conversation by the
+time the first Netscape people trickled in. Naturally, I made a point
+of jokingly saying, "Everything's already done, meeting over," and
+marching back to my cubicle. However, it didn't help much.
+
+@Z: How to change jobs
+
+After seven years at AOL, I thought to myself: If I don't quit now,
+I'll have to stay at the company until retirement. Now, the selection
+of successful companies in Silicon Valley is quite large, and the job
+market is on the verge of booming again. It so happened that the
+company Yahoo! (correct, with an exclamation mark!) conducted a phone
+interview with me, showed interest, and then invited me for an
+in-person interview. Everything went smoothly there; they were
+familiar with my Perl modules from the internet, and the team and
+manager there made a very competent impression on me. In short, we
+reached an agreement, and shortly thereafter, I signed the contract.
+
+How do you resign from an American company? Some people jokingly
+claim that I stayed at AOL for so long because I couldn't find the
+resignation form, but that's obviously not true. You simply tell your
+manager, 'I'll be here for only two more weeks.' This is called
+giving 'notice,' and to be on the safe side, you also send an email
+to the HR department with the following wording:
+
+The purpose of this email is to inform you of my resignation from my
+current position as [position] at [company]. My last day of work will
+be [mm/dd/yyyy]. I have accepted another position.
+
+That's it, two weeks later you're gone! Of course, there was still a
+lot to organize: the projects had to be handed over, a "brain dump"
+had to be conducted for the colleagues, and all sorts of office tasks
+had to be completed. But, believe it or not, it somehow works out. It
+wasn't easy, of course, after such a long time, but at some point,
+you have to draw the line.
+
+When applying to a company in America, it is easiest if you know
+someone who already works there. Due to the massive layoffs at AOL in
+recent years, former AOL employees are now everywhere in Silicon
+Valley: At eBay, PayPal, Yahoo!, Amazon, Google, Adobe, and many
+smaller companies, you can currently apply quite easily if you have
+maintained your contacts well over the years. In some cases, real
+friendships have developed, and we still meet at fairly regular
+intervals. This is actually quite unusual in America, where work
+contacts are very superficial and it's rare to find people who at
+least go to the pub together in the evening. But we former AOL
+employees have gone through thick and thin together, which creates a
+strong bond.
+
+Diplomas and work certificates are much less valued in America than
+in Germany. Of course, for a software developer job, you do need at
+least a diploma (Bachelor's or Master's) in computer science or
+another technical field. However, the details are unimportant; what
+matters is the work experience and the personal impression the
+candidate makes.
+
+For this reason, one should never include a certificate with a cover
+letter. Nor should you include a passport photo or date of birth, in
+order to prevent age and racial discrimination. Instead, you send a
+"resume" as in
+<LINK>http://perlmeister.com/resume.html|perlmeister.com/resume.html<
+/LINK>
+..and then prepares for a phone call that typically lasts an hour and
+is conducted by the hiring manager, who assesses the candidate's
+skills. If that goes well, the candidate is invited for an interview
+and speaks with about 4-5 people in the first round, each for
+approximately 30-45 minutes. Further rounds may follow (I've heard
+that at Google, there are more than five).
+
+There are strict regulations regarding what the interviewer is
+allowed to ask in a job interview and what is not permitted.
+Questions about age, religion, marital status, or country of origin
+are not allowed. Only "Are you authorized to work legally in the
+USA?" is permitted.
+
+The easiest way to succeed with an application is if someone who
+already works there gives a recommendation. In America, personal
+references are highly valued. Many companies pay $1,000, $2,000, and
+even more if an employee suggests a candidate who is then hired.
+
+In the application, you also provide about three "references," people
+who will put in a good word for you. And believe it or not, the
+hiring managers usually do call these people and ask if they think
+the candidate is any good.
+
+Shortly before signing the contract, the company then hires a
+specialist for background checks, who does not verify the
+authenticity of a diploma certificate, but simply calls the
+university to ask if the candidate actually studied there. He also
+calls the listed previous employers to check if the candidate really
+worked there.
+
+@Z: Yahoo!
+
+<pic images/y3.ps A building of the Yahoo! headquarters in Sunnyvale>
+
+I had already heard rumors about Yahoo!, but what I learned on the
+first day really blew me away. It felt like it was suddenly 1996
+again, with the internet boom at its peak.
+
+When signing the contract, I already noticed that the HR (Human
+Resources) people were all completely unconventional. Outwardly, they
+were the exact opposite of a typical German HR manager, almost
+hippie-like, but totally sharp and professional. In general, you see
+this type more often these days in top companies in the Valley: old
+hippies, people who probably weren't the best in school, but then
+turned things around and made it big.
+
+In general, the level at Yahoo! is quite a bit higher than at AOL;
+there are high-caliber people around, it's hard to believe: At my
+first lunch in the cafeteria, I was introduced to a "Jeremy" along
+with a dozen other people, and I didn't think much of it until I
+found out the next day that it was the MySQL guru and author Jeremy
+Zawodny. Amazing! And also PHP creator Rasmus Lerdorf, a Dane with a
+Canadian passport, works in our group and regularly joins us for
+lunch! By the way, someone signals it's time to eat by playing a
+specific melody on an accordion.
+
+<pic images/y2.ps Part of the Yahoo! campus in Sunnyvale>
+
+In the introductory class, we were encouraged not to hold back and to
+assertively push through our ideas. And when, the first few times in
+the new group, I still asked, "Can we do it this way?" and the answer
+was always "Yes, of course!" I was truly overwhelmed. Those who know
+me are aware that sometimes rather unorthodox methods might be used.
+
+Working for Yahoo! instead of AOL has the added advantage that I am
+no longer associated with questionable business practices, such as
+the mass distribution of CDs. Moreover, Yahoo! enjoys the complete
+trust of many people; in fact, people genuinely love Yahoo!
+
+Once I missed the delivery driver at home, so I called the UPS parcel
+service to have the package delivered not in San Francisco, but at
+work in Sunnyvale, 50 kilometers away (yes, that's possible in
+America!). When I gave the new address and mentioned "Yahoo!", the
+lady on the phone exclaimed happily: "Yahoo! I love it! I'm using it
+all the time!". I was quite touched by that.
+
+And the gatekeeper at the rocket company Lockheed Martin, through
+whose premises I am allowed to ride my bike with special permission
+(much safer than riding along the freeway exits in Silicon Valley),
+recently called out to me laughing, after I showed my pass:
+"Yahoooooo!".
+
+The word, by the way, describes the sound that a yodeler makes. A few
+years ago at Yahoo!, the world record for mass yodeling (with a
+Guinness Book entry) was set when all the employees gathered in the
+cafeteria and made yodel-like sounds together.
+
+<pic images/y4.ps The Yahoo! campus with a basketball court.>
+
+The company's policy is aimed at providing employees with an
+environment where they can freely work on crazy ideas. The people are
+highly motivated, and there are intense discussions on email lists
+about how to improve the Yahoo! service. In cases of mental and
+physical exhaustion, there are rest rooms where one can take a nap.
+
+Additionally, a fitness center, basketball courts, and beach
+volleyball courts with sand are available. For coffee needs, there is
+a cafÃ© where baristas (that's what the coffee makers at Starbucks
+are called) can whip up lattes, espressos, or hot or cold chai for
+you. And the best part is, it doesn't cost a cent; you just go there
+with your cup!
+
+If you don't have time to do laundry at home, you can drop off your
+clothes, which will then be sent to a laundry service for a small
+fee. The clothes are promptly returned clean and nicely ironed. Once
+a week, a mobile hairdresser comes to the campus in a bus-like
+vehicle to cut hair. There's even a mobile dental service that comes
+once a week if you don't have time to visit a regular dentist.
+However, I've been skeptical about that so far and will probably
+continue to visit a conventional dentist.
+
+Oh, and there's something funny to add to my "background check": The
+specialist actually called my previous employers and even the
+examination office at my university! And even the police in Munich,
+who confirmed that there is nothing against me. And also my credit
+report...
+<RBLINK>20040518#4</RBLINK>
+.. was consulted to see if my finances are in order. I know all this
+because I (you can check this box if you agree to the background
+check) received a copy of the report. It detailed that they kept
+calling the examination office at TU Munich forever and no one picked
+up, hilarious!
+
+@Z: The newsletter's top product: Duraflame logs
+
+<pic images/dura.ps The Duraflame log as a firewood substitute>
+
+With our new open fireplace in the apartment, the question of
+firewood procurement arises. If you don't live in the forest but in
+the big city, it's not so easy to acquire and store enough wood! For
+big city fireplace enthusiasts, there are "Logs" from Duraflame,
+which you simply light on the paper wrapper, and they burn
+continuously for four (!) hours, creating a nice, clean fire!
+Naturally, they are bought at Costco in a pack of nine.
+
+The translation to English is: "Clear the way for Angelika!
+
+@Z: Red versus Blue: The Election Outcome in America
+
+<pic images/bush.ps Campaign poster for Bush and Cheney>
+
+<em>Angelika</em> 
+On the night of the election on November 2nd, we watched the American
+map intently, hoping that the state of Ohio would turn blue and go to
+presidential candidate Kerry, after Florida was already flashing at
+us in ominous red.
+
+Because the color red represents the Republican Party and Bush, while
+blue represents the Democrat Kerry. How fitting, since the
+strongholds of the Democratic Party are by the water: the coasts of
+the West and upper East Coast, the areas around the Great Lakes, and
+let's not forget Hawaii. But the dream is over: we have to endure
+Bush for four more years with gritted teeth. Sigh!!! Although Bush
+did not win by a landslide as Michael had gloomily predicted, he not
+only secured the necessary electoral votes this time but also
+garnered 3.5 million more popular votes than Kerry.
+
+Even the fact that nearly 85% of people in deep-blue San Francisco
+voted for Kerry is of little comfort. Scholars are debating why Bush
+won. The debate over moral values is highly popular. The born-again
+Christian Bush gathers his flock in the heartland by railing against
+abortion and same-sex marriage. In this context, it no longer matters
+that these followers are digging their own economic graves by voting
+for a president who favors the wealthy and large corporations and
+would prefer to crown himself emperor. To be fair, it should be
+mentioned that the mechanical coloring of the American map leads to
+gross oversimplifications. For example, Nevada went to Bush and is
+therefore colored red, but the election outcome was extremely close:
+51 percent voted for Bush, 49 percent for Kerry. Similar situations
+can be found in other states. Purple would be a better color in many
+cases.
+
+How tragic it is that Bush now has the upper hand, as the Republican
+Party has also expanded its majority in both houses of parliament. I
+think with horror about the upcoming nominations to the Supreme Court
+under Bush, as the judges are appointed for life and shape the legal
+landscape for decades.
+
+@Z: Please smile: Entry into the USA
+
+Since September 30, German citizens have been greeted at the American
+immigration counter with: "Please be friendly!" This is because a
+digital photo is taken of every traveler from Germany, even if they
+are not subject to the American visa requirement. Additionally, both
+index fingers must be scanned for fingerprints. Since the end of
+October, every German tourist also needs a machine-readable passport
+for visa-free entry. This applies to babies and children as well as
+adults. The Americans are strict about this!
+
+@Z: The American health insurance system
+
+<pic images/kaiser5.ps The Kaiser Permanente Hospital in San
+Francisco>
+
+Every time we sit down with American friends, the topic of the dismal
+American healthcare system inevitably comes up. The better-informed
+Americans know and envy the fact that almost all European countries
+have a statutory health insurance system for everyone. Michael
+immediately rolls his eyes, knowing that I could discuss this
+tiresome topic for hours.
+
+Even after almost eight years, I still haven't gotten used to the
+pitfalls of the American healthcare system. Until now, I was firmly
+convinced that it would never come to the point in Germany where the
+American system, which is outrageously expensive and simply a
+disaster, would be adopted. However, when I look at developments in
+Germany, such as the practice fee, online pharmacies, and dental
+services, I'm not so sure anymore.
+
+Michael and I always joke that if we ever return to Germany, we won't
+need to make a big adjustment. Don't get me wrong: of course Germany
+needs reforms, but I don't quite understand why people look to
+America in this regard, whose system has been up against the wall for
+decades. Why not look to Scandinavia? I'm very much in favor of
+anyone in the German health ministry proposing changes based on the
+American model having to visit an American doctor and an American
+hospital at least once beforehand. Naturally, this would include
+dealing with the American health insurance system. They would never
+spout any nonsense again.
+
+We have repeatedly pointed it out to you: There are millions of
+working Americans who have no health insurance or are not adequately
+insured. Currently, 45 million (or 15.6% of the American population)
+have no health insurance--a record-breaking number.
+
+The army of the uninsured has always existed. However, the increase
+is primarily due to the aftermath of the economic downturn, which is
+only slowly subsiding. In America, losing your job also means losing
+your employer-provided health insurance. Although employees can
+choose to continue paying for their health insurance voluntarily,
+which I will explain in more detail later, it is expensive and
+unaffordable for many who no longer have a steady income. Even if you
+receive unemployment benefits--yes, those exist in the USA as
+well--you are not automatically covered by health insurance.
+
+Secondly, the number of Americans without health insurance is
+increasing because insurance premiums have skyrocketed in recent
+years. Many small and medium-sized businesses can no longer afford
+this "luxury" and no longer offer health insurance to their
+employees. Other companies are increasingly passing on the rising
+costs to their employees, which leads to higher monthly contributions
+and greater out-of-pocket expenses for them. The problem with the
+American system, however, is that companies (except in Hawaii) are
+completely free to decide whether and under what conditions they
+offer health insurance to their employees.
+
+This is how it happens that companies cover the costs for health
+insurance entirely, partially, or not at all. Yahoo!, for example,
+has been financing everything for both of us up to now. Starting in
+2005, Michael and I will pay $20 a month together, and Yahoo! will
+sponsor the rest of the premium. For comparison, our monthly
+contribution at AOL was $180. At Yahoo!, we can choose between two
+health insurance companies, and with one of the companies, we can
+choose from three different plans that differ in terms of
+co-payments, deductibles, choice of doctors, etc.
+
+In principle, the better the company, the better the options and
+conditions. Since companies decide which health insurance and models
+they choose, changing jobs usually means that the employee has to
+switch health insurance, which can result in the doctor they used to
+visit no longer being affiliated with the new health insurance. This
+is unlike in Germany, where the employee decides which health
+insurance they want to be in and retains it even when they change
+jobs.
+
+<pic images/mac.ps McDonald's employees do not have health insurance,
+and hotel employees often do not either.>
+
+By the way, on November 2, Californians once again voted on several
+propositions. Proposition 72 aimed to require companies in California
+to offer health insurance starting at 50 employees and to pay 80% of
+the premium starting at 200 employees. Unfortunately, Mr. and Mrs.
+Californian were lulled by Arnie, who railed against the proposition,
+and they voted against it. How stupid can you be! Hawaii is the only
+state that has had a similar law to the proposed Proposition 72 since
+1974. No wonder we like it so much there.
+
+Why is it, then, that healthcare costs are exploding in America? As
+in other industrialized nations, people are living longer and
+high-tech medicine is continually improving, leading to new and
+expensive treatment methods.
+
+Then there's the fact that, as is well known, Americans like to go to
+court. Doctors here fear nothing more than overlooking something and
+getting hit with a lawsuit for damages. That's why they take out
+expensive insurance policies. Naturally, the money has to be recouped
+from somewhere.
+
+I also think that the fear of making mistakes is associated with
+doctors here strictly following a set pattern. If the patient
+complains about certain symptoms, then this and that must absolutely
+be done. The automatic reach for the prescription pad also always
+makes me quite annoyed. It's as if the motto is: The patient is only
+happy if I prescribe them a pill. Antibiotics are still considered a
+cure-all here.
+
+Of course, the insured pay for the uninsured as well. Even in
+America, the medical profession swears the Hippocratic Oath and does
+not let anyone bleed to death or die. The so-called "Emergency Rooms"
+(comparable to the emergency admissions in German hospitals) are
+obligated to treat anyone who "arrives with their head under their
+arm.
+
+Many uninsured individuals go to the emergency rooms with
+non-life-threatening conditions because they don't know where else to
+go, which, of course, ends up being more expensive for the public
+than a doctor's visit in a practice. Naturally, even patients without
+insurance are billed. However, where there is nothing, nothing can be
+collected. Therefore, the bills for the insured are slightly
+increased to compensate for the loss.
+
+The county hospitals (community hospitals), i.e., public hospitals,
+also do not turn away anyone who does not have health insurance. In
+San Francisco, the "General Hospital" falls under this category. The
+hospital administration then negotiates with the patient regarding
+what they can pay by having the patient disclose their income and
+financial situation.
+
+The last significant reason for the explosion in costs is the bloated
+administrative apparatus of the various health insurance companies.
+Since there are numerous different plans, all of which vary in terms
+of services and patient co-payments, a large number of people are
+needed to oversee them. When you make an appointment with a doctor,
+the receptionist not only asks which health insurance you have but
+also which plan of the mentioned insurance it is, even though they
+themselves are not familiar with it, despite dealing with it every
+day. Another popular question quickly follows: "And don't you need to
+see your primary care physician first to get a referral to a
+specialist?" Aaaahhhhh!!!!
+
+So it remains an unsolvable task to explain all health insurance
+plans. But I will try to tackle the main models. There once was the
+following simple model: The patient goes to the doctor or hospital of
+their choice, and the health insurance pays the rate charged by the
+doctor or hospital, minus a deductible that the patient covers. Those
+were the days.
+
+Today, health insurance companies want to save costs and have more
+say, which has led to what is known as "Managed Care." Its most
+important principle is that the respective health insurance company
+negotiates fixed fee rates with doctors and hospitals, and the
+patient is generally only allowed to go to these contracted doctors
+and hospitals. On the statements that the patient receives from their
+health insurance, you can see the price difference. For example, my
+internist charged $170 for a visit with a vaccination booster.
+However, he only received $116 because that was the agreed rate.
+Additionally, certain - usually more expensive - treatment methods,
+such as surgeries, must be approved by the health insurance company.
+And that's where the problem lies, because the health insurance
+company is not independent. After all, it wants to make a profit.
+
+With the "Preferred Provider Organizations (PPO)" model, which we
+currently have, I can, in principle, visit any doctor. However, I
+save a lot of money if I go to a doctor who is contracted with my
+health insurance. Generally, doctors and hospitals enter into
+contracts with various health insurance companies. But how do I know
+if my doctor is part of the network? The major health insurance
+companies have an online directory of doctors and hospitals that you
+can query. This can also be done by phone, but it usually takes more
+time because you have to navigate through an annoying phone menu
+first.
+
+Even if I choose a contracted doctor, a practice fee (called
+"co-payment" in America) is due at each doctor's visit, unlike in
+Germany where it is once per quarter. We currently pay $15 (varies
+from insurance company to insurance company) per visit. Additionally,
+there is an annual deductible, which in our case is $250 per person,
+and it becomes due when we need X-rays, surgeries, and the like.
+After meeting the deductible, our insurance covers 90% in these
+cases. We pay 10%. Paying 10% of $1,000 is manageable, but 10% of
+$100,000 is not so easy, which is why the plan limits how much we
+have to pay out of pocket per year ("out-of-pocket maximum"): $1,250
+per person in our case. However, the practice fee does not count
+towards this.
+
+To illustrate, here's a small example. Let's assume someone gets sick
+and the hospital bill amounts to a total of $10,000. With the Yahoo!
+plan we have, we pay a $250 deductible, leaving $9,750. 10%
+co-insurance of that is $975, so we would have to pay $250 + $975 =
+$1,225 ourselves, as the maximum ($1,250) has not yet been reached.
+
+The "Point of Service (POS)" model, on the other hand, incorporates
+the family doctor as a coordinator, meaning the patient commits to
+always visiting their family doctor first, who will refer them to
+specialists, whether affiliated with the health insurance or not, if
+necessary. Here too, the patient incurs lower costs if the family
+doctor refers them to experts who are contracted with their own
+health insurance ("in network"). To my knowledge, the family doctor
+model is also making a comeback in Germany. The idea is that the
+family doctor holds the reins, knows their patient, and thus prevents
+unnecessary specialist examinations.
+
+In the third variant, the "Health Maintenance Organizations (HMO),"
+the patient is only allowed to visit contracted doctors or hospitals;
+otherwise, the health insurance does not pay. Here too, the family
+doctor usually coordinates the upcoming treatments. In its purest
+form, the HMO even goes so far as the health insurance owning its own
+hospitals and the doctors being employees of the health insurance, as
+is the case with Kaiser Permanente. Everything is under one roof. If
+the patient needs a specialist or lab tests, they are referred
+internally. Although the choice of doctor is limited, the insurance
+covers 100% of all costs after a small co-payment. Many patients love
+this model because it is quite simple in terms of billing.
+
+Another model, the "Self-Insured Health Plans," is becoming
+increasingly popular, especially among larger companies. The company
+pays money into its own fund and covers the costs for its employees
+in case of illness.
+
+The latest trend is the so-called "Health Funds," which various
+health insurances offer in conjunction with employers. The company
+pays the health insurance a certain amount per year for the
+respective employee, which the employee uses for incurred costs in
+case of illness. If they do not use up the fund, the money is carried
+over to the new year. Once the annual sum is spent, the employee
+initially pays a higher deductible before the regular insurance
+covers further costs. The idea behind this is: The patient acts as
+their own health manager, deciding when and for what they spend money
+at the doctor or pharmacy. We could also choose this plan starting in
+2005: Yahoo! would pay $1125 into the fund for both of us. The annual
+deductible would be $750 for the two of us after the money is used
+up.
+
+In America, employees decide again at the end of each year which
+health insurance model they will choose for the coming year. This is
+also because something always changes. It should be mentioned in
+passing that dental or eye doctor and glasses insurances are usually
+separate from the health insurance.
+
+But what does the poor soul do who loses their job and thus their
+health insurance? The COBRA law (= Consolidated Omnibus Budget
+Reconciliation Act) comes to the rescue in the USA. The law states
+that the employee can voluntarily remain insured in the company group
+insurance for 18 months if they leave the company (even if they
+resign themselves), as long as the company insurance covers 20 or
+more employees. However, they then pay the premium out of their own
+pocket. AOL's health insurance (without dental and glasses insurance)
+would have cost us both $643 monthly under COBRA.
+
+Completing COBRA is not only sensible to be covered in case of
+illness, but also to avoid a gap in insurance coverage, for example,
+if you take a creative break between two jobs. This protects you from
+being burdened with so-called "pre-existing conditions."
+"Pre-existing conditions" include all illnesses that were diagnosed
+or treated six months before joining a new health insurance plan,
+which can result in no treatment being paid for these illnesses for
+the first 6-12 months.
+
+<pic images/walgreens.ps Pharmacy integrated into a drugstore:
+Walgreens>
+
+The pharmacies located in supermarket chains like "Safeway" or
+drugstores like "Walgreens" and "Rite Aid" surprised me on my first
+trip to America. Traditional pharmacies, as they are known in
+Germany, are now on the verge of extinction in America.
+
+Every tourist is amazed by the 100-tablet pack of aspirin on the
+supermarket shelf, which the customer can even get at a very
+reasonable price. However, I boldly claim that the stuff is not as
+strong as in Germany, because the headache sufferer usually has to
+swallow two tablets for it to work. Prescription medications have
+completely astronomical prices in America.
+
+The pharmaceutical industry takes advantage of the living with the
+argument that the high profits are used to develop and test new
+medications. Oh, really! How important it is, then, that one's health
+insurance covers prescription medications. To save money, health
+insurance usually requires the doctor to prescribe so-called
+"generics" whenever available. This simply means that the patient
+does not purchase the medication under the original brand name of the
+manufacturing company, but rather a non-branded product that contains
+the same chemical ingredients but costs only a fraction.
+
+<pic images/generics.ps (#1) Generics" are non-name brand medications
+that can be refilled.>
+
+The drugstore chain "Walgreens" dispenses these "generics" in
+"stylish" orange plastic containers (see Figure (#1)). No original
+packaging or anything of that luxury. You will also search in vain
+for the classic, neatly folded package insert. However, Walgreens
+does include a similar, self-made leaflet that describes the
+composition of the medication, how to take it, what side effects it
+may cause, and how much the insurance paid for the medication.
+
+A prescription fee also needs to be paid. The amount varies depending
+on the health insurance provider and the specific plan you have
+chosen. With our new health insurance, Aetna, we pay 5 dollars out of
+pocket for generics and 15 dollars for brand-name drugs, which we
+only receive if there is no corresponding generic available.
+
+I find the option of "refill" (refilling) quite practical and
+consumer-friendly. The doctor then writes on the prescription how
+many times a patient can refill the medication without having to
+present a new prescription. This saves annoying doctor visits just
+because the medication you take regularly is running low. 
+
+Finally, I can't help but make a few critical remarks. I am shocked
+every time by how the doctor's offices look here compared to those in
+Germany. There's nothing like stylish furniture and tasteful waiting
+rooms. The treatment rooms are often tiny spaces where only the
+doctor and the patient can fit--scratched and dented medical cabinets
+are not uncommon. I admit that a designer desk or the size of the
+waiting room doesn't say anything about the quality of the treatment.
+But the height of tastelessness is represented by the fabric or paper
+gowns that look like hospital nightgowns, which the patient puts on
+so they don't have to face the doctor completely naked. Long live
+American prudery. I'm sure I've already been labeled as a difficult
+patient by some American doctors: "Oh, here she comes again, the one
+who doesn't want antibiotics and hates the 'modesty gown.'
+
+@Z: The record of the month
+
+<em>Michael</em> 
+Man, there's a lot of complaining today! To calm everyone down, we'll
+put on a record with some feel-good music. Lalalala ...
+
+<pic images/smile.ps Smile," the new album by Beach Boys' uncle Brian
+Wilson>
+
+What do Manfred Deix (the Austrian illustrator) and I have in common?
+We are both outspoken fans of the Californian group "The Beach Boys".
+Yes, now it's out! I am a Beach Boys fan! I don't care!
+
+The common opinion is that the Beach Boys only produced trivial
+music. However, I claim that the Beach Boys are one of the most
+brilliant bands of all time. Behind all the
+summer-sun-fast-cars/girls facade is the genius mind of Brian Wilson,
+who not only composed catchy tunes but also complex melodies that no
+one else could come up with.
+
+The man wavers between genius and madness. The album "Pet Sounds"
+from 1966 is just on the edge of that. All aspiring psychiatrists
+should listen to it. After that, the good Brian occasionally drifted
+off completely. I once saw a documentary that reported he simply
+didn't get out of bed for months(!). At times, reporters would come
+to his bed, and Brian Wilson would give interviews while lying
+comfortably. By the way, it was a very nice and comfortable bed; I
+remember nodding in agreement while watching the documentary.
+
+I even once bought the so-called "The Pet Sounds Sessions" double CD
+for a fortune, which features around 60 ancient studio recordings.
+Sometimes a song is played for 10 seconds, someone messes up, and
+everyone laughs and stops.
+
+In any case, after decades of inactivity, Brian Wilson has finally
+released a definitive album: "Smile." A masterpiece. You have to
+listen to it about ten times to catch all the nuances, and then
+you'll be captivated. Getting up was worth it.
+
+Greetings from bed
+
+The translation of "Michael und Angelika" to English is "Michael and
+Angelika.
+
