@@ -12,55 +12,46 @@ from my backpack and started taking pictures.
 
 <pic images/southcity1.ps Graffiti on the railway line, South San Francisco>
 
-TODO
-
 The mix of unadorned industry and graffiti has always fascinated me,
 as is well known. I fondly remember my first visit to New York City
 in the mid-eighties when I got my hands on this book about subway
 graffiti that never let me go. That was always my dream of America.
 
-<pic images/southcity2.ps Spedition, South San Francisco" translates
-to "Freight Forwarding, South San Francisco" in English. "Spedition"
-is a German term for freight forwarding or shipping services.>
+<pic images/southcity2.ps Freight Company, South San Francisco>
 
-In the South City, mainly people who cannot afford the rents in the
-city live. Anyone who reads Bukowski's "Post Office" can imagine what
+South San Francisco is mainly home to people who cannot afford the rents in the
+city. Anyone who reads Bukowski's "Post Office" can imagine what
 it means to work in low-wage jobs in slaughterhouses and shipping
 companies in South City.
 
-<pic images/southcity3.ps The translation of "Industrieanlage, South
-San Francisco" to English is "Industrial Plant, South San Francisco.>
+<pic images/southcity3.ps Industrial Plant, South San Francisco.>
 
-But the American Dream is dreamed here just like everywhere else: The
+But the American Dream is alive here just like everywhere else: The
 predominantly Asian residents work tirelessly to send their children
 to good schools and perhaps one day move to a better neighborhood.
 
-SÃ¼dstadt verzÃ¤ll nix" is, of course, a title by the band BAP from
+"South City, Don't Tell Anything" is, of course, a title by the band BAP from
 Cologne, who once played in the small Barbara Hall in Augsburg in
 1984 in front of about 400 people. And even today, I still enjoy
 listening to Mr. Niedecken's compositions. Although they no longer
 blow me away musically, according to my theory, the lyrics in German
-are so powerful that they make up 80% of a song. Ah, when the album
+are so powerful that they make up 80% of a song. Ah, and when their album
 "Amerika" is playing, we get quite sentimental as we look at the
-skyline of San Francisco.
+skyline of San Francisco from our place.
 
-<pic images/southcity5.ps Schrottplatz" is German for "junkyard" or
-"scrapyard." So, "Schrottplatz, South San Francisco" translates to
-"Junkyard, South San Francisco" in English.>
+<pic images/southcity5.ps Junkyard, South San Francisco">
 
-@Z: Obrigkeitsablehnung
+@Z: Refusing to Obey
 
-I have already mentioned that the American gentleman does not like to
+<em>Michael</em> 
+I've already mentioned previously that Americans do not like to
 adhere to arbitrary rules. As a typical example, I always mention the
 white lines painted on the baseball field, which designate rectangles
-about two by five meters in size for the coaching areas. Everyone,
-and I really mean everyone,
-<em>jeder</em> 
-The translation to English is: "The coach stands one meter next to
+about two by five meters in size for the coaching areas. Every,
+and I really mean every single coach can been found at least one meter outside
 the box. If I were a baseball official, I would take strong action!
 
-<pic images/bbf.ps The baseball coaches are blatantly standing
-outside the permitted area.>
+<pic images/bbf.ps Baseball coaches are blatantly standing outside the permitted area.>
 
 However, this does not mean that there is a lack of bureaucracy: In
 institutions like the Department of Motor Vehicles (DMV), the
@@ -78,7 +69,7 @@ in advance but don't call the day before to reconfirm, no one will
 expect you to show up. If you then actually arrive as promised
 without reconfirming, there won't be any beer in the fridge.
 
-When AOL bought Netscape in 2000 and we moved onto the campus, two
+When AOL bought Netscape in 2000 and our workforce moved onto the campus, two
 worlds collided: At Netscape, it was common to arrive 15 minutes late
 to meetings. Sometimes it happened that I was sitting alone in the
 meeting room, discussing everything with the counterparts in Dulles
@@ -87,8 +78,9 @@ time the first Netscape people trickled in. Naturally, I made a point
 of jokingly saying, "Everything's already done, meeting over," and
 marching back to my cubicle. However, it didn't help much.
 
-@Z: How to change jobs
+@Z: How to Change Jobs
 
+<em>Michael</em> 
 After seven years at AOL, I thought to myself: If I don't quit now,
 I'll have to stay at the company until retirement. Now, the selection
 of successful companies in Silicon Valley is quite large, and the job
@@ -103,22 +95,22 @@ reached an agreement, and shortly thereafter, I signed the contract.
 How do you resign from an American company? Some people jokingly
 claim that I stayed at AOL for so long because I couldn't find the
 resignation form, but that's obviously not true. You simply tell your
-manager, 'I'll be here for only two more weeks.' This is called
+manager, "I'll be here for only two more weeks." This is called
 giving 'notice,' and to be on the safe side, you also send an email
 to the HR department with the following wording:
 
-The purpose of this email is to inform you of my resignation from my
+"The purpose of this email is to inform you of my resignation from my
 current position as [position] at [company]. My last day of work will
-be [mm/dd/yyyy]. I have accepted another position.
+be [mm/dd/yyyy]. I have accepted another position."
 
-That's it, two weeks later you're gone! Of course, there was still a
-lot to organize: the projects had to be handed over, a "brain dump"
+That's it, two weeks later, you're gone! Of course, there was still a
+lot to organize: projects had to be handed over, a "brain dump"
 had to be conducted for the colleagues, and all sorts of office tasks
-had to be completed. But, believe it or not, it somehow works out. It
+had to be completed. But, believe it or not, it somehow worked out. It
 wasn't easy, of course, after such a long time, but at some point,
 you have to draw the line.
 
-When applying to a company in America, it is easiest if you know
+When applying at a company in the USA, it is easiest if you know
 someone who already works there. Due to the massive layoffs at AOL in
 recent years, former AOL employees are now everywhere in Silicon
 Valley: At eBay, PayPal, Yahoo!, Amazon, Google, Adobe, and many
@@ -128,7 +120,7 @@ friendships have developed, and we still meet at fairly regular
 intervals. This is actually quite unusual in America, where work
 contacts are very superficial and it's rare to find people who at
 least go to the pub together in the evening. But we former AOL
-employees have gone through thick and thin together, which creates a
+employees have gone through thick and thin together, which created a
 strong bond.
 
 Diplomas and work certificates are much less valued in America than
@@ -142,14 +134,13 @@ For this reason, one should never include a certificate with a cover
 letter. Nor should you include a passport photo or date of birth, in
 order to prevent age and racial discrimination. Instead, you send a
 "resume" as in
-<LINK>http://perlmeister.com/resume.html|perlmeister.com/resume.html<
-/LINK>
-..and then prepares for a phone call that typically lasts an hour and
+<LINK>http://perlmeister.com/resume.html|perlmeister.com/resume.html</LINK>
+and then prepare for a phone call that typically goes on for an hour and
 is conducted by the hiring manager, who assesses the candidate's
-skills. If that goes well, the candidate is invited for an interview
+skills. If that goes well, the candidate is invited for an onsite interview
 and speaks with about 4-5 people in the first round, each for
 approximately 30-45 minutes. Further rounds may follow (I've heard
-that at Google, there are more than five).
+that at Google, some folks went troug more than five).
 
 There are strict regulations regarding what the interviewer is
 allowed to ask in a job interview and what is not permitted.
@@ -162,7 +153,7 @@ already works there gives a recommendation. In America, personal
 references are highly valued. Many companies pay $1,000, $2,000, and
 even more if an employee suggests a candidate who is then hired.
 
-In the application, you also provide about three "references," people
+On the application, you also provide about three "references," people
 who will put in a good word for you. And believe it or not, the
 hiring managers usually do call these people and ask if they think
 the candidate is any good.
@@ -173,6 +164,8 @@ authenticity of a diploma certificate, but simply calls the
 university to ask if the candidate actually studied there. He also
 calls the listed previous employers to check if the candidate really
 worked there.
+
+TODO
 
 @Z: Yahoo!
 
