@@ -285,12 +285,10 @@ definitely worth the extra cost.
 
 <pic images/lr-high-1.ps Low riders jump sideways at the push of a button.>
 
-TODO
-
 <em>Michael</em> 
 One of the most exciting details of our nearly 30-year residence in
 the city of San Francisco is still the fact that I only have to walk
-or bike 500 meters down the hill from our neighborhood, Noe Valley,
+or bike half a mile down the hill from our neighborhood, Noe Valley,
 and I find myself in the "Mission" district, or in other words, the
 chaos of Mexico City.
 
@@ -299,10 +297,9 @@ chaos of Mexico City.
 In 1997, when we moved here, it wasn't entirely safe, because there
 were occasional shootings between rival gangs. However, that didn't
 stop me back then from exploring the neighborhood with a friend even
-after nightfall, although with trembling knees.
+after nightfall, although with my knees shaking.
 
-<pic images/lr-wide.ps The structural engineering of the
-constructions is partly spectacular.>
+<pic images/lr-wide.ps The hydrolics engineering in these cars is quite spectacular.>
 
 Nowadays, there is no longer any danger, but the foreignness remains:
 the bustling commotion, the chatter in Spanish everywhere, the
@@ -310,65 +307,50 @@ somewhat casual attitude towards law and order. People might sell
 stolen goods on the sidewalk or grill sausages without a permit from
 the city; things aren't as strict down there.
 
-<pic images/lr-one.ps Member of the vintage car club visibly enjoys
-the parade drive.>
+<pic images/lr-one.ps Member of the vintage car club visibly enjoys the parade drive.>
 
-The Latin American residents of the neighborhood also maintain their
+Latin American residents of the Mission neighborhood also maintain their
 own traditions, such as the holiday on May 5th (Cinco de Mayo) or the
 "Carnival" (not unlike the German Fasching), but also in September,
 the parade of the so-called "Low Riders," souped-up, often lowered
-vintage cars that can often hop at the push of a button thanks to
+vintage cars that can sometimes jump at the push of a button thanks to
 adventurous hydraulic constructions.
 
-<pic images/lr-bounce.ps Whoever drives crookedly draws attention to
-themselves.>
+<pic images/lr-bounce.ps All eyes are on the hydrolic suspension in this car.>
 
-The models of classic American brands, mostly lovingly maintained by
+The models of classic American brands, lovingly maintained by
 enthusiasts over 50 and cherished in car clubs, can be admired by the
 audience at the roadside during the so-called "Low Rider Parade" when
 their owners, with pride-swollen chests, slowly drive down "Mission
-Street.
+Street."
 
 <pic images/lr-two.ps Tough guys, almost like in Breaking Bad.>
 
-The participants view their adventurous car constructions as artworks
+The participants view their souped-up cars as works of art
 in the venerable Latino tradition. Many years ago, the city of San
 Francisco even temporarily banned the so-called "cruising" on Mission
 Street, but in protest, car enthusiasts formed the "San Francisco
 Lowrider Council" in 1981 to legalize and promote the showcasing of
 these artworks. And in 2024, our Governor Gavin Newsom even signed a
 decree stating that the state of California officially recognizes
-cruising.
-<LINK>https://www.cbsnews.com/news/california-lowriders-free-to-cruis
-e-after-bans-come-to-an-end/|The text translates to: "should never be
-banned again | Anti-cruise ban by the governor.</LINK>
-.
+cruising by stating it <LINK>https://www.cbsnews.com/news/california-lowriders-free-to-cruise-after-bans-come-to-an-end/|should never be banned again| Anti-Anti-cruise-ban by the governor</LINK>.
 
 <pic images/lr-truck.ps Even pickup trucks are lowered.>
 
-A German TÃV employee would naturally have a fit of hyperventilation
-at such modified vehicles, but Californians are not familiar with
-such vehicle inspections; only the emissions are regularly checked,
-and even those are exempt for classic cars. I attended the event as a
+A German TÜV car inspection employee would naturally have a fit of hyperventilation
+at such modified vehicles, but Californians are entirely unfamiliar with
+the concept of such regular safety checks; only emissions are regularly checked here,
+and classic cars are even exempt from these. I attended the event as a
 roving photojournalist for this issue, and it went off peacefully,
-just like in previous years. It was even...
-It seems like you're referring to a YouTube video link and some text
-in German. Here's the translation of the German text to English:
+just like in previous years. It was even 
+<LINK>broadcasted live on Youtube|https://www.youtube.com/watch?v=l2qavq3mjbo|Low Riders 2025 on Youtube</LINK>.
+Unbelievable, times live in!
 
-"live auf Youtube" translates to "live on YouTube."
+@Z: Buyer Found for Our Apartment Building
 
-"Low-Riders Youtube" remains the same as it appears to be a name or
-title.
+<pic images/sold.ps Our apartment building was sold for 8.4 million dollars.>
 
-If you need more specific information about the video, please provide
-additional context or details.
-The translation to English is: "Unbelievable, what times we are
-living in!
-
-@Z: The translation to English is: "Buyer found for our rental house.
-
-<pic images/sold.ps Our rental house was sold for 8.4 million
-dollars.>
+TODO
 
 <em>Angelika</em> 
 We were quite surprised at how quickly a buyer was finally found for
