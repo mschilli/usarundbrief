@@ -1,6 +1,6 @@
 San Francisco, 11-28-2025
 
-@Z: Things are looking up again in San Francisco
+@Z: Things Are Looking Up Again In San Francisco
 
 <pic images/lurie-nyt.ps Even the well-known newspaper, The New York Times, dedicated an article to Mayor Lurie.>
 
@@ -62,7 +62,7 @@ the streets, new ideas are emerging, and many residents are once
 again looking at their city with optimism. And as we know, such
 optimism is a bit contagious.
 
-@Z: Delivery services and the Grubhub idlers
+@Z: Delivery Services and Grubhub Lurkers
 
 <pic images/gh-beefy.ps Delivery service moped men are racing all over the city.>
 
@@ -141,7 +141,7 @@ my face. In all other cases, I would prefer to pick up the meal myself, or cook
 something nice, or we would just go to a restaurant. But, hey, to
 each their own, not the same for everyone!
 
-@Z: "Government temporarily closed"
+@Z: "Government Temporarily Closed"
 
 <pic images/budget-crisis.ps The government cannot find a budget compromise and shuts down.>
 
