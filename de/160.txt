@@ -2,12 +2,12 @@ San Francisco, den 29.11.2025
 
 @Z: Es geht wieder aufwärts in San Francisco
 
-<pic images/lurie-nyt.ps Sogar die bekannte Tageszeitung New York Times widmete Bürgermeister Lurie einen Artikel>
+<pic images/lurie-nyt.ps Sogar die bekannte Tageszeitung New York Times widmete Bürgermeister Lurie einen Artikel.>
 
 <em>Angelika</em>
 Ich bin ja ein großer Fan unseres neuen Bürgermeisters Daniel Lurie. Wie
 aufmerksame Rundbriefleser wissen, gewann er als Außenseiter im November
-überrraschenderweise die Stadtwahl (<RBLINK>20241031#2</RBLINK>).
+überrraschenderweise die Stadtwahl (<RBLINK>20241031#2</RBLINK>),
 und ist nun schon fast ein Jahr im Amt.
 Mittlerweile hat man ja kaum noch Erwartungen an Politiker, aber ich muss
 sagen, der Mann macht das bis jetzt richtig gut. Mit seiner ruhigen, besonnenen
@@ -224,9 +224,10 @@ wollte riskieren, den Zorn der Bürger komplett auf sich zu ziehen.
 Einige Staatsangestellte reihten sich bei gemeinnützigen
 Einrichtungen in die Ausgabeschlange für Lebensmittel ein, und als
 diese Bilder durch die Presse gingen, erhöhte sich der Druck.
-Dann kam das Hin und Her bezüglich der Essensmarken, genannt
+Dann kam das Hin und Her bezüglich der Lebensmittelhilfen, genannt
 SNAP (Supplement Nutrition Assistance Program), für Menschen am
-Existenzminimum. Erst wurden die Zahlungen eingestellt, dann auf Druck wieder
+Existenzminimum. Erst wurden die Zahlungen eingestellt, dann auf Druck 
+teilweise wieder
 freigegeben. Der vorläufige Haushalt ist bis Ende
 Januar 2026 in Kraft und dann muss schon wieder abgestimmt werden.
 
@@ -289,7 +290,7 @@ anders ausgedrückt im Tohuwabohu von Mexico City.
 <pic images/lr-turn.ps Hurra, die Parade beginnt!>
 
 Anno 1997, als wir hier hergezogen sind, war das nicht ganz ungefährlich, denn
-es gab dort schon hin und wieder Schießereien zwischen rivalisierenden Gangs,
+es gab dort schon hin und wieder Schieß\-ereien zwischen rivalisierenden Gangs,
 aber das hat mich auch damals nicht davon abgehalten, mit einem Kumpel den
 Stadtteil auch nach Einbruch der Dunkelheit zu erkunden, wenn auch mit
 schlotternden Knien.
@@ -498,7 +499,7 @@ dem Radweg entgegen.  Ich wäre fast aus dem Sattel gefallen vor Schreck.
 
 Und auch die Kneipen und Läden entlang der Valencia Street schlugen Alarm.
 Angeblich kamen viel weniger Kunden, wohl wegen der gestrichenen Parkplätze.
-Ich persönlich haben den Luxusradweg in der Mitte zwar geschätzt, aber beim
+Ich persönlich habe den Luxusradweg in der Mitte zwar geschätzt, aber beim
 Abbiegen musste ich immer aufpassen wie ein Haftelmacher, damit mich kein Auto über
 den Haufen gefahren hat. Außerdem bogen einige Auto- und Scooter-Fahrer trotz
 des Verbots links ab und es kam zu
