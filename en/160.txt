@@ -145,10 +145,8 @@ each their own, not the same for everyone!
 
 <pic images/budget-crisis.ps The government cannot find a budget compromise and shuts down.>
 
-TODO
-
 <em>Angelika</em> 
-Since October 1st, it has been a bit like a banana republic here. The
+Since October 1st, I've sometimes felt like living in a banana republic. The
 ladies and gentlemen politicians in Washington couldn't agree on a
 new federal budget in September and therefore went home in a huff,
 while we citizens were left in the lurch. Without an approved budget,
@@ -156,20 +154,18 @@ federal spending was frozen, and the US administration was operating
 on a low flame. Offices and agencies closed or offered only severely
 limited services.
 
-<pic images/budget-airport-1.ps At the airports, X% of the flights
-were canceled.>
+<pic images/budget-airport-1.ps At the airports, many flights were canceled.>
 
 Many government employees were sent home without pay. Others,
 responsible for essential services or security--such as air traffic
-controllers--had to continue working, albeit without a salary.
+controllers--had to continue working, albeit without pay.
 Naturally, this greatly upset many, and sick leave reports increased
-sharply. Some even sought side jobs, such as package delivery for
+sharply. Some even sought side jobs, such as package delivery drivers for
 Amazon. This is because many people in the USA have little savings,
-live paycheck to paycheck, and their expenses remain the same,
+live paycheck to paycheck, but their expenses remain the same,
 regardless of whether the government shuts down or not.
 
-<pic images/budget-parks.ps National parks had to close during the
-shutdown.>
+<pic images/budget-parks.ps National parks had to close during the shutdown.>
 
 How did this so-called "Government Shutdown" come about? The U.S.
 budget must be passed by both the House of Representatives and the
@@ -186,39 +182,37 @@ officially set to expire at the start of the new year, which would
 mean significantly higher premiums for many citizens who are insured
 through Obamacare.
 
-<pic images/budget-discussion.ps The members of Congress could not
+<pic images/budget-discussion.ps Members of Congress could not
 agree on a budget.>
 
-This brings me back to my series "What is difficult in the American
-political system and urgently needs to be changed?" In many other
-democracies, the old budget remains valid until a new one is passed
-to ensure stability. The legal basis for the entire drama in the USA
-is the so-called Antideficiency Act. This law, which dates back to
-the 19th century, prohibits federal agencies from spending money or
-paying employees if Congress has not passed a budget. However, it was
-not strictly enforced until 1980, and expenditures continued to be
-paid. President Jimmy Carter's Attorney General put an end to this
-practice and decreed: Without a budget, the money flow is cut off.
-Since that time, "government shutdowns" have occurred repeatedly.
-However, they have become more frequent and last longer in recent
-times because, in times when no one can agree or make compromises,
-they are used as a political pressure tool.
+This brings me back to my series "What is difficult in the American political
+system and urgently needs to be changed?" In many other democracies, the old
+budget remains valid until a new one is passed to ensure stability. The legal
+basis for the entire drama in the USA is the so-called Antideficiency Act. This
+law, which dates back to the 19th century, prohibits federal agencies from
+spending money or paying employees if Congress has not passed a budget.
+However, it was not strictly enforced until 1980, and expenditures continued to
+be paid regardless. However, then-President Jimmy Carter's Attorney General put
+an end to this practice and decreed: Without a budget, the money flow is cut
+off.  Since that time, "government shutdowns" have occurred repeatedly.
+However, they have become more frequent and last longer in recent times
+because, in times when no one can agree or make compromises, they are used as a
+political pressure tool.
 
 In the population, it is understandably not well-received when their
 own government no longer works for the citizens, even though the
 members of Congress and Senators are paid with their tax dollars.
 Often, the party considered to be the driving force behind the
-"shutdown" is punished in later elections. By the way, the members of
+"shutdown" is punished in later elections. By the way, members of
 Congress and Senators continue to receive their salaries, as
 stipulated in Article 1, Section 6 of the U.S. Constitution. It's no
 wonder that some people wonder why there aren't larger protests.
 Since 2019, government employees have at least been guaranteed back
 pay for their unpaid salaries once the shutdown is over.
 
-<pic images/budget-crissy-2.ps The park "Crissy Fields" in San
-Francisco is federally owned and was closed during the shutdown.>
+<pic images/budget-crissy-2.ps The park "Crissy Fields" in San Francisco is federally owned and was closed during the shutdown.>
 
-After 35 days, the voices of eight Democrats helped to pass the
+After 35 days of shutdown, the votes of eight Democrats helped to pass the
 provisional budget, although without the assurance of Obamacare
 subsidies. By the end, air travel was already severely affected, as
 many flights had to be canceled due to a lack of air traffic
@@ -229,70 +223,57 @@ flies home to see their family. It is the most sacred of American
 holidays, and no one wanted to risk incurring the full wrath of the
 citizens.
 
-<pic images/budget-snap.ps Not even SNAP food stamps for the needy
-were issued.>
+<pic images/budget-snap.ps Not even SNAP food stamps for the needy were issued.>
 
-Some government employees lined up at charitable organizations for
-food distribution, and when these images circulated in the press, the
-pressure increased. Then there was the back and forth regarding food
-stamps, called SNAP (Supplemental Nutrition Assistance Program), for
-people living at the subsistence level. Initially, the payments were
-halted, but they were reinstated under pressure. The provisional
-budget is in effect until the end of January 2026, and then another
-vote will be necessary.
+Some government employees lined up at charitable organizations to help with
+food distribution, and when these images circulated in the press, the pressure
+increased. Then there was the back and forth regarding food stamps, called SNAP
+(Supplemental Nutrition Assistance Program), for people living at the
+subsistence level. Initially, the payments were halted, but they were
+reinstated under pressure. Now, the provisional budget is going to be in effect
+until the end of January 2026, and then another vote will be necessary.
 
-@Z: King of the Asian Markets: "H Mart
+@Z: King of the Asian Markets: "H Mart"
 
-<pic images/hm-entrance.ps The racing newsletter reporter in front of
-the H-Mart in San Francisco.>
+<pic images/hm-entrance.ps The intrepid newsletter reporter in front of the H-Mart in San Francisco.>
 
-<em>Michael</em> 
-If there has ever been a comparable hysteria about a new store in San
-Francisco as there was in 2000 about the then-new Ikea in nearby
-Emeryville...
-<RBLINK>20000801#1</RBLINK>
-), then it was the hype around the branch of the Korean food giant "H
-Mart," which opened its doors in 2024 in the Ingleside neighborhood
-on Alemany Boulevard.
+<em>Michael</em> If there has ever been a comparable hysteria about a new store
+in San Francisco as there was back in 2000 about the then-new Ikea in nearby
+Emeryville (<RBLINK>20000801#1</RBLINK>), then it was the hype around the
+branch of the Korean food giant "H Mart," which opened its doors in 2024 in the
+Ingleside neighborhood on Alemany Boulevard.
 
 <pic images/hm-shelf.ps Rich selection of Korean specialties.>
 
 There are already several excellent supermarkets for Asian groceries
 in our city, which is not exactly lacking in international gourmets,
-but the chain "H Mart" is like a kind of KDW for Koreans, and it
-often holds childhood memories, as described in the book.
-<LINK>https://www.amazon.com/Crying-Mart-Memoir-Michelle-Zauner-ebook
-/dp/B08DMXF7ZZ|Crying In H Mart" is already in English. It is the
-title of a memoir by Michelle Zauner, which explores themes of
-family, identity, and grief, centered around her experiences in the
-Korean-American supermarket chain, H Mart.</LINK>
-The translation of the German sentence to English is: "described,
+but the chain "H Mart" is like the Berlin-based department store KDW, only
+for Koreans, and it
+often holds childhood memories, as described in the book
+<LINK>https://www.amazon.com/Crying-Mart-Memoir-Michelle-Zauner-ebook /dp/B08DMXF7ZZ|Crying In H Mart"</LINK>,
 which I have read and found to be okay, but I do not want to praise
-it highly in front of a million audience here.
+it highly in front of the audience on this popular forum.
 
-<pic images/hm-crying.ps Even books have already been written about H
-Mart.>
+<pic images/hm-crying.ps Even books have already been written about H Mart.>
 
 Now, H Mart is Korean, and accordingly, the store carries about 47
 different types of kimchi (spicy Korean fermented cabbage) and other
 delicacies like bulgogi (thinly sliced beef in a spicy sauce) or
 chicken feet marinated in barbecue sauce.
 
-<pic images/hm-chicken-feet.ps Specialty at H Mart: Pickled chicken
-feet.>
+<pic images/hm-chicken-feet.ps Specialty at H Mart: Marinated chicken feet.>
 
 But the range also includes fresh Japanese udon noodles or canned
 coconut milk or spicy curry pastes, which I like to use for my
-now-legendary red Thai curry. Or a fish counter, or Japanese
+now-legendary red Thai curry. It also has a fish counter, or Japanese
 mushrooms, or other hard-to-find ingredients like lemongrass or Thai
 basil. Simply everything you need to cook Asian dishes at home,
 perfect!
 
-<pic images/hm-blue.ps Blue-tinted chickens are considered a
-delicacy.>
+<pic images/hm-blue.ps Blue-tinted chickens are considered a delicacy.>
 
-The selection of sushi also puts most stores that offer supermarket
-sushi in the shade. Whether it's monkfish liver, unagi (cooked eel in
+The selection of sushi also makes most stores that offer supermarket
+sushi look like 2nd class. Whether it's monkfish liver, unagi (cooked eel in
 teriyaki sauce), or uni (sea urchin), everything is very well made. I
 visit the store about once a month and have now become quite familiar
 with the aisles of more exotic ingredients. The store is spotless and
@@ -302,8 +283,9 @@ definitely worth the extra cost.
 
 @Z: Low Rider Parade in the Mission District
 
-<pic images/lr-high-1.ps Low riders jump sideways at the push of a
-button.>
+<pic images/lr-high-1.ps Low riders jump sideways at the push of a button.>
+
+TODO
 
 <em>Michael</em> 
 One of the most exciting details of our nearly 30-year residence in
