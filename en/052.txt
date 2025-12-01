@@ -377,11 +377,9 @@ U.S. system, however, is that companies (except in Hawaii) are
 completely free to decide whether and under what conditions they
 offer health insurance to their employees.
 
-TODO
-
-This is how it happens that companies cover the costs for health
+This is how it happens that companies cover the cost for health
 insurance entirely, partially, or not at all. Yahoo!, for example,
-has been financing everything for both of us up to now. Starting in
+has been paying it all for both of us up to now. Starting in
 2005, Michael and I will pay $20 a month together, and Yahoo! will
 sponsor the rest of the premium. For comparison, our monthly
 contribution at AOL was $180. At Yahoo!, we can choose between two
@@ -389,17 +387,16 @@ health insurance companies, and with one of the companies, we can
 choose from three different plans that differ in terms of
 co-payments, deductibles, choice of doctors, etc.
 
-In principle, the better the company, the better the options and
-conditions. Since companies decide which health insurance and models
+In general, the better the company, the better the health insurance options and
+conditions. Since companies pick the health insurance and models
 they choose, changing jobs usually means that the employee has to
 switch health insurance, which can result in the doctor they used to
 visit no longer being affiliated with the new health insurance. This
-is unlike in Germany, where the employee decides which health
-insurance they want to be in and retains it even when they change
+is different in Germany, where the employee decides which health
+insurance they want and retains it even when they change
 jobs.
 
-<pic images/mac.ps McDonald's employees do not have health insurance,
-and hotel employees often do not either.>
+<pic images/mac.ps McDonald's employees do not have health insurance, and hotel employees often do not either.>
 
 By the way, on November 2, Californians once again voted on several
 propositions. Proposition 72 aimed to require companies in California
@@ -417,9 +414,9 @@ expensive treatment methods.
 
 Then there's the fact that, as is well known, Americans like to go to
 court. Doctors here fear nothing more than overlooking something and
-getting hit with a lawsuit for damages. That's why they take out
+getting hit with a lawsuit for damages. That's why they pay for
 expensive insurance policies. Naturally, the money has to be recouped
-from somewhere.
+somehow.
 
 I also think that the fear of making mistakes is associated with
 doctors here strictly following a set pattern. If the patient
@@ -434,12 +431,12 @@ America, the medical profession swears the Hippocratic Oath and does
 not let anyone bleed to death or die. The so-called "Emergency Rooms"
 (comparable to the emergency admissions in German hospitals) are
 obligated to treat anyone who "arrives with their head under their
-arm.
+arm."
 
 Many uninsured individuals go to the emergency rooms with
 non-life-threatening conditions because they don't know where else to
 go, which, of course, ends up being more expensive for the public
-than a doctor's visit in a practice. Naturally, even patients without
+than a doctor's visit in an office. Naturally, even patients without
 insurance are billed. However, where there is nothing, nothing can be
 collected. Therefore, the bills for the insured are slightly
 increased to compensate for the loss.
@@ -458,7 +455,7 @@ of services and patient co-payments, a large number of people are
 needed to oversee them. When you make an appointment with a doctor,
 the receptionist not only asks which health insurance you have but
 also which plan of the mentioned insurance it is, even though they
-themselves are not familiar with it, despite dealing with it every
+themselves may not be familiar with it, despite dealing with it every
 day. Another popular question quickly follows: "And don't you need to
 see your primary care physician first to get a referral to a
 specialist?" Aaaahhhhh!!!!
@@ -470,17 +467,17 @@ their choice, and the health insurance pays the rate charged by the
 doctor or hospital, minus a deductible that the patient covers. Those
 were the days.
 
-Today, health insurance companies want to save costs and have more
+Today, health insurance companies want to cut costs and have more
 say, which has led to what is known as "Managed Care." Its most
 important principle is that the respective health insurance company
-negotiates fixed fee rates with doctors and hospitals, and the
+negotiates fixed rates with doctors and hospitals, and the
 patient is generally only allowed to go to these contracted doctors
-and hospitals. On the statements that the patient receives from their
-health insurance, you can see the price difference. For example, my
+and hospitals. On the statements that patients receive from their
+health insurance, they can see the price difference. For example, my
 internist charged $170 for a visit with a vaccination booster.
 However, he only received $116 because that was the agreed rate.
 Additionally, certain - usually more expensive - treatment methods,
-such as surgeries, must be approved by the health insurance company.
+such as surgeries, must be preapproved by the health insurance company.
 And that's where the problem lies, because the health insurance
 company is not independent. After all, it wants to make a profit.
 
@@ -491,21 +488,22 @@ health insurance. Generally, doctors and hospitals enter into
 contracts with various health insurance companies. But how do I know
 if my doctor is part of the network? The major health insurance
 companies have an online directory of doctors and hospitals that you
-can query. This can also be done by phone, but it usually takes more
+can check. This can also be done by phone, but it usually takes more
 time because you have to navigate through an annoying phone menu
 first.
 
-Even if I choose a contracted doctor, a practice fee (called
+Even if I pick a contracted doctor, an in-office visit fee (called
 "co-payment" in America) is due at each doctor's visit, unlike in
 Germany where it is once per quarter. We currently pay $15 (varies
-from insurance company to insurance company) per visit. Additionally,
+by insurance company) per visit. Additionally,
 there is an annual deductible, which in our case is $250 per person,
-and it becomes due when we need X-rays, surgeries, and the like.
-After meeting the deductible, our insurance covers 90% in these
+and it is due when we need X-rays, surgeries, and the like.
+After meeting the deductible, our insurance covers 90% for those
+procedures.
 cases. We pay 10%. Paying 10% of $1,000 is manageable, but 10% of
 $100,000 is not so easy, which is why the plan limits how much we
 have to pay out of pocket per year ("out-of-pocket maximum"): $1,250
-per person in our case. However, the practice fee does not count
+per person in our case. However, the in-office visit fee does not count
 towards this.
 
 To illustrate, here's a small example. Let's assume someone gets sick
@@ -514,7 +512,7 @@ plan we have, we pay a $250 deductible, leaving $9,750. 10%
 co-insurance of that is $975, so we would have to pay $250 + $975 =
 $1,225 ourselves, as the maximum ($1,250) has not yet been reached.
 
-The "Point of Service (POS)" model, on the other hand, incorporates
+Next, the "Point of Service (POS)" model, on the other hand, incorporates
 the family doctor as a coordinator, meaning the patient commits to
 always visiting their family doctor first, who will refer them to
 specialists, whether affiliated with the health insurance or not, if
@@ -527,20 +525,22 @@ unnecessary specialist examinations.
 
 In the third variant, the "Health Maintenance Organizations (HMO),"
 the patient is only allowed to visit contracted doctors or hospitals;
-otherwise, the health insurance does not pay. Here too, the family
-doctor usually coordinates the upcoming treatments. In its purest
-form, the HMO even goes so far as the health insurance owning its own
+otherwise, the health insurance won't pay for it. Here too, the family
+doctor usually coordinates upcoming treatments. In its purest
+form, the HMO even goes as far as the health insurance owning its own
 hospitals and the doctors being employees of the health insurance, as
 is the case with Kaiser Permanente. Everything is under one roof. If
 the patient needs a specialist or lab tests, they are referred
-internally. Although the choice of doctor is limited, the insurance
+internally. Although the choice of doctors is limited, the insurance
 covers 100% of all costs after a small co-payment. Many patients love
 this model because it is quite simple in terms of billing.
 
 Another model, the "Self-Insured Health Plans," is becoming
 increasingly popular, especially among larger companies. The company
-pays money into its own fund and covers the costs for its employees
+pays money into its own fund and covers the cost for its employees
 in case of illness.
+
+TODO
 
 The latest trend is the so-called "Health Funds," which various
 health insurances offer in conjunction with employers. The company
