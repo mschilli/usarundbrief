@@ -540,19 +540,17 @@ increasingly popular, especially among larger companies. The company
 pays money into its own fund and covers the cost for its employees
 in case of illness.
 
-TODO
-
-The latest trend is the so-called "Health Funds," which various
-health insurances offer in conjunction with employers. The company
-pays the health insurance a certain amount per year for the
-respective employee, which the employee uses for incurred costs in
+The latest trend are the so-called "Health Funds," which various
+health insurance companies offer in conjunction with employers. The company
+pays a certain amount per year to the health insurance provider for the
+respective employee, which the employee can use for incurred costs in
 case of illness. If they do not use up the fund, the money is carried
 over to the new year. Once the annual sum is spent, the employee
 initially pays a higher deductible before the regular insurance
-covers further costs. The idea behind this is: The patient acts as
+covers additional costs. The idea behind this is: The patient acts as
 their own health manager, deciding when and for what they spend money
 at the doctor or pharmacy. We could also choose this plan starting in
-2005: Yahoo! would pay $1125 into the fund for both of us. The annual
+2005: Yahoo! would pay $1,125 into the fund for both of us. The annual
 deductible would be $750 for the two of us after the money is used
 up.
 
@@ -568,11 +566,11 @@ Reconciliation Act) comes to the rescue in the USA. The law states
 that the employee can voluntarily remain insured in the company group
 insurance for 18 months if they leave the company (even if they
 resign themselves), as long as the company insurance covers 20 or
-more employees. However, they then pay the premium out of their own
+more employees. However, ex-employees then pay the premium out of their own
 pocket. AOL's health insurance (without dental and glasses insurance)
 would have cost us both $643 monthly under COBRA.
 
-Completing COBRA is not only sensible to be covered in case of
+Completing COBRA is not only sensible in order to be covered in case of
 illness, but also to avoid a gap in insurance coverage, for example,
 if you take a creative break between two jobs. This protects you from
 being burdened with so-called "pre-existing conditions."
@@ -581,10 +579,9 @@ or treated six months before joining a new health insurance plan,
 which can result in no treatment being paid for these illnesses for
 the first 6-12 months.
 
-<pic images/walgreens.ps Pharmacy integrated into a drugstore:
-Walgreens>
+<pic images/walgreens.ps Pharmacy integrated into a drugstore: Walgreens>
 
-The pharmacies located in supermarket chains like "Safeway" or
+The pharmacies located in supermarket chain locations like "Safeway" or
 drugstores like "Walgreens" and "Rite Aid" surprised me on my first
 trip to America. Traditional pharmacies, as they are known in
 Germany, are now on the verge of extinction in America.
@@ -592,8 +589,8 @@ Germany, are now on the verge of extinction in America.
 Every tourist is amazed by the 100-tablet pack of aspirin on the
 supermarket shelf, which the customer can even get at a very
 reasonable price. However, I boldly claim that the stuff is not as
-strong as in Germany, because the headache sufferer usually has to
-swallow two tablets for it to work. Prescription medications have
+strong as in Germany, because headache sufferers usually have to
+swallow two tablets for it to work. In contrast, prescription medications have
 completely astronomical prices in America.
 
 The pharmaceutical industry takes advantage of the living with the
@@ -606,8 +603,7 @@ does not purchase the medication under the original brand name of the
 manufacturing company, but rather a non-branded product that contains
 the same chemical ingredients but costs only a fraction.
 
-<pic images/generics.ps (#1) Generics" are non-name brand medications
-that can be refilled.>
+<pic images/generics.ps (#1) "Generics" are non-name brand medications that can be refilled.>
 
 The drugstore chain "Walgreens" dispenses these "generics" in
 "stylish" orange plastic containers (see Figure (#1)). No original
@@ -617,7 +613,7 @@ does include a similar, self-made leaflet that describes the
 composition of the medication, how to take it, what side effects it
 may cause, and how much the insurance paid for the medication.
 
-A prescription fee also needs to be paid. The amount varies depending
+The insured also pay the prescription fee. The amount varies depending
 on the health insurance provider and the specific plan you have
 chosen. With our new health insurance, Aetna, we pay 5 dollars out of
 pocket for generics and 15 dollars for brand-name drugs, which we
@@ -629,19 +625,18 @@ many times a patient can refill the medication without having to
 present a new prescription. This saves annoying doctor visits just
 because the medication you take regularly is running low. 
 
-Finally, I can't help but make a few critical remarks. I am shocked
-every time by how the doctor's offices look here compared to those in
-Germany. There's nothing like stylish furniture and tasteful waiting
-rooms. The treatment rooms are often tiny spaces where only the
-doctor and the patient can fit--scratched and dented medical cabinets
-are not uncommon. I admit that a designer desk or the size of the
-waiting room doesn't say anything about the quality of the treatment.
-But the height of tastelessness is represented by the fabric or paper
-gowns that look like hospital nightgowns, which the patient puts on
-so they don't have to face the doctor completely naked. Long live
-American prudery. I'm sure I've already been labeled as a difficult
-patient by some American doctors: "Oh, here she comes again, the one
-who doesn't want antibiotics and hates the 'modesty gown.'
+Finally, I can't help but make a few critical remarks. I am shocked every time
+by how the doctor's offices look here compared to those in Germany. There's
+nothing like stylish furniture and tasteful waiting rooms. The treatment rooms
+are often tiny spaces where only the doctor and the patient can fit--scratched
+and dented medical cabinets are not uncommon. I admit that a designer desk or
+the size of the waiting room doesn't say anything about the quality of the
+treatment.  But the height of tastelessness is represented by the fabric or
+paper gowns that look like hospital nightgowns, which the patient puts on so
+they don't have to face the doctor completely naked. Long live American
+prudery. Wouldn't surprise me if I already have been labeled as a difficult
+patient by some American doctors: "Oh, here she comes again, the one who
+doesn't want antibiotics and hates the 'modesty gown.'
 
 @Z: The record of the month
 
@@ -649,8 +644,7 @@ who doesn't want antibiotics and hates the 'modesty gown.'
 Man, there's a lot of complaining today! To calm everyone down, we'll
 put on a record with some feel-good music. Lalalala ...
 
-<pic images/smile.ps Smile," the new album by Beach Boys' uncle Brian
-Wilson>
+<pic images/smile.ps "Smile," the new album by Beach Boys' uncle Brian Wilson>
 
 What do Manfred Deix (the Austrian illustrator) and I have in common?
 We are both outspoken fans of the Californian group "The Beach Boys".
@@ -672,18 +666,16 @@ to his bed, and Brian Wilson would give interviews while lying
 comfortably. By the way, it was a very nice and comfortable bed; I
 remember nodding in agreement while watching the documentary.
 
-I even once bought the so-called "The Pet Sounds Sessions" double CD
-for a fortune, which features around 60 ancient studio recordings.
+I even once bought the so-called "The Pet Sounds Sessions" double CD,
+spending a fortune, and it features around 60 ancient studio recordings.
 Sometimes a song is played for 10 seconds, someone messes up, and
 everyone laughs and stops.
 
 In any case, after decades of inactivity, Brian Wilson has finally
 released a definitive album: "Smile." A masterpiece. You have to
 listen to it about ten times to catch all the nuances, and then
-you'll be captivated. Getting up was worth it.
+you'll be captivated. Getting out of bed was worth it.
 
-Greetings from bed
+Greetings from my bed
 
-The translation of "Michael und Angelika" to English is "Michael and
-Angelika.
-
+Michael und Angelika
