@@ -532,6 +532,7 @@ zigzag, as the bike path winds in a completely crazy way around the
 little huts.
 
 <pic images/vbl-snake.ps The restored old bike path now zigzags along the edge of the roadway.>
+<pic images/vbl-ramp.ps The new bikepath even leads over ramps!>
 
 In the end, the old bike path now runs along the edge of the road
 again, albeit with huge cracks in the asphalt and massive potholes. For cars,
