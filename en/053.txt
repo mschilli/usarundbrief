@@ -12,9 +12,7 @@ claimed that a cultural battle is raging within America: the liberal
 "blue" states against the conservative "red" heartland, with no
 agreement in sight.
 
-TODO
-
-We, on the other hand, tested what comes to mind for each of the
+We, on the other hand, tested what comes to our mind for each of the
 states. The map shows you which American states we have already
 visited. "Green" means that we have both been there. "Blue" indicates
 that only Michael has been there, and yellow (yes, that's right,
@@ -22,16 +20,16 @@ there aren't any) only I have; in the white ones, neither of us has
 been. By the way, stays at various airports in America don't count.
 We noticed that for some states, absolutely nothing comes to mind.
 Michael even had trouble remembering which ones he had driven through
-back when he and his buddy were transporting cars from one place to
+back when he and his buddy were delivering cars from one place to
 another to travel cheaply. So if you get bored over the holidays, you
 can play the game: What comes to mind for each American state? In
 this spirit, we wish you all a Merry Christmas!
 
-The translation to English is: "Angelika and Michael @Z: The Federal
-States
+Angelika and Michael
 
-<em>The phrase "Washington (ging an Kerry)" is in German. Translated
-to English, it means "Washington (went to Kerry).</em> 
+@Z: Comments on all U.S. States
+
+<em>Washington State (went to Kerry).</em> 
 State in the Northwest, not to be confused with the capital of the
 USA, Washington, D.C., which is 5,000 kilometers away in the East.
 The city of Seattle is surprisingly considered the coffee city of the
@@ -41,25 +39,15 @@ to Italy and was so impressed by the Italian espresso bars that he
 wanted to bring them to America. And since Americans tend to go "all
 or nothing," tourists can now find a "Starbucks" everywhere in the
 country. Ahhhhh!!!!!
-<em>The phrase "Oregon (ging an Kerry)" appears to be a mix of
-English and Irish. "Oregon" is a state in the United States, and
-"ging an Kerry" seems to be an attempt at Irish, possibly meaning
-"going to Kerry." However, the correct Irish for "going to Kerry"
-would be "ag dul go CiarraÃ­." Therefore, the translation could be
-"Oregon (going to Kerry).</em> 
+
+<em>Oregon (went to Kerry)</em> 
 Historical mistake by O'Reilly to move the Perl Conference from sunny
-San Diego, California to sleepy Portland, Oregon. According to their
+San Diego, California to sleepy Portland, Oregon. According to our
 own surveys, the suburbs of Portland seem to have the highest
 concentration of the coffeehouse chain "Starbucks." In Oregon, voting
 is done exclusively by mail.
-<em>The phrase "California (ging an Kerry)" appears to be a mix of
-English and another language, possibly German. In German, "ging an"
-can mean "went to" or "went on." However, without additional context,
-it's difficult to provide an accurate translation. If "Kerry" refers
-to a person or place, the translation could be "California went to
-Kerry" or "California went on Kerry." Please provide more context for
-a more precise translation.</em> 
 
+<em>California (went to Kerry)</em> 
 The most populous state in the USA, which belonged to Mexico until
 1847 and is now home to a diverse mix of people, so that soon whites
 will be in the minority. Californians tend to elevate actors to
@@ -68,29 +56,22 @@ California), Clint Eastwood (former Mayor of Carmel), and Arnold
 Schwarzenegger (current Governor of California). And, of course, San
 Francisco is located here, one of the most beautiful and liberal
 cities in the world.
-<em>The phrase "Alaska (ging an Bush)" is in German. Translated to
-English, it means "Alaska (went to Bush).</em> 
 
+<em>Alaska (went to Bush)"</em> 
 Located high in the north, separated from the rest of the USA by
 Canada, it only became the 49th state in 1959. A harsh shortage of
-women, lonely oil drillers with high salaries. On the map, it was
+women, home to mostly lonely oil drillers with high salaries. On the map, it was
 only drawn at the bottom for space reasons (like Hawaii). Alaska is
 at the top of our "Must-Visit" list.
-<em>The phrase "Hawaii (ging an Kerry)" appears to be a mix of
-languages or possibly a specific context that isn't immediately
-clear. "Hawaii" is already in English, referring to the U.S. state.
-"Ging an Kerry" seems to be in German, where "ging" means "went" and
-"an" can mean "to" or "on." "Kerry" could be a name or a place. 
 
-If we attempt a translation based on this, it could be: "Hawaii (went
-to Kerry)" or "Hawaii (went on Kerry)." However, without additional
-context, this translation might not fully capture the intended
-meaning.</em> 
-
+<em>Hawaii (went to Kerry)</em>
 The seven islands were only added as the 50th state in 1959. A
 paradise where people speak English and pay in dollars. Since Hawaii
 is only a 5-hour flight from San Francisco, it is a popular travel
 destination for many Californians (including us).
+
+TODO
+
 <em>The phrase "Idaho (ging an Bush)" appears to be a mix of English
 and German. "Idaho" is a U.S. state, and "ging an Bush" is German.
 However, the phrase "ging an Bush" is incomplete or unclear in
