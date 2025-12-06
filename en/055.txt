@@ -260,7 +260,7 @@ the fenders fall off, Perly!
 
 @Z: Top product: "Goo Gone"
 
-<pic images/goo2.ps (#8) Goo Gone" to the rescue>
+<pic images/goo2.ps (#8) "Goo Gone" to the rescue>
 
 It often happens that you buy something with the price tag still
 attached. These small, pesky, cheap stickers are incredibly stubborn!
@@ -281,33 +281,29 @@ translated with the Bavarian word "Baaz." And "Gone" means
 "Goo Gone" comes in a convenient spray bottle, is easy to apply, and
 has a pleasant scent reminiscent of a mix of tangerine and marzipan.
 
-TODO
-
 Take, for example, the padlock in Figure (#7). There was a sticker on
 the back with the combination on it, and it didn't come off
-completely. A little "Goo Gone" was sprayed on, waited a few minutes,
+completely. A little "Goo Gone" was sprayed on, then I waited a few minutes,
 and it came off effortlessly. All that was left was attractively
 shiny metal and a mandarin-nut scent in the air. Hmm.
 
 <pic images/goo1.ps (#7) A lock with a half-torn sticker ...>
 
-<pic images/goo3.ps (#9) The translation to English is: "... and
-shortly thereafter: mirror-like shine.>
+<pic images/goo3.ps (#9) ... and shortly thereafter: mirror-like shine.>
 
-I know someone whose father runs a few cinemas, and he always has to
-clean the floor and seats of stuck-on chewing gum and spilled cola
+I know someone whose father runs a few movie theaters, and he always has to
+clean the floor and seats of stuck-on chewing gum and spilled coca cola
 after the show. He claims that there is a professional cleaner that
 dissolves stickiness even more powerfully than "Goo Gone," but that
-"Goo Gone" is pretty much the best thing an average person can buy. A
+"Goo Gone" is pretty much the best thing the average person can buy. A
 nice gift from your next trip to America for your loved ones at home!
 
 @Z: San Francisco Views: Noe Valley
 
-<pic images/noe.ps (#4) Noe Valley: Taxi in front of a Victorian
-house on Guerrero Street>
+<pic images/noe.ps (#4) Noe Valley: Taxi in front of a Victorian house on Guerrero Street>
 
 <em>Angelika:</em> 
-You already know: The neighborhood we live in is called Noe Valley
+You already know it: The neighborhood we live in is called Noe Valley
 and it has become one of the most popular residential areas in San
 Francisco. And although we have mentioned it in one of our
 newsletters from time to time and every somewhat better travel guide
@@ -332,8 +328,6 @@ as the fog is kept at bay by the Twin Peaks hills. Geographically,
 Noe Valley is in good and interesting company, as it is located
 between the Mission, the South American neighborhood, and the Castro,
 the stronghold of the gay movement.
-Of course! Please provide the text you would like translated into
-English.
 
 What we appreciate most about this neighborhood, besides the
 countless restaurants, small shops, and good public transportation,
@@ -352,12 +346,11 @@ The owner recognized his loyal neighborhood customers and let us go
 ahead. Unfortunately, he has since sold his restaurant, but the place
 continues to operate under new management.
 
-<pic images/marthas.ps Noe Valley: Philosophers and Philosophaster in
-front of Martha's Coffee Shop>
+<pic images/marthas.ps Noe Valley: Philosophers and Philosophasters in front of Martha's Coffee Shop>
 
 You can best capture the neighborhood's vibe at "Martha's": Not only
 do they serve good coffee, but customers also lounge around
-philosophizing on chairs and benches in front of the cafÃ© in the
+philosophizing on chairs and benches in front of the cafe in the
 sun. By the way, "Martha's" is still family-owned. However, there are
 now several branches in San Francisco. But Martha, originally from
 Nicaragua, opened her first coffee shop in 1987 on 24th St. in Noe
@@ -376,13 +369,13 @@ come into the shop recommended by travel guides and then leave
 without buying anything. However, cheese is clearly trending, at
 least in San Francisco and the surrounding area. North of San
 Francisco, there are now several small cheese dairies (e.g., around
-the Point Reyes area). However, the prices for cheese are still
-enough to make you cry.
+the Point Reyes area). However, the prices for cheese are so steep
+they'll make you cry.
 
-Regarding cows: they once grazed in Noe Valley, as the land was part
+Regarding cows: they were once grazing in Noe Valley, as the land was part
 of the "Rancho de San Miguel" farm and was, back in the day, located
 on the outskirts of the city. The owner had the melodious name Jose
-de Jesus Noe. By the way, Noe is pronounced No-ii. For a short time,
+de Jesus Noe. By the way, Noe is pronounced No-ee. For a short time,
 Noe Valley was also called "Horner's Addition," because in 1852, John
 Horner bought parts of the farm from Mr. Noe and began diligently
 building houses. However, the boom only occurred when the cable car
@@ -397,12 +390,11 @@ Irish pub "The Dubliner" and the German store "Lehr's" in Noe Valley
 bear witness to these roots. "Tuggey's Hardware," a store that sells
 all kinds of tools and screws, has existed since 1900, for example.
 And in our building, some people have been living here for over 30
-years. "Rent Control" makes it possible.
-<RBLINK>20000801#8</RBLINK>
+years. "Rent Control" makes it possible (<RBLINK>20000801#8</RBLINK>).
 The Republican real estate agent on 24th St. has been delighting the
 neighborhood with his conservative views for over 50 years.
 
-When the internet companies were booming a few years ago, many
+When the internet companies started booming a few years ago, many
 dot-commers flocked to Noe Valley because, with their high salaries
 and stock options, they could suddenly afford anything and drove the
 prices in the neighborhood even higher. This happened much to the
@@ -411,12 +403,12 @@ decades. Since the bubble burst, everything has calmed down a bit.
 
 <pic images/realf.ps Protests against "Real Foods" on 24th Street>
 
-Otherwise, a liberal spirit blows through the neighborhood, and the
-people are politically and socially engaged. For example, when our
+Otherwise, a liberal spirit is blowing through the neighborhood, and the
+residents are politically and socially engaged. For example, when our
 organic supermarket "Real Foods" was taken over by a company in Utah
 and suddenly laid off all employees in the fall of 2003, there were
 protests. The official reason given was that renovations were planned
-for the store. The suspected real reason: the employees wanted to
+for the store. The suspected real reason: the employees had wanted to
 unionize. Almost two years later, no renovations have taken place,
 but the very active community group "Friends of Noe Valley" organized
 a weekly market that takes place every Saturday from 8 AM to 12 PM,
@@ -437,11 +429,9 @@ that something like this could happen in capitalist America.
 Funnily enough, it was more or less by chance that we settled in this
 neighborhood back then. We didn't know Noe Valley at all at the time.
 However, Michael wanted to live in a hilly area that reminded him of
-the series "The Streets of San Francisco." Thanks to "The Streets of
-San Francisco." 
+the series "The Streets of San Francisco." Well, thanks to "The Streets of
+San Francisco!" 
 
 Greetings from "Noe":
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
