@@ -4,8 +4,6 @@ San Francisco, 07-01-2005
 
 <pic images/van1.ps Vancouver: Modern Canada. Harbor in front of skyscrapers>
 
-TODO
-
 <em>Angelika:</em> 
 For a long time, we wanted to pay a visit to our Canadian neighbors
 in the far north. In April, it finally happened. We boarded a plane
@@ -31,6 +29,8 @@ system that reliably runs on schedule. Upon arrival, we immediately
 noticed that Vancouver is much cleaner and less "run-down" than
 American cities of comparable size.
 
+<pic images/van2.ps Vancouver: Indiginous sculpture in the Anthropology Museum>
+
 Despite these friendly conditions, we couldn't avoid the Canadian
 border control upon entry. Before the terrorist attacks in America,
 it was apparently quite easy for American citizens or Green Card
@@ -42,12 +42,12 @@ we both initially remained stubbornly silent, only to start speaking
 at the same time, which immediately made the officer behind the
 counter suspicious, suspecting that we hadn't coordinated our
 stories. However, we quickly convinced her that we only wanted to
-enter Canadian soil for purely tourist purposes.
+enter Canadian soil for purely touristic purposes.
 
-On the return journey, we immediately stumbled upon another
+On the return trip, we immediately stumbled upon another
 "immigration trap." Right at the check-in counter for Alaska Airlines
 at the Vancouver airport, we noticed that there was no conveyor belt
-for the luggage next to or behind the counter. "Strange!" I thought
+for our luggage next to or behind the counter. "Strange!" I thought
 to myself. And then the friendly lady, while handing us our boarding
 passes, asked us to step behind the counter with our luggage, exactly
 where the luggage usually disappears. There were no further
@@ -56,19 +56,21 @@ we stood in front of the duty-free shop, where another lady in
 uniform was standing, asking for our American customs declaration.
 
 This completely confused us, because you usually fill these out at
-the earliest on the plane, since after all, we were still in Canada.
+the earliest on the flight, since after all, we were still in Canada.
 She then pointed to small desks with the forms and instructed us to
 return to her with the completed form. Said and done. After she had
 examined the customs declaration, we were allowed to trudge through
 the duty-free shop with the customs declaration and our luggage and
 suddenly found ourselves in front of the counters of the American
 immigration authorities. At first, we thought we were in the wrong
-movie. Just to remind you: We were still in the airport building in
-Vancouver. But no! We were, so to speak, already entering the USA
+movie. Just to remind you: We were still in the Vancouver airport.
+But no! We were, so to speak, already entering the USA
 again in Vancouver. Behind the immigration counters, they finally
 took care of our luggage. In San Francisco, we thus saved ourselves
-the passport control and landed directly in the terminal for American
+the passport control and landed directly at the terminal for American
 domestic flights.
+
+<pic images/van3.ps Vancouver: Even more apartment buildings>
 
 Otherwise, we were surprised by how hyper-modern Vancouver is.
 Everywhere, architecturally sophisticated skyscrapers tower into the
@@ -79,7 +81,7 @@ tourist-oriented "Old Town" and also a Chinatown in Vancouver, but it
 doesn't quite compare to San Francisco's Chinatown. For us, the
 city's appeal lay in its natural beauty: surrounded by water, with
 mountains as a backdrop, and a huge park, Stanley Park, right in the
-middle of the city. We particularly enjoyed cruising around on the
+center of the city. We particularly enjoyed cruising around on the
 water with the small ferries that operate like taxis, taking you from
 one point to another. And we had to admit without envy that Vancouver
 can certainly compete with San Francisco in terms of culinary
@@ -95,18 +97,11 @@ offerings. The restaurants we visited were diverse and excellent.
 When a corporation advertises in a city like San Francisco, it must
 be careful to treat all population groups equally. In this diverse
 city, 44% of the population is White, 31% Asian, 14% Latino, and 8%
-Black (source:
-<LINK>http://www.sfgov.org/site/uploadedfiles/mocd/demoprofile.pdf|Th
-e phrase "San Francisco demographic profile" is already in English.
-It refers to a summary or analysis of the demographic characteristics
-of San Francisco, such as population size, age distribution, ethnic
-composition, income levels, education, and other relevant
-statistics.</LINK>
-...it would be unrealistic to show only white models on an
+Black (source: <LINK>http://www.sfgov.org/site/uploadedfiles/mocd/demoprofile.pdf|sfgov.org</LINK>), it would be unrealistic to show only white models on an
 advertisement for underwear, for example. In illustration (#1), you
 can see that the cover of a coupon booklet that arrived in the mail
 represents pretty much all the significant population groups: The
-cuddling couple on the left is Black, the man with the foaming
+cuddling couple on the left is black, the man with the foaming
 toothbrush is white, the grandpa with the bicycle is white and old,
 the mom in white in the middle is obviously working (due to the white
 clothing, obviously a doctor), the lady with the baby in the middle
@@ -126,32 +121,27 @@ for ethnicity, as a white person, you have to enter "Caucasian." I
 didn't know this at my first job in America, but the friendly lady in
 the HR department discreetly helped me with it back then.
 
-@Z: Platte des Monats" translates to "Record of the Month" in
-English.
+@Z: Record of the Month
 
 <pic images/kraft.ps Maximum Minimum" - The live album by Kraftwerk>
 
 About the concert of the group Kraftwerk at the Warfield Theater in
-San Francisco last year, I briefly reported...
-<RBLINK>20040518#6</RBLINK>
+San Francisco last year, I had briefly reported in <RBLINK>20040518#6</RBLINK>.
 Recently, the double CD "Maximum-Minimum" was released, featuring
 recordings from various stops on the tour. Let me tell you, when I
 heard it for the first time, I was at work at Yahoo! listening
-through headphones, and during the first song "Mensch-Maschine," I
+with headphones, and during the first song "Mensch-Maschine," I
 got a pleasant chill down my arms, and my cubicle colleagues must
 have wondered why I suddenly started breathing so heavily. Man, it
 brought back memories of that fantastic concert. Highly recommended!
 
-@Z: The phrase "Don't call it Frisco" is a common expression in San
-Francisco, advising people not to refer to the city as "Frisco." Many
-locals prefer the full name "San Francisco" or other nicknames like
-"SF" or "The City.
+@Z: "Don't call it Frisco"
 
-<pic images/wash.ps The laundromat "Don't Call it Frisco>
+<pic images/wash.ps The laundromat "Don't Call it Frisco">
 
 <em>Angelika:</em> 
 People are known to like abbreviating or shortening long terms. The
-word "San Francisco" is a particularly popular target for this: you
+name of our city "San Francisco" is a particularly popular target for this: you
 often hear it referred to as S.F., San Fran, or Frisco.
 
 Until now, it was considered taboo among the locals of this city to
@@ -159,6 +149,8 @@ call San Francisco "Frisco." Doing so would immediately mark you as a
 tourist. It was simply referred to as "the City." This was taken so
 seriously that there is even a laundromat named "Don't call it
 Frisco" on Hayes Street.
+
+TODO
 
 For quite some time, the term "Frisco" has been appearing in rap
 songs, and rather trendy T-shirts with the "Frisco" logo are growing
