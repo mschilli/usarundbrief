@@ -150,12 +150,10 @@ tourist. It was simply referred to as "the City." This was taken so
 seriously that there is even a laundromat named "Don't call it
 Frisco" on Hayes Street.
 
-TODO
-
 For quite some time, the term "Frisco" has been appearing in rap
 songs, and rather trendy T-shirts with the "Frisco" logo are growing
-in popularity. I'm not talking about T-shirts that you can buy in
-cheap stores in Chinatown or the tourist trap hub "Fisherman's Wharf.
+in popularity. And I'm not talking about T-shirts that you can buy in
+cheap stores in Chinatown or the tourist trap hub "Fisherman's Wharf."
 
 <pic images/frisco.ps A T-shirt with a Frisco graffiti print>
 
@@ -166,14 +164,14 @@ counter-movement to the establishment. Therefore, I wouldn't exactly
 advise those in their 30s (and older) to walk around wearing these
 T-shirts. Even Michael, who is known to prefer the casual Californian
 shorts and sneakers look with loose T-shirts, doesn't dare to wear
-them. @Z: Cars in California
+them.
 
-<pic images/welded.ps Host Xzibit in the show "Pimp My Ride" in front
-of a car welded together from two halves, with its windshield held in
-place by tar.>
+@Z: Cars in California
+
+<pic images/welded.ps Host Xzibit in the show "Pimp My Ride" with a car welded together from two halves, with its windshield held in place by tar.>
 
 <em>Michael:</em> 
-In the USA, there is no TÃV (Technical Inspection Association). You
+In the USA, there is no TÜV (the German Technical Car Inspection Association). You
 can really drive around in the most rusted-out junk car. As long as
 the fenders don't fly off on the highway, it's okay. The TV show
 "Pimp My Ride" with host Xzibit, which is also a big success in
@@ -187,9 +185,9 @@ better not to be there after nightfall.
 It can certainly happen that someone who is selling their house asks
 that you don't park your junk car right in front of it. That lowers
 the price of the house. Our beloved PERLMAN has already driven house
-prices into the ground and left real estate agents in despair.
+prices down and left real estate agents in despair.
 
-Once a year in California, a notice from the Department of Motor
+Once a year in California, however, a notice from the Department of Motor
 Vehicles (DMV) arrives in the mail, requesting payment of the annual
 registration fee and proof of the vehicle's liability insurance.
 Illustration (#5) shows our notice.
@@ -200,16 +198,14 @@ The registration fee depends on the type of vehicle and for our
 extremely sporty but materially undervalued PERLMAN, it is only 65
 dollars. This is composed of a $40 registration fee, a $51 license
 plate fee, an $8 San Francisco surcharge, minus a $34 Arnold
-Schwarzenegger discount.
-<RBLINK>20040301#10</RBLINK>
-.
+Schwarzenegger discount (<RBLINK>20040301#10</RBLINK>).
 
 Because we have the personalized license plate PERLMAN instead of an
 anonymous number, we pay an extra $25. However, this goes to a good
 cause, like the conservation of the Grand Canyon or something
 similar.
 
-<pic images/smog2.ps Smogtest-Einladung>
+<pic images/smog2.ps Invitation to the smog test>
 
 And every two years, the notice includes a surprise message: You have
 to go for a smog test, the American version of the emissions test.
@@ -225,16 +221,14 @@ To the "Smog-Test-Only" you are only invited if you drive a vehicle
 that a) has previously failed the smog check or b) is known to be not
 particularly environmentally friendly. And then there's a lottery
 where c) you draw the short straw and are randomly selected by the
-DMV. Detailed explanations and tips can be found at
-http://www.smogtips.com
-.
+DMV. Detailed explanations and tips can be found at <LINK>http://www.smogtips.com</LINK>.
 
-Newer cars, by the way, are connected to a computer, and the smog
-test computer extracts values from it. A colleague of mine once had
-to have a new computer installed in his perfectly functioning BMW M3
-for over $1200 because its smog test interface was broken. Otherwise,
+Newer cars, by the way, are being connected to a computer at the smog test station, and
+the test rig extracts values from it. A colleague of mine once had
+to have a new board computer installed in his perfectly functioning BMW M3
+for over $1,200 because its smog test interface was broken. Otherwise,
 he wouldn't have passed the smog test, which is crazy! Fortunately,
-PERLMAN doesn't have a computer yet. But he still received a
+PERLMAN doesn't have an onboard computer yet. But he still received a
 certificate for passing the smog test, as shown in Figure (#2).
 Passed with flying colors!
 
@@ -250,44 +244,44 @@ low, the market value is used instead.
 
 <pic images/mexi2.ps The Mexico variant>
 
-<pic images/graffiti.ps The translation of "Graffiti-Bemalung eines
-MÃ¶belwagens" to English is "Graffiti painting on a furniture truck.>
+<pic images/graffiti.ps Graffiti on a furniture truck>
 
 The value of a used car is determined by the so-called "Kelly Blue
-Book," which can now also be viewed online at
-<LINK>http://www.kbb.com|http://www.kbb.com</LINK>
+Book," which can now also be viewed
+<LINK>http://www.kbb.com|http://www.kbb.com|online</LINK>.
 It actually says there that our beloved PERLMAN, a 1991 Acura Integra
 with 170,000 miles on the clock, is only worth $1165. Outrageous!
 However, it has been running perfectly for years without any
-maintenance (just oil changes) and was very happy about the four new
+maintenance (just oil changes) and was very happy for the four new
 tires I recently bought for it for $320. We'll stay together until
 the fenders fall off, Perly!
 
-<pic images/ambience.ps A restored ambulance: From "Ambulance" to
-"Ambience" (Ambiente)>
+<pic images/ambience.ps A restored ambulance: From "Ambulance" to "Ambience">
 
-@Z: Top product: "Goo Gone
+@Z: Top product: "Goo Gone"
 
 <pic images/goo2.ps (#8) Goo Gone" to the rescue>
 
 It often happens that you buy something with the price tag still
 attached. These small, pesky, cheap stickers are incredibly stubborn!
 Woe betide if you only tear off the surface of the label, because
-then the sticky residue won't come off no matter how hard you try.
+then the sticky residue won't come off ever, no matter how hard you try.
 Most of the time, you end up fiddling around for hours, treating the
 residue with foul-smelling substances like gasoline or turpentine,
 rubbing your thumb raw, and possibly even removing parts of the
-purchased product. Plastic, in particular, can quickly become dull.
+purchased product. Plastic, in particular, can quickly become dull doing this.
 But it doesn't have to be that way, because there's "Goo Gone," which
 removes everything powerfully and gently.
 
-Goo" is the American word for a stubbornly sticky substance. For
+"Goo" is the American word for a stubbornly sticky substance. For
 example, if you don't clean a bathtub despite regular use, after a
 while, a thick mass settles at the bottom. "Goo" can perhaps best be
 translated with the Bavarian word "Baaz." And "Gone" means
 "disappeared," so "Goo Gone" means something like "Baaz disappeared."
 "Goo Gone" comes in a convenient spray bottle, is easy to apply, and
 has a pleasant scent reminiscent of a mix of tangerine and marzipan.
+
+TODO
 
 Take, for example, the padlock in Figure (#7). There was a sticker on
 the back with the combination on it, and it didn't come off
