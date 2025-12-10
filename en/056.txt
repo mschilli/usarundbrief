@@ -4,8 +4,6 @@ San Francisco, 09-25-2005
 
 <pic images/arnie5.ps The "Gouvernator" stops by Yahoo!>
 
-TODO
-
 <em>Michael</em> 
 In mid-August, our (ahem!) beloved "Gouvernator" Arnold
 Schwarzenegger stopped by for a visit at the Yahoo! cafeteria. I had
@@ -235,8 +233,6 @@ owners of gas guzzlers are groaning when the gas station attendant
 laughs in his booth because the fools are already paying with a $50 bill
 for the third time in a week.
 
-TODO
-
 "Right on!" I say, nothing better could have happened. This way,
 people at least learn that taking the train and riding a bike aren't
 so foolish. Or the purchase of a "hybrid" vehicle like the Toyota
@@ -244,29 +240,24 @@ Prius, which runs partly on electricity and partly on gasoline. By
 the way, a new law has just passed in California, allowing drivers of
 these environmentally friendly vehicles to pick up a sticker from the
 DMV in California, which then allows them to use the carpool lane
-during peak hours (even without a passenger!).
-<RBLINK>20010701#1</RBLINK>
-The translation to English is: "to be allowed to speed on the
-freeway.
+during peak hours (even without a passenger!) for a speedy commute
+(<RBLINK>20010701#1</RBLINK>).
 
-In figure (#3), you can see that the cheapest gasoline currently
+In figure (#3), you can see that the cheapest type of gasoline currently
 costs $3.25 per gallon (0.71 euros/liter). For comparison: In
-<LINK>http://usarundbrief.com/43/images/rotten.html|March newsletter
-from the year 2003</LINK>
-The translation of the given German sentence to English is: "Do you
-see that the most expensive gasoline back then cost $2.03 (0.44
-Euro/liter) and that even then it seemed outrageous to me?
+<RBLINK>20030310#1</RBLINK> you can see that the most expensive
+back then cost $2.03 (0.44 Euros/liter) and that even then it seemed outrageous to me?
 
 And figure (#4) is a short excerpt from the film "Crimes and
-Misdemeanors" by Woody Allen from 1989. Within 15 years, the price of
+Misdemeanors" by Woody Allen from 1989, where the price of gasoline
+was $1 per gallon. Within 15 years, the price of
 gasoline has tripled. And as far as I'm concerned, it can keep going.
-I fill up maybe once a month for $20, even though I commute 50
-kilometers one way every day.
+I fill up maybe once a month for $20, even though I commute 30
+miles each way every day.
 
-<pic images/gas.ps (#4) In 1989, the world was still in order: 1
-dollar per gallon.>
+<pic images/gas.ps (#4) In 1989, the world was still in order: 1 dollar per gallon.>
 
-@Z: Kolibris
+@Z: Hummingbirds
 
 <pic images/kol1.ps Hummingbird incoming!>
 
@@ -279,23 +270,23 @@ Phew, that was a close call.
 We had rented a cottage, and the owner had set up two sugar water
 containers to attract the local hummingbirds. I had seen these
 fascinating birds before, but I had never noticed the racket their
-wings make when you're standing two meters away. And the creatures
+wings make when you're standing 6 feet away. And the creatures
 zoom around each other so quickly that it makes you dizzy.
 
 <pic images/kol2.ps The hummingbird sips at the sugar water.>
 
-A hummingbird is only about five centimeters in size, but as is well
+A hummingbird is only about two inches in size, but as is well
 known, they do not glide through the air like normal birds; instead,
 they hover in place like an insect. To remain stationary in the air
 despite their not insignificant weight, they must move their wings so
 quickly that you can only see blurred outlines, similar to a
 helicopter rotor. Because of the humming sound they make,
-hummingbirds are called "Hummingbirds" in English.
+those creatures whose German name is "Kolibris" are
+called "Hummingbirds" in English.
 
 @Z: Freakonomics
 
-<pic images/freak.ps Freakonomics" by Steven D. Levitt and Stephen J.
-Dubner>
+<pic images/freak.ps Freakonomics" by Steven D. Levitt and Stephen J. Dubner>
 
 Recently, I devoured a book that I absolutely must recommend. The
 intellectual father of "Freakonomics" is Steven D. Levitt, an
@@ -330,6 +321,7 @@ truth, no matter how uncomfortable it may be. Hats off.
 
 @Z: Bureaucracy in the Space Age
 
+<em>Angelika</em>
 After five years, a California driver's license expires and you have
 to apply for a new one. It's a mere formality. The responsible
 authority, the DMV (Department of Motor Vehicles), has quite a bad
@@ -346,7 +338,7 @@ connection, and that was it. To my great surprise, the new driver's
 license arrived by mail just three days later. That's how I like
 dealing with bureaucracy!
 
-<pic images/dmv.ps The page of the Department of Motor Vehicles>
+<pic images/dmv.ps The homepage of the Department of Motor Vehicles>
 
 With the request to renew the driver's license, a form was included
 to register as a voter. In America, there is no mandatory
@@ -363,23 +355,21 @@ severe penalties for providing false information.
 
 <pic images/vreg.ps (#1) The form to register as a voter>
 
-@Z: Land unter: Hurrikan Katrina" translates to "Land under:
-Hurricane Katrina" in English.
+@Z: Here Comes The Flood: Hurricane Katrina
 
 <em>Angelika</em> 
 I had a feeling: If an earthquake comes, we have to help ourselves.
 The images and reports about the failure of the American government
-and also the local politicians on the American Gulf Coast to quickly
+and also of local politicians on the American Gulf Coast to quickly
 implement relief efforts after Hurricane Katrina prove me right. Not
 to mention the lack of extensive preventive measures for a
 foreseeable disaster. Even Michael no longer mocks my earthquake
 emergency kits, which are stored under our bed and can provide us
 with essentials like water, food, a battery-operated radio, a first
-aid kit, and warm clothes in the event of a severe earthquake.
-<RBLINK>990401#3</RBLINK>
-.
+aid kit, and warm clothes in the event of a severe earthquake
+(<RBLINK>990401#3</RBLINK>).
 
-He no longer makes fun of our little cards that we both carry in our
+He no longer makes fun of the little notecards that we both carry in our
 wallets, which list, in addition to phone numbers outside of
 California (the likelihood of these working is greater), the place
 where we will meet if there has been an earthquake and our house is
@@ -393,7 +383,7 @@ before construction work to earthquake-proof the Bay Bridge finally
 began.
 
 The completion of the new bridge arch, which connects Oakland halfway
-to San Francisco with Treasure Island and Yerba Buena Island, will
+to San Francisco, via Treasure Island and Yerba Buena Island, will
 still take years. Driving over the Bay Bridge remains a risky
 endeavor. At least our mayor, Gavin Newsom, launched the 72-hour
 campaign. Posters and advertisements on city buses are meant to
@@ -403,21 +393,20 @@ earthquake emergency kits in Figure (#6)). The website
 www.72hours.org provides further assistance with preparations. And if
 all else fails, we hope for your care packages from Germany.
 
-Did we wonder about the chaos in New Orleans and similar places after
+Were we suprised about the chaos in New Orleans and similar places after
 the hurricane? Not really! Michael cynically remarked right away,
 what do you expect from a nation that fixes many things only
-temporarily with thick, strong tape ("Duct Tape",
-<RBLINK>20030310#3</RBLINK>
-...repaired and also generally displays a certain carelessness when
-it comes to construction. The main thing is that it goes quickly and
-somehow works. The Americans' boundless optimism that things won't
-turn out so badly certainly played a role as well. Not to mention the
+temporarily with thick, strong tape ("Duct Tape", <RBLINK>20030310#3</RBLINK>)
+and also generally displays a certain carelessness when
+it comes to construction? All that matters is that it goes quickly and
+somehow works. Americans' boundless optimism that things won't
+turn out so badly certainly play a role as well. Not to mention the
 environmental sins committed in New Orleans.
 
 In a city that lies below sea level and is regularly threatened by
 hurricanes, the wetlands serve as an important buffer for wind and
 water. Unfortunately, these areas have increasingly disappeared to
-create land for development. Renowned experts therefore believe that
+create land for housing developments. Renowned experts therefore believe that
 in the rebuilding of New Orleans, it is not only necessary to raise
 the levees but also to restore the wetlands. Unfortunately, we hear
 little about this from those in charge, especially President Bush. He
@@ -449,14 +438,14 @@ population sat in the dark. The speech included the usual promises of
 aid for reconstruction, primarily financial in nature. It was
 interesting that Bush addressed the issue of poverty, which is rooted
 in racial discrimination. You saw the television images: mainly the
-poor, the elderly, and Black people remained in New Orleans, those
+poor, the elderly, and black people remained in New Orleans, those
 who did not have the means to leave the city, meaning they neither
 owned a car nor a credit card.
 
-This is naturally also due to the fact that Black people make up
-almost 70% of the population in New Orleans. Unfortunately, Black
+This is naturally also due to the fact that black people make up
+almost 70% of the population in New Orleans. Unfortunately, black
 people are disproportionately part of the group of American poor.
-However, the mention of being Black and being poor seems more like
+However, the mention of being black and being poor seems more like
 lip service from Bush, as the proportion of the poor increased during
 his presidency. The tax cuts for the wealthy in the country, along
 with the refusal to raise the minimum wage, also contradict his
@@ -486,7 +475,9 @@ city, which, however, led to total chaos on the highways. Nothing was
 moving anymore. It might be smarter and more efficient if people
 didn't all flee in their own cars, but instead, for example, if
 shuttle buses were provided to take them to shelters, as there are no
-more hotel rooms available. But no one asks me.
+more hotel rooms available. But no one is asking me.
+
+TODO
 
 @Z: Arnie again
 
