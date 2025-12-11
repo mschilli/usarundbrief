@@ -587,7 +587,7 @@ From Michael Jackson's 'Neverland Ranch', to
 the White House, to the large rock in Arches National Park,
 everything is included.
 
-You can even see <LINK>http://usarundbrief.com/cgi/u.cgi/q>our house</LINK>.
+You can even see <LINK>http://usarundbrief.com/cgi/u.cgi/q|our house</LINK>.
 The brilliant thing about it, of course, is that you can directly
 <LINK>http://usarundbrief.com/cgi/u.cgi/t|switch to the road map</LINK>
 in the same location.
