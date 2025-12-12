@@ -611,30 +611,24 @@ Ranch. Ha! It's right near Reno and Carson City in the state of
 Nevada, a bit north of Las Vegas! We must have unknowingly driven
 by there on one of our road trips.
 
-TODO
-
 Oh, memory! The main characters Ben Cartwright (Lorne Greene, died
 1987), Little Joe (Michael Landon, died 1991), and Hoss (Dan Blocker,
 died 1972) have been dead for a long time. The
-<LINK>http://en.wikipedia.org/wiki/Bonanza|Bonanza entry on
-Wikipedia.org</LINK>
-The sentence translates to: "brings everything back to life for a
-moment. How time flies.
+<LINK>http://en.wikipedia.org/wiki/Bonanza|Bonanza entry on Wikipedia.org</LINK>
+brings everything back to life for a moment. How time flies.
 
 @Z: Missing election documents
 
 <em>Angelika</em> 
-In our country, hurricanes are raging, and in yours, it's election
+Around here, hurricanes are raging, and in yours, it's election
 chaos. However, it's not my fault because, even though I wanted to
 dutifully exercise my right to vote in the federal election, I was
 unable to cast my vote. I already mentioned in the newsletter that
 you have to apply to be entered into the electoral register of the
 municipality (in my case, Munich) where you were last registered in
-Germany.
-<RBLINK>20020917#2</RBLINK>
-), specifically for each election separately.
+Germany (<RBLINK>20020917#2</RBLINK>), seperately for each election.
 
-The responsible authority then sends the postal voting documents to
+The department responsible then sends the postal voting documents to
 you. Due to the early election, the schedule was particularly tight
 this time, as the postal voting documents were only sent out at the
 end of August. A letter to San Francisco takes a good five to seven
@@ -653,7 +647,7 @@ to 3370 in San Francisco. Unfortunately, our house number is 3770.
 
 In America, however, mail is delivered strictly according to the
 address and not the name of the recipient. This means that the letter
-did not reach me despite the tiny error, which caused astonishment at
+did not reach me because the tiny error, which caused astonishment at
 the election office. The friendly lady promised to take care of it
 and call me back. The next day, our answering machine was indeed
 blinking, and when I listened to it, a shrill melody first played,
@@ -678,6 +672,4 @@ there.
 
 Greetings from the house with the number 3770:
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
