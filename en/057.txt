@@ -11,32 +11,28 @@ aggressive daredevils who don't follow traffic rules, get upset for
 no reason, and with whom it's best not to start any discussions.
 Exactly right, haha!
 
-TODO
-
 No, it's not quite that bad, of course. Most of them are quite
 reasonable people. The dubious reputation is fueled by a few
 troublemakers who really misbehave. In June 2005, an incident
 occurred on the Embarcadero in San Francisco, not far from the
-tourist area "Fisherman's Wharf.
-<LINK>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/22/BAr
-oadrage22.DTL|The translation of "nachrichtenwÃ¼rdige Gewaltszene" to
-English is "newsworthy scene of violence.</LINK>
+tourist area "Fisherman's Wharf", which turned into a
+<LINK>http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/22/BAroadrage22.DTL|noteworthy scene of violence"</LINK>
 A car driver and a cyclist started a discussion that eventually ended
-with the cyclist deliberately ramming his handlebars into the car's
-side window. Not exactly the British way! The car driver, a
+with the cyclist deliberately ramming his bike's handlebar into the car's
+side window. Not exactly gentleman like behavior! The car driver, a
 73-year-old retiree, lost it, grabbed a (illegally!) stored gun from
 the glove compartment, and fired a shot at the cyclist. However, he
 didn't hit the culprit but instead a 20-year-old Asian woman who was
 peacefully jogging by on the sidewalk at that moment. The cyclist
 initially fled but later turned himself in to the police. The retiree
-was immediately arrested. Just another day in San Francisco...
+was immediately arrested. Just another day in San Francisco ...
 
 <pic images/bike3.ps Cyclist in the Mission District>
 
-Furthermore, today I will tell you about two peculiarities of cycling
+While we're on the topic, I will tell you about two peculiarities of cycling
 in America. The first peculiarity is that hardly any bicycle has a
 bell. Recently, after many years of riding without a bell, I finally
-bought one, but until now I followed the American principle: When
+bought one, but before that, I had followed the American principle: When
 overtaking someone on the left, you call out "On your left!" from
 behind to let them know, so they don't make any careless swerves and
 get in your way.
@@ -45,18 +41,17 @@ The second peculiarity comes when making a right turn: Instead of
 extending your right hand horizontally to the right as in Germany,
 you raise your left (!) hand to form an "L" shape upwards. You learn
 this procedure when you get an American driver's license. The
-practical examiner actually asks: If the car's turn signal is not
+driving instructor actually asks: If the car's turn signal is not
 working and you want to turn left, how do you signal that? You extend
 your left hand horizontally out of the window. And when turning
 right? You hold your left arm bent upwards out of the window. When
 cycling, this looks very elegant and fits the overall picture, as
 cycling in San Francisco, due to the many hills (at least downhill),
-is almost like gliding.
+is almost like hang gliding.
 
 @Z: Open Studios San Francisco
 
-<pic images/ostudio1.ps An open artist studio in the industrial
-district "SoMa>
+<pic images/ostudio1.ps An open artist studio in the industrial district "SoMa">
 
 <em>Angelika</em> 
 The saying "art is a breadless profession" is well-known, and
@@ -74,7 +69,7 @@ studios, if they have one, or even their private homes.
 All you need to participate is a valid address in San Francisco.
 There is no selection process or anything like that, so the quality
 of the art on display varies accordingly. The Open Studios have been
-in San Francisco for 30 years. ArtSpan, a non-profit organization,
+happening in San Francisco for 30 years. ArtSpan, a non-profit organization,
 manages the whole event, including the creation of the catalog. To
 prevent art enthusiasts from rushing around the city like crazy to
 visit as many studios as possible, the city is divided like a pie:
@@ -82,23 +77,15 @@ each weekend, a different area, consisting of several neighborhoods,
 is featured. The artists naturally hope to sell as much as possible
 and make connections in the art world.
 
-@Z: Database of sex offenders
+@Z: Database Of Sex Offenders
 
-<pic images/view1.ps Yikes! In the neighborhood in the foreground, 10
-convicted sex offenders live?>
+<pic images/view1.ps Yikes! The neighborhood in the foreground is home to 10 convicted sex offenders?>
 
 <em>Michael</em> 
 Recently, I came across something strange on the internet: a publicly
 accessible database of convicted sex offenders. Go to the website of
-the
-<em>The translation of "National Sex Offender Public Registry" to
-English is the same, as it is already in English.</em> 
-It seems like your message is incomplete. Could you please provide
-the full text you would like translated into English?
-http://www.nsopr.gov
-The translation to English is: "of the US Department of Justice
-The translation of "United States Department of Justice" to English
-is "United States Department of Justice." It is already in English.
+the <LINK>http://www.nsopr.gov|National Sex Offender Public Registry</LINK>
+of the US Department of Justice.
 After you accept the fine print with "I agree," click on California
 on the map (the elongated state on the West Coast) and enter our
 postal code 94114 as the Zipcode. A click on "Search" will provide a
@@ -106,32 +93,24 @@ list of convicted sex offenders in our neighborhood who have since
 been released from prison. If you click on the names in the list, the
 police photos of these individuals will appear, along with their full
 names and information about their offenses, and in some cases, their
-current addresses, including street and house number! You can even
+current addresses, including street name and house number! You can even
 view their addresses on a digital map. The following clause is
 intended to prevent anyone from threatening or harassing these
 individuals: "ANY USE OF THIS INFORMATION TO THREATEN, INTIMIDATE,
 HARASS, OR CREATE A CRIMINAL ACT AGAINST ANOTHER PERSON WILL RESULT
-IN CRIMINAL PROSECUTION.
+IN CRIMINAL PROSECUTION."
 
-The address information is after the
-<LINK>http://www.co.lake.ca.us/countygovernment/sheriff/meganslaw/the
-law.html|Megan's Law" refers to legislation in the United States that
-requires law enforcement authorities to make information available to
-the public regarding registered sex offenders. The law is named after
-Megan Kanka, a young girl who was tragically murdered by a known sex
-offender living in her neighborhood. The intent of Megan's Law is to
-increase public safety by informing communities about the presence of
-sex offenders.</LINK>
-The mentioned law, which dates back to 1996 and was signed by
-President Clinton at the time, is available. In a small suburb in the
+The address information is public because of legislation called
+<LINK>http://www.co.lake.ca.us/countygovernment/sheriff/meganslaw/thelaw.html|Megan's Law"</LINK>
+It dates back to 1996 and was signed by
+President Clinton at the time. In a small suburb in the
 state of New Jersey, 7-year-old Megan Kanka was murdered in 1995 by a
 man who was a convicted sex offender and had lived in the same
 neighborhood for years. The law is intended to ensure that citizens
 are aware when a convicted sex offender is living in their vicinity.
 
 In a recently aired episode of the controversial yet funny TV series
-"Curb Your Enthusiasm
-<RBLINK>20030310#8</RBLINK>
+"Curb Your Enthusiasm" (<RBLINK>20030310#8</RBLINK>)
 Larry David invites a newly moved-in man to his party at his home and
 casually mentions to his wife, "by the way, he's a publicly known sex
 offender," which causes the wife to freak out. Needless to say, the
@@ -139,23 +118,26 @@ party turns into complete chaos. Larry David knows no taboos!
 
 @Z: The San Francisco Super Insider Tip
 
+<em>Michael</em>
 And here is a new series in the newsletter: Absolute insider tips
-that only people who have lived in San Francisco for years know.
+that only people who have lived in San Francisco for years know about.
 Today: What to do with loose change? Because you never know exactly
 how much something costs due to sales tax and therefore can't count
-out the change you urgently need to get rid of in advance, you often
+out the change you will need to get rid of in advance, you often
 end up with unwanted coins. Quarters can usually still be used, but
 dimes, nickels, and pennies are hard to get rid of, and sooner or
-later they tear a hole in your pocket. The solution: Take the MUNI
+later they'll be tearing holes into your pocket. The solution: Take the MUNI
 streetcar from the Embarcadero, Powell, Montgomery, Civic Center, or
 Van Ness stations. The streetcar lines in this area run underground,
-and at the entrance, there are turnstiles that--unheard of in the
+and at the fare gate, there are turnstiles that--unheard of in the
 entire USA--accept any loose change! So when you pay the $1.50 for a
 ride, you could theoretically insert 150 individual pennies! I've
 tried it with about 30 and paid the rest with nickels and dimes, and
 it worked flawlessly. That was the super insider tip for this issue.
-In the next installment: The best publicly accessible restrooms in
-downtown.
+But  wait for the next issue which will feature the best publicly accessible
+restrooms in downtown. Until then!
+
+TODO
 
 @Z: Discuss in the newsletter forum
 
