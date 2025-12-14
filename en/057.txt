@@ -137,20 +137,15 @@ it worked flawlessly. That was the super insider tip for this issue.
 But  wait for the next issue which will feature the best publicly accessible
 restrooms in downtown. Until then!
 
-TODO
-
 @Z: Discuss in the newsletter forum
 
 Die-hard newsletter fans probably noticed right away: The newsletter
 is now available in a new online format. After 9 years, it was high
-time to make our little letters a bit more modern. The newsletter now
-runs under the domain.
-<LINK>http://usarundbrief.com|usarundbrief.com</LINK>
-...so that people don't have to remember the 'perlmeister'. And also
-a...
-<LINK>http://usarundbrief.com/forum/viewforum.php?f=1|Diskussionsforu
-m</LINK>
-Here's the translation to English: "There is now a place where you
+time to make our entertaining letters a bit more modern. The newsletter now
+runs under the domain <LINK>http://usarundbrief.com|usarundbrief.com</LINK>
+so that people don't have to remember the 'perlmeister'. And also
+a new <LINK>http://usarundbrief.com/forum/viewforum.php?f=1|Discussion Forum</LINK>
+is now a place where you
 can ask questions and give praise or criticism to the newsletter
 writers. Let's hear what you think about it! Discuss eagerly!
 
@@ -166,13 +161,13 @@ island all the way in the west.
 We didn't just laze around on the beach; we also undertook some
 grueling hikes that really wore us out. And believe me, my life
 hasn't been short of brutal hikes. The so-called "Alakai Swamp Trail"
-is 15 kilometers long and requires overcoming some elevation, which
+is 10 miles long and requires overcoming some elevation, which
 takes a solid 6 hours. And a few days later, we tackled the
-Nualolo-Awaawapuhi Trail, which was another 15 kilometers long with a
+Nualolo-Awaawapuhi Trail, which was another 10 miles long with a
 2,000-foot elevation difference. On such a trail, you hardly
 encounter any Americans, but naturally, you meet Germans and a
-British couple. And on the way back to the parking lot, which ran
-along a road for a while, a Frenchman gave us a lift for the last
+British couple. And on the way back to the parking lot, where we hiked
+along the road for a while, a Frenchman gave us a lift for the last
 stretch. Apparently, Americans have an aversion to grueling hikes.
 
 <pic images/canyon.ps The Waimea Canyon in the evening light>
@@ -192,8 +187,7 @@ learned: Never squirt lighter fluid onto partially burning coals. It
 does say on the packaging not to do that, but as you know, I don't
 take advice. Now I know why the warning was on the lighter fluid.
 
-<pic images/ampel.ps A discarded traffic light on the edge of a
-sugarcane plantation>
+<pic images/ampel.ps A discarded traffic light on the edge of a sugarcane plantation>
 
 In the north, we then stayed for a few days north of Kilauea, where
 there was, however, a severe shortage of geckos and an excess of
@@ -202,10 +196,9 @@ picture (#1) from Kekaha, where I photographed it.
 
 <pic images/gecko2.ps (#1) The gecko on the house wall.>
 
-@Z: Top product: Sand digger
+@Z: Top product: Sand Digger
 
-<pic images/sanddigger.ps The "Sand Digger" - An Anchor Screw for the
-Sunshade>
+<pic images/sanddigger.ps The "Sand Digger" - an anchor for the beach umbrella>
 
 In Hawaii, there is always a pleasantly warm, gentle breeze, which
 can occasionally become a bit gusty. If you have drilled a large sun
@@ -215,38 +208,35 @@ uncool manner.
 
 That's why there is the "Sand Digger," a patented sunshade anchor
 that you screw into the sand, and then attach the sunshade to the
-holder, which sits as firmly as cement. The manufacturer guarantees
+holder, which sits as firmly as in cement. The manufacturer guarantees
 securely fastened sunshades up to wind force 4. Available for only
 about 10 dollars at Wal-Mart!
 
-On Hawaii, there is always a pleasantly light breeze: In a vacation
-rental, naturally without air conditioning.
-
-@Z: Online printing at Costco
+@Z: Online Printing At Costco
 
 If you print your digital photos on an inkjet printer, it is
 extremely expensive. The printer ink mafia has ruthlessly driven up
 prices in recent years. Additionally, the quality of the photos
 usually does not withstand the expert eye; the photos are not of the
-same quality as those from a photo shop, primarily due to the
+same quality as those from a print shop, primarily due to the
 printing process.
 
 If you take the images on a CD to a photo development service, the
 results can vary. The mega supermarket "Costco," on the other hand,
 offers a service where you can upload the images via the internet and
-then pick them up a few hours later at the nearest branch. This is
+then pick them up a few hours later at the nearest Costco location. This is
 nothing special in itself, but what is exciting is that you can
 provide Costco with a so-called "profile" along with the images, so
 that they print the photos exactly as they appeared on a calibrated
-screen at home in photo editing software like "Photoshop" or "Gimp.
+screen at home in photo editing software like "Photoshop" or "Gimp."
 
 The whole process works like this: Volunteers have a reference photo
 developed at a Costco store every few months, analyze the result, and
-calculate the profile from it.
+calculate the color profile from it.
 
 On the website of
 <LINK>http://www.drycreekphoto.com/Frontier|drycreekphoto.com</LINK>
-The current profiles are listed for almost every Costco in the entire
+he current profiles are listed for almost every Costco location in the entire
 USA. To select the Costco in San Francisco, you first click on
 "California" under "US States" and then scroll down the list on the
 right to "San Francisco." Under "Costco #144," it states that this
@@ -254,18 +244,17 @@ branch has a "Noritsu Model 3111" printer that uses "Fuji Crystal
 Archive Paper." There is a profile available for both glossy and
 lustre/matte photo paper. I tried it out, and the result was
 astonishing. And the price is unbeatable at 17 cents for a 4x6 photo.
-I now know professionals who have their pictures developed there!
+I actually know photo professionals who have their pictures developed there!
 
-@Z: Kreditkartenfirmen-Machenschaften
+@Z: Schemes Of Credit Card Companies
 
-<pic images/checks.ps The credit card company offers a low interest
-rate and provides the checks as well.>
+<pic images/checks.ps The credit card company offers a low interest rate and provides the checks as well.>
 
 <em>Angelika</em> 
 The persistent view holds that every American pays even the smallest
-amount with their credit card, and when paying with cash, people roll
-their eyes sympathetically: "Look at this poor guy, he has to hand
-over bills because he can't get a credit card." It's not quite that
+amounts with their credit cards, and when paying with cash, people roll
+their eyes in a condescending way: "Look at this poor guy, he has to hand
+over bills because he can't get a credit card." However, it's not quite that
 bad. You pay for your coffee at the "coffeeshop" in cash, and no one
 finds it strange. On the contrary, many smaller businesses even set a
 minimum amount (between 5 and 15 dollars) from which customers can
@@ -280,9 +269,9 @@ to a penniless student. My friend Marianne and I wanted to rent a car
 in Las Vegas without a credit card and had to sift through the Yellow
 Pages of Las Vegas until "Brooks-Rent-A-Car" finally agreed to give
 us a car if we deposited our return flight tickets and some
-travelerâs checks. Or shopping online: since America doesn't have
+travelers checks. Or take shopping online: since America doesn't have
 the direct debit system as understood in Germany, nothing works
-without a plastic card.
+without plastic money.
 
 In America, credit cards actually embody what the name promises. When
 a customer pays with a credit card, credit is granted, and interest
@@ -296,7 +285,7 @@ cards. However, they are indispensable for foreigners who have just
 settled in the USA and have not yet obtained a traditional credit
 card.
 
-As long as the credit card holder pays their credit card bill, which
+As long as the credit card holder keeps paying their credit card bill, which
 arrives once a month, on time and in full, they are in the clear. But
 beware, if interest and fees accrue, then paying with a credit card
 is actually the dumbest thing you can do, because credit card
@@ -313,11 +302,11 @@ period" is eliminated for cash withdrawals, even if you always pay
 your bill in full, meaning interest accrues as soon as the ATM
 dispenses the money. Furthermore, customers are usually charged a fee
 of 2-3% for using the ATM. The credit card company lists on the bill
-which interest rate applies to what. For example, with our Chase Visa
+which interest rate applies in which case. For example, with our Chase Visa
 card, it's 22.74% for cash advances and 18.74% for other purchases.
 (By the way, we pay our credit card bills in full every month).
 
-Behind the percentage lies the annual percentage rate (APR), which
+Behind the percentage listed lies the annual percentage rate (APR), which
 varies from customer to customer. The free market rules here, as
 there is no law that dictates how high this interest rate can be. If
 you pay your bills late or exceed your credit limit, there are not
@@ -337,34 +326,33 @@ card, citing that the customer's behavior poses an increased risk for
 them as well. The customer might be in financial trouble and need a
 new credit card for that reason. The companies obtain information
 about the individual customer's payment behavior by accessing the
-much-discussed "Credit Report" (
-<RBLINK>20040518#4</RBLINK>
-Querying. With our Chase card, paying the required minimum payment
+much-discussed "Credit Report" (<RBLINK>20040518#4</RBLINK>)
+With our Chase card, paying the required minimum payment
 late could cost us up to 39 dollars. The minimum payment is the
 portion of the granted credit that must be paid off each month, no
 matter what, usually 2% of the outstanding balance, which is not
 exactly a huge amount. Many financial advisors and consumer
 associations bitterly complain about this because if you only pay the
 minimum required amount and nothing more, it can take years to pay
-off the Christmas gifts that were all bought with the credit card.
+off the Christmas gifts that were all bought with a credit card.
 
-Many credit card companies also try to attract customers by offering
+Many credit card companies also try to attract new customers by offering
 them favorable introductory interest rates (or even interest-free
 periods) for a few months. They are particularly interested in having
 you transfer balances from competitors' cards to the new card. We
 constantly receive such offers: "0% Introductory Rate." This
 initially sounds good to many, but the interest rate naturally
-increases after the introductory months expire. And often, the
-favorable rate only applies to the transferred amount and not to new
+increases after the introductory months. And often, the
+favorable rate only applies to the transferred amount and not to any new
 purchases.
 
 Although everyone thinks that there are countless companies offering
 credit cards, the five largest, namely JPMorgan Chase, American
 Express, MBNA, Bank of America, and Citigroup, dominate 65% of the
 market, according to the Consumer Reports magazine in November 2005.
-Of course, the credit cards still come in a variety of different
+Of course, credit cards still come in a variety of different
 designs. Michael particularly loves the cards that have some kind of
-bonus programs, such as getting 2% back on certain purchases at the
+bonus programs, such as getting 2% cash back on certain purchases at the
 end of the year or being able to collect eBay points when using the
 card. However, we always attract the most attention with our Linux
 Mastercard (incidentally from MBNA), which features the Linux penguin
@@ -374,7 +362,7 @@ operating system for the computer.
 
 @Z: CD of the Month: "Friday the 13th" by Maroon 5
 
-<pic images/friday.ps Friday the 13th" by Maroon 5>
+<pic images/friday.ps "Friday the 13th" by Maroon 5>
 
 <em>Michael</em> 
 Actually, I shouldn't really recommend this CD because it has a nasty
@@ -394,7 +382,7 @@ the album many times from start to finish, and I could go wild with
 every song. I just have to be careful at work not to stomp my feet
 too hard when I listen to the album with headphones.
 
-@Z: Leffe" Beer
+@Z: "Leffe" Beer
 
 <pic images/leffe.ps The Belgian "Leffe" beer>
 
@@ -415,7 +403,7 @@ sold in larger bottles at wine prices. Not bad either, but where are
 we headed if a bottle of beer suddenly costs $6? Trader Joe's
 seriously sells it. Sometimes the Americans are a bit crazy.
 
-@Z: The Tooth Fairy is coming.
+@Z: The Tooth Fairy Is Coming
 
 <pic images/toothfairy.ps A children's book about the Tooth Fairy>
 
@@ -430,11 +418,9 @@ stories and children's books from the kindergarten in the Tenderloin,
 where I work. Here's how it works: When a child loses a milk tooth,
 they place it under their pillow. During the night, the Tooth Fairy
 (i.e., the parents) comes and exchanges the tooth for money, usually
-1 dollar nowadays. In contrast, I used to place my milk teeth in a
+1 dollar nowadays. In contrast, back in the day, I used to place my milk teeth in a
 matchbox lined with cotton. There was no money involved.
 
 Your crooked-toothed Europeans in San Francisco:
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
