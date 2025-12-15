@@ -4,8 +4,6 @@ San Francisco, 12-17-2005
 
 <pic images/gg.ps Angelika and Michael at the "Garden of the Gods">
 
-TODO
-
 <em>Angelika</em> 
 Many complain that Christmas has become all about commerce, with no
 room for reflection, silence, and introspection. To give you
@@ -30,7 +28,7 @@ humans) evolved from lower to higher forms through the process of
 mutation and selection over millions of years.
 
 In America, some religious zealots have always tried to push the
-theory of evolution into the background in biology classes. However,
+theory of evolution into the background in biology class. However,
 in 1987, the justices of the Supreme Court put their foot down once
 and for all. They ruled that creationism is a form of religion.
 Religion, however, cannot be taught in public schools in the USA, as
@@ -41,8 +39,8 @@ This highest judicial decision does not prevent various school boards
 from conveying their negative stance towards the theory of evolution
 to students through the back door. School boards in the USA do have
 influence on the curriculum at the local level, even though public
-schools are generally required to follow state guidelines.
-<RBLINK>20030801#7</RBLINK>
+schools are generally required to follow state guidelines
+(<RBLINK>20030801#7</RBLINK>).
 In Cobb County, in the state of Georgia, the school board decided to
 place stickers on biology textbooks as a form of warning, with the
 following text: "This textbook contains material on evolution.
@@ -52,7 +50,7 @@ carefully and critically considered." However, the sticker had to be
 removed because Judge Clarence Cooper ruled in January of this year
 that the text endorses the creationist viewpoint and is strongly
 religious in nature. Twenty states are now considering changes to how
-the theory of evolution is taught. It becomes particularly
+the theory of evolution is being taught. It becomes particularly
 contentious when state-level curriculum guidelines oppose Darwin.
 There is still much to be addressed by the individual courts.
 
@@ -62,10 +60,9 @@ students before the evolution unit. This passage states that state
 guidelines require teaching Darwin's theory of evolution, but that it
 is a theory and not a fact, and that "Intelligent Design" is an
 alternative to Darwin's views. The statement kindly pointed out that,
-therefore, the book...
-<LINK>http://www.amazon.com/gp/product/0914513400|Of Pandas and
-People</LINK>
-, a standard work of the Intelligent Design movement, is available
+therefore, the book
+<LINK>http://www.amazon.com/gp/product/0914513400|Of Pandas and People</LINK>,
+a standard work of the Intelligent Design movement, is available
 for review. Behind "Intelligent Design" (ID) lies a sort of moderate
 creationism. ID proponents claim that life is too complex and cannot
 be explained solely by evolution. Only the existence of an
@@ -101,7 +98,7 @@ decide whether reading the aforementioned statement violates the
 separation of church and state in public schools. The biology
 teachers at Dover High School had already shown backbone by refusing
 to read the statement. The superintendent then read it. There are now
-no pro-Intelligent Design members left on the Dover School Board. The
+no pro-"Intelligent Design" members left on the Dover School Board. The
 citizens of Dover decided at the ballot box and voted them all out in
 November 2005. Sometimes the democratic process works excellently in
 this country.
@@ -114,9 +111,8 @@ their town. Ah! Only in America!
 President Bush, unsurprisingly, believes it is right to teach both
 evolution and "Intelligent Design" in biology classes. In general, I
 don't understand what the creationism or Intelligent Design debate is
-doing in biology classes. If anywhere, it belongs in philosophy
+doing in biology class. If anywhere, it belongs in philosophy
 class. But no one asks me.
 
 Well then, Merry Christmas from your two newsletter reporters, who
 don't mind at all being descended from apes: Angelika and Michael.
-
