@@ -519,12 +519,10 @@ display. And our answering machine even announces the number while
 it's ringing, so we don't even have to get up from the sofa when
 another telemarketer calls.
 
-TODO
-
 If you happen to pick up when a telemarketing call comes in, you
 typically hear nothing for about 5 seconds. You shout "Hello?
-Hello??" into the phone until the automatic dialer of the
-telemarketers connects you to the next available agent. They usually
+Hello??" into the phone until the automatic telemarketer dialer
+connects you to the next available agent. They usually
 ask, "How are you doing today?" and then you often hang up, already
 annoyed. One of my colleagues uses the following strategy: When a
 telemarketer calls, he says, "One moment please," as he supposedly
@@ -533,14 +531,13 @@ it will take a little longer. This way, the telemarketer has to stay
 on the line and wait, unable to bother other people. It's a clever
 idea, but there's an easier way.
 
-For there is the
-<LINK>https://www.donotcall.gov|Do-Not-Call-List</LINK>
+For there is the <LINK>https://www.donotcall.gov|Do-Not-Call-List</LINK>.
 Anyone whose phone number is on this nationwide USA list cannot be
 called by telemarketers. If they do call, they face such high fines
 that they actually refrain from doing so. I was initially a bit
 skeptical, but I have to say that we hardly receive any telemarketing
 calls anymore since our number has been on this list. Exceptions are
-companies with which you already have contracts (for example, the
+companies with which you already have relationships (for example, the
 phone company) or non-profit organizations seeking donations. Adding
 your own phone number to the list takes about 30 seconds. You simply
 go to www.donotcall.gov, enter the number, and that's it. After about
@@ -550,25 +547,26 @@ most telemarketers are shocked.
 
 @Z: Baby Bullet
 
-<pic images/bbullet.ps A gift for the people who rode the first "Baby
-Bullet.>
+<pic images/bbullet.ps A gift for the people who rode the first "Baby Bullet.>
 
+<em>Michael</em> 
 One would be amazed to hear that public transportation has been
-improved here in Silicon Valley, and that in the land of car
+improved here in Silicon Valley, can you believe it, in the land of car
 enthusiasts!
-<LINK>http://www.usarundbrief.com/31/images/mvcal.html|The ancient
-Caltrain trains</LINK>
-I have already written about this once before. For years, I used to
-travel with them every day for about an hour from San Francisco to
-Mountain View, which is located 50 km to the south, and back. For
+I've already written about the
+<LINK>http://www.usarundbrief.com/31/images/mvcal.html|ancient Caltrain trains</LINK>
+in a previous issue.
+For years, I used to
+ride them daily for about an hour from San Francisco to
+Mountain View, which is located 35 miles to the south, and back. For
 some time now, there have been trains that no longer stop at every
-small station but only at three stations. This shortens the travel
-time to 45 minutes! The service is so good and gas prices are so high
+small station but only at three major ones. This shortens the travel
+time to 45 minutes. The service is so good and gas prices are so high
 that now crowds of people are taking the train to Silicon Valley. The
-train sometimes runs with new, quieter carriages and is called the
+train sometimes runs with new, quieter cars and is called the
 "Baby Bullet," likely in reference to the Japanese bullet high-speed
 trains. The comparison is, of course, laughable, because the Silicon
-Valley rumble train only reaches about 120 km/h, but we are in a
+Valley Rumble Train only reaches about 80mph, but we are in a
 developing country, so one can't complain.
 
 On the first day the new Baby Bullet train ran, the conductors handed
@@ -578,7 +576,4 @@ worth a fortune on eBay, bahahaha!
 
 Greetings from the land of future environmental angels:
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
