@@ -4,21 +4,18 @@ San Francisco, 04-21-2006
 
 <pic images/fastrak.ps The Fastrak transponder for the car>
 
-TODO
-
 <em>Michael</em> 
-San Francisco is known to be located at the tip of a peninsula. If
+San Francisco is known to be located at the northern tip of a peninsula. If
 you want to go north, you take the Golden Gate Bridge to Marin. If
 you want to go east, you drive over the gray Bay Bridge to Oakland.
 To the west lies the Pacific Ocean, and only to the south can you
 leave San Francisco without using a bridge.
 
-<pic images/peninsula.ps San Francisco is located at the northern end
-of a peninsula.>
+<pic images/peninsula.ps San Francisco is located at the northern end of a peninsula.>
 
 If you drive out of the city over a bridge, there is no charge.
 However, if you drive into the city, it not only costs exorbitant
-amounts ($5 on the Golden Gate, $3 on the Bay Bridge), but the
+amounts of money ($5 on the Golden Gate, $3 on the Bay Bridge), but the
 traffic also backs up because everyone has to stop and pay the fee in
 cash at a small toll booth. The worst part: The average American
 doesn't hurry, of course, creeping up to the toll booth at a snail's
@@ -26,24 +23,24 @@ pace, then awkwardly rummaging through their wallet for a few bills,
 and perhaps even stalling their SUV in the process.
 
 That drives me crazy. That's why I recently ordered Fastrak, the
-American answer to "Toll Collect" and the vignette. You get a small
+American answer to "Toll Collect" and the Euro Vignette. You get a small
 transponder box for your car, which picks up signals from the toll
 station and automatically deducts the due amount from your credit
 card-fed account.
 
-Typically American, the device doesn't always work, of course. The
-first time we drove back to the city in the evening from a day trip
+Typically American, the device doesn't always work, of course. For
+example, recently, we
+drove back to the city in the evening from a day trip
 to Napa Valley. Casually, I chose one of the two "Fastrak Only"
 lanes, overtaking all the slowpokes who had to line up, and we
 excitedly approached the toll booth. Because of a sign that read "Max
 5 mph," I slowed down to 5 miles per hour. Okay, it might have been a
-few miles more. In any case, the little device in the car was
+few miles more, but in any case, the little device in the car was
 supposed to beep and the toll booth should display "Fastrak valid."
 Instead, there was no beep, and the display lit up with "Call
 Fastrak." Well, great.
 
-<pic images/bayb.ps Top left and center: The two sections of the Bay
-Bridge, photographed from our window.>
+<pic images/bayb.ps Top left and center: The two sections of the Bay Bridge, photographed from our window.>
 
 Once I got home, I called the toll-free 1-800 number, but an
 automated message informed me that calls are only accepted from
@@ -62,18 +59,14 @@ worked flawlessly when returning from another trip to Marin. Things
 aren't always precise in America, but in the end, they manage to get
 it right.
 
-<pic images/ftf.ps On the Fastrak website, you can see how often you
-have driven over which bridges.>
+<pic images/ftf.ps On the Fastrak website, you can see how often you have driven over which bridges.>
 
-@Z: Calistoga Indian Springs" is already in English. It refers to a
-location in Calistoga, California, known for its natural hot springs
-and spa facilities.
+@Z: Calistoga Indian Springs
 
-<pic images/isoview.ps Indian Springs" is already in English. It
-refers to a place name and does not require translation.>
+<pic images/isoview.ps Indian Springs>
 
 <em>Angelika</em> 
-Several Americans have asked us about the German spa system, both
+Several American friends have asked us about the German spa system, both
 fascinated and bewildered. Paid spa treatments are seen by Americans
 as the icing on the cake of the German welfare state. However,
 disappointment quickly followed when I explained that paid spa
@@ -86,10 +79,11 @@ can find several such places, as California's volcanic history means
 that pleasantly warm water still bubbles up here and there from
 geysers and the like. Calistoga, for example, is one such place; and
 it has the nice advantage of being located right in the middle of the
-wine region "Napa Valley." Calistoga is located about 120 kilometers
+wine region "Napa Valley." Calistoga is located about 80 miles
 north of San Francisco. The small town has retained its Californian
 charm and boasts some good restaurants and many so-called spas
-(singular: "spa"). I believe you now refer to these in modern German
+(singular: "spa"). I believe you guys are actually now referring
+to these in modern German
 as wellness centers. In these, people burdened by everyday life can
 relax with a massage or a mud bath. Calistoga is famous for its mud
 baths.
@@ -97,11 +91,13 @@ baths.
 Michael has so far been reluctant to bury himself up to his neck in
 the mud made of volcanic ash because the mud is not changed from one
 spa guest to the next. A bit sensitive, the man! I, on the other
-hand, have already enjoyed such a bath, for which I bravely lay down
+hand, have already enjoyed such a bath, for which I bravely laid down
 in something like a bathtub and let myself be covered with mud. The
 mud is quite hot, and after a short time, sweat runs down your
 forehead like nobody's business. But that's probably the point: to
 detoxify the body and absorb the minerals from the mud.
+
+TODO
 
 Samuel Brannan opened the first hotel with a spa in Calistoga around
 1860 because he dreamed of creating a second Saratoga Springs (a
