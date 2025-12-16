@@ -452,7 +452,7 @@ schon in der Vorrunde ausgeschieden war.
 Im nächsten Rundbrief werde ich mich daran versuchen zu erklären, warum ich
 meine, dass Donald Trump es nochmal schaffen wird.
 
-@Z: Toppprodukt: JB-Weld
+@Z: Toppprodukt: J-B Weld
 
 <pic images/j-b-weld.ps Die zwei Tuben des Epoxid-Klebers J-B Weld.>
 
@@ -492,7 +492,7 @@ den anliegenden Materialien, sodass so etwas wie eine geschweißte Verbindung en
 Die von einer Klappkiste abgebrochene Plastiknase, ohne die sie nicht mehr richtig
 schloss (Abbildung (#1)), habe ich so wieder bombenfest angeschweißt.
 
-<pic images/jb-weld-crate-fixed.ps (#1) Die abgebrochene Plastiknase der Klappbox hat JB-Weld astrein wieder angeflickt.>
+<pic images/jb-weld-crate-fixed.ps (#1) Die abgebrochene Plastiknase der Klappbox hat J-B Weld astrein wieder angeflickt.>
 
 Laut
 <LINK>https://en.wikipedia.org/wiki/J-B_Weld|Wikipedia|J-B Weld auf Wikipedia</LINK>
