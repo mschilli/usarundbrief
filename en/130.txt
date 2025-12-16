@@ -426,7 +426,7 @@ primaries.
 
 In the next newsletter, I will try to explain why I believe that Donald Trump will succeed again.
 
-@Z: Top product: JB-Weld
+@Z: Top product: J-B Weld
 
 <pic images/j-b-weld.ps The two tubes of J-B Weld epoxy adhesive.>
 
@@ -462,7 +462,7 @@ adjacent materials, creating something akin to a welded connection. I used it
 to firmly reattach the broken plastic tab from a folding crate, without which
 it wouldn't close properly (see Figure #1).
 
-<pic images/jb-weld-crate-fixed.ps (#1) The broken plastic nose of the folding box was perfectly reattached with JB-Weld.>
+<pic images/jb-weld-crate-fixed.ps (#1) The broken plastic nose of the folding box was perfectly reattached with J-B Weld.>
 
 According to <LINK>https://en.wikipedia.org/wiki/J-B_Weld|Wikipedia|J-B Weld on Wikipedia</LINK>, the miracle paste was invented in 1968 by an American hobbyist,
 at the urging of his wife, turned it into a small business. The life dream of
