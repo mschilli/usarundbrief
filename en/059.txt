@@ -209,8 +209,6 @@ and America as the savior of the world. Yawn! But then the president,
 deeply connected to the oil industry, said: "America is addicted to
 oil, which is often imported from unstable parts of the world.
 
-TODO
-
 And he added another point, namely that 75% of American oil imports
 from the Middle East must be replaced by alternative energy sources
 by the year 2025. This alarmed the Saudi Arabian ambassador, who
@@ -225,21 +223,21 @@ But the more liberal American press is increasingly picking up on
 this idea. Columnist and Middle East expert Thomas Friedman is
 tirelessly writing about it in the New York Times. His mantra is more
 fuel-efficient cars and a high gasoline tax. After the speech, the
-opposition is given the opportunity for a rebuttal, the so-called
+opposition is given the opportunity for a response, the so-called
 "Rebuttal." However, this no longer takes place in Congress with an
 audience. This year, Governor Tim Kaine from Virginia and Mayor
 Antonio Villaraigosa from Los Angeles spoke for the Democrats, with
 Villaraigosa delivering his response in Spanish, by the way.
 Surprised, aren't you?
 
-@Z: Müll
+@Z: Garbage Collection
 
-<pic images/threecans.ps Three bins for glass/paper/plastic, regular
-waste, and compost.>
+<pic images/threecans.ps Three bins for glass/paper/plastic, regular waste, and compost.>
 
+<em>Angelika</em> 
 Our visitors from Germany are always surprised that recycling is also
 done in San Francisco. America simply has a reputation for packaging
-mania and a throwaway society. And for the most part, that's true;
+mania and a throwaway mindset. And for the most part, that's true;
 Americans are still far from recycling as progressively as the
 Germans do. For example, at larger private parties, most people still
 find it quite normal to eat from paper plates and use plastic
@@ -259,25 +257,25 @@ in a green bin.
 Things made of plastic, on the other hand, are also a science in
 themselves here. Only plastic bottles with the numbers 1 to 7 and
 plastic cups and lids with the numbers 2, 4, 5 go into the blue bin.
-The number is stamped on the bottom of the bottle or cup--the
-American recycling symbol. The water bottle in the illustration (#4),
-for example, has the number 1 in the stamped recycling triangle on
+The number is stamped on the bottom of the bottle or cup--similar to the
+German "green point" recycling symbol. The water bottle in illustration (#4),
+for example, has the number 1 in the stamped recycling triangle at
 the bottom of the bottle. Into the bin it goes!
 
-Caps from glass or plastic bottles, as well as bottle caps, are not
-recycled, which Michael still hasn't understood, even though there's
+Lids for glass or plastic bottles, as well as metal bottle caps, are not
+being recycled, which Michael still hasn't understood, even though there's
 now a large poster on our fridge showing the items that can go into
 the blue bin. Recycling is becoming increasingly popular in America.
 Many cities have similar blue bin programs like San Francisco. In
 more remote areas, you often have to take matters into your own hands
 and bring paper, glass, and cans to designated containers. During our
 last vacation on Kauai, we drove around the island for miles with a
-pile of old glass until we finally found the island's only glass
+pile of old glass bottles until we finally found the island's only glass
 recycling container.
 
 Green bins, intended for compostable waste, are also appearing more
 frequently in front of houses in San Francisco. Many restaurants and
-hotels participate in the city's composting program. The organic
+hotels participate in the city's composting program. Organic
 waste is processed into compost by the company Jepson Prairie
 Organics. Wineries in Napa and Sonoma spread it between their vines
 so that the fine grapes for California wine can thrive. And speaking
@@ -287,7 +285,7 @@ beginning of January.
 
 Even though recycling is no longer a foreign concept in America,
 California/San Francisco often takes a leading role when it comes to
-environmental protection. For example, at the beginning of February,
+protecting the environment. For example, at the beginning of February,
 a law came into effect in California that prohibits the disposal of
 old batteries, neon tubes, mercury thermometers, and so-called
 electronic waste (cell phones, printers, computer monitors,
@@ -297,14 +295,13 @@ far-reaching in the USA. Additionally, starting in July, stores that
 sell cell phones will be required to take back old ones. For a
 change, we are aligning ourselves with European regulations.
 
-@Z: The translation of "WÃ¶rter, die niemand kennt" to English is
-"Words that nobody knows.
+@Z: Words that nobody knows
 
 <em>Michael</em> 
 In the series "Words Nobody Knows," we present English words that
 even the most seasoned English speakers don't know, but every child
 in America does. We guarantee that you can drive English teachers at
-high schools crazy with them! So, use our words diligently in your
+German high schools crazy with them! So, use our words diligently in your
 school essays! Today: What is the name of the ice resurfacing machine
 for ice rinks? You know, those giant carts on four wheels with an ice
 scraper at the back that makes the ice surface in stadiums nice and
@@ -313,27 +310,25 @@ smooth again between hockey games or ice skating events.
 That is a 'Zamboni.' Named after its inventor Frank J. Zamboni, who
 lived from 1901 to 1988. As is often the case, this word is also
 described with extremely lovingly detailed explanations in Wikipedia,
-the encyclopedia of the future. Just look it up under...
-<LINK>http://en.wikipedia.org/wiki/Zamboni|Zamboni on
-Wikipedia.org</LINK>
-The translation to English is: "Afterwards, you will already know
-everything worth knowing.
+the encyclopedia of the future. Just look it up under
+<LINK>http://en.wikipedia.org/wiki/Zamboni|Zamboni on Wikipedia.org</LINK>.
+Afterwards, you will already know everything worth knowing.
 
 @Z: Top product: Roomba
 
-<pic images/roomba.ps The little Roomba is scurrying around on the
-carpet in my study.>
+<pic images/roomba.ps The little Roomba is scurrying around on the carpet in my study.>
 
-No one likes to pick up the vacuum cleaner. Pushing that heavy thing
-around the apartment and then having to go back and forth over every
-piece of lint five times until it finally gets sucked up -- it's
-incredibly annoying.
+<em>Michael</em> 
+No one in our household likes to pick up the vacuum cleaner. Pushing that heavy
+thing around the apartment and then having to go back and forth over every
+piece of lint five times until it finally gets sucked up -- it's incredibly
+annoying.
 
 Fortunately, for some time now, there have been small vacuum robots
 like the "Roomba" that you just turn on, and it independently
 explores the apartment. The saucer-shaped little guy remembers which
 obstacles it encounters and gradually builds an internal map of the
-apartment. Once it has covered all the corners, which takes about
+area covered. Once it has covered all the corners, which takes about
 half an hour depending on the room size, it beeps a cheerful melody
 and turns itself off. The little fellow is surprisingly effective, as
 it also goes under the couch and the bed, where a regular vacuum
@@ -352,34 +347,31 @@ so-called "Virtual Walls." These battery-operated blocks emit a
 linear radio signal in one direction, creating something like a light
 barrier for the Roomba, causing it to turn around immediately.
 
-The Roomba in action.
-
 I have a small video with the
-<LINK>http://www.youtube.com/watch.php?v=fmQEzgH-fgM|Roomba in
-action</LINK>
-The translation to English is: "turned, as it just zooms under our
+<LINK>http://www.youtube.com/watch.php?v=fmQEzgH-fgM|Roomba in action</LINK>,
+as it just reaches under our
 bed, comes back out, and then tackles the dirt under the dresser. By
 the way, there is also a second video from another Roomba owner that
-is very funny.
-<LINK>http://www.youtube.com/watch.php?v=UmeoObqcYNY|The Roomba
-scares a house cat.</LINK>
-.
+is very funny, where a <LINK>http://www.youtube.com/watch.php?v=UmeoObqcYNY|Roomba
+scares a house cat</LINK>.
 
-I can only recommend the Roomba; it's just incredibly cool to lock it
-in a room and let it work for half an hour while you turn on the TV
+I can recommend the Roomba; it's just incredibly cool to lock it
+into a room and let it work for half an hour while you turn on the TV
 or tinker on the computer.
 
-@Z: The best toilets in the city center
+@Z: The Best Toilets Downtown
 
-<pic images/bby.ps The translation to English is: "Outstanding
-locations: Bed, Bath, and Beyond>
+<pic images/bby.ps Outstanding locations: Bed, Bath, and Beyond>
 
-You know how it is: You're in the city center and need to use the
+<em>Michael</em> 
+You know how it is: You're downtown and need to use the
 restroom. Restaurants and cafes don't like it when you just use their
 toilets and sometimes make it quite difficult if you're not a
 customer. But if you know your way around, it's relatively easy to
 find establishments that allow you to use the restroom without having
 to make any pseudo-purchases.
+
+TODO
 
 I must advise against using public toilets. Firstly, all subway
 toilets were promptly closed following the September 11, 2001
