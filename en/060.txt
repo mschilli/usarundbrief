@@ -97,8 +97,6 @@ mud is quite hot, and after a short time, sweat runs down your
 forehead like nobody's business. But that's probably the point: to
 detoxify the body and absorb the minerals from the mud.
 
-TODO
-
 Samuel Brannan opened the first hotel with a spa in Calistoga around
 1860 because he dreamed of creating a second Saratoga Springs (a
 famous resort in the state of New York). Allegedly, the name
@@ -111,9 +109,9 @@ treatments.
 Our favorite accommodation in Calistoga is the "Indian Springs
 Resort," which is located on the property originally acquired by Sam
 Brannan. However, it's not the massages or mud baths that attract us
-there, but the swimming pool fed by the naturally hot spring. The
-pool is Olympic-sized, and its water temperature varies between 32 to
-39 degrees Celsius depending on the season.
+there, but the swimming pool fed by a natural hot spring. The
+pool is Olympic-sized, and its water temperature varies between 90 to
+102 degrees Fahrenheit depending on the season.
 
 <pic images/ispoolv.ps The beautiful big hot pool at night>
 
@@ -123,11 +121,11 @@ typically has quite cool nights during this time. There's nothing
 better than scurrying through the cold night to the swimming pool and
 then slipping into the warm water, making your legs tingle from the
 temperature difference. As a hotel guest, you can use the pool until
-midnight. Every time, I feel like I'm in a Hitchcock movie. The pool
-is dimly lit, and the water steams. Occasionally, you can see the
+midnight. Every time we're there, I feel like I'm in a Hitchcock movie. The pool
+is dimly lit, and the water is steaming. Occasionally, you can see the
 outline of a person through the mist. Eerily beautiful!
 
-<pic images/ispool.ps Angelika at a health resort>
+<pic images/ispool.ps Angelika at the health resort>
 
 However, the fun isn't exactly cheap. To rent one of the small
 cottages, you need to have some money to spare, especially during the
@@ -136,66 +134,64 @@ premises is a bit easier on the wallet, but the tastefully decorated
 rooms there don't have a refrigerator or even a kitchen like the
 rentable cottages do. By the way, Calistoga can even boast its own
 mineral water, which is sourced from natural spring water. The
-company is also called Calistoga and unfortunately now belongs to the
+bottled water company is also called Calistoga and unfortunately now belongs to the
 large Nestle group. If you're traveling in Northern California and
 order a mineral water, you might be asked if a Calistoga is okay. Now
 you know what that means.
 
-@Z: Bureaucracy in the Road Traffic Regulations
+@Z: Bureaucracy in Road Traffic Regulations
 
-<pic images/garage.ps The parking garage of Yahoo>
+<pic images/garage.ps The Yahoo parking garage>
 
-<em>Michael</em> 
-One of the biggest stereotypes about America is that there is no
-bureaucracy. However, as soon as you have dealings with authorities,
-the opposite is true; red tape is even worse there than in Germany.
-This certainly applies to the insanely complicated tax return, but
+<em>Michael</em> One of the biggest stereotypes about America is that there is
+no bureaucracy. However, as soon as you have dealings with authorities here,
+you'll find that exactly the opposite is true; red tape is even worse here than
+in Germany.  This certainly applies to the insanely complicated tax return, but
 there are even more interesting examples.
 
-Did you know, for example, that in California there are special...
-<LINK>http://www.dmv.ca.gov/pubs/vctop/d11/vc22456.htm|Regulations
-for mobile ice cream vendors</LINK>
-background: In 1999, a 4-year-old girl in San Bernardino (near Los
-Angeles) ran towards an ice cream truck and was struck and killed by
+Did you know, for example, that in California there are special
+<LINK>http://www.dmv.ca.gov/pubs/vctop/d11/vc22456.htm|regulations for mobile ice cream vendors</LINK>?
+Background: In 1999, a 4-year-old girl in San Bernardino (near Los
+Angeles) ran towards a parked ice cream truck and was struck and killed by
 a passing car. Two years later, the then-Governor of California, Gray
 Davis (later replaced by Arnold Schwarzenegger), signed the "Destiny
 Nicole Stout Memorial Act," named after the deceased girl. This law
 introduced specific regulations for mobile ice cream vendors.
 According to traffic regulations, an ice cream vendor is not allowed
 to stop on roads where cars travel faster than 25 miles per hour.
-Additionally, they must display large signs with the words "WARNING"
+
+Additionally, vendors must display large signs with the words "WARNING"
 and "CHILDREN CROSSING" on both the front and back of the ice cream
 truck. These signs must be at least 12 by 48 inches (30 cm x 123 cm)
 in size to ensure they can be read from a distance.
-<LINK>http://usarundbrief.com/cgi/u.cgi/21|Zeitungsbericht</LINK>
-The sentence translates to: "further details are explained regarding
-the changes to the road traffic regulations.
+If you want to know further details about this regulation, here's
+a <LINK>http://usarundbrief.com/cgi/u.cgi/21|newspaper story</LINK>.
 
 Another special feature is the application of traffic regulations to
 private parking lots. For example, if someone shamelessly parks their
 car in a disabled parking space at the supermarket, the police can
 issue a ticket. However, this is only possible if there is a sign at
 the entrance of the premises stating that traffic regulations also
-apply on private property. This serves as an invitation from the
+apply on this private property. This serves as an invitation from the
 supermarket to passing traffic wardens (who are often male in the
 USA), who otherwise have no business on private property.
 
 @Z: Ycantpark
 
+<em>Michael</em>
 I dug up these regulations because recently a police car drove up to
 the Yahoo parking lot and issued hefty fines to all the cars parked
 in disabled parking spaces without a disabled permit. They're not
-cheap; each one costs about 300 dollars! I can, of course, only laugh
+cheap; each one cost about 300 dollars! I can, of course, only laugh
 about these problems because I almost always ride my bike or take the
 shuttle bus provided by Yahoo! to work.
 
 Yahoo! has hired so many people in recent years that the parking
 situation is sometimes a bit tense. If you arrive at the parking lot
 after 10 a.m., you often can't find a parking space anymore and have
-to either go to the valet parker (
-<RBLINK>990603#7</RBLINK>
-...or to a slightly more distant alternative parking lot. Naturally,
-it annoys the Yahoos when some people take up two parking spaces by
+to either go to the valet parker (<RBLINK>990603#7</RBLINK>)
+or to a slightly more distant alternative parking lot. Naturally,
+it annoys us Yahoos when some people take up two parking spaces by
 parking carelessly, thereby worsening the situation through their
 negligence.
 
@@ -203,10 +199,10 @@ negligence.
 
 In the age of ever-present cell phone cameras, the culprits are
 therefore immediately photographed and uploaded to the image service
-Flickr, which was purchased by Yahoo!, under the tag.
-<LINK>http://www.flickr.com/photos/ycantpark|"ycantpark"</LINK>
-..relentlessly exposed on the internet. A hell of a fun! These issues
-are often extensively discussed on internal mailing lists. For
+Flickr, which was purchased by Yahoo!, under the tag
+<LINK>http://www.flickr.com/photos/ycantpark|"ycantpark"</LINK> and
+relentlessly exposed on the internet. A hell of a fun! These issues
+are then often extensively discussed on the company's internal mailing lists. For
 example, some parking spaces are marked as "Compact," and only small
 cars should be parked there, not monster SUVs. If someone does park
 an SUV there, people get really upset! Normally, for parking
@@ -215,32 +211,28 @@ violations at Yahoo!, you receive an internal ticket (illustration
 police showed up, and there was a rude awakening for many who parked
 incorrectly.
 
-@Z: San Francisco im Pass" translates to "San Francisco in the Pass"
-in English.
+@Z: San Francisco in my Passport
 
-<pic images/pass2.ps Finally, San Francisco is listed as my place of
-residence in my passport.>
+<pic images/pass2.ps Finally, San Francisco is listed as my place of residence in my passport.>
 
 <em>Michael</em> 
 When I visited Germany a few years ago and wanted to jet back to the
-USA after a week, the German border officer asked me if I lived in
+USA after a week of vacation, the German border officer asked me if I lived in
 San Francisco. This was quite logical, as Angelika had just passed
-through the exit control, and her German passport listed San
+through the border exit control, and her German passport listed San
 Francisco as her place of residence.
 
-Here's the translation to English:
-
-"I, on the other hand, had not applied for a new passport at that
-time because my old one was still valid, and accordingly, it listed
+I, on the other hand, had not applied for a new German passport at that
+time yet, because my old one was still valid, and accordingly, it listed
 'Munich' as my place of residence. 'Yes,' I said, 'I live in San
 Francisco.' Suddenly, the customs officer became agitated and
-exclaimed, 'That's not possible!' and 'No one knows where you live!'
+exclaimed, 'That's not allowed!' and 'No one knows where you live!'
 
 <pic images/konsulat1.ps The German Consulate in San Francisco>
 
 These two sentences are the hits at every American party where I tell
-this story. The Americans often can't stop laughing! In any case, I
-solemnly promised to apply for a new passport with the correct entry
+this story. Americans often can't stop laughing! In any case, I
+solemnly promised the officer to apply for a new passport with the correct entry
 at the next opportunity.
 
 And that's what I did. If you live outside of Germany, the German
@@ -249,34 +241,35 @@ new passports. Conveniently, San Francisco has a consulate
 (incidentally, along with Los Angeles, the only one on the entire
 West Coast of the USA) in the beautiful villa district of "Russian
 Hill." I went there, paid 50 dollars in cash (checks or credit cards
-were not accepted), presented the deregistration certificate from the
-Munich registration office, as well as a birth certificate, a
+were not accepted), presented my deregistration certificate from the
+Munich registration office (required if you leave Germany),
+as well as a birth certificate, a
 marriage certificate, and my green card, filled out a form, and was
 assured by the German-speaking employee that I would be called at
 home when the passport was ready in about four weeks. I didn't even
-receive a receipt, but you can rely on German authorities, and
-indeed, I was called after the period had passed and was able to pick
+get a receipt, but you can rely on German authorities, and
+indeed, I was called after the waiting period had passed and was able to pick
 up my new passport. And it correctly stated "San Francisco CA/USA" as
-my place of residence. This entry is important if you want to shop
-tax-free in Germany, as we have mentioned before.
-<RBLINK>20010310#6</RBLINK>
-The translation of "beschrieben haben" to English is "have described.
+my place of residence. By the way, this entry is important if you want to shop
+tax-free in Germany, as we have mentioned before (<RBLINK>20010310#6</RBLINK>).
 
 A few years ago, I used to play Schafkopf with an employee of the
 consulate in San Francisco, and that's why I know that there is an
-answering machine there that the officials have to check every few
+answering machine on the premises that the officials have to check every few
 hours, even on weekends. If a German is in trouble in America, the
-consulate must help immediately. Good place, the German consulate in
-San Francisco, I can only recommend it.
+consulate must help immediately. The German consulate in
+San Francisco deserves five stars, I can only recommend it.
 
 <em>Angelika</em> 
-Recently, the German passport has started storing biometric features,
-which makes the whole thing cost 88 dollars, as I found out when I
-applied for my new passport at the consulate. Of course, the
+Recently, German passports started carrying biometric features,
+which makes the document now cost 88 dollars, as I found out when I
+applied for my new passport at the consulate. Of course,
 Americans are to blame for the fuss with the biometric data, because
 German passports issued after October 25, 2006, must have biometric
 data if one wants to continue entering the USA as a German without a
 tourist visa.
+
+TODO
 
 For Germans who possess the American Green Card, this rule does not
 apply, but for new passport applications, biometric features are
