@@ -269,8 +269,6 @@ German passports issued after October 25, 2006, must have biometric
 data if one wants to continue entering the USA as a German without a
 tourist visa.
 
-TODO
-
 For Germans who possess the American Green Card, this rule does not
 apply, but for new passport applications, biometric features are
 already generally stored in chip form. Since these features mainly
@@ -280,7 +278,7 @@ examples of how the photo should look. For example, the face in the
 passport photo must not be smaller than 32 mm, but also not larger
 than 36 mm. Ah!!! The photo looks so ridiculous now because nothing
 but the head is in it. The friendly consulate employee was a bit
-concerned because my eyes are not exactly on the same level, but she
+concerned because both my eyes are not exactly on the same level, but she
 said that the Federal Printing Office in Berlin would accept it. By
 the way, I read that facial recognition has a fairly high error rate.
 Well, cheers to that.
@@ -294,21 +292,20 @@ well as a phone or electricity bill showing your current US address,
 and the Green Card or American residence permit. Naturally, a small
 "Change of Residence" form also needs to be filled out.
 
-The passport is simply clamped into an old-fashioned typewriter, and
-the place of residence is corrected. My passport had long listed San
-Francisco as my place of residence. Since I often travel to Germany
+Your old passport is then simply clamped into an old-fashioned typewriter, and
+the place of residence is corrected. My passport has had San
+Francisco listed as my place of residence for quite some time now.
+Since I often travel to Germany
 and take advantage of tax-free shopping, I eventually got tired of
 arguing with the customs officers in Germany. Despite my Green Card
 and my California driver's license with an American address, they
 would get upset about the still-German place of residence in my
 passport. An officer at the airport in Bremen was particularly
-stubborn once and said that anyone could claim that.
+stubborn once and said that anyone could make up a story.
 
-@Z: The term "Pflichtkrankenkasse in Massachusetts" translates to
-"mandatory health insurance in Massachusetts" in English.
+@Z: Mandatory Health Insurance In Massachusetts
 
-<pic images/cc.ps The book "Critical Condition" by Donald Bartlett
-and James Steele>
+<pic images/cc.ps The book "Critical Condition" by Donald Bartlett and James Steele>
 
 <em>Angelika</em> 
 Sometimes things actually happen in this country that I never would
@@ -319,29 +316,26 @@ Massachusetts starting in July 2007.
 
 A historic moment, as this has not existed in any American state
 until now. As the health insurance debacle in the USA worsens, the
-number of uninsured people rises, and costs explode under poor
+number of uninsured people keeps rising, and costs explode under poor
 conditions, Massachusetts decided to take matters into its own hands.
 The idea is: states require their drivers to have liability insurance
 if they own a car. Why should it be different when it comes to one's
-own health? Hats off, Massachusetts! First same-sex marriage...
-<RBLINK>20040301#01</RBLINK>
-) und nun die Pflichtkrankenkasse." translates to "and now the
-mandatory health insurance." in English.
+own health? Hats off, Massachusetts! First same-sex marriage
+(<RBLINK>20040301#01</RBLINK>) and now mandatory health insurance!
 
 The details regarding mandatory insurance are not yet fully
 developed, but in principle, everyone who can afford health insurance
 must obtain it. Citizens who belong to the poorer segments of the
 population can access government-subsidized models, along with an
-expansion of Medicaid (a healthcare program for low-income groups).
-<RBLINK>20050319#9</RBLINK>
-.
+expansion of Medicaid (a healthcare program for low-income groups,
+<RBLINK>20050319#9</RBLINK>).
 
 Many are now hoping that other states will follow the good example
 set by Massachusetts. Will I still live to see the day when health
 insurance becomes mandatory across all of America? By the way, if any
 of you want to read a good book about the dire state of the American
 healthcare system, you should check out "Critical Condition" by
-journalists Donald Bartlett and James Steele. However, the book has
+the two journalists Donald Bartlett and James Steele. However, the book has
 only been published in English so far. In the prologue, the authors
 describe, for example, that the pricing policy of health insurance
 companies in America is akin to a supermarket charging each customer
@@ -351,8 +345,7 @@ national mandatory insurance in America.
 
 @Z: Five-Second-Rule
 
-<pic images/schoko.ps Chocolate that has fallen on the carpet - to
-eat or not?>
+<pic images/schoko.ps Chocolate that has fallen on the carpet - to eat or not?>
 
 <em>Michael</em> 
 In our series "well-known American rules for children that no one
@@ -361,37 +354,36 @@ like a piece of chocolate, falls on the floor, the clock starts
 ticking: If you manage to retrieve the fallen piece within five
 seconds, it can be eaten without worry. If more than five seconds
 pass, it must go in the trash. The idea behind this is obvious: the
-good piece cannot accumulate enough bacteria within five seconds to
-be harmful to health.
+good piece allegedly cannot accumulate enough bacteria within five seconds to
+be harmful to your health.
 
-In the show Mythbusters
-<RBLINK>20040301#6</RBLINK>
-), which we have already discussed in the newsletter and which is now
+In the TV show Mythbusters (<RBLINK>20040301#6</RBLINK>),
+which we have already discussed in a previous newsletter edition and which is now
 even featured on German television on RTL2, this rule was once
 scientifically examined. However, Adam Savage and Jamie Hyneman found
 with bacterial cultures in test tubes that it makes no difference
 whether an item lies on the ground for five seconds or longer. The
 number of accumulated bacteria is approximately the same in both
 cases. Nevertheless, the five-second rule is used by many children
-and even some adults. Bon appÃ©tit! And even the
-<LINK>http://en.wikipedia.org/wiki/Five_second_rule|Wikipedia knows
-the five-second rule.</LINK>
-The text translates to:
-
-"It even says there that there is a German proverb 'Dreck macht
-Speck!' which means something similar. Ridiculous! And also according
+and even some adults. Bon appetit! And even
+<LINK>http://en.wikipedia.org/wiki/Five_second_rule|Wikipedia knows about the five-second rule</LINK>.
+It even says there that there is a German proverb 'Dreck macht
+Speck!' which they claim means something similar. Ridiculous! And also according
 to Wikipedia, in the dormitories of American universities, the
 '10-Second Rule' applies to the constantly drunk and therefore
 slower-reacting students -- you guessed it.
 
-@Z: Benimm-Regeln
+@Z: Good Manners
 
+<em>Michael</em>
 Some things in America haven't changed since the days of the Wild
 West: the gentleman still holds the door open for the lady. This is
 not only the case at highly formal events but is also common practice
 in everyday life. It is also quite common for the first person in a
 group to, for example, pull open a restaurant door and hold it open
 while the rest of the group walks in.
+
+TODO
 
 When a gentleman and a lady enter a restaurant, the gentleman holds
 the door open for the lady and lets her enter the establishment
