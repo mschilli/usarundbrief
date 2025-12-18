@@ -491,8 +491,6 @@ A crazy guy in a white coat appears in America, speaks English with
 a fake German accent, and mimics American behaviors. Americans
 find that funny.
 
-TODO
-
 German humor is not only underestimated within Europe, where the
 Dutch and English often think all Germans are sullen, but especially
 in the USA. There, Germans are admired for their diligence,
@@ -546,8 +544,6 @@ something like this! It's not easy.
 
 <pic images/rey1.ps Point Reyes: The Coast>
 
-TODO
-
 <em>Angelika</em> 
 One of the unbeatable advantages of San Francisco is its location.
 While other people go on vacation and spend hours on a plane to get
@@ -556,7 +552,7 @@ for its size and diversity, and many tourists don't have the time to
 deviate from the classic routes. Most people drive along the "Highway
 1," known as America's dream road, from San Francisco heading south
 along the coast, which is certainly not to be underestimated, but
-they sadly neglect the northern coast. As far as I'm concerned, it
+they sadly neglect the north coast. As far as I'm concerned, it
 can stay that way, as we don't want to be stuck behind lines of cars
 during our trips. The stretch between San Francisco and Eureka
 definitely makes my heart beat faster. There's nothing more beautiful
@@ -571,29 +567,26 @@ home. Sigh!
 If I long for steep cliffs, for deserted beaches where the wind
 whistles and the waves crash onto the shore with roaring force, for
 hiking trails that offer breathtaking views of the sea, then we set
-off for...
-<LINK>http://www.nps.gov/pore/index.htm|Point Reyes" is a proper noun
-and does not need to be translated into English. It is the name of a
-prominent cape and region in Marin County, California.</LINK>
-Point Reyes National Seashore" is a peninsula-like nature reserve
-located about 50 km north of San Francisco, extending over 20 km into
+off for <LINK>http://www.nps.gov/pore/index.htm|Point Reyes</LINK>.
+"Point Reyes National Seashore" is a peninsula-like nature reserve
+located about 30 miles north of San Francisco, reaching 10 miles into
 the ocean. We have mentioned Point Reyes in our newsletter before,
 mostly because we often encounter some wildlife there, such as snakes
 or whales. To reach the peninsula, you have to leave Highway 1, which
 is why tourists usually speed past Point Reyes. Additionally, the
-motto here is: Get out of the car and put on your hiking boots. We
+motto there is: Get out of the car and put on your hiking boots. We
 owe it to former President John F. Kennedy that this coastal strip
 was protected in 1962.
 
 The dramatic landscape, as is often the case in California, is
 closely connected to a fault line. This is the San Andreas Fault, the
 same fault that runs through San Francisco. The ground here is
-constantly moving: the peninsula shifts approximately 5 centimeters
+constantly moving: the peninsula shifts approximately 2 inches
 further north each year, always along the San Andreas Fault.
-Therefore, 7 million years ago, Point Reyes was about 120 km further
+This is why seven million years ago, Point Reyes was about 80 miles further
 south and underwater. And since the Pacific and North American plates
-rub against each other at the San Andreas Fault, there are frequent
-tremors in Point Reyes as well.
+are rubbing against each other at the San Andreas Fault, there are frequent
+tremors felt in Point Reyes as well.
 
 Just this week, various celebrations were held in San Francisco to
 commemorate the devastating earthquake that occurred 100 years ago,
@@ -603,15 +596,14 @@ earthquake in 1989. A short, quite amusing loop trail ("Earthquake
 Trail") near the visitor center in Point Reyes explains the events at
 this fault line, with the added thrill that the walker is practically
 moving along the San Andreas Fault. A split fence demonstrates how
-far the surface was torn apart by the 1906 earthquake--more than 5
-meters, as shown in illustration (#5)!
+far the surface was torn apart by the 1906 earthquake--more than 15 feet,
+as shown in illustration (#5)!
 
-<pic images/rey3.ps (#5) Point Reyes: Replica of a fence that was
-pulled apart during the 1906 earthquake>
+<pic images/rey3.ps (#5) Point Reyes: Replica of a fence that was pulled apart during the 1906 earthquake>
 
 For dedicated lighthouse enthusiasts, it is recommended to drive all
 the way to the tip of the peninsula. The lighthouse sits on the last
-rock before the open sea and can be reached by descending over 300
+rock before the open sea and can be reached by descending down stairs with 300
 steps. During whale season, the area around the lighthouse is
 considered the best vantage point for observing the migrating
 California gray whales, which swim south from Alaska to Baja
@@ -623,7 +615,7 @@ bus from the parking lot at "Drakes Beach" to reach the lighthouse on
 weekends and holidays between the end of December and mid-April. One
 weekend in January, Michael and I were able to see for ourselves that
 the system works excellently. Although we didn't see any whales, even
-though supposedly a handful were spotted that day, we did see
+though supposedly a handful were spotted that day by others, we did see
 elephant seals with their young.
 
 And if you've had enough of nature or are hungry, you can drive to
@@ -636,32 +628,27 @@ around Point Reyes. This is because there are four businesses in the
 greater Point Reyes area that farm oysters. It doesn't get any
 fresher than that!
 
-@Z: Schlangengetier
+@Z: Snakes
 
-<pic images/snake.ps Dangerous snake! The newsletter reporters in
-danger!>
+<pic images/snake.ps Dangerous snake! The newsletter reporters in danger!>
 
 <em>Michael</em> 
-Recently, I bought at
-<LINK>http://rei.com|REI</LINK>
-In San Francisco, I got new hiking boots. To break them in, we went
-to the Marin Headlands despite the somewhat unsettled weather. After
-about 7 kilometers on the trail, where a mountain biker called out to
-us that he had seen a coyote, we were almost back at the car. As we
+Recently, at <LINK>http://rei.com|REI</LINK> in San Francisco, I bought new hiking boots.
+To break them in, we went
+to the Marin Headlands despite the somewhat unsettling weather. After
+about 5 miles on the trail, a mountain biker called out to
+us that he had seen a coyote. We were almost back at the car anyway, and as we
 marched steadily, I suddenly noticed a frantic movement on the
-ground. A snake slithered just centimeters past my shoes across the
+ground. A snake slithered just inches past my boots across the
 path. Naturally, I performed quite the bear dance!
 
 Angelika laughed naturally, obviously her childlike mind did not
 grasp the seriousness of the situation! The snake did not even move
-away afterwards, but continued to lurk on the path. That's why I
+away afterwards, but continued lurking on the path. That's why I
 photographed the disgusting reptile with the telephoto lens at the
 highest zoom setting. Just look at the colorful pattern. Definitely a
 venomous snake, death occurs within seconds!
 
-Got away again" or "Escaped again
+Spared to live another day!
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
