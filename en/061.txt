@@ -10,37 +10,30 @@ finally came, and we went there for almost two weeks. However, Alaska
 is huge, and since the terrain is partially very rough, we focused on
 a tiny area near Anchorage.
 
-TODO
-
-The translation of the German sentence to English is: "How large
-Alaska is and what fraction we covered in two weeks is shown on the
+How large Alaska is and what fraction we covered in two weeks is shown on the
 map below.
-oben
 We flew into Anchorage (A), drove to Kenai (K), down to Homer (H),
-and over to Seward (S). Quickly, there were 700 miles on the rental
+and over to Seward (S). In no time, there were 700 miles on the rental
 car's odometer.
 
-<pic images/amap.ps Satellite image of Alaska and the places we
-visited.>
-
+<pic images/amap.ps Satellite image of Alaska and the places we visited.>
 
 <em>Angelika</em> 
 Already during the approach to Anchorage, we realized how sparsely
 populated Alaska is. Looking out the window, we saw nothing but
 endless expanse to the right: no houses or roads in sight. To the
 left was Anchorage with its 260,000 inhabitants. It is the largest
-city in Alaska, where 40 percent of the total population lives.
+city in Alaska, home to a whopping 40 percent of the total population.
 
 All of Alaska has a mere 660,000 inhabitants and--by my
 calculation--at least as many bears. Since Alaska is separated from
-the other states by Canada, true locals refer to the "Lower 48" when
+the other U.S. states by Canada, true locals refer to the "Lower 48" when
 they talk about the continental USA. Hawaii, the 50th state located
-far out in the ocean, is left out of this reference.
+far out in the ocean, is also left out by this reference.
 
-<pic images/frozenlake2.ps Frozen lake on the route from Anchorage to
-Homer>
+<pic images/frozenlake2.ps Frozen lake on the route from Anchorage to Homer>
 
-Alaska, unlike California for example, did not come to the USA as a
+Alaska, unlike California, for example, did not come to the USA as a
 conquest prize, but was sold by the Russians in 1867 to the Americans
 like a piece of real estate for 7.2 million dollars. The poor
 American Secretary of State, William Seward, who sealed the deal,
@@ -60,11 +53,11 @@ hours, and then hopefully fly back with a big catch.
 
 In a country where winter temperatures prevail for an average of 7
 months a year, combined with only a few hours of daylight, tourism is
-concentrated in the summer months of June to August. This leads to a
+concentrated during the summer months of June to August. This leads to a
 flood of tourists in the more easily accessible areas of Alaska,
-which the typical Alaska tourist generally wants to avoid.
+which as a tourist you generally want to avoid.
 
-The Kenai Peninsula we visited is said to be simply overwhelmed by
+The Kenai Peninsula we visited is said to be totally overwhelmed by
 RVs in the summer. However, since the area is already accessible in
 May, we decided to brave the perhaps slightly more unpredictable
 weather. A golden decision. There were hardly any tourists around,
@@ -73,20 +66,17 @@ with us. The weather initially showed its cooler side, which actually
 led Michael to buy a hat, probably his first since childhood. But
 then the sun even shone from the sky. Hooray!
 
-<pic images/rv.ps The translation of "Wohnmobil in Homer" to English
-is "Motorhome in Homer.>
-
+<pic images/rv.ps Motorhome in Homer>
 
 <em>Michael</em> 
 Due to the long and harsh winter, Alaskans are overjoyed in the
 spring and run around in T-shirts and shorts at the first ray of
-sunshine (even though it's still 5 degrees cold). The best time to
+sunshine (even though it's still 40 degrees Fahrenheit). The best time to
 travel in many areas is in May or September. During these months, it
 might still be (or already be) a bit cold, but there are neither
 swarms of mosquitoes nor tourists.
 
-<pic images/anch2.ps Not a world city, but people go out until late
-at night: Anchorage>
+<pic images/anch2.ps Not a worldly city, but people go out until late at night: Anchorage>
 
 In May, the sun rises in Alaska at 5:30 AM and doesn't set until
 10:30 PM. And after that, it stays light for at least another hour.
@@ -97,6 +87,7 @@ late. It's not uncommon to see full restaurants in Anchorage at ten
 o'clock in the evening, whereas this is more of an exception in San
 Francisco.
 
+TODO
 
 <em>Angelika</em> 
 Anchorage is a typical American city that sprang up from the ground.
