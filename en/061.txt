@@ -87,39 +87,29 @@ late. It's not uncommon to see full restaurants in Anchorage at ten
 o'clock in the evening, whereas this is more of an exception in San
 Francisco.
 
-TODO
-
 <em>Angelika</em> 
 Anchorage is a typical American city that sprang up from the ground.
 In addition to its beautiful location and some really good
-restaurants, the city boasts a great bike path, the "Tony Knowles
+restaurants, the city boasts a great bike path, named the "Tony Knowles
 Coastal Trail." It is 11 miles long (about 17 kilometers), runs along
 the water, and is well shielded from any car traffic.
-<LINK>http://en.wikipedia.org/wiki/Tony_Knowles_%28politician%29|Tony
-Knowles is a proper noun, specifically a name, and does not require
-translation. It is the same in English.</LINK>
-The text translates to: "is, by the way, not, as Michael had assumed,
-a famous skateboarder (cf.
-<LINK>http://en.wikipedia.org/wiki/Tony_hawk|Tony Hawk is a proper
-noun, specifically the name of a famous professional skateboarder.
-Proper nouns are typically not translated between languages.</LINK>
-), but a former governor of Alaska.
+<LINK>http://en.wikipedia.org/wiki/Tony_Knowles_%28politician%29|Tony Knowles</LINK>
+is, by the way, not, as Michael had assumed,
+a famous skateboarder (compare <LINK>http://en.wikipedia.org/wiki/Tony_hawk|Tony Hawk</LINK>),
+but a former governor of Alaska.
 
-<pic images/aanchbike2.ps Angelika on the bicycle on the Coastal
-Trail in Anchorage>
+<pic images/aanchbike2.ps Angelika on the bicycle on the Coastal Trail in Anchorage>
 
-Michael and I each rented a bicycle and pedaled away. The bike shop
-guy also described a route to us, which made it a longer loop, but in
-return, we also passed by the huge airfield for small planes. Hats
+Michael and I rented two bicycles and pedaled away. The bike shop
+guy also described a route to us, which made it a longer loop, and on the way back,
+we passed by a huge airfield for small planes. Hats
 off to this surprisingly good network of bike paths, which we found
-not only in Anchorage but also in the much smaller town of Homer. Who
-would have expected that in Alaska?
+not only in Anchorage but also later in the much smaller town of Homer. Who
+would have expected that of Alaska?
 
-@Z: The translation of "Kajak im Eismeer" to English is "Kayak in the
-Ice Sea.
+@Z: Kayaking in the Ice Sea
 
-<pic images/kayak2.ps Angelika is sitting in the front of our double
-kayak.>
+<pic images/kayak2.ps Angelika is sitting in the front of our double kayak.>
 
 <em>Michael</em> 
 To experience the Arctic Ocean up close, we booked a kayak tour in
