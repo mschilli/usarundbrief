@@ -107,11 +107,9 @@ off to this surprisingly good network of bike paths, which we found
 not only in Anchorage but also later in the much smaller town of Homer. Who
 would have expected that of Alaska?
 
-@Z: Kayaking in the Ice Sea
+@Z: Kayaking in the Arctic Ocean
 
 <pic images/kayak2.ps Angelika is sitting in the front of our double kayak.>
-
-TODO
 
 <em>Michael</em> 
 To experience the Arctic Ocean up close, we booked a kayak tour in
@@ -119,32 +117,30 @@ Homer, which was also attended by another vacationing couple from the
 state of Arizona. Angelika and I got a double kayak with two entry
 holes. Angelika sat in the front and I was in the back at the rudder,
 each of us received a double paddle. Everyone had to put on a piece
-of clothing that looked like a ballerina's tutu. This skirt made of
+of clothing that looked like a ballerina's tutu. This skirt is made of
 waterproof neoprene is stretched over the entry hole after
-(carefully) getting into the water, so that no water splashes into
+(carefully) stepping into the floating kayak, so that no water splashes into
 the interior of the kayak from above while paddling.
 
 If a kayak capsizes in the ice-cold water and both rowers suddenly
 find themselves upside down, you need to exit as quickly as possible
 by pulling a loop that detaches the plastic cover from the entry
-hole. Then the kayak guide paddles over to help turn and stabilize
+hole. Then the kayak guide quickly paddles over to help you turn and stabilize
 the boat so you can carefully get back into the now water-filled
-boat. You then have to pump out the water on the spot using a hand
-pump. This is, of course, a bit annoying in 5-degree cold water. Then
+kayak. You then have to pump out the water on the spot using a hand
+pump. This is, of course, a bit annoying in 40 degree cold water. Then
 you paddle to shore and have to change out of your wet clothes and
 into a ridiculously patterned dry overall that the kayak guide keeps
 ready for such emergencies. Allegedly, you even have to wear it to
-the pub where a tour that ended so abruptly is celebrated! According
+the pub where a tour that ended so abruptly will be celebrated! According
 to our guide, who has been leading tours for many years, this has
 happened exactly seven times under her supervision, mostly with
 overconfident teenagers. Fortunately, we were spared such emergency
 maneuvers, as the sea was in a good mood and calm that day.
 
-<pic images/kayak3.ps On the left is the kayak guide, on the right
-are the other participants of the kayak tour.>
+<pic images/kayak3.ps On the left is our kayak guide, on the right are the other participants on the kayak tour.>
 
-<pic images/vulcano.ps The volcano "Augustine" is puffing away near
-Homer.>
+<pic images/vulcano.ps The volcano "Augustine" is puffing away near Homer.>
 
 This naturally raises the question: How did the kayak pictures come
 about? Or: How cool does someone have to be to put a Nikon D-70 in a
@@ -152,13 +148,11 @@ plastic bag, strap it to a kayak, and then take it out on the sea to
 photograph with it on the shaky little boat? Answer: Pretty cool, the
 vacation could have quickly become a lot more expensive.
 
-<pic images/otter.ps The little sea otter seems to like the ice-cold
-water.>
+<pic images/otter.ps The little sea otter seems to like the ice-cold water.>
 
-<pic images/otter3a.ps You can get so close to the otters with the
-kayak.>
+<pic images/otter3a.ps You can get so close to the otters with the kayak.>
 
-@Z: Fischfang
+@Z: Commercial Fishermen
 
 <pic images/fish.ps Dockworker in Seward>
 
@@ -168,20 +162,17 @@ known as the Bering Sea, is home to gigantic fish populations.
 According to the SeaLife Center in Seward (a kind of politically
 correct aquarium and research center), the most commonly caught fish
 is the
-<LINK>http://en.wikipedia.org/wiki/Pollock|Pollock</LINK>
-It seems like your message is incomplete. Could you please provide
-the full German text that you would like translated into English?
-<LINK>http://de.wikipedia.org/wiki/Seelachs|Seelachs</LINK>
-...), an inconspicuous, relatively small marine creature from which
+<LINK>http://en.wikipedia.org/wiki/Pollock|Pollock</LINK>,
+an inconspicuous, relatively small marine creature from which
 fish sticks and McDonald's Filet-O-Fish are made.
 
 <pic images/kcrab.ps A "King Crab" in the aquarium of Seward>
 
 The town of Seward is one of the largest hubs for fresh fish; this is
 where the fishing boats arrive with their catch. Dockworkers pack the
-sometimes astonishingly large equipment into boxes, quickly load them
+sometimes astonishingly large fish into boxes, quickly load them
 onto trucks that are already waiting, and off they go. Curiously,
-hardly any goods remain in the town. Only a tiny shop sold fresh
+hardly any goods remain in town. Only a tiny shop sold fresh
 fish, and we had to ask around for a long time before we found it.
 When we accidentally entered through the back door, I saw a box of
 herrings and was already cheering because herrings are quite hard to
@@ -189,27 +180,26 @@ come by in the USA (except at Ikea). However, a grumpy fisherman
 pointed out to me that the herrings in the trough were not suitable
 for human consumption but were used as "bait" to catch larger fish!
 We bought halibut cheeks (the fatty cheeks of flatfish) and a few
-"King Crab Legs," 45-centimeter-long meaty crab legs. The cabin we
-were hanging out in had a gas grill, on which I didn't let the
+"King Crab Legs," 15 inch long meaty crab legs. The cabin we stayed at
+had a gas grill, on which I didn't let the
 delicacies overcook (as unfortunately happens in many American
 restaurants) but prepared them masterfully. The whole thing was quite
 expensive ($50 for the fish) but very delicious.
 
-@Z: Homesteading in der Wildnis" translates to "Homesteading in the
-Wilderness" in English.
+@Z: Homesteading in the Wilderness
 
 <pic images/blhouse.ps Houses near Homer, Alaska>
 
 <em>Angelika</em> 
 As we paddled around in our kayaks in the waters of Kachemak Bay, we
 noticed that here and there small, quite rustic cabins appeared
-behind the trees. Naturally, we immediately thought of summer
+behind the treeline. Naturally, we immediately thought of summer
 cottages, but we learned from our kayak guide Alison that some of
-them were originally built as part of what is known as "homesteading.
+them were originally built as part of what is known as "homesteading."
 
-To settle the western United States, the American Congress under
+To settle the western United States, Congress under
 President Abraham Lincoln decided in 1862 that every American who was
-at least 21 years old could claim 160 acres (about 64 hectares) of
+at least 21 years old could claim 160 acres of
 land for a fee of 18 dollars. The goal was to make the land usable.
 After five years, the settler could call the land their own. They
 only had to prove that they lived on the land, had built a cabin, and
@@ -230,27 +220,25 @@ like a mess. Scrapped cars, old refrigerators, and washing machines.
 One gets the impression that it is customary to set up a spare parts
 depot in the garden when acquiring a new device or vehicle.
 
-<pic images/yard.ps The translation of "GerÃ¼mpel rund ums Haus (in
-Homer)" to English is "Junk around the house (in Homer).>
+<pic images/yard.ps Junk around the house (in Homer.)>
 
-<pic images/yard1.ps The translation of "GerÃ¼mpel rund ums Haus (in
-Ninilchik)" to English is "Junk around the house (in Ninilchik).>
+<pic images/yard1.ps Junk around the house (in Ninilchik.)>
 
 Unfortunately, even in the more populated areas of Alaska, there is
 no escape from the obligatory "McDonald's," "Safeway," and
-"Starbucks." It could not resist the relentless American desire to
+"Starbucks." Apparently, no one can resist the relentless American desire to
 place an unsightly shopping center in even the most breathtaking
 landscapes.
 
 On the other hand, you encounter individualists in Alaska like in no
 other American state, who want to fulfill their dream of living in
-the last wilderness. That's why Alaska is also known as the "Last
+the last remaining wilderness. That's why Alaska is also known as the "Last
 Frontier." Our kayak guide Alison, for example, was originally from
 New York City and now lives somewhat off the beaten path from Homer
-in a house without running water, which can only be reached by a
+in a house without running water, which can only be reached on foot by a
 half-hour walk. During our kayak tour, we asked her what vacation
 means to her, since she already does for a living what others seek as
-an adventure during their holidays. She replied that she likes to
+an adventure during their time off. She replied that she likes to
 rent a room in a good hotel in Anchorage to take a full bath.
 
 <pic images/shackv.ps The bedroom view from our cottage in Homer.>
@@ -260,18 +248,16 @@ house in Seward: Many years ago, she worked in a candy store in New
 York City and came across a postcard that showed Alaska. She said
 that from that moment on, she knew she would live there one day.
 After separating from her first husband, she packed her things and,
-with her dog in tow, drove through the roads of Alaska. She
+with her dog in tow, drove endless roads all the way to Alaska. She
 immediately liked the area around Seward, so she decided to use her
-private retirement savings (the so-called 401k) to...
-<RBLINK>20030801#6</RBLINK>
-..to start investing before retirement, buying land and setting up
+private retirement savings (the so-called 401k, <RBLINK>20030801#6</RBLINK>)
+to start investing before retirement, buying land and setting up
 log cabins on it, which she now rents out to tourists. The man who
 built the cabins for her also became her new love. By the way, when
 she moved to Alaska with all her belongings, she was already over 40!
 Only in America.
 
-<pic images/atv.ps A young lad passes the time with an all-terrain
-vehicle (ATV).>
+<pic images/atv.ps A young lad passes the time with an all-terrain vehicle (ATV).>
 
 However, romantic notions about the wilderness of Alaska can
 certainly also lead to disaster. There are always people who are
@@ -282,10 +268,7 @@ manage.
 The majority of locals in Alaska consider these guys to be rather
 crazy and don't speak well of them. If you want to read a very
 interesting book on this topic, you should check out 'Into the Wild'
-by Jon Krakauer. The German title of the book is...
-<LINK>http://www.amazon.de/exec/obidos/ASIN/3492247296/perlmeistercom
-04|The translation of "In die Wildnis. Allein nach Alaska" to English
-is "Into the Wild. Alone to Alaska.</LINK>
+by Jon Krakauer. 
 Krakauer tells the true story of Christopher McCandless, who hiked
 alone into the Alaskan wilderness in 1992 and whose body was found by
 hunters after several months.
@@ -293,11 +276,13 @@ hunters after several months.
 @Z: Bushlines
 
 <em>Michael</em> 
-Many households in Alaska, which are somewhat remote, still do not
+Many households in Alaska which are somewhat remote, still do not
 have a telephone. To deliver messages to these people, there are the
-so-called "Bushlines," text lines ("lines") that the radio host of a
+so-called "Bushlines," lines of text that the radio host of a
 local AM station broadcasts into the "bush" (the wilderness) a few
 times a day, each time on the hour.
+
+TODO
 
 So that personal messages and passionate declarations of love can be
 sent through the airwaves without the whole world knowing, many
