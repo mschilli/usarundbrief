@@ -259,7 +259,7 @@ auf die Tafel zu blicken.
 
 @Z: Parktricks für Fortgeschrittene
 
-<pic images/tow-truck.ps Der Abschleppwagen nimmt ein falsch geparktes Auto mit. Foto: flickr[C4Chaos|C4Chaos/1609259128]>
+<pic images/tow-truck.ps Der Abschleppwagen nimmt ein falsch geparktes Auto mit.>
 
 <em>Michael</em>
 Wir leben in einer Stadt, in der gnadenlos um Parkplätze gekämpft wird.
