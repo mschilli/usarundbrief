@@ -449,38 +449,32 @@ that bears cross the path, and the lady who rented us a cottage
 included a bear booklet and wrote in large letters that we should
 read it before undertaking any hikes.
 
-TODO
+@Z: Melting Glaciers
 
-@Z: Melting glaciers
-
-<pic images/glac4.ps Exit Glacier" in Seward is already in English.
-It refers to a glacier located in Kenai Fjords National Park near
-Seward, Alaska.>
+<pic images/glac4.ps "Exit Glacier">
 
 <em>Angelika</em> 
 In the city of Seward, we were surprised to find that visitors to the
 "Kenai Fjords National Park" can reach the so-called "Exit" Glacier
 with minimal effort. The glacier is truly within reach, less than a
-kilometer from the parking lot. But Alaska remains Alaska. As we
+mile from the parking lot. But Alaska remains Alaska. As we
 stood in front of the glacier, there were a few threatening rumbles
 from within, as a small warning that we were standing before an
 active glacier that should not be underestimated.
 
 Global warming is quite clearly visible there, by the way. The
 glacier has been retreating further and faster in recent years; in
-1970, it was almost at the parking lot, about half a kilometer from
+1970, it was almost at the parking lot, about half a mile from
 the point where it ends today. In fifty years, it probably won't
 exist anymore.
 
 <pic images/glac.ps Glacier ice is actually blue.>
 
 We could also clearly see that glaciers are actually blue in some
-places. According to a sign posted in the national park, this is
+places. According to a sign posted at the national park, this is
 because the snow masses from which they are formed are compressed
 over the years into a dense ice mass that absorbs all light except
-for the high-energy blue light.
-<LINK>http://de.wikipedia.org/wiki/Licht|Blauanteil</LINK>
-The phrase translates to: "completely absorbed, so that glacier ice
+for the high-energy blue light, so that glacier ice
 looks like the candy of the same name!
 
 The so-called moraines, which are rocks that have been ground up and
@@ -488,10 +482,9 @@ pushed forward by the glacier, were also clearly visible, and you
 could even walk around on them. My old geography teacher would have
 been thrilled!
 
-@Z: The translation of "Killerwale zum Anfassen nahe" to English is
-"Killer whales up close and personal.
+@Z: Killer Whales Up Close and Personal
 
-<pic images/orca3.ps Killerwal>
+<pic images/orca3.ps Killer Whale>
 
 <em>Michael</em> 
 Of course, you shouldn't think that you can just sail around on a
@@ -504,18 +497,20 @@ staring at the water's surface when I suddenly noticed a few huge
 tail fins in the distance, which quickly disappeared again. Since I
 was already familiar with whales from California, I shouted, "Whales,
 10 o'clock!!" (for non-nautical folks: "Whales, 60 degrees to the
-left!"). The skipper slowed the engine and steered the boat in the
+left!").
+
+<pic images/orca2.ps Excursion Ship and Killer Whale>
+
+The skipper slowed the engine and steered the boat in the
 indicated direction, and after 30 seconds, about 7 killer whales
-(also known as orcas) appeared, each at least five to seven meters
+(also known as orcas) appeared, each at least 15 to 25 feet
 long. They swam towards the boat, dove underneath it, and then
-slapped their tail fins on the water. The people were thrilled, and a
+slapped their tail fins on the water. People were thrilled, and a
 gentleman from Texas patted me on the shoulder at least five times in
 a row, and everyone praised the "Good eye, good eye" of the young man
 from San Francisco.
 
-<pic images/orca2.ps Excursion ship and killer whale>
-
-@Z: Elche
+@Z: Moose
 
 <pic images/eagle4.ps Bald eagle at the harbor entrance of Homer>
 
@@ -525,10 +520,10 @@ national emblem of the USA) to admire, but also moose that are
 happily hopping through the landscape.
 
 Especially when there is still snow in the higher elevations, they
-also come close to human dwellings in the lower regions. However,
+come close to human dwellings in the lower regions. However,
 moose are difficult to spot in a landscape that has not yet turned
 green, as their brown fur blends perfectly with the surroundings. But
-since I often visited Finland in my early youth, I knew what we
+since I had often visited Finland in my early youth, I knew what we
 needed to look out for.
 
 <pic images/moose1.ps A moose on a forest path near Anchorage>
@@ -550,9 +545,6 @@ stop; they were probably locals. After two weeks of vacation and
 several more moose sightings, we also understood: spotting a moose is
 quite normal in Alaska.
 
-Ice-cold greetings
+Ice-cold greetings!
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
