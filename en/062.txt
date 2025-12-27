@@ -18,8 +18,6 @@ when a goal is scored. Do you want to hear it live? This time we
 present the goal commentary as an MP3, listen in:
 <LINK>https://usarundbrief.com/62/images/golschweini.mp3|TV sound during the 1-0 in the Germany vs. Portugal match</LINK>.
 
-TODO
-
 At Yahoo, the games were shown on large flat-screen TVs in our coffee
 bar on the ground floor. Most of them started at 9:00 in the morning
 or at 11:00 AM, and there were always smaller and sometimes larger
@@ -31,19 +29,19 @@ Large screens like those in Germany did not exist in the USA, so a
 German immigrant in San Francisco came up with a plan: He wanted to
 rent a large TV screen and show the game in Dolores Park in San
 Francisco. He probably had the thought in the back of his mind that
-the Germans would be playing in the final, but unfortunately, that
+maybe the German team would be playing in the final, but unfortunately, that
 didn't happen.
 
 <pic images/do4.ps This man was to be proven right.>
 
 <pic images/dodog.ps The dog was right, too.>
 
-But no sooner said than done, the German Jens-Peter Jungclaussen
-obtained the necessary permits for the events from the city of San
+But no sooner said than done, German man Jens-Peter Jungclaussen
+obtained the necessary permits for the event from the city of San
 Francisco, rented the required number of portable toilets, and even
 had to hire police officers responsible for security.
 
-<pic images/do5.ps The hanging television screen>
+<pic images/do5.ps The mounted television screen>
 
 All in all, the fun cost about $17,000, which he hoped to recoup
 through sausage sales and voluntary donations. He probably expected a
@@ -61,8 +59,8 @@ grass.
 <pic images/dodon.ps Voluntary donations>
 
 The German-American Chamber of Commerce in San Francisco did not hold
-back and contributed to the costs for television, and I think that
-the donations and sausage sales covered the expenses.
+back and contributed to the costs for the TV screen, and I think that
+the donations and sausage sales easily covered total expenses.
 
 <pic images/dogrill.ps The men at the grill had their hands full.>
 
@@ -73,40 +71,36 @@ pointed this out over the loudspeaker, and the police officers on
 duty also admonished beer drinkers, but with a wink. Overall, it was
 still an exhilarating event!
 
-@Z: Spare the Air" is an initiative or campaign aimed at reducing air
-pollution and improving air quality. It encourages people to take
-actions that minimize air pollution, such as using public
-transportation, reducing vehicle use, or avoiding activities that
-contribute to poor air quality.
+@Z: Spare the Air
 
 <pic images/spare.ps Spare the Air Day -- Drive and Save>
 
 <em>Angelika</em> 
 San Francisco is notorious for its natural air conditioning, namely
-the cool air and fog that makes many tourists, dressed only in
+the cool air and fog. This makes many tourists, dressed only in
 T-shirts and shorts, shiver during the summer months. The fog forms
 because the hot air from inland flows towards the ocean, which is
 quite cold, and -- voila -- everything is enveloped as if in cotton.
-Meteorologists among you may forgive me for this simplified
+The meteorologists amongst you may forgive me for this simplified
 explanation.
 
 Since the temperature difference is particularly large in the summer
 months, there is also the most fog between June and August. Now, you
 shouldn't think that we are constantly sitting in a gray soup. During
-the day, the fog clears, the city heats up to over 30 degrees, and
-only later in the late afternoon does it slowly creep back into the
-city. The neighborhoods close to the ocean are most affected; those
-who live in "Richmond" or "Sunset" pay less rent but sit in the soup
+the day, the fog clears, the city heats up to over 75F, and
+only later in the late afternoon does the fog slowly creep back into the
+city. Neighborhoods close to the ocean are most affected; those
+who live in the "Richmond" or "Sunset" pay less rent but sit in the soup
 more often. Our neighborhood "Noe Valley" and the nearby "Mission"
 are considered the sunniest. However, the fog phenomenon provides the
-city of San Francisco with a breeze or two, and thus generally good
+city of San Francisco with a pleasant breeze, and thus generally good
 air. Smog, we like to joke, we generously leave to Los Angeles.
 
 However, there are occasionally hot days without wind that cause
 ozone levels to skyrocket. And when the thermometer rises in San
 Francisco, people in the rest of the Bay Area groan and moan even
 more, because in cities like Mountain View or San Jose, which are
-further inland, the thermometer rises above 40 degrees, and the heat
+further inland, the thermometer rises above 95F, and the heat
 becomes unbearable. To improve air quality on such days, the "Bay
 Area Air Quality Management District" introduced the so-called
 "Spare-the-Air" days in 1991.
@@ -114,18 +108,17 @@ Area Air Quality Management District" introduced the so-called
 If the ozone levels are expected to exceed a certain value, the day
 is declared a "Spare the Air Day" in advance. To encourage people to
 leave their air-polluting cars, all public transportation in San
-Francisco and the surrounding area ("Bay Area") is free. Even the
+Francisco and the surrounding area ("Bay Area") is free on those days. Even the
 train that runs from San Francisco through Silicon Valley to San Jose
 is free all day. Previously, this only applied to the morning
 commute, but this year it has been extended to the entire day.
 Surprising, isn't it? The whole initiative actually seems to be
 working, as 10% more people use public transportation on such days.
 Additionally, there is hope that some people will develop a
-preference for and continue using the subway, streetcars, trains, and
+preference for it and continue using the subway, streetcars, trains, and
 buses.
 
-<pic images/spare2.ps Ticket validators are taped over on 'Spare the
-Air Day'.>
+<pic images/spare2.ps Ticket validators are taped over on 'Spare the Air Day'.>
 
 Unfortunately, there were three hot days in June that were declared
 "Spare-the-Air" days, which exhausted the budget for this season,
@@ -137,13 +130,13 @@ enough for three more days this year. The various transportation
 companies receive compensation from this source for the money they
 lose.
 
-@Z: Einwanderungsdebatte
+@Z: Immigration Debate
 
 <pic images/immi2.ps Immigrant children demonstrate on May 1st.>
 
 <em>Angelika</em> 
 The myth that anyone who wants to live and work in America is
-immediately handed a green card upon arrival is indestructible. No,
+immediately handed a green card upon arrival is indestructible. But that's false,
 America has not kept its doors wide open for everyone for a long
 time. If you want a work permit, you not only have to navigate the
 thicket of bureaucracy but also win the race against the quota, as
@@ -164,7 +157,7 @@ the country for several years.
 
 Bush Jr. promised during his first election campaign to solve the
 problem of illegal immigrants. However, other issues like September
-11 and the Iraq War caused the topic to disappear from the spotlight.
+11th and the Iraq War caused the topic to disappear from the spotlight.
 But now it has resurfaced for quite some time. Hardly a day goes by
 without the press addressing the issue of immigration. Since a large
 portion of Americans can trace their own immigration history (even if
@@ -184,8 +177,7 @@ workers) who assist illegal immigrants, which so enraged the Catholic
 Cardinal of Los Angeles that he called on his priests to engage in
 civil disobedience.
 
-<pic images/immi1.ps Angelika's kindergarten supported the boycott on
-May 1st.>
+<pic images/immi1.ps Angelika's kindergarten supported the boycott on May 1st.>
 
 Overall, none of the politicians really expected the protest from the
 Latinos (as Latin Americans are called), because everyone quietly
@@ -203,30 +195,24 @@ immigrants legally living in the country.
 On May 1st, there was another protest action to demonstrate that
 without illegal immigrants, many economic sectors would collapse and
 that immigrants in general contribute to the economic well-being of
-the American state. Immigrants (both legal and illegal) were called
+Americans. Immigrants (both legal and illegal) were called
 upon not to go to work. In San Francisco, many businesses in the
 Mission district, which has a high percentage of Latin Americans,
 were closed as a result. The action was also supported at the
 Tenderloin Childcare Center, where I work, because most of our
 children come from foreign countries.
 
-Since a bill in the USA also goes through several instances, the
+Since a bill in the USA goes through several instances, the
 Senate transformed the draft described above into a more moderate
 version in May. The Senate's bill also mentions better securing the
 border with Mexico, but at the same time allows illegal immigrants
-who have been in the country for a longer period to obtain legal
+who have been in the country for longer to obtain legal
 status after paying a fine and back taxes. A guest worker program is
 also planned, which is particularly important to President Bush.
 Furthermore, among other things, the number of H-1B visas issued
-annually is to be...
-<RBLINK>20000526#9</RBLINK>
-The text appears to be a fragment and seems to be in German. The
-translation of "erhÃ¶ht werden" to English is "be increased" or "be
-raised." However, without more context, it's difficult to provide a
-complete translation.
+annually is to be increased (<RBLINK>20000526#9</RBLINK>).
 
-<pic images/immi3.ps A Mexican store was closed on May 1st due to the
-immigrant demonstration.>
+<pic images/immi3.ps A Mexican store was closed on May 1st due to the immigrant demonstration.>
 
 Now the whole thing goes back to Congress, and both bills need to be
 reconciled with each other. And that's where opinions differ.
@@ -236,20 +222,21 @@ exploit the immigration debate for their political purposes.
 
 @Z: Onlinetvrecorder
 
-<pic images/zwei.ps (#1) The German Friday crime show is now also
-airing in San Francisco.>
+<pic images/zwei.ps (#1) The German Friday TV crime show is now also airing in San Francisco.>
 
 <em>Michael</em> 
-Through the service introduced in the second-to-last newsletter by
-<LINK>http://onlinetvrecorder.com|onlinetvrecorder.com</LINK>
-We can now also receive German television in San Francisco. So I
+Through a service introduced in the second-to-last newsletter, named
+<LINK>http://onlinetvrecorder.com|onlinetvrecorder.com</LINK>,
+we can now also receive German television in San Francisco. So I
 watch the Tagesschau almost every day now, and Angelika watches her
 beloved Tatort.
 
 If you plug the laptop into the TV, the picture appears on the screen
 in top quality, and as you can see in illustration (#1), we have
-nicely set up our little dinner tables in front of the Friday crime
+nicely set up our little dinner tables while watching the Friday TV crime
 show. Ah, that's a real treat again!
+
+TODO
 
 We usually only know hours of commercial-free television from our pay
 channel HBO. However, with the shows streamed over the internet, we
