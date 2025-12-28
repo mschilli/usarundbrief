@@ -236,8 +236,6 @@ in top quality, and as you can see in illustration (#1), we have
 nicely set up our little dinner tables while watching the Friday TV crime
 show. Ah, that's a real treat again!
 
-TODO
-
 We usually only know hours of commercial-free television from our pay
 channel HBO. However, with the shows streamed over the internet, we
 also watch the German commercials, which often seem completely absurd
@@ -257,17 +255,17 @@ located close to the German border in Holland, and the internet
 servers that offer the files for download are in the relatively
 lawless zone of Antigua. Let's see how long it takes for the TV
 giants in Germany to find a way to shut down the service. Until then,
-we'll watch recklessly! I've even built a kind of TiVo for
-onlinetvrecorder.com using Perl, so I can enjoy watching the shows
+we'll be watching recklessly! I've even built a kind of TiVo for
+onlinetvrecorder.com, using Perl, so I can enjoy watching the shows
 from my computer.
 
 @Z: Nextbus.com
 
-<pic images/muni.ps Runs according to a fantasy schedule: The J tram>
+<pic images/muni.ps Runs according to a fantasy schedule: The J Muni train>
 
 <em>Michael</em> 
 In San Francisco, the streetcars are known to run according to a
-fantasy schedule. The tram doesn't arrive at a specific time;
+fantasy schedule. The train doesn't arrive at a specific time;
 instead, the schedule literally states "approximately every X
 minutes," with X varying between 10 to 30 depending on the time of
 day.
@@ -276,48 +274,42 @@ It is, of course, annoying to walk down three flights of stairs to
 the stop and then wait there for 29 minutes because the tram just
 left right in front of you.
 
-As is often the case, the Americans use advanced technology here to
-make the chaos manageable. The streetcars have been equipped with a
-transponder, and along the route, there are measuring stations that
-record when a car passes by.
+As is often the case, Americans use advanced technology here to
+make the chaos manageable. The streetcars have recently been equipped with a
+transponder, and along the route, there are receivers that
+record whenever a street car passes by.
 
 The live measured data is sent to the
-<LINK>http://nextbus.com|The translation of "Website nextbus.com" to
-English is simply "Website nextbus.com" as it is already in English.
-If you meant to translate content from the website, please provide
-the specific text you need translated.</LINK>
-The translation to English is: "which calculates in how many minutes
-the next tram is expected to arrive at a set stop. This can then be
+<LINK>http://nextbus.com|Website nextbus.com</LINK>
+which calculates in how many minutes
+the next train is expected to arrive at a defined stop. This can then be
 queried for free and in real-time over the internet.
 
-<pic images/nextbus.ps The website nextbus.com shows when the next
-tram will arrive at our stop.>
+<pic images/nextbus.ps The website nextbus.com shows when the next Muni train will arrive at our stop.>
 
 The system works perfectly. If I want to take the J streetcar to
 downtown, I simply check on my computer shortly beforehand, which is
-on 24 hours a day anyway. If the web browser then shows that the next
+running 24 hours a day anyway. If the web browser then shows that the next
 car will arrive at the intersection of 24th and Church "In 2
 Minutes," a frenzy breaks out, I dash down the stairs and rush onto
 the street. However, if it shows "In 15 Minutes," I fool around for
 another 10 minutes before starting a leisurely descent. One of my
 colleagues even has a cell phone with which he retrieves the data!
 
-@Z: The translation of "Schraub- statt LÃ¼sterklemmen" to English is
-"Screw terminals instead of terminal blocks.
+@Z: Screw Terminals Instead of Terminal Blocks
 
-<pic images/klemme.ps The title translates to "The Cap as a
-Substitute for Terminal Blocks" in English.>
+<pic images/klemme.ps The screw nut as a Substitute for Terminal Blocks>
 
 <em>Michael</em> 
 When installing a ceiling light in Germany, a so-called
-"LÃ¼sterklemme" is often used. This is a plastic piece with small
+Lüsterklemme" is often used. This is a plastic piece with small
 screws and holes, into which you insert the stripped wire strands
-from the back and front and secure them with a screwdriver.
+from the back and front and then secure them with a screwdriver.
 
 In the USA, there don't seem to be any terminal blocks, at least not
 in the hardware stores I frequent. As I discovered by unscrewing old
 ceiling lamps, small caps with an internal metal thread are commonly
-used here instead.
+used here instead, called screw nuts.
 
 To connect the two strands of two 110-volt lines, you twist the
 copper wires together and then place a cap on top, so that the metal
@@ -331,27 +323,16 @@ insulates, and you don't need a screwdriver. And luckily, it's only
 110 volts here and not 220, otherwise, it could be quite frightening!
 
 The cap is called in technical jargon, by the way.
-<LINK> http://en.wikipedia.org/wiki/Twist-on_wire_connector|The
-translation of "Twist-on Wire Connector" to English is "Twist-on Wire
-Connector." It appears that the term is already in English.</LINK>
-The company Ideal Industries introduced the groundbreaking world
-novelty in 1920 as the "Wire Nut" and registered the name as a
-trademark. And just like people in Germany say "Tesa" instead of
-"transparent adhesive tape," the term "Wire Nut" has become commonly
-used in American vernacular for the caps, even though nowadays they
-are, of course, only produced cheaply in China.
+<LINK> http://en.wikipedia.org/wiki/Twist-on_wire_connector</LINK>
+The company Ideal Industries introduced the groundbreaking world novelty in
+1920 as the "Wire Nut" and registered the name as a trademark. And just like
+people in Germany say "Tesa" instead of "Scotch Tape," the term "Wire Nut" has
+become commonly used in American vernacular for the caps, even though nowadays
+they are, of course, only produced cheaply in China.
 
-@Z: The sounds "Hï¿½h! Brr! Wieher! Grunz!" are onomatopoeic
-expressions representing animal noises in German. In English, they
-can be translated as:
+@Z: Onomatopoeic Expressions
 
-- "Hï¿½h!" could be a sound of surprise or a shout, similar to "Hey!"
-or "Huh!" - "Brr!" is often used to express a shiver or cold, similar
-to "Brr!" - "Wieher!" represents the neighing sound of a horse,
-similar to "Neigh!" - "Grunz!" is the grunting sound of a pig,
-similar to "Oink!" or "Grunt!
-
-<pic images/dog.ps Arf, arf!" says the dog.>
+<pic images/dog.ps "Arf, arf!" says the dog.>
 
 <em>Michael</em> 
 Every language translates animal sounds slightly differently.
@@ -359,7 +340,7 @@ Sometimes, something similar comes out, like with the cow, which goes
 "Muh" in German and the similar-sounding "moo" in English. But did
 you know that the sound for a horse neighing is "neigh" (pronounced
 "neehii")? By the way, in America, you don't urge a horse on with
-"HÃ¼" and stop it with "Brr," as you do in Germany. Instead, you
+"Hüh" and stop it with "Brr," as you do in Germany. Instead, you
 start it with a double tongue click in the side/back of the mouth,
 similar to how you might attract a horse or cow in Germany when
 holding a carrot. A horse is stopped with "Whoa!" The latter is also
@@ -368,20 +349,19 @@ like when a piano is about to fall on someone's head.
 
 In written English, the sound is called "tut-tut.
 <LINK>http://en.wikipedia.org/wiki/Tut-tut|Tut-tut</LINK>
-The translation to English is: "it is spoken like typing with the
-tongue.
+It is spoken like typing with the tongue.
 
 A dog goes "arf arf" or "bow wow" depending on its size. A trumpeting
 elephant goes "baraag," a frog goes "ribbit," a goat goes "baa," and
-a squealing pig goes "wee wee." On the internet, there are sites that
-<LINK>http://www.eleceng.adelaide.edu.au/Personal/dabbott/animal.html
-|Animal sounds in different languages</LINK>
-The translation to English is: "List them, there are quite a few
-surprises!
+a squealing pig goes "wee wee." On the internet, there are sites that list
+<LINK>http://www.eleceng.adelaide.edu.au/Personal/dabbott/animal.html|Animal sounds in different languages</LINK>
+There are quite a few surprises for non-native speakers!
 
 @Z: San Francisco Views: Castro
 
-<pic images/c10.ps The old tram goes to the Castro.>
+<pic images/c10.ps The old street car goes to the Castro.>
+
+TODO
 
 <em>Michael</em> 
 We have often reported on our neighboring district, the Castro.
