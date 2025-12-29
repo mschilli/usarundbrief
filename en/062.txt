@@ -361,8 +361,6 @@ There are quite a few surprises for non-native speakers!
 
 <pic images/c10.ps The old street car goes to the Castro.>
 
-TODO
-
 <em>Michael</em> 
 We have often reported on our neighboring district, the Castro.
 Hardly any other district is as typical of San Francisco, and few are
@@ -399,11 +397,9 @@ carries items for people with taste who value details. Angelika
 recently spent twenty dollars there on a simple egg timer! It's
 crazy!
 
-<pic images/c6.ps The translation of "Bunte HÃ¤user auf der Castro
-Street" to English is "Colorful houses on Castro Street.>
+<pic images/c6.ps Colorful houses on Castro Street.>
 
-<pic images/c7.ps The housewares and hardware store "Cliff's Variety"
-on Castro Street>
+<pic images/c7.ps The housewares and hardware store "Cliff's Variety" on Castro Street>
 
 The rainbow flags are ubiquitous in the Castro, and noticeably many
 men have short hair. There is a rich selection of excellent
@@ -414,11 +410,9 @@ alternative, intellectually inclined films. Once a year, the
 so-called "German Festival" takes place there, showcasing new German
 films with English subtitles.
 
-<pic images/c8.ps The translation to English is: "Rainbow flag and
-houses on Castro Street.>
+<pic images/c8.ps Rainbow flag and houses on Castro Street.>
 
-<pic images/c9.ps The translation of "FrÃ¼hstÃ¼ck in der Sonne" to
-English is "Breakfast in the sun.>
+<pic images/c9.ps Breakfast in the sun.>
 
 However, the Castro is brutally hilly. Anyone who wants to ride a
 bike through it should be prepared for quite a challenge, as it has
@@ -427,10 +421,9 @@ and upwards. We residents of Noe Valley often wander around the
 friendly Castro, as there is a lot to see and you can never have
 enough top-notch restaurants.
 
-@Z: Off to the Redwoods
+@Z: Off To the Redwoods
 
-<pic images/rwtree2.ps A mighty redwood tree in Prairie Creek
-Redwoods State Park>
+<pic images/rwtree2.ps A mighty redwood tree in Prairie Creek Redwoods State Park>
 
 <em>Angelika</em> 
 And here's a quiz question: Which is the American holiday (apart from
@@ -449,22 +442,21 @@ obligatory barbecues with friends and family. In San Francisco, the
 fireworks often disappear into the fog. During the day, the weather
 is fantastic, but just before the fireworks, the notorious summer fog
 lives up to its name. This year, for a change, it was actually clear.
-Due to the limited American vacation days, we use every holiday to
+Due to the limited number of vacation days here, we use every holiday to
 get away, and Yahoo! had also declared July 3rd a holiday. So we sped
 up north in our beloved car "Perlman" to Humboldt County, home of the
 Redwood National Park and various state parks under the patronage of
-California.
+the State of California.
 
 The so-called "Coast Redwoods" are truly a special kind of tree.
 These "coastal redwood sequoias" can live up to 2000 years and, in
-some cases, tower over 110 meters into the sky. About 60 meters is
+some cases, reach over 300 feet into the sky. About 180 feet is
 the average height. There's nothing better than lacing up your hiking
 boots and wandering through the redwood forest. How small and
 insignificant one suddenly feels. We did this in the "Prairie Creek
-Redwoods State Park.
+Redwoods State Park."
 
-<pic images/rwriv2.ps Perlman makes his way through a small stream to
-a remote hiking trail.>
+<pic images/rwriv2.ps Perlman makes his way through a small stream to a remote hiking trail.>
 
 To reach the parking lot of the hiking trail, we not only had to
 drive a few miles on an unpaved road, but also cross two small
@@ -486,8 +478,7 @@ sought-after types of timber.
 
 @Z: Top product: The "Weber Q" grill
 
-<pic images/grill.ps A master of his craft: Michael is grilling two
-New York steaks on the "Weber Q".>
+<pic images/grill.ps A master of his craft: Michael is grilling two New York steaks on the "Weber Q".>
 
 <em>Michael</em> 
 The terms "home" and "grilling" are inseparably linked in America. A
@@ -495,18 +486,16 @@ home is not complete until there is a so-called barbecue (BBQ) in the
 garden. The head of the family stands at it and prepares hamburgers
 or steaks for the whole family. Important: Grilling is a man's job.
 
-Grills are sacred devices. Everyone has "the best one," and owners
-enjoy discussing how many...
-<LINK>http://en.wikipedia.org/wiki/Btu|BTU</LINK>
-Whether you have a grill or want to know the best way to prepare a
-particular cut of meat. Since we don't have a garden but only a small
+Grills are sacred devices. Everyone has "the best one," and grill owners
+enjoy discussing how many <LINK>http://en.wikipedia.org/wiki/Btu|BTUs</LINK>
+theirs pumps out or how to best prepare a
+particular cut of meat. Since we don't have a yard but only a small
 balcony, it was important not to buy a 32-hamburger monster. The
 "Weber Q" (pronounced "Webber Kju") is just right: serving up to six
 guests is no problem, and the unit is so handy that it takes up
 hardly any space. And you can really tell that it embodies the
-extensive experience of the renowned...
-<LINK>http://www.weber.com|The translation of "Grillfirma Weber" to
-English is "Grill company Weber.</LINK>
+extensive experience of the renowned
+<LINK>http://www.weber.com|Grill company Weber</LINK>.
 The heat is distributed evenly, so nothing burns and nothing remains
 raw. It runs on small propane gas cartridges, which last for about 5
 grilling sessions and cost $2. You can also buy an adapter for really
@@ -525,13 +514,14 @@ least a hundred things online, and the items had always been
 delivered to my cubicle by the mailman working at AOL.
 
 I didn't make a big fuss and just went to the given address in God's
-name: "Caribbean Drive, Sunnyvale." Just before the post office, I
+name: "Caribbean Drive, Sunnyvale." Just before the corporate mail center, I
 saw that there was a company called Yahoo! located there, right
 before Caribbean Drive. A few weeks later, I applied there. The rest,
 as they say, is history.
 
-@Z: VerrÃ¼ckte Videos" translates to "Crazy Videos" in English.
+@Z: Crazy Videos
 
+<pic images/tunak.ps The crazy video 'Tunak Tunak' on youtube.com>
 
 <em>Michael</em> 
 As loyal newsletter readers, you surely know the video website
@@ -539,60 +529,28 @@ youtube.com, as we've mentioned it a few times before. A revolution
 is currently taking place there, with more and more people creating
 their own TV shows. A young lady named 'Brookers' has apparently
 influenced an entire generation of young people with her self-made
-clips.
-<LINK>http://www.youtube.com/watch?v=ToZQ4qbKJGs|Video with the
-Brookers story</LINK>
+clips:
+<LINK>http://www.youtube.com/watch?v=ToZQ4qbKJGs|Video with the Brookers story</LINK>.
 Of course, it's on YouTube, and now the lady is supposedly going to
 get her own TV show.
 
 More and more often, emails with funny links to YouTube videos are
-being sent, for example, recently the apparently Indian one.
-<LINK>http://www.youtube.com/watch?v=bhI9UmD1lo4|The video "Tunak
-Tunak" is a popular Punjabi music video by Indian artist Daler
-Mehndi. The song itself is in Punjabi, and the title "Tunak Tunak"
-doesn't have a direct translation to English as it is more of a
-rhythmic expression or catchy phrase used in the song. The video is
-known for its vibrant visuals and energetic dance moves.</LINK>
-which is immediately a However, this is a fragment and may not convey
-a complete thought without additional context.
-<LINK>http://www.youtube.com/watch?v=sAxKXqzOaWg|Cover version by
+being sent around nowadays, for example, recently the apparently
+<LINK>http://www.youtube.com/watch?v=bhI9UmD1lo4|Indian video "Tunak Tunak"</LINK>.
+which immediately triggered a response in form of a 
+<LINK>http://www.youtube.com/watch?v=sAxKXqzOaWg|cover version by
 Romanian teenagers</LINK>
-The phrase "auf den Plan rief" can be translated to English as
-"called into action" or "brought into play.
 
-And finally, the best from my email haul of the last few weeks: The
-<LINK>http://www.youtube.com/watch?v=RjrEQaG5jPM|Video of an Indian
-traffic intersection</LINK>
-The German word "die" translates to "the" in English. However,
-without additional context, it's important to note that "die" is the
-feminine definite article in German, used for feminine singular
-nouns.
-<LINK>http://www.youtube.com/watch?v=H69eCYcDcuQ|Ninja Special
-Delivery on the Topic of Net Neutrality</LINK>
-The German word "ein" translates to "a" or "an" in English, depending
-on the context. However, the comma before "ein" suggests that this
-might be part of a larger sentence or phrase. If you provide more
-context, I can offer a more accurate translation.
-<LINK>http://youtube.com/watch?v=QjA5faZF1A8|Boy plays Pachelbel's
-Canon and Gigue in D major on the electric guitar.</LINK>
-The German word "ein" translates to "a" or "an" in English, depending
-on the context.
-<LINK>http://youtube.com/watch?v=u9kYaAlo100|Funny commercial with
-bear attack</LINK>
-The German word "ein" translates to "a" or "an" in English, depending
-on the context.
-<LINK>http://www.youtube.com/watch?v=PxnWjif1igk|</LINK>
-The German phrase "ein offensichtlich" translates to "an obvious" in
-English.
-<LINK>http://www.youtube.com/watch?v=zA1hyqA6UTY|Crazy person
-complains to city council about helicopter noise</LINK>
-The translation of "Und schlieÃlich" to English is "And finally.
-<LINK>http://www.youtube.com/watch?v=cv39ZnjtG3Y|The worst dance
-video of all time</LINK>
-.
+And finally, here's the best of my email haul of the last few weeks: The
+<LINK>http://www.youtube.com/watch?v=RjrEQaG5jPM|video of an Indian traffic intersection</LINK>,
+the <LINK>http://www.youtube.com/watch?v=H69eCYcDcuQ|Ninja Special Delivery on the Topic of Net Neutrality</LINK>,
+a <LINK>http://youtube.com/watch?v=QjA5faZF1A8|Boy playing Pachelbel's
+Canon and Gigue in D major on the electric guitar.</LINK>,
+a <LINK>http://youtube.com/watch?v=u9kYaAlo100|funny commercial with a bear attack</LINK>, a
+<LINK>http://www.youtube.com/watch?v=PxnWjif1igk|congressman in an embarrassing interview</LINK>, an obviously
+<LINK>http://www.youtube.com/watch?v=zA1hyqA6UTY|crazy person complaining to a city council about helicopter noise</LINK>, and finally.
+<LINK>http://www.youtube.com/watch?v=cv39ZnjtG3Y|The worst dance video of all time</LINK>.
 
 Have fun with it!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
