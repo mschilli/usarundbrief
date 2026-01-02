@@ -287,27 +287,24 @@ nephew recently came to visit, I remembered that there is often a
 so-called "pick-up game" happening in the nearby Dolores Park. So one
 evening after work, we ran down there and just joined in the game.
 
-TODO
-
 Initially, we noticed that an astonishing number of women were
 playing. And the skill level of the men is, um, not exactly
 world-class. But it was very fun, and I learned that nowadays people
 come together for casual soccer through the internet: on the site
-http://socster.com
-First, you select the region, then one of the registered locations,
+<LINK>http://socster.com</LINK> you
+first select your region, then one of the registered locations,
 and you can already arrange in discussion forums when and how many
 people will come together.
 
-<pic images/socster.ps Organize pickup games over the Internet:
-socster.com>
+<pic images/socster.ps Organize pickup games over the Internet: socster.com>
 
-That works excellently, and last Tuesday I joined a little game,
+That works excellently, and last Tuesday I joined a small game,
 which was really great! The mix was typical too: noticeably many
 exiled Germans, Italians, and French. Of course, I play in the German
 national team jersey, which I bought many years ago during a visit to
 Germany, so people know where I stand.
 
-@Z: Barber: Traditional Barbers
+@Z: Traditional Barbers
 
 <pic images/barber.ps The "Barber's Pole", the sign for a barbershop>
 
@@ -316,27 +313,24 @@ When an American man needs a haircut, he goes to what is called a
 "barber." These are usually tiny shops, and inside there is a red
 upholstered leather chair with a footrest. An ancient, life-worn man
 holds scissors and a razor in his hands. In San Francisco, there is
-one who even plays the saxophone when there are no customers. Of
+one who even plays the saxophone in his shop when there are no customers. Of
 course, you don't make an appointment with the barber; you just drop
-by.
+in.
 
 A barbershop can be recognized from the outside by the so-called
-<LINK>http://en.wikipedia.org/wiki/Barber%27s_pole|Barber's Pole is
-already in English. It refers to the traditional sign used by
-barbers, typically a pole with red, white, and sometimes blue stripes
-that spiral around it.</LINK>
-A vertically standing cylinder with white-red-blue striped spirals.
-The history of this symbol can be traced back to the Middle Ages,
+<LINK>http://en.wikipedia.org/wiki/Barber%27s_pole|Barber's Pole</LINK>.
+It's a vertically standing cylinder with white-red-blue striped spirals.
+The history of this symbol can be traced back to medieval times,
 when barbers performed bloodletting on their patients using leeches.
 And it wasn't that long ago that barbers also pulled teeth or
 performed minor surgeries with whiskey anesthesia.
 
 The white stripes of the cylinder symbolize bandages, the red ones
-blood, and there are different interpretations for the blue ones:
+blood, and there are different interpretations for the blue stripes:
 either venous blood (as opposed to red arterial blood) or simply to
 distinguish between surgeons (red) and barbers (blue). Or simply to
-complete the American national colors, as there is no certainty about
-this.
+complete the American national colors, but there's no certainty about
+any of this.
 
 The difference between a barber and a hairdresser is that the barber
 also shaves beards, although this is rarely requested nowadays.
@@ -347,30 +341,29 @@ hair, as that seems to be reserved for the fancy salons.
 <pic images/barber-shop.ps A typical American barbershop.>
 
 By the way, there is this budget chain called "Supercuts," which are
-hairdressers that are also quite cheap and trim both men's and
+hairdresser establishments that are also quite cheap and trim both men's and
 women's hair. However, Supercuts is the McDonald's of hairdressers,
-and I've heard that the training period for the staff is about a
+and I've heard that the training period for the staff is about one
 week. So, the quality of the haircut can vary.
 
 My barber in the Italian neighborhood of North Beach is from Puerto
 Rico and lives in the South American neighborhood of Mission. He not
 only cuts my hair and shaves the sideburns with a real razor, but
 after the work is done, if he's in a good mood, he also straps a
-vibrating device to the back of his hand to massage the scalp with
+vibrating device to the back of his hand to massage my scalp with
 his now trembling hand. Very pleasant! However, if you talk during
 this, your voice vibrates amusingly.
 
-<pic images/barber-bill.ps The barber gives the customer a
-traditional men's haircut.>
+<pic images/barber-bill.ps The barber gives the customer a traditional men's haircut.>
 
 A tip of about 20% is given at the hairdresser. In an expensive
 women's salon, that can quickly be $20-$30! And just before
 Christmas, as custom dictates, this amount is to be doubled. That
 makes the wallet groan!
 
-@Z: Topprodukt
+@Z: Top Product
 
-<pic images/hoover.ps The super vacuum cleaner "Hoover Fusion>
+<pic images/hoover.ps The super vacuum cleaner "Hoover Fusion">
 
 <em>Michael</em> 
 Recently, someone asked on an internal Yahoo mailing list what the
@@ -378,16 +371,14 @@ best vacuum cleaner currently available might be. Don't laugh! This
 kind of question comes up often, and it's actually very helpful to
 get everyday tips from reasonably educated people. The popular
 answer: the Dyson. It's one of those modern, futuristic-looking
-vacuum cleaners that supposedly unleashes such an infernal suction
+vacuum cleaners that supposedly unleashes such infernal suction
 power that it outshines every device that has come before it. One
 Dyson model even has the fitting name "Animal." However, it comes
 with a price: $400 and up.
 
-We are, as you know, still letting our Roomba vacuum robot (
-<RBLINK>20060215#6</RBLINK>
-Here's the translation to English:
-
-"... but sometimes you spill something or want a deep clean, and
+We are, as you know, still letting our Roomba vacuum robot
+(<RBLINK>20060215#6</RBLINK>) do the vacuuming at home,
+but sometimes you spill something or want a deep clean,
 that's when you need a proper vacuum nozzle. Spending $400 on a
 device that you only use once a month is, of course, absurd. So when
 I found out that the well-established vacuum company Hoover produces
@@ -398,6 +389,8 @@ And this thing is truly phenomenal! I have no idea if the Dyson is
 even better, but at a quarter of the price, I'm happy to accept that
 uncertainty. I vacuum a part of the apartment every day because it's
 so much fun!
+
+TODO
 
 @Z: PG\&E
 
