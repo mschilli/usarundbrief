@@ -254,22 +254,16 @@ Sierra Miwok Indians who once lived there. After the earthquake in
 build a dam, to flood the Hetch Hetchy Valley, and to create a water
 reservoir.
 
-TODO
-The conservationists, led by John Muir, were up in arms. A seven-year
-legal battle ensued, and in the end, a federal court issued a
-decisive ruling in the "Raker Act." The O'Shaughnessy Dam was
-constructed, and the Tuolumne River, flowing into the valley, filled
-it to the brim with water. This precious water is delivered to San
-Francisco and the surrounding Bay Area through a complex system of
-pipelines and tunnels.
-<LINK>http://www.creatf.com/hetchy/watershedtour.html|Website of the
-Waterworks</LINK>
-The translation to English is: "you can see exactly how the whole
-thing works.
+The conservationists, led by John Muir, were up in arms. A seven-year legal
+battle ensued, and in the end, a federal court issued a decisive ruling in the
+"Raker Act." The O'Shaughnessy Dam was constructed, and the Tuolumne River,
+flowing into the valley, filled it to the brim with water. This precious water
+is delivered to San Francisco and the surrounding Bay Area through a complex
+system of pipelines and tunnels.
+On the <LINK>http://www.creatf.com/hetchy/watershedtour.html|website of the
+waterworks</LINK> you can see exactly how the whole thing works.
 
-<pic images/hetch-hetchy-openstreetmap.ps Location of the
-O'Shaughnessy Dam, which impounds water for San Francisco in Yosemite
-National Park.>
+<pic images/hetch-hetchy-openstreetmap.ps Location of the O'Shaughnessy Dam, which impounds water for San Francisco in Yosemite National Park.>
 
 In the summer, the basin gradually empties, but the winter rain
 refills the reservoir. A few years ago, there wasn't much rain in the
@@ -277,21 +271,23 @@ winter, and as a result, there was a water shortage in the summer. At
 that time, recommendations were issued to shower only once a day and
 to water the lawn only in the late evening.
 
-@Z: Pick-Up-Fußball
+@Z: Pick Up Soccer
 
 <pic images/trikot.ps The German national team in San Francisco>
 
-<em>Michael</em> 
-During my youth, I famously spent countless hours playing soccer on
-the street. And during my studies in Munich, there was a soccer game
+<em>Michael</em>
+During my youth, I famously spent countless hours playing street soccer
+in Germany. And during my studies in Munich, there was a soccer game
 every day at the so-called ZHS (Central University Sports), where you
-could just show up without registering.
+could just show up without registering and play.
 
-The USA is indeed a diaspora of soccer, and it's not that easy to
-find people who can actually play soccer. But when our 17-year-old
+The USA is indeed a diaspora for soccer, and it's not that easy to
+find people who can actually play the game. But when our 17-year-old
 nephew recently came to visit, I remembered that there is often a
 so-called "pick-up game" happening in the nearby Dolores Park. So one
 evening after work, we ran down there and just joined in the game.
+
+TODO
 
 Initially, we noticed that an astonishing number of women were
 playing. And the skill level of the men is, um, not exactly
