@@ -236,8 +236,6 @@ in top quality, and as you can see in illustration (#1), we have
 nicely set up our little dinner tables while watching the Friday TV crime
 show. Ah, that's a real treat again!
 
-TODO
-
 We usually only know hours of commercial-free television from our pay
 channel HBO. However, with the shows streamed over the internet, we
 also watch the German commercials, which often seem completely absurd
@@ -257,17 +255,17 @@ located close to the German border in Holland, and the internet
 servers that offer the files for download are in the relatively
 lawless zone of Antigua. Let's see how long it takes for the TV
 giants in Germany to find a way to shut down the service. Until then,
-we'll watch recklessly! I've even built a kind of TiVo for
-onlinetvrecorder.com using Perl, so I can enjoy watching the shows
+we'll be watching recklessly! I've even built a kind of TiVo for
+onlinetvrecorder.com, using Perl, so I can enjoy watching the shows
 from my computer.
 
 @Z: Nextbus.com
 
-<pic images/muni.ps Runs according to a fantasy schedule: The J tram>
+<pic images/muni.ps Runs according to a fantasy schedule: The J Muni train>
 
 <em>Michael</em> 
 In San Francisco, the streetcars are known to run according to a
-fantasy schedule. The tram doesn't arrive at a specific time;
+fantasy schedule. The train doesn't arrive at a specific time;
 instead, the schedule literally states "approximately every X
 minutes," with X varying between 10 to 30 depending on the time of
 day.
@@ -276,48 +274,42 @@ It is, of course, annoying to walk down three flights of stairs to
 the stop and then wait there for 29 minutes because the tram just
 left right in front of you.
 
-As is often the case, the Americans use advanced technology here to
-make the chaos manageable. The streetcars have been equipped with a
-transponder, and along the route, there are measuring stations that
-record when a car passes by.
+As is often the case, Americans use advanced technology here to
+make the chaos manageable. The streetcars have recently been equipped with a
+transponder, and along the route, there are receivers that
+record whenever a street car passes by.
 
 The live measured data is sent to the
-<LINK>http://nextbus.com|The translation of "Website nextbus.com" to
-English is simply "Website nextbus.com" as it is already in English.
-If you meant to translate content from the website, please provide
-the specific text you need translated.</LINK>
-The translation to English is: "which calculates in how many minutes
-the next tram is expected to arrive at a set stop. This can then be
+<LINK>http://nextbus.com|Website nextbus.com</LINK>
+which calculates in how many minutes
+the next train is expected to arrive at a defined stop. This can then be
 queried for free and in real-time over the internet.
 
-<pic images/nextbus.ps The website nextbus.com shows when the next
-tram will arrive at our stop.>
+<pic images/nextbus.ps The website nextbus.com shows when the next Muni train will arrive at our stop.>
 
 The system works perfectly. If I want to take the J streetcar to
 downtown, I simply check on my computer shortly beforehand, which is
-on 24 hours a day anyway. If the web browser then shows that the next
+running 24 hours a day anyway. If the web browser then shows that the next
 car will arrive at the intersection of 24th and Church "In 2
 Minutes," a frenzy breaks out, I dash down the stairs and rush onto
 the street. However, if it shows "In 15 Minutes," I fool around for
 another 10 minutes before starting a leisurely descent. One of my
 colleagues even has a cell phone with which he retrieves the data!
 
-@Z: The translation of "Schraub- statt LÃ¼sterklemmen" to English is
-"Screw terminals instead of terminal blocks.
+@Z: Screw Terminals Instead of Terminal Blocks
 
-<pic images/klemme.ps The title translates to "The Cap as a
-Substitute for Terminal Blocks" in English.>
+<pic images/klemme.ps The screw nut as a Substitute for Terminal Blocks>
 
 <em>Michael</em> 
 When installing a ceiling light in Germany, a so-called
-"LÃ¼sterklemme" is often used. This is a plastic piece with small
+Lüsterklemme" is often used. This is a plastic piece with small
 screws and holes, into which you insert the stripped wire strands
-from the back and front and secure them with a screwdriver.
+from the back and front and then secure them with a screwdriver.
 
 In the USA, there don't seem to be any terminal blocks, at least not
 in the hardware stores I frequent. As I discovered by unscrewing old
 ceiling lamps, small caps with an internal metal thread are commonly
-used here instead.
+used here instead, called screw nuts.
 
 To connect the two strands of two 110-volt lines, you twist the
 copper wires together and then place a cap on top, so that the metal
@@ -331,27 +323,16 @@ insulates, and you don't need a screwdriver. And luckily, it's only
 110 volts here and not 220, otherwise, it could be quite frightening!
 
 The cap is called in technical jargon, by the way.
-<LINK> http://en.wikipedia.org/wiki/Twist-on_wire_connector|The
-translation of "Twist-on Wire Connector" to English is "Twist-on Wire
-Connector." It appears that the term is already in English.</LINK>
-The company Ideal Industries introduced the groundbreaking world
-novelty in 1920 as the "Wire Nut" and registered the name as a
-trademark. And just like people in Germany say "Tesa" instead of
-"transparent adhesive tape," the term "Wire Nut" has become commonly
-used in American vernacular for the caps, even though nowadays they
-are, of course, only produced cheaply in China.
+<LINK> http://en.wikipedia.org/wiki/Twist-on_wire_connector</LINK>
+The company Ideal Industries introduced the groundbreaking world novelty in
+1920 as the "Wire Nut" and registered the name as a trademark. And just like
+people in Germany say "Tesa" instead of "Scotch Tape," the term "Wire Nut" has
+become commonly used in American vernacular for the caps, even though nowadays
+they are, of course, only produced cheaply in China.
 
-@Z: The sounds "Hï¿½h! Brr! Wieher! Grunz!" are onomatopoeic
-expressions representing animal noises in German. In English, they
-can be translated as:
+@Z: Onomatopoeic Expressions
 
-- "Hï¿½h!" could be a sound of surprise or a shout, similar to "Hey!"
-or "Huh!" - "Brr!" is often used to express a shiver or cold, similar
-to "Brr!" - "Wieher!" represents the neighing sound of a horse,
-similar to "Neigh!" - "Grunz!" is the grunting sound of a pig,
-similar to "Oink!" or "Grunt!
-
-<pic images/dog.ps Arf, arf!" says the dog.>
+<pic images/dog.ps "Arf, arf!" says the dog.>
 
 <em>Michael</em> 
 Every language translates animal sounds slightly differently.
@@ -359,7 +340,7 @@ Sometimes, something similar comes out, like with the cow, which goes
 "Muh" in German and the similar-sounding "moo" in English. But did
 you know that the sound for a horse neighing is "neigh" (pronounced
 "neehii")? By the way, in America, you don't urge a horse on with
-"HÃ¼" and stop it with "Brr," as you do in Germany. Instead, you
+"Hüh" and stop it with "Brr," as you do in Germany. Instead, you
 start it with a double tongue click in the side/back of the mouth,
 similar to how you might attract a horse or cow in Germany when
 holding a carrot. A horse is stopped with "Whoa!" The latter is also
@@ -368,20 +349,17 @@ like when a piano is about to fall on someone's head.
 
 In written English, the sound is called "tut-tut.
 <LINK>http://en.wikipedia.org/wiki/Tut-tut|Tut-tut</LINK>
-The translation to English is: "it is spoken like typing with the
-tongue.
+It is spoken like typing with the tongue.
 
 A dog goes "arf arf" or "bow wow" depending on its size. A trumpeting
 elephant goes "baraag," a frog goes "ribbit," a goat goes "baa," and
-a squealing pig goes "wee wee." On the internet, there are sites that
-<LINK>http://www.eleceng.adelaide.edu.au/Personal/dabbott/animal.html
-|Animal sounds in different languages</LINK>
-The translation to English is: "List them, there are quite a few
-surprises!
+a squealing pig goes "wee wee." On the internet, there are sites that list
+<LINK>http://www.eleceng.adelaide.edu.au/Personal/dabbott/animal.html|Animal sounds in different languages</LINK>
+There are quite a few surprises for non-native speakers!
 
 @Z: San Francisco Views: Castro
 
-<pic images/c10.ps The old tram goes to the Castro.>
+<pic images/c10.ps The old street car goes to the Castro.>
 
 <em>Michael</em> 
 We have often reported on our neighboring district, the Castro.
@@ -419,11 +397,9 @@ carries items for people with taste who value details. Angelika
 recently spent twenty dollars there on a simple egg timer! It's
 crazy!
 
-<pic images/c6.ps The translation of "Bunte HÃ¤user auf der Castro
-Street" to English is "Colorful houses on Castro Street.>
+<pic images/c6.ps Colorful houses on Castro Street.>
 
-<pic images/c7.ps The housewares and hardware store "Cliff's Variety"
-on Castro Street>
+<pic images/c7.ps The housewares and hardware store "Cliff's Variety" on Castro Street>
 
 The rainbow flags are ubiquitous in the Castro, and noticeably many
 men have short hair. There is a rich selection of excellent
@@ -434,11 +410,9 @@ alternative, intellectually inclined films. Once a year, the
 so-called "German Festival" takes place there, showcasing new German
 films with English subtitles.
 
-<pic images/c8.ps The translation to English is: "Rainbow flag and
-houses on Castro Street.>
+<pic images/c8.ps Rainbow flag and houses on Castro Street.>
 
-<pic images/c9.ps The translation of "FrÃ¼hstÃ¼ck in der Sonne" to
-English is "Breakfast in the sun.>
+<pic images/c9.ps Breakfast in the sun.>
 
 However, the Castro is brutally hilly. Anyone who wants to ride a
 bike through it should be prepared for quite a challenge, as it has
@@ -447,10 +421,9 @@ and upwards. We residents of Noe Valley often wander around the
 friendly Castro, as there is a lot to see and you can never have
 enough top-notch restaurants.
 
-@Z: Off to the Redwoods
+@Z: Off To the Redwoods
 
-<pic images/rwtree2.ps A mighty redwood tree in Prairie Creek
-Redwoods State Park>
+<pic images/rwtree2.ps A mighty redwood tree in Prairie Creek Redwoods State Park>
 
 <em>Angelika</em> 
 And here's a quiz question: Which is the American holiday (apart from
@@ -469,22 +442,21 @@ obligatory barbecues with friends and family. In San Francisco, the
 fireworks often disappear into the fog. During the day, the weather
 is fantastic, but just before the fireworks, the notorious summer fog
 lives up to its name. This year, for a change, it was actually clear.
-Due to the limited American vacation days, we use every holiday to
+Due to the limited number of vacation days here, we use every holiday to
 get away, and Yahoo! had also declared July 3rd a holiday. So we sped
 up north in our beloved car "Perlman" to Humboldt County, home of the
 Redwood National Park and various state parks under the patronage of
-California.
+the State of California.
 
 The so-called "Coast Redwoods" are truly a special kind of tree.
 These "coastal redwood sequoias" can live up to 2000 years and, in
-some cases, tower over 110 meters into the sky. About 60 meters is
+some cases, reach over 300 feet into the sky. About 180 feet is
 the average height. There's nothing better than lacing up your hiking
 boots and wandering through the redwood forest. How small and
 insignificant one suddenly feels. We did this in the "Prairie Creek
-Redwoods State Park.
+Redwoods State Park."
 
-<pic images/rwriv2.ps Perlman makes his way through a small stream to
-a remote hiking trail.>
+<pic images/rwriv2.ps Perlman makes his way through a small stream to a remote hiking trail.>
 
 To reach the parking lot of the hiking trail, we not only had to
 drive a few miles on an unpaved road, but also cross two small
@@ -504,10 +476,9 @@ established back in 1921 to preserve the Redwoods for future
 generations. Even today, Redwoods are considered one of the most
 sought-after types of timber.
 
-@Z: Top product: The "Weber Q" grill
+@Z: Top product: The "Weber Q" Grill
 
-<pic images/grill.ps A master of his craft: Michael is grilling two
-New York steaks on the "Weber Q".>
+<pic images/grill.ps A master of his craft: Michael is grilling two New York steaks on the "Weber Q".>
 
 <em>Michael</em> 
 The terms "home" and "grilling" are inseparably linked in America. A
@@ -515,18 +486,16 @@ home is not complete until there is a so-called barbecue (BBQ) in the
 garden. The head of the family stands at it and prepares hamburgers
 or steaks for the whole family. Important: Grilling is a man's job.
 
-Grills are sacred devices. Everyone has "the best one," and owners
-enjoy discussing how many...
-<LINK>http://en.wikipedia.org/wiki/Btu|BTU</LINK>
-Whether you have a grill or want to know the best way to prepare a
-particular cut of meat. Since we don't have a garden but only a small
+Grills are sacred devices. Everyone has "the best one," and grill owners
+enjoy discussing how many <LINK>http://en.wikipedia.org/wiki/Btu|BTUs</LINK>
+theirs pumps out or how to best prepare a
+particular cut of meat. Since we don't have a yard but only a small
 balcony, it was important not to buy a 32-hamburger monster. The
 "Weber Q" (pronounced "Webber Kju") is just right: serving up to six
 guests is no problem, and the unit is so handy that it takes up
 hardly any space. And you can really tell that it embodies the
-extensive experience of the renowned...
-<LINK>http://www.weber.com|The translation of "Grillfirma Weber" to
-English is "Grill company Weber.</LINK>
+extensive experience of the renowned
+<LINK>http://www.weber.com|Grill company Weber</LINK>.
 The heat is distributed evenly, so nothing burns and nothing remains
 raw. It runs on small propane gas cartridges, which last for about 5
 grilling sessions and cost $2. You can also buy an adapter for really
@@ -545,13 +514,14 @@ least a hundred things online, and the items had always been
 delivered to my cubicle by the mailman working at AOL.
 
 I didn't make a big fuss and just went to the given address in God's
-name: "Caribbean Drive, Sunnyvale." Just before the post office, I
+name: "Caribbean Drive, Sunnyvale." Just before the corporate mail center, I
 saw that there was a company called Yahoo! located there, right
 before Caribbean Drive. A few weeks later, I applied there. The rest,
 as they say, is history.
 
-@Z: VerrÃ¼ckte Videos" translates to "Crazy Videos" in English.
+@Z: Crazy Videos
 
+<pic images/tunak.ps The crazy video 'Tunak Tunak' on youtube.com>
 
 <em>Michael</em> 
 As loyal newsletter readers, you surely know the video website
@@ -559,60 +529,27 @@ youtube.com, as we've mentioned it a few times before. A revolution
 is currently taking place there, with more and more people creating
 their own TV shows. A young lady named 'Brookers' has apparently
 influenced an entire generation of young people with her self-made
-clips.
-<LINK>http://www.youtube.com/watch?v=ToZQ4qbKJGs|Video with the
-Brookers story</LINK>
+clips:
+<LINK>http://www.youtube.com/watch?v=ToZQ4qbKJGs|Video with the Brookers story</LINK>.
 Of course, it's on YouTube, and now the lady is supposedly going to
 get her own TV show.
 
 More and more often, emails with funny links to YouTube videos are
-being sent, for example, recently the apparently Indian one.
-<LINK>http://www.youtube.com/watch?v=bhI9UmD1lo4|The video "Tunak
-Tunak" is a popular Punjabi music video by Indian artist Daler
-Mehndi. The song itself is in Punjabi, and the title "Tunak Tunak"
-doesn't have a direct translation to English as it is more of a
-rhythmic expression or catchy phrase used in the song. The video is
-known for its vibrant visuals and energetic dance moves.</LINK>
-which is immediately a However, this is a fragment and may not convey
-a complete thought without additional context.
-<LINK>http://www.youtube.com/watch?v=sAxKXqzOaWg|Cover version by
+being sent around nowadays, for example, recently the apparently
+<LINK>http://www.youtube.com/watch?v=bhI9UmD1lo4|Indian video "Tunak Tunak"</LINK>.
+which immediately triggered a response in form of a 
+<LINK>http://www.youtube.com/watch?v=sAxKXqzOaWg|cover version by
 Romanian teenagers</LINK>
-The phrase "auf den Plan rief" can be translated to English as
-"called into action" or "brought into play.
 
-And finally, the best from my email haul of the last few weeks: The
-<LINK>http://www.youtube.com/watch?v=RjrEQaG5jPM|Video of an Indian
-traffic intersection</LINK>
-The German word "die" translates to "the" in English. However,
-without additional context, it's important to note that "die" is the
-feminine definite article in German, used for feminine singular
-nouns.
-<LINK>http://www.youtube.com/watch?v=H69eCYcDcuQ|Ninja Special
-Delivery on the Topic of Net Neutrality</LINK>
-The German word "ein" translates to "a" or "an" in English, depending
-on the context. However, the comma before "ein" suggests that this
-might be part of a larger sentence or phrase. If you provide more
-context, I can offer a more accurate translation.
-<LINK>http://youtube.com/watch?v=QjA5faZF1A8|Boy plays Pachelbel's
-Canon and Gigue in D major on the electric guitar.</LINK>
-The German word "ein" translates to "a" or "an" in English, depending
-on the context.
-<LINK>http://youtube.com/watch?v=u9kYaAlo100|Funny commercial with
-bear attack</LINK>
-The German word "ein" translates to "a" or "an" in English, depending
-on the context.
-<LINK>http://www.youtube.com/watch?v=PxnWjif1igk|</LINK>
-The German phrase "ein offensichtlich" translates to "an obvious" in
-English.
-<LINK>http://www.youtube.com/watch?v=zA1hyqA6UTY|Crazy person
-complains to city council about helicopter noise</LINK>
-The translation of "Und schlieÃlich" to English is "And finally.
-<LINK>http://www.youtube.com/watch?v=cv39ZnjtG3Y|The worst dance
-video of all time</LINK>
-.
+And finally, here's the best of my email haul of the last few weeks: The
+<LINK>http://www.youtube.com/watch?v=RjrEQaG5jPM|video of an Indian traffic intersection</LINK>,
+the <LINK>http://www.youtube.com/watch?v=H69eCYcDcuQ|Ninja Special Delivery on the Topic of Net Neutrality</LINK>,
+a <LINK>http://youtube.com/watch?v=QjA5faZF1A8|Boy playing Pachelbel's Canon and Gigue in D major on the electric guitar.</LINK>,
+a <LINK>http://youtube.com/watch?v=u9kYaAlo100|funny commercial with a bear attack</LINK>, a
+<LINK>http://www.youtube.com/watch?v=PxnWjif1igk|congressman in an embarrassing interview</LINK>, an obviously
+<LINK>http://www.youtube.com/watch?v=zA1hyqA6UTY|crazy person complaining to a city council about helicopter noise</LINK>, and finally,
+<LINK>http://www.youtube.com/watch?v=cv39ZnjtG3Y|the worst dance video of all time</LINK>.
 
 Have fun with it!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
