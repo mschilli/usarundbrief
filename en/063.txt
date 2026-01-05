@@ -389,36 +389,34 @@ even better, but at a quarter of the price, I'm happy to accept that
 uncertainty. I vacuum a part of the apartment every day because it's
 so much fun!
 
-TODO
-
-@Z: PG\&E
+@Z: Pacific Gas and Electric (PG\&E)
 
 <pic images/pge.ps PG&E gives a discount.>
 
 <em>Angelika</em> 
-Last week, our electricity bill from PG&E (Pacific Gas and Electric
-Company) arrived, and I was surprised to see that it was
+Last week, our electricity bill from PG&E (Pacific Gas and Electric)
+arrived, and I was pleasantly surprised to see that it was
 significantly lower than usual. Then I noticed the attached note,
 which kindly explained that every customer would retroactively
-receive a 15% discount called the "Heat Storm Bill Credit" for their
-gas and electricity bill from July. It went on to say that an unusual
+receive a 15% discount called the "Heat Storm Bill Credit" for their July
+gas and electricity bill. It went on to say that an unusual
 heatwave had gripped California in July, leading to higher
-electricity consumption (keyword: air conditioning) and bills for
+electricity consumption (keyword: air conditioning) and therefore higher bills for
 many households. Huh? I had always thought that we live in an era of
 global warming and that saving electricity, not wasting it, should be
 rewarded. PG&E had generally adhered to this principle in the past.
 During previous heatwaves, consumers were encouraged to reduce their
-electricity usage, for example, by turning down the air conditioning,
+power usage, for example, by turning down the air conditioning,
 to receive a discount later for significant savings.
 
 In San Francisco, by the way, we don't pay a monthly installment for
-our electricity; instead, we pay for the amount we actually consume.
-Every month, the PG&E man comes to read the meter. He carries a huge
+our power usage; instead, we pay for the amount we actually consume.
+Every month, the PG&E man comes by to read the meter. He carries a huge
 bunch of keys to open various garage doors or similar to access the
 meters. Often, the meters are also mounted on the exterior walls of
 houses. Just before the new year, a calendar is always included with
 the bill, indicating when the meter will be read. This system
-naturally leads to higher bills in months when heating is necessary
+naturally leads to higher bills in cold months when heating is necessary
 or when the air conditioning (which is rare in private homes in San
 Francisco) is running at full capacity. PG&E does offer the option to
 pay an average amount each month to balance out the fluctuations, but
@@ -429,8 +427,7 @@ insight into the dark dealings of American energy executives.
 
 @Z: Mexican Coke
 
-<pic images/coca.ps The real Coca-Cola, still with sugar. Bought at
-the Mexican taco truck.>
+<pic images/coca.ps The real Coca-Cola, still with sugar. Bought at the Mexican taco truck.>
 
 <em>Michael</em> 
 When you buy a bottle or can of Coca-Cola in the USA, you get a
@@ -443,19 +440,17 @@ board.
 There are conspiracy theories suggesting that the substance is
 significantly responsible for the fattening of American society.
 Allegedly, the syrup is said to lead to excessive consumption of
-sticky soda.
+sweet soda.
 
 Whether that's true, I dare to doubt, but connoisseurs nowadays don't
-buy their soft drinks in the supermarket anymore; instead, they buy
+buy their soft drinks at the supermarket anymore; instead, they buy
 them online or at Mexican taco trucks, where you can find re-imported
 Coca-Cola from Mexico at fantasy prices (I recently paid 2 dollars
-for a 0.33l bottle!). The Mexicans call it "Coca Mexicana." With
-sugar, like in the old days. Because the Mexicans won't be fooled.
+for a 0.33l bottle!). Mexicans call it "Coca Mexicana." With
+real sugar, like in the olden days. Because Mexicans won't be fooled.
 And the internet-savvy folks in Silicon Valley line up obediently
 behind the Mexicans at the taco truck during lunchtime.
 
 See you later, Baby!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
