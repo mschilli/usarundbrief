@@ -13,18 +13,11 @@ persecuted in Germany, Americans just shake their heads and think of
 the old Nazi stories. Moreover, Mormons have been established in
 the USA for a long time and have 12.5 million members worldwide.
 
-TODO
-
 However, it must be said that the state of Utah in the USA has a
 rather medieval reputation, especially in progressive cities like San
 Francisco. If there is a political figure in America who appears even
 more reactionary than the current President George W. Bush, it is the
-senator from the Mormon state.
-<LINK>http://en.wikipedia.org/wiki/Orrin_Hatch|Orrin Hatch is a
-proper noun, specifically the name of an individual, and does not
-require translation. Orrin Hatch was an American politician who
-served as a United States Senator from Utah from 1977 to 2019.</LINK>
-.
+senator from the Mormon state, <LINK>http://en.wikipedia.org/wiki/Orrin_Hatch|Orrin Hatch</LINK>.
 
 Salt Lake City looks like a mix between Las Vegas and Disney World.
 It is so sprawling that our feet really hurt just from walking a few
@@ -39,7 +32,7 @@ reception where we could grab a bite to eat nearby. To our surprise,
 the porter immediately asked us if we also wanted to drink alcohol
 with it, which we laughingly affirmed.
 
-@Z: The Cross with Alcohol
+@Z: Hard Times With Alcohol
 
 <em>Michael</em> 
 Mormons are known for not drinking alcohol or caffeinated beverages.
@@ -52,8 +45,9 @@ them that we didn't spot a single one during our entire trip. There
 are only 37 "Full Service Liquor Stores" and 97 "Package Agencies"
 (with a smaller selection) in the entire state of Utah! In other
 states, there are also regulations that prohibit the sale of alcohol
-in supermarkets, but at least the liquor store is usually right next
-door.
+in supermarkets, but at least there's a liquor store usually right around the corner.
+
+TODO
 
 And, even worse: On Sundays, there is no beer in the supermarket in
 Utah. Above the beer shelf in a store we visited, the following sign
