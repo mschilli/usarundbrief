@@ -141,7 +141,7 @@ But we were allowed to participate in a tour, not inside the temple
 in the dome hall, we heard a performance of the
 <LINK>images/jesus.mp3|voice of Jesus Christ</LINK>.
 
-@Z: Ahnenforschung
+@Z: Family Research
 
 <pic images/fsearch.ps The Family History Library of the Mormons in Salt Lake City>
 
@@ -312,7 +312,7 @@ some snow actually stayed on the road, the sun-spoiled Californian
 driver started to sweat a little! But it wasn't too bad, as it was
 sunny again in Salt Lake City.
 
-@Z: Spannungsunterschiede
+@Z: Differences in Voltage
 
 <pic images/110vPlug.ps American power plugs>
 
@@ -411,10 +411,9 @@ topic of Power Plug</LINK>
 Nicely compiles everything worth knowing about North American power
 outlets.
 
-@Z: The Simpsons mock the US Army.
+@Z: The Simpsons Mock the US Army
 
-<pic images/simparmy.ps Two US Army recruiters are working hard in a
-shopping mall.>
+<pic images/simparmy.ps Two US Army recruiters are working hard in a shopping mall.>
 
 <em>Michael</em> 
 Recently, I was watching the latest episode of "The Simpsons" as
@@ -548,7 +547,7 @@ be seen how many compromises she will have to make in her new
 position, but hopefully, the liberal spirit of San Francisco will
 continue to accompany her.
 
-@Z: Toppprodukt
+@Z: Top Product
 
 <pic images/eraser.ps The newsletter top product: The "Magic Eraser"
 by Mr. Clean>
@@ -568,7 +567,7 @@ and they're gone. By the way, "eraser" means "rubber," a great name
 for this product. Supposedly, the Magic Eraser removes all kinds of
 dirt, but I haven't tried that yet. The walls are enough for me.
 
-@Z: Schrottprodukt
+@Z: Flop Product
 
 <pic images/suda1.ps The deceptive packaging of Sudafed PE ...>
 
@@ -594,7 +593,4 @@ Sudafed. Total junk and rubbish!
 
 Greetings from the land of the capital crooks:
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper nouns (names) and typically do not
-change between languages.
-
+Angelika & Michael
