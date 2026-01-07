@@ -47,10 +47,8 @@ are only 37 "Full Service Liquor Stores" and 97 "Package Agencies"
 states, there are also regulations that prohibit the sale of alcohol
 in supermarkets, but at least there's a liquor store usually right around the corner.
 
-TODO
-
-And, even worse: On Sundays, there is no beer in the supermarket in
-Utah. Above the beer shelf in a store we visited, the following sign
+And, even worse: On Sundays, you can't buy beer in the supermarket in
+Utah at all. Above the beer shelf in a store we visited, the following sign
 was hanging on Sunday: "The municipal ordinance of XYZ unfortunately
 prohibits us from selling beer on Sunday. We ask for your
 understanding." And the foamy throat coolers stood uselessly in the
@@ -59,8 +57,7 @@ again on Monday. Because during the week, the Mormon clique
 generously allows the sale. And in restaurants with the appropriate
 license, it's still not prohibited, not even on Sunday.
 
-<pic images/spencers.ps License to drink: Express membership at
-Spencer's for 4 dollars.>
+<pic images/spencers.ps License to drink: Express membership at Spencer's for 4 dollars.>
 
 In Utah, there is a strict distinction between bars and dining
 establishments. If a place does not serve food, it only receives a
@@ -72,7 +69,7 @@ for the bargain price of $4, allowing us to try the legendary steaks
 along with two glasses of wine/beer. The steaks (highly recommended:
 the 12 oz. New York Strip Steak for $34) were truly excellent, even
 I, as a grill master, must admit. Overall, Utah has about 300 of
-these "Private Clubs.
+these "Private Clubs."
 
 Until recently, it was also illegal in Utah for two alcoholic drinks
 to be in front of a guest at the same time. For example, if a diner
@@ -81,20 +78,13 @@ wine for the second course, the waiter had to insist on clearing the
 white wine glass before placing the red wine glass on the table.
 However, Utah has become more modern, presumably since the Winter
 Olympics a few years ago, and this absurd law was abolished.
-<LINK>http://usatoday.com/travel/destinations/cityguides/saltlakecity
-/2003-10-07-spotlight-liquor_x.htm|The title of the USA Today article
-"What's up with Utah's liquor laws?" translates to German as "Was ist
-los mit den Alkoholgesetzen in Utah?" In English, it remains the same
-as the original title.</LINK>
-Offers an amusing summary of the bizarre situation.
+The article
+<LINK>http://usatoday.com/travel/destinations/cityguides/saltlakecity/2003-10-07-spotlight-liquor_x.htm|"What's up with Utah's liquor laws?"</LINK>
+offers an amusing summary of the bizarre situation.
 
-In Salt Lake City, there is even the good...
-<LINK>http://www.squatters.com|The translation of "Brewpub
-'Squatters'" to English is simply "Brewpub 'Squatters'." The term
-"brewpub" is already in English, and "Squatters" appears to be a
-proper noun, likely the name of the establishment, which does not
-require translation.</LINK>
-, which brews and serves excellent beer. Beer in Utah can only
+Salt Lake City even featuresthe excellent
+<LINK>http://www.squatters.com|Brewpub 'Squatters'</LINK>,
+which brews and serves excellent beer. Beer in Utah can only
 contain 4% alcohol, while 6% is common in the rest of the country.
 The labels on the bottles hint with a wink at the precarious
 situation in the state: The Porter Ale is called 'Polygamy Porter'
@@ -107,7 +97,7 @@ Provo near Salt Lake City, where many conservative Mormons live.
 <pic images/jroom.ps In the visitor center of the Mormon temple>
 
 <em>Michael</em> 
-Salt Lake City is the Mecca of the Mormons. If you are not familiar
+Salt Lake City is the Mecca for Mormons. If you are not familiar
 with this religion, here is a brief summary: The Mormons, known in
 America as "The Church of Jesus Christ of Latter-day Saints," believe
 in everything that is written in the Bible (Old and New Testament)
@@ -134,13 +124,12 @@ The religion quickly gained many followers through Joseph Smith, and
 after some detours in the state of Illinois and some complications
 during which Joseph Smith was shot, the Mormons settled in a desert
 area in the state of Utah -- and from this settlement emerged what is
-now Salt Lake City.
+Salt Lake City today.
 
 The Mormons always have a living prophet. When the old prophet dies,
 the eldest of a group of twelve apostles automatically succeeds him.
 
-<pic images/adameva.ps Adam and Eve in the visitor center. Note how
-clean-shaven Adam is.>
+<pic images/adameva.ps Adam and Eve in the visitor center. Note how clean-shaven Adam is.>
 
 Mormons are always actively recruiting new members, and during our
 visit to the Mormon temple in Salt Lake City, we were repeatedly
@@ -148,35 +137,30 @@ asked to fill out a form with our address, which we naturally
 declined with thanks.
 
 But we were allowed to participate in a tour, not inside the temple
-(which is members-only), but at least in the visitor center, where we
-were in the dome hall.
-<LINK>images/jesus.mp3|Voice of Jesus Christ</LINK>
-The phrase "vorgespielt bekamen" can be translated to English as
-"were played" or "were shown," depending on the context. It generally
-refers to something being presented or performed for someone.
+(which is members-only), but at least in the visitor center, where,
+in the dome hall, we heard a performance of the
+<LINK>images/jesus.mp3|voice of Jesus Christ</LINK>.
 
 @Z: Ahnenforschung
 
-<pic images/fsearch.ps The Family History Library of the Mormons in
-Salt Lake City>
+<pic images/fsearch.ps The Family History Library of the Mormons in Salt Lake City>
 
 <em>Michael</em> 
-The Mormons believe that anyone who has not been baptized as a Mormon
+Mormons believe that anyone who has not been baptized as a Mormon
 will inevitably go to hell. To spare their already deceased ancestors
 this inconvenience, they are simply baptized posthumously in the
 temple in their absence. That's why Mormons place great importance on
 genealogy. Everyone traces their ancestors back at least to their
 great-grandparents, and many even further.
 
-<pic images/fsbooks.ps German books in the library of the Family
-History Library.>
+<pic images/fsbooks.ps German books in the library of the Family History Library.>
 
 To facilitate this time-consuming search, the "Genealogical Society
 of Utah" in Salt Lake City offers computer-assisted access to all
 sorts of old data collections, through which one can determine the
-names, life dates, and family relationships of their ancestors.
+names, life dates, and family relationships of ones ancestors.
 
-In the library operated by the Mormon Church, there are hundreds of
+In the library which is operated by the Mormon Church, there are hundreds of
 computer terminals available to everyone; you don't have to be a
 Mormon. We first watched an introductory film and were then guided to
 a computer by a friendly assistant.
@@ -187,24 +171,25 @@ often displays a number that refers to a book in a nearby shelf or a
 microfilm in one of thousands of drawers.
 
 We searched in the international department and couldn't believe our
-eyes: there were masses of German birth, death, and marriage
+eyes: there were reams of German birth, death, and marriage
 registers from the 19th and 20th centuries available! I examined a
 microfilm with handwritten entries from my family's home village,
-Langerringen, a small village of 3,000 people near SchwabmÃ¼nchen by
-Augsburg! I was actually able to find some entries under the name I
+Langerringen, a small village of 3,000 people near Schwabmünchen near
+Augsburg! Amazingly, I was even able to find several entries under the name I
 was looking for.
 
 <pic images/mfilm.ps The Microfilm Archive>
 
-You retrieve the microfilm yourself and without supervision from the
-drawer. It looks like a thick, wound film reel about 10 cm in
+You can retrieve the microfilms yourself and without supervision,
+just open the appropriate drawer.
+It looks like a thick, wound film reel about 4 inches in
 diameter, roughly as wide as a photo negative. You then place the
 reel into a man-sized device, unwind the film a bit, and thread the
 loose end through a glass projection plate onto a take-up reel on the
-other side. Using a crank on the side of the apparatus, you turn it,
+other side. Start turning the crank on the side panel of the apparatus
 and the individual frames are illuminated by a halogen lamp mounted
-above and projected onto a horizontal surface about 60x60 cm in size.
-As you walk through the rows, you see people busily turning the
+above and projected onto a horizontal surface about 20 x 20 inches in size.
+As you wander through the aisles, you can see people busily turning the
 cranks, examining entries, and taking notes.
 
 If you want to make a copy of an image you are currently viewing, you
@@ -212,37 +197,36 @@ take the microfilm with both reels out of the machine and ensure that
 the image you are viewing remains open. Then you carry it over to the
 copy room, place it in a copier, and pay 23 cents for a paper copy.
 
-<pic images/mfilmv.ps An old death register from the 19th century on
-the microfilm viewer>
+<pic images/mfilmv.ps An old death register from the 19th century on the microfilm viewer>
 
 The books in the library are also stunning. There are even editions
 of the old Nazi magazine "Ahnenerbe - Association for Clan and
 Heraldry Research Assistance, Heredity and Racial Care." And
 something I didn't know either: In 1529, the Turks were at the gates
 of Vienna, and the defense of the Western world was financed in the
-German Empire with the so-called "Turkish tax." In the collection of
-the "Family History Library," I found a book in which the Turkish tax
-register of 1584 is reprinted. In illustration (#8), you can see who
+German Empire with the so-called "Turk Tax." In the collection of
+the "Family History Library," I found a book in which the Turk Tax
+register of 1584 was reprinted. In illustration (#8), you can see who
 paid how much and when, and if not, why. If you are not familiar with
 old currencies: A gulden (fl. = florin) was worth 15 batzen (b.) at
 the time, and a batzen was worth 4 kreuzer (kr.).
 
-<pic images/tsteuer.ps (#8) The Turkish Tax Register from the Year
-1584>
+<pic images/tsteuer.ps (#8) The Turk Tax Register from the Year 1584>
 
-The search is conducted anonymously, costs nothing (except for
+You can search anonymously, it costs nothing (except for
 copying), and you can browse to your heart's content independently
 and without being bothered--a truly great service from the Mormon
-Church. We were so engrossed in our research that we didn't even
+Church. We got so carried away in our research that we didn't even
 notice how time flew by. When we finally looked at the clock, five
 hours had passed. Unfortunately, we didn't see much of the rest of
-the city because it soon got dark, and we hadn't even eaten anything
+the city because it soon got dark, and we hadn't even eaten
 yet!
 
 @Z: Capitol Reef National Park
 
-<pic images/capreef.ps Tourist with rental car in Capitol Reef
-National Park>
+<pic images/capreef.ps Tourist with rental car in Capitol Reef National Park>
+
+TODO
 
 <em>Angelika</em> 
 Most German tourists associate the state of Utah not with the
