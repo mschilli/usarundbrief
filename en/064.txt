@@ -406,8 +406,6 @@ outlets.
 
 <pic images/simparmy.ps Two US Army recruiters are working hard in a shopping mall.>
 
-TODO
-
 <em>Michael</em> 
 Recently, I was watching the latest episode of "The Simpsons" as
 usual and couldn't believe my eyes: they were actually making fun of
@@ -415,47 +413,40 @@ the US Army, which is currently having serious trouble recruiting new
 soldiers due to the dire situation in Iraq.
 
 And that on the right-leaning government propaganda channel FOX, just
-imagine that! As seen in the film...
-Outfoxed - Rupert Murdoch's War on Journalism
-The FOX employees, under the leadership of the sinister media mogul
+imagine that! As seen in the movie
+"Outfoxed - Rupert Murdoch's War on Journalism",
+FOX employees, under the leadership of the sinister media mogul
 Rupert Murdoch, use unscrupulous methods to present news in a certain
 light.
 
 In Germany, the Bundeswehr also doesn't have a good reputation, but
-the American was not familiar with such a negative attitude until
+the American Army never encountered such a negative attitude until
 now. Until about half a year ago, solidarity with the fighting troops
 prevailed in America, but recently this has started to crumble.
 
 The former Democratic presidential candidate John Kerry recently
 claimed that those who are too dumb to learn cannot go to college and
 end up on the front lines in Iraq. This sparked protests from the
-Army in Iraq, and some...
-The text "US-Soldaten fertigten ein lustiges Spruchband an"
-translates to "US soldiers made a funny banner" in English.
-...and sent it as a greeting back home.
+Army in Iraq, and some US soldiers
+<LINK>http://www.spokesmanreview.com/blogs/nhb/archive.asp?postID=11319|made a funny banner</LINK> and sent it as a greeting back home.
 
-And now, in the Simpsons series, lines like "Even the dumbest teens
+And now, in the Simpsons TV series, lines like "Even the dumbest teens
 in the dumbest town in the dumbest state know better than to join the
 Army" are being said. This prompts your intrepid newsletter reporter
 to ask: Quo vadis, Ministry of Defense?
 
-Whoever wants to can view the excerpt from the
-<LINK>http://alternet.org/blogs/video/44292/|Simpsons episode on
-alternet.org</LINK>
-The German word "einsehen" can be translated to English as "to
-realize," "to understand," or "to recognize," depending on the
-context.
+Whoever wants can view the excerpt from the
+<LINK>http://alternet.org/blogs/video/44292/|Simpsons episode on alternet.org</LINK>.
 
 @Z: Elections in the USA
 
-<pic images/ele1.ps A campaign poster advertises for a member of the
-US Congress.>
+<pic images/ele1.ps A campaign poster for a member of the US Congress.>
 
 <em>Angelika</em> 
 I had already given up hope, but Bush finally received a lesson for
 his policies in the congressional elections on November 7. Not only
 the House of Representatives, which had been firmly in the hands of
-the Republicans since 1994, but also the Senate, returned to the
+the Republicans since 1994, but also the Senate returned to the
 Democrats after a long time.
 
 The people have spoken and have settled on the golden mean. Although
@@ -464,7 +455,7 @@ propaganda campaign ads did not have the desired effect. Moderate to
 conservative Democrats gained votes. The Iraq War is no longer
 well-received by the population, and since there were no presidential
 elections, voters could only indirectly punish Bush by voting for the
-Democratic Party. The House of Representatives ("Congress") in the
+Democratic Party. The House of Representatives in the
 USA consists of 435 members, who are directly elected every two
 years. The number of representatives allocated to each state is
 determined by the population of the respective state. For example,
@@ -475,10 +466,8 @@ Within a state, there is an electoral district for each
 representative to be elected, known as a "congressional district."
 However, these districts are not always aligned with city boundaries
 and sometimes appear to be drawn quite arbitrarily. For example,
-the...
-<LINK>http://en.wikipedia.org/wiki/California%27s_8th_congressional_d
-istrict|8th Congressional District</LINK>
-The translation to English is: "almost all of San Francisco, with the
+the <LINK>http://en.wikipedia.org/wiki/California%27s_8th_congressional_district|8th Congressional District</LINK> comprises almost all of San
+Francisco, with the
 exception of the 'Sunset' district. This predominantly
 Asian-inhabited neighborhood, on the other hand, falls within the
 '12th Congressional District,' which also includes the entire Silicon
@@ -487,12 +476,10 @@ Valley.
 The boundaries of the electoral districts are redrawn every 10 years
 after the census by the incumbent government of the respective state,
 which is interested in dividing the constituencies in a way that
-gives its party an advantage. Through clever gerrymandering, it is
+gives its party an advantage. Through clever so-called gerrymandering, it is
 rare for incumbents of the respective electoral district to be voted
-out. This practice is, by the way,
-<LINK>http://en.wikipedia.org/wiki/Gerrymandering|Gerrymandering</LIN
-K>
-The term is named after the former Governor of Massachusetts,
+out. This practice is, by the way, <LINK>http://en.wikipedia.org/wiki/Gerrymandering|Gerrymandering</LINK>, is
+named after the former Governor of Massachusetts,
 Elbridge Gerry (1744-1814), who initiated it. The created electoral
 district resembled a salamander in shape on the map (Gerry + Mander =
 Gerrymander).
@@ -501,6 +488,8 @@ Electoral district boundaries are drawn based on factors such as the
 age, race, income, and religion of the voters, so that the opposing
 party's candidate cannot win there, effectively rendering the votes
 for the opposition irrelevant.
+
+TODO
 
 The 100 senators of the Senate are also directly elected. However,
 the crucial difference is that each state, completely independent of
