@@ -313,11 +313,10 @@ sunny again when we returned to Salt Lake City.
 
 <pic images/110vPlug.ps American power plugs>
 
-TODO
-
 <em>Michael</em> 
-If you've ever been to the USA with your German razor or hairdryer,
-you will have noticed that their German plugs do not fit into
+If you've ever traveled to the U.S. with your German electical
+razor or hairdryer,
+you will have noticed that German plugs do not fit into
 American sockets. This is because, instead of the round plugs common
 in Germany, known as Schuko plugs, American plugs have flat metal
 prongs.
@@ -344,12 +343,12 @@ slowly, if they work at all.
 <pic images/switch.ps (#1) A fan that can be adjusted.>
 
 In illustration (#1), you can see our travel hairdryer, which can be
-switched from 230V (220 or 230V, it doesn't have to be exact) to 110V
-by inserting a coin into a slot. If you do this, you can use the
-hairdryer (provided you have the appropriate plug adapter) in the USA
-without any problems. However, if you forget to switch it back in
-Germany, the device might be blown to pieces if you plug it into the
-German power grid at 220V.
+switched from 230V (220 or 230V, it doesn't have to be exact) to 110V by
+inserting a coin into the slot and turning it. If you do this, you can use
+the hairdryer (provided you have the appropriate plug adapter) in the USA
+without any problems. However, if you forget to switch it back in Germany,
+the device might be blown to pieces if you plug it into the German power
+grid there at 220V.
 
 Highly sophisticated devices, such as some laptop power supplies,
 desktop computers, or monitors, can even handle both voltages, 110V
@@ -361,11 +360,9 @@ American socket up to 220V. However, this is an old-fashioned method
 from the last century that requires thick metal cores with many wire
 windings and produces alarming energy losses.
 
-If a device only consumes around 50 watts, you can get a small one
-for little money (about $7).
-<LINK>http://shop3.outpost.com/product/2508451|Trafo bei Fry's"
-translates to "Transformer at Fry's" in English.</LINK>
-Translate to English: "buy one that converts the 110V from the
+If a device only consumes around 50 watts, you can get a small transformer
+for little money (about $7, see <LINK>http://shop3.outpost.com/product/2508451|Transformer at Fry's</LINK>).
+Buy one that converts the 110V from the
 American power line to 220V and also provides the correct round
 sockets for German electrical devices.
 
@@ -376,43 +373,40 @@ connect such a device to a small transformer, it will overheat and
 can cause serious problems. Transformers for electrical devices up to
 1000 watts cost around $30 and are very heavy. This is only
 worthwhile in exceptional cases. And, as mentioned, a small
-transformer consumes electricity even when idle and heats up. Such a
-thing might have gone unnoticed in the 1960s, but nowadays it is
+transformer consumes electricity even when idle and heats up. Such waste
+might have gone unnoticed in the 1960s, but nowadays it is
 completely unacceptable.
 
-<pic images/trafo.ps The 7-dollar cheap transformer from Fry's that
-steps up 110V to 220V.>
+<pic images/trafo.ps The 7-dollar cheap transformer from Fry's that steps up 110V to 220V.>
 
 The frequency at which the alternating current from the outlet
 oscillates is 50Hz in Europe and 60Hz in the USA. In the 1980s, there
 were clock radios that utilized this oscillation and therefore did
 not function properly with the wrong frequency, but nowadays this is
-irrelevant.
+irrelevant, as they all use different methods.
 
-As with German Schuko plugs, there are three-pronged versions (with a
-round grounding pin) and those with only two contacts in North
-American plugs. This can be super annoying, for example, when an
-American laptop power supply has a three-pronged plug, but the hotel
-outlet only provides two prongs, which does happen. For such cases, I
-have a probably illegal neon green adapter from a past trip to Japan
-(Japan has the same outlets), which converts three prongs into two.
+As with German Schuko plugs, there are three-pronged versions (with a round
+grounding pin) in American power plugs and those with only two contacts.
+This can be super annoying, for example, when an American laptop power
+supply has a three-pronged plug, but the hotel outlet only provides two
+prongs, which does happen. For such cases, I have a probably illegal neon
+green adapter from a past trip to Japan (Japan has the same outlets), which
+converts three prongs into two.
 
 In the case of two-pronged plugs, one of the metal contact plates is
 usually slightly wider (for the experts: this is the neutral prong,
 as opposed to the thinner phase), so the plug can only be inserted in
 one direction.
 
-The German word "Der" translates to "The" in English. It is the
-masculine definite article used for singular nouns in the nominative
-case.
-<LINK>http://en.wikipedia.org/wiki/Power_plug|Wikipedia entry on the
-topic of Power Plug</LINK>
-Nicely compiles everything worth knowing about North American power
+If you'd like to dig deeper, the
+<LINK>http://en.wikipedia.org/wiki/Power_plug|Wikipedia entry on Power Plugs</LINK> nicely compiles everything worth knowing about North American power
 outlets.
 
-@Z: The Simpsons Mock the US Army
+@Z: The Simpsons Mocking the US Army
 
 <pic images/simparmy.ps Two US Army recruiters are working hard in a shopping mall.>
+
+TODO
 
 <em>Michael</em> 
 Recently, I was watching the latest episode of "The Simpsons" as
