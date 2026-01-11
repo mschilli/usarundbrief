@@ -226,17 +226,16 @@ yet!
 
 <pic images/capreef.ps Tourist with rental car in Capitol Reef National Park>
 
-TODO
-
 <em>Angelika</em> 
-Most German tourists associate the state of Utah not with the
-stronghold of the Mormons, but with the breathtaking national parks.
+Most German tourists associate the state of Utah not with
+a Mormon stronghold, but with breathtaking national parks.
 Arches, Bryce Canyon, Zion, and Canyonlands are usually part of a
-classic tour itinerary. The "Capitol Reef National Park," although
-also located in Utah, is one of the less known and visited parks.
+German tourist's
+classic tour itinerary. Curiously, "Capitol Reef National Park," although
+also located in Utah, is one of the lesser known and visited parks.
 
-We also skipped the park during our big trip to America in 1987. It
-is quite out in the sticks, just beyond the major metropolises. Salt
+We had also skipped the park during our big trip to America in 1987. It
+is quite out in the sticks, far away from major big cities. Salt
 Lake City is about 220 miles away and Las Vegas 360 miles. Many of
 the most beautiful spots in the national park can only be reached via
 unpaved roads or on foot.
@@ -248,7 +247,7 @@ is now the park and founded, among other things, the tiny settlement
 of "Fruita," a reference to the fruit-bearing trees they planted in
 the rock-enclosed valley, which still green the barren desert
 landscape today. Native Americans from the so-called "Fremont
-Culture" tribe were, of course, there before the Mormons but left the
+Culture" tribe had been, of course, there before the Mormons, but left the
 area for reasons that remain unclear. The park owes its somewhat
 unusual name to the fact that a rock formation resembles the dome of
 the Capitol in Washington, and the pioneers encountered difficulties
@@ -259,7 +258,7 @@ at a fault. Geologists know this Waterpocket Fold as a classic
 "monocline," meaning a fold where the rocks rise steeply on one side
 and otherwise display horizontal layers.
 
-When we reached the park later in the afternoon, the lower sun made
+When we reached the park late in the afternoon, the lower sun made
 the red, yellow, and orange of the rock formations appear
 particularly dramatic. The view was magnificent, and we could have
 surely heard a pin drop, it was so quiet. In the following days, we
@@ -270,32 +269,30 @@ untouched landscapes. We hardly encountered anyone and felt like we
 were in another world. In such moments, I always reflect on how small
 and insignificant we humans really are. By the way, the rental car
 company's contract usually states that you shouldn't drive the
-vehicle on unpaved roads. Of course, because they don't want to have
+vehicle on unpaved roads. This makes sense, because they don't want to have
 to pull you out of some mud hole in a godforsaken area. However, many
 unpaved roads can be driven on without any problems with a normal
 car, so we have often disregarded this rule (don't follow our
-example, dear children).
+example, though).
 
-<pic images/chimney.ps The "Chimney Rock" in Capitol Reef National
-Park>
+<pic images/chimney.ps The "Chimney Rock" in Capitol Reef National Park>
 
-I still always ask a ranger at the visitor center about the road
-conditions. This time was no different. The ranger confirmed, "No
-problem at all, since the unpaved section was just leveled
-yesterday." So we set off undaunted until we came to the first mud
-hole. Our beloved "Perlman" would have easily managed to cross the
-little stream, but it was sitting in the garage in San Francisco.
+I still maintain the habit of always asking a ranger at the visitor center
+about the road conditions in a park. This time was no different. The ranger
+confirmed, "No problem at all, since the unpaved section was just leveled
+yesterday." So we set off undaunted until we came to the first mud hole. Our
+beloved "Perlman" would have easily managed to cross the little stream, but
+it was parked at home in our garage in San Francisco.
 
-And the rental car was a Pontiac Vibe, which looks like a modern
-version of the old taxis in England and, with its small tires,
-doesn't quite fit into the rugged desert landscape of Utah. But
-Michael, the terror of the road, was undeterred and maneuvered us
-through the water without getting stuck. Thankfully, we were spared
-any further surprises. However, the red sand had crept into every
-crevice of the car. The man at the car rental company surely had his
-own thoughts about it.
+And the rental car was a Pontiac Vibe, which looks like a modern version of
+the old taxis in England and, with its small tires, and doesn't quite fit
+into the rugged desert landscape of Utah. But Michael, the terror of the
+road, was undeterred and maneuvered us through the water without getting
+stuck. Thankfully, we were spared any further surprises. However, the red
+sand had crept into every crevice of the car. The maintenance guy at the car
+rental company surely must have had his own thoughts about it.
 
-The Capitol Reef National Park is open year-round, by the way. We
+Capitol Reef National Park is open year-round, by the way. We
 just wondered how one could still get something to eat in the winter.
 Not only did one restaurant after another close at the end of
 October, but even the grocery store shut down, and some motels also
@@ -309,12 +306,14 @@ On our return trip to Salt Lake, winter suddenly set in. According to
 the car's external thermometer, the temperature dropped to 32 degrees
 Fahrenheit (which is 0 degrees Celsius) and it started to snow. When
 some snow actually stayed on the road, the sun-spoiled Californian
-driver started to sweat a little! But it wasn't too bad, as it was
-sunny again in Salt Lake City.
+driver started to sweat a little! But it wasn't too bad, and it was
+sunny again when we returned to Salt Lake City.
 
 @Z: Differences in Voltage
 
 <pic images/110vPlug.ps American power plugs>
+
+TODO
 
 <em>Michael</em> 
 If you've ever been to the USA with your German razor or hairdryer,
