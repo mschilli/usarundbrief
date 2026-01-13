@@ -489,11 +489,9 @@ age, race, income, and religion of the voters, so that the opposing
 party's candidate cannot win there, effectively rendering the votes
 for the opposition irrelevant.
 
-TODO
-
-The 100 senators of the Senate are also directly elected. However,
+The 100 senators in the Senate are also directly elected. However,
 the crucial difference is that each state, completely independent of
-its population density and size, sends 2 senators. Senators are
+its population density and size, sends two senators. Senators are
 elected for six years, so approximately one-third of the senators are
 up for election every two years. The Vice President presides over the
 Senate. The fact that each state provides two senators is intended to
@@ -501,8 +499,8 @@ give sparsely populated states more weight in political decisions.
 
 <pic images/arnie.ps Re-elected Governor: Arnie Schwarzenegger>
 
-And the election for the Governor of California was also taking
-place, in which our "Gouvernator" Arnie Schwarzenegger won by a
+And the election for the Governor of California was also happening,
+where our "Gouvernator" Arnie Schwarzenegger won by a
 landslide. You might be wondering how it is possible that in the
 House of Representatives and Senate elections the Democrats were
 successful, and yet in California, which usually votes for the
@@ -523,7 +521,7 @@ Another historic event is credited to California, specifically San
 Francisco. Nancy Pelosi, 66 years old and representing San Francisco
 in Congress since 1987, will become the first female Speaker of the
 House of Representatives, which formally elevates her to the third
-most important person in the state. Pelosi belongs to the more
+most important person in government. Pelosi belongs to the more
 left-leaning spectrum of the Democratic Party. However, it remains to
 be seen how many compromises she will have to make in her new
 position, but hopefully, the liberal spirit of San Francisco will
@@ -531,23 +529,22 @@ continue to accompany her.
 
 @Z: Top Product
 
-<pic images/eraser.ps The newsletter top product: The "Magic Eraser"
-by Mr. Clean>
+<pic images/eraser.ps The newsletter top product: The "Magic Eraser" by Mr. Clean>
 
 <em>Angelika</em> 
-As a child, I loved the Meister Proper commercials on TV. I think I
+As a child, I loved the Meister Proper commercials on German TV. I think I
 just liked the catchy jingle "Meister Proper cleans so well that you
 can see your reflection." Funnily enough, "Meister Proper" is called
-"Mr. Clean" in America, but even there, he tries to keep homes
+"Mr. Clean" in America, but even there, he manages to keep homes
 sparkling clean with his products.
 
 I'm not exactly known for being a cleaning fanatic, but one thing
 drives me crazy: black streaks on white walls that seem to appear out
 of nowhere. The Magic Eraser from Mr. Clean takes care of them. It's
 a little white sponge that you just wet and wipe over the streaks,
-and they're gone. By the way, "eraser" means "rubber," a great name
+and they're gone. By the way, "eraser" is a great name
 for this product. Supposedly, the Magic Eraser removes all kinds of
-dirt, but I haven't tried that yet. The walls are enough for me.
+dirt, but I haven't tried that yet. Clean walls are enough for me.
 
 @Z: Flop Product
 
@@ -555,18 +552,15 @@ dirt, but I haven't tried that yet. The walls are enough for me.
 
 <em>Michael</em> 
 As a counterpart to the top product, today we are also introducing a
-junk product: the throat patch "Sudafed PE." "Sudafed" is the
+junk product: the sinus relief drug "Sudafed PE." "Sudafed" is the
 standard medicine in America for clogged sinuses, and the stuff is
 really good; I once used it to clear up a sinus infection so I could
 go on a diving course in Australia. Recently, I had a cold and wanted
 to buy Sudafed at the drugstore when I noticed "Sudafed PE." It
 supposedly contains the same active ingredient, just in the form of a
-palate adhesive strip, as previously mentioned.
-<RBLINK>20030310#6</RBLINK>
-The German word "besprochen" translates to "discussed" in English.
+palate adhesive strip, as previously mentioned (<RBLINK>20030310#6</RBLINK>).
 
-<pic images/suda2.ps ... and the truth about Sudafed PE comes to
-light.>
+<pic images/suda2.ps ... and the truth about Sudafed PE comes to light.>
 
 But what did I have to find out! Upon opening the package, it turned
 out that 90% of the box's contents consisted of air! And in terms of
