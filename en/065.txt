@@ -16,9 +16,7 @@ presenting both German and American events from the past 10 years:
 
 <pic images/ksf.ps The moving boxes from Munich have arrived in San Francisco.>
 
-TODO
-
-The traditional company AEG goes bankrupt. In the spring, Steffi
+The traditional German company AEG goes bankrupt. In the spring, Steffi
 Graf's father is charged with tax evasion. Germany wins the European
 Football Championship in England. The Olympic Games take place in the
 US metropolis of Atlanta and are overshadowed by a bombing attack. In
@@ -26,18 +24,20 @@ July, the German spelling reform is adopted in Vienna. In response to
 the invasion of Iraqi troops into the Kurdish protection zone, the
 USA launches a military strike in September. In November, Bill
 Clinton is re-elected as US President for another four years. A new
-store protection law comes into effect in Germany: stores can open
+store hour law comes into effect in Germany: stores can open
 their doors to customers from Monday to Friday until 8 PM and on
 Saturday until 4 PM. Deutsche Telekom AG goes public. In August, we
 get married. Michael's book "Effective Programming with Perl 5" is
 published. Michael flies to San Francisco on November 9th and starts
 working as a software developer at the startup company "Black Sun
 Interactive." Angelika organizes the move. On December 9th, the
-wooden crate is packed for the container to America. On December
-23rd, the moving company picks up the remaining items for storage.
+wooden crate is packed for the shipping container routed to America.
+On December 23rd, the moving company picks up the remaining items for storage.
 There is freezing rain in Munich at the time. Michael finds an
 apartment in the Noe Valley neighborhood. On December 30th, Angelika
 lands in San Francisco.
+
+TODO
 
 @Z: 1997
 
