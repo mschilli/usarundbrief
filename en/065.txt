@@ -37,17 +37,14 @@ There is freezing rain in Munich at the time. Michael finds an
 apartment in the Noe Valley neighborhood. On December 30th, Angelika
 lands in San Francisco.
 
-TODO
-
 @Z: 1997
 
-<pic images/lm.ps Michael's column "Perl-Snapshot" in Linux Magazine
-is entering its tenth year: the issues 10/1997 and 01/2007.>
+<pic images/lm.ps Michael's column "Perl-Snapshot" in Linux Magazine is entering its tenth year: issues 10/1997 and 01/2007.>
 
 In February, the controversial exhibition on the crimes of the
 Wehrmacht opens its doors. In May, a part of the famous Amber Room is
 found in Bremen. The summer brings the German cyclist Jan Ullrich the
-Tour de France victory. The Munich actor Helmut Fischer ("Monaco
+Tour de France victory. Munich actor Helmut Fischer ("Monaco
 Franze") dies at the age of 70 in Munich. The former head of state of
 the GDR, Egon Krenz, is sentenced to 6 1/2 years in prison. In
 September, the Bundestag decides on the reform of child law to
@@ -55,69 +52,76 @@ largely equalize the rights of legitimate and illegitimate children.
 Roy Lichtenstein, one of the greatest pop art artists, dies in New
 York. In October, Siemens celebrates its 150th anniversary, and the
 German Bundestag passes the pension reform. Angelika attends English
-courses at City College. The moving boxes arrive in San Francisco.
+classes at City College. The moving boxes arrive in San Francisco.
 Angelika fails the practical California driving test on her first
 attempt, but succeeds on the second try. In September, Angelika
 starts as a volunteer at the Tenderloin Childcare Center. Michael
 switches to AOL as Black Sun completely closes its office in San
 Francisco. Angelika enrolls in her first photography course. Michael
 writes the first edition of the "Perl-Snapshot," a column that
-continues to run monthly in the Linux Magazine to this day. @Z: 1998
+continues to run monthly in the Linux Magazine to this day.
+
+@Z: 1998
 
 In the U.S. state of Texas, a woman, Karla Faye Tucker, is executed
 for the first time in over 100 years. In June, a severe train
-accident occurs in Germany. The ICE "Wilhelm Conrad RÃ¶ntgen" derails
+accident occurs in Germany. The ICE "Wilhelm Conrad Röntgen" derails
 on the route from Munich to Hamburg near Eschede. More than 100
 people die. In Kenya and Tanzania, terrorist attacks on American
 embassies are carried out in August, claiming hundreds of victims.
 While Helmut Kohl loses the election for Chancellor in the fall to
-Gerhard SchrÃ¶der, President Bill Clinton publicly apologizes for his
+Gerhard Schröder, President Bill Clinton publicly apologizes for his
 affair with former intern Monica Lewinsky. Nevertheless, impeachment
 proceedings against him are initiated in October. The elections in
 November bring slight gains in votes for Clinton's Democratic Party
 in the House of Representatives, but not enough for a majority.
 Before the end of the year, Clinton orders airstrikes on key
 positions in Iraq to limit Saddam Hussein's ability to produce
-weapons of mass destruction. Angelika takes various courses at the
+weapons of mass destruction. Angelika takes various classes at the
 University of California, Berkeley Extension. The second, revised
 edition of Michael's German book and the English translation "Perl
-Power" are published. @Z: 1999
+Power" are published.
+
+@Z: 1999
 
 <pic images/perly.ps One of the best cars in the world: PERLMAN.>
 
 The currency union comes into effect: In Germany and other EU
-countries, people will now calculate in euros. In February, the
+countries, people will now be paying in euros. In February, the
 American Senate acquits US President Bill Clinton of the charges of
 perjury and obstruction of justice in the Monica Lewinsky affair. In
 April, the Bundestag holds its opening session in the renovated
 Reichstag in Berlin. Two teenagers from Columbine High School in
-Littleton near Denver enter their school with weapons and kill 12
+Littleton near Denver enter their school with guns and kill 12
 students and a teacher. In the summer, Steffi Graf retires from
 professional tennis. Germany is once again governed from Berlin, 10
-years after the fall of the Berlin Wall. The autumn brings GÃ¼nter
+years after the fall of the Berlin Wall. The autumn brings Günter
 Grass the Nobel Prize for Literature. The year 1999 ends, and the
 feared Y2K computer problem does not occur. Angelika completes
-earthquake training. We buy our car, the "Perlman." Michael runs for
-the first time in the "Bay-to-Breakers" city race. Angelika starts
+earthquake training. We buy our car, "Perlman." Michael runs for
+the first time the "Bay-to-Breakers" city race. Angelika starts
 working as an assistant in the darkroom at UC Berkeley Extension.
 
 At the beginning of the year, the CDU donation scandal involving
-Helmut Kohl and the hidden accounts is in full swing. In February,
+Helmut Kohl and their hidden accounts is in full swing. In February,
 "Snoopy" and "Peanuts" creator Charles M. Schulz dies in California.
 American researchers completely decode the human genome. In May, the
 World Expo "Man-Nature-Technology - a new world is emerging" opens
 its doors in Hanover. In the summer, agreements for the compensation
-of Nazi forced laborers are signed. From now on, there is a German
+of Nazi forced laborers are signed. Germany introduces a new work visa, called
 Green Card. November brings the world an unprecedented US election
 thriller. Only after more than a month and some legal wrangling over
-which votes can be counted when, how, and how often, is the new
-American president determined: George W. Bush "defeats" Democrat Al
+which votes can be counted, when, how, and how often, is the new
+American president determined: George W. Bush defeats Democrat Al
 Gore. Meanwhile, Friedrich Merz debates the German leading culture.
 The first cow tests positive for BSE on German soil. Our visa needs
-to be extended. @Z: 2001
+to be extended.
 
-<pic images/sfm.ps 2001: Michael runs the San Francisco Marathon in
-4:38:20.>
+@Z: 2001
+
+<pic images/sfm.ps 2001: Michael runs the San Francisco Marathon in 4:38:20.>
+
+TODO
 
 In 2001, for the first time in the history of the Bundeswehr, women
 begin service with weapons. In April, the first tourist flies into
