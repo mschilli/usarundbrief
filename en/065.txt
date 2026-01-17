@@ -121,11 +121,9 @@ to be extended.
 
 <pic images/sfm.ps 2001: Michael runs the San Francisco Marathon in 4:38:20.>
 
-TODO
-
 In 2001, for the first time in the history of the Bundeswehr, women
-begin service with weapons. In April, the first tourist flies into
-space: the American Dennis Tito spends 20 million dollars on the
+can join armed troups. In April, the first tourist flies into
+space: American Dennis Tito spends 20 million dollars on the
 experience. In June, representatives of the federal government and
 the energy industry agree on the gradual phase-out of nuclear energy.
 The so-called same-sex marriage law comes into effect in Germany. The
@@ -134,11 +132,11 @@ experiences the worst terrorist attacks. Terrorists fly two planes
 into the World Trade Center in New York. The towers subsequently
 collapse, killing 3,000 people. Another hijacked plane is directed at
 the Pentagon. The fourth crashes near Pittsburgh. Osama Bin Laden is
-considered the mastermind behind the attacks. Shortly thereafter,
+considered to be the mastermind behind the attacks. Shortly thereafter,
 letters contaminated with anthrax spores appear in the USA. Several
-people die from inhalation anthrax. In October, the first American
+people die from inhalation of anthrax. In October, the first American
 airstrikes on Afghanistan occur. Bin Laden's terrorist organization
-is to be dismantled. In November, Gerhard SchrÃ¶der calls a vote of
+is to be dismantled. In November, Gerhard Schröder calls for a vote of
 confidence and ties it to the vote on the Bundeswehr's participation
 in the anti-terror campaign. In December, the lowest temperature
 since the beginning of weather records in Germany is measured at
@@ -150,17 +148,17 @@ Marathon.
 
 <pic images/gca.ps 2002: We receive the American Green Card.>
 
-At the beginning of the year, the euro replaces the familiar Deutsche
+At the beginning of the year, the Euro replaces the familiar Deutsche
 Mark as cash. In Cuba, the USA establishes a detention camp called
-Guantanamo Bay for Taliban and Al-Qaeda fighters. In February, Salt
+Guantanamo Bay for Taliban and Al-Qaeda terrorists. In February, Salt
 Lake City in the US state of Utah welcomes athletes from around the
 world to the Winter Olympics and tries to shed its image as a
 conservative Mormon city. In April, a 19-year-old former student of
 the Gutenberg Gymnasium in Erfurt kills 17 people in a school
 shooting. At the FIFA World Cup in Japan and South Korea, the German
-team makes it to the final but then loses to Brazil. August brings a
-once-in-a-century flood on the Elbe, causing significant damage in
-eastern Germany. Chancellor SchrÃ¶der manages to defend his
+team makes it to the finals but then loses to Brazil. August brings a
+once-in-a-century flood on the river Elbe, causing significant damage in
+eastern Germany. Chancellor Schröder manages to defend his
 chancellorship in the fall, although the SPD and the Greens win with
 only a slim majority. In Washington and the surrounding area, the
 sniper John Allen Williams keeps the population on edge, randomly
@@ -170,7 +168,9 @@ announced that former US President Jimmy Carter receives the Nobel
 Peace Prize. In April, we receive the American Green Card. We
 discover Japan in May. Starting in September, Angelika works as a
 substitute at the Tenderloin Childcare Center and no longer as a
-volunteer. @Z: 2003
+volunteer.
+
+@Z: 2003
 
 In February, the American space shuttle Columbia bursts into flames
 upon re-entering the Earth's atmosphere, killing seven astronauts.
@@ -179,8 +179,8 @@ Security Council that Iraq possesses weapons of mass destruction.
 Millions of people worldwide demonstrate against the impending Iraq
 War. On March 20th, President Bush declares war on Iraq, and the
 first bombs fall on Baghdad. In the summer, former FDP politician
-JÃ¼rgen MÃ¶llemann commits suicide by jumping to his death with a
-parachute. Power outages paralyze the northeastern United States,
+Jürgen Möllemann commits suicide by jumping to his death from a plane
+with a parachute. Power outages paralyze the northeastern United States,
 causing chaos. In October, German-born Roy of "Siegfried and Roy" is
 attacked and seriously injured by one of his white tigers during a
 show in Las Vegas. The popular duo has been unable to perform since.
@@ -190,24 +190,30 @@ most populous U.S. state after a spectacular recall election. In
 December, U.S. soldiers discover Saddam Hussein in a hole in the
 ground that served as his hiding place and arrest him. AOL
 experiences another round of layoffs. Fortunately, Michael is not
-affected. @Z: 2004
+affected.
+
+@Z: 2004
 
 <pic images/yahoo.ps 2004: Michael moves to Yahoo!>
 
-In January, the practice fee is introduced in Germany. Patients must
-now pay 10 euros per quarter when visiting a doctor. An American
+In January, the doctor's visit copayment is introduced in Germany. Patients must
+now pay 10 Euros per quarter when visiting a doctor. An American
 probe lands on Mars and sends the first images back to Earth. In the
 spring, photos circulate worldwide showing American soldiers
 torturing prisoners in the Iraqi prison Abu Ghraib. In May, Germany
-elects a new Federal President. His name is Horst KÃ¶hler. In
-California, former US President Ronald Reagan succumbs to his severe
+elects a new Bundespräsident. His name is Horst Köhler. In
+California, former US President Ronald Reagan succumbs to severe
 Alzheimer's disease. In October, Opel's parent company General Motors
 announces plans to cut 12,000 jobs, most of them in Germany. In
-November, the Democrat John Kerry loses the presidential election,
+November, Democrat John Kerry loses the presidential election,
 and George W. Bush remains in office for another four years. In the
-summer, we move one street corner away to a three-room apartment.
+summer, we move one street corner away to a two bedroom apartment.
 Michael resigns from AOL on September 1, 2004, and starts at Yahoo!
-on September 27. @Z: 2005
+on September 27.
+
+@Z: 2005
+
+TODO
 
 The new year brings Germany the labor market reform Hartz IV and a
 new immigration law. At the same time, the number of unemployed
