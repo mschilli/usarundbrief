@@ -16,6 +16,7 @@ presenting both German and American events from the past 10 years:
 
 <pic images/ksf.ps The moving boxes from Munich have arrived in San Francisco.>
 
+<em>Angelika</em> 
 The traditional German company AEG goes bankrupt. In the spring, Steffi
 Graf's father is charged with tax evasion. Germany wins the European
 Football Championship in England. The Olympic Games take place in the
@@ -41,6 +42,7 @@ lands in San Francisco.
 
 <pic images/lm.ps Michael's column "Perl-Snapshot" in Linux Magazine is entering its tenth year: issues 10/1997 and 01/2007.>
 
+<em>Angelika</em> 
 In February, the controversial exhibition on the crimes of the
 Wehrmacht opens its doors. In May, a part of the famous Amber Room is
 found in Bremen. The summer brings the German cyclist Jan Ullrich the
@@ -63,6 +65,7 @@ continues to run monthly in the Linux Magazine to this day.
 
 @Z: 1998
 
+<em>Angelika</em> 
 In the U.S. state of Texas, a woman, Karla Faye Tucker, is executed
 for the first time in over 100 years. In June, a severe train
 accident occurs in Germany. The ICE "Wilhelm Conrad Röntgen" derails
@@ -86,6 +89,7 @@ Power" are published.
 
 <pic images/perly.ps One of the best cars in the world: PERLMAN.>
 
+<em>Angelika</em> 
 The currency union comes into effect: In Germany and other EU
 countries, people will now be paying in euros. In February, the
 American Senate acquits US President Bill Clinton of the charges of
@@ -121,6 +125,7 @@ to be extended.
 
 <pic images/sfm.ps 2001: Michael runs the San Francisco Marathon in 4:38:20.>
 
+<em>Angelika</em> 
 In 2001, for the first time in the history of the Bundeswehr, women
 can join armed troups. In April, the first tourist flies into
 space: American Dennis Tito spends 20 million dollars on the
@@ -172,6 +177,7 @@ volunteer.
 
 @Z: 2003
 
+<em>Angelika</em> 
 In February, the American space shuttle Columbia bursts into flames
 upon re-entering the Earth's atmosphere, killing seven astronauts.
 U.S. Secretary of State Powell presents alleged evidence to the UN
@@ -196,6 +202,7 @@ affected.
 
 <pic images/yahoo.ps 2004: Michael moves to Yahoo!>
 
+<em>Angelika</em> 
 In January, the doctor's visit copayment is introduced in Germany. Patients must
 now pay 10 Euros per quarter when visiting a doctor. An American
 probe lands on Mars and sends the first images back to Earth. In the
@@ -213,6 +220,7 @@ on September 27.
 
 @Z: 2005
 
+<em>Angelika</em> 
 The new year brings Germany the unemployment reform Hartz IV and a
 new immigration law. At the same time, the number of unemployed
 exceeds the 5 million mark. Fashion designer Rudolph Moshammer is
@@ -240,6 +248,7 @@ the 8th time.
 
 <pic images/crnp.ps The two intrepid newsletter reporters in Capitol Reef National Park in the state of Utah>
 
+<em>Angelika</em> 
 Former Bundespräsident Johannes Rau dies at the age of 75. In
 February, the bird flu virus H5N1 is detected in dead swans on the
 island of Rügen. In March, Bavaria is buried in snow. Due to his
