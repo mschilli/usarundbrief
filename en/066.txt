@@ -383,9 +383,7 @@ Before I could start my new job, in addition to the mandatory Tuberculosis test
 and proof that I can resuscitate someone if necessary, I also had to submit my
 fingerprints this time.
 
-TODO
-
-Through the FBI database, it was then ensured that there was nothing
+Via the FBI database, it was then ensured that there was nothing
 against me in the area of child abuse. I was already familiar with
 the procedure from the Tenderloin Childcare Center. They always sent
 us to the "Children's Councils" in San Francisco for the so-called
@@ -393,32 +391,31 @@ us to the "Children's Councils" in San Francisco for the so-called
 
 <pic images/police.ps The main police station in San Francisco>
 
-In the "Live Scan," a method that has been common for a long time,
-fingerprints are no longer produced using ink. The individual
-fingertips are placed on a scanner, the fingerprints appear on the
-screen, and then they are swiftly sent electronically to the FBI.
+At "Live Scan," they're using a method that has been common for a long time,
+in that fingerprints are no longer produced using ink. Individual fingertips
+are placed on a scanner, the fingerprints appear on the screen, and then they
+are swiftly sent electronically to the FBI.
 
-Since we had already had to provide our fingerprints for our Green
-Card, I didn't think anything of it when I was asked to go to the
-police station in the courthouse on Bryant Street this time. After
-all, I had called the 1-800 number for the company "Identix
-Identification Services" and made an appointment, as my new employer
-instructed me. So, in a good mood, I went through the security check
-at the courthouse one fine morning and made my way to the police
-station.
+Since we had already had to provide our fingerprints for our Green Card, I
+didn't think anything of it when I was asked to go to the police station in
+the courthouse on Bryant Street this time. After all, I had called the 1-800
+number for the company "Identix Identification Services" and made an
+appointment, as my new employer had instructed me. So, in a good mood, I went
+through the security check at the courthouse one fine morning and made my way
+to the police station.
 
 Upon arriving there, I looked a bit bewildered because I not only
-encountered a jungle of hanging signs but also a long counter behind
+encountered a jungle of posted signs but also a long counter behind
 which a somewhat grim-looking young man with many tattoos was
 collecting fines from those standing in line in front of the counter.
 To the right, people were sitting on various chairs in front of a
 door labeled "Fingerprinting." I was a bit shocked to see a homeless
-person curled up asleep next to the chairs, especially since I was in
+person curled up asleep next to the chairs, especially since I was at
 a police station. I really thought I had stumbled into a Hollywood
 production. Bravely, I asked one of the people waiting in line for
 fingerprinting if they knew where I should report if I had an
-appointment or if I should take a number from the well-known number
-dispenser, to which they replied that they didn't work there. Thanks,
+appointment or if I should take a number from the number
+dispenser, to which they replied that they didn't work here. Thanks,
 very helpful. So, I tried my luck with a uniformed police officer who
 emerged from one of the various doors. He explained that I needed to
 inform the man behind the counter with the fines. I found this a bit
@@ -427,14 +424,13 @@ came out from behind his counter, led me past the line of waiting
 people who gave me a few dirty looks, and opened the door by entering
 a code.
 
-<pic images/police2.ps Michael, a friend of the police. (Only on the
-film set of Universal Studios, haha!)>
+<pic images/police2.ps Michael, a friend of the police. (Only on the film set of Universal Studios, haha!)>
 
 In a flash, I found myself in the hallowed halls of the police
 station. A vast room with filing cabinets, office plants, and the
 occasional clatter of typewriters (no joke!) spread out before me. I
-felt like I was in the crime series "Cagney & Lacey." A friendly
-Black woman greeted me and asked me to take a seat. She immediately
+felt like I was in the TV crime series "Cagney & Lacey." A friendly
+black woman greeted me and asked me to take a seat. She immediately
 informed me that it might take a while because the computer
 responsible for FBI matters had just crashed. So, she first attended
 to the nice-looking young man before me, who had to stand in front of
@@ -442,7 +438,7 @@ a large gray wall for a photo and whom she kindly asked about his
 probation officer. Did I mention that above the employee's desk hung
 a sign with the words "Sex Crime Unit"? It certainly got me thinking.
 
-In the meantime, the guy I had spoken to about the fingerprint
+In the meantime, the guy I had asked about the fingerprint
 procedures was banging like crazy on the window next to the door and
 shouting that he had been waiting forever. He was actually next in
 line and had to stand in front of the ominous wall for the photo.
@@ -454,18 +450,20 @@ He replied: "24th and Mission!" Ah yes, the subway station near our
 apartment. I would have loved to watch this spectacle for hours, but
 unfortunately, it was my turn, and everything went smoothly.
 
-@Z: Autismus
+@Z: Autism
 
 <em>Angelika</em> 
-As I already mentioned, the institution I currently work for supports
+As I have already mentioned, the institution I currently work for supports
 preschool-aged autistic children. Smart minds have found that the
 earlier and more intensive a support program is implemented, the
-better the chances for the autistic child. For those of you who are
+better the chances for the autistic child to improve. For those of you who are
 not educators, here is a quick summary of what autism is. The
 professional community understands autism as a severe early childhood
 developmental disorder that occurs before the age of three. Autistic
 children have difficulties with social interaction and both verbal
 and non-verbal communication.
+
+TODO
 
 Some autistic children do not speak at all or have a very limited
 vocabulary. Often, these children do not know how to use language to
