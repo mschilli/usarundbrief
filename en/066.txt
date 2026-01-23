@@ -151,7 +151,7 @@ but I wouldn't go out of my way for it.  However, it's probably something you
 should do anyway, because otherwise you might feel like you've missed
 something.
 
-@Z: Sushi in L.A.
+@Z: Sushi In L.A.
 
 <pic images/holly.ps The famous Hollywood letters on the hillside in the back!>
 
@@ -265,7 +265,7 @@ Then wind your way up to the Golden Gate Bridge, walk across and back, and
 hop on a Muni bus at the southern viewpoint parking lot if you're
 tired and don't want to walk the same way back.
 
-@Z: Applying For a Job in America
+@Z: Applying For a Job In America
 
 <em>Angelika</em> 
 Michael had been nagging me for years to find a new job. He was
@@ -376,7 +376,7 @@ a position at the facility for autistic children. There, I also
 observed a home-based intervention and was given some responsibility
 with the child.
 
-@Z: Fingerprints at the police station
+@Z: Fingerprints At the Police Station
 
 <em>Angelika</em> 
 Before I could start my new job, in addition to the mandatory Tuberculosis test
@@ -463,8 +463,6 @@ developmental disorder that occurs before the age of three. Autistic
 children have difficulties with social interaction and both verbal
 and non-verbal communication.
 
-TODO
-
 Some autistic children do not speak at all or have a very limited
 vocabulary. Often, these children do not know how to use language to
 communicate. Additionally, autistic children show little interest in
@@ -486,13 +484,13 @@ times more likely to be affected than girls. Autism is one of the
 fastest-growing developmental disorders, and scholars naturally
 debate the reasons for this. One reason is certainly the strong media
 presence and improved diagnostic possibilities, but also the
-expansion of the diagnosis to milder cases. In America, experts now
+expansion of the diagnosis of milder cases. In America, experts now
 refer to "Autism Spectrum Disorder" because autism occurs in very
 different manifestations.
 
 My employer has now set the goal of helping these children. There are
 two main focuses: intensive support in the home environment and
-assistance in group situations. I work with the child at home, from
+assistance in group situations. I work with children at home, from
 Monday to Friday, for three hours each day. I initially had some
 concerns that three hours might be too much and too long for a child
 not even three years old, as I was only familiar with early
@@ -509,55 +507,42 @@ environment and visual aids like photos.
 
 Now you might be wondering who pays for all of this. Surprisingly, in
 the social desert of America, these measures are actually funded by
-government resources. A law promoting children with disabilities
+government resources. A law promoting help for children with disabilities
 makes this possible ("Individuals with Disabilities Education Act"),
-which I briefly explained in another newsletter.
-<RBLINK>19980509#2</RBLINK>
-However, two different agencies are responsible depending on the age
+which I had briefly explained in previous newsletter
+(<RBLINK>19980509#2</RBLINK>).
+However, two different agencies are responsible, depending on the age
 of the child. From 0-3 years, it is the so-called "Department of
 Developmental Services," and from three years onwards, the school
-authority takes over, which may work better or worse depending on
+authorities take over, which may work better or worse depending on
 where you live.
 
-@Z: Court data on the internet
+@Z: Court Data On the Internet
 
-<pic images/santaclara.ps The internet search engine of the Santa
-Clara County Superior Court in Silicon Valley>
+<pic images/santaclara.ps The internet search engine of the Santa Clara County Superior Court in Silicon Valley>
 
 <em>Michael</em> 
-It seems like your input is incomplete. Could you please provide the
-full text you would like translated into English?
-<RBLINK>20051208#3</RBLINK>
-We have already reported that in some states in the USA, sex
-offenders are required by law to have their addresses listed on the
+In <RBLINK>20051208#3</RBLINK>,
+we have already reported that in some states in the USA, sex
+offenders are required by law to have their address listed on the
 internet. But even regular court records are publicly available, and
 "publicly" here in the USA truly means: accessible to anyone on the
 internet.
 
 Let's take, for example, the courthouse of Santa Clara, a county in
-Silicon Valley. Under
-http://www.sccaseinfo.org
-The translation to English is: "You can see which cases have been
+Silicon Valley. Under <LINK>http://www.sccaseinfo.org</LINK>,
+you can see which cases have been
 tried there in the last few years. It's exciting to enter the names
 of colleagues and come across unexpected results!
 
 Clicking on "Search By: Party & Casetype" allows you to simply enter
 a last name, and the cases being handled will appear. As already
-mentioned in...
-<RBLINK>20000526#7</RBLINK>
-The text translates to:
-
-"mentioned, Americans like to abbreviate their first names, so don't
+mentioned in <RBLINK>20000526#7</RBLINK>, Americans like to abbreviate their
+first names, so don't
 search for the Oracle mogul Larry Ellison, but for 'Lawrence J.
 Ellison' and not for the Apple bigwig Steve Jobs, but for 'Steven P.
-Jobs' and you will find that these not long ago a" 
-
-(Note: The sentence seems to be incomplete, so the translation
-reflects that.)
-<LINK>http://www.sccaseinfo.org/pa5.asp?full_case_number=1-06-CV-0677
-60|Court proceedings with Plumbers & Pipefitters Local No. 572
-Pension Fund</LINK>
-have delivered
+Jobs' and you will find that they entered a legal scufffle with the
+<LINK>http://www.sccaseinfo.org/pa5.asp?full_case_number=1-06-CV-067760|Plumbers & Pipefitters Local No. 572 Pension Fund</LINK>.
 
 By the way, it's no big deal; it's completely normal in the USA for
 attempts to be made to extract money from wealthy people or companies
@@ -566,6 +551,8 @@ justified. But it's somewhat nice that the formula "All are equal
 before the law" is actually true, at least regarding the
 dissemination of information about the legal proceedings on the
 internet.
+
+TODO
 
 @Z: Netflix
 
