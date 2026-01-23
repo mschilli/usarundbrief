@@ -552,8 +552,6 @@ before the law" is actually true, at least regarding the
 dissemination of information about the legal proceedings on the
 internet.
 
-TODO
-
 @Z: Netflix
 
 <em>Michael</em> 
@@ -562,8 +560,7 @@ stores into ruin. Except for the mega-chain Blockbuster, of course,
 which is currently trying to drive Netflix into ruin. Welcome to
 America!
 
-<pic images/netflix.ps A Netflix envelope with a DVD arrives in the
-mail at the house.>
+<pic images/netflix.ps A Netflix envelope with a DVD arrives in the mail at the house.>
 
 Netflix has a website where you can select DVDs like in a video
 rental store. Of course, Netflix has a few more DVDs, just like
@@ -573,9 +570,9 @@ might want based on data from other people with similar ordering
 behavior. This way, you can create a long wish list that you then
 work through step by step. By the way, the selection is very good;
 practically all new movies are available. Only for very obscure art
-films are some video stores in San Francisco better stocked.
+films there are some video stores in San Francisco that are better stocked.
 
-The selected DVD almost always arrives the next day, as a regular
+A chosen DVD almost always arrives the next day, as a regular
 letter that the mail carrier drops into the mailbox along with the
 other mail. That's cleverly done, because the Netflix team has
 distribution centers spread across the entire country to prevent long
@@ -592,28 +589,28 @@ DVD at a time, but I can exchange it as often as I like.
 
 I once calculated that you could get up to three DVDs per week this
 way: Tuesday, 1:00 PM: take the DVD out of the mailbox, watch it,
-send it back, run to the mailbox, it gets emptied at 5:00 PM. Netflix
+send it back, run to the mailbox, it gets collected at 5:00 PM. Netflix
 receives the DVD on Wednesday, sends the next one, which arrives on
 Thursday. Thursday, 1:00 PM: take the DVD out of the mailbox, watch
-it, send it back, run to the mailbox, it gets emptied at 5:00 PM.
+it, send it back, run to the mailbox, it gets collected at 5:00 PM.
 Netflix receives the DVD on Friday, sends the new one, which arrives
 on Saturday. Watch it, the mail is also picked up at 5:00 PM on
 Saturday, Netflix receives the DVD on Monday, sends the new one,
 which arrives on Tuesday. And the cycle begins again.
 
-<pic images/netf.ps My Netflix queue: Movies that Netflix will send
-me one by one as soon as I return the DVD that I currently have at
-home.>
+<pic images/netf.ps My Netflix queue: Movies that Netflix will send me one by one as soon as I return the DVD that I currently have at home.>
 
 Sometimes, however, Netflix throws a wrench in the works. A DVD might
-be "unavailable" at a shipping center and then promptly sent across
+be "unavailable" at a shipping center and is then promptly sent across
 half the continent, which takes three days. I call this: "Shipped
 from Romania." This brings the whole well-oiled machine to a
 standstill. But they can't do this too often, because otherwise
-they'll get hit with a "Class Action Lawsuit," as happened some time
+they'd get hit with a "Class Action Lawsuit," as happened some time
 ago. But all in all: Definitely recommendable.
 
-@Z: Top product: Hummingbird sugar water
+@Z: Top Product: Hummingbird Sugar Water
+
+TODO
 
 <em>Michael</em> 
 In San Francisco, we have hummingbirds, about 5 cm large cute
