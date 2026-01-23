@@ -610,22 +610,18 @@ ago. But all in all: Definitely recommendable.
 
 @Z: Top Product: Hummingbird Sugar Water
 
-TODO
-
 <em>Michael</em> 
-In San Francisco, we have hummingbirds, about 5 cm large cute
-creatures with long pointed beaks that beat their wings so incredibly
-fast that they can hover in the air! When such a "hummingbird," as
-they are called in English, approaches, it makes a buzzing sound as
+In San Francisco, we have hummingbirds, cute creatures, about two inches long,
+with long pointed beaks, and they're  beating their wings so incredibly
+fast that they can hover in the air! When such a hummingbird, in
+German they're called "Kolibri", approaches, it makes a buzzing sound as
 if an oversized bumblebee were flying by. And just like that, they
-are gone again; they seem to live in an extremely hectic world.
+are gone again; they seem to be living in an extremely hectic world.
 
-<pic images/kolibri.ps A small hummingbird at the sugar water feeding
-spot on our balcony.>
+<pic images/kolibri.ps A small hummingbird at the sugar water feeding spot on our balcony.>
 
-As previously reported (
-<RBLINK>20050925#6</RBLINK>
-We once rented a little house in the countryside, and the owners
+As previously reported (<RBLINK>20050925#6</RBLINK>)
+we once rented a little house in the countryside, and the owners
 there had a hummingbird feeder. It's a glass container that you fill
 with red sugar water, and the hummingbirds zoom over to it and sip
 the liquid from the openings.
@@ -641,7 +637,7 @@ For weeks, nothing happened, but all of a sudden, we started
 receiving regular visits. I can hardly keep up with refilling, as the
 little devils eagerly devour my treats. Top product!
 
-@Z: Video-Wahn
+@Z: Home Video Mania
 
 <em>Michael</em> 
 Angelika gave me a small digital video camera for Christmas, and
@@ -649,33 +645,21 @@ naturally, I immediately started experimenting with it. A small
 sample for those who have never seen me live is shown in the video
 below.
 
-The text translates to: "ZinboomMncU|Michael reads from the Linux
-Magazine.
+<VIDEO>ZinboomMncU|Michael reads from the Linux Magazine</VIDEO>
 
-And my craft activities are now being recorded on video as well.
+And my spare time activities are now being recorded on video as well.
 Recently, I ordered a sewing machine from Amazon to finally trim and
 hang the curtain that we bought at Ikea more than a year ago (!).
-<LINK>https://www.youtube.com/watch?v=Wy-LC9r_ve0|Video|Michael as
-Little Tailor</LINK>
-The translation to English is: "You can admire me as a brave little
-tailor.
+You can admire me as a brave little tailor <LINK>https://www.youtube.com/watch?v=Wy-LC9r_ve0|here</LINK>.
 
 And there is also an in-house production in documentary style to
 admire: A short report about surfers under the Golden Gate Bridge, my
-very first video piece with Angelika as the documentary aunt.
-
-<LINK>https://www.youtube.com/watch?v=voh0HWnEgXk|The translation of
-"Video|Angelika als Dokumentartante" to English is "Video|Angelika as
-Documentary Aunt.</LINK>
-
-The Surfers under the Golden Gate Bridge
+very first video piece with
+<LINK>https://www.youtube.com/watch?v=voh0HWnEgXk|Angelika as Documentary Lady.</LINK>.
 
 In the next episode: How I prepare a Wiener Schnitzel according to
 Alfons Schubeck's recipe and then fry it in the pan.
 
-Bis denn!" translates to "See you then!" in English.
+See you then!
 
-The translation of "Michael & Angelika" to English is "Michael &
-Angelika," as these are proper names and typically remain the same
-across languages.
-
+Michael & Angelika
