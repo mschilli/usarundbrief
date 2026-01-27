@@ -5,8 +5,6 @@ San Francisco, 04-27-2007
 
 <pic images/op1.ps Talk show queen Oprah Winfrey gives environmental protection tips.>
 
-TODO
-
 <em>Angelika</em> 
 America has awakened from its slumber, as suddenly climate change and
 environmental protection are on everyone's lips. When the black talk
@@ -16,8 +14,9 @@ the supermarket with cloth bags, replace regular light bulbs with
 energy-saving ones, use environmentally friendly cleaning products,
 recycle, and defy the American packaging craze.
 
-<pic images/green.ps The energy company PG&E is advertising for
-environmental protection.>
+<pic images/green.ps The energy company PG&E is advertising environmental protection.>
+
+TODO
 
 Now you must know that Oprah's admonitions are likely to have more
 impact than those of high-profile scientists and politicians.
