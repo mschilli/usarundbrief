@@ -16,15 +16,13 @@ recycle, and defy the American packaging craze.
 
 <pic images/green.ps The energy company PG&E is advertising environmental protection.>
 
-TODO
-
 Now you must know that Oprah's admonitions are likely to have more
 impact than those of high-profile scientists and politicians.
 Especially the female portion of the population follows Oprah's
 mantra like a religion. Some time ago, Al Gore also had the
 opportunity to discuss his documentary "An Inconvenient Truth" on
 Oprah's talk show. In it, the former Vice President under Clinton
-explains the consequences of global warming using vivid photos and
+explained the consequences of global warming using vivid photos and
 graphics. As is well known, the film received an Oscar this year for
 Best Documentary Feature, another indication that environmental
 awareness is becoming mainstream in America.
@@ -40,10 +38,8 @@ produces our electricity in San Francisco, also launched a PR
 campaign. If less electricity is consumed, PG&E does not have to
 expand its infrastructure at great expense, and so it is actually in
 the interest of the power generation company if people
-weniger
-Consume electricity. On
-<LINK>http://www.letsgreenthiscity.com|www.letsgreenthiscity.com</LIN
-K>
+consume less electricity. On
+<LINK>http://www.letsgreenthiscity.com|www.letsgreenthiscity.com</LINK>,
 PG&E encourages people to help San Francisco take the lead in
 environmental protection.
 
@@ -51,15 +47,14 @@ San Francisco certainly serves as a role model in terms of
 environmental protection in America. Here, you frequently encounter
 hybrid cars that run partly on electricity and partly on gasoline. At
 traffic lights and in stop-and-go traffic, the gasoline engine is
-completely off, and it only engages automatically during strong
+completely off, and it only engages automatically during quick
 acceleration and on the highway. As a result, these cars use
 extremely little gasoline, achieving up to 70 MPG (miles per gallon),
 which means they consume about 4 liters per 100 km in economy mode.
 Despite this, the vehicle has almost 80 horsepower, as Americans are
 reluctant to drive with less.
 
-<pic images/pbag.ps The translation of "So enden viele
-PlastiktÃ¼ten." to English is "This is how many plastic bags end up.>
+<pic images/pbag.ps This is how many plastic bags end up.>
 
 San Francisco will be the first American city to ban
 non-biodegradable plastic bags (at least in large supermarkets and
@@ -71,15 +66,13 @@ our large blue plastic tub for ages.
 
 @Z: Yahoo's San Francisco Shuttle
 
-<pic images/shuttle.ps The shuttle bus picks up the Yahoos from San
-Francisco's Mission District to drive them 40 km south to Sunnyvale.>
+<pic images/shuttle.ps The shuttle bus picks up the Yahoos from San Francisco's Mission District to drive them 30 miles south to Sunnyvale.>
 
 <em>Michael</em> 
-The companies in Silicon Valley provide their employees with various
-amenities to keep them at the company. It is well known that software
+Silicon Valley companies provide their employees with various
+amenities to prevent them from going somewhere else. It is well known that software
 developers are most effective when their behinds are warming the
-office chair.
-<RBLINK>20041129#4</RBLINK>
+office chair. IN <RBLINK>20041129#4</RBLINK>,
 I have already reported about the traveling barber and the basketball
 courts on the Yahoo campus, as well as the washers and dryers at the
 Googleplex.
@@ -87,20 +80,20 @@ Googleplex.
 But the commute to work also costs nerves and valuable time. Since
 quite a few people (myself included) live in trendy San Francisco for
 image reasons and not in the dull suburban wasteland of Sunnyvale,
-located 40 km to the south, people sometimes accept commutes of an
+located 30 miles to the south, people sometimes accept commutes of an
 hour to get to the Yahoo headquarters. I travel by bike and train,
 but anyone who relies on highways 101 or 280 during rush hour can
-tell you how annoying it is.
+tell you how annoying that is.
 
-For some time now, Yahoo has even rented buses that stop at selected
+For some time now, Yahoo has chartered shuttles that stop at selected
 points in San Francisco, pick up Yahoos, and take them to Sunnyvale.
 And in the evening, they go back to San Francisco. Fortunately, one
-of the bus stops is only about 500 meters from our house in the
+of the bus stops is only about half a mile from our house in the
 Mexican neighborhood "Mission"! I call that service! So if it rains,
 or if I just don't feel like biking, I simply walk down 24th Street
 at eight in the morning to join about 20 other Yahoos in boarding the
 "shuttle" there. The bus has wireless internet, so you can check your
-email and study the most important websites with your laptop.
+email and study the most important websites on your laptop.
 
 The company Google, by the way, started this service, transporting
 its employees in black "Bauer" luxury coaches from San Francisco to
@@ -108,6 +101,8 @@ the Googleplex in Mountain View and back. And the "Bauer" buses not
 only drop off the Googlers in the Mission, but they even go up to Noe
 Valley and continue late into the night! I've heard that residents
 have already complained about the noise, outrageous!
+
+TODO
 
 @Z: Landfill
 
