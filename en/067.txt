@@ -102,36 +102,33 @@ only drop off the Googlers in the Mission, but they even go up to Noe
 Valley and continue late into the night! I've heard that residents
 have already complained about the noise, outrageous!
 
-TODO
-
 @Z: Landfill
 
 <pic images/landfill.ps (#1) A landfill in Napa Valley>
 
 <em>Michael</em> 
 Since quite a bit of waste is produced in America, it has to go
-somewhere. Although San Francisco is diligent about recycling,
-<RBLINK>20060215#4</RBLINK>
-), but the rest of the waste also has to disappear somewhere.
+somewhere. Although San Francisco is diligent about recycling
+(<RBLINK>20060215#4</RBLINK>), the rest of the waste also has to
+disappear somewhere.
 
-The so-called "landfills" are waste disposal sites that accept scrap
-during the announced opening hours for a fee. In Figure (#1), you can
-see the fee schedule for the landfill in Napa Valley, the upscale
-wine region north of San Francisco. While you can dispose of 5
-gallons (almost 20 liters) of used oil for free, a refrigerator costs
-$15 and a mattress $12. By the way, our oil change guy "Oil Changer"
-also accepts used oil for free, though I'm not sure if it's voluntary
-or required by law.
+The so-called "landfills" are waste disposal sites that accept scrap during
+the announced opening hours for a fee. In Figure (#1), you can see the fee
+schedule for the landfill in Napa Valley, the upscale wine region north of
+San Francisco. While you can dispose of 5 gallons (almost 20 liters) of
+used oil for free, a refrigerator costs $15 and a mattress $12. By the way,
+our oil change guy "Oil Changer" also accepts used oil free of charge,
+though I'm not sure if it's voluntary or required by law.
 
 If you have a large item, such as a couch, that you can't get rid of,
-you can also call the waste collection service. Then, at an
+you can also call the bulk item collection service. Then, at an
 agreed-upon time, a truck with strong men will come by to load and
-take away the item for free.
+take away the item free of charge.
 
 We have not made use of this service so far, as we have managed
-everything through the in-house...
-<RBLINK>20040826#2</RBLINK>
-I got rid of the described trick by putting the thing on the street
+everything through the in-house (<RBLINK>20040826#2</RBLINK>).
+I got rid of several items by the described trick of putting
+the thing on the street
 and attaching a sign that said "Free Stuff." With this method, I even
 managed to get rid of a pretty large office desk with an attached
 shelf. I numbered the individual parts, disassembled them, and put
@@ -140,19 +137,18 @@ afterward, a pickup truck slowed down, the driver got out, circled
 the desk a few times, then grabbed it, loaded everything onto the
 truck, and drove off. My joy knew no bounds!
 
-@Z: Pay money, find recipient
+@Z: In Search of Payment Recipients
 
 <em>Michael</em> 
 Often a company or authority wants to transfer money to a private
 individual but cannot find the person's account number or address.
 It's not due to a lack of goodwill, and not making the payment would
-be illegal. What to do? In America, there is no registration
+be illegal. What to do? In America, there is no citizen registration
 requirement, and no one knows who lives where. If someone moves once
 or multiple times, their trail often gets completely lost in the
 vastness of the country.
 
-<pic images/cso.ps John Chiang, the California State Controller,
-coordinates outstanding payments.>
+<pic images/cso.ps John Chiang, the California State Controller, coordinates outstanding payments.>
 
 To ensure that outstanding payments still have a chance to reach
 their recipients, there is the "Bureau of Unclaimed Property" in
@@ -171,13 +167,13 @@ the recipient finds the entry on the internet, they can claim the
 amount by contacting the payer and providing their new address or
 account number.
 
-When the link circulated internally at Yahoo, an enthusiastic
+When the link above circulated internally at Yahoo, an enthusiastic
 colleague reached out and reported that she had just discovered that
 one of her former employers owed her about $150. She had immediately
 initiated the process to claim the amount and had already planned how
 to spend it! Americans just can't save...
 
-@Z: Freimaurer
+@Z: Free Masons
 
 <pic images/fm2.ps The Masonic Lodge in Santa Fe, New Mexico>
 
@@ -185,7 +181,7 @@ to spend it! Americans just can't save...
 When I once asked one of my colleagues about his somewhat
 unusual-looking signet ring on his ring finger during lunch, he
 replied that he would be happy to explain it to me, but it was a
-rather long story. "Well," I said, "I have plenty of time!
+rather long story. "Well," I said, "I have plenty of time!"
 
 The signet ring was silver, somewhat thick, and had the letter "G"
 and the silhouettes of a right angle and a compass engraved on its
@@ -199,8 +195,7 @@ tools of the architect, and every mason back then was also somewhat
 of an architect, as they could have a say in the construction and had
 more influence on the final result than is the case today.
 
-<pic images/fm3.ps The compass and the right angle are symbols of the
-Freemasons.>
+<pic images/fm3.ps The compass and the right angle are symbols of the Freemasons.>
 
 The "G" on the ring, by the way, is not worn by everyone, but it
 stands for the "higher being" that every Freemason believes in.
@@ -226,7 +221,7 @@ world, not just in America, include: The Englishman Winston
 Churchill, the Frenchman Voltaire, and the Austrian Wolfgang Amadeus
 Mozart.
 
-<pic images/fm1.ps Scottish Rite" is a subgroup of the Freemasons.>
+<pic images/fm1.ps "Scottish Rite" is a subgroup of the Freemasons.>
 
 In the late 1970s, however, the organization made negative headlines
 when the so-called lodge "Propaganda Due" in Italy operated as a
@@ -235,9 +230,9 @@ Masonic lodge and was involved in a financial scandal that almost
 drove the Vatican Bank into bankruptcy.
 
 There are special groups within the Freemasons that establish their
-own rules. In 'regular' Freemasonry, one starts as an "Apprentice"
-(Lehrling, Brotzeitholer, Hiasl), then becomes a "Fellow of the
-Craft" (Geselle), and eventually a "Master Mason" (Meister). However,
+own rules. In 'regular' Freemasonry, one starts as an "Apprentice",
+then becomes a "Fellow of the
+Craft", and eventually a "Master Mason". However,
 the group known as the "Scottish Rite" introduces additional ranks
 from 4 to 32, and in special cases, even number 33 is awarded. The
 titles are quite obscure, ranging from "Master of the Ninth Arch"
@@ -249,19 +244,19 @@ the stonemasons of the Middle Ages, who used it to protect their
 tools from the weather. Freemasons recognize each other through
 secret passwords and special handshakes.
 
-<pic images/fm4.ps The translation to English is: "Good book:
-'Freemasons for Dummies'>
+<pic images/fm4.ps Good book: 'Freemasons for Dummies'>
 
 The best book about the Freemasons, according to my colleague, is
-"Freemasons for Dummies," which was written by a high-ranking
-Freemason (32nd degree). The author adheres to the rules imposed on
-members regarding the secrecy of the various rituals and does not
-reveal more than is permissible. Those who feel the need to tear down
-the curtain and harshly illuminate even the darkest corners can
-easily purchase one or another book on Amazon that divulges all the
-secrets.
+"Freemasons for Dummies," which was written by a high-ranking Freemason
+(32nd degree). The author adheres to the rules imposed on members regarding
+the secrecy of the various rituals and does not reveal more than is
+permissible. But those who absolutely feel the need to tear down the curtain
+and harshly illuminate even the darkest corners can easily purchase one or
+another book on Amazon that divulges all the secrets.
 
-@Z: Polizeisirenen
+TODO
+
+@Z: Police Sirens
 
 <pic images/fire.ps Run for your life when the fire brigade comes!>
 
@@ -274,19 +269,14 @@ least in San Francisco, make a "weeeeeee-wahhhhhh," with the "wahhh"
 being produced by a horn-like instrument that creates such a
 low-frequency infernal noise that you voluntarily pull over.
 
-Here's the translation of the provided text into English:
-
-"As a visual aid, an MP3 file is attached to this newsletter. Our
+As a visual aid, an MP3 file is attached to this newsletter. Our
 neighbor's dog has the silly habit of howling at the fire trucks that
 frequently race around our neighborhood, as the fire station is just
-a few blocks away. I have the
-<LINK>http://usarundbrief.com/67/images/howl.mp3|Howling of the
-neighbor's dog</LINK>
-Translated to English, the text reads: "Recorded with my voice
-recorder. Judge for yourselves how stupid a) the dog and b) the
-neighbor is!
+a few blocks away. I taped the <LINK>https://usarundbrief.com/67/images/howl.mp3|Howling of the neighbor's dog</LINK>
+with my voice recorder. Judge for yourselves how stupid a) the dog and
+b) the neighbor is!
 
-@Z: Michael the TV chef
+@Z: Michael, the TV chef
 
 <pic images/googschnitz.ps Michael cooks on internet television.>
 
@@ -296,9 +286,10 @@ Schnitzel in our kitchen. Angelika operated the camera, and I just
 chatted and cooked away without a script, rhyme, or reason.
 Considering that, the result is surprisingly structured! Since the
 edited piece is about 16 minutes long, it's not on YouTube but on...
-<LINK>http://video.google.com/videoplay?docid=92574570497260796|Googl
-e Video</LINK>
+<LINK>http://video.google.com/videoplay?docid=92574570497260796|Google Video</LINK>
 .
+
+TODO
 
 @Z: Class Action Lawsuits
 
