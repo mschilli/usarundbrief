@@ -287,20 +287,17 @@ edited piece is about 16 minutes long, it's not on YouTube but on...
 <LINK>http://video.google.com/videoplay?docid=92574570497260796|Google Video</LINK>
 .
 
-TODO
-
 @Z: Class Action Lawsuits
 
-<pic images/24.ps We are being notified about a class-action lawsuit
-against our fitness center.>
+<pic images/24.ps We are being notified about a class-action lawsuit against our fitness center.>
 
 <em>Michael</em> 
-Recently, a letter arrived at the house again, which, in its neutral
+Recently, a letter arrived in the mailbox, which, in its neutral
 white envelope with an address window, looked like an advertisement
 for a new credit card. However, inside were several densely written
 pages filled with legal jargon. As is often the case in America, the
 legalese was translated for the average person, and at the top of the
-letter it read: "You are *not* being sued.
+letter it read: "You are *not* being sued."
 
 We were merely informed that our fitness center "24 Hour Fitness" had
 become involved in unfair business practices. The company had not
@@ -312,26 +309,18 @@ imaginative entrepreneurial spirit to circumvent the law and extract
 money from people using all possible and impossible methods, consumer
 protection in America is one of the best in the world.
 
-It seems there are some encoding issues in the text you provided.
-Here's an attempt to translate it with the likely intended
-characters:
-
-"When a company crosses the line again, consumers have the option of
-a so-called..."
-
-If you can provide the correct characters or more context, I can
-offer a more accurate translation.
-<LINK>http://en.wikipedia.org/wiki/Class_action|"Class-Action"</LINK>
-Legal proceedings. Resourceful private individuals find out who has
+When a company crosses the line, consumers have the option of
+a so-called <LINK>http://en.wikipedia.org/wiki/Class_action|Class Action</LINK>
+legal proceedings. Resourceful private individuals find out who has
 been harmed by these business practices, seek out a law firm, and
 then sue the company on behalf of all those affected.
 
-If a company manufactures defective child car seats, engages in
+For example, if a company manufactures defective child car seats, engages in
 misleading advertising, or fails to deliver promised services, it
 will quickly face consequences and, if the claims are found to be
 justified, will have to make substantial compensation payments.
 
-The case is either tried in the court of the respective state or, if
+The case is either tried in a court of the respective state or, if
 the case crosses state borders or violates federal law, in a federal
 court. To be accepted, it must meet certain criteria. For example,
 there must not only be a justifiable and precisely quantifiable
@@ -344,22 +333,18 @@ them that someone has conducted and won a lawsuit on their behalf! If
 an affected person then submits the form enclosed with the letter,
 they are awarded their share of the settlement.
 
-<pic images/242.ps (#2) As compensation for their unfair business
-practices, the fitness center chain is offering a free half-hour
-training session.>
+<pic images/242.ps (#2) As compensation for their unfair business practices, the fitness center chain is offering a free half-hour training session.>
 
-a company sees a lawsuit worth millions or even billions coming its
+When a company sees a lawsuit worth millions or even billions coming its
 way, it often settles out of court and offers compensation on its
-own, as such cases often end in favor of the consumers. And if a
+own, as such cases often end in favor of consumers. And if a
 company acts particularly maliciously and criminally, there is even
 the risk that the court will impose "punitive damages," which go far
-beyond the actual damage caused. In the case of
-<LINK>http://en.wikipedia.org/wiki/BMW_of_North_America%2C_Inc._v._Go
-re|BMW versus Gore</LINK>
-In 1996, BMW had to pay $2,000,000 because the company sold their
+beyond the actual damage caused. For example, in the case of
+<LINK>http://en.wikipedia.org/wiki/BMW_of_North_America%2C_Inc._v._Go re|BMW versus Gore</LINK>, in 1996, BMW had to pay $2,000,000 because the company sold their
 repaired cars in North America as new. The plaintiff's damage was
 only $4,000, but the court was so outraged by this audacious business
-practice of the Bavarians that it showed them who was boss.
+practice by the Bavarian motor company that it showed them who was boss.
 
 In the case of "24 Hour Fitness," an out-of-court settlement was
 reached, likely because the company wanted to avoid the risk of a
@@ -368,10 +353,9 @@ from four possible compensation options, including a free half-hour
 private training session offered by 24 Hour Fitness! We can certainly
 appreciate that.
 
-@Z: Toppprodukt
+@Z: Top Product
 
-<pic images/bike.ps Michael performs bicycle repairs in the living
-room.>
+<pic images/bike.ps Michael performs bicycle repairs in the living room.>
 
 <em>Michael</em> 
 Services are relatively cheap in America. If you take your car to a
@@ -385,7 +369,7 @@ I do patch tires myself, but for other issues like broken gear or
 brake cables, I have so far gone to the bike shop I trust, which is
 also located in the Mission District. For such minor repairs, you pay
 about $20 plus the cost of materials, which is just about acceptable,
-although it's certainly a steep price by American standards. But
+although it's certainly a steep price by American standards. Funny, though,
 every time I show up there, the mechanic takes me aside and says that
 I have such a nice bike, but the maintenance leaves something to be
 desired!
@@ -398,12 +382,10 @@ Germany, I would respond to such a mechanic's suggestion by pulling
 down my lower eyelid, but unfortunately, no one in America
 understands this gesture!
 
-<pic images/bikestand.ps When folded, the bicycle repair stand takes
-up very little space.>
+<pic images/bikestand.ps When folded, the bicycle repair stand takes up very little space.>
 
 So that I can carry out bicycle repairs at home in the future, I
-recently...
-<LINK>http://rei.com|REI</LINK>
+recently shopped at  <LINK>http://rei.com|REI</LINK>.
 Through gritted teeth, I shelled out $140 for a bike repair stand,
 and I have to say, it was money well spent. I immediately repaired a
 brake cable at home, and it's really nice to have the bike so stably
@@ -412,16 +394,16 @@ tipping over when tightening screws. And when folded, the stand is
 only slightly larger than a camera tripod and can be easily stored in
 a closet. Top product!
 
-@Z: The Eternal Stamp
+@Z: The Forever Stamp
 
 <pic images/forever.ps The stamp that is valid forever.>
 
 <em>Angelika</em> 
 The American postal service has to endure quite a bit of teasing
-because, even in the USA, it has a touch of bureaucracy about it.
-However, I swear by our post office on 24th Street and our good soul,
+because, even by US standards, it has a touch of bureaucracy about it.
+However, I swear by our post office location on 24th Street and our good soul,
 the mailman George, who has been delivering mail in our neighborhood
-since time immemorial. He kindly leaves our packages from Germany at
+since way back. He kindly leaves our packages from Germany at
 our apartment door when we're not home.
 
 It is particularly unpopular when the postal service increases its
@@ -432,7 +414,7 @@ regular letter within America weighing up to one ounce (1 ounce =
 May 14, the postal service will raise the fee to 41 cents.
 
 The evil email is to blame, as supposedly people are sending fewer
-letters, and the increase is intended to bring more money into the
+letters, and the increased price is intended to bring more money into the
 coffers. To appease public anger, the decision-makers at the United
 States Postal Services (that's what the postal service is called
 here) came up with the brilliant idea of introducing the "Forever"
@@ -448,21 +430,20 @@ office on 24th Street last week, I was still able to purchase the
 clearly indicated how long the stamp featuring the image of the
 Liberty Bell will be on the market. 
 
-@Z: The "Center for the Book" in San Francisco
+@Z: The "Center For the Book" in San Francisco
 
-<pic images/cftb.ps Center for the Book", the Academy of Bookbinding
-Art.>
+<pic images/cftb.ps "Center for the Book", the Academy for Bookbinding Art.>
 
 <em>Angelika</em> 
-I am still, as is well known, mourning the darkroom and the UC
+I am still, as is well known, reminiscing about the darkroom and the UC
 Berkeley Extension location on Laguna Street. I took quite a few
 courses there and spent hours developing my photos.
 
-On the site, by the way, as we all suspected back then, nothing has
+On the now deserted site, by the way, as we all suspected back then, nothing has
 happened. The buildings remain unused and idle. A pity! Thank God,
-however, there is still the so-called in San Francisco.
-<LINK>http://www.sfcb.org|Centro del Libro</LINK>
-.. an institution that opened its doors in San Francisco in the
+however, there is still the so-called
+<LINK>http://www.sfcb.org|Center For the Book</LINK>,
+an institution that opened its doors in San Francisco in the
 summer of 1996 and is entirely dedicated to the art of the book.
 
 Besides smaller exhibitions, the main focus of the institution is to
@@ -476,6 +457,8 @@ already taken a few, from classical bookbinding to creating books
 that house three-dimensional objects. However, I have not yet dared
 to approach the old printing presses that stand around the center
 like in Gutenberg's time.
+
+TODO
 
 @Z: Insurance in America
 
