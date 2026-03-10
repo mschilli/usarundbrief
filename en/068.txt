@@ -264,36 +264,28 @@ each car.
 
 <pic images/smog.ps PERLMAN's emissions test results, along with his vehicle registration number, are available on the internet.>
 
-TODO
-
-<LINK>http://www.smogcheck.ca.gov/vehtests/pubtstqry.aspx|On the
-Internet|California Emissions Test Online</LINK>
-Now, one can publicly admire the emissions tests of Californian cars.
-You can search by license plate or by the vehicle identification
+The site is at <LINK>http://www.smogcheck.ca.gov/vehtests/pubtstqry.aspx|On the Internet|California Emissions Test Online</LINK>.
+Now, one can publicly admire the emissions tests of all of California's cars.
+You can search by license plate or by vehicle identification
 number (VIN). If you search by license plate, the website
 conveniently provides the VIN along with the emissions values. This
 means you can then search by the VIN and obtain all the license
 plates that the vehicle has had over the years. According to a
+<LINK>http://www.snopes.com/crime/warnings/vin.asp|report on Snopes.com</LINK>
 report, car thieves are using this service.
-<LINK>http://www.snopes.com/crime/warnings/vin.asp|Report on
-Snopes.com</LINK>
-Sometimes it involves ordering replacement keys for some car on the
+Reportedly they're ordering replacement keys for random cars parked on the
 street. Often, all that is required for this is the vehicle
 registration number. Just enter "PERLMAN" and then you can see that
 our good old PERLMAN has passed all smog tests with flying colors
 since 1993!
-
 Addendum: As can be seen in Figure (#5), the DMV blocked the issuance
 of the VIN shortly after the publication of the article.
 
-<pic images/fixed.ps (#5) Two months later: The DMV no longer issues
-the VIN.>
+<pic images/fixed.ps (#5) Two months later: The DMV no longer issues the VIN.>
 
-@Z: Lichtschutzfaktor Sonnencreme" translates to "sun protection
-factor sunscreen" in English.
+@Z: Sunscreen Factors
 
-<pic images/sunscreen.ps (#1) The sun protection factor of a
-sunscreen is different in America and Europe.>
+<pic images/sunscreen.ps (#1) Sunscreen protection factors are different in America and Europe.>
 
 <em>Michael</em> 
 Have you ever been to America, bought SPF 20 sunscreen, laid on the
@@ -301,21 +293,21 @@ beach, and ended up with a patchy sunburn? Ha! That happened to us
 too. Obviously, it wasn't a "real" SPF 20.
 
 Funnily enough, only speculative nonsense can be found on the
-internet about this topic. Some claim that the German sun protection
+internet about this topic. Some erroneously claim that the German sun protection
 factor (LSF) and the American sun protection factor (SPF) are
 determined using the same method. Others report drastic
 discrepancies, stating that the American value is exaggerated by 50%
 to 100%. There are no serious scientific reports -- the medical
 clowns of the world obviously haven't published their dissertations
-on the internet yet. Hello, wake up!
+on the internet yet. Hello, anyone awake at this hour?
 
 However, we are not naive either. Supported by long-term research
 projects on the world's most important beaches, we put on our white
 lab coats today and boldly claim: The "SPF" indicated on American
 sunscreen packages corresponds to a "sun protection factor" that is
-about 30% lower. So if you buy a 20 SPF in America, you effectively
-have a 12 SPF by German standards. I wouldn't lie on any Californian
-beach with that, as a sunburn is inevitable.
+about 30% lower than the German LSF. So if you buy a 20 SPF in America, you effectively
+have a 12 SPF by German standards. I wouldn't hang out on any Californian
+beach with that, an unhealthy sunburn would inevitably be the result.
 
 Recently, Costco had a deal on two tubes of Neutrogena sunscreen (see
 image (#1)) with SPF 55 (which is roughly equivalent to SPF 35 by
@@ -323,6 +315,8 @@ German standards) for $13.99. A bargain price! Neutrogena makes one
 of the best sunscreens in the world. Not chalky at all, as is usually
 the case with sunscreens in the higher protection range. Silky on the
 skin and not greasy at all! I had to stock up immediately.
+
+TODO
 
 @Z: Sudafed PE and Sudafed
 
