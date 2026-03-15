@@ -410,47 +410,43 @@ There are many different helmet mirrors, but I chose the model <LINK>http://www.
 I bought it online from Colorado. It is extremely simple in design,
 solidly made, and easy to adjust. Cost: $15. Top product!
 
-@Z: Mail From the Waterworks
+@Z: Mail From the Water Company
 
-<pic images/wc1.ps The water utility in San Francisco is urging people to conserve water.>
-
-TODO
+<pic images/wc1.ps The water utility company in San Francisco is urging people to conserve water.>
 
 <em>Angelika</em> 
-The Californian winter of 2006/2007 brought us too little rain, so
-the water reservoirs were not sufficiently filled. In the summer,
+The Californian winter of 2006/2007 brought us too little rain, and our
+water reservoirs were not sufficiently filled. In the summer,
 this can lead to water shortages, especially in Southern California.
-That's why we recently received a...
-<LINK>http://usarundbrief.com/68/images/wc.pdf|Brochure from the
-Waterworks</LINK>
-into the house, which contained tips for saving water.
+That's why we recently received a
+<LINK>http://usarundbrief.com/68/images/wc.pdf|Brochure from the water utility company</LINK>
+in the mail, which contained tips for saving water.
 
-You know, installing water-saving showerheads, only running the
-dishwasher when it's fully loaded, not leaving the tap running while
-brushing your teeth. Dry winters have occurred more frequently in
-California. However, I found it interesting when reading the brochure
-that it pointed out global climate change, which scientists say will
-bring us drier winters in the future. Ha, didn't I already announce
-in the last newsletter that the topic of global warming has become
-socially acceptable in the USA? Even Bush couldn't help but
-grudgingly acknowledge climate change as a fact at the G-8 summit in
-Heiligendamm, even though he had denied it until recently. Now, this
-doesn't immediately make him a Greenpeace activist, but every
-beginning is difficult.
+You know, things like installing water-saving showerheads, only running the
+dishwasher when it's fully loaded, not leaving the tap running while brushing
+your teeth. Dry winters have occurred more frequently in recent years in
+California. However, I found it interesting when reading the brochure that it
+pointed out global climate change, which scientists say will bring us drier
+winters in the future. Ha, didn't I already announce in the last newsletter
+that the topic of global warming has become socially acceptable in the USA?
+Even Bush couldn't help but grudgingly acknowledge climate change as a fact at
+the G-8 summit in Heiligendamm, even though he had been denying it until
+recently. Now, this won't suddenly turn him into a Greenpeace activist, but
+every new start is difficult.
 
-@Z: Bezahlte Krankheitstage" translates to "paid sick days" in
-English.
+@Z: Paid Sick Days
 
 <em>Angelika</em> 
-In the last
-<RBLINK>20070427#1</RBLINK>
+In the last issue (<RBLINK>20070427#1</RBLINK>)
 I reported that San Francisco was the first city in America to ban
 plastic bags. But San Francisco is not only ahead in terms of
 environmental protection, but also when it comes to social
 achievements. Since February of this year, everyone working in San
-Francisco must be paid for sick days. San Francisco is once again the
+Francisco must get paid on sick days. San Francisco is once again the
 first city in America to legally mandate paid sick leave at the local
-level. There are no binding legal regulations on this matter at the
+level.
+
+There are no binding legal regulations on this matter at the
 national level in America. It is estimated that almost half of
 full-time employees in the USA (according to the press, about 57
 million) do not receive a salary when they call in sick. Those most
@@ -458,21 +454,23 @@ affected are people working in low-wage jobs, even though they can
 least afford the loss of income. Better companies generally grant
 paid sick days, with different models depending on the company. Some
 employers, for example, grant 1 to 2 days per month, which can be
-accumulated up to a certain maximum limit. Yahoo allows its employees
+accrued up to a defined limit. Yahoo, for example, allows its employees
 short-term absences (a maximum of 5 consecutive days) due to their
-own illness or the illness of a family member (e.g., children) up to
+own illness or the illness of a family member's (e.g., children), up to
 5 times in 12 months. If an employee at Yahoo is sick for a longer
 period, the so-called "Short-Term Disability Insurance" kicks in,
-which is paid for by Yahoo for the employees. Other companies do not
-differentiate between vacation, illness, or absence due to doctor
-visits. The employee receives a so-called "Paid Time Off" account
-(Paid Time Off = paid absence), and they decide for themselves how to
-use the accumulated hours (vacation or illness). San Francisco's
-model works as follows: Everyone working in San Francisco (regardless
-of where the company is based) receives one paid hour of sick leave
-for every 30 hours worked. The accumulated time can be used for
-personal illnesses, necessary doctor visits, or caring for sick
-relatives or partners. It does not matter whether the employee is
+which is paid for by Yahoo, for its employees.
+
+Other companies do not differentiate between vacation, illness, or absence due
+to doctor's office visits. The employee receives a so-called "Paid Time Off"
+account (Paid Time Off = paid absence), and they decide for themselves how to
+use the accumulated hours (vacation or illness). San Francisco's model works
+as follows: Everyone working in San Francisco (regardless of where the
+company's headquarters is based) receives one paid hour of sick leave for
+every 30 hours worked. The accumulated time can be used for personal
+illnesses, necessary doctor visits, or caring for sick relatives or partners.
+
+It does not matter whether the employee is
 full-time, part-time, or temporarily employed. The same rules apply
 to workers without work permits and papers ("Undocumented Workers").
 If you work for a small company (up to 10 full-time or part-time
@@ -488,26 +486,27 @@ it is well thought out. A cheer for San Francisco.
 <pic images/mar2.ps The bar Mariachi's in the Mission>
 
 <em>Michael</em> 
-When you walk through the Mexican neighborhood "Mission" just around
+When you walk through our Mexican neighborhood "Mission" just around
 the corner from us, you often hear a kind of oom-pah music coming
 from passing cars or open apartment windows, which is not unlike
 German folk music. If you look closer, these are just regular people
 who enjoy this seemingly totally crazy music. You never know! I
-thought that only existed in Germany at the Musikantenstadel.
+thought that kind of thing only existed in Germany at the Musikantenstadel
+TV show.
 
 <pic images/mariachi.ps A mariachi band on television.>
 
 Recently, we were at a Spanish restaurant in the Mission District,
 and just as we were about to order, three Mexicans in traditional
 costumes came in. One had a guitar, another an accordion, and the
-third a double bass (cf. "Three Chinese with the Double Bass"). After
+third a bass guitar (compare to the German song "Three Chinese with
+the Double Bass"). After
 briefly asking the owner for permission and receiving it, the three
 began their loud Humpa-Dumpa music. I turned on my digital recorder
 to document the scene as the waitress came to take our order. And so
-today, you get to enjoy a rarity: A
-<LINK>http://usarundbrief.com/68/images/mexpolka.mp3|Order in a
-Spanish restaurant with polka music playing</LINK>
-as MP3
+today, you get to enjoy a rarity, an MP3 of
+<LINK>http://usarundbrief.com/68/images/mexpolka.mp3|ordering dinner in a Mexican restaurant with polka music playing</LINK>
+in the background.
 
 <pic images/jarocho.ps A Jarocho musician in the Mission.>
 
@@ -517,24 +516,19 @@ that the musicians in the San Francisco Mission are mostly
 trumpets and violins, jarochos wear cowboy hats and mostly play bass,
 guitar, and accordion. So, if you hear lyrics like "See the vegetable
 man / In the vegetable van / With a horn that's honking / Like a
-mariachi band" by the well-known rock musician Beck in the future,
+mariachi band" by the well-known rock musician Beck going forward,
 you'll know the difference.
 
 <pic images/jar2.ps Another guitar-playing musician on a mission.>
 
-Apropos Beck: He not only recently...
-<LINK>http://youtube.com/watch?v=XEqGIZ-X-L8|At Yahoo in front of the
-cafeteria</LINK>
-The translation to English is: "played, but a few years ago in a
-cheap but good
-<LINK>http://www.dennisyang.com/archive/2005/07/18/beck-at-pancho-vil
-la|Taqueria around the corner from us</LINK>
+Apropos Beck: He not only recently performed at
+<LINK>http://youtube.com/watch?v=XEqGIZ-X-L8|Yahoo in front of the cafeteria</LINK>, but, a few years ago, in the cheap but good
+<LINK>http://www.dennisyang.com/archive/2005/07/18/beck-at-pancho-villa|taqueria around the corner</LINK>.
 Unfortunately, we missed the surprise event, and apparently most of
 the guests didn't even recognize Beck, as they were into Humpa-Dumpa
-music and were busy devouring the store's legendary good burritos!
+music and busy devouring the store's legendary tasty burritos!
 
 Always up close with the stars:
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
+Angelika and Michael
 
