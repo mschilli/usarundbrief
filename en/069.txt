@@ -4,8 +4,6 @@ San Francisco, 08-20-2007
 
 <pic images/window2.ps The fixed window is being cleaned from the balcony.>
 
-TODO
-
 <em>Angelika</em> 
 Recently, we were sitting with our German friends Conny and Roland,
 who have only been in San Francisco since last year, and we started
@@ -18,30 +16,26 @@ almost impossible. Unless, of course, the window is adjacent to a
 fire escape or a balcony, where you can stand armed with cleaning
 supplies.
 
-<pic images/window1.ps Michael removes the kitchen window for
-cleaning.>
+<pic images/window1.ps Michael removes the kitchen window for cleaning.>
 
-At first, I was puzzled by the question: How do the Americans do it?
-Do they not clean windows? Does a window cleaner come? An American
-friend enlightened us back then. The windows can be removed from
-their frames. For cleaning, they are placed on the floor. This sounds
-brilliantly simple, but it isn't, because our windows, for example,
-are relatively high, and removing and reinstalling them becomes a
-juggling act. You have to be extremely careful that the window
-standing around in the apartment doesn't tip over and break the
-glass, as has happened to us before. In our apartment, there's an
-additional difficulty: We can only remove the sliding window; the
-other one is permanently installed. And since we don't want to become
-part of the statistic "Most accidents happen at home," we have to use
-all sorts of tricks, like scrubbing with extendable telescopic rods.
-As you can tell, we don't clean our windows often. Only when the view
-from our windows is already clouded by a gray haze do we embark on
-this adventure.
+At first, I was puzzled by the question: How do Americans do it?  Aren't they
+cleaning windows? Does a window cleaner come to the house?  An American friend
+enlightened us back then. The windows can be removed from their frames. For
+cleaning, they are placed on the floor. This sounds brilliantly simple, but it
+isn't, because our windows, for example, are relatively high, and removing and
+reinstalling them becomes a juggling act. You have to be extremely careful
+that the window standing around in the apartment doesn't tip over and break
+the glass, as has happened to us before. In our apartment, there's an
+additional difficulty: We can only remove the sliding window; the other one is
+permanently fixed. And since we don't want to become part of the statistic
+"Most accidents happen at home," we have to use all sorts of tricks, like
+scrubbing with extendable telescopic rods.  As you can tell, we don't clean
+our windows often. Only when the view from our windows gets clouded by a gray
+haze do we embark on this adventure.
 
-@Z: Irre GebÃ¼hren" translates to "insane fees" in English.
+@Z: Insane Fees
 
-<pic images/cellsurcharge.ps (#3) The crazy extra charges on the
-phone bill>
+<pic images/cellsurcharge.ps (#3) Crazy extra charges on the phone bill>
 
 <em>Michael</em> 
 With the sales tax levied in many states, Americans are accustomed to
@@ -62,16 +56,15 @@ cost about $49.
 In addition to the base amount, there is a $3.73 "San Francisco City
 Wireless Utility Users Tax Surcharge," then a $0.18 "California 911
 Tax," and so on and so forth. There are a total of 12 items, and a
-whole $12.91 is added to the bill amount in this way. Just like that,
-the monthly cell phone price increases by 26%!
+total $12.91 is added to the bill amount in this way. Just like that,
+the monthly cell phone contract increases by 26%!
 
-I certainly don't go along with that, and some time ago we switched
-to prepaid phones. Our bill quickly dropped to a third! Of course,
-the phone companies advise against this method so they can
-comfortably exploit customers with the now-common two-year contracts.
+I certainly don't go along with such business practices, and some time ago we
+switched to prepaid phones. Our bill quickly dropped to a third! Of course,
+the phone companies advise against this method so they can comfortably exploit
+customers with now-common two-year contracts.
 
-<pic images/hoteltx.ps (#4) The translation to English is: "Hotel
-bill with 'Sports Authority Tax'.>
+<pic images/hoteltx.ps (#4) Hotel bill with 'Sports Authority Tax'.>
 
 But it's not just the telephone companies that are being sneaky;
 hotels are also swindling more and more money from their guests
@@ -81,6 +74,8 @@ Authority Tax" appeared on the bill. The room cost $114 per day. On
 top of that, there was a $6.84 "State Tax," a $7.98 "City Tax," and a
 $4.56 "Sports Authority Tax." No joke! So, $114 quickly turned into
 $134 per day (see Figure (#4)).
+
+TODO
 
 The magazine "Consumer Reports" recently stated that it is quite
 common for hotels to charge a "restocking fee" when you take
