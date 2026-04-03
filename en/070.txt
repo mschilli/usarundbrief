@@ -72,35 +72,29 @@ tourists!
 
 <pic images/truck.ps A truck towing a flying saucer>
 
-In the pub, there's a super abrasive old hag behind the bar who
-snapped at me with "What kind of beer do you want?" when I asked,
-"What kind of beer do you have?" I could have, of course, said that I
-prefer Augustiner Edelstoff, but they most likely wouldn't know about this
-connoisseur's drink in this dive bar. Imagine, I could have been
-thrown out, abducted by the secret service, having to
-spend my remaining years wearing an ill-fitting orange jumpsuit. Better
-not!
-
-TODO
+In the pub, there's a super abrasive old hag behind the bar who snapped at me
+with "What kind of beer do you want?" when I asked, "What kind of beer do you
+have?" I could have, of course, said that I prefer Augustiner Edelstoff, but
+they most likely wouldn't have known about this connoisseur's drink in this
+dive bar. Imagine, I could have been thrown out, abducted by the secret
+service, having to spend my remaining years wearing an ill-fitting orange
+jumpsuit. Better not!
 
 Furthermore, the entire bar (illustration (#6)) was plastered with
 stickers featuring Republican slogans from the Clinton era. Examples:
 "Yeah! You can have my gun -- bullets first!", "Send Clinton to
 Mexico - not my job!", "Hillary's National Health Service =
-Efficiency of Postal Service and Compassion of I.R.S. at bargain
+Efficiency of the US Postal Service and Compassion of the I.R.S., at bargain
 prices of the Pentagon".
 
-<pic images/innout.ps The Little A'le'Inn in the town of "Rachel>
+<pic images/innout.ps The Little A'le'Inn in the town of "Rachel">
 
-<pic images/ethbar.ps (#6) The bar of the Little A'le'Inn>
+<pic images/ethbar.ps (#6) The bar of the Little A'le'Inn>.
 
-Unten
 In figure (#4)
-Here's the translation to English:
-
-"You can see the satellite image of Area 51 on Google Maps. The white
+you can see the satellite image of Area 51 on Google Maps. The white
 spot is a huge dried-up salt lake called 'Groom Lake.' South of the
-salt lake, there are various hangars, tanks, and barracks-like
+salt lake, there are various hangars, tanks, and barrack-like
 buildings. Further south is a hilly area known as the 'S-4' security
 zone. Camouflaged hangars are built into the hills. The most unusual
 flying objects are stationed there, and some people suspect UFOs. If
@@ -109,13 +103,12 @@ below, called 'Papoose Lake.'
 
 In the left part of Groom Lake, you can see a gray line running from
 the top left to the bottom right. If you zoom in on Google Maps,
-you'll see that it's a runway about 9 km long. You can even see the
+you'll see that it's a runway about 6 miles long. You can even see the
 dashed centerline! Even the Space Shuttle only needs about half the
-distance to land, so aircraft with incredibly high speeds can land on
-Groom Lake.
+distance to land, so aircraft could land on Groom Lake at
+incredibly high speeds.
 
-<pic images/a51browse.ps (#4) The "Groom Lake" in the satellite
-photo.>
+<pic images/a51browse.ps (#4) "Groom Lake" on the satellite photo.>
 
 The employees of Area 51 are, by the way, flown in daily from Las
 Vegas. At McCarran Airport, there is a small terminal called "Janet"
@@ -123,49 +116,42 @@ that is closed off to the public, from which several Boeing planes
 take off each day to fly to Area 51. Allegedly, several thousand
 people are employed there.
 
-<pic images/bar.ps The phrase translates to "Newsletter reporter at
-the bar of the Little A'le'Inn" in English.>
+<pic images/bar.ps The Newsletter reporter at the bar of the Little A'le'Inn.>
 
-<pic images/a51book.ps (#5) The book about Area 51 signed by Chuck
-Clark.>
+<pic images/a51book.ps (#5) The book on Area 51 signed by Chuck Clark.>
 
 In the spiral-bound booklet "Area 51 & S-4 Handbook" by Chuck Clark,
 you can read plenty of juicy details about the secretive activities
 of the military for $15. Our copy (illustration (#5)), which we
 purchased at the bar of the "A'le'Inn," was even signed by the
-author! On the website of the
-<LINK>http://www.hufos.net/hufos_lectures_04.html|The translation of
-"Hull UFO Society" to English is "Hull UFO Society." The phrase is
-already in English.</LINK>
-The translation from German to English is: "Can you gather more
-information on the topic of Area 51?
+author! If you're curious, on the website of the
+<LINK>http://www.hufos.net/hufos_lectures_04.html|"Hull UFO Society"</LINK>,
+you can you gather more information on the topic of Area 51.
 
-@Z: Immer wieder Las Vegas" translates to "Again and again Las Vegas"
-in English.
+@Z: Las Vegas Again And Again
 
 <pic images/lvnight.ps View from the hotel room>
 
 <em>Michael</em> 
 On our wedding anniversary, we are known to enjoy going to Las Vegas
 because that's where we met a long, long time ago. Ten years ago, you
-could still find super-luxury hotel rooms there (see...
-<RBLINK>20010117#2</RBLINK>
-The translation to English is: "rent without the credit card
-immediately writhing in pain.
+could still find super-luxury hotel rooms there (<RBLINK>20010117#2</RBLINK>)
+and rent without causing much stress to your credit card.
 
 <pic images/mgmsig.ps A tower of the MGM Signature Hotel>
 
 Nowadays, it's not that easy anymore, but every now and then you can
 find some real luxury for your money: This time we stayed at the MGM
 Signature, in one of the three new towers that were built a few
-hundred meters behind the MGM colossus. Our place was not only
+hundred yards behind the MGM colossus. Our place was not only
 equipped with a kitchen (an absurdity in Las Vegas) but also had the
 most amazing balcony I have ever seen.
 
 <pic images/room.ps Not a bad place, the MGM Signature.>
 
-<pic images/palms.ps Illuminated palm trees at the entrance of the
-MGM Signature>
+<pic images/palms.ps Illuminated palm trees at the entrance of the MGM Signature>
+
+TODO
 
 I am relatively free from dizziness and have only twice in my life
 felt that the ground was being pulled out from under my feet due to
