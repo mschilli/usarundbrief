@@ -175,8 +175,8 @@ pick up the car at 7:00 PM, you should also state 7:00 PM as the
 return time. If you say 6:00 PM as the return time, you'll have to
 return the car an hour earlier unnecessarily, without saving any
 money. If you do show up at the car rental at 6:00 PM, it's not a
-problem. Conversely, if you pick up the car at 7:00 PM and state 8:00
-PM as the pickup time, the car rental company will charge you for an
+problem. Conversely, if you want to pick up the car at 7:00 PM and state 8:00
+PM as the return time, the car rental company will charge you for an
 entire extra day! By the way, if you want to keep the car longer than
 planned, just call them; they'll usually allow it. The same applies in
 case of an accident: call the car rental company immediately and ask
