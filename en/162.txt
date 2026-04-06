@@ -474,73 +474,66 @@ arises that in mega-supermarkets like Costco, there are always only
 six steaks or a pound of cheese available, and no one can consume
 such quantities before the expiration date.
 
-TODO
-
 I used to always think, "Meh, frozen and thawed, it doesn't taste
-good anymore," but I've since changed my mind, especially when it
+as good anymore," but I've since changed my mind, especially when it
 comes to meat. However, there's always some air left in a freezer bag
 next to the frozen food, and the moisture trapped in it turns into
 small crystals and unsightly white deposits. Freezer burn (horror
 music)!!
 
-Here's the translation to English:
-
-"By the way, and this is surely nothing new for the kitchen foxes
+Turns out, and this is surely nothing new for the kitchen foxes
 among you, if you use a vacuum pump like the one from the company
-Foodsaver to suck out the air before the bag is sealed airtight, this
+Foodsaver to suck out the air, and then the bag is sealed airtight, this
 doesn't happen, and the frozen food thaws effortlessly in the
 refrigerator overnight and tastes like new.
 
-<pic images/food-saver-meat.ps ... and everything individually
-vacuum-packed.>
+<pic images/food-saver-meat.ps ... and everything individually vacuum-packed.>
 
 The system is also suitable for sliced sausage, ham, or cheese.
-Simply insert a roll of film of the desired width into the box, cut
+Simply insert a roll of the wrapping material of the desired width into the box, cut
 the desired length with the cutter, and then first seal the bottom
 end of the resulting plastic tube. The special wrapping material
-sticks together when pressed and heated. Now you have an open bag at
+bonds when pressed and heated. Now you have an open bag at
 the top, into which you place the food to be frozen. Then, place the
-upper edge on the sealer and close the lid of the food saver. Next,
+upper edge in the sealer and close the lid of the food saver. Next,
 press "Vacuum + Seal," and the device will suck the remaining air out
 of the bag and then seal it airtight in one go.
 
-The device catches any leaking liquid in a channel, and you can even
-explicitly choose between "Wet" and "Dry." In the "Wet" setting, the
+The device catches any leaking liquid in a plastic gutter, and you can even
+explicitly choose between "Wet" and "Dry" modes for the pumping. In the "Wet" setting, the
 box doesn't suck as strongly on the frozen goods, so that moist
-contents don't dry out and the pumped-out liquid doesn't mess up the
-burner's drainage channel.
+contents won't dry out and the pumped-out liquid won't mess up the
+sealer's drainage channel.
 
-<pic images/food-saver-cheese.ps Our cheese collection in the
-refrigerator, permanently packaged.>
+<pic images/food-saver-cheese.ps Our cheese collection in the refrigerator, permanently packaged.>
 
 Replacement bag rolls are not as cheap as the usual zip-lock bags
-because they are made from this special film that seals with heat.
+because they are made from this special film material that seals with heat.
 However, when bought in larger quantities, the price is quite
 reasonable, and such a shrink pack costs about 20 cents per unit. Top
 product!
 
 @Z: TSA -- Partially closed
 
-<pic images/sfo-line.ps No long line at the airport in San
-Francisco.>
+<pic images/sfo-line.ps No long line at the airport in San Francisco.>
 
 <em>Angelika</em> 
-What many Americans do not like are high gas prices and long lines,
+What many Americans do not like are high gas prices and long lines at airports,
 although I always admire how patiently they endure it. Both are
 currently the case, albeit for different reasons. Gas prices have
 steadily increased due to the war with Iran. Nevertheless, prices
-here are always moderate compared to Germany.
+here are still moderate compared to Germany.
 
 Long lines are currently forming at the security checkpoints of many
 American airports. The reason for this is another partial "Government
 Shutdown," meaning a partial lack of funding for government agencies.
 This also affects the Transportation Security Administration (TSA),
 which is responsible for these airport checks, including screening
-carry-on luggage and passengers' IDs. This shutdown has been ongoing
+carry-on luggage and checking passengers' IDs. This shutdown has been ongoing
 since mid-February, and many TSA employees are once again waiting for
 their paychecks. Some have since resigned, while others are calling
 in sick more frequently. It's particularly inconvenient because March
-and April are Spring Break in the USA, and many people use this time
+and April are the time of the Spring Break in the USA, and many people use this time
 to travel, often by plane.
 
 Unlike previous shutdowns, this time not all agencies are affected,
@@ -548,14 +541,14 @@ but primarily the Department of Homeland Security. This includes the
 TSA, the Coast Guard, and immigration agencies such as ICE
 (Immigration and Customs Enforcement) and CBP (Customs and Border
 Protection). Other agencies, such as the Internal Revenue Service
-(IRS) or the national parks, are not affected.
+(IRS) or the National Parks Service, are not affected.
 
-In the news, you currently see images of crowds winding through
+In the evening news, there's daily images of crowds winding through
 airports to finally reach security checkpoints. In cities like
 Atlanta or Houston, passengers sometimes waited three to four hours
 and missed their flights. President Trump then ordered that TSA
 employees be paid retroactively, at least, to ease the situation.
-However, this does not bring back those who have already resigned.
+However, this does not bring back those TSA workers who have already resigned.
 
 The political dispute that led to this deadlock primarily revolves
 around the funding of the ICE agency. The Democrats are tying their
@@ -578,6 +571,4 @@ it goes on the way back from Tampa.
 But you will only find out about that in the next newsletter. Until
 then!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
