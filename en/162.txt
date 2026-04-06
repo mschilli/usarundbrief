@@ -388,17 +388,14 @@ outside of California.
 
 <pic images/bequet-singles.ps Delicious caramel candies at an exorbitant price.>
 
-TODO
+<em>Michael</em> People often ask me what is wrong with me to keep circling back to
+the Costco supermarket like a dope fiend, and I have to say that part of my
+motivation is the new products they stock there, following the motto "let's see
+if anyone will actually buy this exotic product."
 
-<em>Michael</em> 
-People often ask me what keeps driving me to the Costco supermarket
-like an addict, and I have to say that part of my motivation is the
-new products they stock there, following the motto "let's see if
-anyone will actually buy this exotic product.
-
-In the free American market, supermarkets in general, and Costco in
+In the US consumer space, supermarkets in general, and Costco in
 particular, naturally put significant pressure on their suppliers.
-Once a new product is on the shelf at Costco, entirely new customer
+Once a new product has managed to be put on the shelf at Costco, entirely new customer
 bases suddenly open up, and a company that may have been unknown
 until then is suddenly in the spotlight. As mentioned, this is not
 only the case with Costco but also with more modest supermarket
@@ -408,12 +405,11 @@ shelves, the producer must first pay a so-called slotting fee.
 Depending on where the product will be placed--at eye level or down
 low with the discount brands--the cost varies accordingly.
 
-<pic images/costco-bequet.ps The caramel treat on the shelf at
-Costco.>
+<pic images/costco-bequet.ps A tasty caramel treat on the shelf at Costco.>
 
 Now it is a particular pleasure for me to discover such unknown
 products, to purchase them, and, if they meet my standards, to
-recommend them secretively. This was the case with the caramel
+recommend them secretively in a hushed voice. This was the case with the caramel
 candies from the Montana-based company Bequet. The candies are
 roughly rectangular caramel chunks with a salty taste. The texture is
 quite different from the German candy product "Werther's Original,"
@@ -425,66 +421,51 @@ The product tastes expensive, and it is, because Costco charges a
 whopping 15 dollars for a bag with about 30 pieces. But all the
 sweetness of youth is contained in these candies, and the idea that
 somewhere in the mountainous state of Montana there is a hippie
-factory producing such exquisite candies with grotesque effort fuels
+factory producing such exquisite candies with grotesque effort, fuels
 my imagination even more. I've already purchased two packs, and
 there's no end in sight as long as Costco continues to carry the
 product.
 
 @Z: Top Product: The Foldable Steamer Insert
 
-<pic images/steam-basket-cook.ps The sentence translates to: "Here
-Michael is steaming delicious shumai dumplings.>
+<pic images/steam-basket-cook.ps Here, Michael is steaming delicious shumai dumplings.>
 
 <em>Michael</em> 
 My cooking skills have now reached quite impressive levels, but until
-now, I hadn't bought a pot for steaming due to lack of space.
-Angelika even had to create an adventurous setup with a kitchen towel
+now, I hadn't bought a pot for steaming due to lack of space in our kitchen.
+One time, Angelika even had to create an adventurous setup with a kitchen towel
 stretched over a pot and a glass lid just to make potato dumplings
-for the roast duck.
+for the xmas roast duck.
 
-Then I saw in a YouTube video how the Australian chef...
-<LINK>https://www.andy-cooks.com|Andy Cooks" is already in English.
-It can be understood as "Andy prepares food" or "Andy is cooking,"
-depending on the context.</LINK>
-for the damping of
-<LINK>https://en.wikipedia.org/wiki/Bok_choy|Bok Choy is already an
-English term. It refers to a type of Chinese cabbage known for its
-crisp, white stalks and dark green leaves.</LINK>
-The phrase translates to: "(In German supposedly 'Chinese mustard
-cabbage') pulled out a collapsible pot insert, and suddenly I
-realized what I was missing for my kitchen happiness.
+Then I saw in a YouTube video how the Australian chef
+<LINK>https://www.andy-cooks.com|Andy Cooks</LINK>
+pulled out a collapsible pot insert for the steaming of
+<LINK>https://en.wikipedia.org/wiki/Bok_choy|Bok Choy</LINK>
+(In German supposedly 'Chinese mustard cabbage'),
+and suddenly I realized what I was missing for my kitchen happiness.
 
-<pic images/steam-basket-open.ps With a folding mechanism, the insert
-fits into almost any pot.>
+<pic images/steam-basket-open.ps With a folding mechanism, the insert fits into almost any pot.>
 
-I quickly bought
-<LINK>Steamer-Basket
-https://www.amazon.com/dp/B091XP3VZ7|Amazon</LINK>
-For a small amount of money, the steamer insert, naturally made in
-China but (allegedly) made of stainless steel and (very importantly!)
-dishwasher safe, and since then I've been steaming non-stop. Whether
-delicious...
-<LINK>https://en.wikipedia.org/wiki/Shumai|Shumai-Klopse</LINK>
-The sentence translates to:
-
-"or also Bok Choy, the basket is pulled out of the drawer in a flash,
-unfolded, and it already fits into pots of almost any diameter. Add a
+I quickly bought the foldable steamer basket on
+<LINK>Steamer-Basket https://www.amazon.com/dp/B091XP3VZ7|Amazon</LINK>
+for very little money. The device was naturally manufactured in
+China but (allegedly) made of stainless steel and is (very importantly!)
+dishwasher safe, and since I've had it, I've been steaming non-stop.
+Whether delicious <LINK>https://en.wikipedia.org/wiki/Shumai|Shumai dumplings</LINK>
+or also Bok Choy, the basket is pulled out of the drawer in a flash,
+unfolded, and it readily fits into pots of almost any diameter thanks to the foldable design. Add a
 little water and off you go.
 
-<pic images/steam-basket-folded.ps When folded, the insert takes up
-hardly any space.>
+<pic images/steam-basket-folded.ps When folded, the insert takes up hardly any space.>
 
-Here's the translation to English:
-
-"If, for example, some skin from the meatballs gets stuck in the
-holes at the end, I don't worry about it and just put the item in the
-dishwasher. It comes out sparkling clean and doesn't rust. Top
+And, let's say, if, for example, some skin from the meatballs gets stuck in the
+steamer basket holes at the end, I don't worry about it and just put the item in the
+dishwasher. It comes out sparkling clean and won't rust. Top
 product!
 
 @Z: Top Product: Foodsaver
 
-<pic images/food-saver-vacuum.ps Delicate shortrib pieces from the
-bulk pack individually sealed.>
+<pic images/food-saver-vacuum.ps Delicate shortrib pieces from the bulk pack individually sealed.>
 
 <em>Michael</em> 
 Those who buy food in larger quantities save more proportionally,
@@ -492,6 +473,8 @@ that is well known. However, in a two-person household, the problem
 arises that in mega-supermarkets like Costco, there are always only
 six steaks or a pound of cheese available, and no one can consume
 such quantities before the expiration date.
+
+TODO
 
 I used to always think, "Meh, frozen and thawed, it doesn't taste
 good anymore," but I've since changed my mind, especially when it
