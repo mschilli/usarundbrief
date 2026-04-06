@@ -218,21 +218,12 @@ Additionally, large museums quickly tire me out due to the sheer
 number of exhibits. That's why we are now specifically looking for
 smaller museums.
 
-TODO
-
-<pic images/wm-outside.ps From the outside unremarkable: The Wende
-Museum in Los Angeles.>
+<pic images/wm-outside.ps Inconspicuous from the outside: The Wende Museum in Los Angeles.>
 
 When we were in Los Angeles after Christmas, as is our tradition, we
-visited the...
-<LINK>https://wendemuseum.org|The Wende Museum" is already in
-English. It is the name of a museum located in Culver City,
-California, which focuses on the history and culture of the Cold War
-era, particularly in Eastern Europe and the former Soviet Union. The
-word "Wende" is German for "turning point" or "change," referring to
-the period of transformation in Eastern Europe around the fall of the
-Berlin Wall.</LINK>
+visited the <LINK>https://wendemuseum.org|"The Wende Museum"</LINK>.
 The name initially sounds unusual for Los Angeles. However, "Wende"
+means "turning point" in German and 
 actually refers to the fall of the Berlin Wall and the time before
 it. But how does such a museum end up in Los Angeles? Historian
 Justinian Jampol, born and still residing in Los Angeles, had a
@@ -249,55 +240,49 @@ own home, as a friendly volunteer staff member told us. In 2002, this
 collection became a museum, initially housed in a small office
 building, while a large part of the collection continued to be stored
 in containers. In 2017, the collection finally found a permanent
-home: a building on Culver Boulevard, which was built in 1949 as an
-atomic bunker and later used by the National Guard. The museum was
-allowed to move in for the symbolic price of one dollar per month for
-a term of 75 years.
+home: a building on Culver Boulevard, which had been built in 1949 as an
+atomic bunker and was later used by the National Guard. The museum was
+allowed to move in for the symbolic price of one dollar per month at
+a lease term of 75 years.
 
-<pic images/wm-lenin.ps This department is unfortunately closed.>
+<pic images/wm-lenin.ps This section is unfortunately closed.>
 
 Today, the collection includes over 100,000 objects. The museum not
 only showcases rotating parts of these exhibits but also sees itself
 as a place for exhibitions, encounters, and historical research. I
 was particularly fascinated by the everyday items, such as GDR soap
 or old advertising posters. Incidentally, Taschen Verlag has
-published many of these objects in a book.
-<LINK>https://www.amazon.com/dp/383656520X|The GDR Handbook</LINK>
-The German word "dokumentiert" translates to "documented" in English.
+published many of these objects in a book:
+<LINK>https://www.amazon.com/dp/383656520X|The GDR Handbook</LINK>.
 
-<pic images/wm-deo.ps Advertising for the deodorant "Clou" during the
-GDR era.>
+<pic images/wm-deo.ps Advertising for the deodorant "Clou" during the GDR era.>
 
 <em>Michael</em> 
 The museum indeed gives a somewhat half-finished, unpolished, and
 almost cobbled-together impression, but some exhibits are quite
 impressive. For example, oil paintings in typical GDR aesthetics, as
-art in the GDR was known to be subject to state leadership and served
-political purposes. In one oil painting, a researcher in a white coat
+art in the GDR was known to be subject to government oversight and served
+political purposes. In one oil painting, a researcher in a white lab coat
 is tinkering with the computer of a nuclear power plant, in
 illustration (#4) a worker is machining at a lathe, and next to him
 stands a People's Army soldier with a cone helmet and assault rifle.
 That's how it was back then.
 
-<pic images/wm-passports.ps Stasi spies collected scent samples,
-photographs, and passports.>
+<pic images/wm-passports.ps Stasi spies collected scent samples, photographs, and passports.>
 
 Some display cases showcase typical GDR products, from the Kombinat
-bra to the GDR deodorant, or the state-owned hairdryer. Also
+bra to GDR-made deodorant, or the state-owned hairdryer. Also
 fascinating is the collection of equipment used by Stasi spies: scent
 samples from suspects were preserved in mason jars, or dossiers were
 created with detailed descriptions of the physiognomy of state
 enemies, from ear spacing to nostril size. An Enigma-like encryption
 machine was on display, as well as a mini spy camera that could be
 strapped on like a belt, about the size of a modern compact camera.
-This area reminded me very much of the...
-<LINK>https://www.runde-ecke-leipzig.de/|Stasi Museum in
-Leipzig</LINK>
-The translation to English is: "remembers, that we visited many years
-ago. The extensive espionage department there is also world-class.
+This section reminded me very much of the
+<LINK>https://www.runde-ecke-leipzig.de/|Stasi Museum in Leipzig</LINK>
+that we visited many years ago. The extensive espionage department there is also world-class.
 
-<pic images/wm-spiegel.ps Der Spiegel: Then as now with grandiose
-slogans.>
+<pic images/wm-spiegel.ps Der Spiegel: Then as now with pompous slogans.>
 
 Huge shelves filled with books from the GDR and display cases with
 old magazines, both on the topic of the GDR and the communist brother
@@ -305,11 +290,11 @@ countries, complete the exhibition. The museum is open from Friday to
 Sunday, and admission is free. It's a small but excellent museum that
 we highly recommend.
 
-@Z: The translation of "Los Angeles - Ein Jahr danach" to English is
-"Los Angeles - One Year Later.
+@Z: Los Angeles - One Year Later.
 
-<pic images/la-fire-1.ps On the road to Malibu, only the stumps of
-burned-down beach houses protrude from the ground.>
+<pic images/la-fire-1.ps On the road to Malibu, only the stumps of burned-down beach houses protrude from the ground.>
+
+TODO
 
 <em>Angelika</em> 
 The news often spirals out of control in these times. One disaster
