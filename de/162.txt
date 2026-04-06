@@ -1,0 +1,548 @@
+San Francisco, den 5.4.2026 
+
+@Z: San Francisco ohne Strom
+
+<pic images/pge-arrow.ps (#1) Überall ist der Strom weg, nur bei uns nicht.>
+
+<em>Michael</em> Mannometer, wir haben die Rundbriefproduktion
+leider drei Monate lang schleifen lassen -- aber jetzt holen wir auf, zack-zack!
+Kurz vor Weihnachten letzten Jahres, am 21.12, gingen in San Francisco
+plötzlich die Lichter aus. Und zwar nicht nur in einigen Straßenzügen,
+sondern stadtweit.  In der ganzen Stadt?  Nicht ganz! In den Stadtteilen
+Mission, Bernal Heights, Bayshore und Noe Valley zeigte sich das Stromnetz
+unbeeindruckt (Abbildung (#1))
+und wir bekamen den Vorfall nur aus den Nachrichten mit.
+
+Aber selbst deutsche Medien hatten den Vorfall schon hämisch aufgegriffen.
+Jaja, Stromausfall in der Hauptstadt des Internets und der künstlichen
+Intelligenz, da geh' ich lieber zur Frühschicht ins Kohlenbergwerk!, schrieben
+die Daheimgebliebenen.
+
+<pic images/power-outage-24-1.ps Archivbild: Unsere Straße während eines Stromausfalls im Januar 2023.>
+
+Nun ist ein kurzer Stromausfall hier in San Francisco keine große Sache und
+kommt etwa einmal im Jahr vor. Da hab ich vorgesorgt und strategisch
+platzierte Batteriepuffer halten in unserer Wohnung das Internet und andere
+lebenswichtige Dienste aufrecht. Wenn aber der Strom mal 24 Stunden oder
+länger weg ist, taut der Eisschrank ab und die Lebensmittel im Kühlschrank
+erwärmen sich langsam auf Zimmertemperatur und vergammeln, dann kann man die
+ganze Fuhre in die Mülltonne drücken.
+
+<pic images/power-outage-24-2.ps Archivbild: Unsere Straße während eines Stromausfalls im Januar 2023.>
+
+Auslöser war diesmal angeblich ein Brand in einer sogenannten "Substation"
+des lokalen Stromversorgers PG\&E, der eine Kettenreaktion auslöste und in
+kurzer Abfolge drei Viertel der Stadt lahmlegte.  Wie gesagt, uns betraf es
+nicht, aber die Stadtteile nahe der Golden Gate Bridge hatten zum Teil drei
+Tage lang keinen Strom. Nun ist PG\&E eine gewinnorientierte Privatfirma,
+aber unter der Belegschaft herrscht ein, sagen wir mal, bräsiges Beamtentum.
+Niemand dort raffte sich auf, die Lage zu kommentieren oder Schätzungen
+betreffs der Wiederinbetriebnahme des Stromnetzes abzugeben.
+Verständlicherweise waren die Stromkunden extrem angefressen, besonders
+Gaststätten, die nun kein warmes Essen servieren oder auch nur abkassieren
+konnten.
+
+<pic images/pge-generator.ps Riesige Generatoren mit Dieselmotor laufen Tag und Nacht, um die Stromversorgung zu sichern.>
+
+Was das Hämefass dann zum Überlaufen brachte, war, dass Waymo 
+(<RBLINK>20230703#1</RBLINK>) beschloss,
+unsere weltweit führende Robotaxiflotte stillzulegen. Alle ca. 1.000 autonom
+fahrenden Vehikel der Firma blieben aus mir unerfindlichen Gründen einfach
+stehen, egal ob sie sich mitten in einer Kreuzung befanden oder in welcher
+prekären Situation auch immer. Irgendwie kam deren Steuerung nicht mit
+den großflächig ausgefallenen Ampeln zurecht, und der Waymo-Sicherheitsfuzzi
+muss panikartig buchstäblich den Stecker gezogen haben.
+
+<pic images/waymo.ps Autonome Waymo-Autos blieben einfach stehen.>
+
+Am folgenden Tag hatte die Firma offensichtlich einen Software-Update
+eingespielt und die beliebten Flotte nahm den Betrieb wieder auf.
+Allerdings bekam die energieerzeugende Dandlerfirma PG\&E es nicht gebacken,
+den Strom in einigen Stadtteilen wieder anzustellen. In manchen
+bedauernswerten Vierteln (ironischerweise auch die mit Luxusvillen wie
+Seacliff) dauerte es drei volle Tage, bis die Kühlschränke wieder
+ansprangen. Teilweise hatte PG\&E auch nur laute portable Dieselgeneratoren
+dort hingekarrt, die nun Tag und Nacht ratterten und Abgase produzierten.
+
+<pic images/bild-blackout.ps (#8) Auch in Berlin ist der Strom weg.>
+
+Ahja, so was kann in Deutschland natürlich nicht passieren, dachte ich mir.
+Weit gefehlt! Ich musste doch sehr lachen, als ich bei meiner täglichen
+Lektüre der Bildzeitung erfuhr (Abbildung (#8)), dass nur Tage später auch
+in Berlin der Strom weg war, wenn auch aus anderen Gründen.  Zum Glück sitze
+ich nicht auf einem hohen moralischen Ross wie meine deutschen Landsleute,
+und jeder, der mich kennt, weiß, dass mir Schadenfreude oder Häme gänzlich
+fremd sind!
+
+@Z: Cesar Chavez und Army Street
+
+<pic images/cesar-chavez-trucks.ps Was steckt hinter dem merkwürdigen Straßennamen?>
+
+<em>Angelika</em> Ich muss gestehen, dass mir Cesar Chavez vor unserer Zeit in
+San Francisco kein Begriff war.  Der Name fiel mir jedoch schnell auf. Ich
+erinnere mich noch gut, wie verwirrt ich war, als ich zum ersten Mal die Cesar
+Chavez Street entlangfuhr. Sie hatte damals nämlich zwei Namen. Unter "Cesar
+Chavez" stand in Klammern "Army Street". Das kam mir irgendwie seltsam vor.
+Bald erfuhr ich, dass die Straße erst ein Jahr vor unserem Umzug, also 1995,
+umbenannt worden war, von Army Street zu Cesar Chavez. Dem waren allerdings
+heftige Auseinandersetzungen vorausgegangen, denn nicht alle wollten diese
+Namensänderung. Ich erinnere mich auch noch gut an den
+<LINK>https://usarundbrief.com/33/images/rusp6.html|streng republikanischen Wohnungsmakler|Wohnungsmakler auf der 24th Street</LINK>
+auf der 24ten Straße in unserem Viertel, den es längst nicht
+mehr gibt. Er hatte jahrelang ein originales "Army Street"-Schild im
+Schaufenster ausgestellt.
+
+<pic images/cc-army-view.ps Die Cesar-Chavez-Street hieß früher Army Street>
+
+Die Cesar-Chavez-Straße ist ungefähr 5km lang und zieht sich von Osten nach Westen
+durch die Stadt, also von der Douglass Street bis zum Pier 80 am Wasser. In San
+Francisco ist es nicht einfach, eine Straße umzubenennen. Dahinter steht ein
+langwieriger Prozess: Ein Antrag muss bei der Public-Works-Behörde gestellt
+werden, entweder durch die Abgeordneten oder durch die Bewohner der Stadt San
+Francisco. Es folgen Anhörungen und Unterschriftensammlungen, bevor überhaupt
+etwas geschieht. Selbst nach einer Umbenennung bleiben beide Namen noch fünf
+Jahre lang auf den Straßenschildern bestehen.
+
+Schnell wurde mir also klar, dass Cesar Chavez als so etwas wie ein
+kalifornischer Nationalheld gilt. Es gibt in San Francisco noch eine
+Cesar-Chavez-Grundschule mit riesigem Wandgemälde und einen ureigenen
+kalifornischen Nationalfeiertag am 31. März, wobei an diesem Feiertag kaum
+jemand frei hat.
+
+<pic images/cc-rainbow.ps Der linkslastige Supermart "Rainbow Grocery" at am Cesar-Chavez-Feiertag geschlossen.>
+
+Doch wer war Cesar Chavez eigentlich? Dahinter verbirgt sich ein
+amerikanischer Bürgerrechts- und Gewerkschaftsführer, der sich vor allem für
+die Rechte von Landarbeitern einsetzte. In den 1960er- und 1970er-Jahren
+organisierte er Streiks und Boykotte, um bessere Arbeitsbedingungen, faire
+Löhne und grundlegende Rechte für meist schlecht bezahlte Farmarbeiter zu
+erkämpfen.
+
+Wer Kalifornien gut kennt, weiß, dass es nicht nur aus legeren
+Küstenstädten besteht, in denen sich Surfer tummeln, oder bekannten Großstädten wie San
+Francisco und Los Angeles, und dem berühmten Lake Tahoe, sondern im
+Landesinneren um Fresno (San Joaquin Valley) und Salinas (Salinas Valley) herum
+großflächiges Farmland liegt, das oft als Kornkammer der USA beschrieben wird. Nun
+wird in Kalifornien in der Regel kein Korn angebaut, sondern allerlei Obst,
+Gemüse und vor allen Dingen auch Nüsse (<LINK>https://www.cdfa.ca.gov/Statistics|offizielle Statistik</LINK>).
+
+Angeblich produziert Kalifornien 99% der in den USA angebauten Mandeln,
+Walnüsse und Pistazien. Schon der Schriftsteller John Steinbeck machte in
+seinem weltberühmten Roman
+<LINK>https://www.amazon.de/dp/3423104740|Früchte des Zorns</LINK>,
+der 1939 veröffentlicht wurde und immer noch absolut lesenswert ist, auf die
+verheerenden Bedingungen der sogenannten Wanderarbeiter in Kalifornien
+aufmerksam. Damals kamen sie aus der amerikanischen Dust-Bowl-Region und zogen
+von Oklahoma nach Kalifornien, in der Hoffnung auf ein besseres Leben. Die
+Meisten wurden allerdings tief enttäuscht. Steinbecks Roman spielt in der Zeit
+der "Great Depression" und beschäftigt sich mit den Themen wie der Ausbeutung
+der Wanderarbeiter, der Armut und der schlechten Lebens- und Wohnbedingungen.
+
+<pic images/cc-army-number.ps Diese alte Hausnummer bekam die Änderungen nicht mit.>
+
+Jahrzehnte später werden dies die Themen, die auch Cesar Chavez beschäftigen.
+Allerdings findet man in den 60er-Jahren eher Farmarbeiter aus Mexiko und den
+Philipinen auf den kalifornischen Feldern.  Große Bekanntheit erlangte Cesar
+Chavez durch den von ihm initiierten Traubenboykott, bei dem Menschen im ganzen
+Land aufgefordert wurden, auf den Kauf von Trauben zu verzichten, um Druck auf
+die Produzenten auszuüben und fairere Bedingungen für Landarbeiter zu
+erreichen. Ich finde dabei interessant, dass sowohl Steinbeck als auch Chavez
+Weintrauben (= Grapes, im Titel seines Buches) in den Mittelpunkt stellen,
+obwohl natürlich dutzende anderer Feldfrüchte von Arbeitern geerntet werden.
+
+In den letzten Wochen litt das Ansehen der Symbolfigur Cesar Chavez jedoch
+deutlich, denn die New York Times veröffentlichte nach ausführlicher Recherche mehrere
+<LINK>https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html|Artikel mit schwerwiegenden Vorwürfen</LINK>:
+Mehrere Frauen berichteten der Zeitung, dass
+sie von Chavez sexuell missbraucht worden waren, teilweise bereits als Minderjährige.
+Seine enge Weggefährtin Dolores Huerta, mittlerweile 95 Jahre alt,
+offenbarte, dass zwei ihrer Kinder durch Vergewaltigungen von Cesar Chavez
+entstanden waren. Nun gab es schon länger Gerüchte darüber, das Cesar Chavez' Führungsstil
+gerade in den letzten Jahren seines Lebens sehr zu wünschen übrig ließ und
+immer mehr ins Autoritäre abglitt. Er hatte sich mit seinen Gefolgsleuten in die
+kalifornische Bergregion Tehachapi bei Keene zurück gezogen, lebte dort
+recht abgeschottet auf dem sogenannten La-Paz-Gelände und verfiel immer mehr
+kultartigen Praktiken.
+
+<pic images/cc-army-always.ps "It will always be Army Street" steht auf dem Aufkleber.>
+
+Der New-York-Times-Artikel löste eine regelrechte
+Schockwelle aus, insbesondere in Kalifornien, und ein eifriges Umbenennen von
+Plätzen, Straßen begann. Cesar-Chavez-Statuen wurden entsorgt. Gavin Newsom, unser
+Gouverneur, verkündete gleich, dass der Chesar-Chavez-Tag von jetzt an
+"Farmworkers Day" heißt. Auch in San Francisco liegen nun schon die ersten Anträge vor,
+die Cesar-Chavez-Street wieder umzubenennen. Aber wie gesagt, das wird dauern, und
+ich bezweifle, dass die Straße wieder zur ursprünglichen Army Street zurückkehrt.
+
+<pic images/cc-army-point.ps Der rasende Rundbriefreporter hat noch ein altes Straßenschild entdeckt.>
+
+Vielleicht sollte
+man Straßen nur noch neutral nach Buchstaben und Zahlen benennen, was natürlich
+auch etwas langweilig ist, und in San Francisco gibt es bereits
+durchnummerierte Straßen und Avenues. Auf jeden Fall ist die ganze Sache ein
+trauriges Ende für eine Figur, die lange als unangefochtenes Vorbild galt. 
+
+<pic images/army-bullit.ps Ein Gangster verfolgt Steve McQueen auf der Army Street im Film "Bullitt".>
+
+<em>Michael</em>
+Nun noch einige unterhaltsame Fakten zum Thema Cesar Chavez Street.  Da
+wir um die Ecke wohnen, wissen wir, dass die grandiose Autoverfolgungsjagd im
+<LINK>https://youtu.be/hq8YD7-Aimw?t=92|Kinofilm Bullitt</LINK> ebenfalls auf
+der Army-Street begann. In der oben verlinkten Szene macht Steve McQueen in
+seinem grünen Mustang GT 390 Fastback
+eine Kehrtwendung auf der Army Street, etwa auf der Höhe der
+Precita Ave, um danach die steile Hampshire Street hochzuröhren
+("öttel, öttel" spotzt der 390 untertourig). Die
+Verfolgungsjagd dreht sich anschließend um, und Steve McQueen jagt die
+Gangster durch die halbe Stadt, mit quietschenden Reifen und
+rampenhaft abhebenden Muscle-Cars an San Franciscos steilen Hügelkappen.
+
+@Z: The Wende Museum, Los Angeles
+
+<pic images/wm-soc-painting.ps (#4) Politische Kunst im realen Sozialismus der DDR.>
+
+<em>Angelika</em> Wir gehen immer wieder gerne ins Museum. Allerdings nervt
+mich zunehmend, dass man inzwischen oft online ein Zeitfenster buchen muss, vor
+allem bei bekannteren Häusern. Das nimmt dann doch etwas die Spontanität, und
+ich bin mittlerweile kein Fan mehr davon, wenn auch noch der Urlaub verplant
+ist. Außerdem ermüden mich große Museen schnell durch die schiere Fülle an
+Exponaten. Deshalb suchen wir inzwischen gezielt nach kleineren Museen.
+
+<pic images/wm-outside.ps Von Außen unscheinbar: Das Wende-Museum in Los Angeles.>
+
+Als wir nach Weihnachten traditionsgemäß in Los Angeles weilten, besuchten wir
+das <LINK>https://wendemuseum.org|"The Wende Museum"</LINK> in Culver City.
+Der Name klingt zunächst ungewöhnlich für Los Angeles. Doch "Wende" bezieht
+sich tatsächlich auf den Fall der Berliner Mauer und die Zeit davor.  Aber wie
+kommt ein solches Museum nach Los Angeles? Der Historiker Justinian Jampol, in
+Los Angeles geboren und bis heute dort ansässig, interessierte sich besonders
+für europäische Geschichte und den Kalten Krieg.
+
+<pic images/wm-shop-band.ps Merkwürdige Geschenkartikel im Museums-Shop.>
+
+Nach dem Mauerfall beobachtete er mit Sorge, dass viele Kulturgüter --
+Kunstwerke, Filme, Fotografien, aber auch Alltagsgegenstände -- verschwanden,
+weil viele Bürger diese Zeit hinter sich lassen wollten. In den 1990er Jahren
+begann er daher, Objekte aus Osteuropa und der ehemaligen Sowjetunion zu
+sammeln.  Zunächst lagerte er sie sogar in seinem eigenen Zuhause, wie uns eine
+freundliche ehrenamtliche Mitarbeiterin erzählte. 2002 wurde daraus ein Museum,
+zunächst in einem kleinen Bürogebäude, während ein Großteil der Sammlung
+weiterhin in Containern untergebracht war. 2017 fand die Sammlung schließlich
+ein dauerhaftes Zuhause: ein Gebäude am Culver Boulevard, das 1949 als
+Atombunker errichtet und später von der Nationalgarde genutzt worden war. Für
+den symbolischen Preis von einem Dollar pro Monat bei einer Laufzeit von 75
+Jahren durfte das Museum einziehen.
+
+<pic images/wm-lenin.ps Diese Abteilung ist leider geschlossen.>
+
+Heute umfasst die Sammlung über 100.000 Objekte. Das Museum zeigt nicht nur
+wechselnde Teile dieser Exponate, sondern versteht sich auch als Ort für
+Ausstellungen, der Begegnung und für historische Forschung. Besonders
+fasziniert haben mich die Alltagsgegenstände, etwa DDR-Seife oder alte
+Werbeplakate. Übrigens hat der Taschen Verlag viele dieser Objekte im Buch
+<LINK>https://www.amazon.com/dp/383656520X|Das DDR-Handbuch</LINK> dokumentiert.
+
+<pic images/wm-deo.ps Werbung für das Deo "Clou" zu DDR-Zeiten.>
+
+<em>Michael</em> Zwar macht das Museum einen etwas halbfertigen, unpolierten
+und, ja beinahe zusammengeschusterten Eindruck, aber einige Exponate
+beeindrucken schon. Zum Beispiel Ölbilder in typischer DDR-Ästhetik, denn Kunst
+in der DDR unterlag ja bekanntlich der Staatsführung, und diente politischen
+Zwecken. Auf einem Ölbild tippt ein weißgekittelter Forscher am Computer eines
+Atomkraftwerks herum, auf dem in Abbildung (#4) schlossert ein Arbeiter an
+einer Drehbank, und daneben steht ein Volksarmee-Soldat mit Kegelhelm und
+Sturmgewehr. So war das damals.
+
+<pic images/wm-passports.ps Stasispione sammelten Geruchsproben, Ablichtungen und Pässe.>
+
+Einige Schaukästen zeigen typische DDR-Produkte, vom Kombinat-Büstenhalter bis zum DDR-Deo, oder dem
+volkseigenen Haartrockner.  Faszinierend auch die Sammlung von
+Ausrüstungsgegenständen der Stasi-Spione: Da wurden Geruchsproben von
+Verdächtigen in Einmachgläsern konserviert, oder Dossiers erstellt mit
+detaillierten Beschreibungen der Physiognomie von Staatsfeinden, vom
+Ohrenabstand bis zur Nasenlochgröße. Eine Enigma-ähnliche
+Verschlüsselungsmaschine war zu sehen und eine als Gürtel umschnallbare
+Minispionkamera, etwas so groß wie eine Kleinbildkamera heute.
+Dieser Bereich hat mich sehr an das
+<LINK>https://www.runde-ecke-leipzig.de/|Stasimuseum in Leipzig</LINK>
+erinnert, das wir vor vielen Jahren mal besucht haben. Die umfangreiche
+Spionabteilung dort ist ebenfalls weltklasse.
+
+<pic images/wm-spiegel.ps Der Spiegel: Damals wie heute mit vollmundigen Parolen.>
+
+Riesige Regale mit DDR-Büchern und Schaukästen mit alten Zeitschriften, sowohl
+zum Thema DDR als auch der kommunistischen Bruderländer runden die Ausstellung
+ab.  Das Museum ist freitags bis sonntags geöffnet, der Eintritt ist kostenlos.
+Ein kleines, aber feines Museum, das wir sehr empfehlen können.
+
+@Z: Los Angeles - Ein Jahr danach
+
+<pic images/la-fire-1.ps An der Straße nach Malibu ragen nur Stümpfe abgebrannter Strandhäuser aus dem Boden.>
+
+<em>Angelika</em> Die Nachrichten überschlagen sich oft in diesen Zeiten. Eine
+Katastrophe jagt die nächste. Die Menschen, die davon betroffen sind, stecken
+weiterhin darin fest, während die Welt sich schon dem nächsten Thema zuwendet.
+Wie gesagt, wir waren nach den Weihnachtsfeiertagen traditionsgemäß wieder in
+Los Angeles. Im Jahr zuvor waren wir gerade wieder abgereist, als verheerenden
+Bränden ganze Stadtteile dem Erdboden gleichmachten.
+
+<pic images/la-fire-2.ps Abgebrannter Baum vor Malibu.>
+
+Beim Besuch ein Jahr später waren wir, ehrlich gesagt erstaunt, wie wenig wir
+auf den ersten Blick von den Schäden sahen. Allerdings waren wir nicht in
+Altadena, dem Stadtteil, den es am schlimmsten getroffen hatte, sondern in
+Venice Beach, das verschont geblieben war. Dann fuhren wir mit unserem Auto
+hinauf nach Malibu. Dort hatte sich das Feuer gnadenlos bis zum Ozean vorgearbeitet.
+
+<pic images/la-fire-3.ps Verschmorte Verkehrsschilder nach dem verheerenden Brand.>
+
+An vielen Stellen war nun der Blick auf den Strand plötzlich frei; dort, wo
+früher Häuser gestanden hatten, ragten nur noch einzelne Betonpfeiler wie
+Mahnmale aus dem Boden. Und wie immer versteht man nicht, wie es sein kann,
+dass zufällig ein vereinzeltes Haus unversehrt geblieben ist, während die
+anderen weg sind. Auch verkohlte Palmenstämme sahen wir, und abgeblätterte
+Schilder. Spuren der Hitze, wie Narben in der Landschaft.
+
+@Z: Bier an der Selbstbedienungskasse?
+
+<pic images/wf-self-checkout-sign.ps Darf man mit Bier durch die Selbstbedienungskasse?>
+
+<em>Michael</em> Ihr seid als Rundbriefleser ja alle enorm gebildet und wisst
+bestimmt, dass man in den gesamten USA unter 21 keine alkoholhaltigen Getränke
+kaufen kann. Und da selbst alkoholfreies Bier normalerweise Spuren von Alkohol
+enthält, gibt's auch das nicht für die jungen Hüpfer. Wie ist das aber an den
+heutzutage allgegenwärtigen Selbstbedienungskassen im Supermarkt?  Bei unserem
+Whole Foods um die Ecke steht zum Beispiel vor den Scannern ein Schild
+(Abbildung (#2)) mit dem Text, dass man mit Alkohol im Wagen rüber zur normalen
+bemannten Kasse muss. Und dass das auch bei alkoholfreiem Bier gilt, habe ich
+persönlich schon einmal ausprobiert. Das Selbstbedienungsgerät sperrte sich,
+und ein Mitarbeiter kam angelaufen, um mich zur bedienten Kasse zu dirigieren.
+
+<pic images/booze-aisle.ps Testkäufer Michael macht für den Rundbrief die Probe aufs Exempel.>
+
+Im Urlaub auf Hawaii passierte es mir aber einmal, dass ich in einem Supermarkt
+ein Sixpack Bier erwerben wollte, und mich ein Angestellter darauf hinwies,
+dass ich, statt mich lange an der Kasse mit Bedienung anzustellen, rüber zum
+Self-Checkout gehen könne. Verduzt fragte ich, ob das auch mit Bier möglich
+sei, und er bejahte, denn die SB-Kasse brächte eine Meldung hoch, worauf ein
+Angestellter herbeieilen und mein Alter verifizieren würde. Und tatsächlich,
+als ich das Sixpack über den Scanner zog, kam ein Dialog hoch und eine
+Angestellte angewatschelt, die mich kurz musterte, anscheinend für alt genug
+befand (unerhört!) und einen Code eingab, auf dass der Scanner mit dem
+Bezahlvorgang fortfuhr.
+
+<pic images/corona-cart.ps (#3) Auch das alkoholfreie Bier muss durch die bemannte Kasse.>
+
+Eine gute Geschichte witternd, begann ich daheim, nachzuforschen. Und, in der
+Tat, Kalifornien hat schon im Jahre 2011 die
+<LINK>http://www.leginfo.ca.gov/pub/11-12/bill/asm/ab_0151-0200/ab_183_bill_20111009_chaptered.html|Assembly Bill 183 Section 23394.7</LINK> verabschiedet, die
+den Verkauf von Alkohol an Selbstbedienungskassen allgemein untersagte. Als
+Gründe gibt das Gesetz an, dass sonst Jugendliche leichter an Alkohol
+gelangten, dass bereits sturzbetrunkene Menschen sich ohne menschliche
+Intervention dem Dämon noch tiefer hingeben könnten, und dass dies dem
+Fuseldiebstahl Tür und Tor öffnen würde.
+
+<pic images/wf-self-sign.ps (#2) Kein Alkohol durch den Self-Checkout beim Whole-Foods-Supermarkt>
+
+Zwei Jahre später, im Jahre 2013, dachten sich einige Supermarktbetreiber aber
+dann "Sackelzement, aber wir können ja auch im Selbstbedienungsbereich
+Kontrollen durchführen, mit den Kassen hat das nichts zu tun" und reichten
+Klage ein. Aber nein, der
+<LINK>https://www.beveragelaw.com/booze-rules/cga-v-abc-part-one|California District Court of Appeal</LINK>
+stellte sich stur und entschied, dass Alkohol
+in Kalifornien grundsätzlich nur an bemannten Kassen verkauft werden dürfe, und
+alle Supermärkte, die Selbstbedienungskassen mit menschlicher Alterskontrolle
+bei Bedarf betrieben, dies unverzüglich einzustellen hätten.
+
+<pic images/wf-self-checkout.ps Die Selbstbedienungskassen des Supermarkts Whole Foods.>
+
+An diesem Beispiel könnt ihr ersehen, dass es in Kalifornien nicht ausreicht,
+dass es ein Gesetz gibt, nach dem der Alkoholverkauf an unter 21-jährige
+verboten ist. Vielmehr muss sich der Bundesstaat explizit per Gesetz darum
+kümmern, dass es Supermärkten technisch unmöglich gemacht wird, gegen bereits
+bestehende Gesetze zu verstoßen. Dies erklärt auch, warum Kalifornien im Rest
+der USA als "Nanny-State" gesehen wird, und warum unser Gouverneur Gavin
+Newsom, der 2028 die Präsidentschaft anstrebt, es schwer haben wird, sich
+außerhalb Kaliforniens durchzusetzen.
+
+@Z: Schleckerei des Monats: Bequet-Karamell
+
+<pic images/bequet-singles.ps Leckere Karamellbonbons zu einem exorbitanten Preis.>
+
+<em>Michael</em> Oft fragen mich die Leute, was mich wie einen Junkie immer
+wieder zum Costco-Supermarkt fahren lässt, und ich muss sagen, dass Teil meiner
+Motivation neue Produkte dort sind, die der Costco nach dem Motto "schau'n mir
+mal ob dieses exotische Produkt überhaupt jemand kauft" in die Regale stellt.
+
+Auf dem freien amerikanischen Markt nehmen Supermärkte im allgemeinen und
+Costco im Besonderen natürlich ihre Zulieferer gehörig in die Mangel. Steht ein
+neues Product erstmal bei Costco im Regal, eröffnen sich schlagartig ganz neue
+Kundenkreise und eine vielleicht bis dato unbekannte Firma steht plötzlich im
+Rampenlicht. Das ist, wie gesagt, keineswegs nur bei Costco so, sondern auch
+bei popeligeren Supermarktketten wie Safeway oder Ralph's, oder selbst in
+Deutschland bei Aldi: Damit diese Lebensmittel-Riesen ein neues Produkt
+überhaupt in die Regale stellen, muss der Produzent erstmal ein sogenanntes
+Slotting-Fee abdrücken. Und je nachdem, wo das Produkt dann stehen wird, auf
+Augenhöhe oder ganz unten bei den Billigmarken, kostet das entsprechend.
+
+<pic images/costco-bequet.ps Die Karamell-Schleckerei bei Costco im Regal.>
+
+Nun ist es mir ein ganz besonderes Vergnügen, solche unbekannten Produkte
+aufzustöbern, zu erwerben und, falls sie meinen Ansprüchen genügen,
+geheimnistuerisch weiterzuempfehlen. So ging es mir mit den Karamellbonbons von
+der im Bundesstaat Montana ansässigen Firma Bequet. Bei den Bonbons handelt es
+sich um grob rechteckige Karamellbatzen mit salzigem Geschmack. Die Konsistenz
+ist ganz anders als die des deutschen Schleckerkramprodukts "Werters Echte",
+denn letztere sind steinhart und die Bequet-Batzen butterweich. Man wickelt die
+einzelnen Bonbons auf wie man  Bonbons eben aufwickelt, also an beiden Seiten
+ziehen und das Bonbon aufdrehen.
+
+Das Produkt schmeckt teuer, und ist es auch, weil Costco für eine Tüte mit etwa
+30 Stück sage und schreibe 15 Dollar aufruft. Aber all die Süße der Jugend
+steckt in diesen Bonbons und die Vorstellung, dass irgendwo im bergigen
+Bundesstaat Montana eine Hippie-Fabrik steht, die mit groteskem Aufwand solche
+edlen Bonbons produziert, kurbelt meine Fantasie noch mehr an. Ich hab schon
+zwei Packungen erworben, und es ist kein Ende in Sicht, solange Costco das
+Produkt weiter führt.
+
+@Z: Topp-Produkt: Der faltbare Dämpfeinsatz
+
+<pic images/steam-basket-cook.ps Hier dämpft Michael köstliche Shumai-Klopse>
+
+<em>Michael</em> Meine Kochkünste nehmen ja mittlerweile furcheinflößende
+Formen an, aber bislang hatte ich mir wegen Platzmangels noch keinen Topf zum
+Dämpfen gekauft. Angelika musste sogar mal für Kartoffelklöße zum Entenbraten
+eine abenteuerliche Konstruktion aus einem über den Topf gespannten
+Küchenhandtuch mit Glasglocke aufbauen.
+
+Dann sah ich in einem Youtube-Video, wie der der australische
+Koch <LINK>https://www.andy-cooks.com|Andy Cooks</LINK> zum Dämpfen von
+<LINK>https://en.wikipedia.org/wiki/Bok_choy|Bok Choy</LINK> (auf Deutsch
+angeblich "Chinesischer Senfkohl") einen faltbaren Topfeinsatz hervorzog und
+schlagartig wurde mir bewusst, was mir zu meinem Küchenglück noch fehlte.
+
+<pic images/steam-basket-open.ps Mit Faltmechanismus passt der Einsatz in fast jeden Topf.>
+
+Ruckzuck kaufte ich auf
+<LINK>Steamer-Basket https://www.amazon.com/dp/B091XP3VZ7|Amazon</LINK>
+für kleines Geld den natürlich in China hergestellten aber
+(angeblich) aus rostfreiem Stahl gefertigten und (ganz wichtig!)
+spülmaschinenfesten Dämpfeinsatz, und seitdem dämpfe ich ohne
+Unterlass.
+Ob leckere <LINK>https://en.wikipedia.org/wiki/Shumai|Shumai-Klopse</LINK>,
+oder ebenfalls Bok Choy, blitzschnell wird der Korb aus der Schublade
+gezogen, enfaltet, und schon passt das Ding in Töpfe von beinahe beliebigem
+Durchmesser. Bisserl Wasser rein und los geht's.
+
+<pic images/steam-basket-folded.ps Zusammengeklappt nimmt der Einsatz kaum Platz weg.>
+
+Bleibt dann am Ende zum Beispiel etwas Haut der Klopse in den Löchern hängen,
+mache ich mir keinen Kopf sondern gebe das Teil einfach die Spülmaschine. Wird
+blitzsauber und rostet nicht. Topp-Produkt!
+
+@Z: Topp-Produkt: Foodsaver
+
+<pic images/food-saver-vacuum.ps Delikate Shortrib-Stücke aus der Großpackung einzeln verschweißt.>
+
+<em>Michael</em>
+Wer Lebensmittel in größeren Mengen einkauft, spart anteilig mehr, das ist
+bekannt. Bei einem Zwei-Personen-Haushalt stellt sich aber
+dabei das Problem, dass es in Mega-Supermärkten wie Costco immer nur sechs
+Steaks oder ein Pfund Käse gibt, und solche Mengen kann kein Mensch vor dem
+Verfallsdatum vertilgen.
+
+Früher dachte ich immer, meh, eingefroren und aufgetaut, das schmeckt nicht
+mehr, aber gerade bei Fleisch habe ich mittlerweile meine Meinung revidiert.
+Allerdings bleibt in einem Gefrierbeutel immer etwas Luft neben dem Gefriergut,
+und die darin gefangene Feuchtigkeit verwandelt sich in kleine Kristalle und
+unansehnliche weiße Ablagerungen. Gefrierbrand (Horrormusik)!!
+
+A-haber, und das ist für die Küchenfüchse unter euch sicher nichts Neues, wenn
+man mit einer Vakuumpumpe wie der von der Firma Foodsaver die Luft heraussaugt,
+bevor der Beutel luftdicht versiegelt wird, passiert das nicht und das
+Gefriergut taut im Kühlschrank über Nacht problemlos aus und schmeckt wie neu.
+
+<pic images/food-saver-meat.ps ... und alles einzeln luftdicht verpackt.>
+
+Auch für Schnittwurst oder Schinken oder Käse eignet sich das System, einfach
+eine Folienrolle gewünschter Breite in den Kasten einlegen, mit dem Schneider
+die gewünschte Länge abtrennen und dann erst einmal eine Naht am unteren Ende
+des so entstandenen Plastikschlauchs brennen. Das spezielle Hüllenmaterial
+pappt zusammen, falls es gepresst und erhitzt wird. Nun hat man einen oben
+offenen Beutel, da wirft man das Gefriergut rein und legt dann die obere
+Kante auf den Brenner und schließt den Deckel des Foodsavers.  Dann tippt man
+"Vacuum + Seal", und das Gerät saugt nun die verbliebene Luft aus dem Beutel
+und verschließt ihn anschließend luftdicht, in einem Rutsch.
+
+Dabei fängt das Gerät eventuell austretende Flüssigkeit in einer Rinne auf, und
+man kann sogar explizit zwischen "Wet" und "Dry" wählen. Bei der Einstellung
+"Wet" saugt der Kasten nicht ganz so doll am Gefriergut, damit feuchter Inhalt
+nicht austrocknet und die abgepumpte Flüssigkeit die Ablaufrinne des Brenners
+nicht vollsaut.
+
+<pic images/food-saver-cheese.ps Unsere Käsesammlung im Kühlschrank, dauerhaft verpackt.>
+
+Ersatzbeutelrollen sind nicht so billig wie die sonst üblichen Zip-Lock-Bags,
+denn sie bestehen aus dieser Spezialfolie, die bei Hitze verklebt. In größeren
+Mengen gekauft ist der Preis aber ganz vertretbar und so eine Schrumpfpackung
+kostet anteilig vielleicht 20 Cent.  Topp-Produkt!
+
+@Z: TSA -- Teilweise geschlossen
+
+<pic images/sfo-line.ps Keine lange Schlange am Flughafen in San Francisco.>
+
+<em>Angelika</em>
+Was viele Amerikaner nicht mögen, sind hohe Benzinpreise und das lange Anstehen
+in Schlangen, auch wenn ich immer wieder bewundere, wie geduldig sie es dann
+doch tun. Beides ist zurzeit der Fall, wenn auch aus unterschiedlichen Gründen.
+Die Benzinpreise sind bekanntermaßen stetig gestiegen bedingt durch den Krieg
+mit dem Iran. Dennoch sind die Preise hier immer moderat, im Vergleich zu Deutschland.
+
+Lange Schlangen bilden sich derzeit auch an den Sicherheitskontrollen vieler
+amerikanischer Flughäfen. Grund dafür ist ein erneuter partieller "Government
+Shutdown", also eine teilweise Nichtfinanzierung von staatlichen Behörden.
+Davon betroffen ist auch die Transportation Security Administration (TSA), die
+für diese Kontrollen am Flughafen zuständig ist, also unter anderem für das
+Durchleuchten des Handgepäcks und der Ausweise der Passagiere. Dieser Shutdown
+läuft inzwischen seit Mitte Februar, und viele TSA-Angestellte warten einmal
+wieder auf ihr Gehalt. Einige haben inzwischen gekündigt, andere melden sich
+häufiger krank. Ungünstig nur, dass gerade jetzt im März und April in den USA
+Frühlingsferien ("Spring Break") sind und viele diese Zeit zum
+Reisen nutzen, oft per Flugzeug.
+
+Anders als bei früheren Shutdowns sind dieses Mal nicht alle Behörden
+betroffen, sondern vor allem das Department of Homeland Security. Dazu gehören
+neben der TSA auch die Küstenwache, sowie Einwanderungsbehörden wie ICE
+(Immigration and Customs Enforcement) und CBP (Customs and Border Protection).
+Andere Behörden wie die Steuerbehörde (IRS) oder die Nationalparks sind dagegen
+nicht betroffen.
+
+In den Nachrichten sieht man derzeit immer wieder Bilder von Menschenmengen,
+die sich durch Flughäfen schlängeln, um endlich zur Sicherheitskontrolle zu
+gelangen. In Städten wie Atlanta oder Houston warteten Passagiere teilweise
+drei bis vier Stunden und verpassten ihre Flüge. Präsident Trump ordnete
+daraufhin an, dass TSA-Mitarbeiter zumindest rückwirkend bezahlt werden, um die
+Situation zu entschärfen. Diejenigen, die bereits gekündigt haben, bringt das
+allerdings nicht zurück.
+
+Der politische Streit, der zu diesem Stillstand geführt hat, dreht sich vor
+allen Dingen um die Finanzierung der ICE-Behörde. Die Demokraten knüpfen ihre
+Zustimmung an Reformen, insbesondere nach den tödlichen Vorfällen in
+Minneapolis. Der Senat verabschiedete kürzlich einen parteiübergreifenden
+Kompromiss zur Finanzierung eines Großteils des Department of Homeland
+Security, jedoch ohne ICE. Der Kompromiss wurde dann wieder von
+Repräsentantenhaus abgelehnt. Derzeit befindet sich der Kongress sogar in einer
+zweiwöchigen Pause. Es zieht sich also.
+
+<pic images/sfo-terminal.ps Ab nach Tampa, Florida!>
+
+Wir weilen gerade in Florida während meiner Osterferien und nach Florida
+ist es bekanntlich weit, und wir mussten fliegen. In San Francisco zoomten wir
+allerdings blitzschnell durch die Sicherheit am Flughafen. Wie kann das sein? Am SFO-Flughafen
+wird die Sicherheitskontrolle von privaten Firmen durchgeführt, TSA führt nur
+die Oberaufsicht.  Wir werden sehen, wie es sich auf dem Rückweg von Tampa aus
+gestaltet.
+
+Aber das erfahrt ihr erst im nächsten Rundbrief. Bis dann!
+
+Angelika und Michael
