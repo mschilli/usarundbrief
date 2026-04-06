@@ -45,12 +45,8 @@ that could no longer serve hot meals or even process payments.
 
 <pic images/pge-generator.ps Huge generators with diesel engines run day and night to ensure a steady power supply.>
 
-TODO
-
-The phrase translates to: "What finally made the barrel overflow was
-that Waymo (
-<RBLINK>20230703#1</RBLINK>
-The decision was made to shut down our world-leading robotaxi fleet.
+What finally made the barrel overflow was that Waymo (<RBLINK>20230703#1</RBLINK>)
+made the decision to shut down our world-leading robotaxi fleet.
 For reasons unknown to me, all of the company's approximately 1,000
 autonomous vehicles simply stopped, regardless of whether they were
 in the middle of an intersection or any other precarious situation.
@@ -60,11 +56,11 @@ pulled the plug in a panic.
 
 <pic images/waymo.ps Autonomous Waymo cars simply stopped.>
 
-The following day, the company had obviously implemented a software
+The following day, the company had apparently rolled out a software
 update, and the popular fleet resumed operations. However, the
-energy-generating company PG&E failed to restore power in some
+energy-generating company PG&E still failed to restore power in some
 neighborhoods. In some unfortunate areas (ironically, even those with
-luxury villas like Seacliff), it took a full three days for the
+luxury mansions like Seacliff), it took a full three days for the
 refrigerators to start running again. In some cases, PG&E had only
 brought in loud portable diesel generators, which now rattled and
 emitted exhaust day and night.
@@ -81,33 +77,27 @@ schadenfreude is completely foreign to me!
 
 @Z: Cesar Chavez and Army Street
 
-<pic images/cesar-chavez-trucks.ps The translation of the German
-sentence "Was steckt hinter dem merkwÃ¼rdigen StraÃennamen?" to
-English is: "What is behind the strange street name?>
+<pic images/cesar-chavez-trucks.ps "What is behind this strange street name?>
 
 <em>Angelika</em> 
 I must confess that before our time in San Francisco, I was not
 familiar with Cesar Chavez. However, the name quickly caught my
 attention. I still remember how confused I was when I first drove
-along Cesar Chavez Street. At that time, it actually had two names.
+along Cesar Chavez Street. At that time, the street actually had two names.
 Under "Cesar Chavez," it said "Army Street" in parentheses. That
 seemed somewhat strange to me. Soon I learned that the street had
-been renamed from Army Street to Cesar Chavez just a year before our
-move, in 1995. However, this change was preceded by intense debates,
-as not everyone wanted this name change. I also clearly remember
-the...
-<LINK>https://usarundbrief.com/33/images/rusp6.html|The phrase
-translates to: "strict Republican real estate agent|real estate agent
-on 24th Street</LINK>
-Translation: "On 24th Street in our neighborhood, which no longer
-exists. For years, he had displayed an original 'Army Street' sign in
-the shop window.
+been renamed from Army Street to Cesar Chavez in 1995, just a year before our
+arrival. However, this name change was preceded by intense debates,
+as not everyone wanted it. I also clearly remember
+the
+<LINK>https://usarundbrief.com/33/images/rusp6.html|"strict Republican real estate agent|real estate agent on 24th Street</LINK>
+on 24th Street in our neighborhood, which no longer
+exists, who, for years, he had displayed an original 'Army Street' sign in the shop window.
 
-<pic images/cc-army-view.ps The Cesar Chavez Street was formerly
-called Army Street.>
+<pic images/cc-army-view.ps Cesar Chavez Street was formerly called Army Street.>
 
-Cesar Chavez Street is approximately 5 km long and runs from east to
-west through the city, from Douglass Street to Pier 80 by the water.
+Cesar Chavez Street is approximately three miles long and runs from west to
+east through the city, from Douglass Street in Noe Valley to Pier 80 by the water.
 In San Francisco, renaming a street is not easy. It involves a
 lengthy process: an application must be submitted to the Public Works
 Department, either by the city's representatives or its residents.
@@ -118,11 +108,10 @@ years.
 It quickly became clear to me that Cesar Chavez is regarded as
 something of a Californian national hero. In San Francisco, there is
 still a Cesar Chavez Elementary School with a huge mural, and there
-is a uniquely Californian national holiday on March 31st, although
-hardly anyone gets the day off on this holiday.
+is a uniquely Californian national holiday on March 31st for the man, although
+hardly anyone gets a day off on this holiday.
 
-<pic images/cc-rainbow.ps The left-leaning supermarket "Rainbow
-Grocery" is closed on Cesar Chavez Day.>
+<pic images/cc-rainbow.ps The left-leaning supermarket "Rainbow Grocery" is closed on Cesar Chavez Day.>
 
 But who exactly was Cesar Chavez? He was an American civil rights and
 labor leader who primarily advocated for the rights of farmworkers.
@@ -133,20 +122,17 @@ mostly poorly paid farmworkers.
 Anyone who knows California well understands that it is not just made
 up of laid-back coastal towns where surfers gather, or well-known big
 cities like San Francisco and Los Angeles, and the famous Lake Tahoe.
-Instead, in the interior around Fresno (San Joaquin Valley) and
+Instead, in the state's central region around Fresno (San Joaquin Valley) and
 Salinas (Salinas Valley), there is vast farmland often described as
 the breadbasket of the USA. However, in California, grain is
 generally not grown; instead, a variety of fruits, vegetables, and
 especially nuts are cultivated.
-<LINK>https://www.cdfa.ca.gov/Statistics|The translation of
-"offizielle Statistik" to English is "official statistics.</LINK>
-.
 
-Allegedly, California produces 99% of the almonds, walnuts, and
-pistachios grown in the USA. The writer John Steinbeck already
-mentioned this in his world-famous novel.
-<LINK>https://www.amazon.de/dp/3423104740|FrÃ¼chte des Zorns"
-translates to "The Grapes of Wrath" in English.</LINK>
+According to the
+(<LINK>https://www.cdfa.ca.gov/Statistics|official statistic</LINK>),
+California produces 99% of the almonds, walnuts, and
+pistachios grown in the USA. Book author John Steinbeck already
+mentioned this in his world-famous novel <LINK>https://www.amazon.de/dp/3423104740|Grapes of Wrath"</LINK>.
 The novel, published in 1939 and still absolutely worth reading,
 draws attention to the devastating conditions of the so-called
 migrant workers in California. At that time, they came from the
@@ -156,14 +142,13 @@ Steinbeck's novel is set during the time of the "Great Depression"
 and deals with themes such as the exploitation of migrant workers,
 poverty, and poor living and housing conditions.
 
-<pic images/cc-army-number.ps This old house number did not get the
-changes.>
+<pic images/cc-army-number.ps This old house number plate never got the changes.>
 
-Decades later, these will be the issues that also concern Cesar
+Decades later, these would be the exact issues that concerned Cesar
 Chavez. However, in the 1960s, you would more likely find farm
 workers from Mexico and the Philippines in the fields of California.
 Cesar Chavez gained great fame through the grape boycott he
-initiated, where people across the country were urged to refrain from
+initiated, where consumers across the country were urged to refrain from
 buying grapes to put pressure on producers and achieve fairer
 conditions for farm workers. I find it interesting that both
 Steinbeck and Chavez focus on grapes (as in the title of his book),
@@ -172,14 +157,13 @@ workers.
 
 In recent weeks, however, the reputation of the symbolic figure Cesar
 Chavez has suffered significantly, as the New York Times published
-several articles after extensive research.
-<LINK>https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse
--allegations-ufw.html|The translation of "Artikel mit schwerwiegenden
-VorwÃ¼rfen" to English is "Article with serious allegations.</LINK>
-Several women reported to the newspaper that they had been sexually
+several articles
+<LINK>https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html|with serious allegations</LINK>
+after extensive research.
+Several women had reported to the newspaper that they had been sexually
 abused by Chavez, some of them as minors. His close associate Dolores
 Huerta, now 95 years old, revealed that two of her children were
-conceived through rapes by Cesar Chavez. There had already been
+conceived while being raped by Cesar Chavez. There had already been
 rumors for some time that Cesar Chavez's leadership style, especially
 in the last years of his life, left much to be desired and
 increasingly slipped into authoritarianism. He had retreated with his
@@ -187,8 +171,7 @@ followers to the Tehachapi mountain region in California near Keene,
 lived there quite isolated on the so-called La Paz property, and
 increasingly succumbed to cult-like practices.
 
-<pic images/cc-army-always.ps It will always be Army Street" is
-written on the sticker.>
+<pic images/cc-army-always.ps "It will always be Army Street" is written on the sticker.>
 
 The New York Times article triggered a veritable shockwave,
 especially in California, and an eager renaming of places and streets
@@ -199,8 +182,7 @@ Cesar Chavez Street have already been submitted. But as I said, this
 will take time, and I doubt that the street will revert to its
 original name, Army Street.
 
-<pic images/cc-army-point.ps The rushing newsletter reporter has
-discovered an old street sign.>
+<pic images/cc-army-point.ps The intrepid newsletter reporter has discovered an old street sign.>
 
 Perhaps streets should only be named neutrally with letters and
 numbers, which is admittedly a bit boring, and in San Francisco,
@@ -208,26 +190,24 @@ there are already numbered streets and avenues. In any case, the
 whole situation is a sad end for a figure that was long considered an
 undisputed role model.
 
-<pic images/army-bullit.ps A gangster chases Steve McQueen on Army
-Street in the film "Bullitt".>
+<pic images/army-bullit.ps A gangster chases Steve McQueen on Army Street in the film "Bullitt".>
 
 <em>Michael</em> 
 Now for some entertaining facts about Cesar Chavez Street. Since we
-live around the corner, we know that the grand car chase in the
-<LINK>https://youtu.be/hq8YD7-Aimw?t=92|The translation of "Kinofilm
-Bullitt" to English is "Feature Film Bullitt.</LINK>
+live around the corner, we know that the amazing car chase in the
+<LINK>https://youtu.be/hq8YD7-Aimw?t=92|Feature Film Bullitt</LINK>
 also began on Army Street. In the scene linked above, Steve McQueen
 makes a U-turn in his green Mustang GT 390 Fastback on Army Street,
 roughly at the level of Precita Ave, to then roar up the steep
 Hampshire Street ("vroom, vroom" sputters the 390 at low revs). The
-chase then turns around, and Steve McQueen pursues the gangsters
+chase then flips, and Steve McQueen pursues the gangsters
 through half the city, with screeching tires and muscle cars taking
-off like ramps on San Francisco's steep hilltops.
+off like on ramps on San Francisco's steep hilltops.
+Never gets old.
 
 @Z: The Wende Museum, Los Angeles
 
-<pic images/wm-soc-painting.ps (#4) Political art in the real
-socialism of the GDR.>
+<pic images/wm-soc-painting.ps (#4) Political art in the real socialism of the GDR.>
 
 <em>Angelika</em> 
 We always enjoy going to museums. However, it increasingly annoys me
@@ -237,6 +217,8 @@ and I'm no longer a fan of having vacations planned out like this.
 Additionally, large museums quickly tire me out due to the sheer
 number of exhibits. That's why we are now specifically looking for
 smaller museums.
+
+TODO
 
 <pic images/wm-outside.ps From the outside unremarkable: The Wende
 Museum in Los Angeles.>
