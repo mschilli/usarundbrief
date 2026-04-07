@@ -202,27 +202,22 @@ out the cards: they snap their fingers briefly on the card and extend
 it to the passerby who has been alerted by the sound. It takes a lot
 of self-control to hold back!
 
-TODO
-
 @Z: Notary Public
 
-<pic images/seal2.ps The certification stamp of a "Notary Public>
+<pic images/seal2.ps The certification stamp of a "Notary Public">
 
 <em>Michael</em> 
-In America, if you need a certified copy, you don't go to a
-government office, but instead look for a so-called...
-<LINK>http://en.wikipedia.org/wiki/Notary_public|Notary Public" is
-already in English. It refers to an official authorized to perform
-certain legal formalities, such as witnessing signatures on
-documents.</LINK>
+In America, if you need a certified copy of a document, you don't go to a
+government office, but instead look for a so-called
+<LINK>http://en.wikipedia.org/wiki/Notary_public|Notary Public</LINK>.
 In California, these are completely ordinary people who have
-completed a six-hour crash course, passed a test with a certificate,
+completed a six-hour crash course, passed a test, obtained a certificate,
 and can then notarize documents with a stamp and their signature for
 two years.
 
-At AOL, many years ago, I needed a certified copy of a certificate
+At AOL, many years ago, I needed a certified copy of a document
 for the immigration office, and I asked around where I could get it
-done. To my surprise, I was directed to the secretary, who promptly
+done. To my surprise, I was directed to our secretary, who promptly
 pulled a stamp out of her handbag, placed it on the document, and
 signed it. She then recorded in a small notebook when and what she
 had just certified. She added with a wink that some "Notary Publics"
@@ -236,27 +231,24 @@ stamped. In our neighborhood in San Francisco, we also have a package
 delivery service that offers notary public services on the side. With
 German documents that they don't understand, some notary publics can
 be difficult, but with a bit of luck, you might find one who doesn't
-care and signs anyway with the attitude of "It's fine!
+care and signs anyway with the attitude of "It's fine!"
 
-@Z: The German phrase "Urbane AbkÃ¼rzungen" translates to "Urban
-Abbreviations" in English.
+@Z: Urban Abbreviations
 
-<pic images/rotfl.ps The translation of "Was bedeuten diese
-AbkÃ¼rzungen?" to English is "What do these abbreviations mean?>
+<pic images/rotfl.ps What do these acronyms mean?>
 
 <em>Michael</em> 
-And here are some English abbreviations that have emerged in the
+And here are some acronyms that have emerged in the
 internet age, which you probably don't know if you're not very
 familiar with the internet. These acronyms are mainly used in chat
 sessions, but they also frequently appear in emails.
 
-YMMV stands for "Your mileage might vary" ("Ihr Kilometerstand ist
-vielleicht unterschiedlich"). For example, when recommending a tactic
+YMMV stands for "Your mileage might vary". For example, when recommending a tactic
 that has led to success, but you want to express that the outcome
 might be different if the person seeking advice tries it themselves,
 you say YMMV. The "mileage" is not meant literally, but rather
 represents a kind of "end result." For instance, if you have
-successfully negotiated a lower price in a store using sophisticated
+successfully negotiated a lower price at a store using sophisticated
 methods and share this clever trick, you add YMMV to indicate that it
 might not lead to the same result if someone has less developed
 negotiation skills.
@@ -267,38 +259,35 @@ understood as a recommendation from a layperson who does not
 interpret the intricacies of the law as reliably as a professional
 attorney.
 
-IMHO ("In my humble opinion", "Meiner bescheidenen Meinung nach") or
-somewhat less pretentious IMO ("In my opinion", "Meiner Meinung
-nach") indicate that the following text should only be understood as
+IMHO ("In my humble opinion") or
+somewhat less pretentious IMO ("In my opinion") indicates
+that the following text should only be understood as
 the writer's opinion and not as an indisputable fact. AFAIK stands
-for "As far as I know" ("Soweit ich weiÃ") and conveys a similar
-meaning. IIRC is the abbreviation for "If I remember correctly"
-("Soweit ich mich erinnern kann").
+for "As far as I know" and conveys a similar
+meaning. IIRC is the abbreviation for "If I remember correctly".
 
 If you find something funny, LOL is appropriate, meaning "Laughing
 out loud." As an intensification, ROTFL stands for "Rolling on the
-floor laughing.
+floor laughing."
 
-Do you want more? Then we recommend studying the website.
-<LINK>http://www.urbandictionary.com|urbandictionary.com</LINK>
-, which explains thousands of these abbreviations in detail.
+Do you want more? Then we recommend you study the website
+<LINK>http://www.urbandictionary.com|urbandictionary.com</LINK>,
+which explains thousands of these abbreviations in detail.
 
-@Z: The translation of "Lichter aus in San Francisco" to English is
-"Lights out in San Francisco.
+@Z: Lights Out In San Francisco
 
 <pic images/pyron.ps The pyramid is illuminated ...>
 
 <em>Angelika</em> 
 No, there was no power outage in San Francisco, and we were not
-sitting in the dark. Rather, the actors of the campaign...
-<LINK>http://www.lightsoutsf.org/images.html|Lights Out" translates
-to "Apagar las luces" in Spanish.</LINK>
-They were called upon to voluntarily dim the city. For one hour, the
+sitting in the dark. Rather, the actors of the campaign
+<LINK>http://www.lightsoutsf.org/images.html|Lights Out"</LINK>
+were called upon to voluntarily dim the city. For one hour, the
 lights went out at prominent buildings such as the Bay Bridge, the
 Golden Gate Bridge, the Transamerica Pyramid, the Coit Tower, the
 Ferry Building, and City Hall (Civic Center). Some restaurant owners
 also participated in the event (including the East German pub
-Walzwerk) and served guests by candlelight.
+Walzwerk) and served guests while illuminating the dark restaurant with candlelight.
 
 The main initiator, Nate Tyler, came up with this idea after
 experiencing a similar story during a vacation in Sydney. "Lights
@@ -308,14 +297,12 @@ global warming. Additionally, volunteers had previously distributed
 100,000 energy-saving light bulbs on the streets of San Francisco.
 
 Even the internet search engine
-<LINK>http://blogs.zdnet.com/Google/?p=777|The translation of "Google
-schloÃ sich an" to English is "Google joined in.</LINK>
-The translation to English is: "and turned their main page black for
+<LINK>http://blogs.zdnet.com/Google/?p=777|Google</LINK>
+joined in and turned their main page black for
 a few hours. By the way, the initiator Nate Tyler was formerly a
 'Communication Manager' at Google.
 
-<pic images/pyrout.ps The translation to English is: "... and shortly
-afterwards no longer.>
+<pic images/pyrout.ps ... and shortly afterwards no longer.>
 
 From our balcony, we observed that, amusingly, it took almost 45
 minutes for all the lights on the part of the Bay Bridge adjacent to
@@ -326,10 +313,11 @@ they have further ambitions. On March 29, 2008, they want to carry
 out the action across America. Eleven cities, including New York and
 Los Angeles, have already agreed.
 
-@Z: The American pension
+@Z: The American Retirement System
 
-<pic images/retire.ps Translation: "Has no worries about the pension:
-Grandpa Meume>
+<pic images/retire.ps Has no worries about the pension: Grandpa Meume>
+
+TODO
 
 <em>Angelika</em> 
 We have often mentioned in the newsletter that the American Social
