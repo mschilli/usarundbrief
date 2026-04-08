@@ -317,86 +317,83 @@ Los Angeles, have already agreed.
 
 <pic images/retire.ps Has no worries about the pension: Grandpa Meume>
 
-TODO
-
 <em>Angelika</em> 
 We have often mentioned in the newsletter that the American Social
 Security system is one of the few mandatory government insurance
 programs. It is a true exception in the USA, which is otherwise
 characterized by private and market-based systems.
 
-The American President Franklin D. Roosevelt signed the Social
-Security Act in 1935 to ensure basic security in old age. The Great
+American President Franklin D. Roosevelt signed the Social
+Security Act in 1935 to ensure basic security for all citizens in old age. The Great
 Depression, which began in 1929 and plunged many households into deep
 poverty, had changed the mood in the country and paved the way for a
 European-style social insurance system. However, from the outset, the
-aim was not to maintain the standard of living through the pension
+goal was not to maintain the standard of living through a pension
 insurance, but to ensure survival and prevent old-age poverty.
 
-If the employee does not want to give up their accustomed standard of
+If employees don't want to give up their accustomed standard of
 living in old age, they must supplement the state pension payments in
 some way. In the past, company pensions offered by firms like General
-Motors, Ford, or United Airlines were at the forefront in America.
+Motors, Ford, or United Airlines were common in America.
 However, nowadays, more and more companies are trying to get rid of
-these obligations through various tricks.
+these obligations by using various tricks.
 
-Because company pensions are not subject to strict legal protection
+Company pensions are not subject to strict legal protection
 in the USA. There is a safety fund managed by the organization
 "Pension Benefit Guaranty Corporation," which functions like
-reinsurance, guaranteeing payments if companies, for example, go
+reinsurance, guaranteeing retirement payments if companies, for example, go
 bankrupt. However, these payments are often significantly lower than
 the promised company pension.
 
-So that leaves only the 401k, which Michael once...
-<RBLINK>20030801#6</RBLINK>
-...or traditional saving. For many low-income earners, however, it
+So that leaves only the 401k, which Michael once wrote about in
+(<RBLINK>20030801#6</RBLINK>)
+or traditional saving. For many low-income earners, however, it
 remains utopian to privately prepare for their retirement. According
 to a statistic from 2005, 22 percent of today's retirees have to make
 ends meet with the help of payments from Social Security insurance.
 
 And to give you an idea of how much the average retiree receives from
-the state insurance: it was 1050 dollars in 2007 according to the
-statistics from the "Social Security Administration," which would
-only get you a small room in San Francisco.
+the state insurance: it was 1050 dollars per month in 2007 according to the
+statistics from the "Social Security Administration," hardly enough to 
+rent a single room in San Francisco.
 
-<pic images/retire2.ps The clock is ticking: Only those who reach 40
-points will receive an American pension.>
+<pic images/retire2.ps The clock is ticking: Only those who reach 40 points will receive a pension in the US.>
 
-But how does one qualify for an American pension? In Germany, you
+But how does one qualify for social security? In Germany, you
 have to pay into the system for at least five years. In the USA, a
 working individual accumulates what are called Social Security
-Credits (roughly equivalent to credit points). They need 40 of these
-to qualify for a pension.
+Credits. They need 40 of these to qualify for a pension.
 
 Each year, there are a maximum of four credits (one "credit" per
-quarter). This year, you must earn at least $1,000 per quarter
-(increasing to $1,050 in 2008) to receive the credit, and at least
-$4,000 for the entire year.
+quarter) you can earn. Currently, you must earn at least $1,000 per quarter
+(increasing to $1,050 in 2008) to receive the credit, and make at least
+$4,000 in the entire year.
 
 This means (you've surely already calculated it) that it takes 10
-years to acquire a claim. Foreigners who live and work legally in
-America are subject to the same rule. However, if they return to
+years be eligible for a payout. Foreigners who live and work legally in
+the US are subject to the same rule. However, if they return to
 their home countries, the American state will only transfer the
 pension abroad if there is a social security agreement between the
-USA and the respective country.
-<RBLINK>20070820#4</RBLINK>
-.
+USA and the respective country (<RBLINK>20070820#4</RBLINK>).
 
-In the United States, as in Germany, contributions for pension
-insurance are deducted directly from the salary. Employers and
+In the United States, as in Germany, contributions for social security
+are deducted directly from the salary by the employer. Employers and
 employees each contribute equally to the fund, with each paying 6.2%
 up to an annual salary of $97,500 (as of 2007). Self-employed
 individuals accordingly pay 12.4%.
 
 In the USA, unlike in Germany, practically everyone is required to
-have insurance, and redistribution occurs differently. Low-income
-earners receive, on average, more compared to higher-income earners.
+have this retirement insurance, and the distribution occurs differently. Low-income
+earners receive, on average, a higher percentage of their income
+ compared to higher-income earners.
 There is also a cap on the monthly pension payments. In 2008, it is
 $2,185 per month, and that's the limit. The pension contributions are
 transferred to the so-called Social Security Trust Fund, which
 invests in U.S. Treasury Bonds. Currently, this fund is still in the
 black. However, according to projections, this will change starting
 in 2018.
+
+TODO
 
 In America, both men and women born in 1960 or later reach the full
 legal retirement age at 67. If one wishes to retire earlier, the
