@@ -393,19 +393,14 @@ invests in U.S. Treasury Bonds. Currently, this fund is still in the
 black. However, according to projections, this will change starting
 in 2018.
 
-TODO
-
-In America, both men and women born in 1960 or later reach the full
+In the USA, both men and women born in 1960 or later reach the full
 legal retirement age at 67. If one wishes to retire earlier, the
 American government pays a reduced pension starting at age 62.
 However, a catch is that the retiree only becomes eligible for the
-state health insurance for retirees, Medicare, at age 67.
-<RBLINK>20050319#9</RBLINK>
-The German word "kommt" translates to "comes" in English. The symbol
-")" does not have a direct translation and might be a typographical
-error or part of a larger context.
+state health insurance for retirees, Medicare, at age 65
+(<RBLINK>20050319#9</RBLINK>)
 
-The American tax office is ready to collect when a retiree's annual
+The American tax administration is ready to collect when a retiree's annual
 income exceeds $25,000 (or $32,000 for married couples). Income
 includes half (!) of the pension benefits, as well as, for example,
 interest income or part-time jobs, since many American retirees are
@@ -413,46 +408,41 @@ forced to earn extra money. Generously, the retiree is allowed by the
 Social Security Administration to earn as much as they want without
 facing pension reductions once they reach full retirement age.
 
-In America, there is also a survivor's pension, which provides for
-minor and/or disabled children and spouses if the breadwinner dies.
-However, a widow's pension without minor or disabled children in the
-household is available at the earliest from age 60. Divorced spouses
-are also entitled to a survivor's pension if they were married for at
-least 10 years. During my research, I found out that pension payments
-are suspended if the affected retiree is convicted and spends more
-than 30 days in prison.
+In the U.S., there is also a survivor's pension, which provides for minors
+and/or disabled children and spouses if the breadwinner dies.  However, a
+widow's pension without minors or disabled children in the household is
+available at the earliest from age 60. Divorced spouses are also entitled to a
+survivor's pension if they were married for at least 10 years. During my
+research, I found also out that social security payments are suspended if the
+affected retiree is convicted and spends more than 30 days in prison.
 
-President Bush had set himself the goal of privatizing the state
-pension system, but he failed due to public resistance. He eventually
+President Bush had set himself the goal of privatizing the social security
+system, but he failed due to public resistance. He eventually
 gave up, albeit through gritted teeth.
 
-@Z: iStockPhoto.com
+@Z: Stock Photos at iStockPhoto.com
 
-<pic images/contract.ps On iStockPhoto.com, you can get images with a
-license to publish starting at just one dollar.>
+<pic images/contract.ps On iStockPhoto.com, you can get images with a license to publish starting at just one dollar.>
 
-<em>Michael</em> 
-Hold on a moment... the photo with Grandpa Meume and the cigar lit
-with a dollar bill in the last post wasn't from the editorial team's
-private collection! And the photo with the Jim Carrey lookalike in
-this section probably isn't either! That's right, because now on the
-internet, it offers...
-<LINK>http://iStockPhoto.com|iStockPhoto.com</LINK>
-Here's the translation:
+<em>Michael</em> Hold on a moment... the photo with Grandpa Meume and the cigar
+lit with a dollar bill in the last post wasn't from the editorial team's
+private collection! And the photo with the Jim Carrey lookalike in this section
+probably isn't either! That's right, because now
+<LINK>http://iStockPhoto.com|iStockPhoto.com</LINK> offers stock photos that
+can be purchased for little money to promote products or, for that matter,
+visually enhance articles about pension insurance.
 
-"Stock photos that can be purchased for little money to promote
-products or visually enhance articles about pension insurance.
 Depending on the size, each photo costs a few dollars, and then you
 can display it on your website or print up to 500,000 brochures.
 Simply enter your credit card, buy 10 'credits' for $13, and then
 download up to ten small images from the provider's extensive
 collection to use them commercially and without further payment
 obligations. That's a good business principle! I got the tip from Guy
-Kawasaki, who mentioned it in the video.
-<LINK>http://blog.guykawasaki.com/2007/06/art_of_innovati.html|The
-Art of Innovation</LINK>
-The text translates to: "Casually mentioned. A very good video, by
-the way. It really inspired me a lot.
+Kawasaki, who mentioned it in the video
+<LINK>http://blog.guykawasaki.com/2007/06/art_of_innovati.html|The Art of Innovation</LINK>, which, I might add, is a very good video.
+It really inspired me.
+
+TODO
 
 @Z: The Newsletter as a Book
 
