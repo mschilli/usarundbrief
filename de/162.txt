@@ -424,7 +424,8 @@ schlagartig wurde mir bewusst, was mir zu meinem Küchenglück noch fehlte.
 <pic images/steam-basket-open.ps Mit Faltmechanismus passt der Einsatz in fast jeden Topf.>
 
 Ruckzuck kaufte ich auf
-<LINK>Steamer-Basket https://www.amazon.com/dp/B091XP3VZ7|Amazon</LINK>
+<LINK>https://www.amazon.com/dp/B091XP3VZ7|Amazon</LINK>
+den Steamer-Basket
 für kleines Geld den natürlich in China hergestellten aber
 (angeblich) aus rostfreiem Stahl gefertigten und (ganz wichtig!)
 spülmaschinenfesten Dämpfeinsatz, und seitdem dämpfe ich ohne
