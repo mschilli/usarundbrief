@@ -442,11 +442,9 @@ Kawasaki, who mentioned it in the video
 <LINK>http://blog.guykawasaki.com/2007/06/art_of_innovati.html|The Art of Innovation</LINK>, which, I might add, is a very good video.
 It really inspired me.
 
-TODO
+@Z: Newsletter As a Book
 
-@Z: The Newsletter as a Book
-
-<pic images/hardcover.ps The Circular Book>
+<pic images/hardcover.ps The Rundbrief Book>
 
 <em>Michael</em> 
 If you are among the regular newsletter readers, you have surely
@@ -461,46 +459,42 @@ in the USA, it is printed and shipped there. If someone in Germany
 clicks the order button, the printing press starts up there, and the
 printed work is sent to a German address for just a few euros.
 
-We earn nothing (null, nada, zilch, njet, nix) from the company; the
-entire amount goes to Lulu. The newsletter is a free publication and
-will remain so. And the gigantic PDF from which the book is made is
-offered by Lulu as a free download. By the way, Lulu is a great
-place. Amateur authors simply submit electronic files, which Lulu
-prints and ships as soon as someone orders them. The books are
-advertised like on Amazon and are reviewed by customers.
+We earn nothing (null, nada, zilch, njet, nix) from the book; the entire amount
+goes to Lulu. The newsletter is a free publication and will remain so. And
+we've made sure that the gigantic PDF from which the book is made is offered by
+Lulu as a free download. By the way, Lulu is a great place. Amateur authors
+simply submit electronic PDF files, which Lulu prints and ships as soon as
+someone orders them. The books are advertised like on Amazon and are being reviewed
+by customers.
 
-And I probably don't need to tell you that the Rundbriefbuch is the
+And I probably don't need to tell you that the Rundbrief Book is the
 ideal Christmas gift for your loved ones. When they unwrap the book
 on Christmas Eve from the tasteful wrapping paper that you, of
 course, have provided, your loved ones will be wide-eyed and exclaim:
-"I'm overjoyed, the Rundbriefbuch! Everyone knows that it costs 68
+"I'm overjoyed, the Rundbrief Buch! Everyone knows that it costs 68
 euros. Honey, you really didn't have to go to such expense! Ah, I
 knew how much I mean to you... (cuddling sounds)." There you go. But
 make sure to order it by early November at the latest, as it takes
 some time to print after you press the order button, so that it
-arrives on the gift table on time. On the Rundbrief website, you will
+arrives on the gift table on time. Here on the Rundbrief website, you will
 find links to
-<LINK>http://www.lulu.de/content/983573|The translation of
-"Rundbriefbuch auf Lulu Deutschland" to English is "Circular letter
-book on Lulu Germany.</LINK>
-The German phrase "und dem" translates to "and the" in English.
-<LINK>http://www.lulu.com/content/983573|Circular letter book on Lulu
-USA</LINK>
+<LINK>http://www.lulu.de/content/983573|"Rundbrief Book on Lulu Germany"</LINK>
+and
+<LINK>http://www.lulu.com/content/983573|Rundbrief Book on Lulu USA</LINK>
 .
 
 @Z: Blue Angels and the Airbus
 
-<pic images/fleetsf2.ps Six F/A-18 Hornets are flying over San
-Francisco.>
+<pic images/fleetsf2.ps Six F/A-18 Hornets are flying over San Francisco.>
 
 <em>Angelika</em> 
 Since 1981, the so-called Fleet Week has taken place every October in
 San Francisco to honor the men and women of the Navy and Coast Guard.
 It's a somewhat unusual celebration for the pacifist, left-leaning
-San Francisco. Large warships dock at the piers of San Francisco and
+San Francisco. Large warships dock at the piers and
 allow naval officers in amusing sailor uniforms to come ashore. The
 Blue Angels, a Navy unit, are considered the highlight of the
-festivities for many with their air show featuring six F/A-18 Hornet
+festivities for many, with their air show featuring six F/A-18 Hornet
 jets. For others, they are the biggest nuisance, as their daredevil
 maneuvers over the rooftops of San Francisco are considered dangerous
 and too loud.
@@ -509,10 +503,9 @@ This year, City Councilor Chris Daly even made an attempt to ban the
 Blue Angels from flying for safety reasons, after one of the pilots
 crashed during an air show in South Carolina in April. Although the
 city council rejected this, the right-wing American press railed for
-days against the anti-military San Francisco.
+days against anti-military San Francisco.
 
-<pic images/fleetsf3.ps Daring maneuver over a densely populated
-city.>
+<pic images/fleetsf3.ps Daring maneuver over a densely populated city.>
 
 In Germany, the Bundeswehr doesn't have a good reputation and
 everyone makes fun of it, whereas Americans don't like it when people
@@ -522,11 +515,10 @@ acrobatics and attract volunteers for the American professional army.
 Pilots in blue jets are simply better for advertising purposes than
 returnees from Iraq.
 
-<pic images/airbus1.ps The Airbus A-380 on a promotional tour in San
-Francisco>
+<pic images/airbus1.ps The Airbus A-380 on a promotional tour in San Francisco>
 
 The new Airbus A-380 also made a stop in San Francisco during one of
-its test flights. By coincidence, the giant aircraft was in the city
+its test flights. By coincidence, the giant aircraft was present
 at the same time as the Blue Angels. Someone came up with the idea
 that it would be nice if the Airbus also performed a low-altitude
 flyover of San Francisco, just before the Blue Angels' training
@@ -534,13 +526,7 @@ flights. Suddenly, the giant bird appeared in front of our window,
 and Michael, who was working from home at the time, cheerfully
 snapped a few photos. It's amazing what flies over our heads.
 
-\vspace{0.3cm}
+Now, all that's missing is the marching music! With almost military
+greetings:
 
-All that's missing is the marching music. With almost military
-proportions:
-
-\vspace{0.3cm}
-
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
