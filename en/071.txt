@@ -16,12 +16,9 @@ bedroom windows. Some Yahoos had to flee their homes and were
 evacuated. In the meantime, everything has settled down again, the
 fires have been extinguished, and things are returning to normal.
 
-TODO
-
 @Z: Oil in the Bay
 
-<pic images/spillclosed.ps Due to a ship accident, oil spilled into
-the bay and beaches were closed.>
+<pic images/spillclosed.ps Due to a container ship accident, oil spilled into the Bay and beaches were closed.>
 
 <em>Angelika</em> 
 After the fires in Southern California and an earthquake with a
@@ -33,61 +30,58 @@ there is something like a giant cushion around the bridge pillar, a
 kind of shock absorber for collisions of this type. However, the
 container ship "Cosco Busan" (not to be confused with Michael's
 favorite store "Costco") lost 58,000 gallons (about 220,000 liters)
-of oil, which flowed into the San Francisco Bay. It's madness!
+of motor oil, which spilled into the San Francisco Bay. It's madness!
 Unfortunately, the Coast Guard initially underestimated the extent of
 the disaster, assuming it was 140 gallons instead of 58,000. Quite a
 significant difference!
 
-<pic images/spillrescue.ps The tent with the helpers who are
-scrubbing the birds.>
+<pic images/spillrescue.ps The tent with the helpers who are scrubbing the birds.>
 
-The mayor, Gavin Newsom, who had just been re-elected the day before,
+San Francisco's mayor, Gavin Newsom, who had just been re-elected the day before,
 was quite furious about this misjudgment. Valuable time was lost
-before the cleanup efforts with the appropriate equipment began.
+before the cleanup efforts with the appropriate equipment had begun.
 Governor Schwarzenegger declared a state of emergency and immediately
 banned fishing in the affected regions. The authorities closed off
 numerous beaches, including many of our favorite beaches like Rodeo
 Beach in the Marin Headlands and the coastal strip around Crissy
-Field.
-<RBLINK>20070225#6</RBLINK>
-.
+Field (<RBLINK>20070225#6</RBLINK>).
 
-Volunteers not only collected oil-polluted seabirds, but also scraped
-the grease off stones and scooped oil clumps out of the sand. In the
-meantime, most beaches are accessible again, and the first cleaned
+Volunteers jumped in to not only collect oil-polluted seabirds, but they also scraped
+the grease off rocks and scooped oil clumps from the sand. Now,
+most beaches are accessible again, and the first cleaned
 birds have been released back into the wild, but the consequences of
-the environmental disaster are still not foreseeable.
+the environmental disaster are still not clear.
 
-<pic images/spillbarrier.ps The hose that keeps the oil away from the
-beach.>
+<pic images/spillbarrier.ps The hose that keeps the oil away from the beach.>
 
-At the same time, the search for those responsible and the mutual
+At the same time, the search for those responsible for the accident and the mutual
 blame game began. I wouldn't want to be in the shoes of the captain
-of the "Cosco Busan" and the pilot on board, who has more than 25
+of the "Cosco Busan" and the harbor pilot on board, who had more than 25
 years of experience. The fog can't really be blamed either, as dense
 fog is more the rule than the exception in San Francisco. That's why
-pilots board the ships to safely navigate them through the
+harbor pilots board the ships to safely navigate them through the
 challenging waters around the Golden Gate and Bay Bridge.
 
 Moreover, the ship was equipped with two radar systems. However, the
-pilot now claims that these did not function properly. But even our
+pilot now claims that these were not functioning properly. But even our
 mayor faced criticism because he flew off to Hawaii with his new
 girlfriend a day after the accident happened. The chief officer of
-the coast guard was replaced without a fuss. Environmentalists and
-politicians also have harsh words for the private specialist firm
+the coast guard was replaced instantly. Environmentalists and
+politicians also had harsh words for the private specialist firm
 "O'Brian's Group" from Louisiana, which was hired by the shipping
-company of the container ship to manage the cleanup operations. I was
+company operating the container ship to manage the cleanup operations. I was
 initially surprised that such firms even exist, but apparently,
 collecting oil in all kinds of waters is a lucrative business. A
 commission is now supposed to investigate the circumstances that led
 to the accident.
 
-@Z: Yellowstone-Nationalpark
+@Z: Yellowstone National Park
 
-<pic images/moose2.ps A moose struts through a stream.>
+<pic images/moose2.ps A moose strutting through a stream.>
 
 <em>Michael</em> 
-Only recently, we visited a national park that had been on our list
+Only recently, we finally had the opportunity to visit
+a national park that had been on our list
 for a long time, but was so far off the beaten path that we just
 couldn't bring ourselves to go: Yellowstone. It is half the size of
 the German state of Rhineland-Palatinate and extends into three
@@ -98,81 +92,78 @@ lived in this area more than 11,000 years ago and likely referred to
 the yellowish stones of the "Yellowstone Grand Canyon" (not to be
 confused with the Grand Canyon National Park in Arizona).
 
-<pic images/yelodge.ps The newsletter reporters are staying at the
-upscale "Bar-N-Ranch.>
+<pic images/yelodge.ps The newsletter reporters are staying at the upscale "Bar-N-Ranch.>
 
 <em>Angelika</em> 
 Yellowstone is not only one of the most popular national parks in the
-USA, but also the first national park in the world. The American
+USA, but also the first national park on earth. The American
 Congress designated Yellowstone as a national park as early as 1872,
 and it was not until 18 years later that Sequoia, Kings Canyon, and
-Yosemite followed. The politicians of that time demonstrated
-remarkable foresight. They relied on the reports of the first
-explorers and painters who visited Yellowstone and decided that this
+Yosemite followed. Politicians of that time demonstrated
+remarkable foresight. They relied on reports of the first
+explorers and painters who had visited Yellowstone and decided that this
 special piece of land should be protected from exploitation and
 destruction.
 
 <pic images/yebearcrowd.ps Car tourists at the roadside>
 
-However, in the first decades, things continued to be chaotic because
-there was no proper state supervision. Poachers and vandals were
+However, during the first decades, things continued to be chaotic because
+there was no proper government supervision. Poachers and vandals were
 causing trouble. In 1886, Congress even called in the military for
 help, and soldiers (for the only time in the history of American
 national parks) moved into Yellowstone to protect the park. In 1916,
-Congress finally established a new agency to protect and manage the
-national parks according to the founding idea, the National Park
+Congress finally established a new agency to protect and manage all
+national parks according to the founding idea: the National Park
 Service. Even today, all 58 American national parks are under the
 authority of this agency. My goal is to visit all the American
 national parks. I have already seen 23.
 
-<pic images/yemammoth.ps The "Mammoth Area" in Yellowstone National
-Park>
+<pic images/yemammoth.ps The "Mammoth Area" in Yellowstone National Park>
 
 Many Americans feel a deep connection to certain national parks, as
-generations have spent numerous summers camping, fishing, and hiking
+generations of citizens have spent numerous summers camping, fishing, and hiking
 in Yellowstone or Yosemite. Unfortunately, some national parks are
 literally being loved to death by the masses. Parks where attractions
 are easily accessible by car and require little walking suffer from
-high visitor numbers with an amusement park mentality. In
-Yellowstone, we often shook our heads when hordes would drive up to
-the parking lot, quickly take a photo, and jump right back into their
-cars. However, we often only needed to escape onto a nearby hiking
+high numbers of visitors with amusement park mentality. In
+Yellowstone, we often shook our heads when hordes of visitors would be driving up to
+some parking lot, quickly take a photo, and jump right back into their
+cars. However, we often just needed to escape onto a nearby hiking
 trail to be by ourselves again.
 
-@Z: Waldbrände
+@Z: Wild Fires
 
 <pic images/yeburn1.ps Oops, the forest is on fire!>
 
 <em>Michael</em> 
-Not only careless campers or malicious arsonists cause forest fires.
+Not only careless campers or malicious arsonists start forest fires.
 They often have completely natural causes, such as lightning strikes
 or intense sunlight. The fire then renews the forest. The old trees
 go up in flames, the pine cones fall to the ground, and the heat of
 the fire releases the tree seeds contained within them, which then
 slip into the soil and, after some time, allow new trees to sprout.
 
-Until 1988, the park rangers in Yellowstone followed the "Let it
+Until 1988, park rangers in Yellowstone followed the "Let it
 burn!" policy regarding fires and only intervened with firefighting
-vehicles when human lives or historical structures were at risk.
-However, in 1988, a third of the national park burned because, by the
-time the park service finally decided to intervene, the fire was no
-longer controllable. The 15 separate fires spread at times with rapid
-speed, up to 1.5 km per hour. One of the fires, under extremely dry
-weather conditions and aided by wind, actually covered 15 kilometers
-in a day!
+equipment when human lives or historical structures were at risk.
+However, in 1988, a third of the national park burned down because, by the
+time the park service finally decided to intervene, the fire was out of control.
+Fifteen separate fires head been spreading at times, with rapid
+speed, up to one mile per hour. One of the fires, under extremely dry
+weather conditions and aided by wind, actually covered 10 miles
+in a single day!
 
-<pic images/yeburn2.ps But the fire was intentionally not
-extinguished, do not call the fire department!>
+<pic images/yeburn2.ps This fire was intentionally not extinguished, do not call the fire department!>
 
 Firefighters from all parts of the country who were called to the
 emergency area cut firebreaks in the forest, with a total length
-exceeding 1,300 kilometers. However, there was no stopping it; the
+exceeding 1,000 miles. However, there was no stopping it; the
 fire broke through these barriers with few exceptions. It even leaped
 over the Yellowstone River to the forest on the other bank to
 continue its path. Firefighting experts call this effect "spotting."
 The wind carries ping-pong ball-sized embers from a blazing fire
-hundreds of meters away, and at the point of impact, they immediately
-ignite small fires on the bone-dry ground.
+hundreds of yards away, and at the point of impact, they immediately
+then ignite new small fires on the bone-dry ground.
 
 At the northern end of the park, the fire approached the private
 property of the sect "Church Universal and Triumphant," and the
@@ -183,8 +174,9 @@ off the flames with chants. The action was successful, and both
 groups considered their contribution crucial to this small partial
 success.
 
-<pic images/yeburn3.ps For this is how the forest regenerates; new
-trees grow beneath the burned ones.>
+<pic images/yeburn3.ps For this is how the forest regenerates; new trees grow beneath the burned ones.>
+
+TODO
 
 But elsewhere, the fire continued to blaze uncontrollably. After
 three months, it was finally possible to contain the fire due to the
