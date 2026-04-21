@@ -176,68 +176,62 @@ success.
 
 <pic images/yeburn3.ps For this is how the forest regenerates; new trees grow beneath the burned ones.>
 
-TODO
-
 But elsewhere, the fire continued to blaze uncontrollably. After
-three months, it was finally possible to contain the fire due to the
-onset of snow and rain. Nowadays, the motto "Let it Burn" is no
+three months, finally an onset of snow and rain helped contain
+the fire. Nowadays, the motto "Let it Burn" is no
 longer applied without restriction; only fires that meet certain
-criteria are allowed to burn out by the park rangers, while all
+criteria are allowed to burn out with park rangers watching, while all
 others are extinguished rigorously.
 
-@Z: Do not Feed the Bears
+@Z: Do Not Feed the Bears
 
-<pic images/yebear.ps An ultra-dangerous black bear sow,
-approximately 10 meters away from the frantic newsletter reporters!>
+<pic images/yebear.ps An ultra-dangerous black bear sow, approximately 30 feet away from the intrepid newsletter reporters!>
 
 <em>Michael</em> 
-In Alaska we have (
-<RBLINK>20060529#1</RBLINK>
-..on a boat tour, we once saw bears from a distance. In Yellowstone
-Park, we drove through the northern areas by car and suddenly came
+In Alaska, on a kajak tour (<RBLINK>20060529#1</RBLINK>),
+we once had seen bears from a distance. In Yellowstone
+Park, while driving through the northern parts by car, we suddenly came
 across a larger crowd of people being kept in check by a ranger. In
 such cases, there's usually some kind of animal to see, and we looked
 around curiously. And indeed: On a rather steep slope to the left of
 the road, a bear was crawling around! I immediately grabbed my camera
 from the back seat and took a few photos through the windshield, but
-the ranger was wildly waving her arms, indicating that I should move
-on and not hold up traffic. We parked a few hundred meters further
+a ranger was wildly waving her arms, indicating that I should move
+on and not hold up traffic. We parked a few hundred yards further
 along the roadside, walked back, and joined the crowd to watch the
 bear. And there were actually two, a bear cub traveling with its
 mother, an impressive black bear sow.
 
-<pic images/yebearcr.ps Two black bears are crossing the road, and
-the photographers are going wild!>
+<pic images/yebearcr.ps Two black bears are crossing the road, and the photographers are going wild!>
 
-Bears are unpredictable animals with incredible strength, capable of
-killing a person without much effort. And if, for example, you happen
-to get between a bear cub and its mother, the mother bear will go
-berserk, and that's no picnic. The ranger then gestured wildly and
-instructed the people to stay in a group, as bears do not attack
-groups, only individuals at most.
+Bears are unpredictable wild animals with incredible strength, capable of
+killing a person without much effort. And if, for example, you happen to get
+between a bear cub and its mother, the mother bear will go berserk, and that's
+no picnic. Said ranger at Yellowstone was gesturing wildly and instructed
+people to stay in a group, as bears do not attack groups, only individuals at
+the most.
 
-The bears lingered for a while on the slope before suddenly
+The two bears were lingering for a while on the slope before suddenly
 approaching the road. The ranger seemed to have anticipated this, as
-she had cleared a path about 20 meters wide, free of people and cars,
-for the bears to cross the road. We stood about 10 meters away, and I
+she had cleared a path about 50 feet wide, free of people and cars,
+for the bears to cross the road. We stood about 30 feet away, and I
 was already considering what to do in case we needed to intervene, as
 we had bear pepper spray with us. But the single mother bear and her
 cub purposefully trotted across the road and continued down the slope
 on the other side. To speed things up, the ranger made herself appear
 larger, clapped her hands, and shouted loudly, "Go bear!" which
-didn't have any significant effect, as a bear doesn't take orders
-from anyone. Then the ranger threw a small stone in the direction of
+didn't have any significant effect, as bears don't take orders
+from anyone. Then the ranger then threw a small rock in the direction of
 the bears, causing the bear cub to jump aside in fright, but the
 mother didn't budge. Eventually, the two of them wandered off, the
-crowd dispersed, and we continued on our way. You experience things
-here!
+crowd dispersed, and we continued on our way. Amazing the things you
+can experience here!
 
-<pic images/bearfeed.ps An old postcard shows that tourists used to
-interact quite unsuspectingly with the bears.>
+<pic images/bearfeed.ps An old postcard shows that tourists used to interact quite unsuspectingly with bears back in the days.>
 
 <em>Angelika</em> 
 Crazy as it may seem, for a long time, one of the main attractions of
-Yellowstone was feeding the bears to see them up close. In souvenir
+Yellowstone used to be feeding bears to see them up close. In souvenir
 shops around Yellowstone Park, we frequently came across old
 postcards that proved this. Even garbage dumps behind the hotels in
 the park became tourist attractions because the bears would come
@@ -252,7 +246,7 @@ instead approach campsites and break into tents or cars parked
 nearby. We often heard the saying from park rangers: "A fed bear is a
 dead bear!" because the bear no longer behaves naturally.
 
-
+TODO
 
 @Z: Geysers and bubbling mud pots
 
