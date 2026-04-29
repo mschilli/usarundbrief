@@ -246,11 +246,9 @@ instead approach campsites and break into tents or cars parked
 nearby. We often heard the saying from park rangers: "A fed bear is a
 dead bear!" because the bear no longer behaves naturally.
 
-TODO
-
 @Z: Geysers and bubbling mud pots
 
-<pic images/geyser2.ps The two racing reporters in front of a geyser>
+<pic images/geyser2.ps The two intrepid reporters standing right by a geyser>
 
 <em>Angelika</em> 
 Yellowstone is of volcanic origin and offers a unique worldwide
@@ -258,8 +256,7 @@ concentration of 300 geysers, as well as bubbling mud pots and hot
 springs. We often felt like we were in a witch's cauldron, as it
 bubbled, steamed, and puffed everywhere quite intensely.
 
-<pic images/yesawmill.ps The translation to English is: "Landscape
-near the 'Sawmill' Geyser.>
+<pic images/yesawmill.ps Landscape near the 'Sawmill' Geyser>
 
 Geysers form when three components come together: water, heat, and a
 natural system of underground pipes and cavities connected to the
@@ -267,7 +264,7 @@ Earth's surface by a narrow channel. Rain or snow water seeps deep
 into the Earth into underground cavities, where it is heated by
 volcanic magma. Because the water column above the reservoir exerts
 pressure on the water, the water at the bottom heats up well above
-the boiling point of 100 degrees Celsius before turning into steam.
+the boiling point of 212 degrees Fahrenheit before turning into steam.
 Steam bubbles rise through the channel, displacing the water in the
 water column, causing the pressure in the channel to drop, and the
 highly superheated and pressurized steam in the cavity shoots up
@@ -275,18 +272,17 @@ through the channel. A fountain of steam, condensed water, and
 sometimes minerals or rock particles then erupts from the geyser
 hole.
 
-<pic images/yeriverside.ps The geyser "Riverside" spouts water.>
+<pic images/yeriverside.ps The geyser "Riverside" spouting water.>
 
-Now geysers erupt in the most diverse patterns. Some simmer for years
+Now geysers erupt in the most diverse patterns. Some are simmering for years
 without anything happening, while others shoot water out twice daily
 with beautiful regularity. In Yellowstone, we encountered many geyser
 enthusiasts who patiently waited for hours for a particular geyser to
 erupt. They knew how to interpret every bubble or gurgle.
 
-<pic images/yeoldfaith.ps Warten am Old Faithful" translates to
-"Waiting at Old Faithful" in English.>
+<pic images/yeoldfaith.ps Waiting at Old Faithful>
 
-As we all know, Michael can't sit still in one place for very long,
+As we all know, Michael doesn't like to wait around in one place for very long,
 so we had to be content with the eruptions of the "Old Faithful" and
 "Riverside" geysers. "Old Faithful" erupts in a tourist-friendly
 manner every 60 minutes, and the whole thing resembles a Disneyland
@@ -295,8 +291,7 @@ Faithful, where crowds of people settle shortly before the eruption
 and then scatter back to the parking lot like startled chickens
 shortly afterward.
 
-<pic images/yecolors2.ps The translation of "Mikroorganismen in GrÃ¼n
-und Orange" to English is "Microorganisms in Green and Orange.>
+<pic images/yecolors2.ps Microorganisms in Green and Orange.>
 
 Even more than the geysers, I was fascinated by the hot springs,
 which often shimmered in the most beautiful shades of blue in the
@@ -305,8 +300,7 @@ yellow, red, and orange. The water is boiling hot, and multilingual
 warning signs caution visitors not to leave the wooden walkways or
 even think about putting their hands in the water.
 
-<pic images/yeansel2.ps The translation to English is: "How Michael
-almost outdid the old photo fox Ansel Adams.>
+<pic images/yeansel2.ps How Michael almost outdid the old photo fox Ansel Adams.>
 
 However, it is alarming how foolish some tourists can be. We
 witnessed with our own eyes how an unsuspecting tourist left the
@@ -316,8 +310,7 @@ fascinating book "Death in Yellowstone" by Lee H. Whittlesey, I read
 that most accidents in Yellowstone occur because people behave
 carelessly and fall into the boiling springs.
 
-<pic images/yeblubb.ps A bubbling mud pot in Yellowstone National
-Park.>
+<pic images/yeblubb.ps A bubbling mud pot in Yellowstone National Park.>
 
 In 1981, for example, a 24-year-old Californian jumped headfirst into
 a hot spring with a temperature of about 95 degrees Celsius to save
@@ -328,42 +321,38 @@ parked nearby. Neither the dog nor the man survived the incident.
 
 @Z: Bisons
 
-<pic images/bisonandme.ps The fearless newsletter reporter poses in
-front of an ultra-dangerous bison!>
+<pic images/bisonandme.ps The fearless newsletter reporter poses in front of an ultra-dangerous bison!>
 
 <em>Michael</em> 
 Bisons, also known as "buffalos," number about 5,000 in the park.
 They are quite peace-loving if you don't get too close to them.
-However, if you breach the recommended safety distance of 20 meters,
-they quickly turn into aggressive furies that have already gored
-tourists and caused serious injuries. On a hiking trail, we didn't
+However, if you breach the recommended safety distance of 60 feet,
+they quickly turn into aggressive furies that have been known to gore
+tourists and cause serious injuries. On a hiking trail, we didn't
 even notice a bison lying in the sand behind a stand of trees until
 it suddenly stood up when we got too close. We cautiously stepped
 back, and since there was no way to continue on our path without
 upsetting the buffalo, we reluctantly turned around.
 
-<pic images/yebison.ps The translation of "Bisons ï¿½berqueren die
-Straï¿½e" to English is "Bisons are crossing the road.>
+<pic images/yebison.ps Bisons are crossing the road.>
 
-Even on the road, you sometimes encounter these buffalo, which
+Even on the park roads, you sometimes encounter these buffalo, which
 leisurely trot from one grazing spot to another and are not afraid of
 anything or anyone. It's quite exciting when you're sitting in a
 rental car and one of these buffalo approaches!
 
 @Z: Namensforschung
 
-<pic images/slcconst.ps In Salt Lake City, the downtown area is
-currently being demolished and rebuilt.>
+<pic images/slcconst.ps In Salt Lake City, the downtown area is currently being demolished and rebuilt.>
 
 <em>Michael</em> 
 On the way to Yellowstone, we stopped in Salt Lake City for a day to
 browse around in our favorite library, the Family History Library of
 the Mormons.
-<RBLINK>20061124#4</RBLINK>
-The translation to English is: "We have already reported on this
-fascinating collection of books and microfilms.
+We have already reported on this fascinating collection of books and microfilms
+(<RBLINK>20061124#4</RBLINK>).
 
-I read an essay this time by a Robert Thomas from the year 1938
+I read an essay this time by a man named Robert Thomas from the year 1938
 titled "Family Names and Family History, Publications of the Bavarian
 State Association for Family Culture e.V., Issue 6". It states in old
 German script that people in the past only had first names and no
@@ -371,43 +360,43 @@ last names.
 
 Around the year 1200, there were, for example, about 12 men named
 "Heinrich" in Augsburg. With increasing population density, it became
-necessary to distinguish individuals by additional names. Thus, a
+necessary to distinguish individuals by additional qualifiers. Thus, a
 Heinrich who worked as a weaver might become "Heinrich the Weaver."
-An unusually tall one might be called "Heinrich the Tall," and one
-who had traveled from Bobingen might be "Heinrich the Bobinger." Over
+An unusually tall Heinrich might be called "Heinrich the Tall," and one
+who came originally from Bobingen might be "Heinrich the Bobinger." Over
 centuries, these additions developed into the surnames as we know
 them today. For a long time, however, the first name remained the
 primary name. For instance, if you look at the signature on Albrecht
-DÃ¼rer's paintings, you notice a large "A" and a much smaller "D"
-disappearing into the "A.
+Dürer's paintings, you notice a large "A" and a much smaller "D"
+disappearing into the "A".
 
 Other surnames refer to hair color, such as "Schwarzkopf" (black
-head), "WeiÃhaupt" (white head), and "Fuchs" (for redheads). If a
+head), "Weißhaupt" (white head), and "Fuchs" (fox, for redheads). If a
 place name is found in a surname, it refers to immigrants. In the
-Swabian region, there was no one with the name "Schwab" unless they
+Swabian region of Germany, there was no one with the name "Schwab" unless they
 had moved away and then returned to Swabia.
 
-<pic images/slclib.ps In the "Family History Library" at the Mormon
-Center in Salt Lake City>
+<pic images/slclib.ps In the "Family History Library" at the Mormon Center in Salt Lake City>
 
-The translation to English is: "As job titles, 'Meier' is known as a
+As job titles, 'Meier' is known as a
 word for vassal, tenant, or also owner of an estate.
+A
 <LINK>http://de.wikipedia.org/wiki/Schulthei%C3%9F|Schultheiß</LINK>
-The derived form "Schulze" was a court official who "demanded debts,"
-meaning he collected dues. The "KrÃ¼ger" was the innkeeper, as he
-handled jugs. And the fact that there was virtually no division of
+(the derived form is "Schulze") was a court official who "demanded debts,"
+meaning he collected dues. The "Krüger" was the innkeeper, as he
+handled jugs (Krug in German). And the fact that there was virtually no division of
 labor in the Middle Ages meant that each craftsman made a product
 from start to finish, but had to limit themselves to a small range of
-products. As a result, even "LÃ¶ffler" (spoon maker) and "Gabler"
+products. As a result, even "Löffler" (spoon maker) and "Gabler"
 (fork maker) existed, leading to corresponding surnames!
 
 Some names are meant to be mocking, such as "Krebs" (crab), which
 refers to a rope maker who walks backwards, or "Breitkopf" (broad
 head) or "Gnugesser" (glutton) for someone with a large belly.
-Noble-sounding names like "KÃ¶nig" (king), "Graf" (count), or
-"FÃ¼rst" (prince) do not necessarily originate from actual nobility,
+Noble-sounding names like "König" (king), "Graf" (count), or
+"Fürst" (prince) do not necessarily originate from actual nobility,
 but also from people who presented themselves as such, as well as
-from shooting and beggar kings. Additionally, those who worked for a
+from target shooter and beggar kings. Additionally, those who worked for a
 count or prince often received this name suffix.
 
 If you want to study the little booklet and happen to be in Salt Lake
@@ -424,24 +413,24 @@ required. A top-notch place!
 On October 31st in San Francisco, not only do children go from house
 to house to collect sweets, but the traditionally more adult-oriented
 Halloween party also takes place in the Castro, the gay district.
-<RBLINK>20011121#1</RBLINK>
-We have already reported on this tradition, which has been maintained
+We have already reported on this tradition
+(<RBLINK>20011121#1</RBLINK>), which has been maintained
 for 30 years. Admittedly, the party always gets quite lively,
 especially as the night progresses. Last year, the city moved the
 curfew forward to 11 PM for safety reasons.
 
-At the Castro party, crowds of people typically gather in the
-craziest costumes (many barely dressed) and dance in the street along
-the not-so-wide Castro Street. Originally, the event was purely a
+At the Castro party, crowds of people are typically gathering in the
+craziest costumes (many participants barely dressed) and are
+dancing in the not-so-wide Castro Street. Originally, the event was purely a
 neighborhood affair, essentially a crazy carnival street festival,
 also meant to celebrate and creatively express one's own
 homosexuality in a colorful way. Over the decades, the Castro
 Halloween party has grown increasingly popular, and in recent years,
 estimates suggest that between 200,000 and 300,000 people have come
-to the Castro district. This has pushed the capacity to its limits.
+to the Castro district for it every year.
+This has pushed the event's capacity to its limits.
 
-<pic images/chpolhq2.ps The police in the temporary quarters above a
-Halloween store.>
+<pic images/chpolhq2.ps Police in temporary quarters above a Halloween store.>
 
 Unfortunately, among the participants last year, there were also a
 few complete idiots who thought it was appropriate to shoot firearms.
@@ -456,7 +445,7 @@ event. No one in San Francisco had expected them to get away with it.
 Many feared that the ban would lead to acts of defiance and civil
 disobedience.
 
-<pic images/chfence.ps The barricades for the worst-case scenario>
+<pic images/chfence.ps Barricades for the worst-case scenario>
 
 But the city council pulled out all the stops. They persuaded many
 bar and restaurant owners to close their doors early, so partygoers
@@ -478,26 +467,25 @@ officers who were competing to look intimidating and were quick to
 reprimand anyone for the slightest rule violation. For example, I
 crossed a street intersection and stepped slightly over the white
 line that, as is customary in America, indicated the pedestrian
-crossing. A police officer immediately whistled me back. The police
+crossing. A police officer immediately whistled me back. Policemen
 also had strict orders to arrest anyone who misbehaved in public
 while intoxicated.
 
 <pic images/chredcape.ps Some die-hards celebrated anyway.>
 
-The sledgehammer approach led to the desired success; most people
+The sledgehammer approach led to the desired outcome; most people
 stayed away from the Halloween party in the Castro, and the
 roadblocks prepared just in case were left unused by the roadside. I
-was really disappointed with our otherwise progressive San Francisco.
+was really disappointed with our otherwise progressive city of
+San Francisco.
 Not only does the city council allow itself to be silenced by
 aggressive young troublemakers and simply cancel an otherwise
 predominantly peaceful festivity, but also the gay movement in San
 Francisco has apparently aged a bit and now prefers to spend
 Halloween on the couch at home in a quiet neighborhood. According to
-rumors, it is primarily the residents of the Castro district who want
-the party to take place elsewhere in the future.
+rumors, it is primarily the residents of the Castro district who'd rather
+like the party to take place elsewhere in the future.
 
 Everyone gets old, except us!
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika and Michael
