@@ -2,7 +2,7 @@ San Francisco, 02-03-2008
 
 @Z: At The Shooting Range
 
-<pic images/jarms1.ps The intrepid newsletter reporter is shooting with a 9-millimeter pistol.>
+<pic images/jarms1.ps The intrepid newsletter reporter is shooting with a 9-millimeter handgun.>
 
 <em>Michael</em> 
 When a colleague asked me one day if I wanted to go shooting with him
@@ -16,7 +16,7 @@ Shooting ranges, such as for example,
 in South San Francisco, not far from the supermarket "Costco",
 offer opportunities for practice.
 
-Now, my aforementioned colleague owns a pistol of the type
+Now, my aforementioned colleague owns a handgun of the type
 <LINK>http://en.wikipedia.org/wiki/Springfield_Armory_XD|Springfield XD-9</LINK>
 and we properly packed it into a box secured with a padlock, loaded the box into the
 trunk of our car and sped 10 minutes down the highway heading south to
@@ -32,52 +32,51 @@ road users in a fit of rage.
 At the shooting range, we had to hand over our California driver's
 licenses and sign a form to accept the club's rules. My colleague had been
 there before and was therefore classified as a "Coach" (trainer). The
-instructor led us to the end of hallway with the pistol and a
+instructor led us to the end of hallway with the gun and a
 practice round, and we went through the loading and unloading
 process. I had spent some time in the military many years ago, so
 I was already familiar with everything, and it went quickly.
 
 <pic images/jarms3.ps At the shooting range "Jackson Arms">
 
-TODO
-
-In two rooms separated from the entrance area by double doors, there
-were eight shooting slits each. These areas, open at the front and
-back, were about one square meter in size and had a small table on
-which you could place the pistol and load the magazine with bullets.
+In two sections, separated from the entrance area by double doors, there
+were eight shooting chutes each. These areas, open at the front and
+back, were about 10 square feet in size and had a small table on
+which you could place the gun and load the magazine with bullets.
 We were given targets that either showed rings with numbers or human
 silhouettes. These were attached with clips to a cart that ran on
-wire cables and could be moved 10 to 30 meters onto the shooting
+wire cables and could be moved 30 to 100 feet onto the shooting
 range at the push of a button.
 
 Our instructor explained that you are not allowed to wave a loaded
-pistol around or go back to the cashier area from the shooting range.
+gun around or go back to the cashier area from the shooting range.
 Additionally, randomly shooting at the side walls of the shooting
 lane will result in a "strike." For the first "strike," you receive a
 warning, and for the second, you must leave the shooting range and
-can only return the next day.
-
-The translation to English is: "Video at the shooting range.
+can only return the next day. Naturally, all of us were well behaved.
+We recorded everything and put it on
+<LINK>https://www.youtube.com/watch?v=uBqA4aixm30kkk|Youtube</LINK>.
 
 We had a hell of a time, each firing around 60 shots, and found out
 that it's not so easy to hit a person at a distance of 10 meters with
 a 9mm gun. The thing has quite a recoil, and you really have to aim
-carefully and hold steady to hit the target. Even a small video.
+carefully and hold steady to hit the target.
 
 @Z: Primaries - Who will be the next president?
 
-<pic images/obama1.ps Obama supporters in the Castro District in San
-Francisco>
+<pic images/obama1.ps Obama supporters in the Castro District in San Francisco>
 
 <em>Angelika</em> 
 The American election campaign machine is in full swing, and for
 months the media have been bombarding us with forecasts, debates, and
-commercials from the candidates for the American presidency. At the
+commercials of the candidates for the American presidency. At the
 end of the primaries, two candidates emerge, one for the Republican
 Party and one for the Democratic Party -- and one of them will become
 the President of the USA in the actual elections in November.
 Usually, interest in these primaries is relatively low, and voter
 turnout is extremely low, but this year everything looks different.
+
+TODO
 
 This is partly because there is currently no clear favorite among
 either the Republicans or the Democrats. Among the Democrats, Hillary
