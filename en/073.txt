@@ -76,8 +76,6 @@ the President of the USA in the actual elections in November.
 Usually, interest in these primaries is relatively low, and voter
 turnout is extremely low, but this year everything looks different.
 
-TODO
-
 This is partly because there is currently no clear favorite among
 either the Republicans or the Democrats. Among the Democrats, Hillary
 Clinton and Barack Obama are engaged in an exciting race. Although
@@ -90,7 +88,7 @@ thorough knowledge of the White House and the Washington
 establishment, but also carries the baggage of her husband Bill
 Clinton?
 
-Many voters are apprehensive about replacing the Bush dynasty with a
+Many voters are opposed to replacing the Bush dynasty with a
 Clinton dynasty, especially since no one really knows what strings
 Bill Clinton is pulling behind the scenes. The historical dimension
 is also important to many voters: for the first time in U.S. history,
@@ -102,7 +100,7 @@ Francisco.
 
 <pic images/hillary3.ps A staunch supporter of Hillary Clinton>
 
-Among the Republicans, the former Vietnam veteran and long-time
+Among Republicans, the former Vietnam veteran and long-time
 Senator from Arizona, John McCain, and the millionaire businessman
 and former Governor of Massachusetts, Mitt Romney, are leading. For
 weeks, the country debated whether the Mormon Romney is even
@@ -111,9 +109,11 @@ particularly problematic for the religious right, which predominantly
 votes Republican. The former Baptist pastor and former Governor of
 Arkansas, Mike Huckabee, is also holding his ground, as he is
 particularly appreciated by the conservative-religious base. So far,
-primaries have been held in 7 states, but everyone is now eagerly
+primaries have been held in seven states, but everyone is now eagerly
 awaiting February 5th, the so-called "Super Tuesday," when primaries
 will take place in 22 more states.
+
+TODO
 
 The hellishly complicated system of primaries I have briefly...
 <RBLINK>20040826#7</RBLINK>
