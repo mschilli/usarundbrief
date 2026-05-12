@@ -113,14 +113,10 @@ primaries have been held in seven states, but everyone is now eagerly
 awaiting February 5th, the so-called "Super Tuesday," when primaries
 will take place in 22 more states.
 
-TODO
-
-The hellishly complicated system of primaries I have briefly...
-<RBLINK>20040826#7</RBLINK>
-The text translates to:
-
-"described, but today I will try to explain it more precisely. In
-principle, in American primaries, the citizen does not directly cast
+The hellishly complicated system of primaries I have briefly described
+in <RBLINK>20040826#7</RBLINK>,
+but today I will try to explain it in more detail. In
+principle, in American primaries, voters do not directly cast
 their vote for their favored candidate; instead, they elect delegates
 who then determine the presidential candidate at the respective party
 conventions.
@@ -128,7 +124,7 @@ conventions.
 Some ballots therefore do not list the candidates, but only the
 delegates. The number of delegates a state is allowed to send to the
 party conventions is determined by the population density of the
-respective state. There are different methods for converting the
+respective state. Now, there are different methods for converting the
 number of votes cast into delegates.
 
 The Democratic Party strictly follows the proportional method,
@@ -139,10 +135,8 @@ Republican Party leaves it up to the individual states to decide
 whether to use the proportional method or the "winner-takes-all"
 approach (where the candidate with the most votes receives all the
 delegates).
-<em>alle</em> 
-The translation to English is: "Delegates) are being proceeded with.
 
-In these primaries, the Republicans end up with a total of 2,380
+In the this election's primaries, the Republicans end up with a total of 2,380
 delegates and the Democrats with 4,049. At least according to the
 current situation, as Florida's and Michigan's votes are not being
 counted for the Democrats at the moment, because the Democratic Party
@@ -153,8 +147,9 @@ convention, the Republican candidate needs the votes of 1,191 (out of
 2,380) delegates, and the Democratic candidate needs 2,025 (out of
 4,049).
 
-<pic images/hillary2.ps A supporter of Hillary Clinton in San
-Francisco>
+<pic images/hillary2.ps A supporter of Hillary Clinton in San Francisco>
+
+TODO
 
 Interesting are the delegates who are not bound by the primary
 election results but instead cast their votes at the party
