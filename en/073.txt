@@ -296,8 +296,6 @@ manual transmission is less in demand. However, anyone who can really
 drive, which is only about 10% of Americans, drives cars with manual
 transmission.
 
-TODO
-
 The condition of the vehicle is either "Excellent," "Good," "Fair,"
 or "Poor," depending on how dented the car is and what flaws it has.
 Furthermore, a distinction is made between "Trade-in Value" (what the
@@ -305,44 +303,36 @@ dealer offers when you trade in your old car), "Private Party Value"
 (the price you can ask as a private seller), and "Suggested Retail
 Value" (the price used car dealers can charge).
 
-<pic images/title11.ps (#1) Das "Certificate of Title" eines
-Kraftfahrzeugs wird im Englischen als "vehicle title" oder "car
-title" bezeichnet. Es ist ein offizielles Dokument, das den
-rechtmÃ¤Ãigen EigentÃ¼mer eines Fahrzeugs ausweist.>
+<pic images/title11.ps (#1) The vehicle title, an official document, confirming the owner>
 
-To find out if the car has been involved in accidents, failed
-emissions tests, was stolen at some point, frequently bought/sold, or
+To find out if the car has been involved in nay accidents, or failed
+emissions tests, or was stolen at some point, frequently bought/sold, or
 has had any other issues, the company "Carfax" offers an information
 service on the internet. You pay $29.95 and can then check as many
 vehicles as you want using their VIN ("Vehicle Identification
 Number") for a month. Not bad, but not flawless either, as Carfax,
 for example, did not know that our PERLMAN had already been in an
-accident.
-<RBLINK>20010905#6</RBLINK>
-.
+accident (<RBLINK>20010905#6</RBLINK>).
 
-After concluding the price negotiations, a decision is made.
-<LINK>http://www.dmv.ca.gov/forms/reg/reg135.htm|Bill of Sale"
-translates to English as "Bill of Sale." It is a legal document that
-records the transfer of ownership of an item from a seller to a
-buyer.</LINK>
-Translate to English: a form that can be downloaded as a PDF from the
+After successful price negotiations, the deal can be sealed with
+the <LINK>http://www.dmv.ca.gov/forms/reg/reg135.htm|bill of sale form"</LINK>
+that can be downloaded as a PDF from the
 California Department of Motor Vehicles (DMV). It is only half a page
 long and you only need to fill in the names and addresses of the
-seller and buyer, the purchase price, and the VIN. The seller signs
-it. To exclude liability, you should draft a document that includes
+seller and the buyer, the purchase price, and the VIN. The seller signs
+it. To exclude any seller liability, you should draft a document that includes
 the phrase "Sold 'As-Is' without Warranty.
 
-The buyer then pays. But how? You don't just carry a few thousand
-dollars around in your pocket, and besides, everyone is afraid of
+The buyer then pays. But how? Most people carry a few thousand
+dollars around in their pockets, and besides, everyone is afraid of
 counterfeit money because dollar bills have very few security
 features. Additionally, cash leaves no traceable records in the
 banking industry, and proving how much money actually changed hands
-is almost impossible afterwards if disputes arise.
+is almost impossible afterwards if a dispute arises.
 
-American checks for larger amounts are not accepted by anyone who is
+American paper checks for larger amounts are not accepted by anyone who is
 reasonably sane. They are often not covered and "bounce," which means
-that the recipient simply does not receive the money. Even if
+that the recipient simply won't receive any money. Even if
 everything goes well, it often takes up to a week for a check to
 "clear," meaning the money from the transaction arrives in the
 recipient's account. Usually, the money arrives earlier, but it
@@ -352,12 +342,12 @@ confirmed. It's hair-raising.
 <pic images/cashcheck.ps (#3) A cashier's check.>
 
 For car purchases, people use so-called "Cashier's Checks." The buyer
-goes to the bank (which is open on Saturdays here in the USA),
+goes to a bank branch (which is open on Saturdays here in the USA),
 requests a Cashier's Check from the teller for the negotiated car
 price, and has it made out to the name of the recipient. The amount
 on the check is immediately deducted from the buyer's account. This
-ensures that the check does not bounce. The check is signed by the
-teller, not the buyer. During the purchase, the buyer hands the
+ensures that the check won't bounce. The check is signed by the
+teller, not the buyer. As part of the purchase process, the buyer hands the
 Cashier's Check to the seller, who then deposits it at their bank.
 One should not lose the check, as it cannot be easily canceled. There
 have been fraud cases with counterfeit Cashier's Checks, so sometimes
@@ -365,7 +355,7 @@ the seller asks the buyer to accompany them to the bank to deposit
 the check. This way, any potential fraud would be immediately
 detected.
 
-In order for a car to legally change ownership, the seller must sign
+In order for a car to legally change ownership status, the seller must sign
 the vehicle title, known as the "Certificate of Title" (illustration
 (#1)), twice. Once to release the car ("the signature below releases
 interest in the vehicle") and once to confirm the stated mileage.
@@ -376,34 +366,33 @@ confused with the termination notice for workers, also called a "Pink
 Slip," which was also printed on pink paper. "To get the pink slip"
 means "to be fired" in America. But I digress.
 
-Later, for a while, a colorful mixture of colors could be seen on the
-vehicle registration document, and it was called the "Rainbow Title."
-Nowadays, it is pink again with a blue border, and people usually
-just call it the "Title." At the very bottom, there is a signature
-field for a "Lienholder," but this is only relevant if the car
-doesn't actually belong to the seller but to the bank, for example,
-because it was financed. Otherwise, this field simply remains empty.
+Following the pink period for the title, for a while, a colorful mixture of
+colors could be seen on the vehicle registration document, and it was called
+the "Rainbow Title." Nowadays, it is pink again with a blue border, and people
+usually just call it the "Title." At the very bottom, there is a signature
+field for a "Lienholder," but this is only relevant if the car doesn't actually
+belong to the seller but to the bank, for example, because it was financed.
+Otherwise, this field simply remains empty.
 
-The "Title" is transferred to the buyer's possession after the seller
+The "Title" is handed to the buyer after the seller
 has removed the top part with the red boxes. The seller fills out
 this form and sends it by mail to the Department of Motor Vehicles
 (DMV) so that they are informed of the transaction. This is important
 because the responsibility for the vehicle (accidents, tickets) is
 thereby transferred from the seller to the buyer.
 
-<pic images/title2.ps (#2) The back of the "Rainbow Title," which the
-buyer fills out to register the car.>
+<pic images/title2.ps (#2) The back of the "Rainbow Title," which the buyer fills out to register the car.>
 
-When a private individual sells a car, they must ensure that a
-certificate for an emissions test ("Smog Test") passed no more than
-three months ago is available. The DMV has this data electronically,
-making it impossible to cheat. The buyer has the right to the
-corresponding certificate but must explicitly request it from the
+When a private individual sells a car, in California they must ensure that a
+certificate for an emissions test ("Smog Test") has been obtained no longer than
+three months ago. The DMV has this data electronically,
+making it impossible to cheat. The buyer has the right to a valid smog
+certificate, but must explicitly request it from the
 seller.
 
 On the back of the vehicle registration certificate (#2), the buyer
-enters their information and takes it to the DMV office. There, they
-pay a re-registration fee (about $30) and a "Use Tax" on the purchase
+enters his information and takes it to the DMV office. There, he
+pays a re-registration fee (about $30) and a "Use Tax" on the purchase
 price. This tax is as high as the sales tax in California (8.5% in
 San Francisco). When buying a car from a dealer, the sales tax is
 typically added by the dealer, but since the insatiable state of
@@ -429,17 +418,19 @@ owner within two weeks. On this new title, the signature fields are
 blank again, and the new owner can later sell the car again using the
 same procedure.
 
-It is also common to have the car inspected by a mechanic for a price
+It is also common to have the car inspected by a mechanic pre sale for a price
 of about $50. The potential buyer bears the cost. Of course, you can
 never be completely sure that you won't be ripped off, which is why I
-recommend conducting such transactions preferably with colleagues.
+recommend conducting such transactions preferably with colleagues at work.
 
-The threshold for committing fraud is relatively high, after all,
-everyone knows where the other works and can cause quite a stir if
-problems arise unexpectedly. I bought a colleague's car through
+Committing fraud between colleagues is relatively unlikely, after all,
+you  knows where the other party works and can cause quite a stir if
+problems arise unexpectedly. I bought a colleague's car at
 Yahoo, and everything went smoothly. It was her husband's favorite
 car, but since she couldn't drive a manual transmission, he had to
 sell it!
+
+TODO
 
 @Z: San Francisco Views: Hunters Point
 
