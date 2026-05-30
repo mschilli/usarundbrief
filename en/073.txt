@@ -430,23 +430,19 @@ Yahoo, and everything went smoothly. It was her husband's favorite
 car, but since she couldn't drive a manual transmission, he had to
 sell it!
 
-TODO
-
 @Z: San Francisco Views: Hunters Point
 
-<pic images/sohpstreet.ps Scene from the film "Straight Out of
-Hunters Point>
+<pic images/sohpstreet.ps Scene from the film "Straight Out of Hunters Point>
 
 <em>Michael</em> 
 In our series "San Francisco Views," today we visit the notorious
-twin neighborhood "Bayview"/"Hunters Point." It is located so far
+twin neighborhood "Bayview/Hunters Point." It is located so far
 south that no tourist ever wanders there, and that's a good thing.
 Long-time residents of San Francisco cringe at just hearing the name
 of the neighborhood, would never drive there under any circumstances,
 and strongly advise any newcomer against even approaching the area.
 
-<pic images/hunters-point-sf-openstreetmap.ps Hunters Point is
-located on the southeastern outskirts of San Francisco.>
+<pic images/hunters-point-sf-openstreetmap.ps Hunters Point is located on the southeastern outskirts of San Francisco.>
 
 The book on Bayview/Hunters Point (illustration (#3)) from the
 well-known neighborhood series, which dedicates a volume to each
@@ -454,8 +450,7 @@ district of San Francisco, only features old black-and-white photos
 and reminisces about past times when Hunters Point was still a
 relatively normal working-class area with a shipyard.
 
-<pic images/sfhpbook.ps (#3) The book "San Francisco's Bayview
-Hunters Point>
+<pic images/sfhpbook.ps (#3) The book "San Francisco's Bayview Hunters Point">
 
 <pic images/hppower.ps The substation in Hunters Point.>
 
@@ -464,35 +459,31 @@ down. The predominantly black shipyard workers were dismissed and
 housed in barrack-like social housing buildings in the neighborhood.
 Over the years, the conditions deteriorated dramatically, and by the
 1970s, a veritable slum had developed, where rival street gangs were
-causing trouble.
+causing trouble every night.
 
-<pic images/sohptitle.ps The film "Straight Out of Hunters Point>
+<pic images/sohptitle.ps The movie "Straight Out of Hunters Point">
 
 <pic images/sohpturf.ps The corridors in the evening news>
 
-The documentation
-<LINK>http://www.youtube.com/watch?v=8EAvqpM2cXU|Straight out of
-Hunters Point</LINK>
-It provides quite a good insight into the catastrophic conditions
+The documentation <LINK>http://www.youtube.com/watch?v=8EAvqpM2cXU|Straight out of Hunters Point</LINK>
+provides quite a good insight into the catastrophic conditions
 there. Although there is a handful of dedicated people trying to turn
 the neighborhood around, it is not easy for the residents to escape
 the vortex of violence and drugs. And since in America the schools of
 a neighborhood are mainly funded by the residents through property
-taxes, the schools in Hunters Point look like a mess. The children
-learn nothing, and the parents don't care -- the next generation of
+taxes, the schools in Hunters Point are a big mess. Children
+learn nothing, and parents don't care -- the next generation of
 gangsters is pre-programmed.
-<LINK>http://www.youtube.com/watch?v=q2nqOds6YgM|The translation of
-"Musik-Video 'Straight out of Hunters Point'" to English is "Music
-video 'Straight out of Hunters Point'.</LINK>
-Some gangsta rappers from the run-down neighborhood boast about their
+In the <LINK>http://www.youtube.com/watch?v=q2nqOds6YgM|Music-Video 'Straight out of Hunters Point'</LINK>
+you can see some gangsta rappers from the run-down neighborhood boast about their
 misdeeds.
 
 Although news reports about shootings in Hunters Point no longer
 appear daily, it's practically impossible for an ordinary citizen to
 drive around there. The newsletter reporter, known as a
-thrill-seeker, ventured in anyway with a car, camera, and GPS--on a
+thrill-seeker, ventured in there anyway by car, equipped with camera, and GPS--on a
 Sunday morning, when the worst criminals are known to still be
-asleep. Some were still around and looked somewhat puzzled. A car
+asleep. Some were still around, looking somewhat puzzled. A car
 with two menacing-looking figures even turned around and followed the
 reporter's car, but he had already taken his photos and sped away at
 full throttle.
@@ -500,23 +491,22 @@ full throttle.
 <pic images/poproj1.ps The "Project" in Potrero Hill>
 
 The phenomenon of completely run-down neighborhoods in the USA is
-often associated with the so-called "projects." In this type of
+often associated with so-called "projects." In this type of
 public housing, barrack-like buildings were simply placed in solid
-residential areas and populated with marginalized social groups. Much
+residential neighborhoods and populated with marginalized social groups. Much
 to the dismay of the local residents, of course, who saw the value of
 their homes plummet to dizzying depths. Urban planners hoped that the
 newcomers would integrate, but they found that after a few years, the
-buildings became totally dilapidated and the crime rate in the
-neighborhood skyrocketed.
+buildings became totally dilapidated and the neighborhood crime rate
+skyrocketed.
 
-<pic images/poproj2.ps Green and orange houses in the "Project" in
-Potrero Hill>
+<pic images/poproj2.ps Green and orange houses in the "Project" in Potrero Hill>
 
 In the "Potrero Hill" neighborhood in San Francisco, there is also
 such a "project," and it's still quite lively there today. Anyone who
 takes the 48 bus, which I have dubbed the "adventure bus," from the
-Caltrain station on 22nd Street to Noe Valley will experience one or
-two adventures, especially in the evenings.
+Caltrain station on 22nd Street to Noe Valley will experience at least one or
+two adventures, especially in the evening hours after dark.
 
 Nowadays, "projects" are usually smaller houses that are built with
 more architectural sophistication. There's one on Cesar Chavez Street
@@ -529,17 +519,17 @@ care" attitude.
 
 <pic images/hpchurch.ps A small church in Hunters Point.>
 
-<pic images/hpschool.ps It actually looks quite idyllic in Hunters
-Point, but only on Sunday mornings.>
+<pic images/hpschool.ps It actually looks quite idyllic in Hunters Point, but only on Sunday mornings.>
 
 And Hunters Point even has some nice areas where residents get
 involved and take a stand against the bleak everyday life of the
 projects.
-<LINK>http://youtube.com/watch?v=t48cvDtPtZo|The video "Hunters Point
-Heroes</LINK>
-It introduces people who carry out small projects (e.g., creating a
+<LINK>http://youtube.com/watch?v=t48cvDtPtZo|The video "Hunters Point Heroes</LINK>
+introduces people who carry out small projects (e.g., creating a
 small garden), achieve minor improvements, and are immediately
-celebrated as everyday heroes. America and its optimism!
+celebrated as everyday heroes. America, and its optimism!
+
+TODO
 
 @Z: Indian tribes and their casinos
 
