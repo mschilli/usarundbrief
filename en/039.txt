@@ -3,6 +3,7 @@ San Francisco, 09-17-2002
 
 @Z: San Diego and Mexico
 
+
 <pic images/board.ps Surfer Dude in San Diego>
 
 <em>Angelika</em> When Michael set off for the Perl conference, sponsored by
