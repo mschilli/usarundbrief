@@ -529,30 +529,35 @@ introduces people who carry out small projects (e.g., creating a
 small garden), achieve minor improvements, and are immediately
 celebrated as everyday heroes. America, and its optimism!
 
-TODO
-
 @Z: Indian tribes and their casinos
 
-Arnie is campaigning to vote 'yes'.
+<pic images/arnieprop.ps Arnie is campaigning to vote 'yes'.>
 
 <em>Michael</em> 
 Currently, commercials are haunting television, in which even our
-beloved...
+beloved
+<LINK>https://www.youtube.com/watch?v=ueUMHseWauM|Gouvernator Arnie Schwarzenegger</LINK>
+is urging people to vote "Yes" in the upcoming referendum on so-called "Indian
+Gaming." We’ve already covered the principle behind these so-called
+propositions in <RBLINK>20040826#4</RBLINK>: they are public votes on all sorts
+of local political odds and ends. However, they also exist at the state level,
+and the current Propositions 94, 95, 96, and 97 -- the ones Arnie is talking about
+in his unmistakable Styrian accentconcern an agreement that the State of
+California has worked out with the Native American tribes, under which the
+tribes will pay higher fees from their highly successful casino operations than
+they have in the past.
 
-Indians? Casinos? What?" you might be asking now, and I think I need
+"Indians? Casinos? What?" you might be asking now, and I think I need
 to elaborate a bit. Not so long ago, the indigenous people, the
 Indians, lived on the American continent. Then the Spaniards came
-first...
-<RBLINK>20000526#1</RBLINK>
-..and later all sorts of other people settled on the land of the
+<RBLINK>20000526#1</RBLINK>, and later all sorts of other people settled on the land of the
 Native Americans. They resisted vehemently in some cases, but
 ultimately succumbed to the Europeans, who plied the Native Americans
 with firewater and took their land from them in not always fair ways.
 
 Nowadays, Native Americans either live integrated into society or
-isolated in so-called reservations.
-<RBLINK>20061011#2</RBLINK>
-That goes so-so, their huts are quite poor, and people hang around on
+isolated in so-called reservations (<RBLINK>20061011#2</RBLINK>).
+That goes so-so, their houses there are not in good shape, and people hang around on
 the street, just a 'No Motivation/No Future' kind of society. Since
 they don't make a lot of money from the few pearl necklaces and straw
 baskets they produce, they lack the funds to build schools and
@@ -573,28 +578,28 @@ are 400 Native American casinos spread across America, generating a
 total of 18 billion dollars annually!
 
 A years-long back-and-forth ensued, resulting in the tax burden on
-the Native Americans being gradually increased. California recently
-even brokered a deal whereby the Native Americans will pay three
+Native Americans being gradually increased. California recently
+even brokered a deal whereby Native Americans will pay three
 times as much in taxes as before.
-
 
 But for some, that is still not enough, and that's why especially
 regular casinos and teachers' associations (which benefit from more
 money in the state treasury) are mobilizing against the rigged
 contract. Both groups apparently have tons of cash, as they are
-constantly broadcasting...
+constantly
+<LINK>http://www.youtube.com/watch?v=7BMjNRMon0Y|broadcasting at TV prime time</LINK>
+Even the
+<LINK>http://www.youtube.com/watch?v=UO_P0gJACGk|evening news</LINK>
+have sched light on the issue from several view points.
 
-As always, there are two sides to the story of the
-<LINK>http://en.wikipedia.org/wiki/Indian_gaming|Indian Gaming"
-refers to the gambling operations conducted by Native American tribes
-in the United States. These operations are typically regulated under
-the Indian Gaming Regulatory Act and can include casinos, bingo
-halls, and other gaming activities on tribal lands.</LINK>
+As always, there are two sides to the story.
 What amuses me about the whole back and forth, however, are the
-completely transparently manipulative commercials, which were
+completely transparently manipulative commercials, which are
 technically sophisticated in filming and editing, but the content
 shows that amateur demagogues were at work here. We can't vote
-anyway, but we still watch the commercials with interest.
+anyway, but we still watch these commercials from the edge of our seats.
+
+TODO
 
 @Z: Chicago
 
