@@ -12,8 +12,6 @@ Francisco as brushing your teeth. And we don't drive particularly
 slowly either, but the speed traps on the side of the highway are so
 obvious that only the absent-minded would fail to notice them.
 
-TODO
-
 Automatic camera radar traps are illegal in the USA, but
 unfortunately, there are more and more speed cameras at traffic
 lights, which apparently are allowed due to a legal loophole. And
@@ -22,7 +20,9 @@ arrived, stating that our new car, the so-called "Rocket," ran a red
 light on the east side of the Bay in the Emeryville district (Alameda
 County).
 
-<pic images/blitz1.ps The scammer intersection in Emeryville.>
+<pic images/blitz1.ps The money-making intersection in Emeryville.>
+
+TODO
 
 The letter included a web address where one could watch a video
 illustrating the sequence of events. Indeed, the video showed the
