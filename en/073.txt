@@ -529,7 +529,7 @@ introduces people who carry out small projects (e.g., creating a
 small garden), achieve minor improvements, and are immediately
 celebrated as everyday heroes. America, and its optimism!
 
-@Z: Indian tribes and their casinos
+@Z: Indian Tribes and Their Casinos
 
 <pic images/arnieprop.ps Arnie is campaigning to vote 'yes'.>
 
@@ -599,11 +599,9 @@ technically sophisticated in filming and editing, but the content
 shows that amateur demagogues were at work here. We can't vote
 anyway, but we still watch these commercials from the edge of our seats.
 
-TODO
-
 @Z: Chicago
 
-<pic images/chictrain.ps The elevated railway in Chicago>
+<pic images/chictrain.ps The elevated train in Chicago>
 
 <em>Angelika</em> 
 There aren't many American cities that really blow you away, as many
@@ -625,25 +623,24 @@ zoo.
 Now you must know that Chicago is colloquially known as the "windy
 city," which didn't initially impress me much as a true North German.
 However, in winter, the temperatures there are similar to those in
-Germany, and there's snow as well. So, we reconsidered and stocked up
+Germany, and there's snow as well. So, we planned ahead and stocked up
 on winter jackets and boots. A wise decision, because on New Year's
-Eve it promptly snowed, and it was cold in Chicago.
+Eve it promptly snowed, and it was really cold in Chicago.
 
-<pic images/chicpuffball.ps Angelika, snugly wrapped in her puffer
-anorak at a subway station in Chicago.>
+<pic images/chicpuffball.ps Angelika, snugly wrapped in her puffer anorak at a subway station in Chicago.>
 
-Nonetheless, we really liked the city. Not only is there a great
+Nonetheless, we really liked Chicago. Not only is there a great
 subway system (not a given in America), but it even has the romantic
-variant where the trains partially run as elevated trains through
-downtown and other neighborhoods. And that in the truest sense of the
-word, because the system is quite old in some parts. The mix of the
-most modern architecture alongside old, still ornate skyscrapers and
-historic brownstone buildings gives the city a special touch. You can
+variant where the trains partially run on elevated tracks through
+downtown and other neighborhoods. They make an infernal noise in operation,
+because the system is quite old in some parts. The mix of the
+mostly modern architecture alongside old, still ornate skyscrapers and
+historic brownstone buildings gives Chicago a special touch. You can
 also find charming little neighborhoods like in San Francisco,
 without chain stores but with interesting, independent shops and good
 restaurants in Chicago. The Wicker Park neighborhood, for example,
-reminded us of Valencia Street in San Francisco.
-<RBLINK>20070820#3</RBLINK>
+reminded us of Valencia Street in San Francisco (<RBLINK>20070820#3</RBLINK>).
+
 By the way, Chicago has a lake ("Lake Michigan") right in the middle
 of the city (hence the wind), which is surely wonderful in the
 summer, but not suitable for delicate Californian plants in the
@@ -651,14 +648,10 @@ winter. We spent hours in the heated "Art Institute," an impressive,
 enormous museum that offers everything from European and American
 paintings to photography and contemporary modern art, delighting the
 heart of any art lover. So if you're planning your next trip to
-America, don't hesitate to put Chicago on your list.
+the USA, don't hesitate to put Chicago on your list.
 
-<pic images/chicmuemmel.ps Angelika curled up on the windowsill of
-the hotel room.>
+<pic images/chicmuemmel.ps Angelika curled up on the windowsill of the hotel room.>
 
-Good evening, everyone!
+Good night, everyone!
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
