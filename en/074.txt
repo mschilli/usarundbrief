@@ -193,12 +193,10 @@ cards and eventually be unable to pay them off. As a precaution, they
 have significantly increased the interest rates for people who do not
 pay their bills on time and are therefore considered high-risk.
 
-TODO
-
-The stock market tremor arose once again because the credit
-institutions continued to sell the mortgages on the financial
-markets. They bundled the individual loans into tradable securities,
-which were then even rated as safe by the experts. However, when the
+In turn, the stock market tremor arose because credit
+institutions continued to sell the mortgages to the financial
+markets. They bundled individual loans into tradable securities,
+which were then rated as safe by the experts. However, when the
 mortgage loans started to default one after another due to falling
 house prices, unrest suddenly spread among investors. Credit
 institutions that had been particularly eager to invest in these
@@ -211,11 +209,9 @@ money more tightly. At least they are drinking fewer lattes and
 frappuccinos, as the coffeehouse chain "Starbucks" announced this
 week a profit decline of up to 28 percent.
 
-<pic images/starbucks.ps The financially struggling customer saves
-money first by cutting back on small pleasures, like a cup of coffee
-at Starbucks.>
+<pic images/starbucks.ps Financially struggling customers save money first by cutting back on small pleasures, like a cup of coffee at Starbucks.>
 
-But rescue is in sight. Starting this week, the tax office, under the
+But rescue is in sight. Starting this week, the tax administration, under the
 directive of President Bush and the American Congress, is sending
 checks to citizens to encourage them to spend more. Anyone who filed
 a tax return in 2007, had an income of at least $3,000, and possesses
@@ -227,7 +223,7 @@ gifted sums will turn the tide.
 
 <pic images/stimulus1.ps But the president is sending us money ...>
 
-<pic images/stimulus2.ps ... so that the economy is stimulated!>
+<pic images/stimulus2.ps ... so that the economy gets stimulated!>
 
 According to the latest statistics released at the beginning of the
 week, California, along with Florida, Arizona, and Nevada, has the
@@ -250,17 +246,13 @@ San Francisco have increased by 14.4 percent compared to last year.
 Somehow, we seem to be magically drawn to cities that come with high
 rents!
 
-@Z: Amerikanische Duschen" translates to "American showers" in
-English.
+@Z: American Showers
 
-<pic images/faucet.ps (#42) The lever that you have to pull up to
-divert the water from the bathtub to the shower.>
+<pic images/faucet.ps (#42) The lever that you have to pull up to divert the water from the bathtub to the shower.>
 
 <em>Angelika</em> 
-The translation of "Ich habe ja schon einmal im" to English is "I
-have already once in the".
-<RBLINK>20070820#1</RBLINK>
-The somewhat unusual American windows have been reported on, but
+In <RBLINK>20070820#1</RBLINK> I previously reported on the
+somewhat unusual windows here in America, but
 American showers also have their quirks. There have been several
 amusing scenes in our apartment when German overnight guests were
 baffled by our shower because they didn't know how to turn on the
@@ -272,7 +264,7 @@ some detective skills to operate the fixtures. When you turn on the
 faucet, the water initially comes out of the bathtub spout. First,
 you need to determine the desired temperature by turning the knob.
 Then, you have to pull the lever with the round head (see
-illustration (#42)) on the bathtub faucet to redirect the water to
+Figure (#42)) on the bathtub faucet to redirect the water to
 the showerhead.
 
 <pic images/dusche.ps (#41) The faucet to turn the water on and off.>
@@ -288,13 +280,15 @@ cannot tolerate cold water at all, always stands outside the shower
 in motels while he lets the shower run warm with his fingertips. Once
 a comfortable temperature is reached, he gets in.
 
-The showerheads are usually fixed to the wall, not removable, and
-without a hose. It's a wonder that we manage to get clean every day.
+One more quirk: The showerheads in the U.S. are usually fixed to the wall, not
+removable, and without a hose. It's a miracle that we manage to get clean every
+day.
 
 @Z: Mandatory health insurance for employees
 
-<pic images/hcsomenu.ps (#1) A crook restaurant simply adds an
-imaginary tax.>
+<pic images/hcsomenu.ps (#1) A crooked restaurant simply adds an imaginary tax.>
+
+TODO
 
 <em>Michael</em> 
 Recently, we had lunch at the restaurant "MoMo's" in San Francisco's
