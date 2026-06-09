@@ -22,50 +22,43 @@ County).
 
 <pic images/blitz1.ps The money-making intersection in Emeryville.>
 
-TODO
-
 The letter included a web address where one could watch a video
 illustrating the sequence of events. Indeed, the video showed the
 rocket, driven by Michael, who had made a quick right turn on red
 after shopping at Ikea, which is generally allowed in the USA.
 However, one must come to a brief stop beforehand, similar to a stop
 sign. Apparently, the driver wanted to get home as quickly as
-possible at the time of the incident to assemble the newly purchased
+possible at the time of the incident, to assemble the newly purchased
 Ikea furniture. In any case, he interpreted the rule a bit too
-liberally and sped around the corner without stopping. The flash
-video (see below)
+liberally and sped around the corner without stopping. I've uploaded
+the video for your entertainment, click on the link below.
 
-The racing newsletter reporter doesn't stop before making a right
-turn at a red light.
+<VIDEO>hcfsMEPgNS4|The intrepid newsletter reporter doesn't make a complete stop before making a right turn at a red light.</VIDEO>
 
 The "ticket" wasn't exactly cheap, 381 dollars! The city of
 Emeryville, a thoroughly rundown East Bay rat hole, apparently needs
-every cent and is happy to squeeze innocent visitors from the world
+every cent and is happy to squeeze innocent visitors from the metropolitan
 city of San Francisco, who don't want to waste time in the
 godforsaken place and quickly pass through!
 
-<pic images/blitz2.ps The video camera of the Alameda police
-officers>
+<pic images/blitz2.ps The traffic light camera run by the County of Alameda>
 
-No worries, one can afford it. But the problem with such an offense
+No worries, I can afford it. But the problem with such an offense
 is, of course, that you get a point on your California driving
-record, which the car insurance company finds out about, and they
-promptly raise the liability premiums. This can amount to thousands
+record, which your car insurance company finds out about, and they
+will promptly raise the monthly premiums. This can amount to thousands
 of dollars a year!
 
-<pic images/ticourt.ps The court is being lenient and allows
-attendance at a traffic school so that the car insurance company does
-not find out about the incident.>
+<pic images/ticourt.ps The court is being lenient and allows attendance at a traffic school so that the car insurance company does not find out about the incident.>
 
 To avert this misfortune, there is the option to pay a slightly
 higher fee ($410) and spend a day in a traffic course ("Traffic
 School"). While this doesn't directly save money, you still receive a
-point, but your car insurance doesn't find out about it. However,
+point, but your car insurance won't find out about it. However,
 this is only possible if you haven't used this trick in the last 18
 months.
 
-<pic images/tipay.ps The insatiable court charges an additional fee
-if one attends traffic school.>
+<pic images/tipay.ps The insatiable court charges an additional fee if one attends traffic school.>
 
 The training lasts 8 hours and is conducted by specialized and
 licensed private companies, which you can choose from a list. To
@@ -77,17 +70,15 @@ chose an online school.
 With $20 via credit card, I enrolled in the course and was then
 presented with page after page of traffic rules, videos of severe
 traffic accidents, and animations of typical traffic situations. It
-mainly focuses on the consequences of drunk driving, uncontrolled
+mainly focused on the consequences of drunk driving, uncontrolled
 speeding, and the so-called "road rage," where people become so angry
 behind the wheel that they yell at other drivers and insult them with
-obscene hand gestures (which in the USA...
-<em>nicht</em> 
-The translation to English is: "is punishable) and to shoot around
-with pistols from the glove compartment. The latter, however, is
-illegal.
+obscene hand gestures (which in the USA is <em>not</em> 
+a punishable offense) and to shoot around with pistols from the glove compartment.
+The latter, however, is illegal.
 
-You can pause the course as often as you like, but altogether I've
-already spent about eight hours in front of the computer. You have to
+You can pause the course as often as you like, but altogether I spent
+spent about eight hours in front of the computer. You have to
 be as watchful as a hawk and read the text on the pages very
 carefully, because after each chapter there is an interim exam where
 you have to answer 10 multiple-choice questions without any mistakes.
@@ -97,28 +88,27 @@ questions will follow.
 To ensure that the driving school knows that the same test-taker is
 sitting in front of the computer the entire time and hasn't handed
 over the task to a friend, you have to answer ten personal questions
-at the beginning of the course (Figure #13): how many siblings you
+at the beginning of the course (Figure (#13)): how many siblings you
 have, what your favorite sport is, and so on. Then, at random
 intervals during the course, one of these questions will pop up, and
 you must know the correct answer within 90 seconds. Since, for
 security reasons, I never answer such questions truthfully, I
-actually had to save the answers I provided externally!
+actually had to save the answers I provided separately!
 
-<pic images/idsq.ps (#13) Ten questions whose answers you need to
-know for the attendance check.>
+<pic images/idsq.ps (#13) Ten questions whose answers you need to know for the attendance check.>
 
 Before the final exam, some courts, such as the Oakland court
 responsible for my case, require that the examinee also be identified
 by name. To do this, one can either go to a certified testing center,
 present an ID, and take the test there, or be identified online with
-the help of one of the three major credit bureaus. In...
+the help of one of the three major credit bureaus. In
 <RBLINK>20040518#4</RBLINK>
-We have already reported on these institutions that, similar to
+we have already reported on these institutions that, similar to
 Schufa in Germany, meticulously track the credit history of every
-citizen. To identify the person being checked, three multiple-choice
-questions pop up, the answers to which should only be known by the
+American. To identify the person taking the test, three multiple-choice
+credit bureau questions pop up, the answers to which should only be known by the
 person in whose name the ticket was issued. For example, they might
-ask at which of the following four banks one has taken out a
+ask at which of the following four banks you have taken out a
 mortgage. Or what the last four digits of the person's secret Social
 Security number are, with the correct number to be selected from a
 list of four given options.
@@ -135,12 +125,14 @@ you have known? The answers will be in the next newsletter.
 
 I passed the final exam with 88%, while 80% was required. I'm quite a
 clever little fox who can remember numbers pretty well, but how
-someone with a bit less in the brain is supposed to manage that is
-beyond me. After passing the exam, the driving school sends you an
-official-looking paper certificate by mail, which you then send to
-the court by mail upon receipt. This then concludes the process and
-keeps quiet towards the insurance company. You can check online if
-and when this finally happens. Let's hope it works out...
+someone with a bit less in the brain is supposed to manage this test is
+beyond me. After passing the exam, the driving school sent me an
+official-looking paper certificate by mail, which I then sent to
+the court by registered mail. This concludes the process and
+they supposedly keep quiet towards the insurance company. You can check the
+progress online. Let's hope it all works out...
+
+TODO
 
 @Z: American housing market in crisis
 
