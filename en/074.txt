@@ -132,9 +132,7 @@ the court by registered mail. This concludes the process and
 they supposedly keep quiet towards the insurance company. You can check the
 progress online. Let's hope it all works out...
 
-TODO
-
-@Z: American housing market in crisis
+@Z: American Housing Market In Crisis
 
 <pic images/forsale0.ps The housing market in the USA is collapsing.>
 
@@ -144,7 +142,7 @@ housing market would eventually collapse. He regularly sent newspaper
 articles to the homeowners among his colleagues that supported his
 hypothesis. We are considered a bit of an anomaly since we still
 rent. In overpriced cities like San Francisco and New York, where
-house and land prices, along with the property taxes to be paid, have
+real estate prices, along with the property taxes to be paid, have
 long taken on surreal proportions, renting is indeed the more
 financially sensible solution.
 
@@ -154,9 +152,7 @@ the middle class. American campaign slogans always include promises
 to increase the percentage of homeowners, especially among
 minorities.
 
-<pic images/forsale1.ps Real estate offers no longer entice a dog out
-from behind the stove This is a German idiom meaning that real estate
-offers are no longer attractive or interesting to anyone.>
+<pic images/forsale1.ps Real estate offers no longer find any takers.>
 
 Now, after the internet bubble burst in 2001, the housing bubble has
 also recently burst, causing international stock markets to tremble.
@@ -166,28 +162,28 @@ prices couldn't continue to rise at such a frantic pace, if only
 because of the laws of supply and demand. But the unyielding optimism
 of many Americans, low interest rates, greedy real estate agents, and
 unscrupulous bankers who smelled big money and issued risky loans,
-blindly led to the crisis. Would-be homeowners were enticed with
-fantasy terms.
+inevitably led to the crisis.
 
+Would-be homeowners were enticed with too-good-to-be true conditions on loans.
 Many buyers paid nothing upfront when purchasing a house and opted
 for adjustable-rate mortgages. In these cases, the interest rate is
-often initially unbeatable for the first one or two years and then
+often initially unbeatably low for the first one or two years and then
 rises rapidly. There were also models where the borrower initially
-only had to pay the interest on the borrowed amount, but not the
-principal itself. But why did the financial institutions engage in
+only had to pay the interest on the borrowed amount, but not make any payments
+against the principal. But why did financial institutions engage in
 such risky maneuvers? As long as house prices were rising, everything
 was fine, because even if the homeowner could no longer make their
-payments, the bank would be pleased, as the house would revert to the
+payments, the bank would be pleased, as the house would go back to the
 bank, which would then sell it off at a much higher price.
 
-<pic images/forsale3.ps Even nobody wants this yuppie bunker.>
+<pic images/forsale3.ps Nobody even wants this yuppie bunker.>
 
-Additionally, the so-called "Home Equity Loans" became extremely
+Additionally, so-called "Home Equity Loans" became extremely
 popular. These are loans that homeowners took out based on the
 increased value of their homes. Originally, these loans were used,
 for example, to finance home improvement projects. However, during
-the euphoria of the boom years, many people spent the money on other
-consumer goods or simply to afford a higher standard of living. But
+the euphoria of the recent real estate boom years, many people spent the money on other
+consumer goods, or simply to afford a higher standard of living. But
 as house prices continue to plummet, resulting in millions of
 Americans having mortgages that are now higher than the actual value
 of their homes, the equation unfortunately no longer works out.
@@ -197,6 +193,7 @@ cards and eventually be unable to pay them off. As a precaution, they
 have significantly increased the interest rates for people who do not
 pay their bills on time and are therefore considered high-risk.
 
+TODO
 
 The stock market tremor arose once again because the credit
 institutions continued to sell the mortgages on the financial
