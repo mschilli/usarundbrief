@@ -284,42 +284,36 @@ One more quirk: The showerheads in the U.S. are usually fixed to the wall, not
 removable, and without a hose. It's a miracle that we manage to get clean every
 day.
 
-@Z: Mandatory health insurance for employees
+@Z: Mandatory Health Insurance For Employees
 
 <pic images/hcsomenu.ps (#1) A crooked restaurant simply adds an imaginary tax.>
-
-TODO
 
 <em>Michael</em> 
 Recently, we had lunch at the restaurant "MoMo's" in San Francisco's
 Soma District and, to our surprise, found a note in small print at
-the bottom of the menu: According to this, the place simply adds 3.5%
+the bottom of the menu: It read that the place simply adds 3.5%
 to every bill without asking, a so-called "San Francisco Health Care
 Security Ordinance Service Charge" (Figure (#1)).
 
 In fact, there has been a law in San Francisco since January 8, 2008,
-that...
-<LINK>http://www.sfgov.org/site/olse_index.asp?id=45168|The
-translation of "Health Care Security Ordinance (HCSO)" to English is
-already provided, as it is originally in English.</LINK>
-Translate to English: "which requires employers to provide health
+the so-called
+<LINK>http://www.sfgov.org/site/olse_index.asp?id=45168|"Health Care Security Ordinance (HCSO)"</LINK> which requires employers to provide health
 insurance for their employees if the establishment employs more than
 20 people. Naturally, this doesn't sit well with the restaurants, and
 they have not only filed a lawsuit against the city but also seem to
 be ripping off unsuspecting guests. The waiter working at the
-restaurant in question only knew that it was a 'New San Francisco
-Thing' and that he hadn't seen any of the money yet.
+restaurant in question only knew that it was a "New San Francisco
+Thing" and that he hadn't seen any of the money yet.
 
 There is certainly nothing wrong with health insurance for employees,
-but there is an objection to surreptitiously adding this amount to
+but it's simply wrong to surreptitiously add this amount to
 the bill. In that case, the restaurant should simply raise the prices
 on the menu! However, it seems that some prefer to lead their guests
 by the nose instead.
 
-<pic images/hcsocheck.ps (#2) The amount is listed separately on the
-invoice.>
+<pic images/hcsocheck.ps (#2) The amount is listed separately on the bill.>
 
-And a few days later at the "Incanto" restaurant in our neighborhood,
+And, a few days later, at the "Incanto" restaurant in our neighborhood,
 we noticed a "Service Charge" of 5%, supposedly to cover the tip for
 the kitchen staff. In theory, as a guest, you could deduct this
 amount from the waiter's tip, but who really does that? The waiter
@@ -327,23 +321,17 @@ isn't responsible for the greedy management's schemes. The only
 solution is to boycott these places for the time being; if the guests
 stay away, maybe they'll get the message.
 
+<pic images/savor.ps The restaurant "Savor" in our neighborhood also boldly adds a dollar per guest to the bill to pay for their employees' health insurance.>
+
 Let's face the facts: On a $50 bill, not only do you have an 8.5%
 sales tax (which is $4.25) and an additional 15-20% tip for the
 waiter on the total amount ($8.14 - $10.85), but also a new
 restaurant fantasy tax of 3-5% ($1.50 - $2.50)? So, the $50 on the
-menu becomes $67.60? Where are you going, San Francisco?
+menu becomes $67.60? Where are you going with this, San Francisco?
 
-<pic images/savor.ps The restaurant "Savor" in our neighborhood also
-boldly adds a dollar per guest to the bill to pay for their
-employees' health insurance.>
+@Z: Parking On the Edge Of Madness
 
-@Z: The title "Parken am Rande des Wahnsinns" translates to "Parking
-on the Edge of Madness" in English.
-
-<pic images/scsign.ps (#3) Translation:
-
-Top: The street sweeper comes on Tuesday between 12 and 2 PM. Bottom:
-The new silly residential parking zone Z.>
+<pic images/scsign.ps (#3) Top: The street sweeper comes on Tuesday between 12 and 2 PM. Bottom: The new silly residential parking zone Z.>
 
 <em>Michael</em> 
 We have often described the catastrophic parking conditions in our
@@ -353,35 +341,31 @@ which is marked by appropriate traffic signs. Within this zone, you
 are only allowed to park for 2 hours on weekdays from 8 a.m. to 6
 p.m. if you do not have the corresponding permit on your car.
 
-The badge is only given to those who live on the respective street.
+This badge is only given to those who live on the respective street.
 Now, our place is on 24th Street, where there is no parking zone,
-only parking meters, so we're screwed, we don't get a badge, and we
-have to search in the few remaining side streets without parking
+only parking meters, and we don't get a badge and are screwed. We
+have to search for spots in the few remaining side streets without parking
 zones until we're blue in the face! Initially, only a few streets had
-the regulation, but more and more residents couldn't find a parking
-spot and submitted petitions to have their street included in the
-nonsense as well.
+the new regulation, but more and more residents couldn't find a parking
+spot because of the change and submitted petitions to have their street
+included in the nonsense as well.
 
-We now have two cars, the old Perlman and the new rocket.
-<RBLINK>20080203#3</RBLINK>
+We now have two cars, the old Perlman and the new rocket
+(<RBLINK>20080203#3</RBLINK>).
 The rocket is in the garage, Perlman has to spend the night on the
-street. But that also means that we can have the good old parking
-games again.
-<RBLINK>20010701#5</RBLINK>
-The translation to English is: "Once a week, the street sweeper
-comes, and then the Perlman has to be moved, otherwise there will be
-a parking ticket that costs $40.
+street. But that also means that we're busy playing the old parking
+games again (<RBLINK>20010701#5</RBLINK>).
+Once a week, the street sweeper comes to our neighborhood, and then
+Perlman has to be moved, otherwise there will be a parking ticket that costs
+$40.
 
-
-However, people are reluctant to give up a good parking spot, and
-many just drive away briefly, let the street sweeper pass, and then
+However, residents are reluctant to give up a good parking spot, and
+many just drive off briefly, let the street sweeper pass, and then
 immediately squeeze back into the old spot. What tourists don't know,
 and locals are reluctant to reveal: Even if the traffic sign
 (illustration (#3)) states that the street sweeper passes through on
 Tuesday between 12 and 2 PM, you can still park there during that
-time frame.
-<em>nachdem</em> 
-The street sweeper has driven through.
+time frame <em>after</em> the street sweeper has done its work.
 
 Through years of time-consuming studies, I have discovered that the
 street sweeper on 23rd Street, where street cleaning according to the
@@ -391,24 +375,23 @@ set schedule, which is established somewhere in the secret archives
 of the city of San Francisco, and which he must read, memorize, and
 then eat.
 
-Documentary video: The street sweeper is coming to our area.
+<VIDEO>kLR0uxooEf8|Documentary video: The street sweeper is coming to our area.</VIDEO>
 
-Before the street sweeper, what I call wasps drive.
-<RBLINK>20010701#5</RBLINK>
-Here's the translation to English:
-
-") those who distribute the parking tickets. (By the way, the
+Minutes before the street sweeper comes by, an armada of what I call
+"parking ticket wasps" (<RBLINK>20010701#5</RBLINK>) are scurrying the area
+Before the street sweeper, what I call wasps drive (<RBLINK>20010701#5</RBLINK>)
+to distribute parking tickets to those cars that are still parked there.
+(By the way, the
 official name of these cute three-wheelers, whose drivers wear
-bicycle helmets, is "Interceptor".) The trick is to move a car parked
-there around 12:15, lurk nearby, and as soon as the street sweeper
+bicycle helmets, is "Interceptor".) Now, the trick is to move your parked
+car around 12:15, keep lurking nearby, and as soon as the street sweeper
 passes through at 12:26, reclaim the old parking spot.
 
 Since I always work from home on Tuesdays, I quickly leave the house
-at noon, get the car, and repark it. Recently, I even made a
+at noon, get the car, and repark it. Recently, I even shot a
 documentary video (see above).
 
-<pic images/jersey.ps (#21) A prematurely grumpy desk jockey from
-Jersey Street hung a nasty note on our car.>
+<pic images/jersey.ps (#21) An anonymous coward on Jersey Street hung a nasty note on our car.>
 
 Overregulation of this kind is sprouting up in San Francisco like
 mushrooms. The former city of revolutionaries has become a home for
@@ -424,29 +407,25 @@ sure enough, some desk jockey from Jersey Street stuck a note on our
 car and accused us with harsh words (see illustration (#21)). What an
 idiot!
 
-<pic images/googbus.ps (#22) The neighborhood newspaper writes about
-uncool prematurely aged people in our district who complain about the
-Google buses.>
+<pic images/googbus.ps (#22) The neighborhood newspaper writes about uncool prematurely aged people in our district who complain about the Google buses.>
 
-And when the company Google picks up its employees with the shuttle
-in San Francisco and these buses rumble through the quiet streets at
-night, there is an immediate outcry. In illustration (#22), you can
-see the corresponding...
-<LINK>http://www.noevalleyvoice.com/2007/July-August/Goo.html|The
-translation to English is: "Announcement in the neighborhood
-newspaper 'Noe Valley Voice'</LINK>
+Another source of complaints seems to be the company Google picking up its
+employees by shuttle
+in San Francisco. These buses are rumbling through the quiet streets at
+night, and there was an immediate outcry! In illustration (#22), you can
+see the corresponding <LINK>http://www.noevalleyvoice.com/2007/July-August/Goo.html|article in the neighborhood newspaper 'Noe Valley Voice'</LINK>.
 The headline, by the way, features the rarely used verb "to rankle."
 Look it up in the dictionary to see what it means. Among cool people,
 there is once again a tendency to move to the South American
-neighborhood of Mission or even to quite run-down areas like Hunters
-Point.
-<RBLINK>20080203#4</RBLINK>
-... to escape the wannabe alternatives in our neighborhood.
+neighborhood "Mission" or even to quite run-down areas like Hunters
+Point (<RBLINK>20080203#4</RBLINK>) to escape the wannabe alternatives
+in our neighborhood.
 
-@Z: Election campaign and no end in sight
+@Z: Election Campaign And No End In Sight
 
-<pic images/obama4.ps The resident of this apartment in the Castro is
-an Obama fan.>
+<pic images/obama4.ps The resident of this apartment in the Castro is an Obama fan.>
+
+TODO
 
 <em>Angelika</em> 
 Currently, the Republican presidential candidate has been determined,
