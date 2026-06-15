@@ -1,9 +1,9 @@
 
 San Francisco, den 1.11.2000
 
-<pic images/bi20.ps Ein Lavabatzen fängt an zu fließen auf Big Island/Hawaii>
-
 @Z: Hawaii: Big Island
+
+<pic images/bi20.ps Ein Lavabatzen fängt an zu fließen auf Big Island/Hawaii>
 
 <em>(Michael)</em>
 Hallo daheim, wir waren mal wieder 
