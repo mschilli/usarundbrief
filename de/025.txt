@@ -348,6 +348,8 @@ es ihnen nachgemacht -- aber plötzlich fiel mir ein,
 dass ich bald 36 werde: Schon kurz vor dem Greisenalter! So fotografierten
 wir die Racker nur und kamen uns recht alt vor.
 
+@Z: South Point
+
 <pic images/bi33.ps Zwei rabiate Jugendliche springen die 12 Meter hohen Klippen runter>
 
 Auf einen mittlerweile erloschenen Vulkan mit dem Namen Mauna Kea
@@ -444,6 +446,8 @@ um 2 feststellt, dass man keinen passenden Schraubenschlüssel hat,
 schnell mit einem 24er-Satz nachrüsten kann. Ein Thema, über das man
 sich auch in Deutschland nicht scheuen sollte, nachzudenken!
 
+@Z: Supermarktketten
+
 <pic images/bi47.ps Auch in Kailua-Kona gibt's 'nen Costco-Supermarkt>
 <pic images/costcosf.ps Zum Vergleich: Der Costco in South San Francisco>
 
@@ -495,6 +499,8 @@ Ein Pfund vom Besten kostet
 25 Dollar! Wir schlossen uns einer Führung durch die Plantage an. Die
 Früchte, die auf Sträuchern wachsen und etwa wie Hagebutten aussehen, werden
 gepflückt, wenn sie rot sind. 
+
+@Z: Kona-Kaffee
 
 <pic images/bi41.ps Ein Kaffeestrauch trägt Früchte, die später zu Kaffeebohnen werden>
 
@@ -557,6 +563,8 @@ Was habe ich gelacht, als ich ein paar Minuten später durch einen blöden
 Zufall beinahe wieder in denselben Menschen hineinrauschte. Zum Glück konnte
 ich noch rechtzeitig unten in die Welle reinspringen und abtauchen, sonst
 hätte es einen bösen internationalen Zwischenfall gegeben!
+
+@Z: Tellme
 
 <pic images/bi43.ps Sonne, Wolken und Wasser in Hawaii>
 
