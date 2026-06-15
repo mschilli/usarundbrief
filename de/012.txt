@@ -1,8 +1,8 @@
 San Francisco, den 20.12.1998
 
-<pic images/sf.ps Weihnachtsgrüße von unserem Hausdach>
-
 @Z: Weihnachten 1998
+
+<pic images/sf.ps Weihnachtsgrüße von unserem Hausdach>
 
 <em>(Angelika)</em>
 Nachdem euch Michaels letzter Rundbrief scheinbar gut unterhalten hat, 
