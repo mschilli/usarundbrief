@@ -253,7 +253,6 @@ tan. Oh yes, we already miss the German vacation conditions ...
 <pic images/perlman.ps No problems with the smog test: good old Perlman.>
 
 <em>Michael</em> 
-<RBLINK>20050701#5</RBLINK>
 We have previously reported in <RBLINK>20050701#5</RBLINK>
 that there is no German TÜV (Technical Inspection Association) in America,
 but there is a biennial emissions
