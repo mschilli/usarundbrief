@@ -1,13 +1,11 @@
 San Francisco, 07-12-2008
 
-@Z: California is still burning!
+@Z: California Is Still Burning!
 
 <pic images/wildfire.ps The hilly forests in Northern California are particularly affected.>
 
-TODO
-
 <em>Angelika</em> 
-Fires are as much a part of everyday life in California as
+Fires are as much a part of everyday life here in California, just like
 earthquakes. Every year, there are fires somewhere in late summer,
 often in Southern California, where it is hotter and drier. However,
 this year the wildfires are reaching alarming proportions. Over 1,700
@@ -21,30 +19,28 @@ thunderstorms here. The flames are not directly at our doorstep, but
 they are relatively close to San Francisco, so at times it smells in
 San Francisco as if everyone had just lit their fireplace and grill.
 
-<pic images/firefighter.ps The firefighter is extinguishing with full
-hoses.>
+<pic images/firefighter.ps The firefighter is extinguishing the fire full blast.>
 
-The sun was barely visible through the haze during the day, and we
-were even advised to stay indoors. The coastal section of Big Sur,
+At times, the sun was barely visible through the haze during the day, and
+we were even advised to stay indoors. The coastal section of Big Sur,
 which is considered one of the most beautiful parts of the southern
-stretch of Highway 1 and is located about 230 kilometers south of San
-Francisco, has been particularly hard hit, as firefighters have so
-far managed to contain only 20 percent of the fire. They suspect it
-will take until the end of July to get the fire completely under
-control. Those familiar with the area might wonder how it can burn
-there, as Big Sur is famous for its fog and is located right by the
-ocean. Therefore, the humidity is not exactly low, and the forests
-are full of "Redwood" trees, which are quite resistant to fire and
-thus become very old. However, the dry grass and brush still burn
-like tinder, as California has not received enough rain in the last
-two winters.
+stretch of Highway 1 and is located about 150 miles south of San
+Francisco, has been particularly hard hit, as firefighters have so far
+managed to contain only 20 percent of the fire there. They suspect it will
+take until the end of July to get the fire completely under control. Those
+familiar with the area might wonder how it can burn there, as Big Sur is
+famous for its fog and is located right by the ocean. Therefore, the
+humidity is not exactly low, and the forests are full of "Redwood" trees,
+which are quite resistant to fire and thus become very old. However, the
+dry grass and brush still burn like tinder, as California has not received
+enough rain in the last two winters.
 
 <pic images/scwildfire.ps The forest is burning near Santa Cruz.>
 
 Now Highway 1 around Big Sur is closed. Normally, at this time of
 year, this dream route is lined with one RV after another. The
 closure is not only a disappointment for tourists but also affects
-businesses and hotels that rely on the summer months to get through
+businesses and hotels that rely on the busy summer months to get through
 the quiet winter. There is also concern for many buildings of
 historical value, as Big Sur has always attracted artists like Henry
 Miller, in whose honor there is, for example, a library in Big Sur.
@@ -54,23 +50,25 @@ Miller, in whose honor there is, for example, a library in Big Sur.
 In May, there was already a fire in the mountains near Santa Cruz,
 which is only about an hour's drive south of San Francisco. As luck
 would have it, we were invited to a friend's place for the obligatory
-American barbecue about 20 km from the fire zone. Since nothing
+American barbecue about 10 miles from the fire zone. Since nothing
 really shocks us that easily, we went anyway and were able to watch
 the smoke and the repeatedly flaring flames all evening. If the
 forest fires continue like this, we might all soon have to help with
 extinguishing them, as the firefighters are slowly reaching their
 limits.
 
+@Z: Oahu
+
 <pic images/beachboy.ps Retiree on the beach in Hawaii.>
 
 <em>Michael</em> 
-In early June, we once again took a retiree vacation to Hawaii. To
+In early June, we once again went on an old folks vacation to Hawaii. To
 European ears, this might sound absurd, but if we want to hang out on
 the beach for a week relatively inexpensively and without much
-hassle, we quickly head to Hawaii. The flight from San Francisco
+hassle, Hawaii is our preferred destination. The flight from San Francisco
 takes about five hours, which is easy to endure. You don't need a
 passport, just a California driver's license, and you can shop in
-familiar supermarkets and pay with the same currency in the island
+familiar supermarkets and pay with the same currency on the island
 paradise as you do at home.
 
 <pic images/kbeach.ps Jogger on the beach of Kailua.>
@@ -78,14 +76,16 @@ paradise as you do at home.
 Especially the main island of Oahu is very American and partly very
 ugly, but to Angelika's dismay, I don't really mind that. Of course,
 we don't hang around in Waikiki, which is more like a party scene
-similar to Ballermann in Mallorca. Instead, as we have often done, we
-rented a vacation apartment from private individuals this year, just
+similar to Ballermann in Mallorca. Instead, as we have often done, this
+time we
+rented a vacation apartment from private individuals, just
 two minutes away from a relatively little-visited beach, and we hung
 out at the beach with regular local Hawaiian-Americans and a handful
 of tourists.
 
-<pic images/oahujapan.ps Japanese tourists are rushing out of a tour
-bus.>
+<pic images/oahujapan.ps Japanese tourists are rushing out of a tour bus.>
+
+TODO
 
 In the tourist hotspots, it mainly attracts Japanese people because
 Hawaii is their Mallorca. By the way, Japanese people are, as I
@@ -100,8 +100,7 @@ The capital, Honolulu, even has some authentic spots, such as a small
 Asian quarter, but if you're familiar with San Francisco, you might
 just smirk arrogantly at that.
 
-<pic images/oahukim.ps A passport office in Honolulu specialized for
-Chinese people.>
+<pic images/oahukim.ps A passport office in Honolulu specialized for Chinese people.>
 
 One day, we actually got ourselves together, drove a bit into the
 city, and took some photos. It is noticeable that the residents walk
@@ -109,21 +108,16 @@ much slower than elsewhere in the USA. You just have to stand on a
 busy street and calmly observe the pedestrian traffic; it's almost
 like slow motion.
 
-<pic images/oahuhobo.ps The translation of "Sogar Penner gibt's in
-Honolulu" to English is "There are even bums in Honolulu.>
+<pic images/oahuhobo.ps There are even bums in Honolulu.>
 
 Interestingly, there is already a striking difference between the
 East and West Coasts of America; a New Yorker walks and talks much
 faster than someone who lives in California. But compared to Hawaii,
 even Californians move like startled rabbits.
 
-@Z: Pearl Harbor" is already in English. It refers to a harbor on the
-island of Oahu, Hawaii, which is known for the surprise military
-attack by the Japanese Navy Air Service on December 7, 1941, leading
-to the United States' entry into World War II.
+@Z: Pearl Harbor
 
-<pic images/phmem.ps Tourists are marching into the Pearl Harbor
-Memorial.>
+<pic images/phmem.ps Tourists are marching into the Pearl Harbor Memorial.>
 
 <em>Michael</em> 
 And this time we even took in the cultural program about "Pearl
@@ -168,11 +162,9 @@ built across the ship. Today, if you take the free "Pearl Harbor
 Tour" as a tourist, you can see how oil still leaks from the inside
 of the ship and floats around in the harbor!
 
-<pic images/phoil.ps Oil is still leaking from the shipwreck of the
-USS Arizona.>
+<pic images/phoil.ps Oil is still leaking from the shipwreck of the USS Arizona.>
 
-<pic images/phshoe.ps Extremely well-polished shoes of the Navy
-sailor who steered the ship to the Pearl Harbor Memorial.>
+<pic images/phshoe.ps Extremely well-polished shoes of the Navy sailor who steered the ship to the Pearl Harbor Memorial.>
 
 The whole thing is, of course, set up in a rather grandiose manner,
 and I even shook the hand of a roughly hundred-year-old war veteran
@@ -188,10 +180,9 @@ surprise attack on Pearl Harbor, the USA entered World War II,
 dropped two atomic bombs on Japan, and, with the help of the
 remaining Allies, thoroughly halted Germany as well. Living history!
 
-@Z: Same-sex marriage in California
+@Z: Same-Sex Marriage in California
 
-<pic images/gm1.ps A newly married couple in the Castro District in
-San Francisco.>
+<pic images/gm1.ps A newly married couple in the Castro District in San Francisco.>
 
 <em>Angelika</em> 
 The translation of the provided text to English is:
@@ -234,8 +225,7 @@ people typically file two income tax returns: one for the state in
 which they reside ("State Income Tax") and one at the federal level
 ("Federal Income Tax").
 
-<pic images/gm2.ps Even the public transportation companies in San
-Francisco show solidarity with same-sex couples.>
+<pic images/gm2.ps Even the public transportation companies in San Francisco show solidarity with same-sex couples.>
 
 Immigration laws are also federal laws and do not apply to registered
 partnerships. This situation does not change with the legalization of
@@ -261,9 +251,7 @@ However, this is associated with some hurdles, as most states have
 already legally established that a marriage is only valid between a
 man and a woman.
 
-<pic images/gm5.ps The "Twin Peaks Cafe," a local establishment in
-the Castro District, is celebrating the court ruling on same-sex
-marriage.>
+<pic images/gm5.ps The "Twin Peaks Cafe," a local establishment in the Castro District, is celebrating the court ruling on same-sex marriage.>
 
 In California, various conservative groups are also trying to put an
 end to same-sex marriage. In November 2008, Californians will vote on
@@ -286,8 +274,7 @@ puts on a balancing act when it comes to the issue of same-sex
 marriage. He cannot afford to expose himself to overly liberal ideas
 among his fellow Republican party members.
 
-<pic images/gm4.ps There are now not only bride and groom, but also
-bride-bride and groom-groom.>
+<pic images/gm4.ps There are now not only bride and groom, but also bride-bride and groom-groom.>
 
 It is rumored that he is actually in favor of it in private, after
 all, the Hollywood star has many homosexual friends. I also found it
@@ -298,11 +285,9 @@ bring the state of California up to 684 million dollars. That's our
 definitely celebrating, and the stores are stocking their shelves
 with wedding cards featuring groom and groom and bride and bride.
 
-@Z: The translation of "Wie man sich beschwert" to English is "How to
-complain.
+@Z: How To Complain
 
-<pic images/yellphone.ps Sometimes you have to complain on the
-phone.>
+<pic images/yellphone.ps Sometimes you have to complain on the phone.>
 
 <em>Michael</em> 
 If you get ripped off or treated rudely, you should complain. But how
@@ -375,7 +360,7 @@ English.</LINK>
 The translation to English is: "to find a professional lawyer (named
 after the bar exam, not an establishment for alcohol consumption).
 
-@Z: Cheap gasoline when buying a car
+@Z: Cheap Gasoline When Buying A Car
 
 <pic images/guzzler.ps The rascal from Jeep promises cheap gasoline.>
 
@@ -417,10 +402,9 @@ the cars at the dealership.
 Chrysler and Jeep will cover the cost of gasoline for three years
 when purchasing a new car.
 
-@Z: Benzinsparen
+@Z: Saving Gas
 
-<pic images/suburb1.ps The suburbanite in the first house has
-probably already regretted the purchase of the two lobsters.>
+<pic images/suburb1.ps The suburbanite in the first house has probably already regretted the purchase of the two lobsters.>
 
 <em>Angelika</em> 
 In addition to the gimmicks described by Michael, car dealers are
@@ -453,8 +437,7 @@ The urban sprawl in America has led to a situation where almost all
 daily activities, such as shopping, prioritize the use of cars. With
 skyrocketing gas prices, this puts a strain on people's wallets.
 
-<pic images/suburb2.ps Typical suburban neighborhood in South San
-Francisco.>
+<pic images/suburb2.ps Typical suburban neighborhood in South San Francisco.>
 
 However, the infrastructure cannot be changed overnight, as for years
 no one invested in the public transportation system, and local small
@@ -487,10 +470,9 @@ could no longer see over. The head of Starbucks promised to correct
 both issues, in addition to closing 600 stores, in order to avert the
 crisis.
 
-@Z: Hands-free starting from July first
+@Z: Hands-Free Starting From July First
 
-<pic images/cellphone.ps Starting July 1st, it is prohibited to make
-phone calls while driving.>
+<pic images/cellphone.ps Starting July 1st, it is prohibited to make phone calls while driving.>
 
 <em>Angelika</em> 
 Driving in San Francisco and the surrounding area can often drive you
@@ -561,10 +543,9 @@ was (a). Because if the grass is tall and dry and the engine is quite
 hot, it can cause a grass fire. No kidding, that was the correct
 answer!
 
-@Z: Homestory about Michael
+@Z: Homestory About Michael
 
-<pic images/homestory.ps The Linux magazine publishes a home story
-about Michael.>
+<pic images/homestory.ps Linux Magazine publishes a home story about Michael.>
 
 <em>Michael</em> 
 And one more note on my own behalf: For the tenth anniversary of the
@@ -581,8 +562,7 @@ I'm working on it, but I can't perform miracles!
 
 @Z: San Francisco Views: Kirby Cove
 
-<pic images/kirby.ps The secret beach "Kirby Cove" north of the
-Golden Gate Bridge.>
+<pic images/kirby.ps The secret beach "Kirby Cove" north of the Golden Gate Bridge.>
 
 <em>Angelika</em> 
 Summer is here, the dollar is incredibly low, and the tourism office
