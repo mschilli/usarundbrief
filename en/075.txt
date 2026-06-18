@@ -85,20 +85,15 @@ of tourists.
 
 <pic images/oahujapan.ps Japanese tourists are rushing out of a tour bus.>
 
-TODO
-
 In the tourist hotspots, it mainly attracts Japanese people because
 Hawaii is their Mallorca. By the way, Japanese people are, as I
-recently told someone...
-<LINK>http://www.time.com/time/world/article/0,8599,1820358,00.html|T
-he translation of "Bericht Ã¼ber die Touristenbeliebtheit" to English
-is "Report on Tourist Popularity.</LINK>
-In the magazine "Time," I was able to gather that, according to
-surveys, the French are the most hated tourists worldwide, but that's
-just by the way. We usually prefer to venture off the beaten path.
+recently read in a <LINK>http://www.time.com/time/world/article/0,8599,1820358,00.html|Report on Tourist Popularity</LINK>, the world's most liked
+tourists. Also according to the survey, the French are the most hated tourists worldwide, in case you were wondering.
+
+On Hawaii, we usually prefer to venture off the beaten path.
 The capital, Honolulu, even has some authentic spots, such as a small
-Asian quarter, but if you're familiar with San Francisco, you might
-just smirk arrogantly at that.
+Chinatown, but if you're familiar with San Francisco, you might just scoff
+arrogantly at that.
 
 <pic images/oahukim.ps A passport office in Honolulu specialized for Chinese people.>
 
@@ -106,11 +101,12 @@ One day, we actually got ourselves together, drove a bit into the
 city, and took some photos. It is noticeable that the residents walk
 much slower than elsewhere in the USA. You just have to stand on a
 busy street and calmly observe the pedestrian traffic; it's almost
-like slow motion.
+like watching slow motion.
 
 <pic images/oahuhobo.ps There are even bums in Honolulu.>
 
-Interestingly, there is already a striking difference between the
+Interestingly, there is already a striking difference in pedestrian speed
+between the
 East and West Coasts of America; a New Yorker walks and talks much
 faster than someone who lives in California. But compared to Hawaii,
 even Californians move like startled rabbits.
@@ -118,6 +114,8 @@ even Californians move like startled rabbits.
 @Z: Pearl Harbor
 
 <pic images/phmem.ps Tourists are marching into the Pearl Harbor Memorial.>
+
+TODO
 
 <em>Michael</em> 
 And this time we even took in the cultural program about "Pearl
