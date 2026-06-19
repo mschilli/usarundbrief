@@ -428,8 +428,6 @@ What won't we do!
 
 <pic images/vote.ps The election campaign for the presidential election in November is in full swing.>
 
-TODO
-
 <em>Angelika</em> 
 American party conventions are perfectly organized productions. The
 presidential candidate is officially nominated, presented in the best
@@ -482,10 +480,10 @@ Such personal anecdotes are expected by the general public in the USA
 to be able to identify with the candidate. Quoting the American Dream
 (or the "idea of America," as Obama put it) was, of course, also a
 must. This is particularly true for Barack Obama, as he became the
-first Black person to win the presidential nomination of one of the
+first black person to win the presidential nomination of one of the
 major parties.
 
-The columned backdrop as the stage set for his speech seemed a bit
+The Roman style columned backdrop as the stage set for his speech seemed a bit
 strange to me, though. The Democratic Party was still basking in the
 success of their convention and celebrating the historical
 significance of this nomination when John McCain stole the show from
@@ -528,9 +526,8 @@ What I absolutely do not understand, however, is that his plan also
 seems to be working. Since he placed Palin by his side, he has, in
 some polls, moved ahead of Barack Obama. As one of my favorite
 columnists,
-<LINK>http://www.nytimes.com/2008/09/13/opinion/13herbert.html|Bob
-Herbert from the New York Times</LINK>
-The statement correctly points out that the goal here is not to
+<LINK>http://www.nytimes.com/2008/09/13/opinion/13herbert.html|Bob Herbert from the New York Times</LINK>,
+correctly points out, the goal here is not to
 choose the next "American Idol" (the equivalent in Germany is
 "Deutschland sucht den Superstar"), but to find a qualified Vice
 President who can step in as President if necessary. As is well
@@ -572,6 +569,8 @@ prominently display her pregnant daughter and her boyfriend on stage
 at the convention. She even brought her disabled baby along. I just
 hope that this country will still surprise me and elect the first
 black president in November. That would be something.
+
+TODO
 
 @Z: Generous Americans
 
