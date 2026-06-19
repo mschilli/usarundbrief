@@ -468,12 +468,10 @@ unorthodox driving style, abrupt braking, long unnecessary stops at
 stop signs, running red lights, and overlooking pedestrians at
 crosswalks give them away.
 
-TODO
-
 I can sing a song about near-accidents due to the cell phone plague.
 And although it has long been known that using a cell phone while
 driving leads to many traffic fatalities, California has only been
-one of the five American states since July 1, 2008, where drivers are
+one of five American states since July 1, 2008, where drivers are
 only allowed to make calls while driving using a built-in hands-free
 system or an earpiece (hence the slogan "Hands free").
 
@@ -491,13 +489,13 @@ their ear, and 50 dollars the second time. I think that's too low,
 but supposedly the 20 dollars actually amount to 76 dollars because
 of the fees that are added on top, and the 50 dollars shoot up to 190
 dollars because of this. However, there are no points added to the
-California driver's record for this offense. By the way, some
-comedians have made fun of the hands-free motto and demonstrated,
-<LINK>http://www.ireport.com/docs/DOC-42985#|The translation of the
-German phrase "was die Autofahrer jetzt alles anstellen kÃ¶nnen" to
-English is "what drivers can do now.</LINK>
-...because they no longer have to hold the phone to their ear: they
-can tinker on the laptop, eat, write cards. But it is really funny
+California driver's record for this offense.
+
+By the way, some
+comedians have made fun of the hands-free motto and demonstrated
+<LINK>http://www.ireport.com/docs/DOC-42985#|what drivers can do now</LINK>
+because they no longer have to hold the phone to their ear: they
+can tinker on the laptop, eat, write greeting cards. But it is really funny
 what Californian drivers do in their cars. Recently, Michael and I
 saw someone brushing their teeth with an electric toothbrush while
 behind the wheel. The question that plagued me was where he intended
@@ -517,20 +515,20 @@ was (a). Because if the grass is tall and dry and the engine is quite
 hot, it can cause a grass fire. No kidding, that was the correct
 answer!
 
-@Z: Homestory About Michael
+@Z: Homestory Featuring Michael
 
 <pic images/homestory.ps Linux Magazine publishes a home story about Michael.>
 
 <em>Michael</em> 
 And one more note on my own behalf: For the tenth anniversary of the
 magazine column that I write every month for the German Linux
-Magazine, the magazine has a kind of...
-<LINK>http://www.linux-magazin.de/heft_abo/ausgaben/2007/10/ich_denke
-_in_perl|Home-Story</LINK>
-Published, which is now finally available online. With some photos,
+Magazine, the magazine had a kind of
+<LINK>http://www.linux-magazin.de/heft_abo/ausgaben/2007/10/ich_denke_in_perl|Home-Story</LINK>
+published, which is now finally available online. With some photos,
 our exciting life in San Francisco is documented and my heroic deeds
 are praised. I think it turned out quite well, quite entertaining,
-and even relatively accurate. My next goal is the cover of "Capital"
+and even relatively accurate. My next goal is to be on the cover of the
+German finance magazine "Capital",
 when I finally achieve the big breakthrough with a startup company.
 I'm working on it, but I can't perform miracles!
 
@@ -539,9 +537,10 @@ I'm working on it, but I can't perform miracles!
 <pic images/kirby.ps The secret beach "Kirby Cove" north of the Golden Gate Bridge.>
 
 <em>Angelika</em> 
-Summer is here, the dollar is incredibly low, and the tourism office
+Summer is here, and the dollar exchange rate is incredibly low.
+The tourism office
 in San Francisco is rubbing its hands with glee because San Francisco
-is still highly popular among American and European tourists. And
+is still highly popular among American and European tourists! And
 since we don't want you to wander along the well-trodden tourist
 paths, today I'm going to share a little insider tip with you once
 again.
@@ -552,31 +551,28 @@ to see the bridge and is on the lookout for the best photo
 opportunity. However, no one who lives in San Francisco goes to the
 official viewpoint, which is located just right behind the bridge
 heading out of the city, because there you not only have to contend
-with tour buses but also fight for a parking spot during the high
-season on weekends.
+with tour buses but also fight for a parking spot during busy times
+like on weekends.
 
-Only at the next exit "Alexander Avenue" does the local driver go
-down and then follow the signs to "Marin Headlands." You reach
+Instead, local drivers proceed to the next 101 exit, "Alexander Avenue",
+and then follow the signs to "Marin Headlands." You reach
 Conzelman Road, which leads up the mountain and repeatedly offers
-fantastic views of the bridge and city. Provided, of course, that the
+fantastic views of the bridge and the city. Provided, of course, that the
 latter is not shrouded in fog. However, it seems that this is already
 mentioned in every travel guide, and on weekends, you're not exactly
 alone here. The Marin Headlands area is also very popular among us
 city dwellers for hiking and cycling. But right behind the crowded
 viewpoint "Battery Spencer," a bit hidden and off the main road, lies
 the beach "Kirby Cove." You can only reach it by walking down a
-1.6-kilometer-long and relatively steep, unpaved road lined with
+1-mile-long and relatively steep, unpaved road lined with
 eucalyptus trees. This naturally leads to a certain dropout rate and
 thus prevents the masses from flocking there. The path ends at a
 crescent-shaped beach that offers the Golden Gate Bridge and the city
 of San Francisco as a backdrop. If you're feeling adventurous, you
 can also camp here, but only with a prior reservation. Michael and I
-still plan to do that someday. Then we'll report live from the
-campsite on the edge of the city.
+still plan on doing that someday. Then, we'll report live from the
+campsite on the edge of the city!
 
 Best regards!
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
