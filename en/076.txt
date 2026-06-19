@@ -260,15 +260,13 @@ were divided into seven regions, each of which was assigned one of
 the new entities to exclusively manage the telephone business in that
 area.
 
-TODO
-
 The parent company AT&T remained in the long-distance business, while
 the "Baby Bells" focused on local telephony. However, in 1996, the
 "Telecommunications Deregulation Act" allowed the Baby Bells to also
 engage in the long-distance business.
 
 When we moved to California in 1996, we had a local telephone company
-called "Pac Bell," where we paid about $20 a month for a phone line.
+called "Pac Bell," to which we paid about $20 a month for a phone line.
 This included local calls, and for "local toll calls," which are
 calls in the nearby area, we paid a few cents per minute to Pac Bell.
 
@@ -278,30 +276,17 @@ tried desperately to poach customers from their competitors. They
 would call their competitors' customers at dinnertime, engage them in
 seemingly harmless conversations, and in the end, the telephone
 customer would find themselves with a different telephone company.
-This so-called...
+
+This practice was called
 <LINK>http://en.wikipedia.org/wiki/Telephone_slamming|Slamming</LINK>
-The translation to English is: "It was, of course, illegal, and the
+and was, of course, illegal. The
 regulatory authority FCC stepped in after some time to rap the
 telephone companies on the knuckles.
 
 One of the three long-distance providers, MCI, went bankrupt in 2002.
-Their CEO
-<LINK>http://en.wikipedia.org/wiki/Bernard_Ebbers|Bernie Ebbers is a
-proper noun, specifically a name, and does not require translation.
-Bernie Ebbers was a Canadian businessman known for being the CEO of
-WorldCom, a telecommunications company that was involved in a major
-accounting scandal in the early 2000s.</LINK>
-The translation to English is: "was slapped with 25 years for fraud
-and is now sitting with the
-<LINK>http://www.bop.gov/iloc2/InmateFinderServlet?Transaction=IDSear
-ch&needingMoreList=false&IDType=IRN&IDNumber=56022-054&x=0&y=0|The
-term "HÃ¤ftlingsnummer" is German and translates to "prisoner number"
-in English. Therefore, "HÃ¤ftlingsnummer #56022-054" translates to
-"Prisoner number #56022-054" in English.</LINK>
-The term "HÃ¤ftlingsnummer" is German and translates to "prisoner
-number" in English. Therefore, "HÃ¤ftlingsnummer #56022-054"
-translates to "Prisoner number #56022-054" in English.
-In prison in Oaksdale, Louisiana. Expected release date: 2028.
+Their CEO <LINK>http://en.wikipedia.org/wiki/Bernard_Ebbers|Bernie Ebbers</LINK>
+was slapped with 25 years for fraud and is now in prison, wearing <LINK>http://www.bop.gov/iloc2/InmateFinderServlet?Transaction=IDSearch&needingMoreList=false&IDType=IRN&IDNumber=56022-054&x=0&y=0|prisoner number #56022-054</LINK>
+on his jumpsuit, in Oaksdale, Louisiana. Expected release date: 2028.
 
 And now pay close attention: In 1995, the AT&T subsidiary responsible
 for five states around Texas, "Southwestern Bell," renamed itself
@@ -313,15 +298,13 @@ You have to imagine this: A company is forcibly split up, and after a
 few years, a child buys the parent. And not only that, the reunited
 family cheekily renamed itself AT&T, almost as if the forced breakup
 had never happened. A
-<LINK>http://www.youtube.com/watch?v=I6nuwQmhrZ8|The translation to
-English is: "Video of Stephen Colbert.</LINK>
-Illustrates the story vividly and humorously (Many thanks to
+<LINK>http://www.youtube.com/watch?v=I6nuwQmhrZ8|video of comedian Stephen Colbert</LINK>
+illustrates the story vividly and humorously (Many thanks to
 newsletter reader Daniel Scheibli for the link).
 
-<pic images/attletter.ps (#10) AT&T explains that now only one phone
-bill will be sent.>
+<pic images/attletter.ps (#10) AT&T explains that now only one phone bill will be sent.>
 
-Soon, we received a letter (illustration (#10)) at our home,
+Soon after, we received a letter (illustration (#10)) at our home,
 explaining that in the future, we would only need to pay one bill for
 phone, long distance, and internet service (which was previously also
 with Pac Bell). However, the three different phone numbers listed on
@@ -332,8 +315,7 @@ pay a few dollars in advance each month and then get cheaper rates
 for minutes to, for example, Germany), I experienced the extent of
 the chaos in this company.
 
-<pic images/attcall.ps (#11) The phone bill apparently reveals that
-you are actually dealing with four different companies.>
+<pic images/attcall.ps (#11) The phone bill apparently reveals that you are actually dealing with four different companies.>
 
 It starts with dialing a toll-free 1-800 number, telling an automated
 voice what you want, and then listening to idiotic music for an hour
@@ -349,7 +331,7 @@ long-distance calls to the new AT&T with the savings plan I wanted,
 and to make sure everything was done properly, he would now transfer
 me to a "Third Party" (an independent third party) to confirm it, and
 then everything would be set. That made sense to me; this regulation
-was introduced to put a stop to "slamming.
+was introduced to put a stop to "slamming."
 
 It crackled on the line, and a totally annoyed gentleman with a
 robotic voice told me that he would now ask me some questions that I
@@ -373,19 +355,16 @@ questions with "yes" and got the plan I wanted.
 <pic images/attcard.ps (#12) AT&T sends confusing cards home.>
 
 That's just the problem with monopolies: the customer is left in the
-lurch. Or the postcard in illustration (#12) that we recently found
+lurch. Or take the postcard in illustration (#12) that we recently found
 in the mailbox. AT&T sent us a confusing message, and even a call to
 the number provided only gave me fits of laughter. For your
-entertainment, I have the...
-<LINK>images/att.mp3|Navigation through the phone labyrinth</LINK>
-The translation to English is: "Recorded and posted on the internet.
-Completely crazy!
+entertainment, I have the  <LINK>images/att.mp3|Navigation through the phone labyrinth recorded</LINK>. Completely crazy!
 
-@Z: The translation of "Deutsche SpezialitÃ¤ten in USA" to English is
-"German Specialties in the USA.
+@Z: German Specialties In The USA
 
-<pic images/nutella.ps Even at the mega-supermarket Costco, American
-Nutella is available at a bargain price. Double pack: $7.99>
+<pic images/nutella.ps Even at the mega-supermarket Costco, American Nutella is available at a bargain price. Double pack: $7.99>
+
+TODO
 
 <em>Michael</em> 
 We Germans in exile often crave familiar foods that aren't available
