@@ -570,12 +570,10 @@ at the convention. She even brought her disabled baby along. I just
 hope that this country will still surprise me and elect the first
 black president in November. That would be something.
 
-TODO
 
 @Z: Generous Americans
 
-<pic images/fundraiser.ps A website shows who in our neighborhood has
-donated how much to which politician.>
+<pic images/fundraiser.ps A website shows who in our neighborhood has donated how much to which politician.>
 
 <em>Michael</em> 
 Americans are very open about their political views; most have no
@@ -585,11 +583,8 @@ candidate, this information is publicly accessible, and it was really
 only a matter of time before someone took the effort to display this
 on an online map.
 
-The German word "auf" translates to "on" or "onto" in English,
-depending on the context.
-<LINK>http://fundrace.huffingtonpost.com/neighbors.php|fundrace.huffi
-ngtonpost.com</LINK>
-It is easy to find out which neighbors vote conservatively or which
+On the website <LINK>http://fundrace.huffingtonpost.com/neighbors.php|fundrace.huffingtonpost.com</LINK>,
+it is easy to find out which neighbors vote conservatively or which
 neighborhood donates the most money to which party. Donors can find
 not only their name and address there, but also their profession, the
 donated amount, which party received it, and before which election
@@ -598,9 +593,6 @@ donated a whopping $1000 to John Kerry in 2004, who lost to Bush at
 the time! Naturally, I teased him quite a bit about it, as you can
 imagine.
 
-The phrase translates to: "Greetings from two unwilling non-voters:
+Greetings from two unfortunate non-voters:
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
