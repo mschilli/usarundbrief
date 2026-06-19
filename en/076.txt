@@ -4,8 +4,6 @@ San Francisco, 09-23-2008
 
 <pic images/dago1.ps Even Uncle Scrooge was there in the Klondike at that time.>
 
-TODO
-
 <em>Michael</em> 
 If, like me, you used to enjoy reading Donald Duck comics, you surely
 remember that Uncle Scrooge laid the foundation for his fantastillion
@@ -14,8 +12,7 @@ that only the toughest and most cunning gold prospectors made it in
 the Klondike, and that this cold and inhospitable region in Canada's
 Yukon Territory is no place for wimps.
 
-<pic images/paper.ps A newspaper from ages ago reports gold
-discoveries in the Klondike.>
+<pic images/paper.ps A newspaper from ages ago reports gold discoveries in the Klondike.>
 
 In Seattle, we recently visited the "Klondike Museum" and learned
 about how things unfolded back in 1897. Initially, rumors of gold
@@ -27,21 +24,16 @@ factory workers, or bank employees, liquidated their belongings,
 traveled to Seattle, and purchased a year's worth of provisions along
 with gold mining equipment. Ships then transported the so-called
 "Stampeders" (from stampede = trampling herd of buffalo) from Seattle
-in the northwest of the USA up to Alaska.
+in the northwest of the USA, up to Alaska.
 
-<pic images/map.ps From Seattle (S), the gold prospectors set out by
-ship to Alaska, landed in Skagway or Dyea (X), and then continued on
-foot and by raft on the Klondike River to Dawson City (D) in the
-Yukon Territory.>
+<pic images/map.ps From Seattle (S), the gold prospectors set out by ship to Alaska, landed in Skagway or Dyea (X), and then continued on foot and by raft on the Klondike River to Dawson City (D) in the Yukon Territory.>
 
-In Skagway and
-<LINK>http://en.wikipedia.org/wiki/Dyea|Dyea</LINK>
-Translated to English, the passage reads:
-
-"(pronounced: 'Die-ii'), two spots on the map without a proper
-harbor, where they unloaded the provisions, disembarked, and first
+In Skagway and <LINK>http://en.wikipedia.org/wiki/Dyea|Dyea</LINK>
+(pronounced: 'Die-ii'), two spots on the map without a proper
+harbor, they unloaded the provisions, disembarked, and first
 had to overcome a muddy 70-kilometer mountain pass on foot to reach
 Lake Bennett, where they continued with self-built boats and rafts.
+
 In the Yukon area, there was naturally nothing to eat, so the brought
 provisions had to last for a year, weighing about a ton per man. Many
 traversed the pass up to 50 times to get their luggage to the other
@@ -53,11 +45,9 @@ the caravan for hours, which snaked up the mountain pass man-to-man.
 That's how they are, the Americans, and it's still the same in
 traffic today!
 
-<pic images/skagway.ps Gold diggers with provisions after landing in
-Skagway.>
+<pic images/skagway.ps Gold diggers with provisions after landing in Skagway.>
 
-<pic images/chilkoot.ps Every gold prospector carries part of their
-equipment up the Chilkoot Pass.>
+<pic images/chilkoot.ps Every gold prospector carries part of their equipment up the Chilkoot Pass.>
 
 Many realized that they had brought too little provisions or were not
 up to the hardships, so they sold off their equipment and returned
@@ -72,8 +62,7 @@ settlement turned into a bustling town with wooden houses, streets,
 and 30,000 inhabitants by summer. It still exists today, even though
 the gold rush in Dawson ended after just two years.
 
-<pic images/dago2.ps Not for wimps: Gold prospecting in the
-Klondike.>
+<pic images/dago2.ps Not for wimps: Gold prospecting in the Klondike.>
 
 Only a very few became rich in the Klondike, and those who did really
 lived it up, even though in Dawson City, prices for everyday goods
@@ -86,19 +75,16 @@ back then. However, in Dawson City, it was already $1.25.
 However, after the initial gold discoveries, some enterprising
 individuals staked all the gold-bearing claims. Those who arrived
 later often had no choice but to toil for someone else for a daily
-wage. In the photo book...
-<LINK>http://www.amazon.com/dp/1550464531|The Klondike Quest</LINK>
-The translation of the provided text is: "everything is described in
-detail, an exciting story! And about the California Gold Rush in 1849
-and the remaining ghost towns, we have already in the
-<RBLINK>20020201#6</RBLINK>
-briefly reported
+wage. In the photo book
+<LINK>http://www.amazon.com/dp/1550464531|The Klondike Quest</LINK>,
+you can read up on everything in
+detail, an exciting story! And as an avid newsletter reader, you
+probably remember that in <RBLINK>20020201#6</RBLINK> we've previously
+run a short story about the California Gold Rush in 1849.
 
-@Z: Arnie in Not" translates to "Arnie in Distress" or "Arnie in
-Trouble" in English.
+@Z: Arnie In Trouble
 
-<pic images/bankrupt.ps The pockets of the state of California are
-empty.>
+<pic images/bankrupt.ps The coffers of the state of California are empty.>
 
 <em>Angelika</em> 
 As the presidential campaign enters its dirtiest phase, our
@@ -112,6 +98,8 @@ year begins in California. However, it was only this week, more than
 Passing the budget in California requires a two-thirds majority in
 both the state Senate and the House of Representatives. Therefore,
 bipartisan cooperation is currently essential.
+
+TODO
 
 The dispute revolved around how to fill the $15.2 billion budget gap.
 The Democrats wanted to increase our California sales tax, which is
