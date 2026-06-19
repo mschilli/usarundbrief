@@ -99,27 +99,24 @@ Passing the budget in California requires a two-thirds majority in
 both the state Senate and the House of Representatives. Therefore,
 bipartisan cooperation is currently essential.
 
-TODO
-
 The dispute revolved around how to fill the $15.2 billion budget gap.
-The Democrats wanted to increase our California sales tax, which is
+Democrats wanted to increase our California sales tax, which is
 at least 7.25% in California, to 8.25% (San Francisco: from 8.5% to
-9.5%). The Republicans, who view tax increases as one of the greatest
+9.5%). Republicans, who view tax increases as one of the greatest
 evils of humanity, could not agree with this idea at all. Their
 solution was to cut state funds and borrow against future revenues
 from the state lottery.
 
-<pic images/capitol.ps The Capitol in Sacramento: The budget was
-supposed to be passed here.>
+<pic images/capitol.ps The Capitol in Sacramento: The budget was supposed to be passed here.>
 
 Schwarzenegger, who, as you all know, is himself a member of the
 Republican Party, found the proposed tax increase by the Democrats to
 be acceptable. However, he only wanted to allow the increase for
 three years, and then in the fourth year, slightly reduce the sales
-tax below the current rate of 7.25%. This, in turn, made the
+tax below the current rate of 7.25%. This, in turn, made
 Democrats furious.
 
-Let them bash each other's heads in Sacramento," thought many.
+"Let them bash each other's heads in in Sacramento," thought many.
 However, an unapproved budget means that the state of California is
 inadequately meeting its obligations, including to nursing homes and
 public schools. Due to the missing budget, the schools received only
@@ -133,10 +130,9 @@ The union of the affected employees in the correctional system was so
 enraged by this that they initiated a "recall" action against
 Governor Schwarzenegger. This is almost amusing, as Arnie himself
 ousted our then-serving governor from office through a "recall" in
-2005.
-<RBLINK>20031008#1</RBLINK>
-However, the action of the prison guards fell on deaf ears among the
-population of California.
+2005 (<RBLINK>20031008#1</RBLINK>).
+However, the action of the prison guards fell on deaf ears among
+California's voters.
 
 But back to the budget. On September 16, a two-thirds majority was
 finally found for a fourth proposal. In addition to cuts, the gap was
@@ -153,10 +149,9 @@ justified it by arguing that most taxpayers in California underpay
 their taxes in advance and only settle the difference when they file
 their tax returns.
 
-<pic images/arnie2.ps Governor Arnie doesn't have it easy, but he's
-doing a good job.>
+<pic images/arnie2.ps Governor Arnie doesn't have it easy, but he's doing a good job.>
 
-More money in the coffers ultimately doesn't result from this either.
+This won't generate any additional funds for the empty coffers either.
 Schwarzenegger raged, among other things, about the absurdity of the
 financial gimmicks in the proposal and threatened to veto it, meaning
 he would not sign the budget. In response, the legislators shouted
@@ -169,16 +164,15 @@ off the table. However, companies are expected to pay significant
 penalties if they do not prepay enough California taxes.
 Schwarzenegger also ensured that the "Rainy Day Fund" (the fund where
 reserves for tough times are kept) is strengthened and that there are
-stricter rules on when it can be tapped. The borrowing against
-anticipated lottery revenues remained in the budget but still
+stricter rules on when it can be tapped. Borrowing against
+anticipated lottery revenues remained in the budget, but still
 requires the approval of California voters. Sometimes, one might
 think we are living in a banana republic and not in the state that is
 currently considered the eighth-largest economy in the world.
 
-@Z: Top product: Bathtub drain stopper
+@Z: Top product: Bathtub Drain Stopper
 
-<pic images/bath1.ps (#1) A standard bathtub outlet lever with an
-emergency overflow (hidden at the bottom edge).>
+<pic images/bath1.ps (#1) A standard bathtub outlet lever with an emergency overflow (hidden at the bottom edge).>
 
 <em>Michael</em> 
 In American rental apartments and cheap hotels, the bathtubs are
@@ -188,8 +182,10 @@ contort quite a bit to fit in. That wouldn't be so bad, but to make
 matters worse, there's a lever (illustration (#1)) that opens and
 closes the bathtub drain, and its metal cover has an emergency
 overflow hole at the bottom. As a result, in a bathtub that's only 30
-cm deep, the water can only rise to 21 cm before it drains through
-the emergency overflow!
+cm deep, the water can only rise to 21 cm before it starts
+draining through the emergency overflow!
+
+TODO
 
 That's obviously madness; only a trained yoga enthusiast could stay
 underwater with all body parts like that. When we were recently in a
