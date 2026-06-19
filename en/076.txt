@@ -364,11 +364,9 @@ entertainment, I have the  <LINK>images/att.mp3|Navigation through the phone lab
 
 <pic images/nutella.ps Even at the mega-supermarket Costco, American Nutella is available at a bargain price. Double pack: $7.99>
 
-TODO
-
 <em>Michael</em> 
 We Germans in exile often crave familiar foods that aren't available
-in America. Examples include fresh rolls and pretzels, Duplo, blood
+in America. Examples include freshly baked rolls and pretzels, Duplo, blood
 sausage, peanut flips, and the hazelnut chocolate spread Nutella. In
 large US cities, you might occasionally find a deceptively similar
 imitation product on the supermarket shelf, but it can't be compared
@@ -378,63 +376,59 @@ Recently, travelers from Germany brought a jar of Nutella, and we
 conducted a blind test: a difference like day and night. The German
 Nutella tastes much more intensely of chocolate and nuts, while the
 American imitation is really bland and dull.
-<LINK>http://en.wikipedia.org/wiki/Nutella|Nutella entry on
-Wikipedia</LINK>
-The translation to English is: "It even states what ingredients the
+The
+<LINK>http://en.wikipedia.org/wiki/Nutella|Nutella entry on Wikipedia</LINK>
+even states what ingredients the
 individual countries use. By the way, did you know that Nutella
-originally comes not from Germany but from Italy?
+originally comes not from Germany, but from Italy?
 
-<pic images/dittmers.ps The German butcher "Dittmer's" in Mountain
-View>
+<pic images/dittmers.ps The German butcher "Dittmer's" in Mountain View>
 
 And recently I was at the
-<LINK>http://maps.google.com/maps?q=crossroads+market+mountain+view\&
-latlng=12804843315766316757|Crossroads-Market</LINK>
-Crossroads-Market
-In Mountain View, after more than ten years of unsuccessful
+<LINK>http://maps.google.com/maps?q=crossroads+market+mountain+view\&latlng=12804843315766316757|Crossroads-Market</LINK>
+In Mountain View, and after more than ten years of unsuccessful
 searching, peanut flips were finally found. And they were actually
 rated as indistinguishable from the original by peanut flips
 connoisseur Angelika. The Iranian who runs the Crossroads store
 mainly sells Russian fish and sausage specialties, but also carries
-Jacobs KrÃ¶nung coffee, Kinder chocolate, Pfanni potato dumpling
+Jacobs Krönung coffee, Kinderschokolade, Pfanni potato dumpling
 packages, and German-style blood and liver sausages.
 
-<pic images/esthers2.ps The German bakery "Esther's" in Mountain
-View>
+<pic images/esthers2.ps The German bakery "Esther's" in Mountain View>
 
-And a little further down San Antonio Road is the German butcher.
-<LINK>http://dittmers.com|Dittmer's</LINK>
-Here's the translation to English:
-
-", the LeberkÃ¤s, Kassler, calf liver sausage, LandjÃ¤ger,
-WeiÃwÃ¼rste, Hendlmaier mustard (8 dollars a jar!) has. He's not
-quite mastered making WeiÃwurst, but otherwise the products are
+And a little further down San Antonio Road is the German butcher
+<LINK>http://dittmers.com|Dittmer's</LINK>,
+who has Leberkäs, Kassler, calf liver sausage, Landjäger,
+Weißwurst, Hendlmaier mustard (8 dollars a jar!). He's not
+quite mastered making Weißwurst, but otherwise the meat products are
 top-notch. The nearby German bakery
 <LINK>http://www.esthersbakery.com/|Esther's Bakery</LINK>
 supplies the butcher with rolls and pretzels, but they often taste as
 if they were from the day before. However, what can you expect for
 $1.80 per pretzel in the diaspora? In Germany, Brezen Baur would
-sweep Esther away like a tornado sweeps away a loose tumbleweed.
+sweep Esther away like a tornado sweeps away a loose tumbleweed,
+but here, Esther inhabits a comfortable niche.
 
 The most fascinating thing about Dittmer's Butchery is the
 consistently Mexican sales staff. While in California they often only
 speak broken English, the Dittmer employees not only speak perfect
 English but also immediately understand what I mean when I say "calf
-liver sausage," "LandjÃ¤ger," or "LeberkÃ¤se." It seems that Dittmer
-conducts special training! By the way, Dittmer himself is about our
+liver sausage," "Landjäger," or "Leberkäse." It seems that Dittmer
+conducts special training of their staff! By the way, Dittmer himself is about our
 age, the son of German immigrants, and he only speaks a little German
 himself.
 
 In the trunk of our car, there is a special cooler bag, and Dittmer
 sells bottles of frozen mineral water, so I can transport the highly
-sought-after meat and sausages to San Francisco, located 50
-kilometers north, without any damage despite the Californian heat.
+sought-after meat and sausages to San Francisco, located 30
+miles north, without any damage despite the Californian heat.
 What won't we do!
 
-@Z: Wahlkampf
+@Z: Election Campaigns
 
-<pic images/vote.ps The election campaign for the presidential
-election in November is in full swing.>
+<pic images/vote.ps The election campaign for the presidential election in November is in full swing.>
+
+TODO
 
 <em>Angelika</em> 
 American party conventions are perfectly organized productions. The
