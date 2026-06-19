@@ -280,10 +280,8 @@ with wedding cards featuring groom and groom and bride and bride.
 
 <pic images/yellphone.ps Sometimes you have to complain on the phone.>
 
-TODO
-
 <em>Michael</em> 
-If you get ripped off or treated rudely, you should complain. But how
+If you get ripped off or were treated rudely, you should complain. But how
 do you do that in the USA? If you're stuck on the line with some
 idiot from the call center and can't make any progress, you ask to
 speak to the boss. "Can I speak to your supervisor, please?" you ask,
@@ -296,7 +294,7 @@ Where does one learn to complain? Taking courses is a waste of money;
 only practice, practice, practice helps. It's best to start with
 small things where it doesn't matter if you don't achieve your goal.
 If there's a call on the phone bill for a few cents and you're sure
-you never made that call, you call the phone company. Personally, I
+you've never made that call, you call the phone company. Personally, I
 regularly call sloppy companies that don't process my mailed-in
 rebates on time. It costs me nothing (they all have a 1-800 number),
 and I improve my negotiation skills as if with an expensive trainer
@@ -304,58 +302,44 @@ and I improve my negotiation skills as if with an expensive trainer
 learn). As always, the rule is: firm but friendly. Don't crack jokes;
 instead, be humorless and meticulous.
 
-It turns out that you have been led by the nose, it is time to file a
+If it turns out that you have been led by the nose, it is time to file a
 complaint with public authorities. This may sound completely crazy to
 you now, but it is actually common to file a complaint with the
-"State Attorney General" of the respective state in these cases. The
-website of the
-<LINK>http://www.naag.org|The translation of "National Association of
-Attorneys General" to English is actually the same, as it is already
-in English.</LINK>
-List the contact addresses.
+"State Attorney General" of the respective state in these cases. The website of the <LINK>http://www.naag.org|National Association of Attorneys General"</LINK>
+lists the contact addresses.
 
-<pic images/yellphone2.ps Stay calm, just don't freak out.>
+<pic images/yellphone2.ps Stay calm, don't freak out.>
 
-Furthermore, there are consumer protection associations at the city,
-county, or state level that focus on
-<LINK>http://www.consumeraction.gov/state.shtml|the Internet|consumer
-protection associations</LINK>
-The translation to English is: "are reachable and also take care of
-consumer complaints.
+Furthermore, there are
+<LINK>http://www.consumeraction.gov/state.shtml|consumer protection associations</LINK> at the city, county, or state level that focus on consumer complaints.
 
-Another possibility is the...
-<LINK>http://www.bbb.org|The term "Better Business Bureau" is already
-in English. It refers to a nonprofit organization focused on
-advancing marketplace trust by setting standards for ethical business
-behavior and monitoring compliance.</LINK>
+Another possibility is the
+<LINK>http://www.bbb.org|"Better Business Bureau"</LINK>,
 a consumer protection organization with quite a lot of influence.
 Many companies are members and commit to working with the
 organization, which acts as a mediator in disputes with customers, to
 reach a solution. But even companies that are not members fear the
 Better Business Bureau, because no one wants to be on the
-organization's blacklist. And also on
-<LINK>http://ripoffreport.com|ripoffreport.com</LINK>
-The translation to English is: "One can vent their frustration and
+organization's blacklist. Another website is
+<LINK>http://ripoffreport.com|ripoffreport.com</LINK>, where
+one can vent their frustration and
 warn others about fraudulent companies.
 
 If nothing else helps and a lot of money is at stake, the only option
 is to hire a lawyer and initiate legal proceedings. However, this is
 very expensive in the USA, and that's why for 'small claims' between
-$1,500 and $25,000, there is the so-called...
-<LINK>http://http://en.wikipedia.org/wiki/Small_claims_court|Small
-Claims Court</LINK>
-The translation of the provided German text to English is: ", which,
-depending on the state, processes these cases in an expedited manner.
+$1,500 and $25,000, there is the so-called
+<LINK>http://http://en.wikipedia.org/wiki/Small_claims_court|Small Claims Court</LINK>, which,
+depending on the state, processes cases in an expedited manner.
 For larger cases, you can visit the website of the
-<LINK>http://abanet.org|The translation of "American Bar Association"
-to English is "American Bar Association." It is already in
-English.</LINK>
-The translation to English is: "to find a professional lawyer (named
-after the bar exam, not an establishment for alcohol consumption).
+<LINK>http://abanet.org|"American Bar Association"</LINK>,
+to find a professional lawyer. ("Bar" here refers to the bar exam required
+for lawyers, not an establishment for alcohol consumption, in case
+you were wondering).
 
 @Z: Cheap Gasoline When Buying A Car
 
-<pic images/guzzler.ps The rascal from Jeep promises cheap gasoline.>
+<pic images/guzzler.ps The salesman from Jeep promises cheap gasoline.>
 
 <em>Michael</em> 
 As you know, gas prices have skyrocketed in the USA. Those who drive
@@ -368,13 +352,14 @@ approaches the $80 mark. Two years ago, gasoline cost $2.50 per
 gallon, but now it's $4.50. Of course, we're still far from the usual
 (converted) $9.57 per gallon in Europe.
 
-Consequently, the sales figures for these brands plummeted sharply,
+Consequently, the sales figures for these car brands plummeted sharply,
 because when it hits their wallets, even Americans suddenly become
 environmental angels. However, the marketing folks of the
-"Doofmobiles" from American production aren't clueless either: To
-ensure that customers continue to guzzle gasoline, the car marketers,
-as seen recently in a commercial, are now offering gasoline at a
-guaranteed low price of $2.99 per gallon with the purchase of a new
+"Doofmobiles" of American production aren't clueless either: To
+ensure that customers continue to buy guzzlers, the car marketers,
+as seen recently in a commercial, are now offering
+<LINK>gasoline at a guaranteed low price of $2.99 per gallon|https://www.youtube.com/watch?v=RY8CpkWJpUE</LINK>
+with the purchase of a new
 car! And this offer lasts for three years, up to a specified maximum
 amount per year.
 
@@ -392,8 +377,7 @@ you buy a car that consumes an excessive amount of gasoline. This
 so-called "Gas Guzzler Tax" is listed directly on the price tag of
 the cars at the dealership.
 
-Chrysler and Jeep will cover the cost of gasoline for three years
-when purchasing a new car.
+TODO
 
 @Z: Saving Gas
 
