@@ -185,8 +185,6 @@ overflow hole at the bottom. As a result, in a bathtub that's only 30
 cm deep, the water can only rise to 21 cm before it starts
 draining through the emergency overflow!
 
-TODO
-
 That's obviously madness; only a trained yoga enthusiast could stay
 underwater with all body parts like that. When we were recently in a
 specialty store for bathroom supplies ("Bed, Bath and Beyond"), I
@@ -203,18 +201,15 @@ drain of the outlet lever. The advantage: the water level can now
 rise to a full 29 cm instead of 20 cm, which is 50% more delightful
 hot bath enjoyment! Hot water is already included in the rent for us,
 as in many apartments, which is why the bathtub drain stopper is
-surely on the hit list of all landlords and hotel owners in San
+surely on the black list of all landlords and hotel owners in San
 Francisco. It will probably be banned soon and only available on the
 black market, so quickly buy one for your next USA vacation! It costs
 6 dollars at "Bed Bath and Beyond," a sky-high price for a piece of
 plastic, but I'm happy to pay for the idea.
 
-@Z: The translation of "Amerikaner bloggen Ã¼ber Deutschland" to
-English is "Americans blog about Germany.
+@Z: Americans Blogging About Germany
 
-<pic images/nfu.ps The translation of the German phrase "Amerikaner
-bloggen Ã¼ber Deutschland: Nichts fÃ¼r ungut" to English is
-"Americans blog about Germany: No offense.>
+<pic images/nfu.ps An American blogging about Germany: "Nothing For Ungood".>
 
 <em>Michael</em> 
 If you find it great that two Germans like us, who live in America,
@@ -222,7 +217,7 @@ blog about America, you might also be interested to know that there
 is the reverse phenomenon: Americans who live in Germany and blog
 about Germany.
 
-In DÃ¼sseldorf, for example, lives Andrew Hammel, an American lawyer
+In Düsseldorf, for example, lives Andrew Hammel, an American lawyer
 and law professor. In his blog,
 <LINK>http://andrewhammel.typepad.com/german_joys|German Joys</LINK>
 He reports in English about all sorts of things that seem absurd from
@@ -235,20 +230,20 @@ they had brought with them.
 
 Another remarkable publication is
 <LINK>http://nothingforungood.com|Nothingforungood.com</LINK>
-The text discusses the intentionally incorrect translation of "Nichts
-fÃ¼r ungut" (no offense). The writers correctly point out, for
+The text discusses the intentionally incorrect translation of the
+German saying "Nichts für ungut" (no offense).
+The writers correctly point out, for
 example, that while it's easy to get alcohol late at night in
-Germany, you might have to drive across the city to find an emergency
+Germany, you might have to drive across town to find an emergency
 pharmacy to buy aspirin, which you could easily get in any
 supermarket in America. They also note that at American parties, it's
 best to play songs that people have never heard before, whereas in
 Germany, it's more effective to play music that people know by heart
 and can sing along to when drunk. How true!
 
-@Z: The telephone monopoly
+@Z: The Telephone Company Monopoly
 
-<pic images/babybells.ps (#9) In the eighties, the telephone monopoly
-of AT&T was broken up into the "Baby Bells.>
+<pic images/babybells.ps (#9) In the eighties, the telephone monopoly of AT&T was broken up into the "Baby Bells".>
 
 <em>Michael</em> 
 The history of telephone companies in America dates back to 1875 when
@@ -264,6 +259,8 @@ were named "Pacific Bell," "Southwestern Bell," "US West,"
 were divided into seven regions, each of which was assigned one of
 the new entities to exclusively manage the telephone business in that
 area.
+
+TODO
 
 The parent company AT&T remained in the long-distance business, while
 the "Baby Bells" focused on local telephony. However, in 1996, the
