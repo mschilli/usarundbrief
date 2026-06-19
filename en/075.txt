@@ -115,11 +115,9 @@ even Californians move like startled rabbits.
 
 <pic images/phmem.ps Tourists are marching into the Pearl Harbor Memorial.>
 
-TODO
-
 <em>Michael</em> 
-And this time we even took in the cultural program about "Pearl
-Harbor." If you paid attention in history class, you know that a
+And this time we even took in the cultural program around Pearl
+Harbor. If you paid attention in history class, you know that a
 battle took place in this harbor near Honolulu on the Hawaiian island
 of Oahu, after which America immediately entered World War II on the
 side of the Allies against Germany.
@@ -144,11 +142,11 @@ there until the late 19th century.
 
 <pic images/phsign.ps Strict rules at the Pearl Harbor Memorial>
 
-From Japan to Hawaii is just a stone's throw of 5,000 kilometers, so
-the Japanese sent a fleet with aircraft carriers towards Hawaii,
+From Japan to Hawaii it's just a stone's throw of 3,000 miles, so
+the Japanese sent a fleet of aircraft carriers towards Hawaii,
 which actually cruised unnoticed through the South Seas for two
-weeks. 200 kilometers off Hawaii, the Japanese reached their target
-and launched 180 Japanese planes equipped with all sorts of
+weeks. When the Japanese were within 120 miles off the coast of
+Hawaii, they launched 180 Japanese war planes equipped with all sorts of
 explosives towards Pearl Harbor, catching the Americans off guard and
 bombing the entire American Pacific fleet to pieces.
 
@@ -157,8 +155,8 @@ hull of the ship still lies in the shallow waters of Pearl Harbor,
 and a rusty steel tower juts out of the water. Instead of recovering
 the bodies of the soldiers, they were left there, and a memorial was
 built across the ship. Today, if you take the free "Pearl Harbor
-Tour" as a tourist, you can see how oil still leaks from the inside
-of the ship and floats around in the harbor!
+Tour" as a tourist, you can see how oil is still leaking from the inside
+of the ship and floating around in the harbor!
 
 <pic images/phoil.ps Oil is still leaking from the shipwreck of the USS Arizona.>
 
@@ -168,7 +166,7 @@ The whole thing is, of course, set up in a rather grandiose manner,
 and I even shook the hand of a roughly hundred-year-old war veteran
 who was present and giving autographs. He probably didn't know that I
 was German, haha! The museum and the memorial aren't very
-informative, but if you're already there, you might as well take a
+informative, but while you're already there, you might as well take a
 look.
 
 <pic images/phvet.ps A veteran poses with a tourist.>
@@ -183,29 +181,23 @@ remaining Allies, thoroughly halted Germany as well. Living history!
 <pic images/gm1.ps A newly married couple in the Castro District in San Francisco.>
 
 <em>Angelika</em> 
-The translation of the provided text to English is:
-
-"Good things come to those who wait. Since June 16, same-sex couples
+Good things come to those who wait. Since June 16, same-sex couples
 in California can legally say 'I do.' This makes California the
 second state, alongside Massachusetts, to allow this. You might
 remember how it all started. In February 2004, our Mayor Gavin Newsom
 gave the green light, and thousands of same-sex couples got married
-in an ad-hoc ceremony at San Francisco City Hall.
-<RBLINK>20040301#1</RBLINK>
-It seems like there might be a mistake or missing text in your
-request. Could you please provide more context or clarify what you
-would like translated?
+in an ad-hoc ceremony at San Francisco City Hall (<RBLINK>20040301#1</RBLINK>).
 
 Shortly thereafter, however, a high court ruling annulled these
 marriages again on the grounds that they violated existing California
-law, and the legal dispute began. The process dragged on for over
+law, and a legal dispute began. The process dragged on for over
 four years. Then came the surprise: The California Supreme Court
 decided by a narrow majority (4 to 3) that the right to marry in
 California applies equally to heterosexual and homosexual couples and
 that the California Constitution prohibits any discrimination based
 on sexual orientation. A historic ruling; the judges thereby
-overturned Proposition 22 from the year 2000, which defined marriage
-in California as existing between a man and a woman.
+overturned Proposition 22 from the year 2000, which defined that marriage
+in California only possible between a man and a woman.
 
 Interestingly, in California, it actually no longer makes a
 difference whether a same-sex couple is married or has a registered
@@ -215,15 +207,17 @@ all the associated rights and obligations. Since 2007, couples who
 have opted for a registered partnership can even file a joint
 California tax return.
 
-However, it is important to note that the rights only apply to the
+However, it is important to note that the rights only apply in the
 state of California and are not transferable to other states or to
 the general federal laws of the United States. For example, the
-federal income tax return is still filed separately. In America,
+federal income tax return is still to be filed separately. In America,
 people typically file two income tax returns: one for the state in
 which they reside ("State Income Tax") and one at the federal level
 ("Federal Income Tax").
 
 <pic images/gm2.ps Even the public transportation companies in San Francisco show solidarity with same-sex couples.>
+
+TODO
 
 Immigration laws are also federal laws and do not apply to registered
 partnerships. This situation does not change with the legalization of
