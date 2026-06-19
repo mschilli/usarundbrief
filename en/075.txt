@@ -377,15 +377,13 @@ you buy a car that consumes an excessive amount of gasoline. This
 so-called "Gas Guzzler Tax" is listed directly on the price tag of
 the cars at the dealership.
 
-TODO
-
 @Z: Saving Gas
 
-<pic images/suburb1.ps The suburbanite in the first house has probably already regretted the purchase of the two lobsters.>
+<pic images/suburb1.ps The suburbanite in the first house has probably already regretted the purchase of the two Hummers.>
 
 <em>Angelika</em> 
-In addition to the gimmicks described by Michael, car dealers are
-flooding us with tips on saving gasoline. These include everything
+In addition to the car dealer gimmicks described by Michael, we've been
+flooded with tips on saving gasoline. These include everything
 from driving less, removing unnecessary weight from the trunk,
 staying slightly below the speed limit of 65 miles per hour on the
 highway, maintaining the correct tire pressure, to downright
@@ -401,7 +399,7 @@ gallon of premium gasoline).
 And behold, the behavior of this car-loving nation is already
 changing. The number of passengers using public transportation
 systems like BART (the subway in San Francisco and surrounding
-areas), ferries, and CalTrains (commuter trains operating between San
+areas), ferries, and CalTrain (commuter trains operating between San
 Francisco and San Jose) is increasing, and bicycle sellers are
 pleased with higher sales figures. Employers are complaining that
 potential candidates are turning down jobs that are too far from
@@ -417,7 +415,7 @@ skyrocketing gas prices, this puts a strain on people's wallets.
 <pic images/suburb2.ps Typical suburban neighborhood in South San Francisco.>
 
 However, the infrastructure cannot be changed overnight, as for years
-no one invested in the public transportation system, and local small
+no one has invested in the public transportation system, and local small
 businesses gave way to huge shopping centers that everyone has to
 drive to. I really can't appreciate this uniformity of suburbs, which
 lack any originality and look the same from the East Coast to the
@@ -426,52 +424,51 @@ West Coast, so I would be very glad if the trend were to reverse.
 Quiet signs of this may also be evident in the problems faced by the
 coffeehouse chain "Starbucks." I already mentioned in the last
 newsletter that "Starbucks" is feeling the effects of the unstable
-American housing market and the credit crisis.
-<RBLINK>20080502#2</RBLINK>
-), but many American customers now seem to be put off by the size of
-the empire and the always identical-looking stores. They prefer to
+American housing market and the credit crisis (<RBLINK>20080502#2</RBLINK>),
+but many American customers now seem to be put off by the size of
+the empire and the always identical-looking stores. It turns out
+that customers prefer to
 frequent smaller coffee houses that have their own flair and
 ambiance.
 
-The German word "Ein" translates to "A" or "An" in English, depending
-on the context.
-<LINK>http://www.pbs.org/newshour/bb/business/july-dec08/starbuckswoe
-s_07-02.html|The translation of "Bericht ï¿½ber Starbucks im
-Fernsehen" to English is "Report about Starbucks on
-television.</LINK>
-It was recently shown that Starbucks customers now miss the typical
+A recent
+<LINK>http://www.pbs.org/newshour/bb/business/july-dec08/starbuckswoes_07-02.html|report on Starbucks on TV</LINK> found that
+Starbucks customers now miss the typical
 coffee smell, as beans are no longer ground on a large scale in the
 store. The spectacle of preparing the various coffee drinks was also
 lost after the introduction of new espresso machines, which customers
-could no longer see over. The head of Starbucks promised to correct
+could no longer peek over. The head of Starbucks promised to correct
 both issues, in addition to closing 600 stores, in order to avert the
 crisis.
 
-@Z: Hands-Free Starting From July First
+@Z: Hands-Free Phone Calls Starting From July 1st
 
 <pic images/cellphone.ps Starting July 1st, it is prohibited to make phone calls while driving.>
 
 <em>Angelika</em> 
-Driving in San Francisco and the surrounding area can often drive you
-to despair. It's not just the heavy traffic that's to blame, but also
+Driving in San Francisco and the surrounding areas can often drive you
+nuts.
+It's not just the heavy traffic that's to blame, but also
 the many drivers who seemingly won their driver's license in a
 lottery or drive as if they don't have one at all. Which, by the way,
-is not so uncommon in California.
+is not that uncommon in California.
 
 Short-term double parking is a part of everyday life, and I
 especially love it when the driver cheekily sits in the car in front
-of an exit but doesn't pull into the exit. No, they prefer to block
+of a driveway but doesn't pull into the gap. No, they prefer to block
 an entire lane. As if they were the only person in the world. Most
 people also use their turn signals only when they feel like it, a
-Californian habit that Michael has also adopted.
+Californian habit that, sadly, Michael has also adopted.
 
 The most annoying thing, however, is the constant chatting on the
-phone while driving. According to my own observations, this applied
-to every third driver until recently. Even before the first visual
-contact with the phone at the ear, the chatterers stand out: the
+phone while driving. According to my own observations, this applies
+to every third driver. Even before you spot a driver with
+a phone at the ear, the chatterers stand out in traffic: the
 unorthodox driving style, abrupt braking, long unnecessary stops at
 stop signs, running red lights, and overlooking pedestrians at
 crosswalks give them away.
+
+TODO
 
 I can sing a song about near-accidents due to the cell phone plague.
 And although it has long been known that using a cell phone while
