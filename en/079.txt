@@ -143,22 +143,20 @@ establishment if they have concerns. This seems to be a significant
 incentive, because when we were recently in L.A., we could only see
 the top grade "A," with not a single "B" or even "C" in sight.
 
-TODO
+@Z: Unemployment Insurance
 
-@Z: Arbeitslosenversicherung
-
-<pic images/job-termination.ps Annoying when you lose your job!>
+<pic images/job-termination.ps Annoying, when you lose your job!>
 
 <em>Angelika</em> 
 Due to the recession, the number of unemployed people in America is
 steadily increasing. In February, the unemployment rate for the USA
 was 8%, and in California, we have now reached 10%. Many workers rely
-on unemployment benefits, and I thought I would explain how
+on unemployment benefits, and I thought you might want to know how
 unemployment insurance works in this country, which is not exactly
-known as a leader in social security.
+known as a leader in social safety nets.
 
-President Roosevelt introduced unemployment insurance (referred to
-here as "Unemployment Insurance") as part of the Social Security Act
+President Roosevelt introduced unemployment insurance
+as part of the Social Security Act
 in 1935. The insurance is based on a national law that establishes
 the general framework. Incidentally, the financing of unemployment
 insurance in almost all states is exclusively through employer
@@ -166,6 +164,8 @@ contributions. Each state has its own unemployment insurance program,
 which leads to varying benefits across the states because, among
 other reasons, there are different criteria for when unemployment
 benefits are paid.
+
+TODO
 
 Many states, for example, exclude part-time workers from the outset.
 In general, unemployment benefits are only available if the loss of
