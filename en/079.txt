@@ -5,14 +5,12 @@ San Francisco, 03-15-2009
 <pic images/bureaucracy.ps Even in America, bureaucracy rears its ugly head, sometimes worse than in Germany.>
 
 <em>Michael</em> 
-In Germany, people think: Oh my, how complicated and precise the
+In Germany, people think: Oh my, how complicated and meticulous
 Germans are, the bureaucratic red tape is rampant! Such thoughts, of
 course, only come from people who have never spent any time in
 America. Therefore, in this newsletter, we present regulations that
 probably don't quite match your idea of bureaucracy free America --
 rest assured, we were also surprised by what exists!
-
-TODO
 
 Consider the tax return, which is due again at the end of April. Ours
 was exactly 27 pages long last time. A colleague of mine, who owns a
@@ -22,37 +20,35 @@ your amusement:
 
 @Z: The 72-hour rule for parking
 
-<pic images/72hours.ps (#10) In San Francisco, you are only allowed
-to park in one spot for 72 hours.>
+<pic images/72hours.ps (#10) In San Francisco, you are only allowed to park in one spot for 72 hours.>
 
 <em>Michael</em> 
 In San Francisco, for example, there is a rule that you can only
 leave your car in one spot for 72 hours, even if there are no traffic
 signs, parking meters, or public street cleaning times that limit the
-parking duration. After the 3 days have passed, it is not enough to
-move the car a few meters; you must drive it at least one block away.
+parking duration. After the three days have passed, it is not enough to
+move the car to the opposite side of the road; you must drive it at least one block away.
 
 Since such a long parking period is not easy to monitor, it is rarely
 enforced, but recently I saw and photographed a car that had
 obviously been parked in a parking lot for a longer period with a
 warning notice (Figure (#10)).
 
-The German phrase "ï¿½berhaupt, wenn man" translates to "Especially
-when one" or "In general, when one" in English.
-<LINK>http://www.municode.com/content/4201/14143/HTML/ch0300.html|The
-penalty fee ordinance of the city of San Francisco</LINK>
-If you study in detail and find out everything that is prohibited
-just when parking a car, you might burst into laughter: If you stick
+Especially when you study the
+<LINK>http://www.municode.com/content/4201/14143/HTML/ch0300.html|penalty fee ordinance of the city of San Francisco</LINK>
+in detail, 
+and find out everything that is prohibited
+just while parking a car, you might burst into laughter: If you stick
 a "For Sale" sign on the window to indicate that you want to sell the
 car, you'll get a ticket for over 50 dollars. Why? In the "Police
-Code," Paragraph 710.2, it states that it is prohibited. Why this
+Code," Paragraph 710.2, it states that this is prohibited. Why this
 rule was enacted, probably no one knows anymore, but it exists, and
-the city coffers are missing a lot of dollars, so it is cautiously
-upheld. This recently happened to an acquaintance who wanted to sell
+the city coffers need a constant stream of dollars, so it is cautiously
+upheld. This recently happened to an acquaintance, who wanted to sell
 his car and subsequently wasn't sure whether it was a joke or a real
 ticket.
 
-Or parking in the wrong direction? I once got a ticket for that in
+Or, how about parking in the wrong direction? I once got a ticket for that in
 Germany and was really annoyed by this pettiness -- however,
 according to Section VC22502B of the traffic code in San Francisco,
 it also costs 45 dollars if you park your car against the direction
@@ -65,28 +61,26 @@ in a tram or bus ("Conversing with Operator")! However, I can't
 imagine that this is ever enforced, as every American would rightly
 shake their head at it.
 
-@Z: The License to Drink
+@Z: The License To Serve Alcohol
 
-<pic images/toast.ps Not every establishment is allowed to serve
-alcohol.>
+<pic images/toast.ps Not every establishment is allowed to serve alcohol.>
 
 <em>Michael</em> 
 Anyone who runs a restaurant experiences the jungle of regulations
 with brutal intensity. It is by no means a given that a restaurant is
 allowed to serve alcohol. For this, a so-called liquor license is
 required, which is only issued in the case of a new opening if no one
-in the immediate vicinity raises an objection. This could involve
-hundreds of people! In the...
-<LINK>http://www.amazon.com/dp/3442452775|Buch SuppenkÃ¼che Inc."
-translates to "Buch Soup Kitchen Inc." in English.</LINK>
-The founder of the German restaurant "SuppenkÃ¼che" in San Francisco
-describes the adventures he has experienced in this regard. A
-restaurant needs license number 41, the "On-sale beer and wine -
+in the immediate vicinity of the establishment raises an objection. This could involve
+hundreds of people! In the book <LINK>http://www.amazon.com/dp/3442452775|Suppenküche Inc.</LINK>,
+the founder of the German restaurant "Suppenküche" in San Francisco
+describes adventures he has experienced in this regard. Any restauran planning 
+to pour alcoholic drinks
+needs a license with the number 41, the "On-sale beer and wine -
 eating place" from the "California Department of Alcoholic Beverage
 Control".
-<LINK>http://sf.everyblock.com/liquor-licenses|sf.everyblock.com</LIN
-K>
-Do you see that in the month of February 2009, for example, a total
+
+On <LINK>http://sf.everyblock.com/liquor-licenses|sf.everyblock.com</LINK>,
+you can see that in the month of February 2009, for example, a total
 of 50 licenses citywide changed their status -- because they are not
 only issued but also revoked in case of violations. A Thai restaurant
 on Valencia Street, for instance, recently had to put up a huge sign
@@ -97,10 +91,9 @@ However, a few days later, the sign was gone, and there was nothing
 about the incident on the internet, so it seems they had a dispute
 with the authorities and then reached an agreement.
 
-<pic images/suspended.ps (#13) The store is no longer allowed to
-serve alcohol.>
+<pic images/suspended.ps (#13) The store is no longer allowed to serve alcohol.>
 
-But it also works without a license: For example, until a few years
+But they can also make it work without a license: For example, until a few years
 ago, there was a sushi restaurant at the corner of Church and Market
 Street that didn't have a license to serve alcohol. It was very
 cheap, served good sushi, and was very popular with young people. If
@@ -112,14 +105,12 @@ otherwise the restaurant would have been in trouble!
 
 @Z: Visit from the Health Department
 
-<pic images/grade.ps (#11) In Los Angeles, every restaurant and food
-stand must prominently display the result of the most recent health
-inspection. Do you see the blue "A"?>
+<pic images/grade.ps (#11) In Los Angeles, every restaurant and food stand must prominently display the result of the most recent health inspection. Do you see the blue "A"?>
 
 <em>Michael</em> 
 Tourists often hesitate to visit somewhat run-down restaurants here,
 but if a place is packed, you can safely go in. The city's health
-authority keeps a watchful eye and an iron hand over the restaurants.
+department always keeps a watchful eye and an iron hand over restaurants.
 Every few months, a strict inspector comes by, scrutinizes the place,
 and writes a report.
 
@@ -132,11 +123,10 @@ hand, is prominently displayed as required. It states that the place
 only scored 92 out of 100 points. With 100 points, there's a
 "Certificate of Excellence," but "Tung Sing" probably needs to
 improve a bit for that.
-<LINK>http://dph-extranet2.sfdph.org:7777/pls/eeop_htmldb/f?p=132:2:9
-10053985630748::NO::P2_LOCATIONID:1609|Website of the Department of
-Public Health</LINK>
 
-On the above website, you can also study the regulations reviewed by
+On the
+<LINK>http://dph-extranet2.sfdph.org:7777/pls/eeop_htmldb/f?p=132:2:910053985630748::NO::P2_LOCATIONID:1609|website of the Department of Public Health</LINK>,
+you can study the regulations, which are periodically verified by
 the authorities. For example, it is mandatory for every refrigerator
 to have a thermometer that is accurate to within 2 degrees
 Fahrenheit. When preparing meat, a thermometer must also be available
@@ -146,12 +136,14 @@ watching), but rules are rules.
 
 In Los Angeles, letters rather than points are awarded for health
 department inspections, similar to American school grades. The
-approximately 30cm high sign with the grade "A," "B," or "C" must
+approximately 15 inch high sign with the grade "A," "B," or "C" must
 then be displayed in the restaurant's front window (illustration
 (#11)), so that potential guests can see it from afar and avoid the
 establishment if they have concerns. This seems to be a significant
 incentive, because when we were recently in L.A., we could only see
 the top grade "A," with not a single "B" or even "C" in sight.
+
+TODO
 
 @Z: Arbeitslosenversicherung
 
