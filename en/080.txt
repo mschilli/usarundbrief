@@ -21,12 +21,10 @@ almost 50% of full-time employees in the private sector do not
 receive paid sick leave or cannot stay at home to care for their sick
 children (<RBLINK>20070610#7</RBLINK>).
 
-TODO
-
-The number of part-time workers quickly jumps to almost 80%. And only
+With part-time workers, the rate quickly jumps to almost 80%. And only
 14% of employees who handle food receive pay when they call in sick.
 They also earn so little that they cannot afford to lose paid
-workdays. It's quite a charming notion that the cook stands
+workdays. It's quite unsettling to imagine that the cook stands
 feverishly at the stove and the waiter heartily coughs over the
 plates of food. I also rolled my eyes when it was somewhat arrogantly
 stated that there are more deaths in Mexico because healthcare is
@@ -35,7 +33,7 @@ absolutely necessary, and many cannot afford the necessary
 medications. Hmm, in the USA, there are now 50 million citizens
 without health insurance, who have no choice but to go to the
 emergency rooms of hospitals when they are seriously ill. The
-hospital will subsequently try to collect the money, but if someone
+hospital will subsequently try to collect the money owed, but if someone
 has nothing, there's nothing to collect.
 
 But Obama is already working on his healthcare plan, and perhaps we
@@ -48,29 +46,25 @@ is still on the minds of politicians. If paid sick days were to
 become law in the USA, we would finally be among the at least 145
 countries that guarantee some form of paid sick leave.
 
-@Z: Day laborers on Cesar Chavez Street
+@Z: Day Laborers On Cesar Chavez Street
 
-<pic images/cc5.ps Four day laborers are patiently waiting on Cesar
-Chavez Street for a pickup truck to take them to a construction
-site.>
+<pic images/cc5.ps Four day laborers are patiently waiting on Cesar Chavez Street for a pickup truck to take them to a construction site.>
 
 <em>Michael</em> 
 Not all immigrants in the USA have a valid residence permit. It is
 estimated that there are about 12 million illegal immigrants in the
 country, of which about 5-6 million are Mexicans (as of 2007). Often,
-they have left a village in a South American country, paid a smuggler
-(called "Coyote," pronounced "Ka-i-ote" in American English) about
-$1500, and then marched through the desert for up to 40 hours to find
+they have left a village in a Latin American country, paid a smuggler
+(called "Coyote," pronounced "Ka-y-ote" in American English) about
+$1,500, and then marched through the desert for up to 40 hours to find
 work somewhere in the USA and try out the American dream. Often, they
-work in a restaurant, moving up from dishwasher to busboy, to salad
+work in restaurants, moving up from dishwasher to busboy, to salad
 preparer, and maybe to grill cook.
 
-<pic images/cc4.ps The translation to English is: "There are not
-shady characters hanging around here, but rather day laborers waiting
-for work.>
+<pic images/cc4.ps These aren't shady characters hanging around here, but rather day laborers waiting for work.>
 
 On Cesar Chavez Street, just around the corner from us, hundreds of
-young South Americans gather in small groups early in the morning,
+young Latin Americans gather in small groups early in the morning,
 waving at passing pickups in the hope that one will take them to a
 construction site where they can perform hard labor for a few hours
 at a negotiable wage. They are called "Esquineros," from the Spanish
@@ -78,7 +72,7 @@ word for street corner, "Esquina." Other pickup spots with masses of
 willing workers can be found in the parking lots of large hardware
 stores like Home Depot or Lowe's. There, you can also see the
 specialization of the workers: those wearing white clothing perform
-painting work, while the rest are responsible for laboring tasks.
+painting work, while the rest are responsible for other laboring construction tasks.
 Although there is competition among the workers, who immediately run
 over and wave frantically when a hardware store customer shows
 interest in hiring help, everything generally proceeds remarkably
@@ -86,9 +80,7 @@ peacefully. Many undocumented immigrants want to avoid any conflict
 with the law or even drawing unwanted attention, as they risk
 deportation otherwise.
 
-<pic images/army1.ps Equipped with the latest mobile phone
-technology, the job seekers wait on Cesar Chavez Street for casual
-work.>
+<pic images/army1.ps Equipped with the latest mobile phone technology, the job seekers wait on Cesar Chavez Street for casual work.>
 
 Additional pickup points are located in front of the garages of
 moving truck rental companies like U-Haul. When I ride my bike
@@ -96,7 +88,7 @@ through Alameda Street at 7:30 in the morning, there are always a few
 dozen workers standing in front of the U-Haul center, approaching
 anyone who seems to be renting a moving truck with broken English,
 saying "Do you need any help?" or "Want someone to do the work for
-you?
+you?"
 
 The hourly rate is around 5-10 dollars, so on a good day, an
 "Esquinero" can earn up to $100, but on a bad day, they go home
@@ -121,8 +113,7 @@ Americans is rather "traditional." However, at subway stations, you
 often see women selling flowers or the Mexican dish "tamales"
 (laboriously cooked meat in corn husks).
 
-<pic images/tamales.ps (#3) Tamale and flower vendor at the subway
-station.>
+<pic images/tamales.ps (#3) Tamale and flower vendor at the subway station.>
 
 In San Francisco, we tend to view illegal immigrants with a wink, but
 there are certainly people who don't find it amusing and who start
@@ -131,7 +122,7 @@ in 1994, there was Proposition 187 in California, a referendum that
 denied illegal immigrants access to the public school system and
 hospitals, and it achieved a clear majority of 59% among the
 population. However, the Federal Appeals Court, a federal court,
-quickly put an end to this nonsense.
+quickly put an end to this.
 
 The politicians are not exactly tearing themselves apart to address
 the problem: they know all too well that the American economy
@@ -166,25 +157,20 @@ where the population accepts illegal immigrants, and where one can
 easily make connections and find work quickly and reliably through
 social networks.
 
-<pic images/womm.ps Good reading on the topic of illegal immigrants:
-"The World of Mexican Migrants" by Judith Hellman.>
+<pic images/womm.ps Good reading on the topic of illegal immigrants: "The World of Mexican Migrants" by Judith Hellman.>
 
-Are you interested in the topic? In the beautifully written book...
-<LINK>http://www.amazon.com/dp/159558448X/perlmeistercom04|The title
-"The World of Mexican Migrants" by Judith Hellman is already in
-English. If you need further information or a summary of the book,
-feel free to ask!</LINK>
-It is all described in detail, all the small details of everyday life
+Are you interested in the topic? The beautifully written book
+<LINK>http://www.amazon.com/dp/159558448X/perlmeistercom04|"The World of Mexican Migrants" by Judith Hellman</LINK> describes all the small details of everyday life
 and the life stories of the Mexicans who left their villages to seek
 the chance for some prosperity on "al otro lado" (the other side), as
 the USA is called in Mexico.
 
-@Z: Drugs on prescription
+@Z: Illegal Drugs On Prescription
 
 <pic images/weed1.ps (#10) Behind the colorful packaging ...>
 
 <em>Michael</em> 
-Drugs are indeed prohibited in San Francisco just like in Germany,
+Illegal drugs are indeed prohibited in San Francisco just like in Germany,
 but the consumption of marijuana is practiced so openly that one
 might think it was legal. For example, I recently met our former
 neighbor on the street, chatted with him a bit, until I noticed that
@@ -204,24 +190,20 @@ available, as shown in illustration (#11), but also a variety of
 other otherwise illegal herbs and the corresponding consumption
 accessories.
 
-The translation of "Der" from German to English is "The.
-<LINK>http://en.wikipedia.org/wiki/Medical_marihuana#California|The
-translation of "Wikipedia-Eintrag zu Medical Marihuana" to English is
-"Wikipedia entry on Medical Marijuana.</LINK>
-The text translates to: "explains exactly the regulations regarding
-this legal form of drug consumption. But as everyone from the TV
-series...
-<LINK>http://en.wikipedia.org/wiki/Weeds_%28TV_series%29|"Weeds"</LIN
-K>
-The translation to English is: "You know, applicants end up in a
+The
+<LINK>http://en.wikipedia.org/wiki/Medical_marihuana#California|Wikipedia entry on Medical Marihuana"</LINK>
+explains the regulations regarding
+this legal form of drug consumption. But as everyone watching the TV series
+<LINK>http://en.wikipedia.org/wiki/Weeds_%28TV_series%29|"Weeds"</LINK>
+knows, applicants end up in a
 government database. If you later run for president, someone will
 surely pull out the file and wave it around, so be careful!
 
-@Z: The translation of "StraÃenreinigung, zweiwÃ¶chentlich" to
-English is "Street cleaning, biweekly.
+@Z: Street Cleaning, Biweekly
 
-<pic images/streetclean2.ps Before the change: Weekly street
-cleaning.>
+<pic images/streetclean2.ps Before the change: Weekly street cleaning.>
+
+TODO
 
 <em>Angelika</em> 
 We couldn't believe our eyes: Last year in the fall, diligent little
