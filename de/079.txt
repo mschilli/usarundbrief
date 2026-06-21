@@ -310,7 +310,7 @@ der Außenwelt abgetrennt sind. Dort hinein gelangt man ja bekanntlich nur,
 wenn man sich über die Sprechanlage anmeldet und dann jemand
 von innen das schwere Eisentor öffnet.
 
-<pic images/gated-community.ps Über die Sprechanlage meldet man sich an, bevor min eine "Gated Community" hineinfährt.>
+<pic images/gated-community.ps Über die Sprechanlage meldet man sich an, bevor man eine "Gated Community" hineinfährt.>
 
 Nein, auch ganz normale Siedlungen werden meist vom gleichen Bauherrn
 erstellt und die Häuser gleichen sich wie ein Ei dem anderen. Die Leute
