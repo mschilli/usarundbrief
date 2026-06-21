@@ -327,8 +327,6 @@ life, and although Obama still enjoys significant support among the
 population (63% according to the latest polls), he has already had to
 deal with some political setbacks.
 
-TODO
-
 Despite pushing his stimulus package through the House of
 Representatives and the Senate at top speed, there was still a bitter
 aftertaste, as only three Republicans voted for the package in the
@@ -370,10 +368,9 @@ item or not, there can't be enough prayer candles burning for Obama,
 because the man needs all the help he can get to pull us out of the
 mess we're in.
 
-@Z: Our supermarket is closing down.
+@Z: Our Supermarket Is Closing Down.
 
-<pic images/bell-logo.ps The "Bell Market" in our neighborhood is
-closing down.>
+<pic images/bell-logo.ps The "Bell Market" in our neighborhood is closing down.>
 
 <em>Angelika</em> 
 In our neighborhood "Noe Valley," it is a regular occurrence for
@@ -384,8 +381,9 @@ tough economic times quickly break the necks of many smaller
 businesses, and as a result, more and more shops in Noe Valley are
 standing empty.
 
-<pic images/streetlight-records.ps The used record store "Streetlight
-Records" closed down when it had to pay $12,000 in rent per month.>
+<pic images/streetlight-records.ps The used record store "Streetlight Records" closed down when it had to pay $12,000 in rent per month.>
+
+TODO
 
 Recently, however, I became particularly sentimental because the
 supermarket "Bell Market" in our neighborhood permanently closed its
