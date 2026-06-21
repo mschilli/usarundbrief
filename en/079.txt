@@ -410,23 +410,20 @@ the products is really good.
 
 <pic images/bell-empty1.ps The last days of the "Bell" supermarket.>
 
-TODO
-
 The managers of "Whole Foods" apparently care a lot about getting
 along well with the people in the neighborhood. They tried to
 alleviate the concerns of smaller businesses that sell similar
 products, assuring them that "Whole Foods" is not ruthless
-competition but an enrichment for the neighborhood. Additionally,
+competition but an enrichment to the neighborhood. Additionally,
 there is now a bus provided by "Whole Foods" every Tuesday, which
 transports willing customers to the "Whole Foods" supermarket in the
 Protero Hill neighborhood while renovation work is taking place.
 
-<pic images/bell-notice.ps The supermarket change is preceded by a
-public hearing.>
+<pic images/bell-notice.ps The supermarket change is preceded by a public hearing.>
 
 The service is primarily aimed at older people in the neighborhood
 who can no longer drive themselves, but of course, it can be used by
-anyone. Since the "Bell" closed, Michael has been complaining every
+anyone. Since "Bell Market" closed, Michael has been complaining every
 other day that he can no longer buy his beloved bread there. Although
 we have an excellent bakery on 24th Street, Michael always bought a
 specific type of Italian baguette at the "Bell" because of the
@@ -435,38 +432,34 @@ opening of "Whole Foods" does not bring hordes of eco-conscious
 shoppers to our neighborhood, who would then clog up 24th Street with
 their cars.
 
-@Z: Warten auf den Regen" translates to "Waiting for the Rain" in
-English.
+@Z: Waiting for the Rain
 
-<pic images/sf-umbrella.ps The tourist doesn't like the rain, but
-California needs it urgently.>
+<pic images/sf-umbrella.ps Tourists don't like rain, but California needs it urgently.>
 
 <em>Angelika</em> 
 In California, it is well known that there are usually only two
 seasons: the hills are either brown or green. In the last three
 years, the hills have stayed brown a bit too long because it didn't
-rain enough in the winter, and from April to September, as is well
-known, not a drop of rain falls. This not only affects the color of
-the hills but also the water levels of the reservoirs that supply us
-with water.
+rain enough in the winter, and from April to September, we usually
+don't get a single drop of rain. This not only affects the color of
+the hills but also the water levels in the reservoirs that supply us
+with drinking water.
 
-<pic images/sfwater.ps The water pipeline from Yosemite National Park
-to San Francisco>
+<pic images/sfwater.ps The water pipeline from Yosemite National Park to San Francisco>
 
-The city officials built a pipeline many years ago from Yosemite
+City officials built a pipeline many years ago from Yosemite
 National Park, located 225 km to the east, to San Francisco. This
-ensures that the city residents and the surrounding agriculture
-benefit from a consistently available water supply, even if it
-doesn't rain for months. A whopping 86% of the drinking water in San
+ensures that city residents and the surrounding agriculture
+benefit from a consistently available water supply, even if there's
+no rain for months. A whopping 86% of the drinking water in San
 Francisco comes from this pipeline!
 
-<pic images/sfwaterstats.ps The San Francisco water utility publishes
-the drinking water data.>
+<pic images/sfwaterstats.ps The San Francisco water utility publishes the drinking water data.>
 
-Although in February it occasionally rained heavily, the amount of
-precipitation is just a drop in the bucket, because the reservoir
-levels will only return to normal if March brings us torrential rains
-and astronomical snowfall in the Sierra Nevada.
+Although in February this year it occasionally rained heavily, the
+amount of precipitation is just a drop in the bucket, because the
+reservoir levels will only return to normal if March brings us
+torrential rains and astronomical snowfall in the Sierra Nevada.
 
 Governor Schwarzenegger declared a state of emergency at the end of
 February due to the ongoing drought in California. Cities and
@@ -480,8 +473,9 @@ the tenants in the building. That would be the end for our elephant
 showerhead, which Michael just installed, even though it probably
 doesn't use more water; it just distributes the water stream better.
 
-<pic images/sf-puddle.ps The translation to English is:
-"Unfortunately, there is too little rain.>
+<pic images/sf-puddle.ps Unfortunately, there is not enough rain.>
+
+TODO
 
 But for now, it is still about typically voluntary measures, such as
 only running the dishwasher when it is full, not washing the car by
