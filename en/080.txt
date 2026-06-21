@@ -4,8 +4,6 @@ San Francisco, 05-29-2009
 
 <pic images/flu.ps Oops, don't infect me!>
 
-TODO
-
 <em>Angelika</em> 
 Fortunately, the hysteria surrounding the so-called swine flu has
 subsided somewhat, and we didn't all have to go into quarantine. In
@@ -16,16 +14,14 @@ of the San Francisco Health Department also appealed for people with
 flu symptoms not to show up at hospital emergency rooms, as they were
 temporarily overwhelmed by the influx.
 
-The translation of the given text to English is:
-
-"Our president also did not hold back with simple advice: Stay at
+Our president also did not hold back with simple advice: Stay at
 home if you are sick, and do not send sick children to school. That
 sounds reasonable, but it is easier said than done in a country where
 almost 50% of full-time employees in the private sector do not
 receive paid sick leave or cannot stay at home to care for their sick
-children.
-<RBLINK>20070610#7</RBLINK>
-.
+children (<RBLINK>20070610#7</RBLINK>).
+
+TODO
 
 The number of part-time workers quickly jumps to almost 80%. And only
 14% of employees who handle food receive pay when they call in sick.
