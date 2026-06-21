@@ -567,8 +567,6 @@ all, the people playing the 25-cent machines aren't Rockefellers!
 
 <pic images/vpop.ps The book "Video Poker Optimum Play", available at Amazon.com>
 
-TODO
-
 Video poker has almost nothing to do with real poker. After placing
 the amount of money you want to bet, you receive five cards on the
 screen and must use the built-in machine buttons to decide which
@@ -597,7 +595,4 @@ hovering around break-even... Beginner's luck, without a doubt!
 
 The country may be in crisis, but we're making the best of it!
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
