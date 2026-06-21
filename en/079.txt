@@ -475,9 +475,7 @@ doesn't use more water; it just distributes the water stream better.
 
 <pic images/sf-puddle.ps Unfortunately, there is not enough rain.>
 
-TODO
-
-But for now, it is still about typically voluntary measures, such as
+But for now, it's all voluntary measures, such as
 only running the dishwasher when it is full, not washing the car by
 hand, and repairing dripping faucets. Private households are, of
 course, only part of the problem. The irrigation of agricultural
@@ -485,13 +483,13 @@ fields in California's Central Valley consumes enormous amounts of
 water.
 
 Water is actively pumped from the Sacramento River Delta in the north
-to the south through the area, as the fruits and vegetables need
+to the south for hundreds of miles, as fruits and vegetables on the
+fields need
 water to thrive. California produces half of the fruits, vegetables,
 and nuts in the USA. Farmers often receive the water to irrigate
 their fields from reservoirs that are under state or federal control.
 
-<pic images/sf-rain-window.ps The dream weather of many fruit
-growers: rain, rain, rain.>
+<pic images/sf-rain-window.ps The dream weather of many fruit growers: rain, rain, rain.>
 
 The authorities have now announced that there will be no water from
 these sources this year unless the situation dramatically improves.
@@ -503,44 +501,23 @@ the way, we recently drove through this area with its orchards and
 fields as far as the eye can see on our way to Los Angeles. We
 clearly saw that some towns have seen better days.
 
-@Z: US-Warenkorb Update" translates to "US Shopping Cart Update" in
-English.
+@Z: US Shopping Cart Update
 
-<em>Michael</em> 
-Newsletter reader Marlene N. recently pointed out to us that it would
-be quite interesting to update the US shopping basket that we
-compiled back in the year 2000.
-<RBLINK>20000801#4</RBLINK>
-The translation to English is: "published to shock you with the
-horrendous cheese prices in San Francisco. Surprisingly, most prices
-have remained about the same, only the rent has increased
-significantly.
+<em>Michael</em> Newsletter reader Marlene N. recently pointed out to
+us that it would be quite interesting to update the US shopping
+basket that we compiled back in the year 2000
+(<RBLINK>20000801#4</RBLINK>), to shock you with the horrendous
+cheese prices here in San Francisco. Surprisingly, most prices have
+remained about the same, only the rent has increased significantly.
 
-
-Here is the translation of the table into English:
-
-\[ \begin{array}{lrr} \text{Product/Service} & \text{Dollar} &
-\text{Euro} \\ \hline 1 \text{ Liter of Milk} & 1.80 & 1.39 \\ 1
-\text{ Liter of good (Microbrew) Beer (Supermarket)} & 4.00 & 3.09 \\
-250\text{g Gouda "Old Amsterdam"} & 7.50 & 5.80 \\ 1 \text{ Hamburger
-at McDonald's on offer} & 0.49 & 0.38 \\ 1 \text{ Rental Car for 1
-Day with Insurance} & 50.00 & 38.66 \\ 1 \text{ Burrito at a Mexican
-Restaurant} & 6.00 & 4.64 \\ 1 \text{ Sandwich in the Supermarket} &
-5.00 & 3.87 \\ 1 \text{ Pack of Cigarettes} & 6.50 & 5.03 \\ 1 \text{
-Bottle of reasonably drinkable Wine} & 7.00 & 5.41 \\ 30\text{-pack
-of 'Twix' in the Supermarket} & 14.00 & 10.82 \\ 1 \text{ Liter of
-Regular Gasoline} & 0.58 & 0.45 \\ 1 \text{ Hand Car Wash
-inside/outside} & 19.95 & 15.43 \\ \text{Good and cheap Chinese lunch
-(per person)} & 8.00 & 6.19 \\ \text{Good and cheap dinner (per
-person)} & 20.00 & 15.46 \\ \text{Very good and expensive dining out
-(per person)} & 100.00 & 77.32 \\ \text{Monthly rent for a 3-room
-apartment in our neighborhood} & 2800.00 & 2164.96 \\ \text{Cheap
-Motel (double room) in San Francisco} & 85.00 & 65.72 \\ \end{array}
-\]
+<TABLE BORDER="1"><TR><TH>Ware/Dienstleistung</TH> <TH>Dollar</TH> <TH>Euro</TH></TR>
+<tr><td>1 Liter Milch</td> <td>1.80</td> <td>1.39</td></tr><tr><td>1 Liter gutes (Microbrew) Bier (Supermarkt)</td> <td>4.00</td> <td>3.09</td></tr><tr><td>250g Gouda "Old Amsterdam"</td> <td>7.50</td> <td>5.80</td></tr><tr><td>1 Hamburger bei McDonalds im Angebot</td> <td>0.49</td> <td>0.38</td></tr><tr><td>1 Mietauto für 1 Tag mit Versicherung</td> <td>50.00</td> <td>38.66</td></tr><tr><td>1 Burrito beim Mexikaner</td> <td>6.00</td> <td>4.64</td></tr><tr><td>1 belegtes Sandwich im Supermarkt</td> <td>5.00</td> <td>3.87</td></tr><tr><td>1 Schachtel Zigaretten</td> <td>6.50</td> <td>5.03</td></tr><tr><td>1 Flasche halbwegs trinkbarer Wein</td> <td>7.00</td> <td>5.41</td></tr><tr><td>30er Packung 'Twix' im Supermarkt</td> <td>14.00</td> <td>10.82</td></tr><tr><td>1 Liter Normalbenzin</td> <td>0.58</td> <td>0.45</td></tr><tr><td>1 Hand-Autowäsche innen/außen</td> <td>19.95</td> <td>15.43</td></tr><tr><td>Gut und billig chinesisch Mittag essen (pro Person)</td> <td>8.00</td> <td>6.19</td></tr><tr><td>Gut und billig Abend essen (pro Person)</td> <td>20.00</td> <td>15.46</td></tr><tr><td>Sehr gut und teuer essen gehen (pro Person)</td> <td>100.00</td> <td>77.32</td></tr><tr><td>Monatsmiete 3-Zimmer Wohnung in unserem Viertel</td> <td>2800.00</td> <td>2164.96</td></tr><tr><td>Billiges Motel (DZ) in San Francisco</td> <td>85.00</td> <td>65.72</td></tr></TABLE>
 
 As you can see, if you take advantage of offers, you can live on very
-little money. However, we would then have to move to a more
-affordable area.
+little money. However, with less income, we would then have to
+move to a more affordable area.
+
+TODO
 
 @Z: Las Vegas Optimum Poker
 
