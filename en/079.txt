@@ -511,13 +511,11 @@ cheese prices here in San Francisco. Surprisingly, most prices have
 remained about the same, only the rent has increased significantly.
 
 <TABLE BORDER="1"><TR><TH>Ware/Dienstleistung</TH> <TH>Dollars</TH> <TH>Euros</TH></TR>
-<tr><td>1 Liter milk</td> <td>1.80</td> <td>1.39</td></tr><tr><td>1 Liter good (microbrew) beer (supermarket)</td> <td>4.00</td> <td>3.09</td></tr><tr><td>250g Gouda "Old Amsterdam"</td> <td>7.50</td> <td>5.80</td></tr><tr><td>1 Hamburger at McDonalds on sale</td> <td>0.49</td> <td>0.38</td></tr><tr><td>1 Rental car für 1 day including insurance</td> <td>50.00</td> <td>38.66</td></tr><tr><td>1 Burritor at Mexican restaurant</td> <td>6.00</td> <td>4.64</td></tr><tr><td>1 supermarket deli sandwich</td> <td>5.00</td> <td>3.87</td></tr><tr><td>1 pack cigarettes</td> <td>6.50</td> <td>5.03</td></tr><tr><td>1 bottle halfway drinkable wine</td> <td>7.00</td> <td>5.41</td></tr><tr><td>30 pack Twix (supermarket) </td> <td>14.00</td> <td>10.82</td></tr><tr><td>1 Liter regular gas</td> <td>0.58</td> <td>0.45</td></tr><tr><td>1 car wash by hand (outside/inside)</td> <td>19.95</td> <td>15.43</td></tr><tr><td>Good lunch at Chinese restaurant (per person)</td> <td>8.00</td> <td>6.19</td></tr><tr><td>Good and cheap dinner at restaurant (per person)</td> <td>20.00</td> <td>15.46</td></tr><tr><td>very good and expensive dinner at retaurant (per person)</td> <td>100.00</td> <td>77.32</td></tr><tr><td>Monthly rent 2-bedroom apartment in our neighborhood </td> <td>2800.00</td> <td>2164.96</td></tr><tr><td>Cheap motel (double occupancy) in San Francisco</td> <td>85.00</td> <td>65.72</td></tr></TABLE>
+<tr><td>1 Liter milk</td> <td>1.80</td> <td>1.39</td></tr><tr><td>1 Liter good (microbrew) beer (supermarket)</td> <td>4.00</td> <td>3.09</td></tr><tr><td>250g Gouda "Old Amsterdam"</td> <td>7.50</td> <td>5.80</td></tr><tr><td>1 Hamburger at McDonalds on sale</td> <td>0.49</td> <td>0.38</td></tr><tr><td>1 Rental car für 1 day including insurance</td> <td>50.00</td> <td>38.66</td></tr><tr><td>1 Burrito at Mexican restaurant</td> <td>6.00</td> <td>4.64</td></tr><tr><td>1 supermarket deli sandwich</td> <td>5.00</td> <td>3.87</td></tr><tr><td>1 pack cigarettes</td> <td>6.50</td> <td>5.03</td></tr><tr><td>1 bottle halfway drinkable wine</td> <td>7.00</td> <td>5.41</td></tr><tr><td>30 pack Twix (supermarket) </td> <td>14.00</td> <td>10.82</td></tr><tr><td>1 Liter regular gas</td> <td>0.58</td> <td>0.45</td></tr><tr><td>1 car wash by hand (outside/inside)</td> <td>19.95</td> <td>15.43</td></tr><tr><td>Good lunch at Chinese restaurant (per person)</td> <td>8.00</td> <td>6.19</td></tr><tr><td>Good and cheap dinner at restaurant (per person)</td> <td>20.00</td> <td>15.46</td></tr><tr><td>very good and expensive dinner at retaurant (per person)</td> <td>100.00</td> <td>77.32</td></tr><tr><td>Monthly rent 2-bedroom apartment in our neighborhood </td> <td>2800.00</td> <td>2164.96</td></tr><tr><td>Cheap motel (double occupancy) in San Francisco</td> <td>85.00</td> <td>65.72</td></tr></TABLE>
 
 As you can see, if you take advantage of offers, you can live on very
 little money. However, with less income, we would then have to
 move to a more affordable area.
-
-TODO
 
 @Z: Las Vegas Optimum Poker
 
@@ -533,25 +531,24 @@ longer feasible for the average consumer. However, the casino bosses
 in Las Vegas are, of course, not naive and are enticing people with
 special offers.
 
-<pic images/lvbath.ps The bathroom, even with a TV box!>
+<pic images/lvbath.ps The bathroom, even with a TV!>
 
 A few months ago, as an old bargain hunter, I booked a luxury suite
 at the "Venetian" on the internet for a relatively reasonable price,
 and in January, we went there for the weekend.
 
-Dramatically, Angelika was struck by a flu that was going around just
-before departure and could only drag herself to the gambling paradise
-with great difficulty. Of course, we couldn't let the fantastic offer
-pass us by. We even had to take a blanket to the airport so she could
-snuggle up in the waiting room!
+Dramatically, Angelika was struck by the flu that was going around
+just before departure and could only drag herself to the gambling
+paradise with great difficulty. Of course, we couldn't let the
+fantastic offer pass us by. We even had to take a blanket to the
+airport so she could snuggle up in the waiting area!
 
 Upon arrival, we rented a car for $8 per day (yes, even the car
-rental companies have to lower their prices), drove to the casino,
+rental companies had to lower their prices), drove to the casino,
 where Angelika immediately went to sleep in the bed of the luxury
 suite, and I went down to the casino at 2 a.m.
 
-<pic images/videopoker.ps A typical video poker machine in a casino
-in Las Vegas.>
+<pic images/videopoker.ps A typical video poker machine in a casino in Las Vegas.>
 
 A work colleague had previously given me a book titled "Video Poker
 Optimum Play," which describes a relatively easy-to-remember strategy
@@ -568,8 +565,9 @@ order free beer or cocktails from them. When the drink is brought a
 few minutes later, you give a dollar tip. Nothing more, because after
 all, the people playing the 25-cent machines aren't Rockefellers!
 
-<pic images/vpop.ps The book "Video Poker Optimum Play", available at
-Amazon.com>
+<pic images/vpop.ps The book "Video Poker Optimum Play", available at Amazon.com>
+
+TODO
 
 Video poker has almost nothing to do with real poker. After placing
 the amount of money you want to bet, you receive five cards on the
