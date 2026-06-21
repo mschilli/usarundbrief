@@ -203,8 +203,6 @@ surely pull out the file and wave it around, so be careful!
 
 <pic images/streetclean2.ps Before the change: Weekly street cleaning.>
 
-TODO
-
 <em>Angelika</em> 
 We couldn't believe our eyes: Last year in the fall, diligent little
 elves covered the street cleaning signs with a sticker in our
@@ -213,13 +211,10 @@ only take place twice a month. It wasn't a prank by frustrated
 parkers who were tired of having to move their cars weekly to avoid
 the street cleaning vehicles or paying a now $50 fine. No, the city
 had decided to save money and send the street sweeper through certain
-streets in 20 selected neighborhoods only twice a month.
-<RBLINK>20080502#5</RBLINK>
-It seems like there might be a mistake or missing text in your
-request. Could you please provide more context or clarify what you
-would like translated?
+streets in 20 selected neighborhoods only twice a month (<RBLINK>20080502#5</RBLINK>).
 
-The neighborhoods where there isn't much littering made it onto the
+Relatively clean neighborhoods without much littering on the streets
+made it onto the
 shortlist. Our neighborhood, "Noe Valley," was included. We rubbed
 our hands with delight because, with clever planning, we can
 theoretically leave our old car, the "PERLMAN," parked in the same
@@ -231,20 +226,18 @@ took action and hung a calendar with the specific dates on our front
 door, right below the city map with the street cleaning weekdays
 color-coded for our neighborhood.
 
-<pic images/streetclean1.ps The street sweeper now only comes every
-other week, and the city is incurring huge losses!>
+<pic images/streetclean1.ps The street sweeper now only comes every other week, and the city is incurring huge losses!>
 
 Haha, I can already hear the outcry from the attentive readership:
-"But what about the 72-hour rule?
-<RBLINK>20090315#2</RBLINK>
-...which states that the car must be moved after this period?" Well,
+"But what about the 72-hour rule? As reported in <RBLINK>20090315#2</RBLINK>,
+it states that the car must be moved after this period. Well,
 by now we have figured out which street the spies are sitting on, who
 have nothing better to do all day than to watch who parks when and
-for how long, and to report people. We simply avoid these streets and
+for how long, and to call them in. We simply avoid these streets and
 park where people with common sense live, who don't care about such
 things.
 
-Unfortunately, the city miscalculated a bit. The savings from reduced
+But, unfortunately, the city miscalculated a bit. The savings from reduced
 street sweeping do not compensate for the lost revenue from fewer
 issued parking tickets! The parking ticket officers can now only
 issue tickets half as often, and this creates a huge hole in the
@@ -257,10 +250,9 @@ and December. If this continues, the city will lose a whopping 3.8
 million dollars per year, but in return, it will only save 1 million
 dollars in cleaning costs. Ouch, that hurts!
 
-@Z: The San Francisco regulars' table
+@Z: The San Francisco Stammtisch
 
-<pic images/stamm.ps The homepage of the San Francisco Stammtisch on
-Yahoo Groups>
+<pic images/stamm.ps The homepage of the San Francisco Stammtisch on Yahoo Groups>
 
 <em>Michael</em> 
 Germans traveling abroad are known to avoid other German travelers.
@@ -270,59 +262,51 @@ a few years abroad, even the most hardened expatriate seeks contact
 with like-minded people.
 
 Germans living in San Francisco have access to the so-called
-<LINK>https://groups.yahoo.com/neo/groups/sf-stammtisch/info|San
-Francisco Stammtisch" translates to "San Francisco Regulars' Table"
-in English. A "Stammtisch" is a German term referring to an informal
-group meeting held on a regular basis, often at a pub or restaurant,
-where people gather to socialize and discuss various topics.</LINK>
-Available is a Yahoo group that you can join via email. On the
+<LINK>https://groups.yahoo.com/neo/groups/sf-stammtisch/info|San Francisco Stammtisch"</LINK>
+discussion group hosted at Yahoo that you can join via email. On the
 mailing list, the typical questions from newcomers trickle in, which
 the wise old-timers among the expatriates answer good-naturedly.
 However, the list owners regulate the communication with an iron hand
 and do not allow people to sell old junk or express extreme political
 views. A few years ago, it was quite bad, as the postings were
 filtered by an authoritarian censor who enjoyed playing the role of
-the infallible ruler. Fortunately, that person is now out of the
-picture.
+the infallible ruler. Fortunately, that person has now left the building.
 
 Another curiosity is the brief introductions encouraged by the
 organizer for newcomers, which always read like, "Hello, well, I'm
 Martin from Buxtehude and now I live in Palo Alto. My hobbies are
 swimming, hiking, and enjoying a nice beer. I'd be happy to meet
 like-minded people sometime!" But, hey, I don't want to make fun of
-the people; the San Francisco Stammtisch mailing list is...
-<em>gigantisch</em> 
-The translation to English is: "big and the growth is enormous, I
-once heard something about 100 per month! The operators must be doing
+these people; the San Francisco Stammtisch mailing list is
+enormous in size, I
+once heard growth is about 100 subscribers per month! The operators must be doing
 something right. And it's certainly not the web design of the
 homepage, that must be said clearly, it feels like a time travel back
 to the year 1990!
 
-<pic images/wish.ps In "Wish," the Germans in San Francisco meet once
-a month.>
+<pic images/wish.ps At the "Wish" bar, Germans in San Francisco meet once a month.>
 
 Once a month, an email is sent out stating that on the first Monday
 of the month, people gather for a regular meet-up. Then, starting at
 7 PM, the Germans living abroad in San Francisco and the surrounding
 area march into the "Wish" bar, located at 1539 Folsom Street (in
 SoMa), which is reserved for this purpose. During "Happy Hour," a
-glass of beer costs only $3 (until recently it was $2, but the
+pint of beer costs only $3 (until recently it was $2, but the
 crisis, the crisis!), and that's quite reasonable, as you usually pay
-around $5 for a pint (approximately 0.5 liters) in the city's bars.
+around $5 for a pint (approximately 0.5 liters) in the city's other bars.
 
 The crowd is enormous! We went there a few times, and there were an
 estimated 100 people each time! Most of them are Germans who take the
 opportunity to let off some steam about the catastrophic American
 health insurance system. Occasionally, a few Americans wander in who
 want to brush up on their German skills. Naturally, that's a hopeless
-endeavor, but you don't want to discourage people. But, joking aside,
+endeavor, but you don't want to discourage these people. Okay, joking aside,
 the event is quite well organized, and we've actually met some really
 nice people there with whom we've become friends.
 
-@Z: Top product: Apple slicer
+@Z: Top product: Apple Slicer
 
-<pic images/apple1.ps The translation of "Einen geschÃ¤lten Apfel
-..." to English is "A peeled apple ...".>
+<pic images/apple1.ps A peeled apple ...>
 
 <em>Michael</em> 
 I like to eat a few apple slices now and then, but unfortunately, I'm
@@ -333,8 +317,7 @@ slices apples like a charm! Of course, like almost all kitchen
 utensils and tools in the USA these days, it's made in China, but the
 quality is impressive, and it's also dishwasher safe.
 
-<pic images/apple2.ps ... the apple carver elegantly cuts it into
-eight equal slices!>
+<pic images/apple2.ps ... the apple carver elegantly cuts it into eight equal slices!>
 
 First, you peel the apple with a peeler, then turn it so that the
 blossom (not the stem) is facing up, place the slicer on top, press
@@ -345,18 +328,18 @@ exists in Germany, but hey, it's still my top product of the month.
 By the way, Costco offers the corresponding apples, and the Fuji
 apples with the organic stamp taste excellent.
 
-@Z: Mount Shasta is already in English. It is the name of a prominent
-volcanic mountain located in Northern California, USA.
+@Z: Mount Shasta
 
-<pic images/shasta3.ps In the small town of "Mount Shasta," the
-mountain is omnipresent.>
+<pic images/shasta3.ps In the small town of "Mount Shasta," the mountain is omnipresent.>
 
 <em>Angelika</em> 
-We've already explored quite a bit in California since we've been
+We've already explored quite a few places in California since we've been
 living here, but there are still some blank spots on our map.
 Although we've zoomed past the gigantic Mount Shasta on the northern
 border of California many times by car, or caught a glimpse of it
 from an airplane, we haven't really been there yet.
+
+TODO
 
 The holiday Memorial Day gave us a long weekend this month, so we
 sped north on the I-5, one of California's most boring yet fastest
