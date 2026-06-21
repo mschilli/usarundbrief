@@ -482,25 +482,21 @@ So the correct spelling is 'It's raining' and 'The horse
 turned its head'. The same applies to 'they're' and 'their', which
 are both pronounced exactly the same.
 
-TODO
-
 @Z: SCRAP in San Francisco
 
 <pic images/scrapschild.ps SCRAP, the "Scrounger's Center for Reusable Art Parts>
 
 <em>Angelika</em> 
 San Francisco is known for often taking a leading role in
-environmental protection, as we recycle diligently.
-<RBLINK>20060215#4</RBLINK>
-) and the city has even banned plastic bags (
-<RBLINK>20070427#1</RBLINK>
+environmental protection. For example, we recycle diligently
+(<RBLINK>20060215#4</RBLINK>)
+and the city has even banned plastic bags (<RBLINK>20070427#1</RBLINK>).
 Today, I want to introduce you to an ingenious non-profit
 organization in San Francisco that not only benefits the environment
 but also helps financially strapped teachers, educators, artists, and
-other creatives.
-<LINK>http://www.scrap-sf.org|SCRAP</LINK>
-The "Scrounger's Center for Reusable Art Parts," which roughly
-translates to the "Scrounger's Center for Reusable Art Materials.
+other creatives:
+<LINK>http://www.scrap-sf.org|SCRAP</LINK>,
+the "Scrounger's Center for Reusable Art Parts.
 
 <pic images/fabric.ps Selection of fabrics at SCRAP.>
 
@@ -515,26 +511,22 @@ downturn. The shelves are therefore stocked differently depending on
 the current donation situation. So, every visit to SCRAP is like a
 treasure hunt.
 
-<pic images/scrap.ps The people are happy about the bargains they got
-at SCRAP.>
+<pic images/scrap.ps Customers are happy about the bargains they got at SCRAP.>
 
 The items cost a small fee of an average of 10 cents to $1.50 per
 piece. However, no one is very strict about it. Recently, I got a bag
-full of items for $3, and the cashier just glanced briefly into my
+full of items for $3, and the cashier had just glanced briefly into my
 bag to calculate the price. By the way, SCRAP is located in a
 somewhat run-down area in the "Bayview" district, squeezed between
 two highways and surrounded by warehouses. There's a lot of trash
-around, and glass on the ground suggests broken car windows, but
+lying around, and glass on the ground suggests broken car windows, but
 everything is fine during the day. SCRAP is, of course, not a super
 tidy and organized store, but the volunteer helpers make an effort to
-lovingly store the donated items. When I recently explored SCRAP with
+lovingly stock the shelves with the donated items. When I recently explored SCRAP with
 my friend Conny, fabrics seemed to be the hot item among customers. I
-also find it nice that SCRAP offers various courses that teach you
+also find it nice that SCRAP offers various classes that teach you
 how to creatively use the available materials.
 
-Greetings from San Francisco
+Greetings from scrappy San Francisco
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
