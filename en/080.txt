@@ -463,54 +463,30 @@ Conversely, in long numbers, a comma is used to
 separate the thousands: An American writes one million as 1,000,000,
 unlike the German convention of 1.000.000.
 
-TODO
-
 It sounds crazy, but when Americans use quotation marks, they
 sometimes include the following punctuation marks within them. In
-German, you write it differently.
-The sign said "Welcome," but we didn't go in.
-The text appears to be in German, but it seems to be incomplete or
-corrupted. The correct German phrase might be "wÃ¤hrend es auf
-Amerikanisch tatsÃ¤chlich" which translates to "while in American it
-actually" in English. If you have more context or a complete
-sentence, I can provide a more accurate translation.
-<em>The sign said "Welcome," but we didn't go in.</em> 
-The translation to English is: "is called. Look where the comma is!
-Insane! In British English, however, the comma follows like in
-German.
-<em>nach</em> 
-The text appears to be in German, but there are some encoding issues
-with the characters. Here's a translation of the corrected text:
-
-"dem schlieÃenden AnfÃ¼hrungszeichen. Wer's nicht glaubt, kann es
-auf"
-
-Translation:
-
-"the closing quotation mark. If you don't believe it, you can"
-
-If you have more context or additional text, feel free to provide it
-for a more complete translation.
-<LINK>http://www.grammarbook.com/punctuation/quotes.asp|grammarbook.c
-om</LINK>
-The German word "nachlesen" translates to "look up" or "read up on"
-in English.
+German, you write:
+<em>Auf dem Schild stand "Willkommen", aber wir gingen nicht hinein</em>
+while in American, it actually is
+<em>The sign said "Welcome," but we didn't go in</em>.
+Look where the comma is!  Insane! In British English, however, the comma
+follows the quote, just like in German.
+If you don't believe it, you can look it up on
+<LINK>http://www.grammarbook.com/punctuation/quotes.asp|grammarbook.com</LINK>
 
 Spelling heroes the Americans are not, by the way. It happens quite
 often that someone can't distinguish between 'it's' and 'its', and
 that's fatal because the first is the abbreviation for 'it is', and
-the second is a so-called 'possessive pronoun', like...
-<em>sein</em> 
-The German phrase "oder" translates to "or" in English.
-<em>ihr</em> 
-The translation to English is: "So it's 'it's raining' but 'The horse
+the second is a so-called 'possessive pronoun'.
+So the correct spelling is 'It's raining' and 'The horse
 turned its head'. The same applies to 'they're' and 'their', which
 are both pronounced exactly the same.
 
-@Z: Scrap San Francisco
+TODO
 
-<pic images/scrapschild.ps SCRAP, the "Scrounger's Center for
-Reusable Art Parts>
+@Z: SCRAP in San Francisco
+
+<pic images/scrapschild.ps SCRAP, the "Scrounger's Center for Reusable Art Parts>
 
 <em>Angelika</em> 
 San Francisco is known for often taking a leading role in
