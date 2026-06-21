@@ -1,0 +1,557 @@
+San Francisco, 09-03-2009
+
+@Z: The United States Supreme Court
+
+<pic images/gavel.ps The Supreme Court issues landmark rulings on constitutional questions.>
+
+<em>Angelika</em> 
+While President Obama was battling with healthcare reform and its
+critics in recent weeks, something else groundbreaking happened. In
+early August, the Senate confirmed the appointment of a new Supreme
+Court Justice to the U.S. Supreme Court, the highest court in the
+United States: Sonia Sotomayor is not only the third woman to hold
+this position, but also the first person of Latin American descent in
+the 220-year history of the court.
+
+TODO
+
+She fills the position of Justice David Souter, who retired at the
+age of 69. Appointments to the court carry significant weight during
+a president's term because they are lifetime appointments. If you
+look at the list of currently active Supreme Court justices and which
+presidents appointed them, you'll know what I mean: Samuel Alito
+(appointed in 2006 by George W. Bush), Stephen Breyer (appointed in
+1994 by Clinton), Ruth Bader Ginsburg (appointed in 1993 by Clinton),
+Anthony Kennedy (appointed in 1988 by Reagan), John Roberts
+(appointed in 2005 by George W. Bush), Antonin Scalia (appointed in
+1986 by Reagan), Sonia Sotomayor (appointed in 2009 by Obama), John
+Paul Stevens (appointed in 1975 by Ford), Clarence Thomas (appointed
+in 1991 by George H. W. Bush).
+
+<pic images/supreme-court.ps The impressive building of the Supreme
+Court in Washington D.C.>
+
+If you've been keeping count, you know that the Supreme Court
+consists of a total of nine justices. The 54-year-old John G. Roberts
+serves as the Chief Justice. By the way, the Constitution does not
+specify how many justices should make up the Supreme Court, but since
+1869, there have been nine. An odd number of justices is advisable,
+however, to avoid possible deadlock situations.
+
+There are actually only three ways to lose a seat on the Supreme
+Court: impeachment, death, and voluntary resignation. However, there
+has only been one attempt to remove a justice. This occurred in 1805
+when the House of Representatives impeached Justice Samuel Chase, but
+the necessary votes for conviction in the Senate were not obtained,
+so the justice remained in office--a strong endorsement of the
+separation of powers between the legislative branch and politics.
+
+At 55 years old, Sotomayor is among the younger justices of the
+Supreme Court and likely has many years ahead of her in which she can
+shape the court and, more broadly, American society through her
+decisions. Her vote is just one of nine, but especially when the
+court is balanced between conservative and liberal justices, this one
+vote can potentially tip the scales.
+
+It is the responsibility of the judges to ensure, as a last resort,
+that the American Constitution is applied lawfully. It is not about
+writing new laws, but about applying existing law. That sounds good,
+but the American Constitution is often written so vaguely that it
+does indeed matter how the judges interpret the legal text.
+Generally, the Supreme Court deals with appellate cases, i.e., cases
+that have already been decided in lower courts.
+
+Presidents certainly try to influence the court by selecting
+candidates who align with their views. The big questions that arise
+repeatedly are: What is the newly appointed judge's stance on
+abortion, gun ownership, affirmative action, or civil rights? While
+the president may propose their ideal candidate, that person only
+gets a seat on the Supreme Court if the Senate confirms them through
+a two-step process. First, the Senate Judiciary Committee questions
+the Supreme Court candidate and gives a green or red light on whether
+the candidate should be voted on by the full Senate. If the committee
+agrees, a simple majority in the Senate is sufficient to confirm the
+nomination.
+
+During Sotomayor's hearing, the senators primarily focused on the
+following comment she made in a 2001 speech in California: "I would
+hope that a wise Latina woman, with the richness of her experiences,
+would more often than not reach a better conclusion than a white male
+who hasn't lived that life." Many Republican senators interpreted
+this statement as reverse discrimination.
+
+She also had to answer for her notorious decision regarding the
+firefighters of the city of New Haven. The city of New Haven required
+its firefighters who wanted to be promoted to take a test, but then
+did not consider the results because no Black individuals would have
+been promoted to a higher position due to low test scores. The city
+suddenly got cold feet and feared that someone would sue because no
+minorities appeared with higher ranks. Consequently, predominantly
+white firefighters who had performed well on the test sued, arguing
+that they missed out on promotions due to the disregarded test
+results. Sotomayor sided with the city of New Haven, but her current
+Supreme Court colleagues later overturned her decision.
+
+<pic images/nine.ps Good book on the topic of the Supreme Court: "The
+Nine".>
+
+During the hearings, candidates nowadays carefully avoid directly
+answering sensitive questions (such as those on the topic of
+abortion). They often beat around the bush. The Senate ultimately
+confirmed Sotomayor's nomination with a vote of 68 to 31.
+Incidentally, it is not guaranteed that the President's preferred
+candidate will actually act in accordance with the President's wishes
+on the court, because due to the separation of powers, the Supreme
+Court is independent of both the President and Congress.
+
+Republican presidents have historically nominated seemingly
+conservative judges to the Supreme Court, who then turned out to be
+extremely liberal over the course of their careers. Earl Warren,
+nominated by Eisenhower, is one such example. Some of the most famous
+and influential decisions of the Supreme Court include "Brown v.
+Board of Education" (1954) and "Roe v. Wade" (1973). In the former
+case, the justices abolished racial segregation in schools; in the
+latter, women were granted the fundamental right to have abortions.
+Behind Roe was a Texan woman named Norma McCorvey, who challenged her
+state's abortion ban. To protect her anonymity, she was given the
+name Jane Roe. Henry Wade was the district attorney of Dallas at the
+time. We are eager to see what Sotomayor will have a say in.
+
+@Z: Visiting Pittsburgh
+
+<pic images/pitt1.ps The old town of Pittsburgh, Pennsylvania>
+
+<em>Michael</em> 
+Recently, I had to attend the Perl Conference in Pittsburgh,
+Pennsylvania for work. Grumbling, I boarded the plane on Sunday
+afternoon, which didn't even fly directly to Pittsburgh, but only to
+Cleveland, Ohio, 100 km away. From there, a propeller plane (!) took
+me to Pittsburgh. What century are we living in, anyway?
+
+<pic images/pitt2.ps In the city center, all sorts of riffraff hang
+around in the evenings.>
+
+No matter, after I rented a car at the airport and drove to the
+hotel, I discovered in my room that the TSA had opened my suitcase
+for inspection purposes, searched it, and then sealed it with a
+sticker and a plastic clip. For the Perl conference, I had packed a
+small toy rocket launcher, whose software I was presenting in a
+lecture, and the man at the airport's X-ray machine probably found
+that a bit suspicious and pressed the alarm button. Or maybe it was
+just a coincidence, but in any case, I was standing in the hotel room
+with a sealed suitcase. The TSA's plastic clip was about as tough as
+a ski lift ticket, so it was impossible to remove by hand. Of course,
+I didn't have a pocket knife with me, as that's prohibited on planes.
+So I went down to the reception, where they handed me a pair of
+scissors, with which I finally cut open the suitcase lock. Phew. Next
+time, think a little, TSA, okay!
+
+Sure, please provide the text you would like translated into English.
+
+Pittsburgh is a former steel industry metropolis that, of course, no
+longer exists in that form. According to a sign at the airport,
+Pittsburgh is now home to many multi-billion dollar companies, but
+the downtown area is dead after 9 PM. You can see white Americans
+quickly darting from their cars into hermetically sealed restaurants,
+while on the street, only black youths hang around, incredulously
+staring at people like your humble narrator who walk around
+fearlessly. It's a strange scene. Yet, the weather in the summer is
+really pleasant, not too hot, because the city is located right on
+the Ohio River, and you could comfortably sit in a street cafÃ© until
+midnight.
+
+<pic images/hofbrau1.ps Lightning visit to the HofbrÃ¤uhaus,
+Pittsburgh, Pennsylvania>
+
+South of the Ohio River, there is even a so-called HofbrÃ¤uhaus,
+which the intrepid newsletter reporter naturally had to try out. They
+brew the beer themselves there, and the wheat beer I tasted was
+actually very good. The JÃ¤gerschnitzel I ordered turned out to be a
+breaded (!) schnitzel with mushrooms, which was served on (!) potato
+salad, although I would have rather called it fried potatoes. But I
+must say, it tasted excellent.
+
+<pic images/hofbrau2.ps Is there liver paste from a vending machine
+in the real HofbrÃ¤uhaus as well?>
+
+For musical accompaniment, a one-man band was hired, an older
+gentleman in lederhosen and with a bushy beard, who performed proven
+hits like "Rosamunde" and "SchÃ¼tzenliesel" on his Yamaha keyboard
+and with singing. Ha!
+
+<pic images/hofbrau3.ps The gentleman in lederhosen rolled the "R" in
+"Rosamunde" like an American, though.>
+
+The next day, I wanted to buy a beer at the supermarket to take back
+to my hotel room, but I was informed that you can't buy beer in
+supermarkets in the state of Pennsylvania. Well, well, I was familiar
+with that from the Mormon state of Utah or even Alaska, where you
+have to buy alcoholic beverages in so-called liquor stores. When I
+then stopped at a small convenience store that looked like a liquor
+store and also didn't find any beer in the refrigerated section, I
+became suspicious and asked the man at the checkout for advice. He
+was a foreigner who looked like he might be from the Yemen/Syria
+area. He laughed and said it wasn't that simple here ("We are
+different here, haha!") and that I would have to go into a bar and
+order "beer to go.
+
+<pic images/pitsaloon.ps Absurd alcohol laws in the state of
+Pennsylvania forced the thirsty newsletter reporter to order his beer
+to-go from the village saloon.>
+
+Kindly, he also described the way to the next bar for me. I walked
+in, asked the server for a beer, and was directed to a glass
+refrigerator placed next to the bar. When I tried to open its door to
+get the desired beer, it turned out to be locked. However, the
+barmaid immediately instructed the barman to fetch the key and
+retrieve my beer from the fridge. The beer was packed in an opaque
+plastic bag, I paid, went to the car, and drove home. Sometimes you
+just have to wonder...
+
+@Z: Cash for Clunkers" is already in English. It refers to a program
+that was designed to encourage people to trade in their old, less
+fuel-efficient vehicles for new, more environmentally friendly ones
+by providing financial incentives.
+
+<pic images/clunker.ps The "Cash for Clunkers" program will hopefully
+help to take this old wreck to the junkyard.>
+
+<em>Angelika</em> 
+In Germany, you have known it for a long time: the ominous scrappage
+bonus, which is intended to drive potential buyers into car
+dealerships to exchange their old cars for newer, more
+environmentally friendly models. After much back and forth, America
+followed suit with the "Cash for Clunkers" campaign, officially
+called the "Car Allowance Rebate System.
+
+Customers who traded in their old car for a more environmentally
+friendly new one received a bonus when purchasing a new vehicle.
+However, not every old banger was accepted; a "clunker" could not be
+older than 25 years and had to consume at least (!) 13 liters per 100
+kilometers. Since Americans do not measure fuel consumption in liters
+per 100 kilometers but rather by how many miles (1.6 kilometers) a
+car can drive on a gallon (3.79 liters), the value was specified as
+18 "miles per gallon" (mpg), and a clunker had to...
+<em>weniger</em> 
+The German word "schaffen" can be translated to English as "to
+create," "to accomplish," "to manage," or "to succeed," depending on
+the context in which it is used.
+
+For the new car, there was a bonus of $3,500 if it achieved at least
+4 miles more, meaning 22 miles per gallon. This corresponds to a
+consumption of 10.7 liters per 100 km. The state even offered a
+$4,500 bonus for an increase of 10 miles, meaning new cars with a
+consumption of less than 8.4 liters per 100 km.
+
+<pic images/formula.ps The formula to convert "miles per gallon" to
+"liters per 100 kilometers.>
+
+If you're wondering how to convert "Miles Per Gallon" to "Liters per
+100km" and vice versa, here's the formula: You divide the number 235
+by the given value. For example, if a car achieves 20 miles per
+gallon, that's 235 divided by 20, which equals 11.75 liters per
+100km. Conversely, if a German car consumes 7 liters per 100km,
+that's 235 divided by 7, which equals 33 miles per gallon.
+
+The politicians, however, did not anticipate the success of the
+program. People practically stormed the car dealerships, and within
+just a few weeks, the allocated billion dollars was exhausted.
+
+In early August, Congress approved another two billion, but that
+didn't last long either, and last Monday, on August 24th, the "Cash
+for Clunkers" program officially ended. It's amazing how a little
+financial incentive can suddenly turn gas guzzlers into little
+environmental angels!
+
+@Z: Arnie and the State Parks
+
+<pic images/spentrance.ps Entrance to the State Park in Half Moon
+Bay>
+
+<em>Angelika</em> 
+Every tourist is familiar with the spectacular American national
+parks that are spread across the entire USA. My goal is to visit each
+of these national parks at least once. And although Michael and I
+have already visited quite a few, there are still several we haven't
+seen. In addition to the national parks, we also enjoy spending time
+in the so-called state parks, which can be found in every American
+state. The idea behind the state park system is also to make scenic
+or historically significant areas or buildings accessible to the
+public and to preserve them for future generations. California alone
+boasts 278 state parks with different focuses, including 450 km of
+coastline. On average, almost 80 million people visit the various
+Californian state parks each year. So, it is quite a popular leisure
+activity. State parks are smaller compared to national parks: a
+beach, a forest, a lake, a lighthouse, a mission church.
+
+<pic images/ranger.ps Park rangers are collecting signatures against
+the planned closures.>
+
+As the name suggests, State Parks are managed and funded by the
+respective state. In California, however, the coffers have been empty
+for several years, and the recently passed budget once again includes
+cuts in the millions to plug the ever-growing holes. Unfortunately,
+our Governor Arnold Schwarzenegger showed no mercy even with the
+State Parks, despite usually portraying himself as an environmental
+angel. When signing the budget, he cut an additional 6.2 million from
+the State Park fund, putting the parks, which are already not exactly
+flush with cash, in a precarious situation. It is feared that 50-100
+State Parks in California may have to close unless private sponsors
+or nonprofit organizations and groups can be found to keep some
+parks, currently on the blacklist, alive. This would be the first
+time in California's history that State Park closures occur.
+
+<pic images/spsign.ps The translation to English is: "Signage in the
+State Park of Half Moon Bay.>
+
+Visiting a state park usually costs a small fee per car. The entrance
+fee currently ranges from 2 to 14 dollars, with us usually paying 5
+or 6 dollars. Prices were increased in mid-August, which is just a
+drop in the bucket and cannot stop the threatened closures. Strangely
+enough, in our early years, which is now almost 13 years ago, we paid
+an average of 10 dollars for entry in California, until some smart
+people reduced the fees across the board by 50% in the year 2000--a
+decision that was not exactly forward-thinking.
+
+@Z: Mal wieder Kailua" translates to "Once again Kailua" in English.
+
+<pic images/row3.ps Rowers on the beach of Kauai/Oahu>
+
+<em>Michael</em> 
+We have also become quite old and sluggish by now and have recently
+started going to the same place in Hawaii every year. In the little
+town of Kailua on the east side of the main island of Oahu, there is
+a huge crescent-shaped beach with only gentle waves. We always stay,
+as we did this year at the end of May, in a small vacation apartment
+from which you can walk barefoot along a 100-meter private path to
+the sea.
+
+<pic images/kailua.ps Two retirees in the vacation apartment in
+Hawaii>
+
+When the Hawaiian neighbors are not tinkering with their houses or
+having their lawns mowed, both of which cause an infernal noise, you
+can relax quite well there. A gentle breeze blows through the
+windows, which are open all day and only protected by fly screens, so
+there is no need for air conditioning, despite the tropical heat!
+
+<pic images/surf2.ps (#1) Boogie board surfer at Sandy Beach.>
+
+The 5-hour flight from San Francisco went by incredibly quickly,
+after all, I had my new netbook.
+<LINK>http://www.linux-magazin.de/Heft-Abo/Ausgaben/2009/07/Datenmale
+r|"Minime"</LINK>
+.. and lots of TV movies stored on it! This time on Oahu, we didn't
+drive around much, but we did go to "Sandy Beach." After all,
+American media reported that our President Obama had also been
+bodysurfing through the waves there! However, we didn't go into the
+water because the oldest surfers there were around 25, and the waves
+crashed in so brutally that you can't even imagine!
+
+<pic images/don.ps (#2) The discount supermarket "Don Quijote>
+
+And as quasi-Hawaiians, as we consider ourselves after more than 10
+vacations on the islands, we naturally shop where the "locals," the
+natives, shop: at the supermarket "Don Quijote," pronounced "Don
+Quicksott" in American, not like in German or Spanish. The Japanese
+characters in illustration (#2), I can also tell you as an old Japan
+enthusiast, phonetically spell "Don Quijote" in Japanese as "Do-N
+Ki-soh-te" in Katakana characters, which the Japanese use for foreign
+words that don't have a Japanese Kanji character. The store is not
+only incredibly cheap (sometimes only half as expensive as the
+"Safeway" across the street), but also offers all sorts of
+Japanese/Korean delicacies: fresh tuna poke and kimchi oysters, for
+example, super delicious!
+
+@Z: California and Same-Sex Marriage
+
+<pic images/gaycouple2.ps The gay marriage issue in California is an
+endless story.>
+
+<em>Angelika</em> 
+California has not only hit some economic turbulence but has also
+suffered a loss of image as a pioneering state, at least when it
+comes to same-sex marriages. In the meantime, six American
+states--Massachusetts, Connecticut, Vermont, New Hampshire, Maine,
+and Iowa--now allow same-sex couples to marry, while the California
+Supreme Court judges decided on May 26 of this year that Proposition
+8 is legally valid.
+
+You may remember: It all began with our Mayor Gavin Newsom, who
+practiced civil disobedience by allowing same-sex couples to marry in
+San Francisco in February 2004. This was halted a month later by a
+court order, including the annulment of the marriages conducted in
+San Francisco. The dispute between proponents and opponents of
+same-sex marriage then shifted to the California courts for a mere
+four years, until finally, in May 2008, the Supreme Court, by a 4 to
+3 vote, allowed marriage between same-sex partners, as the narrow
+majority of judges deemed the previous practice discriminatory and in
+violation of the California Constitution.
+
+Between June 16 and November 4, 18,000 same-sex couples exchanged
+vows in California. Opponents of same-sex marriage then promptly
+organized a ballot initiative, namely Proposition 8, which redefined
+marriage in California exclusively as a union between a man and a
+woman. On November 4, 52% of California voters voted in favor of
+Proposition 8, thus against same-sex marriage, prompting supporters
+of same-sex marriage to attempt to declare Proposition 8 itself
+legally invalid.
+<RBLINK>20081120#7</RBLINK>
+The highest court then ruled in May of this year: No, the popular
+initiative, Proposition 8, is legally valid, but the 18,000 marriages
+that have already been conducted remain valid. Now, signatures are
+being collected once again to possibly vote on Proposition 8 in the
+near future, in the hope of overturning it by voter decision rather
+than by court ruling. An endless story...
+
+@Z: Learn English with the Pros
+
+<pic images/jazz.ps The pose "Jazz Hands>
+
+<em>Michael</em> 
+And here is the series "English Words That No One Knows." Today:
+"Jazz Hands." You will probably rub your eyes in disbelief, but even
+after 12 years of living in the USA, it happens that I come across an
+English word I've never heard before, which every American child
+knows. Recently, I was chatting via instant messenger with a
+colleague who was working from home and was reporting live that a
+crazy homeless person was wandering around in front of his apartment
+in sunny San Diego, singing, clapping, and doing "Jazz Hands."
+Puzzled, I asked what on earth "Jazz Hands" were. My colleague,
+equally astonished, explained to me that it is a pose where a
+Broadway actor in a musical shows ten splayed fingers to the
+audience. Who would have thought there was a word for that!
+Undoubtedly another shortcoming in the catastrophic English lessons
+of my English teacher Haueisen at NeusÃ¤Ã Gymnasium, who was not
+exactly short on catastrophic shortcomings.
+
+@Z: Grass Valley" is already in English. It refers to a place name,
+specifically a city in California, USA.
+
+<pic images/grass-valley.ps Grass Valley, in the "Gold Country" of
+California>
+
+<em>Michael</em> 
+On the fourth of July, the American national holiday, it's well-known
+that Americans flock to public parks in droves to grill. This year,
+July 4th also happened to fall on a Saturday, so Friday was declared
+a holiday as well. On these days, the leisure traveler must avoid
+public parks and campgrounds like the plague, so we settled into a
+cozy cottage in "Gold Country." This is the area in California where
+the Gold Rush took place in 1849, but nowadays it serves more tourist
+purposes with lovingly renovated Wild West buildings.
+
+Sure, please provide the text you would like translated into English.
+
+As we rolled in with our rocket, a weekly market was taking place and
+the local youth were gathering for a rendezvous. Some vintage car
+enthusiasts were also present, showcasing their meticulously polished
+collector's items. The pumpkin-shaped white peaches ("white Peach")
+tasted excellent.
+
+<pic images/nevada-city.ps Wild West facades in the neighboring town
+of Nevada City>
+
+<pic images/grass-valley-oldtimer.ps A car enthusiast has brought his
+vintage car.>
+
+In the area, you can hike around the Yuba River; however, the sun was
+blazing down intensely, and after just one and a half miles, we
+descended to the Yuba River, put on our swim trunks, and plunged into
+the water. The river flows gently in the summer, but you have to be
+careful not to crash into the rocks at the narrow sections.
+
+<pic images/yuba.ps The Yuba River meanders through the landscape and
+invites you to swim.>
+
+<pic images/yuba-current3.ps The fearless newsletter reporter in the
+raging waters of the Yuba River.>
+
+Every few hundred meters, there are water holes about 1.5m to 2.5m
+deep where you can actually swim. The river temperature is around 20
+degrees, while the outside temperature in the scorching sun is an
+estimated 40 degrees. We even shot a funny video of...
+<LINK>http://www.youtube.com/watch?v=cdH1QQeF28w|Angelika in the Yuba
+River</LINK>
+!
+
+@Z: Top product: The portable deck chair
+
+<pic images/yuba-chair.ps Top product: The portable deck chair with
+sunshade.>
+
+<em>Michael</em> 
+Good thing we had our newly acquired portable deck chairs in the
+trunk! I bought the two foldable marvels with integrated sunshades a
+few weeks ago at the mountaineering outfitter REI in San Francisco.
+The product is absolutely amazing. You can easily strap two of them
+onto your back, and the two sunshades can be folded into disc-shaped
+structures with a radius of about 50 cm. Each chair weighs about 4 kg
+and comfortably accommodates an adult.
+
+<pic images/chair-folded.ps The deck chair can be folded into a
+cylinder with a diameter of about 15 cm and a length of 70 cm, and
+can be comfortably carried on the back.>
+
+You lie in it completely relaxed, extremely comfortable, and
+back-friendly, with your head resting on an integrated pillow. I have
+actually fallen asleep in it!
+
+@Z: Recommendations on Yelp
+
+<pic images/yelp.ps How I found a good auto glass specialist on
+Yelp.>
+
+<em>Michael</em> 
+Recently, Angelika came home with a huge crack in the windshield of
+our car. Apparently, a car in front of her had kicked up a small
+stone, causing a tiny chip that expanded over several days into a 30
+cm long crack that could no longer be repaired. Windshields are
+expensive; I had heard something about $800! Our circle of
+acquaintances couldn't recommend a repair shop, so I did what
+everyone does these days when they need a service and want to get
+recommendations from complete strangers: I turned to...
+<LINK>http://yelp.com|yelp.com</LINK>
+It seems like your request is incomplete. Could you please provide
+the text you would like translated into English?
+
+On this free website, private individuals who have visited a business
+or restaurant write down their opinions, and those looking for
+something similar simply choose the highest-rated place on yelp.com.
+In San Francisco, this has already led to businesses no longer
+investing in advertising but instead focusing on delighting their
+customers and hoping that they will recommend the place on yelp.com.
+It also works brilliantly for doctors or hairdressers.
+
+<pic images/windshield.ps The rocket shines with a new windshield.>
+
+I was looking for a cheap new windshield, so I typed "Auto Glass
+Repair" in the city of "San Francisco" and checked out the reviews of
+the best shops. One immediately caught my eye: the shop "In & Out
+Glass" in the notorious neighborhood of "Bayview/Hunters Point,"
+which we had heard about in...
+<RBLINK>20080203#4</RBLINK>
+.. have reported once before. However, due to the low rents, daring
+entrepreneurs, like the auto glass repair shop run by Chinese
+immigrants, also settle there. They have to perform exceptionally to
+stay in business because anyone familiar with San Francisco flinches
+at the mention of this neighborhood. On yelp.com, however, people
+couldn't stop raving about the quick, proper, and affordable repair
+services. And since I am known to fear nothing and no one, I went
+there, got my windshield replaced in 45 minutes, and paid $160. I
+think I will recommend the shop on yelp.com ...
+
+Editorial Note: Yelp is suspected of manipulating reviews through
+unfair practices. The article
+<LINK>http://bit.ly/2p08MU7|The translation of "Yelp and the Business
+of Extortion 2.0" to English is the same, as the original phrase is
+already in English.</LINK>
+The translation to English is: "shows some frightening examples. So
+if you find a business with exclusively positive reviews, caution is
+advised, as they might be bought.
+
+Until the next newsletter! Your correspondents from San Francisco:
+
+The translation of "Angelika und Michael" to English is "Angelika and
+Michael.
+
