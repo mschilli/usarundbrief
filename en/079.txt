@@ -383,16 +383,14 @@ standing empty.
 
 <pic images/streetlight-records.ps The used record store "Streetlight Records" closed down when it had to pay $12,000 in rent per month.>
 
-TODO
-
 Recently, however, I became particularly sentimental because the
 supermarket "Bell Market" in our neighborhood permanently closed its
 doors in mid-February. After all, on my first day in San Francisco,
-back in 1996, I bought a bottle of champagne here for New Year's Eve!
+back in 1996, I bought a bottle of champagne there for New Year's Eve!
 There had been rumors for about two years that Bell would close, long
 before the current economic drama.
 
-<pic images/bell-closing.ps Bell" stops, "Whole Foods" comes.>
+<pic images/bell-closing.ps "Bell Market" leaves, "Whole Foods" comes.>
 
 Now there is no proper supermarket in our neighborhood anymore, only
 small mom-and-pop stores, so-called "corner stores," which do not
@@ -411,6 +409,8 @@ spend your entire salary there. But I must say that the quality of
 the products is really good.
 
 <pic images/bell-empty1.ps The last days of the "Bell" supermarket.>
+
+TODO
 
 The managers of "Whole Foods" apparently care a lot about getting
 along well with the people in the neighborhood. They tried to
