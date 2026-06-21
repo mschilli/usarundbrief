@@ -165,18 +165,14 @@ which leads to varying benefits across the states because, among
 other reasons, there are different criteria for when unemployment
 benefits are paid.
 
-TODO
-
 Many states, for example, exclude part-time workers from the outset.
 In general, unemployment benefits are only available if the loss of
 employment is through no fault of one's own, meaning, for example,
 layoffs have occurred, and the person is willing and actively seeking
-work. The individual states determine what is considered to be
-through no fault of one's own.
+work. The individual states define differently what is
+considered to be no fault of one's own.
 
-<pic images/4thhobo.ps So that one is not immediately left on the
-street when they lose their job, the state pays unemployment benefits
-for a short period of time.>
+<pic images/4thhobo.ps So that one is not immediately left on the street when they lose their job, the state pays unemployment benefits for a short period of time.>
 
 Most states pay benefits for up to 26 weeks. During times of high
 unemployment, there is the possibility to receive benefits beyond the
@@ -193,17 +189,17 @@ limit set by each individual state. California pays a maximum of $450
 per week, in Texas the weekly maximum is $392, and in Michigan it is
 $300. By the way, we couldn't even cover our rent with that.
 
-The tax office also has a hand in it, as the received benefits must
-be declared in the tax return. However, for the 2009 tax year, there
-is an exemption of $2,400 thanks to Obama's economic stimulus
+The tax office IRS also has a hand in it, as the received benefits
+must be declared in the tax return. However, for the 2009 tax year,
+there is an exemption of $2,400, thanks to Obama's economic stimulus
 program.
 
-The unemployment insurance does not cover health insurance payments.
-Under the COBRA law, the employee is allowed to remain in their
+Unemployment insurance does not cover health insurance payments.
+Under the COBRA law, employees are allowed to remain in their
 employer's health insurance plan for 18 months, provided they had one
-in the first place. However, they must pay the premiums themselves.
-<RBLINK>20041129#8</RBLINK>
-), and for a family, that can easily be $800 per month.
+in the first place. However, they must pay the entire premiums
+themselves (<RBLINK>20041129#8</RBLINK>), and for a family,
+that can easily be $800 per month.
 
 To receive unemployment benefits, one generally needs to have earned
 a certain minimum amount within a quarter during the designated
@@ -213,10 +209,9 @@ period, or at least $900 in the quarter with the highest earnings,
 provided that a total of at least 1.25 times $900, which is $1,125,
 was earned during the entire base period. Is your head spinning yet?
 
-@Z: The latest coup by the immigration authority
+@Z: The Latest Coup By The Immigration Office
 
-<pic images/immigration.ps The translation to English is: "Upon
-entry, the question arises: Should we let them in?>
+<pic images/immigration.ps Upon entry, the question arises: Should we let them in?>
 
 <em>Angelika</em> 
 And here's another example on the topic of American bureaucracy.
@@ -229,8 +224,8 @@ which allows tourists and businesspeople from certain countries,
 including Germany, to enter without a visa if the stay does not
 exceed 90 days. To obtain approval, the traveler (including children)
 must submit data online on the
-<LINK>https://esta.cbp.dhs.gov/esta|ESTA-Webseite</LINK>
-The translation to English is: "answer about his person, similar to
+<LINK>https://esta.cbp.dhs.gov/esta|ESTA Web Page</LINK>.
+It collects information about the traveler, similar to
 the green form I-94W, which some of you have certainly already filled
 out on the plane before entering the USA.
 
@@ -239,31 +234,33 @@ visa-free entry, such as criminal records, drug addiction, or taking
 up employment in the USA. The entire form must be completed in
 English, but the instructions are available in many languages.
 Currently, there is no fee for registration. Travel agencies can also
-complete the registration for the traveler. The data is submitted,
+complete the registration on behalf of the traveler.
+The data is submitted,
 and the US authorities either grant travel authorization or not,
-meaning that if denied, the individual must then apply for a visa.
+meaning that if the request is denied, the individual must then
+apply for a visa.
 
-<pic images/airport-immi.ps Landed tourists on their way to the
-immigration counter.>
+<pic images/airport-immi.ps Landed tourists on their way to the immigration counter.>
 
-If the tourist receives the authorization, it is valid for up to two
+If a tourist receives the authorization, it is valid for up to two
 years or until the passport expires, whichever comes first. The
 granted authorization only means that you are allowed to board the
-plane without a visa. Whether you are allowed to enter the country is
-still at the discretion of the American immigration officer at the
-airport. It is also not guaranteed that you won't have to fill out
-the green form I-94 W again on the plane.
+plane to the U.S. without a visa. Whether you are allowed to enter
+the country is still at the discretion of the American immigration
+officer at the airport. It is also not guaranteed that you won't have
+to fill out the green form I-94 W again on the plane.
 
 And then Bush gave us a little bureaucratic treat just before he left
 office. In January, a law came into effect requiring all Green Card
 holders to provide fingerprints and a photo upon re-entry at the
 airport. Previously, this only applied to tourists and people with
 visas. It's a bit strange because for the Green Card, we already had
-to provide fingerprints and undergo FBI checks, and a photo and
+to provide fingerprints and undergo FBI checks, and a photo one
 fingerprint are stored on the Green Card. The whole thing is, of
-course, under the guise of a security risk, although it's not always
-clear whether the measures actually enhance national security.
-Officially, it is also said that the new regulations prevent someone
+course, under the guise of enhanced security, although it's not always
+clear whether the measures actually improve national security.
+
+Officials stated that the new regulations prevent someone
 from entering with a fake Green Card. But then it would also be
 logical to take fingerprints from everyone upon entry, including
 Americans, because who says the passport is genuine! However, this
@@ -272,26 +269,41 @@ do it. Unfortunately, it is common practice for the President to try
 to push through all sorts of regulations just before leaving office.
 Sigh. We hope that Obama will reverse this nonsense.
 
-@Z: The own house with limited freedom
+@Z: Your Own House With Limited Freedom
 
-<pic images/south-city-community.ps In suburban housing estates,
-uniformity is sought and strictly maintained.>
+<pic images/south-city-community.ps In suburban housing estates, uniformity is sought and strictly maintained.>
 
 <em>Michael</em> 
 If you buy a house in a suburb these days, it is usually located in a
 small development with identical houses. It doesn't necessarily have
-to be a so-called...
-<LINK>http://en.wikipedia.org/wiki/Gated_community|Gated
-Community</LINK>
-A compound of houses separated from the outside world by a gate. As
-is well known, one can only enter if they register via the intercom
+to be a so-called <LINK>http://en.wikipedia.org/wiki/Gated_community|Gated Community</LINK>, which is
+a compound of houses separated from the outside world by a gate.
+Visitors can only enter if they register via the intercom
 and then someone from inside opens the heavy iron gate.
 
-<pic images/gated-community.ps >
+<pic images/gated-community.ps You announce yourself over the intercom before driving into a gated community.>
 
+No, even completely ordinary housing developments are usually built
+by the same developer, and the houses all look like peas in a pod.
+People want it that way!
 
+To make sure things stay that way after construction is finished, the
+so-called Homeowners Association (HOA) meets once a month and
+discusses the most ridiculous things. Participation in the meetings
+is voluntary, but the HOA's decisions are binding on all homeowners.
 
-<pic images/appartment-complex.ps >
+Friends of ours who bought a house in Silicon Valley told us that
+their HOA is run by an extraordinary busybody. He seriously proposed
+that all homeowners place a bulk order for identical flower planters
+so that the neighborhood's pleasing uniformity would be
+preserved—after all, where would things end up if everyone had flower
+pots in different colors!
+
+And, of course, it was supposedly unacceptable for people to park
+their cars in front of their (own!) houses; those cars ought to
+disappear into the garage instead.
+
+<pic images/appartment-complex.ps Condo owners in these high-rise communities often have to comply with absurd restrictions.>
 
 Even when you buy an apartment in a complex, it is subject to an HOA.
 In Belmont, a small town in Silicon Valley, an HOA even decided that
@@ -305,8 +317,7 @@ own apartment should be up to you.
 
 @Z: Obamania
 
-<pic images/obama-candle.ps The stationery store around the corner
-even has an Easter candle with Obama on it.>
+<pic images/obama-candle.ps The stationery store around the corner even has an Easter candle with Obama on it.>
 
 <em>Angelika</em> 
 President Obama at times achieved cult status in certain circles in
@@ -315,6 +326,8 @@ witness his inauguration live. Slowly, we are returning to everyday
 life, and although Obama still enjoys significant support among the
 population (63% according to the latest polls), he has already had to
 deal with some political setbacks.
+
+TODO
 
 Despite pushing his stimulus package through the House of
 Representatives and the Senate at top speed, there was still a bitter
