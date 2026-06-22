@@ -209,20 +209,15 @@ environmentally friendly models. After much back and forth, America
 followed suit with the "Cash for Clunkers" campaign, officially
 called the "Car Allowance Rebate System."
 
-TODO
-
-Customers who traded in their old car for a more environmentally
-friendly new one received a bonus when purchasing a new vehicle.
-However, not every old banger was accepted; a "clunker" could not be
-older than 25 years and had to consume at least (!) 13 liters per 100
+Customers who trade in their old car for a more environmentally
+friendly new one receive a bonus when purchasing a new vehicle.
+However, not every old banger is accepted; a "clunker" can't be
+older than 25 years and has to consume at least (!) 13 liters per 100
 kilometers. Since Americans do not measure fuel consumption in liters
 per 100 kilometers but rather by how many miles (1.6 kilometers) a
-car can drive on a gallon (3.79 liters), the value was specified as
-18 "miles per gallon" (mpg), and a clunker had to...
-<em>weniger</em> 
-The German word "schaffen" can be translated to English as "to
-create," "to accomplish," "to manage," or "to succeed," depending on
-the context in which it is used.
+car can drive on a gallon (3.79 liters) of gas, the value was specified as
+18 "miles per gallon" (mpg), and a clunker had to run <em>less</em>
+than 18 miles on a gallon.
 
 For the new car, there was a bonus of $3,500 if it achieved at least
 4 miles more, meaning 22 miles per gallon. This corresponds to a
@@ -230,8 +225,7 @@ consumption of 10.7 liters per 100 km. The state even offered a
 $4,500 bonus for an increase of 10 miles, meaning new cars with a
 consumption of less than 8.4 liters per 100 km.
 
-<pic images/formula.ps The formula to convert "miles per gallon" to
-"liters per 100 kilometers.>
+<pic images/formula.ps The formula to convert "miles per gallon" to "liters per 100 kilometers.>
 
 If you're wondering how to convert "Miles Per Gallon" to "Liters per
 100km" and vice versa, here's the formula: You divide the number 235
@@ -240,7 +234,7 @@ gallon, that's 235 divided by 20, which equals 11.75 liters per
 100km. Conversely, if a German car consumes 7 liters per 100km,
 that's 235 divided by 7, which equals 33 miles per gallon.
 
-The politicians, however, did not anticipate the success of the
+Politicians, however, did not anticipate the success of the
 program. People practically stormed the car dealerships, and within
 just a few weeks, the allocated billion dollars was exhausted.
 
@@ -250,10 +244,9 @@ for Clunkers" program officially ended. It's amazing how a little
 financial incentive can suddenly turn gas guzzlers into little
 environmental angels!
 
-@Z: Arnie and the State Parks
+@Z: Arnie And The State Parks
 
-<pic images/spentrance.ps Entrance to the State Park in Half Moon
-Bay>
+<pic images/spentrance.ps Entrance to the State Park in Half Moon Bay>
 
 <em>Angelika</em> 
 Every tourist is familiar with the spectacular American national
@@ -265,20 +258,19 @@ in the so-called state parks, which can be found in every American
 state. The idea behind the state park system is also to make scenic
 or historically significant areas or buildings accessible to the
 public and to preserve them for future generations. California alone
-boasts 278 state parks with different focuses, including 450 km of
+boasts 278 state parks with different focuses, including 300 miles of
 coastline. On average, almost 80 million people visit the various
-Californian state parks each year. So, it is quite a popular leisure
+California state parks each year. So, it is quite a popular leisure
 activity. State parks are smaller compared to national parks: a
 beach, a forest, a lake, a lighthouse, a mission church.
 
-<pic images/ranger.ps Park rangers are collecting signatures against
-the planned closures.>
+<pic images/ranger.ps Park rangers are collecting signatures against the planned closures.>
 
 As the name suggests, State Parks are managed and funded by the
 respective state. In California, however, the coffers have been empty
 for several years, and the recently passed budget once again includes
 cuts in the millions to plug the ever-growing holes. Unfortunately,
-our Governor Arnold Schwarzenegger showed no mercy even with the
+our governor Arnold Schwarzenegger showed no mercy even with the
 State Parks, despite usually portraying himself as an environmental
 angel. When signing the budget, he cut an additional 6.2 million from
 the State Park fund, putting the parks, which are already not exactly
@@ -288,19 +280,18 @@ or nonprofit organizations and groups can be found to keep some
 parks, currently on the blacklist, alive. This would be the first
 time in California's history that State Park closures occur.
 
-<pic images/spsign.ps The translation to English is: "Signage in the
-State Park of Half Moon Bay.>
+<pic images/spsign.ps Signs in the State Park of Half Moon Bay.>
 
 Visiting a state park usually costs a small fee per car. The entrance
 fee currently ranges from 2 to 14 dollars, with us usually paying 5
 or 6 dollars. Prices were increased in mid-August, which is just a
 drop in the bucket and cannot stop the threatened closures. Strangely
-enough, in our early years, which is now almost 13 years ago, we paid
-an average of 10 dollars for entry in California, until some smart
+enough, in our early years, almost 13 years ago, we paid
+an average of 10 dollars for entry to California state parks, until some smart
 people reduced the fees across the board by 50% in the year 2000--a
 decision that was not exactly forward-thinking.
 
-@Z: Mal wieder Kailua" translates to "Once again Kailua" in English.
+@Z: Once again Kailua
 
 <pic images/row3.ps Rowers on the beach of Kauai/Oahu>
 
@@ -310,11 +301,10 @@ started going to the same place in Hawaii every year. In the little
 town of Kailua on the east side of the main island of Oahu, there is
 a huge crescent-shaped beach with only gentle waves. We always stay,
 as we did this year at the end of May, in a small vacation apartment
-from which you can walk barefoot along a 100-meter private path to
-the sea.
+from which you can walk barefoot along a 100-meter private pathway to
+the beach.
 
-<pic images/kailua.ps Two retirees in the vacation apartment in
-Hawaii>
+<pic images/kailua.ps Two retirees in the vacation apartment in Hawaii>
 
 When the Hawaiian neighbors are not tinkering with their houses or
 having their lawns mowed, both of which cause an infernal noise, you
@@ -323,6 +313,8 @@ windows, which are open all day and only protected by fly screens, so
 there is no need for air conditioning, despite the tropical heat!
 
 <pic images/surf2.ps (#1) Boogie board surfer at Sandy Beach.>
+
+TODO
 
 The 5-hour flight from San Francisco went by incredibly quickly,
 after all, I had my new netbook.
