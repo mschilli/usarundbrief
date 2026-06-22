@@ -314,16 +314,13 @@ there is no need for air conditioning, despite the tropical heat!
 
 <pic images/surf2.ps (#1) Boogie board surfer at Sandy Beach.>
 
-TODO
-
 The 5-hour flight from San Francisco went by incredibly quickly,
 after all, I had my new netbook.
-<LINK>http://www.linux-magazin.de/Heft-Abo/Ausgaben/2009/07/Datenmale
-r|"Minime"</LINK>
-.. and lots of TV movies stored on it! This time on Oahu, we didn't
+<LINK>http://www.linux-magazin.de/Heft-Abo/Ausgaben/2009/07/Datenmaler|"Minime"</LINK>
+and lots of TV movies stored on it! This time on Oahu, we didn't
 drive around much, but we did go to "Sandy Beach." After all,
 American media reported that our President Obama had also been
-bodysurfing through the waves there! However, we didn't go into the
+bodysurfing in the waves there! However, we didn't go into the
 water because the oldest surfers there were around 25, and the waves
 crashed in so brutally that you can't even imagine!
 
@@ -333,9 +330,9 @@ And as quasi-Hawaiians, as we consider ourselves after more than 10
 vacations on the islands, we naturally shop where the "locals," the
 natives, shop: at the supermarket "Don Quijote," pronounced "Don
 Quicksott" in American, not like in German or Spanish. The Japanese
-characters in illustration (#2), I can also tell you as an old Japan
-enthusiast, phonetically spell "Don Quijote" in Japanese as "Do-N
-Ki-soh-te" in Katakana characters, which the Japanese use for foreign
+characters in illustration (#2), I can tell you as an old
+connoisseur of everything Japanese, phonetically spell "Don Quijote" in Japanese as
+"Do-N-Ki-soh-te" in Katakana characters, which the Japanese use for foreign
 words that don't have a Japanese Kanji character. The store is not
 only incredibly cheap (sometimes only half as expensive as the
 "Safeway" across the street), but also offers all sorts of
@@ -344,8 +341,9 @@ example, super delicious!
 
 @Z: California and Same-Sex Marriage
 
-<pic images/gaycouple2.ps The gay marriage issue in California is an
-endless story.>
+<pic images/gaycouple2.ps The gay marriage issue in California is an endless story.>
+
+TODO
 
 <em>Angelika</em> 
 California has not only hit some economic turbulence but has also
