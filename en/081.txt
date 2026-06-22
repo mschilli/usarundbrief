@@ -13,8 +13,6 @@ United States: Sonia Sotomayor is not only the third woman to hold
 this position, but also the first person of Latin American descent in
 the 220-year history of the court.
 
-TODO
-
 She fills the position of Justice David Souter, who retired at the
 age of 69. Appointments to the court carry significant weight during
 a president's term because they are lifetime appointments. If you
@@ -28,8 +26,7 @@ Anthony Kennedy (appointed in 1988 by Reagan), John Roberts
 Paul Stevens (appointed in 1975 by Ford), Clarence Thomas (appointed
 in 1991 by George H. W. Bush).
 
-<pic images/supreme-court.ps The impressive building of the Supreme
-Court in Washington D.C.>
+<pic images/supreme-court.ps The impressive Supreme Court building in Washington D.C.>
 
 If you've been keeping count, you know that the Supreme Court
 consists of a total of nine justices. The 54-year-old John G. Roberts
@@ -83,7 +80,7 @@ this statement as reverse discrimination.
 She also had to answer for her notorious decision regarding the
 firefighters of the city of New Haven. The city of New Haven required
 its firefighters who wanted to be promoted to take a test, but then
-did not consider the results because no Black individuals would have
+did not consider the results because no black individuals would have
 been promoted to a higher position due to low test scores. The city
 suddenly got cold feet and feared that someone would sue because no
 minorities appeared with higher ranks. Consequently, predominantly
@@ -92,8 +89,7 @@ that they missed out on promotions due to the disregarded test
 results. Sotomayor sided with the city of New Haven, but her current
 Supreme Court colleagues later overturned her decision.
 
-<pic images/nine.ps Good book on the topic of the Supreme Court: "The
-Nine".>
+<pic images/nine.ps Good book on the topic of the Supreme Court: "The Nine".>
 
 During the hearings, candidates nowadays carefully avoid directly
 answering sensitive questions (such as those on the topic of
@@ -125,28 +121,26 @@ time. We are eager to see what Sotomayor will have a say in.
 Recently, I had to attend the Perl Conference in Pittsburgh,
 Pennsylvania for work. Grumbling, I boarded the plane on Sunday
 afternoon, which didn't even fly directly to Pittsburgh, but only to
-Cleveland, Ohio, 100 km away. From there, a propeller plane (!) took
-me to Pittsburgh. What century are we living in, anyway?
+Cleveland, Ohio, 60 miles away. From there, a propeller plane (!) took
+me to Pittsburgh. What century do we live in, anyway?
 
-<pic images/pitt2.ps In the city center, all sorts of riffraff hang
-around in the evenings.>
+<pic images/pitt2.ps In the city center, all sorts of riffraff are hanging around in the evening hours.>
 
 No matter, after I rented a car at the airport and drove to the
 hotel, I discovered in my room that the TSA had opened my suitcase
 for inspection purposes, searched it, and then sealed it with a
 sticker and a plastic clip. For the Perl conference, I had packed a
 small toy rocket launcher, whose software I was presenting in a
-lecture, and the man at the airport's X-ray machine probably found
-that a bit suspicious and pressed the alarm button. Or maybe it was
+lecture, and the man at the airport's X-ray machine probably had found
+that a bit suspicious and had pressed the alarm button. Or maybe it was
 just a coincidence, but in any case, I was standing in the hotel room
-with a sealed suitcase. The TSA's plastic clip was about as tough as
+with a sealed suitcase and couldn't open it.
+The TSA's plastic clip was about as tough as
 a ski lift ticket, so it was impossible to remove by hand. Of course,
-I didn't have a pocket knife with me, as that's prohibited on planes.
+I didn't have a pocket knife with me, because that's prohibited on airplanes.
 So I went down to the reception, where they handed me a pair of
 scissors, with which I finally cut open the suitcase lock. Phew. Next
 time, think a little, TSA, okay!
-
-Sure, please provide the text you would like translated into English.
 
 Pittsburgh is a former steel industry metropolis that, of course, no
 longer exists in that form. According to a sign at the airport,
@@ -157,30 +151,27 @@ while on the street, only black youths hang around, incredulously
 staring at people like your humble narrator who walk around
 fearlessly. It's a strange scene. Yet, the weather in the summer is
 really pleasant, not too hot, because the city is located right on
-the Ohio River, and you could comfortably sit in a street cafÃ© until
+the Ohio River, and you could comfortably sit in a street cafe until
 midnight.
 
-<pic images/hofbrau1.ps Lightning visit to the HofbrÃ¤uhaus,
-Pittsburgh, Pennsylvania>
+<pic images/hofbrau1.ps Visit to the Hofbrauhaus, Pittsburgh, Pennsylvania>
 
-South of the Ohio River, there is even a so-called HofbrÃ¤uhaus,
+South of the Ohio River, there is even a so-called Hofbrauhaus,
 which the intrepid newsletter reporter naturally had to try out. They
-brew the beer themselves there, and the wheat beer I tasted was
-actually very good. The JÃ¤gerschnitzel I ordered turned out to be a
+brew their own beer there, and the wheat beer I tasted was
+actually very good. The Jägerschnitzel I ordered turned out to be a
 breaded (!) schnitzel with mushrooms, which was served on (!) potato
 salad, although I would have rather called it fried potatoes. But I
 must say, it tasted excellent.
 
-<pic images/hofbrau2.ps Is there liver paste from a vending machine
-in the real HofbrÃ¤uhaus as well?>
+<pic images/hofbrau2.ps Is there Jägermeister in a vending machine at the real Hofbrauhaus as well?>
 
-For musical accompaniment, a one-man band was hired, an older
+For musical entertainment, a one-man band was playin on stage, an older
 gentleman in lederhosen and with a bushy beard, who performed proven
-hits like "Rosamunde" and "SchÃ¼tzenliesel" on his Yamaha keyboard
-and with singing. Ha!
+hits like "Rosamunde" and "Schützenliesel" on his Yamaha keyboard, including
+vocals. Ha!
 
-<pic images/hofbrau3.ps The gentleman in lederhosen rolled the "R" in
-"Rosamunde" like an American, though.>
+<pic images/hofbrau3.ps The gentleman in lederhosen rolled the "R" in "Rosamunde" like an American, though.>
 
 The next day, I wanted to buy a beer at the supermarket to take back
 to my hotel room, but I was informed that you can't buy beer in
@@ -193,28 +184,22 @@ became suspicious and asked the man at the checkout for advice. He
 was a foreigner who looked like he might be from the Yemen/Syria
 area. He laughed and said it wasn't that simple here ("We are
 different here, haha!") and that I would have to go into a bar and
-order "beer to go.
+order "beer to go."
 
-<pic images/pitsaloon.ps Absurd alcohol laws in the state of
-Pennsylvania forced the thirsty newsletter reporter to order his beer
-to-go from the village saloon.>
+<pic images/pitsaloon.ps Absurd alcohol laws in the state of Pennsylvania forced the thirsty newsletter reporter to order his beer to-go from the village saloon.>
 
-Kindly, he also described the way to the next bar for me. I walked
-in, asked the server for a beer, and was directed to a glass
+Kindly, he also gave me directions to the next bar. I found it, entered,
+and asked the server for beer to go, and was directed to a glass
 refrigerator placed next to the bar. When I tried to open its door to
 get the desired beer, it turned out to be locked. However, the
 barmaid immediately instructed the barman to fetch the key and
-retrieve my beer from the fridge. The beer was packed in an opaque
+retrieve my sixpack of beer from the fridge. The beer was packed in an opaque
 plastic bag, I paid, went to the car, and drove home. Sometimes you
-just have to wonder...
+just have to wonder ...
 
-@Z: Cash for Clunkers" is already in English. It refers to a program
-that was designed to encourage people to trade in their old, less
-fuel-efficient vehicles for new, more environmentally friendly ones
-by providing financial incentives.
+@Z: Cash for Clunkers
 
-<pic images/clunker.ps The "Cash for Clunkers" program will hopefully
-help to take this old wreck to the junkyard.>
+<pic images/clunker.ps The "Cash for Clunkers" program will hopefully help to take this old wreck to the junkyard.>
 
 <em>Angelika</em> 
 In Germany, you have known it for a long time: the ominous scrappage
@@ -222,7 +207,9 @@ bonus, which is intended to drive potential buyers into car
 dealerships to exchange their old cars for newer, more
 environmentally friendly models. After much back and forth, America
 followed suit with the "Cash for Clunkers" campaign, officially
-called the "Car Allowance Rebate System.
+called the "Car Allowance Rebate System."
+
+TODO
 
 Customers who traded in their old car for a more environmentally
 friendly new one received a bonus when purchasing a new vehicle.
