@@ -403,101 +403,87 @@ exactly short on catastrophic shortcomings.
 
 <pic images/grass-valley.ps Grass Valley, in the "Gold Country" of California>
 
-TODO
-
 <em>Michael</em> 
 On the fourth of July, the American national holiday, it's well-known
-that Americans flock to public parks in droves to grill. This year,
+that Americans flock to public parks in droves, to fire up the barbeque. This year,
 July 4th also happened to fall on a Saturday, so Friday was declared
-a holiday as well. On these days, the leisure traveler must avoid
+a holiday as well. On these days, the leisurely traveler must avoid
 public parks and campgrounds like the plague, so we settled into a
 cozy cottage in "Gold Country." This is the area in California where
-the Gold Rush took place in 1849, but nowadays it serves more tourist
+the Gold Rush took place in 1849, but nowadays it serves more touristy
 purposes with lovingly renovated Wild West buildings.
 
-Sure, please provide the text you would like translated into English.
-
-As we rolled in with our rocket, a weekly market was taking place and
-the local youth were gathering for a rendezvous. Some vintage car
+As we rolled in with our rocket (the Integra), a weekly market was taking place and
+local youth were gathering for a rendezvous. Some vintage car
 enthusiasts were also present, showcasing their meticulously polished
 collector's items. The pumpkin-shaped white peaches ("white Peach")
 tasted excellent.
 
-<pic images/nevada-city.ps Wild West facades in the neighboring town
-of Nevada City>
+<pic images/nevada-city.ps Wild West facades in the neighboring town of Nevada City>
 
-<pic images/grass-valley-oldtimer.ps A car enthusiast has brought his
-vintage car.>
+<pic images/grass-valley-oldtimer.ps A car enthusiast has brought his vintage car.>
 
 In the area, you can hike around the Yuba River; however, the sun was
 blazing down intensely, and after just one and a half miles, we
-descended to the Yuba River, put on our swim trunks, and plunged into
+descended to the Yuba River, put on our bathing suits, and plunged into
 the water. The river flows gently in the summer, but you have to be
 careful not to crash into the rocks at the narrow sections.
 
-<pic images/yuba.ps The Yuba River meanders through the landscape and
-invites you to swim.>
+<pic images/yuba.ps The Yuba River meanders through the landscape and invites you to swim.>
 
-<pic images/yuba-current3.ps The fearless newsletter reporter in the
-raging waters of the Yuba River.>
+<pic images/yuba-current3.ps The fearless newsletter reporter in the raging waters of the Yuba River.>
 
-Every few hundred meters, there are water holes about 1.5m to 2.5m
-deep where you can actually swim. The river temperature is around 20
-degrees, while the outside temperature in the scorching sun is an
-estimated 40 degrees. We even shot a funny video of...
-<LINK>http://www.youtube.com/watch?v=cdH1QQeF28w|Angelika in the Yuba
-River</LINK>
-!
+Every few hundred meters, there are deeper sections, about 1.5m to 2.5m
+deep, where you can actually swim. The river temperature is around 20
+degrees Celsius, while the outside temperature in the scorching sun is an
+estimated 40 degrees. We even shot a funny video of
+<LINK>http://www.youtube.com/watch?v=cdH1QQeF28w|Angelika in the Yuba River</LINK>!
 
-@Z: Top product: The portable deck chair
+@Z: Top product: The Portable Deck Chair
 
-<pic images/yuba-chair.ps Top product: The portable deck chair with
-sunshade.>
+<pic images/yuba-chair.ps Top product: The portable deck chair with sunshade.>
 
 <em>Michael</em> 
 Good thing we had our newly acquired portable deck chairs in the
-trunk! I bought the two foldable marvels with integrated sunshades a
+trunk! I had bought the two foldable gizmos with integrated sunshades a
 few weeks ago at the mountaineering outfitter REI in San Francisco.
 The product is absolutely amazing. You can easily strap two of them
 onto your back, and the two sunshades can be folded into disc-shaped
 structures with a radius of about 50 cm. Each chair weighs about 4 kg
 and comfortably accommodates an adult.
 
-<pic images/chair-folded.ps The deck chair can be folded into a
-cylinder with a diameter of about 15 cm and a length of 70 cm, and
-can be comfortably carried on the back.>
+<pic images/chair-folded.ps The deck chair can be folded into a cylinder with a diameter of about 15 cm and a length of 70 cm, and can be comfortably carried on the back.>
 
 You lie in it completely relaxed, extremely comfortable, and
 back-friendly, with your head resting on an integrated pillow. I have
 actually fallen asleep in it!
 
-@Z: Recommendations on Yelp
+@Z: Recommendations On Yelp
 
-<pic images/yelp.ps How I found a good auto glass specialist on
-Yelp.>
+<pic images/yelp.ps How I found a good auto glass specialist on Yelp.>
 
 <em>Michael</em> 
 Recently, Angelika came home with a huge crack in the windshield of
 our car. Apparently, a car in front of her had kicked up a small
-stone, causing a tiny chip that expanded over several days into a 30
+rock, causing a tiny chip that expanded over several days into a 30
 cm long crack that could no longer be repaired. Windshields are
 expensive; I had heard something about $800! Our circle of
 acquaintances couldn't recommend a repair shop, so I did what
 everyone does these days when they need a service and want to get
-recommendations from complete strangers: I turned to...
-<LINK>http://yelp.com|yelp.com</LINK>
-It seems like your request is incomplete. Could you please provide
-the text you would like translated into English?
+recommendations from complete strangers: I turned to
+<LINK>http://yelp.com|yelp.com</LINK>.
 
 On this free website, private individuals who have visited a business
 or restaurant write down their opinions, and those looking for
 something similar simply choose the highest-rated place on yelp.com.
 In San Francisco, this has already led to businesses no longer
 investing in advertising but instead focusing on delighting their
-customers and hoping that they will recommend the place on yelp.com.
+customers and hoping that those will recommend the place on yelp.com.
 It also works brilliantly for doctors or hairdressers.
 
 <pic images/windshield.ps The rocket shines with a new windshield.>
+
+TODO
 
 I was looking for a cheap new windshield, so I typed "Auto Glass
 Repair" in the city of "San Francisco" and checked out the reviews of
