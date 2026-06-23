@@ -1,6 +1,6 @@
 San Francisco, 11-04-2009
 
-@Z: Fraud In The Credit Card Industry
+@Z: Shady Credit Card Industry
 
 <pic images/cctrap.ps Zack! The credit card trap snaps shut!>
 
@@ -13,8 +13,6 @@ English by the card companies. Additionally, the companies committed
 to ceasing some of the more brazen methods they use to extract money
 from people through hard-to-understand clauses.
 
-TODO
-
 New card offers typically advertise, for example, that you can
 transfer debt from competitors' cards to the newly offered card for
 free. With this so-called "balance transfer," the transferred amount
@@ -23,7 +21,7 @@ time. While interest rates of 15% - 20% are usually common, transfer
 offers often advertise rates of 7% or even offer interest-free loans
 for a limited period.
 
-The consumer associations advise against using the new card for
+Consumer associations advise against using the new card for
 shopping. Why? If the customer settles their purchases at the end of
 the month, the card company does not apply the repaid amount to the
 outstanding balance, but rather to the favorably transferred card
@@ -59,11 +57,9 @@ amusing name "Sioux Falls," from where they also served customers in
 all other states. Even today, most credit card bills bear this
 postmark.
 
-<pic images/sioux-falls.ps The City Bank relocated its credit card
-center to the town of "Sioux Falls" in the state of South Dakota to
-circumvent usury laws.>
+<pic images/sioux-falls.ps City Bank relocated its credit card center to the town of "Sioux Falls" in the state of South Dakota to circumvent usury laws.>
 
-The American Congress may now regulate trade between the states, but
+American Congress may now regulate trade between the states, but
 in 1978, the Supreme Court decided in the case "Marquette v. First
 Omaha Service Corp." that banks operating nationwide do not have to
 adhere to the rules of the state in which they serve their customers.
@@ -92,7 +88,7 @@ Americans owned credit cards, 55 million paid off their debt every
 month, and 90 million left some balance. Of those, 35 million, or
 one-third, only paid back the required minimum of an average of 2%!
 
-In recent years, annual fees for most cards for regular citizens have
+In recent years, annual fees for most cards for regular consumers have
 disappeared, which previously amounted to about $50 per year. Some
 cards now even give customers between 1% and 3% cashback on amounts
 spent, so you actually save money by using the card. The cashback is
@@ -105,15 +101,16 @@ by the giant supermarket Costco. Since in America you're already
 considered crazy if you have $100 in cash in your pocket, you can
 imagine how incredulous the cashiers looked when I showed up there
 with my giant rebate check. They actually had to send a runner to the
-safe to pay out my refund.
+bank safe to pay out my refund.
 
 But that's not all; more perks await the cardholder: If you rent a
 car with certain cards, a comprehensive insurance is included. If a
 newly purchased vase breaks or a thief snatches the new camera, the
 card company will reimburse the loss.
 
-<pic images/ccdespair.ps Credit cards are not suitable as a means of
-financing for tough times.>
+<pic images/ccdespair.ps Credit cards are not suitable as a means of financing for tough times.>
+
+TODO
 
 Anyone who pays with a credit card not only benefits from a cashless
 transaction but also holds a significant leverage over the merchant.
