@@ -110,10 +110,8 @@ card company will reimburse the loss.
 
 <pic images/ccdespair.ps Credit cards are not suitable as a means of financing for tough times.>
 
-TODO
-
 Anyone who pays with a credit card not only benefits from a cashless
-transaction but also holds a significant leverage over the merchant.
+transaction but also holds significant leverage over the merchant.
 If the merchant tries to scam you, it would be extremely stressful
 and time-consuming to formulate and possibly enforce legal claims
 through a lawyer. However, if you paid with a credit card, you simply
@@ -127,14 +125,14 @@ amount must be at least $50 and the business must not be more than
 150 miles from the cardholder's residence, otherwise the credit card
 company might not assist.
 
-The card is not suitable as a financing vehicle for tough times. If
+Credit cards are not suitable as a financing vehicle for tough times. If
 you lose your job or suffer financial losses, the card company
 immediately reduces the available credit limit and raises the
 interest rates to astronomical levels. Through the credit report, the
 American equivalent of the Schufa, they are always informed about the
 customer's financial situation. In the case of a "universal default,"
 meaning a precarious financial situation of the cardholder, this can
-happen even if the customer pays the card bills on time.
+happen, even if the customer pays the card bills on time.
 
 With Obama's proposed new rules for the card industry, which have now
 been approved by Congress, there are rumors that the breathtaking
@@ -142,28 +140,20 @@ profits will decline and the favorable conditions for us so-called
 "revolvers" (as the card industry calls us due to the constant
 repayment of a revolving debt) will worsen. Perhaps annual fees will
 return as well, who knows? In any case, I can recommend an
-educational TV program on the topic: The
-<LINK>http://www.pbs.org/wgbh/pages/frontline/shows/credit/|The
-translation of the German phrase "Dokumentation 'The Secret History
-of the Credit Card'" to English is "Documentary 'The Secret History
-of the Credit Card'".</LINK>
-The translation to English is: "the broadcaster PBS. Additionally,
-there is a detailed article on Wikipedia about
-<LINK>http://en.wikipedia.org/wiki/Credit_CARD_Act_of_2009|The Credit
-CARD Act of 2009 is already in English. It stands for the "Credit
-Card Accountability Responsibility and Disclosure Act of 2009.</LINK>
-The translation of "und das" from German to English is "and that.
-<LINK>http://www.whitehouse.gov/the_press_office/Fact-Sheet-Reforms-t
-o-Protect-American-Credit-Card-Holders|The translation of "Fact Sheet
-des WeiÃen Hauses zur Kreditkartenreform" to English is "White House
-Fact Sheet on Credit Card Reform.</LINK>
-The translation of "fasst die Fakten zusammen" to English is
-"summarize the facts.
+educational TV program on the topic:
+<LINK>http://www.pbs.org/wgbh/pages/frontline/shows/credit/|The Secret History of the Credit Card.</LINK>
+on PBS. Additionally,
+there is a detailed article on Wikipedia about the
+<LINK>http://en.wikipedia.org/wiki/Credit_CARD_Act_of_2009|Credit CARD Act of 2009</LINK>
+and the
+<LINK>http://www.whitehouse.gov/the_press_office/Fact-Sheet-Reforms-to-Protect-American-Credit-Card-Holders|White House Fact Sheet on Credit Card Reform.</LINK>
+summarize the facts nicely.
 
-@Z: Palm Springs" is already in English. It is the name of a city in
-California, USA.
+@Z: Palm Springs
 
 <pic images/psdowntown.ps The Promenade of Palm Springs>
+
+TODO
 
 <em>Michael</em> 
 In August, we decided to go to Palm Springs, about 100 km east of Los
@@ -174,8 +164,7 @@ opportunity to hang out by the pool, throw extravagant parties, and
 cruise around the area in their luxury cars. With our rented Kia Rio,
 we certainly felt like we were from another planet.
 
-<pic images/psfog.ps Restaurants and bars create cool zones with
-misting systems.>
+<pic images/psfog.ps Restaurants and bars create cool zones with misting systems.>
 
 The heat there was brutal. Normally, I can tolerate temperatures up
 to 40 degrees quite well, but in Palm Springs, you really couldn't
