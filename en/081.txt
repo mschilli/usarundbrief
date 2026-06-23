@@ -343,8 +343,6 @@ example, super delicious!
 
 <pic images/gaycouple2.ps The gay marriage issue in California is an endless story.>
 
-TODO
-
 <em>Angelika</em> 
 California has not only hit some economic turbulence but has also
 suffered a loss of image as a pioneering state, at least when it
@@ -372,8 +370,7 @@ marriage in California exclusively as a union between a man and a
 woman. On November 4, 52% of California voters voted in favor of
 Proposition 8, thus against same-sex marriage, prompting supporters
 of same-sex marriage to attempt to declare Proposition 8 itself
-legally invalid.
-<RBLINK>20081120#7</RBLINK>
+legally invalid (<RBLINK>20081120#7</RBLINK>).
 The highest court then ruled in May of this year: No, the popular
 initiative, Proposition 8, is legally valid, but the 18,000 marriages
 that have already been conducted remain valid. Now, signatures are
@@ -381,12 +378,12 @@ being collected once again to possibly vote on Proposition 8 in the
 near future, in the hope of overturning it by voter decision rather
 than by court ruling. An endless story...
 
-@Z: Learn English with the Pros
+@Z: Learning English With The Pros
 
-<pic images/jazz.ps The pose "Jazz Hands>
+<pic images/jazz.ps The pose "Jazz Hands">
 
 <em>Michael</em> 
-And here is the series "English Words That No One Knows." Today:
+And here is our series "English Words That No One Knows." Today:
 "Jazz Hands." You will probably rub your eyes in disbelief, but even
 after 12 years of living in the USA, it happens that I come across an
 English word I've never heard before, which every American child
@@ -399,14 +396,14 @@ equally astonished, explained to me that it is a pose where a
 Broadway actor in a musical shows ten splayed fingers to the
 audience. Who would have thought there was a word for that!
 Undoubtedly another shortcoming in the catastrophic English lessons
-of my English teacher Haueisen at NeusÃ¤Ã Gymnasium, who was not
+of my English teacher Haueisen at Gymnasium Neusäß, which was not
 exactly short on catastrophic shortcomings.
 
-@Z: Grass Valley" is already in English. It refers to a place name,
-specifically a city in California, USA.
+@Z: Grass Valley
 
-<pic images/grass-valley.ps Grass Valley, in the "Gold Country" of
-California>
+<pic images/grass-valley.ps Grass Valley, in the "Gold Country" of California>
+
+TODO
 
 <em>Michael</em> 
 On the fourth of July, the American national holiday, it's well-known
