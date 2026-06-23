@@ -483,15 +483,12 @@ It also works brilliantly for doctors or hairdressers.
 
 <pic images/windshield.ps The rocket shines with a new windshield.>
 
-TODO
-
 I was looking for a cheap new windshield, so I typed "Auto Glass
 Repair" in the city of "San Francisco" and checked out the reviews of
 the best shops. One immediately caught my eye: the shop "In & Out
 Glass" in the notorious neighborhood of "Bayview/Hunters Point,"
-which we had heard about in...
-<RBLINK>20080203#4</RBLINK>
-.. have reported once before. However, due to the low rents, daring
+which we've previously reported on, in <RBLINK>20080203#4</RBLINK>.
+The area is somewhat shady, but due to the low rents, daring
 entrepreneurs, like the auto glass repair shop run by Chinese
 immigrants, also settle there. They have to perform exceptionally to
 stay in business because anyone familiar with San Francisco flinches
@@ -503,15 +500,11 @@ think I will recommend the shop on yelp.com ...
 
 Editorial Note: Yelp is suspected of manipulating reviews through
 unfair practices. The article
-<LINK>http://bit.ly/2p08MU7|The translation of "Yelp and the Business
-of Extortion 2.0" to English is the same, as the original phrase is
-already in English.</LINK>
-The translation to English is: "shows some frightening examples. So
+<LINK>http://bit.ly/2p08MU7|Yelp and the Business of Extortion 2.0"</LINK>
+shows some frightening examples. So
 if you find a business with exclusively positive reviews, caution is
 advised, as they might be bought.
 
 Until the next newsletter! Your correspondents from San Francisco:
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
