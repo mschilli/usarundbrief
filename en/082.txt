@@ -153,8 +153,6 @@ summarize the facts nicely.
 
 <pic images/psdowntown.ps The Promenade of Palm Springs>
 
-TODO
-
 <em>Michael</em> 
 In August, we decided to go to Palm Springs, about 100 km east of Los
 Angeles, because Angelika had read about it in one of her subscribed
@@ -167,7 +165,7 @@ we certainly felt like we were from another planet.
 <pic images/psfog.ps Restaurants and bars create cool zones with misting systems.>
 
 The heat there was brutal. Normally, I can tolerate temperatures up
-to 40 degrees quite well, but in Palm Springs, you really couldn't
+to 40 degrees Celsius quite well, but in Palm Springs, you really couldn't
 walk 10 meters without breaking a sweat. The restaurants and bars
 there have adapted to the conditions and blow cold mist on the guests
 so they can dine outside without overheating.
@@ -177,19 +175,16 @@ In the desert, it is usually hot and dry, but on the weekend we were
 exploring Palm Springs, the city was dealing with high humidity. It
 was not only hot but also muggy, so even the locals were groaning.
 That's why we decided to retreat to higher elevations and enjoy the
-so-called...
-<LINK>http://www.pstramway.com|Ariel Tramway" translates to "Aerial
-Tramway" in English.</LINK>
-The translation to English is: "(also of a gondola cable car) to be
+so-called <LINK>http://www.pstramway.com|Aerial Tramway</LINK>
+(a type of gondola cable car) to be
 catapulted from the flat desert landscape to the mountain station
-almost 2600 meters high.
+at an elevation of almost 2600 meters.
 
-<pic images/tramway.ps The Ariel Tramway near Palm Springs ascends to
-the 2600-meter-high mountain station.>
+<pic images/tramway.ps The Ariel Tramway near Palm Springs ascends to the 2600-meter-high mountain station.>
 
 As you know, I'm not really a mountain person and I often struggle
 with a fear of heights. That's why Michael had to take over the
-photography, and I preferred to stand a bit further back in the
+photography, and I preferred to stand a bit further back inside the
 gondola. The cable car is a masterpiece of engineering. The whole
 thing actually rotates during the approximately 10-minute ride, so
 that all passengers can enjoy the panoramic view and no one has to
@@ -203,7 +198,7 @@ difference. Believe me, we were grateful for every degree. In winter,
 there's even snow on the mountain, and the desert dwellers, who are
 plagued by the eternal sun, can frolic in the snow. Various
 restaurants on the mountain invite you to have a snack. This is
-nothing unusual for you in Germany, but in America, it's quite rare.
+nothing unusual for you in Germany, but in America, that's quite rare.
 We dined at the Peaks Restaurant with a beautiful view. Surprisingly,
 the restaurant offered quite decent food, which is rather astonishing
 in such tourist hotspots.
@@ -211,9 +206,7 @@ in such tourist hotspots.
 <pic images/pspalms.ps Angelika thinks she is in a palm forest.>
 
 On the next day, we set out for the "Indian Canyons," a part of
-the...
-<LINK>http://www.indian-canyons.com|Agua Caliente" translates to "Hot
-Water" in English.</LINK>
+the <LINK>http://www.indian-canyons.com|Agua Caliente</LINK>
 Indian reservation. There, you can hike through three spectacular
 canyons with fascinating palm groves in the midst of the absolutely
 barren desert landscape. The words shade/water/oasis take on a whole
@@ -221,8 +214,7 @@ new meaning in the scorching heat. If you're longing for a genuine
 desert experience, visit in the summer. Otherwise, we recommend the
 cooler season for this excursion.
 
-<pic images/psdesert2.ps In the middle of the desert, oases with palm
-trees suddenly appear near Palm Springs.>
+<pic images/psdesert2.ps In the middle of the desert, oases with palm trees suddenly appear near Palm Springs.>
 
 We really do enjoy hiking, but we only managed to visit two of the
 three canyons because the Murray Canyon would have required a
@@ -230,8 +222,7 @@ somewhat longer walk through sandy terrain under the scorching sun.
 We didn't want to make headlines as two crazy city folks who
 succumbed to heatstroke.
 
-<pic images/psdesert1.ps The Indian reservation near Palm Springs
-features miles of desert and occasional palm trees.>
+<pic images/psdesert1.ps The Indian reservation near Palm Springs features miles of desert and occasional palm trees.>
 
 But Andreas Canyon and Palm Canyon had us hopping from shadow to
 shadow. Palm Canyon is 15 miles (24 km) long and, as the name
@@ -240,7 +231,7 @@ silence in this palm oasis was impressive. To see the canyons, you
 pay $8 per person, as the Native Americans also need to make a
 living.
 
-@Z: Dates - where do they grow?
+@Z: Dates - Where Do They Grow?
 
 <pic images/medjool.ps (#1) The queen of dates: Medjool.>
 
@@ -250,6 +241,8 @@ here, an apple there--will surely also appreciate dried fruits. Now,
 dates are typically more common around Christmas time, but since they
 are grown in California, the Costco supermarket here offers them for
 sale all year round.
+
+TODO
 
 The store carries two types: some cheap dates and the queen of dates,
 the Medjool date. A difference like night and day, because the
