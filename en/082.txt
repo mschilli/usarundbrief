@@ -242,8 +242,6 @@ dates are typically more common around Christmas time, but since they
 are grown in California, the Costco supermarket here offers them for
 sale all year round.
 
-TODO
-
 The store carries two types: some cheap dates and the queen of dates,
 the Medjool date. A difference like night and day, because the
 shriveled junk dates are small and hard, while the "Fancy Medjool
@@ -255,12 +253,11 @@ is only about $10, you don't really worry about the money.
 
 But where do dates actually grow? When we were in Palm Springs
 recently, we actually saw palm trees with large clusters of dates
-wrapped in paper for stabilization from the highway. Curious, we
+from the highway. They were wrapped in paper for stabilization. Curious, we
 stopped and examined the mighty plants. I would estimate that there
 were surely 20 kilos of dates hanging from one branch!
 
-<pic images/dates2.ps The date farmers wrap the date clusters in
-paper.>
+<pic images/dates2.ps The date farmers wrap the date clusters in paper.>
 
 And if you take a close look at the package of dates purchased at
 Costco in image (#1), you'll surely notice that the label says
@@ -269,15 +266,9 @@ town where the dates were packed into the plastic container is
 actually only a few kilometers away from our vacation spot this year,
 Palm Springs.
 
-@Z: American for Professionals: Durka Durka The term "Durka Durka" is
-often used as a satirical or comedic representation of
-Arabic-sounding language, popularized by the film "Team America:
-World Police." It is important to be sensitive to cultural
-representations and avoid using terms that may be considered
-offensive or stereotypical.
+@Z: American for Professionals: Durka Durka
 
-<pic images/tamerica.ps The film that brought the term "Durka Durka"
-to life.>
+<pic images/tamerica.ps The film that brought the term "Durka Durka" to life.>
 
 <em>Michael</em> 
 In our series "American for Professionals" today, a word that
@@ -288,40 +279,34 @@ relatively worthless compared to the American dollar.
 
 When a non-native speaker encounters this slang word, which is
 naturally not taught in German schools, it is, as usual, worth taking
-a look at...
-<LINK>http://urbandictionary.com|urbandictionary.com</LINK>
-Translate to English: "where there are even example sentences for
+a look at <LINK>http://urbandictionary.com|urbandictionary.com</LINK>
+where there are even example sentences for
 tourists: 'At a restaurant: - Jellied camel toes for half a durka
-durka! We can eat like kings on this exchange rate!'" ("At the
-restaurant: 'Camel toe marmalade for half a Durka-Durka! With this
-exchange rate, we can eat like kings!'"). If you're looking for
+durka! We can eat like kings on this exchange rate!'"
+If you're looking for
 entertainment on a boring rainy afternoon, I can highly recommend
-urbandictionary.com. The explanations are sometimes really hilarious
+this website. The explanations are sometimes really hilarious
 (though not always to be taken seriously), and the creators
 absolutely do not shy away from publishing even the most absurd and
 vulgar user contributions. A rating system ensures that only the most
 accurate and funniest entries end up at the top.
 
-<pic images/udict.ps Informative and hilarious: the website
-urbandictionary.com>
+<pic images/udict.ps Informative and hilarious: the website urbandictionary.com>
 
 The term "Durka Durka" comes from the film.
-<LINK>http://www.youtube.com/watch?v=BdKEIogubt4|The translation of
-"Team America" to English is "Team America.</LINK>
-The text translates to:
-
-"... a moderately funny puppet production by the creators of the TV
+<LINK>http://www.youtube.com/watch?v=BdKEIogubt4|Team America</LINK>,
+a moderately funny puppet production by the creators of the TV
 series 'South Park'. In the film, the terrorists always mumble
-something like 'Durka Durka' when they speak Arabic. The word is
-pronounced 'DÃ¼rka DÃ¼rka', and I feel it is my duty to point out
+something like 'Durka Durka' when they speak Arabic.
+I feel it is my duty to point out
 that there are circumstances in which it is better not to use it, no
 matter how funny it might be!
 
-@Z: The translation of "Pfusch an der Bay Bridge" to English is
-"Botch job at the Bay Bridge.
+@Z: Botch job On The Bay Bridge
 
-<pic images/bbridge-maint.ps During the closure: Only repair vehicles
-are on the otherwise heavily trafficked Bay Bridge.>
+<pic images/bbridge-maint.ps During the closure: Only repair vehicles are on the otherwise heavily trafficked Bay Bridge.>
+
+TODO
 
 <em>Angelika</em> 
 Around the San Francisco Peninsula, as is well known, there is water,
