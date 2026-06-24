@@ -1,6 +1,6 @@
 San Francisco, 11-04-2009
 
-@Z: Fraud In The Credit Card Industry
+@Z: Shady Credit Card Industry
 
 <pic images/cctrap.ps Zack! The credit card trap snaps shut!>
 
@@ -13,8 +13,6 @@ English by the card companies. Additionally, the companies committed
 to ceasing some of the more brazen methods they use to extract money
 from people through hard-to-understand clauses.
 
-TODO
-
 New card offers typically advertise, for example, that you can
 transfer debt from competitors' cards to the newly offered card for
 free. With this so-called "balance transfer," the transferred amount
@@ -23,7 +21,7 @@ time. While interest rates of 15% - 20% are usually common, transfer
 offers often advertise rates of 7% or even offer interest-free loans
 for a limited period.
 
-The consumer associations advise against using the new card for
+Consumer associations advise against using the new card for
 shopping. Why? If the customer settles their purchases at the end of
 the month, the card company does not apply the repaid amount to the
 outstanding balance, but rather to the favorably transferred card
@@ -59,11 +57,9 @@ amusing name "Sioux Falls," from where they also served customers in
 all other states. Even today, most credit card bills bear this
 postmark.
 
-<pic images/sioux-falls.ps The City Bank relocated its credit card
-center to the town of "Sioux Falls" in the state of South Dakota to
-circumvent usury laws.>
+<pic images/sioux-falls.ps City Bank relocated its credit card center to the town of "Sioux Falls" in the state of South Dakota to circumvent usury laws.>
 
-The American Congress may now regulate trade between the states, but
+American Congress may now regulate trade between the states, but
 in 1978, the Supreme Court decided in the case "Marquette v. First
 Omaha Service Corp." that banks operating nationwide do not have to
 adhere to the rules of the state in which they serve their customers.
@@ -92,7 +88,7 @@ Americans owned credit cards, 55 million paid off their debt every
 month, and 90 million left some balance. Of those, 35 million, or
 one-third, only paid back the required minimum of an average of 2%!
 
-In recent years, annual fees for most cards for regular citizens have
+In recent years, annual fees for most cards for regular consumers have
 disappeared, which previously amounted to about $50 per year. Some
 cards now even give customers between 1% and 3% cashback on amounts
 spent, so you actually save money by using the card. The cashback is
@@ -105,18 +101,17 @@ by the giant supermarket Costco. Since in America you're already
 considered crazy if you have $100 in cash in your pocket, you can
 imagine how incredulous the cashiers looked when I showed up there
 with my giant rebate check. They actually had to send a runner to the
-safe to pay out my refund.
+bank safe to pay out my refund.
 
 But that's not all; more perks await the cardholder: If you rent a
 car with certain cards, a comprehensive insurance is included. If a
 newly purchased vase breaks or a thief snatches the new camera, the
 card company will reimburse the loss.
 
-<pic images/ccdespair.ps Credit cards are not suitable as a means of
-financing for tough times.>
+<pic images/ccdespair.ps Credit cards are not suitable as a means of financing for tough times.>
 
 Anyone who pays with a credit card not only benefits from a cashless
-transaction but also holds a significant leverage over the merchant.
+transaction but also holds significant leverage over the merchant.
 If the merchant tries to scam you, it would be extremely stressful
 and time-consuming to formulate and possibly enforce legal claims
 through a lawyer. However, if you paid with a credit card, you simply
@@ -130,14 +125,14 @@ amount must be at least $50 and the business must not be more than
 150 miles from the cardholder's residence, otherwise the credit card
 company might not assist.
 
-The card is not suitable as a financing vehicle for tough times. If
+Credit cards are not suitable as a financing vehicle for tough times. If
 you lose your job or suffer financial losses, the card company
 immediately reduces the available credit limit and raises the
 interest rates to astronomical levels. Through the credit report, the
 American equivalent of the Schufa, they are always informed about the
 customer's financial situation. In the case of a "universal default,"
 meaning a precarious financial situation of the cardholder, this can
-happen even if the customer pays the card bills on time.
+happen, even if the customer pays the card bills on time.
 
 With Obama's proposed new rules for the card industry, which have now
 been approved by Congress, there are rumors that the breathtaking
@@ -145,26 +140,16 @@ profits will decline and the favorable conditions for us so-called
 "revolvers" (as the card industry calls us due to the constant
 repayment of a revolving debt) will worsen. Perhaps annual fees will
 return as well, who knows? In any case, I can recommend an
-educational TV program on the topic: The
-<LINK>http://www.pbs.org/wgbh/pages/frontline/shows/credit/|The
-translation of the German phrase "Dokumentation 'The Secret History
-of the Credit Card'" to English is "Documentary 'The Secret History
-of the Credit Card'".</LINK>
-The translation to English is: "the broadcaster PBS. Additionally,
-there is a detailed article on Wikipedia about
-<LINK>http://en.wikipedia.org/wiki/Credit_CARD_Act_of_2009|The Credit
-CARD Act of 2009 is already in English. It stands for the "Credit
-Card Accountability Responsibility and Disclosure Act of 2009.</LINK>
-The translation of "und das" from German to English is "and that.
-<LINK>http://www.whitehouse.gov/the_press_office/Fact-Sheet-Reforms-t
-o-Protect-American-Credit-Card-Holders|The translation of "Fact Sheet
-des WeiÃen Hauses zur Kreditkartenreform" to English is "White House
-Fact Sheet on Credit Card Reform.</LINK>
-The translation of "fasst die Fakten zusammen" to English is
-"summarize the facts.
+educational TV program on the topic:
+<LINK>http://www.pbs.org/wgbh/pages/frontline/shows/credit/|The Secret History of the Credit Card.</LINK>
+on PBS. Additionally,
+there is a detailed article on Wikipedia about the
+<LINK>http://en.wikipedia.org/wiki/Credit_CARD_Act_of_2009|Credit CARD Act of 2009</LINK>
+and the
+<LINK>http://www.whitehouse.gov/the_press_office/Fact-Sheet-Reforms-to-Protect-American-Credit-Card-Holders|White House Fact Sheet on Credit Card Reform.</LINK>
+summarize the facts nicely.
 
-@Z: Palm Springs" is already in English. It is the name of a city in
-California, USA.
+@Z: Palm Springs
 
 <pic images/psdowntown.ps The Promenade of Palm Springs>
 
@@ -177,11 +162,10 @@ opportunity to hang out by the pool, throw extravagant parties, and
 cruise around the area in their luxury cars. With our rented Kia Rio,
 we certainly felt like we were from another planet.
 
-<pic images/psfog.ps Restaurants and bars create cool zones with
-misting systems.>
+<pic images/psfog.ps Restaurants and bars create cool zones with misting systems.>
 
 The heat there was brutal. Normally, I can tolerate temperatures up
-to 40 degrees quite well, but in Palm Springs, you really couldn't
+to 40 degrees Celsius quite well, but in Palm Springs, you really couldn't
 walk 10 meters without breaking a sweat. The restaurants and bars
 there have adapted to the conditions and blow cold mist on the guests
 so they can dine outside without overheating.
@@ -191,19 +175,16 @@ In the desert, it is usually hot and dry, but on the weekend we were
 exploring Palm Springs, the city was dealing with high humidity. It
 was not only hot but also muggy, so even the locals were groaning.
 That's why we decided to retreat to higher elevations and enjoy the
-so-called...
-<LINK>http://www.pstramway.com|Ariel Tramway" translates to "Aerial
-Tramway" in English.</LINK>
-The translation to English is: "(also of a gondola cable car) to be
+so-called <LINK>http://www.pstramway.com|Aerial Tramway</LINK>
+(a type of gondola cable car) to be
 catapulted from the flat desert landscape to the mountain station
-almost 2600 meters high.
+at an elevation of almost 2600 meters.
 
-<pic images/tramway.ps The Ariel Tramway near Palm Springs ascends to
-the 2600-meter-high mountain station.>
+<pic images/tramway.ps The Ariel Tramway near Palm Springs ascends to the 2600-meter-high mountain station.>
 
 As you know, I'm not really a mountain person and I often struggle
 with a fear of heights. That's why Michael had to take over the
-photography, and I preferred to stand a bit further back in the
+photography, and I preferred to stand a bit further back inside the
 gondola. The cable car is a masterpiece of engineering. The whole
 thing actually rotates during the approximately 10-minute ride, so
 that all passengers can enjoy the panoramic view and no one has to
@@ -217,7 +198,7 @@ difference. Believe me, we were grateful for every degree. In winter,
 there's even snow on the mountain, and the desert dwellers, who are
 plagued by the eternal sun, can frolic in the snow. Various
 restaurants on the mountain invite you to have a snack. This is
-nothing unusual for you in Germany, but in America, it's quite rare.
+nothing unusual for you in Germany, but in America, that's quite rare.
 We dined at the Peaks Restaurant with a beautiful view. Surprisingly,
 the restaurant offered quite decent food, which is rather astonishing
 in such tourist hotspots.
@@ -225,9 +206,7 @@ in such tourist hotspots.
 <pic images/pspalms.ps Angelika thinks she is in a palm forest.>
 
 On the next day, we set out for the "Indian Canyons," a part of
-the...
-<LINK>http://www.indian-canyons.com|Agua Caliente" translates to "Hot
-Water" in English.</LINK>
+the <LINK>http://www.indian-canyons.com|Agua Caliente</LINK>
 Indian reservation. There, you can hike through three spectacular
 canyons with fascinating palm groves in the midst of the absolutely
 barren desert landscape. The words shade/water/oasis take on a whole
@@ -235,8 +214,7 @@ new meaning in the scorching heat. If you're longing for a genuine
 desert experience, visit in the summer. Otherwise, we recommend the
 cooler season for this excursion.
 
-<pic images/psdesert2.ps In the middle of the desert, oases with palm
-trees suddenly appear near Palm Springs.>
+<pic images/psdesert2.ps In the middle of the desert, oases with palm trees suddenly appear near Palm Springs.>
 
 We really do enjoy hiking, but we only managed to visit two of the
 three canyons because the Murray Canyon would have required a
@@ -244,8 +222,7 @@ somewhat longer walk through sandy terrain under the scorching sun.
 We didn't want to make headlines as two crazy city folks who
 succumbed to heatstroke.
 
-<pic images/psdesert1.ps The Indian reservation near Palm Springs
-features miles of desert and occasional palm trees.>
+<pic images/psdesert1.ps The Indian reservation near Palm Springs features miles of desert and occasional palm trees.>
 
 But Andreas Canyon and Palm Canyon had us hopping from shadow to
 shadow. Palm Canyon is 15 miles (24 km) long and, as the name
@@ -254,7 +231,7 @@ silence in this palm oasis was impressive. To see the canyons, you
 pay $8 per person, as the Native Americans also need to make a
 living.
 
-@Z: Dates - where do they grow?
+@Z: Dates - Where Do They Grow?
 
 <pic images/medjool.ps (#1) The queen of dates: Medjool.>
 
@@ -276,12 +253,11 @@ is only about $10, you don't really worry about the money.
 
 But where do dates actually grow? When we were in Palm Springs
 recently, we actually saw palm trees with large clusters of dates
-wrapped in paper for stabilization from the highway. Curious, we
+from the highway. They were wrapped in paper for stabilization. Curious, we
 stopped and examined the mighty plants. I would estimate that there
 were surely 20 kilos of dates hanging from one branch!
 
-<pic images/dates2.ps The date farmers wrap the date clusters in
-paper.>
+<pic images/dates2.ps The date farmers wrap the date clusters in paper.>
 
 And if you take a close look at the package of dates purchased at
 Costco in image (#1), you'll surely notice that the label says
@@ -290,15 +266,9 @@ town where the dates were packed into the plastic container is
 actually only a few kilometers away from our vacation spot this year,
 Palm Springs.
 
-@Z: American for Professionals: Durka Durka The term "Durka Durka" is
-often used as a satirical or comedic representation of
-Arabic-sounding language, popularized by the film "Team America:
-World Police." It is important to be sensitive to cultural
-representations and avoid using terms that may be considered
-offensive or stereotypical.
+@Z: American for Professionals: Durka Durka
 
-<pic images/tamerica.ps The film that brought the term "Durka Durka"
-to life.>
+<pic images/tamerica.ps The film that brought the term "Durka Durka" to life.>
 
 <em>Michael</em> 
 In our series "American for Professionals" today, a word that
@@ -309,40 +279,34 @@ relatively worthless compared to the American dollar.
 
 When a non-native speaker encounters this slang word, which is
 naturally not taught in German schools, it is, as usual, worth taking
-a look at...
-<LINK>http://urbandictionary.com|urbandictionary.com</LINK>
-Translate to English: "where there are even example sentences for
+a look at <LINK>http://urbandictionary.com|urbandictionary.com</LINK>
+where there are even example sentences for
 tourists: 'At a restaurant: - Jellied camel toes for half a durka
-durka! We can eat like kings on this exchange rate!'" ("At the
-restaurant: 'Camel toe marmalade for half a Durka-Durka! With this
-exchange rate, we can eat like kings!'"). If you're looking for
+durka! We can eat like kings on this exchange rate!'"
+If you're looking for
 entertainment on a boring rainy afternoon, I can highly recommend
-urbandictionary.com. The explanations are sometimes really hilarious
+this website. The explanations are sometimes really hilarious
 (though not always to be taken seriously), and the creators
 absolutely do not shy away from publishing even the most absurd and
 vulgar user contributions. A rating system ensures that only the most
 accurate and funniest entries end up at the top.
 
-<pic images/udict.ps Informative and hilarious: the website
-urbandictionary.com>
+<pic images/udict.ps Informative and hilarious: the website urbandictionary.com>
 
 The term "Durka Durka" comes from the film.
-<LINK>http://www.youtube.com/watch?v=BdKEIogubt4|The translation of
-"Team America" to English is "Team America.</LINK>
-The text translates to:
-
-"... a moderately funny puppet production by the creators of the TV
+<LINK>http://www.youtube.com/watch?v=BdKEIogubt4|Team America</LINK>,
+a moderately funny puppet production by the creators of the TV
 series 'South Park'. In the film, the terrorists always mumble
-something like 'Durka Durka' when they speak Arabic. The word is
-pronounced 'DÃ¼rka DÃ¼rka', and I feel it is my duty to point out
+something like 'Durka Durka' when they speak Arabic.
+I feel it is my duty to point out
 that there are circumstances in which it is better not to use it, no
 matter how funny it might be!
 
-@Z: The translation of "Pfusch an der Bay Bridge" to English is
-"Botch job at the Bay Bridge.
+@Z: Botch job On The Bay Bridge
 
-<pic images/bbridge-maint.ps During the closure: Only repair vehicles
-are on the otherwise heavily trafficked Bay Bridge.>
+<pic images/bbridge-maint.ps During the closure: Only repair vehicles are on the otherwise heavily trafficked Bay Bridge.>
+
+TODO
 
 <em>Angelika</em> 
 Around the San Francisco Peninsula, as is well known, there is water,
