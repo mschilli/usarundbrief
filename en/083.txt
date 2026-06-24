@@ -479,8 +479,8 @@ and restaurants were also closed.
 
 <pic images/nia-panorama.ps Niagara: On the left, the "American Falls," on the right, the semicircular "Horseshoe Falls.>
 
-Niagara" is pronounced "Nigh-Eh-Gra" in American English, with the
-emphasis on "Eh". The word originates from Native Americans, in
+Niagara" is pronounced "Nigh-Aah-Gra" in American English, with the
+emphasis on "Aah". The word originates from Native Americans, in
 whose language it means "thundering water." The Native Americans
 regarded Niagara Falls as a sacred site, and it wasn't until 1678
 that a European Jesuit priest saw them. In 1801, the first honeymoon
@@ -491,8 +491,6 @@ family.
 
 <pic images/nia-stands.ps Due to the off-season, sales stands in Niagara Falls have already been closed.>
 
-TODO
-
 Everything is geared towards profit maximization. To get from the
 small town down to the falls, you can either explore a deliberately
 elongated maze of streets with barriers and no proper signposts or
@@ -501,15 +499,14 @@ Naturally, there are no stairs next to it. If you buy a ticket for
 the elevator that goes down to the blasted tunnels right next to the
 waterfall, you can get a discount by purchasing it as a package with
 a film screening. Once back at the top, a business-savvy photography
-team offers previously taken and now enlarged 18x24 photos for 20
+team offers previously taken and now enlarged 18x24cm photos for 20
 dollars, showing participants in funny yellow raincoats with a
 digitally inserted waterfall (one by day, one by night). At the end
 of October, there were only a handful of visitors at each attraction,
 but in the peak season, the area is probably some kind of antechamber
 to hell.
 
-<pic images/nia-barrel-out.ps The barrel of a daredevil named John
-Munday, who went over the Niagara Falls in it in 1993.>
+<pic images/nia-barrel-out.ps The barrel of a daredevil named John Munday, who went over the Niagara Falls in it in 1993.>
 
 Between 1901 and 2003, there were 16 documented cases of "Dare
 Devils" who plunged down the falls for fun. About two-thirds
@@ -520,8 +517,7 @@ Amazingly, the barrel remained intact; the teacher survived and was
 subsequently pulled from the river and then out of the barrel by
 hired helpers.
 
-<pic images/nia-barrel-in.ps Will the newsletter reporter also swim
-down the Niagara Falls in a barrel?>
+<pic images/nia-barrel-in.ps Will the newsletter reporter also swim down the Niagara Falls in a barrel?>
 
 The attempt of an Englishman in the year 1920 failed because the
 overconfident man attached a 50kg anvil to his legs for balance
@@ -529,11 +525,9 @@ purposes in his barrel. The barrel survived the fall, but the anvil
 plummeted into the depths with the Englishman. Only his right arm
 remained in the barrel.
 
-<pic images/nia-fines.ps The translation of "Geldstrafen fÃ¼r
-Niagara-Springer im Spiegel der Zeit" to English is "Fines for
-Niagara Jumpers in the Mirror of Time.>
+<pic images/nia-fines.ps Fines for Niagara jumpers in the mirror of time.>
 
-Jumping down the Niagara Falls is, of course, prohibited, but
+Jumping down Niagara Falls is, of course, prohibited, but
 Canadian John Munday managed to do it twice. A video in a small local
 exhibition shows how his friends drove a large moving truck backwards
 to the iron railing on the riverbank about 150 meters before the
@@ -549,15 +543,13 @@ American even survived the plunge without any aids, wearing only his
 regular clothes. He had to pay a fine of $4,500 and was banned from
 ever entering Canada again.
 
-@Z: Top product: Egg Nog
+@Z: Top Product: Egg Nog
 
-<pic images/eggnog.ps EierlikÃ¶r ohne LikÃ¶r: das WeihnachtsgetrÃ¤nk
-'Egg Nog'" translates to "Eggnog without liqueur: the Christmas drink
-'Egg Nog'" in English.>
+<pic images/eggnog.ps Eggnog without liqueur: the Christmas drink 'Egg Nog'>
 
 <em>Angelika</em> 
 Christmas is just around the corner, and the season of eggnog is
-beginning. In supermarket shelves, cartons labeled "Egg Nog" suddenly
+beginning. On supermarket shelves, cartons labeled "Egg Nog" suddenly
 appear, not far from the milk. The slightly yellowish-looking drink
 is made from milk, liquid cream, sugar, eggs, and spices like nutmeg.
 It is served both cold and hot, and can be enhanced with rum,
@@ -566,24 +558,23 @@ whiskey, or brandy.
 Allegedly, the drink originally comes from England, and it was, of
 course, homemade and not bought in ready-made bags. There is also
 some debate about the name. One thing is certain, the "Egg" in "Egg
-Nog" undoubtedly refers to the eggs. However, whether "Nog" refers to
+Nog" undoubtedly refers to eggs. However, whether "Nog" refers to
 a small vessel used in the past or is a short form of "Egg and Grog"
 is not exactly known. In any case, I am absolutely crazy about the
-"Egg Nog Latte," which, for example, the coffee shop Martha's around
-the corner from us offers. This special Cafe Latte consists of
+"Egg Nog Latte," which, for example, sold at the coffee shop Martha's around
+the corner from us. This special Cafe Latte consists of
 espresso and a mixture of Egg Nog and milk. Delicious, and only
 available during the Christmas season!
 
-@Z: Mail-Art
+@Z: Mail Art
 
-<pic images/aquarium.ps The translation of "Mail-Art: Aquarium" to
-English is "Mail-Art: Aquarium." The term "Mail-Art" is already in
-English, and "Aquarium" is the same in both languages.>
+<pic images/aquarium.ps Mail Art: Aquarium>
 
 <em>Angelika</em> 
 In the age of emails, Twitter, Facebook, mobile phones, and
-electronic greeting cards, a handwritten letter rarely arrives at
-one's home anymore. Letter writing seems to be on the brink of
+electronic greeting cards, we hardly get any handwritten letters
+in the mail anymore.
+Letter writing seems to be on the brink of
 extinction, just like vinyl records and film photography.
 
 Now, I am absolutely not an email grouch, but I have always enjoyed
@@ -597,8 +588,7 @@ Michael's dismay, I also print out all emails that have a letter-like
 character. It's so nice to read old letters!
 
 I even enrolled in several courses on the subject of mail art (postal
-art) at the "Center for the Book" for this reason.
-<RBLINK>20070427#11</RBLINK>
+art) at the "Center for the Book" for this reason (<RBLINK>20070427#11</RBLINK>).
 In the conventional sense, mail art means that artworks and objects
 are sent using the postal service: letters, cards, objects -- and
 even the envelope itself -- become works of art.
@@ -624,10 +614,10 @@ circle of mail artists and who does not. The sender has no
 expectations of the recipient, although it is considered good
 etiquette for the recipient to send something back to the sender.
 
-The translation of "Bei den sogenannten" to English is "With the
-so-called" or "In the case of the so-called," depending on the
-context.
-<LINK>http://www.artistampnews.com/dated_calls|Mail-Art-Calls</LINK>
+TODO
+
+With the so-called
+<LINK>http://www.artistampnews.com/dated_calls|mail art calls</LINK>
 Someone sets a theme and calls on mail art enthusiasts to create and
 submit mail art related to that theme. Example themes include: ham,
 view from the window, self-portraits, flying. These calls come from
