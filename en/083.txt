@@ -333,31 +333,24 @@ long-haired riffraff!
 
 <pic images/smartmeter.ps Is the smart meter from the electric utility really that smart?>
 
-TODO
-
 <em>Angelika</em> 
-Michael has indeed in However, this is an incomplete sentence, so the
-full meaning might depend on the context that follows.
-<RBLINK>20091104#9</RBLINK>
-The text translates to: "reports on the somewhat medieval methods
-still used to read electricity meters in San Francisco. However,
-modernization is already in full swing, as so-called [smart meters]
+Michael has indeed in <RBLINK>20091104#9</RBLINK>
+reported on the somewhat medieval methods
+still being used to read electricity meters in San Francisco. However,
+modernization is already in full swing, as so-called
+<LINK>http://www.pge.com/myhome/customerservice/meter/smartmeter/howsystemworks/|"Smart Meters"</LINK>
 are gradually replacing them not only in San Francisco but throughout
 California.
-<LINK>http://www.pge.com/myhome/customerservice/meter/smartmeter/hows
-ystemworks/|"SmartMeter"</LINK>
-The translation to English is: (loosely translated as: smart
-measuring device) the old meters.
 
 The new digital meters measure electricity and gas consumption, and
 the data is then wirelessly transmitted to the gas and electricity
-companies (PG&E in San Francisco). The customer can then monitor
-their current electricity usage at any time on the computer, as the
-electricity is read hourly. PG&E hopes to encourage customers to
-adjust their consumption accordingly in the long term through
+companies (which is PG&E in San Francisco). The customer can then monitor
+their current electricity usage at any time on the home computer, as the
+consumption is read out hourly. PG&E hopes to encourage customers to
+adjust their consumption in the long run, enticed by
 variable, time-of-day-based pricing.
 
-Interestingly, the "SmartMeters" don't seem to be as smart as their
+Interestingly, the "Smart Meters" don't seem to be as smart as their
 name suggests. Some customers who already have a new digital meter
 are complaining that their electricity and gas bills have suddenly
 increased dramatically (for some customers by several hundred
@@ -366,41 +359,25 @@ perhaps due to the lack of intelligence of the customers. Upon
 reviewing the high bills, it was sometimes found that some customers
 hadn't even installed the new meter yet, or the higher bill was due
 to penalty fees for unpaid bills. In any case, independent experts
-are now supposed to test the meters. A website summarizes the...
+are now supposed to test the meters. A
 <LINK>http://earth2tech.com/2009/11/19/lesson-learned-from-the-pge-sm
-art-meter-suit-its-a-communication-problem|SmartMeter-Beschwerden</LI
+art-meter-suit-its-a-communication-problem|website summarizes the complaints</LI
 NK>
-The translation of "aus Kundensicht zusammen" to English is "from the
-customer's perspective together.
+from the customers' perspective.
 
 <em>Michael</em> 
-The text appears to be in German, but it seems to contain some
-encoding errors. Here's an attempt to translate the corrected
-version:
-
-"By the way, recently all sorts of gadgets have been popping up in
-terms of electricity consumption measurement: Google has the..."
-
-If you have more context or a continuation of the sentence, I can
-help further!
-<LINK>http://www.google.org/powermeter|Powermeter-Software</LINK>
-The German phrase "herausgebracht, und ein" translates to "released,
-and a" in English.
-<LINK>http://www.theenergydetective.com/ted-5000-overview.html|The
-phrase "Kasterl von TheEngergy\-Detective" seems to be a mix of
-languages and possibly contains a typo. Assuming "Kasterl" is
-intended to be "Kastell," which is German for "castle," the
-translation would be "Castle of TheEnergy-Detective." However,
-without additional context, this translation might not be entirely
-accurate. If "Kasterl" is a specific name or term, it might not need
-translation.</LINK>
-It displays the current electricity consumption on the living room
-table. This way, the master of the house immediately knows if a
-housemate is carelessly wasting electricity again!
+By the way, recently all sorts of gadgets have been popping up in
+terms of electricity consumption measurement: Google has released the
+<LINK>http://www.google.org/powermeter|Powermeter software</LINK>
+and
+<LINK>http://www.theenergydetective.com/ted-5000-overview.html|The Energy Detective</LINK>
+from another company displays the current electricity consumption of the
+entire household on the living room table. This way, the master of the house
+immediately knows if a housemate is carelessly wasting electricity again!
 
 @Z: Toronto, Canada
 
-<pic images/torwave.ps Newsletter reporter in front of Toronto>
+<pic images/torwave.ps Newsletter reporter with Toronto in the background>
 
 <em>Michael</em> 
 At the end of October, we were drawn to Canada, to the city of
@@ -409,19 +386,19 @@ in the east, very close to the border with the USA and the state of
 New York.
 
 Canadians are supposedly somewhat more peaceful than Americans;
-however, some of them drive recklessly and honk their horns
-incessantly as if theyâve lost their minds. This is quite
+however, but according to our observations, some of them drive recklessly
+and are honking their horns
+incessantly as if they've lost their minds. This is quite
 noticeable if you come from California, because there, no one gets
 upset so quickly just because a car cuts them off. By the way, the
-U.S. state with the least honking is Hawaii, where only the tourists
+U.S. state with the least amount of honking is Hawaii, where only the tourists
 honk.
 
-<pic images/ridewalk.ps Verkehrsteilnehmer in Toronto" translates to
-"road users in Toronto" in English.>
+<pic images/ridewalk.ps Road users in Toronto>
 
-But back to Toronto: The city is suffering, similar to Vancouver (
-<RBLINK>20050701#1</RBLINK>
-..in western Canada, among disfiguring mass housing blocks. The 4.2
+But back to Toronto: The city is suffering, similar to Vancouver
+(<RBLINK>20050701#1</RBLINK>) in western Canada,
+from disfiguring mass housing high rises. The 4.2
 million people undoubtedly need to find accommodation somewhere, but
 there are hardly any old buildings or organically developed
 neighborhoods to show for it. Everything we have seen of Canada so
@@ -429,15 +406,12 @@ far suggests the suspicion that at some point in the 1960s, masses of
 people moved to the big cities, and their housing needs were met by
 the cheapest available architects.
 
-<pic images/toro-skyline.ps The translation of "Toronto neigt zur
-Klotzbauweise ..." to English is "Toronto tends towards block-style
-construction ...>
+<pic images/toro-skyline.ps Toronto tends towards unattractive block-style construction ...>
 
-<pic images/toro-flatiron.ps ... but a few old buildings have been
-preserved.>
+<pic images/toro-flatiron.ps ... but a few old buildings have been preserved.>
 
 Toronto is located on the northern shore of Lake Ontario, which is
-311 by 85 kilometers in size! In front of the city lies a small
+311 by 85 kilometers in size! Facing the city is a small
 island inhabited by defiant hippies who built small houses there in
 the 1960s and then stubbornly refused to leave in the 1990s when the
 city wanted to turn the island into a park. A regularly operating
@@ -450,8 +424,7 @@ in San Francisco; we completely lack the "autumn" season, as summer
 transitions directly into the rainy winter season, and deciduous
 trees are also absent.
 
-<pic images/leaves.ps And who gathers the leaves in the fall, yes,
-who?>
+<pic images/leaves.ps And who gathers the leaves in the fall, yes, who?>
 
 Canada has the reputation of being more socialist than the USA, with
 legally regulated health insurance and various social benefits that
@@ -459,11 +432,9 @@ are unfamiliar to Americans. Nevertheless, more homeless people
 loiter on the streets of Toronto than in comparable climate regions
 of the USA.
 
-<pic images/homeless.ps A homeless person has set up camp in front of
-the town hall.>
+<pic images/homeless.ps A homeless person has set up camp in front of the town hall.>
 
-<pic images/sleep.ps The translation of "Wer schlÃ¤ft, sÃ¼ndigt
-nicht." to English is "He who sleeps, does not sin.>
+<pic images/sleep.ps He who sleeps, does not sin.>
 
 What stood out positively were the many city districts specialized in
 certain immigrant groups, which are widely spread out but can be
@@ -477,8 +448,7 @@ restaurants (a rarity in California), and the quite alternative/hip
 Kensington Market, where you can buy high-quality food at reasonable
 prices, even decent cheese and real rolls!
 
-<pic images/liquor.ps Alcohol is only available in liquor stores in
-Ontario.>
+<pic images/liquor.ps Alcohol is only available in liquor stores in Ontario.>
 
 However, it seems that the government in the Canadian province of
 Ontario believes that its residents would all succumb to drinking if
@@ -491,15 +461,14 @@ collectively pay a billion dollars in licensing fees to the state
 annually. Therefore, it is not surprising that every attempt to
 liberalize alcohol sales has failed so far.
 
-<pic images/peameal.ps Angelika with the Canadian LeberkÃ¤ssemmel:
-The "Peameal," a piece of roasted ham on a Kaiser roll.>
+<pic images/peameal.ps Angelika with the Canadian Leberkässemmel: The "Peameal," a piece of roasted ham on a Kaiser roll.>
 
-@Z: Niagara-Fälle
+@Z: Niagara Falls
 
 <pic images/falls-top.ps Angelika at the Niagara Falls.>
 
 <em>Michael</em> 
-The Niagara Falls, the magnificent natural spectacle where three
+Niagara Falls, the magnificent natural spectacle where three
 million liters of water rush down a 54-meter-high wall every second,
 should not be missed. However, twelve million visitors think
 similarly each year, and the touristy surroundings in the town of
@@ -508,21 +477,21 @@ bizarre. Fortunately, by the end of October, it was already the
 off-season, and the hustle and bustle had subsided, but many stalls
 and restaurants were also closed.
 
-<pic images/nia-panorama.ps Niagara: On the left, the "American
-Falls," on the right, the semicircular "Horseshoe Falls.>
+<pic images/nia-panorama.ps Niagara: On the left, the "American Falls," on the right, the semicircular "Horseshoe Falls.>
 
-Niagara" is pronounced "Nei-jÄhgra" in American English, with the
-emphasis on "jÄh." The word originates from the Native Americans, in
+Niagara" is pronounced "Nigh-Eh-Gra" in American English, with the
+emphasis on "Eh". The word originates from Native Americans, in
 whose language it means "thundering water." The Native Americans
-regarded the Niagara Falls as a sacred site, and it wasn't until 1678
+regarded Niagara Falls as a sacred site, and it wasn't until 1678
 that a European Jesuit priest saw them. In 1801, the first honeymoon
 tourists arrived, and nowadays, casinos, an amusement park with a
 Ferris wheel, a tower with a restaurant, golf courses, and various
 organized attractions offer the perfect day trip for the American
 family.
 
-<pic images/nia-stands.ps Due to the off-season, sales stands in
-Niagara Falls have already been closed.>
+<pic images/nia-stands.ps Due to the off-season, sales stands in Niagara Falls have already been closed.>
+
+TODO
 
 Everything is geared towards profit maximization. To get from the
 small town down to the falls, you can either explore a deliberately
