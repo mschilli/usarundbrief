@@ -72,13 +72,12 @@ identified the driver, he then proceeds to ask
 questions, and manually fills out a "ticket" form in a process that
 takes about 15 minutes.
 
-TODO
-
-If a driver is operating within the traffic regulations and the
+If a driver is operating the vehicle within the traffic regulations and the
 vehicle is in perfect condition, police officers are actually
 prohibited from stopping the car. That's why all the drunk drivers
 tend to drive a bit slower than the speed limit, which you can often
-witness late at night on Freeways 101 and 280. If the siren wails,
+witness late at night on Freeways 101 and 280. If a siren starts wailing
+behind you,
 you can assume that something is up. However, police officers are
 very creative when it comes to finding a reason to stop a vehicle. A
 broken brake light is enough, and in some Hollywood movies, the
@@ -104,11 +103,10 @@ Okay, this question might come across as somewhat provocative,
 because practically all American cop jokes start with a law
 enforcement officer eating these American donuts. We happen to live
 directly across from a 24-hour donut shop, and I can confirm that
-this is by no means a prejudice: American police officers are
+this is by no means a clichee: American police officers are
 absolutely fond of these sweet little things.
 
-<pic images/donut-shop.ps The 24-hour donut shop around the corner
-significantly increases the police presence in the neighborhood.>
+<pic images/donut-shop.ps The 24-hour donut shop around the corner significantly increases the police presence in the neighborhood.>
 
 Another note: The derogatory term "Bulle" in Germany doesn't have the
 same effect in America, because Americans associate bulls with
@@ -120,34 +118,26 @@ language.
 
 No, to insult an American police officer, one uses the word "pig."
 This is not even punishable, as the American Constitution grants
-citizens almost unlimited freedom of speech.
-<RBLINK>20001204#5</RBLINK>
-Certainly! The text translates to:
-
-"However, the offended police officer then uses all legal,
+citizens almost unlimited freedom of speech (<RBLINK>20001204#5</RBLINK>).
+However, the offended police officer might then employ all legal,
 semi-legal, and sometimes illegal means to get back at the offender.
-Just take a look at the secretly filmed..."
-
-If you have more text or need further assistance, feel free to ask!
-<LINK>http://www.youtube.com/watch?v=gAsUOZpPN9w|Video of a
-skateboarder arrested in San Francisco</LINK>
-The translation to English is: "to catch a glimpse of the
+Just take a look at the secretly filmed
+<LINK>http://www.youtube.com/watch?v=gAsUOZpPN9w|video of a skateboarder arrested in San Francisco</LINK>
+to catch a glimpse of the
 aggressiveness of American police officers.
 
-<pic images/highway-patrol.ps Speed trap in American: Usually highly
-visible.>
+<pic images/highway-patrol.ps Speed trap in American: Usually highly visible.>
 
 A "ticket" falls into one of three categories: a "Parking Violation"
 (a harmless parking ticket that you simply pay), a "Notice to
 Appear," or a "Notice to Correct." If a cop catches a speeder with
-the radar gun, they issue a "Notice to Appear," which is a summons to
+their radar gun, they issue a "Notice to Appear," which is a summons to
 appear in court. You heard correctly, every so-called "Moving
 Violation" (this includes running a stop sign or making an illegal
 turn) is adjudicated in traffic court. You don't always have to
 appear there, but more on that later.
 
-<pic images/pulled-over.ps A police car has signaled a vehicle to
-stop. Now it's important to keep a cool head.>
+<pic images/pulled-over.ps A police car has signaled a vehicle to stop. Now it's important to keep a cool head.>
 
 If the police officer stopped the car only because a brake light was
 broken, the driver receives a "Notice to Correct," commonly known as
@@ -166,11 +156,10 @@ placing the speeder under arrest. Instead of arresting harmless
 speeders, filling up jails, and incurring costs, the "ticket" system
 was created to expedite the legal process from arrest to sentencing.
 The driver does not have to pay bail to remain free until the court
-hearing, but by signing, he confirms his agreement to appear at the
+hearing, but by signing, he confirms his agreement to appear on the
 scheduled date.
 
-<pic images/dui.ps Very bad: Drinking, smoking, and driving at the
-same time.>
+<pic images/dui.ps Very bad: Drinking, smoking, and driving at the same time.>
 
 The fine to be paid later consists of a base fine and a penalty
 assessment, with the latter adding a multiple to the actual fine.
@@ -186,14 +175,13 @@ Here it comes: Technically speaking, this fine is the bail in a
 summary proceeding! If the driver does not contest the ticket
 afterwards, they simply do not schedule a court date, but instead pay
 the fine and leave this "bail" with the court by not appearing at the
-non-existent court date. This effectively concludes the "proceeding.
+non-existent court date. This effectively concludes the "proceedings."
 
 If you actually want to contest the ticket, you call the phone number
-listed on the fine notice and request a court date. At this...
-<em>muss</em> 
-The translation to English is: "One must then appear, failing to do
+listed on the fine notice and request a court date. At this date,
+the driver must then appear, failing to do
 so would be a serious offense. The proceedings usually take place
-months later at the 'Superior Court' closest to the location of the
+months later at the "Superior Court" closest to the location of the
 offense.
 
 In court, a ticket is only valid if the driver acted either
@@ -213,13 +201,12 @@ trained to elicit confessions from stopped drivers without their
 knowledge. The facts they gather are noted on the ticket during the
 traffic stop to establish an airtight case in court later.
 
-<pic images/cop-moto.ps Even professional racers must pay attention
-to motorcycles approaching from behind.>
+<pic images/cop-moto.ps Even professional racers must pay attention to motorcycles approaching from behind.>
 
 Experts warn: "A police officer with a ticket book in hand is never
 your friend!" A typical question is: "Do you know how fast you were
 going?" If you respond with, "Well, a bit faster than allowed," the
-officer will immediately start scribbling in their book, as the
+officer will immediately start scribbling into their book, as the
 driver has just admitted to speeding and cannot deny it later in
 court. It is supposedly better to simply answer the question with
 "Yes, I do." If the cop presses further and you plan to outsmart him
@@ -255,7 +242,7 @@ items inside the car.
 
 Here are some facts from the world of the California Highway Patrol:
 The police vehemently deny that there are monthly quotas for officers
-regarding the number of tickets to be issued. Rumor has it that law
+regarding the number of tickets to be issued. Rumor has it, however, that law
 enforcement becomes particularly busy at the end of the month
 because, like all Americans, they tend to procrastinate on fulfilling
 their duties until it absolutely can't be delayed any longer. Whether
@@ -265,19 +252,15 @@ undoubtedly be dismissed at some point. There is certainly a deadline
 by which the supervisor writes evaluations, so there are also periods
 when officers are more diligent in issuing tickets than usual.
 
-<pic images/fight-ticket.ps (#3) The book "Fight your Ticket and Win
-in California" provides useful tips.>
+<pic images/fight-ticket.ps (#3) The book "Fight your Ticket and Win in California" provides useful tips.>
 
-The translation of the German text to English is: "How do I know all
-this? In the book.
-<LINK>http://www.amazon.com/dp/1413310303|The translation of "Fight
-your Ticket and Win in California" to English is the same, as it is
-already in English.</LINK>
-The translation to English is: "(Figure (#3)) a lawyer specializing
+You might be wondering how do I know all this? In the book.
+<LINK>http://www.amazon.com/dp/1413310303|Fight your Ticket and Win in California</LINK>
+(Figure (#3)), a lawyer specializing
 in traffic law describes the laws and the unwritten rules. I also
-recommend the website.
+recommend the website
 <LINK>http://www.highwayrobbery.net|highwayrobbery.net</LINK>
-The phrase translates to: "which warns against the scams of speed
+which warns against the scams of speed
 camera operators and provides information on how to contest their
 exorbitant fines.
 
@@ -291,11 +274,10 @@ course, they install quite a powerful engine in the standard model so
 that police officers can easily keep up with speeders. With some
 practice, you can recognize the model from a distance in the rearview
 mirror, even at night, because the headlights have a distinctive
-shape. Other models do appear, but they are relatively rare in our
+shape. Other models of police cruisers do exist, but they are relatively rare in our
 area.
 
-<pic images/police-car.ps Not as bold as it seems: The police car is
-a dummy on the grounds of the Universal Studios.>
+<pic images/police-car.ps Not as bold as it seems: The police car is a dummy on the grounds of the Universal Studios.>
 
 Not all radar cops position themselves on the side of the road.
 Sometimes a police car approaches much faster from behind than the
@@ -316,25 +298,21 @@ well-hidden speed trap on Freeway 101 at 82 mph (132 km/h), but the
 cop was probably waiting for bigger offenders, as he didn't make a
 move.
 
-@Z: Classic TV Series: "CHiPs
+@Z: Classic TV Series: "CHiPs"
 
-<pic images/chips.ps In the series "CHiPs," "Jon Baker" and "Frank
-'Ponch' Poncherello" cruise around on their police Harleys and catch
-speeding hippies.>
+<pic images/chips.ps In the series "CHiPs," "Jon Baker" and "Frank 'Ponch' Poncherello" cruise around on their police Harleys and catch speeding hippies.>
 
 <em>Michael</em> 
 You also have to watch out for traffic police officers on
 motorcycles, but only when the sun is shining. In the seventies, a TV
-show aired in America (and in 1989 in Germany) called
-<LINK>http://en.wikipedia.org/wiki/CHiPs|The television series
-"CHiPs</LINK>
-...in which two traffic police officers on motorcycles take down
+show aired in America (and in 1989 in Germany), called
+<LINK>http://en.wikipedia.org/wiki/CHiPs|"CHiPs"</LINK>,
+in which two traffic police officers on motorcycles take down
 traffic offenders one after another. The three capital letters 'CHP'
 in 'CHiPs' stand for 'California Highway Patrol,' the official
 designation of the California highway police.
 
-<pic images/chips-gesindel.ps This long-haired riffraff with the
-clown car will be surprised by the ticket from the motorcycle cops.>
+<pic images/chips-gesindel.ps This long-haired riffraff with the clown car will be surprised by the ticket from the motorcycle cops.>
 
 In the series, "Jon Baker" is the sensible one of the duo that
 patrols the highways around the Los Angeles area. His partner, "Frank
@@ -342,8 +320,7 @@ patrols the highways around the Los Angeles area. His partner, "Frank
 by hippies, can't assert himself, and regularly wrecks his motorcycle
 through avoidable driving mistakes.
 
-<pic images/chips2.ps Typical 70s: Stunning-looking traffic police
-officers in tight-fitting uniforms.>
+<pic images/chips2.ps Typical 70s: Stunning-looking traffic police officers in tight-fitting uniforms.>
 
 The two muscular cops also wear skin-tight uniforms, which is why the
 series still finds great appeal in the gay scene today. Additionally,
@@ -352,10 +329,11 @@ Every good video rental store offers the DVDs. Indulge in the past
 for a fun evening and watch as two dashing cops chase contentious
 long-haired riffraff!
 
-@Z: PG&E SmartMeter
+@Z: PG&E Smart Meter
 
-<pic images/smartmeter.ps Is the smart meter from the electric
-utility really that smart?>
+<pic images/smartmeter.ps Is the smart meter from the electric utility really that smart?>
+
+TODO
 
 <em>Angelika</em> 
 Michael has indeed in However, this is an incomplete sentence, so the
