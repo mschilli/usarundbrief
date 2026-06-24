@@ -1,0 +1,510 @@
+San Francisco, 08-20-2017
+
+@Z: City Bike In San Francisco
+
+<pic images/ford-go-bikes-sit.ps Michael is test-riding the rental bike.>
+
+<em>Michael</em> 
+Since San Francisco's criminal sidewalk campers broke into our garage
+and stole my bike (<RBLINK>20141221#1</RBLINK>, <RBLINK>20160229#1</RBLINK>)
+I have renounced bicycle ownership. However, every now and then I do
+get the itch to take a little ride, to quickly dash down to the
+Mission district to grab some Mexican food, or just for fun in the
+evening shortly before sunset, to zoom around and take photos of
+funny people in embarrassing situations.
+
+<pic images/ford-go-bikes-station.ps Some parking spaces are always empty so that arriving customers can park their bicycles.>
+
+TODO
+
+The GoBike program was familiar to me from San Francisco's financial
+district, where a dozen basket-equipped granny bikes stood here and
+there in front of locking stations similar to the luggage cart
+machines at the airport. Supposedly, you could unlock and ride them
+around after paying an annual membership fee. I had never tried the
+service.
+
+Last week, construction workers suddenly showed up right in front of
+our apartment building out of nowhere, set up no-parking signs, and
+started making an infernal noise. Before the neighbors could guess
+what was being built, the installation was complete, and lo and
+behold: A large advertising board was promoting something called
+"Bike Sharing," and half a dozen bicycles were already available for
+immediate use.
+
+<pic images/ford-go-bikes-app.ps With the smartphone app, the
+customer pays and unlocks their rental bike.>
+
+The bike trailer is, no kidding, 10 meters away from our front door
+and is taking up three parking spaces, which the neighbors are
+discussing on the neighborhood forum "Nextdoor".
+<RBLINK>20140914#5</RBLINK>
+..completely freaked out, probably because the city had quietly and
+secretly handled the deal with the rental company "Motivate LLC,"
+sponsored by the car manufacturer "Ford," and presented the citizens
+with a fait accompli. No matter, our two cars are in the garage, and
+I thought to myself, I have to try out this newfangled thing right
+away. So I installed the phone app, paid 3 dollars for a single ride,
+chose a granny bike, and pressed the app button to unlock it. The app
+then displayed a 5-digit code consisting of the numbers 1-3 ("31131"
+I believe), which I entered using the three number keys on the dock
+(illustration (#2)), whereupon the heavy lock clicked and the bike
+popped out. I zipped around for about 20 minutes, down to the Mission
+district and then wheezed back up the hill. All in all, a successful
+start.
+
+<pic images/ford-go-bikes-lock.ps At the bike dock, the customer must
+enter the code to unlock the bike. (#2)>
+
+Overall, "Ford GoBike" will install 2,000 bicycles in the city of San
+Francisco in the coming months and another 1,500 in the East Bay. A
+single ride from one station to the next may last no more than 30
+minutes, costing $3. If the rider keeps the bike longer, each
+additional quarter (!) hour costs another $3. The trick that allows
+the company to (likely) remain profitable despite low prices is that
+the bicycles are never on the street for more than 30 minutes;
+afterward, they are back at a station and available to new customers.
+
+A day pass costs 10 dollars, and a 3-day pass costs 20 dollars, but
+both only allow for an unlimited number of 30-minute short rides.
+Important: Every half hour, the bike must be returned to one of the
+approximately 100 parking stations scattered throughout the city. You
+can't just go into a museum or a store to shop because you can't
+secure the bike, and locking it with a personal lock is explicitly
+not allowed in the terms of use. The program is therefore only
+helpful for people who want to quickly bike 1 or 2 kilometers from A
+to B, with a bike station near both A and B. Since you can also pay
+149 dollars annually, this might be suitable for commuters who take
+public transportation to a stop with a bike station, unlock a bike
+there, and ride to a bike station a block away from their
+destination. Provided there is a street with a bike lane leading
+there, because as a cyclist in San Francisco, you have to be
+extremely careful not to get run over or hit by the swinging door of
+a parked car. So: bring a helmet and wear it!
+
+@Z: Obamacare survives
+
+<pic images/trumpcare-3.ps US citizens protest against the planned
+repeal of Obamacare (Photo:
+flickr[stephenmelkisethian|stephenmelkisethian/36213128315]).>
+
+<em>Angelika</em> 
+Every day we receive new bad news from the White House. It feels like
+we are in a bad TV show. Yet, despite the daily drama, there is
+political deadlock. Although the Republicans have solid majorities in
+the House of Representatives and the Senate, and a Republican
+president, nothing is moving forward because the Republicans are so
+divided among themselves and the factions within the party are so
+extreme that compromises seem hopeless.
+
+At first glance, this is good for the population groups that neither
+voted for Trump nor are close to Republican policies. But on the
+other hand, everything is going downhill. Even the promise to improve
+infrastructure has not yet been fulfilled, although a broad majority
+considers it necessary. Anyone who, like me, has to navigate around
+the potholes in California's highways every day to avoid getting a
+flat tire knows what I'm talking about.
+
+Trump was determined to overturn Obamacare, but despite massive
+bargaining and threats, the matter is now on hold. Instead, the
+Republicans now want to reform the American tax system, which experts
+consider a complete utopia. The American tax system is one of the
+most complex in the world (I'm not exaggerating!) with many special
+deductions and loopholes. So it would indeed make sense to simplify
+it. However, the Republicans have no better idea than tax cuts,
+mainly for the super-rich and corporations. A proper reform, however,
+would need to include tax cuts, close loopholes, and raise more taxes
+to improve the state budget, as well as achieve a fairer
+redistribution of the tax burden.
+
+<pic images/trumpcare-4.ps Democratic politicians advocate for the
+retention of Obamacare (Photo:
+flickr[stephenmelkisethian|stephenmelkisethian/35389383054]).>
+
+But I digress. I actually wanted to report on the failed healthcare
+reform. Why did it not pass, even though the Republicans have a
+majority? First of all, it is always easier to criticize something
+than to come up with something new. For seven years, Republican
+politicians have railed against Obamacare but never made the effort
+to develop a serious counterproposal.
+
+When they finally got their turn, they cobbled together something
+that would have meant tax relief for wealthy Americans through the
+back door. This was because taxes that had been imposed on higher
+incomes and wealth with the introduction of Obamacare were to be
+rolled back. Not to mention the loss of health insurance for millions
+of Americans. How so? Many people are unaware that under Obamacare,
+the state health insurance program "Medicaid" was significantly
+expanded in 32 states. I have previously written about the
+state-sponsored health insurance for the poorest of the poor.
+<RBLINK>20050319#10</RBLINK>
+Washington enticed individual states under Obama with substantial
+financial incentives if they agreed to provide health insurance to
+more of their low-income citizens through Medicaid. Medicaid is
+funded by taxes from both the respective state and the federal
+government. Thirty-two states accepted the offer and relaxed their
+conditions, allowing more low-income citizens to receive Medicaid.
+Under this regulation, 11 million citizens nationwide were
+additionally insured. If one is insured under Medicaid, the insured
+typically does not pay health insurance premiums and is also exempt
+from co-payments.
+
+California expanded its Medi-Cal program (in California, Medicaid is
+called Medi-Cal) particularly generously. In 2016, a total of 12.2
+million Californians were insured through the state Medi-Cal program.
+This is a record number, considering that California only has 30.25
+million residents. In 2016, a four-person household in California
+qualified for state insurance if their income was $33,534 or less.
+Individuals could not earn more than $16,395 per year to access
+Medi-Cal. This corresponds to 138% of the Federal Poverty Level
+(FPL). However, higher income limits apply in California for pregnant
+women (income between 138% and 213% of the poverty level) and
+children under 19 (households with income up to 266% of the
+established poverty level).
+
+Republicans have long been critical of the Medicaid insurance
+program, and they planned not only to roll back Obamacare but also to
+implement significant cuts to this social program. The now-failed
+legislative proposals aimed to cut off funding for the expansion of
+Medicaid programs, meaning that states would no longer receive
+additional funds to continue insuring a higher proportion of their
+citizens through Medicaid. Additionally, it was proposed that each
+state would receive a fixed amount for its Medicaid programs per
+Medicaid beneficiary.
+
+Currently, it is the case that poorer states or states with higher
+healthcare expenditures receive more. For example, California
+currently receives 64.1% from Washington, while Wyoming only gets
+51.1%. However, these planned restrictions on the Medicaid insurance
+program were among the reasons why Republican Senators Susan Collins
+from Maine and Lisa Murkowski from Alaska voted against the entire
+bill. John McCain also ultimately said no. So, for now, everything
+remains the same. The problem is that Obamacare actually needs urgent
+improvements to prevent insurance premiums from skyrocketing and to
+avoid the collapse of the insurance market. However, Trump announced
+that he intends to let it come to that.
+
+@Z: The translation of "Ãffentliche BÃ¼cherschrÃ¤nke" to English is
+"public bookcases" or "public bookshelves." These are typically
+small, free-standing structures where people can take or leave books
+for others to enjoy.
+
+<pic images/book-shelf-total.ps Free used books in the public
+bookcase around the corner from us.>
+
+<em>Angelika</em> 
+Around the corner from us on Chattanooga Street, there is a little
+wooden box in front of a house that looks like a birdhouse. However,
+it's not birds that are nourished here in the winter, but rather
+book-hungry neighbors, as it is a public book exchange.
+
+If you don't want to throw your finished book into the recycling bin
+or let it gather dust on the bookshelf, you can place it in the box,
+and a like-minded reader will take it later. Everyone is allowed to
+place and take books for free. Naively, I thought: One of our
+neighbors had a really charming idea, until I found out during my
+research on the internet that these so-called public bookcases now
+exist in many countries, including in...
+<LINK>https://www.lesestunden.de/karte-oeffentlicher-buecherschraenke
+|The translation of "Deutschland|BÃ¼cherschrÃ¤nke in Deutschland" to
+English is "Germany|Bookshelves in Germany.</LINK>
+The German word "gibt" translates to "gives" or "there is/are" in
+English, depending on the context.
+
+<pic images/book-shelf-zoom.ps Well, who put in a German DVD?>
+
+It seems I missed the trend. In the USA, Todd Bol from Hudson,
+Wisconsin, started it. He set up the first little free library in his
+front yard in 2009. In the meantime, he has established a non-profit
+organization with the name...
+<LINK>http://littlefreelibrary.org|Little Free Library" is already in
+English. It refers to a small, free-standing structure where people
+can take or leave books, promoting book sharing and community
+engagement.</LINK>
+Founded. The association's website indicates where public bookcases
+are located in various countries and cities, provided that the owners
+of the bookcases have registered them there. Those who are not handy
+can also order ready-made book boxes through the association.
+
+<pic images/free-library-noe-valley-town-square.ps In the marketplace
+in our neighborhood, there is also a bookcase.>
+
+Lately, Michael and I have been frequently placing German books and
+DVDs in the little free library on Chattamooga Street, which always
+leads to a few days full of suspense: Who will take pity on the
+German books? Michael would, of course, love to install a camera to
+see who takes our German literature. Our DVD series "MÃ¼nchen 7" sat
+in the little library for a long time, but one day it was gone, and
+we started speculating again. In any case, these public book boxes
+are a great idea.
+
+@Z: Router or Rooter?
+
+<pic images/rooter.ps This is a rooter ("roo-ter"). The name of an
+American plumbing company that has specialized in clogged pipes for
+82 years.>
+
+<em>Michael</em> 
+Sometimes I listen to someone who is speaking normally, and suddenly
+I think I'm going crazy because the person I'm talking to clearly
+mispronounces a word. This often happens to me with Canadians; they
+generally speak quite passable American English, and then suddenly
+they slip in a wrong word: Did they just say "aboot" instead of
+"about"? Bam! Exposed! Revealed as a non-American, it's hilarious!
+
+Recently, the spokesperson for the German Tagesschau reported on a
+hacker attack on devices in computer networks, and I almost fell off
+the sofa because he said "Rooter" instead of "Router." Every child
+knows that the word is pronounced "Rau-ter"; "Ruh-ter" isn't really a
+word, but I could imagine it being some kind of drill used to clean
+drains by reaching the root of the blockage, like the company...
+<LINK>https://en.wikipedia.org/wiki/Roto-Rooter|"Roto-Rooter"</LINK>
+The phrase translates to: "has also been successful in America for 82
+years.
+
+<pic images/router.ps That is a router ("row-ter"). It directs
+packets through the network.>
+
+This mispronunciation seems to be common in Germany. Apparently,
+people there find it chic to follow the absurd British diction
+instead of the natural American one. Probably in Germany, they also
+say "tomahto" instead of "tom-ay-to," and "garridge" instead of
+"gar-ah-ge," and "frustrayyyy-ting" instead of "frus-trating,"
+completely crazy, these people! Sure, British English has a firm
+place in comedy series; it simply provides amusement when some snob
+talks as affectedly as Austin Powers, but in everyday life, it just
+seems silly. Something for my German English learners to think about!
+
+@Z: Skateboard Tricks: The Ollie
+
+<pic images/ollie-wiki.ps An ollie, performed by an experienced
+skateboarder (Source: Wikipedia)>
+
+<em>Michael</em> 
+The German word "Im" translates to "in the" in English. It is a
+contraction of "in dem," which is used in the dative case.
+<RBLINK>20161030#6</RBLINK>
+Have I already told you about my newly awakened passion for zooming
+through San Francisco on a skateboard? You should also know that in
+my youth, in the late 1970s in Germany, I used to race down the hills
+in the Kriegshaber district of Augsburg with a skateboard and lots of
+speed. However, I never had contact with real skateboard gangs where
+I could have learned any tricks. The sport was simply too exotic in
+Germany at that time.
+
+In urban skateboarding in America, the main focus is on covering
+larger city distances, essentially getting from point A to point B,
+while skillfully and elegantly overcoming any obstacles such as
+curbs, wheelchair ramps, or stair edges. Kids in California learn as
+early as preschool age how to ride off a high curb without the
+board's front edge getting stuck on the street and the rider stopping
+with their chin. The trick is that the deck of a skateboard curves
+upwards at the front and back, and when you place your foot on the
+back and press down, the front of the board lifts, allowing you to
+ride horizontally off the curb onto the street. The front wheels stay
+in the air until the back wheels drop over the edge. It looks very
+cool, especially if you maintain an unimpressed expression, as if you
+do it 100 times a day.
+
+<pic images/ollie-3.ps A simple trick, and the skateboard of an
+expert lifts one meter into the air without using their hands.>
+
+The reverse scenario, where the rider jumps from the street up onto
+the sidewalk at the curb, requires years of practice to master the
+so-called "Ollie." This maneuver was long considered completely
+impossible and was only invented in 1978, long after skateboards
+existed, by an American named Alan "Ollie" Gelfand. He discovered
+that a skateboard can be catapulted up to a meter high horizontally
+into the air without using external aids or hands. In an Ollie, the
+rider stomps with full force on the back part of the board until it
+hits the ground, while simultaneously sliding the front foot along
+the board towards the tip. This double movement first lifts the front
+of the board and then immediately levels it out again, quite high
+above the ground. Really skilled riders not only jump up curbs this
+way but can often seemingly effortlessly fly over beer crates, taut
+ropes, or park benches.
+
+<pic images/skate-cb.ps Skateboarding beginner Michael fearlessly
+plunges down the low curb.>
+
+I'm certainly not that good yet! Some time ago, I ordered a 40cm high
+skateboard ramp from a mail-order catalog, but when I set it up in
+our underground garage, I feared I would break all my bones. At my
+age, you have to go to work the next morning and can't hang around in
+the emergency room! So, I ordered special low ramps on eBay, which
+race car drivers use to push their lowered cars onto the scales
+before a race. It took some courage, but with elbow and hand
+protectors, I finally drove over the ramp, which was 5cm high at its
+highest point, in the privacy of our underground garage, away from
+the public eye, for the first time.
+
+<pic images/californiacation.ps The opening sequence of the series
+"Californication" shows a few skateboarders near the beach.>
+
+In the meantime, I have even slightly improved; when I dash to the
+factory bus stop in the morning or to the supermarket a few streets
+away in the evening, I can already ride up and down the lowered
+curbs. I still need to practice the ollie, but I'll get there.
+
+@Z: Millions, billions, and trillions.
+
+<pic images/billion.ps When an American says "billion," he means
+"milliarde.>
+
+<em>Michael</em> 
+What are 1,000 million? In Germany, that's a "Milliarde." Americans,
+who are generally more inclined towards exaggeration, say "a
+billion." For example, a few years ago, Facebook paid 17 billion
+dollars for WhatsApp, and American newspapers wrote "17 billion
+dollars." So far, so good--just another word for "Milliarde"--if it
+weren't for the German word "Billion.
+
+If a "Milliarde" in German is called a "billion" in American English,
+then what is a German "Billion" in American English? A German
+"Billion," which is a million million, a number with 12 zeros, is
+called "a trillion" by Americans. However, and this is where it gets
+really crazy, this is a completely different number from the German
+"Trillion"!
+
+A German trillion is not just 1,000 American "trillions," as the
+difference between "Billion" (German) and "billion" (American) might
+suggest, but rather 1,000 times more than that, which is a million of
+them! Today, we learn in the newsletter: 1,000 German billions make a
+billiard, and only 1,000 billiards make a German trillion. So, a
+German trillion contains a million American "trillions." And, to
+repeat, 1,000 American "billions" make a German billion. When Der
+Spiegel in illustration (#1) asks whether Amazon, Apple, Google, or
+Facebook will be the first to reach the "billion-dollar wall,"
+Americans might be puzzled, as these companies are already worth
+about "600 billions" in their terminology.
+
+<pic images/spiegel-billion.ps (#1) Which company will be the first
+to reach the 1,000 billion mark?>
+
+You might be wondering why I referred to the numbers as
+America-specific and didn't just point out a language difference
+between German and English: Our special friends on the other side of
+the English Channel, the quirky Brits, also claim a special exception
+in the numbers market. Their "billions" and "trillions" follow the
+German standards, not the American ones. A British "billion" is
+therefore a thousand times higher than an American "billion.
+
+<pic images/rebillionize.ps Russ Hanneman from "Silicon Valley" hates
+the doors of his millionaire BMW and demands billionaire-worthy
+Lamborghini scissor doors.>
+
+Back to everyday life: The "billionaires" so despised by toxic social
+critics like Bernie Sanders are merely measly billionaires. In the
+HBO comedy series "Silicon Valley," there is even talk of
+"rebillionizing": A venture capitalist plagued by setbacks has fallen
+from billionaire status to an ordinary millionaire in the show. His
+luxury BMW disgusts him because he would prefer to stylishly emerge
+from a Lamborghini with gull-wing doors. He is determined to climb
+back into the ranks of billionaires and is feverishly working on his
+plan to "remilliardize.
+
+@Z: Waimanalo
+
+<pic images/waimanalo-beach-combers.ps The translation of "Zwei
+StrandlÃ¤ufer in Hawaii" to English is "Two beach runners in Hawaii.>
+
+<em>Angelika</em> 
+Hawaii has become something like our second home, and we try to spend
+at least a week there every year. Usually, we fly to Oahu and stay in
+Kailua on the eastern side of the island, because there is a great
+beach and no large hotel complexes. However, this year our favorite
+accommodation was not available, and we decided to try something new.
+
+<pic images/waimanalo-beach.ps During the week, there is not much
+going on at the beach.>
+
+Since we are now very familiar with Oahu, we knew about the small,
+inconspicuous place called Waimanalo, which is located at the eastern
+lower tip of the island, before reaching Kailua when coming from
+Honolulu. There are no hotels here either, but rather a few vacation
+cottages for rent, often located in the landlord's garden. You can
+count the tourists in the town on one hand, and with a population of
+5,450, they don't really stand out.
+
+<pic images/waimanalo-cottage.ps Garden cottage for vacationers.>
+
+The place looks a bit "run-down" in some areas (as Michael originally
+put it). However, a few somewhat dilapidated houses and a few
+homeless people camping at one spot on the beach don't deter us that
+easily; we're used to different things from San Francisco. There's a
+gas station, a post office, the Japanese-inspired supermarket
+"Shima's," where you can buy very good poke at the poke bar, a shrimp
+stand, a co-op selling Hawaiian products, and several other small
+shops.
+
+Next to the somewhat misplaced McDonald's on the main street, a vegan
+restaurant with the beautiful name "Ai Love Nalo" (meaning "I love
+Nalo") opened in August 2015, two years ago. "Nalo" is an
+abbreviation for Waimanalo. Enthusiastic, friendly people cook here
+without using animal products and support Hawaiian organic farmers.
+The food was top-notch. I had a Mediterranean-inspired dish, the
+"Medi Bowl," and I'm still raving about the beet hummus, while
+Michael enjoyed a Portobello mushroom burger. But we don't just go to
+Hawaii to eat. The Pacific Ocean and the beaches are the highlight of
+a Hawaii vacation. And Waimanalo boasts one of the best beaches on
+the island. It is bay-like and 9 km long. The sand is white and
+powder-fine, and the water is turquoise with great waves for beginner
+boogie boarding. The beach is almost deserted, especially on
+weekdays. At the far end of Waimanalo Beach is the military base
+"Bellows Air Force." The "Bellows Beach Park" on the military base is
+only accessible to the general public on weekends. This is quite
+unusual in Hawaii, as Hawaii does not allow the privatization of
+beaches. Every beach must be publicly accessible. However, since the
+beach in Waimanalo is so vast, we weren't drawn to the area near the
+military base anyway. In any case, Waimanalo is a hidden gem.
+
+@Z: Metzgerei Lucca" translates to "Lucca Butchery" in English.
+
+<pic images/lucca-4.ps The butcher shop "Lucca" in our neighborhood
+is one of the last specialty stores.>
+
+<em>Angelika</em> 
+In a city changing at a crazy speed, it's reassuring when not
+everything falls victim to the excavator's tooth or the craze for
+chains. In our neighborhood, at the corner of Valencia and 22nd
+Street, there is an Italian delicatessen.
+The text "Lucca Ravioli Co." is already in English. It refers to a
+company named Lucca Ravioli Co., and the URL provided is likely the
+website for this company.
+...where delicious Italian sausages and groceries have been available
+for purchase since 1925.
+
+<pic images/lucca-1.ps The store advertises its specialties in a
+truly authentic Italian way on hand-painted signs.>
+
+<pic images/lucca-anchovies.ps The anchovies are stored in one of the
+rustiest cans in America.>
+
+The shop is small, but it has a long sausage and cheese counter that
+stretches throughout the entire store. Behind the counter stand
+salespeople in white coats and white caps on their heads, who still
+understand their craft. Fans of Italian delicacies will get their
+money's worth here: salami, ham, cheese, homemade pasta, olive oil,
+grappa, everything your heart desires. We recently bought a super
+delicious tongue sausage there, which immediately delighted the
+salesperson, as the majority of Americans apparently feel queasy at
+the mere thought of tongue sausage.
+
+<pic images/lucca-2.ps On Saturday afternoon, there is a lot of
+activity.>
+
+We ate them right away on the good bread from Josey Baker, super
+delicious! Like Michael in
+<RBLINK>20140914#4</RBLINK>
+As previously reported, Josey Baker is a trendy baker in San
+Francisco, and his last name is actually "Baker," which means baker.
+He bakes really good bread, like the kind we know from Germany. Such
+businesses are reminiscent of the old San Francisco from twenty years
+ago, which is now threatened with extinction. I hope that butcher
+Lucca will remain with us for a long time. Greetings from the city in
+transition:
+
+The translation of "Angelika & Michael" to English is "Angelika &
+Michael," as these are proper names and typically do not change when
+translated between languages.
+
