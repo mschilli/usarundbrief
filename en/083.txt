@@ -11,8 +11,6 @@ and jam jar lids, now also go into our blue recycling bin. Most plastics as
 well, so we no longer have to look for the numbers under the plastic containers
 or bottles.
 
-TODO
-
 The green compost bin has also been around for a long time, but until
 now it was rarely found in larger apartment buildings. However, since
 mid-October, landlords can no longer avoid setting them up, as a law
@@ -21,30 +19,27 @@ Compost goes in the green bin, glass, paper, and plastic in the blue
 bin, and residual waste in the black bin. The law is considered one
 of the most comprehensive in the USA.
 
-<pic images/garbage-sign.ps Shrimps can go in, milk cartons too, but
-no bottles.>
+<pic images/garbage-sign.ps Shrimps can go in, milk cartons too, but no bottles.>
 
 Those who do not comply will initially receive several warnings, and
-then fines of $100 will rain down, which can escalate up to $1000.
-Currently, the city officials are still trying to handle the
+then fines of $100 will rain down, which can escalate up to $1,000.
+Currently, city officials are still trying to handle the
 situation amicably. They are providing information intended to
 encourage the citizens of San Francisco to properly fill the green
 bins. The city provides the green bins free of charge. There was even
 a gift for the kitchen: a well-sealing bucket about 30 cm high with a
 sticker indicating what can be put inside.
 
-<pic images/bio-trash.ps A small bio-waste bin for the kitchen was
-provided for free by the city.>
+<pic images/bio-trash.ps A small organic waste bin for the kitchen was provided for free by the city.>
 
 It is amazing what we are allowed to throw into the organic waste
 bin: the usual items like fruits, vegetables, used coffee filters,
 eggshells, leaves, but also food scraps and used pizza boxes and
 paper plates. And on and next to the organic waste bin, there are
-clear posters hanging and sticking, making recycling as easy as
+well structured posters, making recycling as easy as
 possible even for the biggest environmental grouch.
 
-<pic images/garbage-inside.ps Which idiot throws empty plastic
-bottles into a bio bin?>
+<pic images/garbage-inside.ps Which idiot throws empty plastic bottles into a organic waste bin?>
 
 You don't even need to be able to read to participate, because the
 posters show photos. This makes perfect sense in a city where many
@@ -54,15 +49,14 @@ what goes in which bin, because recently Michael opened the green bin
 in the garage to dispose of our compost and saw plastic bottles.
 Ahhh!
 
-@Z: The English translation of "In den FÃ¤ngen der Verkehrspolizei"
-is "In the Clutches of the Traffic Police.
+@Z: In The Clutches Of The Traffic Police
 
 <pic images/police-behind.ps Yikes! A police car is chasing us!>
 
 <em>Michael</em> 
 In California and most other states, as is well known, the police do
 not simply set up speed traps to then greedily send out payment
-notices by mail. Instead, the officer conducting the radar
+notices for fines by mail. Instead, the officer conducting the radar
 measurement boldly turns on the light bar and siren of their Ford
 "Crown Victoria," revs the engine, and chases after the speeder to
 force them to stop. When the speeder pulls over to the right on the
@@ -73,10 +67,12 @@ Never forget your driver's license at home. If you can't show it, the
 officer is allowed to have the car towed immediately! However, they
 will only do this in exceptional cases, because if it later turns out
 that the vehicle was driven by a legitimate license holder, the
-police department must reimburse the costs. After the officer has
-identified the driver, the uniformed officer then proceeds to ask
-questions and manually fills out a "ticket" form in a process that
+police department must reimburse the costs. After the uniformed officer has
+identified the driver, he then proceeds to ask
+questions, and manually fills out a "ticket" form in a process that
 takes about 15 minutes.
+
+TODO
 
 If a driver is operating within the traffic regulations and the
 vehicle is in perfect condition, police officers are actually
