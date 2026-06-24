@@ -390,12 +390,10 @@ since we make symbol cards for everything, I made one with a question
 mark on it. However, when I showed the card to my colleague, she
 innocently asked if I always drew such funny question marks.
 
-TODO
-
 I didn't understand it at first, because for as long as I can
 remember, my question mark has looked like a mirrored capital "S"
 with a dot underneath. Here in the USA, most people write it more
-like a "U" open to the bottom left with a straight line going down,
+like a tiltet "U", open at the bottom left, with a straight line going down,
 plus the dot underneath. The whole thing got me thinking so much that
 I actually asked Michael at home if he could quickly write a question
 mark for me. And lo and behold, it looked just like mine.
@@ -408,23 +406,19 @@ At first, I thought this was my personal touch, as everyone develops
 their own handwriting over the years. However, an internet search
 revealed that I write the so-called Bavarian printed "I," albeit the
 older version. Hmm, but I went to elementary school in Lower
-Saxony... maybe one of the elementary school teachers among the
+Saxony ... maybe one of the elementary school teachers among the
 readers can enlighten me.
 
-It is noticeable, however, that cursive writing looks different here,
-and this seems to be due not only to individual style but also to how
+Also, it is notable that cursive writing looks different here,
+and this seems to be due to not only individual style but also to how
 cursive writing is taught in schools in different countries. A
 fascinating topic. This was also noted by the typologist Florian
-Hardwig, who...
-<LINK>http://www.sueddeutsche.de/kultur/319/436065/text|The
-translation to English is: "Cursive scripts from multiple countries
-in a research project.</LINK>
-The German word "verglich" translates to "compared" in English.
+Hardwig, who compared
+<LINK>http://www.sueddeutsche.de/kultur/319/436065/text|Cursive scripts from multiple countries in a research project.</LINK>
 
-@Z: Translation: Storage: Where to put the stuff?
+@Z: Storage: Where To Put The stuff?
 
-<pic images/storage1.ps In these buildings, you can rent small
-storage units to store your stuff.>
+<pic images/storage1.ps In this building, you can rent small storage units to store your stuff.>
 
 <em>Angelika</em> 
 Over the years, more and more stuff gradually and steadily
@@ -439,8 +433,7 @@ with their belongings, they can also store their items in a warehouse
 ("storage"). At every turn, you encounter these garage-like giant
 buildings where customers rent small or larger storage units.
 
-<pic images/storage2.ps Translation: Storage: Not exactly cheap, but
-what can you do if you can't throw anything away?>
+<pic images/storage2.ps Storage: Not exactly cheap, but what to do if you can't throw anything away?>
 
 These ugly concrete blocks are often found in more rural areas, but
 San Francisco is not lacking them either. Friends told us that a
@@ -451,10 +444,8 @@ inconvenient. Who wants to always get in the car to retrieve
 something from storage? After a while, probably no one even remembers
 what was actually stored there.
 
-A special service is offered by the...
-<LINK>http://www.pods.com|The translation of "Firma PODS" to English
-is "PODS Company" or "PODS Firm.</LINK>
-She places a small lockable container in front of the house, and you
+A special service is offered by the company <LINK>http://www.pods.com|PODS</LINK>
+They drop off a small lockable container in front of the house, and you
 have 30 days to pack your stuff into it. Once you're done, you call,
 and then a truck comes and takes the container to the storage center.
 If you want your stuff back, you call, and a truck will place the
@@ -463,15 +454,13 @@ for those who can't part with their unused items, sometimes there's
 no other choice. However, our principle is: Whatever would go into
 the storage center is either given away or thrown in the trash.
 
-@Z: The translation to English is: "Electricity meter read by the
-customer.
+@Z: Power Consumption Reported By The Customer?
 
-<pic images/meter.ps (#5) The electricity customer sets their
-recorded electricity consumption using the cardboard dials.>
+<pic images/meter.ps (#5) The power consumer sets their recorded electricity consumption using the cardboard dials.>
 
 <em>Michael</em> 
 The monthly electricity bill in America is usually not charged as a
-flat rate, but is actually read from the meter and billed per
+flat rate, but is actually read from a meter and billed per
 kilowatt. Since our heating, foolishly enough, operates electrically
 (!), the amount to be paid in winter is about twice as high as in
 summer.
@@ -494,8 +483,7 @@ higher electricity bill would cause financial difficulties.
 
 @Z: Flexible Spending Account
 
-<pic images/docmoney.ps If you have to shell out money at the
-doctor's, then at least it should be tax-free.>
+<pic images/docmoney.ps If you have to shell out money at the doctor's, then at least it should be tax-free.>
 
 <em>Michael</em> 
 In the USA, it is quite common for people with good health insurance
@@ -506,9 +494,8 @@ from the outset or covers only to a small extent, such as dental
 crowns. Over the course of a year, these costs can easily add up to
 hundreds or even thousands of dollars, and with a trick, you don't
 pay taxes on them. In California, if someone earns a high income,
-that can quickly be 30 or even 40%, as we explained to you in...
-<RBLINK>19991120#2</RBLINK>
-have already calculated
+that can quickly be 30 or even 40%, as we explained to you in
+<RBLINK>19991120#2</RBLINK>.
 
 To save on taxes for medical services, companies often offer their
 employees a so-called "Flexible Spending Account" (FSA). The employee
@@ -516,12 +503,12 @@ deducts a fixed amount tax-free each month and uses the money
 exclusively for medical expenses. The participant then receives, for
 example, a card with the VISA emblem, which they can use like a
 credit card to pay at the doctor's office, in hospitals, or at
-pharmacies and drugstores. To ensure everything is above board, every
+pharmacies and drugstores. To ensure everything is correct, every
 bill must be faxed to the FSA provider, who then authorizes the
 payment.
 
 The process, however, has a catch: any deposited money must be used
-up within the calendar year, or the FSA user loses the entitlement to
+up within the calendar year, or the FSA user loses
 it completely. This often leads to people hastily buying new glasses
 or stocking up on large quantities of band-aids at the end of the
 year. It is also advisable to keep proper records so that you can
@@ -530,40 +517,33 @@ the end of the year.
 
 @Z: Ka-boom! and Other Noises
 
-<pic images/wham.ps The painter Roy Lichtenstein sometimes uses
-onomatopoeic words in his paintings.>
+<pic images/wham.ps The painter Roy Lichtenstein sometimes uses onomatopoeic words in his paintings.>
 
 <em>Michael</em> 
-Not only animal sounds are in English, as mentioned before in (
-<RBLINK>20060720#7</RBLINK>
-) described, fundamentally different from German, but also the
+Not only animal sounds are in English are fundamentally different from German,
+as mentioned before in <RBLINK>20060720#7</RBLINK>, but also the
 onomatopoeic descriptions for all sorts of sounds. For example, when
 someone clears their throat, it is written as "Harumph!" (pronounced
 "huh-rumph!"). If a hammer comes crashing down on something in a
 comic strip to flatten it, "Thud!" is written in large letters next
-to it. The squealing tires of an accelerating car make a "Wheee"
-sound, a sound also used by excited children sliding down a slide or
+to it. The squealing tires of an accelerating car make "Wheee",
+a sound also used by excited children sliding down a slide or
 sarcastically by adults feigning enthusiasm: "Whee, I got a watch for
-10 years of service!" ("Great, for 10 years of service to the
-company, I got a watch!").
+10 years of service!"
 
 <pic images/whee.ps With a "whee!" it goes down the slide.>
 
 The word "Ka-boom!" simulates, as one might imagine, an exploding
-explosive device, and also a cleaning product of the same name.
+explosive device, and is also the name of a cleaning product:
 <LINK>http://www.kaboomkaboom.com|Kaboom</LINK>
 It is excellent for cleaning away dark spots on the tile joints of
 the shower cabin.
 
 If someone finds something disgusting, they make the sound "Eew,"
-which sounds like "ï¿½uu" and corresponds to the German "Iih." If a
+which corresponds to the German "Iih." If a
 speaker temporarily doesn't know what to say next, they fill the
-pause in German with "ï¿½h," but in English, it's written as "Umm"
-and pronounced "Aomm.
+pause in German with "äh" but in English, it's written as "Umm".
 
 Umm ... and that's it for now. Best regards from California!
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
