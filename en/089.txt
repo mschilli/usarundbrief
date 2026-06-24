@@ -1,0 +1,623 @@
+San Francisco, 12-19-2010
+
+@Z: Why America Pays Crazy Money For Phone And Cable.
+
+<pic images/lessig-at-yahoo.ps The Stanford professor Lawrence Lessig explains at Yahoo why America pays excessive telephone and cable fees.>
+
+<em>Michael</em> 
+Why do we pay $60 a month for phone and internet in America, have to
+shell out $2.50 per minute for calls to Germany if we forget to enter
+a special number or sign up for a special plan, and pay an additional
+$60 for cable with premium channels? In European countries, a
+comparable package costs about a third of that.
+
+In May of this year, the Stanford professor
+<LINK>http://www.flickr.com/photos/mikeschilli/4624902569|Lawrence Lessig came to Yahoo</LINK>
+and explained it to us. Contrary to what one might expect from a
+high-tech nation, America ranks only 15th worldwide in terms of
+internet availability. Even in Bucharest, the coverage is better than
+in Chicago! The problem is a lack of competition among providers, as
+the owners of telephone and cable networks operate as
+state-sanctioned quasi-monopolists.
+
+TODO
+
+How did the USA end up in this complicated situation? In 1996, the
+Telecommunications Act mandated that the telephone company AT&T had
+to make its network available to third-party providers without
+charging excessive prices. This was never the case for the television
+cable network; companies like Verizon and Comcast were not required
+to grant competitors access to their cable infrastructure, which had
+been built at great expense. This unequal treatment led to endless
+disputes between telecom and cable companies, and in 2000, the
+Supreme Court indirectly decided that the government could no longer
+force telephone companies to open their networks under dictated
+conditions. Thus, partial government regulation gave way to a process
+governed only by the laws of the monopoly market.
+
+Completely different in Europe: There, the state massively intervened
+in the economy in the 90s, forcing the telecommunications operators
+to...
+<LINK>http://de.wikipedia.org/wiki/Entb%C3%BCndelung|Entbündelung</LI
+NK>
+Translate to English: "also to offer their service lines to
+third-party providers at non-excessive prices, 'unbundled' from their
+own telecommunications services. The aim of the procedure was to
+strengthen competition, advance technological development, and, in
+the long term, reduce prices for the end consumer.
+
+Looking back, it is essentially an economic history experiment
+conducted from the year 2000 onwards, taking place on two continents
+with different rules of the game. Which approach provides consumers
+with better conditions in the long run? Which one advances
+technological development the fastest? Should the state regulate
+entrenched monopolies or allow established companies to operate
+freely? The argument in favor of regulating monopolists is that it
+stimulates competition. As a counterargument, the established
+monopolists at the time claimed that government intervention would
+hinder future investments and bring technological progress to a halt.
+
+The result is obvious today: America is not only significantly
+lagging behind Europe technologically in the telecommunications
+sector, but it also charges the end consumer higher fees for poorer
+service. We look enviously at your affordable internet.
+"~
+-, telephone and cable offers. The
+<LINK>http://blip.tv/file/3485790|Lessig lecture on video</LINK>
+You can watch it for free on the internet, but it lasts 54 minutes.
+The section about the American problems with telephone and cable
+monopolies starts at 6:48.
+
+@Z: Thanksgiving
+
+<pic images/thxgiving-whole-foods-1.ps Angelika picked up the
+pre-cooked turkey meal from the supermarket.>
+
+<em>Angelika</em> 
+The American Thanksgiving is an extremely pleasant holiday for us
+because we have no obligations or customs to follow. Instead, we can
+simply enjoy the days off that the holiday at the end of November
+gives us.
+<RBLINK>20011121#2</RBLINK>
+Thanksgiving is really a big deal in the USA. Everyone visits family,
+so car and air traffic is heavier than at Christmas.
+
+<pic images/thxgiving-whole-foods-2.ps The translation to English is:
+"Pre-roasted bird, gravy, and even pumpkin pie for dessert.>
+
+This year, we actually decided to take on the task of preparing the
+traditional turkey dinner. However, since I neither knew how to
+properly cook such a bird nor had the necessary roasting pan or
+wanted to spend the whole day in the kitchen, I resorted to an
+extremely practical solution in this country, where the customer is
+often still king. Many of the large supermarkets or delicatessen
+stores offer fully cooked holiday meals with all the trimmings. The
+meal just needs to be reheated at home. So, I ordered the feast
+online from our upscale organic supermarket "Whole Foods" and picked
+it up on Thanksgiving morning.
+
+<pic images/thxgiving-stove.ps In the oven, the Whole Foods turkey is
+sizzling.>
+
+Everything was super organized. I didn't even have to go into the
+store; instead, I could pick up my pre-packed package from a trailer
+parked in the supermarket's parking lot. The package included a fully
+cooked organic turkey, mashed potatoes, gravy, cranberry sauce,
+rolls, and for dessert, pumpkin pie, along with instructions on how
+to properly reheat the food. The turkey actually took a full two
+hours to warm up again. Everything tasted excellent, and the bird was
+surprisingly juicy and not dry at all. Cheers to American pragmatism.
+
+@Z: Netflix Streaming
+
+<pic images/netflix-tv-toplevel.ps The new TV box already has Netflix
+built in.>
+
+<em>Michael</em> 
+Three years ago I was in
+<RBLINK>20070225#11</RBLINK>
+The text discusses the DVD rental service Netflix, which allows us to
+watch TV without paying exorbitant fees for terrible,
+advertisement-filled cable channels. Even back then, Netflix offered
+part of its DVD collection online, but you had to use a computer for
+that. Years ago, I predicted that this service would really take off
+if it ran directly on the TV and not on an extra computer, and lo and
+behold, Netflix listened to me and has been working for some time
+with various gadget manufacturers to bring Internet Netflix to the TV
+screen.
+
+<pic images/netflix-tv-queue.ps These and hundreds of thousands of
+other films are available within seconds.>
+
+Recently, our old tube TV gave up the ghost, and based on a tip from
+our TV cabinet expert Roland, I immediately bought the latest LED
+screen (not LCD, you backward folks), which already has
+Internet-Netflix built in. Imagine that: A TV with a built-in
+computer that streams movies from the internet. What a time we live
+in!
+
+<pic images/netflix-roku-screen.ps The Netflix program also runs on
+the computer ...>
+
+As mentioned, Netflix has always run on computers, but only on
+Windows and Mac. Not on the Linux system, where I hammer out my
+world-shattering scripts in the study. After some intense thinking, I
+realized that the screen there has a second input, so I bought a
+so-called [device] for 70 dollars in the summer sale.
+<LINK>http://roku.com|Roku-Kasten</LINK>
+... one of the many devices on the market with built-in Netflix. I
+plugged it into the screen and also into my 5-channel sound system,
+which is also there (I like to listen to music while working). Since
+then, I no longer need to get up from my office chair to enjoy the
+excellent and completely ad-free movie program.
+
+<pic images/netflix-roku-linux.ps ... but not on Linux, which is why
+Michael bought a small Roku box.>
+
+And the price for a Netflix subscription is impressive: For about $10
+a month, you can watch as many online movies as you want, and Netflix
+sends you an actual DVD by mail, which you can return as often as you
+like, and after a few days, the next one is in your mailbox. This is
+important because many well-known and especially newer movies are
+only available on DVD and not yet on Internet-Netflix.
+
+Currently, only Americans are enjoying this flood of films, and
+recently Canada was added to the list. You in Germany will probably
+have to wait a few more years for the Hollywood moguls to give
+Netflix the green light to open the floodgates. According to a...
+<LINK>http://www.nytimes.com/2010/12/13/business/media/13bewkes.html|
+Article in the New York Times about Netflix</LINK>
+However, tough times lie ahead for the company: The cable
+conglomerates have realized that in 2008, through clever negotiation
+tactics, Netflix managed to snag Disney and Sony movies from the TV
+subscription channel "Starz" at astonishingly low prices. Now,
+Netflix suddenly appears as a price disruptor, as consumers no longer
+see the need to pay exorbitant cable fees. Netflix needs to brace
+itself for the next round.
+
+@Z: Recycle My Junk
+
+<pic images/rmj-website.ps From armchairs to washing machines to tube
+TVs: The bulky waste collection service comes upon request and takes
+it away.>
+
+<em>Michael</em> 
+Our old tube TV had to go, and since a sticker on our trash can
+mentioned the free service...
+<LINK>http://recyclemyjunk.com|The translation of "Recycle meinen
+MÃ¼ll" from German to English is "Recycle my junk.</LINK>
+Translation: "I called there based on the information. The friendly
+lady on the other end of the line confirmed that she would be happy
+to pick up my old TV set, and we arranged an appointment for the
+following week, as everything was already booked before then.
+
+<pic images/rmj-truck.ps The man from RecycleMyJunk.com is picking up
+old furniture.>
+
+The disposal lady instructed me to place the "RÃ¼hrenmonster" on the
+sidewalk in front of the house on the designated day and to attach a
+note with "RMJ" written in large letters. I cautiously asked what
+that meant, and she explained to me that it stood for "Recycle my
+junk." We had such a laugh! On the pickup day, we happened to be
+going on vacation and had to leave early in the morning for the
+airport, but we simply put the box down on the sidewalk the night
+before and attached the note. When we came back a week later, the box
+was gone. America is catching up in terms of waste management.
+
+@Z: Wahlausgang
+
+<pic images/sacramento-capitol.ps In California, the Democrats
+remained in office.>
+
+<em>Angelika</em> 
+In the last newsletter, I reported on the upcoming congressional
+elections.
+<RBLINK>20101017#1</RBLINK>
+...and by now the results are almost old news. As expected, the
+Democrats lost their majority in the House of Representatives and
+were only able to maintain their majority in the Senate by a very
+narrow margin. Obama is already feeling the consequences, as Congress
+just extended the tax breaks introduced by Bush, including for the
+super-rich, which Obama would have liked to prevent.
+
+But in California, a small miracle happened: The former company
+executives, Meg Whitman and Carly Fiorina, were punished by the
+voters, and Jerry Brown was catapulted into the office of Governor,
+while Barbara Boxer also retained her Senate seat. Other liberal
+democratic figures also managed to secure high offices in California:
+Our mayor, Gavin Newsom, will take over the office of Lieutenant
+Governor in January, and the former San Francisco District Attorney,
+Kamala Harris, who gained fame for her progressive ideas and is
+against the death penalty, is the new Attorney General of California.
+
+@Z: Michael on the cover
+
+<pic images/sj-mercury-yshuttle-f.ps The translation of
+"WeltberÃ¼hmte Leute auf dem Weg zur Arbeit" to English is
+"World-famous people on their way to work.>
+
+<em>Michael</em> 
+Recently, early in the morning, informants told me that I had landed
+on the front page of the Silicon Valley newspaper "San Jose Mercury
+News." As it turned out, however, it wasn't because I had finally
+sold a startup for a few billion to a corporation, but rather as part
+of an article.
+<LINK>http://www.mercurynews.com/ci_16492798|The title "Ãber die
+Pendler von San Francisco" translates to "About the Commuters of San
+Francisco" in English.</LINK>
+The translation to English is: "to Silicon Valley and the private
+shuttle buses of large software companies that offer this service for
+free. Of course, this is old news for loyal newsletter readers who
+have known this since 2007.
+<RBLINK>20070427#2</RBLINK>
+.
+
+@Z: Coupons
+
+<pic images/coupon-costco.ps The coveted Costco coupon booklet>
+
+<em>Michael</em> 
+In Germany, special offers and discount points are more the domain of
+older people and penny-pinchers who search for savings and thrift
+tips on geizhals.de. In America, however, you can also see
+well-earning people at the checkout handling coupons, which the
+cashier scans. If the coupon is valid, the register immediately
+deducts the discount amount. What's amusing about the coupons in the
+booklet from the giant supermarket Costco is that they all have the
+same barcode number. So if you buy toilet paper and give the cashier
+the coupon for designer perfume, the register correctly deducts the
+toilet paper discount. Often, the Costco staff simply scan a sign
+hanging at the register that has the same code and, by clicking
+multiple times, apply the discount to all purchased products.
+However, it seems that the management and the advertising industry
+don't like this very much, and sometimes the Costco staff suddenly
+become strict, and the outraged customer has to fumble out the
+appropriate coupons from the booklet individually. By the way, the
+Costco headquarters once removed me from their mailing list, and I no
+longer received a coupon booklet. I promptly called them and demanded
+the immediate postal delivery of a replacement booklet!
+
+<pic images/coupon-bbb.ps The translation to English is: "Only
+beginners shop at Bed Bath and Beyond without a coupon.>
+
+Even with club cards from major supermarkets, you can save a lot of
+money. At Safeway, for example, you can quickly save 10% on a larger
+purchase. I've now gotten into the habit of asking for a club card
+even at chains where I've never shopped before. Recently in San
+Diego, for example, we bought groceries for $50, and I didn't have a
+club card for the "Kroger" chain because they don't exist in San
+Francisco. At the checkout, I asked the cashier for a form to apply
+for a card, but she saw that I was on vacation and quickly scanned a
+guest code from a booklet under the register, which also gave me club
+prices. Amount saved: more than $10.
+
+Recently, the coupon business experienced a groundbreaking
+turnaround: Websites like groupon.com now offer personalized
+electronic coupons tailored to the local area. That's amazing! For
+example, I recently received an email from bloomspot.com, another
+coupon website where I had registered my email address. For a payment
+of $4 via credit card, they offered a voucher worth $14 for the Whole
+Foods supermarket branch just around the corner from us. I jumped at
+the chance, and after two weeks, a voucher card arrived in the mail,
+which I used over three visits because I only buy a few really good
+things like bread at that overpriced store.
+
+<pic images/groupon.ps The Groupon website, which no one visits
+because tailored offers come directly via email.>
+
+Locally specialized coupon websites currently seem so lucrative that
+Yahoo recently offered over two billion dollars and Google supposedly
+later offered three billion dollars for Groupon! For a small discount
+company like Groupon, this is, of course, an absurd amount, but it
+seems we are already in the next internet bubble, where analysts
+determine the value of dubious companies by projecting their annual
+profits over the next decade. Some people never learn.
+
+Regarding the discount: The in
+<RBLINK>990115#7</RBLINK>
+Many companies no longer issue mail-in rebates as checks, as
+previously discussed, but instead send a Visa card. This card then
+has, let's say, $20 on it, but how do you fully redeem it? It's hard
+to plan ahead because, due to odd prices and the sales tax added
+later, you never end up with a round amount. Don't worry: I usually
+buy something for about $25 at Target and tell the cashier to charge
+$20 from the card and that I'll pay the rest in cash. Works
+perfectly.
+
+@Z: Baseball World Champion" San Francisco Giants
+
+<pic images/giants-1.ps In front of the pub, the fans are celebrating
+the San Francisco Giants' victory.>
+
+<em>Angelika</em> 
+I absolutely know nothing about baseball. I have never watched a game
+on TV or in a stadium. At work, I once looked after a five-year-old
+baseball fan who couldn't believe it. Of course, I do know that you
+need a baseball bat and the corresponding ball to play, that there is
+a pitcher and a catcher, and that the players try to reach certain
+platforms ("bases"), but that's about it. I also know that the San
+Francisco Giants are our city team.
+
+<pic images/giants-6.ps Cars honk and fans celebrate.>
+
+In the fall, however, an euphoric mood suddenly spread throughout the
+city, which even I couldn't ignore. Everywhere we saw signs with "Go
+Giants" in the team's orange brand color, and we were constantly
+asked if we were following the Giants' games. The Giants were on the
+verge of winning the so-called "World Series," the championship of
+the two American professional baseball leagues that takes place in
+the fall. The winners of the National League and the American League
+face each other and play a total of seven games in quick succession
+until the winner is determined. It is, of course, somewhat
+presumptuous to speak of a world championship in this context, but
+Americans don't see it that way.
+
+<pic images/giants-9.ps The police stayed away from the neighborhood
+as a precaution, to avoid having to intervene.>
+
+In any case, the San Francisco Giants won the World Series for the
+first time in 56 years, and San Francisco was in an uproar. Not only
+was City Hall lit up in orange, but people were literally dancing in
+the streets. In Noe Valley, our neighborhood, there were honking
+concerts, and flag-waving fans stopped moving cars to congratulate
+the passengers. Even a baseball grouch like me was thrilled.
+
+@Z: Top product: The olive oil sprayer
+
+<pic images/misto-pour.ps First, you pour olive oil from the bottle
+into the Misto.>
+
+<em>Michael</em> 
+Whether on salad, in the pan, or on grilled food: olive oil gives
+dishes a special touch. However, it's important to apply it evenly
+and thinly, as no one wants to consume oily calorie bombs later. I
+recently found the solution at the store Bed Bath & Beyond: a spray
+can called "Misto," into which you pour oil, then use a nozzle to
+manually pump in air pressure, and subsequently produce a fine mist
+at the push of a button that applies the olive oil in a thin layer on
+food.
+
+<pic images/misto-press.ps Then, by pressing the attachment, the
+necessary internal pressure is generated in the Misto container ...>
+
+The ten-dollar part is supposedly from Europe (although I don't
+believe that a product called "Misto" would sell in Germany) and can
+be...
+<LINK>http://www.youtube.com/watch?v=Xh2i5x1OqPU|The translation of
+"Misto-Infomercial auf Youtube" to English is "Mixed infomercial on
+YouTube.</LINK>
+The German word "bewundern" translates to "admire" in English.
+
+<pic images/misto-spray.ps ... that lasts for weeks and creates a
+beautiful olive oil mist upon request.>
+
+In the spray mist, there are naturally no propellants, only 100% pure
+olive oil and air. Once pumped up, the bottle remains ready for use
+for weeks. It may seem a bit strange when the cook handles the spray
+can while preparing tomatoes with mozzarella, but you don't have to
+do that in front of the guests! Top product!
+
+@Z: Clipper Card" is already in English. It is the name of a
+contactless smart card used for public transit fare payment in the
+San Francisco Bay Area.
+
+<pic images/clipper-prospectus.ps Even ancient trams accept modern
+Clipper cards as a means of payment.>
+
+<em>Angelika</em> 
+
+<RBLINK>20051208#4</RBLINK>
+It seems like there might be a mistake or missing text in your
+request. Could you please provide more context or clarify what you
+would like translated?
+
+The public transportation systems in San Francisco have switched to
+an electronic payment system called the "Clipper Card." You can load
+either cash or a monthly pass onto the plastic card. When you use
+public transportation, you simply hold the card up to the card
+reader, and the corresponding fare is deducted from the Clipper Card.
+In the case of a monthly pass, the machine recognizes it as valid and
+opens the gate.
+
+The system is supposed to be so smart that it independently
+calculates discounts or doesn't deduct any money at all because the
+customer only transferred from the bus to the tram within the allowed
+time frame. Passengers can top up the Clipper Card either online or
+at machines, for example, in the subway. Stores like the drugstore
+chain "Walgreens" also offer the Clipper Card for sale.
+
+The Clipper Card is intended to simplify the system, as customers can
+use the card as a means of payment across various transportation
+systems. And it's about time, because until now we needed different
+tickets to use the various systems: for the subway (BART), for buses
+and streetcars (Muni), for the cable car, and for the ferries on the
+San Francisco Bay. However, it will certainly take some time before
+the entire system is converted. The monthly pass for adults is the
+first one that, since November, can only be loaded onto the Clipper
+Card. The other monthly passes are expected to follow at the
+beginning of 2011.
+
+Funnily enough, the whole thing still doesn't work perfectly, as
+usual. It often happens that the card reader malfunctions and doesn't
+recognize that the passenger, for example, has a monthly pass. If the
+bus driver is in a bad mood, they may insist that the passenger pay
+the two dollars for the ride or get off, which is said to have
+already led to tumultuous scenes.
+
+@Z: Amerikanische Semmeln" translates to "American rolls" in English.
+
+<pic images/safeway-bakery-selection.ps Bread rolls at Safeway: First
+row: Dutch Crunch Roll, French Roll, Kaiser Roll. Second row:
+Poppyseed Kaiser Roll, Bagel.>
+
+<em>Michael</em> 
+In the realm of baked goods, the American completely lost touch with
+Europe sometime in the middle of the last century. Instead of normal
+oven-baked loaves, they switched to machine-produced "Wonderbread," a
+rubbery type of toast bread. This unfortunate trend also made its way
+into the realm of rolls, and even if you find a pretzel at a fair,
+its crust is rubbery soft. When an American chews on German bread or
+rolls, they start to complain because the hard crust assaults their
+softened gums in an unfamiliar way.
+
+Twenty years ago, it was almost impossible to find regular bread
+anywhere in America. Nowadays, however, every big city supermarket
+offers more or less decently baked baguette or Italian-inspired
+ciabatta. But beware, if you leave the metropolises and head out to
+the countryside, you're back to rubbery bread that still tastes
+somewhat empty even after extensive toasting and doesn't really fill
+you up.
+
+Large supermarkets like Safeway offer a wide range of bread-like
+items that are sometimes baked several times a day. The so-called
+Kaiser Roll is the most similar to the German "Semmel," but it is
+about twice the size and tastes like a white bread that is about two
+days old. Not bad if you can't find anything else. The elongated
+French Roll resembles a North German "BrÃ¶tchen," but tastes more
+bland and dry. The dough of the Dutch Crunch Roll is the closest to
+that of the German "Semmel," and finely ground crust crumbs stick to
+its top, giving it a fine crustiness. Due to the funny crumb pattern,
+the term "Leopard Roll" became established in our household many
+years ago, and when I go to get rolls on Sundays, it's usually
+Leopard Rolls that end up on the table.
+
+<pic images/safeway-bakery-dutch-crunch.ps A fine honey roll can be
+conjured from a Dutch crunch roll.>
+
+Unlike the German "Semmel," a Kaiser roll, by the way, retains its
+consistency in the bread box for a long time. Recently, I cooked a
+fine goulash soup on Thursday and looked for a "Semmel," but I only
+found a forgotten one from Sunday in the bread box. It tasted
+perfectly fine!
+
+The bagel, on the other hand, is merely a misshapen pretzel. Instead
+of rolling out the dough properly thin and then twisting it into a
+pretzel shape, it is rolled out thick and formed into a ring. As a
+result, when baked, it doesn't become crispy like a pretzel but
+doughy like the thick part of an Oktoberfest pretzel. Machine-made
+bagels (the word derives from "beugen," meaning "to bend") look like
+a brown roll with a hole in the middle. The crust tastes like leather
+rinsed with Lenor. There is really only one form of an enjoyable
+bagel: you cut it in half, spread Philadelphia cream cheese on both
+halves, add salmon with onions, and perhaps capers, and then put the
+two halves back together. This is then called "Bagel with Lox"
+according to Jewish tradition, even though "Lachs" in English is
+actually "salmon.
+
+Here's the translation to English:
+
+"Another tip for good baked goods: As is well known, we often tour
+the wine region of Napa Valley and always stop in Yountville at the
+in-house...
+<LINK>http://www.bouchonbakery.com/showSelections.php?id=15|The
+translation to English is: "Bakery of the French restaurant
+'Bouchon'</LINK>
+..to buy a so-called "Epi" baguette. This white bread costs only
+$2.50 and consists of individual segments that you can tear off with
+your bare hands, spread butter on, and enjoy with a light French red
+wine while engaging in animated discussions and gesturing wildly with
+your hands. By the way, the restaurant serves excellent food. For
+visiting Europeans, this might be less interesting, but if you've
+lived in America for a mere 14 years like we have, and only get
+delicacies like tongue, liver, and blood sausage on your plate every
+leap year, you're happy to spend around 200 dollars at this place for
+appetizers, main courses, desserts, and suitable wines for two people
+from good old Europe.
+
+@Z: Service Desert SZ-Magazin "ServicewÃ¼ste" is a German term used
+to describe a lack of customer service or poor service quality, and
+"SZ-Magazin" refers to the magazine supplement of the German
+newspaper SÃ¼ddeutsche Zeitung.
+
+<pic images/sz12.ps (#10) The SZ shipping department once again fails
+to include the magazine.>
+
+<em>Michael</em> 
+As my preferred reading material for bed and bath, I have been
+reading the SÃ¼ddeutsche Zeitung Magazine, which comes with the
+Friday edition, for decades. With a few exceptions, such as the
+perpetually boring Georg Diez, almost only top journalists write for
+this extremely entertaining magazine. The selection of topics
+continually amazes even the newsletter editorial team, which is not
+exactly lacking in astonishing topic ideas.
+
+<pic images/sz-1.ps The Friday edition of the SZ arrives at our place
+like this.>
+
+Since the magazine cannot be ordered individually, we are quickly
+subscribing to the entire Friday edition. It comes through the
+importer.
+<LINK>http://glpnews.com|GLPnews</LINK>
+A week later, it arrives by mail in San Francisco, and in a ritual
+that has been practiced for years, I open the surrounding plastic
+wrap, take out the 100g light magazine, and immediately throw the
+accompanying pound-heavy newspaper into the trash without reading it.
+
+Imagine this: Forests are being cut down to print a newspaper that is
+flown by plane directly into a recycling bin on the other side of the
+world, just because the SZ subscription service is stuck in the last
+century and can't manage to send me only the magazine. It also seems
+that the subscription department of SZ is made up entirely of
+unionized slackers who fundamentally ignore my emails with the
+attitude of "Not my job!" How is the struggling newspaper industry
+supposed to survive with such a work ethic? Fire them all!
+
+<pic images/sz-2.ps This time the magazine is even included. Hooray!>
+
+Additionally, the SZ delivery service often decides to simply
+withhold the magazine from me. As shown in illustration (#10), the
+newspaper then states that the magazine is "not included with the
+entire foreign edition." The delivery manager doesn't explain why.
+Why should he care about the customers? They should be grateful if
+they receive the newspaper at all. They shouldn't have moved away
+from Germany; if they had stayed in Munich, this problem wouldn't
+exist.
+
+<pic images/sz-3.ps The one-week-old SZ goes straight into the
+recycling without being read.>
+
+Funnily enough, some editions now prominently display a notice about
+the missing magazine, but when you open the newspaper, it's inside.
+You just shake your head. If the magazine is missing again, I write a
+short email to the importer and then simply get my subscription
+extended for free, because that's how it is in America; you don't
+upset the customer over a few dollars. Hopefully, the whimsical SZ
+service will take pity and include the magazine next time. According
+to the importer, you can't talk to the SZ people; they don't listen
+to small importers. Oh well.
+
+@Z: The phrase "Und gut ist" can be translated to English as "And
+that's that" or "And that's it." It is often used to indicate that
+something is settled or concluded.
+
+<pic images/andgoodis.ps The American John Madison criticizes his own
+country after having been in Germany for a long time.>
+
+<em>Angelika</em> 
+Some time ago, Michael recommended to you some interesting and funny
+websites where Americans living in Germany talk about one or another
+amazing phenomenon in everyday German life.
+<RBLINK>20080923#4</RBLINK>
+.
+
+<LINK>http://nothingforungood.com|The phrase "Nothing for Ungood"
+seems to be a play on words or a creative expression rather than a
+direct translation from another language. It appears to be a twist on
+the phrase "Nothing for Good," possibly implying that something is
+not beneficial or not done for a positive purpose. If you have more
+context or a specific language you believe it is translated from,
+please provide that for a more accurate translation.</LINK>
+It was definitely one of our favorites. We have laughed so much at
+the sharp observations of the author John Madison. However, he has
+now moved back to the USA and is reporting in a new blog.
+<LINK>http://www.andgoodis.com|andgoodis.com</LINK>
+The text translates to: "About American customs and traditions, which
+he now sees from a different perspective due to his long stay in
+Germany. If you get bored over the holidays, be sure to read it.
+
+Until the Christmas newsletter in just a few days!
+
+The translation of "Angelika & Michael" to English is "Angelika &
+Michael," as these are proper names and typically do not change when
+translated between languages.
+
