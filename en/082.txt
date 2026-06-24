@@ -302,30 +302,26 @@ I feel it is my duty to point out
 that there are circumstances in which it is better not to use it, no
 matter how funny it might be!
 
-@Z: Botch job On The Bay Bridge
+@Z: Botch Job On The Bay Bridge
 
 <pic images/bbridge-maint.ps During the closure: Only repair vehicles are on the otherwise heavily trafficked Bay Bridge.>
-
-TODO
 
 <em>Angelika</em> 
 Around the San Francisco Peninsula, as is well known, there is water,
 and bridges ensure that drivers can reach various directions without
 too much hassle. Everyone knows the Golden Gate Bridge to the north,
 but nowadays the Bay Bridge, which leads east towards Oakland, is
-also frequently mentioned. A part of this bridge collapsed during the
+also frequently mentioned in the news. A part of this bridge collapsed during the
 earthquake of 1989, 20 years ago. More precisely, a piece of the
 upper deck fell onto the lower deck. Although the bridge was patched
 up at the time, it was clear to everyone that it wouldn't withstand a
 second major earthquake. Since 280,000 cars drive over the bridge
 daily to reach the so-called East Bay area, experts urged that the
 bridge be made earthquake-proof. After years of disputes over the
-payment and design for this major project, which is humorously
-documented in a satirical manner...
-<LINK>http://www.thebridgesofar.com|The Bridge So Far - A Suspense
-Story</LINK>
-The detailed discussion reveals that efforts have been underway for
-over five years to realize the project.
+financing and design for this major project, which is humorously
+documented in a satirical manner
+<LINK>http://www.thebridgesofar.com|The Bridge So Far - A Suspense Story</LINK>,
+there have now been efforts underway for over five years to realize the project.
 
 A heavily used bridge like this cannot simply be closed for several
 years. So the planners decided to gradually construct the new bridge
@@ -347,28 +343,27 @@ the slightly stronger wind was to blame, which, by the way, often
 blows here. Despite the rush hour traffic, there was only one injury,
 but the Bay Bridge was immediately closed to traffic and only
 reopened 6 days later. We didn't experience the traffic chaos that
-followed the closure because we were in Canada at the time. And when
-we were dining in a restaurant and a guest noticed that we were from
+followed the closure because we were traveling in Canada at the time. But when
+we were dining at a restaurant and a guest noticed that we were from
 San Francisco, he just dryly remarked that we should be glad to be in
 Canada and not at home. The newly conducted repair work is also
 supposed to be just another temporary solution. Ah!!!
 
-@Z: Top product: Barbecue chips
+@Z: Top Product: Barbecue Chips
 
 <pic images/lays.ps Barbecue potato chips by Lays>
 
 <em>Angelika</em> 
 Anyone who has known me for a while knows that, besides Bahlsen
-peanut flips, I am an absolute fan of potato chips. I just casually
-mention here that for my 30th birthday, I received a garland made of
+peanut flips, I am an absolute fan of potato chips. I'll just casually
+mention here that for my 30th birthday, I had received a garland made of
 30 bags of potato chips. That says it all, doesn't it? However, I am
 also known for being a bit picky about quality, so I only like
 certain kinds, because not all potato chips are the same. In Germany,
 only those from Funny Frisch made it to the table. By the way, I've
 already passed quite a few blind tests.
 
-<pic images/trader.ps The slightly greasier Hawaiian-style BBQ chips
-from Trader Joe's>
+<pic images/trader.ps The slightly greasier Hawaiian-style BBQ chips from Trader Joe's>
 
 In America, there is, of course, a huge variety of potato chips.
 After years of trying different kinds, my favorites have emerged as
@@ -382,12 +377,9 @@ super seasoned but also incredibly crispy. Lay's Barbecue Chips come
 in second place. The chips are thinner than those from Trader Joe's
 but are also characterized by a finely spiced note.
 
-@Z: The translation of "Fragezeichen und andere KuriositÃ¤ten" to
-English is "Question Marks and Other Curiosities.
+@Z: Question Marks And Other Curiosities
 
-<pic images/qm.ps Above: On the left, a European question mark; on
-the right, an American question mark. Below: On the left, Angelika's
-large printed letter "I"; on the right, the American version.>
+<pic images/qm.ps Above: On the left, a European question mark; on the right, an American question mark. Below: On the left, Angelika's large printed letter "I"; on the right, the American version.>
 
 <em>Angelika</em> 
 Despite having lived here for almost 13 years, we still occasionally
@@ -397,6 +389,8 @@ We've been playing the so-called guessing game for some time now, and
 since we make symbol cards for everything, I made one with a question
 mark on it. However, when I showed the card to my colleague, she
 innocently asked if I always drew such funny question marks.
+
+TODO
 
 I didn't understand it at first, because for as long as I can
 remember, my question mark has looked like a mirrored capital "S"
