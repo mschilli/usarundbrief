@@ -46,96 +46,85 @@ clothes, even though I always use very little detergent.
 
 <pic images/toploader.ps A top-loading washing machine in a laundromat.>
 
-TODO
-
-Recently, we even have front-loading washing machines, which at least
+Recently, we even got front-loading washing machines in the building, which at least
 offer the advantage that detergent residues no longer end up on dark
 clothing, as was often the case with the top-loading machines we had
-before, which are loaded from the top, because the detergent is added
-directly into the drum with these machines. The washing expert, of
+before. Detergent is added
+directly into the drum with our machines. The washing expert, of
 course, starts a top-loader without detergent, then bravely opens the
 hatch of the running machine after two minutes when the water is high
 in the drum, and only then adds the detergent.
 
-Now I can live with a few stains, but recently our good, cozy terry
+Now I can live with a few stains, but recently our good, cozy fluffy
 towels have also started to smell musty. When they came out of the
 dryer, they still smelled freshly washed, but after just one use,
-they emitted a nasty sour smell like a wet poodle.
+they emitted a nasty sour smell, like that of a wet poodle.
 
-<pic images/distilled-vinegar.ps White distilled vinegar: the
-arch-enemy of musty towels.>
+<pic images/distilled-vinegar.ps White distilled vinegar: the arch-enemy of musty towels.>
 
 We didn't want to part with the towels, so I went online to look for
-a solution. And lo and behold, musty towels seem to be a common
+solutions. And lo and behold, musty towels seem to be a common
 problem here in the USA. According to my research, the smell is
-caused by bacteria that aren't killed during washing. I already
-mentioned that American machines don't wash hot enough! The internet
-experts advised adding two cups of distilled white vinegar, which can
-be bought in supermarkets, to the detergent compartment during
-washing. And, lo and behold, problem solved, the towels smell nice
+caused by bacteria that aren't killed during washing. I have already
+mentioned that American machines aren't washing hot enough! Internet
+experts advised adding two cups of distilled white vinegar to the wash cycle.
+It can be bought in supermarkets, in the detergent compartment.
+And, lo and behold, problem solved, the towels smell nice
 and fresh even after repeated use. By the way, the packaging of the
 distilled vinegar states that Americans also use it for coloring
 Easter eggs. A top product and dirt cheap to boot.
 
-@Z: The Americans don't want my blood.
+@Z: Americans Don't Want My Blood
 
-<pic images/blood-donation.ps In itself a good thing: blood
-donation.>
+<pic images/blood-donation.ps In itself a good thing: blood donation.>
 
 <em>Michael</em> 
 Every now and then, the American version of the Red Cross shows up at
 our workplace and organizes blood donation drives. It's quite a
-useful thing; it goes quickly and painlessly. After all, one would be
+useful thing; you can donate quickly and painlessly. After all, one would be
 grateful if they ever had an accident and needed a quick transfusion!
 
-It's been quite some time since my last blood donation. Back then, as
-a conscript in the Bundeswehr barracks in Murnau, you were actually
-allowed to take the whole afternoon off and, on top of that, you were
-given a day off if you donated a bag of blood. Naturally, I was at
-the front of the line, shouting "Hooray.
+It's been quite some time since my last blood donation. Back then, as a
+conscript in the German Army "Bundeswehr" barracks of Murnau, you were actually
+allowed to take the whole afternoon off if you donated, and, on top of that,
+you were given a day off!. Naturally, I was at the front lines, shouting
+"Hooray!", and donating generously.
 
 Recently, I thought it would actually be a pretty good idea to help
 fill the local blood banks, but I was set straight. It's hard to
-believe, but the Red Cross here doesn't accept just anyone's blood,
+believe, but the Red Cross here in the U.S. won't accept just anyone's blood,
 especially not from people who grew up in Central Europe in the 80s.
-According to the...
-<LINK>http://www.redcrossblood.org/donating-blood/eligibility-require
-ments/eligibility-criteria-alphabetical-listing|Checklist for Blood
-Donations</LINK>
-The American Red Cross does not accept blood from people who have
+According to the <LINK>http://www.redcrossblood.org/donating-blood/eligibility-requirements/eligibility-criteria-alphabetical-listing|Checklist for Blood Donations</LINK>,
+the American Red Cross does not accept blood from people who have
 spent more than five years in a European country between 1980 and
 today. The reason: mad cow disease.
 
-<pic images/cow.ps The German cows are to blame for the fact that I
-am not allowed to donate blood.>
+<pic images/cow.ps The German cows are to blame for the fact that I am not allowed to donate blood.>
 
 Certainly a hard blow, but travelers in malaria regions (within the
 last 12 months), Iraq (12 months), tattooed individuals (12 months,
 in a U.S. state that does not have strict tattoo regulations), or
-homosexuals (if active since 1977, before that is okay) face the same
+homosexuals (if active since 1977, before that, it's okay?) face the same
 situation. At first, I thought, "My God, these Americans," but
-also...
-<LINK>http://www.sueddeutsche.de/politik/779/459421/text|In Germany,
-gay men are not allowed to donate blood.</LINK>
-The translation of the text to English is:
-
-"Well, considering that in San Francisco, according to my personal
+also <LINK>http://www.sueddeutsche.de/politik/779/459421/text|In Germany, gay men are not allowed to donate blood.</LINK>.
+Okay, so, considering that in San Francisco, according to my personal
 estimates, surely 30% of the population are gay and lesbian, one
-wonders if the blood banks there are adequately stocked at all!
+wonders if the blood banks there are adequately stocked at all?
 Heaven forbid there is a shortage if I ever need a transfusion!
 
 @Z: Crazy California Traffic Rules
 
-<pic images/mustang.ps Our rocket would undoubtedly "smoke" that
-ridiculous American piece of junk in a speed contest...>
+<pic images/mustang.ps Our Integra "rocket" would undoubtedly "smoke" that ridiculous American piece of junk in a speed contest...>
 
 <em>Michael</em> 
-Due to the great success of the traffic section at the end of last
+Due to the great success of the traffic section in the newsletter at the end of last
 year, I am now presenting a special edition on absurd Californian
 traffic regulations. For example, according to the Californian
-traffic code, it is prohibited to let the tires screech excessively
-loudly when starting off. This so-called "Exhibition of Speed" is
-punished with hefty fines and license suspension.
+traffic code, it is prohibited to let the tires be screeching excessively
+loud during acceleration. This so-called "Exhibition of Speed" is
+punished with hefty fines and can be punished by suspending your driver's license.
+
+TODO
 
 Translation: It is strictly forbidden to race on public roads. In the
 popular games "Which car accelerates the fastest from the traffic
