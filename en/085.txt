@@ -342,8 +342,6 @@ converted to -21 degrees Celsius.
 
 <pic images/alaska-chena-ice-hair.ps Ice crystals form on the tips of your hair while sitting in a 41-degree hot pool at -25 degrees Celsius.>
 
-TODO
-
 <em>Angelika</em> 
 In Alaska, there is not only permafrost but also the occasional
 active volcano. Therefore, it is not surprising that hot water also
@@ -353,24 +351,20 @@ leisurely dip. Conveniently, the springs are easily accessible by car
 via a country road, which was even well-cleared in winter. In 1905,
 two gold prospectors discovered the springs, and soon the hot water
 was used for tourist purposes. Back in the day, the journey to the
-springs naturally took a bit longer. Nowadays, it offers...
-<LINK>http://www.chenahotsprings.com|Chena Hot Springs" is already in
-English. It refers to a popular geothermal hot springs resort located
-in Alaska, USA.</LINK>
-In addition to the bathing fun, there are various accommodation
+springs naturally took a bit longer. Nowadays, in
+<LINK>http://www.chenahotsprings.com|Chena Hot Springs</LINK>,
+in addition to the bathing fun, there are various accommodation
 options and a restaurant. However, everything still has the rustic
 charm of Alaska. It is by no means a chic, modern wellness center.
 
-<pic images/alaska-pleasant-valley-hardware.ps On the way to Chena:
-DIY store for cabin enthusiasts and forest hermits.>
+<pic images/alaska-pleasant-valley-hardware.ps On the way to Chena: DIY store for cabin enthusiasts and forest hermits.>
 
 We set off from Fairbanks with the rental car to spend a day at Chena
 Hot Springs. However, it took us forever to cover the 90 kilometers
 because we had to stop constantly to take photos, as there was a lot
 of beautiful scenery to see.
 
-<pic images/alaska-moose.ps A moose makes its way through the forest
-in sub-zero temperatures.>
+<pic images/alaska-moose.ps A moose makes its way through the forest in sub-zero temperatures.>
 
 We also discovered moose by the roadside. How these huge creatures
 survive the winter in Alaska remained a mystery to us, as we only
@@ -392,12 +386,10 @@ the way to Chena Hot Springs. One night, his car broke down in the
 freezing cold on the way there. He weighed his options and then
 decided to leave his car and run home to avoid freezing to death.
 
-<pic images/alaska-chena-pool.ps Japanese tourists are outraged while
-the newsletter reporter sprawls in the pool like a full-blooded
-American.>
+<pic images/alaska-chena-pool.ps Japanese tourists are outraged while the newsletter reporter sprawls in the pool like a full-blooded American.>
 
 Upon arriving at Chena Hot Springs, we plugged our car into the
-warming outlet (see below) and, bundled up warmly, made our way to
+engine heating outlet (see below) and, bundled up warmly, and made our way to
 the bathing area and the hot springs. We paid $10 per person for our
 day pass and bravely changed into our swimsuits in the changing
 rooms, which reminded me of school days and swimming lessons in
@@ -405,27 +397,27 @@ indoor pools.
 
 First, we then entered the indoor area with an ordinary swimming
 pool, but the highlight at Chena Hot Springs is the outdoor pool with
-41 degrees Celsius warm thermal water. However, to reach it, we had
+105F warm thermal water. However, to reach it, we had
 to venture out into the cold in our swimwear. Admittedly, the path
 through the open air to the hot water was perhaps 30 meters long, but
-at -25 degrees Celsius, it takes quite some determination, especially
+at -13F outside temperature, it takes quite some determination, especially
 when your swimwear is wet on the way back. The hot water, of course,
 immediately compensates for that. While relaxing in the water, an
 amusing phenomenon occurred. The steam dampened our hair, and the
 cold formed pretty ice crystals in the damp hair.
 
-@Z: The oil pipeline from Prudhoe Bay to Valdez
+@Z: The Oil Pipeline From Prudhoe Bay To Valdez
 
-<pic images/alaska-pipeline.ps The 1200 km long Alaska oil pipeline
-passes by Fairbanks. To the left, it's 450 miles to Prudhoe Bay, and
-to the right, it's 350 miles to Valdez.>
+<pic images/alaska-pipeline.ps The 1200 km long Alaska oil pipeline passes by Fairbanks. To the left, it's 450 miles to Prudhoe Bay, and to the right, it's 350 miles to Valdez.>
 
 <em>Angelika</em> 
 Alaska is not only blessed with natural beauty but also rich in
-mineral resources. The discovery of oil in Prudhoe Bay at the end of
+mineral resources. The discovery of oil in Prudhoe Bay by the end of
 the 1960s brought the state an unexpected windfall and supports its
 finances to this day. However, some environmental sins have also been
 committed.
+
+TODO
 
 One of the most controversial projects is considered to be the
 construction of the Alaska Pipeline, the approximately
