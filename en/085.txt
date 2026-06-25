@@ -417,8 +417,6 @@ the 1960s brought the state an unexpected windfall and supports its
 finances to this day. However, some environmental sins have also been
 committed.
 
-TODO
-
 One of the most controversial projects is considered to be the
 construction of the Alaska Pipeline, the approximately
 1,280-kilometer-long oil pipeline that runs from the mostly frozen
@@ -428,8 +426,7 @@ engineering, as it not only crosses several mountain ranges and
 rivers but also stands mostly on the widespread permafrost ground in
 Alaska, which remains frozen both in summer and winter.
 
-<pic images/alaska-ice.ps On bare ice: Angelika slips while getting
-out of the rental car.>
+<pic images/alaska-ice.ps On bare ice: Angelika slips while getting out of the rental car.>
 
 On the other hand, the pipeline has always been a thorn in the side
 of environmentalists and the native Indians. Environmentalists were
@@ -441,7 +438,7 @@ of the caribou herds, as they believed that the pipeline would, for
 example, shorten their traditional migration routes and thus make
 hunting the caribou easier.
 
-The Native Americans complained that the pipeline ran for long
+Native Americans complained that the pipeline ran for long
 stretches over territories that rightfully belonged to them and
 demanded compensation. After years of negotiations, President Nixon
 finally signed the "Alaska Native Claims Settlement Act" in 1971 to
@@ -449,8 +446,7 @@ settle the dispute. The Native Americans ("Native Alaskans") received
 approximately 963 million dollars and 180,000 square kilometers of
 land, and in return, they allowed the construction of the pipeline.
 
-<pic images/alaska-pipeline-pig.ps A so-called pipeline pig travels
-through the pipeline and checks if everything is still functioning.>
+<pic images/alaska-pipeline-pig.ps A so-called pipeline pig travels through the pipeline and checks if everything is still functioning.>
 
 Politically, the oil crisis of 1973 helped to push through the
 construction of the pipeline. The groundbreaking took place in March
@@ -458,7 +454,7 @@ construction of the pipeline. The groundbreaking took place in March
 just over two years. The project brought about a gold rush
 atmosphere. Cities like Fairbanks and Valdez experienced not only a
 significant population increase but also steep price hikes,
-especially for houses and land. The wages of the construction workers
+especially for houses and land. Wages of construction workers
 were above average due to the harsh conditions, which led to an
 increase in wage levels in other industries as well.
 
@@ -467,14 +463,12 @@ completely eliminated the state income tax and sales tax in Alaska.
 Alaska receives enough money from the oil industry to forgo these
 taxes, which are common in many other states. Additionally, every
 resident of Alaska receives an annual dividend from the Alaska
-Permanent Fund each October.
-<RBLINK>20060529#6</RBLINK>
+Permanent Fund each October (<RBLINK>20060529#6</RBLINK>).
 The only question is what will happen when the oil sources run dry,
 because production has already been reduced and will steadily decline
 over the next 10 years.
 
-<pic images/alaska-permafrost.ps In the permafrost, the houses are
-built on stilts.>
+<pic images/alaska-permafrost.ps In the permafrost, the houses are built on stilts.>
 
 Due to the permafrost, the pipeline runs largely above ground, as
 permafrost is not only as hard as concrete, making it somewhat
@@ -490,59 +484,43 @@ conveniently along the freeway. Despite the constant fear in Alaska
 that some lunatics might blow up the pipeline, everything was freely
 accessible and there was not a person in sight.
 
-@Z: Engine warmer for cold climates
+@Z: Engine Warmer For Cold Climates
 
-<pic images/alaska-car-plugin.ps The plugin: A cable is sticking out
-of the radiator hood ...>
+<pic images/alaska-car-plugin.ps The plugin: A cable is sticking out of the radiator hood ...>
 
 <em>Michael</em> 
-At temperatures below minus 20 degrees, a cold engine often has
+At temperatures below minus 20 degrees celsius (0F), a cold engine often has
 trouble starting, and that's why in Alaska, a power cable from a
 so-called "plugin" sticks out of the car's hood. This cable leads to
 a heating element in the engine compartment, which keeps the
 vehicle's radiator nice and warm. If the car also has a fairly new
-battery, it will start even at minus 50 degrees.
+battery, it will start instantly, even at minus 50 degrees.
 
-<pic images/alaska-car-extension.ps ... which you connect to a power
-outlet with an extension cord ...>
+<pic images/alaska-car-extension.ps ... which you connect to a power outlet with an extension cord ...>
 
-The driver plugs the connector into a regular power outlet using an
+Car owners plug the connector into a regular power outlet using an
 extension cord that is carried along. The flexible insulation of the
 cable can withstand even the lowest temperatures without breaking,
 and the car rental company charges a $35 penalty fee if it is
 misplaced.
 
-<pic images/alaska-car-running.ps ... but the Alaskan often just
-leaves the engine running while he shops in the supermarket.>
+<pic images/alaska-car-running.ps ... but Alaskans often just leaves the engine running while he shops in the supermarket.>
 
-However, not every parking lot offers power outlets. When we were
+However, not every parking lot offers the required power outlets. When we were
 shopping at the "Fred Meyers" supermarket on a cold evening, about
 one-fifth of the customers simply left their engines running during
-their shopping trip. In the book...
-<LINK>http://www.amazon.com/dp/1570614849|Real Alaskan Living</LINK>
-The joke goes that you can recognize a true Alaskan by the fact that
-they don't turn off their car engine for the entire month of January!
+their shopping trip. In the book
+<LINK>http://www.amazon.com/dp/1570614849|Real Alaskan Living</LINK>,
+the joke goes that you can recognize a true Alaskan by the fact that
+they don't turn off their car engine during the entire month of January!
 
 In the same book, it says that you should never admit that you have
 only recently been living in Alaska, because then the seasoned, tough
 guys will call you a Cheechako (pronounced "chee-chacko," with the
 emphasis on "chack"), which means a newcomer or greenhorn. The word
-is from the...
-<LINK>http://en.wikipedia.org/wiki/Chinook_Jargon|Chinook Jargon is a
-pidgin trade language that originated in the Pacific Northwest region
-of North America. It was used as a lingua franca among various
-Indigenous peoples, European settlers, and traders. Here are some
-common Chinook Jargon words and their English translations:
-
-- **Klahowya**: Hello - **Tenas**: Small or child - **Hyas**: Big or
-very - **Muckamuck**: Food or to eat - **Tyee**: Chief or leader -
-**Iktus**: Thing or object - **Halo**: No or none - **Kloshe**: Good
-or well - **Lemolo**: Wild or crazy - **Tillicum**: Friend or people
-
-If you have a specific phrase or word in Chinook Jargon that you
-would like translated into English, please provide it, and I will do
-my best to help.</LINK>
-The term is borrowed from a linguistic mishmash that emerged in the
+is from the
+<LINK>http://en.wikipedia.org/wiki/Chinook_Jargon|Chinook Jargon</LINK>,
+and the term is borrowed from a linguistic mishmash that emerged in the
 early 19th century in the northwest of what is now the USA, which the
 first settlers used to communicate with the indigenous Native
 Americans living there at the time.
@@ -550,7 +528,4 @@ Americans living there at the time.
 Goodbye, until the next newsletter, or "klahowya" ("kla-hau-ja"), as
 it's called in Chinook English!
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
