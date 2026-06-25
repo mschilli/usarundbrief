@@ -50,50 +50,45 @@ watching!
 
 <pic images/alaska-train-door.ps The newsletter reporter boards the Polar Express.>
 
-TODO
-
 <em>Angelika</em> 
 Train travel in America is known to be less suitable for getting from
 point A to point B as quickly as possible, since the infrastructure
 is built around cars and, for longer distances, airplanes. High-speed
-trains like the ICE or the Japanese Shinkansen are nowhere to be
+trains like Germany's ICE or the Japanese Shinkansen are nowhere to be
 found in the USA. Instead, train travel here is enveloped in an aura
 of nostalgia. We therefore decided to take the train from Anchorage
 to Fairbanks. The train route is considered one of the most beautiful
 in Alaska, as the train passes by Denali National Park as a bonus. In
 the depths of Alaska's winter, it runs only once a week and takes a
-leisurely 12 hours to cover the 580 km.
+leisurely 12 hours to cover the 580 kms.
 
-<pic images/alaska-train-tickets.ps At the ticket counter, things are
-moving along leisurely.>
+<pic images/alaska-train-tickets.ps At the ticket counter, things are moving along leisurely.>
 
 In summer, by the way, it takes just as long. At first, I was a bit
-skeptical about whether the train would always run reliably, because
+skeptical about whether the train would be running reliably, because
 Alaska has harsh winters, but the friendly lady from Alaska Railroad
 assured me over the phone that in the four winters she has been
-working for the railway company, the service was only canceled once
+working for the railway company, the service had been only canceled once
 due to bad weather. The train is pulled by robust diesel locomotives,
 which are not easily affected by a bit of snow and cold.
 
-In Anchorage, we rented a hotel near the train station the night
+In Anchorage, we checked into a hotel near the train station the night
 before so that we could walk to the train the next morning. However,
 this turned out to be more difficult than expected, as apparently no
 one in Alaska considers it necessary to clear the streets and
-sidewalks. As a result, our rolling luggage occasionally got stuck in
+sidewalks of snow. As a result, our rolling luggage occasionally got stuck in
 the snow. We also had to arrive at the station an hour before
-departure to receive our seat reservations and check in our luggage.
+departure, to be granted our seat reservations, and check in our luggage.
 
-<pic images/alaska-train-baggage.ps The luggage is placed in
-containers, which a railway employee brings to the train with a
-forklift.>
+<pic images/alaska-train-baggage.ps The luggage is placed in containers, which a railway employee brings to the train with a forklift.>
 
-The luggage is placed in a separate luggage car and is not
-distributed in luggage racks above the seats. We were quite surprised
-by how many people intended to board the train. The group was a
+The luggage is placed in a separate luggage car on the train and is not
+put on luggage racks above the seats. We were quite surprised
+by how many people were waiting to board the train. The group was a
 colorful mix: tourists and locals. Incidentally, residents of Alaska
 receive a 20% discount when they use the Alaska Railroad. Many hotels
 also offer Alaskans discounts, an interesting practice in an
-otherwise capitalistic America. We particularly noticed the high
+otherwise capitalistic America. We particularly noticed a high
 number of Japanese tourists, but Alaska in winter is a popular
 honeymoon destination for Japanese people. This might surprise you,
 but newlyweds come to see the Northern Lights. According to a
@@ -102,9 +97,9 @@ particularly successful in life. And Fairbanks, the final stop of the
 train, is considered the Mecca of the Northern Lights. More on that
 later.
 
-<pic images/alaska-train-conductor.ps The conductor explains the
-procedure to people who have never traveled by train before and
-cracks funny jokes.>
+<pic images/alaska-train-conductor.ps The conductor explains the procedure to people who have never traveled by train before and cracks funny jokes.>
+
+TODO
 
 In the waiting hall of the station, the conductor, who introduced
 himself as "Steve," greeted all the train passengers. The veteran
