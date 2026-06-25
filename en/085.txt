@@ -318,8 +318,6 @@ disembarking. At 70 degrees, a T-shirt is sufficient, and at 110
 degrees, one hopes that the booked hotel has a well-functioning air
 conditioning system.
 
-TODO
-
 That's about it. I usually set the oven to 350 degrees without
 knowing how hot that actually is. And when I read in the travel guide
 that on cold winter days in Alaska it can get as low as minus (!) 50
@@ -330,9 +328,7 @@ constant; you also have to subtract an offset. Roughly speaking, you
 subtract 30 from the Fahrenheit value and then divide the result by
 two.
 
-<pic images/celsius-fahrenheit.ps (#2) 0 degrees Celsius correspond
-to (plus!) 32 degrees Fahrenheit. At -40 degrees Fahrenheit, the two
-scales intersect.>
+<pic images/celsius-fahrenheit.ps (#2) 0 degrees Celsius correspond to (plus!) 32 degrees Fahrenheit. At -40 degrees Fahrenheit, the two scales intersect.>
 
 When looking at the graph in Figure (#2), some striking points appear
 that one might not have expected. For example, would you have known
@@ -342,12 +338,11 @@ which we took one evening in Fairbanks as we trudged through the snow
 on uncleared sidewalks in our moon boots to the restaurant, can be
 converted to -21 degrees Celsius.
 
-@Z: Chena Hot Springs" is already in English. It refers to a popular
-geothermal hot springs resort located in Alaska, USA.
+@Z: Chena Hot Springs
 
-<pic images/alaska-chena-ice-hair.ps Ice crystals form on the tips of
-your hair while sitting in a 41-degree hot pool at -25 degrees
-Celsius.>
+<pic images/alaska-chena-ice-hair.ps Ice crystals form on the tips of your hair while sitting in a 41-degree hot pool at -25 degrees Celsius.>
+
+TODO
 
 <em>Angelika</em> 
 In Alaska, there is not only permafrost but also the occasional
