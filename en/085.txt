@@ -257,10 +257,8 @@ from horizon to horizon. This is known as the Northern Lights, or
 "Aurora Borealis," a term even recognized by Americans who are not
 typically fond of Latin.
 
-TODO
-
-As one learns in a film screening at the Museum of the University of
-Alaska in Fairbanks, and can also read in relevant specialized books,
+As one learns in a movie screening at the Museum of the University of
+Alaska in Fairbanks, and one can also read in relevant specialized books,
 the phenomenon has quite complex physical causes: It is an electrical
 discharge in the atmosphere, about 150 km above the Earth's surface.
 The energy required for this is provided by elementary particles from
@@ -268,35 +266,32 @@ the so-called solar wind, a stream of particles emanating from the
 sun's surface. When it reaches the Earth's atmosphere, the Earth's
 magnetic field deflects it at the magnetic pole, creating playful
 patterns. The solar wind intensifies noticeably after observable
-eruptions on the sun's surface and arrives here 2-4 days later.
+eruptions on the sun's surface and will arrive here 2-4 days later.
 
 So that people know what to expect, the University of Alaska in
-Fairbanks provides a...
-<LINK>http://www.gedds.alaska.edu/AuroraForecast/|Northern Lights
-forecast on the internet</LINK>
-Ready. This way, the unsuspecting tourist can read on a scale from 0
-to 10 what to expect. Unfortunately, during our visit, the values
+Fairbanks provides a
+<LINK>http://www.gedds.alaska.edu/AuroraForecast/|Northern Lights forecast on the internet</LINK>.
+This way, the unsuspecting tourist can read on a scale from 0
+to 10 on how likely it is they'll see northern lights.
+Unfortunately, during our visit, the measurements
 fluctuated only between 0 and 1, and the landlord of the
 bed-and-breakfast accommodation informed us that these were the
 lowest values in years, if not decades!
 
-<pic images/alaska-aurora-forecast.ps The northern lights forecast
-for tomorrow: Cancelled due to isn't!>
+<pic images/alaska-aurora-forecast.ps The northern lights forecast for tomorrow: Cancelled due to ... it isn't!>
 
 One night, however, I actually got up at four in the morning, dressed
 warmly because of the -25 degrees outside, and even threw on a
-so-called...
-<LINK>http://www.rei.com/search?query=balaclava|Balaclava</LINK>
-A face mask previously purchased at the mountaineering store for
-polar expeditions and bank robberies, and with thick down mittens on
+so-called <LINK>http://www.rei.com/search?query=balaclava|Balaclava</LINK>,
+a face mask previously purchased at the mountaineering store for
+polar expeditions and bank robberies. With thick down mittens on
 my hands, I set up a tripod outside. The camera, equipped with a
 fish-eye lens, was pointed in the direction of the expected northern
 lights, and I initiated a 30-second exposure. As you can see in
 Figure (#1), there was absolutely no activity in the sky! Grumbling,
 I trudged back to bed.
 
-<pic images/alaska-night-sky.ps (#1) The translation to English is:
-"Conspicuous by its absence: The Northern Lights.>
+<pic images/alaska-night-sky.ps (#1) Conspicuous by its absence: The Northern Lights.>
 
 On the second to last evening of our trip, back in Anchorage, we
 observed a greenish glow as we looked towards Fairbanks from the
@@ -308,21 +303,22 @@ to capture a proper photo!
 
 @Z: Celsius and Fahrenheit
 
-<pic images/alaska-temperature.ps (#3) -6 degrees Fahrenheit: -21
-degrees Celsius.>
+<pic images/alaska-temperature.ps (#3) -6 degrees Fahrenheit: -21 degrees Celsius.>
 
 <em>Michael</em> 
 Even after 13 years in America, I still can't make sense of the
 Fahrenheit scale for temperatures. Well, by now I know that a
 thermometer shows a body temperature of 100 degrees Fahrenheit for a
-healthy patient and that on an arctic cold winter day in Alaska, it's
+healthy patient, and that on an arctic cold winter day in Alaska, it's
 0 degrees Fahrenheit.
 
-The pilot announces that the weather service at the destination
-reports 50 degrees Fahrenheit, so I put on my fleece jacket before
+If the pilot announces that the weather service at the destination
+reports 50 degrees Fahrenheit, I put on my fleece jacket before
 disembarking. At 70 degrees, a T-shirt is sufficient, and at 110
 degrees, one hopes that the booked hotel has a well-functioning air
 conditioning system.
+
+TODO
 
 That's about it. I usually set the oven to 350 degrees without
 knowing how hot that actually is. And when I read in the travel guide
