@@ -10,17 +10,14 @@ We are often asked here what we miss from Germany, and when I answer
 I am met with incomprehensible laughter. But unfortunately, it's the
 sad truth: American washing machines are junk.
 
-TODO
-
-Before I receive angry letters again, I just want to point out that I
+Before I'll receive angry letters, I just want to point out that I
 am not fanatically attached to German products. For example, we have
 been driving Japanese cars for many years. Additionally, surveys
 among German friends who also live in the USA confirm my
 observations. American washing machines simply do not wash hot and
 long enough to get the laundry clean.
 
-<pic images/laundromat.ps Angelika stuffs the laundry into the
-coin-operated washing machines of our apartment building.>
+<pic images/laundromat.ps Angelika stuffs the laundry into the coin-operated washing machines of our apartment building.>
 
 That may sound more environmentally friendly, but usually, every
 stain needs to be pre-treated, or chemical agents like bleach are
@@ -32,16 +29,14 @@ clothes collection.
 Even when using detergent without bleach, mysterious pink stains
 often appear on colored laundry after washing. At first, we thought
 this happened at the laundromat when the previous user had
-excessively poured in bleach, but also...
-<LINK>http://www.thriftyfun.com/tf27676665.tip.html|In internet
-forums, people are wondering about bleach spots.</LINK>
+excessively poured in bleach, but also
+<LINK>http://www.thriftyfun.com/tf27676665.tip.html|people are wondering about bleach spots in internet forums</LINK>.
 Latest scientific findings: Whitening toothpaste, liquid soap, and
 acne creams also contain bleaching agents, and if you don't wash your
-hands thoroughly and then dry them on a towel, the color can fade
-there.
+hands thoroughly before drying them on a towel, the agent can
+cause color fades there.
 
-<pic images/towel.ps The beautiful Joop towel unfortunately got a
-bleach stain.>
+<pic images/towel.ps Our beautiful Joop towel unfortunately got a bleach stain.>
 
 Although we have brand new communal washing machines in the building,
 they only take a good 35 minutes for a full wash cycle, including
@@ -49,8 +44,9 @@ rinsing and spinning. When I take the laundry out of the machine, it
 often still feels sticky, as if half of the detergent is still in the
 clothes, even though I always use very little detergent.
 
-<pic images/toploader.ps A top-loading washing machine in a
-laundromat.>
+<pic images/toploader.ps A top-loading washing machine in a laundromat.>
+
+TODO
 
 Recently, we even have front-loading washing machines, which at least
 offer the advantage that detergent residues no longer end up on dark
