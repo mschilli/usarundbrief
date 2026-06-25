@@ -214,47 +214,40 @@ time. However, snowmen or snowballs cannot be made from it.
 
 <pic images/alaska-outfit.ps With this outfit, Michael reveals himself as a tourist, but even at minus 25 degrees, the three-layer high-tech material keeps him comfortably warm.>
 
-TODO
-
 <em>Michael</em> 
 Native Alaskans would never wear a Gore-Tex jacket; instead, they
 consistently dress in what I call the construction site look. They
-prefer to order from online retailers.
-<LINK>http://www.carhartt.com|Carhartt</LINK>
-The work clothing for the various professional branches in the
-fishing, oil platform welding, and truck driving industries is being
-shipped.
+prefer to order from online retailers like
+<LINK>http://www.carhartt.com|Carhartt</LINK>,
+offering work clothing for the various professional branches in the
+fishing, oil platform welding, and truck driving industries.
 
 When the clothes are completely worn out after 20 years and hang on
-the body like rags, they are suitable for Alaskans. They would never
+the body like rags, only then, they are suitable for Alaskans. They would never
 go out on the street in a space-age manufactured, breathable,
 possibly brightly colored garment, especially not in matching
 outfits.
 
-<pic images/isp-carpenters.ps Similar to these two trendsetters, the
-fashion-conscious Alaskan orders his clothes from the Carhartt
-catalog.>
+<pic images/isp-carpenters.ps Similar to these two trendsetters, the fashion-conscious Alaskan orders his clothes from the Carhartt catalog.>
 
 When we were strolling along the sidewalk in Anchorage one evening,
 bundled up against the freezing cold, a dented pickup truck actually
 slowed down, and the passenger rolled down the window and shouted
-that we were so pretty he just had to take a picture! And once, while
+that we were so pretty he just had to take a picture! Also, once, while
 I was standing in the parking lot waiting for a taxi in my space
 boots, which are rated for temperatures as low as minus 40 degrees, a
 military-looking guy got out of his Jeep and slowly looked me up and
 down. His gaze lingered on my shoes for several seconds. He probably
-thought I really did come from the moon.
+thought I really was visiting from outer space.
 
 Call me Nostradamus. I hereby predict that European men will soon
-also take a liking to construction site fashion. Carhartt, the new Ed
+also take a liking to construction site fashion, like Alaskans. Carhartt, the new Ed
 Hardy! Soon, men dressed as construction workers will storm the
 trendiest clubs in the big cities. The old chic brands are dead!
 
-@Z: The Northern Lights
+@Z: Northern Lights
 
-<pic images/northern-lights-book.ps The translation of the German
-phrase is: "Specialist book on the topic of the Northern Lights: 'The
-Northern Lights' by Syun-Ichi Akasofu.>
+<pic images/northern-lights-book.ps Book on the topic of the Northern Lights: 'The Northern Lights' by Syun-Ichi Akasofu.>
 
 <em>Michael</em> 
 In areas near or north of the Arctic Circle, a strange celestial
@@ -263,6 +256,8 @@ seems to dance in astonishing movements, sometimes covering the sky
 from horizon to horizon. This is known as the Northern Lights, or
 "Aurora Borealis," a term even recognized by Americans who are not
 typically fond of Latin.
+
+TODO
 
 As one learns in a film screening at the Museum of the University of
 Alaska in Fairbanks, and can also read in relevant specialized books,
