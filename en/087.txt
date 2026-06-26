@@ -256,19 +256,16 @@ the Unix guru with a bushy beard flicks a 5-cent-coin to the obviously
 Microsoft-obsessed department head, saying, "Here's a nickel, kid.
 Buy yourself a better computer."
 
-TODO
-
 The 10-cent coin is called a "dime," derived from the French word
 "disme," which means "a tenth," because 10 cents is exactly 1/10 of a
 dollar. Interestingly, the dime is much smaller and thinner than the
 nickel, which regularly confuses logically minded people like me.
 
-<pic images/quarters.ps Certainly useful: Quarters in our piggy bank
-for laundry money.>
+<pic images/quarters.ps Certainly useful: Quarters in our piggy bank for laundry money.>
 
 The also silver "Quarter," the 25-cent coin, indicates on the reverse
 side the state that produced it, which is why there are 50 different
-ones in circulation. Often, small children (or adults who behave like
+kinds in circulation. Often, small children (or adults who behave like
 children) try to collect all 50. They are supported in this hobby by
 the numismatic industry, which offers all sorts of coin holders and
 maps with circular cutouts for sale.
@@ -282,14 +279,15 @@ our bank, slap a hundred dollars on the counter, and ask for
 quarters, which the bank employees then provide in coin rolls free of
 charge.
 
-<pic images/laundromat-coins.ps The coin-operated washing machine
-swallows quarters like crazy.>
+<pic images/laundromat-coins.ps The coin-operated washing machine swallows quarters like crazy.>
 
 Reversely, you can also get wrappers there for coins accumulated
 elsewhere at home. If a penny-pincher later carefully counts and
 rolls stacks of coins and takes them back to the bank, the employees
 measure the length of the wrapped rolls with a ruler and can
 precisely determine if a coin is missing.
+
+TODO
 
 Constantly carrying small change in your pocket is really annoying,
 but it accumulates involuntarily when you pay small amounts in cash
