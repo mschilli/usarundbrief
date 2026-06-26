@@ -132,26 +132,20 @@ already required by the state to display two license plates, why
 shouldn't the state be allowed to place a profitable advertising
 banner on them?
 
-TODO
-
-And in our advanced age, it shouldn't just be any sticker, but an
+And in our time and age, it shouldn't just be any sticker, but an
 electronic display into which the state wirelessly and
 up-to-the-minute broadcasts paid advertisements. The advertising
-industry could thus inform the person stuck in traffic behind about
-the advantages of popular detergents and breakfast cereals in a
+industry could thus, for example, inform the person stuck in traffic behind you
+about the advantages of popular detergents and breakfast cereals in a
 profit-generating way, and the state of California would rake in a
 considerable amount of money as a middleman. Everyone would benefit!
 
-Sounds crazy, but the...
-<LINK>http://blogs.sacbee.com/capitolalertlatest/2010/06/license-plat
-e-advertising-eyed.html|Newspapers report on the interactive license
-plates.</LINK>
-The translation of "und sogar der" to English is "and even the.
-<LINK>http://info.sen.ca.gov/pub/09-10/bill/sen/sb_1451-1500/sb_1453_
-bill_20100324_amended_sen_v98.html|Gesetzesentwurf</LINK>
-The translation to English is: "is already available. Like a
-<LINK>http://www.aroundthecapitol.com/billtrack/analysis.html?aid=391
-05|Legal analysis of the planned license plate advertising</LINK>
+Sounds crazy, but actual
+<LINK>http://blogs.sacbee.com/capitolalertlatest/2010/06/license-plate-advertising-eyed.html|newspapers are reporting</LINK> on the new interactive license plates
+and even the
+<LINK>http://info.sen.ca.gov/pub/09-10/bill/sen/sb_1451-1500/sb_1453_bill_20100324_amended_sen_v98.html|proposed legal bill</LINK>
+is already available or the
+<LINK>http://www.aroundthecapitol.com/billtrack/analysis.html?aid=39105|legal analysis of the planned license plate advertising</LINK>.
 However, it appears that the proposal will likely be rejected, as the
 state, due to the constitutionally guaranteed right to freedom of
 expression, would not only have to grant advertising rights to the
@@ -166,19 +160,16 @@ probably be the straw that breaks the camel's back. I don't think
 anything will come of the proposal, but it was certainly
 entertaining. Only in America.
 
-@Z: The translation of "Spelling Bee" to English is "Spelling Bee."
-It is already in English and refers to a competition where
-participants are asked to spell a variety of words correctly.
+@Z: Spelling Bee
 
-<pic images/spelling-bee-finalists.ps The finalists in the spelling
-bee competition.>
+<pic images/spelling-bee-finalists.ps The finalists in the spelling bee competition.>
 
 <em>Angelika</em> 
 I find it fascinating how quickly and how willingly Americans spell
-complicated English words.
-<RBLINK>20030526#9</RBLINK>
-As a native German speaker, I still have to concentrate a lot because
-"e" is pronounced as "i". Who would have thought that I would become
+complicated English words (<RBLINK>20030526#9</RBLINK>).
+As a native German speaker, I still have to focus very hard when spelling,
+because "e" in English is pronounced like the German "i".
+Who would have thought that I would become
 a fan of spelling competitions ("Spelling Bee")? Just recently, I was
 once again glued to the TV to watch the US Championship, the
 "National Spelling Bee," which takes place once a year in Washington
@@ -195,8 +186,7 @@ from other countries have also been allowed to participate. Thus,
 some candidates come from Canada, New Zealand, as well as South Korea
 and Japan.
 
-<pic images/spelling-bee-panel.ps The fourteen-year-old previous
-year's winner Adrian Gunawan is competing ...>
+<pic images/spelling-bee-panel.ps The fourteen-year-old previous year's winner Adrian Gunawan is competing ...>
 
 Since 1925, the US Championships have been held at the end of May or
 the beginning of June. By the way, "Bee" not only means "bee" but
@@ -209,23 +199,19 @@ hours. Critical voices often claim that the monotonous spelling of
 words that almost no one uses in everyday language does not advance
 students linguistically. Those who want to delve deeper into why
 someone participates in the spelling competition should watch the
-very well-made documentary.
-<LINK>http://en.wikipedia.org/wiki/Spellbound_%28documentary%29|"Spel
-lbound"</LINK>
-The phrase translates to: "watched, who accompanied the 8
-participants to the 1999 US Championships.
+very well-made documentary <LINK>http://en.wikipedia.org/wiki/Spellbound_%28documentary%29|"Spellbound"</LINK>, in which a filmmaker
+accompanied eight participants to the 1999 US Championships.
 
-<pic images/spelling-bee-terribilita.ps The translation to English
-is: "... but fails miserably at the word 'Terribilita'!>
+<pic images/spelling-bee-terribilita.ps ... but fails miserably at the word 'Terribilita'!>
 
 The chief judge, Dr. Jacques Bailly, who won the competition himself
 in 1980, first pronounces a word to be spelled correctly. The
 contestants may then ask Bailly for the following predetermined aids:
 the definition of the word, whether it can be pronounced differently,
 and the language from which the word originally comes. They can also
-ask Bailly to use the word in a sentence. The Webster's Third
+ask Bailly to use the word in a sentence. Webster's Third
 International Dictionary, the American equivalent of the Duden,
-serves as the reference. After the word is named and pronounced
+serves as the reference. After the word is called out and pronounced
 correctly by the judge, the contestants have 2.5 minutes to spell the
 word correctly. Participants often fill the time with the allowed
 questions: Can you pronounce the word again? Can you use the word in
@@ -233,14 +219,11 @@ a sentence? From which language does the word originate? What is the
 definition of the word? Can I hear the correct pronunciation again?
 Jacques Bailly always responds in the same calm voice.
 
-<pic images/spelling-bee-stromuhr.ps Under the watchful eyes of her
-strict father, Anamika Veeramani correctly spells the word
-"Stromuhr," which is of German origin...>
+<pic images/spelling-bee-stromuhr.ps Under the watchful eyes of her strict father, Anamika Veeramani correctly spells the word "Stromuhr," which is of German origin...>
 
-This year, 14-year-old Anamika Veeramani from the state of Cleveland
-won. The final word:
-<LINK>http://www.merriam-webster.com/medical/stromuhr|"Stromuhr"</LIN
-K>
+In this year's competition, the winner was
+14-year-old Anamika Veeramani from the state of Cleveland. The final word:
+<LINK>http://www.merriam-webster.com/medical/stromuhr|"Stromuhr"</LINK>.
 The word originates from German and refers to a medical device
 designed in 1867, the so-called capillary thermometer, which the
 doctor uses to measure the strength of blood flow in arteries and
@@ -257,23 +240,23 @@ children sometimes look enviously at the good grades of these
 regime prevails in Asian immigrant families, and the parents
 relentlessly push their children to study.
 
-@Z: The translation of "Sinnvolles und -loses Kleingeld" to English
-is "Meaningful and meaningless small change.
+@Z: Meaningful And Meaningless Small Change
 
-<pic images/smallchange.ps Meaningless small change: Pennies,
-nickels, dimes.>
+<pic images/smallchange.ps Meaningless small change: Pennies, nickels, dimes.>
 
 <em>Michael</em> 
 American coins used in everyday life consist of 1-cent, 5-cent,
 10-cent, and 25-cent coins. The copper 1-cent coin is commonly
 referred to as a "penny." The 5-cent piece is also called a "nickel"
 because the coin is made from a copper-nickel alloy. This always
-reminds me of the...
-<LINK>http://tomayko.com/writings/that-dilbert-cartoon|Dilbert-Cartoo
-n</LINK>
-The Unix guru with a bushy beard flicks a nickel to the obviously
+reminds me of the 
+<LINK>http://tomayko.com/writings/that-dilbert-cartoon|Dilbert-Cartoon</LINK>
+where
+the Unix guru with a bushy beard flicks a 5-cent-coin to the obviously
 Microsoft-obsessed department head, saying, "Here's a nickel, kid.
-Buy yourself a better computer.
+Buy yourself a better computer."
+
+TODO
 
 The 10-cent coin is called a "dime," derived from the French word
 "disme," which means "a tenth," because 10 cents is exactly 1/10 of a
