@@ -419,17 +419,14 @@ Regardless of their income tax bracket, lucky stock market winners only pay
 a maximum of 15% if at least twelve
 months pass between the purchase and sale of a stock.
 
-TODO
-
-The state particularly promotes the super-rich, who rake in billions
+With this tax law, the state particularly favors the super-rich, who rake in billions
 in profits with this method and pay a ridiculous 15% in taxes. The
 billionaire and stock market expert Warren Buffet once claimed that
 his tax rate is lower than that of his secretary. The man
 deliberately keeps his salary low and derives the lion's share of his
 income from long-term capital gains on carefully selected stocks.
 
-<pic images/chicago-board-of-trade.ps The American government
-encourages citizens to invest in stocks.>
+<pic images/chicago-board-of-trade.ps The American government encourages citizens to invest in stocks.>
 
 On the other hand, the state benefits from the long-term investments
 of the super-rich in stocks of American companies. The super-rich
@@ -438,53 +435,49 @@ savings deposits, which is why they prefer to pump their billions
 into the riskier stocks. Day traders, who realize speculative gains
 through short-term buying and selling, are a thorn in the side of the
 state. However, due to the twelve-month rule, they miss out and have
-to tax their gains as regular income.
+to pay taxes on their gains at the normal income tax rate.
 
-<pic images/stocks-bad-day.ps Stock losses can be mitigated if one
-observes the wash sale rule.>
+<pic images/stocks-bad-day.ps Stock losses can be mitigated if one observes the wash sale rule.>
 
 Another interesting rule applies to losses: The tax expert deducts
-these from existing stock gains and only taxes what remains in the
+these from existing stock gains and only pays taxes on what remains in the
 end. If your stock transactions result in an overall loss for the
 year, citizens are even allowed to deduct up to $3,000 from their
-other income. While this doesn't replace the lost money, at least
-they don't have to pay income tax on the squandered amount, which
-can, as previously mentioned,
-<RBLINK>991120#2</RBLINK>
-The translation to English is: "explains that for high earners in
-California, it amounts to almost 50%. If the loss exceeds $3000, the
+other income. While this won't cover the losses, at least
+you don't have to pay income tax on the squandered amount, which
+can, as previously mentioned, be significant (<RBLINK>991120#2</RBLINK>).
+Looking at the graph in the old issue, you can see that for high earners in
+California, income tax amounts to almost 50%. If the loss exceeds $3000, the
 taxpayer is allowed to carry forward the remaining amount to future,
 hopefully more successful years, but never more than $3000 per year.
 
-<pic images/tax-despair.ps The young lady has just realized that she
-cannot deduct a realized stock loss due to the wash sale rule.>
+<pic images/tax-despair.ps The young lady has just realized that she cannot deduct a realized stock loss due to the wash sale rule.>
 
 But even here, the state protects itself from speculators. For
-example, someone who owns a plummeted stock could sell it at a loss,
+example, someone who owns a plummeted stock, could sell it at a loss,
 deduct the loss, and then immediately buy it back to reap the profit
 if the price recovers shortly thereafter. However, the tax legislator
-is not naive, as they call a transaction where less than 30 days pass
+ain't no fool, and they call a transaction where less than 30 days pass
 between the sale and repurchase of a stock a "wash sale," and
 prohibit the deduction of the loss.
 
-This also applies in the event that the repurchase...
-<em>vor</em> 
-The loss-making sale took place because otherwise, one could easily
+This also applies in the event that the repurchase happens
+<em>before</em> 
+the loss-incurring sale took place, because otherwise, one could easily
 circumvent the wash sale rule by buying a second batch of the stock
-cheaply and then shortly after selling the first batch and claiming
+cheaply, only to sell the first batch shortly after and claiming
 the loss. Here too, there must be at least 30 days between the two
-transactions; otherwise, the investor bears the entire loss
-themselves. If you sell the stocks at a profit, a "wash sale" doesn't
+transactions; otherwise, the investor can't deduct the loss.
+If you sell stock at a profit, a "wash sale" doesn't
 matter because there's nothing to deduct. Tax programs like "Turbo
-Tax" are, of course, well-versed in the rule and correctly enter any
+Tax" are, of course, well-versed in applying the rule and correctly display any
 deductible amounts. But if you can rattle off the definition of the
 term "wash sale," you know more about American tax law than 99% of
 all Americans.
 
-@Z: Health insurance for everyone
+@Z: Health Insurance For Everyone
 
-<pic images/operation.ps Blessed is the one who has good health
-insurance.>
+<pic images/operation.ps Blessed is the one who has good health insurance.>
 
 <em>Angelika</em> 
 It is accomplished: On March 23, Obama signed the "Patient Protection
@@ -494,6 +487,8 @@ arguing, hair-pulling, and debating. Although the law is not perfect,
 as it includes many poor compromises, it at least stipulates that
 starting in 2014, almost all Americans and legal residents must have
 health insurance.
+
+TODO
 
 Until 2014 is, of course, still a long way off, but important parts
 of the law will already be implemented in 2010. Most notably, the
