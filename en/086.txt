@@ -124,37 +124,32 @@ traffic code, it is prohibited to let the tires be screeching excessively
 loud during acceleration. This so-called "Exhibition of Speed" is
 punished with hefty fines and can be punished by suspending your driver's license.
 
-TODO
+It is strictly forbidden to race on public roads. 
+One should not get caught by police playing popular games like
+"Which car accelerates the fastest from the traffic
+light when it turns green" and "Whoever brakes loses."
+And in organized "Speed Contests" (street
+races, also known as "Drag Races"), even assisting or merely
+watching are punishable offenses
+(<LINK>http://www.dmv.ca.gov/pubs/vctop/d11/vc23109.htm|Regulation 23109</LINK>),
+even with prison sentences!
 
-Translation: It is strictly forbidden to race on public roads. In the
-popular games "Which car accelerates the fastest from the traffic
-light when it turns green" and "Whoever brakes loses," one should not
-get caught by the police. And in organized "Speed Contests" (street
-races, also known as "Drag Races"), even assisting and merely
-watching are punishable offenses.
-<LINK>http://www.dmv.ca.gov/pubs/vctop/d11/vc23109.htm|Verordnung
-23109" translates to "Regulation 23109" in English.</LINK>
-... even promises a prison stay for it!
+<pic images/cop-donut.ps ... but this man of the law would quickly put an end to the spectacle.>
 
-<pic images/cop-donut.ps ... but this lawman would quickly put an end
-to the spectacle.>
-
-The brother of a coworker once got a ticket because he started
+The brother of a coworker of mine once got a ticket because he started
 honking behind a slow driver who didn't want to turn. A police
 officer in his patrol car heard this, pulled him over, and issued a
 fine for "road rage," meaning aggression in traffic.
 
-<pic images/jaywalking.ps These rustic bumpkins could be given a
-ticket by a bored police officer for jaywalking.>
+<pic images/jaywalking.ps These rustic bumpkins could be given a ticket by a bored police officer for jaywalking.>
 
 Even as a pedestrian, you have to be careful. You are not allowed to
 simply cross the street anywhere between two consecutive traffic
-light intersections; instead, you must use a traffic light. Anything
-else is referred to by the legislator as jaywalking.
-<LINK>http://www.legal-news-california.tozerlaw.com/jaywalking_califo
-rnia.html|"Jaywalking"</LINK>
-..and is fined $25 for it. With the penalty surcharges explained in
-the last newsletter, the fine then amounts to $108! Regarding the
+light intersections; instead, you must cross at the traffic light. Anything
+else is referred to by the legislator as
+<LINK>http://www.legal-news-california.tozerlaw.com/jaywalking_california.html|"jaywalking"</LINK>, punishable by a 
+$25 fine. With the penalty surcharges explained in
+the last newsletter, that fine then will amount to $108! Regarding the
 origin of the word: A "Jay" is a rustic simpleton, someone who does
 not behave appropriately in the city. However, the authorities only
 intervene in such offenses when they are extremely bored or looking
@@ -165,19 +160,14 @@ reaction.
 
 Another interesting topic: Is it allowed to ride a bicycle on the
 sidewalk? It depends on the county. For example, it is allowed by
-the...
-<LINK>http://qcode.us/codes/sunnyvale/view.php?topic=10-10_56-10_56_1
-40|Bicycle Ordinance of the Silicon Valley City of Sunnyvale</LINK>
-The translation of the provided text is: "Persons over 62 and
-children under 13 years, unless the sidewalk is directly in front of
-a school or a business. And
-<em>jeder</em> 
-The translation to English is: "is allowed to ride on the sidewalk in
+the <LINK>http://qcode.us/codes/sunnyvale/view.php?topic=10-10_56-10_56_140|Bicycle Ordinance of the Silicon Valley City of Sunnyvale</LINK>:
+"Persons over 62 and children under 13 years, unless the sidewalk is directly in front of a school or a business. And
+<em>everyone</em> 
+is allowed to ride on the sidewalk in
 Sunnyvale if, as the law vaguely states, the street is too dangerous
 for cyclists.
 
-<pic images/right-on-red.ps (#11) Only if it is explicitly
-prohibited, you are not allowed to turn right on red.>
+<pic images/right-on-red.ps (#11) Only if it is explicitly prohibited, you are not allowed to turn right on red.>
 
 In Germany, you are allowed to turn right on red at specially
 designated traffic lights if it can be done safely. In America, this
@@ -191,8 +181,7 @@ with its many one-way streets, sometimes even while police cars were
 in the neighboring lane--no problem, as long as you make a brief stop
 beforehand!
 
-<pic images/no-left-except.ps (#12) Left turn prohibited between 4 PM
-and 6 PM, except on Sundays.>
+<pic images/no-left-except.ps (#12) Left turn prohibited between 4 PM and 6 PM, except on Sundays.>
 
 In some places, the prohibition signs also display a time, and
 sometimes even an exception rule. For example, on Mission Street in
@@ -203,40 +192,28 @@ turns are permitted, which English speakers can deduce from the
 many people only speak Spanish, which means that hardly anyone takes
 advantage of this traffic loophole on late Sunday afternoons.
 
-<pic images/left-turn-double-yellow.ps Is the BMW allowed to cross
-the double solid yellow line to turn left onto Julian Street? Yes,
-completely legal.>
+<pic images/left-turn-double-yellow.ps Is the BMW allowed to cross the double solid yellow line to turn left onto Julian Street? Yes, completely legal.>
 
-Translate to English: Here are some more curiosities: Double solid
+Here are some more curiosities: Double solid
 yellow lines in the middle of the road do not mean that you cannot
 turn left into a side street or driveway. This is only prohibited if
 there are four (!) solid lines. Two solid yellow lines merely mean
-that you cannot...
-<em>überholen</em> 
-A U-turn (pronounced "Juh-Turn"), which is a 180-degree turn, is
-according to the...
-<LINK>http://www.dmv.ca.gov/pubs/hdbk/turns.htm|The translation of
-"California Driver Handbook" to English is "California Driver
-Handbook." It is already in English.</LINK>
-In this case, it is also allowed unless it is explicitly prohibited
-otherwise.
+that you cannot pass someone.
+Even a U-turn, which is a 180-degree turn, is permitted in this case
+according to the <LINK>https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/|"California Driver Handbook"</LINK>, unless it is explicitly prohibited otherwise.
 
-<pic images/left-double-yellow-entrance.ps Is the delivery van
-allowed to cross the double solid yellow line to turn left into the
-auto repair shop? You bet.>
+<pic images/left-double-yellow-entrance.ps Is the delivery van allowed to cross the double solid yellow line to turn left into the auto repair shop? You bet.>
 
-In residential areas, the driver is only allowed to make a U-turn if
+In residential areas, however, the driver is only allowed to make a U-turn if
 no other vehicle is approaching within 60 meters. However, U-turns
 are prohibited in so-called "Business Districts," which also include
 areas with churches, apartment buildings, nightclubs, and public
 buildings. Interestingly, the manual also points out that U-turns are
 prohibited on one-way streets. Something to think about, right!
 
-@Z: Augentest und Verkehrsfalle" translates to "Eye test and traffic
-trap" in English.
+@Z: Vision Test And A Moving Violation
 
-<pic images/dmv-licenses-sign.ps To renew the driver's license, one
-must show up in person every 15 years and pass an eye test.>
+<pic images/dmv-licenses-sign.ps To renew the driver's license, one must show up in person every 15 years and pass a vision test.>
 
 <em>Angelika</em> 
 Recently, I myself fell into the trap of the American traffic sign
@@ -244,15 +221,15 @@ jungle. How did that happen? In California, a driver's license is
 valid for five years, after which it can be renewed without a new
 test for a fee of $31. Usually, this can be done quite painlessly by
 mail or over the internet. However, for the third renewal, the DMV
-requires an eye test, which, of course, can only be completed in
+requires a vision test, which, of course, can only be completed in
 person on-site.
 
-This year, it was time for my eye test. So, I made an appointment at
+This year, it was time for my vision test. So, I made an appointment at
 the DMV (the driver's license office), and since there were no
 available slots in San Francisco anytime soon, I spontaneously
 decided to go to San Mateo, a small town about a 20-minute drive
 south of San Francisco. Michael, of course, teased me for days,
-saying I wouldn't pass the eye test, but everything went smoothly. I
+saying I wouldn't pass the vision test, but everything went smoothly. I
 must admit, though, that the test seems to be from another era.
 Behind the counter, there are three boards, each with five rows of
 five letters, and the clerk determines the number of the board and
@@ -261,14 +238,12 @@ largest, and those in the last row are the smallest. I had to read
 three rows on different boards, one with both eyes, and the others
 with only one eye while the other was covered. If you can read at
 least the middle row, the test is considered passed. Then, a new
-photo was quickly taken, and my thumbprint was recorded. The clerk
+passport photo was quickly taken, and my thumbprint was recorded. The clerk
 handed me a temporary driver's license, essentially a piece of paper,
 and told me that the new driver's license would be mailed to me in
 the coming weeks, and just like that, I was out again.
 
-<pic images/eye-exam.ps The phrase is in a mix of German and a
-regional dialect, likely from the Rhineland area. In English, it
-translates to: "Eye test at the DMV: Should we let him through?>
+<pic images/eye-exam.ps "Vision test at the DMV: Should we let him pass?>
 
 In a good mood, I set off on my way home, but only made it to the
 second intersection when I saw a police officer on a motorcycle with
@@ -293,30 +268,29 @@ warning.
 
 It was funny when the police officer asked me where I had just come
 from, and I replied that I had been at the driver's license office
-for an eye test. Even he had to laugh at that. Well, the fun cost me
+for an vision test. Even he had to laugh at that. Well, the fun cost me
 a cool $300 and quite a bit of time and nerves due to the traffic
-school, which I completed online like Michael.
-<RBLINK>20080502#1</RBLINK>
-...which at times drove me to the brink of madness. When the program
+school, which I completed online, like Michael (<RBLINK>20080502#1</RBLINK>).
+The course drove me to the brink of madness. When the program
 informed me that every driver must ensure they have enough mobility
 in the neck area to look over their shoulder, I was reminded of
 American instruction manuals that list things like not putting the
 cat in the microwave.
 
-@Z: Car tires from the internet
+@Z: Car Tires From The Internet
 
-<pic images/tirerackcom.ps The online tire retailer "Tire Rack>
+<pic images/tirerackcom.ps The online tire retailer "Tire Rack">
 
 <em>Michael</em> 
-Recently, Angelika drove home with a nearly flat car tire due to a
+Recently, Angelika drove home with a nearly flat car tire, which had picked
+up a
 nail. Fortunately, our car has a $15 pump from China in the trunk,
 which I plugged into the cigarette lighter. After making a hellish
 noise for 10 minutes, it brought the tire back to normal pressure.
 With that, I drove to the giant supermarket Costco, which, according
 to the internet, repairs tires purchased from them for free.
 
-<pic images/compressor.ps With this Chinese compressor, you can
-temporarily inflate a punctured tire again.>
+<pic images/compressor.ps With this Chinese compressor, you can temporarily inflate a punctured tire again.>
 
 In America, it is quite common to patch holes in tires, but the
 Costco guy found this case too tricky because the nail was only 1 cm
@@ -326,12 +300,11 @@ salesperson assured me that I would get my money back if I found the
 tire model somewhere else and then exchanged the old tire with the
 nail in it at Costco.
 
-<pic images/tirerack.ps The online retailer tirerack.com shipped the
-tire from Indiana within two days.>
+<pic images/tirerack.ps The online retailer tirerack.com shipped the tire from Indiana within two days.>
 
-In the internet, I purposefully chose the super tire dealer.
+On the internet, I chose the super tire dealer
 <LINK>tirerack.com|tirerack.com</LINK>
-.. who offered the tire for $59 plus $16 shipping fees. Since "Tire
+which offered the tire for $59 plus $16 shipping fees. Since "Tire
 Rack" operates out of the state of Indiana, there was no California
 sales tax applied. And just two days later, the UPS delivery person
 dropped the tire off at our apartment door! It wasn't even packaged,
@@ -339,13 +312,12 @@ just a label with our address was stuck on it. If I worked at UPS, I
 probably would have rolled it down the hallway to the door from the
 elevator with a push!
 
-<pic images/spare-tire.ps The spare tire from the trunk also helps to
-get by.>
+<pic images/spare-tire.ps The spare tire from the trunk also helps in an emergency.>
 
 When you order from Tire Rack, you can have the tires delivered
 directly to one of dozens of local workshops, where they will be
 professionally installed. However, Costco does not install tires that
-you didn't purchase there. Following the advice of the Costco
+you haven't purchased there. Following the advice of the Costco
 employee, I had to go to a mechanic in the Mexican neighborhood of
 Mission, whose business card he handed me, to have the tire installed
 for $25. In the suburb of South San Francisco, someone would have
@@ -354,21 +326,20 @@ tire. Afterwards, I went back to Costco, presented the old tire, and
 since it had less than 50% tread left, I received a refund of 50% of
 the original purchase price, which was $55--not bad!
 
-<pic images/wheel.ps The rocket is running again with new killer
-tires.>
+<pic images/wheel.ps The rocket is running again with new killer tires.>
 
 Why you can exchange tires with nails in them wasn't entirely clear
 to me, but as they say in Bavaria, "he who asks a lot goes astray."
-The man at the exchange counter asked me what was wrong with the
+The man at the customer service counter asked me what was wrong with the
 tire, and I replied that there was a nail in it and the tire guys
 couldn't repair it. Without complaint, he refunded the $55 to my
 credit card. That's what I call customer service...
 
-@Z: Calling Shotgun: Who gets to sit in the front seat of the car?
+@Z: Calling Shotgun
 
-<pic images/riding-shotgun.ps This gentleman undoubtedly called
-"Shotgun!" in the parking lot and is now visibly enjoying riding in
-the front passenger seat instead of having to sit in the back.>
+<pic images/riding-shotgun.ps This gentleman undoubtedly called "Shotgun!" in the parking lot and is now visibly enjoying riding in the front passenger seat instead of having to sit in the back.>
+
+TODO
 
 <em>Michael</em> 
 When forming a carpool, children and teenagers often start bickering
