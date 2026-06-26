@@ -488,9 +488,7 @@ as it includes many poor compromises, it at least stipulates that
 starting in 2014, almost all Americans and legal residents must have
 health insurance.
 
-TODO
-
-Until 2014 is, of course, still a long way off, but important parts
+Now, 2014 is, of course, still a long way off, but important parts
 of the law will already be implemented in 2010. Most notably, the
 so-called exclusion clauses of private insurers for individual
 policies will disappear immediately: Health insurance companies will
@@ -510,10 +508,9 @@ exhausted, especially given the absurd prices of the American
 healthcare system. Furthermore, parents are now allowed to insure
 adult children up to the age of 26.
 
-<pic images/pills-and-money.ps The costs of the American healthcare
-system are skyrocketing.>
+<pic images/pills-and-money.ps The costs of the American healthcare system are skyrocketing.>
 
-And pre-existing conditions may no longer be excluded for children
+Also, pre-existing conditions may no longer be excluded for children
 from now on. If a child suffers from asthma, for example, a new
 insurance company cannot refuse to cover costs related to the asthma
 when switching insurance. Adults who could not find insurance
@@ -528,21 +525,19 @@ per person. Even self-employed individuals will no longer be able to
 avoid getting insured. Low-income earners will receive tax benefits
 to help pay for health insurance premiums.
 
-@Z: The translation of "VolkszÃ¤hlung mit Werbespots" to English is
-"Census with commercials.
+@Z: Census Commercials
 
-<pic images/census-ch-spot.ps In an exemplary manner, the Chinese
-American in the commercial sends back his completed census form.>
+<pic images/census-ch-spot.ps In an exemplary manner, the Chinese American in the commercial sends back his completed census form.>
 
 <em>Angelika</em> 
-In the USA, as is well known, there is no registration law, so
-theoretically the government does not know who lives where. However,
+There is no citizen registration requirement in the USA,
+so in practice, the government has no idea who lives where. However,
 it is quite important to know how many residents live in a particular
 region or state, because government funds are often distributed
-proportionally to population density. Every 10 years...
-<RBLINK>20000526#5</RBLINK>
-The sentence translates to: "This is why the state counts its sheep,
-and this year, too, I dutifully filled out the questionnaire and sent
+proportionally to population density. 
+This is why every ten years, the state counts its sheep
+(<RBLINK>20000526#5</RBLINK>).
+This year, too, and I dutifully filled out the questionnaire and sent
 it back immediately. A few days later, a reminder card even arrived
 for those who were late in filling it out.
 
@@ -556,27 +551,25 @@ for statistical purposes.
 
 Many immigrants do not understand what it is about, partly due to a
 lack of English skills. Since May, the Census Bureau (US Census
-Bureau) has been sending employees door-to-door to help households
-fill out the questionnaires and thus still achieve an accurate count.
-The agency even invested 2.5 million dollars for a 30-second long...
-<LINK>http://www.youtube.com/watch?v=zzkFYpO_h14|Volkszählungs-Werbes
-pot</LINK>
-translation provided for the Super Bowl broadcast in February. The
+Bureau) has been sending their servants door-to-door to help households
+fill out the questionnaires, so that the bureau can achieve an accurate count.
+The agency even invested 2.5 million dollars for a 30-second long
+<LINK>http://www.youtube.com/watch?v=zzkFYpO_h14|TV ad</LINK>
+for the Super Bowl broadcast in February. For our foreign readers, the
 Super Bowl is the final of the American professional football league
 and is considered the sporting event with the highest viewership of
-the year. Interestingly, viewers not only watch the game with
+the year. Curiously, viewers not only watch the game with
 interest but also the commercials. Due to the high viewership,
 companies are eager to show commercials during the game breaks, even
-though they have to pay exorbitant amounts for it. For residents who
-only speak Chinese, a translation was even provided on the Chinese
-channel.
-<LINK>http://www.youtube.com/watch?v=_iltfo8mDVM|The translation of
-"chinesische Version" to English is "Chinese version.</LINK>
-The German word "angeboten" translates to "offered" in English.
+though they have to pay exorbitant amounts for the privilege.
+And, on the Chinese channel, the census ad even was provided in Chinese
+for those residents who don't speak English:
+<LINK>http://www.youtube.com/watch?v=_iltfo8mDVM|Chinese version</LINK>.
 
 <pic images/census-form.ps The census form.>
 
-The ten-year cycle of the census is actually mandated by the American
+By the way,
+the ten-year cycle of the census is actually mandated by the American
 Constitution. It involves counting all residents living in the USA,
 both American and non-American citizens (legal and illegal alike).
 This practice is, of course, not without controversy, because the
@@ -587,3 +580,6 @@ therefore, non-voters have a not insignificant political influence.
 We also belong to this group, as only American citizens are allowed
 to vote in the USA.
 
+Greetings from San Francisco in May:
+
+Angelika \& Michael
