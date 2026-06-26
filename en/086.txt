@@ -339,26 +339,20 @@ credit card. That's what I call customer service...
 
 <pic images/riding-shotgun.ps This gentleman undoubtedly called "Shotgun!" in the parking lot and is now visibly enjoying riding in the front passenger seat instead of having to sit in the back.>
 
-TODO
-
 <em>Michael</em> 
 When forming a carpool, children and teenagers often start bickering
-about who gets to sit in the front seat and who has to sit in the
+about who gets to sit in the front passenger seat and who has to sit in the
 back. That's why in America, it's common for the person who first
 calls out "Shotgun!" to be allowed to sit in the front seat. There
 are different regional rules, but usually, it's only permitted to
 call "Shotgun!" when the car is within sight. In case of a dispute,
 the caller must prove this by pointing to the parked car.
 
-<pic images/stagecoach.ps (#5) Next to the coachman in the Wild West,
-on guarded transports, sat the man with the "shotgun" (from the movie
-"Stagecoach" with John Wayne).>
+<pic images/stagecoach.ps (#5) Next to the coachman in the Wild West, on guarded transports, sat the man with the "shotgun" (from the movie "Stagecoach" with John Wayne).>
 
-The term
-<LINK>http://en.wikipedia.org/wiki/Riding_shotgun|Riding shotgun" is
-an informal expression that means sitting in the front passenger seat
-of a vehicle, next to the driver.</LINK>
-The phrase originates from the times of the Wild West, when a
+The phrase
+<LINK>http://en.wikipedia.org/wiki/Riding_shotgun|Riding shotgun</LINK>
+originates from the times of the Wild West, when a
 stagecoach would have an armed guard riding alongside the driver on
 the coach box during secured transports. In illustration (#5), you
 can see a scene from the movie "Stagecoach" with John Wayne, showing
@@ -369,80 +363,63 @@ Keeney from 1905. Even today, "Riding Shotgun" refers to sitting in
 the front passenger seat, and "Calling Shotgun" refers to claiming
 that seat.
 
-@Z: The German phrase "ZÃ¼ndeln, aber nicht immer" translates to
-English as "Kindling, but not always." The rest of the text, "Air
-Quality Forecast," is already in English.
+@Z: No Fireplace Fire During Spare The Air Days
 
-<pic images/fireplace.ps A cozy warm fireplace. Our open fireplace is
-subject to the ignition ban by the San Francisco Air Quality
-Management District.>
+<pic images/fireplace.ps Our open fireplace is subject to the ignition ban by the San Francisco Air Quality Management District.>
 
 <em>Michael</em> 
 A crackling fire in the fireplace spreads cozy warmth and a
 comfortable atmosphere. However, instead of logs, we tend to burn
-4-hour Duraflame logs from the supermarket.
-<RBLINK>20041129#2</RBLINK>
-... because burning wood not only involves work in obtaining it, but
+4-hour Duraflame logs from the supermarket (<RBLINK>20041129#2</RBLINK>)
+because burning wood not only involves work in obtaining it, but
 also requires constant replenishing.
 
 This type of heat generation is not entirely environmentally
 friendly, and therefore the city of San Francisco prohibits the
 burning of material in fireplaces on particularly hot or smoggy days.
 This applies not only to the handful of days designated as official
-Spare-the-Air Days.
-<RBLINK>20060720#2</RBLINK>
-The translation to English is: "are declared and on which public
-transportation is partially free.
+Spare-the-Air Days (<RBLINK>20060720#2</RBLINK>)
+which are declared and the city makes public transportation is partially free
+to entice commuters to leave their cars at home.
 
-<pic images/spare-the-air-ok.ps Translation: "Burning allowed: The
-Spare-the-Air police give their OK for fireplace fires in San
-Francisco.>
+<pic images/spare-the-air-ok.ps Burning allowed: The Spare-the-Air police give their OK for fireplace fires in San Francisco.>
 
 Whether or not fireplaces are allowed on a particular day can easily
-be checked on the...
-<LINK>http://www.baaqmd.gov/The-Air-District/AQ-Ratings.aspx|The
-translation of "Air Quality Forecast" to English is "Air Quality
-Forecast.</LINK>
-Check on the internet. If there is a green sign, you are allowed to
-light a fire, but if it is red, it is prohibited under penalty. It is
+be checked on the
+<LINK>http://www.baaqmd.gov/The-Air-District/AQ-Ratings.aspx|Air Quality Forecast</LINK>
+site on the internet. If there is a green sign, you are allowed to
+light a fire in the fireplace, but if it is red, it is prohibited under penalty. It is
 rumored that mobile teams patrol the city on prohibited days,
-observing chimneys for suspicious smoke plumes. The law-abiding
-citizen registers on baaqmd.gov and then receives emails with the
+observing chimneys for suspicious smoke plumes. Law-abiding
+citizen can register on baaqmd.gov and then receive emails with the
 current conditions.
 <em>Addendum 01/2014:</em> 
-Die Postille" translates to "The Devotional" or "The Homily" in
-English. The term "Postille" generally refers to a collection of
-sermons or religious writings intended for personal reflection or
-study.
-<LINK>http://halfmoonbay.patch.com/groups/politics-and-elections/p/sp
-are-the-air-alerts-do-people-really-get-caught_78a3fcfc-halfmoonbay|H
-alf Moon Bay Patch reports | $100 fine for Spare-The-Air
-violators</LINK>
-Translation: "Environmental offenders who burn wood in the fireplace
+The rag
+<LINK>http://halfmoonbay.patch.com/groups/politics-and-elections/p/spare-the-air-alerts-do-people-really-get-caught_78a3fcfc-halfmoonbay|H alf Moon Bay Patch reports</LINK>
+that offenders who burn wood in the fireplace
 during Spare-The-Air days must pay a $100 fine.
 
-<pic images/spare-the-air-no-ban.ps The ban on lighting fires is in
-effect only during the "Spare the Air Season" from the beginning of
-November to the end of February.>
+<pic images/spare-the-air-no-ban.ps The ban on lighting fires is in effect only during the "Spare the Air Season" from the beginning of November to the end of February.>
 
 However, the ban only applies on certain days during the "Spare the
 Air Season" from early November to the end of March. In April, we
-could fire up as much as we wanted again and make the apartment
-comfortably warm at a chilly 13 degrees Celsius outside temperature.
+were allowed to fire up as much as we wanted again and make the apartment
+comfortably warm while the outside temperature was a chilly 13 degrees Celsius.
 
-@Z: Attention tax experts: The wash sale
+@Z: Tax Rules: The Wash Sale
 
-<pic images/stock-market.ps These two Wall Street ties probably don't
-care about the wash sale rule; instead, they are speculating like
-there's no tomorrow.>
+<pic images/stock-market.ps These two Wall Street ties probably don't care about the wash sale rule; instead, they are speculating like there's no tomorrow.>
 
 <em>Michael</em> 
 Stock investors in this country enjoy surprisingly generous tax
-regulations. For example, one only pays a tax on stock gains.
-<LINK>http://taxes.about.com/od/capitalgains/a/CapitalGainsTax_4.htm|
-Long Term Capital Gains Tax</LINK>
-The so-called flat tax of a maximum of 15% applies if at least twelve
+regulations. For example, on stock gains, the investor only pays
+the moderate
+<LINK>http://taxes.about.com/od/capitalgains/a/CapitalGainsTax_4.htm|Long Term Capital Gains Tax</LINK>.
+Regardless of their income tax bracket, lucky stock market winners only pay
+a maximum of 15% if at least twelve
 months pass between the purchase and sale of a stock.
+
+TODO
 
 The state particularly promotes the super-rich, who rake in billions
 in profits with this method and pay a ridiculous 15% in taxes. The
