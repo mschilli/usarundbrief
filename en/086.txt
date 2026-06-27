@@ -124,37 +124,32 @@ traffic code, it is prohibited to let the tires be screeching excessively
 loud during acceleration. This so-called "Exhibition of Speed" is
 punished with hefty fines and can be punished by suspending your driver's license.
 
-TODO
+It is strictly forbidden to race on public roads. 
+One should not get caught by police playing popular games like
+"Which car accelerates the fastest from the traffic
+light when it turns green" and "Whoever brakes loses."
+And in organized "Speed Contests" (street
+races, also known as "Drag Races"), even assisting or merely
+watching are punishable offenses
+(<LINK>http://www.dmv.ca.gov/pubs/vctop/d11/vc23109.htm|Regulation 23109</LINK>),
+even with prison sentences!
 
-Translation: It is strictly forbidden to race on public roads. In the
-popular games "Which car accelerates the fastest from the traffic
-light when it turns green" and "Whoever brakes loses," one should not
-get caught by the police. And in organized "Speed Contests" (street
-races, also known as "Drag Races"), even assisting and merely
-watching are punishable offenses.
-<LINK>http://www.dmv.ca.gov/pubs/vctop/d11/vc23109.htm|Verordnung
-23109" translates to "Regulation 23109" in English.</LINK>
-... even promises a prison stay for it!
+<pic images/cop-donut.ps ... but this man of the law would quickly put an end to the spectacle.>
 
-<pic images/cop-donut.ps ... but this lawman would quickly put an end
-to the spectacle.>
-
-The brother of a coworker once got a ticket because he started
+The brother of a coworker of mine once got a ticket because he started
 honking behind a slow driver who didn't want to turn. A police
 officer in his patrol car heard this, pulled him over, and issued a
 fine for "road rage," meaning aggression in traffic.
 
-<pic images/jaywalking.ps These rustic bumpkins could be given a
-ticket by a bored police officer for jaywalking.>
+<pic images/jaywalking.ps These rustic bumpkins could be given a ticket by a bored police officer for jaywalking.>
 
 Even as a pedestrian, you have to be careful. You are not allowed to
 simply cross the street anywhere between two consecutive traffic
-light intersections; instead, you must use a traffic light. Anything
-else is referred to by the legislator as jaywalking.
-<LINK>http://www.legal-news-california.tozerlaw.com/jaywalking_califo
-rnia.html|"Jaywalking"</LINK>
-..and is fined $25 for it. With the penalty surcharges explained in
-the last newsletter, the fine then amounts to $108! Regarding the
+light intersections; instead, you must cross at the traffic light. Anything
+else is referred to by the legislator as
+<LINK>http://www.legal-news-california.tozerlaw.com/jaywalking_california.html|"jaywalking"</LINK>, punishable by a 
+$25 fine. With the penalty surcharges explained in
+the last newsletter, that fine then will amount to $108! Regarding the
 origin of the word: A "Jay" is a rustic simpleton, someone who does
 not behave appropriately in the city. However, the authorities only
 intervene in such offenses when they are extremely bored or looking
@@ -165,19 +160,14 @@ reaction.
 
 Another interesting topic: Is it allowed to ride a bicycle on the
 sidewalk? It depends on the county. For example, it is allowed by
-the...
-<LINK>http://qcode.us/codes/sunnyvale/view.php?topic=10-10_56-10_56_1
-40|Bicycle Ordinance of the Silicon Valley City of Sunnyvale</LINK>
-The translation of the provided text is: "Persons over 62 and
-children under 13 years, unless the sidewalk is directly in front of
-a school or a business. And
-<em>jeder</em> 
-The translation to English is: "is allowed to ride on the sidewalk in
+the <LINK>http://qcode.us/codes/sunnyvale/view.php?topic=10-10_56-10_56_140|Bicycle Ordinance of the Silicon Valley City of Sunnyvale</LINK>:
+"Persons over 62 and children under 13 years, unless the sidewalk is directly in front of a school or a business. And
+<em>everyone</em> 
+is allowed to ride on the sidewalk in
 Sunnyvale if, as the law vaguely states, the street is too dangerous
 for cyclists.
 
-<pic images/right-on-red.ps (#11) Only if it is explicitly
-prohibited, you are not allowed to turn right on red.>
+<pic images/right-on-red.ps (#11) Only if it is explicitly prohibited, you are not allowed to turn right on red.>
 
 In Germany, you are allowed to turn right on red at specially
 designated traffic lights if it can be done safely. In America, this
@@ -191,8 +181,7 @@ with its many one-way streets, sometimes even while police cars were
 in the neighboring lane--no problem, as long as you make a brief stop
 beforehand!
 
-<pic images/no-left-except.ps (#12) Left turn prohibited between 4 PM
-and 6 PM, except on Sundays.>
+<pic images/no-left-except.ps (#12) Left turn prohibited between 4 PM and 6 PM, except on Sundays.>
 
 In some places, the prohibition signs also display a time, and
 sometimes even an exception rule. For example, on Mission Street in
@@ -203,40 +192,28 @@ turns are permitted, which English speakers can deduce from the
 many people only speak Spanish, which means that hardly anyone takes
 advantage of this traffic loophole on late Sunday afternoons.
 
-<pic images/left-turn-double-yellow.ps Is the BMW allowed to cross
-the double solid yellow line to turn left onto Julian Street? Yes,
-completely legal.>
+<pic images/left-turn-double-yellow.ps Is the BMW allowed to cross the double solid yellow line to turn left onto Julian Street? Yes, completely legal.>
 
-Translate to English: Here are some more curiosities: Double solid
+Here are some more curiosities: Double solid
 yellow lines in the middle of the road do not mean that you cannot
 turn left into a side street or driveway. This is only prohibited if
 there are four (!) solid lines. Two solid yellow lines merely mean
-that you cannot...
-<em>überholen</em> 
-A U-turn (pronounced "Juh-Turn"), which is a 180-degree turn, is
-according to the...
-<LINK>http://www.dmv.ca.gov/pubs/hdbk/turns.htm|The translation of
-"California Driver Handbook" to English is "California Driver
-Handbook." It is already in English.</LINK>
-In this case, it is also allowed unless it is explicitly prohibited
-otherwise.
+that you cannot pass someone.
+Even a U-turn, which is a 180-degree turn, is permitted in this case
+according to the <LINK>https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/navigating-the-roads/|"California Driver Handbook"</LINK>, unless it is explicitly prohibited otherwise.
 
-<pic images/left-double-yellow-entrance.ps Is the delivery van
-allowed to cross the double solid yellow line to turn left into the
-auto repair shop? You bet.>
+<pic images/left-double-yellow-entrance.ps Is the delivery van allowed to cross the double solid yellow line to turn left into the auto repair shop? You bet.>
 
-In residential areas, the driver is only allowed to make a U-turn if
+In residential areas, however, the driver is only allowed to make a U-turn if
 no other vehicle is approaching within 60 meters. However, U-turns
 are prohibited in so-called "Business Districts," which also include
 areas with churches, apartment buildings, nightclubs, and public
 buildings. Interestingly, the manual also points out that U-turns are
 prohibited on one-way streets. Something to think about, right!
 
-@Z: Augentest und Verkehrsfalle" translates to "Eye test and traffic
-trap" in English.
+@Z: Vision Test And A Moving Violation
 
-<pic images/dmv-licenses-sign.ps To renew the driver's license, one
-must show up in person every 15 years and pass an eye test.>
+<pic images/dmv-licenses-sign.ps To renew the driver's license, one must show up in person every 15 years and pass a vision test.>
 
 <em>Angelika</em> 
 Recently, I myself fell into the trap of the American traffic sign
@@ -244,15 +221,15 @@ jungle. How did that happen? In California, a driver's license is
 valid for five years, after which it can be renewed without a new
 test for a fee of $31. Usually, this can be done quite painlessly by
 mail or over the internet. However, for the third renewal, the DMV
-requires an eye test, which, of course, can only be completed in
+requires a vision test, which, of course, can only be completed in
 person on-site.
 
-This year, it was time for my eye test. So, I made an appointment at
+This year, it was time for my vision test. So, I made an appointment at
 the DMV (the driver's license office), and since there were no
 available slots in San Francisco anytime soon, I spontaneously
 decided to go to San Mateo, a small town about a 20-minute drive
 south of San Francisco. Michael, of course, teased me for days,
-saying I wouldn't pass the eye test, but everything went smoothly. I
+saying I wouldn't pass the vision test, but everything went smoothly. I
 must admit, though, that the test seems to be from another era.
 Behind the counter, there are three boards, each with five rows of
 five letters, and the clerk determines the number of the board and
@@ -261,14 +238,12 @@ largest, and those in the last row are the smallest. I had to read
 three rows on different boards, one with both eyes, and the others
 with only one eye while the other was covered. If you can read at
 least the middle row, the test is considered passed. Then, a new
-photo was quickly taken, and my thumbprint was recorded. The clerk
+passport photo was quickly taken, and my thumbprint was recorded. The clerk
 handed me a temporary driver's license, essentially a piece of paper,
 and told me that the new driver's license would be mailed to me in
 the coming weeks, and just like that, I was out again.
 
-<pic images/eye-exam.ps The phrase is in a mix of German and a
-regional dialect, likely from the Rhineland area. In English, it
-translates to: "Eye test at the DMV: Should we let him through?>
+<pic images/eye-exam.ps "Vision test at the DMV: Should we let him pass?>
 
 In a good mood, I set off on my way home, but only made it to the
 second intersection when I saw a police officer on a motorcycle with
@@ -293,30 +268,29 @@ warning.
 
 It was funny when the police officer asked me where I had just come
 from, and I replied that I had been at the driver's license office
-for an eye test. Even he had to laugh at that. Well, the fun cost me
+for an vision test. Even he had to laugh at that. Well, the fun cost me
 a cool $300 and quite a bit of time and nerves due to the traffic
-school, which I completed online like Michael.
-<RBLINK>20080502#1</RBLINK>
-...which at times drove me to the brink of madness. When the program
+school, which I completed online, like Michael (<RBLINK>20080502#1</RBLINK>).
+The course drove me to the brink of madness. When the program
 informed me that every driver must ensure they have enough mobility
 in the neck area to look over their shoulder, I was reminded of
 American instruction manuals that list things like not putting the
 cat in the microwave.
 
-@Z: Car tires from the internet
+@Z: Car Tires From The Internet
 
-<pic images/tirerackcom.ps The online tire retailer "Tire Rack>
+<pic images/tirerackcom.ps The online tire retailer "Tire Rack">
 
 <em>Michael</em> 
-Recently, Angelika drove home with a nearly flat car tire due to a
+Recently, Angelika drove home with a nearly flat car tire, which had picked
+up a
 nail. Fortunately, our car has a $15 pump from China in the trunk,
 which I plugged into the cigarette lighter. After making a hellish
 noise for 10 minutes, it brought the tire back to normal pressure.
 With that, I drove to the giant supermarket Costco, which, according
 to the internet, repairs tires purchased from them for free.
 
-<pic images/compressor.ps With this Chinese compressor, you can
-temporarily inflate a punctured tire again.>
+<pic images/compressor.ps With this Chinese compressor, you can temporarily inflate a punctured tire again.>
 
 In America, it is quite common to patch holes in tires, but the
 Costco guy found this case too tricky because the nail was only 1 cm
@@ -326,12 +300,11 @@ salesperson assured me that I would get my money back if I found the
 tire model somewhere else and then exchanged the old tire with the
 nail in it at Costco.
 
-<pic images/tirerack.ps The online retailer tirerack.com shipped the
-tire from Indiana within two days.>
+<pic images/tirerack.ps The online retailer tirerack.com shipped the tire from Indiana within two days.>
 
-In the internet, I purposefully chose the super tire dealer.
+On the internet, I chose the super tire dealer
 <LINK>tirerack.com|tirerack.com</LINK>
-.. who offered the tire for $59 plus $16 shipping fees. Since "Tire
+which offered the tire for $59 plus $16 shipping fees. Since "Tire
 Rack" operates out of the state of Indiana, there was no California
 sales tax applied. And just two days later, the UPS delivery person
 dropped the tire off at our apartment door! It wasn't even packaged,
@@ -339,13 +312,12 @@ just a label with our address was stuck on it. If I worked at UPS, I
 probably would have rolled it down the hallway to the door from the
 elevator with a push!
 
-<pic images/spare-tire.ps The spare tire from the trunk also helps to
-get by.>
+<pic images/spare-tire.ps The spare tire from the trunk also helps in an emergency.>
 
 When you order from Tire Rack, you can have the tires delivered
 directly to one of dozens of local workshops, where they will be
 professionally installed. However, Costco does not install tires that
-you didn't purchase there. Following the advice of the Costco
+you haven't purchased there. Following the advice of the Costco
 employee, I had to go to a mechanic in the Mexican neighborhood of
 Mission, whose business card he handed me, to have the tire installed
 for $25. In the suburb of South San Francisco, someone would have
@@ -354,40 +326,33 @@ tire. Afterwards, I went back to Costco, presented the old tire, and
 since it had less than 50% tread left, I received a refund of 50% of
 the original purchase price, which was $55--not bad!
 
-<pic images/wheel.ps The rocket is running again with new killer
-tires.>
+<pic images/wheel.ps The rocket is running again with new killer tires.>
 
 Why you can exchange tires with nails in them wasn't entirely clear
 to me, but as they say in Bavaria, "he who asks a lot goes astray."
-The man at the exchange counter asked me what was wrong with the
+The man at the customer service counter asked me what was wrong with the
 tire, and I replied that there was a nail in it and the tire guys
 couldn't repair it. Without complaint, he refunded the $55 to my
 credit card. That's what I call customer service...
 
-@Z: Calling Shotgun: Who gets to sit in the front seat of the car?
+@Z: Calling Shotgun
 
-<pic images/riding-shotgun.ps This gentleman undoubtedly called
-"Shotgun!" in the parking lot and is now visibly enjoying riding in
-the front passenger seat instead of having to sit in the back.>
+<pic images/riding-shotgun.ps This gentleman undoubtedly called "Shotgun!" in the parking lot and is now visibly enjoying riding in the front passenger seat instead of having to sit in the back.>
 
 <em>Michael</em> 
 When forming a carpool, children and teenagers often start bickering
-about who gets to sit in the front seat and who has to sit in the
+about who gets to sit in the front passenger seat and who has to sit in the
 back. That's why in America, it's common for the person who first
 calls out "Shotgun!" to be allowed to sit in the front seat. There
 are different regional rules, but usually, it's only permitted to
 call "Shotgun!" when the car is within sight. In case of a dispute,
 the caller must prove this by pointing to the parked car.
 
-<pic images/stagecoach.ps (#5) Next to the coachman in the Wild West,
-on guarded transports, sat the man with the "shotgun" (from the movie
-"Stagecoach" with John Wayne).>
+<pic images/stagecoach.ps (#5) Next to the coachman in the Wild West, on guarded transports, sat the man with the "shotgun" (from the movie "Stagecoach" with John Wayne).>
 
-The term
-<LINK>http://en.wikipedia.org/wiki/Riding_shotgun|Riding shotgun" is
-an informal expression that means sitting in the front passenger seat
-of a vehicle, next to the driver.</LINK>
-The phrase originates from the times of the Wild West, when a
+The phrase
+<LINK>http://en.wikipedia.org/wiki/Riding_shotgun|Riding shotgun</LINK>
+originates from the times of the Wild West, when a
 stagecoach would have an armed guard riding alongside the driver on
 the coach box during secured transports. In illustration (#5), you
 can see a scene from the movie "Stagecoach" with John Wayne, showing
@@ -398,90 +363,70 @@ Keeney from 1905. Even today, "Riding Shotgun" refers to sitting in
 the front passenger seat, and "Calling Shotgun" refers to claiming
 that seat.
 
-@Z: The German phrase "ZÃ¼ndeln, aber nicht immer" translates to
-English as "Kindling, but not always." The rest of the text, "Air
-Quality Forecast," is already in English.
+@Z: No Fireplace Fire During Spare The Air Days
 
-<pic images/fireplace.ps A cozy warm fireplace. Our open fireplace is
-subject to the ignition ban by the San Francisco Air Quality
-Management District.>
+<pic images/fireplace.ps Our open fireplace is subject to the ignition ban by the San Francisco Air Quality Management District.>
 
 <em>Michael</em> 
 A crackling fire in the fireplace spreads cozy warmth and a
 comfortable atmosphere. However, instead of logs, we tend to burn
-4-hour Duraflame logs from the supermarket.
-<RBLINK>20041129#2</RBLINK>
-... because burning wood not only involves work in obtaining it, but
+4-hour Duraflame logs from the supermarket (<RBLINK>20041129#2</RBLINK>)
+because burning wood not only involves work in obtaining it, but
 also requires constant replenishing.
 
 This type of heat generation is not entirely environmentally
 friendly, and therefore the city of San Francisco prohibits the
 burning of material in fireplaces on particularly hot or smoggy days.
 This applies not only to the handful of days designated as official
-Spare-the-Air Days.
-<RBLINK>20060720#2</RBLINK>
-The translation to English is: "are declared and on which public
-transportation is partially free.
+Spare-the-Air Days (<RBLINK>20060720#2</RBLINK>)
+which are declared and the city makes public transportation is partially free
+to entice commuters to leave their cars at home.
 
-<pic images/spare-the-air-ok.ps Translation: "Burning allowed: The
-Spare-the-Air police give their OK for fireplace fires in San
-Francisco.>
+<pic images/spare-the-air-ok.ps Burning allowed: The Spare-the-Air police give their OK for fireplace fires in San Francisco.>
 
 Whether or not fireplaces are allowed on a particular day can easily
-be checked on the...
-<LINK>http://www.baaqmd.gov/The-Air-District/AQ-Ratings.aspx|The
-translation of "Air Quality Forecast" to English is "Air Quality
-Forecast.</LINK>
-Check on the internet. If there is a green sign, you are allowed to
-light a fire, but if it is red, it is prohibited under penalty. It is
+be checked on the
+<LINK>http://www.baaqmd.gov/The-Air-District/AQ-Ratings.aspx|Air Quality Forecast</LINK>
+site on the internet. If there is a green sign, you are allowed to
+light a fire in the fireplace, but if it is red, it is prohibited under penalty. It is
 rumored that mobile teams patrol the city on prohibited days,
-observing chimneys for suspicious smoke plumes. The law-abiding
-citizen registers on baaqmd.gov and then receives emails with the
+observing chimneys for suspicious smoke plumes. Law-abiding
+citizen can register on baaqmd.gov and then receive emails with the
 current conditions.
 <em>Addendum 01/2014:</em> 
-Die Postille" translates to "The Devotional" or "The Homily" in
-English. The term "Postille" generally refers to a collection of
-sermons or religious writings intended for personal reflection or
-study.
-<LINK>http://halfmoonbay.patch.com/groups/politics-and-elections/p/sp
-are-the-air-alerts-do-people-really-get-caught_78a3fcfc-halfmoonbay|H
-alf Moon Bay Patch reports | $100 fine for Spare-The-Air
-violators</LINK>
-Translation: "Environmental offenders who burn wood in the fireplace
+The rag
+<LINK>http://halfmoonbay.patch.com/groups/politics-and-elections/p/spare-the-air-alerts-do-people-really-get-caught_78a3fcfc-halfmoonbay|H alf Moon Bay Patch reports</LINK>
+that offenders who burn wood in the fireplace
 during Spare-The-Air days must pay a $100 fine.
 
-<pic images/spare-the-air-no-ban.ps The ban on lighting fires is in
-effect only during the "Spare the Air Season" from the beginning of
-November to the end of February.>
+<pic images/spare-the-air-no-ban.ps The ban on lighting fires is in effect only during the "Spare the Air Season" from the beginning of November to the end of February.>
 
 However, the ban only applies on certain days during the "Spare the
 Air Season" from early November to the end of March. In April, we
-could fire up as much as we wanted again and make the apartment
-comfortably warm at a chilly 13 degrees Celsius outside temperature.
+were allowed to fire up as much as we wanted again and make the apartment
+comfortably warm while the outside temperature was a chilly 13 degrees Celsius.
 
-@Z: Attention tax experts: The wash sale
+@Z: Tax Rules: The Wash Sale
 
-<pic images/stock-market.ps These two Wall Street ties probably don't
-care about the wash sale rule; instead, they are speculating like
-there's no tomorrow.>
+<pic images/stock-market.ps These two Wall Street ties probably don't care about the wash sale rule; instead, they are speculating like there's no tomorrow.>
 
 <em>Michael</em> 
 Stock investors in this country enjoy surprisingly generous tax
-regulations. For example, one only pays a tax on stock gains.
-<LINK>http://taxes.about.com/od/capitalgains/a/CapitalGainsTax_4.htm|
-Long Term Capital Gains Tax</LINK>
-The so-called flat tax of a maximum of 15% applies if at least twelve
+regulations. For example, on stock gains, the investor only pays
+the moderate
+<LINK>http://taxes.about.com/od/capitalgains/a/CapitalGainsTax_4.htm|Long Term Capital Gains Tax</LINK>.
+Regardless of their income tax bracket, lucky stock market winners only pay
+a maximum of 15% if at least twelve
 months pass between the purchase and sale of a stock.
 
-The state particularly promotes the super-rich, who rake in billions
+With this tax law, the state particularly favors the super-rich, who rake in billions
 in profits with this method and pay a ridiculous 15% in taxes. The
 billionaire and stock market expert Warren Buffet once claimed that
 his tax rate is lower than that of his secretary. The man
 deliberately keeps his salary low and derives the lion's share of his
 income from long-term capital gains on carefully selected stocks.
 
-<pic images/chicago-board-of-trade.ps The American government
-encourages citizens to invest in stocks.>
+<pic images/chicago-board-of-trade.ps The American government encourages citizens to invest in stocks.>
 
 On the other hand, the state benefits from the long-term investments
 of the super-rich in stocks of American companies. The super-rich
@@ -490,53 +435,49 @@ savings deposits, which is why they prefer to pump their billions
 into the riskier stocks. Day traders, who realize speculative gains
 through short-term buying and selling, are a thorn in the side of the
 state. However, due to the twelve-month rule, they miss out and have
-to tax their gains as regular income.
+to pay taxes on their gains at the normal income tax rate.
 
-<pic images/stocks-bad-day.ps Stock losses can be mitigated if one
-observes the wash sale rule.>
+<pic images/stocks-bad-day.ps Stock losses can be mitigated if one observes the wash sale rule.>
 
 Another interesting rule applies to losses: The tax expert deducts
-these from existing stock gains and only taxes what remains in the
+these from existing stock gains and only pays taxes on what remains in the
 end. If your stock transactions result in an overall loss for the
 year, citizens are even allowed to deduct up to $3,000 from their
-other income. While this doesn't replace the lost money, at least
-they don't have to pay income tax on the squandered amount, which
-can, as previously mentioned,
-<RBLINK>991120#2</RBLINK>
-The translation to English is: "explains that for high earners in
-California, it amounts to almost 50%. If the loss exceeds $3000, the
+other income. While this won't cover the losses, at least
+you don't have to pay income tax on the squandered amount, which
+can, as previously mentioned, be significant (<RBLINK>991120#2</RBLINK>).
+Looking at the graph in the old issue, you can see that for high earners in
+California, income tax amounts to almost 50%. If the loss exceeds $3000, the
 taxpayer is allowed to carry forward the remaining amount to future,
 hopefully more successful years, but never more than $3000 per year.
 
-<pic images/tax-despair.ps The young lady has just realized that she
-cannot deduct a realized stock loss due to the wash sale rule.>
+<pic images/tax-despair.ps The young lady has just realized that she cannot deduct a realized stock loss due to the wash sale rule.>
 
 But even here, the state protects itself from speculators. For
-example, someone who owns a plummeted stock could sell it at a loss,
+example, someone who owns a plummeted stock, could sell it at a loss,
 deduct the loss, and then immediately buy it back to reap the profit
 if the price recovers shortly thereafter. However, the tax legislator
-is not naive, as they call a transaction where less than 30 days pass
+ain't no fool, and they call a transaction where less than 30 days pass
 between the sale and repurchase of a stock a "wash sale," and
 prohibit the deduction of the loss.
 
-This also applies in the event that the repurchase...
-<em>vor</em> 
-The loss-making sale took place because otherwise, one could easily
+This also applies in the event that the repurchase happens
+<em>before</em> 
+the loss-incurring sale took place, because otherwise, one could easily
 circumvent the wash sale rule by buying a second batch of the stock
-cheaply and then shortly after selling the first batch and claiming
+cheaply, only to sell the first batch shortly after and claiming
 the loss. Here too, there must be at least 30 days between the two
-transactions; otherwise, the investor bears the entire loss
-themselves. If you sell the stocks at a profit, a "wash sale" doesn't
+transactions; otherwise, the investor can't deduct the loss.
+If you sell stock at a profit, a "wash sale" doesn't
 matter because there's nothing to deduct. Tax programs like "Turbo
-Tax" are, of course, well-versed in the rule and correctly enter any
+Tax" are, of course, well-versed in applying the rule and correctly display any
 deductible amounts. But if you can rattle off the definition of the
 term "wash sale," you know more about American tax law than 99% of
 all Americans.
 
-@Z: Health insurance for everyone
+@Z: Health Insurance For Everyone
 
-<pic images/operation.ps Blessed is the one who has good health
-insurance.>
+<pic images/operation.ps Blessed is the one who has good health insurance.>
 
 <em>Angelika</em> 
 It is accomplished: On March 23, Obama signed the "Patient Protection
@@ -547,7 +488,7 @@ as it includes many poor compromises, it at least stipulates that
 starting in 2014, almost all Americans and legal residents must have
 health insurance.
 
-Until 2014 is, of course, still a long way off, but important parts
+Now, 2014 is, of course, still a long way off, but important parts
 of the law will already be implemented in 2010. Most notably, the
 so-called exclusion clauses of private insurers for individual
 policies will disappear immediately: Health insurance companies will
@@ -567,10 +508,9 @@ exhausted, especially given the absurd prices of the American
 healthcare system. Furthermore, parents are now allowed to insure
 adult children up to the age of 26.
 
-<pic images/pills-and-money.ps The costs of the American healthcare
-system are skyrocketing.>
+<pic images/pills-and-money.ps The costs of the American healthcare system are skyrocketing.>
 
-And pre-existing conditions may no longer be excluded for children
+Also, pre-existing conditions may no longer be excluded for children
 from now on. If a child suffers from asthma, for example, a new
 insurance company cannot refuse to cover costs related to the asthma
 when switching insurance. Adults who could not find insurance
@@ -585,21 +525,19 @@ per person. Even self-employed individuals will no longer be able to
 avoid getting insured. Low-income earners will receive tax benefits
 to help pay for health insurance premiums.
 
-@Z: The translation of "VolkszÃ¤hlung mit Werbespots" to English is
-"Census with commercials.
+@Z: Census Commercials
 
-<pic images/census-ch-spot.ps In an exemplary manner, the Chinese
-American in the commercial sends back his completed census form.>
+<pic images/census-ch-spot.ps In an exemplary manner, the Chinese American in the commercial sends back his completed census form.>
 
 <em>Angelika</em> 
-In the USA, as is well known, there is no registration law, so
-theoretically the government does not know who lives where. However,
+There is no citizen registration requirement in the USA,
+so in practice, the government has no idea who lives where. However,
 it is quite important to know how many residents live in a particular
 region or state, because government funds are often distributed
-proportionally to population density. Every 10 years...
-<RBLINK>20000526#5</RBLINK>
-The sentence translates to: "This is why the state counts its sheep,
-and this year, too, I dutifully filled out the questionnaire and sent
+proportionally to population density. 
+This is why every ten years, the state counts its sheep
+(<RBLINK>20000526#5</RBLINK>).
+This year, too, and I dutifully filled out the questionnaire and sent
 it back immediately. A few days later, a reminder card even arrived
 for those who were late in filling it out.
 
@@ -613,27 +551,25 @@ for statistical purposes.
 
 Many immigrants do not understand what it is about, partly due to a
 lack of English skills. Since May, the Census Bureau (US Census
-Bureau) has been sending employees door-to-door to help households
-fill out the questionnaires and thus still achieve an accurate count.
-The agency even invested 2.5 million dollars for a 30-second long...
-<LINK>http://www.youtube.com/watch?v=zzkFYpO_h14|Volkszählungs-Werbes
-pot</LINK>
-translation provided for the Super Bowl broadcast in February. The
+Bureau) has been sending their servants door-to-door to help households
+fill out the questionnaires, so that the bureau can achieve an accurate count.
+The agency even invested 2.5 million dollars for a 30-second long
+<LINK>http://www.youtube.com/watch?v=zzkFYpO_h14|TV ad</LINK>
+for the Super Bowl broadcast in February. For our foreign readers, the
 Super Bowl is the final of the American professional football league
 and is considered the sporting event with the highest viewership of
-the year. Interestingly, viewers not only watch the game with
+the year. Curiously, viewers not only watch the game with
 interest but also the commercials. Due to the high viewership,
 companies are eager to show commercials during the game breaks, even
-though they have to pay exorbitant amounts for it. For residents who
-only speak Chinese, a translation was even provided on the Chinese
-channel.
-<LINK>http://www.youtube.com/watch?v=_iltfo8mDVM|The translation of
-"chinesische Version" to English is "Chinese version.</LINK>
-The German word "angeboten" translates to "offered" in English.
+though they have to pay exorbitant amounts for the privilege.
+And, on the Chinese channel, the census ad even was provided in Chinese
+for those residents who don't speak English:
+<LINK>http://www.youtube.com/watch?v=_iltfo8mDVM|Chinese version</LINK>.
 
 <pic images/census-form.ps The census form.>
 
-The ten-year cycle of the census is actually mandated by the American
+By the way,
+the ten-year cycle of the census is actually mandated by the American
 Constitution. It involves counting all residents living in the USA,
 both American and non-American citizens (legal and illegal alike).
 This practice is, of course, not without controversy, because the
@@ -644,3 +580,6 @@ therefore, non-voters have a not insignificant political influence.
 We also belong to this group, as only American citizens are allowed
 to vote in the USA.
 
+Greetings from San Francisco in May:
+
+Angelika \& Michael
