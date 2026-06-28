@@ -436,8 +436,6 @@ runs along a stretch of Fell Street, and otherwise avoid this location.
 
 <pic images/raisin-brahms.ps Johannes Brahms as an advertising figure for breakfast cereal?>
 
-TODO
-
 <em>Michael</em> 
 While TV channel surfing the other day, I noticed the
 <LINK>http://www.youtube.com/watch?v=kKgBdrsqvjs|Advertisement for Raisin Brahms</LINK>
@@ -457,13 +455,13 @@ topic 'This is how Americans see Germans!'
 
 <pic images/donner-lake.ps On the beach of Donner Lake.>
 
-TODO
-
 <em>Angelika</em> 
-On July 4th, Americans celebrate their Independence Day, and we
+On July 4th, Americans celebrate Independence Day, and we
 always use the long weekend for a short trip. Although the date fell
 on a Sunday this year, thanks to a brilliant rule in America, Monday
-is a day off if a holiday falls on a weekend.
+is a day off if a holiday falls on a weekend!
+
+TODO
 
 We went with our friends Conny and Roland to the popular vacation
 area at Lake Tahoe. In the winter, half of the Bay Area goes skiing
