@@ -287,81 +287,66 @@ rolls stacks of coins and takes them back to the bank, the employees
 measure the length of the wrapped rolls with a ruler and can
 precisely determine if a coin is missing.
 
-TODO
-
 Constantly carrying small change in your pocket is really annoying,
 but it accumulates involuntarily when you pay small amounts in cash
 and don't want to spend minutes at the checkout rummaging through
-your wallet. As mentioned once before in the...
-<RBLINK>20051208#4</RBLINK>
-The translation to English is: "mentioned, the underground Muni
-stations in the city center are pretty much the only way to pay with
-a bag of penny coins without attracting unwanted attention.
+your wallet. As mentioned once before in <RBLINK>20051208#4</RBLINK>,
+using the underground Muni
+stations near city center are pretty much the only way to pay with
+a bag of pennies without attracting unwanted attention.
 
-<pic images/quarter-rolls.ps 40 dollars in quarters in coin rolls
-from the bank.>
+<pic images/quarter-rolls.ps 40 dollars in quarters in coin rolls from the bank.>
 
-Many Americans seem to have coins burning holes in their pockets,
-because the company...
-<LINK>http://coinstar.com|Coinstar</LINK>
-The sentence translates to: "has even developed a business model
-around the problem and professionalized the switching process.
+Now, many Americans seem to have coins burning holes in their pockets,
+because the company <LINK>http://coinstar.com|Coinstar</LINK>
+has developed a business model
+around the problem and professionalized the coin exchange process.
 
-<pic images/cstar.ps A Coinstar machine in a supermarket.>
+<pic images/cstar.ps A Coinstar machine at a supermarket.>
 
-The service-oriented American empties their bag of coins into the
+Service-oriented Americans empty their sack of coins into the
 collection funnel of a Coinstar machine, which is sometimes located
 at the exit of busy supermarkets like Safeway. Coinstar keeps 9.8
 cents per dollar as a fee and returns 90.2% of the money in exchange.
 In supermarkets, however, the machine only dispenses a voucher, which
-can be redeemed at the checkout. For odd amounts, however, you end up
-receiving coins again.
+can be redeemed at the checkout. If you then pay for your groceries later,
+for odd amounts, however, you end up receiving coins again.
 
-@Z: Top product: The wring mop
+@Z: Top product: The Wringer Mop
 
-<pic images/wring-mop-wash.ps Simply dip the wring mop ...>
+<pic images/wring-mop-wash.ps Simply dip the wringer mop ...>
 
 <em>Michael</em> 
-Cleaning is notoriously exhausting, and any relief provided by
-high-tech tools is warmly welcomed. This is especially true in the
-bathroom with its countless nooks and crannies, where the
-so-called...
-The link you provided appears to be a YouTube video, and the text
-"Smart Mop aus der TV-Werbung" translates to "Smart Mop from the TV
-commercial" in English.
-The German word "unschlagbar" translates to "unbeatable" in English.
+House cleaning is notoriously exhausting, and any relief provided by
+high-tech tools you can sign me up for. This is especially true during
+bathroom cleaning, while wiping countless nooks and crannies, where the
+so-called 
+<LINK>http://www.youtube.com/watch?v=Rr6qaG8RlUk|"Smart Mop" from a TV commercial</LINK>
+is unbeatable.
 
-<pic images/wring-mop-wring.ps The German word "auswringen"
-translates to "wring out" in English.>
+<pic images/wring-mop-wring.ps Wring it!>
 
 Professional cleaning crews do wring out mops using bucket presses,
-at least that's how it was back when I used to polish the floors at
+at least that's how it was during a previous career, back when I used to polish the floors at
 the MAN company in Augsburg during my school days to earn some extra
-pocket money. However, such equipment is obviously out of the
+money. However, such equipment is obviously out of the
 question due to lack of space in our apartment, so one day, on a
-whim, I bought a mop at Target.
+whim, I bought the mop at Target.
 
-<pic images/wring-mop-wipe.ps ... and the dirt in the corner is going
-to get it.>
+<pic images/wring-mop-wipe.ps ... and the dirt in the corner is going to get it.>
 
-Certainly! The translation of the German text to English is:
+Although I haven't yet mastered the art of swinging a mop as elegantly as
+pitchman Anthony Sullivan (<RBLINK>20090529#8</RBLINK>) cleaning the bathroom
+is notably quicker. Allegedly, you can simply put the dirty mop head in the
+washing machine for cleaning.  The only downside: Even when wrung out, it takes
+forever for the mop strands to be completely dry. Nevertheless, I'm calling it
+a Rundbrief Top Product!
 
-"Although I do not yet master the art of swinging a mop as elegantly
-as pitchman Anthony Sullivan,"
+@Z: How To Register a Car?
 
-If you have more text or need further assistance, feel free to let me
-know!
-<RBLINK>20090529#8</RBLINK>
-), but cleaning the bathroom is really quicker. Allegedly, you can
-simply put the dirty mop head in the washing machine for cleaning.
-The only downside: Even when wrung out, it takes forever for the mop
-strands to be completely dry. Nevertheless, it's a top product!
+<pic images/dmv-california.ps Who would want to drive around without a California license plate?>
 
-@Z: The translation of "Wie meldet man ein Auto an?" to English is
-"How do you register a car?
-
-<pic images/dmv-california.ps Who would want to drive around without
-a California license plate?>
+TODO
 
 <em>Michael</em> 
 What hardly anyone knows: Newcomers from other states must register a
