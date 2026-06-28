@@ -303,19 +303,21 @@ interest in preserving the language for future generations is now
 increasing. There are language courses again at the university and in
 high schools and kindergartens where only Hawaiian is spoken.
 
-@Z: Data protection written in lowercase
+@Z: Data Privacy Not A Priority
 
 <pic images/data-privacy.ps In the USA, they don't take data protection very seriously.>
 
 <em>Angelika</em> 
-The Germans have been having heated discussions lately regarding
-Google Street View. The Google cars photograph streets and houses to
+Germans have been having heated discussions lately regarding
+Google Street View. The Google roaming cars are photographing streets and houses to
 upload the photos to the internet, where users can access them
 anytime and from anywhere. I must admit that I use Google Street View
 constantly and find it extremely practical. Therefore, I found some
 reactions somewhat exaggerated. However, critically questioning who
 uses which data from public spaces and how is, on the other hand, a
 good idea.
+
+TODO
 
 I noticed how differently the topic of data protection is handled in
 the USA and Germany. Americans are generally considered to be
