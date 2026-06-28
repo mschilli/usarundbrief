@@ -461,18 +461,17 @@ always use the long weekend for a short trip. Although the date fell
 on a Sunday this year, thanks to a brilliant rule in America, Monday
 is a day off if a holiday falls on a weekend!
 
-TODO
-
 We went with our friends Conny and Roland to the popular vacation
-area at Lake Tahoe. In the winter, half of the Bay Area goes skiing
-there, and in the summer, the 500-meter deep lake invites you to swim
-or go boating. However, swimming requires some courage even in the
+area at Lake Tahoe. In the winter time, half of the Bay Area goes skiing
+there, and in the summer, the 500-meter deep lake invites swimmers and boaters.
+However, swimming requires some courage, even in the
 summer, as the water temperature fluctuates between only 13-17
 degrees Celsius even in the warm months.
 
-Now Tahoe is so popular that insiders in San Francisco and the
-surrounding area always talk about the obligatory Tahoe weekend
-traffic jam, which practically starts in San Francisco before the Bay
+Nowadays, Tahoe is so popular that insiders in San Francisco and the
+surrounding Bay Area are well aware of the obligatory Tahoe weekend
+traffic jam, which practically starts in San Francisco shortly before highway 80
+enters the Bay
 Bridge. A skilled driver can cover the 349 kilometers in four hours,
 but only on the night of Totensonntag at two in the morning. On an
 average Friday afternoon, you can easily spend 12 hours on the I-80
@@ -487,35 +486,35 @@ pleasant water temperature than Lake Tahoe.
 <pic images/sf-tahoe.ps The Long Road to Tahoe.>
 
 The lake owes its name to the Donner Party, a group of pioneers who
-sought their fortune in California but failed miserably due to the
+sought their fortune in California, but failed miserably due to the
 winter conditions and the Sierra Nevada mountains. The trek began in
 April 1846 in Springfield, Illinois, and chose a shortcut that was
-not actually a shortcut. As a result, the group took much longer than
-expected and only reached the area around Donner Lake in November
+not actually a shortcut. As a result, the journey took much longer than
+expected and the group only reached the area around Donner Lake in November
 1846, when the first snow had already fallen. The pioneers were
 forced to spend the winter near Donner Lake, but they only had
 provisions for one month. A small group attempted to seek help but
 failed miserably, and it was not until the end of February that a
 rescue party reached the trek and found a scene of horror: only 47 of
 the 89 pioneers had survived, and there were signs of cannibalism
-everywhere. The survivors had eaten human corpses.
+everywhere. The survivors had eaten human corpses of the deceased.
 
 Today, little is felt of the cruel history, although tiny gold
 particles in the water remind us of the wild California Gold Rush
-era. However, the most beautiful thing is that at the...
-<LINK>http://www.tdrpd.com/west_end_beach.htm|West End Beach" is
-already in English.</LINK>
-A cozy, almost nostalgic-looking beach bath is located at Donner
+era. However, the most beautiful part is
+<LINK>http://www.tdrpd.com/west_end_beach.htm|West End Beach</LINK>,
+where a cozy, almost nostalgic-looking beach bath is located at Donner
 Lake. It has everything you need: a lifeguard, a swimming area in the
 lake, mowed lawns, a playground, and a kiosk where you can buy
-delicious ice cream, as well as pedal boats. The daily admission is 3
+delicious ice cream, as well as rent pedal boats. The daily admission is 3
 dollars per person (children up to 17 pay 2 dollars). Unbeatably
 beautiful!
 
 @Z: Twitter and Food Trucks
 
-<pic images/taco-truck.ps Pioneer of the food truck industry: The
-taco truck.>
+<pic images/taco-truck.ps Pioneer of the food truck industry: The taco truck.>
+
+TODO
 
 <em>Michael</em> 
 Who would have thought that the internet would revolutionize the
