@@ -420,7 +420,7 @@ to be open even on Saturdays!
 I'm speculating here that the DMV location in the city of San Francisco is the gathering place
 for their worst employees, who have been
 forcibly transferred there and whom they want to force to resign. Also, the
-recommendation page <LINK>http://www.yelp.com/biz/department-of-motor-vehicles-san-francisco|only Yelp</LINK>
+recommendation page <LINK>http://www.yelp.com/biz/department-of-motor-vehicles-san-francisco|on Yelp</LINK>
 highlights what locals have long known: If you value your time, you simply drive to
 suburban San Mateo, located 15 miles to the south, or 7 miles
 over to the East Bay side, to the otherwise not
@@ -439,26 +439,25 @@ runs along a stretch of Fell Street, and otherwise avoid this location.
 TODO
 
 <em>Michael</em> 
-While channel surfing the other day, I noticed the...
-<LINK>http://www.youtube.com/watch?v=kKgBdrsqvjs|The translation to
-English is: "Advertisement for Raisin Brahms.</LINK>
+While TV channel surfing the other day, I noticed the
+<LINK>http://www.youtube.com/watch?v=kKgBdrsqvjs|Advertisement for Raisin Brahms</LINK>
 where the German composer Johannes Brahms drives a piano like a
-bulldozer through the wall of a house to the breakfast table of an
+bulldozer through the wall of a house, stops at the breakfast table of an
 average American family, shouts 'Good morning!' and praises the
-benefits of muesli with a pronounced German accent. I wonder who
-comes up with such ideas and under the influence of which drugs. Upon
+benefits of muesli, speaking with a pronounced German accent. I wonder who
+comes up with such ideas and under the influence of which drugs! Upon
 closer inspection, however, the commercial is not financed by the
-muesli manufacturer Kellogg's, but by the organization...
-<LINK>http://www.americansforthearts.org/public_awareness/the_ads/001
-.asp|Americans for the Arts</LINK>
-... a non-profit organization for the promotion of the arts. Anyway,
+muesli manufacturer Kellogg's, but by the organization
+<LINK>http://www.americansforthearts.org/public_awareness/the_ads/001.asp|Americans for the Arts</LINK>,
+a non-profit organization for the promotion of the arts. Anyway,
 it's funny, and another milestone on our research journey on the
 topic 'This is how Americans see Germans!'
 
-@Z: The translation of "Donner Lake" to English is "Donner Lake." The
-name is a proper noun and does not change when translated to English.
+@Z: Donner Lake
 
 <pic images/donner-lake.ps On the beach of Donner Lake.>
+
+TODO
 
 <em>Angelika</em> 
 On July 4th, Americans celebrate their Independence Day, and we
