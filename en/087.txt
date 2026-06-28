@@ -346,31 +346,29 @@ a Rundbrief Top Product!
 
 <pic images/dmv-california.ps Who would want to drive around without a California license plate?>
 
-TODO
-
 <em>Michael</em> 
 What hardly anyone knows: Newcomers from other states must register a
 car they bring with them at the Department of Motor Vehicles in
 California within two weeks and exchange the license plate for one
-with the pretty red inscription "California.
+with the pretty red inscription "California."
 
-Just as an aside: The total of seven letters and numbers on the
-license plate do not provide any indication of the city where the car
-is registered. This is different in Germany, and I always get annoyed
+It usually comes with seven letters and numbers
+which do not provide any indication of the city where the car
+was registered. This is different in Germany, and I always get annoyed
 when I have to drive around Munich in a rental car with an "HH-"
 license plate and no one lets me merge. In the USA, many people mount
 their license plates on plastic or chrome frames, which either
-indicate the dealer ("Peter Pan BMW San Mateo") or a company
+indicate the car dealer ("Peter Pan BMW San Mateo") or place of work
 ("Yahoo!"). Some states do not require a front license plate, but in
 California, the authorities issue two plates, and Section 5200 of the
-Traffic Code states that one must be mounted on the front and the
+Traffic Code states that one plate must be mounted on the front and the
 other on the rear of the car. Although many people drive around with
 only one plate, this just gives the police an opportunity to stop the
 car, snoop around, and potentially find other issues.
 
-<pic images/illinois-in-sf.ps License plates from the state of
-Illinois in San Francisco: For newcomers, only allowed for up to 14
-days.>
+<pic images/illinois-in-sf.ps License plates from the state of Illinois in San Francisco: For newcomers, this is only allowed for up to 14 days.>
+
+TODO
 
 If someone moves from, let's say, Idaho to California, they must
 exchange their Idaho license plate for a California one and pay the
