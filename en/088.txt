@@ -182,7 +182,7 @@ truck that drives through neighborhoods, inviting people to whiten
 their teeth at a discount with slogans like "Bleach three times, pay
 twice!"
 
-@Z: Surfing Course In San Diego
+@Z: Surf Lessons In San Diego
 
 <pic images/san-diego-pb.ps The boardwalk in San Diego's "Pacific Beach" neighborhood.>
 
@@ -271,8 +271,6 @@ Especially on Oahu, there are, in our opinion, too many of the
 ubiquitous chains and so-called "Big Box Stores" like Walmart and
 Target, but then we also keep discovering truly unique things.
 
-TODO
-
 One of the more obvious typically Hawaiian phenomena is the language.
 English and Hawaiian are considered the official languages of the
 state. However, it's not the case that Hawaiian is spoken much in
@@ -307,8 +305,7 @@ high schools and kindergartens where only Hawaiian is spoken.
 
 @Z: Data protection written in lowercase
 
-<pic images/data-privacy.ps In the USA, they don't take data
-protection very seriously.>
+<pic images/data-privacy.ps In the USA, they don't take data protection very seriously.>
 
 <em>Angelika</em> 
 The Germans have been having heated discussions lately regarding
