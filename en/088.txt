@@ -305,7 +305,7 @@ high schools and kindergartens where only Hawaiian is spoken.
 
 @Z: Data Privacy Not A Priority
 
-<pic images/data-privacy.ps In the USA, they don't take data protection very seriously.>
+<pic images/data-privacy.ps In the USA, they don't take data privacy very seriously.>
 
 <em>Angelika</em> 
 Germans have been having heated discussions lately regarding
@@ -317,31 +317,28 @@ reactions somewhat exaggerated. However, critically questioning who
 uses which data from public spaces and how is, on the other hand, a
 good idea.
 
-TODO
-
-I noticed how differently the topic of data protection is handled in
+I've noticed how differently the topic of data privacy is handled in
 the USA and Germany. Americans are generally considered to be
 freedom-loving with a healthy distrust of government interference.
 There is no registration law and no national ID card, with the
 driver's license effectively taking the place of a German ID card.
-One might think that this would lead to data protection being a hot
-topic, but we repeatedly experience that no one really thinks about
+One might think that this would lead to data privacy being a hot
+topic, but we repeatedly experience that no one really is thinking about
 it.
 
 In doctor's offices, receptionists still ask for our Social Security
-Number on the first visit and give us a funny look if we don't
+number on the first visit and give us a funny look if we don't
 provide it. Meanwhile, misuse of these numbers is rampant, allowing
-criminals to impersonate others and cause significant financial harm
+criminals to impersonate others and causing significant financial harm
 ("Identity Theft"). Therefore, health insurance companies are no
 longer allowed to use these numbers for patient identification, and
 thus, doctors don't really need them either.
 
-<pic images/24hf-fit-lite.ps This gym identifies customers in the
-evening using fingerprint recognition.>
+<pic images/24hf-fit-lite.ps In the evening hours, this gym identifies members using fingerprint technology.>
 
-For some time now, some companies have even been using fingerprints
+For some time now, selectcompanies have even been using fingerprints
 to identify their customers. I was quite surprised when our fitness
-center, "24 Hour Fitness," recently set up small kiosks at the
+center, "24 Hour Fitness," recently set up small kiosk at the
 entrance. A friendly staff member pointed out to me that I would no
 longer need to bring my membership card if I participated in their
 "Cardless Check-In." It would be completely hassle-free and painless:
@@ -350,22 +347,19 @@ with a 10-digit code, and then in the future, I would simply place
 either my right or left index finger on the scanner, enter the code,
 and swiftly walk into the fitness center.
 
-<pic images/24hf-fingerprint.ps Instead of showing his membership
-card, the customer presses his index finger into the device and
-enters a ten-digit number (Photo: Conny Vlaicu).>
+<pic images/24hf-fingerprint.ps Instead of showing his membership card, the customer presses his index finger into the device and enters a ten-digit number (Photo: Conny Vlaicu).>
 
 I declined with thanks, as it's already enough for me that I had to
 give my fingerprints for the Green Card back then, and every time I
 enter the USA, the immigration authorities want my fingerprints
-again. The employee at "24-Hour-Fitness" didn't look so friendly
+again. After I said it, the employee at "24-Hour-Fitness" didn't look so friendly
 anymore, because the company was installing fingerprint scanners but
 simultaneously removing the old barcode scanners that used to read
 the membership cards. This means that the "24-Hour-Fitness" employees
 now have to manually enter the numbers from the customer cards into
 the computer.
 
-<pic images/privacy-fingerprint.ps The translation to English is: "We
-do not give our fingerprints to private companies.>
+<pic images/privacy-fingerprint.ps We do not give our fingerprints to private companies.>
 
 In my opinion, this is a very deliberate tactic by the company to
 separate as many customers as possible from their membership cards,
@@ -388,15 +382,14 @@ whether the child is present, where they are in the building, and
 whether they have participated in lunch. I'm really glad that this
 didn't exist in our times.
 
-@Z: American nonsense cars
+@Z: Unpopular American Cars
 
-<pic images/dodge-charger.ps The bulky-looking rental car of the
-Dodge Charger type.>
+<pic images/dodge-charger.ps The bulky-looking rental car of the Dodge Charger type.>
 
 <em>Michael</em> 
 In our private lives, as you know, we drive two Japanese cars of the
 "Acura Integra" type: the aging PERLMAN and the newer "Rocket" with
-the VTEC shell engine. When it comes to vehicles, I value sporty
+the VTEC engine. When it comes to vehicles, I value sporty
 acceleration, secure cornering, and stable handling. When we rent a
 car, I usually choose the cheapest option, as hardly any car rental
 company offers other models, even for a reasonable surcharge, than
@@ -407,8 +400,9 @@ but unfortunately sluggish gas guzzlers. Recently in Hawaii, Alamo
 didn't have any cheap cars left and therefore offered us a muscle
 car, a Dodge Charger, at no extra cost.
 
-<pic images/dodge-charger-bar.ps Behind the thick beam, a slender
-pedestrian could easily hide.>
+<pic images/dodge-charger-bar.ps Behind the thick beam, a slender pedestrian could easily hide.>
+
+TODO
 
 The robustly designed body is sure to appeal to young Manta drivers,
 and indeed, the car quickly pulls away from the traffic lights and
@@ -431,8 +425,7 @@ spot with a glance over the shoulder when changing lanes. It's no
 wonder that Americans drive around in these cars like beginners and
 take 5 minutes to park.
 
-<pic images/dodge-charger-left.ps The small rear side window and the
-rear C-pillar obstruct the view.>
+<pic images/dodge-charger-left.ps The small rear side window and the rear C-pillar obstruct the view.>
 
 Recently in Las Vegas, I had booked a Toyota Prius with the car
 rental company "Dollar" for an additional fee, just to try out how
@@ -452,11 +445,9 @@ transmission, which accelerated smoothly and continuously without the
 engine roaring. Without a doubt, another point in the Japan vs. USA
 competition, and the Infiniti could very well become our next car.
 
-@Z: The translation of "Selbst ist der Kfz-Mechaniker" to English is
-"The car mechanic does it himself.
+@Z: The Car Mechanic Does It Himself
 
-<pic images/perlman-radiator.ps The technician installs the new
-radiator.>
+<pic images/perlman-radiator.ps The technician installs the new radiator.>
 
 <em>Michael</em> 
 Our old second car "PERLMAN" is now 19 years old and, according to
@@ -516,8 +507,7 @@ President, with just one click. Obama, help!
 
 @Z: Top product: Hershey's Shell
 
-<pic images/hersheys-shell.ps The chocolate drips fluidly from the
-bottle, only to solidify immediately afterwards.>
+<pic images/hersheys-shell.ps The chocolate drips fluidly from the bottle, only to solidify immediately afterwards.>
 
 <em>Michael</em> 
 American chocolate is not really my thing; I prefer Milka Noisette
@@ -540,8 +530,7 @@ and awards the coveted Top Product Trophy to "Hershey's Shell"!
 
 @Z: Mongolian BBQ
 
-<pic images/mongolian-bbq-stove.ps On a huge hotplate, the chefs are
-sizzling what the customer has placed on the plate.>
+<pic images/mongolian-bbq-stove.ps On a huge hotplate, the chefs are sizzling what the customer has placed on the plate.>
 
 <em>Michael</em> 
 Our department at Yahoo was moved six months ago to one of the three
@@ -551,8 +540,7 @@ coasters scream while walking from the parking lot to the office, but
 it also has the disadvantage that the cafeteria there unfortunately
 does not meet my high standards.
 
-<pic images/mongolian-bbq-flyer.ps The Mongolian grill restaurant on
-El Camino Real in Santa Clara>
+<pic images/mongolian-bbq-flyer.ps The Mongolian grill restaurant on El Camino Real in Santa Clara>
 
 For this reason, small groups often gather during lunch breaks to
 drive to nearby restaurants and enjoy regional specialties. A hidden
@@ -575,8 +563,7 @@ fresh plate from a nearby stack and skillfully transfer the finished
 dish from the hot plate onto the plate using the two drumsticks. It
 makes your mouth water!
 
-<pic images/mongolian-bbq-story.ps The owners: A couple from Korea,
-he a former professor of linguistics.>
+<pic images/mongolian-bbq-story.ps The owners: A couple from Korea, he a former professor of linguistics.>
 
 The restaurant is run by a Korean professor and his wife, who are in
 such good spirits every day that one might think there is no more
@@ -592,7 +579,4 @@ says anything. Once again, the name of the place so you can find it:
 El Camino Mongolian BBQ, 3380 El Camino Real, Santa Clara. Bon
 appÃ©tit from the gourmet zone of California!
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
