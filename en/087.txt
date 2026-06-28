@@ -368,25 +368,20 @@ car, snoop around, and potentially find other issues.
 
 <pic images/illinois-in-sf.ps License plates from the state of Illinois in San Francisco: For newcomers, this is only allowed for up to 14 days.>
 
-TODO
-
-If someone moves from, let's say, Idaho to California, they must
+If someone moves to California, from, let's say, Idaho, they must
 exchange their Idaho license plate for a California one and pay the
 required registration fee. Because many people don't do this out of
 laziness or cunning, causing the state of California to lose millions
-of dollars in fees, the California Highway Patrol (CHP) offers a
-<LINK>https://www.chp.ca.gov/notify-chp/cheaters-out-of-state-(out-of
--state-registration-violators)|Parking spot for unregistered
-vehicles</LINK>
-Here's the translation to English:
-
-"on the internet. There, the vigilant block warden properly records
+of dollars in fees, the California Highway Patrol (CHP) is running a
+<LINK>https://www.chp.ca.gov/notify-chp/cheaters-out-of-state-(out-of -state-registration-violators)|snitching website</LINK>
+on the internet. There, the vigilant block warden can properly report
 the license plate and the location of the fee offender, and then
-presumably a mobile task force with sledgehammers moves in to make a
+presumably a mobile task force with sledgehammers appears, to make a
 statement for financially-strapped California. It's all in good fun.
 
-<pic images/dmv-licenses-sign.ps At the DMV, one applies for a
-California driver's license.>
+<pic images/dmv-licenses-sign.ps At the DMV, one applies for a California driver's license.>
+
+TODO
 
 In addition to the California license plate, newcomers need a
 California driver's license after no more than 14 days if they are
