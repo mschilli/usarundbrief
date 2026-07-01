@@ -20,15 +20,13 @@ in Chicago! The problem is a lack of competition among providers, as
 the owners of telephone and cable networks operate as
 state-sanctioned quasi-monopolists.
 
-TODO
-
 How did the USA end up in this complicated situation? In 1996, the
 Telecommunications Act mandated that the telephone company AT&T had
 to make its network available to third-party providers without
-charging excessive prices. This was never the case for the television
+charging excessive fees. This was never the case for the television
 cable network; companies like Verizon and Comcast were not required
 to grant competitors access to their cable infrastructure, which had
-been built at great expense. This unequal treatment led to endless
+been built by them at great expense. This unequal treatment led to endless
 disputes between telecom and cable companies, and in 2000, the
 Supreme Court indirectly decided that the government could no longer
 force telephone companies to open their networks under dictated
@@ -37,14 +35,14 @@ governed only by the laws of the monopoly market.
 
 Completely different in Europe: There, the state massively intervened
 in the economy in the 90s, forcing the telecommunications operators
-to...
-<LINK>http://de.wikipedia.org/wiki/Entb%C3%BCndelung|Entbündelung</LI
-NK>
-Translate to English: "also to offer their service lines to
-third-party providers at non-excessive prices, 'unbundled' from their
-own telecommunications services. The aim of the procedure was to
+to <LINK>http://de.wikipedia.org/wiki/Entb%C3%BCndelung|"debundle"</LINK>,
+and also to offer their service lines to
+third-party providers at non-excessive fees, "unbundled" from their
+own telecommunications services. The goal of the measure was to
 strengthen competition, advance technological development, and, in
-the long term, reduce prices for the end consumer.
+the long term, reduce prices for consumers.
+
+TODO
 
 Looking back, it is essentially an economic history experiment
 conducted from the year 2000 onwards, taking place on two continents
