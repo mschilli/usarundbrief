@@ -402,9 +402,7 @@ car, a Dodge Charger, at no extra cost.
 
 <pic images/dodge-charger-bar.ps Behind the thick beam, a slender pedestrian could easily hide.>
 
-TODO
-
-The robustly designed body is sure to appeal to young Manta drivers,
+The robustly designed body is sure to appeal to young Opel Manta enthusiasts,
 and indeed, the car quickly pulls away from the traffic lights and
 offers quite stable handling at lower speeds. However, when you hit
 the gas at 35 mph (50 km/h), nothing happens at first, and if you
@@ -429,7 +427,7 @@ take 5 minutes to park.
 
 Recently in Las Vegas, I had booked a Toyota Prius with the car
 rental company "Dollar" for an additional fee, just to try out how
-this hybrid car drives. In the parking garage, it turned out that
+this hybrid car drives. In the rental agency's parking garage, it turned out that
 there was no Prius available. To appease my annoyance, the attendant
 suggested that they would, of course, refund the difference at the
 counter. Alternatively, I could simply choose any other car. Angelika
@@ -437,12 +435,12 @@ was already heading to the counter, but I hesitated: "Hmm... what do
 they have?" I was assured that I could have any car, including those
 in the so-called "Hot Row," where a Mercedes E300, some American
 muscle cars, SUVs, and an unassuming Japanese speedster were parked.
-Angelika was concerned whether our credit card's partial insurance
+Angelika was concerned whether our credit card's limited insurance
 would cover the Mercedes, so we pointed to the "Infiniti G37," a
 vehicle with a modest 300 horsepower, as it turned out later. That
-was quite a car! Rarely have I experienced such a good automatic
+was quite some car! Rarely have I experienced such a good automatic
 transmission, which accelerated smoothly and continuously without the
-engine roaring. Without a doubt, another point in the Japan vs. USA
+engine roaring. Without a doubt, another lead in the Japan vs. USA
 competition, and the Infiniti could very well become our next car.
 
 @Z: The Car Mechanic Does It Himself
@@ -455,6 +453,8 @@ the used car table, is only worth $1,200. When it acted up recently
 and I refilled the coolant, it immediately leaked out again. It's a
 clear case: a leaky radiator, and replacing it costs around $600 at a
 car repair shop in San Francisco.
+
+TODO
 
 A look at the website of the
 <LINK>http://autozone.com|The translation of "Autoteilefirma
