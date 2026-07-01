@@ -504,8 +504,6 @@ President, with just one click. Obama, help!
 
 <pic images/hersheys-shell.ps The chocolate drips fluidly from the bottle, only to solidify immediately afterwards.>
 
-TODO
-
 <em>Michael</em> 
 American chocolate is not really my thing; I prefer Milka Noisette
 imported from Germany. However, with a new invention, the American
@@ -530,7 +528,7 @@ and awards the coveted Top Product Trophy to "Hershey's Shell"!
 <pic images/mongolian-bbq-stove.ps On a huge hotplate, the chefs are sizzling what the customer has placed on the plate.>
 
 <em>Michael</em> 
-Our department at Yahoo was moved six months ago to one of the three
+Our department at Yahoo was moved six months ago to one of three
 large buildings right next to the Great America amusement park on
 Highway 101. This offers the advantage of hearing people on roller
 coasters scream while walking from the parking lot to the office, but
@@ -539,9 +537,9 @@ does not meet my high standards.
 
 <pic images/mongolian-bbq-flyer.ps The Mongolian grill restaurant on El Camino Real in Santa Clara>
 
-For this reason, small groups often gather during lunch breaks to
+For this reason, small groups of employees often gather during lunch breaks to
 drive to nearby restaurants and enjoy regional specialties. A hidden
-gem: the Mongolian grill at El Camino 3380. There, you select raw
+gem: the Mongolian grill at 3380 El Camino Real. There, you select raw
 meat and vegetables from a buffet, place everything on two different
 plates, and add a few spoonfuls of various sauces (soy, chili,
 garlic, barbecue sauce, and sesame oil). On the wall, there are some
@@ -550,9 +548,10 @@ assurance that the establishment will "make it right" if a customer
 turns their ingredients into an inedible mess with an impossible
 sauce combination.
 
-At the end of the buffet, there is a huge circular hot plate on a
-barrel-like table. Two gentlemen stand opposite each other there,
-grab the customers' plates, and each empties a portion onto the hot
+At the end of the buffet row, there is a huge (about 5 feet in diameter)
+circular hot plate on a
+barrel-like table behind the counter. Two gentlemen stand opposite each other there,
+take the customers' plates, and dump individual portions onto the hot
 plate. As they move in a circular motion, both synchronously around
 the plate, they use two 50cm long drumsticks to push the customer's
 portion around the edge of the plate in a circle. Then, they grab a
@@ -574,6 +573,6 @@ go back for more as often as you like. By the way, instead of two
 plates with ingredients, we always take three right away, and no one
 says anything. Once again, the name of the place so you can find it:
 El Camino Mongolian BBQ, 3380 El Camino Real, Santa Clara. Bon
-appÃ©tit from the gourmet zone of California!
+appetit from the gourmet zone of California!
 
 Angelika & Michael
