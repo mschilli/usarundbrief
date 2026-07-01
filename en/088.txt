@@ -382,7 +382,7 @@ whether the child is present, where they are in the building, and
 whether they have participated in lunch. I'm really glad that this
 didn't exist in our times.
 
-@Z: Unpopular American Cars
+@Z: Ridiculous American Cars
 
 <pic images/dodge-charger.ps The bulky-looking rental car of the Dodge Charger type.>
 
@@ -454,20 +454,17 @@ and I refilled the coolant, it immediately leaked out again. It's a
 clear case: a leaky radiator, and replacing it costs around $600 at a
 car repair shop in San Francisco.
 
-TODO
-
 A look at the website of the
-<LINK>http://autozone.com|The translation of "Autoteilefirma
-Autozone" to English is "Auto parts company Autozone.</LINK>
-..reveals that a new radiator costs only $139 and you can even
-download an installation guide with color illustrations there. The
-company "Kragen" offers a similar range, but from radio and TV
+<LINK>http://autozone.com|Auto parts company Autozone</LINK>
+reveals that a new radiator costs only $139 and you can even
+download an installation guide with illustrations in color from there. The
+company "Kragen" offers similar products, but from radio and TV
 advertising, I was familiar with the slogan "Get in the Zone -
 Autozone!" Additionally, Kragen is somewhat more expensive and
 prevalent in large cities, while the nearest Autozone branch is about
 20 km south of San Francisco in the town of Millbrae, right next to
 the SFO airport. There, I not only bought the radiator but also a
-small pan to catch the coolant.
+flat plastic pan to catch the old coolant.
 
 Then, just to be safe, I took a day off because the repair needed to
 be completed--I couldn't leave Perly Perlman standing around without
@@ -481,23 +478,21 @@ hour later, the new one was screwed in and connected.
 
 The rundown old radiator was taken by the Autozone store the next day
 for disposal, free of charge and without complaint, and Perly Perlman
-is now running like a young foal again. Unfortunately, such repairs
+is now running like a young foal again! Unfortunately, such repairs
 are only possible with older car models these days. With all the
 computer nonsense in the engine compartment of today's models, you
 probably need a special device just to measure the oil, which, of
 course, only the overpriced workshop of the authorized dealer has
-available. And the so-called aftermarket parts, meaning non-original
+installed. And the so-called aftermarket parts, meaning non-original
 but compatible replacement parts like my new radiator, which often
 have a few extra screws because they fit multiple vehicle types, can
-only be manufactured by budget manufacturers if they are not
+only be manufactured by budget manufacturers if parts are not
 secretively computerized.
 
-The called some time ago the
-<LINK>http://www.righttorepair.org|The translation of
-"BÃ¼rgerinitiative Right To Repair" to English is "Citizens'
-Initiative Right To Repair.</LINK>
-.. into action. The computer gimmickry not only deters hobbyists from
-repairing their machines but also drives affordable independent auto
+This called into action the
+<LINK>http://www.righttorepair.org|Citizen's Initiative Right To Repair.</LINK>
+some time ago. The computer gimmickry not only deters hobbyists from
+repairing their work horses but also drives affordable independent auto
 repair shops into ruin, as it is not worthwhile for them to acquire
 all sorts of specialized tools and software for hundreds of different
 vehicle types. The initiative is collecting signatures for a
@@ -508,6 +503,8 @@ President, with just one click. Obama, help!
 @Z: Top product: Hershey's Shell
 
 <pic images/hersheys-shell.ps The chocolate drips fluidly from the bottle, only to solidify immediately afterwards.>
+
+TODO
 
 <em>Michael</em> 
 American chocolate is not really my thing; I prefer Milka Noisette
