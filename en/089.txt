@@ -240,8 +240,6 @@ well-earning people at the checkout handling coupons, which the
 cashier then scans. If the coupon is valid, the register immediately
 deducts the discount amount.
 
-TODO
-
 What's amusing about the coupons in the
 booklet from the giant supermarket Costco is that they all have the
 same barcode number. So if you buy toilet paper and give the cashier
@@ -257,8 +255,7 @@ Costco headquarters once removed me from their mailing list, and I no
 longer received a coupon booklet. I promptly called them and demanded
 the immediate postal delivery of a replacement booklet!
 
-<pic images/coupon-bbb.ps The translation to English is: "Only
-beginners shop at Bed Bath and Beyond without a coupon.>
+<pic images/coupon-bbb.ps Only rookies shop at Bed Bath and Beyond without a coupon.>
 
 Even with club cards from major supermarkets, you can save a lot of
 money. At Safeway, for example, you can quickly save 10% on a larger
@@ -282,8 +279,7 @@ the chance, and after two weeks, a voucher card arrived in the mail,
 which I used over three visits because I only buy a few really good
 things like bread at that overpriced store.
 
-<pic images/groupon.ps The Groupon website, which no one visits
-because tailored offers come directly via email.>
+<pic images/groupon.ps The Groupon website, which no one visits because tailored offers come directly via email.>
 
 Locally specialized coupon websites currently seem so lucrative that
 Yahoo recently offered over two billion dollars and Google supposedly
@@ -293,10 +289,9 @@ seems we are already in the next internet bubble, where analysts
 determine the value of dubious companies by projecting their annual
 profits over the next decade. Some people never learn.
 
-Regarding the discount: The in
-<RBLINK>990115#7</RBLINK>
-Many companies no longer issue mail-in rebates as checks, as
-previously discussed, but instead send a Visa card. This card then
+Regarding the discount: The in <RBLINK>990115#7</RBLINK> I had reported
+that many companies no longer issue mail-in rebates as checks,
+but send a Visa card instead. This card then
 has, let's say, $20 on it, but how do you fully redeem it? It's hard
 to plan ahead because, due to odd prices and the sales tax added
 later, you never end up with a round amount. Don't worry: I usually
@@ -304,13 +299,12 @@ buy something for about $25 at Target and tell the cashier to charge
 $20 from the card and that I'll pay the rest in cash. Works
 perfectly.
 
-@Z: Baseball World Champion" San Francisco Giants
+@Z: San Francisco Giants are Baseball World Champions
 
-<pic images/giants-1.ps In front of the pub, the fans are celebrating
-the San Francisco Giants' victory.>
+<pic images/giants-1.ps In front of the pub, the fans are celebrating the San Francisco Giants' victory.>
 
 <em>Angelika</em> 
-I absolutely know nothing about baseball. I have never watched a game
+I know absolutely nothing about baseball. I have never watched a game
 on TV or in a stadium. At work, I once looked after a five-year-old
 baseball fan who couldn't believe it. Of course, I do know that you
 need a baseball bat and the corresponding ball to play, that there is
@@ -330,22 +324,20 @@ the fall. The winners of the National League and the American League
 face each other and play a total of seven games in quick succession
 until the winner is determined. It is, of course, somewhat
 presumptuous to speak of a world championship in this context, but
-Americans don't see it that way.
+Americans see it that way.
 
-<pic images/giants-9.ps The police stayed away from the neighborhood
-as a precaution, to avoid having to intervene.>
+<pic images/giants-9.ps The police stayed away from the neighborhood as a precaution, to avoid having to intervene.>
 
-In any case, the San Francisco Giants won the World Series for the
+In any case, the San Francisco Giants won the World Series this year for the
 first time in 56 years, and San Francisco was in an uproar. Not only
 was City Hall lit up in orange, but people were literally dancing in
 the streets. In Noe Valley, our neighborhood, there were honking
 concerts, and flag-waving fans stopped moving cars to congratulate
 the passengers. Even a baseball grouch like me was thrilled.
 
-@Z: Top product: The olive oil sprayer
+@Z: Top product: The Olive Oil Sprayer
 
-<pic images/misto-pour.ps First, you pour olive oil from the bottle
-into the Misto.>
+<pic images/misto-pour.ps First, you pour olive oil from the bottle into the Misto.>
 
 <em>Michael</em> 
 Whether on salad, in the pan, or on grilled food: olive oil gives
@@ -357,19 +349,14 @@ manually pump in air pressure, and subsequently produce a fine mist
 at the push of a button that applies the olive oil in a thin layer on
 food.
 
-<pic images/misto-press.ps Then, by pressing the attachment, the
-necessary internal pressure is generated in the Misto container ...>
+<pic images/misto-press.ps Then, by pressing the attachment, the necessary internal pressure is generated in the Misto container ...>
 
 The ten-dollar part is supposedly from Europe (although I don't
-believe that a product called "Misto" would sell in Germany) and can
-be...
-<LINK>http://www.youtube.com/watch?v=Xh2i5x1OqPU|The translation of
-"Misto-Infomercial auf Youtube" to English is "Mixed infomercial on
-YouTube.</LINK>
-The German word "bewundern" translates to "admire" in English.
+believe that a product called "Misto" would sell in Germany) and there's even a
+<LINK>http://www.youtube.com/watch?v=Xh2i5x1OqPU|Misto-Infomercial on Youtube</LINK>
+for the product.
 
-<pic images/misto-spray.ps ... that lasts for weeks and creates a
-beautiful olive oil mist upon request.>
+<pic images/misto-spray.ps ... that lasts for weeks and creates a beautiful olive oil mist upon request.>
 
 In the spray mist, there are naturally no propellants, only 100% pure
 olive oil and air. Once pumped up, the bottle remains ready for use
@@ -377,33 +364,31 @@ for weeks. It may seem a bit strange when the cook handles the spray
 can while preparing tomatoes with mozzarella, but you don't have to
 do that in front of the guests! Top product!
 
-@Z: Clipper Card" is already in English. It is the name of a
-contactless smart card used for public transit fare payment in the
-San Francisco Bay Area.
+@Z: Clipper Card
 
-<pic images/clipper-prospectus.ps Even ancient trams accept modern
-Clipper cards as a means of payment.>
+<pic images/clipper-prospectus.ps Even ancient trams accept modern Clipper cards as a means of payment.>
 
-<em>Angelika</em> 
-
-<RBLINK>20051208#4</RBLINK>
-It seems like there might be a mistake or missing text in your
-request. Could you please provide more context or clarify what you
-would like translated?
+<em>Angelika</em> The other day I wanted to take the J streetcar home from the
+Powell Station downtown. While underground, I was digging through all my loose
+change to toss it into the fare gate slot for access to the tracks. A friendly
+passerby pointed out, however, that the gates no longer accept coins.  I must
+have looked pretty bewildered, because for years and years that had been our
+favorite way to get rid of annoying loose change—including pennies
+(<RBLINK>20051208#4</RBLINK>).
 
 The public transportation systems in San Francisco have switched to
 an electronic payment system called the "Clipper Card." You can load
 either cash or a monthly pass onto the plastic card. When you use
 public transportation, you simply hold the card up to the card
-reader, and the corresponding fare is deducted from the Clipper Card.
+reader, and the appropriate fare is deducted from the Clipper Card.
 In the case of a monthly pass, the machine recognizes it as valid and
 opens the gate.
 
 The system is supposed to be so smart that it independently
 calculates discounts or doesn't deduct any money at all because the
 customer only transferred from the bus to the tram within the allowed
-time frame. Passengers can top up the Clipper Card either online or
-at machines, for example, in the subway. Stores like the drugstore
+window in time. Passengers can top up the Clipper Card either online or
+at machines, for example, at underground stations. Stores like the drugstore
 chain "Walgreens" also offer the Clipper Card for sale.
 
 The Clipper Card is intended to simplify the system, as customers can
@@ -424,21 +409,21 @@ bus driver is in a bad mood, they may insist that the passenger pay
 the two dollars for the ride or get off, which is said to have
 already led to tumultuous scenes.
 
-@Z: Amerikanische Semmeln" translates to "American rolls" in English.
+@Z: American Baked Rolls
 
-<pic images/safeway-bakery-selection.ps Bread rolls at Safeway: First
-row: Dutch Crunch Roll, French Roll, Kaiser Roll. Second row:
-Poppyseed Kaiser Roll, Bagel.>
+<pic images/safeway-bakery-selection.ps Bread rolls at Safeway: First row: Dutch Crunch Roll, French Roll, Kaiser Roll. Second row: Poppyseed Kaiser Roll, Bagel.>
 
 <em>Michael</em> 
-In the realm of baked goods, the American completely lost touch with
+In the realm of baked goods, America has completely lost touch with
 Europe sometime in the middle of the last century. Instead of normal
 oven-baked loaves, they switched to machine-produced "Wonderbread," a
-rubbery type of toast bread. This unfortunate trend also made its way
+rubbery type of toastable bread. This unfortunate trend also made its way
 into the realm of rolls, and even if you find a pretzel at a fair,
-its crust is rubbery soft. When an American chews on German bread or
+its "crust" is rubbery soft. When an American chews on German bread or
 rolls, they start to complain because the hard crust assaults their
 softened gums in an unfamiliar way.
+
+TODO
 
 Twenty years ago, it was almost impossible to find regular bread
 anywhere in America. Nowadays, however, every big city supermarket
