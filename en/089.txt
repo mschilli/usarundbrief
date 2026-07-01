@@ -423,8 +423,6 @@ its "crust" is rubbery soft. When an American chews on German bread or
 rolls, they start to complain because the hard crust assaults their
 softened gums in an unfamiliar way.
 
-TODO
-
 Twenty years ago, it was almost impossible to find regular bread
 anywhere in America. Nowadays, however, every big city supermarket
 offers more or less decently baked baguette or Italian-inspired
@@ -434,20 +432,19 @@ somewhat empty even after extensive toasting and doesn't really fill
 you up.
 
 Large supermarkets like Safeway offer a wide range of bread-like
-items that are sometimes baked several times a day. The so-called
+items that are sometimes baked fresh several times a day. The so-called
 Kaiser Roll is the most similar to the German "Semmel," but it is
 about twice the size and tastes like a white bread that is about two
 days old. Not bad if you can't find anything else. The elongated
-French Roll resembles a North German "BrÃ¶tchen," but tastes more
+French Roll resembles a North German "Brötchen," but tastes more
 bland and dry. The dough of the Dutch Crunch Roll is the closest to
 that of the German "Semmel," and finely ground crust crumbs stick to
 its top, giving it a fine crustiness. Due to the funny crumb pattern,
 the term "Leopard Roll" became established in our household many
 years ago, and when I go to get rolls on Sundays, it's usually
-Leopard Rolls that end up on the table.
+Leopard Rolls that end up on the breakfast table.
 
-<pic images/safeway-bakery-dutch-crunch.ps A fine honey roll can be
-conjured from a Dutch crunch roll.>
+<pic images/safeway-bakery-dutch-crunch.ps A fine honey roll can be conjured from a Dutch crunch roll.>
 
 Unlike the German "Semmel," a Kaiser roll, by the way, retains its
 consistency in the bread box for a long time. Recently, I cooked a
@@ -467,47 +464,40 @@ bagel: you cut it in half, spread Philadelphia cream cheese on both
 halves, add salmon with onions, and perhaps capers, and then put the
 two halves back together. This is then called "Bagel with Lox"
 according to Jewish tradition, even though "Lachs" in English is
-actually "salmon.
-
-Here's the translation to English:
+actually "salmon."
 
 "Another tip for good baked goods: As is well known, we often tour
 the wine region of Napa Valley and always stop in Yountville at the
-in-house...
-<LINK>http://www.bouchonbakery.com/showSelections.php?id=15|The
-translation to English is: "Bakery of the French restaurant
-'Bouchon'</LINK>
-..to buy a so-called "Epi" baguette. This white bread costs only
+hipster place <LINK>http://www.bouchonbakery.com/showSelections.php?id=15|Bakery of the French restaurant 'Bouchon'</LINK>
+to buy a so-called "Epi" baguette. This white bread costs only
 $2.50 and consists of individual segments that you can tear off with
 your bare hands, spread butter on, and enjoy with a light French red
 wine while engaging in animated discussions and gesturing wildly with
-your hands. By the way, the restaurant serves excellent food. For
+your hands. By the way, the adjacent restaurant serves excellent food. For
 visiting Europeans, this might be less interesting, but if you've
-lived in America for a mere 14 years like we have, and only get
+lived in America for a whopping 14 years, like we have, and only get
 delicacies like tongue, liver, and blood sausage on your plate every
 leap year, you're happy to spend around 200 dollars at this place for
 appetizers, main courses, desserts, and suitable wines for two people
 from good old Europe.
 
-@Z: Service Desert SZ-Magazin "ServicewÃ¼ste" is a German term used
-to describe a lack of customer service or poor service quality, and
-"SZ-Magazin" refers to the magazine supplement of the German
-newspaper SÃ¼ddeutsche Zeitung.
+@Z: Lackluster Service By SZ-Magazin
 
-<pic images/sz12.ps (#10) The SZ shipping department once again fails
-to include the magazine.>
+<pic images/sz12.ps (#10) The SZ shipping department once again fails to include the magazine.>
 
 <em>Michael</em> 
 As my preferred reading material for bed and bath, I have been
-reading the SÃ¼ddeutsche Zeitung Magazine, which comes with the
+reading the Süddeutsche Zeitung Magazin, which comes with the
 Friday edition, for decades. With a few exceptions, such as the
 perpetually boring Georg Diez, almost only top journalists write for
-this extremely entertaining magazine. The selection of topics
+this extremely entertaining color printed supplement to the newspaper.
+The selection of topics
 continually amazes even the newsletter editorial team, which is not
 exactly lacking in astonishing topic ideas.
 
-<pic images/sz-1.ps The Friday edition of the SZ arrives at our place
-like this.>
+<pic images/sz-1.ps The Friday edition of the SZ arrives at our place like this.>
+
+TODO
 
 Since the magazine cannot be ordered individually, we are quickly
 subscribing to the entire Friday edition. It comes through the
