@@ -18,15 +18,15 @@ kamen.
 <pic images/kauai-secret-beach.ps Leichte Wanderung auf Kauai>
 
 Weiter hat Oahu das Vermieten von Ferienwohnungen oder -häusern über
-Plattformen wie AirBnB oder VRBO ("Vacation Rental by Owner") massiv
-eingeschränkt. Am 23. Oktober 2022  trat die Bill 41 oder auch Ordinate 22-7 in
+Plattformen wie Airbnb oder Vrbo ("Vacation Rental by Owner") massiv
+eingeschränkt. Am 23. Oktober 2022 trat die Bill 41 oder auch Ordinance 22-7 in
 Kraft. Es gilt jetzt, dass alles, was außerhalb der Resortzonen liegt,
 mindestens für 90 Tage vermietet werden muss. Kurzfristig etwas zu mieten, also zum
 Beispiel für eine Woche, ist praktisch nur noch in Waikiki, Ko Olina um das
 Disney Resort herum, sowie bei der Turtle Bay im Norden der Insel möglich.
 
 <pic images/kauai-golf.ps Die Gegend um Princeville ist für ihre Golfplätze bekannt.>
-<pic images/kauai-beer.ps Örtliches Bier auf der Veranda des AirBnB>
+<pic images/kauai-beer.ps Örtliches Bier auf der Veranda des Airbnb>
 
 Allerdings ist uns Waikiki viel zu voll und zugepflastert mit Hochhäusern, und
 so gar nicht das, was wir uns unter einem Hawaiiurlaub vorstellen. Wir verstehen
@@ -34,10 +34,10 @@ schon, dass auf einer Insel der Wohnraum knapp ist und auch, dass
 Maßnahmen ergriffen werden, damit die Leute, die auf Oahu leben, noch Wohnungen
 finden. Allerdings hätten die Verantwortlichen vielleicht etwas weniger radikal
 vorgehen können, denn schließlich leben die Inseln auch von den Touristen. Das
-Häuschen, was wir uns bis dato immer in Waimanalo gemietet hatten, stand im
+Häuschen, das wir uns bis dato immer in Waimanalo gemietet hatten, stand im
 Garten der Besitzer und war zwar super nett, aber wirklich nicht für längere
-Vermietungen ausgelegt oder zu empfehlen. Aber da es nunmal in der falschen Zone
-liegt, geht es nicht mehr.  Schade! Trotzdem zieht es uns wieder nach Hawaii.
+Vermietungen ausgelegt oder zu empfehlen. Aber da es nun mal in der falschen Zone
+liegt, geht es nicht mehr. Schade! Trotzdem zieht es uns wieder nach Hawaii.
 Ich steige dort aus dem Flugzeug aus und bin schon gleich entspannt. Das tolle türkise
 warme Wasser, die wunderschönen Strände, die relaxte Atmosphäre, optimale
 Surfbedingungen für Michael, die wunderschöne Natur, was will man mehr? 
@@ -54,7 +54,7 @@ die tollen Strände. Dieses Mal zog es uns in den Norden der Insel, und wir
 hatten eine kleine nette Wohnung in Princeville gemietet. Der Vermieter Gary wohnte
 nebendran im großen Haus. Gary war super großzügig und lieh Michael sogar, ohne mit
 der Wimper zu zucken, seine Surfbretter aus. Wir tummelten uns jeden Tag im
-warmen Ozean, entdeckten versteckte Strände, und aßen Poke ohne Ende, das
+warmen Ozean, entdeckten versteckte Strände und aßen Poke ohne Ende, das
 traditionelle hawaiianische Gericht, das aus rohem Fisch zubereitet wird. Wir
 träumen jetzt schon wieder vom nächsten Hawaiiurlaub.
 
@@ -66,13 +66,13 @@ träumen jetzt schon wieder vom nächsten Hawaiiurlaub.
 Wir haben uns ja schon oft im Rundbrief über das desolate Krankenkassensystem
 in den USA ausgelassen. Es ist völlig überteuert, ineffizient und bringt nur
 mittelmäßige Ergebnisse zustande. Ein riesiger, komplexer, bürokratischer
-Apparat, in dem alles aus den Fugen geraten ist und keiner mehr durchblickt, und das
+Apparat, in dem alles aus den Fugen geraten ist und keiner mehr durchblickt und der
 sowohl Ärzte als auch Patienten zum Verzweifeln bringt.
 
 Wir meinen, dass das System kurz vor dem Zusammenbruch steht, wenn es nicht
 bald Reformen gibt, haben aber wenig Hoffnung, dass dies in naher Zukunft
 passieren wird. Wie überall macht man erst dann was, wenn es eigentlich schon
-viel zu spät ist.  Erschreckend ist auch, dass es mittlerweile akzeptabel
+viel zu spät ist. Erschreckend ist auch, dass es mittlerweile akzeptabel
 scheint, wenn ein CEO einer Krankenversicherung auf offener Straße erschossen
 wird, und der Mörder zum Helden stilisiert wird, weil die Frustration über das
 Gebaren der Krankenkassen so groß ist.
@@ -84,9 +84,9 @@ Amerikaner versichert sind. 2024 war zum Beispiel ein Rekordjahr, in dem über
 21 Millionen Amerikaner mit Hilfe von Obamacare eine Krankenversicherung
 abgeschlossen haben. Aber auch Obamacare ist Teil des Systems mit steigenden
 Kosten und immer höheren monatlichen Beiträgen. Vor allen Dingen erhält der
-Versicherte auch keine andere Krankenkassenoptionen über Obamacare sondern nur
-die großen bekannten Krankenversicherungen bieten ihre Verträge unter Obamacare
-an.  Zur Zeit gibt es noch steuerliche Vergünstigungen, die die Prämien für die
+Versicherte über Obamacare auch keine anderen Krankenkassenoptionen, sondern nur
+Verträge der großen bekannten Krankenversicherungen. Zurzeit gibt es noch
+steuerliche Vergünstigungen, die die Prämien für die
 meisten Leute signifikant senken, die über den "Affordable Care Act" (also
 Obamacare) Krankenversicherungspolicen kaufen. Diese staatlichen
 Bezuschussungen laufen allerdings Ende 2025 aus, falls der amerikanische
@@ -104,7 +104,7 @@ unterschiedlichen Krankenkassen mit hohen Leistungen im Programm.
 
 Die Krankenkassen sind natürlich sehr daran interessiert, diesen Firmen
 gute Konditionen anzubieten. Als Michael noch bei Apple war, hatten wir beide
-einen top Plan mit der Versicherung United Healthcare. Es war nie ein Problem,
+einen Top-Plan mit der Versicherung United Healthcare. Es war nie ein Problem,
 Leistungen zu erhalten, denn da hatte Apple stets den Daumen drauf. Nun
 arbeitet Michael bekanntlich nicht mehr bei Apple und unsere Cobra-Versicherung
 (<RBLINK>20221220#2</RBLINK>) ist nach 18 Monaten ebenfalls ausgelaufen.
@@ -141,7 +141,7 @@ Kaiser betreibt organisationstechnisch ein gemischtes Modell, und zwar sind der
 Kaiser Foundation Health Plan und die Kaiser Foundation Hospitals gemeinnützige
 Einrichtungen ("non-profit organizations"), was bedeutet, dass Einnahmen und
 Überschüsse wieder zurück in diese medizinischen Einrichtungen fließen. Dann
-gibt es als drittes Standbein die gewinnorientierte "Permanente Medical Group"
+gibt es als drittes Standbein die gewinnorientierte "Permanente Medical Group",
 bei der die Kaiser-Ärzte angestellt sind.
 
 <pic images/kaiser-entrance.ps Im Kaiser-Gebäude sind Apotheke, Labor und Fachärzte.>
@@ -157,7 +157,7 @@ arbeitete dann in den 1940er Jahren mit Garfield zusammen, um dieses
 Gesundheitsmodell für Werftarbeiter in Richmond in Kalifornien während des
 Zweiten Weltkriegs anzubieten. Nach dem Zweiten Weltkrieg 1945 stellte Kaiser
 Permanente dann dieses Krankenkassenmodell, nämlich die Integration von
-Krankenhäusern, Kliniken und Ärzte unter dem Dach einer Krankenkasse, der
+Krankenhäusern, Kliniken und Ärzten unter dem Dach einer Krankenkasse, der
 breiteren Bevölkerung vor. Ab den 1950er Jahren expandierte Kaiser über
 Kalifornien hinaus und eröffnete zum Beispiel medizinische Einrichtungen in
 Hawaii, Colorado und anderen Bundesstaaten.
@@ -165,8 +165,8 @@ Hawaii, Colorado und anderen Bundesstaaten.
 Nun müsst ihr wissen, dass ich mir eigentlich stets geschworen hatte, nie bei
 Kaiser versichert zu sein. Das war lange Zeit meine absolute Horrorvorstellung.
 Denn mir war es aus Deutschland kommend extrem wichtig, freie Arztwahl zu haben
-und wenn nötig zu top Krankenhäusern wie dem Unikrankenhaus in San Francisco
-(UCSF) oder Standford in Palo Alto gehen zu können. Ich kannte entweder Leute,
+und wenn nötig zu Top-Krankenhäusern wie dem Unikrankenhaus in San Francisco
+(UCSF) oder Stanford in Palo Alto gehen zu können. Ich kannte entweder Leute,
 die absolut überzeugt und begeistert von dem Kaisersystem waren oder andere,
 die um Kaiser einen riesigen Bogen machten, weil ihnen in komplexeren
 Krankheitsfällen nicht adäquat geholfen worden war, mit dramatischen Folgen. Da
@@ -180,7 +180,7 @@ Noch vor 20 Jahren wollte jeder Arzt seine eigene Praxis aufmachen, was
 manchmal dazu führte, dass Kaiser nicht immer die absoluten Spitzenmediziner
 rekrutieren konnte. Allerdings ist es mittlerweile völlig irre, eine eigene
 Arztpraxis zu betreiben. Die Bürokratie ist so zeitaufwendig und absurd und wird von
-Jahr zu Jahr umständlicher, so dass viele Ärzte kaum noch Zeit für ihre Patienten haben.
+Jahr zu Jahr umständlicher, sodass viele Ärzte kaum noch Zeit für ihre Patienten haben.
 
 Ich hatte ja schon einmal berichtet, dass es fast unmöglich ist, einen neuen
 Hausarzt in San Francisco zu finden (<RBLINK>20231019#5</RBLINK>). Oft
@@ -192,14 +192,14 @@ Koryphäe ist, aber der Patient keinen Termin kriegt. Deshalb gehen immer mehr
 Ärzte dazu über, in Gemeinschaftspraxen zu arbeiten. Das Kaisersystem als
 riesige Gemeinschaftspraxis ist für
 viele Ärzte deshalb besonders attraktiv, weil sie sich nicht mit den
-verschiedenen amerikanischen Krankenkassen mit hunderten von unterschiedlichen
+verschiedenen amerikanischen Krankenkassen mit Hunderten von unterschiedlichen
 Plänen herumschlagen müssen, sondern als Angestellte in einem System agieren.
 Interessanterweise zieht Kaiser heute immer bessere Ärzte an. 
 
 <pic images/kaiser-appointment.ps Mit der Telefon-App kann man Termine mit dem Doktor machen ...>
 
 Aber nun zurück zu unseren persönlichen Erfahrungen bei Kaiser. Ich
-schickte zunächst einmal Michael vor, der bekanntlicherweise mittlerweile
+schickte zunächst einmal Michael vor, der bekanntermaßen mittlerweile
 flexibler ist und mehr Zeit hat. Er war begeistert von der Effizienz und einem
 System, das relativ patientenfreundlich ist.
 
@@ -222,7 +222,7 @@ und brauchen keine Überweisung vom Hausarzt, wenn sie ihre Frauenärztin sehen
 wollen. Bei Kaiser sitzt der Hausarzt nicht isoliert in seiner Praxis, sondern
 ihr müsst euch das Ganze wie ein riesiges Ärztezentrum vorstellen, in dem alles
 unter einem Dach ist, Hausärzte, Internisten, Orthopäden, Hautärzte,
-Gynäkologen, Hals-Nasen-und Ohrenärzte. Auch die Röntgenabteilung, die Apotheke und
+Gynäkologen, Hals-Nasen-Ohren-Ärzte. Auch die Röntgenabteilung, die Apotheke und
 das Labor sind alle Teile des gleichen Systems. Die Ärzte arbeiten alle zusammen,
 da sie bei Kaiser angestellt sind, und haben auch alle Zugriff auf die
 Patientenakte.
@@ -243,10 +243,10 @@ ist, dass der Arzt einen untersucht.
 
 Ich hatte mittlerweile auch einen Termin
 bei meiner Hausärztin. In den USA ist es durchaus üblich, dass ein jährlicher
-Check-up mit Blutbild, Lunge abhorchen, Blutdruckmessen usw. gemacht wird,
+Check-up mit Blutbild, Abhorchen der Lunge, Blutdruckmessung usw. gemacht wird,
 wofür ich mich angemeldet hatte, um die Ärztin kennenzulernen. Die nahm sich
-sehr viel Zeit für mich und plauderte erst einmal ausführlich mit mir, was ich
-denn arbeitete und über meine Weihnachtspläne. Zum Blutbild ging ich dann
+sehr viel Zeit für mich und plauderte erst einmal ausführlich mit mir darüber,
+was ich denn beruflich machte, und über meine Weihnachtspläne. Zum Blutbild ging ich dann
 einfach drei Stockwerke tiefer. Ich muss sagen, dass ich meine Vorurteile
 bezüglich Kaiser doch etwas revidieren musste, wobei ich mich immer noch sorge,
 was passiert, wenn ich einmal etwas super Kompliziertes haben sollte, denn das
@@ -256,7 +256,7 @@ Was viele Versicherte bei Kaiser auch besonders schätzen, ist, dass sich das
 Herumärgern mit unerwarteten Rechnungen bei Kaiser in der Regel reduziert, da
 alles im gleichen Netzwerk stattfindet. Auch diesbezüglich haben wir schon
 einiges mitgemacht bei den diversen anderen Krankenkassen, bei denen wir schon
-versichert waren, da ist das Kaiser-System deutlich weniger nervenaufreibend.
+versichert waren; da ist das Kaiser-System deutlich weniger nervenaufreibend.
 
 @Z: Amazon-Zusteller auf Abwegen
 
@@ -287,9 +287,9 @@ waren gänzlich und spurlos verschwunden.
 <pic images/amzn-digbys.ps (#5) Merkwürdiges Zustellfoto, wo ist das Paket abgeblieben?>
 
 Folglich passe ich, wenn ich eine Sendung erwarte, auf wie ein Schießhund und
-nehme Pakete nicht nur sofort nach der Zustellung in Empfang sonder bringe auch
+nehme Pakete nicht nur sofort nach der Zustellung in Empfang, sondern bringe auch
 die Pakete der Nachbarn auf unserem Stockwerk hoch, die nicht ganz so auf Zack
-sind.  Neulich ist aber etwas Merkwürdiges passiert: Eine Sendung wurde
+sind. Neulich ist aber etwas Merkwürdiges passiert: Eine Sendung wurde
 angeblich zugestellt, war aber nirgendwo aufzufinden. Das Zustellfoto auf der
 Amazon-App zeigte nicht unsere Lobby mit den Briefkästen, sondern anscheinend
 ein Regal mit Lebensmitteln und Küchenutensilien (Abbildung (#5)).
@@ -300,9 +300,9 @@ Das Foto zeigte das Regal einer Restaurantküche! Und wie's der Teufel will,
 befindet sich im Haus nebenan tatsächlich ein Restaurant mit Bar, und das Foto
 könnte die Küche dort zeigen! Ich ging also runter, rein ins Restaurant, und
 erklärte der Bedienung mein Problem. Die holte den Manager und dem zeigte ich
-das Zustellfoto.  Nachdem ich ihm versichert hatte, dass ich nicht irre sei,
+das Zustellfoto. Nachdem ich ihm versichert hatte, dass ich nicht irre sei,
 nahm er mein Handy, marschierte damit in die Küche und kam kurze Zeit später
-mit meinem Päckchen zurück.  Was haben wir gelacht! Da muss der Amazon-Fritze
+mit meinem Päckchen zurück. Was haben wir gelacht! Da muss der Amazon-Fritze
 also wohl, statt zu klingeln, aus Bequemlichkeit meine Bestellung einfach durch
 die offene Küchentür des Restaurants nebenan geworfen haben. Sachen gibt's, die
 gibt's gar nicht.
@@ -321,17 +321,17 @@ Dollar im Jahr, also fast $2.000 im Monat. Dafür könnte man fast eine Bruchbud
 mieten. Man könnte sogar sagen, dass Hausbesitzer ihr Haus, das sie von bereits versteuertem
 Einkommen gekauft haben, nur vom Landkreis mieten, zum Preis der jährlich fälligen Grundsteuer.
 
-Diese nicht unerheblichen Property-Tax-Zahlungen sackt der Landkreis ein, und
+Diese nicht unerheblichen Property-Tax-Zahlungen sackt der Landkreis ein und
 leitet damit relativ sinnvolle Dinge in die Wege, wie öffentliche Schulen vor
 Ort zu unterstützen. Reiche Vororte, die viel Grundsteuer einnehmen, haben
 so normalerweise die besten öffentlichen Schulen, ärmere Gegenden oft erbärmliche.
 Weil die meisten Eltern gute Schulen für ihre Kinder bevorzugen, treiben sie
-die Häuserpreise in teuren Gegenden mit guten Schulen immer weiter in die Höhe.
+die Hauspreise in teuren Gegenden mit guten Schulen immer weiter in die Höhe.
 
 <pic images/proptax-sold.ps (#7) Für dieses Anwesen zahlt der neue Besitzer pro Jahr 117.000 Dollar Grundsteuer.>
 
 Nun war es bis 2017 so, dass Hausbesitzer ihre Grundsteuer (und auch Zinsen für
-Darlehen) voll von ihrer Einkommenssteuer ans Bundesfinanzamt (Federal Income
+Darlehen) voll von ihrer Einkommensteuer ans Bundesfinanzamt (Federal Income
 Tax) absetzen konnten. Doch der damalige Präsident Trump boxte mit dem Kongress
 das
 <LINK>https://en.wikipedia.org/wiki/State_and_local_tax_deduction|SALT-Abkommen</LINK>
@@ -341,7 +341,7 @@ darf der Hausbesitzer die Grundsteuer immer noch voll absetzen, doch die State
 Tax beträgt bei einem typischen Jahresverdienst von 200.000 Dollar nur etwa
 12.500 Dollar, während die Federal Income Tax sich auf 38.500 Dollar beläuft.
 Und, wohlgemerkt, "Absetzen" heißt ja nur, dass man auf den gezahlten
-Grundsteuerbetrag nicht auch noch Einkommenssteuer zahlen muss: so eine Art
+Grundsteuerbetrag nicht auch noch Einkommensteuer zahlen muss: so eine Art
 Trostpreis vom Finanzamt.
 
 Das war nicht immer so extrem, denn vor 40 Jahren waren die Immobilienpreise noch
@@ -353,7 +353,7 @@ Millionen wert ist, mit ihrer schmalen Rente nicht in Zahlungsschwierigkeiten ko
 und wegziehen muss, wurde 1976 die sogenannte
 <LINK>https://en.wikipedia.org/wiki/1978_California_Proposition_13|Prop 13|Kaliforniens Proposition 13</LINK>
 verabschiedet. Das Gesetz bestimmt, dass die Grundsteuer auf dem Niveau von 1976
-bleibt, mit jährlichen Erhöhungen von etwa 2-3%.
+bleibt, mit jährlichen Erhöhungen von etwa 2–3%.
 
 <pic images/mansion-sale.ps (#8) Der Besitzer dieses Luxushauses zahlt nur 3.721 Dollar. Warum?>
 
@@ -372,11 +372,11 @@ Nun ist das Verfahren nicht unumstritten, denn Steuer\-gerechtig\-keit sieht and
 aus, und schon als Arnie Schwarzen\-egger Gouverneur war, brachte er eine Reform
 ins Gespräch. Allerdings ließ er schnell wieder davon ab, als er den auf\-ziehenden
 Gegenwind der Hausbesitzer spürte. Deswegen wird sich wohl an der Regelung so
-schnell nichts ändern, keiner will die klapprigen Hippies aus ihren millionenschweren
+schnell nichts ändern; keiner will die klapprigen Hippies aus ihren millionenschweren
 Bruchbuden vertreiben. Ein aussichtsloses Unterfangen für jeden Politiker.
 
-Neulich wurde übrigens bekannt, dass unser Gouverneur, Gavin Newsom, sich im
-Bonzen-County Marin (nördlich der Golden Gate Bridge) ein 
+Neulich wurde übrigens bekannt, dass unser Gouverneur Gavin Newsom sich im
+Bonzen-County Marin (nördlich der Golden Gate Bridge) ein
 <LINK>https://www.sfchronicle.com/bayarea/article/gavin-newsom-marin-house-19920278.php|Luxusanwesen|Gavin Newsoms neues Refugium</LINK>
 für schlappe neun Millionen Dollar
 zugelegt hat. Wie ein Gouverneur die dafür fällige Grundsteuer von etwa 110.000
@@ -398,18 +398,18 @@ fachkundiges Personal sich des Problems zum Takt von $35 annimmt. Der Mann
 am Empfang hat mir mal versichert, dass Leute wie ich seinen Laden am Laufen
 halten.
 
-<pic images/fanttik-amzn.ps (#1) Er röhrt, pumpt, und zeigt an.>
+<pic images/fanttik-amzn.ps (#1) Er röhrt, pumpt und zeigt an.>
 
 So eine traditionelle Pumpe zieht ihren Strom über den Zigarettenanzünder im
-Auto, und macht einen Höllenlärm, während sie neues Leben in den Reifen
-einhaucht. Zu Wucherpreisen die Pumpstationen an Tankstellen zu nutzen war noch
+Auto und macht einen Höllenlärm, während sie neues Leben in den Reifen
+einhaucht. Zu Wucherpreisen die Pumpstationen an Tankstellen zu nutzen, war noch
 nie mein Ding. Seit 20 Jahren habe ich deshalb so eine Pumpe im Kofferraum, für
 den Notfall, und auch, um alle paar Monate zur Wartung ein paar Bar in die
 Reifen zu husten.
 
 Das elektrische Kabel vom Zigarettenanzünder zur Pumpe am Reifen zu verlegen
 ist allerdings mit etwas Aufwand verbunden, und so war ich erstaunt, zu
-erfahren dass es heutzutage Minipumpen mit derart brutal ausdauernden Batterien
+erfahren, dass es heutzutage Minipumpen mit derart brutal ausdauernden Batterien
 gibt, dass sie das Stromkabel überflüssig machen. Als ich die Fanttik-Pumpe in
 meinem Lieblingssupermarkt Costco für $39.99 sah, dachte ich erst, "ah, da
 warte ich noch, bis der Preis runtergeht", aber auf einmal war das Wunderding
@@ -428,19 +428,19 @@ Die Bedienung ist denkbar simpel, man schraubt die Luftdüse am Schlauchende des
 Geräts aufs Reifenventil, stellt mit den Pfeiltasten den gewünschten Druck ein
 (zum Beispiel 35 PSI für die Vorderreifen des Integra), drückt den Mittelknopf
 und schon röhrt der Fanttik los, pumpt Luft in den Reifen, bis der Solldruck
-erreicht ist und bricht dann ab. Narrensicher.  Die Ladung des verbauten
-Lithium-Ion-Akkus zeigte immer noch alle drei Balken an, nachdem ich 8
-Autoreifen um ein oder zwei PSI aufgepumpt hatte.  Ich würde schätzen, dass
-man damit mehrere Reifen von Null auf voll aufpumpen könnte bevor man ihn über
+erreicht ist und bricht dann ab. Narrensicher. Die Ladung des verbauten
+Lithium-Ionen-Akkus zeigte immer noch alle drei Balken an, nachdem ich 8
+Autoreifen um ein oder zwei PSI aufgepumpt hatte. Ich würde schätzen, dass
+man damit mehrere Reifen von null auf voll aufpumpen könnte, bevor man ihn über
 seine USB-C-Buchse wieder aufladen muss.
 
 <pic images/fanttik-ball.ps Sogar der olle Fußball wird praller.>
 
 In Amerika wird Druck übrigens in PSI (pounds per square inch) gemessen. In
-Europa sind "bar" üblich. Der Umrechnungsfaktor ist 0.0689, also entsprechen 35
+Europa ist "Bar" üblich. Der Umrechnungsfaktor ist 0.0689, also entsprechen 35
 PSI etwa 2,41 bar. Die Pumpe kann nicht nur Autoreifen wieder prall machen,
-auch Fahrradreifen bringt sie mühelos in Form. Mountain Bikes brauchen etwa 35
-PSI. Auch die fast 100 PSI, die der Rennradreifen eines Tour-De-France-Fahrers
+auch Fahrradreifen bringt sie mühelos in Form. Mountainbikes brauchen etwa 35
+PSI. Auch die fast 100 PSI, die der Rennradreifen eines Tour-de-France-Fahrers
 benötigt, liefert sie locker. Ventile für Fußbälle und ähnliches Spielgerät
 sind ebenfalls im Lieferumfang enthalten. Einfach 3 oder 4 PSI einstellen und
 los geht's, no problemo. Topp-Produkt! Der Preis auf Amazon ist
@@ -453,7 +453,7 @@ bessere.
 
 <em>Angelika</em> Ich habe nun die schwierige Aufgabe, euch zu erklären, warum
 Trump wieder zum Präsidenten gewählt wurde. Ich wollte dieses Thema eigentlich
-unter den Tisch fallen lassen, aber Michael meinte das ginge nicht. Ehrlich
+unter den Tisch fallen lassen, aber Michael meinte, das ginge nicht. Ehrlich
 gesagt waren wir nicht überrascht, dass Trump der Wahlsieger war. Mir war
 eigentlich ziemlich schnell klar, dass Kamala Harris nicht die Person war, die
 Trump schlagen könnte. Allerdings wurde ich immer ziemlich schnell in meine
@@ -467,9 +467,9 @@ Ich hatte ja schon in unserem letzten Rundbrief erwähnt
 (<RBLINK>20241031#1</RBLINK>), dass es darum ging, die unabhängigen Wähler zu
 erreichen, denn die Basiswähler sowohl der demokratischen als auch der
 republikanischen Partei hatten ihre Entscheidung bereits getroffen, als Kamala
-Harris ins Rennen ging. Harris enge Verbindung zu Biden schwächte ihre Position
+Harris ins Rennen ging. Harris' enge Verbindung zu Biden schwächte ihre Position
 von Anfang an. Themen wie die illegale Einwanderung verbunden mit der desolaten
-und chaotischen Situation an der mexikanische Grenze, die weiterhin hohen
+und chaotischen Situation an der mexikanischen Grenze, die weiterhin hohen
 Lebenshaltungskosten und die steigende Kriminalität in den Großstädten standen
 für viele noch unentschiedene Wähler im Mittelpunkt. Statistiken über sinkende
 Inflation oder Kriminalität, die viele Demokraten immer wieder zitierten,
@@ -480,7 +480,7 @@ an den Grenzen einzudämmen, was nicht gelang, zeugt schon von einer gewissen
 Betriebsblindheit. Die demokratische Führung schien jedoch darauf zu setzen,
 dass die Betonung der Gefahren einer zweiten Amtsperiode Trumps allein zum
 Wahlsieg der Demokraten führen sollte. Diese Strategie war allerdings schon
-2016 gescheitert.  Es reicht dann doch nicht aus zu sagen, wählt mich, denn ich
+2016 gescheitert. Es reicht dann doch nicht aus, zu sagen: Wählt mich, denn ich
 bin nicht Trump. 
 
 Viele unentschlossene Wähler suchten nach klareren Antworten von Kamala Harris
@@ -490,8 +490,8 @@ positionierte sich als Retter der Arbeiterklasse und des kleinen Mannes und
 gewann viele Stimmen von Wählergruppen hinzu, die einst eher demokratische
 Kandidaten gewählt hatten, zum Beispiel Latinos und Schwarze. Dieses Mal
 erzielte Trump sogar die Mehrheit aller direkten Wählerstimmen, und auch im
-Senat und im Repräsentantenhaus verschoben sich die Mehrheiten zu Gunsten der
-Republikaner.  Was mir besonders Sorgen macht bezüglich Trump als Präsident ist
+Senat und im Repräsentantenhaus verschoben sich die Mehrheiten zugunsten der
+Republikaner. Was mir bezüglich Trump als Präsident besonders Sorgen macht, ist
 seine mangelnde Impulskontrolle, seine Selbstverliebtheit und ein Kabinett, das
 voller Leute sitzt, die keine Ahnung von den Ressorts haben, die sie leiten.
 Wann hat das eigentlich angefangen, dass sich Leute ständig selbst überschätzen
