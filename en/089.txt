@@ -166,41 +166,35 @@ itself for the next round.
 
 <pic images/rmj-website.ps From armchairs to washing machines to tube TVs: The bulky waste collection service comes upon request and takes it away.>
 
-TODO
-
 <em>Michael</em> 
 Our old tube TV had to go, and since a sticker on our trash can
-mentioned the free service...
-<LINK>http://recyclemyjunk.com|The translation of "Recycle meinen
-MÃ¼ll" from German to English is "Recycle my junk.</LINK>
-Translation: "I called there based on the information. The friendly
+mentioned the free service
+<LINK>http://recyclemyjunk.com|Recycle my junk</LINK>,
+I called them. The friendly
 lady on the other end of the line confirmed that she would be happy
 to pick up my old TV set, and we arranged an appointment for the
-following week, as everything was already booked before then.
+following week, as that was the first available appointment.
 
-<pic images/rmj-truck.ps The man from RecycleMyJunk.com is picking up
-old furniture.>
+<pic images/rmj-truck.ps The man from RecycleMyJunk.com is picking up old furniture.>
 
-The disposal lady instructed me to place the "RÃ¼hrenmonster" on the
-sidewalk in front of the house on the designated day and to attach a
+The disposal lady instructed me to place the tube monster on the
+sidewalk in front of the house on the designated day, and to attach a
 note with "RMJ" written in large letters. I cautiously asked what
 that meant, and she explained to me that it stood for "Recycle my
 junk." We had such a laugh! On the pickup day, we happened to be
 going on vacation and had to leave early in the morning for the
 airport, but we simply put the box down on the sidewalk the night
 before and attached the note. When we came back a week later, the box
-was gone. America is catching up in terms of waste management.
+was gone. America is catching up in terms of waste management!
 
-@Z: Wahlausgang
+@Z: Election Results
 
-<pic images/sacramento-capitol.ps In California, the Democrats
-remained in office.>
+<pic images/sacramento-capitol.ps In California, Democrats remained in office.>
 
 <em>Angelika</em> 
-In the last newsletter, I reported on the upcoming congressional
-elections.
-<RBLINK>20101017#1</RBLINK>
-...and by now the results are almost old news. As expected, the
+In the last newsletter, I had reported on the upcoming congressional
+elections (<RBLINK>20101017#1</RBLINK>)
+and by now the results are almost old news. As expected, the
 Democrats lost their majority in the House of Representatives and
 were only able to maintain their majority in the Senate by a very
 narrow margin. Obama is already feeling the consequences, as Congress
@@ -217,27 +211,22 @@ Governor in January, and the former San Francisco District Attorney,
 Kamala Harris, who gained fame for her progressive ideas and is
 against the death penalty, is the new Attorney General of California.
 
-@Z: Michael on the cover
+@Z: Michael On the Cover
 
-<pic images/sj-mercury-yshuttle-f.ps The translation of
-"WeltberÃ¼hmte Leute auf dem Weg zur Arbeit" to English is
-"World-famous people on their way to work.>
+<pic images/sj-mercury-yshuttle-f.ps World-famous people on their way to work.>
 
 <em>Michael</em> 
 Recently, early in the morning, informants told me that I had landed
 on the front page of the Silicon Valley newspaper "San Jose Mercury
 News." As it turned out, however, it wasn't because I had finally
 sold a startup for a few billion to a corporation, but rather as part
-of an article.
-<LINK>http://www.mercurynews.com/ci_16492798|The title "Ãber die
-Pendler von San Francisco" translates to "About the Commuters of San
-Francisco" in English.</LINK>
-The translation to English is: "to Silicon Valley and the private
+of an article on
+<LINK>http://www.mercurynews.com/ci_16492798|commuters from San Francisco to Silicon Valley"</LINK>
+and the private
 shuttle buses of large software companies that offer this service for
 free. Of course, this is old news for loyal newsletter readers who
-have known this since 2007.
-<RBLINK>20070427#2</RBLINK>
-.
+have known about this program since 2007 (<RBLINK>20070427#2</RBLINK>),
+but still, that article made my day!
 
 @Z: Coupons
 
@@ -246,10 +235,14 @@ have known this since 2007.
 <em>Michael</em> 
 In Germany, special offers and discount points are more the domain of
 older people and penny-pinchers who search for savings and thrift
-tips on geizhals.de. In America, however, you can also see
+tips on sites like <LINK>geizhals.de</LINK>. In America, however, you can also see
 well-earning people at the checkout handling coupons, which the
-cashier scans. If the coupon is valid, the register immediately
-deducts the discount amount. What's amusing about the coupons in the
+cashier then scans. If the coupon is valid, the register immediately
+deducts the discount amount.
+
+TODO
+
+What's amusing about the coupons in the
 booklet from the giant supermarket Costco is that they all have the
 same barcode number. So if you buy toilet paper and give the cashier
 the coupon for designer perfume, the register correctly deducts the
