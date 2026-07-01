@@ -497,21 +497,18 @@ exactly lacking in astonishing topic ideas.
 
 <pic images/sz-1.ps The Friday edition of the SZ arrives at our place like this.>
 
-TODO
-
-Since the magazine cannot be ordered individually, we are quickly
+Since the magazine cannot be ordered individually, we are grudgingly
 subscribing to the entire Friday edition. It comes through the
-importer.
-<LINK>http://glpnews.com|GLPnews</LINK>
-A week later, it arrives by mail in San Francisco, and in a ritual
+importer <LINK>http://glpnews.com|GLPnews</LINK> and arrives
+by mail in San Francisco a week after publication, and in a ritual
 that has been practiced for years, I open the surrounding plastic
 wrap, take out the 100g light magazine, and immediately throw the
 accompanying pound-heavy newspaper into the trash without reading it.
 
 Imagine this: Forests are being cut down to print a newspaper that is
 flown by plane directly into a recycling bin on the other side of the
-world, just because the SZ subscription service is stuck in the last
-century and can't manage to send me only the magazine. It also seems
+planet, just because the SZ subscription service is stuck in the last
+century and can't manage to send me just the magazine. It also seems
 that the subscription department of SZ is made up entirely of
 unionized slackers who fundamentally ignore my emails with the
 attitude of "Not my job!" How is the struggling newspaper industry
@@ -522,31 +519,29 @@ supposed to survive with such a work ethic? Fire them all!
 Additionally, the SZ delivery service often decides to simply
 withhold the magazine from me. As shown in illustration (#10), the
 newspaper then states that the magazine is "not included with the
-entire foreign edition." The delivery manager doesn't explain why.
-Why should he care about the customers? They should be grateful if
-they receive the newspaper at all. They shouldn't have moved away
+entire foreign edition." The delivery manager won't explain why that is.
+Why should he care about his customers? They should be grateful if
+they receive the newspaper at all! They shouldn't have moved away
 from Germany; if they had stayed in Munich, this problem wouldn't
-exist.
+exist!
 
-<pic images/sz-3.ps The one-week-old SZ goes straight into the
-recycling without being read.>
+<pic images/sz-3.ps The one-week-old SZ goes straight into the recycling without being read.>
 
-Funnily enough, some editions now prominently display a notice about
+Funnily enough, some Friday issues now prominently display a notice about
 the missing magazine, but when you open the newspaper, it's inside.
-You just shake your head. If the magazine is missing again, I write a
-short email to the importer and then simply get my subscription
+You've got to just shake your head. If the magazine is missing again, I write a
+short email to the importer service, and then simply get my subscription
 extended for free, because that's how it is in America; you don't
 upset the customer over a few dollars. Hopefully, the whimsical SZ
 service will take pity and include the magazine next time. According
 to the importer, you can't talk to the SZ people; they don't listen
 to small importers. Oh well.
 
-@Z: The phrase "Und gut ist" can be translated to English as "And
-that's that" or "And that's it." It is often used to indicate that
-something is settled or concluded.
+@Z: And that's that
 
-<pic images/andgoodis.ps The American John Madison criticizes his own
-country after having been in Germany for a long time.>
+<pic images/andgoodis.ps The American John Madison criticizes his own country after having been in Germany for a long time.>
+
+TODO
 
 <em>Angelika</em> 
 Some time ago, Michael recommended to you some interesting and funny
