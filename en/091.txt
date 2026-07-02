@@ -114,31 +114,23 @@ Drive and dance their hearts out. The event is free, and everyone is
 welcome to join. There is even a small dance lesson for beginners
 from 11 AM to 12 PM.
 
-TODO
-
-Since 1996, there has been...
-Lindy in the Park
+Since 1996, there has been an event called "Lindy in the Park".
 The event takes place regularly in Golden Gate Park. Lindy Hobbers
 (hence the name), Chad Kubo, and Ken Watanabe initiated it. If you,
 like me, live with someone who is an absolute dance grouch, that's
 not a problem. You don't need a partner to participate in swing
 dancing. Everyone dances with everyone, so be brave, dear tourists!
 
-And here's a little insider tip: In the...
-<LINK>http://deyoung.famsf.org|The De Young Museum is already in
-English. It is the name of a fine arts museum located in San
-Francisco, California.</LINK>
-Around the corner, anyone can go up to the observation tower without
+And here's a little insider tip: In the
+<LINK>http://deyoung.famsf.org|The De Young Museum</LINK>
+around the corner, anyone can go up to the observation tower without
 paying admission to the museum. Clear days reward you with fantastic
 views of Golden Gate Park, the city, the ocean, and the Golden Gate
 Bridge.
 
-@Z: Tagesschau aus der Ferne" translates to "Tagesschau from afar" in
-English. "Tagesschau" is a well-known German news program, so the
-phrase could imply watching or receiving news from a distance.
+@Z: Tagesschau From a Distance
 
-<pic images/tagesschau.ps Even on the other side of the world, a
-pleasure: The Tagesschau.>
+<pic images/tagesschau.ps Even on the other side of the world, a pleasure: The Tagesschau.>
 
 <em>Michael</em> 
 American news broadcasts often report only on local events, and there
@@ -161,26 +153,24 @@ this service, after 15 years of absence, we probably wouldn't be able
 to name the German Interior Minister or know the amount of the Hartz
 IV standard rate. Thank you, public broadcasters!
 
-Current update: For owners of a Roku box (
-<RBLINK>20101219#3</RBLINK>
-The phrase translates to English as: ") is recently under
-https://owner.roku.com/add/tagesschau
-A dedicated channel is available where you can sign up for free.
+Current update: For owners of a Roku box (<RBLINK>20101219#3</RBLINK>),
+the Tagesschau is available under
+<LINK>https://owner.roku.com/add/tagesschau</LINK>, which is
+a dedicated channel  you can sign up for, for free.
 Then, the latest edition of Tagesschau and several other ARD news
 programs will be available in the Roku channel menu.
 
-@Z: Borders is bankrupt.
+@Z: Borders Is Bankrupt
 
-<pic images/borders.ps The Borders store in downtown San Francisco.
-Photo: flickr[Chris Devers|cdevers/2590654879]>
+<pic images/borders.ps The Borders store in downtown San Francisco. Photo: flickr[Chris Devers|cdevers/2590654879]>
 
-<em>Angelika</em> 
+<em>Angelika</em>
 Certain things seem unstoppable; like the vinyl record, CDs will
 eventually disappear. Traditional bookstores are also increasingly
 vanishing in the USA. This is partly because there is no fixed book
 price agreement in the USA, leading to ruthless competition.
 Additionally, many people now order their books online from Amazon,
-which often sells books at up to 40% cheaper.
+which often sells books up to 40% cheaper.
 
 Initially, this development broke the back of small independent
 bookstores, as they can only purchase small quantities and thus have
@@ -188,14 +178,12 @@ little negotiating power when it comes to pricing with publishers. It
 was only recently that the bookstore "Cover to Cover" in our
 neighborhood closed for good, after a community initiative had
 temporarily saved it from bankruptcy in the summer of 2003 with
-generous loans.
-<RBLINK>20050701#7</RBLINK>
+generous loans (<RBLINK>20050701#7</RBLINK>).
 Smaller independent bookstores really only have a chance if they
 specialize, for example by stocking rare books that are not easily
 found elsewhere.
 
-<pic images/borders-closed.ps Today: The once bustling Borders store
-has closed its doors.>
+<pic images/borders-closed.ps Today: The once bustling Borders store has closed its doors.>
 
 However, even the large bookstore chains, which emerged as megastores
 in American shopping malls in the 1970s, are increasingly facing
@@ -210,8 +198,7 @@ management failed to recognize the rise of online business. Until
 handled internet orders through Amazon, essentially through its
 competitor.
 
-<pic images/kindle-kaspar.ps On the Amazon Kindle, it reads like a
-book, except that 3,500 of them fit into the small device.>
+<pic images/kindle-kaspar.ps The Amazon Kindle reads like a book, except that 3,500 of them fit into the small device.>
 
 Borders also missed the trend that digital books are becoming
 increasingly popular in the USA. Many readers are now forgoing paper
@@ -224,9 +211,9 @@ which arrive seconds later. The special feature of the Kindle is that
 it allows for fatigue-free reading because it displays black letters
 in a matte finish, similar to how they appear on paper, rather than
 glossy like on a computer screen, such as the iPad.
-<LINK>http://www.wired.com/gadgetlab/2010/09/new-amazon-ad-shows-kind
-le-as-sexy-competitor|Funny Kindle commercial video</LINK>
-Clearly highlights the differences. Michael received a Kindle from me
+A
+<LINK>http://www.wired.com/gadgetlab/2010/09/new-amazon-ad-shows-kindle-as-sexy-competitor|Funny Kindle commercial video</LINK>
+clearly highlights the differences. Michael received a Kindle from me
 for Christmas and has been going around with that thing ever since.
 
 Borders completely missed this trend towards eBooks, while the other
@@ -245,17 +232,16 @@ and elegantly integrated on the Kindle/iPad. Any newspaper or
 magazine that does not want to disappear into oblivion in the coming
 years should switch to the new format.
 
-@Z: Long lines at the Costco gas station
+@Z: Long Lines At The Costco Gas Station
 
-<pic images/costco-tanke.ps (#2) The higher the gas price, the longer
-the line at the Costco gas station.>
+<pic images/costco-tanke.ps (#2) The higher the gas price, the longer the line at the Costco gas station.>
 
 <em>Michael</em> 
 Due to the Libya crisis, fuel prices recently skyrocketed here. The
 premium gasoline that our rocket eagerly guzzles now costs almost
 four dollars per gallon ($0.77 per liter)! However, this affects us
 only peripherally at most, as we hardly drive and spend maybe $50 per
-month on gasoline. But the SUV-driving suburbanite is desperately
+month on gasoline. But SUV-driving suburbanites are desperately
 tearing their hair out.
 
 The gas station at the mega-supermarket Costco in South San Francisco
@@ -275,10 +261,9 @@ but instead went to the Shell gas station around the corner, paid an
 exorbitant $3.97 per gallon instead of $3.88, and was served
 immediately.
 
-@Z: Computer beats human in quiz show
+@Z: Computer Beats Human In Quiz Show
 
-<pic images/jeopardy-computer.ps The candidate in the middle this
-time is the computer "Watson," and it knows the answer.>
+<pic images/jeopardy-computer.ps The candidate in the middle this time is the computer "Watson," and it knows the answer.>
 
 <em>Michael</em> 
 The great American quiz show "Jeopardy!", in which three contestants
@@ -290,12 +275,11 @@ since.
 
 From a blue "wall" with questions valued from 200 to 2000 dollars,
 the contestant whose turn it is selects one, similar to the old days
-on the show "Der GroÃe Preis" with Wim Thoelke. The host reads the
+on the German show "Der Große Preis" with Wim Thoelke. The host reads the
 question aloud, and then the contestant who presses their red button
 first is allowed to answer.
 
-<pic images/jeopardy-question.ps A typical Jeopardy question: The
-correct answer is the Beatles song "Lady Madonna".>
+<pic images/jeopardy-question.ps A typical Jeopardy question: The correct answer is the Beatles song "Lady Madonna".>
 
 The correct answer earns the specified dollar amount for the
 contestant. However, a wrong answer causes the respondent's account
@@ -312,9 +296,7 @@ searched for the answer without internet access, and presented the
 three most likely answers, each with a percentage indicating the
 confidence level.
 
-<pic images/jeopardy-watson-eggheads.ps The eggheads at IBM are
-almost beside themselves with laughter as their protÃ©gÃ© Watson
-gives an utterly absurd wrong answer.>
+<pic images/jeopardy-watson-eggheads.ps The eggheads at IBM are almost beside themselves with laughter as their protegee Watson gives an utterly absurd wrong answer.>
 
 The result: The computer completely crushed the other two human
 participants, who were the most successful Jeopardy winners to date.
@@ -332,39 +314,35 @@ likely calculated through statistical analysis. A likable android!
 
 @Z: Top product: Handy Caddy
 
-<pic images/handy-caddy-pack.ps Handy Caddy", the mobile base for
-coffee machines.>
+<pic images/handy-caddy-pack.ps Handy Caddy", the mobile base for coffee makers.>
 
 <em>Michael</em> 
-Who needs something like that!" was my first thought when the online
-clearance site woot.com
-<RBLINK>20050319#4</RBLINK>
-Recently, as part of their weekly "Two for Tuesday" promotion, they
-offered the coffee machine slider "Handy Caddy" in a convenient
+"Who needs something like that!" was my first thought when the online
+clearance site woot.com (<RBLINK>20050319#4</RBLINK>),
+as part of their weekly "Two for Tuesday" promotion, recently
+offered the coffee maker slider "Handy Caddy" in a convenient
 two-pack.
 
-<pic images/handy-caddy-out.ps To fill, pull out the coffee machine
-...>
+<pic images/handy-caddy-out.ps To fill, pull out the coffee maker ...>
 
-Nach dem Studium des dazugehÃ¶rigen" translates to "After studying
-the associated" in English.
-<LINK>http://www.youtube.com/watch?v=HXmJvoeG7wU|Youtube-Infomercials
-</LINK>
-However, it suddenly became clear to me that our household also
-urgently needed a "Handy Caddy": Our coffee machine is located at the
+After studying the corresponding
+<LINK>http://www.youtube.com/watch?v=HXmJvoeG7wU|Youtube-Infomercials</LINK>,
+however, it suddenly became clear to me that our household also
+urgently needed a "Handy Caddy": Our coffee maker is located at the
 back of the countertop. To fill it with water from above, you have to
 pull it out first because of the kitchen cabinets hanging above it.
 In the dark ages before the invention of the Handy Caddy, you had to
-laboriously lift the coffee machine, but with the new plastic base,
+laboriously lift the coffee maker, but with the new plastic base,
 it now elegantly rolls out 30 cm with just one hand. A clever idea,
 and not expensive at all -- a top product!
 
-<pic images/handy-caddy-in.ps ... and after the work is done, back
-into the niche.>
+<pic images/handy-caddy-in.ps ... and after the work is done, back into the niche.>
+
+TODO
 
 If you look closely, you might notice the small white box in the
 outlet. Our Japanese coffee maker from the brand Zojirushi brews far
-better coffee than the Cuisinart machines otherwise available in
+better coffee than the Cuisinart makers otherwise available in
 America, but it lacks any technical features like an automatic
 shut-off. And since we coffee snobs don't drink coffee that has been
 sitting on the hot plate for more than half an hour, the...
