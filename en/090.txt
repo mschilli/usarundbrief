@@ -15,8 +15,6 @@ to you, as the European immigrants of the 19th and 20th centuries
 brought their traditions to the New World, blending Scandinavian,
 English, Dutch, Italian, Polish, and German customs.
 
-TODO
-
 In the USA, Christmas is celebrated on December 25th. The 25th is
 even an official holiday, which is surprising since there are
 actually no religious holidays in the USA. On December 25th, almost
@@ -25,7 +23,7 @@ restaurants are actually closed. Only a few industrious immigrants
 who do not celebrate Christmas open their small mom-and-pop stores or
 restaurants.
 
-The opening of presents takes place on the morning of December 25th,
+The opening of Christmas presents takes place on the morning of December 25th,
 which seems extremely inconvenient for parents of young children, as
 the little ones are, of course, so excited that they wake up far too
 early and drag their parents out of bed. I find it somewhat
@@ -38,16 +36,15 @@ the chimney into the house while everyone is asleep, and places the
 presents under the tree.
 
 Many children also leave cookies and milk on the table for the very
-busy man to strengthen him. Santa Claus also fills the fabric boots
-("Christmas stockings"), which usually hang on the mantelpiece, with
+busy man to strengthen him. Santa Claus also fills the cloth boots
+("Christmas stockings"), which usually hang by the mantelpiece, with
 small gifts and sweets. According to legend, those who were not
 well-behaved should expect a piece of coal in their stocking. You can
 see that the American "Santa Claus" is derived from the figures of
 Saint Nicholas and the Weihnachtsmann. However, "Santa Claus" lives
 at the North Pole.
 
-<pic images/xmas-sf-santa.ps The Christmas man in front of a house in
-our neighborhood.>
+<pic images/xmas-sf-santa.ps The Christmas man in front of a house in our neighborhood.>
 
 December 26th, on the other hand, is not a holiday in the USA.
 December 24th is also considered a normal working day, although many
@@ -58,25 +55,25 @@ allowing us to celebrate Christmas on December 24th without taking a
 day off. Even though there is only one holiday for Christmas,
 businesses and companies tend to be quieter between Christmas and New
 Year. Many people take time off, and some companies, including Yahoo,
-have recently started closing their doors to save money at the end of
-the year, forcing their employees to take mandatory leave. Schools
+have recently started closing their doors at the end of
+the year to save money, forcing their employees to take mandatory leave. Schools
 also have two weeks of winter break. However, I have to work between
 Christmas and New Year.
 
-@Z: Weihnachtsbaum
+@Z: Christmas Tree
 
-<pic images/xmas-tree-decorate.ps An American is already decorating
-his Christmas tree on December 12th.>
+<pic images/xmas-tree-decorate.ps American decorating his Christmas tree on December 12th.>
 
-The tradition of decorating a conifer tree and setting it up in the
+<em>Angelika</em> 
+The tradition of decorating a fir tree and setting it up in the
 home, originally from Germany, is also widespread in the USA.
-However, the Christmas tree is set up much earlier: many people buy
+However, the Christmas tree is set up much earlier here: many people buy
 their tree on the weekend after Thanksgiving (the fourth Thursday in
 November); they then immediately decorate it with Christmas ornaments
-and string lights and leave it up until after Christmas. I don't know
+and string lights, and leave it up and standing until after Christmas. I don't know
 anyone who has real candles on their tree. The branches of the trees
 available for purchase here are also much denser so that the cables
-of the electric string lights are not noticeable.
+of the electric string lights are not as noticeable.
 
 The Christmas trees are also not allowed to shed needles, as they
 stay in the homes much longer. Artificial Christmas trees are very
@@ -94,15 +91,11 @@ crosswise to the bottom of the trunk. If the buyer also wants a
 watering bowl for the tree, a plastic bowl is added between the trunk
 and the wooden stand.
 
-<pic images/xmas-tree-delancey-st.ps The project "Delancey Street"
-sells Christmas trees for a good cause.>
+<pic images/xmas-tree-delancey-st.ps The project "Delancey Street" sells Christmas trees for a good cause.>
 
-We always buy our Christmas tree, by the way, at the...
-<LINK>http://www.delanceystreetfoundation.org|The translation of
-"Delancey Street Foundation" to English is "Delancey Street
-Foundation." It is a proper noun, so it remains the same in
-English.</LINK>
-..which offers a small selection for sale on Bryant Street in San
+We always buy our Christmas tree, by the way, at the
+<LINK>http://www.delanceystreetfoundation.org|Delancey Street Foundation</LINK>
+which offers a small selection of trees for sale on Bryant Street in San
 Francisco. This is a non-profit organization that was founded in San
 Francisco in 1971. It helps former drug addicts, homeless
 individuals, or violent offenders get back on their feet by sending
@@ -110,7 +103,7 @@ them through a rehabilitation program that reintegrates them into
 society. What is special about the Delancey Street Foundation is that
 there are no paid employees; instead, the principle of self-help
 prevails. The foundation runs several businesses where the
-participants work. However, the money does not go to individuals but
+participants are working. However, the proceeds do not go to individuals, but
 into the community fund. In San Francisco, for example, the
 organization operates a restaurant, a moving company, and the
 seasonal Christmas tree sale.
@@ -119,10 +112,9 @@ But back to our Christmas tree: We always buy ours relatively late,
 because we don't decorate the tree until December 24th, and it only
 comes into the living room then, as anything else would feel strange
 to me. Before that, it has to patiently wait on the balcony for its
-appearance.
+big appearance.
 
-<pic images/xmas-tree-on-car.ps The Delancey man ties the Christmas
-tree with the wooden stand to the car roof using a piece of string.>
+<pic images/xmas-tree-on-car.ps The Delancey man ties the Christmas tree with the wooden stand to the car roof using a piece of string.>
 
 Many cities also present a richly decorated Christmas tree in a
 central, public square, which usually shines in full splendor for the
@@ -131,10 +123,11 @@ during a festive ceremony. In San Francisco, such a Christmas tree
 adorns Union Square, and in New York City, it stands in front of the
 Rockefeller Center.
 
-@Z: Weihnachtsdekorationen
+@Z: Christmas Decor
 
-<pic images/xmas-21st-street.ps These homeowners on 21st Street
-prefer their Christmas decorations to be rather lavish.>
+<pic images/xmas-21st-street.ps These homeowners on 21st Street prefer their Christmas decorations to be rather lavish.>
+
+TODO
 
 Markets and streets stand deserted, every house quietly illuminated.
 Pondering, I walk through the alleys, everything looks so festive."
