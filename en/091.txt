@@ -48,14 +48,12 @@ Perhaps nuclear power plants should generally not be connected to the
 grid in earthquake-prone areas. I think I'll get my "Nuclear Power --
 No Thanks" sticker out of the box again.
 
-@Z: Homeless Support Worker In The City Library
+@Z: Homeless Support Worker At The City's Public Library
 
 <pic images/sfpl-civic-center.ps The main branch of the San Francisco Public Library is located very close to Civic Center.>
 
-TODO
-
 <em>Angelika</em> 
-Tourists in San Francisco often notice that there are relatively many
+Tourists in San Francisco often notice that there are a lot of
 homeless people in this city. There are various reasons for this.
 First of all, rents are very high and housing is scarce. The
 relatively mild climate and a reasonable range of social programs for
@@ -73,10 +71,9 @@ not only offers public restrooms but also chairs for resting, access
 to computers and the internet, and magazines to read. In a way, it's
 an ideal substitute home for those without a permanent residence.
 
-<pic images/sfpl-inside.ps On six floors, there is not only plenty of
-space for books but also for 300 computer terminals.>
+<pic images/sfpl-inside.ps On six floors, there is not only plenty of space for books but also for 300 computer terminals.>
 
-The employees at the main library, however, felt somewhat overwhelmed
+Employees at the main library, however, felt somewhat overwhelmed
 by the task of attending to the large number of homeless individuals,
 as many struggle with alcoholism, drug addiction, or mental health
 issues. Library visitors had also complained when homeless
@@ -91,13 +88,12 @@ reintegration program have the opportunity to be employed by the
 library, for example, to monitor the restrooms. Only in San
 Francisco.
 
-@Z: Lindy in the Park
+@Z: Lindy In The Park
 
-<pic images/lindy-in-the-park.ps Every Sunday from 11 to 2 in Golden
-Gate Park: Public dance event "Lindy in the Park".>
+<pic images/lindy-in-the-park.ps Every Sunday from 11 to 2 in Golden Gate Park: Public dance event "Lindy in the Park".>
 
 <em>Angelika</em> 
-The Golden Gate Park in San Francisco is surely familiar to many of
+Golden Gate Park in San Francisco is surely familiar to many of
 you. This green oasis in the heart of the city stretches almost from
 the city center to the ocean and rivals Central Park in New York in
 terms of fame. Although there are plenty of homeless people and
@@ -117,6 +113,8 @@ meet near the De Young Museum on the sidewalk of John F. Kennedy
 Drive and dance their hearts out. The event is free, and everyone is
 welcome to join. There is even a small dance lesson for beginners
 from 11 AM to 12 PM.
+
+TODO
 
 Since 1996, there has been...
 Lindy in the Park
