@@ -7,7 +7,7 @@ San Francisco, den 29.04.2024
 <em>Michael</em>
 Letzten Herbst hatte ich das zweifelhafte Vergnügen, mir meinen beim Fußballspielen
 gerissenen Meniskus per Operation flicken zu lassen.
-In Abbildung (#1) seht ihr, wieviel der Spaß gekostet hat. Das
+In Abbildung (#1) seht ihr, wie viel der Spaß gekostet hat. Das
 Krankenhaus hat schlappe 43.696 Dollar berechnet, allerdings hat unsere
 Krankenkasse einen Deal mit dem Laden und so bekamen wir einen Discount von
 27.775,55 Dollar, und übrig blieben 15.275,10 Dollar, die die Krankenkasse auch
@@ -17,21 +17,21 @@ Wie kommt das?
 
 <pic images/hc-bill-total.ps (#1) Eine teure Serviceleistung im Krankenhaus.>
 
-Krankenkassen in Amerika bieten, entweder über den Arbeitgeber oder einer
+Krankenkassen in Amerika bieten entweder über den Arbeitgeber oder eine
 staatlichen Vermittlungsstelle wie <LINK>https://www.coveredca.com/|Covered California</LINK>
 verschiedene sogenannte "Pläne" an, also unterschiedlich
-teure Versicherungsverträge.  Meist zahlt der Versicherte eine monatliche
+teure Versicherungsverträge. Meist zahlt der Versicherte eine monatliche
 Prämie, muss aber bei Arztrechnungen oft auch noch einen Eigenanteil
 beisteuern. Dieses sogenannte "Copay" beträgt bei uns zum Beispiel bei
 Arztbesuchen 30 Dollar, aber bei aufwändigeren Prozeduren im
-Krankenhausbesuchen schlappe 10% der Rechnung, bis zu einem jährlichen
+Krankenhaus schlappe 10% der Rechnung, bis zu einem jährlichen
 Höchstbetrag von 2.000 Dollar. Damit wollen die Krankenkassen die Patienten
 dazu motivieren, möglichst wenig zum Arzt zu gehen oder sonstige Kosten zu
 verursachen. Für Pläne mit weniger Selbstbeteiligung muss der Versicherte
 entsprechend höhere monatliche Prämien berappen.
 
 Bis die Höchstgrenze (im Beispiel 2.000 Dollar pro Jahr) erreicht ist, kostet
-den Versicherten jeder Arztbesuch wie gesagt 30 Dollar.  Bekommt der Arzt also
+den Versicherten jeder Arztbesuch wie gesagt 30 Dollar. Bekommt der Arzt also
 zum Beispiel 400 Dollar von der Versicherung für einen 10-minütigen Besuch (in
 der Höhe nicht ungewöhnlich), weil das der zwischen Arzt und Versicherung
 ausgehandelte Satz ist, überweist die Versicherung dem Arzt später nur 370
@@ -45,29 +45,29 @@ Rechnung über 30 Dollar ins Haus, die er ebenfalls meist per Kreditkarte beglei
 <pic images/hc-pay.ps Beim Arzt zahlt der Patient sein Co-Payment erst einmal per Kreditkarte.>
 
 Bei meinem oben erwähnten Operationssaalbesuch letztes Jahr schätzten die
-Finanzmenschen dort rätselhafterweise die Kosten der Operation auf 9,000
+Finanzmenschen dort rätselhafterweise die Kosten der Operation auf 9.000
 Dollar, und knöpften mir schon ein paar Tage vor dem Termin 10% davon ab, also
 900 Dollar, die ich per Kreditkarte zahlte, damit die Operation überhaupt
 stattfinden konnte. Allerdings waren in der Zwischenzeit bei der
 Krankenversicherung schon mehrere Rechnungen von diversen Dienstleistern
-eingegangen: der Röntgen-Fritze wollte Geld sehen, sowie der behandelnde
+eingegangen: Der Röntgen-Fritze wollte Geld sehen, ebenso der behandelnde
 Orthopäde, der nach einem ebenfalls teuren MRI zu einer Operation geraten
 hatte. Ruckzuck war der von mir zu entrichtende jährliche Höchstbetrag von
-2.000 Dollar fast erreicht gewesen. Hurra? So kommt es jedenfalls, dass ich
-trotz der höher als geschätzten Operationskosten (15.275,10 statt 9000 Dollar)
-nicht 900, sondern nur 645,35 Dollar hätte entrichten müssen. Schlappe 254.65
-Dollar zuviel gezahlt!
+2.000 Dollar fast erreicht. Hurra? So kommt es jedenfalls, dass ich
+trotz der höher als geschätzten Operationskosten (15.275,10 statt 9.000 Dollar)
+nicht 900, sondern nur 645,35 Dollar hätte entrichten müssen. Schlappe 254,65
+Dollar zu viel gezahlt!
 
 Nun muss man sagen, dass viele Amerikaner sich gar nicht die Mühe machen
-würden, dies nachzurechnen, aber ich habe ja bekanntlich schon einmal bei Ebay
+würden, dies nachzurechnen, aber ich habe ja bekanntlich schon einmal bei eBay
 angerufen, um mir 10 Cent zurückerstatten zu lassen, die diese Gauner mir
-zuviel abgezweigt hatten.  Ich rief also beim Krankenhaus an, wühlte mich durch
-tausend Menüpunkte und fragte, ob ich denn mein Geld zurück bekäme. Nein, sagte
+zu viel abgezweigt hatten. Ich rief also beim Krankenhaus an, wühlte mich durch
+tausend Menüpunkte und fragte, ob ich denn mein Geld zurückbekäme. Nein, sagte
 man mir, ich hätte noch Glück gehabt, weil die Versicherung einen günstigeren
 Betrag ausgehandelt hatte. Anscheinend hatte die Finanzperson am Telefon keinen
 Schimmer, denn meines Erachtens hatte meine Versicherung dem Krankenhaus den
 verlangten Betrag bis auf 645,35 Dollar exakt erstattet, und genau diesen
-Restbetrag war ich bereit, zuzuschießen, aber keinen Pfennig mehr.  Die
+Restbetrag war ich bereit, zuzuschießen, aber keinen Pfennig mehr. Die
 Krankenhausdame riet mir, bei meiner Krankenversicherung anzurufen, um den Fall
 zu klären.
 
@@ -87,21 +87,21 @@ Krankenhäuser können hierzulande korrekt abrechnen. Die meisten Patienten sind
 mit dem Regelwerk ebenfalls überfordert oder nicht willens, sich einzulesen,
 und lassen aus Unkenntnis ihr schwer verdientes Geld auf dem Tisch liegen. Die
 Service-Provider kalkulieren dies möglicherweise sogar mit ein und spielen
-Mäuschen, falls der Patient zuviel zahlt, während sie im umgekehrten Fall
+Mäuschen, falls der Patient zu viel zahlt, während sie im umgekehrten Fall
 natürlich sofort alle Hebel in Bewegung setzen, um an den Zaster zu kommen.
 
 Also, wie immer in Amerika: Immer wieder anrufen, bis alles stimmt.
 Freundlich, aber bestimmt auftreten, nie schimpfen, sondern geduldig die
 Sachlage erklären und vielleicht auch etwas Humor einfließen lassen.
 Schließlich hängen am anderen Ende der Leitung auch nur Menschen, die einen
-öden Job machen und nach Unterhaltung lechzen.  Gleichzeitig schult man so
+öden Job machen und nach Unterhaltung lechzen. Gleichzeitig schult man so
 kostenlos sein Englisch und sein Verhandlungsgeschick.
 
 Jedenfalls kam vier Wochen später ein Brief vom Krankenhaus per Schneckenpost
 ins Haus geflattert, mit einem Anschreiben, das trotzig behauptete, dass
 angeblich ein "Internal Audit" des Krankenhauses darauf gekommen sei, dass mir
-zuviel Geld abgezweigt worden war. Anbei lag ein Scheck über die von mir
-angemahnten 254.65 Dollar. Zufälle gibt's im Leben.
+zu viel Geld abgezweigt worden war. Anbei lag ein Scheck über die von mir
+angemahnten 254,65 Dollar. Zufälle gibt's im Leben.
 
 @Z: Amazon-Schlamassel
 
@@ -111,7 +111,7 @@ angemahnten 254.65 Dollar. Zufälle gibt's im Leben.
 amazon.de ins Haus mit einem Poststempel aus Malta und einem Kopfbogen mit dem
 Logo von Amazon, das nicht einmal farbig war. Angeblich hatte ich etwas bei
 Amazon bestellt, aber die Lastschrift konnte nicht eingelöst werden und ich
-schuldete Amazon jetzt jeweils 101 Euro, die ich doch bitte umgehend and das
+schuldete Amazon jetzt jeweils 101 Euro, die ich doch bitte umgehend an das
 Kreditinstitut HSBC Trinkhaus und Burkhardt überweisen sollte.
 
 Es war nicht aufgelistet, was ich eigentlich bestellt haben sollte. Auch war
@@ -122,7 +122,7 @@ auf irgendwelche Zahlungsaufforderungen per E-Mail oder SMS reagieren soll. Und
 so dachte ich mir, dass das Ganze dann ja einmal eine ganz neue Masche ist, um
 Leute abzuzocken.
 
-Und da ich gar keinen deutschen Amazon Account sondern nur einen amerikanischen
+Und da ich gar keinen deutschen Amazon-Account, sondern nur einen amerikanischen
 besitze, und es dort keine merkwürdigen Bestellungen gab, ignorierte ich die
 Sache zunächst einmal, weil Michael und ich glaubten, dass es sich um einen
 frechen Betrugsversuch handelte. Ich recherchierte zwar etwas im Internet und
@@ -135,11 +135,11 @@ Beispiel. Mir ist zwar immer noch nicht ganz klar, wie das funktionieren soll,
 aber es sei hier einmal die Absurdität hervorgehoben, dass Amazon in
 Deutschland erlaubt, dass der Kunde sowohl per Rechnung einkaufen kann als auch
 per Bankeinzug und scheinbar wenig daran interessiert ist, die sich dadurch
-öffnende Betrugsmöglichkeiten zu schließen.
+öffnenden Betrugsmöglichkeiten zu schließen.
 
 <pic images/amzn-reminder.ps Amazon.de erinnert an eine nie erfolgte Bestellung.>
 
-Ihr ahnt es schon, die Geschichte geht noch weiter.  Im Februar kam dann per
+Ihr ahnt es schon, die Geschichte geht noch weiter. Im Februar kam dann per
 Post, wieder aus Malta, ein Brief vom Inkassobüro Riverty. Auch hier war nicht ersichtlich, ob es
 sich um eine sehr gute Fälschung handelte oder eine echte Forderung. Amazon
 arbeitet laut Internet tatsächlich mit diesem Inkassobüro zusammen. Bei
@@ -162,7 +162,7 @@ mit meinen amerikanischen Amazon-Account-Zugangsdaten auf der deutschen
 Amazonseite ein, und begann einen Chatverlauf, da ich gerne etwas
 schriftlich in der Hand haben wollte. Ich hatte mit dem amerikanischen
 Kundenservice von Amazon bis jetzt nur positive Erfahrungen gemacht, die sind
-auf zack und lösen Probleme immer umgehend. In meiner Naivität dachte ich, dass
+auf Zack und lösen Probleme immer umgehend. In meiner Naivität dachte ich, dass
 das bei Amazon Deutschland genauso wäre.
 
 <pic images/amzn-riverty.ps Das Inkasso-Unternehmen Riverty nimmt die Hatz auf.>
@@ -170,14 +170,14 @@ das bei Amazon Deutschland genauso wäre.
 Es kostete mich zunächst einmal drei
 Versuche, bis überhaupt einer kapiert hatte, was mein Problem war und bereit
 war, mir zu helfen. Zunächst war ich mir nicht einmal sicher, ob ich mit einer
-Machine sprach oder einem Menschen. Die erste Info, die ich bekam, war, dass
+Maschine sprach oder einem Menschen. Die erste Info, die ich bekam, war, dass
 ich die Mahnung wegen eines technischen Problems erhielt und die E-Mail
 ignorieren sollte.
 
 Halt, stopp, ihr aufmerksamen Leser habt es gemerkt. Ich
-hatte ja keine E-Mail erhalten sondern zwei Briefe mit der Post. Dann wurde mir versprochen,
+hatte ja keine E-Mail erhalten, sondern zwei Briefe mit der Post. Dann wurde mir versprochen,
 dass meine Anfrage an die entsprechende Abteilung weitergeleitet würde und ich
-sowohl eine Kopie dieser Anfrage erhalten würde und in 2-3 Stunden eine
+sowohl eine Kopie dieser Anfrage erhalten als auch in 2–3 Stunden eine
 Rückmeldung erwarten könnte. Beides passierte nicht.
 
 Beim nächsten Versuch
@@ -192,7 +192,7 @@ Datenschutzgründen nicht sagen könnte. Da kann man doch nur noch schreien.
 Auch
 versprach sie mir, mein Anliegen an die Sicherheitsabteilung weiterzuleiten, und die
 würden sich dann bei mir melden. Darauf warte ich immer noch. Beim dritten
-Versuch geriet ihn an den Bearbeiter Kirtiman Singh Rajavat und der machte endlich Nägel mit
+Versuch geriet ich an den Bearbeiter Kirtiman Singh Rajavat und der machte endlich Nägel mit
 Köpfen. Er wies mich an, die Mahnungen und das Schreiben von der Inkassofirma an
 eine spezielle E-Mail-Adresse bei Amazon zu schicken, was ich dann tat. Nicht
 gerade vertrauenserweckend war, dass die Anforderung voller Fehler war, aber
@@ -200,10 +200,10 @@ ich bekam dann eine Nachricht, dass erst einmal kein weiterer Handlungsbedarf
 mehr besteht von meiner Seite aus.
 
 Es wurde mir zwar wieder angekündigt, dass ich noch eine Rückmeldung erhalten
-würde, aber diese lässt bis heute auf sich warten.  Der Wahnsinn! Ich bin mir
+würde, aber diese lässt bis heute auf sich warten. Der Wahnsinn! Ich bin mir
 immer noch nicht sicher, ob die Sache jetzt abgeschlossen ist oder mir
 demnächst dann ein Brief von einem deutschen Gericht ins Haus flattert.
-Manchmal sehne ich mich sehr nach den Zeiten zurück, wo man in richtigen Läden
+Manchmal sehne ich mich sehr nach den Zeiten zurück, in denen man in richtigen Läden
 nur bar zahlen konnte.
 	
 @Z: Anza-Borrego Desert
@@ -211,8 +211,8 @@ nur bar zahlen konnte.
 <pic images/ab-drive.ps Schon die Anfahrt stimmt auf die Wüstenlandschaft ein>
 
 <em>Angelika</em> Wer wie ich an einer Schule arbeitet, kommt in den Genuss der
-vielen Ferien, und das ist ein echtes Luxusgut in den USA.  Und da Michael nun
-seit neustem freischaffender Programmierer und Surfer ist und deshalb zeitlich
+vielen Ferien, und das ist ein echtes Luxusgut in den USA. Und da Michael nun
+seit Neuestem freischaffender Programmierer und Surfer ist und deshalb zeitlich
 sehr flexibel, können wir meine Ferien zum gemeinsamen Reisen nutzen.
 
 Um Weihnachten hatte ich gleich mehr als zwei Wochen Ferien, und eine Woche davon fuhren
@@ -255,15 +255,15 @@ versteckten Schluchten, aber auch grandiosen Weiten vorstellen, ein Paradies
 für jeden Wanderer und Naturliebhaber. Was mich in der Wüste immer am meisten
 fasziniert ist, wie leise es dort ist. Ein Genuss für Städter wie uns. 
 
-<pic images/ab-apache.ps Beim AirBnB war ein Pferd mit dabei.>
+<pic images/ab-apache.ps Beim Airbnb war ein Pferd mit dabei.>
 
 Wir mieteten uns ein klasse Airbnb in dem Ort "Borrego Springs". Das Häuschen
-war nicht nur super ausgestattet, sondern für kalifornische Verhältnisse äußert
-preisgünstig, dass ich schon erst dachte, da müsste ein Haken dran sein. Dem
+war nicht nur super ausgestattet, sondern für kalifornische Verhältnisse äußerst
+preisgünstig, sodass ich erst dachte, da müsste ein Haken dran sein. Dem
 war aber nicht so. Hinterm Haus lebte zwar ein Pferd. Dieses mussten wir aber
 nicht mit versorgen. Aber Apache Tears, so war der Name des Pferdes, freute
 sich immer über ein paar Streicheleinheiten und etwas Aufmerksamkeit und trug
-zur unserer Urlaubsidylle in der Wüste bei. Auch Fahrräder hatte unsere
+zu unserer Urlaubsidylle in der Wüste bei. Auch Fahrräder hatte unsere
 Unterkunft zur freien Benutzung. Da Michael, durch seine Meniskusoperation
 bedingt, noch nicht jeden Tag eine Mammutwanderung machen konnte, aber radeln
 kein Problem war, freuten wir uns über dieses Transportmittel.
@@ -271,7 +271,7 @@ kein Problem war, freuten wir uns über dieses Transportmittel.
 <pic images/salton-sea-inn.ps Eine gute Wirtschaft mitten in der Wüste.>
 
 Die Wüstenlandschaft hatte sich trotz der dazwischen liegenden vielen Jahre
-unseres letzten Besuches erfreulicher nicht verändert, und wir waren von der
+unseres letzten Besuches erfreulicherweise nicht verändert, und wir waren von der
 Anza-Borrego-Wüste genauso begeistert wie beim ersten Mal. Borrego Springs war
 kulinarisch etwas besser aufgestellt. Was aber wirklich ins Auge stach, waren
 die riesigen Metallskulpturen, die sich überall in Borrego Springs geradezu surreal
@@ -289,12 +289,12 @@ aufgebaut hatte.
 
 <pic images/bs-desert-bike.ps Mit dem Radel durch endlose Weiten.>
 
-Die Marke "Avery" kennt in den USA jeder sowie in Deutschland "UHU".
+Die Marke "Avery" kennt in den USA jeder, so wie in Deutschland "UHU".
 Avery entwickelte die ersten selbstklebenden Etiketten. Dennis Avery trat nun zwar
 nicht selbst in die Firma ein, verfügte aber als Erbe über einiges Geld. Da er lange
 mit seiner eigenen Familie in Borrego Springs gelebt hatte und die
 Wüstenlandschaft liebte und schützen wollte, erwarb er ziemlich viel Land dort.
-Dann traf er Ricardo Brecado und setzte mit ihm die Idee der Skulpturen in der
+Dann traf er Ricardo Breceda und setzte mit ihm die Idee der Skulpturen in der
 Wüstenlandschaft um und stellte diese einfach auf sein privates Land, das aber
 für die Öffentlichkeit frei zugänglich ist.
 
@@ -305,7 +305,7 @@ künstlerischen Wert dieser Metallskulpturen sicherlich streiten, aber Borrego
 Springs hat definitiv eine neue Touristenattraktion. Und wenn das Areal dadurch
 nicht mit Häusern vollgestellt wird, ist mir das recht. Dennis Avery starb
 übrigens schon im Jahr 2012 im Alter von 71 Jahren, aber die Skulpturen werden
-jetzt von einer Stiftung verwaltet. Wir klapperten die Skulpturen mit unsern
+jetzt von einer Stiftung verwaltet. Wir klapperten die Skulpturen mit unseren
 Fahrrädern ab, da das Gebiet sehr weitläufig ist und kamen uns vor wie in einer
 Filmkulisse.
 
@@ -314,7 +314,7 @@ Filmkulisse.
 <pic images/salton-sea.ps Salton Sea: Ein See mit zu hohem Salzgehalt.>
 
 <em>Angelika</em>
-Gleich um die Ecke von der Anza Borrego Desert befindet sich der "Salton Sea", ein
+Gleich um die Ecke von der Anza-Borrego Desert befindet sich der "Salton Sea", ein
 übersalzter, praktisch toter See, hinter dem sich eine große Umweltkatastrophe
 verbirgt. Eine unwirkliche, faszinierende, aber auch etwas gruselige Landschaft
 mitten in der heißen Wüste. Eine Gegend, die glorreiche Zeiten mit großen
@@ -322,20 +322,20 @@ Hollywoodkünstlern hinter sich hat, und heutzutage Lebenskünstler mit
 interessanten, aber oft auch traurigen Geschichten anzieht.
 
 Mich ziehen solche Gegenden ebenfalls magisch an, und so war klar, dass wir von
-unserem Domizil in Anza Borrego einen Ausflug nach "Salton Sea" machen würden.
+unserem Domizil in Anza-Borrego einen Ausflug nach "Salton Sea" machen würden.
 Was aber war mit dem See geschehen? Schon die Entstehungsgeschichte des Sees
 ist verrückt. Wie kommt ein so großer See in die kalifornische Wüste? Die
-Schlamperei eines Ingenieurs war Schuld.
+Schlamperei eines Ingenieurs war schuld.
 
 <pic images/salton-billboard.ps Einsames Reklameschild des einstigen Resorts>
 
 Nun müsst ihr zunächst wissen, dass ein ausgeklügeltes und mittlerweile auch
 sehr umstrittenes Kanalsystem, das den Colorado River anzapft, das Farmland im
 südkalifornischen Imperial und Riverside Valley bewässert. Ohne solche
-Wasserquellen würde kein Gemüse auf kalifornischen Feldern wachsen.  Einer
+Wasserquellen würde kein Gemüse auf kalifornischen Feldern wachsen. Einer
 dieser Kanäle, nämlich der Alamo-Kanal, setzte sich um 1900 mit Schlamm zu, und
 es gelang nicht, ihn wieder flott zu machen. Die Bauern brauchten aber
-dringend das Wasser und protestierten und bettelten bei der zuständige Firma, der
+dringend das Wasser und protestierten und bettelten bei der zuständigen Firma, der
 "California Development Company", das Wasser wieder fließen zu lassen.
 
 Da die Firma eh kurz vor der Pleite stand, dachte sich ihr Ingenieur Charles
@@ -360,7 +360,7 @@ immer weiter absinkt, steigt der Salzgehalt weiter an und auch Chemikalien
 werden freigesetzt, die sich über Jahrzehnte im Schlamm des Seebettes
 angesammelt haben. Die Luftqualität ist in dieser Gegend deshalb oft schlecht
 und Erkrankungen wie Asthma und auch Krebserkrankungen häufen sich, ganz zu
-Schweigen von Fisch- und Artensterben. Der Staat Kalifornien versucht schon
+schweigen vom Fisch- und Artensterben. Der Staat Kalifornien versucht schon
 seit Jahrzehnten eine Lösung zu finden, aber die zuständigen Behörden und
 Politiker können sich einmal wieder nicht darüber einigen, welcher Weg der
 richtige ist, und dann macht man lieber gar nichts.
@@ -382,9 +382,9 @@ jedes Jahr ein Kunstfestival in Bombay Beach mit vielen Kunstobjekten am
 Strand, die dann einfach stehen bleiben. Teile erinnern an alte Geisterstädte
 mit vielen verlassenen und eingefallenen Gebäuden. Ein Paradies für jeden
 Fotografen. Trotz der harschen und toxischen Umweltbedingungen leben dort viele
-Vögel wie zum Beispiel Schneegänse, die sich am See ansiedeln. Und auch eine
-nette Kneipe mit dem lustigen Namen "Ski Inn" mit super schönem Garten, in die
-wir einkehrten und leckere deftige Burger verzehrten.  An solchen Orten wie
+Vögel wie zum Beispiel Schneegänse, die sich am See ansiedeln. Es gibt auch eine
+nette Kneipe mit dem lustigen Namen "Ski Inn" und einem superschönen Garten, in die
+wir einkehrten und leckere deftige Burger verzehrten. An solchen Orten wie
 "Salton Sea" komme ich immer ins Philosophieren über das Leben im Allgemeinen
 und im Besonderen.
 
@@ -393,11 +393,11 @@ und im Besonderen.
 <pic images/htc-web.ps Die neue Webseite hikethiscity.com zeigt alle unsere Stadtwanderwege.>
 
 <em>Michael</em> Während der Covid-Lockdowns hatten wir es uns angewöhnt, jeden Tag eine
-Stunde spazieren zu gehen, und damals konnte wir ja oft die Stadt nicht
-verlassen aber wollten Wanderungen machen, also begann ich, mit Hilfe von
+Stunde spazieren zu gehen, und damals konnten wir ja oft die Stadt nicht
+verlassen, wollten aber Wanderungen machen, also begann ich, mit Hilfe von
 Websites wie Google Maps und Komoot.com, verzwickte Stadtwanderwege
 auszubaldowern. San Francisco bietet ja nicht nur die allgemein bekannten
-Attraktionen für Touristen, und auch wer schon 20 Jahre hier gelebt hat, kennt noch
+Attraktionen für Touristen und auch wer schon 20 Jahre hier gelebt hat, kennt noch
 nicht jedes versteckte Treppchen, Stadtgebirge, Miniparks mit atemraubenden
 Ausblicken, ob in rustikalen Arbeiterwohngegenden oder mit Old Money gebauten
 Luxusvierteln.
@@ -410,7 +410,7 @@ abwanderten, aufzeichneten und bewerteten. Aus den allerbesten, die durch
 verwinkelte Gassen führten, die Autobahn auf Fußgängerbrücken kreuzten oder auf denen
 man schöne alte pompöse Villen bestaunen oder einfach einen erhöhten Rundblick
 über die ganze Stadt genießen konnte, baute ich ein sogenanntes
-Coffe-Table-Book namens
+Coffee-Table-Book namens
 <LINK>https://www.lulu.com/shop/mike-schilli/san-francisco-urban-hikes/hardcover/product-m2dqzr7.html|"San Francisco Urban Hikes"</LINK>
 zusammen, einen kiloschweren prächtigen Hochglanz-Fotoband mit Kartenmaterial
 für die Routen.
@@ -428,15 +428,15 @@ Komoot-App, auf die die Wege auf der Webseite durchlinken, durchnavigieren. Ihr 
 
 Nun dürft ihr noch raten, wo das Titelbild in Abbildung (#3) geschossen wurde. 
 Offensichtlich in einer eher urbanen Gegend San Franciscos, mit einer Fußgängerbrücke
-über eine stark befahrenen Straße, aber mit einem weiten Ausblick auf die Stadtteile
-Bernal Heights und Portrero Hill. Da hat sich noch kein Tourist hinverirrt!
+über eine stark befahrene Straße, aber mit einem weiten Ausblick auf die Stadtteile
+Bernal Heights und Potrero Hill. Da hat sich noch kein Tourist hinverirrt!
 
-@Z: Toppprodukt: Das flexible Kabelrückgrat
+@Z: Topp-Produkt: Das flexible Kabelrückgrat
 
 <pic images/cable-vertebrae-high.ps Ist die Tischplatte oben, streckt sich das Rückgrat.>
 
 <em>Michael</em> Ich tippe ja noch immer viel am Computer herum, schreibe Artikel,
-mache Open-Source-Software, verfasse scharfzüngige Emails und Posts auf Social
+mache Open-Source-Software, verfasse scharfzüngige E-Mails und Posts auf Social
 Media. Im hohen Alter habe ich jetzt auch noch den Stehschreibtisch für mich
 entdeckt. Beziehungsweise einen einstellbaren Tisch, der motorgetrieben nach
 oben oder unten fährt, je nachdem, ob ich bei der Arbeit gerade sitzen oder stehen will.
@@ -445,9 +445,9 @@ oben oder unten fährt, je nachdem, ob ich bei der Arbeit gerade sitzen oder ste
 
 Das Problem bei dieser flexiblen Einstellung ist allerdings, dass die Kabel,
 die von der Steckdose zum Schreibtisch führen, für Monitor- und Rechnerstrom,
-Netzwerkkabel, USB-Anschluss zum Scanner undsoweiter, sich nun im
+Netzwerkkabel, USB-Anschluss zum Scanner und so weiter, sich nun im
 runtergefahrenen Zustand des Schreibtischs recht lose auf dem Boden ringeln,
-aber sich am Stehschreibtisch straffen müssen.  Außerdem sollte man um den
+aber sich am Stehschreibtisch straffen müssen. Außerdem sollte man um den
 Schreibtisch herumgehen beziehungsweise mit dem Staubsauger schnell mal
 durchsaugen können, und bei meinem bisherigen Set\-up hatten sich mangels
 Kabelmanagement unter dem chaotischen Verhau schon dicke Staubmullen gebildet.
@@ -456,15 +456,15 @@ Unschön!
 <pic images/cable-vertebrae-vacuum.ps Sogar der Staubsauger kann drunter durch.>
 
 Durch Zufall entdeckte ich auf Amazon diese "Vertebrae" (Rückgrat) genannten
-Kabelführungen, die, ähnlich wie eine Wirbelsäule, eine gebogene Form annehmen
+Kabelführungen, die ähnlich wie eine Wirbelsäule eine gebogene Form annehmen,
 ohne zu knicken, wenn man sie staucht. Die Glieder sind wie Wirbel frei
-aneinander gehängt und erlauben die Rotation um eine Achse (nicht wie die
+aneinandergehängt und erlauben die Rotation um eine Achse (nicht wie die
 Wirbelsäule in zwei Dimensionen!). Das reicht aber, damit bis zu einem halben
-Dutzend Kabel schön aufgeräumt innerhalb der Wirbel bleiben und bei Amazon
-gibt's das Produkt von mehreren Anbietern so um 35 Dollar. Ich hab's bei Ebay
+Dutzend Kabel schön aufgeräumt innerhalb der Wirbel bleiben. Bei Amazon
+gibt's das Produkt von mehreren Anbietern so um 35 Dollar. Ich hab's bei eBay
 bei einem Chinesenversand für etwas mehr als 20 bekommen. Jeden Cent wert, so
 sauber war mein Arbeitszimmer noch nie, seit ich mit unserem ebenfalls
-brandneuen Dyson-Staubsauger durchflitze. Toppprodukt!
+brandneuen Dyson-Staubsauger durchflitze. Topp-Produkt!
 
 @Z: Greta übertüncht
 
@@ -474,7 +474,7 @@ brandneuen Dyson-Staubsauger durchflitze. Toppprodukt!
 Was Klimakleber angeht, wisst ihr in Deutschland sicher
 besser Bescheid als wir hier in den USA, aber die Greta kennen wir natürlich auch.
 Deswegen musste ich doch sehr lachen, als ich vor etwa einem halben Jahr dieses
-Wandportrait von ihr, ein sogenanntes "Mural" mitten in der Stadt entdeckte, direkt
+Wandporträt von ihr, ein sogenanntes "Mural", mitten in der Stadt entdeckte, direkt
 um die Ecke von meinem Zahnarzt. Das Bild hatte irgendwas Gruseliges, wie
 eine Puppe, die im Regal sitzt und einen anstarrt.
 
@@ -488,9 +488,9 @@ in einer von jugendlichen Rebellen durchgeführten Nacht- und Nebelaktion. Nun
 ja, mir soll's egal sein, ich fand's nur interessant, wie schnell die Fans
 heutzutage ihre Idole hochputschen und dann fallen lassen, nur weil sie
 irgendeinen Schmarrn daherreden. Mit zunehmendem Alter stelle ich auch fest,
-dass ich früher viel Schmarren geredet habe, aber mei, so ist das halt wenn man
+dass ich früher viel Schmarren geredet habe, aber mei, so ist das halt, wenn man
 jung ist, Schmarren reden gehört zum Lernprozess! Zum Glück hat mich niemand
-gecancelt, sowas gab's damals nicht.
+gecancelt, so was gab's damals nicht.
 
 Grüße aus Deutschlands Zukunft:
 
