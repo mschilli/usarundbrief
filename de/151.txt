@@ -16,7 +16,7 @@ Seit der Pandemie stehen über 30% der Bürogebäude in San Franciscos Innenstad
 leer, da der neue Arbeitstrend mit Homeoffice sich durchgesetzt hat, zumindest
 für drei Tage in der Woche. Viele Firmen haben ihre Büros verkleinert, was in
 Down\-town San Francisco dazu führt, dass weniger Menschen die Geschäfte der
-Innenstadt frequentieren, oder ihren Kaffee und ihr Mittagessen dort kaufen und
+Innenstadt frequentieren oder ihren Kaffee und ihr Mittagessen dort kaufen und
 verzehren, was dann wieder zu Schließungen von Geschäften führt, weil die
 Kundschaft weggebrochen ist. Ein Teufelskreis.
 
@@ -28,16 +28,16 @@ Läden am Laufen hielten. Und solange der Stadt die Steuereinnahmen nicht
 wegbrachen, ignorierten die Politiker der Stadt geflissentlich, dass Firmen,
 die große Konferenzen regelmäßig im Moscone Center abhielten, damit drohten,
 ihre Konferenzen woanders abzuhalten, falls San Francisco nicht aufräumen
-würde.  Schließlich sollten Konferenzteilnehmer nicht um Zelte auf
-Bürgersteigen navigieren, oder mit extremer Vorsicht schreiten müssen, um nicht
+würde. Schließlich sollten Konferenzteilnehmer nicht um Zelte auf
+Bürgersteigen navigieren oder mit extremer Vorsicht schreiten müssen, um nicht
 in gebrauchte Spritzen zu treten.
 
 Jetzt ist die Lage so, dass zwar Touristen langsam wieder in die Stadt
-zurückkehren.  Allerdings hat der Leerstand der Büros sich nicht eklatant
-verbessert.  Die Fentanyl-Krise, die auch in Downtown San Francisco tobt,
+zurückkehren. Allerdings hat der Leerstand der Büros sich nicht eklatant
+verbessert. Die Fentanyl-Krise, die auch in Downtown San Francisco tobt,
 besonders im angrenzenden Viertel Tenderloin, hat die jahrzehntelange
 Obdachlosenkrise noch einmal verschärft. Es wird sicher Jahre, wenn nicht
-Jahrzehnte dauern, bis sich strukturell etwas verändern wird.  Und so setzt die
+Jahrzehnte dauern, bis sich strukturell etwas verändern wird. Und so setzt die
 Stadt jetzt auf oberflächliche Verschönerungen und Verbesserungen wie den
 weiter unten erwähnten Skatepark.
 
@@ -46,11 +46,11 @@ weiter unten erwähnten Skatepark.
 Für die APEC-Konferenz (Asia-Pacific Economic Cooperation), die Mitte November
 im Moscone Center in Downtown San Francisco stattfand, lief diese Maschinerie
 auf Hochtouren und nahm schon fast groteske Formen an. San Francisco erwartete
-nicht nur hochrangige Diplomaten sondern auch US-Präsident Biden und das
+nicht nur hochrangige Diplomaten, sondern auch US-Präsident Biden und das
 Staatsoberhaupt Chinas, Xi Jinping, in der Stadt. Wie bei uns zu Hause, wenn
 Besuch sich angekündigt hat, wurde aufgeräumt und gewienert, was das Zeug hält.
 Dabei kehrte man auch einiges unter den Teppich, Hauptsache der Dreck war weg.
-Das erinnert mich an meine Teenagerjahre, wo ich des öfteren einmal alles in
+Das erinnert mich an meine Teenagerjahre, wo ich des Öfteren einmal alles in
 den Schrank stopfte, damit mein Zimmer aufgeräumt aussah.
 
 <pic images/apec-moscone.ps Im abgeriegelten Moscone-Center fand die Konferenz statt.>
@@ -64,14 +64,14 @@ Center ein. San Franciscos Bevölkerung fragte verwirrt nach, wie es denn
 sein könne, dass die Stadt so plötzlich aufgeräumt wird, falls hochrangige
 Politiker in die Stadt kommen, aber sich sonst niemand darum schert.
 
-Lustigerweiser gab unserer Gouverneur Gavin Newsom diese Charade bei einer
+Lustigerweise gab unser Gouverneur Gavin Newsom diese Charade bei einer
 <LINK>https://www.youtube.com/watch?v=u07HdmSNQXA|Pressekonferenz|Pressekonferenz von Gavin Newsom</LINK>
 zu, allerdings bedingt durch eine freudsche Fehlleistung:
 "Oh they're just cleaning up this place because
 all those fancy leaders are coming to town. That's true, because it's true"
 ("Oh, sie räumen die Stadt nur auf, weil hochtrabende Staatsoberhäupter zu
-Besuch kommen. Das ist wahr ... weil es wahr ist.") Um gleich darauf zurück zu rudern:
-Denn angeblich ging es schon vor Konferenz ums Aufräumen in San Francisco.
+Besuch kommen. Das ist wahr ... weil es wahr ist.") Um gleich darauf zurückzurudern:
+Denn angeblich ging es schon vor der Konferenz ums Aufräumen in San Francisco.
 Was haben wir gelacht.
 
 @Z: Insel in der Bay: Treasure Island
@@ -82,16 +82,16 @@ Was haben wir gelacht.
 Richtung Oakland, führt der stark befahrene Freeway I-80 über die Bay Bridge.
 Die Brücke besteht aus zwei Teilstücken: dem Westteil, der aus San Francisco
 herausführt, und dem Ostteil, der auf der anderen Seite der Bay bei Emeryville
-anschlägt.  Genau in der Mitte liegen die beiden Teilstücke der insgesamt sieben
+anschlägt. Genau in der Mitte liegen die beiden Teilstücke der insgesamt sieben
 Kilometer langen Brücke auf einer Insel in der Bay auf, dem "Yerba Buena
 Island". Diese Mini-Insel ist wiederum mit einer weiteren Insel namens
 "Treasure Island" verbunden, und zwar durch eine kurze Brückenstraße, die auf
-Meereshöhe hinüber führt (Abbildung (#4)).
+Meereshöhe hinüberführt (Abbildung (#4)).
 
 <pic images/treas-aerial.ps (#4) Unten: Yerba Buena Island, oben: Treasure Island>
 
 Auf Yerba Buena Island war früher ein Fischerdorf der damals in der Bay Area
-ansässigen Ohlohne-Indianer. Um 1870 (also nach dem Goldrausch) schnappte sich
+ansässigen Ohlone-Indianer. Um 1870 (also nach dem Goldrausch) schnappte sich
 das Militär die Insel und ab 1936 nutzte die damals gerade fertig gebaute Bay Bridge die Insel als
 Zwischenablage. Für eine Ausstellung, die "Golden Gate International
 Exposition" im Jahre 1939 kamen nun die Stadtväter auf die Idee, den seichten
@@ -136,7 +136,7 @@ Militärbaracken, sondern auch schnuckelige Bungalows, Fußballfelder, eine
 Whiskey-Brennerei und mehrere gute Restaurants.
 
 <HTMLONLY>
-<pic images/treas-ducks.ps Fussballfeld mit Enten auf Treasure Island>
+<pic images/treas-ducks.ps Fußballfeld mit Enten auf Treasure Island>
 </HTMLONLY>
 
 Für ortskundige Autofahrer war die Insel übrigens schon von jeher zugänglich, wenn
@@ -181,7 +181,7 @@ gekommen. Es gab Adventskalender und Adventskränze in jeder Klasse. Die Kinder
 buken Plätzchen und bastelten Sterne aus dem schönen Goldfolienpapier, das ich
 noch aus Kindertagen kenne. Ich hörte die traditionellen Lieder
 "Kling Glöckchen" und "Schneeflöckchen, Weißröckchen", aber auch den Ohrwurm
-"In der Weihnachsbäckerei" von Rolf Zuckowski, oder englische Lieder wie zum
+"In der Weihnachtsbäckerei" von Rolf Zuckowski oder englische Lieder wie zum
 Beispiel "Up on the Housetop". 
 
 <pic images/gsmvxmas-schmuck.ps Auch Stände mit Handwerkskunst fanden Anklang.>
@@ -189,21 +189,21 @@ Beispiel "Up on the Housetop".
 Der absolute Höhepunkt war aber der Weihnachtsmarkt der Schule, der am 9.
 Dezember stattfand. Der Erlös des Marktes kommt der Schule zugute. Zunächst
 dachte ich, es gäbe ein paar Büdchen mit Selbstgebasteltem, aber
-weit gefehlt.  Der Markt glich komplett einem Weihnachtsmarkt in Deutschland,
+weit gefehlt. Der Markt glich komplett einem Weihnachtsmarkt in Deutschland,
 sowohl in der Größe als auch im Sortiment. Es gab Glühwein, Bratwurst,
 Weihnachtsschmuck aus dem Erzgebirge, Lebkuchen, Stollen, Schmuck,
 Kunsthandwerk. Ich traute meinen Augen nicht. Der Markt wird komplett von
 Freiwilligen von der Schule organisiert und die Weihnachtsleckereien werden
-tatsächlich per Schiffscontainer aus Deutschland importiert.  Den Markt gibt es
-seit über 10 Jahren und leider musste er letztes Jahr ausfallen wegen eines
-wüsten Sturms und die zwei Jahre davor hatte ihn die Corona-Pandemie auf Eis
+tatsächlich per Schiffscontainer aus Deutschland importiert. Den Markt gibt es
+seit über 10 Jahren und leider musste er letztes Jahr wegen eines wüsten Sturms
+ausfallen, und die zwei Jahre davor hatte ihn die Corona-Pandemie auf Eis
 gelegt.
 
 <pic images/gsmvxmas-ambooth.ps Die rasenden Rundbriefreporter verkaufen Lebkuchen.>
 
-Um so bombiger war die Stimmung dieses Jahr.  Die Sonne strahlte vom Himmel,
+Umso bombiger war die Stimmung dieses Jahr. Die Sonne strahlte vom Himmel,
 und alles klappte wunderbar. Der Markt fand auf dem Rathausplatz in Mountain
-View statt, also dem Ort, an dem unsere Schule ist.  Es war rappelvoll und die
+View statt, also dem Ort, an dem unsere Schule ist. Es war rappelvoll und die
 Leute sind für Glühwein und Bratwurst angestanden wie verrückt. Auch Michael
 und ich übernahmen als Freiwillige eine Schicht am Süßigkeiten- und
 Gebäckstand. Zweieinhalb Stunden verkauften wir Schokoladennikoläuse,
@@ -226,7 +226,7 @@ Griff zu bekommen.
 
 Angefressene Anwohner hatten aber vor einiger Zeit die Idee, die Gehwege
 vor ihren Wohnungen mit riesigen Blumenkästen vollzustellen, was zwar auch
-illegal ist, aber die Stadträte scheuen bekannlich jeglichen Konflikt, und
+illegal ist, aber die Stadträte scheuen bekanntlich jeglichen Konflikt und
 geboten der Gegenbewegung darum ebenfalls keinen Einhalt.
 
 <pic images/tb-mech.ps Diese Autowerkstätte muss den Gehwegzelter dulden.>
@@ -243,8 +243,8 @@ ziehen grummelnd ein paar Straßen weiter, wo die Gehwege noch unbebaut sind.
 
 Mittlerweile schießen diese Blumensärge wie Pilze aus dem Boden, der Hersteller
 muss Rekordumsätze verbuchen. Wenn man bei uns durch den mit Zelten
-geradezu übersähten Nachbarstadtteil Mission fährt, sieht man mittlerweile
-hunderte dieser Blumensärge auf den Gehwegen. Teilweise stehen sie auch in
+geradezu übersäten Nachbarstadtteil Mission fährt, sieht man mittlerweile
+Hunderte dieser Blumensärge auf den Gehwegen. Teilweise stehen sie auch in
 abgesperrten Bereichen, wohl als Material für die nächste Nacht- und Nebelaktion.
 
 <pic images/tb-planter.ps Blumentöpfe halten wilde Camper fern.>
@@ -254,7 +254,7 @@ Beispiel gnadenlos Falschparker abkassiert, schafft sie es nicht, die Zelter
 davon abzuhalten, die Gehsteige für Fußgänger zu blockieren. Selbst
 Rollstuhlfahrer müssen auf die Straße ausweichen, um an den Großraumzelten, dem
 Müll und unangeleinten Kampfhunden vorbeizukommen. Dass da noch keiner wegen
-Nichteinhaltung der in kalifornien sehr strengen Accessibility-Richtlinien
+Nichteinhaltung der in Kalifornien sehr strengen Accessibility-Richtlinien
 geklagt hat, wundert mich ehrlich gesagt. Oder dann auch wieder nicht. Und, das
 Beste, die Lösung ist, dass steuerzahlende Bürger aus eigener Tasche
 Blumensärge kaufen, um wieder menschenwürdige Zustände herzustellen.
@@ -280,11 +280,11 @@ Octavia-Street zu spät: Die gesamte Holzkonstruktion
 <LINK>https://sfstandard.com/2023/08/07/residents-fume-over-lack-of-answers-about-massive-san-francisco-fire/|ging in Flammen auf|Großfeuer an der Octavia-Street</LINK>,
 nur das Gerüst blieb übrig
 <HTMLONLY>(Abbildung (#1))</HTMLONLY>.
-Anwohner konnten ihre vom Rauch und Hitze beschädigten Wohnungen nicht mehr
-nutzen und mussten sich eine neue Bleibe suchen.  Eine Bizarro-Welt! Eigentlich
+Anwohner konnten ihre vom Rauch und von der Hitze beschädigten Wohnungen nicht mehr
+nutzen und mussten sich eine neue Bleibe suchen. Eine Bizarro-Welt! Eigentlich
 sollte man meinen, dass eine Stadt wie San Francisco, die sonst mit Adleraugen
 über Brandschutzbestimmungen wacht, diese Situation in den Griff bekommt, aber
-anscheinend ist das zu schwierig.  Und nachdem Deutschland Amerika alles
+anscheinend ist das zu schwierig. Und nachdem Deutschland Amerika alles
 nachmacht, mit ein paar Jahren Verzögerung, könnt ihr euch schon mal mental
 darauf vorbereiten.
 
@@ -297,27 +297,27 @@ darauf vorbereiten.
 <em>Angelika</em> Viele der Probleme der Stadt San Francisco sind hausgemacht
 und haben sich über Jahre kumuliert. Es gibt zum Beispiel keine Opposition im
 Stadtrat. Alle Abgeordneten gehören der demokratischen
-Partei an, und unterscheiden sich eigentlich nur dadurch, wie progressiv sie
+Partei an und unterscheiden sich eigentlich nur dadurch, wie progressiv sie
 sind. Nun sollte man auf den ersten Blick meinen, dass ein Stadtrat, der fest
 in der Hand einer Partei ist, viel gebacken bekommt, aber leider ist dem nicht
 so. Ganz im Gegenteil: Die absurdesten Ideen gehen durch, und es gibt keine
-Gegenpartei oder -stimmen, die darauf drängen zu schauen, ob die Maßnahmen
-überhaupt funktionieren oder nur in die Rubik "rausgeschmissenes Geld" fallen.
+Gegenpartei oder -stimmen, die darauf drängen, zu schauen, ob die Maßnahmen
+überhaupt funktionieren oder nur in die Rubrik "rausgeschmissenes Geld" fallen.
 
 Die Umgestaltung des Rathausplatzes (genauer gesagt eines Abschnitts des
 UN-Plazas) in der Innenstadt ist so ein fragwürdiges Projekt. Dazu müsst ihr
 wissen, dass die "City Hall", also das Rathaus San Franciscos, an ein sehr
-verhautes Viertel, das Tenderloin, grenzt.  Schon seit wir hier wohnen,
-verkaufen Dealer auf dem Platz vor dem Rathaus Drogen.  Treue Rundbriefleser
+verhautes Viertel, das Tenderloin, grenzt. Schon seit wir hier wohnen,
+verkaufen Dealer auf dem Platz vor dem Rathaus Drogen. Treue Rundbriefleser
 erinnern sich vielleicht daran, dass ich jahrelang im Tenderloin gearbeitet
-habe. Zu meinen aktiven Zeiten in dem Viertel gab es einen Haufen verdeckte
+habe. Zu meinen aktiven Zeiten in dem Viertel gab es einen Haufen verdeckter
 Ermittler ("under cover cops"), die Drogendealer aufspürten und dann auch
 verhafteten.
 
 Doch dann trat die Stadtpolitik in die verhängnisvolle Phase, die Drogendealer
 einfach machen zu lassen, denn angeblich handelt es sich um arme Hunde, die man
-nicht verhaften darf, egal wieviele Tote diese durch den Drogenverkauf
-wissentlich in Kauf nehmen.  Nun hat aber die Fentanylkrise dazu geführt, dass
+nicht verhaften darf, egal wie viele Tote diese durch den Drogenverkauf
+wissentlich in Kauf nehmen. Nun hat aber die Fentanylkrise dazu geführt, dass
 San Francisco zu Pandemiezeiten mehr Drogentote als Coronatote hatte, und die
 Zahlen bezüglich der Drogentoten auch nach der Pandemie immer weiter stiegen.
 Im Jahr 2023 gab es bis jetzt
@@ -328,14 +328,14 @@ die meisten starben an einer Fentanyl-Überdosis.
 
 Nun sind nächstes Jahr Wahlen in der Stadt und leichte Panik macht sich unter
 den Politikern breit, weil viele Bürger von San Francisco mittlerweile arg
-angefressen sind wegen der Laissez-Faire-Haltung ihrer Politiker. Deshalb macht
-sie zur Zeit wilder Aktionismus breit, frei nach dem Motto "Unsere Stadt muss
-schöner werden". Im Zuge dieses Programms erhielt Der UN-Plaza-Teil des
+angefressen sind wegen der Laissez-faire-Haltung ihrer Politiker. Deshalb macht
+sich zurzeit wilder Aktionismus breit, frei nach dem Motto "Unsere Stadt muss
+schöner werden". Im Zuge dieses Programms erhielt der UN-Plaza-Teil des
 Rathausplatzes nun kürzlich für zwei Millionen Dollar eine kleine
 Schönheitsoperation. Die Stadträte dachten sich, dass es jetzt an der Zeit
-wäre, die Drogendealer vom Platz zu vertreiben und entschieden sich dafür,
+wäre, die Drogendealer vom Platz zu vertreiben, und entschieden sich dafür,
 einen kleinen Skatepark auf den Platz zu bauen.
-Desweiteren gibt es Tischtennisplatten und Tischfußball sowie ein paar
+Des Weiteren gibt es Tischtennisplatten und Tischfußball sowie ein paar
 Fitnessmaschinen und Kurse wie Zumba für die Öffentlichkeit. Auf den ersten
 Blick ist daran ja nichts auszusetzen, nur erschließt sich mir nicht so ganz,
 warum ein Skatepark Drogendealer abschrecken sollte.
@@ -365,12 +365,12 @@ wie gesagt, vor den Wahlen zählen hauptsächlich oberflächliche Verschönerung
 <em>Michael</em> Wer hätte gewusst, dass es in San Francisco eine Stadtbücherei
 mit sage und schreibe 31 Zweigstellen gibt? Das System, ein abgegabbeltes Buch
 aus dem Regal einer muffigen öffentlichen Einrichtung zu entnehmen, um es
-auszuleihen, war mir natürlich aus Deutschland seit Kindesbeinen an bekannt.
+auszuleihen, war mir natürlich aus Deutschland von Kindesbeinen an bekannt.
 Hier in San Francisco hatte ich es zwar in über zwanzig Jahren nicht geschafft,
 mir eine Büchereikarte zu besorgen, aber nachdem ich jetzt endlich etwas Luft
 habe, dachte ich mir: das probiere ich jetzt auch mal aus.
 
-<pic images/sfpl-card.ps (#5) Michaels Büchereikarte mit Katzenmotif>
+<pic images/sfpl-card.ps (#5) Michaels Büchereikarte mit Katzenmotiv>
 
 Ich ging also zu einer Zweigstelle der San Francisco Public Library (SFPL) bei
 uns im Viertel auf der Jersey Street, legte meinen Führerschein vor und sagte
@@ -378,18 +378,18 @@ uns im Viertel auf der Jersey Street, legte meinen Führerschein vor und sagte
 wollte ich Kramer aus Seinfeld möglichst original kopieren. Die Dame hinter dem
 Schalter tippte erfreut meine Daten in den Computer, vergewisserte sich, dass
 mein Wohnsitz in San Francisco war und fragte mich dann, welches Motiv ich denn
-auf meinem vier Jahre gültigen und kostenlosen Büchereiausweis wolle. Portraits
-irgendwelcher linken Politikhelden vielleicht?  Ich entschied mit dann doch für
+auf meinem vier Jahre gültigen und kostenlosen Büchereiausweis wolle. Porträts
+irgendwelcher linken Politikhelden vielleicht? Ich entschied mich dann doch für
 das Motiv mit der niedlichen Katze (Abbildung (#5)).
 
 <pic images/sfpl-noe.ps Auch in unserem Viertel ist eine Zweigstelle der Stadtbücherei>
 
 In einer Impromptu-Einweisung erfuhr ich, dass die Ausleihzeit für Bücher drei
 Wochen beträgt, und man kann fünfmal (!) verlängern, wenn nicht ein anderer
-Bücherwurm das Buch mit einem sogenannten "Hold" vorreserviert hat.  Auch die
+Bücherwurm das Buch mit einem sogenannten "Hold" vorreserviert hat. Auch die
 maximale Anzahl von Büchern, die eine Person gleichzeitig ausleihen kann, ließ
-mich aufhorchen: Bis zu 100 Bücher! Schubkarre ist selbst mitzubringen nehme
-ich an.  Zurückbringen kann man die Bücher in jeder (!) Zweigstelle, entweder
+mich aufhorchen: Bis zu 100 Bücher! Schubkarre ist selbst mitzubringen, nehme
+ich an. Zurückbringen kann man die Bücher in jeder (!) Zweigstelle, entweder
 indem man sie dem Bibliothekar auf den Tisch legt oder aber unten an der Tür im
 Postschlitz einwirft.
 
@@ -400,7 +400,7 @@ klassischen amerikanischen Romanautoren, eher so die Grabbelkiste des
 Bücherladens. Eine Ausnahme ist das Regal mit der Aufschrift "Lucky Day", dort
 stehen brandneue Erscheinungen der Buch-Tycoone. So findet man dort (mit Glück)
 zum Beispiel die Biografie über Elon Musk, oder dieses Quatschbuch von Prinz
-Harry, oder auch die neuesten New York Times Bestseller wie "Chip Wars".
+Harry oder auch die neuesten New-York-Times-Bestseller wie "Chip Wars".
 Verlängern darf man die Ausleihzeit dieser begehrten Bücher allerdings nicht.
 
 <pic images/sfpl-obama.ps In der Rubrik "Lucky Day" führt die Bibliothek Neuerscheinungen.>
@@ -424,12 +424,12 @@ man es mit jedem beliebigen Kindle-Reader lesen kann. Drei Wochen lang.
 <pic images/libby-ended.ps (#7) Nach Ablauf der Leihfrist wird das Buch eingezogen.>
 
 Nach Ablauf der dreiwöchigen Frist entzieht einem dann erst Libby und dann
-Amazon das Kindle-Buch wieder (Abbildung (#7))!  Das muss man sich mal
+Amazon das Kindle-Buch wieder (Abbildung (#7))! Das muss man sich mal
 vorstellen: Um an dem alten Konzept der Verlage von anno dunnemals
 festzuhalten, die die Produktion eines Buches durch verkaufte Exemplare
 finanzieren, muss die Bücherei dem Leser, der das Buch vielleicht noch gar
 nicht durch hat, das digitale Exemplar aus den Händen wringen, damit nicht
-zuviele Kopien im Umlauf sind.  Ich musste schon den Notabschaltknopf des
+zu viele Kopien im Umlauf sind. Ich musste schon den Notabschaltknopf des
 Netzwerks betätigen, um die letzten Seiten in Ruhe lesen zu können! Wir
 leben schon in merkwürdigen Zeiten.
 
@@ -438,19 +438,19 @@ leben schon in merkwürdigen Zeiten.
 <pic images/vic-cut.ps Das Klappmesser schneidet durch Brot wie Butter>
 
 <em>Michael</em> Irgendwann schreibe ich noch einmal ein längliches Kompendium
-über typische AirBnB-Wohnungen und deren mangelnde Ausstattung mit wohnlichen
-Accessoires.  Kleiderhaken zum Beispiel. Wo hängt man seine Jacke neben der
-Wohnungstür auf, wenn an der Wand kein entsprechender Haken bereit steht? Oder
+über typische Airbnb-Wohnungen und deren mangelnde Ausstattung mit wohnlichen
+Accessoires. Kleiderhaken zum Beispiel. Wo hängt man seine Jacke neben der
+Wohnungstür auf, wenn an der Wand kein entsprechender Haken bereitsteht? Oder
 allgemein Ablageflächen. Im Eingangsbereich muss laut meinem geplanten
-Kompendium "Jetzt richten wir unsere AirBnB-Wohnung ein" immer ein Tischchen
+Kompendium "Jetzt richten wir unsere Airbnb-Wohnung ein" immer ein Tischchen
 stehen, oder vielleicht ein Schränkchen, auf dem oben Platz für Utensilien ist,
 die man in einer fremden Wohnung immer griffbereit haben sollte: Schlüssel oder
 Geldbeutel oder Telefone und deren Ladeadapter.
 
-<pic images/vic-drawer.ps Typische AirBnB-Küchenausrüstung: Kein Brotmesser>
+<pic images/vic-drawer.ps Typische Airbnb-Küchenausrüstung: Kein Brotmesser>
 
 Ein durchweg gängiges Problem in dieser Art Hotelwohnung ist die Abwesenheit von
-scharfen Brotmessern.  Da hat man ein frisches Brot gekauft, und will es nun in
+scharfen Brotmessern. Da hat man ein frisches Brot gekauft und will es nun in
 der Mietwohnung in Scheiben schneiden, muss aber mit einem stumpfen
 Küchenmesser Vorlieb nehmen und ruiniert das ganze schöne Brot damit. Das muss
 nicht sein!
@@ -460,32 +460,32 @@ nicht sein!
 Okay, Amerikaner lachen natürlich über meine Probleme, denn sie kaufen ihr Brot
 in 99 Prozent aller Fälle schon aufgeschnitten. Aber auch für andere
 Lebensmittelprodukte lohnt sich ein scharfes Messer, doch man kann auf Reisen
-keine Monstermesser mitführen ohne im Flughafen Aufsehen zu erregen, außerdem
+keine Monstermesser mitführen, ohne im Flughafen Aufsehen zu erregen, außerdem
 müsste man die scharfen Klingen immer aufwändig einwickeln, damit kein Unfall
 passiert.
 
 <pic images/vic-fold.ps Sicher eingeklappt für den Transport>
 
-Zum Glück stolperte ich eines Tages auf Amazon über das Klappbrotmesser von der
-Firma Victorinox, dem bekannten schweizer Matador der Küchenmesserkunst.  Lang
-ist das Messer nicht, die Klinge ist nur 11cm lang, wohl wegen irgendwelcher
+Zum Glück stolperte ich eines Tages auf Amazon über das Klappbrotmesser von
+Victorinox, dem bekannten Schweizer Matador der Küchenmesserkunst. Lang
+ist das Messer nicht, die Klinge misst nur 11 cm, wohl wegen irgendwelcher
 Sicherheitsbestimmungen, damit Verrückte damit keinen Unsinn treiben. Doch da
 die Klinge im aufgeklappten Zustand einschnappt, und der Wellschliff sehr
 scharf ist, kann man damit mühelos durch frisches Sauerteigbrot mit
 Mörderkruste sägen, ohne dass auch nur ein Krümel abfällt und die Brotscheiben
 anschließlich zum Reinbeißen appetitlich vorliegen. Das Teil fehlt bei uns
-auf keiner Reise mehr. Toppprodukt!
+auf keiner Reise mehr. Topp-Produkt!
 @Z: Postkästen brauchen Sicherheits-Upgrade
 
 <pic images/usps-mb-wide.ps Früher konnte man Päckchen in Briefkästen mit Klappe einwerfen.>
 
 <em>Michael</em> Die blauen Briefkästen der amerikanischen Post haben sich bis
-dato von den gelben deutschen dadurch unterschieden, dass man im Amerika Briefe
+dato von den gelben deutschen dadurch unterschieden, dass man in Amerika Briefe
 und sogar kleine Päckchen einwerfen konnte, indem man oben eine relativ
 große Klappe aufzog, die Postsendung darauf legte und die Klappe zurückschnalzen ließ,
-worauf der Brief oder das Päckchen ins Innere geschleudert wurde.  Doch das ist nun
+worauf der Brief oder das Päckchen ins Innere geschleudert wurde. Doch das ist nun
 Geschichte! 
-<LINK>https://www.nytimes.com/2019/03/21/nyregion/mailbox-theft-fishing.html|Findige Kriminelle aus der New York Bronx|Postdiebstahl</LINK>
+<LINK>https://www.nytimes.com/2019/03/21/nyregion/mailbox-theft-fishing.html|Findige Kriminelle aus der New Yorker Bronx|Postdiebstahl</LINK>
 kamen schon vor Jahren
 darauf, klebrige Insektenköder an Angelschnüren in den Innenbereich abzulassen,
 und Briefe wie seinerzeit Witwe Boltes Brathühner aus den Briefkästen
@@ -509,13 +509,13 @@ Einwurfschlitzen an Banktresoren.
 Postdiebstahl kam bei uns bis vor ein paar Jahren eher selten vor, bislang hieß
 es immer, das sei ein "Federal Crime". Falls ein Postdieb erwischt wird,
 springt nicht etwa ein lascher lokaler Staatsanwalt ein, sondern ein strengerer
-von der Bundesbehörde, und die Tat wird an einem Bundesgericht verhandelt.
+von der Bundesbehörde, und die Tat wird vor einem Bundesgericht verhandelt.
 Aber die Bundesbehörden scheinen in letzter Zeit nicht mehr gewillt, solche
 Tatbestände aufzuklären, teilweise werden sogar
 <LINK>https://www.sfgate.com/bayarea/article/delivering-mail-san-francisco-oakland-robberies-18518133.php|Postboten auf ihren Routen überfallen|Postboten werden überfallen</LINK>,
 aber statt juristisch einzugreifen, verkleinert jetzt die Post die Briefkastenschlitze.
 Nun bleibt die Rechnung also beim Normalbürger hängen, der bislang kleinere
-Pakete am Briefkasten einwerfen konnte und nun für jeden gefütterten Umschlag
+Pakete in den Briefkasten einwerfen konnte und nun für jeden gefütterten Umschlag
 die Reise zum nächsten Postamt antreten muss. 
 
 <pic images/mailbox.ps (#2) Ein Einbrecher hat den Briefkasten in unserem Mietshaus aufgebrochen.>
