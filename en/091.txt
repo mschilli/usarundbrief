@@ -11,13 +11,11 @@ in the world. Everyone immediately wonders if the next one will hit
 us and what it would look like here after an earthquake with a
 magnitude of 8.9, like the recent one in Japan.
 
-TODO
-
 The number is dizzyingly high. Since we have already experienced
 several earthquakes of magnitude 5 here, which usually last 10-15
-seconds, we can only imagine how it must feel when the earth shakes
+seconds, we can only imagine how it must feel when the earth keeps shaking
 for 2 1/2 minutes and much more violently at that. San Francisco is
-located on the Pacific Ocean, and after severe earthquakes in the
+located right by the Pacific Ocean, and after severe earthquakes in the
 Pacific region, tsunamis threaten the Hawaiian Islands and the West
 Coast of the USA.
 
@@ -32,8 +30,7 @@ homes and move to higher ground. In San Francisco, as a precaution,
 no one was allowed on Ocean Beach anymore. The road that runs along
 Ocean Beach, the so-called Great Highway, was also closed to traffic.
 
-<pic images/tsunami-display.ps In Pacifica, the warning signs lit up
-and called for an evacuation.>
+<pic images/tsunami-display.ps In Pacifica, the warning signs lit up and called for an evacuation.>
 
 Now everything turned out well, as the anticipated superwave did not
 occur after all. In Santa Cruz (about 115 kilometers south of San
@@ -43,7 +40,7 @@ had the brilliant idea to photograph the natural spectacle up close.
 One person is still missing, while the others escaped with a fright.
 
 Now the next catastrophe is already looming. Everyone is anxiously
-following the situation in Japan's nuclear power plants, and we are
+following the situation at Japan's nuclear power plants, and we are
 wondering whether there will be a second Chernobyl or if it has
 already happened. And when radioactive radiation will reach
 California. There are also nuclear power plants in California.
@@ -51,10 +48,11 @@ Perhaps nuclear power plants should generally not be connected to the
 grid in earthquake-prone areas. I think I'll get my "Nuclear Power --
 No Thanks" sticker out of the box again.
 
-@Z: Homeless support worker in the city library
+@Z: Homeless Support Worker In The City Library
 
-<pic images/sfpl-civic-center.ps The main branch of the San Francisco
-Public Library is located very close to the Civic Center.>
+<pic images/sfpl-civic-center.ps The main branch of the San Francisco Public Library is located very close to Civic Center.>
+
+TODO
 
 <em>Angelika</em> 
 Tourists in San Francisco often notice that there are relatively many
