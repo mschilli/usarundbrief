@@ -338,35 +338,24 @@ and not expensive at all -- a top product!
 
 <pic images/handy-caddy-in.ps ... and after the work is done, back into the niche.>
 
-TODO
-
 If you look closely, you might notice the small white box in the
 outlet. Our Japanese coffee maker from the brand Zojirushi brews far
 better coffee than the Cuisinart makers otherwise available in
 America, but it lacks any technical features like an automatic
 shut-off. And since we coffee snobs don't drink coffee that has been
-sitting on the hot plate for more than half an hour, the...
-<LINK>http://www.amazon.com/gp/product/B003P2UMS0|The phrase "Belkin
-Conserve Socket F7C009q" appears to be a product name and model
-number, specifically for a device made by Belkin. Product names and
-model numbers typically do not require translation as they are proper
-nouns. However, if you are looking for a description or explanation
-of the product, the Belkin Conserve Socket is an energy-saving outlet
-that can help reduce power consumption by automatically shutting off
-power to devices after a set period.</LINK>
-After exactly 30 minutes, simply cut the power to the coffee machine.
+sitting on the hot plate for more than half an hour, the
+<LINK>http://www.amazon.com/gp/product/B003P2UMS0|Belkin Conserve Socket F7C009q"</LINK>
+simply cuts the power to the coffee maker after exactly 30 minutes.
 This way, we save energy and can go on vacation with peace of mind.
 
-@Z: American Queueing" or "American Standing in Line It refers to the
-way people in the United States typically form lines or queues.
+@Z: American Standing In Line
 
-<pic images/line-j-church.ps The passengers line up obediently at the
-tram stop.>
+<pic images/line-j-church.ps Passengers line up obediently at the tram stop.>
 
 <em>Michael</em> 
-In a supermarket, when a new checkout lane opens in Germany, people
+At the grocery store, when a new checkout lane opens in Germany, people
 at the back of the line start running to be the first to reach the
-conveyor belt. In the USA, the new cashier doesn't start working
+newly opened conveyor belt. In the USA, the new cashier doesn't start working
 immediately but instead invites the customer who is furthest ahead in
 the next line to come to the new empty checkout, and those behind can
 follow if they wish. This way, the person who has waited the longest
@@ -375,38 +364,38 @@ position by running and elbowing others aside.
 
 Even at bus and tram stops, people do not swarm like a cluster
 towards the first door that opens. Instead, they have lined up in a
-single-file queue long beforehand, so that they can board the public
-transport one by one, in the same order in which they arrived at the
+single-file queue long beforehand, so that they can board public
+transportation one by one, in the same order in which they arrived at the
 platform.
 
 It is very rare for someone to not adhere to the nationwide customs
-and brazenly cut in line. When this happens, locals tend to look
+and brazenly cuts in line. When this happens, locals tend to look
 these rude individuals up and down questioningly -- and often realize
 that they are German tourists.
 
-@Z: The translation of "Meilensteine amerikanischen Humors" to
-English is "Milestones of American Humor.
+@Z: Milestones Of American Humor
 
-<pic images/whos-on-first.ps The classic American sketch "Who's on
-First?>
+<pic images/whos-on-first.ps The classic American sketch "Who's on First?>
 
 <em>Michael</em> 
 In a discussion, if there are funny mix-ups, it might happen that an
 American exclaims "Who's on first?" and everyone laughs. This refers
 to a classic sketch by the comedy team "Abbott and Costello" from
 1936, in which Abbott plays the coach of a baseball team whose
-players have confusing names like "Who," "What," and "I don't know.
+players have confusing names like "Who," "What," and "I don't know."
 
-Costello keeps asking, "Who's on first?
+Costello keeps asking, "Who's on first?" ("Who plays first base?"), but Abbott
+interprets Costello's question as a statement and answers "Yes," because the
+player named "Who" is indeed the first baseman ("'Who' is on first.”).
 
-The text "VW_qa6swnOM|Abbott and Costello 'Who's On First'" appears
-to be a reference to a video or a piece of content related to the
-famous comedy routine "Who's on First?" by Abbott and Costello. This
-classic sketch involves a humorous exchange about baseball player
-names, where the names sound like questions and answers, leading to a
-comedic misunderstanding. If you are looking for a translation of the
-routine itself, it is already in English. If you need more specific
-information or a summary, please let me know!
+Growing increasingly confused, Costello eventually asks, "What's the guy's name
+on first?" But Abbott immediately corrects him: "No, What's the guy on second,”
+because the player named "What" plays not on first base, as Abbott interprets
+Costello's question to suggest, but on second. Costello, however, again
+understands this sentence as a question ("What's the guy on second?") and
+complains that Abbott should stop answering his questions with other questions.
+
+<VIDEO>VW_qa6swnOM|Abbott and Costello "Who''s On First"</VIDEO>
 
 The humor in the language arises from the fact that Costello, as is
 commonly done in colloquial speech, does not raise the pitch of his
@@ -418,11 +407,9 @@ confusing names appearing, while the audience is in stitches. A
 milestone in the development of American humor! In the next
 newsletter: The Knock-Knock Joke.
 
-@Z: Bowling in Pacifica" is already in English. If you need further
-assistance or context, please let me know!
+@Z: Bowling in Pacifica
 
-<pic images/bowling-lane.ps At the "Sea Bowl" bowling alley in the
-suburb of Pacifica.>
+<pic images/bowling-lane.ps At the "Sea Bowl" bowling alley in the suburb of Pacifica.>
 
 <em>Angelika</em> 
 After being surrounded by nothing but alarming news lately and
@@ -437,23 +424,20 @@ the bowling alley, and bowling is a harmless leisure activity for a
 first date when both would-be lovebirds are not quite sure where
 things are headed.
 
-<pic images/bowling-balls.ps Bowling balls in different sizes and
-with different hole spacings.>
+<pic images/bowling-balls.ps Bowling balls in different sizes and with different hole spacings.>
 
-The bowling centers have a considerable number of lanes. They are
+Bowling centers have a considerable number of lanes. Those are
 rented by the hour, and up to six players can enjoy themselves on one
-lane. As you all surely know, in the widely popular...
-<LINK>http://en.wikipedia.org/wiki/Ten-pin_bowling|Ten Pin Bowling"
-is already in English. It refers to a type of bowling game where
-players aim to knock down ten pins arranged in a triangular formation
-using a bowling ball.</LINK>
-Ten pins (called "bowling pins" here) are arranged in a triangular
+lane. As you all surely know, in the widely popular
+<LINK>http://en.wikipedia.org/wiki/Ten-pin_bowling|"Ten Pin Bowling"</LINK>,
+ten pins (called "bowling pins" here) are arranged in a triangular
 formation at the end of the lane. Each player tries to knock down as
 many pins as possible with a relatively large ball that looks more
-like a ball. Each fallen pin scores one point.
+like a globe. Each fallen pin scores one point.
 
-<pic images/bowling-michael.ps Michael at the bowling alley "Sea
-Bowl" in Pacifica.>
+<pic images/bowling-michael.ps Michael at the bowling alley "Sea Bowl" in Pacifica.>
+
+TODO
 
 In each round, every player tries to knock down the maximum number of
 pins with two consecutive throws. After the tenth round, the player
