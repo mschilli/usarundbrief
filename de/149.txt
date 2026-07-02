@@ -9,11 +9,11 @@ San Francisco, den 03.07.2023
 <pic images/waymo-cesar-static.ps Ganz normal: Selbstfahrende Autos in San Francisco.>
 </PRINTONLY>
 
-<em>Michael</em> Auf den Straßen von San Francisco spielen sich zur Zeit
+<em>Michael</em> Auf den Straßen von San Francisco spielen sich zurzeit
 geradezu futuristische Szenen ab. Erst skeptisch beäugt, aber mittlerweile voll
 von den Autofahrern akzeptiert, mischen sich immer mehr selbstfahrende Autos in
 den dichten Stadtverkehr. Als ich das erste Mal an einer Kreuzung neben einem
-dieser mit auffälligen Kameras bestückten Autos stand und rüber schielte,
+dieser mit auffälligen Kameras bestückten Autos stand und rüberschielte,
 glaubte ich meinen Augen nicht zu trauen: Der Fahrersitz war leer und es war
 auch sonst niemand im Auto zu sehen. Bei Grün fuhren wir beide los, und zwar
 ziemlich zügig.
@@ -29,21 +29,21 @@ Steht man an einer Kreuzung mit vier Stoppschildern, tandelt immer einer herum,
 der eigentlich dran wäre, bis alle gleichzeitig losfahren und das Gehupe
 beginnt.
 
-Ich hatte im Stadtverkehr schon mehrere Begnungen mit den von Google
-betriebenen selbstfahrenden Waymo-Autos, und jedesmal war ich bass erstaunt,
+Ich hatte im Stadtverkehr schon mehrere Begegnungen mit den von Google
+betriebenen selbstfahrenden Waymo-Autos, und jedes Mal war ich bass erstaunt,
 wie gut deren Fahrcomputer komplexe Situationen meistert. Von der Firma Cruise,
 hinter der General Motors steckt, fahren ebenfalls Autos herum, auf ähnlichem
-Niveau.  Einmal kam ich gleichzeitig mit einem Waymo-Auto an einem 4-Way-Stop
-an, und dachte mir, "oho, jetzt schauen wir mal was passiert".  Eine Sekunde
+Niveau. Einmal kam ich gleichzeitig mit einem Waymo-Auto an einem 4-Way-Stop
+an und dachte mir: "Oho, jetzt schauen wir mal, was passiert." Eine Sekunde
 später fuhr das Waymo-Auto vorsichtig in die Kreuzung rein, genauso, wie das
 ein menschlicher Autofahrer, der auf Zack ist, auch machen würde.
 
 <pic images/waymo-night.ps Bei Nacht arbeiten die Waymo-Autos als führerlose Taxis>
 
-Einmal sah ich, dass mir auf der Gegenfahrbahn einer zweispurigen aber nicht
+Einmal sah ich, dass mir auf der Gegenfahrbahn einer zweispurigen, aber nicht
 gerade breiten Straße ein Radfahrer entgegenkam, direkt hinter ihm ein
 Waymo-Fahrzeug samt einer Schlange normaler Autos, die sich nicht zu überholen
-trauten, weil's zu eng war.  Ich fuhr auf meiner Seite etwas weiter rechts ran,
+trauten, weil's zu eng war. Ich fuhr auf meiner Seite etwas weiter rechts ran,
 um Platz zu machen, und zack! kam das Waymo-Auto einen halben Meter über die
 Mittellinie und überholte den Radfahrer sicher und souverän. Das hätte sich
 hier kaum ein Autofahrer getraut, und ich war überrascht, dass es dem
@@ -67,7 +67,7 @@ Umwege, die ein menschlicher Fahrer wohl nicht wählen würde, aber immerhin
 gab's noch keinen schweren Unfall. Wie immer regen sich die ewiggestrigen
 Alt-Hippies der Stadt über die Neuerung auf, wie zum Beispiel neulich, als
 es
-<LINK>https://www.theguardian.com/technology/2023/jun/12/san-francisco-robotaxi-hinder-emergency-crews-shooting|eine Schießerei mit neun Verletzten in San Franciscos Stadteil Mission</LINK>
+<LINK>https://www.theguardian.com/technology/2023/jun/12/san-francisco-robotaxi-hinder-emergency-crews-shooting|eine Schießerei mit neun Verletzten in San Franciscos Stadtteil Mission</LINK>
 gab, und ein Cruise-Auto anhielt und nicht weiter fuhr, auch als der
 Rettungswagen durch wollte. Linkslastige Stadträte regten sich mehr über das
 Auto auf als über die Schießerei! Und kürzlich überfuhr ein Waymo-Auto einen
@@ -78,7 +78,7 @@ trotzdem, meinen Segen hat sie jedenfalls!
 
 @Z: Sachunterricht in Kalifornien
 
-<pic images/sc-arnie.ps Frühere kalifornische Gouvaneure, rechts Arnold Schwarzenegger>
+<pic images/sc-arnie.ps Frühere kalifornische Gouverneure, rechts Arnold Schwarzenegger>
 
 <em>Angelika</em> Wie aufmerksame Rundbriefleser wissen, arbeite ich als
 verhaltenstherapeutische Kraft in einer vierten Klasse. Im Sachunterricht (hier
@@ -86,7 +86,7 @@ verhaltenstherapeutische Kraft in einer vierten Klasse. Im Sachunterricht (hier
 Kalifornien. Ich als Nordlicht lernte in meinen Grundschuljahren damals alles
 über das Watt und die Nordsee. Hier in Kalifornien geht es um die Missionen,
 die indianischen Ureinwohner Kaliforniens, den Goldrausch, den Ausbau der
-Eisenbahn, und den Zuzug von Immigranten.
+Eisenbahn und den Zuzug von Immigranten.
 
 <pic images/state-capitol.ps Glasfenster im State Capitol in Sacramento>
 
@@ -101,9 +101,9 @@ malen die Mission ihrer Wahl auf eine Leinwand oder machen einen Podcast zum
 Thema.
 
 Einer meiner Schüler baute eine virtuelle Mission in dem Videospiel
-"Minecraft".  Lustigerweise scheint dieses Projekt stets sentimentale
+"Minecraft". Lustigerweise scheint dieses Projekt stets sentimentale
 Anwandlungen bei den Eltern hervorzubringen, denn bei jedem Elternabend werden
-wir danach gefragt, wenn denn nun endlich das Missionsprojekt in der vierten
+wir danach gefragt, wann denn nun endlich das Missionsprojekt in der vierten
 Klasse startet und ob wir es auch machen. Denn seit 2017 rät die kalifornische
 Schulbehörde eher davon ab. Besonders das Nachbauen der Missionen in Modellform
 sei problematisch, denn dabei bestünde die Gefahr, dass die Missionen
@@ -116,19 +116,19 @@ Weiter gehört dazu, dass möglichst
 ein Ausflug in die Hauptstadt nach Sacramento gemacht wird, um das Gelernte zu
 vertiefen. Also packten wir unsere Viertklässler in einen Kleinbus und fuhren
 los, ein ziemlicher Aufwand für einen Tagesausflug, denn Sacramento ist
-ungefähr 2 Autostunden (einfacher Weg) von unserer Schule entfernt. Zunächst
+ungefähr zwei Autostunden (einfacher Weg) von unserer Schule entfernt. Zunächst
 besichtigten wir das "State Capitol", also das Gebäude, in dem sich die
 kalifornischen Abgeordneten versammeln, um Gesetze zu beschließen und die
 Geschicke des Bundesstaates Kalifornien zu lenken. Das Gebäude ist für
 amerikanische Verhältnisse sogar recht alt, denn es wurde zwischen 1861 und
-1874 fertig gestellt. Als wir zur Besichtigung dort waren, schwirrten sogar viele
+1874 fertiggestellt. Als wir zur Besichtigung dort waren, schwirrten sogar viele
 Politiker in den Gängen herum und warteten auf die Fahrstühle oder hielten mit
 ihren Kollegen ein Schwätzchen ab.
 
 <pic images/suttersfort.ps Besichtigung des "Sutter's Fort".>
 
 Dann ging es weiter zum "Sutter's Fort". John
-(früher: Johann) Sutter war ein schweizer Immigrant, der das Fort baute und von
+(früher: Johann) Sutter war ein Schweizer Immigrant, der das Fort baute und von
 1839 bis 1949 betrieb. Er nannte seine Kolonie "Neu-Helvetien" und trieb als
 Großgrundbesitzer Handel und ließ Agrarland bestellen. Auch die Sägemühle in
 Coloma gehörte ihm. Einer seiner Mitarbeiter, James Marshall, fand dort
@@ -146,7 +146,7 @@ Sacramento. Züge haben ja auch bei der heutigen Generation von Kindern noch
 nicht ihren Reiz verloren. Meinen Schülern und auch mir gefielen besonders die
 alten Züge, in die wir reingehen konnten, um das Postabteil, Schlafwagen und
 auch Speisewagen zu bewundern. Im Eisenbahnmuseum mussten wir nicht einmal
-Eintritt bezahlen, denn mit Viertklässlern im Tau, die sich in der Schule alle
+Eintritt bezahlen, denn mit Viertklässlern im Schlepptau, die sich in der Schule alle
 mit der kalifornischen Geschichte befassen, wird kein Eintritt erhoben.
 Seit September 2021 können Familien, die ein Kind in der vierten Klasse haben,
 einen Jahrespass, den sogenannten "California State Adventure Park Pass"
@@ -158,7 +158,7 @@ Eine interessante Idee!
 <pic images/icecream-mhb.ps Diese Eiskugel kostete 8,20 Dollar im kalifornischen Manhattan Beach.>
 
 <em>Michael</em> Kürzlich kam mir zu Ohren, dass die Kugel Eis in Deutschland
-mittlerweile auch schon zwei Euro kostet.  Das ist für einen Dinosaurier
+mittlerweile auch schon zwei Euro kostet. Das ist für einen Dinosaurier
 wie mich, der sich noch schemenhaft daran erinnern kann, dass die Kugel Eis
 inklusive Waffel einmal 10 Pfennig gekostet hat, zwar auch schockierend, aber
 nichts im Vergleich zu den mörderischen Eispreisen in Amerika.
@@ -172,10 +172,10 @@ einfach gewöhnt sind, absurde Summen für derartige Snacks auszugeben.
 
 Bei uns in San Francisco ist ein alteingesessener Laden namens "Mitchell's",
 und vor dem stehen bei schönem Wetter die Leute tatsächlich zwanzig Minuten
-schlange, um für schlappe fünf Dollar eine Eiskugel abzuholen. Auf einer Waffel
+Schlange, um für schlappe fünf Dollar eine Eiskugel abzuholen. Auf einer Waffel
 kostet's dann nochmal 75 Cent mehr, und die Sales Tax schlägt dann nochmal mit
-fast 10% zu buche. Außerdem lechzen die Verkäufer nach Trinkgeld wie Kamele
-nach Wasser in der Wüste.  Dabei ist das kein Schicki-Laden, die Kundschaft
+fast 10% zu Buche. Außerdem lechzen die Verkäufer nach Trinkgeld wie Kamele
+nach Wasser in der Wüste. Dabei ist das kein Schicki-Laden, die Kundschaft
 besteht hauptsächlich aus Arbeitervolk, und man muss sich schon fragen, wie
 bekloppt man sein muss, ein Drittel seines Stundenlohnes für eine Kugel Eis
 auszugeben.
@@ -185,10 +185,10 @@ auszugeben.
 
 Dabei ist das Speiseeis in Amerika nicht einmal besonders gut, oder die Kugeln
 signifikant größer als in Deutschland. Der oben genannte Laden "Mitchell's" hat
-zwar Sorten wie "Mexican Chocolate" die es meines Wissens selbst bei Sarcletti
+zwar Sorten wie "Mexican Chocolate", die es meines Wissens selbst bei Sarcletti
 in München nicht gibt, aber die Eisqualität ist absolut auf Augenhöhe. Wie
 immer gilt: Der Preis richtet sich nicht danach, wie teuer die Herstellung und
-der Vertrieb eines Produkts ist, sondern allein danach, wieviel der Verbraucher
+der Vertrieb eines Produkts ist, sondern allein danach, wie viel der Verbraucher
 im freien Markt bereit ist, dafür zu berappen.
 
 @Z: Der Wahlkampf beginnt
@@ -215,7 +215,7 @@ Kamala Harris die Amtsgeschäfte führen muss.
 
 Bis jetzt scheint sich keiner bei den Demokraten zu trauen, Biden so richtig
 herauszufordern, zumindest keine ernstzunehmenden Kandidaten. Der aus dem
-Kennedy-Clan stammende Robert F.  Kennedy Jr., Sohn des ermordeten Politikers
+Kennedy-Clan stammende Robert F. Kennedy Jr., Sohn des ermordeten Politikers
 Robert Kennedy und Neffe von John F. Kennedy, ist zwar ins Rennen gesprungen,
 aber mit seinen Verschwörungstheorien und Anti-Impfkampagnen steht er nicht
 gerade gut da bei den typischen demokratischen Wählern. Dann gibt es noch
@@ -233,10 +233,10 @@ Das Feld der Kandidaten ist groß. Neben Trump ist da der Gouverneur von
 Florida, Ron DeSantis. Meiner Meinung nach ist er ein Möchtegerntrump, der mit
 seinen 44 Jahren einer der jüngeren Politiker im Rennen ist. Allerdings ist
 DeSantis erzkonservativ und bekannt dafür, sich gern in irgendwelche
-Kulturkämpfe zu verstricken, die in  Zeiten von Klimakrise und anderen
+Kulturkämpfe zu verstricken, die in Zeiten von Klimakrise und anderen
 Brennpunkten auf der Welt sehr antiquiert erscheinen. DeSantis gilt allerdings
 als derjenige, der vielleicht die besten Chancen bei den Vorwahlen gegen Trump
-hat. Allerdings hat er das Charisma einer Schlaftablette. Des weiteren sind
+hat. Allerdings hat er das Charisma einer Schlaftablette. Des Weiteren sind
 aufgestellt für die republikanische Partei: Nikki Haley, ehemalige Gouverneurin
 von South Carolina und ehemalige UN-Abgeordnete unter Trump; Vivek Ramaswamy,
 Unternehmer und Autor; Asa Hutchinson, ehemaliger Gouverneur von Arkansas;
@@ -251,11 +251,11 @@ Spannend bleibt die Frage, was passiert, wenn Trump tatsächlich verurteilt
 wird, in dem anhängigen Verfahren bezüglich der Geheimakten. Die Verfassung
 verbietet es nicht, dass jemand, der vorbestraft und verurteilt ist, Präsident
 sein kann. Es ist auch nicht wahrscheinlich, dass das Verfahren abgeschlossen
-sein wird bevor die Präsidentschaftswahl beginnt. Ich denke, dass es eher
+sein wird, bevor die Präsidentschaftswahl beginnt. Ich denke, dass es eher
 unwahrscheinlich ist, dass Trump eine Gefängnisstrafe absitzen muss. Das
-Gefängnisszenario spielen Komödianten zur Zeit aber besonders gerne durch, denn
+Gefängnisszenario spielen Komödianten zurzeit aber besonders gerne durch, denn
 der Secret Service muss den Präsidenten jederzeit und überall bewachen und kein
-Mensch weiß, wie das von der Logistik her, überhaupt zu bewerkstelligen ist im
+Mensch weiß, wie das von der Logistik her überhaupt zu bewerkstelligen ist im
 Gefängnis. Es wäre sicher undenkbar, die Amtsgeschäfte vom Gefängnis aus zu
 führen, aber diese Situation gab es noch nie in den USA, somit weiß keiner so
 recht, was tatsächlich passieren würde. Ein Amtsenthebungsverfahren wäre die
@@ -266,7 +266,7 @@ das rechtlich überhaupt möglich ist. Trump nutzt das Ganze natürlich gnadenlo
 aus, um sich als Opfer darzustellen und seine Basis zu mobilisieren. Einige
 böse Stimmen behaupten sogar, dass er die geheimen Akten trotz mehrfacher
 Aufforderung nicht herausgegeben hat, um gerade dieses Szenario durchzuspielen,
-denn hätte er die Akten zurück gegeben, wäre der Fall aller Wahrscheinlichkeit
+denn hätte er die Akten zurückgegeben, wäre der Fall aller Wahrscheinlichkeit nach
 im Sande verlaufen. Ein Irrenhaus!
 	
 @Z: Megateures Monsterwohnmobil
@@ -278,10 +278,10 @@ einem sogenannten "RV" (Recreational Vehicle) über die Freeways, stellt es aben
 auf einem Campingplatz ab und möchte dann alle Annehmlichkeiten des heimischen
 Wohnzimmers vorfinden. 
 
-Der Luxus beim "Glamping" (für "Glamourous Camping") definiert sich dabei
+Der Luxus beim "Glamping" (für "Glamorous Camping") definiert sich dabei
 auch über die Geräumigkeit des dabei genutzten Vehikels, Wohnmobile
 bis zu 15 Metern Länge sind keine Seltenheit, und manche bieten sogar noch
-ausfahrbahre Seitenwände, die die Wohnfläche drinnen dann in Richtung Loft
+ausfahrbare Seitenwände, die die Wohnfläche drinnen dann in Richtung Loft
 aufmöbeln.
 
 <pic images/rv-park.ps Wohnmobilpark am Strand von Los Angeles>
@@ -295,29 +295,29 @@ sogenannten "Earth-Roamer" handelte, ein irre teures Luxus-Wohnmobil.
 
 <pic images/er-2.ps Eine Mischung aus amerikanischem Truck und Spähpanzer>
 
-Also fotografierte ich das Teil sofort und wieder zuhause angekommen, schaute
-ich sofort im Internet nach, und war geschockt. Ich wusste zwar, das
+Also fotografierte ich das Teil sofort und wieder zu Hause angekommen, schaute
+ich sofort im Internet nach und war geschockt. Ich wusste zwar, dass
 WoMo-Narren gerne mal 200.000 Dollar für ein fahrendes Wohnzimmer hinlatzen,
 aber der Earth-Roamer ist mehr als dreimal so teuer: Der Grundpreis beträgt
 695.000 Dollar, und mit einigen Extras schlägt das rustikale Glampmobil schon
 mit knapp einer Million zu Buche.
 
-Die Chassis des Fahrzeugs besteht aus dem wohl beliebtesten amerikanischen
+Das Chassis des Fahrzeugs besteht aus dem wohl beliebtesten amerikanischen
 Monstertruck, dem Ford F-550, natürlich geländegängig mit Hydraulik und
-klassischer Motorwinde vorne, wenn's mal hart auf hart kommt.  Und bei der
-Inneneinrichtung darf man natürlich nicht an der falschen Stelle sparen.  Wie
+klassischer Motorwinde vorne, wenn's mal hart auf hart kommt. Und bei der
+Inneneinrichtung darf man natürlich nicht an der falschen Stelle sparen. Wie
 der staunende Laie in einem
 <LINK>https://www.youtube.com/watch?v=Rq47gxaHp1I|Präsentations-Video|Demo-Video
 des Earth-Roamers</LINK>
 sehen kann, ist die Sitzbank am Esstisch mit edelstem
-alt gemachten Rindsleder bespannt und die ruckelsicher eingepassten
-Einbauschränke bestehen aus schwerwertigem Massivholz.
+altgemachtem Rindsleder bespannt und die ruckelsicher eingepassten
+Einbauschränke bestehen aus hochwertigem Massivholz.
 
-<pic images/er-3.ps Auf der Webseite können potentielle Kunden ihr Traum-Wohnmobil konfigurieren.>
+<pic images/er-3.ps Auf der Webseite können potenzielle Kunden ihr Traum-Wohnmobil konfigurieren.>
 
 Wer nun denkt, das kann doch nicht so teuer sein, kann sich gerne die
 <LINK>https://earthroamer.com/new-lti/how-to-buy/|Preisliste|Preisliste für den Earth-Roamer</LINK>
-auf der Webseite anschauen und anfangen zu sparen.  Wieder
+auf der Webseite anschauen und anfangen zu sparen. Wieder
 einmal bestätigt sich, dass es in San Francisco eine nicht geringe Anzahl von
 Leuten gibt, denen ihr vieles Geld ein Loch in die Hosentasche brennt. Gut, wer
 schon ein Haus für sechs Millionen hat, braucht vielleicht noch ein
@@ -330,8 +330,8 @@ einmal.
 
 <em>Michael</em> Dass alles immer teurer wird, ist euch sicher nicht entgangen,
 sicher fiebert ihr danach, zu erfahren, ob's uns in den USA genauso geht wie im
-gebeutelten Deutschland.  Dazu kann ich sagen, dass hier bestimmte Waren immer
-schon im internationelen Vergleich absurd teuer waren (Käse, Butter, gutes
+gebeutelten Deutschland. Dazu kann ich sagen, dass hier bestimmte Waren immer
+schon im internationalen Vergleich absurd teuer waren (Käse, Butter, gutes
 Brot, Wein, Bier, Speiseeis), während Klamotten oder Rindfleisch hier eindeutig
 preisgünstiger sind.
 
@@ -341,7 +341,7 @@ Während der letzten 20 Jahre sind die Preise Jahr für Jahr fast unmerklich
 geklettert, und während ein Burrito in einem mexikanischen Restaurant 1997 etwa
 6 Dollar gekostet hat, übersprang der Preis dieses Fast-Food-Essens irgendwann
 um 2015 die 10-Dollar-Marke, was eigentlich eine relativ akzeptable Steigerung
-der unumgänglichen Inflation ist.  Dann kam Corona und innerhalb von zwei Jahren
+der unumgänglichen Inflation ist. Dann kam Corona und innerhalb von zwei Jahren
 sprang der Preis plötzlich auf 16 Dollar hoch. Und will man Rindfleisch drauf,
 kommen noch 2 Dollar obendrauf, weil Rindfleisch auf einmal rar und teuer ist
 (Abbildung (#3))!
@@ -350,14 +350,14 @@ kommen noch 2 Dollar obendrauf, weil Rindfleisch auf einmal rar und teuer ist
 
 Schaut man auf eine Tabelle mit den offiziellen Inflationsraten, zeigt sich,
 dass 2023 mit 8% den Vogel abgeschossen hat, ganz ähnlich wie in Europa, wo's
-im Jahr 2023 sogar 9.2% waren. Man sieht auch, dass die USA in den
+im Jahr 2023 sogar 9,2% waren. Man sieht auch, dass die USA in den
 80ern sogar noch höhere Werte hatten, um die 14%, und das sogar über mehrere
 Jahre.
 
 <pic images/inflation.ps Inflationsrate der USA von 1960 bis heute>
 
 Wer wie ich allerdings regelmäßig im Supermarkt Lebensmittel einkaufen geht,
-der weiß, dass die Inflationsrate zur Zeit keineswegs bei 8% liegt, sondern
+der weiß, dass die Inflationsrate zurzeit keineswegs bei 8% liegt, sondern
 viel höher. Ein Grund dafür ist, dass die Zahlen von offizieller Seite mit
 interessanten Verfahren heruntergerechnet werden. Kostete ein Auto zum
 Beispiel früher 10.000 Dollar und heute 20.000 Dollar, wird keineswegs eine
@@ -365,10 +365,10 @@ Preissteigerung von 100% zugrunde gelegt. Nein, die Statistiker argumentieren,
 dass das Auto ja heute viel moderner ist und über schlauere Funktionen verfügt,
 der Karren heute also viel viel wertvoller ist als das damalige Vehikel. Der
 Verbraucher darf sich glücklich schätzen, diesen Fortschritt zu einem höheren
-Preis erwerben zu können. Der Inflationsberechung wird dann ein entsprechend
-nach oben angepasster Basispreis zugrunde gelegt, und nicht etwa der frührere
-Preis.  Dass der Verbraucher vielleicht mit der alten Funktion zufrieden wäre
-und lieber ein weniger ausgefuchstes aber billigeres Auto kaufen würde, spielt
+Preis erwerben zu können. Der Inflationsberechnung wird dann ein entsprechend
+nach oben angepasster Basispreis zugrunde gelegt und nicht etwa der frühere
+Preis. Dass der Verbraucher vielleicht mit der alten Funktion zufrieden wäre
+und lieber ein weniger ausgefuchstes, aber billigeres Auto kaufen würde, spielt
 keine Rolle. Wen's interessiert, der kann nachlesen, wie die staatliche Behörde
 "Bureau of Labor Statistics" (BLS) die Inflation als "Consumer Price Index" (CPI)
 berechnet, und mit dem sogenannten
@@ -379,10 +379,10 @@ berechnet, und mit dem sogenannten
 Auch Essen im Restaurant ist bei uns teurer geworden, denn es finden sich kaum
 noch Leute, die im Niedriglohnsektor arbeiten wollen. Um die 25 Dollar muss man
 heute für ein günstiges Hauptgericht in San Francisco hinlegen, für etwas
-fleischlastiges gerne $40 oder mehr. Allerdings erfuhr ich bei unserem
+Fleischlastiges gerne $40 oder mehr. Allerdings erfuhr ich bei unserem
 Deutschlandbesuch im Sommer den Schock meines Lebens, als ich sah, dass
-deutsche Speisekarten nun ebenfalls auf diesem Niveau angelangt sind!  Eines
-ist in Deutschland aber immer noch billiger: Bier.  Während eine "Pint" im
+deutsche Speisekarten nun ebenfalls auf diesem Niveau angelangt sind! Eines
+ist in Deutschland aber immer noch billiger: Bier. Während eine "Pint" im
 "Zeitgeist", einem der wenigen Biergärten in San Francisco, mittlerweile 9
 Dollar kostet (plus 2 Dollar Trinkgeld), verlangt in Deutschland kaum ein Laden
 über 6 Euro.
@@ -391,7 +391,7 @@ Dollar kostet (plus 2 Dollar Trinkgeld), verlangt in Deutschland kaum ein Laden
 
 <pic images/tahoe-lake.ps Lake Tahoe im Mai>
 
-<em>Angelika</em> Der letzte Winter und Frühling brachte endlich einmal wieder
+<em>Angelika</em> Der letzte Winter und Frühling brachten endlich einmal wieder
 viel Regen und Schnee in den höheren Lagen Kaliforniens, was unseren durch
 Trockenperioden geplagten Bundesstaat hoffentlich besser durch die Feuersaison
 bringen wird. Natürlich kann ein guter Winter nicht Jahre der Dürre
@@ -417,14 +417,14 @@ Menschenmassen, die sonst Lake Tahoe bevölkern, der Attraktion fern, und wir
 hatten den Strand und See mit den noch schneebedeckten Bergen fast ganz für
 uns allein.
 
-@Z: Toppprodukt: Chinesische Brandsalbe
+@Z: Topp-Produkt: Chinesische Brandsalbe
 
 <pic images/balm-1.ps Der chinesische Wunderbalsam Ching Wan Hung>
 
-<em>Michael</em> Ich koche bekanntlich viel zuhause, oft bayrische
-Hausmannsskost, denn die ist hier in Kalifornien nicht so einfach zu bekommen.
+<em>Michael</em> Ich koche bekanntlich viel zu Hause, oft bayerische
+Hausmannskost, denn die ist hier in Kalifornien nicht so einfach zu bekommen.
 Als ich nun neulich ein paniertes Schnitzel elegant ins brodelnde Pfannenfett
-schlenzte, spritze es zurück, versengte mir etwas die Haut am Unterarm, und
+schlenzte, spritzte es zurück, versengte mir etwas die Haut am Unterarm und
 hinterließ einen Gorbatschows Glatzenmal nicht unähnlichen Brandfleck (Abbildung (#1) oben).
 
 Schlimme Schmerzen stellten sich ein! Zum Glück habe ich für solche Unfälle die
@@ -432,19 +432,19 @@ richtige Medizin zur Hand, nämlich den chinesischen Wunderbalsam "Ching Wan
 Hung" im Badezimmerschrank, den es bei
 <LINK>https://www.amazon.com/gp/product/B00885P95U|Amazon|Ching Wan Hung Balsam auf Amazon</LINK>
 für kleines
-Geld zu kaufen gibt.  Das ist so ein Döschen mit einer rostbraunen und
+Geld zu kaufen gibt. Das ist so ein Döschen mit einer rostbraunen und
 interessant orientalisch nach ätherischen Ölen riechenden kettenfettartigen
-Schlotze, die trägt man kühlend auf Brandwunden auf, und schon lässt der
+Schlotze. Die trägt man kühlend auf Brandwunden auf und schon lässt der
 Schmerz nach.
 
 <pic images/balm-2.ps (#1) Heilungsprozess der mit Schnitzelfett angesengten Haut>
 
-Außerdem scheint sie die Heilung der Haut zu beschleunigen, und der
+Außerdem scheint sie die Heilung der Haut zu beschleunigen und der
 Narbenbildung vorzubeugen, denn selbst der schnitzelfettbedingt schlimme Fleck
 am Unterarm verkrustete innerhalb einer Woche und schöne rosa neue Haut wuchs
-darunter nach. Nach zwei Wochen konnte man nichts mehr sehen.  Besser wär's
+darunter nach. Nach zwei Wochen konnte man nichts mehr sehen. Besser wär's
 freilich, solche Unfälle beim Kochen zu vermeiden, aber falls doch was
-passiert, ist der Balsam sehr zu empfehlen. Toppprodukt!
+passiert, ist der Balsam sehr zu empfehlen. Topp-Produkt!
 
 @Z: Gehwegkabel zum Elektroauto
 
@@ -469,7 +469,7 @@ denen ein Kabel aus dem Haus zu einem auf der Straße vor der Haustür geparkten
 Auto führt. Einmal sah ich sogar ein Kabel, das durch ein Fenster im ersten
 Stock über einen Baum herunter zum Rinnstein führte! Das ist natürlich alles
 illegal und gefährlich, und die über den Gehsteig drapierten dicken Kabel
-sorgen bei Rollstuhlfahrern oder Kinderwagenschiebern vielleicht für Verdruß,
+sorgen bei Rollstuhlfahrern oder Kinderwagenschiebern vielleicht für Verdruss,
 aber man sieht's überall. Sicher finden die Bürokraten San Franciscos bald
 einen Weg, diese Elektroautofans kostenpflichtig abzumahnen, auf dass sich das
 leere Stadtsäckel wieder fülle!
