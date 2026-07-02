@@ -437,8 +437,6 @@ like a globe. Each fallen pin scores one point.
 
 <pic images/bowling-michael.ps Michael at the bowling alley "Sea Bowl" in Pacifica.>
 
-TODO
-
 In each round, every player tries to knock down the maximum number of
 pins with two consecutive throws. After the tenth round, the player
 with the highest total score wins. If a player knocks down all the
@@ -451,13 +449,12 @@ bore you with that. As a beginner, I'm already thrilled when the ball
 rolls straight down the wooden lane and hits the pins, instead of
 falling into the gutter and rolling past the pins on the side.
 
-<pic images/bowling-board.ps The complicated scoreboard with the
-points of the individual players.>
+<pic images/bowling-board.ps The complicated scoreboard with the points of the individual players.>
 
 The balls have three holes for the thumb, middle finger, and ring
 finger. At first, I wasn't clear about using the middle finger and
 always used my index finger, but this technique worked just as well.
-The center offers balls of varying weights with different hole
+The bowling center offers balls of varying weights with different hole
 spacings, allowing players to choose a ball that fits the size of
 their hand. Finding the right ball is a science in itself.
 
@@ -470,17 +467,14 @@ of "King of the Hill," for example, Peggy Hill finds herself in a
 predicament at the bowling center because she has such large feet and
 has to request bowling shoes in an absurd size.
 
-<pic images/bowling-sideout.ps Sometimes the bowling ball falls into
-the gutter and then rolls past the pins in the front.>
+<pic images/bowling-sideout.ps Sometimes the bowling ball falls into the gutter and then rolls past the pins in the front.>
 
 I have definitely discovered bowling for myself and, contrary to
 expectations, I didn't do too badly at it.
 
-@Z: The translation of "Alle wollen Perly Perlman" to English is
-"Everyone wants Perly Perlman.
+@Z: Everyone Wants Perly Perlman
 
-<pic images/would-like-to-buy-your-car.ps (#13) Someone wants to buy
-our old car.>
+<pic images/would-like-to-buy-your-car.ps (#13) Someone wants to buy our old car.>
 
 <em>Michael</em> 
 Our old car "Perly Perlman" is celebrating its 20th birthday this
@@ -488,6 +482,8 @@ year, and although it doesn't look like much anymore due to sun
 damage to the paint, it still runs reliably like an old racehorse. We
 park it on the street because our other car, the Rocket, occupies our
 only garage space.
+
+TODO
 
 Recently, I found a note on my windshield wiper, written by a
 gentleman named "Sonny," who apparently wasn't very proficient in
