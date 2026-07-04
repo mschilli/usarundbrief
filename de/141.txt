@@ -7,35 +7,35 @@ San Francisco, den 22.12.2021
 <em>Angelika</em> Die Hoffnung auf ein Weihnachten ohne Corona in San Francisco
 hat sich leider nicht erfüllt.  Obwohl die Zahl der Neuinfizierten immer noch
 relativ niedrig ist, steigt sie in San Francisco durch Omikron doch
-stetig an. Zur Zeit haben wir im Schnitt 11 neue Fälle pro 100.000 Einwohner in
+stetig an. Zurzeit haben wir im Schnitt 11 neue Fälle pro 100.000 Einwohner in
 der Stadt. Da die Impfbereitschaft in San Francisco und Umgebung sehr hoch ist,
 lassen sich viele auch den Booster geben. Der ist mittlerweile für alle
 Personengruppen in den USA ab einem Alter von 16 Jahren freigegeben.
 
-Die zuständige amerikanische Gesundheitsehörde CDC (Centers for Disease Control
+Die zuständige amerikanische Gesundheitsbehörde CDC (Centers for Disease Control
 and Prevention) empfiehlt einen Abstand von 6 Monaten für die Impfstoffe
 Biontech/Pfizer und Moderna zwischen vollständiger, abgeschlossener Erstimpfung
-mit zwei Dosen, und dem Booster. Michael und ich haben beide unsere
+mit zwei Dosen und dem Booster. Michael und ich haben beide unsere
 Auffrischimpfung bereits erhalten. Wir buchten einfach einen Termin bei der
 Drogeriekette "Walgreens" und schwupp-di-wupp gab es das dritte Spritzlein in
 den Arm. Das Ganze ging relativ unproblematisch vonstatten. Wir machten jeweils
 einen Termin über die Webseite von Walgreens aus. Dazu mussten wir nur unseren
-Namen, unsere Adresse, und unser Geburtsdatum angeben.
+Namen, unsere Adresse und unser Geburtsdatum angeben.
 
-Weiter wurde gefragt, wann wir die erste und zweite Impfung und mit welchen
-Impfstoff erhalten hatten. Dann konnten wir Termine auswählen. Obwohl die CDC
+Weiter wurde gefragt, wann wir die erste und zweite Impfung und mit welchem
+Impfstoff wir sie erhalten hatten. Dann konnten wir Termine auswählen. Obwohl die CDC
 das Mischen von Impfstoffen erlaubt, bot die Webseite von Walgreens aber nur
 Termine mit dem gleichen Impfstoff an. Das war uns auch recht. Ich
 ging zum Walgreens bei uns um die Ecke, denn dort gab es Pfizer/Biontech.
 Michael musste ein wenig weiter zum Walgreens im Castro-Viertel. Vor der
 Impfung mussten wir noch ein Formular ausfüllen, das Allergien und aktuelle
-Covidsymptome abfragte, und schließlich eine Unterschrift verlangte.
+Covid-Symptome abfragte und schließlich eine Unterschrift verlangte.
 
 Unsere Krankenversicherung zahlt übrigens die Impfung vollständig. Hat man keine
 Krankenversicherung, ist die Impfung trotzdem kostenfrei. Die Boosterimpfung
-wurde dann in unsere weiße offizielle CCD-Impfkarte eingetragen.  Die Karte ist
+wurde dann in unsere weiße offizielle CDC-Impfkarte eingetragen.  Die Karte ist
 im Papierformat und gleicht sehr einer Karteikarte. Wir hatten nach der Boosterimpfung
-beide leichte Symptome, wie nach der zweiten Erstimpfungserie. Ich war schlapp und ermattet.
+beide leichte Symptome, wie nach der zweiten Erstimpfungsserie. Ich war schlapp und ermattet.
 Michael hüstelte leicht herum und hatte Kopfschmerzen. Der Spuk war aber nach
 einem Tag vorbei. In San Francisco haben bis Mitte Dezember 68% der über
 65-Jährigen den Booster erhalten, 50% der 50-64-Jährigen, 44% der
@@ -51,7 +51,7 @@ wieder neue Restriktionen gibt wegen Omikron.
 <pic images/21cca.ps Patienten dürfen nun die Notizen des Doktors lesen.>
 
 <em>Angelika</em>
-Neulich hatte ich einmal wieder eine Routine\-untersuchung bei meiner
+Neulich hatte ich mal wieder eine Routine\-untersuchung bei meiner
 Frauenärztin und staunte nicht schlecht, als ich hinterher auf dem Patientenportal online
 ihre Notizen von unserem Gespräch lesen konnte. Ich dachte zunächst, dass sie
 vielleicht auf den falschen Knopf gedrückt hätte, denn normalerweise hatte ich
@@ -65,16 +65,16 @@ schickte, damit ich mich bei seinem ureigenen Patientenportal anmelden konnte,
 um seine Notizen über meinen Besuch einzusehen. Hmm, dachte ich mir, das muss
 ein neues Gesetz sein und fragte nach. Und tatsächlich, der neue, im Jahr 2018
 verabschiedete sogenannte "21st Century Cures Act" enthält einen Passus, der es
-Ärzten untersagt, dass elektronisch aufgenommene Notizen dem Patienten
-vorenthalten werden.
+Ärzten untersagt, elektronisch aufgenommene Notizen dem Patienten
+vorzuenthalten.
 
 Da heutzutage fast jeder Arzt seine Gesprächsnotizen gleich in den Computer
 oder ein Tablet eintippt, müssen diese nun seit April diesen Jahres
 auch dem Patienten zur Verfügung
 gestellt werden. Ich finde das lobenswert, denn schließlich geht es ja um einen
-selber.  Ich möchte nicht wissen, wieviele Ärzte jetzt mehr über ihre
-Ausdrucksweise nachdenken. Es gibt schon Vorschläge auf dem Internet, wie man
-bestimmte Sachen nicht wertend sondern neutraler formuliert. Ein gängiger
+selbst.  Ich möchte nicht wissen, wie viele Ärzte jetzt mehr über ihre
+Ausdrucksweise nachdenken. Es gibt schon Vorschläge im Internet, wie man
+bestimmte Sachen nicht wertend, sondern neutraler formuliert. Ein gängiger
 Ausdruck unter Medizinern ist laut einschlägigen Foren "Poor Historian" (also:
 schlechter Historiker), wenn ein Patient Dinge bezüglich seiner Gesundheit
 nicht mehr weiß.  Der Alternativvorschlag ist: "Kann sich nicht erinnern."
@@ -112,8 +112,8 @@ Und niemand, der klar im Kopf ist, wundert sich, warum San Francisco
 im Jahr 2020 mehr Drogen- als Covid-Tote hatte. Es gab <LINK>https://sf.gov/sites/default/files/2021-01/2021%2001_OCME%20Overdose%20Report.pdf|697 Fälle in San Francisco|697 Drogentote in San Francisco</LINK>, die
 an einer Überdosis starben. 257 Menschen starben an Covid.
 Woher die hohe Zahl an Drogentoten? Das liegt daran, dass in
-heruntergekommenen Vierteln wie dem Tenderloin Drogendealer dank unserem untätigen
-Staatsanwalt straffrei Fentanyl verkaufen, eine Crack-ähnliche Billigdroge mit verheerenden Folgen.
+heruntergekommenen Vierteln wie dem Tenderloin Drogendealer dank unseres untätigen
+Staatsanwalts straffrei Fentanyl verkaufen, eine crackähnliche Billigdroge mit verheerenden Folgen.
 
 <pic images/tenderloin-drugs.ps Offener Drogenmissbrauch in San Franciscos Tenderloin-Viertel.>
 
@@ -154,7 +154,7 @@ Kriminalitätsrate in San Francisco und berüchtigt für Drogendeals,
 Prostitution, Stripclubs. Da es sich genau zwischen dem Rathaus und dem Union
 Square, also dem Innenstadteinkaufsviertel befindet, haben wir Besuchern von
 jeher davon abgeraten, eine Abkürzung durch das Viertel zu nehmen. Schon als ich dort
-vor vielen Jahren arbeitete wurden Drogen auf offener Straße gedealt und
+vor vielen Jahren arbeitete, wurden Drogen auf offener Straße gedealt und
 psychisch Kranke schmissen schon einmal Flaschen hinter einem her. Auch
 Schießereien waren an der Tagesordnung.
 
@@ -164,29 +164,29 @@ Tenderloin Recreation Center auf der Ellis St., das von der Stadt verwaltet
 wird. Die anderen offenen Spielplätze waren mit Drogendealern oder Spritzen
 übersät. Wenn wir mit den Kindern durchs Viertel liefen, gab es aber noch so
 etwas wie einen Ehrenkodex und die Drogenabhängigen versteckten ihre Spritzen
-schnell, wenn wir mit den Kindern an ihnen vorbei liefen. Das Viertel hat aber
+schnell, wenn wir mit den Kindern an ihnen vorbeiliefen. Das Viertel hat aber
 traditionell auch sehr viele Immigranten, die gerade in den USA angekommen
 sind, und die sich oft mit der ganzen Familie eine kleine Einzimmerwohnung teilen. Auch hat es eine
 hohe Konzentration von Gebäuden, in denen Alleinstehende sich ein Einzelzimmer
-mieten können. Viele Senioren ohne Familenanschluß und geringer Rente leben
+mieten können. Viele Senioren ohne Familienanschluss und mit geringer Rente leben
 deshalb im Tenderloinviertel. Wir hatten oft ältere freiwillige Helfer in der
 Einrichtung, in der ich damals arbeitete, denen es Freude machte, die Oma-und
 Oparolle für die Kinder zu übernehmen. Auch gibt es viele gemeinnützige und
 soziale Einrichtungen im Tenderloin wie "Glide Memorial", "St. Anthony's". 
 
 Die neuere Droge "Fentanyl" scheint dem Viertel aber jetzt den Rest zu geben
-wie damals in den 80er die Crack-Cocaine-Krise. Fentanyl ist eigentlich ein
+wie damals in den 80ern die Crack-Cocaine-Krise. Fentanyl ist eigentlich ein
 starkes Schmerzmittel, das oft in der Schmerzbekämpfung in der Krebstherapie
 eingesetzt wird, aber schnell stark abhängig macht. Wird es überdosiert, tritt
 der Tod innerhalb weniger Minuten ein, während das Zeitfenster bei Heroin zum
 Beispiel 1-2 Stunden beträgt bei einer Überdosierung. In San Francisco fuhr man
-lange die Strategie saubere Spritzen zu verteilen, sowie das Gegenmittel
+lange die Strategie, saubere Spritzen zu verteilen, sowie das Gegenmittel
 Naloxone, das bei einer Fentanyl-Überdosis hilft. Das hat die Krise allerdings
 nicht gemildert und die Zahl der Drogentoten im Tenderloin stieg weiter an im
 Jahr 2021. Mittlerweile reicht es den Leuten, die mit ihren Familien im
 Tenderloin wohnen. Sie zogen neulich vors Rathaus, um bei unserer
 Bürgermeisterin London Breed vorzusprechen und ihrem Ärger Luft zu machen.
-Selbst ehemals Drogenabhängige aus den Tenderloin sagen, dass sie nie von der
+Selbst ehemals Drogenabhängige aus dem Tenderloin sagen, dass sie nie von der
 Droge losgekommen wären, wenn man ihnen nicht irgendwann nur die Wahl gegeben
 hätte zwischen Entzug oder Gefängnis. Viele im Viertel wären schon zufrieden,
 wenn wenigstens die Drogendealer zur Rechenschaft gezogen würden.
@@ -204,19 +204,19 @@ San Francisco informierte: Dieses Mal sind 3 von 7 "School-Board-Mitgliedern"
 dran.  Was verbirgt sich hinter einem "School Board"? Selbst die Übersetzung
 ins Deutsche ist nicht so einfach.
 
-Die Übersetzungen "Schulvorstand" oder "-ausschuß" eines öffentlichen
+Die Übersetzungen "Schulvorstand" oder "-ausschuss" eines öffentlichen
 Schulbezirks kommen der Sache wahrscheinlich am nächsten. Schulpolitik ist in
 den USA sehr dezentralisiert, stärker noch als in Deutschland. Zwar müssen auch
 in den USA bestimmte Vorgaben des Bundesstaates oder des Staates erfüllt
-werden, aber die einzelnen Schuldistrikte mit den dazu gehörigen School Boards
+werden, aber die einzelnen Schuldistrikte mit den dazugehörigen School Boards
 verfügen über weitreichende Befugnisse. So sind sie zum Beispiel verantwortlich
-für die Finanzen, wieviel für was ausgegeben wird, den Lehrplan, Einstellungen
+für die Finanzen, wie viel wofür ausgegeben wird, den Lehrplan, Einstellungen
 von Personal usw. In San Francisco setzt sich das School Board aus 7
 Mitgliedern zusammen, die jeweils für 4 Jahre gewählt werden. Sie machen
 Schulpolitik für 130 Schulen mit 54.452 Schülern (Stand Oktober 2019).
 Allerdings gingen die Zahlen für eingeschriebene Schüler während
 der Pandemie stark zurück, was auch mit der Schulpolitik des School Boards zu tun
-hat. In Prinzip kann sich jeder Erwachsene, der in San Francisco wohnt, zur
+hat. Im Prinzip kann sich jeder Erwachsene, der in San Francisco wohnt, zur
 Wahl aufstellen lassen. Im School Board sitzen aber oft Lehrer oder Eltern mit
 schulpflichtigen Kindern.
 
@@ -229,7 +229,7 @@ Francisco haben, wahlberechtigt. In San Francisco dürfen übrigens auch die
 Eltern an der School-Board-Wahl teilnehmen, die keine amerikanischen
 Staatsbürger sind.
 
-<pic images/school-board-recall.ps Im Januar ist die Wahl zur Absetzung des Schulverwaltung in San Francisco.>
+<pic images/school-board-recall.ps Im Januar ist die Wahl zur Absetzung der Schulverwaltung in San Francisco.>
 
 Wieso sind viele Eltern aber in San Francisco so aufgebracht, dass sie das halbe
 School Board entfernen wollen? Vieles hat mit den
@@ -253,7 +253,7 @@ Persönlichkeiten trugen: "Lincoln High", benannt nach Abraham Lincoln, der die
 Sklaverei abgeschafft hat, und "Dianne Feinstein Elementary School", benannt
 nach der noch amtierenden demokratischen Senatorin aus Kalifornien, Dianne
 Feinstein. Lincoln, so war die Begründung, war 1862 für die Exekution von 38
-Dakota Indianern mitverantwortlich. Und Feinstein hat angeblich 1984, als
+Dakota-Indianern mitverantwortlich. Und Feinstein hat angeblich 1984, als
 Bürgermeisterin San Franciscos, eine "Confederate Flag" (Fahne der konföderierten Staaten),
 die vor dem Rathaus gestohlen worden war, ersetzen lassen. Die Fahne gilt heute als
 Symbol für Rassismus.
@@ -273,14 +273,14 @@ legte das School Board die Umbenennung der Schulen erst einmal auf Eis.
 
 <pic images/london-breed-twitter.ps San Franciscos Bürgermeisterin London Breed überstimmt die linken Spinner im Stadtrat.>
 
-Die Recall-Maschienerie stoppte dies allerdings nicht mehr. Ihr wundert euch
+Die Recall-Maschinerie stoppte dies allerdings nicht mehr. Ihr wundert euch
 vielleicht, warum nur 3 der 7 Mitglieder um ihr Amt bangen müssen. Vier der 7
 Mitglieder waren noch nicht 6 Monate dabei, als das Abberufungsverfahren
 eingeleitet wurde, und dürfen deshalb nach den Recall-Regeln noch nicht
 abberufen werden. Die drei, um die es geht, heißen: Gabriela López, Alison
 Collins und Faauuga Moliga. Alison Collins ist dabei eine besonders kontroverse
 Person. Sie setzte nämlich vor einigen Jahren ein paar bitterböse Tweets ab,
-die asiatische Mitbürger auf sehr unschöne Weise angriff, und war dann so dumm,
+die asiatische Mitbürger auf sehr unschöne Weise angriffen, und war dann so dumm,
 diese nicht zu löschen, bevor sie ihr Amt antrat. Sie verlor deshalb ihren
 Vizevorsitz auf dem Board, als einige schlaue Füchse diese alten Tweets
 ausgruben, trat allerdings nicht zurück wie gefordert. Dann strebte sie eine
@@ -290,7 +290,7 @@ aber das Ganze ist in seiner Absurdität wirklich nicht zu überbieten.
 
 <pic images/sb-recall-front.ps Im Briefkasten liegt die Aufforderung, das School-Board abzuwählen ...>
 
-Und jetzt droht auch noch der Staat Kalifornien die Finanz\-aufsicht über den
+Und jetzt droht auch noch der Staat Kalifornien, die Finanz\-aufsicht über den
 Haushalt des Schuldistrikts zu übernehmen. Der San Francisco Schuldistrikt hat
 nämlich ein Defizit von über 125 Millionen Dollar und muss nun einen Plan
 erstellen, wie das Loch zu stopfen ist, wenn er seine Entscheidungsfreiheit,
@@ -299,7 +299,7 @@ wie das Geld verteilt wird, behalten möchte.
 <pic images/sb-recall-back.ps ... und führende Politiker stimmen zu.>
 
 Und als ob das nicht schon peinlich genug wäre, hat unsere Bürgermeisterin London
-Breed noch eins drauf gesetzt und angekündigt, dass die Stadt eine stärkere
+Breed noch eins draufgesetzt und angekündigt, dass die Stadt eine stärkere
 Aufsichtsposition einnehmen will und u.a. Gelder zurückhalten wird, wenn das
 School Board sich nicht auf seinen eigentlichen Auftrag konzentriert, die
 Schüler der Stadt zu beschulen. Die bleiben bei diesem ganzen politischen
@@ -310,8 +310,8 @@ Theater nämlich auf der Strecke.
 <pic images/walgreens-closed-front.ps Diese Walgreens-Filiale hat wegen Dieben zugesperrt.>
 
 <em>Michael</em> Drogerieketten wie Walgreens oder CVS klagen in letzter Zeit
-über explosionsartig steigenden Verluste durch Ladendiebstähle. Die Diebe
-wissen das Gesetz auf ihrer Seite. Selbst vom Laden angestelltes
+über explosionsartig steigende Verluste durch Ladendiebstähle. Die Diebe
+wissen das das Gesetz auf ihrer Seite. Selbst vom Laden angestelltes
 Sicherheitspersonal darf sie per Gesetz nicht aufhalten, falls sie erwischt
 werden.  Das hat dazu geführt, dass Penner oder verlotterte Schulkinder mit
 riesigen Müllsäcken durch die Läden marodieren, alles, was in Reichweite ist,
@@ -344,7 +344,7 @@ verhaften. Auf lange Sicht geht das allerdings ins Geld, und so befürchten
 viele, dass dies über kurz oder lang zu weiteren Schließungen dieser Filialen
 führen wird. Gerade hat die Kette CVS angekündigt, bis Januar 2022 sechs ihrer Filialen in San Francisco
 zu <LINK>https://www.sfgate.com/sf-businesses/article/CVS-closing-San-Francisco-locations-January-2022-16717681.php|schließen|CVS schließt Filialen in San Francisco</LINK>. Dies wiederum betrifft alte und arme Leute, die schlecht in die
-Filialen in den Vororte fahren können, um ihre Rezepte einzulösen oder den
+Filialen in den Vororten fahren können, um ihre Rezepte einzulösen oder den
 Drogeriebedarf zu decken. Und so schließt sich der Kreis: Wer arme Hascherl nicht
 beim Ausplündern der Drogeriemärkte hindert, entzieht noch ärmeren Hascherln den Zugang
 zur nötigen Infrastruktur -- da sollte man bei der nächsten Wahl dran denken.
@@ -385,9 +385,9 @@ bis zum Schloss, vorbeiführte.
 Bescheid, an welchen Ecken man rechts oder links abbiegen muss, um der
 vorgegebenen Route zu folgen und wieder zum geparkten Auto zurückzufinden.  Die
 App selbst ist kostenlos, und die Basisversion reicht, wenn man sich nur in
-einer bestimmten Region aufhält, verlässt man allerdings die heimatlichen
-Gefielde, kennt sie plötzlich keine Karten mehr, obwohl diese auf dem frei
-verfügbaten Openstreetmap-Datenschatz basieren.  Zahlt man aber 30 Dollar
+einer bestimmten Region aufhält. Verlässt man allerdings die heimatlichen
+Gefilde, kennt sie plötzlich keine Karten mehr, obwohl diese auf dem frei
+verfügbaren OpenStreetMap-Datenschatz basieren.  Zahlt man aber 30 Dollar
 drauf, funktioniert's plötzlich überall. Okay, die Komoot-Leute müssen
 schließlich das Licht im Serverraum anlassen, und mit dem Beitrag zahlt man
 praktisch deren Stromrechnung.
@@ -405,7 +405,7 @@ Outdoor-Produkt empfehle ich die App aber uneingeschränkt.
 
 @Z: Topp-Produkt: Pizza-Stahl
 
-<pic images/pizza-steel-serve.ps Im Ofen zuhause selbstgebackene Pizza>
+<pic images/pizza-steel-serve.ps Im Ofen zu Hause selbstgebackene Pizza>
 
 <em>Michael</em> Was Pizza anbelangt, bin ich wie viele von euch mit dem
 durchschnittlichen Angebot in Deutschland aufgewachsen, was nicht schlecht ist,
@@ -418,15 +418,15 @@ hatte.
 
 In Amerika schmeckt die Pizza naturgemäß auch viel besser als im Ursprungsland
 Italien, wo das Gericht hauptsächlich an ahnungslose Billigtouristen verfüttert
-wird, die sich sich kein Essen in den nobleren Restaurants mit richtigem
+wird, die sich kein Essen in den nobleren Restaurants mit richtigem
 italienischem Essen leisten können. In Amerika, und eigentlich hauptsächlich in
 New York City, rangiert Pizza allerdings unter den Gerichten, bei denen die
 Einheimischen keinen Spaß verstehen oder schluderhafte Kochkünste akzeptieren
 würden.  Der "New York Style" ist im ganzen Land bekannt für seine hauchdünne,
 knusprige Kruste, und, was die Zutaten anbelangt, ist außer Tomatensauce,
-Mozarella-Käse und vielleicht noch Anchovies (Sardellen) eigentlich nichts
+Mozzarella-Käse und vielleicht noch Anchovies (Sardellen) eigentlich nichts
 erlaubt. Etwas anderes zu verlangen wäre ungefähr so peinlich wie in einem
-Straßencafe in Paris Rotwein mit Eis im Glas zu bestellen.
+Straßencafé in Paris Rotwein mit Eis im Glas zu bestellen.
 
 <pic images/pizza-steel-oven.ps Im Ofen leitet der Pizza-Stahl die Hitze besser an die Pizza weiter als ein Pizza-Stein.>
 
@@ -434,19 +434,19 @@ In San Franciscos Pizzerien ist mir die Pizza oft zu teigig. Dabei will ich gar
 nicht den "Chicago-Style" erwähnen, was für den Mann von Welt gar keine Pizza,
 sondern eine Quiche ist, aber darüber sind unterschiedliche Leute
 unterschiedlicher Meinung. Und noch etwas: Tiefgefrorene Pizza ist eine
-Zumutung, und jeder, der sich zuhause eine heiß macht, sollte sich überlegen, ob
-er nicht im Leben schon auf eine Einbahnstraße gebogen ist, an deren Ende ein
+Zumutung, und jeder, der sich zu Hause eine heiß macht, sollte sich überlegen, ob
+er nicht im Leben schon in eine Einbahnstraße gebogen ist, an deren Ende ein
 Schild mit der Aufschrift "Bankrott" steht. Auch die labbrige Pizza vom
-Bringdient ist kein Ersatz, und wer zuhause Pizza essen will, dem bleibt
+Bringdienst ist kein Ersatz, und wer zu Hause Pizza essen will, dem bleibt
 eigentlich nur, den Teig selber zu kneten, auszuziehen, Pizzasauce aus der Dose
 (Don Peppino ist ganz gut) und geraspelten Käse (erst ein wenig Parmesan, dann
-ein Haufen Mozarella) draufzumachen, und mit Hilfe des hauseigenen Backofens
+ein Haufen Mozzarella) draufzumachen, und mit Hilfe des hauseigenen Backofens
 irgendwie zu backen.
 
 <pic images/pizza-steel-leopard.ps Der Stahl wird so heiß, dass sich auf der Unterseite der Pizza angebrannte Flecken zeigen.>
 
 Um die Hitze des heimischen Herds, dessen Bratröhre meist bei 550F (290 Grad
-Celcius) aufgibt, gut in die Pizza weiterzuleiten, kaufen viele einen
+Celsius) aufgibt, gut in die Pizza weiterzuleiten, kaufen viele einen
 sogenannten Pizza-Stein, eine Platte aus Keramik, die man erst eine gute halbe
 Stunde im Ofen erhitzt und auf einem gewaltigen Schieber die platte Pizza
 darauf lanciert. Das funktioniert ganz ordentlich, allerdings gibt der Stein
@@ -455,9 +455,9 @@ ist.  Warum? Die Hitzeleitfähigkeit von Stahl ist höher als die von Keramik.
 Dementsprechend schickt ein gleich heißer Stahl mehr Hitze in den darauf
 liegenden Pizzateig, der unten leicht anbrennt. Er entwickelt dunkelbraune Flecken an der
 Unterseite, das sogenannte "Leoparding", das dem Teig den
-unverwechselbaren pizza-typischen Geschmack verpasst. Problem an der Sache ist
-freilich, dass ein ein Zentimeter dickes Stück Stahl im Format 40cm x 40cm
-ungefähr soviel wiegt wie ein Kleinwagen und in Sekunden zu rosten anfängt,
+unverwechselbaren pizzatypischen Geschmack verpasst. Problem an der Sache ist
+freilich, dass ein Zentimeter dickes Stück Stahl im Format 40cm x 40cm
+ungefähr so viel wiegt wie ein Kleinwagen und in Sekunden zu rosten anfängt,
 wenn man es unabgetrocknet herumstehen lässt. Wie bei einer gusseisernen Pfanne
 darf man auch kein Spülmittel zum Säubern verwenden, sondern sollte hin und
 wieder eine Lage Kochöl draufmachen, damit der Teig bei der nächsten Pizza
@@ -470,10 +470,10 @@ auch dieser Teig nicht, aber für den heimischen Ofen ist das Ergebnis doch
 akzeptabel, jedenfalls um Längen besser als mit herkömmlichen Methoden. Wer
 dennoch daheim einer Pizzeria Konkurrenz machen will, kann sich einen portablen
 Gas- oder Holzofen der Firma "Ooni" kaufen, Gewährsleute haben mir versichert,
-dass die Pizzen aus den kleinen aber heißen Dingern tatsächlich
+dass die Pizzen aus den kleinen, aber heißen Dingern tatsächlich
 Pizzeria-Qualität aufweisen. Leider haben wir keinen Platz, und so ein Öfchen
 muss wegen der Abgase draußen stehen!
 
-Grüße aus San Franscisco:
+Grüße aus San Francisco:
 
 Angelika und Michael
