@@ -29,17 +29,17 @@ wird.
 
 <tr><td>Neue Küchengeräte angeschafft</td><td>5</td></tr>
 
-<tr><td>Volle Tage bei verschlossenen Fenstern und Türen in der Wohnung verschanzt wegen der schlechten Luft bedingt durch die Waldbrände</td><td>7</td></tr>
+<tr><td>Volle Tage bei verschlossenen Fenstern und Türen in der Wohnung verschanzt, wegen der schlechten Luft bedingt durch die Waldbrände</td><td>7</td></tr>
 
 <tr><td>Wanderungen oder Spaziergänge</td><td>221</td></tr>
 
-<tr><td>Angelika: Paar durchgelaufene Wanderschuhe/Turnschuhe</td><td>1/1</td></tr>
+<tr><td>Angelika: Paare durchgelaufener Wanderschuhe/Turnschuhe</td><td>1/1</td></tr>
 
-<tr><td>Michael: Tage im Home-Office</td><td>216</td></tr>
+<tr><td>Michael: Tage im Homeoffice</td><td>216</td></tr>
 
 <tr><td>Angelika: Wochen Distanzlernen</td><td>12</td></tr>
 
-<tr><td>Angelika: Covid Tests</td><td>5</td></tr>
+<tr><td>Angelika: Covid-Tests</td><td>5</td></tr>
 
 <tr><td>Angelika: Friseurbesuche/Haare gemacht von Hausfriseur Michael</td><td>3/5</td></tr>
 
@@ -55,7 +55,7 @@ wird.
 Unser letzter Besuch in einem Restaurant in San Francisco & 2. März 2020 \\
 \hline
 
-Stolze Besitzer von wievielen Stoffmasken & 25 \\
+Stolze Besitzer von wie vielen Stoffmasken & 25 \\
 \hline
 
 Neue Küchengeräte angeschafft & 5 \\
@@ -67,16 +67,16 @@ Volle Tage bei verschlossenen Fenstern und Türen in der Wohnung verschanzt wege
 Wanderungen oder Spaziergänge & 221 \\
 \hline
 
-Angelika: Paar durchgelaufene Wanderschuhe/Turnschuhe & 1/1 \\
+Angelika: Paare durchgelaufener Wanderschuhe/Turnschuhe & 1/1 \\
 \hline
 
-Michael: Tage im Home-Office & 216 \\
+Michael: Tage im Homeoffice & 216 \\
 \hline
 
 Angelika: Wochen Distanzlernen & 12 \\
 \hline
 
-Angelika: Covid Tests & 5 \\
+Angelika: Covid-Tests & 5 \\
 \hline
 
 Angelika: Friseurbesuche/Haare gemacht von Hausfriseur Michael & 3/5 \\
