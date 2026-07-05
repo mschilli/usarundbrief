@@ -25,7 +25,7 @@ wird.
 
 <tr><td>Unser letzter Besuch in einem Restaurant in San Francisco</td><td>2. März 2020</td></tr>
 
-<tr><td>Stolze Besitzer von wievielen Stoffmasken</td><td>25</td></tr>
+<tr><td>Stolze Besitzer von wie vielen Stoffmasken</td><td>25</td></tr>
 
 <tr><td>Neue Küchengeräte angeschafft</td><td>5</td></tr>
 

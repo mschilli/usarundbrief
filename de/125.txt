@@ -20,7 +20,7 @@ Gebrauch einfach irgendwo abstellt, denn sie
 melden sich selbständig bei der Zentrale, und funken ihren Standort mittels
 eines GPS-Empfängers heim, damit der nächste Kunde sie gleich buchen kann. Ein
 weiterer Vorteil der Jump-Bikes: Sie fahren mit Elektromotor, der den Radfahrer
-tatkräftig beim Treten unterstützt, so dass dieser die Hügel San Franciscos
+tatkräftig beim Treten unterstützt, sodass dieser die Hügel San Franciscos
 hochbraust wie nichts und sich dabei vorkommt wie Supermann. Aber Vorsicht:
 Die Räder zischen so schnell bei Grün an der Ampel los, dass sich angeblich
 schon einige Unfälle ereignet haben, weil Autofahrer, wie in San Francisco
@@ -30,10 +30,10 @@ Seit kurzem hat auch Ford GoBike, bei denen ich letztes Jahr im September
 eine Jahresmitgliedschaft erworben habe, sogenannte "Plus"-Fahrräder im
 Angebot, deren Elektromotor kraftvoll beim Treten hilft. Während ich sonst
 immer auf den letzten Metern hoch zu unserer Wohnung auf der 
-Chattannooga-Straße bei 8% Steigung in den ersten Gang schalten und kräftig
+Chattanooga-Straße bei 8% Steigung in den ersten Gang schalten und kräftig
 treten musste, um nicht ganz stehen zu bleiben, ging's mit dem eBike
 im Affentempo hoch, wie ihr auf meinem 
-<HTMLONLY>Video sehen könnt. <VIDEO>dNHBu7nZhxQ|Handy-Video des eBike-Aufstiegs</VIDEO></HTMLONLY><PRINTONLY><LINK>https://youtu.be/dNHBu7nZhxQ|Youtube-Video des eBike-Aufstiegs</LINK> sehen könnt.</PRINTONLY>
+<HTMLONLY>Video sehen könnt. <VIDEO>dNHBu7nZhxQ|Handy-Video des eBike-Aufstiegs</VIDEO></HTMLONLY><PRINTONLY><LINK>https://youtu.be/dNHBu7nZhxQ|YouTube-Video des eBike-Aufstiegs</LINK> sehen könnt.</PRINTONLY>
 Allerdings gab das eBike nach 20 Metern auf, als ich versuchte, die 23% steile
 Hill Street hochzuradeln, dafür ist der Motor wohl zu schwach.
 
@@ -44,7 +44,7 @@ junge Leute teilweise über die Gehwege der Stadt brettern.
 Die <LINK>https://www.nytimes.com/2018/04/20/technology/electric-scooters-are-causing-havoc-this-man-is-shrugging-it-off.html|New York Times brachte neulich 
 einen Artikel|New York Times: Elektroroller-Invasion</LINK> über Travis VanderZanden, den Gründer der Leihrollerfirma 
 "Bird" aus Los Angeles, die ähnlich wie die Taxifirmen Uber und Lyft
-nach dem Motto "erstmal loslegen, dann Genehmigungen einholen" einfach 
+nach dem Motto "erst mal loslegen, dann Genehmigungen einholen" einfach 
 Roller auf San Franciscos Gehsteigen verteilte, die die jungen Leute dann
 begeistert über eine Handy-App mieteten.
 
@@ -126,9 +126,9 @@ verkauft werden.
 
 Das amerikanische Behindertengesetz ("The Americans with
 Disabilities Act" = ADA) sorgt nun aber dafür, dass Menschen mit Behinderungen nicht
-detailiert nachweisen müssen, dass ihr Hund ein Servicehund ist. Nur zwei
-Fragen sind erlaubt, um abzuklopfen, ob der Hund wirklich diese Funktion inne
-hat:  "Wird das Tier gebraucht aufgrund einer Behinderung? Welche Aufgaben
+detailliert nachweisen müssen, dass ihr Hund ein Servicehund ist. Nur zwei
+Fragen sind erlaubt, um abzuklopfen, ob der Hund wirklich diese Funktion
+innehat:  "Wird das Tier aufgrund einer Behinderung gebraucht? Welche Aufgaben
 wurden dem Tier beigebracht zu übernehmen?" Und da jeder in Amerika gleich mit
 Klagen droht, kann ich gut verstehen, dass die Verantwortlichen im Zweifelsfall
 lieber nicht so genau nachhaken.
@@ -137,7 +137,7 @@ lieber nicht so genau nachhaken.
 
 Der "Emotional Support Dog" ist hingegen nicht besonders ausgebildet, sondern
 wirkt auf seinen Besitzer beruhigend. Gibt man "Emotional Support Dog" bei
-Google ein, kommen eine Unzahl von Anbietern hoch, bei denen man durch einen
+Google ein, kommt eine Unzahl von Anbietern hoch, bei denen man durch einen
 <LINK>https://www.esaregistration.org|Mausklick|Erfassung zum Emotional Support Dog</LINK> 
 seinen Hund als solchen registrieren kann und dabei gleich einen
 Brief ausgestellt bekommt von einem Therapeuten, der bestätigt, dass der Hund
@@ -146,7 +146,7 @@ für die eigene Psyche wichtig ist. Auch
 die den Hund als angeblichen Servicehund ausweisen, kann der Hundenarr
 problemlos im Internet zum Beispiel bei Amazon bestellen.
 
-Leider ist es nun tatsächlich so, das die Fluggesellschaften durch den "Air Carrier
+Leider ist es nun tatsächlich so, dass die Fluggesellschaften durch den "Air Carrier
 Access Act" diese "Emotional Support Dogs" neben den richtigen Servicehunden im
 Flugzeug erlauben müssen. Es hat wohl keiner damit gerechnet, dass egoistische
 Hundebesitzer dieses Schlupfloch gnadenlos ausnutzen. Für die Menschen, die wirklich einen
@@ -159,18 +159,18 @@ Bei United Airlines und Delta Airlines gelten deshalb auch seit 1. März diesen
 Jahres strengere Bestimmungen für Hunde, die in der Passagierkabine
 mitfliegen. Bei Delta Airlines ist die Mitnahme von Hunden, die als
 Servicehunde oder "Emotional Support Dogs" ausgewiesen werden seit 2015 um 150%
-angestiegen und die Beschwerden über Tiere an Board sind 
+angestiegen und die Beschwerden über Tiere an Bord sind 
 <LINK>https://www.reuters.com/article/delta-air-safety-animals/delta-air-to-tighten-onboard-emotional-support-animal-requirements-idUSL1N1PE05B|um 84% hochgeschnellt|Fluggastbeschwerden über Hunde</LINK>.
 Der Hundebesitzer muss 48 Stunden vor Abflug neben einem Schrieb, der
 nachweist, warum der Hund als emotionale Stütze gebraucht wird, ein
 Gesundheitsattest einreichen, das zum Beispiel die Impfungen des Hundes
-auflistet und ein Zertifikat, dass versichert, das der Hund sich im Flugzeug
+auflistet, und ein Zertifikat, das versichert, dass der Hund sich im Flugzeug
 benimmt. Ich bin gespannt, wie das wieder umgangen wird.
 
 <pic images/pug-stolen.ps (#1) Jemand hat diesen Mops gemopst, der vor dem Whole-Foods-Laden angeleint war.>
 
 Übrigens versuchen Passagiere nicht nur, ihren Hund als ihre seelische Stütze
-auszugeben, sondern bringen auch alle möglichen anderen Viecher an wie
+auszugeben, sondern bringen auch alle möglichen anderen Viecher an, wie
 Schlangen, Papageien oder Schweine. Ganz zu schweigen von der Frau, die
 versuchte, mit ihrem Pfau auf einen United-Flug zu kommen, was ihr allerdings
 verwehrt wurde. Auch sehen wir ständig Hunde im Supermarkt, die ganz sicher
@@ -189,7 +189,7 @@ Es ist schon über zehn Jahre her, dass wir in Santa Fe im Bundesstaat New Mexic
 waren (<RBLINK>20061011#1</RBLINK>) und da es uns dort damals sehr gut
 gefallen hat, beschlossen wir, den Jahreswechsel mal wieder in der Wüste zu verbringen.
 Apple schließt zwischen Weihnachten und Neujahr und ich habe mittlerweile mehr
-Urlaub als Michael, so dass ich locker ein paar Tage freinehmen kann. Wir
+Urlaub als Michael, sodass ich locker ein paar Tage freinehmen kann. Wir
 flogen am 25.12. los. Nun ist der 25. Dezember hier nicht etwa nur der erste
 Feiertag, sondern auch gleichzeitig Heiligabend, denn morgens macht der
 Amerikaner in aller Frühe mit der Familie erst die Geschenke auf. Durch diesen
@@ -202,10 +202,10 @@ Dezember.
 
 In weiser Voraussicht hatte ich uns ein Hotel an unserem Flugziel Albuquerque
 gebucht, dessen Hotelrestaurant auch am 25. Dezember in Betrieb war. Und
-tatsächlich es war sonst alles zu und die Innenstadt fast menschenleer. Nur ein
+tatsächlich war sonst alles zu und die Innenstadt fast menschenleer. Nur ein
 japanisches Restaurant hatte noch auf, das man wegen Überfüllung allerdings
 nicht betreten konnte. Albuquerque gilt ein wenig als das Stiefkind von New
-Mexico im Schatten von Santa Fe und hat sicher nicht soviel zu bieten, aber wir
+Mexico im Schatten von Santa Fe und hat sicher nicht so viel zu bieten, aber wir
 verbrachten dort einen netten Abend. Santa Fe liegt etwa eine Autostunde von
 Albuquerque weg, wunderschön in 2194 m Höhe und obwohl Santa Fe nur ca. 84.000
 Einwohner hat, bietet es zahlreiche Museen und 240 Galerien. Das Klima ist
@@ -215,16 +215,16 @@ Trockenheit, aber die Broschüre unseres Vermieters in der Ferienwohnung
 versicherte uns, dass man sich an die Trockenheit plus Höhe gewöhnt. Wir haben
 auf jeden Fall tonnenweise Handcreme verbraucht.
 
-<pic images/santa-fe-adobe.ps Typisches Adobe-(Lehm)-Gebäube in New Mexico.>
+<pic images/santa-fe-adobe.ps Typisches Adobe-(Lehm)-Gebäude in New Mexico.>
 
 Santa Fe und der Bundesstaat New Mexico faszinieren mich, weil sich hier
 Indianerkultur mit spanischer (durch die spanischen Eroberer) und mexikanischer
-Tradition sowie tiefer Naturverbundenheit, Spirtualität und Katholizismus
+Tradition sowie tiefer Naturverbundenheit, Spiritualität und Katholizismus
 vermischen. New Mexico hat dann auch den höchsten Anteil an Latinos (aus Südamerika) und
 Hispanics (aus Spanien) sowie den zweitgrößten Anteil an Indianern, verglichen mit anderen
 Bundestaaten. Wie San Francisco ist auch Santa Fe anders als das restliche Amerika.
 Kein Wunder, dass die Wüstenlandschaft mit ihrer klaren Luft und dem blauen
-Himmel und den im Sonnenlicht sich verfärbenenden Steinsformationen stets
+Himmel und den sich im Sonnenlicht verfärbenden Steinformationen stets
 Künstler angezogen hat. Beim Wandern fiel mir immer wieder die Stille auf.
 
 <pic images/santa-fe-hike.ps Blöder Tourist auf Wanderweg bei Santa Fe.>
@@ -245,7 +245,7 @@ von <LINK>http://marvinslim.faso.com/about|Marvin Slim</LINK>.
 <pic images/santa-fe-ring.ps Angelika hat sich auf dem Indianermarkt einen Ring gekauft.>
 
 40 Meilen von Santa Fe entfernt liegt der kleine 3000-Seelen-Ort Chimayo, für
-Katholiken ein Walfahrtsort wie Lourdes. Die Erde hier soll heilende Wirkung
+Katholiken ein Wallfahrtsort wie Lourdes. Die Erde hier soll heilende Wirkung
 haben und so pilgern jedes Jahr zig tausend Gläubige in die im spanischen
 Kolonialstil erbaute Kirche in den Bergen, um mit einem Schäufelchen die Erde
 aus der im Jahre 1816 erbauten Kirche in mitgebrachte Container umzufüllen.
@@ -256,7 +256,7 @@ Die feine Erde  kommt aus einem Loch in einem kleinen Raum der Kirche. Fotos
 durften wir dort nicht machen und wir ließen die Erde auch in der Kirche, aber
 mehrere Besucher füllten kleine Plastikbeutelchen voll. Die Erde muss
 übrigens immer wieder aufgefüllt werden und Kirchenangestellte holen sie
-angeblich jeden Tag aus den umliegenden Sangre de Christo Mountains. Einigen
+angeblich jeden Tag aus den umliegenden Sangre de Cristo Mountains. Einigen
 Gläubigen sagt man nach, dass sie die Erde essen oder trinken, um sich die
 heilende Kraft sozusagen einzuverleiben, wobei es reichen soll, entsprechende
 Körperteile mit der Erde einzureiben, während ein Gebet gesprochen wird. Die
@@ -268,7 +268,7 @@ folkloreartigen Altarbildern.
 Das ganze Drumherum war für unseren Geschmack
 allerdings sehr touristisch und kommerzialisiert. In einem Nebenraum hingen zum
 Beispiel Hunderte von Krücken, die angeblich geheilte Besucher
-zurück gelassen haben. Ich glaube zwar nicht an Wunderheilungen,
+zurückgelassen haben. Ich glaube zwar nicht an Wunderheilungen,
 aber ich habe mal mehrere Semester Psychologie studiert, und wir
 haben das Phänomen des Placeboeffekts ausreichend untersucht. Dennoch faszinieren
 mich solche Orte und die Menschen, die für ein Fünkchen Hoffnung nichts
@@ -281,7 +281,7 @@ unversucht lassen.
 <em>Michael</em> Die Jugend von heute trinkt ja kaum noch Bier. Die
 Getränkehersteller haben sich umgestellt und bieten alle möglichen
 aufpeitschenden Energy-Drinks ohne Zucker an. Davon trinke ich vielleicht noch
-den Indianertee Yerba-Matte, aber das war's dann schon. Mir ist schleierhaft,
+den Indianertee Yerba Mate, aber das war's dann schon. Mir ist schleierhaft,
 wie jemand Gatorade oder Red Bull trinken kann, außer vielleicht auf den
 letzten Meilen eines Marathons kurz vor dem körperlichen Totalzusammenbruch.
 Ähnlich geht es mir bei Root-Beer, was ja keineswegs wie Bier, sondern wie
@@ -298,42 +298,42 @@ Ingwer-Schub wie beim Ouzo-Schnaps. Es schlägt mit ungefähr 100 Kalorien pro
 0.33l-Flasche auf die Hüften und ist damit nicht ganz so füllend wie eine
 0.33l-Flasche richtiges Markenbier.
 
-<pic images/ginger-beer-1.ps Scharfes Ginger Beer "Cock Bull".>
+<pic images/ginger-beer-1.ps Scharfes Ginger Beer "Cock 'n Bull".>
 
 Bundaberg steht auf Hawaii in den Regalen normaler Supermärkte, bei uns in der
 Bay Area habe ich es bei World Market gesehen, sogar im preisgünstigen
 10er-Pack. Neulich in Los Angeles fiel mir eine weitere Ginger-Beer-Marke
-namens "Cock Bull" auf, die mir ebenfalls mundete. Sie ist sogar noch etwas
-schärfer im Abgang und brennt kurzzeitig, als wären Pepperoni in der Flasche,
+namens "Cock 'n Bull" auf, die mir ebenfalls mundete. Sie ist sogar noch etwas
+schärfer im Abgang und brennt kurzzeitig, als wären Peperoni in der Flasche,
 aber der erste Eindruck löst sich schnell in wohltuenden Ingwer-Geschmack auf.
 Sehr empfehlenswert.
 
 <pic images/ginger-beer-costco.ps Costco verkauft das ultrascharfe Ginger Beer von Fever-Tree.>
 
-Der Megasupermarkt Costco verkauft seit neuestem ein Ginger-Beer der Marke
-"Fever Tree", und ich muss sagen, das Getränk haut einem wirklich den Schalter
+Der Megasupermarkt Costco verkauft seit Neuestem ein Ginger-Beer der Marke
+"Fever-Tree", und ich muss sagen, das Getränk haut einem wirklich den Schalter
 raus, so scharf ist es im Vergleich zu den anderen diesmal getesteten
 Ginger-Beers. Er brennt im Schlund und im direkten Vergleich schmecken die
-anderen Marken wir regelrechte Labberwasser.  Sicher nichts für Anfänger, und
+anderen Marken wie regelrechtes Labberwasser.  Sicher nichts für Anfänger, und
 das Zwölferpack kostet $14.99 bei Costco, der das Getränk anscheinend nur
 probeweise auf Lager hat. Greift zu, solange der Vorrat reicht!
 
-@Z: San Francisco Ansichten: Liberty Hill
+@Z: San-Francisco-Ansichten: Liberty Hill
 
-<pic images/liberty-view.ps Schöne Aussicht auf die Stadt vom Stadteil Liberty Hill.>
+<pic images/liberty-view.ps Schöne Aussicht auf die Stadt vom Stadtteil Liberty Hill.>
 
 <em>Michael</em> San Francisco als Touristenstadt bietet dem auf den
 ausgetretenen Pfaden kommerzieller Veranstalter wandelnden Besucher ausreichend
-Futter, so dass fast niemand auf die Idee kommt, die etwas versteckteren
+Futter, sodass fast niemand auf die Idee kommt, die etwas versteckteren
 Schmankerln zu durchforsten. Neulich waren wir im Stadtteil Castro essen und
 anschließend so pappsatt, dass wir uns dachten, ein wenig sportliche Betätigung
-könne nicht schaden und so latschten wir nicht ums Karree sondern quer über den
+könne nicht schaden, und so latschten wir nicht ums Karree, sondern quer über den
 steilen Hügel "Liberty Hill" zurück nach Hause. 
 
 <pic images/liberty-end.ps Diese Sackgasse endet buchstäblich im Nichts.>
 
-Dort kommt man eigentlich sonst nur mit dem Auto hin, denn selbst für's
-Mountain Bike sind die Straßen zu steil, und wegen des schroffen Terrains endet
+Dort kommt man eigentlich sonst nur mit dem Auto hin, denn selbst fürs
+Mountainbike sind die Straßen zu steil, und wegen des schroffen Terrains endet
 jede zweite Sackgasse buchstäblich im Nichts, oft mit einem schönen weiten
 Ausblick auf die Stadt. Verkehr ist dort oben aber so gut wie keiner, da kaum
 jemand seinem Automobil Straßen mit bis zu 40% Steigung zumuten will, wenn man
@@ -350,7 +350,7 @@ Hakenkreuzfahne an seinem burgartigen Haus gehisst und seine Nachbarn auf den
 Plan gerufen hatte (<RBLINK>20161222#1</RBLINK>).
 
 <pic images/liberty-stairs.ps Nicht leicht zu findende Treppen verbinden die durch steile Hänge getrennten Straßen.>
-<pic images/liberty-bum.ps Penner bleiben auf halber Strecke stecken und halten den höhergelegenen Stadteil sauber.>
+<pic images/liberty-bum.ps Penner bleiben auf halber Strecke stecken und halten den höher gelegenen Stadtteil sauber.>
 
 Wegen der Höhenlage verirrt sich auch kaum ein Penner in diese Stadtteile, und
 meines Wissens hat noch keiner sein Zelt auf dem Gehsteig aufgestellt. Deswegen
@@ -368,10 +368,10 @@ Prius-Fahrern begangen werden.
 Die Häuser variieren stark zwischen "Alter (Geld-)Adel" und "neureicher
 Internetfritze", und einige alte Hutzelhütten stehen laut Warnschild vor dem
 Abriss, weichen wohl bald eher neumodischen "iPods", wie ein NIMBY kürzlich die
-immer öfter von Wohnungsspekulaten hingeschusterten dreistöckigen Wohnhäuser
+immer öfter von Wohnungsspekulanten hingeschusterten dreistöckigen Wohnhäuser
 bezeichnete.  Die Straßen sind erstaunlich sauber, die Zypressen vor den
 Häusern sauber getrimmt, hier kümmern sich die Bewohner offensichtlich um ihr
-Zuhause und halten es im Tipp-Topp-Zustand.  Bei manchen Immobilien dürfte es
+Zuhause und halten es in tipptoppem Zustand.  Bei manchen Immobilien dürfte es
 schwierig werden, größere Fahrzeuge wie einen Möbelwagen vorfahren zu lassen,
 da diese, wie manch ein gelbes Schild warnt, oft an den Übergängen von flach
 nach steil und umgekehrt hängenbleiben. Und Getränkekisten zu Fuß
@@ -390,7 +390,7 @@ Wohnungsmakler. Auch Bankfilialen scheinen gut zu gehen, aber auf Dauer
 nervt diese Monokultur die Anwohner, die lieber kleine Modeboutiquen oder
 Omaläden mit Heimwerkerbedarf dort sähen. Man munkelt übrigens, dass
 Nagelpflegesalons sich gut zur Geldwäsche eignen, allerdings wurde noch
-nichts dementsprechendes gemeldet. Jedenfalls nenne ich unser Viertel Noe 
+nichts Dementsprechendes gemeldet. Jedenfalls nenne ich unser Viertel Noe 
 Valley nun gerne "Nail Valley".
 
 <pic images/24th-realtor.ps Erfolgreiches Geschäftsmodell in Noe Valley: Überteuerte Häuser an neureiche Idioten verscherbeln.>
@@ -403,7 +403,7 @@ Geschäften auf der 24th Street ist der Laden
 <LINK>https://www.sfchronicle.com/politics/article/New-owner-of-long-closed-Noe-Valley-Real-Foods-to-12165578.php|"Real Food"|15 Jahre zugesperrter Laden "Real Food"</LINK>, der im Jahre
 2003 zugesperrt und bis heute nicht mehr aufgemacht hat. Bald 15 Jahre lang 
 schauen wir Noe-Valleyaner schon ungläubig auf die leere Ladenzeile, für die 
-der Vermieter gut und gerne $20.000 im Monat hätte kassieren können. Einfach
+der Vermieter gut und gern $20.000 im Monat hätte kassieren können. Einfach
 so 3,6 Millionen Dollar zum Fenster rauszuwerfen ist schon der Gipfel der
 Dummheit.
 
@@ -414,31 +414,31 @@ der Kostenkalkulation, denn, und das gilt USA-weit, 59% geben in den ersten
 drei Jahren auf. Viele jammern über die zu schmalen Gewinnmargen, was ich 
 ehrlich gesagt bei den horrenden Preisen nicht ganz nachvollziehen kann: 
 Ein Abendessen für zwei in einer der Gaststätten auf unserer Straße kostet
-gut und gerne $100, und wenn's exklusiv beim Edeljapaner ist, eher $200.
+gut und gern $100, und wenn's exklusiv beim Edeljapaner ist, eher $200.
 
 <pic images/caskhouse-front.ps Die Bar "Caskhouse" hat aufgegeben.>
 
 Dennoch scheitern die Gaststätten bei uns immer nach dem gleichen Muster: Erst
 sparen sie beim Personal, eines Tages sitzt man in seinem Stammlokal und reibt
-sich verwundert die Augen, weil nur noch eine einzige Bedienung für's ganze
+sich verwundert die Augen, weil nur noch eine einzige Bedienung fürs ganze
 Restaurant zuständig ist und es ewig lange dauert, bis sie auch nur angedackelt
-kommt um die Getränkebestellung aufzunehmen. Unser Lieblingslokal "Savor"
+kommt, um die Getränkebestellung aufzunehmen. Unser Lieblingslokal "Savor"
 stellte letztes Jahr sogar auf Selbstbedienung um, und die Gäste mussten ihr
 Essen zuerst an der Kasse bezahlen, eine Nummer mit zum Tisch nehmen, worauf
 eine Aushilfe irgendwann das Essen anschleppte.
 
 <pic images/hamlet-door.ps Die Gaststätte "Hamlet" hat nach einem Jahr mangels Erfolg zugesperrt.>
 
-Nicht nur wir weigerten uns
+Nicht nur wir weigerten uns,
 fürderhin, dort zu essen, sondern anscheinend auch noch andere Leute im Viertel,
-denn nach 6 Monaten fanden wir eine Wurfsendung im Briefkasten, nach dem der
+denn nach 6 Monaten fanden wir eine Wurfsendung im Briefkasten, in der stand, dass der
 "Table Service" im "Savor" nun wieder eingeführt würde. Allerdings stellte sich
-heraus, das der Laden seine bekannten Crêpes nun nicht mehr
-wochentags sondern nur noch an Wochenende servierte. War zur Zubereitung
+heraus, dass der Laden seine bekannten Crêpes nun nicht mehr
+wochentags, sondern nur noch an Wochenenden servierte. War zur Zubereitung
 der Pfannkuchen ein hochbezahlter Spezialkoch zuständig, den sich die
 Wirtschaft wochentags nicht leisten konnte? Ich bezweifle es, aber nach einigen
 Monaten kam eine zweite Wurfsendung, nach der es auch wochentags nun wieder
-Crêpes gäbe. Man greift sich an den Kopf und fragt sich, welche Art 
+Crêpes gäbe. Man greift sich an den Kopf und fragt sich, welche Art von
 Geschäftsmann solche irren Entscheidungen trifft.
 
 <pic images/cleaners-front.ps Die Reinigung "Cleaners" schloss nach 20 Jahren ihre Türen.>
@@ -449,14 +449,14 @@ jeden Abend rappelvoll. Dann sperrte die Bar nur noch an ungeraden Wochentagen
 auf und im Hamlet wurden die Bedienungen gekürzt, worauf die Kundschaft
 ausblieb. Irgendwie ist der Wurm drin. Wie kann eine Bedienung, die mit 
 Nebenkosten vielleicht $30 pro Stunde kostet, und pro Stunde sagen wir 
-fünf Tische bedient, an denen jeweils $100 umgesetzt werden überhaupt ein
+fünf Tische bedient, an denen jeweils $100 umgesetzt werden, überhaupt ein
 Faktor in der Kalkulation sein? Aber keine Angst, ich werde niemals ein
 Restaurant eröffnen.
 
 <pic images/mani-pedi.ps Hier lässt sich San Franciscos Damenwelt die Fußnägel lackieren.>
 
 Dass Geschäftsmodelle, die nicht viel Umsatz machen, in einem superteuren
-Viertel wie Noe Valley keine Chance haben, ist traurig aber allerdings wahr,
+Viertel wie Noe Valley keine Chance haben, ist traurig, aber wahr,
 und so wundert es mich nicht, dass nun eine unserer zwei Reinigungen zugesperrt
 hat oder der Gemischtwarenladen "Tuggey's" für Heimwerkerbedarf, bei dem ich
 immer schnell fehlende Schrauben oder Dichtungen kaufen konnte, falls ich
