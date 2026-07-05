@@ -204,7 +204,7 @@ Staatsprogramm, das versuchte, die Lebensumstände von Minderheiten wie
 Schwarzen oder Latinos mit staatlichen Eingriffen zu verbessern, indem es sie
 zum Beispiel bevorzugt bei der Vergabe von Studienplätzen berücksichtigte,
 natürlich zum Ärger anderer Gruppen wie Weißen oder Asiaten, die trotz besserer
-Noten den Kürzeren zogen. Also bestimmte Prop 206 im Jahre 1996, dass dies
+Noten den Kürzeren zogen. Also bestimmte Prop 209 im Jahre 1996, dass dies
 nicht rechtens sei. Prop 16 im Jahre 2020 rollte dieses alte Thema nun wieder
 auf und wollte diese Ungleichbehandlung wieder legalisieren. Wer also auf
 seinem Stimmzettel mit "Ja" stimmte, sprach sich für die Rücknahme der alten
@@ -220,7 +220,7 @@ Kasterl ankreuzen, damit sie auch das politisch erreichen, was sie sich zuhause
 Leute, denen die Wähler vertrauen, die empfohlenen Kreuze zum Abschreiben auflisten.
 Das Ergebnis: Wie oben schon erwähnt, wurde Prop 16 mit 57.2% von den
 kalifornischen Wählern abgelehnt, es bleibt also weiterhin illegal, dass der
-Staat Minderheiten Vorteile gewährt. Der Grundsatz der Gleichbehandlungs bleibt bestehen.
+Staat Minderheiten Vorteile gewährt. Der Grundsatz der Gleichbehandlung bleibt bestehen.
 
 @Z: Grippeimpfung im Drogeriemarkt
 
@@ -230,14 +230,14 @@ Staat Minderheiten Vorteile gewährt. Der Grundsatz der Gleichbehandlungs bleibt
 Leben, aber einmal erwischte es mich doch ziemlich. Da lebten wir noch in
 München und ich meinte damals, dass ich bei der Arbeit unentbehrlich sei und ging mit
 Fieber arbeiten, was sich postwendend rächte, mich ins Fieberdelirium
-verfrachtete und für eine gute Zeit lahm legte. Seit geraumer Zeit denke ich
+verfrachtete und für eine gute Zeit lahmlegte. Seit geraumer Zeit denke ich
 mir jedes Jahr, aber dieses Jahr lässt du dich gegen Grippe impfen und dann
 mache ich es doch nicht, obwohl es wegen meiner Arbeit mit den Kindern
 empfohlen wird.
 
 Aber durch Corona
 und die Tatsache bedingt, dass ich bei jedem auftretenden Symptom, das auf der
-offiziellen Covidliste ist, zuhause bleiben und getestet werden muss, dachte
+offiziellen Covid-Liste ist, zu Hause bleiben und getestet werden muss, dachte
 ich mir, 2020 ist mein Jahr der Grippeimpfung. Denn Grippe- und Coronasymptome
 sind nur schwer voneinander zu unterscheiden. Nun wollte ich natürlich nicht
 mit allen Hustenden und Prustenden im Wartezimmer meines Hausarztes sitzen, nur
@@ -245,7 +245,7 @@ für eine Impfung. Aber das muss man dem Amerikaner lassen, manchmal ist er
 sehr pragmatisch veranlagt. Jeder kann sich hier nämlich im Drogeriemarkt
 impfen lassen.
 
-<pic images/walgreens-booth.ps In dem weißen Kabuff rechts impft der Apotheker die Kunden gegen Grippe.>
+<pic images/walgreens-booth.ps In dem weißen Kabuff rechts impft der Pharmakologe die Kunden gegen Grippe.>
 
 Wie hier schon öfter berichtet, gibt es in den USA nicht die
 Apotheke im klassischen Sinn, wie ihr sie aus Deutschland kennt. Apotheken
@@ -261,7 +261,7 @@ verschreibungspflichtigen Medikamente befindet.
 Auch in den USA gibt es den Beruf des Pharmakologen und jeder Drogerie- oder
 Supermarkt, der verschreibungspflichtige Medikamente im Sortiment hat,
 beschäftigt einen. In allen  amerikanischen Bundesstaaten ist es diesen
-Pharmokologen erlaubt, Impfungen an Erwachsenen durchzuführen (bei Kindern
+Apothekern erlaubt, Impfungen an Erwachsenen durchzuführen (bei Kindern
 ziehen nicht alle Bundesstaaten mit). In der Regel kann der Impfwillige einfach
 im Laden auftauchen, um sich die Impfung verpassen zu lassen oder der Kunde
 kann online einen Termin machen.
@@ -271,7 +271,7 @@ rechnet gleich direkt mit ihr ab. Ich musste dazu nur
 meine Krankenkassenkarte vorlegen. Meine Krankenkasse bezahlte die
 Grippeimpfung voll. Ich machte online einen Termin beim Walgreens bei uns um
 die Ecke, und bekam einen am selben Tag. Dann brauchte ich nur mein
-Geburtsdatum, meine Adressse und meinen Namen anzugeben, und ein paar Fragen gab es
+Geburtsdatum, meine Adresse und meinen Namen anzugeben, und ein paar Fragen gab es
 für mich zu beantworten wie zum Beispiel, ob ich mich krank fühle oder
 schon einmal allergisch auf Impfungen reagiert hätte.
 
@@ -279,14 +279,14 @@ schon einmal allergisch auf Impfungen reagiert hätte.
 
 Zum ausgemachten Zeitpunkt trabte ich dann zum Drogeriemarkt "Walgreens",
 meldete mich im Pharmaziebereich, und nach einigen Minuten kam die
-diensthabende Pharmokologin.  Sie führte mich in eine kastenähnliche, wie ein
+diensthabende Pharmakologin.  Sie führte mich in eine kastenähnliche, wie ein
 kleiner Container aussehende Box, die sich als ein klitzekleines Zimmer mit
 einem Stuhl herausstellte. Sie fragte noch einmal meine Daten ab und gab mir
 dann die Impfung in den Arm. Ich hatte mich schon immer gewundert, wenn ich im
 Walgreens einkaufen war, was es mit dieser riesigen mannshohen Kiste am Ende
 des Ganges auf sich hat. Jetzt weiß ich es! Übrigens gibt es nicht nur
 Grippeimpfungen in Drogeriemärkten, sondern man kann sich auch gegen alle
-möglichen andere Dinge impfen lassen (Gürtelrose, Keuchhusten, Hepatitis).
+möglichen anderen Dinge impfen lassen (Gürtelrose, Keuchhusten, Hepatitis).
 In den deutschen Medien las ich, dass es dieses Jahr in Deutschland die ersten
 Modellprojekte gibt, die das Grippeimpfen in ausgewählten Apotheken erproben.
 
@@ -299,14 +299,14 @@ gehen wir (fast) jeden Abend auf einen Rundgang durch unser Viertel, um uns
 selbst in Pandemiezeiten einigermaßen fit zu halten. Mittlerweile haben wir
 schon so viele Meilen abgelatscht, dass Angelikas Wanderschuhe den Geist
 aufgegeben haben, aber wir bestellten einfach das gleiche Modell nochmal über
-den Outdoor-Ausstatter REI, diesmal Online und nicht im Laden. Die
+den Outdoor-Ausstatter REI, diesmal online und nicht im Laden. Die
 nächsten 10.000 Meilen können kommen.
 
 <pic images/cups.ps Wer gerade frisch eingezogen ist, kann vielleicht diese Tassen oder die Haustierfüttermaschine gebrauchen.>
 
 Dabei geht es uns gar nicht um das Ziel der Wanderung, sondern um den Weg, 
 mal halten wir ein Schwätzchen mit dem Postboten, der am Abend noch die
-letzten Briefe austrägt, oder lachen über eine Familie auf der 23sten
+letzten Briefe austrägt, oder lachen über eine Familie auf der 23.
 Straße, die jeden Abend auf den Stufen zu ihrem Haus sitzt und mit
 ihren Nachbarn, die wegen Social Distancing ein paar Stufen weiter unten
 kauern, Happy Hour mit Wein machen. 
@@ -319,18 +319,18 @@ Ob das eine LP-Sammlung mit 100 Scheiben ist, oder ein paar nicht mehr
 benötigte Krücken, ein alter Grill, oder ein durchgewetzter Arbeitsstuhl,
 jedes Teil erzählt so seine Geschichte. Manchmal steht auch ein antiker
 Schrank zum Mitnehmen da, aber da muss ich Angelika immer bremsen, denn wir
-haben leider keinen Platz zuhause.
+haben leider keinen Platz zu Hause.
 
-<pic images/shelf-1.ps So stand das Regal auf der Straße zum mitnehmen.>
+<pic images/shelf-1.ps So stand das Regal auf der Straße zum Mitnehmen.>
 <pic images/shelf-2.ps Nun steht es in unserer Garage und bietet Stauraum für unseren Krempel!>
 
 Einmal hatte jemand ein sehr solides, zwei Meter hohes Kellerregal aus Plastik
 vor die Tür gestellt, und wir wussten sofort, dass wir das gut für unseren
-Tiefgaragenplatz gebrauchen konnten, um alten Krempel, der bisland verstreut
+Tiefgaragenplatz gebrauchen konnten, um alten Krempel, der bislang verstreut
 auf dem Boden lag, aufzuräumen. Also drehten wir um, liefen im Eilschritt nach
 Hause, und holten das Auto, und zum Glück war das Regal noch da. Ich baute es
 auseinander, wir luden es ein, fuhren es heim, und setzten dann unsere
-unterbrochene Wanderung fort. Später bauten wir es auf und toll wie aufgeräumt
+unterbrochene Wanderung fort. Später bauten wir es auf. Toll, wie aufgeräumt
 es jetzt in der Garage aussieht!
 
 <pic images/crutches.ps Blinde sehen, Lahme gehen, und lassen die Krücken für den Nächsten zurück.>
@@ -372,29 +372,29 @@ möchte.
 <pic images/kindle-3.ps Der Kindle in der Ledertasche von Drink+Hide für den Cowboy-Look.>
 
 Wo rein mit dem Teil nach dem Lesen, damit es nicht einstaubt? Klassische
-Kindlemappen waren mir immer ein Greuel, weil sie das Gewicht des Geräts
+Kindlemappen waren mir immer ein Gräuel, weil sie das Gewicht des Geräts
 teilweise verdoppeln und dann strengt mich das Hochhalten zu sehr an.
-Deshalb stecken meine andere Kindles in einfachen Schubern, und ich halte
+Deshalb stecken meine anderen Kindles in einfachen Schubern, und ich halte
 sie beim Lesen ohne jegliche Hülle in der Hand. Beim Oasis suchte ich nach
 einer exklusiveren Variante und fand den Lederschuber der Marke
 "Drink \& Hide" auf Amazon für 37 Dollar. Das Teil ist der Hammer! Extrem
 weiches und wohlriechendes Leder, hochgradig handschmeichelnd und 
 absolut perfekt genäht, kommt angeblich aus Guatemala und wird in den USA
-nur Online vertrieben. Topp-Produkt!
+nur online vertrieben. Topp-Produkt!
 
 @Z: Brezen selber backen
 
-<pic images/pretzel-ready.ps Die fertig gebackenen Brezeln lehren dem Brezen Bauer das Fürchten.>
+<pic images/pretzel-ready.ps Die fertig gebackenen Brezeln lehren den Brezen Bauer das Fürchten.>
 
 <em>Michael</em> Frische Brezen sind in San Francisco leider Mangelware, man
 kann zwar einen Tag alte Brezen von "Esther's Bakery" in Mountain View beim
 Ökosupermarkt "Rainbow Grocery" erwerben, aber wer mag schon altbackene Brezen!
-Wie schonmal in <RBLINK>20160618#6</RBLINK> berichtet, entdeckte ich vor einigen
-Jahren ein vorgefertigtes Brezenbackmix, buk damit alle paar Wochen mal ein
-Backblech voller Brezen und war soweit zufrieden damit.
+Wie schon mal in <RBLINK>20160618#6</RBLINK> berichtet, entdeckte ich vor einigen
+Jahren einen vorgefertigten Brezenbackmix, buk damit alle paar Wochen mal ein
+Backblech voller Brezen und war so weit zufrieden damit.
 
 Wegen Corona verbrachte ich viel Zeit daheim, und stolperte über ein
-<LINK>https://www.youtube.com/watch?v=6OEQ59hCr0M|Youtube-Video|Brezenbackvideo</LINK> mit einem Rezept für astreine Brezen aus den Zutaten Mehl, Hefe,
+<LINK>https://www.youtube.com/watch?v=6OEQ59hCr0M|YouTube-Video|Brezenbackvideo</LINK> mit einem Rezept für astreine Brezen aus den Zutaten Mehl, Hefe,
 Wasser und Abflussreiniger. Ihr habt richtig gelesen, denn es ist
 Natronlauge, mit der die Brezen ihre typische dunkelbraune Farbe bekommen
 und den charakteristischen Geschmack, der sie von der gemeinen Semmel
@@ -402,7 +402,7 @@ unterscheidet.
 
 <pic images/pretzel-lye.ps Konzentrierte Natronlauge bäckt die Brezen braun.>
 
-Konzentrierte Natronlauge in Pulverform kann man über's Internet bestellen,
+Konzentrierte Natronlauge in Pulverform kann man übers Internet bestellen,
 allerdings ist das ein Höllenzeug, das nicht nur verstopfte Abflüsse freiätzt,
 sondern auch hitzig reagiert, wenn es mit Wasser in Berührung kommt.
 Die vorgeformten Brezenrohlinge taucht man deshalb nur kurz in eine
@@ -414,7 +414,7 @@ verwenden, sonst kracht's und der Brezenbäcker muss in die Notaufnahme!
 
 <pic images/pretzel-dough-knead.ps Die Küchenmaschine mit Teighaken knetet den Brezelteig.>
 
-Hefe verkaufen Supermärkte in Amerika nicht wie in Deutschland als Naßhefe in
+Hefe verkaufen Supermärkte in Amerika nicht wie in Deutschland als Nasshefe in
 kleinen Packerln aus Backpapier, sondern als pulverisierte Trockenhefe.
 Das heißt, in normalen Zeiten verkaufen sie's. Gegenwärtig scheint ein
 Hausbackboom ausgebrochen zu sein, denn überall ist die Hefe aus, nur hin und
@@ -438,16 +438,16 @@ Backblech. Grobes Salz auf die Brezen und in den auf 420 Grad Fahrenheit (215
 Grad Celsius) vorgeheizten Backofen rein. Nach 20 Minuten rausnehmen und auf
 einem Gitter abkühlen lassen. Fertig!
 
-<pic images/pretzel-raw.ps Kunstvoll gedrexelte Brezenrohlinge.>
+<pic images/pretzel-raw.ps Kunstvoll gedrechselte Brezenrohlinge.>
 
 Das Ganze erfordert etwas Übung, damit die Brezen auch schön groß
 werden und eine glatte Oberfläche bekommen, und damit der Bäcker nicht
 gleich ausflippt, wenn der Teig noch etwas klebt, sondern einfach etwas
 Mehl auf die Finger macht. Die fertigen Brezen werden außen knusprig,
-innen weich und schmecken großartig, am Besten natürlich frisch
+innen weich und schmecken großartig, am besten natürlich frisch
 verzehrt, aufheben bei Backwaren ist meist nicht der Bringer.
 Und, ich habe natürlich auch 
-<LINK>https://www.youtube.com/watch?v=1BGGU3KeprU|mein eigenes Brezenbackvideo für Youtube||Michaels Brezenbackvideo</LINK> gedreht, schaut's rein, liked's
+<LINK>https://www.youtube.com/watch?v=1BGGU3KeprU|mein eigenes Brezenbackvideo für YouTube||Michaels Brezenbackvideo</LINK> gedreht, schaut's rein, liked's
 und subscribed's, wie die Profis dort sagen.
 
 @Z: Ab zum Covid-Test
@@ -468,12 +468,12 @@ Bei anderen Teststellen bekam man nur einen Test nach vorheriger
 Videokonferenz, was auch etwas umständlich war.  Dann machte uns unsere Leitung
 auf das sogenannte "Project Baseline" aufmerksam. Die haben Testcenter überall
 in der Bay Area, arbeiten mit den lokalen und staatlichen Behörden zusammen und
-der Test steht auch Leuten ohne Symptomen zur Verfügung und ist kostenlos.
+der Test steht auch Leuten ohne Symptome zur Verfügung und ist kostenlos.
 Allerdings verbirgt sich hinter dem Project Baseline die Firma Verily, was eine
 Tochterfirma von Alphabet ist, der Google-Firma.
 Verily stampfte das Project Baseline nicht etwa wegen Corona aus der
 Erde, sondern ist allgemein daran interessiert, wie Daten und
-Forschungsergebnissse für den Einzelnen genutzt werden können, um seine
+Forschungsergebnisse für den Einzelnen genutzt werden können, um seine
 Gesundheit zu verbessern.  Die Covid-Testerei läuft über die Google-Plattform,
 denn um einen Termin auszumachen, muss man eigentlich über einen
 Google-E-Mail-Account verfügen oder einen neuen einrichten. Das nun besorgte
@@ -487,7 +487,7 @@ Wie läuft das Ganze nun ab? Ich ging auf die
 drückte auf den "Get Started" Knopf und musste mich dann mit meiner E-Mail
 anmelden. Dann gilt es, einige Formulare elektronisch zu unterschreiben, in
 denen man versichert, dass man 18 Jahre alt ist und sich bereit erklärt, dass
-es zum Beispiel okay ist, dass die Covidprobe an ein Labor geschickt und die
+es zum Beispiel okay ist, dass die Covid-Probe an ein Labor geschickt und die
 Daten zu diesem Zweck mit diesem Labor ausgetauscht werden. Dann füllte ich
 online einen Fragebogen bezüglich Corona aus, also zum Beispiel mein Alter,
 Symptome, Vorerkrankungen, erhöhtes Risiko durch den Beruf, und so weiter, und
@@ -496,7 +496,7 @@ dann geht es endlich an die Terminvergabe.
 Mir wurden freie Termine bei Teststellen in der näheren Umgebung vorgeschlagen.
 Ich suchte mir einen Termin bei einem Testzentrum in San Mateo aus, das sich
 praktisch fast gegenüber unserer Schule auf einem Messegelände befindet. Ich
-musste auch meine Krankenkassennummern zur Terminvergabe angeben, diese wird in
+musste auch meine Krankenkassennummer zur Terminvergabe angeben, diese wird in
 Kalifornien nämlich zur Kasse gebeten. Hat man keine, kostet der Test aber nichts. Ich
 habe den Test ja jetzt schon einige Male gemacht und manchmal sind alle Termine
 weg.  Aber in der Regel werden jeden Tag neue zur Verfügung gestellt. Ich bekam
@@ -514,15 +514,15 @@ durch das geschlossene Fenster meine Identifizierungsnummer von der E-Mail
 prüfte und meinen Führerschein, um sicherzustellen, dass ich auch die richtige
 Person war.
 
-Nach Prüfung der Personalien brachte wurde ein Plastikbeutel mit den
+Nach Prüfung der Personalien wurde ein Plastikbeutel mit den
 Teströhrchen hinter meinen Scheibenwischer geklemmt. Der eigentliche Test fand
 in einer Messehalle statt, in die ich mit dem Auto einfuhr. Dort kam der Tester
-an und fragte noch mal nach meinem Namen und meinem Geburtstdatum, wieder bei
+an und fragte noch mal nach meinem Namen und meinem Geburtsdatum, wieder bei
 noch verschlossenen Scheiben. Dann musste ich mein Auto\-fenster einen kleinen
 Spalt öffnen. Der Tester reichte mir ein langes Wattestäbchen. Ich schloss mein
 Fenster, zog die Maske von der Nase, sodass der Mund noch bedeckt war. Dann
 führte ich selbst das Wattestäbchen tief in das Naseloch ein und drehte das
-Wattestäbchen zehnmal im ersten Nasenloch und erneute zehnmal im zweiten. Dann
+Wattestäbchen zehnmal im ersten Nasenloch und erneut zehnmal im zweiten. Dann
 schob ich meine Maske über die Nase zurück, öffnete das Fenster wieder einen
 kleinen Spalt und steckte das lange Wattestäbchen in das mir hingehaltene
 Teströhrchen zurück. Dann fuhr ich davon. Nach 1-2 Tagen bekam ich das Ergebnis
@@ -533,7 +533,7 @@ per E-Mail zugeschickt.
 Wenn man einmal im System ist bei Project Baseline, braucht man bei Folgetests
 nur seine Krankenkassennummer anzugeben, um einen Termin zu erhalten, den
 Fragekatalog kann man sich schenken. Mittlerweile ist es allgemein etwas leichter,
-einen Test zu bekommen auch wenn man keine Symptome hat, selbst für Kinder,
+einen Test zu bekommen, auch wenn man keine Symptome hat, selbst für Kinder,
 allerdings erst ab 13 Jahren bei Project Baseline, die Konkurrenzfirma Curative
 macht's ab 5 Jahren. Ich hätte gerne ein paar Fotos beim Testen gemacht. Das war
 allerdings strengstens verboten.
@@ -543,7 +543,7 @@ allerdings strengstens verboten.
 <pic images/dolores.ps Biden-Anhänger feiern den Wahlsieg im Dolores-Park.>
 
 <em>Angelika</em> Am Samstag, dem 7. November lagen wir noch gemütlich im Bett
-und lasen, als plötzlich Jubeln und Topfschlagen los ging, das immer lauter
+und lasen, als plötzlich Jubeln und Topfschlagen losging, das immer lauter
 wurde.  Biden hatte nach zermürbenden Tagen des Wartens und Auszählens die
 Präsidentschaftswahl gewonnen, weil der Bundesstaat Pennsylvania an ihn
 gegangen war.  Im Jubel drückte sich die Erleichterung aus, die viele in der
@@ -561,11 +561,11 @@ langweilig werden, wenn nur endlich Ruhe einkehrt mit Biden und Harris. Schon
 jetzt ist angenehm, dass wir nicht jeden Morgen mit der Sorge aufwachen, was
 der werte Herr Trump jetzt schon wieder mit einem Tweet losgelöst hat. Ja, er
 zweifelt immer noch an seiner Wahlniederlage, und wir fragen uns schon, wie es
-sein kann, dass soviele republikanische Politiker in Washington ihm noch die
+sein kann, dass so viele republikanische Politiker in Washington ihm noch die
 Treue halten. Aber dennoch bereiten sich viele seiner Parteifreunde auf eine
 neue Ära vor.
 
-Wieviel Biden bewirken kann, liegt auch daran, ob im Senat die Republikaner
+Wie viel Biden bewirken kann, hängt auch davon ab, ob im Senat die Republikaner
 weiterhin die Mehrheit haben werden. Dies entscheidet sich am 5.  Januar in
 Georgia, denn dort geht es in die Stichwahl für die zwei Senatorensitze. Falls
 der Senat aber in republikanischer Hand bleibt, wird es schwer für Biden, denn
