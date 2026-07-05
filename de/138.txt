@@ -5,33 +5,33 @@ San Francisco, den 25.04.2021
 <pic images/vax-lane.ps Das Spritzerl bekommt man hier im Auto sitzend während man durch das Zelt fährt.>
 
 <em>Angelika</em> Das ganze letzte Jahr saßen wir gefühlt im Dauerlockdown, und alle Welt
-hat die USA zurecht bemitleidet. Denn es sah so aus, als ob dieses große Land die
+hat die USA zu Recht bemitleidet. Denn es sah so aus, als ob dieses große Land die
 Pandemie nicht in den Griff bekommen würde. Jetzt scheint sich alles umgedreht
 zu haben, denn nach anfänglichen Stolpersteinen ist die Impfkampagne gut
 angelaufen. In San Francisco haben mittlerweile 60% ihre erste Impfung erhalten
 und fast 40% sind vollständig geimpft. Es gibt mittlerweile keine
-Priorisierung mehr, sondern jeder ab 16 kann einen Impftermin ausmachen.
+Priorisierung mehr, sondern jeder ab 16 Jahren kann einen Impftermin ausmachen.
 
 USA-weit sind mittlerweile fast 
 <LINK>https://covid.cdc.gov/covid-data-tracker/#vaccinations|30 Prozent vollständig geimpft|30 Prozent aller Amerikaner sind geimpft</LINK>. Das Gleiche gilt für
 Kalifornien. In den USA erhält der Impfwillige entweder Moderna,
-Pfizer/Biontech oder Johnson and Johnson. Letzteren hat die Gesundheitsbehörde
+Pfizer/Biontech oder Johnson & Johnson. Letzteren hat die Gesundheitsbehörde
 kurzfristig ausgesetzt wegen einiger schwerer Thrombosefälle, aber jetzt ist er wieder verfügbar.
-Andere Impfstoffe wie zum Beispiel Astra Zeneca sind in den USA noch nicht zugelassen.
-Außer bei dem Impfstoff von Johnson and Johnson braucht jeder zwei Dosen, die
+Andere Impfstoffe wie zum Beispiel AstraZeneca sind in den USA noch nicht zugelassen.
+Außer bei dem Impfstoff von Johnson & Johnson braucht jeder zwei Dosen, die
 hier im Abstand von 3-6 Wochen gegeben werden. Ich habe den Impfstoff von
 Pfizer im Abstand von vier Wochen erhalten und bin mittlerweile vollständig
 geimpft. Michael erhielt seine erste Dosis von Moderna an Ostern und die zweite
-gibt es am 1. Mai. Lustigerweise sagt hier keiner Pfizer/Biontech sondern meist
+gibt es am 1. Mai. Lustigerweise sagt hier keiner Pfizer/Biontech, sondern meist
 immer nur Pfizer, während uns auffällt, dass es in der deutschen Presse stets
 Biontech/Pfizer heißt.
 
 Wie läuft das Impfen hier nun genau ab? Auch in den USA lag es in der
 Verantwortung der einzelnen Bundesstaaten, das Impfen zu organisieren und zu
-bestimmen, wer zuerst den Impfstoff bekommt. Die staatliche Gesundsheitsbehörde
+bestimmen, wer zuerst den Impfstoff bekommt. Die staatliche Gesundheitsbehörde
 (CDC = Centers for Disease Control) veröffentlichte dazu Richtlinien. In
 Kalifornien lief das zunächst etwas chaotisch ab. Man einigte sich zwar
-schnell, dass das medizinische und Pflegepersonal, das Coronapatienten
+schnell darauf, dass das medizinische und Pflegepersonal, das Coronapatienten
 versorgt, sowie die über 80-Jährigen zuerst an der Reihe sind, aber dann ging
 das Zerren und Feilschen los. Wer gehörte in die zweite Prioritätengruppe? Die
 Frau an der Kasse im Supermarkt, der Lehrer in der Schule, der Obdachlose, der
@@ -59,13 +59,13 @@ jeder ab 16 zum Impfen anmelden.
 
 <pic images/vax-maze.ps Beim Drive-Through müssen die Autos zunächst durch ein Labyrinth.>
 
-Da ich in einer Schule arbeite war ich ziemlich schnell an der Reihe.
+Da ich in einer Schule arbeite, war ich ziemlich schnell an der Reihe.
 Allerdings lief zu der Zeit auch noch alles nicht so rund, und ich musste mich
 durch das Chaos von dezentralisierten Bestimmungen wühlen. Auch hier weiß die
 eine Hand oft nicht, was die andere tut. Zunächst einmal konnte ich mich bei
 der Stadt San Francisco über die <LINK>https://sf.gov|städtische Webseite</LINK>
 registrieren. Ich beantwortete ein paar Fragen online: Alter,
-Beruf, eventuell vorhandene Vorerkrankungen und ob ich in beengten Verhältnisse
+Beruf, eventuell vorhandene Vorerkrankungen und ob ich in beengten Verhältnissen
 lebe (z.B. im Obdachlosenasyl). Dann gab ich meine E-Mail an, sodass die Stadt
 mich benachrichtigen konnte, sobald ich an der Reihe war. Prompt kam dann auch
 die Bestätigung, dass ich zu den Personen in der Phase 1B gehöre.
@@ -76,15 +76,15 @@ Da meldete ich mich auch an, frei nach dem
 Motto, doppelt hält besser. Dann hieß es abwarten. In Kalifornien entschlossen sich
 die Verantwortlichen, mit großen Gesundheitsorganisationen wie Kaiser Permanente,
 Sutter Health, Stanford Health und in San Francisco auch UCSF
-(Universitätskrankenhaus) zusammen zu arbeiten. Mein Hausarzt ist
+(Universitätskrankenhaus) zusammenzuarbeiten. Mein Hausarzt ist
 mit UCSF verbandelt, und da das Krankenhaus einen guten Ruf in der Forschung hat, schaute ich
-mir immer wieder regelmäßig deren Covid-Informationen an. Und auf einmal
-sah ich dort, dass es dort für Schulpersonal bereits Impfangebote in einer
+mir regelmäßig deren Covid-Informationen an. Und auf einmal
+sah ich dort, dass es für Schulpersonal bereits Impfangebote in einer
 extra eingerichteten Impfklinik gab, obwohl San Francisco noch
 nicht in Phase 1B war.
 
 Also machte ich schnellstens einen Termin über das
-Patientenportal "Mychart" aus. Ich konnte mein Glück kaum fassen, und dachte am
+Patientenportal "MyChart" aus. Ich konnte mein Glück kaum fassen und dachte am
 Anfang, dass es sich um einen Fehler handeln könnte. Aber am Sonntag, dem 14.
 Februar fuhren wir zum UCSF-Komplex an der Parnassus Avenue (UCSF hat Gebäude
 und Krankenhäuser über die ganze Stadt verteilt), und ich erhielt die Spritze
@@ -94,7 +94,7 @@ ausweisen, und sagen, um welche Uhrzeit mein Termin war. Dann führten mich
 Angestellte in einen Raum, der wie ein Klassenzimmer ohne Pulte aussah. Es gab
 mindestens neun solcher Impfzimmer. In meinem waren drei Stühle großzügig im
 Raum verteilt, auf denen zwei bereits Geimpfte zur Beobachtung saßen. Dann gab es
-noch einen Stuhl auf dem geimpft wurde und auf den ich mich setzte.
+noch einen Stuhl, auf dem geimpft wurde und auf den ich mich setzte.
 
 Der Impfer fragte mich noch einmal nach meinem Namen und nach meinem
 Geburtsdatum.  Dann klärte er mich auf, dass ich den Impfstoff von Pfizer
@@ -103,9 +103,9 @@ und ob ich schon einmal allergisch auf einen Impfstoff reagiert hätte. Ich
 musste nicht beweisen, dass ich an einer Schule arbeite, obwohl bei der
 Terminvergabe aufgelistet war, was man als Beweis mitzubringen hätte
 (Gehaltsabrechnung oder Dienstausweis). Dann bekam ich auch schon das
-Spritzlein. Zum Abschluss überreichte mir mein Impfer eine Impfkarte, in der
+Spritzlein. Zum Abschluss überreichte mir mein Impfer eine Impfkarte, auf der
 er von Hand eingetragen hatte, wann und welche erste Dosis ich gerade
-erhalten hatte. Das Dokument ist zwar offiziell von der CDC gestellt, aber
+erhalten hatte. Das Dokument ist zwar offiziell von der CDC bereitgestellt, aber
 sieht wie eine weiße Karteikarte aus, die natürlich null fälschungssicher ist,
 weil noch nicht einmal ein offizieller Stempel darauf prangt.
 
@@ -132,7 +132,7 @@ der Familie geimpft ist und der andere nicht, drängte ich darauf, dass er sich,
 sobald er dran ist, impfen lässt. Mittlerweile gab es zwei große
 Massenimpfzentren in San Francisco, eines im Messecenter, dem Moscone Center,
 in der Innenstadt, und eines am City College beim Balboa Park. Letzteres ist
-ist ein "Drive Thru", das heißt, man wird im Auto sitzend geimpft. Das passte
+ein "Drive Thru", das heißt, man wird im Auto sitzend geimpft. Das passte
 für Michael.
 
 Obwohl das Impfzentrum am City College auch vom Unikrankenhaus
@@ -144,12 +144,12 @@ man es den Impfwilligen nicht unbedingt einfach. Allerdings gab es tatsächlich
 Termine, und wir brausten mit dem Auto Anfang April zur vereinbarten Uhrzeit dorthin.
 Alles war hochprofessionell organisiert. Zunächst
 fuhren wir durch ein Labyrinth aus Verkehrshütchen. Dann musste Michael seinen
-Führerschein zeigen und den Barcode, den er Online erhalten
+Führerschein zeigen und den Barcode, den er online erhalten
 hatte. Der freundliche Mann klebte dann einen roten Post-it-Zettel an unsere
 Windschutzscheibe, zum Zeichen dafür, dass eine Person im Auto einen
 Impftermin hat; bei zweien wären es dementsprechend zwei Post-it-Zettel
 gewesen. Dann fuhren wir auf einen weiteren großen Parkplatz. Ein Dutzend
-Spuren, führten jeweils zu zeltartigen Gebilden zur Einfahrt mit dem Auto.
+Spuren führten jeweils zu zeltartigen Gebilden zur Einfahrt mit dem Auto.
 
 Am Zelt angelangt, wurden zunächst ein paar Dinge abgefragt, die Michael schon
 online beantwortet hatte, aber das ist hier immer so, da sich jeder lieber
@@ -166,7 +166,7 @@ einfach mit dem Auto wieder nach Hause.
 Neben den großen Impfzentren bieten mittlerweile auch die Drogerieketten
 "Walgreens", "CVS" und "Rite-Aid" Impftermine an (<RBLINK>20201220#4</RBLINK>).
 Auch der Megamarkt "Costco" impft
-in der hauseigenen Apotheke. Hausärzte impfen hier allerdings zur Zeit
+in der hauseigenen Apotheke. Hausärzte impfen hier allerdings zurzeit
 nicht. Aber es gibt auch kleinere Impfstellen, bei denen man keinen Termin
 braucht. Man findet sie häufig in dichtbesiedelten Gegenden, oder dort,
 wo hauptsächlich Menschen leben, die der englischen Sprache nicht mächtig sind,
@@ -185,7 +185,7 @@ kümmern sich nicht aktiv um einen Termin. In der New York Times las ich auch,
 dass acht Prozent ihren zweiten Termin nicht wahrnehmen, weil sie entweder
 Angst vor den Nebenwirkungen haben, oder meinen, dass eine Dosis reicht. Bei
 manchen wurde auch der zweite Termin abgesagt, weil der Impfstoff fehlte, und
-sie danach einfach aufgaben, was kein Problem bei Johnson and Johnson ist, da
+sie danach einfach aufgaben, was kein Problem bei Johnson & Johnson ist, da
 braucht man nur eine Dosis. Dann hoffen wir mal, dass die Leute das Vertrauen
 nicht verlieren. Ich kann es nämlich gar nicht mehr abwarten, bis der
 Corona-Spuk endlich vorbei ist.
@@ -197,7 +197,7 @@ Corona-Spuk endlich vorbei ist.
 <em>Michael</em> An meinen ersten Besuch beim Elektronik-Discounter "Fry's
 Electronics" vor 24 Jahren kann ich mich noch gut erinnern. Wir waren gerade
 nach Kalifornien gezogen, der Goldrausch im Silicon Valley war in vollem Gange,
-und jeder, der Computerkomponenten käuflich zu erwerben suchte, hang regelmäßig
+und jeder, der Computerkomponenten käuflich zu erwerben suchte, hing regelmäßig
 in einer der vielen verstreuten Fry's-Filialen herum, um die unglaublichen
 Preise und die noch unglaublicheren Rabatte zu bestaunen. Bei Fry's sah ich zum
 ersten Mal, dass eine Ware in einem Kaufhaus zu einem negativen Preis angeboten
@@ -206,8 +206,8 @@ Mail-In-Rebate zurückerstattet bekam.
 
 Jede Filiale war nach einem bestimmten Motto dekoriert, der Laden in San Jose
 an der Brokaw Road als Pyramide im Land der Pharaonen, an der Ladenzeile in
-Burbanks brach ein monströses UFO durch die Mauer, und in der Filiale in Palo
-Alto zeigten Cowboys und Indianer des wilden Westens wie es im 19. Jahrhundert
+Burbank brach ein monströses UFO durch die Mauer, und in der Filiale in Palo
+Alto zeigten Cowboys und Indianer des wilden Westens, wie es im 19. Jahrhundert
 in der Gegend zuging. Konzertflügel in Originalgröße standen herum, automatisch
 klassische Werke klimpernd. Und nicht zu vergessen der gigantische
 Zeitschriftenstand, der das aktuelle "Linux Magazine" führte, das Vehikel der
@@ -224,26 +224,26 @@ Fry's als private Firma nicht an der Börse notiert war, konnte auch niemand in
 die Bücher gucken und abschätzen, wie lange das Imperium sich noch halten
 würde.
 
-<pic images/frys-burbanks.ps IM Fry's Electronics in Burbanks kracht ein UFO durch die Mauer. Foto: flickr[bryce_edwards|bryce_edwards/229692591]>
+<pic images/frys-burbanks.ps Im Fry's Electronics in Burbank kracht ein UFO durch die Mauer. Foto: flickr[bryce_edwards|bryce_edwards/229692591]>
 
 Allerdings operierte der Laden immer schon am Rande der Legalität, es war
 allseits bekannt, dass sie umgetauschte Produkte einfach wieder in Plastikfolie
 einschweißten und als neu verkauften, was in Amerika illegal ist. Auch sah ich
 bei meinen spärlicher werdenden Besuchen immer missmutigere und
-verzweifelte Angestellte, sodass ich seit bestimmt fünf Jahren Geld darauf
+verzweifeltere Angestellte, sodass ich seit bestimmt fünf Jahren Geld darauf
 gewettet hätte, dass der Laden bald dichtmacht.  In letzter Zeit machten sich
-sogar einige Youtuber auf, um verstreute Filialen zu besuchen und
+sogar einige YouTuber auf, um verstreute Filialen zu besuchen und
 mit den Fingern und besorgter Miene auf die leeren Regale zu deuten.
 
 Nun ist es offiziell: Fry's hat im Februar 2021 endgültig Bankrott angemeldet
 und alle Läden geschlossen. Die Schlacht ist verloren, aber "It was good while
-it lastet", wie der Amerikaner sagt.
+it lasted", wie der Amerikaner sagt.
 
 @Z: Amazon-Retouren im Supermarkt
 
 <pic images/amzn-return-kohl.ps Amazon nutzt strauchelnde Kaufhausketten für seine Retouren.>
 
-<em>Michael</em> Hin und wieder müssen wir Online erworbene Ware wieder
+<em>Michael</em> Hin und wieder müssen wir online erworbene Ware wieder
 umtauschen, sei es, dass ein Kleidungsstück nicht passt oder ein elektrisches
 Trumm nicht wie gewünscht funktioniert.  Kein Problem!  Bei Amazon ist der
 Kunde noch König, Umtauschen geht dort recht unkompliziert, einfach wieder einpacken,
@@ -259,8 +259,8 @@ und kostengünstig abzuwickeln.
 
 So begann Amazon bei uns in Kalifornien vor einer Weile damit, die Rücksendung
 nicht gewünschter Waren über Filialen der Warenhauskette "Kohl's" abzuwickeln.
-Dückte man auf der Webseite den Knopf zur Rücksendung, kam ein QR-Code zum
-Vorschein, mit dem man (gerne auch nicht auf Papier sondern nur auf der Anzeige
+Drückte man auf der Webseite den Knopf zur Rücksendung, kam ein QR-Code zum
+Vorschein, mit dem man (gerne auch nicht auf Papier, sondern nur auf der Anzeige
 des Smartphones) zur nächsten Kohl's-Filiale marschierte, wo man, Schildern
 folgend, quer durch den Laden in einen hinteren Winkel gelotst wurde, wo ein
 Angestellter die Ware (auch gerne nicht eingepackt) entgegennahm, den Code mit
@@ -273,7 +273,7 @@ Kohl's ist eine dieser Kaufhausketten, bei der man sich fragt, warum sie
 Verkaufsflächen verwaist, und die einzige missmutige Angestellte an der
 einzigen offenen Kasse braucht 10 Minuten, um 3 Kunden abzufertigen. So ein
 Geschäftsmodell ist eigentlich nur im Sozialismus der DDR vorstellbar, aber
-anscheinend legen Kohl-Aktionäre keinen Wert auf Dividenden oder
+anscheinend legen Kohl's-Aktionäre keinen Wert auf Dividenden oder
 Kurssteigerungen, und so dümpelt der marode Konzern weiter vor sich hin.  Vom
 Amazon-Fritzen am Umtauschschalter erhielt ich bei meinem Besuch sogar einen
 Promotions-Gutschein über $10 für Einkäufe bei Kohl's.  Freebies generell nicht
@@ -293,7 +293,7 @@ man das umzu\-tauschende Teil einfach unverpackt in die Hand gibt. QR-Code
 gescannt, fertig. Und, ja, Milch brauchen wir noch, und Wurst, gleich
 mitnehmen!
 
-Und, erst gestern ist mir noch etwas Skurileres passiert: Ich hatte einen
+Und erst gestern ist mir noch etwas Skurrileres passiert: Ich hatte einen
 Festplatten-Adapter bei Amazon zum Preis von 6 Dollar bestellt, aber das Teil
 funktionierte nur sporadisch, also setzte ich an, die Rücksendung einzuleiten.
 Kaum hatte ich eingetippt, dass das Gerät fehlerhaft war, bot mir Amazon einen
@@ -312,7 +312,7 @@ mit Containern vollbeladene Schiffe in der San Francisco-Oakland-Bucht vor dem
 Hafen von Oakland aufreihen und im Stau stehen. Dies ist nicht etwa erst der
 Fall, seitdem das Containerschiff im Suezkanal feststeckte. In San Francisco
 gibt es übrigens keinen Hafen mehr, der Containerschiffe abfertigen kann, aber
-in Oakland, was auf der anderen Seite der Bucht liegt, schon.
+in Oakland, das auf der anderen Seite der Bucht liegt, schon.
 
 Der Hafen in Oakland gilt als einer der fünf wichtigsten Häfen in den USA. In
 Oakland wurden schon damals bei unserem Umzug in die USA unsere Sachen
@@ -349,7 +349,7 @@ sich wohl auf einem dieser großen Containerschiffe befindet. Und auch der
 große Megamarkt Costco hat Schwierigkeiten, einige Produkte wie den
 <LINK>https://www.usatoday.com/story/money/business/2021/03/10/costco-cheese-shortage-due-shipping-container-shortage/6944437002/|leckeren importierten Käse aus Frankreich|Lieferengpass bei französischem Käse</LINK>
  auf seine Regale zu bekommen, ausgelöst durch die Probleme im Schiffsverkehr.
-Hoffentlich nimmt das Schiff mit dem teuren Käse bald wieder fahrt auf, eine Käseunglück
+Hoffentlich nimmt das Schiff mit dem teuren Käse bald wieder Fahrt auf, ein Käseunglück
 hätte uns gerade noch gefehlt!
 
 @Z: Saison für Dungeness Crab
@@ -360,14 +360,14 @@ hätte uns gerade noch gefehlt!
 ersten Mal
 <LINK>https://en.wikipedia.org/wiki/Dungeness_crab|Dungeness Crab</LINK>
 aß. Wir waren im Wine-Country, oben im Napa Valley, in einer
-mittlerweile nicht mehr exisitierenden Wirtschaft namens "Tra Vigne", hatten in
+mittlerweile nicht mehr existierenden Wirtschaft namens "Tra Vigne", hatten in
 dem übervollen Restaurant gerade noch einen Platz an der Bar ergattert, und
 ich bestellte als Tagesmenü so einen Riesenkrebs zusammen mit einer mir damals
 unbekannten Biersorte, "India Pale Ale", von dem ich zunächst dachte, sie käme
 aus Indien. Okay, Leute, das war vor zwanzig Jahren, heutzutage kennt das
 natürlich jeder Depp.  Ungeschickt hantierte ich mit der Knackzange, puhlte das
 Fleisch fitzelchenweise aus den Beinpanzern, bis ich ganz fettige Finger hatte.
-Es schmeckte hervorragend, und seit dem ist IPA mein Lieblingsbier.
+Es schmeckte hervorragend, und seitdem ist IPA mein Lieblingsbier.
 
 <pic images/crab-fishing.ps An San Franciscos "Ocean Beach" Strand fischen viele nach Dungeness Crab.>
 
@@ -380,19 +380,19 @@ in der Restaurantküche meist schon vor dem eigentlichen Kochen entfernt, damit
 es nicht den Geschmack des Muskelfleisches beeinträchtigt. Wenn sich der Gast
 also nach dem Verspeisen der Beinchen denkt "oho, jetzt schreite ich zum
 Hauptgang und nehme den Brustpanzer des Arrangements ab", wird er eines Besseren
-belehrt, denn darunter befindet sich, dank der Vorabeit des Kochs, nur noch
+belehrt, denn darunter befindet sich, dank der Vorarbeit des Kochs, nur noch
 gähnende Leere.
 
 Die Zubereitung ist denkbar simpel, man kocht sie einfach in Salzwasser, bis sie
 ganz rot sind und pinselt vielleicht noch etwas Butter darauf oder serviert sie
-mit Buttersauce zum Tunken. Vietnamesiche Restaurants wie zum Beispiel das
+mit Buttersauce zum Tunken. Vietnamesische Restaurants wie zum Beispiel das
 Thanh Long in San Francisco dünsten Dungeness Crab aufwändig in ihrer
 Knoblauchküche, das ist ebenfalls super lecker, aber man sollte am Tag darauf
 nicht auf die Idee kommen, im Büro jemanden unter zwei Meter Abstand
 anzusprechen. Wegen der magischen Preisgrenze von 50 Dollar, über der sich kaum
 mehr ein Gericht in einer Gaststätte verkaufen lässt, sind schon viele
-Restaurants dazu über gegangen, statt lokal gefangener Krustentiere einfach
-billige gefrorene und oft schon vorgekochte Dungeness Crab von gottweißwo her
+Restaurants dazu übergegangen, statt lokal gefangener Krustentiere einfach
+billige gefrorene und oft schon vorgekochte Dungeness Crab von Gott weiß woher
 zu servieren, aber die schmecken nicht so frisch.
 
 <pic images/crab-ob.ps Am Ocean Beach in San Francisco fangen viele Hobbyfischer Dungeness Crab.>
@@ -405,13 +405,13 @@ länglichen Panzer entfernt. Die sind ebenfalls sehr lecker, aber halt eine ganz
 andere kulinarische Kategorie.  Auf Wikipedia steht hingegen, dass man auf
 Normaldeutsch mit dem Wort "Krabbe" durchaus auch solche Zehnbeiner wie die
 Dungeness Crab bezeichnen kann, allerdings kommt diese Art nur im Nordpazifik
-hier bei uns vor der Haustüre vor, und nicht im Atlantik, Nordsee oder dem
+hier bei uns vor der Haustüre vor, und nicht im Atlantik, in der Nordsee oder im
 Mittelmeer.
 
 Krabben sind wie alle Krustentiere sehr zählebig und kaum auf humane Weise
-totzukriegen. Die einfachste Zubereitungsart ist es deswegen, die noch lebende
+totzukriegen. Die einfachste Zubereitungsart ist es deswegen, die noch lebende,
 aber durch Kühlen im Kühlschrank betäubte Krabbe in brodelndes Salzwasser zu
-werfen. Der unter dem Brustpanzer sitzende Schlotz und das Kiemengedärm trübt aber
+werfen. Der unter dem Brustpanzer sitzende Schlotz und das Kiemengedärm trüben aber
 etwas das Wasser und damit den Geschmack des reinen Beinfleisches. Manche
 Feinschmecker schwören allerdings auf diesen "buttrigen" Geschmack, der
 hauptsächlich von der Leber des Krustentieres kommt, die allerdings auch
@@ -437,7 +437,7 @@ eigenes Salz und hätte Geschmackseinbußen zur Folge.
 
 Asiatische Märkte in und um San Francisco verkaufen Dungeness Crab während der
 Saison frisch und lebend für etwa $10 das Pfund. Man deutet auf ein Aquarium
-mit hunderten zappelnden Krabben, der Verkäufer fischt die gewünschten heraus,
+mit Hunderten zappelnden Krabben, der Verkäufer fischt die gewünschten heraus,
 und verpackt sie in eine Tüte, worin sie dann weiter herumzappeln. So fährt man
 sie schnell heim, nimmt sie aus der Tüte, und stellt sie dort in einem Bottich
 mit Eis und einem nassen Handtuch darüber in den Kühlschrank.  Nach 15 bis 30
@@ -447,7 +447,7 @@ Schraubenzieher oder dem oben beschriebenen Crab-Teal-Werkzeug den Garaus.
 Noch lebende Krabben fasst man übrigens nur von hinten an, mit dem Daumen oben
 am Panzer und den vier restlichen Fingern an der Unterseite. Wer den Fehler
 macht, in die Reichweite der mächtigen Scheren zu kommen, wird das schnell
-bereuen. Auf Youtube kann man einsehen, wie gemein diese scharfen Werkzeuge
+bereuen. Auf YouTube kann man einsehen, wie gemein diese scharfen Werkzeuge
 menschliche Finger einzwicken können. Da die Krabbe aber nur nach vorne und zur
 Seite schnappen kann, sind die Finger des Kochs beim Greifen von hinten sicher.
 Handschuhe schaden aber nicht.
@@ -458,7 +458,7 @@ praktisch überall entlang der Westküste runter nach Süden, bis das Wasser des
 Ozeans irgendwo bei Los Angeles zu warm wird.  Damit die Fischer nicht den
 Bestand bedrohen, dürfen die Krabben nur während einer jährlich neu
 festgelegten Saison gefangen werden, dieses Jahr läuft sie zwischen dem 7.
-November 2020 und dem 30. Juli 2021.  Nur Exemplare, die ein Mindesmaß von 5
+November 2020 und dem 30. Juli 2021.  Nur Exemplare, die ein Mindestmaß von 5
 3/4 Inches (14,6cm) waagerecht über den Brustpanzer messen, dürfen die Fischer behalten,
 verfängt sich ein kleineres Kerlchen in den Schlingen, werfen sie es wieder
 zurück ins Wasser.
@@ -470,7 +470,7 @@ werfen große Metallkörbe aus (wie in der Fernsehsendung "The Deadliest Catch")
 in die die Krabben hineinkrabbeln, um die darin versteckten Köder zu
 verschnabulieren. Heraus kommen sie nicht mehr, da ihre Intelligenz nicht dazu
 ausreicht, die Klapptüren von innen zu öffnen. Hobbyfischer hingegen arbeiten
-mit einer stinknormalen Angel, an der statt einem Haken ein Arrangement von
+mit einer stinknormalen Angel, an der statt eines Hakens ein Arrangement von
 Plastikschlingen hängt ("crab snare"). Daran wiederum hängt ein Köder, meist
 ein kleiner Tintenfisch, den die Fischer in der Köderabteilung eines
 Fischereifachgeschäfts erwerben. Widmet sich nun die Krabbe dem Köder, verfängt
@@ -478,7 +478,7 @@ sie sich mit ihren langen Beinen oft hoffnungslos in den Schlingen. Der Fischer
 merkt dann, dass etwas an der Angel zappelt, und zieht den Fang vorsichtig an
 Land. Die Vorschriften legen fest, dass der Fischer nur voll ausgewachsene
 Krabben behalten darf, oder das Exemplar muss zurück ins Meer. Es laufen
-übrigens, sogar im gesetzlosen San Francisco, tatsächlich Park Ranger herum,
+übrigens, sogar im gesetzlosen San Francisco, tatsächlich Park-Ranger herum,
 die kontrollieren, ob Strandangler eine entsprechende Lizenz vorweisen können,
 und schielen auch in die Kübel mit den gefangenen Krabben, um zu sehen, ob
 diese das erforderliche Mindestmaß aufweisen.
