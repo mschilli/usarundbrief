@@ -7,8 +7,8 @@ San Francisco, den 01.12.2019
 <em>Michael</em> Im Urlaub fahren wir in fremden Städten regelmäßig mit
 Mietwägen herum, allerdings bucht man dann eine "Kategorie" und keinen
 bestimmten Autotyp. Bei Sixt in München ist es mir mal passiert, dass ich die
-Klasse "VW Golf GTI" gebucht habe, und am Schalter versucht wurde, mir einen Opel Mandriva,
-einen Minivan für Fußballmutties, anzudrehen. In Las Vegas buchte ich mal einen
+Klasse "VW Golf GTI" gebucht habe, und am Schalter versucht wurde, mir einen Opel Meriva,
+einen Minivan für Fußballmuttis, anzudrehen. In Las Vegas buchte ich mal einen
 Prius, aber als ich dann dort aufkreuzte, war kein Prius da.  Ich machte
 Rabatz, und ließ mich schließlich mit einem japanischen Sportwagen, einem
 Infiniti G37S, besänftigen.  Aber ich wollte schon immer mal einen Prius
@@ -21,12 +21,12 @@ vier Liter schlucken, aber in Amerika geht's nun mal nicht unter 100 PS.
 
 <pic images/prius-chatta.ps Michael posiert auf unserem Haushügel in einem Prius C von Turo.>
 
-Nun machte sich jüngst die Firma Turo auf, den Paragraphendschungel der
+Nun machte sich jüngst die Firma Turo auf, den Paragrafendschungel der
 Vorschriften und Versicherungen für kommerzielle Autovermieter aufzubrechen
-(wie AirBnB für Hotels und Uber für Taxis), und als Agentur zu agieren, mittels
+(wie Airbnb für Hotels und Uber für Taxis), und als Agentur zu agieren, mittels
 der Privatleute ihre Autos an andere Privatleute vermieten. In Deutschland gibt
 es die Firma meinen Recherchen zufolge übrigens ebenfalls schon! Mittels einer
-Smarphone-App wählt man aus einem reichhaltigen Angebot von Autos aus, macht
+Smartphone-App wählt man aus einem reichhaltigen Angebot von Autos aus, macht
 einen "Trip" aus, und dann trifft sich der Mieter ("Guest") zum Abholtermin mit
 dem Vermieter ("Host") zur Schlüsselübergabe, und los geht's.  Per App macht
 man bei Abholung und Rückgabe jeweils Fotos vom Auto, damit sichergestellt ist,
@@ -38,10 +38,10 @@ sich ein Bild von beiden machen können.
 
 Neuere Prius-Modelle gab es in San Francisco bei Turo für etwa 60 Dollar
 pro Tag zu mieten, und ich wählte eine Vollkaskoversicherung mit einer hohen
-Selbstbeteiligung ($3000), die weitere $15 Dollar pro Tag kostete. Insgesamt
+Selbstbeteiligung ($3000), die weitere 15 Dollar pro Tag kostete. Insgesamt
 ein lohnender Spaß fürs Wochenende. Für Luxuskarossen zahlt man allerdings
-etwas mehr, für einen Tesla Model S zum Beispiel rund $150. Aber gut, das ist
-natürlich viel billiger als der Anschaffungspreis von $80.000. Da Privatautos
+etwas mehr, für einen Tesla Model S zum Beispiel rund 150 Dollar. Aber gut, das ist
+natürlich viel billiger als der Anschaffungspreis von 80.000 Dollar. Da Privatautos
 die meiste Zeit eh bloß dumm rumstehen, ist das Geschäft für Mieter und
 Vermieter gleichermaßen lohnend, der Vermieter kriegt einen Teil seiner
 immensen Anschaffungs- und Wartungskosten erstattet, und der Mieter hat die
@@ -55,13 +55,13 @@ Abholung und Rückgabe klappten bei unserem Selbstversuch reibungslos. Der
 Verleiher entpuppte sich als ausgesprochen netter Mensch in einem
 Nachbarviertel, der sich sogar die Zeit nahm, mir die verschiedenen
 Energiesparmodi des Fahrzeugs zu erklären und einige gute Fahrtipps zu geben. Es
-machte Spaß, mit dem Wägelchen unsere üblichen Wochenenroutinen zu erledigen:
+machte Spaß, mit dem Wägelchen unsere üblichen Wochenendroutinen zu erledigen:
 Lebensmittel einkaufen, zu Ikea fahren, zum Fußballplatz, und so weiter.  Der
 Prius C, die kurze Version des Originalmodells, ist natürlich kein
 Sportbolide, aber man gewöhnt sich daran, nach einer Weile ist das Fahren
 deutlich entspannter, und man versucht automatisch, das Gasgeben so zu
 beschränken, dass die Anzeige im Eco-Modus und der Benzinmotor ausbleibt -- gut,
-vielleicht ein Grund dafür, dass Prius-Fahrer als elende Schleicher verschrieen
+vielleicht ein Grund dafür, dass Prius-Fahrer als elende Schleicher verschrien
 sind. Ich habe sogar getestet, ob mein großes, 2,40m langes Surfboard reinpasst
 (check!) und ein neuer bei Ikea gekaufter Schreibtischstuhl ließ sich mühelos
 durch die Heckklappe auf die durch Sitzumklappen vergrößerte Ladefläche
@@ -76,7 +76,7 @@ normalerweise beim Auto, wenn wir also zum Beispiel unser Auto an einen Freund
 verleihen, und der baut einen Unfall, haftet unsere Haftpflichtversicherung für
 den Fremdschaden -- allerdings zum Klang unserer nach oben schnellenden
 Prämien. Vermietet ein Privatmann sein Auto auf Turo, schiebt dessen
-Haftpflicht aber im allgemeinen einen Riegel vor, kommerzieller Autoverleih ist
+Haftpflicht aber im Allgemeinen einen Riegel vor, kommerzieller Autoverleih ist
 meist im Vertrag explizit ausgeschlossen. Allerdings hat Turo hier vorgesorgt
 und mit einem großen amerikanischen Versicherer (Liberty Mutual) eine
 Gruppenversicherung abgeschlossen, mit der jedes durch Turo vermietete Auto mit
@@ -99,7 +99,7 @@ hinzugekaufte.  Bei einem Unfall darf sich der Mieter ohne Zweifel auf ein paar
 Runden "Buchbinder Wanninger" am Telefon einstellen. Hingegen kostet die
 Vollkasko-Versicherung, die bei Schäden am Mietwagen einspringt, je nach
 Selbstbeteiligung zwischen 18% und 80% des Mietpreises. Bei 18% muss der Mieter
-bei einem Schaden am Auto $3000 selber zahlen, bevor die Versicherung
+bei einem Schaden am Auto $3000 selbst zahlen, bevor die Versicherung
 einspringt. Bei 80% zahlt die Versicherung alles, allerdings gibt's diese
 Variante nur bei Fahrzeugen, die weniger als $35.000 kosten.
 
@@ -140,9 +140,9 @@ Autopiloten einzuschalten, der den Abstand zum Vordermann sowie die Spur auf
 dem Freeway hält.  Diese Funktion setzt sogar selbständig zum Überholen an,
 wenn man den Blinker betätigt, aber das war mir dann doch zu riskant. Vor dem
 Zurückgeben des Fahrzeugs wollte der Eigentümer noch, dass ich den Tesla durch eine
-automatische Waschanlage fahre, und als ich dort ankam fiel mir siedendheiß
+automatische Waschanlage fahre, und als ich dort ankam, fiel mir siedendheiß
 ein, dass man dafür ja den Gang "N" wie Neutral (also Leerlauf) einlegen
-muss, aber wie geht das mit einem Hebel der nur "R" für "Reverse" und "D" für
+muss, aber wie geht das mit einem Hebel, der nur "R" für "Reverse" und "D" für
 "Drive" hat? Zum Glück sah ich einen Waschanlagenmann vor der bereits gefährlich
 rotierenden Bürste, und ich kurbelte das Fenster runter und fragte schnell, wie
 man einen Tesla auf "N" stellt. Der kannte das Problem schon, und langte einfach
@@ -162,8 +162,8 @@ unter der Aufsicht des jeweiligen Bundesstaates stehen. Kalifornien hat allein
 280 State Parks und gehörte zu den Bundesstaaten, die den Naturschutz mit
 Hilfe des State-Park-Systems früh vorantrieben. Der kalifornische Goldrausch,
 in dem viele Landschaften gnadenlos verschandelt und ausgebeutet wurden, um
-Gold zu schürfen, führte nämlich schon 1864 dazu, dass im Yosemite Tal Land
-unter Naturschutz gestellt wurde, mit dem Ziel das Land zu erhalten und der
+Gold zu schürfen, führte nämlich schon 1864 dazu, dass im Yosemitetal Land
+unter Naturschutz gestellt wurde, mit dem Ziel, das Land zu erhalten und der
 Bevölkerung für Erholungszwecke zur Verfügung zu stellen.
 
 <pic images/vof-climber.ps Michael posiert als Kletterer im Valley of Fire.>
@@ -185,29 +185,29 @@ Celsius, klettern aber auch schon mal auf knackige 50 Grad hoch.
 Wer wandert, muss gestärkt sein, und so holten wir uns in dem kleinen Örtchen
 Overton, das gleich um die Ecke vom "Valley of Fire" liegt, ein deftiges
 Sandwich in dem Laden mit dem schönen Namen "The Inside Scoop". Wobei sich
-"Scoop" auf eine Eiskugel bezieht, denn in dem Establissement gab es nicht nur
+"Scoop" auf eine Eiskugel bezieht, denn in dem Etablissement gab es nicht nur
 herzhafte belegte Brote, sondern auch selbstgemachtes Eis. Mein Sandwich war so
-dick belegt, das ich es später kaum in den Mund bekam, ein untrügliches
+dick belegt, dass ich es später kaum in den Mund bekam, ein untrügliches
 Zeichen, dass wir uns in der Pampa  befanden, wo die Essensportionen
 proportional zu der nicht vorhandenen Bevölkerungsdichte zu wachsen scheinen.
 
-<pic images/vof-petrified.ps Ein versteinerte Baum im Valley of Fire bei Las Vegas.>
+<pic images/vof-petrified.ps Ein versteinerter Baum im Valley of Fire bei Las Vegas.>
 
 Im Park  zahlten wir zunächst den Eintritt von 10 Dollar pro Auto über ein
 Selbstzahlungssystem. Der Besucher schnappt sich dabei am Eingang des Parks
-einen kleinen von der Parkbehörde bereit gestellten Umschlag aus einer braunen
+einen kleinen von der Parkbehörde bereitgestellten Umschlag aus einer braunen
 briefkastenähnlichen Vorrichtung. Dann trägt er in der Regel seinen Namen,
 Autokennzeichen und das Datum des Besuchs auf der Vorderseite des Umschlags ein
-(in der Hoffnung dass der bereit gestellte Stift funktionert), packt 10 Dollar
+(in der Hoffnung, dass der bereitgestellte Stift funktioniert), packt 10 Dollar
 in den Umschlag (ja manchmal braucht man auch in den USA noch passend
 abgezähltes Bargeld), klebt den Umschlag zu und reißt den kleinen
 Kontrollabschnitt vom Briefumschlag ab, den man dann sichtbar auf das
-Amaturenbrett ins Auto legt, nachdem der mit Geld gefüllte Briefumschlag in dem
+Armaturenbrett ins Auto legt, nachdem der mit Geld gefüllte Briefumschlag in den
 Schlitz des briefkastenähnlichen Gebildes deponiert wurde. Nach diesem
 bürokratischen Akt mussten wir uns dann erst einmal stärken und suchten uns ein
 lauschiges Plätzchen an einem Picknicktisch unter einem riesigen Felsen, der
 schön Schatten spendete in der trockenen Wüstenlandschaft und aßen unsere
-Sandwiche, was dutzende kleine Erdhörnchen gleich aus ihren Löchern lockte,
+Sandwiches, was Dutzende kleine Erdhörnchen gleich aus ihren Löchern lockte,
 denn sie hofften auf Brösel und andere Leckereien.
 
 <pic images/vof-wave.ps "The Wave", Sehenswürdigkeit im Valley of Fire.>
@@ -215,7 +215,7 @@ denn sie hofften auf Brösel und andere Leckereien.
 Im Park machten wir dann zwei schöne Wanderungen: "White Domes" ("weiße Kuppeln")
 und "Fire Wave" ("Feuerwelle"), um die Schönheiten des Parks zu genießen. Das
 Tal des Feuers ("Valley of Fire") zeichnet sich nämlich durch wunderschöne rote
-Sandsteinformationen aus. Diese entstanden vor 150 Miliionen durch die
+Sandsteinformationen aus. Diese entstanden vor 150 Millionen Jahren durch die
 komplexen Bewegungen von großen Sanddünen. Obwohl eigentlich relativ viele
 Besucher im Park waren, machten wir wieder die Erfahrung, dass wir schnell fast
 allein waren auf den Wanderwegen, denn viele der Touristen
@@ -225,7 +225,7 @@ immer wieder neue einzigartige Sandsteingebilde zu entdecken, die sich mit der
 unterschiedlich stehenden Sonne farblich verändern. Mich fasziniert dabei
 besonders die Stille in der Wüste, denn ruhig und leise ist es weder in San
 Francisco noch bei meinem Job in der Schule. Die zweite Wanderung führte uns
-durch die Wüstenlandschaft zu einer riesigen Steinsformation, die wie eine
+durch die Wüstenlandschaft zu einer riesigen Steinformation, die wie eine
 große, sich rippelnde Welle aussah. So als ob sich Wasser in Stein verwandelt
 hätte mit rötlichen, braunen und beigen Farbschattierungen. Einmalig schön!
 
@@ -234,7 +234,7 @@ hätte mit rötlichen, braunen und beigen Farbschattierungen. Einmalig schön!
 <pic images/lv-neon-park-1.ps Zwei Profi-Touristen im Neon-Museum in Las Vegas.>
 
 <em>Michael</em> Las Vegas gehört zum Pflichtprogramm für deutsche Touristen,
-für ist es uns jedoch ein spezieller Ort, weil wir uns dort vor ewigen Zeiten
+für uns ist es jedoch ein spezieller Ort, weil wir uns dort vor ewigen Zeiten
 kennengelernt haben.  Wir fahren hin und wieder hin, um unsere Erinnerungen
 aufzufrischen, und zu beobachten, was sich in dieser Stadt des Irrsinns seit
 unserem letzten Besuch nun schon wieder alles verändert hat. Und da ist laufend
@@ -270,13 +270,13 @@ wir düsen gern noch in der näheren Umgebung herum.
 <pic images/lv-sundries.ps Vorsicht: Diese Geschäfte im Casino verkaufen Getränke zu Mondpreisen.>
 
 Beim Essengehen gilt: Den aus ganz Amerika angereisten Leuten ist es völlig
-wurst, was es kostet, denn wer zuhause nur einen Diner hat, in dem die
+wurst, was es kostet, denn wer zu Hause nur einen Diner hat, in dem die
 Leute mit Baseballkappe auf sitzen, gibt gerne das Wochengehalt eines
 Bauarbeiters für ein recht weltmännisches Abendessen aus, solange letzteres
 auf teurem Leinen serviert wird, und zwischen den Tischen
 wichtigtuerische Ober herumwuseln. Restaurants in Casinos am Strip sind
 grundsätzlich etwa doppelt so teuer wie in einer Stadt mit viel 
-Restaurantauswahl, wer ein besseres Preis/Leistungsverhältnis sucht, ist
+Restaurantauswahl, wer ein besseres Preis-Leistungs-Verhältnis sucht, ist
 in einem der hippen Restaurants westlich des Strips aufgehoben, wenngleich
 die eingesesseneren Läden dort mittlerweile auch ganz schön happige Preise verlangen.
 
@@ -292,7 +292,7 @@ Freitag/Samstag und Samstag/Sonntag etwa doppelt so teuer sind wie alle
 anderen. Wer seinen Besuch also um einen Tag verschieben kann, spart unter
 Umständen bares Geld.
 
-Zu bedenken gilt allerdings, dass die Casino-Schlawiner mit allen
+Zu bedenken ist allerdings, dass die Casino-Schlawiner mit allen
 Wassern gewaschen sind und sich immer neue Tricks einfallen lassen, den
 Leuten das hartverdiente Geld aus der Tasche zu ziehen. Beim nächsten
 Besuch ist hundertprozentig wieder alles noch teurer!
@@ -305,7 +305,7 @@ Besuch ist hundertprozentig wieder alles noch teurer!
 die Hauptattraktion. Manche sparen das ganze Jahr, um dann am Blackjack- oder
 Craps-Tisch ein paar Stunden lang die Sau rauszulassen -- und ohne Geld
 wieder heimzufahren. Wir halten uns ebenso ganz gern mal ein Weilchen
-im Casino auf, aber nicht nur wegen den Daddelautomaten, sondern weil
+im Casino auf, aber nicht nur wegen der Daddelautomaten, sondern weil
 sich dort menschliche Tragödien abspielen, die eben nur im Casino passieren.
 Bei unserem letzten Besuch belauschten wir ein Pärchen, bei dem die Frau
 dem Mann verriet, dass sie ein schlechtes Gewissen hätte, das Geldgeschenk
@@ -314,9 +314,9 @@ Auto investieren sollte. Neinnein, meinte der Mann, es sei schließlich
 jetzt ihr Geld und sie könne es ausgeben wie sie wolle!
 
 Wir sind keine großen Gambler, aber die fast schon etwas veralteten
-Video-Poker-Automaten faszninieren uns doch. Wir spielen nach einigen
+Video-Poker-Automaten faszinieren uns doch. Wir spielen nach einigen
 einfachen Regeln, nach denen man 99% seines Einsatzes wieder rausbekommt, und
-dabei servieren einem die Casino-Kellnerinnen während man daddelt umsonst
+dabei servieren einem die Casino-Kellnerinnen, während man daddelt, umsonst
 hochpreisige alkoholische Getränke, für die man der Kellnerin jeweils
 nur etwa ein bis zwei Dollar Trinkgeld in die Hand drückt.
 
@@ -339,7 +339,7 @@ Regeln allerdings im Kopf zu behalten, ist nicht ganz einfach.
 Aber mit etwas Übung kommt man auf etwa 99% Rückzahlquote, ganz ausgefuchste
 Profis schaffen sogar 99,5% -- das Casino gewinnt also von hundert
 eingesetzten Dollars immer 50 Cent, was allerdings den alkoholbefeuerten Spaß
-mehr als wert ist. Wer zuhause schon mal testen möchte, ob er die Regeln
+mehr als wert ist. Wer zu Hause schon mal testen möchte, ob er die Regeln
 beherrscht, dem empfehle ich die Smartphone-App "Winpoker", die nicht nur das
 Automatenspiel akkurat simuliert, sondern auch Warnungen ausgibt, falls der
 Spieler besser andere Karten ausgewählt hätte als die angeklickten.
@@ -362,7 +362,7 @@ wieder neu erfunden, aber für uns umweht die Stadt Nostalgie, weil wir uns eben
 dort kennengelernt haben. Wir werden bei unseren Besuchen nicht müde, danach zu
 suchen.
 
-<pic images/lv-neon-angelika.ps Das Neon-Museum stellt allerhand farbenfrohe Glamor-Reklameschilder aus, die schön im Abendlicht leuchten.>
+<pic images/lv-neon-angelika.ps Das Neon-Museum stellt allerhand farbenfrohe Glamour-Reklameschilder aus, die schön im Abendlicht leuchten.>
 
 Im "Neon Museum" kamen wir dieses Mal auf unsere Kosten. Jeder, der schon
 einmal in Las Vegas war, weiß, dass einen dort bunte überdimensionierte
@@ -371,9 +371,9 @@ Vegas scheinen die Lichter niemals auszugehen. Viele dieser Neonschilder haben
 einen gewissen Ikonenstatus erreicht, weil sie entweder ein besonders schönes
 oder auch kontroverses Design aufweisen oder zu einem Casino gehörten, das es
 schon lange nicht mehr gibt, aber einmal einen wichtigen Platz in der
-Geschichte Las Vegas innehatte.
+Geschichte von Las Vegas innehatte.
 
-<pic images/lv-neon-park-2.ps Die Statue dieses Billiardspielers warb früher für einen Billiardsalon.>
+<pic images/lv-neon-park-2.ps Die Statue dieses Billardspielers warb früher für einen Billardsalon.>
 
 Das 1996 gegründete <LINK>https://www.neonmuseum.org|Neon Museum</LINK> hat
 sich die Aufgabe gestellt, diese alten Schilder zu bewahren und für die
@@ -383,13 +383,13 @@ angelegten Wege und kann die ebenerdig aufgestellten Neonschilder bewundern.
 Die Sonne brennt dabei gnadenlos vom Himmel, denn Las Vegas liegt bekanntlich
 in der Wüste und es gibt in den Freilichtkulissen keinen Schatten. Wir fanden
 uns am späten Nachmittag im Museum ein, weil dann die Sonne die Neonschilder im
-besonders schönem Licht erschienen ließ.
+besonders schönen Licht erscheinen ließ.
 
 <pic images/lv-neon-milk.ps Das Reklameschild des Milchmanns im Neon-Museum.>
 
 Die Idee für das Museum entstand,
 als 1996 das berühmte Casino und Hotel "The Sands" schloss und niemand
-wusste, wohin mit dem geschichtsträchtigen und überdimemsional großen
+wusste, wohin mit dem geschichtsträchtigen und überdimensional großen
 "Sands"-Schild. Es wanderte leider auf den Müll. Die
 freundlichen Museumsangestellten erklärten uns, dass oft die Größe der Schilder
 ein Problem darstellt, denn der Abbau und Transport ist kostspielig. 
@@ -408,7 +408,7 @@ den Besuch im Museum wärmstens empfehlen.
 
 @Z: Trinkwasser am SFO-Flughafen
 
-<pic images/sfo-water-byob.ps Am SFO-Flughafen gibts kein Wasser in Plastikflaschen mehr.>
+<pic images/sfo-water-byob.ps Am SFO-Flughafen gibt's kein Wasser in Plastikflaschen mehr.>
 
 <em>Michael</em> Flugreisende kriegen auf Langstrecken oft so einen Durst,
 dass Stewardessen kaum noch mit dem Nachschenken hinterherkommen. Deswegen
@@ -422,11 +422,11 @@ geht doch heute nicht mehr im grünen San Francisco!
 <pic images/sfo-water-refill.ps An der "Hydration Station" füllen Reisende gefiltertes Leitungswasser in mitgebrachte Flaschen.>
 
 Amerikanisches gechlortes Leitungswasser zu trinken ist auch nicht jedermanns
-Sache, und deswegen installierten die Betreiber des neugestalteten Terminal 1
+Sache, und deswegen installierten die Betreiber des neugestalteten Terminals 1
 des SFO-Flughafens, das seit neuestem mit "Harvey Milk Terminal" den Namen
 eines stadtbekannten Schwulenaktivisten der 70er-Jahre trägt
 (<RBLINK>20060720#8</RBLINK>), "Hydration Stations" genannte Abfüllstationen.
-An diesen füllen Fluggäste Britta-gefiltertes Leitungswasser in selbst
+An diesen füllen Fluggäste Brita-gefiltertes Leitungswasser in selbst
 mitgebrachte Behälter ab. Damit keiner seinen versabberten Flaschenrand an den
 Abfüllstutzen hält und damit irgendwelche Keime verteilt, aktivieren die
 Stationen den Wasserstrahl per Lichtschranke, falls man ein Gefäß unter ein
@@ -437,7 +437,7 @@ nach oben weisendes Loch am Chromrahmen der Station hält.
 Wer vergessen hat, seine private Flasche mitzubringen, kann am Kiosk zum Preis
 von vier oder fünf Dollar mit Wasser vorgefüllte wiederverwertbare Flaschen in
 zwei verschiedenen Größen erwerben. Die Abfüllmaschine kam mir übrigens
-merwürdig bekannt vor: in unserem Fitnesscenter bei Apple, in dem ebenfalls
+merkwürdig bekannt vor: In unserem Fitnesscenter bei Apple, in dem ebenfalls
 keine Plastikflaschen mehr ausgegeben werden, steht genau der gleiche Kasten
 der Firma "Elkay". Damit tritt San Francisco nun offiziell ins Himmelreich der
 Umweltengel ein.
@@ -447,8 +447,8 @@ Umweltengel ein.
 <pic images/election-2016.ps 2016 hat Trump die Wahl gewonnen. Wird er 2020 wiedergewählt? Quelle: Wikipedia>
 
 <em>Angelika</em> Im letzten Rundbrief hatte ich ja versprochen, auszuführen,
-warum wir große Befürchtungen haben, dass Trump noch einmal wieder gewählt
-wird. Wie gesagt, ich wäre sehr froh, wenn meine Prognose sich als falsch
+warum wir große Befürchtungen haben, dass Trump noch einmal wiedergewählt
+wird. Wie gesagt, ich wäre sehr froh, wenn sich meine Prognose als falsch
 herausstellt. Aber warum bin ich dieser Meinung? Es ist richtig, dass bis zum
 eigentlichen Wahltermin im November 2020 noch viel passieren kann, wer aber
 meint, dass Trump seines Amtes enthoben wird, lebt in einer Fantasiewelt, denn
@@ -467,15 +467,15 @@ gesetzt, große und mächtige Firmen wie Google, Amazon, Facebook aufzuteilen, u
 deren Einfluss einzudämmen.
 
 Um die Nominierung für die demokratische Partei zu erhalten, müssen Warren und
-Co die Vorwahlen in den einzelnen Bundesstaaten gewinnen. Bei diesen Vorwahlen
+Co. die Vorwahlen in den einzelnen Bundesstaaten gewinnen. Bei diesen Vorwahlen
 geben eingefleischte Demokraten ihre Stimmen ab, also eher die, die eine
-Revolution  wollen. Zur Zeit liegt in einigen Bundestaaten wie Iowa oder New
+Revolution  wollen. Zurzeit liegt in einigen Bundesstaaten wie Iowa oder New
 Hampshire, die ihre Vorwahlen zuerst abhalten, aufgrund von Umfragen Elizabeth
 Warren vorne, dicht gefolgt von Bernie Sanders. Auf nationaler Ebene ist Joe
-Biden allerdings immer noch der Vorreiter. Das Problem ist jetzt nur, dass wenn
-Joe Biden die Vorwahlen in den früh wählenden Bundesstaaten nicht gewinnt, sich
-die ganze Wahlmaschinerie verselbständigt und Wahlkampfspenden dann eher an die
-Gewinner fließen und die Riege der demokratischen Kandidaten sich lichtet, weil
+Biden allerdings immer noch der Vorreiter. Das Problem ist jetzt nur: Wenn
+Joe Biden die Vorwahlen in den früh wählenden Bundesstaaten nicht gewinnt, verselbständigt sich
+die ganze Wahlmaschinerie und Wahlkampfspenden fließen dann eher an die
+Gewinner und die Riege der demokratischen Kandidaten sich lichtet, weil
 vielen schlichtweg das Geld ausgeht.
 
 Das Problem mit Elizabeth Warren und Bernie Sanders ist hingegen, dass sie,
