@@ -8,14 +8,14 @@ San Francisco, den 20.12.2020
 Schüler an öffentlichen Schulen seit März mit dem Distanzunterricht
 herumquälen, haben private Schulen hier wieder ihre Tore
 geöffnet. Schulpolitik spielt sich in den USA auf lokaler Ebene ab, sodass es
-durchaus sein kann, dass zwar der Bundestaat Kalifornien trotz Pandemie
+durchaus sein kann, dass zwar der Bundesstaat Kalifornien trotz Pandemie
 Schulöffnungen erlaubt, aber die einzelnen Landkreise sich trotzdem sperren.
 
 Trotz niedriger Infektionszahlen im September und Oktober bewegte sich in San
 Francisco nichts bei den öffentlichen Schulen. Die Schule, an der ich arbeite,
-liegt aber nicht in San Francisco sondern im benachbarten San Mateo. Aber auch
+liegt aber nicht in San Francisco, sondern im benachbarten San Mateo. Aber auch
 in San Mateo sind bis jetzt nur private Schulen zum Präsenzunterricht
-zurückgekehrt. Warum können nun private Schulen wieder Schüler auf den
+zurückgekehrt. Warum können nun private Schulen wieder Schüler auf dem
 Schulgelände begrüßen, aber bei den öffentlichen klappt es nicht?
 
 <pic images/alvarado.ps Die öffentlichen Schulen in San Francisco haben auch acht Monate nach Beginn der Pandemie nicht wieder aufgemacht.>
@@ -27,11 +27,11 @@ meist um eine einzelne Schule und nicht um ganze Schulverbände, die die lokale
 Schulbehörde verwalten und unter einen Hut bringen muss.  Die Angestellten sind
 nicht gewerkschaftlich organisiert, sodass Arbeitsverträge nicht mit den
 Lehrerverbänden verhandelt werden müssen. Die Lehrergewerkschaft ist in den USA
-erstaunlichlicher Weise sehr einflussreich, obwohl Gewerkschaften in den USA
+erstaunlicherweise sehr einflussreich, obwohl Gewerkschaften in den USA
 außer in einigen Schlüsselindustrien keine so große Rolle spielen.  Bei den
 Schulöffnungen wollen die Gewerkschaften natürlich mitmischen, um ihre
 Mitglieder, die Lehrer, zu vertreten. Es gibt viele Streitpunkte: Was ist
-sicher? Wer stellt die Schutzmasken zur Verfügung? Welche Alterstufen kehren
+sicher? Wer stellt die Schutzmasken zur Verfügung? Welche Altersstufen kehren
 zuerst wieder zurück in die Schule?  Was passiert mit den Lehrern, die einer
 Risikogruppe angehören?
 
@@ -45,11 +45,11 @@ Schutzmaßnahmen wurden aus dem Etat der Schule gezahlt, was aber nicht erst
 durch irgendwelche Gremien laufen musste.
 
 Ihr merkt schon, meine Schule (<RBLINK>20181208#7</RBLINK>) hat seit
-September wieder auf. Wir beantragten eine Sondergehmigung beim Staat
+September wieder auf. Wir beantragten eine Sondergenehmigung beim Staat
 Kalifornien, was unser Gouverneur Newsom im Sommer in erster Linie für den
 Grundschulbereich erlaubte. Wir mussten ein Sicherheitskonzept ausarbeiten, das
 die Pandemieauflagen der lokalen und amerikanischen Gesundheitsbehörden
-(Center for Disease Control, CDC) abdeckte. Dieses Konzept reichte unsere
+(Centers for Disease Control, CDC) abdeckte. Dieses Konzept reichte unsere
 Leitung dann zunächst bei der lokalen Gesundheitsbehörde in San Mateo ein,
 die es nach Durchsicht an die kalifornische Behörde (California Department
 of Public Health) weiterleitete. Ende August erhielten wir die Zusage zur
@@ -71,7 +71,7 @@ Geldausgabe der Bank.
 
 Die Pulte der Kinder sind alle mindestens 2 Meter voneinander entfernt. Die
 Luft wird gefiltert von einem extra angeschafften Superfilter. Jeder Schüler
-hat soweit möglich seine eigenen Materialien. Ansonsten desinfizieren wir. Alle
+hat so weit wie möglich seine eigenen Materialien. Ansonsten desinfizieren wir. Alle
 Schüler (und natürlich auch Mitarbeiter), egal wie alt, tragen Masken und zwar
 immer und überall, im Klassenzimmer, auf dem Spielplatz, auf der Toilette. Die
 Kinder dürfen ihre Masken in der Regel nur zum Essen oder Trinken abnehmen, und
@@ -84,15 +84,15 @@ eine Maskenpause machen können. Sie dürfen dort, auf einem Stuhl sitzend, die
 Maske abnehmen. Der Schulbeginn und das -ende sind für jede Klasse gestaffelt,
 desgleichen die Pausen, sodass unsere Schüler nicht mit anderen Schülern aus
 anderen Klassen zusammentreffen. Fieber wird jeden Morgen gemessen, sowie ein
-Fragenkatelog mit Covid-Symptomen abgefragt, bevor die Kinder das Schulgelände
-betreten. Auch haben wir alle schon ganz raue Hände vom vielem Händewaschen.
+Fragenkatalog mit Covid-Symptomen abgefragt, bevor die Kinder das Schulgelände
+betreten. Auch haben wir alle schon ganz raue Hände vom vielen Händewaschen.
 Wann immer die Kinder das Klassenzimmer betreten oder verlassen, wie zum
 Beispiel vor und nach der Pause, heißt es Händewaschen. Gott sei Dank haben wir
 gleich am Eingang ein großes Waschbecken. Sobald ein Kind ein Covid-Symptom wie
 eine laufende Nase zeigt, darf es nicht mehr in die Schule kommen, bevor ein
 negativer Covid-Test vorliegt. Alle Mitarbeiter müssen mindestens alle vier
 Wochen zum Covid-Test, wenn  keine Symptome vorliegen. Bei Symptomen gilt es,
-Zuhause zu bleiben und sofort einen zu Test machen.
+zu Hause zu bleiben und sofort einen Test zu machen.
 
 <pic images/dropoff.ps Gestaffelte Ankunftszeiten für Schülergruppen bei einer privaten Schule in San Francisco.>
 
@@ -105,7 +105,7 @@ dass sie wieder in die Schule durften, dass sie alle Reglementierungen in Kauf
 nahmen. Nichts ist schlimmer für sie, als isoliert vor dem Computer zu sitzen,
 und das bei einer Generation, die Videospiele liebt. Irgendwie tröstet mich das
 auch, dass der persönliche Kontakt so hoch im Kurs steht bei ihnen. Die
-Auswirkungen der Isolierung von Kindern unter Covid wird meines Erachtes völlig
+Auswirkungen der Isolierung von Kindern unter Covid werden meines Erachtens völlig
 heruntergespielt. Bis jetzt sind wir trotz enorm steigender Zahlen im ganzen
 Land an der Schule ganz gut durch die Krise gekommen. Nach den Winterferien
 machen wir wieder mindestens eine Woche Distanzlernen, weil wir ja nicht
@@ -126,7 +126,7 @@ Sie stellen ihn auch gleich auf und schmücken ihn, denn schließlich hat man so
 mehr von der Investition.
 
 Angelika will auch jedes Jahr einen Weihnachtsbaum haben, ihn aber erst kurz
-vor dem 24sten kaufen und erst am 24sten aufstellen. Eine Woche vor dem Fest
+vor dem 24. kaufen und erst am 24. aufstellen. Eine Woche vor dem Fest
 bieten die Verkaufsstellen normalerweise noch akzeptable Bäume feil, doch bei
 unserer normalen Anlaufstelle gab es dieses Jahr nur noch drei Meter hohe
 Riesenbäume und einen Meter kleine Mini-Bäume, das Mittelsegment war komplett
@@ -142,7 +142,7 @@ verbliebenen Bäumen wählten wir den besten aus, und der Angestellte erzählte
 uns, während er den Baum auf unserem Autodach festband, dass es dieses Jahr
 besonders verrückt zugegangen sei. Viel mehr Leute als sonst blieben über die
 Feiertage in der Stadt, und während der Laden sonst pro Saison 600
-Weihnachstbäume verkauft, hätten sie dieses Jahr in weiser Voraussicht 1000
+Weihnachtsbäume verkauft, hätten sie dieses Jahr in weiser Voraussicht 1000
 geordert, die aber nun praktisch alle weg waren, und Nachschub war auf die
 Schnelle nicht zu bekommen.
 
@@ -156,7 +156,7 @@ derweil Artikel für Computerzeitschriften oder geh Surfen.
 <pic images/polling-1.ps Wähler in San Francisco können ihre Stimme in einer Garage abgeben.>
 
 <em>Michael</em> Nun ist die Präsidentenwahl ja gelaufen, aber die
-Rundbriefleser fragen sich sicher, wie wählen die Leute in Amerika überhaupt?
+Rundbriefleser fragen sich sicher: Wie wählen die Leute in Amerika überhaupt?
 Während in Deutschland oft in der nächstgelegenen Grundschule ein Wahllokal
 aufmacht, geht es hier in San Francisco auch manchmal etwas rustikaler zu. So
 betreiben in unserem Viertel einige Anwohner offizielle Wahllokale in ihren
@@ -189,9 +189,9 @@ als Angestellte) zu beschäftigen (bestätigt mit 58.6%).
 
 Geht also ein Kalifornier in so ein Garagen-Wahllokal, bekommt er einen
 Riesenwahlzettel und muss nicht nur "Trump" oder "Biden" ankreuzen, sondern mehrere
-Dutzend Kästchen mit numerierten Propositions.  Die Ballot Measures werden je
-nach Gutdünken der Antragssteller benannt, und ist es oft gar nicht so einfach,
-herauszufinden was man mit der Wahl von "Ja" oder "Nein" erreicht. Die Wahl zur
+Dutzend Kästchen mit nummerierten Propositions.  Die Ballot Measures werden je
+nach Gutdünken der Antragsteller benannt, und es ist oft gar nicht so einfach,
+herauszufinden, was man mit der Wahl von "Ja" oder "Nein" erreicht. Die Wahl zur
 Proposition 16 zum Beispiel war folgendermaßen formuliert: "Repeal Prop 209
 Affirmative Action Amendment". Es ging also um den Widerruf einer alten
 Proposition aus dem Jahr 1996, die es dem Staat untersagte, Bürger ungleich zu
