@@ -13,14 +13,14 @@ Polizei, arbeitet sie nach Ort und Zeit auf, bewertet sie, und dann schlägt das
 Telefon des Nutzers sofort Alarm, falls im eingestellten Aktionsradius etwas
 passiert ist.
 
-<pic images/citizen-bart.ps Zwei Schlingel haben einem Fahrgast in der BART U-Bahn den Laptop entrissen.>
+<pic images/citizen-bart.ps Zwei Schlingel haben einem Fahrgast in der BART-U-Bahn den Laptop entrissen.>
 
 Und passieren tut in San Francisco alle paar Minuten etwas: Hier schlägt einer
 eine Autoscheibe ein, dort steigt ein Penner übern Zaun, hier entreißt ein
 Räuber einem Touristen die Brieftasche, dort schlägern sich ein paar
 Halbstarke. Dabei dürfen Anwender zu den Verbrechen lustige Kommentare abgeben
 oder sogar "live gehen", also ihre Handykamera einschalten, falls sie ein
-brennendes Haus von ihrem Fenster aus sehen oder oder die Einsatzkräfte an
+brennendes Haus von ihrem Fenster aus sehen oder die Einsatzkräfte an
 einem Unfallort abfilmen wollen. Das Ganze ist richtig spannend, und teilweise
 sogar zum Totlachen, weil eben auch dauernd völlig verrückte Dinge passieren,
 wie dass ein Penner Passanten mit Müll bewirft oder ein Irrer eine lange
@@ -35,9 +35,9 @@ meldet Citizen "Man Whacking Cars with Broom", was vielleicht eher ein
 Jugendlicher als ein Erwachsener sagen würde, aber genau das macht den
 Unterhaltungswert aus.
 
-Da Citizen weiß, wo der Anwender zuhause ist (oder wahlweise wo er sich gerade
+Da Citizen weiß, wo der Anwender zu Hause ist (oder wahlweise wo er sich gerade
 aufhält), kriegt der sofort eine Nachricht auf den Schirm, falls sich etwas im
-näheren Umkreis ereignet. Letzten Freitag arbeitete ich von zuhause, da ging
+näheren Umkreis ereignet. Letzten Freitag arbeitete ich von zu Hause, da ging
 plötzlich die Meldung ein, dass fünf Straßen weiter die Feuerwehr gerade ein
 brennendes Auto löschte. Ich rannte sofort runter, schnappte mir ein
 elektrisches Leihfahrrad, fuhr mit gezücktem Handy am Ort des Geschehens vorbei
@@ -46,7 +46,7 @@ und
 Was ihr dort seht, ist mein trotz stinkender
 Rauchschwaden todesmutig aufgenommenes Video! Allerdings stellen sich die
 Citizen-Fritzen Live-Reportagen wohl etwas professioneller vor, denn ich bekam
-gleich eine Email (Abbildung (#1)), die mich darauf hinwies, dass ich statt
+gleich eine E-Mail (Abbildung (#1)), die mich darauf hinwies, dass ich statt
 schweigend nur ein paar Sekunden aufzunehmen lieber länger draufhalten und das
 Geschehen live kommentieren hätte sollen. Daran gibt's noch einiges zu
 verbessern!
@@ -68,8 +68,8 @@ herumgesprochen, dass es nicht so weiter geht mit dem Müll. Vor allen Dingen
 den Plastikmüll gilt es zu reduzieren. Aufgeschreckt haben viele Amerikaner vor
 allem die Unmengen an Plastikmüll, die im Ozean herumschwimmen. In Oahu, wo wir
 gerade im Urlaub waren, fand sich diesmal an unserem Lieblingsstrand in
-Waimanolo mehr Plastikmüll als üblich und störte das paradiesische Bild des
-super feinen, fast weißen Pulversandes.  Natürlich wird je nach Wetterlage und
+Waimanalo mehr Plastikmüll als üblich und störte das paradiesische Bild des
+superfeinen, fast weißen Pulversandes.  Natürlich wird je nach Wetterlage und
 Strömung mehr angeschwemmt, aber wenn nichts im Ozean herumschwimmt, kann auch
 nichts angeschwemmt werden.
 
@@ -78,7 +78,7 @@ nichts angeschwemmt werden.
 Besonders dem Plastikstrohhalm wurde der Kampf angesagt, seitdem Bilder von
 Schildkröten, denen Strohhalme in der Nase stecken, im Internet kursieren. In
 Kalifornien erhält der Restaurantbesucher seit Januar nur noch einen
-obligatorschen Plastikstrohhalm, wenn er danach fragt. Ab Juli 2019 sind dann 
+obligatorischen Plastikstrohhalm, wenn er danach fragt. Ab Juli 2019 sind dann 
 Plastikstrohhalme in San Francisco gleich ganz verboten und nur noch Strohhalme
 aus Papier erlaubt. Ein Anfang ist gemacht, wobei das Ganze eher wie ein
 Tropfen auf den heißen Stein anmutet. Ich hoffe ja, dass wir eine
@@ -95,7 +95,7 @@ möglichst wenig Müll zu produzieren? Wir trennen natürlich fleißig den Müll
 recyceln, aber es sieht so aus, dass vieles dennoch in der Verbrennungsanlage
 oder auf der Müllhalde landet, seitdem China unseren angeblich wieder zu
 verwertbaren Müll nicht mehr haben will. Die ersten Städte in den USA stellen
-tatsächlich ihre Recycling-Programe wieder ein, weil sie den Müll nicht mehr
+tatsächlich ihre Recycling-Programme wieder ein, weil sie den Müll nicht mehr
 nach Asien verkaufen können und nicht wissen, wohin mit dem Zeug. So verbrennt
 zum Beispiel Philadelphia den größten Anteil seines Mülls. Die Absurdität, dass
 Müll zur Wiederverwertung nach China verschifft wird, lässt jeden Umweltengel
@@ -105,7 +105,7 @@ die Krise, wenn ich in Plastikfolie eingeschweißte Salatgurken sehe. Der
 tiefere Sinn dieser Maßnahme blieb mir bisher verborgen. Anscheinend bleiben
 die Salatgurken länger frisch in der Plastikumhüllung. Allerdings ist die Folie
 in der Regel schlecht abzukriegen und ich bevorzuge Gurken ohne Folie. Ich
-frage mich bei denen, die es ohne Folie gibt, allerdings, ob die nicht voher
+frage mich bei denen, die es ohne Folie gibt, allerdings, ob die nicht vorher
 eingeschweißt waren und der Laden die Folie entfernte, um dem Kunden ein
 ruhiges Gewissen zu verschaffen.
 
@@ -115,16 +115,16 @@ Ich muss gestehen, dass ich "Ziploc Bags" super praktisch finde. Die wieder
 verschließbaren Plastikbeutel, die es in verschiedenen Größen gibt, eignen
 sich dazu, Lebensmittel im Kühlschrank aufzubewahren oder sicher zu
 transportieren. Auch Kosmetika sind sicher verpackt in diesen Beuteln und
-selbst wenn ein Malör passiert und das Shampoo ausläuft, bleibt alles im Beutel
+selbst wenn ein Malheur passiert und das Shampoo ausläuft, bleibt alles im Beutel
 und landet nicht etwa im Koffer. Beim Megasupermarkt Costco gibt es "Ziploc
 Bags" in der Großpackung, zum Beispiel 216 Beutel in der Größe 17.7 x 18.8 cm,
 die zum Einfrieren geeignet sind, für 16 Dollar.  Billig, aber nicht gerade
 umweltfreundlich, selbst wenn man die Plastikbeutel nicht gleich nach
 einmaliger Benutzung in den Müll schmeißt.
 
-Aber seit neustem gibt es für alle Ziploc-Fans eine Alternative von der Firma
+Aber seit Neuestem gibt es für alle Ziploc-Fans eine Alternative von der Firma
 <LINK>https://www.stasherbag.com|Stasher</LINK>, die ihren Firmensitz in
-Emeryville hat, etwa 17 Kilometer nördöstlich von San Francisco. Die
+Emeryville hat, etwa 17 Kilometer nordöstlich von San Francisco. Die
 Beutel sind aus lebensmittelfreundlichem Silikon und nicht aus Plastik gemacht
 und sollen angeblich ewig halten. Das Material ist wesentlich dicker als das
 der Plastikbeutel und die Stasher-Beutel sind wieder verschließbar und
@@ -134,13 +134,13 @@ jetzt einmal eine Testphase gestartet und bin bis jetzt zufrieden. Die Beutel
 wurden schon einige Male in der Spülmaschine gewaschen, haben bis jetzt
 nicht darunter gelitten und sind 1A sauber geworden. Der Verschluss ist etwas
 gewöhnungsbedürftig und man muss fest pressen, damit alles gut zu ist, aber die
-Idee ist gut und das unterstütze ich gerne. Die noch relativ jungen Firma kommt
+Idee ist gut und das unterstütze ich gerne. Die noch relativ junge Firma kommt
 mittlerweile auch mit immer neuen Größen heraus und erlebt momentan ein wenig
 einen Boom, nachdem ihr Produkt in der Sendung "Shark Tank" vorgestellt wurde,
-und Mark Cuban mit 400.000 Dollar Investitonskapital mit dabei ist. Der Preis
+und Mark Cuban mit 400.000 Dollar Investitionskapital mit dabei ist. Der Preis
 des Beutels ist natürlich nicht ganz ohne. Ein einziger Beutel, in den gut ein
 belegtes Pausenbrot passt ("Sandwich Bag"), kostet 12 Dollar. Ich habe übrigens
-gesehen, dass es die Stasher Beutel auch bei Amazon Deutschland zu beziehen
+gesehen, dass es die Stasher-Beutel auch bei Amazon Deutschland zu beziehen
 gibt, falls ihr auch eine Testphase starten wollt.
 
 @Z: Lamellenfenster auf Hawaii
@@ -148,7 +148,7 @@ gibt, falls ihr auch eine Testphase starten wollt.
 <pic images/hawaii-window-1.ps Bei geöffneten Glaslamellen weht die laue Brise durch die Wohnung und kühlt angenehm.>
 
 <em>Michael</em> Wir fahren ja bekanntlich jedes Jahr für ein, zwei Wochen nach
-Hawaii, und genießen unseren Urlaub dort jedesmal sehr. Da wir Privathäuser
+Hawaii, und genießen unseren Urlaub dort jedes Mal sehr. Da wir Privathäuser
 anmieten und nicht ins Hotel gehen, bekommen wir mehr davon mit, wie Hawaiianer
 leben. Auf den Inseln ist es ja nie brüllheiß, aber tagsüber klettert das
 Thermometer schon auf 30 Grad, und nachts kühlt es sich vielleicht auf 25 Grad
@@ -169,10 +169,10 @@ und eingehen können.  Allerdings schützen sie nicht gegen den allgegenwärtige
 Lärm, der in Wohngegenden schon ab 6:30 morgens einsetzt, wenn die Leute zur
 Arbeit fahren. Hawaiianer stehen ja gerne früh auf, damit sie bereits um drei
 Uhr nachmittags Dienstschluss machen, heimfahren, und noch an den Strand gehen
-können. Auch die von Gärtnern gerne eingesetzenen Höllenmaschinen zur
+können. Auch die von Gärtnern gerne eingesetzten Höllenmaschinen zur
 Beseitigung von beschnittenen Palmen und Buschwerk, sogenannte Laubbläser
 ("Leaf Blower") erfordern oft das Schließen der Fenster, falls man sich anders
-als die Nachbarn tagsüber zuhause aufhält.
+als die Nachbarn tagsüber zu Hause aufhält.
 
 <pic images/hawaii-window-wall.ps Hohe Grundstücksmauern bieten trotz offener Fenster Privatsphäre.>
 
@@ -191,7 +191,7 @@ Emotional Learning"), eine 40-minütige Schulstunde über positives
 Sozialverhalten.  Wir haben dabei Kernthemen, die wir in einem Schuljahr
 abdecken müssen, wie zum Beispiel friedliche Konfliktlösung, Förderung von
 Klassengemeinschaft und Freundschaften, Strategien zum Abbau von Aggressionen,
-Lernen zu verlieren usw., aber auch viel Freiheiten, wie wir die einzelnen
+Lernen zu verlieren usw., aber auch viele Freiheiten, wie wir die einzelnen
 Themen angehen und was wir für Materialien benutzen wollen.
 
 Durch meinen vorherigen Job mit den autistischen Kindern und durch das Leiten
@@ -201,7 +201,7 @@ auch in meiner zweiten Klasse verwenden kann. Aber als im Februar meine
 Kollegin, die den Grundschulstoff  unterrichtete, kurzerhand kündigte, übernahm
 ich für einige Wochen auch noch Sozialkunde, Naturwissenschaften und Kunst, bis
 wir eine Springkraft bis zum Ende des Schuljahrs fanden. Da ich ja keine
-ausgebildete Grundschulleherin bin, musste ich mich in die ganze Materie etwas
+ausgebildete Grundschullehrerin bin, musste ich mich in die ganze Materie etwas
 einarbeiten.  Auch in den USA gibt es so etwas wie einen Lehrplan ("Common Core
 Standards") in den einzelnen Bundesstaaten, in dem steht, was in den einzelnen
 Fächern unterrichtet werden muss und was die Kinder bis zum Ende des
@@ -210,7 +210,7 @@ eine private Schule sind und keine öffentliche, denn an öffentlichen Schulen
 kann man nur unterrichten, wenn man eine kalifornische Lehrerlaubnis besitzt
 ("California Teaching Credential"). Übrigens gibt es das Fach "Social Emotional
 Learning" in der Regel nicht als offizielles Fach an Schulen. Das ist etwas
-ganz besonderes an unserer Schule.
+ganz Besonderes an unserer Schule.
 
 <pic images/tpt-cards.ps Fertig gestaltete Karten für den Unterricht von "Teachers Pay Teachers".>
 
@@ -228,7 +228,7 @@ der Seite, die ich als Grundlage hernehme, aber dann für meine Zwecke und
 meine Schüler abändere.
 
 Die Idee dazu stammt von Paul Edelman, einem Lehrer aus New York, der im Jahr
-2006 "Teachers Pay Teachers" gegründet hat. Mitterweile stehen drei Millionen
+2006 "Teachers Pay Teachers" gegründet hat. Mittlerweile stehen drei Millionen
 ausgearbeitete Schulstunden oder andere Materialien auf dem Portal zum Verkauf.
 Fünf Millionen Lehrer nutzen den Service. Die Materialien sind nach
 Themen/Fächern und Altersstufe geordnet. Um Materialien auf der Seite zu
@@ -241,15 +241,15 @@ die dann schon einmal $15 oder auch bis zu $30 kosten.
 
 <pic images/tpt-game.ps Ein fertiges Brettspiel von "Teachers Pay Teachers".>
 
-Um etwas auf der Seite zu verkaufen, muss sich der Interessierte als Käufer
+Um etwas auf der Seite zu verkaufen, muss sich der Interessierte als Verkäufer
 registrieren. Dabei gibt es zwei Modelle. Das eine kostet nichts, das andere
 für den Verkäufer $59.95 im Jahr. Wählt der Lehrer, der seine Produkte auf der
 Seite anbieten will, die Gratisvariante, nimmt "Teachers Pay Teachers" als
-Gebühr 30 Cents per Transaktion und der Lehrer erhält 55% des Verkaufspreises.
+Gebühr 30 Cent pro Transaktion und der Lehrer erhält 55% des Verkaufspreises.
 Die zweite Variante mit dem jährlichen Mitgliedsbeitrag erhöht den Anteil, den
-der Verkäufer erhält, auf 80%, und die Transaktionsgebühr sinkt auf 15 Cents
+der Verkäufer erhält, auf 80%, und die Transaktionsgebühr sinkt auf 15 Cent
 für Bestellungen unter $3. Es gibt dann noch andere Regeln, an die sich die
-Verkäufer halten müssen, wie zum Beispiel dass die Materialien, die sie
+Verkäufer halten müssen, wie zum Beispiel, dass die Materialien, die sie an
 "Teachers Pay Teachers" verkaufen, nicht anderswo im Internet von ihnen
 unentgeltlich zur Verfügung gestellt werden. Übrigens bieten viele auch Dinge
 auf dem Portal an, die nichts kosten.
@@ -259,7 +259,7 @@ aufgegeben haben und "Teachers Pay Teachers" als ihre Haupteinnahmequelle
 nutzen, weil es sich für sie mehr rentiert, wobei dies doch wohl eher die
 Ausnahme ist. Die meisten verdienen sich aber ein ganz gutes Taschengeld
 dazu. Es gibt übrigens kritische Stimmen, die sagen, dass der Austausch von
-Materilien zwischen Kollegen nichts kosten dürfe. Ich sehe das nicht so
+Materialien zwischen Kollegen nichts kosten dürfe. Ich sehe das nicht so
 verkniffen. Wieso soll man nicht für etwas entlohnt werden, an dem man
 stundenlang gesessen hat?
 
@@ -269,9 +269,9 @@ stundenlang gesessen hat?
 
 <em>Michael</em> Sagen wir mal so, ich arbeite in einer Firma, in der eine
 erkleckliche Zahl der Mitarbeiter nach deutschen Maßstäben unermesslich reich
-sind. Und wie denkt ihr fährt jemand zur Arbeit, der zum Beispiel 500 Millionen
+ist. Und wie, denkt ihr, fährt jemand zur Arbeit, der zum Beispiel 500 Millionen
 Dollar auf dem Konto hat, was keine Seltenheit ist? Natürlich mit einem
-statusgemäßen Auto. Sportwägen aus deutscher Produktion gibt's schon zum
+statusgemäßen Auto. Sportwagen aus deutscher Produktion gibt's schon zum
 Saufüttern, also bevorzugt der Besserverdiener eher etwas in Richtung
 Lamborghini Huracan oder McLaren 720s.
 
@@ -288,7 +288,7 @@ das im Dorf böses Blut gäbe und keiner mehr im Edeka einkaufen würde.
 
 Da Amerikaner generell nicht so lackverliebt bei ihren Autos sind, wusste ich
 lange Zeit nicht, dass es auch eine stattliche Zahl totaler Autonarren gibt,
-die ihr Gefährt auf Teufel komm raus polieren bis sie sich drin spiegeln
+die ihr Gefährt auf Teufel komm raus polieren, bis sie sich drin spiegeln
 können.  Der technische Begriff hierfür heißt "Detailing" und Autobesitzer
 bezahlen für diese Serviceleistung bei Autowaschbetrieben typischerweise ein
 paar Hundert Dollar, damit sie den Wagen anschließend zu einem hohen Preis
@@ -300,26 +300,26 @@ Spiegellack ein paar tausend Dollar beim Detailer lassen.
 <pic images/griots-catalog-clay.ps Damit der Lack so glänzt, dass man sich drin spiegeln kann, rollt der Polierer ein Stück Lehm darüber.>
 
 Der typische Autonarr ("car nut") wäscht und poliert sein Auto aber
-normalerweise zuhause selbst, weil die Arbeiter in den Autowaschstraßen
+normalerweise zu Hause selbst, weil die Arbeiter in den Autowaschstraßen
 angeblich zu rabiat polieren und kreisrunde Kratzer im Lack ("swirl marks")
 hinterlassen.  Dazu kauft er sich im Spezialgeschäft allerhand Speziallappen
 und chemische Wundermittel, und genau so ein Laden ist "Griot's Garage" online.
-Ich erhalte deren Prospekt glaube ich weil ich Autoreifen typischerweise online
+Ich erhalte deren Prospekt, glaube ich, weil ich Autoreifen typischerweise online
 bei Tirerack bestelle (<RBLINK>20100509#5</RBLINK>) und diese Lumpen meine
-Email wahrscheinlich an den Poliermittelversand weitergegeben haben, aber egal:
+E-Mail wahrscheinlich an den Poliermittelversand weitergegeben haben, aber egal:
 Zwar wurde ich noch nie beim Polieren einer unserer Autos beobachtet, blättere
 beim Klogang aber sehr gern in diesen Prospekt. Da kostet ein in den höchsten Tönen
 angepriesener Speziallappen gerne mal 70 Dollar, oder ein Batzen Knetmasse
-("clay bar"), der die letzen Dreckreste aus dem Lack saugt, 22 Dollar.  Würde
+("clay bar"), der die letzten Dreckreste aus dem Lack saugt, 22 Dollar.  Würde
 ich zwar nie kaufen, die Publikation von "Griot's Garage" ist aber ein großartiger
 Lesegenuss, und ich kann die Lektüre nur wärmstens empfehlen.
 
 @Z: Ärger bei Amazon
 
-<pic images/commingling.ps Fälschungs-Alarm bei Amazon: Auf einmal kommt statt hochgepriesenen Qualitätsprodukten Billigware beim Endkunden an. Ist "commingling" im Spiel?>
+<pic images/commingling.ps Fälschungs-Alarm bei Amazon: Auf einmal kommt statt hochgepriesener Qualitätsprodukte Billigware beim Endkunden an. Ist "commingling" im Spiel?>
 
 <em>Michael</em> Ist es nicht erstaunlich, dass Amazon so viele Waren auf Lager
-hat, und meist mit atemraubender Geschwindigkeit ausliefert?  Wohnt man zum
+hat, und meist mit atemberaubender Geschwindigkeit ausliefert?  Wohnt man zum
 Beispiel wie wir in San Francisco, kommen die bestellten Waren teilweise noch
 am gleichen Tag an. Das ist besonders in Amerika wegen der weiten Entfernungen
 äußerst bemerkenswert, denn damit der Versand eine Bestellung so zeitnah
@@ -333,8 +333,8 @@ einbunkern, damit Amazon sie in ihrem Auftrag feilbietet. Bestellt nun ein
 Kunde aus einem weiter entfernten Teil der USA die Ware, würde das auf dem
 Postweg ewig dauern. Stellt Amazon aber in diesem Fall fest, dass in einem
 anderen Lager, das näher am Endkunden liegt, die gleiche Ware eines anderen
-Anbieters liegt, schickt es dem Kunden vielmehr dessen Ware, ist ja eh das
-gleiche Trumm, und die Zustellung ist viel schneller und billiger!
+Anbieters liegt, schickt es dem Kunden vielmehr dessen Ware, ist ja eh dasselbe
+Trumm, und die Zustellung ist viel schneller und billiger!
 
 Wie neulich in einem
 <LINK>https://ftalphaville.ft.com/2019/03/20/1553085361000/Amazon--sub-Prime-/|Artikel in der Financial Times</LINK>
@@ -342,7 +342,7 @@ stand, führt das aber zu Problemen, falls
 Gauner-Anbieter minderwertige Waren ans Amazon-Lager schicken. Der Endkunde hat
 keine Ahnung, dass er die bestellte Ware durch Amazon gar nicht von dem von ihm
 ausgewählten Anbieter X
-bekommt, sondern indirekt von einem Gauner, und, das setzt dem Fass die Krone auf,
+bekommt, sondern indirekt von einem Gauner, und das setzt dem Fass die Krone auf:
 der Kunde wird eventuell gefundene Mängel später nicht dem Gauner ankreiden, sondern
 Anbieter X, dem die Klappe runterfällt! Ich habe auch schon Reviews von Produkten gelesen,
 die das Teil bis zu einem bestimmten Datum in den höchsten Tönen preisen, 
@@ -355,9 +355,9 @@ Amazon wohl noch einiges richten, so geht's ja nicht.
 <pic images/chow-outside.ps Das "Chow" an der Ecke Market St./Church St. Foto: flickr[Brian McKechnie|bamcat/47638882]>
 
 <em>Michael</em>
-Eine unserer schönsten Traditionen in San Franisco war bis vor kurzem,
+Eine unserer schönsten Traditionen in San Francisco war bis vor Kurzem,
 mindestens einmal im Monat am Wochenende im Restaurant "Chow" an der Ecke Market/Church
-Street mittagessen zu gehen. Dazu muss man wissen, dass das "Chow" etwa 1,5
+Street zu Mittag essen zu gehen. Dazu muss man wissen, dass das "Chow" etwa 1,5
 Kilometer von uns entfernt liegt, und man auf dem Weg dorthin einen mörderisch 
 steilen Hügel von der Höhe der Zugspitze überqueren muss. Weiter führt der
 Weg durch den Dolores Park, in dem am Wochenende ein unbeschreibliches
@@ -371,7 +371,7 @@ Meist war ich es, der ins Chow drängte, und trotz unzählig vieler Besuche habe
 ich dort während der gesamten 22 Jahre unserer Anwesenheit in San
 Francisco von der ellenlangen Speisekarte insgesamt nur zwei Hauptgerichte
 probiert: Immer habe ich entweder die "Chinese Noodles", Pasta mit einer
-exotischen Ingwer-lastigen gelben Soße, bestellt, oder "Spaghetti with
+exotischen ingwerlastigen gelben Soße, bestellt, oder "Spaghetti with
 Meatballs", die amerikanische Version von Bolognese mit Fleischbällchen.
 Angelika nahm immer "Thai Style Noodles", und dazu gab es als Vorspeise meist
 chinesische "Wontons" mit einer unbeschreiblich leckeren Essigsauce und
@@ -390,16 +390,16 @@ unsere Bude.
 
 Wie gesagt, das war praktisch seit unserer Ankunft 1996 bis 2019 jahrein
 jahraus eine heilige Tradition, aber kürzlich kam überraschend die Meldung,
-dass das "Chow" mir nichts dir nichts den Laden dichtgemacht hat. Es hatte auch noch
+dass das "Chow" mir nichts, dir nichts den Laden dichtgemacht hat. Es hatte auch noch
 zwei weitere Niederlassungen betrieben, eine am Golden Gate Park und eine in der
 East-Bay, aber jetzt sind alle zu, es sieht fast so aus, als hätte der Besitzer
 sie in die Pleite manövriert.  Jammerschade! Nun stehen wir vor dem Nichts und
 ohne Lieblingsrestaurant da, und müssen uns in unserem Alter ein neues suchen,
-das ist doch auch nicht Rechtens!
+das ist doch auch nicht rechtens!
 
 @Z: Fotoshow in San Francisco
 
-<pic images/photoex-hotel-del-sol.ps Ein Touristenhotel als Galerie für ein Wochendende>
+<pic images/photoex-hotel-del-sol.ps Ein Touristenhotel als Galerie für ein Wochenende>
  
 <em>Angelika</em>
 Wer mich näher kennt, weiß, dass ich nicht nur in meiner Arbeit mit
@@ -415,13 +415,13 @@ regelmäßig, um unsere Fotos gegenseitig zu kritisieren und zu begutachten.
 
 <pic images/photoex-framed.ps Angelikas gerahmtes Foto in der Ausstellung>
 
-Höhepunkte sind immer wieder, wenn wir unsere Fotos austellen können. Letztes
+Höhepunkte sind immer wieder, wenn wir unsere Fotos ausstellen können. Letztes
 Wochenende im April ergab sich wieder diese Gelegenheit, und zwar bei der
 sogenannten San Francisco 
 <LINK>https://www.startupartfair.com/about/mission|"Startup Fair"</LINK>.
 Das ist ein super interessanter
 Kunstmarkt in San Francisco, und zwar an einem für Kunstausstellungen
-ungewöhnlichem Ort. Das Ganze findet nämlich nicht in einer Gallerie,
+ungewöhnlichen Ort. Das Ganze findet nämlich nicht in einer Galerie,
 sondern im 
 <LINK>https://www.jdvhotels.com/hotels/california/san-francisco/hotel-del-sol|Hotel del Sol</LINK> in San Francisco
 statt. Drei Tage lang tümmeln sich dort dann nicht Touristen und Geschäftsleute
@@ -438,7 +438,7 @@ erheblichen Kosten verbunden, denn der Künstler muss mehrere tausend Dollar
 hinblättern, um mit dabei zu sein. Jeder hofft natürlich, seine Kunst an den
 Mann zu bringen und zu verkaufen, aber das ist oft leichter gesagt als getan.
 Ein Vorteil ist, dass mitwirkende Künstler bei Verkäufen
-keine Provision an den Veranstalter abdrücken muss, was in Gallerien üblich ist.
+keine Provision an den Veranstalter abdrücken müssen, was in Galerien üblich ist.
 Wir hatten aber Glück, denn wir gelten als gemeinnütziger Verein und einige
 wenige Zimmer im Hotel werden für diese vergeben - wir mussten also nichts
 bezahlen! Jeder von uns Teilnehmern stellte ein gerahmtes Foto an der
