@@ -15,7 +15,7 @@ nach einer Theoriestunde gleich Helme und Latexhandschuhe übergestülpt.
 
 San Francisco verfügt über ein sogenanntes "combined sewer system", leitet
 also Toilettenspülung und sonstiges Haushaltsabwasser zusammen mit dem
-in die Kanalisation laufenden Regenwasser in der gleichen Röhre zur
+in die Kanalisation laufenden Regenwasser in der gleichen Röhre zu
 einer von insgesamt drei Abwasseraufbereitungsanlagen der Stadt.
 
 <pic images/sewer-flow.ps Teilweise stinkt das Abwasser auf dem Weg zur Säuberung ganz erbärmlich.>
@@ -30,7 +30,7 @@ in der Kläranlage herausgefischt und in einer Mülldeponie gelagert wird.
 
 <HTMLONLY><pic images/sewer-buttons.ps Knöpfedrücken war leider nicht erlaubt.></HTMLONLY>
 
-Was übrig bleibt ist übel nach Exkrementen riechendes Brackwasser, dessen
+Was übrig bleibt, ist übel nach Exkrementen riechendes Brackwasser, dessen
 Klärschlammanteil sich langsam nach unten absetzt und dann dort entfernt
 und chemisch verdickt wird, bis er etwa die Konsistenz von heißem Asphalt 
 hat. Er findet anschließend als Düngemittel auf Feldern Einsatz, 
@@ -44,9 +44,9 @@ in den pazifischen Ozean.
 <pic images/sewer-sludge.ps Dieser Klärschlamm wird chemisch verdickt und kommt auf die Müllhalde.>
 
 Amerikaner nennen Exkremente übrigens gerne vernied\-lichend "Poop" oder auch
-"Number Two" oder "#2". Letzeres, damit kleine Kinder Pipi- ("Number One") von
+"Number Two" oder "#2". Letzteres, damit kleine Kinder Pipi- ("Number One") von
 Kakamachen ("Number Two") unterscheiden können. Der Slogan der Kläranlage war
-äußert schmissig und verkündete, dass die braune Schlotze aus der Kanalisation
+äußerst schmissig und verkündete, dass die braune Schlotze aus der Kanalisation
 die erste Priorität der Stadtkläranlage sei, als, na? Richtig: "Your #2 is my
 #1", was tatsächlich auch auf den Aufklebern prangte, die die Arbeiter stolz am
 Helm trugen.
@@ -55,7 +55,7 @@ Helm trugen.
 
 Bei starkem Regen kann es besonders in den umliegenden Städten mit kleineren
 Anlagen wie in Pacifica passieren, dass die Kanalröhren und die zur Sicherheit
-zusätzlich eingebauten Auffangbehälter vollaufen, und dann ist keine Zeit mehr
+zusätzlich eingebauten Auffangbehälter volllaufen, und dann ist keine Zeit mehr
 zum Reinigen der Schlotze, die geht dann ohne Umschweife direkt in den Pazifik.
 Das erklärt auch die Warnschilder, die immer nach starken Regenfällen am Strand
 auftauchen und das Schwimmen untersagen, ich habe mich schon gewundert, woher
@@ -71,7 +71,7 @@ selbst.
 muss ja der Vermieter für Ersatz sorgen, falls ein Küchengerät kaputtgeht, aber
 da der uns ohne Zweifel wieder so ein brülllautes Billiggerät reingestellt
 hätte, bei dem man denkt, die Tür stünde offen und es völlig unmöglich ist,
-Gäste zu unterhalten oder auch nur fernzusehen während die Maschine läuft,
+Gäste zu unterhalten oder auch nur fernzusehen, während die Maschine läuft,
 haben wir was draufgelegt und uns eine leise schnurrende Bosch-Spülmaschine
 gekauft. Ihre Kundenbewertung auf Amazon war zwar nicht gerade berauschend,
 deutsche Erzeugnisse haben mittlerweile einen katastrophalen Ruf in Amerika
@@ -86,7 +86,7 @@ sprachen, angeliefert, und auf meinen Wunsch hin nicht von Fachpersonal
 eingebaut, denn selber einzubauen spart nicht nur Geld (um die $150 hätte das
 gekostet), sondern man lernt auch noch Dinge fürs Leben, wie ich zu meinem
 bassen Erstaunen herausfand. Zum Glück zeigen reihenweise Hobbyhandwerker auf
-Youtube, wie man das Stromkabel sowie die Zu- und Abwasserschläuche anschließt,
+YouTube, wie man das Stromkabel sowie die Zu- und Abwasserschläuche anschließt,
 also ist das kein Problem.
 
 <pic images/dishwasher-electric.ps (#1) Schraubklemmen verbinden die Stromkabel.>
@@ -97,10 +97,10 @@ Oft kommt unter der Küchenzeile nur
 ein Kabel aus der Wand, und nachdem der Klempner die Spülmaschine in ihre
 Nische geschoben hat, schraubt er unten an der Maschine eine Metallblende ab,
 legt das mit tausend Warnungen versehene Elektrik-Kasterl frei, isoliert die
-Enden des Kabels aus der Wand ab, verzwirbelt die Litzen mit der der Maschine,
+Enden des Kabels aus der Wand ab, verzwirbelt die Litzen mit denen der Maschine,
 und schraubt ein Hütchen drauf.  Wer da die Zugentlastung vergisst, erlebt
 unter Umständen ein blaues Wunder, wenn jemand später die Maschine wieder aus
-der Nische herauszieht und vergißt, das Kabel abzuklemmen. Die
+der Nische herauszieht und vergisst, das Kabel abzuklemmen. Die
 Bosch-Spülmaschine hingegen hatte ein ganz vornehmes Verputzkasterl, das man
 unter die Spüle schraubt, einen nicht mitgelieferten Netzstecker anschließt und
 in die nächste Steckdose steckt. Zum Glück hab ich Elektriker gelernt!
@@ -118,14 +118,14 @@ Küchenzeilen ausfüllt. Beim nächsten Mal bin ich schlauer!
 
 Und der Abwasserschlauch muss nach dem gestrengen "Code" des amerikanischen
 Klempnerverbands aus der Maschine heraus erst hoch, über die Höhe des
-Syphons hinaus, geführt werden und anschließend wie in einem Springbrunnen
+Siphons hinaus, geführt werden und anschließend wie in einem Springbrunnen
 durch einen Luftspalt nach unten purzeln. Dadurch kann bei Stauungen
-im Waschbecken oder bei durch Verstopfungen des Syphons kein Abwasser zurück 
+im Waschbecken oder bei Verstopfungen des Siphons kein Abwasser zurück 
 zur Frischwasserzufuhr des Geschirrspülers gelangen.
 Ob das tatsächlich so wichtig ist, dass
 man dafür extra einen Luftspalt einbaut, über den das Wasser aus dem
 Abwasserschlauch erst nach oben spritzt, und dann in einen Auffangbereich
-nach unten fällt, der es weiter ins Syphon oder den Abfallschnetzler
+nach unten fällt, der es weiter in den Siphon oder den Abfallschnetzler
 (Garbage Disposer) leitet, weiß ich nicht, wahrscheinlich ist das so 
 eine Regelung von Anno Dunnemals, die der Joe Schmoe blind und 
 religiös befolgt, wie so oft in der amerikanischen Bürokratie.
@@ -134,14 +134,14 @@ religiös befolgt, wie so oft in der amerikanischen Bürokratie.
 
 Wenn die Spülmaschine grobe Speisereste nämlich nicht kleinhäckselt, sondern
 einfach vom Teller spritzt und abpumpt, verstopfen diese Air Gaps nämlich nicht
-selten und der Nicht-Klempner kratzt sich am Kopf und wundert sich warum
+selten und der Nicht-Klempner kratzt sich am Kopf und wundert sich, warum
 die Spülmaschine das Wasser nicht wieder abpumpt. Dass man die chromfarbene 
 Abdeckung der Air Gap einfach nach oben abziehen kann, und durch das
 Aufdrehen der darunter verborgenen Plastikkappe den Abflussschlauch freilegen
 und etwaige darin verfangene Speisereste einfach entfernen kann, darauf
 kommen die wenigsten.
 
-@Z: New York Times Zeitungs-Abo
+@Z: New-York-Times-Zeitungsabo
 
 <pic images/kindle-nyt-title.ps Für schlappe 19.99 Dollar im Monat kommt die New York Times jeden Tag auf Angelikas Kindle.>
 
@@ -150,7 +150,7 @@ Politische Themen interessieren mich ja sehr. Jeden Tag
 schaue ich mir die einstündige Nachrichtensendung "News Hour" auf dem
 öffentlichen Sender PBS an, meist auch noch "Charlie Rose" (<RBLINK>20161030#9</RBLINK>). Auch die wöchentliche Zeitschrift "New
 Yorker" lese ich und wichtige Artikel online in der "Süddeutschen Zeitung" und
-in der "Die Zeit". Es ist dabei höchst interessant, die Berichterstattung in
+in "Die Zeit". Es ist dabei höchst interessant, die Berichterstattung in
 den verschiedenen Publikationen zu vergleichen. Die renommierte "New York
 Times" darf in dieser Auflistung natürlich nicht fehlen. 
 
@@ -159,7 +159,7 @@ ihren Druckversionen kein Geld mehr machen, da jeder die Nachrichten jetzt über
 die Zeitungswebseiten liest, gehen immer mehr Zeitungen dazu über, für ihre
 Artikel im Internet Geld zu verlangen. Bei der "New York Times" gibt es zum
 Beispiel nur 10 kostenfreie Artikel im Monat. Der Leser kann das etwas
-strecken, wenn man die Seite der New York Times auf unterschiedlichen Geräten
+strecken, wenn er die Seite der New York Times auf unterschiedlichen Geräten
 aufruft, also zum Beispiel auf dem Computer, auf dem Laptop und auf dem
 Telefon. Aber mir reichte das schon seit langem nicht mehr, denn ich lese für
 mein Leben gern die Kommentare der verschiedenen Journalisten auf der
@@ -172,11 +172,11 @@ weil sie sich traditionsgemäß auf der gegenüberliegenden Seite des Leitartike
 befanden (Op-Ed: "opposite the editorial page"). 
 Auf jeden Fall schenkte mir Michael
 zum Hochzeitstag einen Kindle. Und als ich diesen in Betrieb nahm, gab es
-gleich noch eine Überraschung: Denn auf den Kindle war das
-New-York-Times-Abbonnement draufgeladen. Dabei gibt es nicht alle Artikel der
+gleich noch eine Überraschung: Denn auf dem Kindle war das
+New-York-Times-Abonnement draufgeladen. Dabei gibt es nicht alle Artikel der
 "New York Times" in der täglichen Kindle-Version sondern eine Auswahl. Diese
 ist allerdings sehr umfangreich und im Preis inbegriffen ist der unbegrenzte
-Zugang zu den Aritkel auf der Webseite der "New York Times". Das Abo kostet
+Zugang zu den Artikeln auf der Webseite der "New York Times". Das Abo kostet
 übrigens $19.99 im Monat. Jeden Tag lese ich jetzt also fleißig die Artikel
 auf meinem Kindle und komme mir schon vor wie Gesine Cresspahl in dem Buch
 "Jahrestage" von Uwe Johnson.  Diese Protagonistin liest nämlich auch ständig
@@ -191,9 +191,9 @@ unserem Viertel auf einmal an zu riechen, als hätten alle ihre Kamine
 gleichzeitig angezündet.  Wir dachten echt, dass es entweder in der
 Nachbarschaft brennt oder in unserem Haus ein Feuer ausgebrochen wäre. Ich
 sorge mich eigentlich ständig, dass unser Haus einmal in Flammen aufgeht, denn
-in unserem Apartementkomplex wohnen ein paar Typen, die heftig Alkohol und
+in unserem Apartmentkomplex wohnen ein paar Typen, die heftig Alkohol und
 Marihuana konsumieren und nicht immer ganz bei sich sind. Auch schleichen
-manchmal etwas merkwürdige Gestalten auf unserer Dach. Wir müssen also ständig
+manchmal etwas merkwürdige Gestalten auf unser Dach. Wir müssen also ständig
 auf der Hut sein, dass nichts passiert oder jemand auf die Idee kommt, ein
 Lagerfeuer auf unserem Dach zu entzünden. An dem besagten Sonntag machten wir
 also erst die Balkontüren auf, sahen aber nichts. Es wehte uns lediglich ein
@@ -206,10 +206,10 @@ Antworten: Nicht nur unser Viertel "Noe Valley" roch wie ein offener Kamin,
 sondern ganz San Francisco stank nach Feuer.
  
 Bald stellte sich heraus, dass es im anderthalb Autostunden entfernten
-Weingebiet in Napa, und den umliegenden Orten Sonoma, Calistoga und Santa Rosa
+Weingebiet in Napa und den umliegenden Orten Sonoma, Calistoga und Santa Rosa
 lichterloh brannte. Feuer sind in Kalifornien im Herbst leider keine
 Seltenheit, denn nach Monaten ohne Regen ist die Vegetation staubtrocken und
-nur ein kleiner Funke kann sich schnell zu einem großem Flächenbrand
+nur ein kleiner Funke kann sich schnell zu einem großen Flächenbrand
 entwickeln, vor allen Dingen wenn die Flammen durch den Wind angetrieben
 werden. Später stellten sich die Feuer im Norden Kaliforniens dieses Jahr als
 die schlimmsten in der Geschichte Kaliforniens heraus: über 40 Menschen starben
@@ -223,10 +223,10 @@ Kindern in Sicherheit bringen, verlor aber sonst alles.
 <pic images/smoke-sf-noe.ps Selbst in unserem Viertel war von der Rauchwolke alles in gelbes Licht getaucht.>
 
 Die Luft in San Francisco war tagelang so
-schlecht wie in Peking; die Sonnenunergänge schön aber gespenstisch. Ich habe
+schlecht wie in Peking; die Sonnenuntergänge schön, aber gespenstisch. Ich habe
 noch nie in meinem Leben solch eine knallrote Sonne gesehen. Leute liefen
 überall mit Mundschutz herum, wobei ich mir nicht sicher bin, ob das wirklich
-hilft. In der East Bay, wo ich des öfteren arbeitete, hatte ich sogar Asche auf
+hilft. In der East Bay, wo ich des Öfteren arbeitete, hatte ich sogar Asche auf
 dem Auto.
  
 <pic images/costco-masks.ps Damit sie ja kein Kohlenstäubchen einatmen, tragen diese Einkäufer Masken.>
@@ -236,11 +236,11 @@ Wir haben ja schon seit langem Erdbebennotkisten unterm Bett
 Ernstfall abseilen können,  wenn es über das Treppenhaus nicht mehr geht. In
 diesen Kisten sind natürlich nur praktische Sachen und dann haben wir noch einen
 feuerfesten Safe mit Michaels externer Festplatte und unserem Testament.
-Unsere Pässe und Greencard sollten wir vielleicht noch dazu legen und meine
+Unsere Pässe und Greencards sollten wir vielleicht noch dazulegen und meine
 Backups von meinem Computer, damit meine vielen Fotos, an denen ich so hänge,
 nicht verloren gehen. Aber was würden wir vermissen? Was wäre nicht ersetzbar?
 Was würden wir noch schnell einsammeln, wenn wir nur Minuten hätten, um die
-Wohung zu verlassen?
+Wohnung zu verlassen?
 
 <pic images/smoke-mask-bike.ps Dieser Fahrradfahrer schützt sich mit einer Maske vor den Rauchschwaden aus Napa.>
 
@@ -284,7 +284,7 @@ hoch waren, werden durch die Wohnungsknappheit weiter steigen. Schon jetzt
 geben die meisten in der Bay Area 30-50% ihrer Gehälter für die Miete aus,
 manche sogar mehr. Das kalifornische
 <LINK>https://oag.ca.gov/consumers/pricegougingduringdisasters|Strafgesetzbuch
-Abschnitt 396</LINK> unterbindet zwar Preistreiberei zwar nach Katastrophen
+Abschnitt 396</LINK> unterbindet zwar Preistreiberei nach Katastrophen
 (Preise dürfen nicht mehr als 10% erhöht werden), aber das nützt dem Mieter
 auch nichts, der seine noch erschwingliche Wohnung durch die Feuer verloren hat
 und sich auf den überhitzten Markt etwas Neues suchen muss. Viele befürchten
@@ -309,7 +309,7 @@ im Auto Mittag gegessen hat und ich am nächsten Tag damit fahre. Pfui!
 Amerikaner sind ebenfalls geruchsempfindlich, aber zu einem Grad, der
 geradezu lachhaft ist. Die meisten können gerade noch Camembert essen,
 ohne in Ohnmacht zu fallen, Emmenthaler schaffen nur besonders mutige und
-richtige Stinker wie Limburger, Münsterkäse oder mal was französisches
+richtige Stinker wie Limburger, Münsterkäse oder mal was Französisches
 wie Époisses de Bourgogne rühren vielleicht noch 1% an, der Rest 
 schaltet tragbare Tischventilatoren ein, wenn das gute Stück auf den
 Tisch kommt.
@@ -328,7 +328,7 @@ fand ich im Target-Supermarkt eine Sprühflasche des Duftsprayspezialisten
 "Febreze", der auch Dufttüchlein für den Trockner herstellt. Das Produkt heißt
 "Febreze One" und versprüht einen Bambusduft mittels einer Pumpflasche, wie ich
 sie noch nie gesehen habe. Man betätigt einfach den Hebel ein paarmal und nach
-drei, vier Mal versprüht der gleiche Hebel dann den Duftnebel wie wenn Treibgas
+drei-, viermal versprüht derselbe Hebel dann den Duftnebel, wie wenn Treibgas
 drinnen wär, was aber nicht der Fall ist. Nicht so doof wie andere
 Pumpflaschen, bei denen man wie ein Idiot oben reindrücken muss, damit ein
 lasches Spritzerl vorne rauskommt, sondern es geht wirklich wie von selbst und
@@ -350,7 +350,7 @@ immer noch durch den Arbeitgeber erhalten.
 
 Auch wir sind über Michaels Arbeitgeber krankenversichert. Ich könnte 
 auch über die Einrichtung, für die ich arbeitete, eine Krankenkasse erhalten, 
-bin aber statt dessen bei Michael mitversichert, da er bessere Konditionen 
+bin aber stattdessen bei Michael mitversichert, da er bessere Konditionen 
 bekommt. Der Arbeitgeber wählt nämlich eine oder mehrere Krankenkassen aus
 und bietet sie dann den Angestellten an, die sie jedes Jahr neu im
 sogenannten "Open Enrollment" auswählen müssen.
@@ -363,13 +363,13 @@ Kasse und können dann wiederum zwischen zwei verschiedenen Plänen auswählen.
 Meist geht es um die unterschiedliche Höhe der Praxisgebühr, die Höhe der
 Selbstbeteiligung, die freie Arztwahl und die Höhe der monatlichen Beiträge.
 Der Arbeitgeber beteiligt sich in der Regel an den monatlichen Beiträgen, aber
-es gibt keine festgeschriebenen Prozentsätze über Arbeitgeber- oder
-Arbeitnehmeranteil. Die Firma zahlt in der Regel einen wesentlichen höheren
+es gibt keine festgeschriebenen Prozentsätze für den Arbeitgeber- oder
+Arbeitnehmeranteil. Die Firma zahlt in der Regel einen wesentlich höheren
 Prozentsatz der Beiträge als der Versicherte, aber bei meinem Arbeitgeber 
-wäre es deutlich weniger als bei Michaels.
+wäre er deutlich niedriger als bei Michaels.
  
 Jedes Jahr, in der Regel im Herbst, fordert die Firma die Angestellten dazu
-auf, die Versicherung neu festzulegen, dabei kann man die Krankenkasse wechseln
+auf, die Versicherung neu festzulegen. Dabei kann man die Krankenkasse wechseln
 oder einen anderen Plan wählen. Natürlich gilt das nur für die Krankenkassen
 und -pläne, die die Firma anbietet. Auch kann die Firma die Konditionen
 verändern, zum Beispiel kommt es häufig vor, dass die Beiträge steigen, die
@@ -387,19 +387,19 @@ durch Zahlung eines geringen Beitrags zu erhöhen oder eine Lebensversicherung
 für den Partner und die eigenen Kinder abzuschließen oder eine
 ebenfalls bereits angebotene Berufsunfähigkeitsversicherung aufzubessern.
 
-Auch bestimmt der Arbeitnehmer, ob und wieviel er in den sogenannten "Flexible
+Auch bestimmt der Arbeitnehmer, ob und wie viel er in den sogenannten "Flexible
 Spending Account" (<RBLINK>20091104#10</RBLINK>) einzahlen will, der
-steuerfreie Einzahlung für vorraussichtlich anfallende Behandlungskosten
-gestattet. Die steuerfrei erlaubte Höchstsumme beträgt zur Zeit $2600. Wie
+steuerfreie Einzahlungen für voraussichtlich anfallende Behandlungskosten
+gestattet. Die steuerfrei erlaubte Höchstsumme beträgt zurzeit $2600. Wie
 gesagt, nicht jede Firma bietet so einen großzügigen Katalog von Leistungen an.
 Bei mir gäbe es im Vergleich nur Kranken- und Zahnarztversicherung und die
-Möglichkeit in den "Flexible Spending Account" einzuzahlen. Da staatliche
+Möglichkeit, in den "Flexible Spending Account" einzuzahlen. Da staatliche
 Sozialleistungen in den USA begrenzt sind, versuchen Firmen, gute Leute nicht
 nur über vernünftige Gehälter an Land zu ziehen, sondern auch durch die
 angebotenen Zusatzleistungen.
 
-In vielen Gegenden, so auch im Silicon Valley, herrscht zur
-Zeit fast Vollbeschäftigung und dadurch ist es nicht immer einfach, Stellen
+In vielen Gegenden, so auch im Silicon Valley, herrscht zurzeit fast
+Vollbeschäftigung und dadurch ist es nicht immer einfach, Stellen
 mit qualifizierten Leuten zu besetzen. Neulich hörte ich im Radio, dass die
 ersten Firmen bei der Rückzahlung von Studentendarlehen
 helfen, um Leute zu kriegen und offene Stellen zu besetzen. Denn das
@@ -408,7 +408,7 @@ Abschlüssen arbeiten nach abgeschlossenem Studium oft jahrelang einen
 riesigen Schuldenberg ab.
 
 Auf ähnliche Weise ist das Krankenkassensystem in den USA übrigens erst
-entstanden, nachdem Arbeitgeber ihren Angestellten eine Krankenkasse anbieten.
+entstanden, nachdem Arbeitgeber ihren Angestellten eine Krankenkasse anboten.
 Im Zweiten Weltkrieg ging die Angst vor der Inflation um und die amerikanische
 Regierung beschloss, Löhne und Gehälter einzufrieren. Das gefiel den
 Gewerkschaften gar nicht, sie drohten mit Streiks und auch den Arbeitgebern war
@@ -417,7 +417,7 @@ höheren Gehälter anbieten konnten, um diese zu rekrutieren.  Daraufhin
 beschloss die amerikanische Regierung, dass eine vom Arbeitgeber angebotene
 Krankenkasse nicht als Gehaltszahlung anzusehen ist und somit von der
 Reglementierung ausgeschlossen war. Firmen boten dann eine Krankenkasse an, um
-ihre Firma attraktiver für Arbeitssuchenende zu machen.  1943 beschloss die
+ihre Firma attraktiver für Arbeitssuchende zu machen.  1943 beschloss die
 amerikanische Steuerbehörde, dass vom Arbeitgeber angebotene
 Krankenkassenzuschüsse von der Steuer befreit sind und etablierte damit das
 heutige Krankenkassensystem der USA.
