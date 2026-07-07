@@ -27,7 +27,7 @@ Bahnen hielt, sagte keiner etwas.  In letzter Zeit geht es im Park allerdings
 zu wie im Karneval in Rio. Laute Musik tönt aus mitgebrachten Lautsprechern.
 Alkoholisierte Menschen pinkeln genussvoll und ohne Scham in die Anlagen oder
 auch schon einmal in die Hauseingänge der anliegenden Häuser. Marihuana wird
-in allen möglichen Formen konsumiert, was allerdings zugegebener Maßen nichts
+in allen möglichen Formen konsumiert, was allerdings zugegebenermaßen nichts
 Neues ist im Park. Montag stapelt sich der Müll im Park, weil keiner scheinbar
 in der Lage ist, seinen Müll in Mülltüten zu befördern und neben die
 Parkmülltonnen zu stellen. 
@@ -111,8 +111,8 @@ immer Bier der ortsansässigen "Kona"-Brauerei,
 die ähnlich wie 
 <LINK>http://en.wikipedia.org/wiki/Gordon_Biersch_Brewing_Company|Gordon Biersch</LINK> 
 klassische Sorten komponiert. Allerdings war
-in dem im Costco-Supermarkt in Honululu erworbenen Sparpack 
-"Big Kahuna" letztes mal ein Sixpack der Sorte
+in dem im Costco-Supermarkt in Honolulu erworbenen Sparpack
+"Big Kahuna" letztes Mal ein Sixpack der Sorte
 "Koko Brown" dabei, das so absurd nach Kokosnuss schmeckte, dass ich nicht
 mehr als einen Schluck runterbrachte, den verbleibenden Flascheninhalt 
 wortlos weggoss, und die 
@@ -130,7 +130,7 @@ neumodischen Geschmacksverfeinerungsmethoden greift, die in Deutschland
 verboten sind. Im Napa Valley baut zum Beispiel jeder Winzer seine schweren
 Rotweine mit in den Fässern eingelagerten Holzchips verschiedener 
 Geschmacksrichtungen aus. Die neuen Hipster-Biere,
-die trendige Brauereien heute skrupellos mit Hollunder, Grapefruit,
+die trendige Brauereien heute skrupellos mit Holunder, Grapefruit,
 Kürbisgeschmack oder
 chemischem Firlefanz anreichern, kann man beim besten Willen nicht mehr
 einfach zum Essen trinken, sondern vielleicht nur noch wie bei einer Weinprobe 
@@ -163,16 +163,16 @@ Lieblingsrestaurant "Chow" ein Bierglas für $4.50 vorsetzte, das etwa
 
 <em>Angelika</em> Touristen klappern ja gerne die Standardsehenswürdigkeiten
 einer Stadt ab, das ist in San Francisco nicht anders: Golden Gate Bridge,
-Cable Car, Golden Gate Park, Alcrataz, Alamo Square mit den hübschen Häuschen
+Cable Car, Golden Gate Park, Alcatraz, Alamo Square mit den hübschen Häuschen
 und immer wieder Fisherman's Wharf, obwohl mich dort keine 10 Pferde mehr
 hinbekommen.  Vieles ist auch lohnend, aber es gibt immer noch Ecken, die
 Touristen und auch Einheimische sträflich vernachlässigen, die aber das Herz
 und die Seele dieser Stadt ausmachen. Der Stadtteil "Dogpatch" mit dem
 angrenzenden Pier 70, der sich auf der östlichen Seite der Stadt, zwischen
-der Mariposa Street, der Chesar Chavez Street und dem Wasser der Bay 
+der Mariposa Street, der Cesar Chavez Street und dem Wasser der Bay
 befindet, gehört zum Beispiel dazu. 
 
-<pic images/dogpatch-piccino.ps Neue Szenerestaurants wie as "Piccino" locken mit leckeren Speisen und erlesenen Weinen.>
+<pic images/dogpatch-piccino.ps Neue Szenerestaurants wie das "Piccino" locken mit leckeren Speisen und erlesenen Weinen.>
 
 Das Dogpatch-Gebiet hat eine schillernde Geschichte aufzuweisen.
 Dort stehen einige der ältesten Häuser von San Francisco, denn das
@@ -195,7 +195,7 @@ stampfte. Nicht alle Veränderungen sind schlecht, so findet man super
 Restaurants im Viertel,
 aber auch Geschäfte, die San Francisco ausmachen und noch nicht in jeder
 Metropole dieser Welt zu finden sind, wie zum Beispiel das Taschengeschäft
-<LINK>http://www.rickshawbags.com|"Rigshaw Bagworks"</LINK>
+<LINK>http://www.rickshawbags.com|"Rickshaw Bagworks"</LINK>
 oder <LINK>http://pocodolce.com|"Poco Dolce"</LINK> für 
 Konfekt und Schokolade.
 
@@ -204,7 +204,7 @@ Konfekt und Schokolade.
 Auch eine gehobene Metzgerei steht dort, nämlich
 <LINK>http://www.oliviersbutchery.com|"Olivier’s Butchery"</LINK>, 
 ein Geschäftsmodell,
-das fast vom Austerben bedroht ist in den USA, denn die meisten 
+das fast vom Aussterben bedroht ist in den USA, denn die meisten
 Leute kaufen ihre
 Fleischprodukte abgepackt im Supermarkt ein. 
 <LINK>http://workshopresidence.com|"The Workshop Residence"</LINK>
@@ -212,7 +212,7 @@ ist ebenfalls interessant. Künstler erhalten dort die Möglichkeit,
 mit ortsansässigen Firmen zusammen zu arbeiten und ihre einzigartigen 
 Produkte herzustellen und zu verkaufen. 
 
-<pic images/dogpatch-saloon-bar.ps Der Saloon ist die lokale Oase für durstige  Dogpatch-Bewohner.>
+<pic images/dogpatch-saloon-bar.ps Der Saloon ist die lokale Oase für durstige Dogpatch-Bewohner.>
 
 <pic images/dogpatch-crane.ps Teilweise sehen die verlassenen Gebäude aus wie im Film "Planet der Affen".>
 
@@ -231,13 +231,13 @@ zu streunen und mir vorzustellen, wie das Ganze vor 100 Jahren ausgesehen hat.
 Der Pier 70 ist übrigens nicht völlig verlassen, denn die Schiffswerft
 repariert immer noch Schiffe und das 
 <LINK>http://www.noonanbuildingartists.com|Noonan Gebäude</LINK>
-beherbert Künstler. Allerdings stehen die Bagger schon in
+beherbergt Künstler. Allerdings stehen die Bagger schon in
 der Warteschleife, denn das brachliegende Gelände soll ab 2017 saniert werden
 und neue Apartmentgebäude und Geschäftskomplexe sollen entstehen, 
 angeblich mit dem
 Auftrag, einige der historischen Gebäude in die neue Landschaft zu integrieren.
-Guckt euch die Gegend lieber noch schnell an, denn die neusten fertiggestellten
-Bauprojekte in San Fransisco strotzen vor Langweiligkeit und architektonischer
+Guckt euch die Gegend lieber noch schnell an, denn die neuesten fertiggestellten
+Bauprojekte in San Francisco strotzen vor Langweiligkeit und architektonischer
 Einfallslosigkeit.
 
 @Z: Teure Hühnereier
@@ -281,7 +281,7 @@ ganz gut schmeckenden Exemplaren erwischt.
 
 Allerdings führt unser Edelbiomarkt "Whole Foods" seit neuestem Eier von
 glücklichen freilaufenden 
-Hennen zu einem exorbitanten Preis, die jedesmal gleich gut
+Hennen zu einem exorbitanten Preis, die jedes Mal gleich gut
 schmecken. Mit fünf Dollar pro 6er-Pack sind sie allerdings gut dreimal
 so teuer wie andere angebliche Bio-Produkte, aber wenn man wie wir 
 vielleicht zweimal pro Woche ein Frühstücksei isst, fällt der Mehrpreis
@@ -290,7 +290,7 @@ nicht verbandelt mit dem famosen Supermarkt "Rainbow Groceries")
 repräsentiert zudem typisches San Francisco Multi Kulti:
 Die Eier sind alle verschiedenfarbig, manche weisen
 sogar einen seltsamen Grünton auf. Der Osterhase ist dabei, 
-soviel ich weiß, nicht im Spiel.
+so viel ich weiß, nicht im Spiel.
 
 <pic images/rainbow-groceries-eggs.ps Rainbow Groceries verkauft noch bessere Eier von noch glücklicheren Hennen für fast zehn Dollar das Dutzend.>
 
@@ -333,7 +333,7 @@ Kletter-Karabiner auf Reisen mit, aber die wogen selbst ein halbes Pfund!
 Die Waage firmiert unter verschiedenen Marken, unsere heißt Tarriss, aber
 ich habe auf amazon.de schon eine unter dem Namen "Söhnle" gesehen.
 Ich nehme an, es handelt sich in allen Fällen um ein und dasselbe 
-Chinesenprodukt, auf der Anbieter nur ihren Namen aufdrucken. Die
+Chinesenprodukt, auf das Anbieter nur ihren Namen aufdrucken. Die
 Waage ist einwandfrei verarbeitet und stimmt unserer Erfahrung nach
 aufs Pfund genau. Sie ist federleicht und kostet etwa 15 Dollar.
 
@@ -345,7 +345,7 @@ wo bleibt Obama mit sinnvollen Initiativen, wenn man ihn braucht?
 
 @Z: Marathon-Fernsehen mit Netflix
 
-<pic images/netflix-banner.ps Mit dem Flatrate-Netflix-Abo schauen manche Leute fern bis zum umfallen.>
+<pic images/netflix-banner.ps Mit dem Flatrate-Netflix-Abo schauen manche Leute fern bis zum Umfallen.>
 
 <em>Angelika</em> Netflix (<RBLINK>20101219#3</RBLINK>) gibt es ja mittlerweile
 auch in Deutschland und wir sind schon gespannt, ob das Streamen über Netflix
@@ -377,7 +377,7 @@ wäre ich nicht mehr vom Fernseher wegzukriegen.
 <pic images/no-dogs-allowed.ps In Restaurants und Lebensmittelmärkten sind in Kalifornien keine Hunde zugelassen.>
 
 <em>Michael</em>
-Immer wenn von einem Deutschlandurlaub wieder zurück nach San 
+Immer wenn ich von einem Deutschlandurlaub wieder zurück nach San
 Francisco komme, fallen mir bestimmte Prinzipien auf, die der Amerikaner
 kennt und der Deutsche nicht. In der neuen Serie "Amerikanische Prinzipien"
 gehe ich das Thema jetzt mal an.
@@ -406,7 +406,7 @@ Nur Restaurants sind streng, die setzen das Hundeverbot immer
 durch, und nur wer draußen sitzt, darf einen Hund dabeihaben. Der
 Grund: Die Besitzer würden ihre Lizenz verlieren, falls es publik würde,
 dass ein Wirt in den Schankräumen Hunde duldet. 
-Leinenpflicht für Hunde am Strand oder in Parks? Amis Fiffi braucht 
+Leinenpflicht für Hunde am Strand oder in Parks? Amis' Fiffi braucht
 nicht angeleint zu werden, der will bloß spielen! Kommt der Ranger und
 macht Rabatz, gibt man sich kleinlaut und keiner hat das Schild gelesen.
 
@@ -469,7 +469,7 @@ Richtungen ab, gerne auch blendend nach oben in den Rückspiegel
 des Vordermanns gerichtet.
 Zwar schreiben die staatlichen Automobilämter die maximal zugelassenen
 Dezibelzahlen bei der Lärmentfaltung von Kraftfahrzeugen vor, doch kein
-staatliches Organ prüft diese je nach. Röhrende Autos und knatternde
+staatliches Organ prüft diese je. Röhrende Autos und knatternde
 Motorräder zuhauf sind die Folge.
 
 Die Polizei hat nicht mal Geräuschmessgeräte auf ihren Streifenfahrten dabei
@@ -509,9 +509,9 @@ Allerdings scheint sich kaum jemand um die Vorschriften zu scheren, wie das
 Autos sind gang und gäbe in Kalifornien. Wir fahren übrigens zwei
 Autos, die die Motorfreunde besonders gern klauen und frisieren, und 
 nicht umsonst stehen beide Modelle auf der Top-10-Liste der 
-meistgestohlenden Autos Amerikas. Wie ihr wisst, wurde unser 24 Jahre
+meistgestohlenen Autos Amerikas. Wie ihr wisst, wurde unser 24 Jahre
 alter Perly Perlman schon mal von Halbstarken gestohlen 
-(<RBLINK>20120305#1</RBLINK>), und seit dem parken wir ihn nicht mehr
+(<RBLINK>20120305#1</RBLINK>), und seitdem parken wir ihn nicht mehr
 auf der Straße, sondern nur noch in der Garage!
 
 Grüße aus dem Land der Gesetzlosen:
