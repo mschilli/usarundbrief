@@ -53,7 +53,7 @@ will: Orlando. Das Leben geht weiter.
 
 <em>Michael</em> Wenn wir uns im Urlaub einen Mietwagen buchen, kommt am
 Schalter ja traditionsgemäß die Frage auf, wie man denn das Fahrzeug versichern
-wolle. Im allgemeinen müssen Autovermieter kostenfrei eine
+wolle. Im Allgemeinen müssen Autovermieter kostenfrei eine
 Haftpflichtversicherung anbieten, die dann einspringt, wenn der Kunde andere
 Autos oder Leute anschrammt. Aber Vorsicht: Je nach Bundesstaat decken diese
 Policen oft nur den gesetzlich vorgeschriebenen Mindestbetrag ab, in
@@ -77,7 +77,7 @@ wird?  Auch hier bieten die Mietwagenanbieter entsprechende Produkte an. Für
 etwa 15 Dollar pro Tag kann der Kunde das Auto am Schalter
 voll\-kasko\-versi\-chern.
 Zum gespielten Entsetzen der Schalter\-fritzen lehne ich aber immer alle
-Versicherungen ab, wenn wir mal wieder einen Wagen abholen, und verlassen uns
+Versicherungen ab, wenn wir mal wieder einen Wagen abholen, und verlasse mich
 auf unsere private Autoversicherung sowie unsere Kreditkarte. Karten wie
 unsere American Express bieten nämlich eine eingeschränkte
 Vollkaskoversicherung an, wenn man mit ihnen die Mietwagenrechnung bezahlt.
@@ -121,8 +121,8 @@ Schadensabwicklung sich hinziehen oder der
 Autovermieter Fisimatenten machen würde.
 
 Daheim angekommen, füllte ich in etwa 15 Minuten auf der Internetseite
-der Amex-Versicherung yourrentalcarclaim.com ein paar Formulare mit
-anklickbaren Optionen aus und bekam prompt eine Bestätigung per Email, 
+der Amex-Versicherung yourcarrentalclaim.com ein paar Formulare mit
+anklickbaren Optionen aus und bekam prompt eine Bestätigung per E-Mail,
 und tags
 darauf noch eine, die mir sogar einen persönlichen Sachbearbeiter zuwies.
 
@@ -139,7 +139,7 @@ $85.39.
 Ich wählte die auf dem Brief angegebene Telefonnummer, bekam einen sehr
 professionell klingenden jungen Mann an den Apparat und erzählte ihm,
 dass meine Amex-Kreditkarte den Schaden übernehmen würde. Ich bestätigte
-meinen Namen und Adresse und die Nummer des von mir an Amex
+meinen Namen und meine Adresse und die Nummer des von mir an Amex
 übermittelten Schadensberichts an Amex. Das war's! Zwei Wochen später
 lag ein Schreiben von Amex im Kasten, mit der Bestätigung, dass Amex
 von den geforderten $490.37 exakt $378.03 bezahlt hatte (Abbildung (#2)).
@@ -168,7 +168,7 @@ und kann ruhigen Auges in die Zukunft blicken.
 weiter steigenden Mieten haben uns mittlerweile vor New York auf den Platz 1
 der teuersten Stadt Amerikas katapultiert.  Auch bei Einbrüchen und Diebstählen
 haben wir die Nase vorn und sind mittlerweile ebenfalls auf Platz 1 in den
-Statistiken gelandet. Die Mörderrate ist in San Francisco allerdings,
+Statistiken gelandet. Die Mordrate ist in San Francisco allerdings,
 verglichen mit anderen Großstädten in den USA, immer noch niedrig.
 
 In New York nennt man San Francisco deshalb
@@ -196,7 +196,7 @@ nichts führt.
 Wie kommt es zu dem rasanten Anstieg der Autoeinbrüche? Für den Dieb lohnt es
 sich finanziell auf Dauer sicher, denn geschnappt wird kaum jemand.  Viele sind
 der Meinung, dass die im Jahr 2014 von den kalifornischen Wählern abgesegnete
-sogenannte "Proposition 47" daran Schuld ist. Zentrales Thema von
+sogenannte "Proposition 47" daran schuld ist. Zentrales Thema von
 Proposition 47 war eine Gesetzesänderung, nach der bestimmte,
 nicht gewalttätige Delikte, wie zum Beispiel
 Drogenbesitz, als geringfügige Delikte ("misdemeanor") zu werten und mit
@@ -214,14 +214,14 @@ Drogenbesitz, wenn die Drogen nur für den persön\-lichen Gebrauch bestimmt sin
 Und tatsächlich zeigten die ersten Statistiken, dass die Gefängnisse sich
 nach Inkrafttreten des Gesetzes zu leeren begannen.
 In Los Angeles fiel die Anzahl der Insassen von 18.601 auf 17.285 im
-Januar 2015. Allerdings stiegen die Anzahl der Einbrüche und Diebstähle in
+Januar 2015. Allerdings stieg die Anzahl der Einbrüche und Diebstähle in
 mehreren großen kalifornischen Städten (zum Beispiel San Francisco) stark
 an.
 
 Nun ist es nicht so, dass Leute, die Einbrüche begehen, die unter Proposition 47
 fallen, gar nicht mehr bestraft werden können. Eine Gefängnisstrafe bis zu
 einem Jahr ist immer noch möglich, sowie Geldstrafen. Allerdings liegt vieles
-im Ermessen des Staatsanwaltes von San Franciso, der entscheidet,
+im Ermessen des Staatsanwaltes von San Francisco, der entscheidet,
 ob ein Fall zum Beispiel
 überhaupt verfolgt wird. Und wie gesagt, die Polizei ertappt nur selten
 jemanden auf frischer Tat. Allgemein begegnet man in San Francisco oft einer
@@ -234,7 +234,7 @@ die ansteigende Zahl von aus Autos gestohlenen Waffen, die anschließend
 oft bei kriminellen Aktivitäten Anwendung finden. Sage und schreibe
 57 Waffen sind seit November 2015 von Dieben aus diversen Autos gestohlen
 worden. Dabei ist allein der Gedanke schon erschreckend,
-wieviele Leute mit Waffe im Auto herumfahren. Einige der Opfer waren
+wie viele Leute mit Waffe im Auto herumfahren. Einige der Opfer waren
 Ordnungshüter, die berufsbedingt bewaffnet herumfahren. Dazu gehörte
 vor drei Wochen ein FBI-Beamter, der zu Besuch in der Stadt war. Einige der
 gestohlenen Waffen waren vorher noch nicht einmal ordnungsgemäß in
@@ -248,7 +248,7 @@ Manchmal geht hier wirklich zu wie im Wilden Westen.
 <pic images/sfmoma-outside.ps Der neue Museumsanbau wirft Falten wie ein ungebügeltes Bettlaken.>
 
 <em>Angelika</em>
-Letztes Wochenende zog es uns ins San Franciscos
+Letztes Wochenende zog es uns ins San Francisco
 Museum of Modern Art, das seit Mitte Mai endlich wieder offen ist.
 Schlappe drei Jahre lang war es geschlossen
 gewesen, der Umbau und die Erweiterung haben 305 Millionen Dollar gekostet.
@@ -257,7 +257,7 @@ hatte vor über 20 Jahren Mario Botta entworfen. Der Anbau wurde notwendig,
 um Platz für neue Werke zu schaffen. Die Fisher-Familie, Gründer der
 in San Francisco ansässigen Klamottenfirma GAP, haben dem
 Museum für mindestens 100 Jahre insgesamt 1100 Werke ausgeliehen,
-für die im alten Gebäude einfach kein mehr Platz war.
+für die im alten Gebäude einfach kein Platz mehr war.
 
 <pic images/sfmoma-tickets.ps Zwei Freikarten für langjährige Gold-Members.>
 
@@ -267,7 +267,7 @@ Jahren nach San Francisco gezogen sind, und alle über das damals neue
 als ob ein Aschenbecher auf dem Dach sitzt.
 Mittlerweile gehört es aber so zum Stadtbild, dass es sich keiner
 mehr wegdenken kann. So bekamen die neuen Architekten den Auftrag, das neue
-und das alte Gebäude zu integrieren. Die norwegische Architektenfirma Snohetta
+und das alte Gebäude zu integrieren. Die norwegische Architektenfirma Snøhetta
 erhielt den Zuschlag und kreierte ein weißes Gebäude, das ein wenig an ein
 zerknauschtes Bettuch erinnert. Innen ist es aber hell, skandinavisch
 minimalistisch und funktional.
@@ -281,8 +281,8 @@ Museumsbesucher auf fast jedem Stockwerk nach draußen kann, um auf
 die Stadt zu blicken.
 Es gibt natürlich auch Skulpturen auf den Dachterrassen und
 eine riesige grüne Wand bestehend aus Pflanzen, vor der sich
-zur Zeit jeder fotografieren lässt.
-Das neue Gebäude verfügt über mehrere Cafes und ein Restaurant,
+zurzeit jeder fotografieren lässt.
+Das neue Gebäude verfügt über mehrere Cafés und ein Restaurant,
 die auch Kunstmuffel zum Verweilen einladen. Und Begeisterte für
 moderne Kunst kommen voll auf ihre Kosten: Werke von
 Warhol, Lichtenstein, Calder, Rothko,
@@ -360,7 +360,7 @@ braunmachende Lauge, die man als Normalverbraucher gar nicht kaufen kann,
 weil sie in ungebackenem Zustand tatsächlich giftig ist. Mangels
 professionell hergestellter Brezeln habe ich mich deshalb auf die Suche
 nach alternativen Backmethoden gemacht und wurde im Supermarkt "World Market"
-in Daily City fündig, etwa 10km südlich von uns. Dort verkaufen sie
+in Daly City fündig, etwa 10km südlich von uns. Dort verkaufen sie
 eine Packung mit "Kathi's Pretzel Mix", die neben einer Mehlmischung,
 Hefe und groben Salzkörnern auch die notwendige Lauge als anfeuchtbares
 Pulver enthält.
@@ -368,7 +368,7 @@ Pulver enthält.
 <pic images/kathi-pretzels-done.ps Die fertigen Brezen kommen nach zwanzig Minuten schön knusprig aus dem Backofen.>
 
 In einem
-<LINK>https://www.youtube.com/watch?v=E164UUBY8Hk|Youtube-Video zum Brezelbacken</LINK> habe ich mit Kamerafrau Angelika festgehalten, wie daraus
+<LINK>https://www.youtube.com/watch?v=E164UUBY8Hk|YouTube-Video zum Brezelbacken</LINK> habe ich mit Kamerafrau Angelika festgehalten, wie daraus
 wirklich astreine knusprige Brezen im heimischen Ofen entstehen. Die ganze
 Prozedur mit Teigruhe und Backzeit dauert etwa zwei Stunden, die wichtigsten
 Schritte schneidet das Video in 10 Minuten zusammen. Die Packung mit dem Mix
@@ -387,8 +387,8 @@ und wir kopfschüttelnd mit ansehen mussten, wie Donald Trump sich tatsächlich
 bei den Republikanern durchgesetzt hat, unterzeichnete unser Gouverneur Jerry
 Brown gleich zwei Gesetze, von denen viele andere Bundesstaaten nur träumen
 können.  Der Mindestlohn wird in Kalifornien bis zum Jahr 2022 auf $15 pro
-Stunde angehoben. Zur Zeit beträgt er in Kalifornien $10, amerikaweit gilt ein
-Mindestlohn von $7.25. Die einzelnen Bundestaaten können ihren eigenen
+Stunde angehoben. Zurzeit beträgt er in Kalifornien $10, amerikaweit gilt ein
+Mindestlohn von $7.25. Die einzelnen Bundesstaaten können ihren eigenen
 Mindestlohn festsetzen, solange er höher als $7.25 ist.  Städte und Kommunen
 dürfen ebenfalls mehr vorschreiben, als ihr Bundesstaat festsetzt. So zahlt San
 Francisco schon jetzt einen Mindestlohn von $12.25 pro Stunde, ab Juli dann
@@ -401,7 +401,7 @@ geben wird.
 
 Ein weiteres von Jerry Brown unter Dach und Fach gebrachtes neues Gesetz
 besagt, dass Frauen in Kalifornien ohne ärztliches
-Rezept und Altersbeschränkung die Antibabypille nach kurzer Beratung mit dem
+Rezept und ohne Altersbeschränkung die Antibabypille nach kurzer Beratung mit dem
 Apotheker erhalten dürfen. In Amerika sind, wie schon öfter erwähnt, Apotheken
 mit verschreibungspflichtigen Medikamenten meist in den Drogeriemarkt oder
 Supermarkt integriert. Auch im Bundesstaat Washington, in Oregon und in
@@ -446,9 +446,9 @@ als Schönheitsmittelchen ein.
 
 Also muss der Patient selber zahlen. Aber 800 Dollar für ein
 kleines Tübchen Salbe ist schon etwas verrückt! Der Apotheker meinte dann
-freundlich, dass die Salbe eben ein Markenprodukt sei, und kein Generika. Meine
+freundlich, dass die Salbe eben ein Markenprodukt sei, und kein Generikum. Meine
 Versicherung hat jetzt alternative Salben vorgeschlagen. Da ich eh kein großer
-Freund von Chemiekeulen bin, werde ich miner Haut lieber etwas Gutes mit den
+Freund von Chemiekeulen bin, werde ich meiner Haut lieber etwas Gutes mit den
 Naturprodukten von Dr. Hauschka tun. Die sind im Vergleich dazu das reinste
 Schnäppchen.
 
@@ -457,10 +457,10 @@ Schnäppchen.
 <pic images/surf-with-kids-2.ps Der kleine Surfer scheint begeistert.>
 
 <em>Angelika</em>
-Uns zog es einmal wieder mal nach Oahu dieses Jahr.  Traditionelles Surfen ist
+Uns zog es wieder einmal nach Oahu dieses Jahr.  Traditionelles Surfen ist
 dort immer noch in. Solange die Inseln weiter bestehen, wird dort gesurft
 werden. Aber alle paar Jahre gibt es einen neuen Trend, wenn es um den
-hawaiianschen Wassersport geht. Zunächst kamen die Kitesurfer, die zu
+hawaiianischen Wassersport geht. Zunächst kamen die Kitesurfer, die zu
 Michaels Unmut kreuz und quer mit ihren riesigen Fallschirmen im Ozean
 herumrasen. Es gibt sie zwar immer noch, aber die Popularität des Sports
 scheint auf Hawaii schon wieder abzuklingen. Zum Segen der Schwimmer, die sich
@@ -468,7 +468,7 @@ immer der Gefahr aussetzen, dass ein Kitesurfer seinen Fallschirm nicht
 beherrscht und auf sie plumpsen lässt.  Dann kamen die Standup-Paddleboarder,
 die ihr Surfbrett zum Paddelboot umfunktionierten und sich auf dem Brett
 stehend mit Hilfe eines Paddels vorwärts bewegten. Diese Methode der
-Fortbewegung hat in Hawaii zugegebener Maßsen eine sehr lange Tradition, aber
+Fortbewegung hat in Hawaii zugegebenermaßen eine sehr lange Tradition, aber
 erlebt in den letzten Jahren ein regelrechtes Comeback bei Leuten, 
 die zu unsportlich zum richtigen Surfen sind.
 
