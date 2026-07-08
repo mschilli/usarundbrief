@@ -20,9 +20,9 @@ vernünftige Arbeitslosen- und Kranken\-versicherung lassen im Vergleich zu
 anderen westlichen Ländern sehr zu wünschen übrig. Bisher schien aber jeder
 an dem Traum festzuhalten, dass auch er irgendwann sich aus der Masse der 99%
 löst und zu den 1% Superreichen gehört. 
-Die Proteste setzte interessanterweise die rechtslastige Tea-Party-Bewegung
+Die Proteste setzten interessanterweise die rechtslastige Tea-Party-Bewegung
 in Gang. Sie kritisierte die finanziellen Rettungsaktionen im Zuge der 
-Häuser-und Bankenkrise sowie Obamas Vorstoß bezüglich einer Krankenkasse 
+Häuser- und Bankenkrise sowie Obamas Vorstoß bezüglich einer Krankenkasse
 für alle. Viele sehen die Tea-Party-Bewegung auch als den Protest von rechts 
 und die Occupy-Wall-Street-Aktion als die Gegenbewegung von links an.
 
@@ -59,16 +59,16 @@ Demonstranten wieder in ihren Zelten auf dem Frank Ogawa Plaza ansiedelten.
 
 Allerdings reicht es jetzt den mittelständischen Betrieben und Anwohnern rund
 ums Rathaus. Die behaupten nämlich, dass sich keiner mehr in die Innenstadt
-Oaklands traut und ihre Einnahmen dramatisch zurück gegangen sind. Quan
-hoffte, dass die Protestanten freiwillig das Weite suchen. Heute morgen
+Oaklands traut und ihre Einnahmen dramatisch zurückgegangen sind. Quan
+hoffte, dass die Protestierenden freiwillig das Weite suchen. Heute Morgen
 wurde allerdings gemeldet, dass die sogenannte "Riot Police" den Platz
 geräumt hat.
 
 Allgemein bleibt spannend, was aus der Bewegung in den verschiedenen Städten
-wird. Um nachhaltig Einfluss  zu gewinnen und etwas zu verändern, kommt man
+wird. Um nachhaltig Einfluss zu gewinnen und etwas zu verändern, kommt man
 wohl nicht um politische Institutionen herum. Ich sage ja schon seit Jahr und
 Tag, dass die USA dringend eine buntere Parteienlandschaft braucht und vieles an
-der Eingefahrenheit des zur Zeit bestehenden Zweiparteiensystems liegt.
+der Eingefahrenheit des zurzeit bestehenden Zweiparteiensystems liegt.
 
 @Z: Abenteuer Verkaufssteuer 
 
@@ -85,7 +85,7 @@ Und wie in Deutschland ist der Verkäufer nur Mittelsmann,
 er führt die vom Kunden erhobene Steuer lediglich ans Finanzamt ab,
 ohne selbst davon zu profitieren.
 Anders als in Amerika wäre es in Deutschland allerdings illegal, 
-die Mehrwehrtsteuer für Endverbraucher erst an der Kasse aufzuschlagen,
+die Mehrwertsteuer für Endverbraucher erst an der Kasse aufzuschlagen,
 der Preis auf dem Etikett enthält dort die Mehrwertsteuer bereits.
 Der Amerikaner findet es normal, dass die Kasse einen krummen Betrag
 draufrechnet.
@@ -93,7 +93,7 @@ draufrechnet.
 Ihr habt vorher richtig gelesen, die Höhe der Sales Tax variiert mit dem
 Landkreis. Wenn ich ein T-Shirt für 9,99 Dollar 
 kaufe, kostet es im Macy's-Kaufhaus
-am Union Square in der Innenstadt von San Franciso 10,84 Dollar, weil
+am Union Square in der Innenstadt von San Francisco 10,84 Dollar, weil
 der Steuersatz im Landkreis San Francisco 8,5% beträgt. Der Macy's 
 in der Serramonte Shopping Mall in South San Francisco (20km südlich) kassiert
 aber nur 10,81 Dollar, weil der Landkreis South San Francisco die
@@ -132,7 +132,7 @@ Pico Rivera und South Gate würden für das 9,99-Dollar-T-Shirt glatt 10,95
 Dollar abkassieren!
 
 Jeder Bundesstaat legt
-<LINK>http://en.wikipedia.org/wiki/Sales_taxes_in_the_United_States#Texas|unterschiedliche Regelungen|Sales Tax per Bundesstaat|</LINK> für die Basisrate und den maximalen Prozentsatz fest. Alaska, Delaware, New Hampshire, Montana and 
+<LINK>http://en.wikipedia.org/wiki/Sales_taxes_in_the_United_States#Texas|unterschiedliche Regelungen|Sales Tax per Bundesstaat|</LINK> für die Basisrate und den maximalen Prozentsatz fest. Alaska, Delaware, New Hampshire, Montana und
 Oregon erheben überhaupt keine Verkaufssteuer und untersagen dies auch ihren 
 Landkreisen. Außerdem fällt die Steuer nur dann an, falls die Ware im
 steuerpflichtigen Bundesstaat 'verbraucht' wird. Auf einen im Bundesstaat
@@ -162,18 +162,18 @@ sich der im Bundesstaat Delaware ansässige Katalogversand
 gilt: Unternehmen ohne Niederlassung im Bundesstaat dürfen nicht zum
 Eintreiben der örtlichen Sales-Tax gezwungen werden.
 
-<HTMLONLY><pic images/amzn-sales-tax.ps Amazon behält zur Zeit (Oktober 2011) Sales Tax für Kunden aus den Bundesstaaten Kansas, Kentucky, New York, North Dakota und Washington ein.></HTMLONLY>
+<HTMLONLY><pic images/amzn-sales-tax.ps Amazon behält zurzeit (Oktober 2011) Sales Tax für Kunden aus den Bundesstaaten Kansas, Kentucky, New York, North Dakota und Washington ein.></HTMLONLY>
 
 Diese Gesetzeslücke nutzt der Amazon-Versand 
 dazu, von kaufwütigen Kaliforniern keine Sales-Tax
 einzutreiben. Er hat deswegen seit Jahrzehnten 
 auf Teufel komm raus vermieden, in 
-Kalifornien eine physikalische
+Kalifornien eine physische
 Präsenz zu errichten. Die meisten Lieferungen kommen per Lastwagen
 aus einem Warenhaus nahe der Stadt Reno auf der Nevada-Seite der kalifornischen
 Grenze. Und wer "amazon digital music san francisco" googelt, sieht zum Beispiel
 Job-Angebote bei "A2Z Development Center, Inc." im Herzen von
-San Francisco, wo Software-ingenieure Amazons iTunes-Klon zusammenzimmern. 
+San Francisco, wo Software-Ingenieure Amazons iTunes-Klon zusammenzimmern.
 Amazon hat der Abteilung extra einen nichtssagenden Namen gegeben, damit sie 
 nicht als Amazon-Niederlassung in Kalifornien gilt.
 
@@ -219,12 +219,12 @@ eine bei Amazon beantragte Associates-Nummer bei, könnte ich bis zu
 Sind diese "Associates" Kalifornier, so fand Jerry Brown, hat Amazon
 plötzlich eine Präsenz im Staate und muss Sales-Tax eintreiben. Amazon
 reagierte im Juni 2011 sofort und strich das Associates-Programm
-in Kalifornien. Die von Jeff Bezos unterzeichnete Email sprach gar
+in Kalifornien. Die von Jeff Bezos unterzeichnete E-Mail sprach gar
 von Verstößen des Staates Kalifornien gegen die Bundesverfassung!
 Nach einigen Wochen Streit einigte man sich jedoch darauf, dass
 Amazon die Steuer
 <LINK>http://online.wsj.com/article/SB10001424052970204138204576598883358407422.html|erst ab September 2012|Amazon treibt ab September 2012 California Sales Tax ein</LINK> eintreiben muss.
-Prompt schickte Amazon Anfang Oktober 2011 eine erfreute Email an alle
+Prompt schickte Amazon Anfang Oktober 2011 eine erfreute E-Mail an alle
 gekündigten Associates, und versicherte 
 dass das Programm jetzt weiterliefe. Bis September 2012 will Amazon
 nun versuchen, auf den Kongress einzuwirken 
@@ -262,11 +262,11 @@ Spott erträgt. Leider fand sich niemand.
 
 <pic images/american-football.ps Schiedsrichter beim American Football pfeifen neuerdings bei groben Fouls ab.>
 
-Selbst in der rauhen Sportart American Football, in der sich furcht\-erre\-gende
+Selbst in der rauen Sportart American Football, in der sich furcht\-erre\-gende
 steakgenährte Muskelmänner in lächerlich dicken Schulter\-polstern um einen
 eiförmigen Ball kloppen, ist der Sicherheitswahn eingezogen. Nachdem Ärzte
 festgestellt hatten, dass ständige Schläge auf den behelmten Kopf nicht
-gerade förderlich für's Gehirn sind, wurden bestimmte Manöver verboten.
+gerade förderlich fürs Gehirn sind, wurden bestimmte Manöver verboten.
 Neulich schleuderte 
 <LINK>http://www.youtube.com/watch?v=skj-u0XzxX8|der mächtige Linebacker Ndamukong Suh</LINK>
 der Detroit Lions, eine Art menschlicher Rammbock,
@@ -274,7 +274,7 @@ den schmächtigen Quarterback der "Bengals", Andy Dalton, zu Boden,
 nachdem der Ball schon weg war.
 Zur Entrüstung der Sportwelt pfiff der Schiedsrichter dies als
 "unnötige Härte" ab. Das wäre vor 30 Jahren noch undenkbar gewesen, damals
-war selbst noch das sogenannte Clothesline-Manöver erlaubt, bei der
+war selbst noch das sogenannte Clothesline-Manöver erlaubt, bei dem
 ein Spieler mit seitlich ausgestrecktem Arm an einem anderen vorbeirennt 
 und ihn damit zu Fall bringt, wie wenn dieser gegen eine gespannte
 Wäscheleine gelaufen wäre. Das waren noch Zeiten!
@@ -317,7 +317,7 @@ teilweise als soziale Brennpunkte bekannt sind.
 <pic images/sf-ethnicity.ps (#1) Hautfarben in San Francisco: Rot: Weiß, Blau: Schwarz, Grün: Asiatisch, Orange: Latino. Grafik: flickr[Eric Fischer|walkingsf/4981425631]>
 
 Trifft man nun zum Beispiel eine Person zum ersten Mal, und hat noch nie
-ein Bild von ihr gesehen, machen sich die meisten Leuten 
+ein Bild von ihr gesehen, machen sich die meisten Leute
 unweigerlich schon mal ein Bild im Kopf: Männlich oder weiblich, alt oder 
 jung? Führt die Person nicht gerade einen exotischen Namen würde man sich
 in Deutschland gar keine Gedanken um die Hautfarbe machen, denn die wäre
@@ -329,7 +329,7 @@ basierend auf Vor- und Nachnamen ab. Ein "Tim O'Reilly",
 ist mit 100%iger Wahrscheinlichkeit irischer Abstammung, ein 
 "John McLaughlin" Ire oder Schotte. Ein "Joshua Rosenzweig" ist jüdischer 
 Abstammung, eine "Jessica Chang"
-meist Chinesisch, ein "Srivasan Venkataraman" Inder. Ein "Manuel Rodriguez"
+meist Chinesin, ein "Srivasan Venkataraman" Inder. Ein "Manuel Rodriguez"
 stammt meist aus Südamerika, eine "Latisha Smith" ist höchstwahrscheinlich 
 schwarze Amerikanerin, ein "Eric Schmidt" könnte ein deutscher
 Einwanderer dritter Generation sein. 
@@ -354,7 +354,7 @@ schon seit mehreren Jahren heraus\-gefunden, dass man Vornamen allein nicht
 direkt mit Erfolg oder Misserfolg im Leben in kausalen Zusammenhang
 bringen kann. Erwiesener\-maßen schneiden die Tyrones und die Latishas dieser
 Welt aber schlechter ab als die Gregs und Britneys. Wie kommt das? Laut
-Freakonimics liegt der Grund vielmehr bei den Eltern und im Milieu: Jemand,
+Freakonomics liegt der Grund vielmehr bei den Eltern und im Milieu: Jemand,
 der seinem Kind den Namen Tyrone oder Latisha gibt, lebt häufig in einem
 problematischen sozialen Umfeld und nimmt's oft nicht so genau mit 
 dem Kontrollieren der Hausaufgaben wie die Eltern von Greg und Britney.
@@ -381,14 +381,14 @@ kandidiert und seine Nominierung ist nur noch eine Formalität, konzentriert sic
 alles auf die republikanischen Kandidaten. Die republikanische Basis bewegt nur
 eins: Wer kann es schaffen, Obama zu schlagen?
 
-<pic images/mitt-romney-flickr-6149221622.ps Der aussichtssreichste republikanische Kandidat Mitt Romney. Foto: flickr[Gage Skidmore|gageskidmore/6149221622]>
+<pic images/mitt-romney-flickr-6149221622.ps Der aussichtsreichste republikanische Kandidat Mitt Romney. Foto: flickr[Gage Skidmore|gageskidmore/6149221622]>
 
 Mitt Romney gilt als der Kandidat mit den größten Chancen, zumindest
-wenn es um die allgemeine Präsidenschaftswahl und nicht die Vorwahlen geht.
+wenn es um die allgemeine Präsidentschaftswahl und nicht die Vorwahlen geht.
 Natürlich nützt ihm diese Prognose nichts, wenn er die Vorwahlen nicht
 gewinnt. Hier ist das Dilemma: Um in den USA ins Weiße Haus zu gelangen, muss
 man die politische Mitte ansprechen, also Wählerstimmen von sogenannten
-Unabhängigen ("Independents") ergattern. Diese Wähler fühlen  sich keiner
+Unabhängigen ("Independents") ergattern. Diese Wähler fühlen sich keiner
 Partei zugehörig und wählen durchaus republikanische oder
 demokratische Kandidaten, je nach eigener Stimmungslage oder der im
 Land. In der Regel vertreten die unabhängigen Wähler aber keine extremen
@@ -399,7 +399,7 @@ seiner Partei zuwenden, zum Beispiel der religiösen Rechten und der
 "Tea-Party-Bewegung".
 
 Allerdings bekleidete er von 2002-2007 das Amt des Gouverneurs von Massachusetts
-und wirkte mit, die Krankenkasse für alle in seinem Bundestaat einzuführen. Das
+und wirkte mit, die Krankenkasse für alle in seinem Bundesstaat einzuführen. Das
 Modell in Massachusetts ähnelt dann auch sehr dem Obama-Modell. Da aber fast
 alle republikanischen Kandidaten strikt gegen die von Obama initiierte
 Gesundheitsreform sind und sie sogar zurückrollen wollen, steht Romney jetzt
@@ -436,7 +436,7 @@ eine nationale Verkaufssteuer von 9% wird eingeführt und Unternehmen
 werden ebenfalls mit 9% besteuert. Cain hat momentan allerdings andere
 Probleme, denn die Presse grub eine alte Geschichte aus den 90ern
 aus, als er der National Restaurant Association vorstand und 
-drei Frauen Beschwerden gegen ihn wegen sexueller Belästigtigung am 
+drei Frauen Beschwerden gegen ihn wegen sexueller Belästigung am
 Arbeitsplatz einreichten.  Einer der Betroffenen zahlte er
 damals eine Abfindung. Sexuelle Belästigung am Arbeitsplatz wird in Amerika
 recht streng gehandhabt, dahinter können sich schlüpfrige
@@ -454,8 +454,8 @@ Wirtschaftsboom in Gang setzte, indem er Arbeitsplätze trotz einer
 Wirtschaftsflaute im übrigen Land schuf. Nun ist Texas ein ganz eigenes 
 Pflaster und was dort gut
 ankommt, funktioniert im Rest des Landes nicht unbedingt. In den ersten
-Debatten trat Perry gleich in mehrere Fettnäpfen, weil er oft Fakten
-durcheinander brachte und munter drauflos redete, ohne voher über das Gesagte
+Debatten trat Perry gleich in mehrere Fettnäpfchen, weil er oft Fakten
+durcheinander brachte und munter drauflos redete, ohne vorher über das Gesagte
 nachzudenken. Er lehnt Obamas Gesundheitsreform strikt ab, was Perrys Kritiker
 immer wieder darauf hinweisen lässt, dass Texas unter seiner Führung 
 mit 26% den traurigen Rekord der meisten unversicherten Bürger aufstellte.
@@ -465,9 +465,9 @@ mit 26% den traurigen Rekord der meisten unversicherten Bürger aufstellte.
 Michele Bachmann galt lange als die zweite Sarah Palin und bekam 
 viel Aufmerksamkeit durch die Presse
 bevor Rick
-Perry seine Ambitionen auf das Präsidenschaftsamt kundtat. Wohl auch 
+Perry seine Ambitionen auf das Präsidentschaftsamt kundtat. Wohl auch
 deshalb, weil sie wie Palin oft mit konservativen
-politischen Platitüden um sich wirft. Sie befürwortet niedrige 
+politischen Plattitüden um sich wirft. Sie befürwortet niedrige
 Steuern, wenig Staat,
 ist gegen die Gesundheitsreform, gegen gleichgeschlechtliche Partnerschaften 
 und Ehen und glaubt, dass Klimaveränderungen ein Mythos sind. 
@@ -483,7 +483,7 @@ anmuten. Sein Ziel ist es, sich streng an die Prinzipien der Gründungsväter
 der Nation zu
 halten. Er möchte den Staat so klein wie möglich halten, glaubt an
 Selbstverwaltung und Deregulierung, die Vereinfachung des Steuersystems, die
-Abschaffung der US-Notenbank, die starke Verkleinerung des amerkanischen
+Abschaffung der US-Notenbank, die starke Verkleinerung des amerikanischen
 Militärs und eine Außenpolitik der Nicht-Einmischung. Viele sehen ihn als
 Vordenker der Tea-Party-Bewegung an, wobei nicht alle seine Prinzipien mit der
 Bewegung übereinstimmen. Er hat treue Anhänger, die nicht nur aus dem rechten
@@ -505,7 +505,7 @@ beliebter Gouverneur in Utah. Auch er ist wie Romney bekennender Mormone.
 Newt Gingrich hatte seine besten politischen Jahre Mitte der Neunziger, als er
 1994 maßgeblich daran beteiligt war, dass die Republikaner nach einer langen
 Durststrecke die Mehrheit im US-Repräsentantenhaus erlangten. Von 1995 bis
-1999 fungierte er als Sprecher des Repräsentantenhaus. Er gilt als äußerst
+1999 fungierte er als Sprecher des Repräsentantenhauses. Er gilt als äußerst
 polarisierender Politiker mit nicht ganz privater weißer Weste, was vielen
 Parteifreunden ein Dorn im Auge ist. So ist er bereits das dritte Mal
 verheiratet und hatte, während er das Amtsenthebungsverfahren von Bill Clinton
@@ -531,10 +531,10 @@ Tim Pawlenty gaben deswegen schon im August und September auf.
 
 @Z: Mit den Fingern zählen
 
-<pic images/count-three.ps (#13) So signalisiert man auf amerikanisch die Zahl Drei.>
+<pic images/count-three.ps (#13) So signalisiert man auf Amerikanisch die Zahl Drei.>
 
 <em>Michael</em>
-Spätestens seit dem Tarantino-Film <LINK>http://en.wikipedia.org/wiki/Inglourious_Basterds|Inglourious Basterds</LINK>, in der ein amerikanischer Spion sich 
+Spätestens seit dem Tarantino-Film <LINK>http://en.wikipedia.org/wiki/Inglourious_Basterds|Inglourious Basterds</LINK>, in dem ein amerikanischer Spion sich
 dadurch verrät, dass er drei Bier mit den falschen Fingern bestellt, sollte
 klar sein, dass Amerikaner und Deutsche unterschiedliche Fingerzeichen 
 nutzen.
@@ -568,7 +568,7 @@ Amazon-Versand bietet eine ordentliche Auswahl aktueller Titel an.
 Meiner Ansicht nach läutet diese Entwicklung ein rasches Ende
 aller Druckerzeugnisse und Buchläden ein. Bald werden Schulkinder ungläubig
 mit dem Finger auf Leute mit herkömmlichen Büchern zeigen, als wären
-dies Egozentriker, die Schallplatten mit der Nadel abhören.
+dies Exzentriker, die Schallplatten mit der Nadel abhören.
 Alle Verlage, die nicht schleunigst umstellen, werden über kurz oder lang 
 Konkurs anmelden. Im Rundbrief hört ihr's wie immer zuerst, von euren 
 Reportern aus der Zukunft. Wer schlau ist, hört darauf, handelt danach, und
@@ -625,7 +625,7 @@ runterzuladen, wenn das offizielle Buch nur wenige Euro kostet?
 <pic images/kindle-on-loan.ps (#14) Hat man ein Kindle-Buch ausgeliehen, ist es auf dem eigenen Kindle gesperrt.>
 
 Der Kindle modelliert lustigerweise auch etablierte Gepflogenheiten von 
-tradionellen Buchlesern: So darf man ein gekauftes Buch für zwei Wochen an einen
+traditionellen Buchlesern: So darf man ein gekauftes Buch für zwei Wochen an einen
 befreundeten Kindle-Besitzer verleihen. Während dieser Zeitspanne bleibt die
 Ausgabe auf dem Kindle des Verleihers gesperrt (Abbildung (#14)).
 Und auch Leihbüchereien können eine Anzahl von Ausgaben eines
