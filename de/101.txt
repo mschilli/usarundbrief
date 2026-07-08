@@ -38,8 +38,8 @@ Sinn, eine Waffe aus dem Verkehr zu ziehen, mit der sowieso nicht mehr
 geschossen werden kann. Die Veranstaltungen organisiert und beaufsichtigt in
 der Regel die Polizei in Zusammenarbeit mit irgendwelchen
 Nachbarschaftsgruppen. Diesmal verlangten sie allerdings die Vorlage eines
-gültigen Führerscheins oder einer aktuellen Stromrechung, um sicher zu 
-stellen, dass nur tatsächlich vor Ort wohnende Reumütige mit Omas
+gültigen Führerscheins oder einer aktuellen Stromrechnung, um sicherzustellen,
+dass nur tatsächlich vor Ort wohnende Reumütige mit Omas
 Schießgewehr ankamen, und nicht Waffenhändler aus dem Umkreis, 
 um Ladenhüter loszuwerden.
 
@@ -66,7 +66,7 @@ San Francisco hat wie viele Metropolen dieser Welt
 notorischen Parkplatzmangel. Wir haben schon des öfteren berichtet, 
 welche
 Feinheiten der Autofahrer, der in San Francisco einen Parkplatz sucht, zu
-beachten hat: Straßenreiningung, Anwohnerparken, rote, grüne, blaue und
+beachten hat: Straßenreinigung, Anwohnerparken, rote, grüne, blaue und
 weiße Markierungen am Randstein, und so weiter. 
 Parken an der Parkuhr ist in der Regel
 teuer. Im Schnitt kostet es $2 pro Stunde, aber in Downtown San Francisco
@@ -75,7 +75,7 @@ neuen Parkuhren gehen dann auch mit der Zeit und können nicht nur mit
 Kleingeld gefüttert werden. Der Autofahrer kann mit Kreditkarte zahlen
 oder einer Parkkarte, die er im Wert von $20 oder $50 erwerben kann und
 dann in die Parkuhr steckt. Der entsprechende Betrag wird dann von der Karte
-abgebucht. Bis zu Beginn diesen Jahres brauchten Autofahrer bis auf
+abgebucht. Bis zu Beginn dieses Jahres brauchten Autofahrer bis auf
 einige wenige Ausnahmen sonntags nichts in die Parkuhren zu werfen. 
 Ab Januar 2013 ist das
 vorbei. Auch am Sonntag kostet das Parken an der Parkuhr in San Francisco 
@@ -126,33 +126,33 @@ Fahrspur befinden, anhielt, dem freundlichen Herrn oder der netten Dame, die im
 Häuschen Dienst schoben, sein Bargeld in die Hand drückte und von dannen
 fuhr. Ich erinnere mich noch an die Zeiten, als wir als Touristen in San
 Francisco unterwegs waren und immer etwas unangenehm auffielen, weil wir
-den Brückenzollkassierer an der Golden Gate Bridge um eine Quitting baten, die
+den Brückenzollkassierer an der Golden Gate Bridge um eine Quittung baten, die
 ich unbedingt ins Reisefotoalbum einkleben wollte. Ende März ist die Zeit der
 Brückenzollkassierer (toll collectors) an der Golden Gate Bridge nun 
 schlagartig vorbei. Es kann dann nur noch elektronisch bezahlt werden und 
 dazu braucht man keine Menschen mehr. 
 
-Schon seit dem Jahr 2000 ist die Golden Gate Bridge dem sogenannten Fastrak-System 
+Schon seit dem Jahr 2000 ist die Golden Gate Bridge dem sogenannten FasTrak-System
 angeschlossen. Michael hat dies schon einmal sehr genau beschrieben
 (<RBLINK>20060421#1</RBLINK>). Der Autofahrer hat
 einen kleinen Transponderkasten im Auto und wenn er über die Golden Gate
 Bridge fährt, kommunizieren der Transponder und die Mautstelle miteinander und
 der Betrag, der zu entrichten ist, wird vom kreditkartengefütterten
-Fastrakkonto abgezogen. Nutzt man Fastrak auf der Golden Gate Bridge, beträgt
-der Brückenzoll übrigens nur $5. Das Fastraksystem kann beim Überqueren von
+FasTrak-Konto abgezogen. Nutzt man FasTrak auf der Golden Gate Bridge, beträgt
+der Brückenzoll übrigens nur $5. Das FasTrak-System kann beim Überqueren von
 allen möglichen Brücken in der Bay Area (und kalifornienweit) benutzt werden,
 so zum Beispiel auch wenn wir über die Bay Bridge fahren. 
 Dieses System bietet
 sich natürlich hauptsächlich für Einheimische an, die häufig die Brücken
 vor Ort überqueren. Ich muss für die Arbeit häufig in der Woche über die
 Bay Bridge fahren, die Oakland und San Francisco verbindet, und ich würde ohne
-unser Fastrak schier verzweifeln, denn mit Fastrak kann ich einfach durch eine
-der designierten Fastrakspuren sausen, ohne großes Gebremse oder Warten
+unser FasTrak schier verzweifeln, denn mit FasTrak kann ich einfach durch eine
+der designierten FasTrak-Spuren sausen, ohne großes Gebremse oder Warten
 im Stau vor den Kassenhäuschen.
 
-<pic images/fastrak.ps Seit geraumer Zeit übernimmt der "Fastrak"-Transponder die elektronische Bezahlung.>
+<pic images/fastrak.ps Seit geraumer Zeit übernimmt der "FasTrak"-Transponder die elektronische Bezahlung.>
 
-Was machen jetzt aber Leute wie Touristen oder diejenigen, die kein Fastrak
+Was machen jetzt aber Leute wie Touristen oder diejenigen, die kein FasTrak
 möchten, wenn das Barzahlen auf der Golden Gate Bridge Ende März der
 Vergangenheit angehört?
 Eine Möglichkeit ist,
@@ -160,11 +160,11 @@ ein ans Nummernschild gebundenes Konto zu eröffnen
 ((<LINK>http://goldengate.org/tolls/|"License Plate Account"</LINK>).
 Der Fahrer registriert sein Autonummerschild online, gibt seine
 Kreditkarte an, und jedes Mal, wenn er über die Brücke fährt, geht der
-Brückenzoll von der angegeben Kreditkarte ab. Dazu braucht es keinen
+Brückenzoll von der angegebenen Kreditkarte ab. Dazu braucht es keinen
 Transponder im Auto, denn ein Automat auf der Brücke schießt ein Foto vom
 Nummernschild des durchfahrenden Autos. 
 Oder es gibt auch die Möglichkeit der Einmalzahlung, die
-bis zu 30 Tagen vor oder bis zu 48 Stunden nach Überquerung der Golden Gate
+bis zu 30 Tage vor oder bis zu 48 Stunden nach Überquerung der Golden Gate
 Bridge online oder per Telefon mit Hilfe einer Kreditkarte erfolgen
 kann. 
 
@@ -189,7 +189,7 @@ Ausländische Touristen, die ja in der Regel mit einem Mietauto über die
 Golden Gate Bridge fahren, sollten sich übrigens beim Anmieten 
 des Fahrzeugs erkundigen, ob
 die Autovermietungsfirma ein eigenes Brückenzollprogramm anbietet. Oft führt
-das Mietfahrzeug einen Fastrak-Kasten im Auto mit und der Kunde entscheidet, ob er ihn
+das Mietfahrzeug einen FasTrak-Kasten im Auto mit und der Kunde entscheidet, ob er ihn
 nutzen möchte oder nicht. Falls der Kunde sich dagegen entscheidet, muss er
 sich selbst um die Bezahlung des Brückenzolls kümmern. Macht er nichts und die 
 Autovermietungsfirma erhält später eine Rechnung von den Brückenbetreibern, 
@@ -216,7 +216,7 @@ durchfährt, kostet
 es heute $62. Parken an einer abgelaufenen Parkuhr? $72!
 Richtig teuer wird's an Bushaltestellen, dort langt die 
 städtische Knöllchenbehörde mit $267 zu. Viele Leute denken sich nichts
-dabei, mal schnell jemand an einer Bushaltestelle rauszulassen, wenn grade
+dabei, mal schnell jemand an einer Bushaltestelle rauszulassen, wenn gerade
 kein Bus kommt. Aber wenn das ein Polizeiauto sieht und nicht gerade auf
 Gangsterjagd ist, kassiert der Polizist gnadenlos für die Stadt ab.
 
@@ -288,17 +288,17 @@ Vor einiger Zeit schickte sich deshalb ein Startup-Unternehmen namens
 an, Fahrgäste für etwa das Doppelte einer Taxifahrt in schwarzen
 Limousinen zu befördern. Die Autos der Marke Lincoln Town Car werden 
 von livrierten Chauffeuren gefahren und nicht etwa herangewunken oder
-herbeitelefoniert, sondern per SMS oder einer App für's Handy binnen Minuten 
+herbeitelefoniert, sondern per SMS oder einer App fürs Handy binnen Minuten
 bestellt. Auf dem 
 Handy kann der Kunde dann gespannt verfolgen, wie die Limo sich nähert.
 Bezahlt wird nach der Fahrt bargeldlos übers Handy, das Trinkgeld ist 
 inbegriffen, der Kunde darf den Fahrer anschließend bewerten und die 
-Rechnung kommt per Email. Da kein Bargeld im Spiel ist, fahren die Chauffeure
+Rechnung kommt per E-Mail. Da kein Bargeld im Spiel ist, fahren die Chauffeure
 sogar die sozialen Brennpunkte San Franciscos an, denen normale Taxifahrer
 wegen schlotternder Knie fernbleiben!
 
 Naturgemäß entfachen die etablierten Taxi-Feudalherren in jeder Stadt, die
-Uber erobert, einen Rechtsstreit und legten im Mai 2012
+Uber erobert, einen Rechtsstreit; so legten sie im Mai 2012
 <LINK>http://news.cnet.com/8301-1023_3-57493358-93/uber-boston-promises-to-fight-cease-and-desist-order|Uber in Boston zeitweise lahm|Uber in Boston zeitweise lahmgelegt</LINK>. Uber bewegt
 sich auf wackligem rechtlichem Boden und argumentiert, dass es nicht etwa 
 mit Taxis operiert sondern eine ganz neue Art der Beförderung anbietet.
@@ -318,12 +318,12 @@ etwa 20% weniger als eine entsprechende Taxifahrt vom Fahrer "vorgeschlagen"
 wird. 
 
 Fahrer und Fahrgast bewerten sich anschließend gegenseitig über die
-App, und damit ist sichergestellt, dass der Fahrgast "freiwilig" 
+App, und damit ist sichergestellt, dass der Fahrgast "freiwillig"
 ordentlich zahlt und der Fahrer gut fährt.
 Lyft zahlt seinen angestellten Fahrern in den ersten paar Wochen 
 einen Festlohn von $18 pro
-Stunde. Sobald sie sich die Fahrer einen festen Kundenkreis aufgebaut haben, 
-dürfen sie statt dessen 80% der Einnahmen behalten. 
+Stunde. Sobald sich die Fahrer einen festen Kundenkreis aufgebaut haben,
+dürfen sie stattdessen 80% der Einnahmen behalten.
 Es handelt sich fast ausschließlich um junge Leute, die sich ein paar 
 Dollar dazu verdienen und die ihre Fahrgäste
 mit einem sogenannten "Fist-Bump" begrüßen, dem in urbanen Zentren zwischen
@@ -345,7 +345,7 @@ also vom Kongress gesetzlich vorgeschriebene Feiertage. Doch diese gelten nicht
 für die Privatwirtschaft. Vielmehr handelt es sich um sogenannte "Banking
 Holidays", also Feiertage, an denen Banken und andere Leimsiederbetriebe wie
 Schulen und die Post geschlossen haben. Die Privatwirtschaft sucht sich für
-ihre Angestellen die wichtigsten Feiertage heraus und gibt an zwei, drei Tagen
+ihre Angestellten die wichtigsten Feiertage heraus und gibt an zwei, drei Tagen
 weniger frei. Außerdem haben die Geschäfte an großen Feiertagen nicht etwa zu,
 sondern, im Gegenteil, extra lange auf. Wann sollen fleißige Arbeitnehmer
 auch sonst einkaufen?
@@ -360,7 +360,7 @@ pragmatisch jedes Mal am dritten Montag im Januar, damit jedes Jahr ein
 verlängertes Wochenende rausspringt!
 
 Am President's Day am zweiten Montag im Februar, auch "Washing\-ton's Birthday"
-genannt, gedenkt der Amerikaner dem ersten in einer langen Reihe aller
+genannt, gedenkt der Amerikaner des ersten in einer langen Reihe aller
 amerikanischen Präsidenten. Der richtige Geburtstag des Mannes auf der
 Rückseite der Ein-Dollar-Note war übrigens am 22. Februar.  Dann wird's dünn
 mit verlängerten Wochenenden für Arbeit\-nehmer bis in den Mai, denn Ostern und
@@ -372,7 +372,7 @@ staatliche Institution.
 <pic images/presidio-cemetery.ps Am Memorial Day gedenkt man in Amerika gefallener Soldaten.>
 
 Am "Memorial Day", am letzten Montag im Mai gedenkt der Amerikaner schließlich
-den gefallenen Soldaten zahlreicher Kriege. Wer gefallene Angehörige hat,
+der gefallenen Soldaten zahlreicher Kriege. Wer gefallene Angehörige hat,
 besucht diese auf dem Friedhof. Am vierten Juli feuert Amerika dann
 kindersicheres Tischfeuerwerk ab, isst massenweise Hot Dogs und gedenkt der
 Unabhängigkeit Amerikas vom englischen Königszirkus. Amerika war ja ehemals
@@ -431,7 +431,7 @@ Silvester ist wie in Deutschland ebenfalls kein offizieller Feiertag.  So
 kommen amerikanische Arbeitnehmer oft auf 12 oder mehr zusätzliche freie Tage
 im Jahr.  Wegen der Montagsregel gehen kaum welche verloren. Zum Vergleich:
 Bayern hat etwa 15 potentiell auf Wochentage fallende Feiertage im Jahr. Damit
-geht es den Amerikanern im Vergleich ganz gut. Gut, gut in punkto 
+geht es den Amerikanern im Vergleich ganz gut. Gut, gut in puncto
 Jahresurlaub hinken sie natürlich hinterher, über die für neue
 Mitarbeiter üblichen zwei Wochen kann der Deutsche mit seinen sechs
 Wochen nur lachen. Allerdings bin ich mittlerweile 
@@ -454,7 +454,7 @@ mich zu wetten, dass ein Abiturient aus Deutschland nicht mal die Hälfte der
 Dinge auf Englisch benennen könnte, die in einem Baumarkt verkauft werden.
 
 Was heißt Zange? Bohrmaschine? Türklinke? Türangel? 
-Schleifpapier? Kreuzschlitzschaubenzieher? Antworten folgen weiter unten,
+Schleifpapier? Kreuzschlitzschraubenzieher? Antworten folgen weiter unten,
 damit ihr nicht schummelt.
 Der in Abbildung (#5) gezeigte Rollgabelschlüssel heißt auf Englisch
 übrigens "adjustable wrench". Für schwerere Arbeiten an Metallrohren dienen
@@ -485,7 +485,7 @@ Strandmobils (<RBLINK>20120801#10</RBLINK>)
 nur mit Metallsplinten an der Achse
 befestigt sind (Abbildung (#6)). Ob das nicht "Pfusch" wäre? 
 
-Gleich zu Anfang stellte sich heraus, dass es auf amerikanisch kein Wort 
+Gleich zu Anfang stellte sich heraus, dass es auf Amerikanisch kein Wort
 für "Pfusch" gibt. Wenn etwas in Amerika halbwegs zusammenhält, ist es 
 brauchbar und dann wird kein weiterer Gedanke daran verschwendet. Aber,
 wandte ich ein, ob es denn nicht sinnvoller wäre, statt der Metallsplinte
@@ -522,14 +522,14 @@ In Deutschland
 bestimmt die "Sozialversicherungsnummer" einen Arbeitnehmer, der irgendwann
 mal eine Rente erhält. In den USA ist die SSN eine Art Identifikation für
 Staatsbürger und legale Einwanderer. Illegale Einwanderer kaufen sich
-gestohlene Nummern oder recyclen Nummern von Verstorbenen, denn ohne diese
+gestohlene Nummern oder recyceln Nummern von Verstorbenen, denn ohne diese
 Nummer kriegt man kaum einen Fuß auf den Boden in diesem Land: 
 Die Bank fragt danach, wenn man
 ein Konto eröffnen möchte, die Führerscheinstelle, wenn man eine
 Fahrerlaubnis für den jeweiligen Bundesstaat beantragt, und die Arztpraxis
 lässt neue Patienten ihre SSN in Formulare einfüllen.
 Ruft man in der Telefonzentrale beim Online-Banking an, identifiziert
-der freundliche Kundenberater den Anrufer oft über die letzen vier Ziffern
+der freundliche Kundenberater den Anrufer oft über die letzten vier Ziffern
 der SSN. Als ich anno 1996 eingewandert bin, wollte sogar der
 Supermarkt Costco zur Ausstellung meines Mitgliedsausweises meine
 "Social" wissen und ich Depp habe sie damals nichtswissend rausgerückt.
@@ -544,10 +544,10 @@ Nichtsnutz die Nummer gewinnbringend im Untergrund an zwielichtige
 Gestalten verscherbeln und wildfremde Personen nehmen kurze Zeit
 später die Identität des unbescholtenen Geldbeutelbesitzers an.
 Sie nehmen Kredite auf, die sie dann nicht zurückzahlen und treiben allerhand
-Schabernack, die der rechtmäßige SSN-Besitzer dann in jahrelanger,
+Schabernack, den der rechtmäßige SSN-Besitzer dann in jahrelanger,
 mühevoller Kleinarbeit berichtigen muss, wenn ihm niemand mehr Geld leiht,
 weil sein Ruf ruiniert ist und seine Kredithistorie ("Credit Report", 
-<RBLINK>20040518#4</RBLINK>) einen böse Beule abbekommen hat.
+<RBLINK>20040518#4</RBLINK>) eine böse Beule abbekommen hat.
 
 Im Krankenhaus oder beim Blutabnehmen im Labor identifizieren die Angestellten
 die Patienten mit Hilfe des Geburtsdatums. Die Schwester fragt: "What's your
@@ -558,7 +558,7 @@ Müller eingepumpt kriegt. Ruft man bei einer Kreditkartenfirma an, und
 will seinen Kontostand wissen,
 fragt das automatische System auch manchmal nach dem Mädchennamen der Mutter,
 den man bei der Anmeldung ebenfalls hinterlassen hat. Wird es ganz
-kritisch, wie bei einer gestohlen gemeldeten Kreditkarte, identifizieren
+kritisch, wie bei einer als gestohlen gemeldeten Kreditkarte, identifizieren
 die Kartenfirmen den Kunden anhand mehrerer Teilinformationen aus dessen
 Kredithistorie. Was war zum Beispiel
 der Arbeitgeber, den der Kunde beim allerersten 
@@ -578,12 +578,12 @@ Die meisten Praxen akzeptieren das Weglassen der Nummer auf dem
 Formular
 mittlerweile klaglos, wenn man ihnen eine
 Krankenversicherungskarte reicht, auf der eine ID-Nummer aufgedruckt ist, die
-den versichterten Patienten identifiziert und nicht einen Einwohner der USA
+den versicherten Patienten identifiziert und nicht einen Einwohner der USA
 mit dem amerikanischen Äquivalent zum deutschen SCHUFA-Eintrag. Eine
 erfreuliche Entwicklung.
 
 Online-Bankkonten oder auch allgemein Online-Accounts bei Yahoo oder
-Facebook sichert man Amerika mit einem Passwort, und für den
+Facebook sichert man in Amerika mit einem Passwort, und für den
 Fall, dass man das vergessen hat, hinterlässt der neue Kunde bei
 der Anmeldung Antworten
 auf sogenannte "Security Questions", auf die nur er die Antwort weiß. Typische
@@ -596,7 +596,7 @@ gefährliches Sicherheitstheater.
 <pic images/doctor-form.ps (#2) Im Formular für neue Patienten will die Arztpraxis die Sozialversicherungsnummer wissen.>
 
 In Abbildung (#1) seht ihr einen Antrag für eine Kreditkarte, auf dem 
-nicht nur nach dem Jahreseinkommen des Antragsstellers gefragt wird, sondern
+nicht nur nach dem Jahreseinkommen des Antragstellers gefragt wird, sondern
 auch nach der SSN. Man stelle sich vor, dass die Kaufhauskette Macy's
 jedem Kunden an der Kasse einmalig
 15% Rabatt auf seinen Einkauf gewährt, wenn er einen derartigen
