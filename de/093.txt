@@ -9,14 +9,14 @@ Im Juli beschlossen wir, für zehn Tage nach Vancouver Island zu fliegen, denn
 viele hatten uns schon von dieser Insel vorgeschwärmt, die nur eine kurze 
 Fährenfahrt von der kanadischen Millionenstadt Vancouver entfernt im 
 Pazifik liegt.
-Sie gehört zur kandischen Provinz British Columbia, ist 460km lang und 
+Sie gehört zur kanadischen Provinz British Columbia, ist 460km lang und
 100km breit, und wer schon einmal in Skandinavien Urlaub
 gemacht hat, wird sich auf Vancouver Island gleich zu Hause fühlen. Es gibt
 Schären, Wald, Berge und Seen, und als Zugabe noch einen fantastischen
-Regenwald. Man findet lange -- oft nebelverhangene - Sandstrände und eine 
+Regenwald. Man findet lange -- oft nebelverhangene -- Sandstrände und eine
 interessante
 Tierwelt, einschließlich verschiedener Wale, die entweder dort ansässig
-("resident wales") oder auf der Durchreise ("transient wales") sind. 
+("resident whales") oder auf der Durchreise ("transient whales") sind.
 Außerdem kommen die schmackhaften und weltberühmten Austern aus der 
 Fanny Bay von dort.
 
@@ -25,7 +25,7 @@ Fanny Bay von dort.
 <pic images/vi-turboprop.ps Von Vancouver in Kanada geht's mit einer Propellermaschine nach Vancouver Island.>
 
 <em>Angelika</em>
-Der Norden Vancouver Islands gilt als einsam, rauh und feucht und als Paradies
+Der Norden Vancouver Islands gilt als einsam, rau und feucht und als Paradies
 für jeden Wanderer und Naturfreund. Wir waren im Süden, in Victoria, 
 der größten Stadt der Insel mit einer Propellermaschine aus dem kanadischen 
 Vancouver gelandet und fuhren mit einem Mietauto ans Nordende, nach Port Hardy.
@@ -52,7 +52,7 @@ sind noch wichtige Einnahmequellen.
 
 <pic images/st-josef-mike.ps Auch in der einsamen St.-Josefs-Bucht muss irgendjemand Blödsinn machen.>
 
-Ein besonderers Zuckerl ist der Cape Scott Provincial Park
+Ein besonderes Zuckerl ist der Cape Scott Provincial Park
 mit der wunderschönen einsamen St. Josefs Bucht. Dort
 hinzugelangen ist schon ein Abenteuer für sich. Zunächst fuhren wir zwei 
 Stunden (ein Weg!!!) über unbefestigte Straßen, die den Holzlastwagen als
@@ -69,9 +69,9 @@ Bernt Ronning, ein norwegischer Einwanderer,
 baute sich zum Beispiel 1910 mitten in den Regenwald kurz vor Cape Scott an
 der nie fertig gestellten alten Wagenroute nach St. Josefs Bay 
 eine Hütte in den 
-Wald und lebte dort bis zu seinem Tod in den frühen 60ern Jahren vom 
+Wald und lebte dort bis zu seinem Tod in den frühen 60er-Jahren vom
 Fischfang und
-Fallenstellen. Auch hatte er die verückte Idee, Samen und Setzlinge aus aller
+Fallenstellen. Auch hatte er die verrückte Idee, Samen und Setzlinge aus aller
 Welt zu bestellen und einen Teil des Regenwalds zu roden, um seine Pflanzen und
 Blumen gedeihen zu lassen. So blühten in seinem Garten mitten im Regenwald
 artfremde Pflanzen wie Rhododendron, Osterglocken, Heckenrosen aber auch
@@ -90,13 +90,13 @@ Bevor wir nach Vancouver Island aufbrachen, konnten wir in jedem Reiseführer
 nachlesen, dass auf Vancouver Island mehr Bären als Menschen leben. 
 Interessanterweise stromern auf der Insel nur Schwarz- aber keine 
 Grizzlybären herum, während auf dem kanadischen Festland beide Arten 
-vorkommen. Trotz intensiver Reserche bekam
+vorkommen. Trotz intensiver Recherche bekam
 ich keine befriedigende Antwort auf die Frage, warum das so ist. Auf jeden Fall
-sahen wir gleich am zweiten Tag insgeamt drei Bären, die alle am Straßenrand
+sahen wir gleich am zweiten Tag insgesamt drei Bären, die alle am Straßenrand
 gemütlich an irgendwelchen Gräsern herumknabberten. 
 
 Das scheint eine beliebte
-Beschäftigung der Schwarzbären zu sein. Da wir uns im sicherem Abstand in
+Beschäftigung der Schwarzbären zu sein. Da wir uns in sicherem Abstand in
 unserem Auto befanden, konnten wir in aller Ruhe Fotos schießen. Hinter uns
 hielt dann eine weitere Touristin an, die zu unserem Schrecken aus ihrem Auto
 ausstieg und sich dem Bären auf nur wenige Meter näherte, um ein Foto
@@ -109,7 +109,7 @@ aber zu nahe und sie fühlen sich bedroht, endet das meistens böse.
 
 <pic images/vi-blackbear.ps Ein kleiner Schwarzbär strawanzt auf einem Feldweg nahe der Straße herum.>
 
-Während unser Reise sahen wir im Schnitt täglich ein bis zwei
+Während unserer Reise sahen wir im Schnitt täglich ein bis zwei
 Bären, vor allen Dingen, als wir uns im Norden der Insel aufhielten, denn da
 herrschen besonders paradiesische Verhältnisse: Wald soweit das Auge reicht
 und kaum Menschen. Einmal wanderten wir durch dichten Wald, kamen an einer
@@ -135,7 +135,7 @@ diese leise bimmelnden Sicherheitsvorkehrungen verzichteten.
 
 @Z: Man spricht Deutsch in Tofino
 
-<pic images/tofino-deutsch.ps Die Kanadische Variante von "Man spricht deutsh".>
+<pic images/tofino-deutsch.ps Die kanadische Variante von "Man spricht deutsh".>
 
 <em>Michael</em>
 Auf Vancouver Island laufen erstaunlich viele deutsche Touristenfamilien herum. 
@@ -157,9 +157,9 @@ wahres Multi-Kulti fehlt völlig, obwohl viele Kanadier das nicht einsehen.
 
 Und Kanada ist rasend teuer, selbst wir Hipstermetropolen-Yuppies müssen
 30% draufschlagen.
-Wer hat in Deutschland die Euros zum 
+Wer hat in Deutschland die Euros zum
 Rauswerfen? Wahrscheinlich deutsche Lehrbeamte, die nicht nur 
-über endlos Ferien verfügen, sondern dazu auch noch irre Gehälter kassieren.
+über endlose Ferien verfügen, sondern dazu auch noch irre Gehälter kassieren.
 Die Eigentümerin der Holzhütte, die wir für einige Tage gemietet hatten,
 bestätigte jedenfalls, dass etwa 65% ihrer Gäste aus Deutschland kämen
 (Ost oder West fragten wir, aber das wusste sie nicht), und allesamt 
@@ -218,7 +218,7 @@ auf dem Beleg autorisierten Betrag.
 
 <em>Michael</em>
 In den unbewohnteren Gegenden Vancouver Islands arbeiten hauptsächlich 
-Holzfäller, rauhe Typen, die abends,
+Holzfäller, raue Typen, die abends,
 immer noch in Arbeitsmontur, in die Dorfkneipe einlaufen und teilweise, wie 
 mir schien, schon lange keine Zahnarztpraxis mehr von innen gesehen hatten.
 In einer Spelunke am Rande von Nirgendwo aßen wir mal sehr gut zu Abend, 
@@ -234,7 +234,7 @@ ein kurzes Stück mit dem Auto heimfahren musste!
 
 Holzfäller übernachten unter der Woche oft in Hütten im Wald, denn die 
 Zufahrtsstraßen zu den Holzfällerstellen sind ungeteert und mit Schlaglöchern
-übersäht. Manche Arbeiter jagen mit vierradgetriebenen Pickup-Trucks jeden
+übersät. Manche Arbeiter jagen mit vierradgetriebenen Pickup-Trucks jeden
 Tag eine Stunde in den Wald rein und abends wieder raus, müssen aber
 die dicksten verfügbaren Reifen kaufen und immer zwei Ersatzreifen
 dabei haben, denn wenn man 60km/h über eine Holperstrecke fährt, schlitzen
@@ -294,7 +294,7 @@ Kajakführer
 fuhr in seinem eigenen Kajak. Die anderen Teilnehmer waren
 Wildwasserfahrer und wir mussten uns ziemlich reinhängen, um mitzuhalten.
 Ich hatte am Abend sogar eine dicke Blase am Daumen! "Kajak-Blisters" nennt 
-man die angeblich, der Kajakführer hatte an der selben Stelle dicke Schrunden.
+man die angeblich, der Kajakführer hatte an derselben Stelle dicke Schrunden.
 
 <pic images/kayak-tour.ps Zwischen den Inseln der Gruppe "Broken Islands" schippert unser Kajak umher.>
 
@@ -317,10 +317,10 @@ allerdings blieben wegen des schlechten Wetters spektakuläre Sichtungen aus.
 <pic images/humpback-whale.ps Ein Buckelwal geht auf Tiefgang.>
 
 Bei einer Tour ein paar
-Wochen voher war ein Buckelwal einem Kajak zu nahe gekommen und die 
+Wochen vorher war ein Buckelwal einem Kajak zu nahe gekommen und die
 Kajak-Touristen waren beinahe vor Schreck gekentert und ins Wasser geplumpst. 
 Auf der Heimfahrt im Zubringerboot sahen wir dann doch noch einige Wale beim 
-Herumplanschen, einen sogenannten "Humpback Wale" (Buckelwal), und einen Grauwal, die wir routiniert fotografierten.
+Herumplanschen, einen sogenannten "Humpback Whale" (Buckelwal), und einen Grauwal, die wir routiniert fotografierten.
 
 @Z: Jugendliche und der Alk
 
@@ -328,14 +328,14 @@ Herumplanschen, einen sogenannten "Humpback Wale" (Buckelwal), und einen Grauwal
 
 <em>Michael</em>
 Wir sind wieder zurück in San Francisco!
-Eine der irrsinnigsten Gesetze der USA verbietet jungen Erwachsenen unter
+Eines der irrsinnigsten Gesetze der USA verbietet jungen Erwachsenen unter
 21 Jahren den Genuss von Alkohol. Das muss man sich mal vorstellen: Ein
 zwanzig Jahre alter Erwachsener darf ein Haus kaufen, in die Armee eintreten,
 oder eine Waffe erwerben, aber kein Bier im Supermarkt kaufen. Wie alle
 irrsinnigen Gesetze wird es jedoch laufend umgangen.
 
 Als ich zum Beispiel vor guten zwanzig Jahren in Amerika unterwegs war, 
-kamen mein Studienkumpel Huber und ich mal in einer Kleinstadt an, in dem
+kamen mein Studienkumpel Huber und ich mal in einer Kleinstadt an, in der
 der Huber einen Austauschschüler kannte, was, soweit ich mich erinnern
 kann, uns irgendwelche billigen Übernachtungsmöglichkeiten eröffnete, also
 fuhren wir hin. Kaum
@@ -344,14 +344,14 @@ mit verschwörerischer Stimme ein Anliegen vor:
 Ob wir mit unserem Auto nicht schnell mal an der Tanke vorbeifahren und ein 
 Bier erwerben könnten?
 
-<pic images/alk-liquor-store.ps Der Eigentümer des Liqour-Stores kontrolliert sorgfältig den Führerschein des Kunden, bevor er Alkohl verkauft. Foto: flickr[Court Kizer|jellohead/4856197748]>
+<pic images/alk-liquor-store.ps Der Eigentümer des Liquor-Stores kontrolliert sorgfältig den Führerschein des Kunden, bevor er Alkohol verkauft. Foto: flickr[Court Kizer|jellohead/4856197748]>
 
-Ich war damals gerademal 21 und bekam im Drive-Through anstandslos ein 
+Ich war damals gerade mal 21 und bekam im Drive-Through anstandslos ein
 Bier überreicht, das unser Bekannter sofort nachdem wir den Liquor-Store
 verlassen hatten, gierig öffnete und den Inhalt wie 
 ein verdurstendes Kamel in der
 Wüste in sich hineinsog. Der Huber und ich sahen uns fragend an, aber
-dann erklärte man uns, dass der Verkauf von Alkohl an Leute unter 21 Jahren
+dann erklärte man uns, dass der Verkauf von Alkohol an Leute unter 21 Jahren
 in den USA nicht erlaubt wäre und die jungen Erwachsenen Himmel und Hölle
 in Bewegung setzten, um dennoch daran zu gelangen.
 
@@ -362,7 +362,7 @@ jugendliche Spitzel in den Tante-Emma-Laden nebenan, um zu sehen, ob
 denen dort Alkohol verkauft wird. Falls der Ladenbesitzer sich nicht
 den Führerschein zeigen lässt, um das Alter zu verifizieren, bekommt
 er eine Anzeige und eine dicke Geldstrafe aufgebrummt. Im Wiederholungsfall
-wird ihm die Lizenz zum Alkohlverkauf entzogen.
+wird ihm die Lizenz zum Alkoholverkauf entzogen.
 
 <pic images/alk-liquor-store-customer.ps Wegen der strengen Gesetze müssen Verkäufer von alkoholischen Getränken von jedem den Ausweis fordern, der jünger als 35 aussieht.  Foto: flickr[Mike Fischer|mikefischer/4091316208]>
 
@@ -384,14 +384,14 @@ Briefkasten landete, als der Besitzer des Weinladens um die Ecke wechselte
 und der neue Besitzer wohl eine neuerliche Genehmigung zum Verkauf 
 alkoholischer Getränke brauchte. Im Text heißt es, dass man gegen den
 Laden protestieren kann und dazu muss man ein weiteres Formular, 
-genauergesagt ABC-510-A, anfordern, auf dem man seine Bedenken gegen den
+genauer gesagt ABC-510-A, anfordern, auf dem man seine Bedenken gegen den
 Weinladen an das greise Kontrollgremium vorbringen kann. Wir haben 
 natürlich nichts dagegen, wir würden sogar ein extra Formular ausfüllen, 
 damit der gute Mann seinen Wein verkaufen darf.
 
 Die Moral von der Geschicht? Wie zu Zeiten der 
 <LINK>http://en.wikipedia.org/wiki/Prohibition#Prohibition_in_the_United_States|Prohibition</LINK> ab 1919, als
-in ganz Amerika die Herstellung, der Vertrieb und der Genuß von 
+in ganz Amerika die Herstellung, der Vertrieb und der Genuss von
 alkoholhaltigen Getränken verboten war, hat sich
 der Staat in einen Kampf verstrickt, den er nicht gewinnen kann. Statt die
 jungen Erwachsenen zum verantwortungsvollen Umgang mit Rauschmitteln 
@@ -434,7 +434,7 @@ Die amerikanische Post ist eine zwar unabhängige aber dennoch staatliche
 Institution. Per Gesetz ist sie zum Beispiel verpflichtet, Post flächendeckend
 zuzustellen, also Post auch in den hintersten Winkel der USA zu befördern.
 Dabei kostet der Standardbrief 44 Cents, egal ob ich ihn nun eine
-Straßenencke weiterschicke oder an eine Adresse in Hawaii. 
+Straßenecke weiterschicke oder an eine Adresse in Hawaii.
 
 Außerdem darf sie das Porto
 im Regelfall nur gemäß der Inflationsrate anpassen. Die Postbediensteten
@@ -449,7 +449,7 @@ kann es immer kaum erwarten, zum Briefkasten zu rennen, und bekommt schon
 an Sonn- oder Feiertagen Entzugserscheinungen.
 
 An mir liegt es übrigens nicht, dass es der Post schlecht geht. Ich verschicke
-so viele Pakete und Briefe, vorwiegend nach Deutschland, dass ich bei unser 
+so viele Pakete und Briefe, vorwiegend nach Deutschland, dass ich bei unserer
 Post wie ein bunter Hund bekannt bin und um die Weihnachtszeit oft 
 mitleidige Blicke erhalte. Auch gehöre ich zu der sentimentalen Sorte Mensch, 
 die eine handgeschriebene Geburtstagskarte einer 
