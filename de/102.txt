@@ -2,19 +2,19 @@ San Francisco, den 14.07.2013
 
 @Z: Kalorienzettel verschleiern Kalorien
 
-<pic images/tzatziki-pot.ps (#3) Ein Topf Tsatsiki. Wieviel Kalorien der wohl hat?>
+<pic images/tzatziki-pot.ps (#3) Ein Topf Tsatsiki. Wie viele Kalorien der wohl hat?>
 
 <em>Michael</em> 
 Jedes abgepackte Lebensmittel in Amerika, vom Müsli bis zum
 Schokoriegel, von der Dosenbohne bis zur Salami weist in einer
-standartisierten aufgedruckten Tabelle mit dem
+standardisierten aufgedruckten Tabelle mit dem
 Namen 
 <LINK>http://en.wikipedia.org/wiki/Nutrition_facts|"Nutrition Facts"</LINK>
 Daten zum Nährwert des Produkts aus
 (Abbildung (#1)). 
 Das amerikanische Lebensmittelamt "U.S. Food and Drug Administration" schreibt
 die Beschriftung schon seit 1990 vor, und sie listet im Detail auf, 
-wieviele Kalorien, Fett, Zucker, Salz oder Vitamine ein Produkt enthält.  
+wie viele Kalorien, Fett, Zucker, Salz oder Vitamine ein Produkt enthält.
 Damit weiß der Verbraucher vor dem
 Kauf oder Konsum, ob ein Lebensmittel dick macht oder den Cholesterinspiegel
 hochschnellen lässt.
@@ -36,7 +36,7 @@ Hersteller 31 Portionen! Stünde auf der Packung
 "dieser Brotaufstrich enthält 900 Kalorien" läge sie wohl wie Blei in
 den Supermarktregalen. Deswegen manipulieren die Hersteller die 
 Serviermengen, bis vernünftige Werte herauskommen, auch wenn kaum jemand
-nur einen Fingerhut Tatsiki auf einen Cracker streicht und dann den
+nur einen Fingerhut Tsatsiki auf einen Cracker streicht und dann den
 Löffel zur Seite legt und die Packung in den Kühlschrank zurückstellt.
 
 <HTMLONLY><pic images/tzatziki-front.ps Ein leckerer, kalorienarmer Brotaufstrich.></HTMLONLY>
@@ -62,8 +62,8 @@ wichtige Entscheidungen bezüglich der Homo-Ehe. Eine Privatperson namens
 Edith Windsor hatte
 gegen den sogenannten "Defense of Marriage Act" (abgekürzt
 DOMA) geklagt. 
-Im Jahr 1996 von Clinton unterschrieben, entband es die Bundestaaten
-der USA von ihrer Pflicht, Ehen zwischen gleichgeschlechlichen Partnern
+Im Jahr 1996 von Clinton unterschrieben, entband es die Bundesstaaten
+der USA von ihrer Pflicht, Ehen zwischen gleichgeschlechtlichen Partnern
 anzuerkennen, obwohl die Ehen legal geschlossen worden waren (z.B. in anderen
 Bundesstaaten). Die Ehen zwischen gleich\-ge\-schlecht\-lichen 
 Partnern wurden durch
@@ -72,7 +72,7 @@ DOMA die Ehe als rechtliche Verbindung zwischen Mann und Frau
 definierte.
 
 Dies hatte empfindliche Auswirkungen für die bislang ge\-trau\-ten
-gleich\-ge\-schlecht\-liche Ehepaare,
+gleich\-ge\-schlecht\-lichen Ehepaare,
 denn damit wurden ihnen wichtige Ver\-gün\-sti\-gungen auf Bundes\-ebene
 ver\-wehrt, wie zum Beispiel eine gemein\-same Steuererklärung als
 Ver\-hei\-ratete abzugeben, höhere Erb\-schafts\-steuer\-frei\-beträge,
@@ -94,7 +94,7 @@ machen konnte.
 
 Der Supreme Court gab ihr jetzt Recht. Er legte dar, dass DOMA gegen
 den Gleichbehandlungsgrundsatz ("due process clause") des 5. Zusatzartikels
-(5th amendment) der amerikanischen Verfassung verstösst und
+(5th amendment) der amerikanischen Verfassung verstößt und
 DOMA somit verfassungswidrig ist. Dieses Urteil ist historisch und
 bahnbrechend. Allerdings betonte der Supreme Court auch, dass weiterhin die
 einzelnen Bundesstaaten entscheiden, ob sie die Homo-Ehe legalisieren oder
@@ -119,7 +119,7 @@ und die ameri\-ka\-nische Rentenkasse ("Social Security Administration") nach
 anderen Regeln.
 Hier gilt nämlich der Wohnsitz als entscheidend, um
 Leistungen zu erhalten, was bedeuten würde, dass nur die
-gleich\-geschlecht\-lichen Ehepaare Leistungen erhalten, die in einem Bundestaat
+gleich\-geschlecht\-lichen Ehepaare Leistungen erhalten, die in einem Bundesstaat
 leben, in dem Homo-Ehen erlaubt sind. Ihr seht schon, dass da noch viele Fragen
 zu klären sind und es wahrscheinlich noch zu der ein oder anderen Klage kommen
 wird, bis endlich alle gleich behandelt werden.
@@ -137,7 +137,7 @@ sei diskriminierend und verstoße somit gegen die kalifornische Verfassung.
 
 Das hatte allerdings nicht zur Folge, dass gleichgeschlechtliche Paare in
 Kalifornien wieder heiraten durften, denn die Behörden und Gerichte warteten
-geflissentlich ab bis sich der Rechtsfall den Weg durch die höheren Instanzen
+geflissentlich ab, bis sich der Rechtsfall den Weg durch die höheren Instanzen
 bahnte. Auch das Ninth Circuit Court of Appeals, das u.a. für Kalifornien in
 der höheren Instanz zuständig ist, stimmte im Februar 2012 zu, dass
 Proposition 8 verfassungswidrig sei und deshalb landete der Fall schließlich
@@ -154,7 +154,7 @@ Appeals auf, da dort ebenfalls der Staat Kalifornien nicht als Kläger
 auftauchte. Unangefochten bleibt deshalb die Entscheidung der ersten Instanz
 (Perry vs. Schwarzenegger), und da der Richter dort Proposition 8 als
 verfassungswidrig erklärt hatte, heiraten seit Ende Juni gleichgeschlechtliche
-Paare wieder fröhlich in Kalifornien. Der erste dieser Hochzeiten fand
+Paare wieder fröhlich in Kalifornien. Die erste dieser Hochzeiten fand
 natürlich in San Francisco statt.
 
 @Z: Tagesschau darf nicht senden
@@ -194,7 +194,7 @@ Sender wohl finanztechnisch nicht mithalten, gut. Aber das Gleiche gilt
 auch, falls der Vettel ein Formel-1-Rennen gewinnt. Nur Exotensportarten
 wie Damenfußball oder Tennis gehen anscheinend. Aber heute schlug's dem Fass
 den Boden raus: Kam doch am Ende der Tagesschau ein Bericht über ein
-neu erstelltes Mahnmal zum Gedenken an Eutanasie-Verbrechen der Nazis, und
+neu erstelltes Mahnmal zum Gedenken an Euthanasie-Verbrechen der Nazis, und
 während einer Einspielung eines alten Schwarzweißfilms kam das Banner
 "darf aus rechtlichen Gründen im Internet nicht gezeigt werden" hoch. 
 Wirklich, Tagesschau? Manchmal frage ich mich, ob dort drüben noch alles
@@ -207,7 +207,7 @@ im Lot ist.
 <em>Angelika</em>
 San Francisco und die Bay Area verfügen ja über ein
 einigermaßen gut funktionierendes öffentliches Verkehrssystem. Es gibt Busse,
-Strassenbahn und U-Bahn. Die U-bahn-ähnliche BART (Bay Area Rapid Transit)
+Straßenbahn und U-Bahn. Die U-Bahn-ähnliche BART (Bay Area Rapid Transit)
 fährt nicht nur in der Stadt und zum San Francisco Flughafen, sondern
 verbindet gerade die East Bay (Oakland, Richmond, Berkeley, Pleasanton usw.)
 mit San Francisco, wobei die Züge die Bay in einem Unterwassertunnel
@@ -215,7 +215,7 @@ durchqueren.
 
 Da San Francisco von Wasser umgeben ist, stößt man über kurz oder lang
 immer auf irgendeine Brücke, die zu überqueren ist, was zu
-Hauptverkehrszeiten dazuführt, dass die Brücken hoffnungslos verstopfen. 
+Hauptverkehrszeiten dazu führt, dass die Brücken hoffnungslos verstopfen.
 Auf der Bay Bridge, die San Francisco mit Oakland, also der East Bay,
 verbindet, reihen sich Auto an Auto zu Stoßzeiten und der entnervte
 Autofahrer steht stundenlang im Stau. Die BART ist deshalb für viele eine
@@ -239,12 +239,12 @@ Worum ging es den
 Streikenden? Natürlich zunächst einmal um Gehaltserhöhungen, aber auch um
 Sozialleistungen (in Amerika "benefits" genannt). Das wird euch jetzt
 vielleicht stutzig machen, aber da in den USA viele der Sozialleistungen
-nicht gesetzlich geregelt sind (z.B. der Jahresulaub), gibt es gravierende
+nicht gesetzlich geregelt sind (z.B. der Jahresurlaub), gibt es gravierende
 Unterschiede, was die einzelnen Firmen ihren Mitarbeitern anbieten. BART
 will zum Beispiel, dass ihre Mitarbeiter mehr Krankenkassenbeitrag zahlen
 und einen Eigenanteil zur betrieblichen Rentenkasse. Momentan zahlt der
 Arbeitgeber den vollen Betrag ein. Zur Zeit zahlt ein BART-Mitarbeiter 92
-Dollar im Monat Krankenkassenbeitrag, egal wieviele mitversicherte
+Dollar im Monat Krankenkassenbeitrag, egal wie viele mitversicherte
 Familienmitglieder (zum Beispiel Kinder) er hat. 
 
 <HTMLONLY><pic images/bart-sign.ps An dieser Station geht's normalerweise zu wie am Stachus.></HTMLONLY>
@@ -257,7 +257,7 @@ an Land ziehen kann. Mein Arbeitgeber zahlt hingegen fast gar nichts
 dazu, obwohl unsere Gehälter gering sind. Ich bin deswegen lieber über
 Michael krankenversichert, obwohl ich selbst Vollzeit arbeite.
 
-BART-Mitarbeiter verdienen relativ gut in Vergleich zu
+BART-Mitarbeiter verdienen relativ gut im Vergleich zu
 anderen Branchen, in denen man nur einen High-School-Abschluss für die
 meisten Stellen braucht. Allerdings schwanken die Aussagen bezüglich der
 durchschnittlichen Jahresgehälter total, je nachdem ob die Mitarbeiter oder
@@ -274,7 +274,7 @@ wäre, bessere Konditionen für alle Arbeitnehmer zu schaffen in den USA,
 zum Beispiel gesetzlich geregelte Krankheitstage und Mutterschutz, aber das
 sind natürlich Luftschlösser, denn die Politiker haben sich ja schon bei
 der nationalen Krankenkasse zerfleischt. Auf jeden Fall fährt die BART
-seit 5. Juli wieder, denn der alte Traifvertrag wurde für 30 Tage 
+seit 5. Juli wieder, denn der alte Tarifvertrag wurde für 30 Tage
 verlängert. Es kann
 also sein, dass in einem Monat nochmals die Züge nicht mehr rollen, wenn
 sich die Parteien bis dahin nicht einigen können.
@@ -291,7 +291,7 @@ eigentlich noch weiterlesen möchte!
 Neulich kaufte ich deswegen, und auch wegen der
 begeisterten Rezensionen auf Amazon, ein 
 <LINK>http://www.amazon.com/dp/B00771NUSY|pyramidenartiges Polster namens Peeramid</LINK>, das man auf den Schoß oder die Bettdecke legt und das den iPad
-mühelos in Lesestellung hält, ohne das man ihn festhalten muss.
+mühelos in Lesestellung hält, ohne dass man ihn festhalten muss.
 
 <pic images/peeramid-chair.ps Michael mit seinem iPad im Lesesessel.>
 
@@ -317,7 +317,7 @@ Klettergarten in München Thalkirchen gemacht. Der Sport heißt in Amerika
 "Indoor Climbing" und in San Francisco und Umgebung betreibt die Mini-Kette
 "Planet Granite" mehrere Fitnessstudios mit Kletterwänden. Man sieht dort
 nach Feierabend besonders Angestellte der Software-Industrie im 
-Silicon Valley und lustigerweise auch oft deutsch sprechende Immigraten.
+Silicon Valley und lustigerweise auch oft deutsch sprechende Immigranten.
 Mit unseren Freunden Bettina, Miguel, Chris und Tranquilla bin ich dort
 fast jeden Mittwoch zugange.
 
@@ -337,7 +337,7 @@ Klettern ist ja nicht schwierig und die notwendigen paar Knoten und
 Seiltechniken lernt man in ein paar Minuten. Da ich es aber etwas anders 
 machte als 
 die heilige Verordnung des Kletterzentrums es vorschrieb, fiel ich beim 
-ersten Mal durch, bestand aber beim zweiten Versuch. Seit dem hängt an meinem
+ersten Mal durch, bestand aber beim zweiten Versuch. Seitdem hängt an meinem
 Klettergürtel eine rote Karte, die mich zum Sichern von Kletterern autorisiert.
 Sie gilt für das sogenannte Top-Rope-Verfahren, bei dem das Kletterzentrum
 bereits ein Seil in die Wand eingehängt hat, das einen immer straff nach
@@ -349,7 +349,7 @@ Zertifizierung und eine dazu passende grüne Karte. Lächerlich, aber bitte.
 Außerdem hängt an jedem installierten Seil ein
 <LINK>http://en.wikipedia.org/wiki/Grigri_(climbing)|Grigri</LINK> genanntes
 Bremsgerät, sodass der Sicherer nicht mal einen Halbmastknoten knüpfen
-muss. Patroullierende Angestellte achten darauf, dass die "Belayer" genannten
+muss. Patrouillierende Angestellte achten darauf, dass die "Belayer" genannten
 Sicherer das aus dem Grigri herauskommende Seilende immer straff in der
 Hand halten, tut man es nicht, weisen sie einen freundlich aber bestimmt
 darauf hin, dass das nicht "safe" sei.
@@ -368,21 +368,21 @@ aber diese Schwierigkeitsgrade schaffen dann nur noch Spinnenmenschen.
 Ich bewege mich seit Jahren so um die 5.10a bis 5.10c, an einem guten
 Tag schaffe ich vielleicht auch mal eine 5.10d. Das Kletterzentrum scheint
 interessanterweise auch als Anbandelbetrieb zu dienen, denn hin und wieder 
-veranstaltet es Singleabende, an dem sich offensichtlich Paare finden 
+veranstaltet es Singleabende, an denen sich offensichtlich Paare finden
 können!
 
 @Z: Lagavulin Whiskey
 
-<pic images/lagavulin.ps Einer des besten Whiskeys der Welt: Lagavulin 16.>
+<pic images/lagavulin.ps Einer der besten Whiskeys der Welt: Lagavulin 16.>
 
 <em>Michael</em>
 Whiskey, oder "Whisky", wie der Brite sagt, ist ein hoch\-pro\-zentiges 
 alkoholisches Getränk, das meistens als Destillat aus gemälztem Getreide 
-ensteht. Grundlage amerikanischer Bourbon-Whiskeys ist nor\-ma\-ler\-weise 
+entsteht. Grundlage amerikanischer Bourbon-Whiskeys ist nor\-ma\-ler\-weise
 Mais, 
 schottische "Scotch"-Whiskeys hin\-gegen verwenden gemälzte Gerste. Wie man
 einem länglichen unge\-listeten
-<LINK>https://www.youtube.com/watch?v=4bFwABaP3Ts|Youtube-Video zur Scotch-Herstellung</LINK>
+<LINK>https://www.youtube.com/watch?v=4bFwABaP3Ts|YouTube-Video zur Scotch-Herstellung</LINK>
 entnehmen kann, spezialisiert sich besonders die kleine schottische Insel Islay auf sogenannte Moor-Whis\-keys, deren Gerste während des Mälzvorgangs mit 
 Torf befeuert wird und die deswegen den typischen rauchigen, 
 moorigen Geruch und Ge\-schmack aufweisen. Wenn man einen Computer aufschraubt
@@ -451,18 +451,18 @@ schlossen. Wie dem auch sei, lange Sommerferien
 haben sich in den USA durchgesetzt.
 
 Was machen nun aber die Kinder in den langen Sommerferien in einem Land, in dem
-häufig  beide Eltern arbeiten und der Urlaub der Eltern oft nur zwei Wochen
+häufig beide Eltern arbeiten und der Urlaub der Eltern oft nur zwei Wochen
 pro Jahr beträgt? Zunächst einmal gibt es die sogenannte Sommerschule
 ("summer school"), in der Stoff nachgeholt wird, um den
 Notendurchschnitt anzuheben. In der Regel kommt dies aber erst in höheren
 Klassen vor, zum Beispiel in der High School. Auch viele Universitäten bieten
-im Sommer Kurse an, die einge Studenten auch nutzen, um ihr Studium zu
-beschleunigen. Sonderschüler, auch wenn sie normalerwise in
+im Sommer Kurse an, die einige Studenten auch nutzen, um ihr Studium zu
+beschleunigen. Sonderschüler, auch wenn sie normalerweise in
 Integrationsklassen lernen, erhalten in der Regel vier Wochen zusätzlichen
 Unterricht und Therapie (Logopädie, Ergotherapie etc.), weil die langen Ferien
 unter Umständen dazu führen, dass sie erworbene Fähigkeiten verlieren. Das
 Ganze nennt sich dann erweitertes Schuljahr ("Extended School Year"). Die
-Kinder, mit denen ich  arbeite, erhalten meist vier Wochen Unterricht.
+Kinder, mit denen ich arbeite, erhalten meist vier Wochen Unterricht.
 
 Und dann gibt es noch die Camps ("Summer Camps"). Früher habe ich immer
 geglaubt, dass jedes amerikanische Kind im Sommer ins Camp abgeschoben wird 
@@ -507,14 +507,14 @@ Hawaii auf die Insel Oahu. Schon seit langem gehen wir nicht mehr ins Hotel,
 sondern mieten uns eine Ferienwohnung, denn in unserem Lieblingsort Kailua gibt
 es eh keine Hotels. Da wir genau wissen, was wir wollen und uns in Kailua
 mittlerweile ganz gut auskennen, buche ich immer über die Website "vrbo.com"
-("Vacational Rental by Owner").
-Hier stellen die Eigentümer ihre Ferienwohnungen, und zwar welweit, vor,
+("Vacation Rental by Owner").
+Hier stellen die Eigentümer ihre Ferienwohnungen, und zwar weltweit, vor,
 deshalb auch der Name "Ferienwohnungen zu mieten vom Besitzer".
 
 Sucht ihr eine Ferienwohnung auf Oahu, klickt man erst auf die
 USA-Karte, dann auf den Bundesstaat Hawaii, dann auf die Insel Oahu und dann
 werden Häuser und Wohnungen in den unterschiedlichen Orten angeboten. Die
-Suche kann man dann weiter einschränken: Wieviele Schlafzimmer braucht
+Suche kann man dann weiter einschränken: Wie viele Schlafzimmer braucht
 man, soll die Ferienwohnung direkt am Strand sein, zu welchem Zeitpunkt will
 man mieten? Dann schickt der Urlaubshungrige eine E-Mail an den Vermieter
 über die Webseite und in der Regel kontaktieren diese einen innerhalb von 1-2
@@ -535,7 +535,7 @@ Gebühren von den Vermietern erheben.
 Jedes Mal denken wir uns wieder, dass es eigentlich erstaunlich ist, dass alles
 so gut klappt. In Hawaii sind die Vermieter meistens nicht vor Ort, da sie
 irgendwo anders in den USA leben. Meist gibt es dann jemanden auf der Insel,
-der die Ferienwohung betreut. Im März mieteten wir uns im Nachbarort von
+der die Ferienwohnung betreut. Im März mieteten wir uns im Nachbarort von
 Kailua ein, und zwar in Lanikai. Die beiden Orte hängen im Prinzip fast
 aneinander. Es gab zwar einen Verwalter auf der Insel, aber mit dem hatte ich
 nur einmal vorher telefoniert und wir sahen ihn während unseres ganzen
@@ -543,7 +543,7 @@ Aufenthaltes nicht.
 Der Schlüssel lag in der Ferienwohnung, die Tür war offen und
 bei unserer Abfahrt legten wir den Schlüssel einfach auf den Küchentresen. 
 Für
-Notfälle hatte wir die Telefonnummer des Verwalters und der Putzfrau. Die
+Notfälle hatten wir die Telefonnummer des Verwalters und der Putzfrau. Die
 Wohnung war klasse, wie ihr unschwer auf den Fotos erkennen könnt.
 
 @Z: Hawaii: Der Strand ist für alle da
@@ -572,7 +572,7 @@ was die Hausbesitzer entnervt, vor allen Dingen, wenn die
 Touristen alles zuparken. Deshalb versuchen viele der Hauseigentümer, das
 Recht auf diesen freien Zugang einzuschränken. Manchmal wandeln sie zum 
 Beispiel kleine Stichstraßen in private Straßen um, damit keiner mehr in
-den Privatstraßen parken kann. Da ist es dann aus mit dem Aloha-Stimmung.
+den Privatstraßen parken kann. Da ist es dann aus mit der Aloha-Stimmung.
 
 Falls aber in einer Seitenstraße kein Schild mit der Aufschrift
 "Private Road" steht, darf man dort auch als Tourist guten Gewissens parken. 
