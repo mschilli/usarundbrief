@@ -43,9 +43,9 @@ Schickt der Kunde die Zahlung dann so ab, dass sie pünktlich zum
 Fälligkeitsdatum eintrifft, stellt sie die Post wegen des
 Feiertags natürlich nicht zu und würde auch sonst von der Kreditkartenfirma
 nicht bearbeitet, sondern erst am nächsten Arbeitstag. Zack, kommt ein
-saftiger Säumniszuschlag auf die Rechung! Nicht pünktlich gezahlte Rechnungen
+saftiger Säumniszuschlag auf die Rechnung! Nicht pünktlich gezahlte Rechnungen
 werfen absurd hohe Strafgebühren auf und veranlassen die Kartenfirmen oft dazu,
-den Zinssatz des Kunden wegen erhöhten Leihrisikos in die Höhe zu treiben.
+den Zinssatz des Kunden wegen erhöhten Leih\-risikos in die Höhe zu treiben.
 Obamas neue Vorschriften verbieten diesen Trick nicht nur, sondern
 zwingen die Kartenfirmen, die Rechnung auch rechtzeitiger an die
 Kunden abzuschicken, damit diese genügend Zeit haben, die Zahlung in die
@@ -66,7 +66,7 @@ Namen "Sioux Falls", von wo aus sie auch Kunden in allen
 anderen Bundesstaaten bedienten. Noch heute tragen die meisten 
 Kredit\-karten\-rechnungen diesen Poststempel.
 
-<pic images/sioux-falls.ps Die Citybank verlegte ihr Kreditkartencenter in den Ort "Sioux Falls" im Bundesstaat South Dakota, um die Wuchergesetze zu umgehen.>
+<pic images/sioux-falls.ps Die Citibank verlegte ihr Kreditkartencenter in den Ort "Sioux Falls" im Bundesstaat South Dakota, um die Wuchergesetze zu umgehen.>
 
 Der amerikanische Kongress darf nun zwar
 den Handel zwischen den Bundesstaaten regulieren, doch 1978 entschied das 
@@ -80,7 +80,7 @@ Durch diesen
 Trick waren mit einem Schlag alle "Usury Laws" für bundesweit operierende
 Banken null und nichtig. 
 Auch heute noch hat zum
-Beispiel die Citybank ihren Hauptsitz in New York, aber eine Niederlassung
+Beispiel die Citibank ihren Hauptsitz in New York, aber eine Niederlassung
 in South Dakota, von wo aus sie Rechnungen mit saftigen Zinsen bis zu 30%
 in die ganzen USA verschickt. 
 Ein später folgendes Bundesgerichtsurteil 
@@ -88,13 +88,13 @@ stellte dann übrigens auch noch lokale Banken auf die gleiche Stufe, sodass
 auch für sie keine Wuchergesetze mehr gelten.
 
 Leute wie wir, die ihre Kreditkartenrechnungen stets am Ende des Monats mit der
-Präzision eines Uhrwerks bezahlen und nie auch nur einen Cent stehenlassen,
+Präzision eines Uhrwerks bezahlen und nie auch nur einen Cent stehen lassen,
 sind freilich ein Dorn im Auge der Kartenfirmen.  Zwar zahlen Händler, die
 Kreditkarten akzeptieren, den Kartenfirmen bei jeder Transaktion zwischen 2%
 und 5% Gebühren, aber diese Gewinne nehmen sich lächerlich aus im Vergleich zu 
 den
 Zinsen, die Leute zahlen, die ihre Kreditkarten als Finanzierungsvehikel mit
-durchschnittlich 15% bis 20% Zinsen nutzen und jedesmal nur das geforderte
+durchschnittlich 15% bis 20% Zinsen nutzen und jedes Mal nur das geforderte
 Minimum von 2% der Schuldsumme zurückzahlen. So bleibt die Schuld praktisch
 ewig bestehen und der Kartenhalter zahlt auch in 10 Jahren noch Zinsen auf
 einen einmaligen Spontankauf. Ein paar Zahlen aus dem Jahr 2004: 145 Millionen
@@ -119,7 +119,7 @@ Laufburschen zum Safe schicken, um meine Erstattung auszuzahlen.
 
 Aber das ist noch nicht alles, weitere Schmankerln warten auf den
 Kartennutzer: Mietet man mit bestimmten Karten ein Auto, ist eine
-Vollkaskoversicherung enthalten. Geht ein gerade gekaufte Vase zu Bruch,
+Vollkaskoversicherung enthalten. Geht eine gerade gekaufte Vase zu Bruch,
 oder ein Dieb schnappt sich den neuen Fotoapparat, erstattet die Kartenfirma 
 den Verlust.
 
@@ -140,7 +140,7 @@ bei ihm und er wird sich genau überlegen, bevor er gerichtliche
 Schritte, eventuell im "Small Claims Court" unternimmt.
 Neulich habe ich übrigens gelesen, dass der Kaufbetrag mindestens
 $50 betragen muss und das Geschäft nicht weiter als 150 Meilen vom Wohnsitz
-des Kartenhalter entfernt sein darf, sonst kann es sein, dass die 
+des Kartenhalters entfernt sein darf, sonst kann es sein, dass die
 Kreditkartenfirma nicht hilft.
 
 Als Finanzierungsvehikel für schlechte Zeiten eignet sich die Karte 
@@ -159,7 +159,7 @@ sogenannte "Revolver" (von der Kartenindustrie so genannt wegen dem ständigen
 Abbezahlen einer rotierenden Schuld) verschlechtern. Vielleicht kommen auch
 wieder Jahresgebühren, wer weiß? Ich kann euch jedenfalls eine weiterbildende
 Fernsehsendung zum Thema empfehlen: Die
-<LINK>http://www.pbs.org/wgbh/pages/frontline/shows/credit/|Dokumentation "The Secrect History of the Credit Card"</LINK> des Senders PBS. Außerdem steht auf
+<LINK>http://www.pbs.org/wgbh/pages/frontline/shows/credit/|Dokumentation "The Secret History of the Credit Card"</LINK> des Senders PBS. Außerdem steht auf
 Wikipedia ein ausführlicher Artikel
 zum <LINK>http://en.wikipedia.org/wiki/Credit_CARD_Act_of_2009|Credit CARD Act of 2009</LINK> und das <LINK>http://www.whitehouse.gov/the_press_office/Fact-Sheet-Reforms-to-Protect-American-Credit-Card-Holders|Fact Sheet des Weißen Hauses zur Kreditkartenreform</LINK> fasst die Fakten zusammen.
 
@@ -172,7 +172,7 @@ Im August fiel uns ein, nach Palm Springs, etwa 100km östlich von Los
 Angeles zu fahren, denn Angelika hatte darüber in einem ihrer
 abonnierten Reisemagazine gelesen. Mitten in der Wüste gelegen, bietet
 es ausgebrannten Filmbossen aus den Studios rund um Los Angeles 
-Gelegenheit, am Pool abzuhängen, ausschweifende Parties zu feiern und
+Gelegenheit, am Pool abzuhängen, ausschweifende Partys zu feiern und
 mit ihren Straßenkreuzern in der Gegend herumzukurven. Mit unserem
 gemieteten Kia Rio kamen wir uns jedenfalls vor wie von einem anderen
 Planeten.
@@ -191,12 +191,12 @@ Wochenende, an dem wir Palm Springs unsicher machten, schlug sich die Stadt
 mit einer hohen Luftfeuchtigkeit herum. Es war nicht nur heiß sondern
 auch schwül, sodass selbst die Einheimischen stöhnten. Deshalb
 beschlossen wir, uns in höhere Lagen zu verziehen und uns mit der
-sogenannten <LINK>http://www.pstramway.com|"Ariel Tramway"</LINK> 
+sogenannten <LINK>http://www.pstramway.com|"Aerial Tramway"</LINK>
 (also einer Gondelseilbahn) von der flachen
-Wüstenlandschaft auf die fast 2600 m hohe Bergstation katalputieren zu
+Wüstenlandschaft auf die fast 2600 m hohe Bergstation katapultieren zu
 lassen. 
 
-<pic images/tramway.ps Die Ariel Tramway bei Palm Springs führt auf die 2600m hohe Bergstation hinauf.>
+<pic images/tramway.ps Die Aerial Tramway bei Palm Springs führt auf die 2600m hohe Bergstation hinauf.>
 
 Ich bin ja bekanntlich nicht so der
 Bergschrat und kämpfe auch immer wieder mit Höhenangst. Deshalb musste
@@ -225,7 +225,7 @@ derartigen Touristenhochburgen ja eher erstaunlich ist.
 
 Am nächsten Tag machten wir uns dann auf in die "Indian Canyons", einem
 Teil des <LINK>http://www.indian-canyons.com|Agua Caliente</LINK>
-Indiannerreservats. Dort kann man drei spektakuläre
+Indianerreservats. Dort kann man drei spektakuläre
 Schluchten mit faszinierendem Palmenbestand mitten in der absolut kargen
 Wüstenlandschaft erwandern. 
 Die Worte Schatten/Wasser/Oase bekamen bei der
@@ -294,7 +294,7 @@ Palm Springs entfernt ist.
 <em>Michael</em> 
 In unserer Serie "Amerikanisch für Profis" heute ein Wort, mit
 dem der Amerikaner ausländische Währungen elegant unter einen Hut
-bringt: "Durka Durka". Auf Deutsch bedeutet es soviel wie "Kamelmoos",
+bringt: "Durka Durka". Auf Deutsch bedeutet es so viel wie "Kamelmoos",
 und damit bezeichnet der Amerikaner etwas geringschätzig Währungen, die
 gegenüber dem amerikanischen Dollar relativ wertlos sind.
 
@@ -307,7 +307,7 @@ Restaurant: 'Kamel\-zehen\-marme\-lade für eine halbe Durka-Durka! Bei diesem
 Umtausch\-kurs können wir essen wie Könige!'"). Wer einmal Unterhaltung
 für einen langweiligen regne\-rischen Nachmittag sucht, dem kann ich 
 urbandictionary.com nur wärmstens empfehlen. Die Erklärungen sind teilweise
-echt zum totlachen (wenn auch nicht immer ganz ernstzunehmen) und die
+echt zum Totlachen (wenn auch nicht immer ganz ernstzunehmen) und die
 Macher scheuen sich absolut nicht, auch noch die absurdesten und
 ordinärsten Benutzerbeiträge zu veröffentlichen. Ein Bewertungsschema
 sorgt dafür, dass nur die korrektesten und lustigsten Meldungen 
@@ -332,7 +332,7 @@ lustig wäre!
 <em>Angelika</em>
 Rund um die Halbinsel San Francisco 
 liegt ja bekanntlich Wasser und Brücken sorgen dafür,
-dass Autofahrer ohne allzu große Umsände in verschiedene
+dass Autofahrer ohne allzu große Umstände in verschiedene
 Himmelsrichtungen gelangen. Jeder kennt die Golden Gate Bridge nach
 Norden, aber mittlerweile ist auch die Bay Bridge, die nach Osten
 in Richtung Oakland führt, immer wieder in aller Munde. Ein
@@ -361,11 +361,11 @@ wunderbar, bis Ingenieure einen Riss im Stahl eines tragenden Elementes
 entdeckten. Also stabilisierte man den Riss ganz schnell, denn 280.000
 Autos warteten nach dem Wochenende bereits in den Startlöchern. Nun hatte
 ich ja noch nie Vertrauen in amerikanische Bauunternehmer.
-Irgendwie wirkt alles auf mich immer etwas zusammen geschustert. Und
+Irgendwie wirkt alles auf mich immer etwas zusammengeschustert. Und
 siehe da, am 27. Oktober 2009 segelten die Stahlseile, die das Element mit dem
 Riss zusammen hielten und entlasteten, im dicksten Berufsverkehr auf die
-Fahrbahn. Angeblich war der etwas stärkere Wind Schuld, der hier
-übrigens häufig weht. Trotz des Berufverkehrs gab es nur einen
+Fahrbahn. Angeblich war der etwas stärkere Wind schuld, der hier
+übrigens häufig weht. Trotz des Berufsverkehrs gab es nur einen
 Verletzten, aber die Bay Bridge wurde umgehend für den Verkehr
 geschlossen und eröffnete erst 6 Tage später wieder. Das Verkehrschaos,
 das die Schließung nach sich zog, bekamen wir allerdings nicht mit, denn
@@ -382,15 +382,15 @@ eine kurzfristige Lösung darstellen. Ah!!!
 <em>Angelika</em>
 Wer mich schon länger kennt, weiß, dass ich neben Bahlsen-Erdnussflips
 ein absoluter Fan von Kartoffelchips bin. Ich bemerke hier nur am Rande,
-dass ich zu meinem 30ten Geburtstag eine Girlande aus 30
+dass ich zu meinem 30. Geburtstag eine Girlande aus 30
 Kartoffelchipstüten gespannt bekam. Das sagt doch alles, oder?
 Allerdings bin ich auch dafür bekannt, etwas pingelig bei der
 Qualität zu sein, und so mag ich nur bestimmte Sorten,
 denn Kartoffelchips sind nicht gleich
-Kartoffelchips. In Deutschland kamen nur die von Funny Frisch auf den
+Kartoffelchips. In Deutschland kamen nur die von funny-frisch auf den
 Tisch. Ich habe übrigens schon manchen Blindtest bestanden. 
 
-<pic images/trader.ps Die etwas fettigeren BBQ-Chips nach Hawaiianischer Art von Trader Joe's>
+<pic images/trader.ps Die etwas fettigeren BBQ-Chips nach hawaiianischer Art von Trader Joe's>
 
 In Amerika
 gibt es natürlich auch ein riesiges Sortiment an Kartoffelchips. Nach
@@ -415,7 +415,7 @@ aber ebenso durch eine fein würzige Note aus.
 Trotzdem wir hier nun schon fast 13 Jahre leben, kommt es immer noch vor,
 dass uns auf einmal Sachen auffallen, die einfach anders sind. 
 Zu meinem Aufgabenbereich gehört zum Beispiel,
-Materialen für die autistischen Kinder zu erstellen, mit denen ich
+Materialien für die autistischen Kinder zu erstellen, mit denen ich
 arbeite. Nun spielen wir seit geraumer Zeit das sogenannte Ratespiel 
 und da wir für alles Symbolkarten anfertigen, machte ich eine
 mit einem Fragezeichen drauf. Als ich das Kärtchen allerdings meiner 
@@ -438,14 +438,14 @@ am Schreibschrift-I. In den USA kreieren die meisten das
 gedruckte "I" wie die römische Zahl Eins. Ich dachte erst, dass dies
 meine persönliche Note sei, denn über die Jahre entwickelt ja jeder
 seine eigene Handschrift, aber eine Internetrecherche ergab, dass ich das
-sogenannte bayrische Druckschrift-"I" schreibe, allerdings die ältere
+sogenannte bayerische Druckschrift-"I" schreibe, allerdings die ältere
 Fassung. Hmm, ich bin aber doch in Niedersachsen in die Grundschule
 gegangen ... vielleicht kann mich mal einer von den Grundschullehrern 
 aus der Leserschaft aufklären.
 
 Es fällt allerdings auf, dass Schreibschrift hier anders
 aussieht und das scheint tatsächlich neben dem individuellen Stil
-daran zu liegen, wie das Schreibschriftschreiben in den unterschiedlichen
+daran zu liegen, wie das Schreibschrift-Schreiben in den unterschiedlichen
 Ländern in der Schule gelehrt wird. Ein faszinierendes Thema. Das fand
 übrigens auch der Typologe Florian Hardwig, der 
 <LINK>http://www.sueddeutsche.de/kultur/319/436065/text|Schreibschriften aus mehreren Ländern in einem Forschungsprojekt</LINK> verglich.
@@ -468,7 +468,7 @@ einer Lagerhalle ("Storage") unterbringen. Auf Schritt und Tritt begegnen
 einem hier diese garagenartigen Riesengebäude, in denen
 sich der Kunde kleine oder auch größere Lagerräume mietet. 
 
-<pic images/storage2.ps Storage: Nicht ganz billig, aber was tun, wenn mann nichts wegwerfen kann?>
+<pic images/storage2.ps Storage: Nicht ganz billig, aber was tun, wenn man nichts wegwerfen kann?>
 
 Oft stehen diese hässlichen Betonklötze in ländlicheren Gegenden,
 aber
