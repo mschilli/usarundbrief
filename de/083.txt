@@ -15,7 +15,7 @@ Plastikcontainern oder -flaschen suchen müssen.
 
 Auch die grüne Biotonne
 für Kompost gibt es schon seit langem, war aber bis jetzt kaum in
-größeren Apartementgebäuden anzutreffen. Seit Mitte Oktober kommen
+größeren Apartmentgebäuden anzutreffen. Seit Mitte Oktober kommen
 aber die Vermieter nicht mehr drum herum, sie aufzustellen, denn in San
 Francisco gilt nun per Gesetz, dass jeder den Müll trennen muss.
 Kompost in die grüne, Glas, Papier, Plastik in die blaue und der
@@ -24,7 +24,7 @@ umfangreichsten in den USA.
 
 <pic images/garbage-sign.ps Shrimps können rein, Milchkartons auch, aber keine Flaschen.>
 
-Wer es nicht befolgt, bekommt zunächt
+Wer es nicht befolgt, bekommt zunächst
 mehrere Verwarnungen und dann hagelt es Bußgelder von $100, die bis auf
 $1000 hochschnellen können. Zur Zeit versuchen es die Stadtväter aber
 noch im Guten. Sie geben Informationen aus, die die Bürger von San
@@ -64,7 +64,7 @@ per Post
 reihenweise Zahlungsbescheide zu verschicken. Der Polizist, der die
 Radarmessung vornimmt, schaltet vielmehr beherzt die 
 Lichtorgel seines Ford "Crown Victoria" mit Sirene an,
-läßt den Motor aufheulen und hetzt dem Raser nach, 
+lässt den Motor aufheulen und hetzt dem Raser nach,
 um ihn zum Anhalten zu zwingen. Hält der Raser dann rechts auf dem 
 Seitenstreifen an, stellt der Polizist sein Auto kurz dahinter ab,
 steigt aus, kommt üblicherweise ans Beifahrerfenster und fragt
@@ -97,10 +97,10 @@ In Amerika nennt der Volksmund Polizisten "Cops". Das ist keines\-wegs anmaßend
 oder beleidigend, vielmehr nennen sich Polizisten unter\-einander selbst so.
 Die offizielle Bezeichnung für die Licht\-orgel\-fahrer ist allerdings
 "Officer", und wenn man ganz höflich ist, redet man sie auch damit an. Niemals
-sagt man "Sir" zu einem Polizisten, das gilt als arschkriecherisch und läßt ihn
+sagt man "Sir" zu einem Polizisten, das gilt als arschkriecherisch und lässt ihn
 Verdacht schöpfen. Der Polizist nennt die angehaltene Person hingegen "Sir"
-oder "Madam". Fragt man also nach dem nächsten süße Krapfen/Berliner
-verkaufenden Donut-Geschäft, sagt man einfach "Officer, can you direct me to
+oder "Madam". Fragt man also nach dem nächsten Donut-Geschäft, das süße
+Krapfen/Berliner verkauft, sagt man einfach "Officer, can you direct me to
 the next Donut shop?" und hoffentlich weist einem der Ordnungshüter den rechten
 Weg.
 
@@ -256,7 +256,7 @@ damit er später
 vor Gericht die richtigen Antworten wie aus der Pistole geschossen
 formulieren kann. Sagt man nichts, stellt der Polizist
 bis zum Monate später anberaumten Gerichtstermin oft hunderte
-von Tickets aus und kann sich an ein Einzelnes wahrscheinlich
+von Tickets aus und kann sich an ein einzelnes wahrscheinlich
 nur noch vage erinnern. Bringt er dann vor Gericht den Sachverhalt
 durcheinander oder verstrickt sich in Widersprüche, spricht der 
 Richter den Raser oft frei.
@@ -327,7 +327,7 @@ und schaffen es nicht, diesen Rundum-Blick aufrecht zu erhalten
 -- und rasen blind in die Radarfallen. 
 
 Mit meinem Verfahren bin ich schneller als die meisten Raser am Ziel, sehe
-praktisch alle Radarfallen Kilometer im voraus, und die 
+praktisch alle Radarfallen Kilometer im Voraus, und die
 Wahrscheinlichkeit, dass man mit 15 mph über dem Limit angehalten wird, 
 ist vielleicht 50/50. Neulich bin ich übrigens auf dem Freeway 101 mit 
 82 mph (132 km/h) an
@@ -353,8 +353,8 @@ kalifornischen Autobahnpolizei.
 <pic images/chips-gesindel.ps Dieses langhaarige Gesindel mit dem Kasperlauto wird sich noch über den Strafzettel der Motorrad-Cops wundern.>
 
 In der Serie ist "Jon Baker" der 
-Vernünfige des Duos, das die Autobahnen in der Gegend um Los Angeles 
-patroulliert. Sein Partner "Frank 'Ponch' Poncherello" brilliert
+Vernünftige des Duos, das die Autobahnen in der Gegend um Los Angeles
+patrouilliert. Sein Partner "Frank 'Ponch' Poncherello" brilliert
 als draufgängerischer Dussel, der sich von Hippies provozieren lässt, sich
 nicht durchsetzen kann und regelmäßig durch vermeidbare Fahrfehler sein 
 Motorrad schrottet. 
@@ -386,7 +386,7 @@ Die neuen
 digitalen Zähler messen den Strom- und Gasverbrauch, und die Daten werden
 dann drahtlos an die Gas- und Elektrizitätswerke (PG\&E in San Francisco)
 übermittelt. Der Kunde kann dann jederzeit am Computer verfolgen,
-wieviel Strom er gerade verbraucht, denn der Strom wird stündlich
+wie viel Strom er gerade verbraucht, denn der Strom wird stündlich
 abgelesen. PG\&E hofft, auf lange Sicht durch eine variable, 
 tageszeitabhängige Preisgestaltung, Kunden dazu zu bewegen, den
 eigenen Verbrauch dementsprechend anzupassen.
@@ -408,10 +408,10 @@ Eine Internetseite fasst die
 zusammen.
 
 <em>Michael</em>
-Übrigens sprießen seit neuestem in Punkto Strom\-ver\-brauchs\-messung allerlei
+Übrigens sprießen seit neuestem in puncto Strom\-ver\-brauchs\-messung allerlei
 Gadgets aus dem Boden: Google hat die 
 <LINK>http://www.google.org/powermeter|Powermeter-Software</LINK> 
-herausgebracht, und ein <LINK>http://www.theenergydetective.com/ted-5000-overview.html|Kasterl von TheEngergy\-Detective</LINK> zeigt den aktuellen 
+herausgebracht, und ein <LINK>http://www.theenergydetective.com/ted-5000-overview.html|Kasterl von The Energy Detective</LINK> zeigt den aktuellen
 Stromverbrauch auf dem Wohn\-zimmer\-tisch an. Da weiß der Herr des Hauses
 gleich Bescheid, falls ein Mit\-bewohner wieder leichtsinnigerweise Strom 
 verprasst!
@@ -423,7 +423,7 @@ verprasst!
 <em>Michael</em>
 Ende Oktober zog es uns nach Kanada, in die Stadt Toronto. Die Stadt
 mit dem Multi-Kulti-Image liegt
-weit im Osten, und ganz nahe an der Grenze zur USA und deren
+weit im Osten, und ganz nahe an der Grenze zu den USA und deren
 Bundesstaat New York.
 
 Kanadier sind angeblich etwas friedfertiger als die Amerikaner, allerdings
@@ -438,7 +438,7 @@ Huptönen ist übrigens Hawaii, dort hupen nur die Touristen.
 
 Aber zurück zu Toronto: Die Stadt leidet, ähnlich wie Vancouver
 (<RBLINK>20050701#1</RBLINK>) im Westen Kanadas, unter entstellenden 
-Massenwohnklötzen. Die 4.2 Millionen Leute müssen zweifellos
+Massenwohnklötzen. Die 4,2 Millionen Leute müssen zweifellos
 irgendwo unterkommen, es hat aber kaum alte Gebäude oder organisch gewachsene
 Stadtteile aufzuweisen. Alles, was wir bisher von Kanada gesehen haben,
 drängt den Verdacht auf, dass irgendwann in den 60er-Jahren des
@@ -455,7 +455,7 @@ bevölkert ist, die dort in den 60er Jahren kleine Häuslein bauten und sich
 dann in den 90ern verbissen weigerten, abzuziehen, als die Stadt
 aus der Insel einen Park machen wollte. Eine regelmäßig verkehrende
 Fähre bringt die Hippies am Morgen in die Stadt und Touristenströme
-auf die autofreie Insel, und das Ganze zum Schlagerpreis von CAN$6.50 
+auf die autofreie Insel, und das Ganze zum Schlagerpreis von CAN$6,50
 pro Person! Wir besichtigten die schnuckeligen Häuslein, manche Hippies
 kehren sogar das im Herbst von den Bäumen fallende Laub zusammen, 
 unerhört! Herbstlich verfärbte Laubbäume
@@ -476,7 +476,7 @@ auf der Straße herum als in vergleichbaren Klimaregionen der USA.
 Was positiv auffiel, waren die vielen auf bestimmte 
 Einwanderer\-gruppen spezialisierten Stadtviertel, die zwar weit
 verteilt sind, sich aber problemlos mit dem tadellos funktionierenden
-U-Bahn, Straßen\-bahn und Bussystem erreichen lassen. Allerdings müssen
+U-Bahn-, Straßen\-bahn- und Bussystem erreichen lassen. Allerdings müssen
 die Verant\-wort\-lichen noch lernen, dass nicht jeder weiß, dass eine
 Fahrt mit dem Bus $2.75 kostet. Und auch der Busfahrer gab diese
 Information auf Anfrage nur ungläubig und zögerlich preis. Egal, es gibt ein
@@ -489,7 +489,7 @@ Lebensmittel kaufen kann, sogar ordentlichen Käse und richtige Semmeln!
 <pic images/liquor.ps Alk gibt's in Ontario nur im Liquor Store.>
 
 Allerdings scheint die Regierung im kanadischen Bundesstaat Ontario
-zu denken, dass ihre Einwohner allesamt dem Suff verfielen,
+zu denken, dass ihre Einwohner allesamt dem Suff verfallen,
 falls der Staat den Konsum von Alkohol nicht mit eiserner Hand 
 reglementieren würde. Nur sogenannte "Liquor Stores", die nichts außer 
 alkoholischen Getränken zu völlig absurden Preisen verkaufen und die 
@@ -561,7 +561,7 @@ dem Fluss und dann aus dem Fass gezogen.
 <pic images/nia-barrel-in.ps Wird auch der Rundbriefreporter in einem Fass die Niagara-Fälle hinunter schwimmen?>
 
 Der Versuch eines Engländers im Jahre 1920 schlug fehl, weil der 
-Übermütige in seinem Faß zu Balancezwecken einen 50kg schweren
+Übermütige in seinem Fass zu Balancezwecken einen 50kg schweren
 Amboss an seinen Beinen befestigte. Das Fass überstand den Sturz, 
 doch der Amboss sauste mit dem Engländer in die Tiefe. Nur sein
 rechter Arm blieb im Fass.
@@ -604,10 +604,10 @@ Auch beim Namen streiten sich die Geister. Nur eines ist sicher, das
 "Egg" in "Egg Nog" bezieht sich ohne Zweifel auf die Eier. Ob nun
 aber "Nog" ein früher benutztes kleines Gefäß meint oder eine Kurzform
 von "Egg and Grog" ist, weiß niemand so genau. Ich bin auf jeden Fall
-ganz verückt nach dem "Egg Nog Latte", den zum Beispiel der
-Coffeeshop Martha's bei uns um die Ecke führt. Der spezielle Cafe Latte
+ganz verrückt nach dem "Egg Nog Latte", den zum Beispiel der
+Coffee Shop Martha's bei uns um die Ecke führt. Der spezielle Caffè Latte
 besteht aus Espresso und einer Mischung aus Egg Nog und Milch. Lecker,
-und nur zur Weihnachtzeit!
+und nur zur Weihnachtszeit!
 
 @Z: Mail-Art
 
@@ -626,7 +626,7 @@ Brieffreundschaften, und auch Michael und ich tauschten, als wir uns
 gerade frisch kannten, mindestens einmal wöchentlich Briefe aus, denn
 wir wohnten in verschiedenen Städten, es gab noch kein Internet und
 Michael hasste es, zu telefonieren. Auch gehöre ich zu den Verrückten,
-die keinen richtigen Brief wegschmeißt und im Laufe der Jahre haben sich
+die keinen richtigen Brief wegschmeißen und im Laufe der Jahre haben sich
 diverse Kisten angesammelt. Zu Michaels Leidwesen drucke ich auch alle
 E-Mails aus, die einen briefähnlichen Charakter haben. Es ist so
 schön, alte Briefe zu lesen!
@@ -653,8 +653,8 @@ dass man sich mit seinem Postboten und seinem Postamt gutstellt.
 
 Die Mail-Art-Bewegung hat, genau wie das Internet in seinen Anfängen, als es 
 noch nicht jeder Hinz und Kunz benutzte, fast anarchische Züge. Kommerzielle
-Interessen sind verpöhnt, denn die Mail-Art versteht sich gerade als
-Gegenbewegung zur Kunst- und Gallerieszene.
+Interessen sind verpönt, denn die Mail-Art versteht sich gerade als
+Gegenbewegung zur Kunst- und Galerieszene.
 Jeder kann Mail-Art betreiben. Es gibt kein Gremium, das
 bestimmt, wer zu dem Kreis der Mail-Art-Künstler gehört und wer nicht.
 Der Sender stellt keine Erwartungen an den Empfänger, obwohl es wiederum 
@@ -666,8 +666,8 @@ Bei den sogenannten
 setzt jemand ein Thema und ruft die
 Mail-Art-Enthusiasten auf, dazu Mail-Art zu produzieren und
 einzuschicken. Beispielthemen: Schinken, Blick aus dem Fenster, 
-Selbst\-portraits, Fliegen. Diese Aufrufe kommen sowohl 
-von Einzel\-personen als auch von Museen und Gallerien. Aber es gilt
+Selbst\-porträts, Fliegen. Diese Aufrufe kommen sowohl
+von Einzel\-personen als auch von Museen und Galerien. Aber es gilt
 wiederum: Es gibt keine Jury, keine Gebühren fallen an und das
 Eingesandte wird nicht zurückgesandt. Kommt es zu einer Ausstellung, ist
 jeder, der etwas einschickt, automatisch in der Ausstellung. Der
@@ -691,7 +691,7 @@ befördert. Das Frankieren von Sendungen mit falschen Briefmarken ("faux
 postage") ist natürlich illegal und die beiden Künstler stehen
 deswegen auf der schwarzen Liste der amerikanischen Post. Es gibt viele
 Mail-Art-Künstler, die ihre eigenen Briefmarken entwerfen, aber die
-meisten kleben neben den falschen Briemarken auch die richtigen drauf,
+meisten kleben neben den falschen Briefmarken auch die richtigen drauf,
 damit sie nicht mit dem Gesetz in Konflikt kommen.
 
 Grüße aus der Stadt der hehren Künste:
