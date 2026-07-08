@@ -6,8 +6,8 @@ San Francisco, den 05.03.2012
 
 <em>Michael</em>
 Neulich fuhren wir routinemäßig an unserem auf der Straße geparkten Zweitauto
-Perly Perlman vorbei und ich traute meinen Augen nicht: Perly war nicht mehr 
-an der Stelle wo ich ihn zwei Tage vorher geparkt hatte.
+Perly Perlman vorbei und ich traute meinen Augen nicht: Perly war nicht mehr
+an der Stelle, wo ich ihn zwei Tage vorher geparkt hatte.
 
 <pic images/sf-sweet-spot.ps (#1) Das Referenzwerk "Finding the Sweet Spot": Parken für Experten in San Francisco.>
 
@@ -57,7 +57,7 @@ Der Abschleppdienst hatte vor dem Abschleppen vorschriftsmäßig geprüft, ob da
 Auto gestohlen gemeldet war, doch zu diesem Zeitpunkt wussten wir noch
 nichts von Perly Perlmans unfreiwilliger Spritztour. Vorschriftsmäßig 
 fotografierte der Schlepper Perly vor der Einfahrt und schickte mir
-die Abzüge auf meine Anfrage hin per Email (Abbildung (#5)).
+die Abzüge auf meine Anfrage hin per E-Mail (Abbildung (#5)).
 
 <pic images/perly-stolen.ps (#5) Der Abschlepper als Fotograf: Gestohlener Perlman vor jemandes Doppelgarage.>
 
@@ -80,13 +80,13 @@ eigentlich?
 
 <em>Angelika</em>
 Morgen am 6. März findet der sogenannte "Super Tuesday" statt, da in einer
-Vielzahl von Bundestaaten, u.a. Ohio, Vorwahlen der republikanischen Partei auf
+Vielzahl von Bundesstaaten, u.a. Ohio, Vorwahlen der republikanischen Partei auf
 das Präsidentschaftsamt durchgeführt werden. Mittlerweile sind noch die
-Kandidaten Mitt Romney, Rick Santorum, Newt Gingrich and Ron Paul im Rennen,
+Kandidaten Mitt Romney, Rick Santorum, Newt Gingrich und Ron Paul im Rennen,
 wobei sich in Ohio nach Meinungsumfragen Rick Santorum und Mitt Romney ein
 Kopf-an-Kopf-Rennen liefern. 
 
-Der Aufstieg des Rick Santorums in diesem Wahlkampf
+Der Aufstieg Rick Santorums in diesem Wahlkampf
 hat viele überrascht, denn er galt eigentlich als chancenlos, da seine
 politischen Ansichten als zu extrem gelten. So hält er Verhütungsmittel für
 gefährlich und beäugt öffentliche Schulen und Universitäten mit Argwohn, da
@@ -105,12 +105,12 @@ Beides befürwortet Santorum. Mitt Romney reibt sich währenddessen die
 Hände, denn niemand hinterfragt mehr, dass er der mormonischen Kirche
 angehört, weil die Presse sich lieber auf den antiquierten Katholiken stürzt.
 
-Nun muss sich jeder rational denkende Mensch fragen: wie kann es jemand wie
-Santorum soweit in einem Vorwahlkampf um das wichtigste Amt im Land bringen?
+Nun muss sich jeder rational denkende Mensch fragen: Wie kann es jemand wie
+Santorum so weit in einem Vorwahlkampf um das wichtigste Amt im Land bringen?
 Denn sowohl innen- als auch außenpolitisch kommt es nicht auf ultrakonservative
 Fragen wie Verhütung, gleichgeschlechtliche Ehe oder die Trennung von Staat und
-Kirche an, sondern es geht um Arbeitsplätze, Sozialsysteme, die am zusammen
-brechen sind oder gar nicht erst existieren, die Überschuldung und Krisen wie
+Kirche an, sondern es geht um Arbeitsplätze, Sozialsysteme, die am Zusammenbrechen
+sind oder gar nicht erst existieren, die Überschuldung und Krisen wie
 die Atomwaffenambitionen im Iran. Man kann dies alles mit dem amerikanischen
 Hang zu schillernden, extremen Persönlichkeiten abtun, aber das wäre etwas zu
 einfach gedacht. 
@@ -118,14 +118,14 @@ Die republikanische Partei steckt in einer tiefen Krise, weil die
 moderaten Stimmen in der Partei immer mehr zu einer Minderheit verkommen. So
 warf erst vor kurzem Olympia Snowe, eine moderate, republikanische Senatorin von
 Maine, das Handtuch, weil sie es satt hatte, mit ihren extremen Parteigenossen
-zusammen zu arbeiten. Auch bei den republikanischen Vorwahlen bleibt
+zusammenzuarbeiten. Auch bei den republikanischen Vorwahlen bleibt
 mittlerweile der moderate Wählerstamm zu Hause und lässt den extremen Wählern
 den Vortritt. In einer Demokratie geht es allerdings nicht ohne Kompromisse und
 mit extremen Ansichten allein funktioniert irgendwann gar nichts mehr. Während
 sich die republikanischen Kandidaten gegenseitig zerfleischen, freut sich Obama,
 denn seine Popularitätswerte sind gestiegen, seitdem sich die Republikaner bei
 den Vorwahlen eine Schlammschlacht liefern. Mitt Romney bemerkt dann auch immer
-zurecht, dass Santorum keine Chance gegen Obama hat. Ob die republikanischen
+zu Recht, dass Santorum keine Chance gegen Obama hat. Ob die republikanischen
 Wähler das genauso sehen, wird sich morgen zeigen.
 
 @Z: Mieten explodieren
@@ -140,23 +140,23 @@ um Häuserkauf und Mieten geht. Nichts Neues für unsere langjährigen
 Rundbriefleser, doch in letzter Zeit schießt der Mietmarkt den Vogel ab und 
 wir nähern uns New-York-City-Manhattan-Niveau an. Eine Dreizimmerwohnung in 
 unserem Viertel kostet laut dem
-<LINK>http://www.noevalleyvoice.com/2012/February/Cost.htm|Mitspiegel unserer Stadtteilzeitung Noe Valley Voice</LINK>
+<LINK>http://www.noevalleyvoice.com/2012/February/Cost.htm|Mietspiegel unserer Stadtteilzeitung Noe Valley Voice</LINK>
 mittlerweile zwischen $2100 und $6000 Miete und die 
-durchschnittliche Miete lag im Januar diesen Jahres bei $3525 monatlich. 
+durchschnittliche Miete lag im Januar dieses Jahres bei $3525 monatlich.
 Im Januar 2011 betrug der monatliche Durchschnittspreis in unserem Viertel 
 noch $2745. 
 
 Zugegebenermaßen ist Noe Valley ein begehrtes Wohnviertel und 
 bei der 6000-Dollar-Wohnung handelt es sich sicher um ein Luxusobjekt, aber 
-Wohnungen, die in Noe Valley zur Zeit für $3000 monatlich weggehen, sind 
+Wohnungen, die in Noe Valley zurzeit für $3000 monatlich weggehen, sind
 mitnichten super ausgestattet oder groß, oft muss der Mieter die Garage 
 sogar extra bezahlen oder es gibt keine Garage. Aber auch in anderen 
 Vierteln in San Francisco explodieren die Mieten. Der Durchschnittspreis 
-für eine Dreizimmerwohnung liegt stadtweit zur Zeit bei fast $3000. Viele 
+für eine Dreizimmerwohnung liegt stadtweit zurzeit bei fast $3000. Viele
 reden schon von einem neuen Technologie-Boom. Nicht nur neue
 Start-Up-Unternehmen werden gegründet sondern auch Firmen wie Facebook, 
 LinkedIn und Yelp gehen an die Börse und schaffen, wenn alles gut läuft, 
-ein paar Tausend Millionäre, die dann auf den Häuser-und Mietmarkt drängen und 
+ein paar Tausend Millionäre, die dann auf den Häuser- und Mietmarkt drängen und
 nicht auf den Preis schauen müssen. 
 
 <pic images/for-rent.ps Sieht man nur noch selten: Mieter gesucht.>
@@ -164,11 +164,11 @@ nicht auf den Preis schauen müssen.
 Andere gut etablierte Firmen wie Google 
 und Apple zahlen ihren Mitarbeitern ebenfalls nette Gehälter und diese 
 zucken nicht mit der Wimper, wenn sie $3500 für eine Wohnung hinzublättern 
-haben. Mittlerweile fangen schon wieder so unschöne Parktiken an, dass 
-Mieter freiweilig höhere Mieten zahlen, nur um eine begehrte Wohnung zu 
+haben. Mittlerweile fangen schon wieder so unschöne Praktiken an, dass
+Mieter freiwillig höhere Mieten zahlen, nur um eine begehrte Wohnung zu
 bekommen. Der Markt ist mittlerweile so dicht, dass es überhaupt nur 3% 
 freie Wohnungen in der Stadt gibt. Auch modeln viele Vermieter ihre Häuser 
-oder Wohnungen in Ferienwohungen um, die sie dann wochenweise vermieten, was 
+oder Wohnungen in Ferienwohnungen um, die sie dann wochenweise vermieten, was
 ihnen höhere Einnahmen verspricht. Was sind wir froh, dass wir in einer 
 Wohnung mit Mietpreisbindung wohnen (<RBLINK>20000801#8</RBLINK>).
 
@@ -340,7 +340,7 @@ ich förmlich darauf, dem eingeschlafenen Monopolverein eins auszuwischen.
 Aus der North-Bay drängte vor einiger Zeit eine Firma namens Sonic.net
 auf den Markt, die auf der "letzten Meile" die Telefon\-leitung von AT\&T
 least und darauf zum Schlagerpreis Telefon- und Internetservice anbietet.
-Gibt's ein Problem, bekommt man statt skript\-lesender AT\&T-Dronen aus Indien 
+Gibt's ein Problem, bekommt man statt skript\-lesender AT\&T-Drohnen aus Indien
 beim Kundenservice bei Sonic.net richtige Kalifornier an die Leitung, 
 die keinen Kappes daherreden sondern technisch versierte Antworten geben.
 
@@ -361,7 +361,7 @@ Deutschland, und 12Mbit Internet.
 Am vereinbarten Termin schalteten die 
 Sonic-Leute die Leitung beinahe nahtlos um und nach einigen kleineren 
 Problemen, die der Kundenservice mühelos behob, brausen wir nun fast
-zehnmal  so schnell im Internet herum und sparen $30 im Monat. Sehr
+zehnmal so schnell im Internet herum und sparen $30 im Monat. Sehr
 zu empfehlen, diese Sonic-Leute. Und nach einem kürzlich erschienenen
 Zeitungsartikel testen sie sogar noch 
 <LINK>http://arstechnica.com/tech-policy/news/2012/02/gigabit-internet-for-80-the-unlikely-success-of-californias-sonicnet.ars|hundert Mal schnellere Internetverbindungen</LINK>. Wenn sie sich damit nur nicht überheben, mir reicht mein
@@ -392,7 +392,7 @@ Weingläser oder Rasenmäher hinzu, damit die Empfängerinnen sich nicht
 ausspioniert fühlen.
 
 <HTMLONLY>
-<pic images/target-nyt.ps Im Artikel "How Companies Learn Your Secrets" in der New York Times untersucht Chares Duhigg, was Supermärkte mit Kundendaten treiben. >
+<pic images/target-nyt.ps Im Artikel "How Companies Learn Your Secrets" in der New York Times untersucht Charles Duhigg, was Supermärkte mit Kundendaten treiben. >
 </HTMLONLY>
 
 Es geht aber noch weiter: Kombiniert Target die persönlichen
@@ -405,7 +405,7 @@ Viele Amerikaner wissen dies nicht und würden, falls sie es denn
 wüssten, der Datensammelei auch keine große Bedeutung zumessen. 
 Es fehlt der breiten Bevölkerung das Verständnis um die Gefahren des
 Datenmissbrauchs und deswegen existiert keine nennenswerte Lobby für 
-den Datenschutz, die entprechende Vorschriften per Gesetz durchdrücken
+den Datenschutz, die entsprechende Vorschriften per Gesetz durchdrücken
 könnte.
 
 @Z: Der Schussdetektor "Shot-Spotter"
@@ -413,7 +413,7 @@ könnte.
 <pic images/shot-spotter-news.ps Das Shot-Spotter-System weiß, wo ge\-schos\-sen wird.>
 
 <em>Michael</em>
-Aus der Zeit des wilden Westen scheint der Brauch zu stammen, zu 
+Aus der Zeit des Wilden Westens scheint der Brauch zu stammen, zu
 feierlichen Anlässen aus Übermut 
 <LINK>http://www.mercurynews.com/top-stories/ci_19635202|Pistolenschüsse in die Luft abzugeben|Übermütige feuern zu Neujahr Feuerwaffen in die Luft ab</LINK>.
 Dies ist heutzutage jedoch zumindest in Kalifornien verboten, denn 
@@ -467,7 +467,7 @@ genannt, durchleuchten.
 
 Wir lehnen das jedes Mal stur ab. Das ist völlig legal, und man wird dann
 um den Scanner herumgelotst und zum Ende des Fließbands geleitet, wo ein
-TSA-Beamter einen sogenannten "Pat Down" (Abtasten mit dem 
+TSA-Beamter einen sogenannten "Pat Down" (Abtasten mit den
 Handflächen) durchführt. Das Abtasten, das eigentlich nicht
 länger als 2 Minuten dauern sollte, zieht sich immer einige Minuten hin, 
 weil der Abtaster erst umständlich jeden einzelnen Schritt erklärt, welche
@@ -491,21 +491,21 @@ die den in Polizeigewahrsam Genom\-menen über seine Rechte aufklären.
 Die TSA-Beamten sind schon immer leicht genervt, dass wir den Scanner
 verweigern und wenn wir auf die Frage, warum wir den Scanner ablehnen, brav
 antworten: aus gesundheitlichen Gründen, kommt prompt die Rückantwort,
-dass der Scanner aber keine Radioaktvität zum Durchleuchten des Körpers
+dass der Scanner aber keine Radioaktivität zum Durchleuchten des Körpers
 benutzt. In San Francisco an der Sicherheitskontrolle zeigt in der Regel
 eine Infotafel an, welche Art von Scanner im Einsatz ist: der "Millimeter
 Wave Scanner", der elektromagnetische Strahlung benutzt, oder der
-Röntgenscanner ("Backscatter X-ray"), der mit Röngtenstrahlen arbeitet.
+Röntgenscanner ("Backscatter X-ray"), der mit Röntgenstrahlen arbeitet.
 
-Angeblich ist der erst genannte ohne jeglichen Gesundheitsrisiken und der
+Angeblich ist der Erstgenannte ohne jegliche Gesundheitsrisiken und der
 zweite bestrahlt den Reisenden nur gering. Als ich neulich etwas pampig
-erwähnte, dass der Röngtenscanner in Europa an den Flughäfen
+erwähnte, dass der Röntgenscanner in Europa an den Flughäfen
 mittlerweile aus gesundheitlichen Gründen nicht mehr zum Einsatz kommt und
 ich nur darauf warte, dass der andere Scanner auch in Verruf gerät, bekam
 ich nur zur Antwort, dass sie nicht wüssten, was die Europäer machten.
 Michael sagt zwar immer, dass er aus gesundheitlichen Gründen den Scanner
 verweigert, hält die Scanner aber in Wirklichkeit für wirkungslosen
-Sicherheitszirkus. Und wer weiss, was die TSA mit den Daten macht? 
+Sicherheitszirkus. Und wer weiß, was die TSA mit den Daten macht?
 Angeblich wird weder das Bild noch irgendwelche anderen
 Daten gespeichert, aber der in vielen Bereichen nicht vorhandene
 amerikanische Datenschutz lässt diesbezüglich Zweifel aufkommen.
@@ -523,16 +523,16 @@ für die Scanner in der Sicherheitszone.
 Neulich verbrachten wir einmal wieder 10 Tage auf der hawaiianischen Insel
 Oahu, um uns im herrlichen tropischen Klima zu erholen. Als
 wir uns im Costco (ja, auch auf Hawaii gibt es einen Costco) mit
-Sonnencreme und derglichen eindeckten, entdeckten wir einen Verkaufsstand,
+Sonnencreme und dergleichen eindeckten, entdeckten wir einen Verkaufsstand,
 der ein rötliches Fruchtsaftgetränk namens 
 <LINK>http://www.konared.com|Kona Red</LINK> anpries.
 Als die freundliche
 Verkaufsdame, die aussah, als wäre sie gerade mit ihrem Surfboard den
 Wellen entstiegen, uns aufklärte, dass der Saft aus der Frucht der
 Kaffeepflanze gewonnen wird, gab es für mich kein Halten mehr. Ich bin ja
-bekanntlich ein absoluter Kaffeefan und und liebe besonders den aus
+bekanntlich ein absoluter Kaffeefan und liebe besonders den aus
 100% Kona-Bohnen gebrannten,
-der noch dreimal besser zu schmecken scheint wenn man auf Hawaii
+der noch dreimal besser zu schmecken scheint, wenn man auf Hawaii
 Urlaub macht. Der Kona-Kaffee kommt allerdings nicht direkt aus Oahu
 sondern von der Insel Big Island (auch Hawaii genannt). 
 Wie der Wein "Bordeaux" nur Bordeaux genannt
@@ -543,7 +543,7 @@ Kaffeepflanzen in dieser Region besonders wohl.
 
 Das Fruchtsaftgetränk "Kona Red" wird nun aus der roten Frucht, die die
 spätere Kaffeebohne umgibt und schützt, gewonnen. Das Getränk besteht
-aus 100% Fruchsaft ohne Zuckerzusatz und schmeckt sehr erfrischend. Es
+aus 100% Fruchtsaft ohne Zuckerzusatz und schmeckt sehr erfrischend. Es
 erinnert an eine Mischung aus Kirsch-, Brombeer- und Traubensaft mit einer
 nicht zu süßen, leicht säuerlichen Note. Das Getränk ist tiefrot und
 auch noch gesund, denn die Frucht der Kaffeepflanze gilt als Superfrucht,
@@ -556,9 +556,9 @@ Kokoswasser angereichert ist.
 <pic images/alamo.ps Die Autovermietungsfirma Alamo ver\-pflich\-tet den Fahrer, nur Schrammen, die größer als dieser Kreis sind, zu melden.>
 
 <em>Angelika</em>
-Vom Automieten in den USA berichteten wir ja schon des öfteren. Es gibt ja
+Vom Automieten in den USA berichteten wir ja schon des Öfteren. Es gibt ja
 einiges zu bedenken und kann für ausländische Touristen oft verwirrend
-sein, weil die Autovermierungsfirmen meiner Meinung nach alle etwas
+sein, weil die Autovermietungsfirmen meiner Meinung nach alle etwas
 verbrechermäßig arbeiten und oft die Kunden über den Tisch ziehen. Aber
 ich schweife ab. Wenn man das Auto übernimmt, geben einem hier die meisten
 Autovermietungsfirmen in der Regel einen Zettel in die Hand, der ein Auto
@@ -571,18 +571,18 @@ allen Dingen am Kofferraum, wo ständig Gepäck ein- und ausgeladen wird
 oder auch an den Stoßstangen. 
 Amerikaner gehen allgemein etwas gelassener
 mit ihren Autos um und keiner schert sich so richtig darum, ob beim Aus-
-und Einparken die vorderere oder hintere Stoßstange Kontakt mit dem
+und Einparken die vordere oder hintere Stoßstange Kontakt mit dem
 anderen Auto hat. Auch stellen wir immer wieder fest, dass verschiedene
 Autovermietungsfirmen verschiedene Maßstäbe an den Tag legen. So waren wir
 erfreut, als uns auf Hawaii der Autovermietungsmann von Alamo einen
 weiteren Zettel in die Hand drückte, der neben der obligatorischen
-Autozeichnung zum Eintragen der Schäden eine Anleitung bereit hielt, die
+Autozeichnung zum Eintragen der Schäden eine Anleitung bereithielt, die
 darüber aufklärte, was
 einzumalen ist und was nicht. Ein ausgestanzter Kreis mit einem Durchmesser
 von 5 cm galt als Richtlinie: Alle Kratzer, die in den Kreis passten, waren
 ausgeschlossen. Über Kratzer auf den Stoßstangen brauchte man sich gleich
 gar keine Sorgen zu machen. Wir haben keine Ahnung, ob das Kreissystem nur
-bei Alamo auf Hawaii zu finden ist. Auch fragen wir uns, wieviele Kunden den
+bei Alamo auf Hawaii zu finden ist. Auch fragen wir uns, wie viele Kunden den
 Kreis wirklich benutzen werden, denn ich kann mir ehrlich gesagt nicht
 vorstellen, dass die meisten amerikanischen Kunden die Geduld dafür
 aufbringen.
