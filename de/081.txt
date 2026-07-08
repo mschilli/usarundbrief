@@ -12,9 +12,9 @@ amerikanischen Gerichtshof: Sonia Sotomayor ist nicht nur erst die dritte Frau, 
 dieses Amt bekleidet, sondern in der 220-jährigen Geschichte des Gerichts
 auch die erste mit lateinamerikanischem Hintergrund.
 
-Sie  besetzt die Stelle des Richters David Souter, der sich mit 69 Jahren in
-seinen wohl verdienten Ruhestand verabschiedete. Neubesetzungen des Gerichts
-haben in der Amtszeit eines Präsidenten deshalb soviel Gewicht, weil die
+Sie besetzt die Stelle des Richters David Souter, der sich mit 69 Jahren in
+seinen wohlverdienten Ruhestand verabschiedete. Neubesetzungen des Gerichts
+haben in der Amtszeit eines Präsidenten deshalb so viel Gewicht, weil die
 Ernennungen auf Lebenszeit erfolgen. Wenn ihr euch die Liste der zur Zeit
 aktiven Supreme-Court-Richter anseht und von welchen Präsidenten sie
 ernannt wurden, wisst ihr, was ich meine: Samuel Alito (ernannt 2006 von George
@@ -28,7 +28,7 @@ Reagan), Sonia Sotomayor (ernannt 2009 von Obama), John Paul Stevens (ernannt
 
 Wenn ihr mitgezählt habt, wisst ihr, dass der Supreme Court insgesamt aus neun
 Richtern besteht. Der 54-jährige John G. Roberts hält als Chief Justice den
-Vorsitz.  Die Verfassung schreibt übrigens nicht vor, aus wievielen Richtern
+Vorsitz. Die Verfassung schreibt übrigens nicht vor, aus wie vielen Richtern
 sich der "Supreme Court" zusammensetzen soll, aber seit 1869 sind es neun. Eine
 ungerade Anzahl von Richtern ist allerdings -- wegen der andernfalls möglichen
 Pattsituation -- empfehlenswert. 
@@ -63,12 +63,12 @@ entschieden wurden.
 Präsidenten versuchen durchaus, das Gericht durch die Wahl des Kandidaten in
 ihrem Sinne zu beeinflussen. Die großen Fragen sind dabei immer wieder: Wie
 steht der neu ernannte Richter zur Abtreibung, Waffenbesitz, Quotenregelung
-bzw.  Minderheitenförderung ("Affirmitive Action" ) oder Bürgerrechten ("Civil
+bzw. Minderheitenförderung ("Affirmative Action") oder Bürgerrechten ("Civil
 Rights")? Der Präsident schlägt zwar seinen Traumkandidaten vor, aber der kommt
 nur auf den Supreme-Court-Sessel, wenn der Senat ihn in einem zweischrittigen
-Verfahren bestätigt.  Zunächst befragt der Justizausschuss des Senats den
+Verfahren bestätigt. Zunächst befragt der Justizausschuss des Senats den
 Supreme-Court-Kandidaten und gibt grünes oder rotes Licht, ob es zur Abstimmung
-über den Kandidaten im ganzen Senat kommt. Stimmt der Aussschuss zu,
+über den Kandidaten im ganzen Senat kommt. Stimmt der Ausschuss zu,
 reicht eine einfache Mehrheit im Senat aus, um die Nominierung zu bestätigen. 
 
 Während Sotomayors Anhörung ritten die Senatoren vor allen Dingen
@@ -111,7 +111,7 @@ Courts schon vermeintlich konservative Richter nominiert, die sich dann
 im Laufe ihrer Karriere am Supreme Court als äußerst liberal entpuppten. 
 Der von Eisenhower nominierte
 Earl Warren gehört zum Beispiel dazu. Zu einigen der berühmtesten und
-prägensten Entscheidungen des Supreme Courts gehören u.a. "Brown versus Board
+prägendsten Entscheidungen des Supreme Courts gehören u.a. "Brown versus Board
 of Education" (1954) und "Roe versus Wade" (1973). Im erst genannten Fall
 schafften die Richter die Rassentrennung an Schulen ab; im zweiten erhielten
 Frauen das Grundrecht, Abtreibungen vorzunehmen. Hinter Roe verbirgt sich dabei
@@ -126,7 +126,7 @@ Wir sind schon gespannt, was Sotomayor mitentscheiden darf.
 
 <em>Michael</em>
 Neulich verschlug es mich dienstlich zur Perl-Konferenz nach Pittsburgh
-im Bundesstaat Pennsylvania. Grummelnd setzte ich mich am sonntagmittag 
+im Bundesstaat Pennsylvania. Grummelnd setzte ich mich am Sonntagmittag
 ins Flugzeug, das noch nicht mal ganz bis Pittsburgh, sondern nur ins 
 100km entfernte Cleveland im Bundesstaat Ohio flog, von wo mich eine
 Propeller(!)maschine dann nach Pittsburgh brachte. In welchem Jahrhundert
@@ -163,7 +163,7 @@ nur schwarze Halb\-starke herum, die angstfrei umherschreitende Leute
 wie euren werten Erzähler ungläubig 
 beglotzten. Eine merkwürdige Szenerie. Dabei ist das Wetter im Sommer
 echt angenehm, nicht zu heiß, weil die Stadt direkt am Ohio-River
-liegt, und man könnte gut bis zwölf im Straßencafe sitzen.
+liegt, und man könnte gut bis zwölf im Straßencafé sitzen.
 
 <pic images/hofbrau1.ps Blitzbesuch im Hofbräuhaus, Pittsburgh, Pennsylvania>
 
@@ -188,7 +188,7 @@ Gesang zum Besten gab. Ha!
 Am nächsten Tag wollte ich mir im Supermarkt ein Bier kaufen, um es aufs
 Hotelzimmer mitzunehmen, wurde aber darüber aufgeklärt, dass man im Bundesstaat
 Pennsylvania kein Bier im Supermarkt kaufen kann. Gut, gut, das kannte
-ich aus dem Mormonenstaat Utah oder auch Alaska, wo man alkohlhaltige 
+ich aus dem Mormonenstaat Utah oder auch Alaska, wo man alkoholhaltige
 Getränke in sogenannten Liquor-Stores kaufen muss. Als ich dann an einem
 kleinen Tante-Emma-Laden anhielt, der aussah wie ein Liquor-Store, und
 auch dort im Kühlregal kein Bier fand, wurde ich stutzig und fragte
@@ -196,7 +196,7 @@ den Mann an der Kasse um Rat, einen Ausländer, der aussah als käme
 er aus der Jemen/Syrien-Gegend.
 Der lachte und sagte, so einfach ginge das hier nicht
 ("We are different here, haha!") und ich müsste in eine Bar hineingehen,
-und "Bier zum mitnehmen" ordern. 
+und "Bier zum Mitnehmen" ordern.
 
 <pic images/pitsaloon.ps Absurde Alkoholgesetze im Bundesstaat Pennsylvania zwangen den durstigen Rundbriefreporter, sein Bier im Dorfsaloon zum Mitnehmen zu ordern.>
 
@@ -207,7 +207,7 @@ platzierten gläsernen Kühlschrank verwiesen. Als ich dessen Tür öffnen
 wollte, um das gewünschte Bier herauszuholen, stellte sich heraus,
 dass er verschlossen war. Die Bardame instruierte aber gleich den Barmann,
 den Schlüssel zu holen, und mein Bier aus dem Kühlschrank zu entnehmen.
-Das Bier wurde in einen undurchsichtige Plastiktüte verpackt, ich zahlte
+Das Bier wurde in eine undurchsichtige Plastiktüte verpackt, ich zahlte
 und ging zum Auto und fuhr heim. Also manchmal fragt man sich ...
 
 @Z: Cash for Clunkers
@@ -216,7 +216,7 @@ und ging zum Auto und fuhr heim. Also manchmal fragt man sich ...
 
 <em>Angelika</em>
 In Deutschland kennt ihr sie schon lange: Die ominöse Abwrackprämie, die
-potentielle Käufer in die Autohaüser treiben soll, um ihre alten Autos gegen
+potentielle Käufer in die Autohäuser treiben soll, um ihre alten Autos gegen
 neuere, umweltfreundlichere Modelle einzutauschen. Nach langem Hin und Her zog
 Amerika mit der Kampagne "Cash for Clunkers" (frei übersetzt etwa: "Bargeld für
 Schrottkarren"), offiziell "Car Allowance Rebate System" genannt, nach. 
@@ -225,8 +225,8 @@ Kunden, die ihr altes Auto für ein umweltfreundlicheres, neues hergaben,
 erhielten beim Neukauf eines Wagens eine Prämie. Doch nicht jede Schrottkarre
 wurde akzeptiert, ein "Clunker" durfte nicht älter als 25 Jahre sein und
 musste mindestens (!) 13 Liter auf 100km verbrauchen. Da der Amerikaner
-den Benzinverbrauch nicht in Litern auf 100km ermittelt, sonder darüber,
-wie viele Meilen (1.6 Kilomenter) ein Auto mit einer Gallone (3.79 Liter) 
+den Benzinverbrauch nicht in Litern auf 100km ermittelt, sondern darüber,
+wie viele Meilen (1,6 Kilometer) ein Auto mit einer Gallone (3,79 Liter)
 fährt, war der Wert in 18 "Miles per Gallon" (mpg) angegeben, und ein 
 Clunker musste <em>weniger</em> schaffen.
 
@@ -272,7 +272,7 @@ Gebäude für die Allgemeinheit zugänglich zu machen und für zukünf\-tige
 Generationen zu erhalten. Kalifornien wartet gleich mit 278 State Parks mit
 unterschiedlichem Schwerpunkt auf, dazu gehören auch 450 km Küste. Im Schnitt
 besuchen jährlich fast 80 Millionen die ver\-schie\-denen kalifornischen State
-Parks. Es handelt sich also um eine recht populäre Freizeit\-beschäfigung.
+Parks. Es handelt sich also um eine recht populäre Freizeit\-beschäftigung.
 State Parks sind kleiner im Vergleich zu National\-parks: ein Strand, ein Wald,
 ein See, ein Leucht\-turm, eine Missions\-kirche. 
 
@@ -282,11 +282,11 @@ Wie der Name schon vermuten
 lässt, stehen State Parks unter der Verwaltung des jeweiligen Bundesstaates
 und werden von diesem finanziert. Nun ist das Geldsäckel in Kalifornien schon
 seit mehreren Jahren leer und der gerade erst verabschiedete Haushalt sieht
-wieder einmal Kürzungen in Millionenhöhe vor, um die immer grösser werdenden
+wieder einmal Kürzungen in Millionenhöhe vor, um die immer größer werdenden
 Löcher zu stopfen. Leider kannte unser Gouvernator Arnold
 Schwarzenegger auch bei den State Parks keine Gnade, obwohl er sich sonst immer
 als Umweltengel hervorhebt. Er strich beim Unterschreiben des Haushalts
-noch einmal zusätzliche 6.2 Millionen aus dem State-Park-Topf heraus, was die
+noch einmal zusätzliche 6,2 Millionen aus dem State-Park-Topf heraus, was die
 Parks, die eh nicht gerade im Geld schwimmen, in eine prekäre Lage bringt. Zu
 befürchten ist, dass 50-100 State Parks in Kalifornien schließen müssen, es
 sei denn es finden sich private Sponsoren oder gemeinnützige Vereine und
@@ -297,13 +297,13 @@ State-Park-Schließungen kommt.
 <pic images/spsign.ps Beschilderung im State Park von Half Moon Bay>
 
 Der Besuch eines State Parks kostet in der
-Regel übrigens eine geringe Gebühr pro Auto.  Das Eintrittsgeld  rangiert zur
+Regel übrigens eine geringe Gebühr pro Auto. Das Eintrittsgeld rangiert zur
 Zeit zwischen 2 bis 14 Dollar, wobei wir meist 5 oder 6 Dollar zahlen. Ab Mitte
 August wurden die Preise erhöht, was allerdings auch nur ein Tropfen auf den
 heißen Stein ist und die angedrohten Schließungen nicht stoppen kann.
-Verückterweise zahlten wir in unseren Anfangsjahren, was mittlerweile auch
+Verrückterweise zahlten wir in unseren Anfangsjahren, was mittlerweile auch
 schon fast 13 Jahre her ist, in Kalifornien im Schnitt 10 Dollar Eintritt, bis
-dann irgendwelche Schlauköpfe  im Jahr 2000 die Gebühren durch die Bank um
+dann irgendwelche Schlauköpfe im Jahr 2000 die Gebühren durch die Bank um
 50% senkten -- eine nicht gerade vorausschauende Planung.
 
 @Z: Mal wieder Kailua
@@ -329,12 +329,12 @@ da braucht es keine Klimaanlage, trotz tropischer Hitze!
 
 <pic images/surf2.ps (#1) Boogie-Board-Surfer am Sandy-Beach-Strand>
 
-Der 5-Stunden-Fluglug von San Francisco verging rasend schnell,
+Der 5-Stunden-Flug von San Francisco verging rasend schnell,
 schließlich hatte ich mein neues Netbook 
 <LINK>http://www.linux-magazin.de/Heft-Abo/Ausgaben/2009/07/Datenmaler|"Minime"</LINK> dabei und jede Menge Fernsehfilme darauf gespeichert! Auf Oahu sind 
 wir diesmal
 zwar nicht viel rumgefahren, aber am "Sandy Beach" waren wir doch, schließlich
-haben amerikanischen Medien berichtet, dass unser Präsi Obama dort
+haben amerikanische Medien berichtet, dass unser Präsi Obama dort
 auch schon bodysurfend durch die Wellen geschnellt ist! 
 Ins Wasser sind wir
 dort allerdings nicht gegangen, denn die ältesten Surfer dort waren so um 
@@ -353,7 +353,7 @@ das kann ich euch als
 alter Japanfuchs ebenfalls verklickern, lautmalen 
 "Don Quijote" auf japanisch mit "Do-N Ki-soh-te" 
 in Katakana-Zeichen, die der Japaner für
-Fremdwörter nutzt, für die es kein japanisches Kanjii-Zeichen gibt.
+Fremdwörter nutzt, für die es kein japanisches Kanji-Zeichen gibt.
 Der Laden ist nicht nur gigantisch billig (teilweise nur halb so teuer
 wie der gegenüberliegende "Safeway"), sondern
 führt auch allerlei japanisch/koreanische Schmankerln: Frisches
@@ -363,7 +363,7 @@ Thunfisch-Poke und Kim-Chee-Austern, zum Beispiel, superlecker!
 
 <pic images/gaycouple2.ps Die Homo-Ehe in Kalifornien ist eine endlose Geschichte.>
 
-<em>Angelika</em> Kalifornen ist nicht nur wirtschaftlich etwas ins Schleudern
+<em>Angelika</em> Kalifornien ist nicht nur wirtschaftlich etwas ins Schleudern
 geraten, sondern erlitt Imageverlust als Vordenker-Bundesstaat, zu\-min\-dest
 wenn es um gleich\-geschlecht\-liche Ehen geht. Mittlerweile erlauben nämlich
 sechs amerikanische Bundesstaaten, Massachusetts, Connecticut, Vermont, New
@@ -450,14 +450,14 @@ hervorragend.
 In der Umgebung kann man am Yuba-River herumwandern, allerdings brannte
 die Sonne runter wie nicht gescheit und nach nur eineinhalb Meilen stiegen
 wir zum Yuba-River hinab, zogen die Badehosen an und stürzten uns in die
-Fluten. Der Fluß strömt im Sommer gemächlich, nur an den Engstellen muss
+Fluten. Der Fluss strömt im Sommer gemächlich, nur an den Engstellen muss
 man aufpassen, dass man nicht gegen die Felsen knallt. 
 
 <pic images/yuba.ps Der Yuba-River schlängelt sich durch die Landschaft und lädt zum Schwimmen ein.>
 <pic images/yuba-current3.ps Der furchtlose Rundbriefreporter in den reißenden Fluten des Yuba-River.>
 
 Alle paar hundert 
-Meter finden sich etwa 1.5m bis 2.5m tiefe Wasser\-löcher, in denen man 
+Meter finden sich etwa 1,5m bis 2,5m tiefe Wasser\-löcher, in denen man
 tatsächlich schwimmen kann. Die Fluss\-temperatur beträgt so um die 20 Grad,
 die Außentemperatur in sengender Sonne geschätzte 40. Wir drehten sogar
 ein lustiges Video von <LINK>http://www.youtube.com/watch?v=cdH1QQeF28w|Angelika im Yuba River</LINK>!
@@ -467,7 +467,7 @@ ein lustiges Video von <LINK>http://www.youtube.com/watch?v=cdH1QQeF28w|Angelika
 <pic images/yuba-chair.ps Toppprodukt: Der tragbare Liegestuhl mit Sonnenschirm.>
 
 <em>Michael</em>
-Gut dass wir unsere neu erworbenen tragbaren Liegestühle im Kofferraum 
+Gut, dass wir unsere neu erworbenen tragbaren Liegestühle im Kofferraum
 dabei hatten! Ich hatte die beiden faltbaren Wunderwerke mit integriertem
 Sonnensegel vor einigen Wochen beim Bergsteiger-Ausrüster REI in San
 Francisco gekauft. Das Produkt ist die Wucht in Tüten. Man kann bequem zwei
@@ -512,10 +512,10 @@ Ich suchte eine billige neue Windschutzscheibe, also tippte ich
 Bewertungen der besten Betriebe an. Einer fiel mir sofort ins Auge: Die
 Werkstatt "In \& Out Glass" im berüchtigten Stadtteil 
 "Bayview/Hunters Point", über den wir im <RBLINK>20080203#4</RBLINK>
-schon einmal berichtet haben. Wegen den niedrigen Mieten lassen sich
+schon einmal berichtet haben. Wegen der niedrigen Mieten lassen sich
 dort allerdings auch wagemutige Unternehmer, wie der von chinesischen
 Einwanderern betriebene Autoglas-Reparaturshop, nieder. Die 
-müssen Außergewöhnliches leisten, um im Geschäft bleiben, denn
+müssen Außergewöhnliches leisten, um im Geschäft zu bleiben, denn
 jeder, der sich in San Francisco auskennt, zuckt beim Hören dieses Stadtteils
 erstmal zusammen. Auf yelp.com
 kriegten sich die Leute aber gar nicht mehr ein ob der schnellen, sachgemäßen
