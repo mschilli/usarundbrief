@@ -2,7 +2,7 @@ San Francisco, den 15.03.2009
 
 @Z: Bürokratie in Amerika
 
-<pic images/bureaucracy.ps Auch in der Amerika wiehert der Amtsschimmel, teilweise schlimmer als in Deutschland.>
+<pic images/bureaucracy.ps Auch in Amerika wiehert der Amtsschimmel, teilweise schlimmer als in Deutschland.>
 
 <em>Michael</em>
 In Deutschland denken sich die Leute: Mei oh mei, wie umständlich und genau
@@ -25,7 +25,7 @@ hingegen einige, die durchaus zu eurer Erheiterung beitragen können:
 <em>Michael</em>
 In San Francisco gibt es zum Beispiel die Regel, dass man sein Auto nur
 72 Stunden an einem Fleck stehen lassen darf, auch wenn sonst keine 
-Verkehrsschilder, Parkuhren oder öffentliche Straßenreinungszeiten 
+Verkehrsschilder, Parkuhren oder öffentliche Straßenreinigungszeiten
 die Parkdauer beschränken. 
 Nach Ablauf der 3 Tage reicht es auch nicht, das Auto ein paar Meter zu 
 verstellen, sondern man muss es mindestens einen Straßenblock weiter 
@@ -44,7 +44,7 @@ möchte, hagelt's einen Strafzettel über 50 Dollar. Warum?
 Im "Police Code", Paragraph 710.2, steht, dass es verboten ist. 
 Warum diese Regel erlassen wurde, weiß wahrscheinlich keiner mehr, aber sie
 existiert, und im Stadtsäckel fehlen haufenweise Dollars, also wird sie 
-vorsichtshalber beihalten. Das ist neulich einem Bekannten 
+vorsichtshalber beibehalten. Das ist neulich einem Bekannten
 passiert, der sein Auto verkaufen wollte und der anschließend nicht genau 
 wusste, ob das nun ein Scherz oder ein echter Strafzettel war.
 
@@ -101,9 +101,9 @@ ein Sushi-Restaurant, das keine Lizenz zum Alkoholausschank besaß. Es war
 sehr billig, fuhr gutes Sushi auf und war bei jungen Leuten sehr beliebt.
 Wollte man Alkohol, ging man in den Tante-Emma-Laden nebenan, kaufte Bier
 oder Wein in einer braunen Papiertüte und stellte dieselbe dann auf den
-Tisch im Restaurent. Die Bedienung achtete penibel darauf, dass niemand
+Tisch im Restaurant. Die Bedienung achtete penibel darauf, dass niemand
 die braune Tüte von seinem Getränk entfernte. Man musste aus den eingepackten
-Flaschen nibbeln, sonst wäre das Restaurant dran gewesen!
+Flaschen nippen, sonst wäre das Restaurant dran gewesen!
 
 @Z: Besuch vom Gesundheitsamt
 
@@ -131,7 +131,7 @@ Auf der
 dort auszusetzen hatte: 
 Fleisch wurde nach dem Auftauen nicht ordnungsgemäß abgewaschen, die 
 Wände des Restaurants waren schmutzig und das Essen wurde in der Küche 
-nicht ordnungsgemäß in Behältern verstaut. Na, da wollen wir nochmal ein
+nicht ordnungsgemäß in Behältern verstaut. Na, da wollen wir noch mal ein
 Auge zudrücken, wie gesagt, die Suppe ist gut.
 
 Auf obiger Webseite könnt ihr auch die von der Behörde geprüften 
@@ -145,9 +145,9 @@ wenn der Inspektor gerade zusieht), aber Vorschrift ist Vorschrift.
 In Los Angeles werden für die Gesundheitsamtsinspektion keine Punkte
 sondern
 Buchstaben vergeben, ähnlich wie amerikanische Schulnoten. Das circa
-30cm hohes Schild mit der Note "A" oder "B" oder "C" muss das Restaurant
+30cm hohe Schild mit der Note "A" oder "B" oder "C" muss das Restaurant
 dann ins Frontfenster stellen (Abbildung (#11)), 
-damit es potentielle Gäste es von weitem sehen und bei Bedenken den
+damit potentielle Gäste es von Weitem sehen und bei Bedenken den
 Laden meiden können. Das ist
 anscheinend ein enormer Ansporn, denn als wir neulich in L.A. waren,
 konnten wir ausschließlich die beste Note "A" sehen, kein 
@@ -225,7 +225,7 @@ eines Quartals im festgesetzten Berechnungszeitraum, der sogenannten "base
 period" (meistens 12 Monate), verdient haben. In Kalifornien sind das
 entweder $1.300 in einem Quartal des Berechnungszeitraums, oder
 mindestens $900 im Quartal mit dem höchsten Verdienst, wenn insgesamt
-innerhalb des gesamten Berechnungszeitraums mindestens das 1.25-fache 
+innerhalb des gesamten Berechnungszeitraums mindestens das 1,25-Fache
 von $900, also $1.125, verdient wurden. Na, raucht euch schon der Kopf? 
 
 @Z: Der neueste Coup der Einwanderungsbehörde
@@ -245,7 +245,7 @@ eine visumsfreie Einreise erlaubt, wenn der Aufenthalt nicht länger
 als 90 Tage beträgt. Um die Genehmigung zu erhalten, muss der
 Reisefreudige (einschließlich Kinder) online Daten auf der
 <LINK>https://esta.cbp.dhs.gov/esta|ESTA-Webseite</LINK> 
-zur seiner Person beantworten,
+zu seiner Person beantworten,
 ähnlich wie auf dem
 grünen Formular I-94W, das der ein oder andere von
 euch sicherlich schon vor der Einreise in die USA im Flugzeug
@@ -267,12 +267,12 @@ Visum bemühen.
 </HTMLONLY>
 
 Erhält der Tourist die Genehmigung, ist sie bis zu
-zwei Jahren gültig oder bis zum Ablauf des Reisepasses, je nach dem
+zwei Jahren gültig oder bis zum Ablauf des Reisepasses, je nachdem
 was zuerst eintritt. Die erteilte Genehmigung bedeutet nur, dass ihr
 ohne Visum ins Flugzeug steigen dürft. Ob sie euch reinlassen ins
 Land, liegt nach wie vor im Ermessen des amerikanischen Beamten der
 Einwanderungsbehörde am Flughafen. Auch ist nicht garantiert, dass
-ihr das grüne Formular I-94 W nicht nochmal im Flugzeug ausfüllen
+ihr das grüne Formular I-94 W nicht noch mal im Flugzeug ausfüllen
 müsst. 
 
 Und dann bescherte uns Bush noch ein kleines bürokratisches
@@ -310,7 +310,7 @@ der Außenwelt abgetrennt sind. Dort hinein gelangt man ja bekanntlich nur,
 wenn man sich über die Sprechanlage anmeldet und dann jemand
 von innen das schwere Eisentor öffnet.
 
-<pic images/gated-community.ps Über die Sprechanlage meldet man sich an, bevor man eine "Gated Community" hineinfährt.>
+<pic images/gated-community.ps Über die Sprechanlage meldet man sich an, bevor man in eine "Gated Community" hineinfährt.>
 
 Nein, auch ganz normale Siedlungen werden meist vom gleichen Bauherrn
 erstellt und die Häuser gleichen sich wie ein Ei dem anderen. Die Leute
@@ -329,7 +329,7 @@ parkten, sondern dass diese in der Garage zu verschwinden hätten.
 
 <pic images/appartment-complex.ps Eigentumswohnungen in solchen Hochhaussiedlungen sind zum Teil absurden Vorschriften unterworfen.>
 
-Auch wenn man eine Wohnung in einem Appartmentkomplex kauft, ist diese
+Auch wenn man eine Wohnung in einem Apartmentkomplex kauft, ist diese
 einer HOA unterworfen. In Belmont, einer kleinen Stadt im Silicon Valley,
 hat eine HOA sogar beschlossen, dass niemand in seiner Wohnung rauchen darf.
 Das muss man sich mal vorstellen, da kauft man sich für teures Geld eine
@@ -401,7 +401,7 @@ aus dem Schlamassel, in dem wir uns befinden, wieder herauszuholen.
 <pic images/bell-logo.ps Der "Bell Market" in unserem Viertel macht die Schotten dicht.>
 
 <em>Angelika</em>
-In unserem Viertel "Noe Valley" gehört es zur Tagesordung, dass
+In unserem Viertel "Noe Valley" gehört es zur Tagesordnung, dass
 Geschäfte kommen und gehen, denn die Mieten sind trotz Krise immer
 noch astronomisch hoch und die Konkurrenz durch Onlineanbieter und
 große Discounter am Stadtrand ist groß. Natürlich brechen
@@ -413,7 +413,7 @@ das Genick, und so stehen mehr und mehr Geschäfte in Noe Valley leer.
 Neulich wurde ich dann aber doch besonders sentimental, denn der
 Supermarkt "Bell Market" in unserem Viertel schloss Mitte Februar für immer seine
 Tore. Schließlich habe ich hier an meinem ersten Tag in San
-Francisco, anno 1996, eine Flasche Sekt für den Silversterabend eingekauft!
+Francisco, anno 1996, eine Flasche Sekt für den Silvesterabend eingekauft!
 Man munkelte schon seit ungefähr zwei Jahren,
 dass der Bell schließen würde, schon weit vor dem jetzigen Wirtschaftsdrama. 
 
@@ -430,7 +430,7 @@ aber zunächst wird umgebaut und modernisiert. Obwohl es heißt, dass der Umbau 
 September über die Bühne gehen wird, glaubt im Viertel keiner so
 richtig daran. Der neue Supermarkt gehört zu der Kette "Whole Foods".
 "Whole Foods" kommt ursprünglich aus Texas und verkauft hauptsächlich
-Produkte aus biologischen Anbau in seinen Regalen. Der Laden passt,
+Produkte aus biologischem Anbau in seinen Regalen. Der Laden passt,
 wie Michael immer so schön sagt, wie kein anderer ins "Neureich"
 Valley, denn viele Bewohner in unserem Viertel verdienen nicht nur gut
 sondern sind umweltbewusst. Der "Whole
@@ -445,9 +445,9 @@ Den Managern von "Whole Foods" liegt scheinbar viel
 daran, sich mit den Leuten im Viertel gut zu stellen. So versuchten
 sie, die Sorgen der kleineren Geschäfte zu zerstreuen, die ähnliche
 Produkte verkaufen, und versichern, dass "Whole Foods" nicht gnadenlose Konkurrenz
-sondern Bereichung fürs Viertel ist. Auch gibt es jetzt jeden Dienstag
+sondern eine Bereicherung fürs Viertel ist. Auch gibt es jetzt jeden Dienstag
 einen von "Whole Foods" gestellten Bus, der willige Kunden in den
-"Whole Foods" Supermarkt im Viertel Protero Hill karrt, während die
+"Whole Foods" Supermarkt im Viertel Potrero Hill karrt, während die
 Umbauarbeiten stattfinden. 
 
 <pic images/bell-notice.ps Dem Supermarktwechsel geht eine öffent\-liche An\-hörung voraus.>
@@ -457,12 +457,12 @@ an ältere Leute im Viertel, die nicht mehr selbst Auto fahren, er kann
 aber natürlich von jedem genutzt werden. Seit der "Bell" zu ist, jammert
 Michael jeden zweiten Tag, dass er dort jetzt nicht
 mehr sein geliebtes Brot kaufen kann. Obwohl wir einen hervorragenden
-Bäcker auf der 24te Straße haben, kaufte Michael immer eine bestimmte
+Bäcker auf der 24. Straße haben, kaufte Michael immer eine bestimmte
 Sorte italienisches Baguette beim "Bell" wegen der dickeren Stangen und der
 härteren Kruste. Auf jeden Fall
 hoffen wir, dass die Eröffnung des "Whole Foods" nicht Herrscharen von
-Ökoleuten zum Einkaufen in unserer Viertel bringt, die dann mit ihren
-Autos die 24te Straße verstopfen.
+Ökoleuten zum Einkaufen in unser Viertel bringt, die dann mit ihren
+Autos die 24. Straße verstopfen.
 
 @Z: Warten auf den Regen
 
@@ -471,7 +471,7 @@ Autos die 24te Straße verstopfen.
 <em>Angelika</em>
 In Kalifornien gibt es in den meisten Ecken bekanntlich nur zwei
 Jahreszeiten: Die Hügel sind entweder braun oder grün. In den letzten drei
-Jahren blieben die Hügel ein bisschen zulange braun, denn es hat im
+Jahren blieben die Hügel ein bisschen zu lange braun, denn es hat im
 Winter nicht genug geregnet und von April bis September regnet es 
 bekanntlich keinen Tropfen. Nun beeinträchtigt das nicht nur die
 Farbe der Hügel, sondern auch den Wasserstand der Wasserreservoire,
@@ -479,7 +479,7 @@ die uns mit Wasser versorgen.
 
 <pic images/sfwater.ps Die Wasser-Pipeline vom Yose\-mite-Natio\-nal\-park nach San Francisco>
 
-Die Stadtveranwortlichen bauten schon vor vielen Jahren eine Pipeline vom 225 km
+Die Stadtverantwortlichen bauten schon vor vielen Jahren eine Pipeline vom 225 km
 östlich gelegenen Yosemite-Nationalpark nach San Francisco.
 So kommen die Städter und auch die umliegende Landwirtschaft in den 
 Genuss eines stetig verfügbaren Wasserangebots, auch wenn es monatelang
@@ -494,7 +494,7 @@ Obwohl es im Februar doch hin und wieder
 sogar heftig regnete, ist die Niederschlagsmenge ein Tropfen auf den
 heißen Stein, denn die Pegel der Reservoire werden nur dann auf die 
 normalen Stände
-kommen, wenn uns der März sinflutartige Regenfälle und in der Sierra
+kommen, wenn uns der März sintflutartige Regenfälle und in der Sierra
 Nevada astronomische Schneefälle beschert. 
 
 Gouverneur Schwarzenegger
@@ -511,12 +511,12 @@ obwohl der wahrscheinlich auch nicht mehr Wasser verbraucht, der
 verteilt den Wasserstrahl nur besser. 
 
 <HTMLONLY>
-<pic images/sf-puddle.ps Leider fällt zuwenig Regen.>
+<pic images/sf-puddle.ps Leider fällt zu wenig Regen.>
 </HTMLONLY>
 
 Aber zur Zeit geht es noch um
 typisch freiwillige Maßnahmen wie die Spülmaschine nur
-anzustellen, wenn sie voll ist, das Auto nicht per Hand zu waschen,
+anzustellen, wenn sie voll ist, das Auto nicht von Hand zu waschen,
 tropfende Wasserhähne zu reparieren. Private Haushalte sind
 natürlich nur ein Teil des Problems. Die Bewässerung der
 landwirtschaftlichen Felder im kalifornischen Central Valley schluckt
