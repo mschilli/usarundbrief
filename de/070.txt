@@ -32,7 +32,7 @@ festgehalten.
 
 <pic images/highway.ps Volle Pulle aus Las Vegas raus, nach Norden.>
 
-Wegen diesen vermuteten Begegnungen der zweiten Art heißt der Highway 375
+Wegen dieser vermuteten Begegnungen der zweiten Art heißt der Highway 375
 in Nevada "Extraterrestrial Highway", also "Autobahn der Außerirdischen".
 Zwischen den Meilensteinen 34 und 35 auf dem Extraterrestrial Highway 
 (nachfolgend ET Highway genannt) geht
@@ -124,7 +124,7 @@ Flugobjekte mit affenartiger Geschwindigkeit landen.
 <pic images/a51browse.ps (#4) Der "Groom Lake" auf dem Satellitenfoto.>
 
 Die Angestellten der Area 51 werden übrigens täglich von Las Vegas
-eingeflogen. Auf dem dortigen McCarren-Airport gibt es ein kleines von
+eingeflogen. Auf dem dortigen McCarran-Airport gibt es ein kleines von
 der Öffentlichkeit abgeriegeltes Terminal namens "Janet", von dem
 pro Tag mehrere Boeings abheben und zur Area 51 fliegen. Angeblich
 sollen dort mehrere tausend Leute beschäftigt sein.
@@ -155,12 +155,12 @@ Kreditkarte vor Schmerzen krümmte.
 <pic images/mgmsig.ps Ein Turm des MGM Signature Hotels>
 
 Heutzutage ist das nicht mehr so einfach,
-aber hin und wieder findet man ordentlich Luxus für's Geld: 
+aber hin und wieder findet man ordentlich Luxus fürs Geld:
 Wir waren diesmal im MGM-Signature, in einem der drei neuen Türme, die
 ein paar hundert Meter hinter dem MGM-Koloss aus dem Boden gestampft wurden. 
 Unsere Butze war nicht nur mit einer Küche 
 ausgerüstet (eine Absurdität sondergleichen in Las Vegas) sondern
-hatte auch den abgefahrendsten Balkon, den ich je gesehen habe.
+hatte auch den abgefahrensten Balkon, den ich je gesehen habe.
 
 <pic images/room.ps Keine schlechte Bude, das MGM Signature.>
 <HTMLONLY><pic images/palms.ps Beleuchtete Palmen am Eingang des MGM Signature></HTMLONLY>
@@ -192,7 +192,7 @@ erforschten wir dieses Mal die Halb- und Unterwelt des Sündenpfuhls.
 Anders als in Deutschland ist Prostitution in den USA ja fast überall 
 verboten. Eines Abends sahen wir, wie eine Fahrradstreife (!) der Polizei eine
 auffällig aufgetakelte junge Dame mit einem auffällig älteren Herrn
-auf dem Gehweg des Las Vegas Boulevards stoppte und die beiden anschließend
+auf dem Gehweg des Las Vegas Boulevard stoppte und die beiden anschließend
 getrennt befragte.
 
 <pic images/dist.ps Ein Kartenverteiler>
@@ -237,7 +237,7 @@ beglaubigen können.
 Bei AOL brauchte ich vor vielen Jahren mal eine beglaubigte Kopie eines
 Zeugnisses für die Einwanderungsbehörde und ich fragte herum, wo ich das
 erledigen könne. Zu meinem Erstaunen verwies man mich auf die
-Sektretärin, die auch glatt einen Stempel aus ihrer Handtasche zog, ihn
+Sekretärin, die auch glatt einen Stempel aus ihrer Handtasche zog, ihn
 auf das Dokument setzte und unterschrieb. Danach trug sie in einem kleinen
 Heftchen ein, wann und was sie gerade beglaubigt hatte. Sie fügte
 augenzwinkernd dazu, dass manche "Notary Publics" dafür einen geringen
@@ -263,7 +263,7 @@ Und hier einige englischsprachige Abkürzungen, die im
 Internetzeitalter entstanden sind, 
 und die ihr wahrscheinlich nicht kennt, wenn ihr nicht mit dem Internet
 auf du und du steht. Diese Akronyme finden vor allem in Chat-Sessions 
-Anwendung, aber auch in Emails kommen sie häufig vor.
+Anwendung, aber auch in E-Mails kommen sie häufig vor.
 
 YMMV heißt "Your mileage might vary" ("Ihr 
 Kilometerstand ist vielleicht unterschiedlich").
@@ -299,7 +299,7 @@ lachend"). Als Steigerung steht ROTFL für "Rolling over the floor laughing"
 
 Wollt ihr mehr? Dann empfehlen wir das Studium der Website
 <LINK>http://www.urbandictionary.com|urbandictionary.com</LINK>, die
-tausende dieser Kürzel ausführlich erklärt.
+Tausende dieser Kürzel ausführlich erklärt.
 
 @Z: Lichter aus in San Francisco
 
@@ -329,9 +329,9 @@ Außerdem hatten Freiwillige vorher 100.000 Energiesparglühbirnen auf
 den Straßen von San Francisco verteilt.
 
 Sogar die Internetsuchmaschine
-<LINK>http://blogs.zdnet.com/Google/?p=777|Google schloß sich an</LINK> 
+<LINK>http://blogs.zdnet.com/Google/?p=777|Google schloss sich an</LINK>
 und färbte ihre Hauptseite für einige Stunden schwarz. Initiator 
-Nate Tyler war übrigens früher "Communcation Manager" bei Google.
+Nate Tyler war übrigens früher "Communication Manager" bei Google.
 
 <pic images/pyrout.ps ... und kurze Zeit später nicht mehr.>
 
@@ -360,14 +360,14 @@ Präsident Franklin D. Roosevelt unterschrieb 1935 das
 Social-Security-Gesetz, um eine Grundsicherung im Rentenalter 
 zu gewährleisten. Die
 Weltwirtschaftskrise (hier "Great Depression" genannt), die 1929
-begann, und viele Privathaushalte in tiefste Armut stürtzte, hatte die
+begann, und viele Privathaushalte in tiefste Armut stürzte, hatte die
 Stimmung im Land verändert und ebnete den Weg für eine
 Sozialversicherung im europäischen Stil. Allerdings ging es von
 Anfang an nicht darum, mit Hilfe der Rentenversicherung den
 Lebensstandard zu halten, sondern das Überleben zu sichern und
 Altersarmut zu verhindern.
 
-Will der Arbeitnehmer im Alter seinen gewohnten Lebenstandard nicht
+Will der Arbeitnehmer im Alter seinen gewohnten Lebensstandard nicht
 aufgeben, muss er die staatlichen Rentenzahlungen auf irgendeine Art
 und Weise aufstocken. Früher standen dabei in Amerika die
 Betriebsrenten im Vordergrund, die Firmen wie General Motors, Ford oder United
@@ -375,8 +375,8 @@ Airlines anboten. Mittlerweile versuchen aber immer
 mehr Firmen durch allerlei Tricks, diese Verpflichtungen loszuwerden.
 
 Denn die Betriebsrenten unterliegen keinem strengen gesetzlichen
-Schutz in den USA. Es gibt zwar einen Sicherheitsfond, den die Organisation
-"Pension Benefit Gurantee Corporation", verwaltet und der wie eine
+Schutz in den USA. Es gibt zwar einen Sicherheitsfonds, den die Organisation
+"Pension Benefit Guarantee Corporation" verwaltet und der wie eine
 Rückversicherung funktioniert, also Zahlungen garantiert, wenn Firmen
 zum Beispiel pleite gehen. Aber oft fallen diese Zahlungen deutlich
 geringer aus als die versprochene Betriebsrente. 
@@ -384,13 +384,13 @@ geringer aus als die versprochene Betriebsrente.
 Bleibt also nur der 401k, den Michael schon einmal 
 in <RBLINK>20030801#6</RBLINK>, oder das traditionelle Sparen.
 Für viele
-Geringverdiener bleibt es aber utopisch, privat für ihr Renteralter
+Geringverdiener bleibt es aber utopisch, privat für ihr Rentenalter
 vorzusorgen. Nach einer Statistik aus dem Jahr 2005 müssen 22 Prozent 
-der heutigen Renter mit Hilfe der Zahlungen aus der 
+der heutigen Rentner mit Hilfe der Zahlungen aus der
 Social-Security-Versicherung über die Runden kommen. 
 
-Und damit ihr eine Vorstellung habt, wieviel
-der durchschnittliche Renter aus der staatlichen Versicherung bekommt:
+Und damit ihr eine Vorstellung habt, wie viel
+der durchschnittliche Rentner aus der staatlichen Versicherung bekommt:
 1050 Dollar waren es im Jahr 2007 laut der Statistik der "Social
 Security Administration", dafür bekommt ihr in San Francisco gerade
 einmal ein Zimmerchen.
@@ -411,7 +411,7 @@ ganzen Jahr.
 
 Das bedeutet also (ihr habt es sicher schon ausgerechnet), dass es 10
 Jahre dauert, um einen Anspruch zu erwerben. Ausländer, die in
-Amerika legal leben und arbeiten, unterliegen den gleichen Regel.
+Amerika legal leben und arbeiten, unterliegen den gleichen Regeln.
 Gehen diese allerdings in ihre Heimatländer zurück, überweist der
 amerikanische Staat nur dann die Rente ins Ausland, wenn ein
 Sozialversicherungsabkommen zwischen den USA und dem jeweiligen Land
@@ -429,8 +429,8 @@ Umverteilung geschieht anders. Geringverdiener erhalten
 durchschnittlich mehr im Vergleich zu Besserverdienern. Es gibt auch
 eine Höchstgrenze für die monatlichen Rentenzahlungen. 2008 sind es
 2.185 Dollar pro Monat, dann ist Schicht im Schacht. Die abgeführten
-Rentenbeiträge wandern übrigens in den sogenannten Social Securtiy
-Trust Fund ("Treuhand-Fond"), der in U.S. Treasuary Bonds (Bundesschatzbriefe)
+Rentenbeiträge wandern übrigens in den sogenannten Social Security
+Trust Fund ("Treuhandfonds"), der in U.S. Treasury Bonds (Bundesschatzbriefe)
 investiert. Zur Zeit schreibt dieser noch schwarze Zahlen. 
 Ab 2018 kehrt sich dies Hochrechnungen zufolge aber um.
 
@@ -438,31 +438,31 @@ In Amerika erreichen sowohl Männer als auch Frauen, die 1960 oder
 später geboren wurden, das volle gesetzliche Rentenalter mit 67
 Jahren. Möchte man früher aus dem Arbeitsleben ausscheiden,
 zahlt der amerikanische Staat ab 62 eine gekürzte Rente aus. Ein
-Pferdefuß ist allerdings, dass der Renter erst mit 67 Jahren in die
+Pferdefuß ist allerdings, dass der Rentner erst mit 67 Jahren in die
 staatliche Krankenversicherung für Rentner, 
 Medicare (<RBLINK>20050319#9</RBLINK>), kommt.
 
 Das amerikanische
 Finanzamt steht auf der Matte und hält die Hand auf, wenn das
-jährliche Einkommen des Renters 25.000 (bei Verheirateten 32.000) 
+jährliche Einkommen des Rentners 25.000 (bei Verheirateten 32.000)
 Dollar übersteigt.
 Zum Einkommen zählen die Hälfte (!) der Rentenbezüge, und 
 zum Beispiel Zinseinnahmen oder Halbtagsjobs, denn viele amerikanische 
-Renter müssen notgedrungen dazu verdienen.
+Rentner müssen notgedrungen dazuverdienen.
 Großzügigerweise darf der Rentner
-von Seiten der "Social Security Administration" aber soviel dazu
+von Seiten der "Social Security Administration" aber so viel dazu
 verdienen, wie er möchte, ohne Rentenkürzungen hinzunehmen, sobald
 er das volle Rentenalter erreicht hat.
  
 Auch in Amerika gibt es eine Hinterbliebenenrente, die für
 minderjährige und/oder behinderte Kinder sowie Ehepartner sorgt,
 falls der Brotverdiener stirbt. Witwenrente gibt es ohne
-minderjährige oder behinderte Kinder im Haushalt aber frühstens ab
+minderjährige oder behinderte Kinder im Haushalt aber frühestens ab
 60. Auch geschiedene Ehepartner haben Anspruch auf eine
 Hinterbliebenenrente, wenn sie mindestens 10 Jahre
 verheiratet waren. Bei meinen Recherchen fand ich
 heraus, dass Rentenzahlungen auf Eis liegen, wenn der
-betroffene Renter rechtskräftig verurteilt wird und mehr als 30
+betroffene Rentner rechtskräftig verurteilt wird und mehr als 30
 Tage im Gefängnis sitzt.
 
 Präsident Bush hatte es sich übrigens zum Ziel gesetzt, die staatliche
@@ -477,7 +477,7 @@ Bevölkerung gescheitert. Er gab schließlich zähneknirschend auf.
 Moment mal ... das Foto mit Opa Meume und der mit der Dollarnote angezündeten
 Zigarre im letzten Beitrag
 war doch nicht aus dem privaten Fundus der Redaktion! Und das Foto mit dem
-Jim-Carry-Verschnitt in diesem Abschnitt doch wohl auch nicht! Richtig, denn
+Jim-Carrey-Verschnitt in diesem Abschnitt doch wohl auch nicht! Richtig, denn
 auf dem Netz bietet jetzt 
 <LINK>http://iStockPhoto.com|iStockPhoto.com</LINK> 
 Illustrationsfotos an, die man für
@@ -523,18 +523,18 @@ Amateurautoren schicken einfach elektronische Dateien ein, die Lulu
 druckt und verschickt, sobald sie jemand bestellt. Die Bücher werden
 wie bei Amazon angepriesen und von Kunden bewertet.
 
-Und ich brauche euch wohl nicht zu erzählen, daß das Rundbriefbuch das
+Und ich brauche euch wohl nicht zu erzählen, dass das Rundbriefbuch das
 ideale Weihnachtsgeschenk für eure Liebsten ist. Wenn sie das Buch am 
 Weihnachtsabend aus dem geschmackvollen Geschenkpapier wickeln, das ihr
 natürlich besorgt habt, werden eure Liebsten große Augen machen und
 rufen: "Ich werd' verrückt vor Freude, das Rundbriefbuch! Wo doch jeder
 weiß, dass das 68 Euro kostet. Schatz, das wäre doch nicht nötig
-gewesen, dass du dich so in Ausgaben stürzt! Ah, ich wusste doch, wieviel
+gewesen, dass du dich so in Ausgaben stürzt! Ah, ich wusste doch, wie viel
 ich dir wert bin ... (Kuschelgeräusche)."
-Na bitte. Achtet aber darauf, dass das Teil eine zeitlang zum Drucken
+Na bitte. Achtet aber darauf, dass das Teil eine Zeit lang zum Drucken
 braucht, nachdem ihr den Bestellknopf gedrückt habt, also spätestens
 Anfang November bestellen, damit das Teil auch pünktlich auf dem 
-Gabentisch liegt. Auf der Rundbriefseite auf dem Internet findet ihr 
+Gabentisch liegt. Auf der Rundbriefseite im Internet findet ihr
 Links zum
 <LINK>http://www.lulu.de/content/983573|Rundbriefbuch auf Lulu Deutschland</LINK>
 und dem
@@ -548,7 +548,7 @@ und dem
 Seit 1981 findet jedes Jahr im Oktober die sogenannte Fleet Week 
 (Flottenwoche) zu Ehren der Jungs und Mädels der Marine und Küstenwache in
 San Francisco statt. Eine etwas ungewöhnliche Feierlichkeit für das
-pazifistisch, linke San Francisco. Große Kriegsschiffe docken an den
+pazifistische, linke San Francisco. Große Kriegsschiffe docken an den
 Piers von San Francisco an und lassen Marineoffiziere in lustigen
 Matrosenuniformen an Land. 
 Die Blue Angels, eine Einheit der Marine,
@@ -584,8 +584,8 @@ auf die Idee, dass es doch nett wäre, wenn auch der Airbus einen
 Tiefflug über San Francisco absolvierte, kurz vor den
 Trainingsflügen der Blue Angels. Plötzlich tauchte also der
 Riesenvogel vor unserem Fenster auf und Michael, der gerade von zu
-Hause arbeitete, schoß munter ein paar Fotos. Schon Wahnsinn, was
-alles über unseren Köpfen herum fliegt. 
+Hause arbeitete, schoss munter ein paar Fotos. Schon Wahnsinn, was
+alles über unseren Köpfen herumfliegt.
 
 <PRINTONLY>\vspace{0.3cm}</PRINTONLY>
 
