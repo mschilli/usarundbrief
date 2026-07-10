@@ -515,7 +515,7 @@ Nacktscanner. Rühmliche Ausnahme ist das Terminal 3, von wo die meisten
 inneramerikanischen Flüge mit United Airlines abgehen, denn da ist kein Platz
 für die Scanner in der Sicherheitszone. 
 
-@Z: Toppprodukt: Kona Red
+@Z: Top-Produkt: Kona Red
 
 <pic images/kona-red.ps Neues, aus Kaffeebohnen gewonnenes Fruchtsaftgetränk: Kona Red.>
 
