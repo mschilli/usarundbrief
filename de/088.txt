@@ -534,7 +534,7 @@ beiden kalifornischen Senatorinnen Feinstein und Boxer, sowie dem Präsi
 gleichzeitig mit einem Klick eine geharnischte E-Mail senden.
 Obama, hilf!
 
-@Z: Toppprodukt: Hershey's Shell
+@Z: Top-Produkt: Hershey's Shell
 
 <pic images/hersheys-shell.ps Flüssig tropft die Schokolade aus der Flasche, um gleich darauf zu erstarren.>
 
