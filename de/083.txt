@@ -586,7 +586,7 @@ Hilfsmittel, nur mit seiner normalen Kleidung am Leib. Er musste eine
 Strafe von $4500 zahlen und ihm wurde untersagt, Kanada je wieder 
 zu betreten.
 
-@Z: Toppprodukt: Egg Nog
+@Z: Top-Produkt: Egg Nog
 
 <pic images/eggnog.ps Eierlikör ohne Likör: das Weih\-nachts\-getränk "Egg Nog">
 
