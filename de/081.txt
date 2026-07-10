@@ -462,9 +462,9 @@ tatsächlich schwimmen kann. Die Fluss\-temperatur beträgt so um die 20 Grad,
 die Außentemperatur in sengender Sonne geschätzte 40. Wir drehten sogar
 ein lustiges Video von <LINK>http://www.youtube.com/watch?v=cdH1QQeF28w|Angelika im Yuba River</LINK>!
 
-@Z: Toppprodukt: Der tragbare Liegestuhl
+@Z: Top-Produkt: Der tragbare Liegestuhl
 
-<pic images/yuba-chair.ps Toppprodukt: Der tragbare Liegestuhl mit Sonnenschirm.>
+<pic images/yuba-chair.ps Top-Produkt: Der tragbare Liegestuhl mit Sonnenschirm.>
 
 <em>Michael</em>
 Gut, dass wir unsere neu erworbenen tragbaren Liegestühle im Kofferraum
