@@ -351,7 +351,7 @@ zurück. In Supermärkten spuckt die Maschine allerdings nur
 einen Gutschein aus, den man an der Kasse einlöst. Bei ungeraden 
 Beträgen kriegt man so allerdings wieder Münzgeld raus.
 
-@Z: Toppprodukt: Der Wringmop
+@Z: Top-Produkt: Der Wringmop
 
 <pic images/wring-mop-wash.ps Einfach den Wringmop eintunken ...>
 
@@ -379,7 +379,7 @@ Pitchman Anthony Sullivan (<RBLINK>20090529#8</RBLINK>), aber das
 Badputzen geht echt schneller von der Hand. Angeblich kann man das
 schmutzige Mopunterteil zum Säubern einfach in die Waschmaschine geben.
 Einziger Nachteil: Selbst ausgewrungen dauert es ewig, bis die Moptoddeln 
-schranktrocken sind. Trotzdem: Toppprodukt!
+schranktrocken sind. Trotzdem: Top-Produkt!
 
 @Z: Wie meldet man ein Auto an?
 
