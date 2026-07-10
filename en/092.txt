@@ -109,30 +109,29 @@ magnates from directly bribing parliamentary representatives, the
 party donation law limits contributions from individuals to
 individual representatives to $2,500.
 
-TODO
-
-<LINK>http://www.fec.gov/pages/brochures/contriblimits.shtml|The
-translation of "HÃ¶chstbetrÃ¤ge fÃ¼r Parteispenden" to English is
-"Maximum amounts for party donations.</LINK>
-vary depending on the donor organization and type of donation). To
+<LINK>http://www.fec.gov/pages/brochures/contriblimits.shtml|Maximum amounts for party donations.</LINK>
+vary depending on the donor organization and type of donation. To
 exert influence on politics with more substantial financial
 resources, interest groups nowadays hire lobbying firms that maintain
-good contacts with influential politicians. The lobbying firm then
+close contacts with influential politicians. The lobbying firm then
 acts as an intermediary between the interest group and
 parliamentarians, rallying citizens on one side who each donate
 $2,500 to the legislator, and in return, the politician promises to
-vote in line with the interest group's wishes in parliament. Groups
+vote in line with the interest group's wishes in congress.
+
+Groups
 of financially strong individuals form so-called Political Action
 Committees (PACs) on the donor side, which organize fundraisers and
 pool their money. A look at the historical development of PACs in
-America is worthwhile: According to the book
-<LINK>http://www.amazon.com/dp/0307385884|So Damn Much Money" is
-already in English.</LINK>
-The translation is: "According to Robert Kaiser, who tells the dry
-story in an exciting way, there were a total of 608 PACs in 1974,
+America is worthwhile. In the book
+<LINK>http://www.amazon.com/dp/0307385884|"So Damn Much Money"</LINK>,
+author Robert Kaiser tells the dry
+story in exciting ways. There were a total of 608 PACs in 1974,
 which donated 12 million dollars. Two federal elections later, in
 1982, there were already 3,371 PACs that collectively poured 83
-million dollars into the election campaigns of their favorites.
+million dollars into the election campaigns of their favorite politicians.
+
+TODO
 
 Both in the Senate and the House of Representatives, members vote on
 proposals in two different committees. First, the proposal itself is
