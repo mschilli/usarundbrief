@@ -131,25 +131,21 @@ which donated 12 million dollars. Two federal elections later, in
 1982, there were already 3,371 PACs that collectively poured 83
 million dollars into the election campaigns of their favorite politicians.
 
-TODO
-
 Both in the Senate and the House of Representatives, members vote on
 proposals in two different committees. First, the proposal itself is
-debated, and if the parliamentarians agree on its implementation, a
+debated, and if the representatives agree on its implementation, a
 second committee decides who will receive the tax dollars from the
 taxpayers. In 1978, the clever lobbying firm Schlossberg-Cassidy
 recognized a loophole in this two-step process. They found an already
 approved proposal for the establishment of a national nutrition
 research center and intervened in its second phase, the
-"Appropriation" (allocation of tax dollars). Through personal
+"appropriation" (allocation of tax dollars). Through personal
 connections with the voting committee members, the lobbying firm
 managed to redirect the funds so that they did not go to the
 originally intended recipient but instead to a client of the lobbying
-firm, the private university "Tuft.
+firm, the private university "Tuft."
 
-<pic images/lobby-earmark.ps The term "earmarks," similar to ear tags
-on cows, refers to conditions (usually financial) attached to passed
-legislation.>
+<pic images/lobby-earmark.ps The term "earmarks," similar to ear tags on cows, refers to conditions (usually financial) attached to passed legislation.>
 
 Nowadays, this trick is almost indispensable in legislation under the
 term "earmark." In the first phase of voting, which concerns the
@@ -172,14 +168,12 @@ services rendered. In lobbying circles, $60,000 per month is referred
 to as a "bonanza," and in "So Damn Much Money," there's even a story
 of a Native American group that was so concerned about their casinos
 that they shelled out $150,000 per month to ensure that their tax
-exemption was maintained.
-<RBLINK>20080203#5</RBLINK>
-The phrase translates to: ") did not repeal through new laws.
+exemption (<RBLINK>20080203#5</RBLINK>)
+wouldn't be repealed through any new legislation.
 
-<pic images/lobby-hotel.ps The first lobbyists hung around in hotel
-lobbies and intercepted politicians who were coming and going.>
+<pic images/lobby-hotel.ps The first lobbyists hung around in hotel lobbies and intercepted politicians who were coming and going.>
 
-The term "lobby" is said to originate from the entrance area of the
+The term "to lobby" is said to originate from the entrance area of the
 "Willard Hotel" in Washington DC. During his presidency (1869 --
 1877), the then-President of the United States, Ulysses S. Grant,
 frequently stayed at this hotel, and hordes of businesspeople who
@@ -193,10 +187,9 @@ are most easily covered by donations from interest groups, to whom
 the politician, once in office, owes a favor or two, along with the
 mediating lobbying firms.
 
-<pic images/lobby-obama-campaign.ps Expensive commercial: Obama also
-mobilized millions of dollars to win the election.>
+<pic images/lobby-obama-campaign.ps Expensive commercial: Obama also mobilized millions of dollars to win the election.>
 
-In American politics, a thriving economic cycle is created: Interest
+So, in American politics, a thriving economic cycle is created: Interest
 groups pay lobbying firms, lobbying firms provide politicians with
 much-needed campaign donations, and politicians vote in committees in
 line with the interests of these groups. When a politician leaves
@@ -205,8 +198,8 @@ friends in the lobbying firms are happy to secure them a well-paid
 job. A congressman earns less than the CEO of a software startup, but
 a successful lobbyist can rake in a few million per year.
 
-The loser in this apparent win-win situation is the citizen. Urgently
-needed reforms, such as those in healthcare, immigration laws, or
+The loser in this apparent win-win situation is the tax paying citizen. Urgently
+needed reforms, such as those in healthcare, immigration law, or
 environmental policy, never get off the ground because wealthy
 interest groups want to cement the status quo and enforce it with
 money. Incidentally, a different trend can be observed in Germany:
@@ -216,22 +209,17 @@ the country.
 
 @Z: The Hundredth Bay-to-Breakers
 
-<pic images/b2b-masses.ps Bay to Breakers: Between Fun Run and
-Carnival. Photo: flickr [Jennifer Boriss|donotlick/4616319852]>
+<pic images/b2b-masses.ps Bay to Breakers: Between Fun Run and Carnival. Photo: flickr [Jennifer Boriss|donotlick/4616319852]>
 
 <em>Angelika</em> 
 Michael did not miss the opportunity to participate again this year
 in one of the oldest and most famous street races in San Francisco.
-The Bay-to-Breakers took place, as it does every year, on the third
+The yearly Bay-to-Breakers took place on the third
 Sunday in May, and this year marked its hundredth occurrence. We have
-reported on it several times before.
-<RBLINK>990603#6</RBLINK>
-It seems like your request is incomplete. Could you please provide
-the text you would like translated into English?
-<RBLINK>000801#2</RBLINK>
-The city run received its venerable name due to the course, which has
-changed only slightly over the years. The run goes from the San
-Francisco Bay near the Embarcadero across the city to the Pacific
+reported on it several times before (<RBLINK>990603#6</RBLINK>, <RBLINK>000801#2</RBLINK>).
+The famous footrace received its venerable name due to the race course, which has
+changed only slightly over the years. The run starts at the San
+Francisco Bay near the Embarcadero, and continues across the city to the Pacific
 Ocean. The second part of the name, "Breakers," refers to the
 well-known breaking waves there.
 
@@ -246,12 +234,10 @@ was originally created to forget the devastating effects of the 1906
 earthquake, the exuberant atmosphere fits well with the
 Bay-to-Breakers idea.
 
-<pic images/b2b-pink-gorilla.ps Bay to Breakers: The elite runner
-"Pink Gorilla" achieved 93rd place in 2009 with a time of 00:46:12.
-Photo: flickr[Waldemar Horwat|naturalturn/3547615425]>
+<pic images/b2b-pink-gorilla.ps Bay to Breakers: The elite runner "Pink Gorilla" achieved 93rd place in 2009 with a time of 00:46:12.  Photo: flickr[Waldemar Horwat|naturalturn/3547615425]>
 
 By the way, there are indeed serious athletes in this race. They are
-allowed to run at the front so that the party-loving runners don't
+allowed to run in front so that the party-loving runners won't
 disturb them. This year, a Moroccan named Ridouane Harroufi won the
 race. He took a mere 34 minutes and 26 seconds for the 12 kilometers.
 An incredible time, considering it usually takes longer to cover the
@@ -259,44 +245,41 @@ distance by car. The first race, held on January 1, 1912, was won by
 the American Bobby Vlught in 44 minutes and 10 seconds. Until 1965,
 the race was called the "Cross-City Race," then someone came up with
 the brilliant name "Bay-to-Breakers." In 1949, the organizers moved
-the race to May, and it wasn't until 1971 that women officially
+the race to the month of May, and it wasn't until 1971 that women officially
 participated, although a woman named Barbara Burke took part in the
-race as early as 1940. She simply registered as "Bobby.
+race as early as 1940. She simply registered as "Bobby."
 
-<pic images/b2b-michael.ps Bay-To-Breakers veteran and medalist
-Michael.>
+<pic images/b2b-michael.ps Bay-To-Breakers veteran and medalist Michael.>
 
 On average, 60,000 to 80,000 people now participate in the city run
-each year, with about half of them not registered, meaning they
-haven't paid the entry fee. They simply blend in with the crowd of
+each year, with about half of them not registered, meaning they're
+not paying the entry fee, simply blending in with the crowd of
 runners. In 1986, there were over 110,000 participants, which earned
 the Bay-to-Breakers a spot in the Guinness Book of Records.
 Unfortunately, Michael did not fulfill his dream of running in under
 an hour this year, but he came close, as he completed the course in 1
 hour and 4 minutes.
 
-<pic images/b2b-fundamentalists.ps Bay to Breakers: Religious
-fundamentalists are also there every year. Photo: flickr[Kanaka
-Menehune|kanaka/4623182408]>
+<pic images/b2b-fundamentalists.ps Bay to Breakers: Religious fundamentalists are also there every year. Photo: flickr[Kanaka Menehune|kanaka/4623182408]>
 
 In addition to the costumed participants and those who run the race
-wearing only sneakers, the participants maintain several other crazy
+wearing nothing but sneakers, the participants maintain several other crazy
 traditions. At the start, participants throw tortillas, the Mexican
-flatbread variant, into the air to pass the time. Since 1978, the
-subgroup known as the "Centipede" has also participated. Dwayne Harms
+flatbread variant, into the air to pass the time. Since 1978, there's a
+subcategory of participants called "Centipede". Dwayne Harms
 came up with this glorious idea. At least 13 runners form a unit and
 run together. A substitute runner is allowed in case someone from the
-group has to drop out, for example, if their shoelace comes undone.
+group has to drop out, for example, if their shoelaces comes undone.
 The "Centipedes" are usually serious runners and aim to break all
 possible records. For instance, the "Reebok Aggies" set the men's
 Centipede record in 1990, completing the course as a group in just 37
-minutes and 39 seconds. Then there are the runners who...
-<LINK>http://sf.cacophony.org/salmon/index.shtml|Lachse</LINK>
-The translation to English is: "disguised as swimming upstream or
-against the current, i.e., starting the course at the ocean.
+minutes and 39 seconds. Then there is a group of runners called
+<LINK>http://sf.cacophony.org/salmon/index.shtml|Salmons</LINK>, 
+disguised as swimming upstream or against the current, i.e., starting the course at the ocean.
 
-<pic images/b2b-group-muni.ps Real San Franciscans, of course, take
-the Muni bus home after the Bay-to-Breakers.>
+<pic images/b2b-group-muni.ps Real San Franciscans, of course, take the Muni bus home after the Bay-to-Breakers.>
+
+TODO
 
 You can already see that the Bay-to-Breakers cannot be compared to
 any other race in the world. Unfortunately, there are now a few
