@@ -18,7 +18,7 @@ USA wäre, gab es für uns kein Halten mehr.
 
 Santa Fe ist nicht nur die älteste Landeshauptstadt in den USA, sondern
 liegt auch schlappe 7000 Fuß (ca. 2100 m) über dem Meeresspiegel. Der
-dort herrschende niedrige Luftdruck bewirkt, das
+dort herrschende niedrige Luftdruck bewirkt, dass
 sich die Chipstüten in den Supermärkten gleich lustig ausdehnen.
 Obwohl nur 65.000 Einwohner stark, verfügt es nicht nur über erstaunlich
 gute Restaurants und diverse Museen, sondern auch über ein Meer von
@@ -41,8 +41,8 @@ neue Häuser im alten Adobestil gebaut werden müssen. Adobe bedeutet
 "Lehm", und die Häuser bestehen aus
 Lehmziegeln (hergestellt aus Lehm, Wasser und Stroh), die
 zunächst zu einer Mauer aufgeschichtet werden.
-Dann schmiert der Maurer einen rötlich-brauner Putz darauf,
-verteilt ihn großzügig, und polstert so all alle Ecken aus, dass
+Dann schmiert der Maurer einen rötlich-braunen Putz darauf,
+verteilt ihn großzügig, und polstert so alle Ecken aus, dass
 das Ganze aussieht wie ein bespanntes Sofa.
 
 <pic images/butze.ps Beim Kaminfeuer in der Butze>
@@ -94,7 +94,7 @@ Formationen erinnern an Zelte, deshalb der Name.
 
 <em>Angelika</em>
 Jeder, der sich schon einmal mit amerikanischer Geschichte beschäftigt
-hat, kommt um das traurige Kapitel der Aussrottung und Unterdrückung der
+hat, kommt um das traurige Kapitel der Ausrottung und Unterdrückung der
 Ureinwohner Nordamerikas nicht herum. Bis heute kämpfen die Indianer um
 Anerkennung, Gleichberechtigung und Landrückgabe. Der Hunger der weißen
 Siedler nach Land und Bodenschätzen führte im 19. Jahrhundert zur
@@ -106,7 +106,7 @@ der Wüste) entstanden.
  
 Ich werde nie vergessen, wie wir 1987 das erste
 Mal durch die Weiten des Südwesten Amerikas fuhren und immer wieder
-Indianerreservate passierten: Eine Staße, die sich den Weg schnurgerade
+Indianerreservate passierten: Eine Straße, die sich den Weg schnurgerade
 durch die Wüstenlandschaft bis zum Horizont bahnt und rechts und links
 in der Landschaft verteilt kleine, einfachste Hütten, die schon bessere
 Tage gesehen hatten. Auf dem Weg zum Monument Valley nahmen wir damals
@@ -115,7 +115,7 @@ zum nächsten Supermarkt, der einige Meilen entfernt mitten in der Pampa
 lag. Schon damals fragte ich mich, wie die Indianer in dieser
 Isoliertheit ohne nennenswerte Infrastruktur überleben konnten und
 wunderte mich nicht mehr über die hohe Prozentzahl der Arbeitslosen,
-Alkoholabhängigen und vom Existenzmimimum Lebenden in den Reservaten.
+Alkoholabhängigen und vom Existenzminimum Lebenden in den Reservaten.
 
 Bei unseren Touren durch New Mexico fuhren wir ständig durch
 irgendwelche Indianerreservate. Straßenschilder zeigen wie Ortsschilder
@@ -190,7 +190,7 @@ Begriff nach New Mexico.
 <pic images/cave1.ps Indianerin auf dem Weg in ihre Höhle>
 
 Im Taos Pueblo leben etwa 2000 Indianer, davon
-ca. 50 Familen in den dreistöckigen und 1000 Jahre alten Adobehäusern. Bis
+ca. 50 Familien in den dreistöckigen und 1000 Jahre alten Adobehäusern. Bis
 heute gibt es in diesen kein fließendes Wasser und keinen Strom. Die restlichen
 Dorfbewohner leben allerdings in modernen Häusern. Auf dem Dorfplatz
 befindet sich auch eine katholische Kirche, was euch jetzt vielleicht
@@ -209,7 +209,7 @@ Schritt und Tritt. Das findet übrigens auch die Unesco, die Taos Pueblo
 
 <pic images/pueblo3.ps Sogar für's Fotografieren muss man im Pueblo bezahlen!>
 
-Etwas gewöhnugsbedürftig ist allerdings, dass der Tourist nur ins Dorf
+Etwas gewöhnungsbedürftig ist allerdings, dass der Tourist nur ins Dorf
 gelangt, wenn er 10 Dollar Eintritt bezahlt. Das ist gängige Praxis in
 den meisten Indianerdörfern New Mexicos. Denn auch Taos Pueblo ist
 offiziell Indianerreservat und somit selbstverwaltet. 
@@ -282,7 +282,7 @@ Samen. Nach dem Erdbeben im Jahre 1906 forderte die Stadt San Francisco
 Wasserrechte im Park ein, um dort einen Staudamm zu bauen, das 
 Hetch-Hetchy-Tal zu fluten und so ein Wasserreservoir anzulegen.
 
-Die Natürschützer, geführt von John Muir, standen Kopf. Ein sieben
+Die Naturschützer, geführt von John Muir, standen Kopf. Ein sieben
 Jahre dauernder Rechtsstreit entbrannte, und am Ende sprach ein 
 Bundesgericht im "Raker Act" ein Machtwort. Der O'Shaughnessy-Staudamm wurde 
 errichtet, und der ins Tal hineinfließende Tuolumne River füllte
@@ -444,7 +444,7 @@ eigentlich bisher, dass wir im Zeitalter der Erderwärmung leben und dass das
 Stromsparen und nicht das Stromverschleudern belohnt werden sollte.
 Diesem Prinzip blieb PG\&E sonst eigentlich auch immer treu. Bei früheren
 Hitzeperioden wurden die Konsumenten angespornt, ihren Stromverbrauch zu
-drosseln, d.h. zum Beispiel die Kimaanlage herunterzudrehen, um bei
+drosseln, d.h. zum Beispiel die Klimaanlage herunterzudrehen, um bei
 beträchtlicher Einsparung später dann einen Preisnachlass zu bekommen.
  
 In San Francisco  zahlen wir übrigens nicht monatlich einen Abschlag
