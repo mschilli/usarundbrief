@@ -357,7 +357,7 @@ auf der Straße. In Noe Valley, unserem Viertel, gab es Hupkonzerte, und Fahnen
 schwenkende Fans hielten fahrende Autos an und gratulierten den Insassen. 
 Das begeisterte selbst einen Baseball-Muffel wie mich.
 
-@Z: Toppprodukt: Der Olivenölsprayer
+@Z: Top-Produkt: Der Olivenölsprayer
 
 <pic images/misto-pour.ps Erst füllt man Olivenöl aus der Flasche in den Misto.>
 
@@ -384,7 +384,7 @@ reines Olivenöl und Luft. Einmal aufgepumpt bleibt die Flasche
 wochenlang betriebsbereit.
 Es mag zwar etwas merkwürdig anmuten, wenn der Koch beim Zubereiten
 von Tomaten mit Mozzarella mit der Spraydose hantiert, doch das muss
-man ja nicht gerade vor den Augen der Gäste vorführen! Toppprodukt!
+man ja nicht gerade vor den Augen der Gäste vorführen! Top-Produkt!
 
 @Z: Clipper Card
 
