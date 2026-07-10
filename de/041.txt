@@ -183,12 +183,12 @@ nur die Vulkaninsel "Big Island" heißt offiziell Hawaii.
 
 Die Insel Oahu ist bekannt für die Hauptstadt Honolulu, 
 die Fernsehserie "Magnum", den Strand von Waikiki, der als Geburtsort 
-des Surfens gilt und natürlich Perl Harbor, 
+des Surfens gilt und natürlich Pearl Harbor,
 der Militärhafen, das Synonym für das geschichtliche 
 Ereignis, das jeder Amerikaner kennt, selbst wenn er im 
 hinterletzten Winkel von Amerika wohnt. Für die 
 Geschichtsmuffel unter euch schnell ein wenig Nachhilfe: 
-Die Japaner griffen Perl Habor im Zweiten Weltkrieg 
+Die Japaner griffen Pearl Harbor im Zweiten Weltkrieg
 überraschenderweise an und zwangen somit die USA, in den 
 Zweiten Weltkrieg einzutreten. Oahu, präziser gesagt 
 Waikiki, ist eine Mischung aus Mallorca und Ibiza; nur dass 
@@ -213,10 +213,10 @@ Was haben wir gelacht.
 
 Wir ahnten schon, 
 dass es in Waikiki so zugehen würde und buchten deshalb 
-ein kleines Apartement in Kailua (ca. 30 Autominuten von 
+ein kleines Apartment in Kailua (ca. 30 Autominuten von
 Waikiki und Honolulu entfernt) in einer ruhigen Wohngegend 
 -- ein Glückstreffer, wie sich bald herausstellte, denn 
-das Apartement war groß und geräumig und verfügte über 
+das Apartment war groß und geräumig und verfügte über
 einen Balkon mit Blick aufs Meer. Zum wunderschönen langen 
 Sandstrand konnten wir sozusagen spucken. Der "Kailua 
 Beach" gilt nicht nur als eines der besten Schwimm-Strände
@@ -283,7 +283,7 @@ tropischen Oahu nicht auf LongDrugs, Safeway-Supermarkt,
 Starbucks und Walgreens verzichten kann. 
 Warum muss selbst auf Oahu jede "Shopping Mall" gleich 
 aussehen und mit den immer gleichen Geschäften aufwarten? 
-Was treibt diesen Drang zur Gleichförmigkleit an? 
+Was treibt diesen Drang zur Gleichförmigkeit an?
 
 <pic images/stink.ps In Chinatown hat jemand eine Stinkfrucht auf ein Auto gelegt>
 
@@ -727,7 +727,7 @@ noch lange nach Bushs Amtsperiode ihr Unwesen treiben werden.
 In San Francisco lebend, fragten wir uns mal wieder, wo 
 die Republikaner um alles in der Welt nur ihre Stimmen 
 herbekommen. Außer dem republikanischen Immobilenhändler auf 
-der 24ten Straße bei uns im Viertel, der, wie schon einmal erwähnt, 
+der 24. Straße bei uns im Viertel, der, wie schon einmal erwähnt,
 sein Schaufenster mit pro-republikanischen Parolen 
 und einem Ronald-Reagan-Foto schmückt, kennen wir nur Leute, 
 denen sich bei Bushs Politik der Magen umdreht. 
@@ -747,12 +747,12 @@ einen Seite meisterhaft, von der innenpolitischen Lage
 durch sein Kriegsgebabbel abzulenken. Der wahre Grund für 
 den Wahlsieg der Republikaner ist allerdings, wenn ihr mich 
 fragt, die zur Waschlappen-Partei mutierten Demokraten und 
-die amerikanischen Nachrichtensendungen in Fernsehen. Aus 
-Angst, als unpatriotsch zu gelten, reden die demokratischen 
+die amerikanischen Nachrichtensendungen im Fernsehen. Aus
+Angst, als unpatriotisch zu gelten, reden die demokratischen
 Politiker Bush nämlich nach dem Mund und stellen sich 
 hinter ihn. Eine Opposition gibt es in Amerika zur Zeit 
 nicht. Das erboste viele liberale Wähler so, dass sie 
-ihre Stimmen Unabhängigen oder Kanditaten der Grünen 
+ihre Stimmen Unabhängigen oder Kandidaten der Grünen
 Partei gaben oder erst gar nicht zur Wahl gingen. Nur 
 leider dauert es in Amerika wahrscheinlich noch weitere 20 
 Jahre bis die Grünen zur ernsthaften dritten Partei 
@@ -828,7 +828,7 @@ sollte.
 @Z: Bush versus Schröder 
 
 <em>(Angelika)</em>
-Mich überraschte, wieviel die
+Mich überraschte, wie viel die
 deutschen Zeitungen über die "vergiftete Atmosphäre" 
 zwischen Bush und Schröder wegen ihrer unterschiedlichen 
 Auffassungen bezüglich eines Irak-Krieges berichteten. 
