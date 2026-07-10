@@ -51,7 +51,7 @@ vielen Läufer erst einige Minuten nach dem Startschuß kommt) tatsächlich
 bis zum Ziel brauchte, sondern auch nachweisen, dass man an allen 
 Messstationen entlang der Strecke tatsächlich vorbeigelaufen ist.
 
-<pic images/chip.ps Der Chip am Schuh sendet an den Meßstationen ein elektronisches Signal>
+<pic images/chip.ps Der Chip am Schuh sendet an den Messstationen ein elektronisches Signal>
 
 Die ersten 32 Kilometer rattern dann auch ganz einfach runter, in 
 San Francisco stehen zwar einige gemeine Hügel im Weg, aber das geht
@@ -91,7 +91,7 @@ diesen Pokal mit aller Macht.<HTMLONLY></I></HTMLONLY>
 Ach ja, meine Zeit: 4:38:20, wie man sehr leicht auf dem Internet sehen kann:
 <HTMLONLY><A HREF="http://www.chroniclemarathon.com"></HTMLONLY>"http://www.chroniclemarathon.com"<HTMLONLY></A></HTMLONLY> -- auf 
 "2001 Finish Results" geklickt, in das "Bib"-Feld meine Startnummer
-2003 eingegen und "Find a Runner" aktiviert!
+2003 eingegeben und "Find a Runner" aktiviert!
 
 Der nächste Tag war natürlich furchtbar, ich entdeckte, dass man
 auch kürzeste Strecken mit dem Auto fahren kann und dass viele
@@ -163,7 +163,7 @@ Das hat euer Onkel Michael extra für euch recherchiert: amerikanische
 Süßigkeiten. Natürlich nicht "Twix" oder "Milky Way", die kennt ihr 
 ja schon von zuhause.
 
-<pic images/cube.ps (#5) Süssigkeiten zur Auswahl in meinem Cubicle>
+<pic images/cube.ps (#5) Süßigkeiten zur Auswahl in meinem Cubicle>
 
 In Abbildung (#5) seht ihr den Schleckerkram, den euer Onkel in 
 Großpackungen im Supermarkt kauft, hin und
@@ -239,8 +239,8 @@ AOL no Schilli dess. Dooso yoroschko onegai-itashimass."
 Die Schrift teilt sich in drei Abteilungen: Kanji, die chinesischen (!)
 Schriftzeichen, die Dinge oder Konzepte bedeuten. Dann Katakana-Zeichen,
 mit denen die Japaner ausländische Wörter lautzumalen versuchen.
-So gibt's natürlich kein Kanjii-Zeichen für "Computer", weil's den 
-vor ein paar tausend Jahren, als Kanjii entstand, noch nicht gab.
+So gibt's natürlich kein Kanji-Zeichen für "Computer", weil's den
+vor ein paar tausend Jahren, als Kanji entstand, noch nicht gab.
 Also sagt der Japaner etwas, was so ähnlich klingt ("Co-n-pyu-ta")
 und klaubt dazu
 ein paar Katakana-Zeichen zusammen.
@@ -249,16 +249,16 @@ Art Lautschrift, mit der man grammatische Endungen an Begriffe anhängt
 oder auch Wörter lautmalerisch buchstabieren kann. So
 gibt's zum Beispiel für "Ka" oder für "Gu" ein Hiraganazeichen.
 Manche japanischen Kinderbücher sind ganz in Hiragana geschrieben.
-Bahnstationen in Japan sind übrigens sowohl in Kanjii als auch
+Bahnstationen in Japan sind übrigens sowohl in Kanji als auch
 (unterhalb) in Hiragana ausgeschildert.
 
 Die drei Schriften werden bunt gemixt. Den Satz "Bringen Sie mich bitte zur 
 amerikanischen Botschaft" schreibt man zum Beispiel mit allen dreien:
-Für "Botschaft" gibt's drei Kanjii-Zeichen, die hintereinandergehängt
+Für "Botschaft" gibt's drei Kanji-Zeichen, die hintereinandergehängt
 "Botschaft" bedeuten. "Amerikanisch" ist natürlich kein japanisches
 Wort, wird also in Katakana gelautmalt ("A-me-ri-ka"). 
 Und der Rest ist Grammatik ("ma-de" für "zur" und "onegai shimasu" für
-"bitte") und besteht aus Kanjii und Hiragana.
+"bitte") und besteht aus Kanji und Hiragana.
 
 <pic images/embassy.ps Der Satz "Bitte bringen Sie mich zur amerikanischen Botschaft" auf japanisch>
 
@@ -699,7 +699,7 @@ eintüten. Denkt man an die Kosten, die diese ganze Aktion
 verursacht, können einem allerdings eher die Tränen 
 kommen. Die New York Times berichtete in den letzten Tagen 
 dann auch ausführlich darüber, dass der noch vor einiger 
-Zeit vorhandende stattliche amerikanische 
+Zeit vorhandene stattliche amerikanische
 Haushaltsüberschuss arg zusammengeschrumpft ist. Ein 
 Phänomen, dass viele Kritiker der Steuerreform 
 voraussagten.
