@@ -85,13 +85,13 @@ Wartezeiten bis zu sechs Jahren rechnen. Da die meisten ausländischen
 Computerexperten in den USA auf einem so genannten H-1B-Visum arbeiten, 
 das hochqualifizierten Arbeitskräften für maximal sechs Jahre eine Arbeits- 
 und Aufenthaltsgenehmigung gewährt, ist man praktisch auf verlorenem Feld:
-Das Visum läuft aus, bevor die Einwanderngsbehörde den
+Das Visum läuft aus, bevor die Einwanderungsbehörde den
 Antrag auf die Green Card fertig bearbeitet hat -- selbst wenn gleich der 
 Antrag gestellt wird, sobald man seinen Fuß auf 
 amerikanischen Boden setzt. Hinzu kommt, dass die Firmen nicht in jedem Fall 
 bereit sind, gleich die Green Card zu beantragen, wollen sie doch erst 
 sicherstellen, dass der ausländische Arbeitnehmer auch gute Dienste leistet. 
-Darüber hinaus hat das H-1B-Visum einen entscheidenen Vorteil für den 
+Darüber hinaus hat das H-1B-Visum einen entscheidenden Vorteil für den
 Arbeitgeber: Die Arbeitsgenehmigung gilt nur für eine ganz 
 bestimmte Firma -- ein Jobwechsel setzt die gewaltige 
 bürokratische Mühle wieder in Gang.
@@ -101,7 +101,7 @@ so die Visumsbindung des Arbeitnehmers, aber
 bedingt durch den extremen Mangel an
 Computerspezialisten scheuen die meisten Firmen diesen Schritt nicht
 mehr.  Egal wie, sie wollen qualifizierte Mitarbeiter. Selbst der zur Zeit 
-stattfindene amerikanische Wahlkampf zum Präsidentenamt hat dieses Thema 
+stattfindende amerikanische Wahlkampf zum Präsidentenamt hat dieses Thema
 aufgegriffen. Eine Verkürzung des Green-Card-Prozesses
 für Computerexperten ist noch nicht im Gespräch, aber die verschiedenen 
 Kandidaten brüsten 
