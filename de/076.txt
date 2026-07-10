@@ -192,7 +192,7 @@ Bananenrepublik und nicht in dem Bundesstaat, der zur Zeit als achtgrößte
 Wirtschaftsnation der Welt gilt.
 
 
-@Z: Toppprodukt: Wannenabflussverhinderer
+@Z: Top-Produkt: Wannenabflussverhinderer
 
 <pic images/bath1.ps (#1) Ein normaler Wannenauslasshebel mit Notabfluss (unsichtbar am unteren Rand).>
 
