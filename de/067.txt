@@ -400,7 +400,7 @@ möglichen Entschädigungsvarianten wählen, unter anderem
 bietet 24 Hour Fitness eine kostenlose halbe private Trainerstunde an!
 Das lassen wir uns gefallen.
 
-@Z: Toppprodukt
+@Z: Top-Produkt
 
 <pic images/bike.ps Michael führt Fahrradreparaturen im Wohnzimmer durch.>
 
