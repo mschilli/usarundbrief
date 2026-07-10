@@ -13,21 +13,18 @@ who bravely entered the World Trade Center to save lives, and some of
 them lost their own lives in the process. In contrast, many Americans
 have a more conflicted relationship with police officers.
 
-TODO
-
 In early June, two firefighters, Anthony Valerio and Vincent Perez,
 died in San Francisco during an operation as they attempted to
 extinguish a house fire in the Diamond Heights neighborhood. The
 hillside location of the house, a typical scenario in hilly San
 Francisco, proved fatal for the firefighters. The house, which
 appeared to be a two-story building from the street, had two
-additional floors below at the rear slope, causing the firefighters
+additional floors below at the rear slope, resulting in the firefighters
 who entered through the street entrance to be above the raging fire.
 They were trapped by the flames when the intense heat caused all
 objects to explosively catch fire.
 
-<pic images/firefighter-truck.ps In such vintage vehicles, the
-firefighters of San Francisco go to their assignments.>
+<pic images/firefighter-truck.ps In such vintage vehicles, the firefighters of San Francisco go to their assignments.>
 
 Now you might say, "Yeah, yeah, that's tragic, but why are you
 writing about it?" Patience, patience. The state-like funeral of the
@@ -35,33 +32,30 @@ firefighters did surprise me, though. The memorial service took place
 at St. Mary's Cathedral in San Francisco, and not only did
 firefighters and rescue workers from all parts of the USA attend, but
 also leading Californian politicians. All the local TV stations also
-broadcast the memorial service.
+broadcasted the memorial service.
 
-<pic images/firefighter-funeral-procession.ps After the memorial
-service, a seemingly endless motorcade drives to the cemetery in
-Colma. Photo: flickr [Lulu Vision|lulutoo/5821368858]>
+<pic images/firefighter-funeral-procession.ps After the memorial service, a seemingly endless motorcade drives to the cemetery in Colma. Photo: flickr [Lulu Vision|lulutoo/5821368858]>
 
-As in
-<RBLINK>20060215#1</RBLINK>
-As previously reported, all of San Francisco's cemeteries are located
+As we've previously reported in <RBLINK>20060215#1</RBLINK>,
+all of San Francisco's cemeteries are located
 outside the city gates. Therefore, the coffins had to be transported
 from downtown to Colma (about 20 kilometers south) to the "Holy
-Cross" cemetery, along with all the mourners. The procession
-consisted of an apparently endless line of cars. The city officials
-quickly closed several streets in San Francisco and rerouted some bus
+Cross" cemetery, along with all the participants. The procession
+consisted of an apparently endless line of cars. City officials
+quickly shut down several streets in San Francisco and rerouted some bus
 lines on the day of the funeral. Even Freeway 280, one of the main
 highways south of San Francisco, was closed for several hours, and
 this happened on a Friday during peak rush hour. Anyone who knows how
 traffic jams occur during peak times on regular weekdays can roughly
 imagine the impact. But people were not only patiently stuck in
-traffic; many lined the streets to pay their last respects to the
+traffic; many lined the streets to pay their respects to the
 firefighters. The city had lost two heroes.
 
-@Z: Schafkopfen im Internet" translates to "Playing Schafkopf on the
-Internet" in English. Schafkopf is a traditional German card game.
+@Z: Playing Schafkopf On The Internet
 
-<pic images/sauspiel.ps Playing Schafkopf with other people on the
-internet: sauspiel.de>
+<pic images/sauspiel.ps Playing Schafkopf with other people on the internet: sauspiel.de>
+
+TODO
 
 <em>Michael</em> 
 The reason there hasn't been a new newsletter for ages is partly
