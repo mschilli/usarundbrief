@@ -82,13 +82,10 @@ allowed at the special table.
 
 <pic images/sk-sz.ps (#1) The Süddeutsche Zeitung claims that Schafkopfen is at risk of becoming extinct.>
 
-TODO
-
-As already in
-<RBLINK>20000309#4</RBLINK>
-As mentioned, I play Schafkopf about every two months in a real game
+As I've already in mentioned in <RBLINK>20000309#4</RBLINK>,
+I play Schafkopf about every two months in a real game
 with people from Silicon Valley. After all, according to the
-SÃ¼ddeutsche Zeitung (illustration (#1)), the card game is on the
+Süddeutsche Zeitung (illustration (#1)), this card game is on the
 list of endangered leisure activities in Bavaria. The online game
 effectively counters the decline of the tradition, as the mix of
 social networking and Schafkopf inevitably attracts new players.
@@ -100,11 +97,9 @@ According to Sauspiel statistics, I've already completed 2,581 games
 in one and a half months, and assuming 2 minutes per game, I've
 wasted 86 hours there. No wonder no newsletter was produced!
 
-@Z: Legal political bribery: lobbying
+@Z: Legal Political Bribery: Lobbying
 
-<pic images/dmm.ps The book "So Damn Much Money" by Robert Kaiser
-explains the relationship between interest groups, lobbyists, and
-politics.>
+<pic images/dmm.ps The book "So Damn Much Money" by Robert Kaiser explains the relationship between interest groups, lobbyists, and politics.>
 
 <em>Michael</em> 
 In the USA, political parties do not receive money from the state;
@@ -113,6 +108,9 @@ donations from party supporters. To prevent powerful industrial
 magnates from directly bribing parliamentary representatives, the
 party donation law limits contributions from individuals to
 individual representatives to $2,500.
+
+TODO
+
 <LINK>http://www.fec.gov/pages/brochures/contriblimits.shtml|The
 translation of "HÃ¶chstbetrÃ¤ge fÃ¼r Parteispenden" to English is
 "Maximum amounts for party donations.</LINK>
