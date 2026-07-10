@@ -172,7 +172,7 @@ sogar noch weiter.
 Um diese zeitraubende Suche zu erleichtern, bietet die "Genealogical 
 Society of Utah" in Salt Lake City computergestützten Zugriff auf 
 allerlei alte Datensammlungen, anhand derer man die Namen,
-Lebensdaten und Verwandschaftsbeziehungen seiner Vorfahren ermitteln 
+Lebensdaten und Verwandtschaftsbeziehungen seiner Vorfahren ermitteln
 kann.
 
 In der von der Mormonenkirche betriebenen Bücherei finden sich hunderte
@@ -207,7 +207,7 @@ Seite.
 Mit einer Kurbel an der Seite des Apparats dreht
 man dann, und die Einzelbilder werden von einer oben angebrachten
 Halogenlampe angeleuchtet und auf eine etwa 60x60cm große 
-waagrechte Fläche projeziert. Geht man durch die Reihen, sieht man
+waagrechte Fläche projiziert. Geht man durch die Reihen, sieht man
 Leute, die gschaftig an den Kurbeln drehen, Einträge untersuchen
 und sich Notizen machen.
 
@@ -225,7 +225,7 @@ Wappenforschungshilfe, Erbkunde und Rassenpflege". Und was ich auch
 noch nicht wusste: 1529 lagen die Türken vor Wien und die
 Verteidigung des Abendlandes wurde im Deutschen Reich mit der
 sogenannten "Türkensteuer" finanziert. In der Sammlung der
-"Family History Library" fand ich in Buch, in dem das
+"Family History Library" fand ich ein Buch, in dem das
 Türkensteuerregister von 1584 nachgedruckt steht. In Abbildung (#8)
 seht ihr, wer wann wieviel zahlte, und falls nicht, warum.
 Falls ihr euch mit altertümlichen Währungen nicht
@@ -260,7 +260,7 @@ Auch wir hatten den Park auf unserer großen Amerikareise 1987 ausgelassen.
 Er liegt schon ziemlich in der Pampa,
 eben jenseits der großen Metropolen. Salt Lake City ist ca. 220 Meilen
 weit weg und Las Vegas 360. Auch sind viele der schönsten Ecken des
-Nationalparks nur über ungeteerte Staßen oder zu Fuß zu erreichen.
+Nationalparks nur über ungeteerte Straßen oder zu Fuß zu erreichen.
 
 <pic images/rock.ps Fels im Capitol Reef National Park in Utah>
 
@@ -422,15 +422,15 @@ noch ungestraft durch, aber heutzutage ist das völlig unmöglich.
 <pic images/trafo.ps Der 7-Dollar-Billigtrafo von Fry's, der 110V auf 220V hochtransformiert.>
 
 Die Frequenz, mit der der Wechselstrom aus der Steckdose hin- und 
-herschwingt beträgt in Europa 50Hz und in den USA 60Hz.
-In den Achziger-Jahren gab es noch Radiowecker, die
+hin- und herschwingt beträgt in Europa 50Hz und in den USA 60Hz.
+In den Achtziger-Jahren gab es noch Radiowecker, die
 diese Schwingung ausnutzten und deshalb mit der falschen Frequenz
 nicht richtig funktionierten, aber heutzutage ist das irrelevant.
 
 Wie bei deutschen Schukosteckern gibt es bei den nordamerikanischen
 Steckern dreipolige Varianten
 (mit runder Erdung) und solche, die nur zwei Kontakte aufweisen.
-Superlästig ist das, wenn zum Beipiel das amerikanische
+Superlästig ist das, wenn zum Beispiel das amerikanische
 Laptopnetzteil einen dreipoligen Stecker hat aber die Steckdose im Hotel
 nur zwei Pole bereitstellt, was durchaus vorkommt. Für solche Fälle
 habe ich einen wahrscheinlich illegalen neongrünen Adapter von einem
@@ -460,7 +460,7 @@ man sich mal vorstellen! Wie man in dem Film
 <Link>http://www.outfoxed.org|"Outfoxed - Rupert Murdoch's War on Journalism"</LINK>
 erfährt, arbeiten die FOX-Mitarbeiter unter der Leitung des finstren
 Medienmoguls Rupert Murdoch mit unseriösen Methoden, um Nachrichten 
-im einem bestimmten Licht darzustellen.
+in einem bestimmten Licht darzustellen.
 
 In Deutschland hat die Bundeswehr ja ebenfalls keinen guten Ruf, aber eine
 derartige Negativhaltung kannte der Amerikaner bislang nicht.
@@ -538,7 +538,7 @@ Alter, Hautfarbe, Einkommen, Religion der Wähler gesteckt, so dass der
 Kandidat der Gegenpartei diesen gar nicht gewinnen kann und somit die
 Stimmen für die Opposition gleich unter den Tisch fallen.
  
-<pic images/ele2.ps Sowohl die Senatsabgeordneten als auch die Repräsentanten Kalifoniens wurden neu gewählt.>
+<pic images/ele2.ps Sowohl die Senatsabgeordneten als auch die Repräsentanten Kaliforniens wurden neu gewählt.>
 
 Die 100 Senatoren des Senats werden ebenfalls direkt gewählt. Allerdings
 ist der entscheidende Unterschied, dass jeder Bundesstaat, völlig
@@ -566,7 +566,7 @@ Distanzierung Schwarzeneggers gegenüber Bush.
 Auch setzte Schwarzenegger auf Überparteilichkeit in den meisten seiner Werbespots,
 was vielen Wählern gefiel. Einige gehen mittlerweile soweit,
 Schwarzenegger zu einem verkappten Demokraten zu zählen, denn er
-befürworetet nicht nur die Stammzellenforschung, sondern will
+befürwortet nicht nur die Stammzellenforschung, sondern will
 Kaliforniens Vorreiterrolle in Sachen Umweltschutz aggressiv vorantreiben.
 Überhaupt geht er politische Angelegenheiten recht pragmatisch an, was
 im legeren Kalifornien gut ankommt.
@@ -577,7 +577,7 @@ seit 1987 San Francisco im Kongress vertretend, wird die erste weibliche
 Sprecherin des Repräsentantenhauses, was sie formell zur drittwichtigsten 
 Person im Staate befördert. Pelosi zählt zu dem linkeren
 Spektrum der demokratischen Partei. Es bleibt allerdings abzuwarten,
-wieviele Kompromisse sie in ihrer neuen Position eingehen muss, aber der
+wie viele Kompromisse sie in ihrer neuen Position eingehen muss, aber der
 liberale Wind San Franciscos wird sie hoffentlich weiterhin begleiten.
 
 @Z: Toppprodukt
