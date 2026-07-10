@@ -55,36 +55,34 @@ firefighters. The city had lost two heroes.
 
 <pic images/sauspiel.ps Playing Schafkopf with other people on the internet: sauspiel.de>
 
-TODO
-
 <em>Michael</em> 
-The reason there hasn't been a new newsletter for ages is partly
-because I have discovered a new hobby: online on
+The reason there hasn't been a new newsletter in ages is partly
+because I have discovered a new hobby: to play the German
+card game Schafkopf with other people online on
 <LINK>http://sauspiel.de|sauspiel.de</LINK>
-The translation to English is: "to play Schafkopf with other people
-on the internet. Almost at any time of day or night, you can
+Almost at any time of day or night, you can
 immediately find an open table where only one player is missing, and
 you just join in. And bam, you get the first four cards and the fun
 begins. For example, if Angelika announces that we are going
 somewhere in two minutes, I quickly sit down at the computer and play
 another game of Schafkopf.
 
-<pic images/sauspiel-opentable.ps At the table in the middle, there
-is currently a seat available.>
+<pic images/sauspiel-opentable.ps At the table in the middle, there is currently an open seat.>
 
 At 7 PM local time in San Francisco, it's 4 AM in Germany, and the
 number of tables on sauspiel.de sometimes shrinks to two or so, and
 it can take a few minutes for a new group of four players to come
 together. But apparently, even at this ungodly hour, there are enough
 gambling addicts hanging around to play. According to the
-association, there are 190,000 Schafkopf players, and membership
-costs 5 euros per month. However, if you limit yourself to tables
+app makers, there are 190,000 registered users playing the game. Membership
+is 5 euros per month. However, if you limit yourself to tables
 with standard rules (no Farbwenz or Geier), it's free. Sometimes
-paying members urgently need players, so non-paying members are also
+paying members urgently need players, and non-paying members are also
 allowed at the special table.
 
-<pic images/sk-sz.ps (#1) The SÃ¼ddeutsche Zeitung claims that
-Schafkopfen is at risk of becoming extinct.>
+<pic images/sk-sz.ps (#1) The Süddeutsche Zeitung claims that Schafkopfen is at risk of becoming extinct.>
+
+TODO
 
 As already in
 <RBLINK>20000309#4</RBLINK>
