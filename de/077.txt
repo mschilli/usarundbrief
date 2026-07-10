@@ -272,7 +272,7 @@ routinemäßig auf den Wahlzettel der einzelnen Bundesstaaten,
 während Kandidaten von Drittparteien u.a. Wählerpetitionen
 einzureichen haben.
 
-@Z: Toppprodukt: Garagentüröffner
+@Z: Top-Produkt: Garagentüröffner
 
 <pic images/garage.ps Magisch öffnet sich das Garagentor, wenn Michael mit der Rakete einfährt.>
 
