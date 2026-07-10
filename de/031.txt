@@ -13,7 +13,7 @@ Geschwindigkeitsbegrenzung von 65 Meilen pro Stunde (etwa 100 km/h)
 führt auf diesen (pro Fahrtrichtung!) vierspurigen Highways
 zwar dazu, dass jeder im gleichen Tempo fährt, weshalb amerikanische 
 Autobahnen generell viel mehr Verkehr verkraften als deutsche, 
-aber was zuviel ist, ist zuviel.
+aber was zu viel ist, ist zu viel.
 
 Zwischen 7 und 9:30 Uhr morgens und 17 und 19:30 Uhr abends kann man 
 hier mittlerweile nicht mehr fahren. Statt den rekordmäßigen 35 Minuten, 
@@ -167,7 +167,7 @@ herumzuschlagen. In Abbildung (#6) seht ihr die Zehnerkarte (kostet
 den Schaffner, kein Passagier wüsste das. Vielmehr sagt man am Schalter,
 wohin man will. Auch in der U-Bahn ist das hier simpel: Man zahlt
 innerhalb der ganzen Stadt eh den gleichen Preis ($1.10), und will
-man in die Außenbezirke, steht an jedem Ticketautomat, wieviel das wohin
+man in die Außenbezirke, steht an jedem Ticketautomat, wie viel das wohin
 kostet. Niemandem wird die Abstraktion abverlangt, sich in irgendwelche
 komplizierten Waben- oder Zonensysteme hineinzuversetzen.
 
@@ -212,7 +212,7 @@ kamen und sich schikanieren ließen. I bin a Boda gläga!
 <pic images/cell.ps Wieder ein Schwätzer am Handy>
 
 Viele Leute tippen während der Zugfahrt auf ihren Laptop-Computern herum,
-das ist okay. Aber es wird zu meinem Leidwesen zuviel telefoniert. 
+das ist okay. Aber es wird zu meinem Leidwesen zu viel telefoniert.
 Ich habe gehört, dass 
 auch in Deutschland mittlerweile jeder ein Mobiltelefon hat. Ich habe auch
 eines, weil's praktisch ist, wenn mein Fahrrad einen Platten hat oder
