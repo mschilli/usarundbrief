@@ -320,9 +320,7 @@ Just imagine: a twenty-year-old adult can buy a house, join the army,
 or purchase a weapon, but cannot buy a beer at the supermarket.
 However, like all absurd laws, it is constantly circumvented.
 
-TODO
-
-When I was traveling in America a good twenty years ago, my study
+When I was traveling in America a good twenty years ago, my college
 buddy Huber and I arrived in a small town where Huber knew an
 exchange student. As far as I can remember, this connection opened up
 some cheap accommodation options for us, so we went there. Hardly had
@@ -330,9 +328,7 @@ the first handshakes of greeting been exchanged when our contact
 person, in a conspiratorial voice, presented a request: Could we
 quickly drive by the gas station with our car and buy some beer?
 
-<pic images/alk-liquor-store.ps The owner of the liquor store
-carefully checks the customer's driver's license before selling
-alcohol. Photo: flickr[Court Kizer|jellohead/4856197748]>
+<pic images/alk-liquor-store.ps The owner of the liquor store carefully checks the customer's driver's license before selling alcohol. Photo: flickr[Court Kizer|jellohead/4856197748]>
 
 I was just 21 at the time and was handed a beer without any issues at
 the drive-through, which our acquaintance eagerly opened and gulped
@@ -344,18 +340,15 @@ anyway.
 
 Conversely, adults are prohibited from providing access to alcohol to
 those under 21, and some overly zealous law enforcement officers even
-send teenage decoys into the local corner store to see if they are
+send teenage decoys into the local corner store to see if they are being
 sold alcohol there. If the store owner does not ask to see a driver's
 license to verify age, they receive a citation and a hefty fine. In
 the case of a repeat offense, their license to sell alcohol is
 revoked.
 
-<pic images/alk-liquor-store-customer.ps Due to strict laws, sellers
-of alcoholic beverages must ask for identification from anyone who
-looks younger than 35. Photo: flickr[Mike
-Fischer|mikefischer/4091316208]>
+<pic images/alk-liquor-store-customer.ps Due to strict laws, sellers of alcoholic beverages must ask for identification from anyone who looks younger than 35. Photo: flickr[Mike Fischer|mikefischer/4091316208]>
 
-Recently, as usual on hot weekends, we were hanging out at the beach
+Recently, as usual on hot summer weekends, we were hanging out at the beach
 in Pacifica and settled down next to a group of people who looked
 about 18 years old. They were clearly having fun taking turns
 drinking from a two-liter soda bottle filled with a suspiciously
@@ -363,11 +356,10 @@ clear, non-carbonated beverage. Judging by the behavior of the young
 people, it was most likely vodka that had been transferred into a
 disguise bottle beforehand.
 
-<pic images/alk-perm.ps (#9) The neighbors are questioned when a
-store that sells alcoholic beverages opens.>
+<pic images/alk-perm.ps (#9) Neighbors are questioned when a store that sells alcoholic beverages opens nearby.>
 
 If a store selling alcoholic beverages or a bar with a liquor license
-opens in a neighborhood, the "Department of Alcoholic Beverage
+wants to start off in a neighborhood, the "Department of Alcoholic Beverage
 Control" sends forms to all neighbors within a radius of 500 feet
 (180 meters). Illustration (#9) shows the notice that landed in our
 mailbox when the owner of the wine shop around the corner changed,
@@ -380,43 +372,36 @@ against it; we would even fill out an extra form so that the good man
 can sell his wine.
 
 The moral of the story? Just like in the times of
-<LINK>http://en.wikipedia.org/wiki/Prohibition#Prohibition_in_the_Uni
-ted_States|Prohibition</LINK>
-From 1919, when the production, distribution, and consumption of
+<LINK>http://en.wikipedia.org/wiki/Prohibition#Prohibition_in_the_United_States|Prohibition</LINK>,
+from 1919, when the production, distribution, and consumption of
 alcoholic beverages were banned throughout America, the state became
 embroiled in a battle it could not win. Instead of educating young
 adults on the responsible use of intoxicants, it labeled them as
 criminals who violated absurd laws as a national pastime. As is
-known, the government finally relented with the prohibition in 1933.
-<LINK>http://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_Unit
-ed_States_Constitution|The Twenty-First Amendment to the
-Constitution</LINK>
-The phrase translates to: "finally approved free access to alcoholic
+known, the government finally ended prohibition in 1933. The
+<LINK>http://en.wikipedia.org/wiki/Twenty-first_Amendment_to_the_United_States_Constitution|The Twenty-First Amendment to the Constitution</LINK>
+finally approved free access to alcoholic
 beverages -- after 14 years of state alcohol prohibition, during
-which the black market flourished and gangsters like Al Capone took
-over the lucrative distribution business.
+which the black market flourished and gangsters like Al Capone controlled
+the lucrative distribution business.
 
-@Z: Write Again: American Postal Service on the Verge of Collapse
+@Z: American Postal Service On The Verge Of Collapse
 
-<pic images/usps-mail-man.ps Due to the dire financial situation of
-the American postal service, the mail carrier will probably no longer
-deliver on Saturdays.>
+<pic images/usps-mail-man.ps Due to the dire financial situation of the American postal service, mail carriers will probably no longer deliver on Saturdays.>
 
 <em>Angelika</em> 
-After members of Congress have just managed to save the USA from
-bankruptcy and raise the debt ceiling following an embarrassing
-mudslinging battle, the next piece of bad news comes from the
-American Postal Service: If Congress does not intervene, the Postal
+After members of Congress just managed to save the USA from
+bankruptcy and raised the debt ceiling following an embarrassing
+mudslinging battle, the next piece of bad news came from the
+American Postal Service: If Congress won't intervene, the Postal
 Service faces insolvency in a few months.
 
-The structural problems at the United States Postal Service have been
+The structural problems in the United States Postal Service have been
 known for a long time. Above all, the internet is causing significant
 challenges, as people send emails instead of letters and pay their
-bills online. After the very interesting...
-<LINK>http://www.nytimes.com/2011/09/05/business/in-internet-age-post
-al-service-struggles-to-stay-solvent-and-relevant.html|Article about
-the impending bankruptcy of the American postal service</LINK>
-In the New York Times, it is reported that the postal service
+bills online. In a very interesting
+<LINK>http://www.nytimes.com/2011/09/05/business/in-internet-age-postal-service-struggles-to-stay-solvent-and-relevant.html|article on the impending bankruptcy of the American postal service</LINK>
+in the New York Times, it is reported that the postal service
 delivers 22% fewer items than it did five years ago. However, it
 still managed 167 billion deliveries in this fiscal year. The
 stagnant economy is also not helping the postal service reduce its
@@ -424,25 +409,26 @@ mountain of debt. As my favorite postal worker at the post office in
 Noe Valley confirmed, small and medium-sized businesses are sending
 far fewer items due to the poor economic situation.
 
-<pic images/usps-car.ps The American mail carrier throws the mail
-from the car into the mailbox.>
+<pic images/usps-car.ps The American mail carrier throws the mail from the car into the mailbox.>
 
-The American postal service is an independent yet still government
+The American postal service is an independent yet still government owned
 institution. By law, it is required to deliver mail comprehensively,
 meaning it must transport mail even to the most remote corners of the
-USA. In doing so, a standard letter costs 44 cents, regardless of
+USA. A standard letter costs 44 cents, regardless of
 whether I send it just around the corner or to an address in Hawaii.
 
-Furthermore, she is generally only allowed to adjust the postage
-rates in line with the inflation rate. The postal employees have a
+Furthermore, the USPS (United States Postal Services) is generally only allowed to adjust the postage
+rates in line with the inflation rate. Postal employees have a
 status almost similar to that of civil servants, and many cannot be
 dismissed. To implement fundamental changes, the Postmaster General
 must seek permission from Congress. For example, only Congress could
-lift the job protection and allow for dismissals, or decide that mail
+lift the postal workers' job protection and allow for dismissals, or decide that mail
 is no longer delivered on Saturdays. By the way, this would be a
 severe blow for Michael, as he can hardly wait to run to the mailbox
-and already experiences withdrawal symptoms on Sundays or public
+to retrieve incoming mail, and already experiences withdrawal symptoms on Sundays or public
 holidays.
+
+TODO
 
 By the way, it's not my fault that the postal service is struggling.
 I send so many packages and letters, mostly to Germany, that I'm
