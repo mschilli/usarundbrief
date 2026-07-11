@@ -171,19 +171,16 @@ moderate, but in October, there is supposed to be a decent "swell"
 
 <pic images/cc-reader.ps Portable credit card reader that allows the server to process payments at the table.>
 
-TODO
-
 <em>Michael</em> 
 There are some peculiarities to report from the Canadian gastronomy
-scene. Apparently, when paying, the server no longer takes the
-guest's credit card as is customary in the USA.
-<RBLINK>20000801#5</RBLINK>
-...to authorize the amount behind the counter, but waits until the
-guest gets up from their table and approaches the counter on foot to
+scene. Apparently, when the guest wants to pay his bill, the server no longer takes the
+guest's credit card and disappears to authorize the payment behind the scenes, as is customary in the USA
+(<RBLINK>20000801#5</RBLINK>).
+Insteat, the guest gets up from their table and approaches the counter on foot to
 pay. In fine establishments, the server sometimes brings what I call
 a 'tip machine' to the table, where the guest swipes their card and
-enters the tip amount in a dialogue that requires handling an absurd
-number of buttons. The small device noisily prints out a receipt,
+enters the tip amount in a dialogue that requires pressing an absurd
+number of buttons. The small device then noisily prints out a receipt,
 which the guest signs with a pen. Fortunately, I have a high school
 diploma and only needed about two minutes to give a tip, with a brief
 interruption when the server had to reset the machine because I
@@ -197,24 +194,21 @@ incredulously at the outdated cards of American tourists.
 
 At gas stations, Canadians do not accept American credit cards at the
 pumps. I was informed twice over the loudspeaker that with "Foreign
-Credit Cards," you need to go inside the cashier's booth to pay an
+Credit Cards," you need to go inside the cashier's booth to pre-pay an
 amount with a US credit card.
-<em>vorauszahlen</em> 
 If you fill up less, the gas station will only charge you for the
-fuel you actually used, not the amount previously authorized by
+fuel you actually pumped, not the amount previously authorized by
 signature on the receipt.
 
-@Z: The translation of "Kanadische HolzfÃ¤ller" to English is
-"Canadian lumberjacks.
+@Z: Canadian Lumberjacks
 
-<pic images/lumber-truck-sign.ps Caution is advised regarding long
-timber transporters.>
+<pic images/lumber-truck-sign.ps Caution is advised regarding long timber transporters.>
 
 <em>Michael</em> 
-In the more uninhabited areas of Vancouver Island, mainly lumberjacks
-work--rough types who, still in their work gear, head to the village
-pub in the evenings and, as it seemed to me, hadn't seen the inside
-of a dentist's office in a long time. In a dive on the edge of
+The more uninhabited areas of Vancouver Island are work areas for lumberjacks
+-- rough types who, still in their work gear, head to the village
+pub in the evenings and, as it seemed to me, havn't seen the inside
+of a dentist's office in a long time. In a dive bar on the edge of
 nowhere, we once had a very good dinner, and when I went to the
 counter to settle the bill, as is customary in Canada, a lumberjack
 was paying his tab before me. The visibly tipsy man also received two
@@ -226,47 +220,43 @@ Let's hope he only had a short drive home!
 <pic images/logger-stump.ps Tree stump in a cleared forest area.>
 
 Lumberjacks often stay overnight in cabins in the forest during the
-week because the access roads to the logging sites are unpaved and
+week because access roads to the logging sites are unpaved and
 riddled with potholes. Some workers drive an hour into the forest
 every day with four-wheel-drive pickup trucks and back out again in
 the evening, but they have to buy the thickest tires available and
 always carry two spare tires with them. This is because when driving
 at 60 km/h over a bumpy road, sharp stones can sometimes cut the
-rubber.
+tire rubber.
 
-<pic images/log-truck.ps Quickly to the side, the long timber truck
-is coming!>
+<pic images/log-truck.ps Quickly to the side, the long timber truck is coming!>
 
 Once we were driving on an access road, and from a distance, we saw
 an oncoming, fully loaded logging truck. Fortunately, I quickly found
-a pull-off, stopped, and we ducked our heads. The logging trucks
+a space to pull to the side, stopped, and we ducked our heads. Logging trucks
 carry about 100 tons of wood per load, are almost twice as wide as a
 normal vehicle when loaded, and travel quite leisurely at about 30
 km/h over the bumpy roads in the forest. A few wooden bridges over
-small streams were actually constructed for this enormous load.
+small streams were actually constructed to sustain this enormous load.
 
-<pic images/logger-load.ps A special forklift lifts tons of tree
-trunks.>
+<pic images/logger-load.ps A special forklift lifts tons of tree trunks.>
 
 The truck took up almost the entire width of the road, it was moving
 very slowly (about 25 km/h), and we were told that the drivers use CB
 radio to warn each other about tourists and to be considerate. Our
 lumberjack even waved!
 
-<pic images/logger-float.ps A small tugboat maneuvers the logs around
-in the water.>
+<pic images/logger-float.ps A small tugboat maneuvers the logs in the water.>
 
-The tree trunks cut down with chainsaws are transported by trucks on
+The tree trunks are cut down with chainsaws and transported by trucks on
 forest roads to a collection point, where they are thrown into the
-sea and towed by tugboats to the next processing location.
+water and towed by tugboats to the next processing location.
 
-@Z: Kayak tour in the Broken Islands
+@Z: Kayak Tour In The Broken Islands
 
-<pic images/kayak-mike.ps Probably one of the best kayakers in the
-world in pursuit of the gold medal.>
+<pic images/kayak-mike.ps Probably one of the best kayakers in the world in pursuit of the gold medal.>
 
 <em>Michael</em> 
-To explore the wildlife and plant life of the so-called "Broken
+To explore wildlife and plant life of the so-called "Broken
 Islands" in the bay south of Tofino, we booked a guided full-day
 kayak tour. Early in the morning at eight, we took a small shuttle
 boat with kayaks strapped on to the group of islands, where we packed
@@ -275,14 +265,13 @@ started paddling.
 
 <pic images/boat-socks.ps Angelika on the kayak feeder boat.>
 
-I sat in the back of the kayak, where you paddle with your hands and
+I sat in the back of the kayak, where you wield the double oar with your hands and
 control the rudder with your feet. From 10 in the morning until late
 in the afternoon, we traveled from island to island, sometimes in
 light drizzle and, when a bit of wind picked up for half an hour,
 through quite challenging waves.
 
-<pic images/kayak-setup.ps The kayak guide helps Angelika with
-putting on the gear.>
+<pic images/kayak-setup.ps The kayak guide helps Angelika with putting on the gear.>
 
 In total, there were three boats; besides us, there was another
 couple from Portland in a double kayak, and the kayak guide was in
@@ -291,20 +280,18 @@ we really had to put in a lot of effort to keep up. I even had a big
 blister on my thumb by the evening! They supposedly call them "kayak
 blisters," and the kayak guide had thick calluses in the same spot.
 
-<pic images/kayak-tour.ps Between the islands of the "Broken Islands"
-group, our kayak is paddling around.>
+<pic images/kayak-tour.ps Intrepid newsletter reporters paddling between the "Broken Islands">
 
-Once, a heavy motorboat sped through the bay and created an
+One time, a heavy motorboat sped through the bay and created a single
 approximately 1-meter high, leisurely wave, which I called a
 "tsunami," that slowly approached the kayak. We paddled quickly to
 turn the boat in the same direction. Fortunately, the kayak guide had
 warned us about this beforehand; otherwise, we might have taken a
 cold bath. The kayak guide said it supposedly happens about twice a
-year, and he always has to pull people out because, as tourists, we
-haven't yet mastered the Eskimo roll.
+year, and he always has to pull people out because tourists aren't trained to
+master the Eskimo roll.
 
-<pic images/starfish.ps The kayak guide brought two starfish into the
-boat.>
+<pic images/starfish.ps The kayak guide brought two starfish into the boat.>
 
 The amazing kayak guide, a globetrotter who had spent a long time in
 New Zealand, told stories for hours during the trip and explained
@@ -314,7 +301,8 @@ were absent.
 
 <pic images/humpback-whale.ps A humpback whale is diving deep.>
 
-During a tour a few weeks earlier, a humpback whale had come too
+We learned that
+during a tour a few weeks earlier, a humpback whale had come too
 close to a kayak, and the kayak tourists had nearly capsized and
 fallen into the water out of fright. On the way back home in the
 shuttle boat, we did see some whales splashing around, including a
@@ -323,15 +311,16 @@ routinely.
 
 @Z: Teenagers and Alcohol
 
-<pic images/alk-chug.ps The young man gulps down the hard-to-access
-alcohol greedily, like a camel dying of thirst in the desert.>
+<pic images/alk-chug.ps The young man gulps down the hard-to-access alcohol greedily, like a camel dying of thirst in the desert.>
 
 <em>Michael</em> 
 We are back in San Francisco! One of the most absurd laws in the USA
 prohibits young adults under the age of 21 from consuming alcohol.
 Just imagine: a twenty-year-old adult can buy a house, join the army,
-or purchase a weapon, but cannot buy a beer in the supermarket.
+or purchase a weapon, but cannot buy a beer at the supermarket.
 However, like all absurd laws, it is constantly circumvented.
+
+TODO
 
 When I was traveling in America a good twenty years ago, my study
 buddy Huber and I arrived in a small town where Huber knew an
