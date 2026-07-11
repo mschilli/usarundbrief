@@ -320,20 +320,17 @@ which is considered the alternative Chinatown among locals.
 
 <pic images/clement-4.ps Chinese restaurant on Clement Street.>
 
-TODO
-
 Clement Street is located in the "Inner Richmond" neighborhood, and
-since few tourists venture here, there are no kitschy souvenir shops
+since few tourists venture there, there are no kitschy souvenir shops
 with cheap San Francisco T-shirts or cable car memorabilia. The
 atmosphere is generally less hectic, and although the street is often
 shrouded in the infamous San Francisco fog, it offers a variety of
-restaurants, small grocery stores, a fish market, fabric markets,
+restaurants, small grocery stores, a fish market, fabric shops,
 household goods stores, and the occasional upscale shop, such as
 "April in Paris," which makes and sells handmade leather products,
 between Arguello and Park Presidio Boulevard.
 
-<pic images/clement-3.ps Vietnamese beef broth with meat and
-sprouts.>
+<pic images/clement-3.ps Vietnamese beef broth with meat and sprouts.>
 
 Although Chinese influences dominate, the neighborhood is more
 complex than the Chinatown in the downtown area. Here, too, roasted
@@ -341,48 +338,42 @@ ducks hang in the shop windows, and vegetables and fruits are stacked
 on makeshift wooden shelves in front of the stores. You can also find
 restaurants from neighboring Asian countries here. For example, our
 favorite restaurant on Clement Street is a Vietnamese restaurant with
-the beautiful name...
-<LINK>http://www.lesoleilusa.com|Le Soleil" translates to "The Sun"
-in English.</LINK>
+the beautiful name <LINK>http://www.lesoleilusa.com|Le Soleil</LINK>
 Here, we happily slurp a fine noodle soup, and to start, we usually
 order Vietnamese imperial rolls, a type of crispy spring roll that is
 wrapped in lettuce leaves and dipped in sweet and sour sauce.
 
-<pic images/clement-schuberts.ps The Schubert's pastry shop on
-Clement Street.>
+<pic images/clement-schuberts.ps The Schubert's pastry shop on Clement Street.>
 
-<LINK>http://www.schuberts-bakery.com/index2.php|"Schubert's"</LINK>
-A pastry shop on Clement Street, founded by a German and still run by
+Then, there is
+<LINK>http://www.schuberts-bakery.com/index2.php|"Schubert's"</LINK>,
+a pastry shop on Clement Street, founded by a German and still run by
 a German owner, has been baking delicious cakes and cookies since
-1911 and selling them in a cafÃ©. Their products have nothing in
-common with the sweet, cardboard-like stuff that American
+1911 and selling them a the café. Their products have nothing in
+common with the sweet, cardboard-like food that American
 supermarkets sell under the name "cake," but are rather aligned with
 European standards.
+
 <LINK>http://www.haigsdelicacies.com|Haig's Delicacies</LINK>
-It has homemade delicious hummus and Turkish delicacies, as well as
+has homemade delicious hummus and Turkish delicacies, as well as
 Dutch products in its assortment. I actually found my favorite Dutch
-cookies in the store, which I always ate as a child during our
-holidays in Holland. I could hardly believe my luck. The store even
+cookies in the store, which I always enjoyed as a child during our
+vacations in Holland. I could hardly believe my luck. The store even
 carries the Dutch chocolate sprinkles that you spread on bread like
 Nutella in Holland.
 
-<pic images/clement-20.ps The translation of "Hier scheint's was
-umsonst zu geben" to English is "It seems there's something for free
-here.>
+<pic images/clement-20.ps It seems there's something for free here.>
 
-The translation of "Auch das BuchgeschÃ¤ft" to English is "The book
-business as well" or "The book trade as well.
-<LINK>http://www.greenapplebooks.com|Green Apple" is already in
-English.</LINK>
-You can find it on Clement Street, one of the few remaining
+If you're into books, you can find
+<LINK>http://www.greenapplebooks.com|Green Apple</LINK>
+on Clement Street, one of the few remaining
 independent bookstores in San Francisco. It opened its doors in 1967
-and is known for its good selection of used books. If you enjoyed
+and is known for its great selection of used books. If you enjoyed
 Chinatown and are looking for even more exotic and, above all,
 authentic shops that even long-time San Francisco experts still
 appreciate, a trip to Clement Street is definitely worthwhile.
 
-@Z: The translation of "Meilensteine amerikanischen Humors" to
-English is "Milestones of American Humor.
+@Z: Milestones Of American Humor
 
 <pic images/knock-knock-joke.ps Knock-knock!" "Who's there?>
 
@@ -392,6 +383,8 @@ unknown in Germany, but it amuses people not only in the USA, but
 also throughout the English-speaking world as well as in France and
 Belgium. The joke consists of five lines, which are spoken
 alternately by the joke teller and the listener.
+
+TODO
 
 The person telling the joke starts with "Knock, knock?" and the
 attentive listener now knows that a knock-knock joke is coming and
