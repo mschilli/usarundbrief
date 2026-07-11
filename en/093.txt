@@ -89,8 +89,6 @@ research, I couldn't find a satisfactory answer as to why this is the
 case. In any case, on the second day on the island, we saw a total of three bears,
 all leisurely nibbling on grass by the roadside.
 
-TODO
-
 That seems to be a popular activity for black bears. Since we were at
 a safe distance and in our car, we were able to take photos at our
 leisure. Then another tourist stopped behind us, and to our horror,
@@ -102,15 +100,14 @@ can do. Bears usually notice people from a distance and ignore them
 because they have a keen sense of smell. However, if you get too
 close and they feel threatened, it usually ends badly.
 
-<pic images/vi-blackbear.ps A small black bear is wandering around on
-a dirt road near the street.>
+<pic images/vi-blackbear.ps A small black bear is wandering around on a dirt road near the street.>
 
 During our trip, we saw on average one to two bears daily, especially
 when we were in the northern part of the island, as the conditions
 there are particularly idyllic: forests as far as the eye can see and
 hardly any people. Once, we were hiking through dense forest, came to
 a clearing, and saw a bear in a meadow, maybe 100 meters away.
-Fortunately, there was a stream between us. The most absurd encounter
+Fortunately, there was a creek between us. The most absurd encounter
 with a black bear we had was when we were comfortably settled in a
 pub in the small town of Telegraph Cove. The town is built on stilts
 in the water at the edge of a bay, and wooden walkways connect the
@@ -120,33 +117,28 @@ water, carrying a fish in its mouth, and was leisurely strolling over
 the village's wooden walkways towards the forest. Even the pub staff
 seemed surprised and confirmed that this had never happened before.
 
-The residents of Vancouver Island generally live in peaceful
+Residents of Vancouver Island generally live in peaceful
 coexistence with their bears. While in Alaska, we always carried a
-can of bear spray on the advice of the locals.
-<RBLINK>20060529#8</RBLINK>
+can of bear spray on the advice of locals (<RBLINK>20060529#8</RBLINK>).
 On Vancouver Island, people are simply advised to make noise during
 encounters with bears so that the bear knows someone is coming. We
 always hiked obediently through the forest with bear bells on our
 backpacks, but we met many who did without these softly jingling
 safety precautions.
 
-@Z: People speak German in Tofino.
+@Z: People Speak German In Tofino
 
-<pic images/tofino-deutsch.ps The Canadian version of "Man spricht
-deutsh".>
+<pic images/tofino-deutsch.ps The Canadian version of "Man spricht deutsh".>
 
 <em>Michael</em> 
-On Vancouver Island, there are surprisingly many German tourist
-families walking around. It's not quite as bad as in...
-<LINK>http://de.wikipedia.org/wiki/Man_spricht_deutsh|Man spricht
-Deutsch" translates to "German is spoken" or "One speaks German" in
-English.</LINK>
-The behavior of our compatriots there, however, is not bad; they seem
+On Vancouver Island, we noticed a surprising number of German tourist
+families wandering around. It's not quite as bad as in
+<LINK>http://de.wikipedia.org/wiki/Man_spricht_deutsh|"Man spricht Deutsch"</LINK>,
+and the behavior of our compatriots there is not bad; they seem
 to be relatively well-educated couples in our somewhat more advanced
 age group, who speak English quite passably.
 
-<pic images/tofino-beach.ps Tofino: Fog drifts chase along its
-beaches.>
+<pic images/tofino-beach.ps Tofino: Fog drifting along the beach>
 
 What brings the average Joe to the Canadian wilderness? Canada itself
 is nowhere near as interesting as the USA. Canadian cities are all
@@ -155,20 +147,17 @@ They look as if they were developed in the 60s under social state
 planning. Architectural extravagance or true multiculturalism is
 completely lacking, although many Canadians don't see it that way.
 
-<pic images/vi-victoria-apt.ps Also Victoria, the largest city on
-Vancouver Island, is full of these typical Canadian residential
-silos.>
+<pic images/vi-victoria-apt.ps Victoria, the largest city on Vancouver Island, is full of these typical Canadian residential silos.>
 
-And Canada is insanely expensive; even we hipster metropolis yuppies
-have to add 30% on top. Who in Germany has the euros to throw around?
+And Canada is insanely expensive; even we as American hipster metropolis yuppies
+had to add 30% on San Francisco prices. Who in Germany has that many euros to throw around?
 Probably German civil servant teachers, who not only have endless
 vacations but also earn crazy salaries. The owner of the log cabin we
-rented for a few days confirmed, in any case, that about 65% of her
+rented for a few days confirmed that about 65% of her
 guests came from Germany (East or West, we asked, but she didn't
 know), and all of them wanted to see the bears.
 
-<pic images/tofino-surfers.ps Due to the cold water, the surfers in
-Tofino only surf in full-body wetsuits.>
+<pic images/tofino-surfers.ps Due to the cold water, surfers in Tofino only surf in full-body wetsuits.>
 
 In Tofino, there are also plenty of beginner surfers in July, against
 whom your humble narrator still looks quite sporty. The water
@@ -178,10 +167,11 @@ your heart. The weather was drizzly but very mild, the waves rather
 moderate, but in October, there is supposed to be a decent "swell"
 (surfer jargon for thick, regular, well-surfable waves).
 
-@Z: The Canadian tipping machine
+@Z: The Canadian Tipping Machine
 
-<pic images/cc-reader.ps Portable credit card reader that allows the
-server to process payments at the table.>
+<pic images/cc-reader.ps Portable credit card reader that allows the server to process payments at the table.>
+
+TODO
 
 <em>Michael</em> 
 There are some peculiarities to report from the Canadian gastronomy
