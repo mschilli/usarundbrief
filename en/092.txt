@@ -419,13 +419,10 @@ who says "He do" immediately reveals themselves as an outsider
 without a high school diploma, which is generally only considered
 cool among hopeless youths.
 
-TODO
-
 The double negation common in Bavarian ("I hab koa Goid ned") can
 also be found in casual upper-class American English. In the title
-<LINK>http://www.youtube.com/watch?v=yM9N30V4wnQ|Money" by Dr.
-Teeth</LINK>
-From the Muppet Show, it goes, for example: "Don't need no loving',
+<LINK>http://www.youtube.com/watch?v=yM9N30V4wnQ|"Money" by Dr. Teeth</LINK>,
+from the Muppet Show, it goes, for example: "Don't need no loving',
 don't need no kissin', don't need no gal to call me honey" ("I don't
 need love, no kisses, and no girl to call me 'honey'").
 
@@ -443,8 +440,8 @@ don't always get it right. I naturally mark such findings immediately
 with a red pen and sometimes send them, accompanied by biting
 comments and mocking laughter, to the respective editorial offices.
 Regarding the difference between "who's" and "whose": "Who's" is the
-contraction of "who is," so you can write "Who's next?" ("Wer ist als
-NÃ¤chster dran?"). The word "whose," on the other hand, translates to
+contraction of "who is," so you can write "Who's next?" for "Who is next?"
+The word "whose," on the other hand, translates to
 "wessen" in German. So, it is correctly: "Whose car is this?"
 ("Wessen Auto ist das?").
 
@@ -455,11 +452,11 @@ five. On the other hand, "its" is a possessive pronoun, so you say
 end up if everyone just inserted apostrophes where they don't belong?
 That's almost as bad as "Erika's Hair Salon"!
 
-@Z: The translation of "Borge dir mein Auto!" to English is "Borrow
-my car!
+@Z: Borrow My Car!
 
-<pic images/carshare-city-1.ps The parking lot for the city car-share
-cars in our neighborhood.>
+<pic images/carshare-city-1.ps The parking lot for the city car-share cars in our neighborhood.>
+
+TODO
 
 <em>Angelika</em> 
 Americans generally have a rather relaxed attitude towards their
