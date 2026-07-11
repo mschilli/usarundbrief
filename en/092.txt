@@ -279,27 +279,26 @@ disguised as swimming upstream or against the current, i.e., starting the course
 
 <pic images/b2b-group-muni.ps Real San Franciscans, of course, take the Muni bus home after the Bay-to-Breakers.>
 
-TODO
-
-You can already see that the Bay-to-Breakers cannot be compared to
+You can already see that Bay-to-Breakers cannot be compared to
 any other race in the world. Unfortunately, there are now a few
 spoilsports living in San Francisco who have been trying for several
 years to turn the race into a run-of-the-mill event for Mr. and Mrs.
 Clean. As always with large gatherings of people, a few go overboard
 and drink too much alcohol or behave inappropriately. A particular
 annoyance for many residents living in houses along the route is that
-drunk participants sometimes misuse the front gardens as urinals.
-Now, I can understand that this is annoying, but on the other hand,
+drunk participants sometimes misuse their front yards as urinals.
+Now, while I can understand that this is annoying,
 the Bay-to-Breakers only takes place once a year, and perhaps one
 should turn a blind eye or go on a trip if one is a party pooper.
+
 Since 2009, the organizers have been trying to enforce stricter
 regulations, with more or less success. Carrying and drinking alcohol
-during the race has been officially banned for two years, but no one
+during the race has been officially banned for two years now, but no one
 has adhered to it so far. Initially, the organizer introduced a fee
 for the so-called "floats," small decorated handcarts that usually
 contained a keg of beer. This year, they were completely banned, and
 alcohol was confiscated in general. The sponsor had even hired
-private security forces in addition to the police for this purpose.
+private security forces in addition to the usually present police for this purpose.
 There were also sobering-up tents along the route. Additionally, the
 race did not start at 8 a.m. as usual, but at 7 a.m. The underlying
 strategy was probably that party lovers do not like to get up early.
@@ -308,8 +307,7 @@ event's special flair.
 
 @Z: San Francisco Views: Clement Street
 
-<pic images/clement-10.ps Delicious roasted ducks in the display
-window on Clement Street.>
+<pic images/clement-10.ps Delicious roasted ducks in the display window on Clement Street.>
 
 <em>Angelika</em> 
 Everyone knows San Francisco's famous "Chinatown" neighborhood,
@@ -321,6 +319,8 @@ culinary delights. However, true connoisseurs head to Clement Street,
 which is considered the alternative Chinatown among locals.
 
 <pic images/clement-4.ps Chinese restaurant on Clement Street.>
+
+TODO
 
 Clement Street is located in the "Inner Richmond" neighborhood, and
 since few tourists venture here, there are no kitschy souvenir shops
