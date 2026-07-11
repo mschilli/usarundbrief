@@ -456,25 +456,24 @@ That's almost as bad as "Erika's Hair Salon"!
 
 <pic images/carshare-city-1.ps The parking lot for the city car-share cars in our neighborhood.>
 
-TODO
-
 <em>Angelika</em> 
 Americans generally have a rather relaxed attitude towards their
 cars. A car is a utility item that reliably and comfortably gets you
 to work or from point A to point B. Most people don't mind if their
 car gets a few scratches and might even bump into the bumper of the
-car in front or behind them while parking. Renting cars is widespread
+car in front or behind of them while parking. Renting cars is widespread
 because, to cover the large distances in the country, flying is often
 the fastest mode of transportation, and then people simply rent a car
 from one of the major car rental companies on site. Additionally,
-there are often no real alternatives, as the public transportation
-system leaves much to be desired in many areas. Since there is
+there are often no real alternatives, as public transportation
+leaves much to be desired in many areas. Since there is
 significant competition among car rental companies like Hertz, Alamo,
 Avis, or Dollar, customers can often enjoy good deals. Small cars
 often cost less than twenty dollars per day.
 
-<pic images/carshare-city-2.ps A car-share vehicle that members can
-easily book and drive.>
+<pic images/carshare-city-2.ps A car-share vehicle that members can easily book and drive.>
+
+TODO
 
 For several years now, the concept of "carsharing" has become
 established in larger American cities like Boston, New York,
