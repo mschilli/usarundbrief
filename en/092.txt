@@ -473,64 +473,58 @@ often cost less than twenty dollars per day.
 
 <pic images/carshare-city-2.ps A car-share vehicle that members can easily book and drive.>
 
-TODO
-
 For several years now, the concept of "carsharing" has become
 established in larger American cities like Boston, New York,
 Portland, and San Francisco. It was designed especially for people
-who need a car only for a short period (for example, for several
+who need a car only for a short time (for example, for several
 hours). The cars from carsharing companies are not picked up at large
 central locations like airports but are parked locally in various
-neighborhoods of the city. The car borrower picks up the car at the
+neighborhoods of the city. The customer picks up the car at the
 most convenient location for them, without having to deal with any
 annoying rental service staff about purchasing additional insurance
 packages.
 
-The registration is usually done via the internet. You enter when and
+Reservations are usually done via the internet. You enter when and
 for how long you want the car and where you will pick it up. The
 fleet typically has only a limited selection of car types. In San
-Francisco, hybrid cars seem to dominate. Here in San Francisco, the
-companies have...
-<LINK>http://www.zipcar.com|Zipcar</LINK>
-The German word "und" translates to "and" in English.
-<LINK>http://www.citycarshare.org|City Car Share</LINK>
-To borrow a car from Zipcar or City Car Share, the customer must
+Francisco, hybrid cars seem to dominate. Here in San Francisco, we have
+two car sharing companies, <LINK>http://www.zipcar.com|Zipcar</LINK> and
+<LINK>http://www.citycarshare.org|City Car Share</LINK>.
+To book a car from Zipcar or City Car Share, the customer must
 first sign up and become a member. Each company has different prices
-and plans. For example, at Zipcar in San Francisco, the membership
+and plans. For example, at Zipcar in San Francisco, membership
 costs $60 per year without a monthly obligation to rent a Zipcar.
 Renting a car then costs $7.75 per hour, with insurance, gas, and 180
-free miles included in the price. At Zipcar, the Zipcard opens the
+free miles included. At Zipcar, the Zipcard opens the
 car; you simply hold the card up to the windshield, and a small
 reader scans the card code.
 
 Now you will say, "That's all old news!" and you are of course right,
 the idea of "carsharing" comes from Europe and has long been
-established there. I actually wanted to report on a new idea.
-Recently, a brochure from...
-<LINK>http://relayrides.com|Relay Rides</LINK>
-Into the house. These clever foxes thought: Not everyone drives their
+established there. But I actually wanted to report on a new idea.
+Recently, a brochure from <LINK>http://relayrides.com|Relay Rides</LINK> came
+to our house. These clever foxes thought: Not everyone drives their
 car 24 hours a day, so why not offer a service that helps neighbors
 lend their cars to each other? "Relay Rides" brings lenders and
 borrowers together and provides insurance for both parties, as well
 as technology to eliminate the hassle of handing over keys.
 
-<pic images/carshare-borrow.ps The new car-sharing idea: "Borrow my
-Car>
+<pic images/carshare-borrow.ps The new car-sharing idea: "Borrow my Car>
 
-The person who wants to rent out their car signs up with "Relay
-Rides" and sets the price for renting their car. The older the car
+If an owner wants to rent out their car, they sign up with "Relay
+Rides" and set the price. The older the car
 being rented out, the less the car owner is allowed to charge. "Relay
 Rides" then retains 15% of the amount plus an additional fee for
-insurance. Gasoline and 20 free miles per hour or 160 miles per day
+insurance. gas and 20 free miles per hour or 160 miles per day
 are included.
 
-If an accident happens, the car owner doesn't need to worry about
+If there's an accident, the car owner doesn't need to worry about
 their insurance premium increasing, because everything is handled
 through Relay Rides' insurance. The car owner, of course, keeps their
-regular insurance, as Relay Rides only insures the trips of the car
-borrower. To help the borrower find the car more easily, removable
-large stickers with the slogan "Borrow my Car" are placed on the car.
-Anyone can make their car available as long as it meets the standard
+regular insurance, as Relay Rides only insures renters on trips.
+To help the renter finding cars more easily, removable
+large stickers with the slogan "Borrow my Car" are placed on it.
+Anyone can make their car available as long as it meets standard
 safety regulations. However, we can no longer lend out our old second
 car "Perly Perlman" because it doesn't have electronic central
 locking. We still have to open the doors the old-fashioned way with a
@@ -541,7 +535,4 @@ seems to be getting off to a good start.
 
 Greetings from the land of never-ending ideas:
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
