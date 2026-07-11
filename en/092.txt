@@ -384,8 +384,6 @@ also throughout the English-speaking world as well as in France and
 Belgium. The joke consists of five lines, which are spoken
 alternately by the joke teller and the listener.
 
-TODO
-
 The person telling the joke starts with "Knock, knock?" and the
 attentive listener now knows that a knock-knock joke is coming and
 curiously asks, "Who's there?" The storyteller then says, for
@@ -409,10 +407,9 @@ Here's one more: "Knock, knock." "Who's there?" "Adolf." "Adolf who?"
 "Adolph ball hit me in de mowf." (sounds like "a golf ball hit me in
 the mouth").
 
-@Z: Falsches Englisch" translates to "Incorrect English" in English.
+@Z: Incorrect English
 
-<pic images/english-cowboy.ps This irritable gentleman would
-certainly not appreciate it if someone corrected his poor English.>
+<pic images/english-cowboy.ps This irritable gentleman would certainly not appreciate it if someone corrected his poor English.>
 
 <em>Michael</em> 
 Americans sometimes deliberately speak incorrect English either to
@@ -421,6 +418,8 @@ English often displayed by beneficiaries of social housing. Anyone
 who says "He do" immediately reveals themselves as an outsider
 without a high school diploma, which is generally only considered
 cool among hopeless youths.
+
+TODO
 
 The double negation common in Bavarian ("I hab koa Goid ned") can
 also be found in casual upper-class American English. In the title
