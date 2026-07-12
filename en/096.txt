@@ -127,41 +127,37 @@ primaries. Mitt Romney rightly points out that Santorum has no chance
 against Obama. Whether the Republican voters see it the same way will
 be revealed tomorrow.
 
-TODO
+@Z: Rents Are Skyrocketing
 
-@Z: Rents are skyrocketing
-
-<pic images/for-rent-chain.ps Rental prices are skyrocketing in San
-Francisco.>
+<pic images/for-rent-chain.ps Rental prices are skyrocketing in San Francisco.>
 
 <em>Angelika</em> 
 San Francisco is known to be an expensive place, especially when it
-comes to buying houses and renting. This is nothing new for our
+comes to buying houses or renting. This is nothing new for our
 long-time newsletter readers, but lately, the rental market has been
 going through the roof, and we are approaching New York City
-Manhattan levels. According to the...
-<LINK>http://www.noevalleyvoice.com/2012/February/Cost.htm|The title
-"Mitspiegel unserer Stadtteilzeitung Noe Valley Voice" translates to
-"Reflection of our Neighborhood Newspaper Noe Valley Voice" in
-English.</LINK>
-The rent is now between $2100 and $6000, and the average rent in
+Manhattan levels. According to our
+<LINK>http://www.noevalleyvoice.com/2012/February/Cost.htm|neighborhood newspaper Noe Valley Voice</LINK>,
+rent Noe Valley is now between $2100 and $6000, and the average rent in
 January of this year was $3525 per month. In January 2011, the
-average monthly price in our neighborhood was still $2745.
+average monthly rent  in our neighborhood was still $2745.
 
 Admittedly, Noe Valley is a sought-after residential area, and the
 $6,000 apartment is certainly a luxury property, but apartments
 currently going for $3,000 a month in Noe Valley are by no means
-super-equipped or large; often the tenant has to pay extra for the
-garage, or there is no garage at all. However, rents are also
+super-equipped or large; often the tenant has to pay extra for a
+garage spot, or there is no garage at all. However, rents are also
 skyrocketing in other neighborhoods in San Francisco. The average
-price for a three-bedroom apartment citywide is currently almost
+price for a two-bedroom apartment citywide is currently almost
 $3,000. Many are already talking about a new tech boom. Not only are
 new start-up companies being founded, but companies like Facebook,
 LinkedIn, and Yelp are also going public, potentially creating a few
-thousand millionaires who then enter the housing and rental market
+thousand new millionaires who then enter the housing and rental market
 without having to worry about the price.
 
 <pic images/for-rent.ps Seen only rarely these days: Tenant wanted.>
+
+TODO
 
 Other well-established companies like Google and Apple also pay their
 employees nice salaries, and they don't bat an eye when they have to
