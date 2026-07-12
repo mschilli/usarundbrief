@@ -157,24 +157,20 @@ without having to worry about the price.
 
 <pic images/for-rent.ps Seen only rarely these days: Tenant wanted.>
 
-TODO
-
 Other well-established companies like Google and Apple also pay their
-employees nice salaries, and they don't bat an eye when they have to
+employees nice salaries, who then don't bat an eye when they have to
 shell out $3500 for an apartment. Meanwhile, unpleasant practices are
 starting again, where tenants voluntarily pay higher rents just to
 secure a coveted apartment. The market is now so tight that there are
 only about 3% of apartments available in the city. Many landlords are
 also converting their houses or apartments into vacation rentals,
 which they rent out on a weekly basis, promising them higher income.
-We are so glad that we live in an apartment with rent control.
-<RBLINK>20000801#8</RBLINK>
-.
+We are so glad that we live in an apartment with rent control
+(<RBLINK>20000801#8</RBLINK>).
 
-@Z: Obama with a Hitler mustache
+@Z: Obama With a Hitler Mustache
 
-<pic images/obama-as-hitler.ps The translation to English is: "Obama
-with Hitler mustache Photo: flickr[Joe Wolf|joebehr/4473796360]>
+<pic images/obama-as-hitler.ps Obama with Hitler mustache Photo: flickr[Joe Wolf|joebehr/4473796360]>
 
 <em>Michael</em> 
 Recently, I was walking down 24th Street and was astonished to notice
@@ -183,6 +179,8 @@ Allegedly, Obama's healthcare reform is bringing Hitler-like
 conditions to America. Under the freedom of speech that applies in
 the USA, anyone is allowed to say such things, and most people simply
 ignored the booth with a smirk.
+
+TODO
 
 <LINK>http://www.mediaite.com/tv/whos-behind-the-obama-as-hitler-post
 ers|In the Internet|Who is behind the Obama-as-Hitler posters?</LINK>
