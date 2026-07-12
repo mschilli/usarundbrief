@@ -346,26 +346,21 @@ when his new acquaintance turns out to be white.
 
 @Z: Election Campaign Primaries
 
-TODO
-
 <em>Angelika</em> 
-We find ourselves once again in the election campaign. Although the
+We find ourselves once again in the middle of an election campaign. Although
 presidential elections are not until November 2012, the American
-system of primaries ("Primaries")
-<RBLINK>20080203#2</RBLINK>
-..has kicked off the election campaign. In the primaries, party
+system of primaries (<RBLINK>20080203#2</RBLINK>)
+has kicked off their election campaign. In the primaries, party
 members themselves decide who will be sent into the presidential race
 for their party. The first primaries will take place at the beginning
-of 2012. Since everything is already clear with the Democrats, as
+of 2012. Since everything is already set with the Democrats, as
 only Obama is running and his nomination is just a formality, all the
 focus is on the Republican candidates. The Republican base is
 concerned with only one thing: Who can succeed in defeating Obama?
 
-<pic images/mitt-romney-flickr-6149221622.ps The most promising
-Republican candidate, Mitt Romney. Photo: flickr [Gage
-Skidmore|gageskidmore/6149221622]>
+<pic images/mitt-romney-flickr-6149221622.ps The most promising Republican candidate, Mitt Romney. Photo: flickr [Gage Skidmore|gageskidmore/6149221622]>
 
-Mitt Romney is considered the candidate with the best chances, at
+Mitt Romney is considered to be the candidate with the best chances, at
 least when it comes to the general presidential election and not the
 primaries. Of course, this prediction is of no use to him if he
 doesn't win the primaries. Herein lies the dilemma: To reach the
@@ -379,14 +374,14 @@ slogans. However, to win the Republican primaries, Romney must also
 appeal to the more extreme elements within his party in today's
 climate, such as the religious right and the Tea Party movement.
 
-However, he held the office of Governor of Massachusetts from 2002 to
+Romney held the office of Governor of Massachusetts from 2002 to
 2007 and helped introduce universal health insurance in his state.
 The model in Massachusetts is very similar to the Obama model. But
 since almost all Republican candidates are strictly against the
 health reform initiated by Obama and even want to roll it back,
 Romney is now under pressure to explain himself. He also quickly
 adapted his previously moderate views on abortion and the equality of
-homosexuals, which were too moderate for some Republicans, to improve
+homosexuals, opinions too moderate for some Republicans, to improve
 his chances of winning. Many now accuse him of always changing his
 stance with the prevailing winds. On the plus side, many see that
 Romney was a successful businessman before he showed political
@@ -398,9 +393,7 @@ repeatedly bring up the fact that Romney is a Mormon. However, this
 seems to carry less weight than it did in 2008, when Romney ran
 before but McCain emerged as the winner in the primaries.
 
-<pic images/herman-cain-flickr-6256703238.ps For only 9 percent
-income tax: The Republican Herman Cain. Photo: flickr [Gage
-Skidmore|gageskidmore/6256703238]>
+<pic images/herman-cain-flickr-6256703238.ps For only 9 percent income tax: The Republican Herman Cain. Photo: flickr [Gage Skidmore|gageskidmore/6256703238]>
 
 Another dazzling personality is Herman Cain, who initially was not
 given any chances by anyone, but is now performing relatively well in
@@ -413,7 +406,7 @@ unfeasible, is nevertheless appealing to many, because Americans hate
 the complicated, convoluted tax laws with their associated
 exceptions.
 <LINK>http://www.hermancain.com/999plan|Herman Cain's Plan</LINK>
-The proposal only includes a flat tax rate of 9%, hence the name.
+includes a flat tax rate of only 9%, hence the name.
 Everyone pays 9% income tax, a national sales tax of 9% is
 introduced, and businesses are also taxed at 9%. However, Cain
 currently has other problems, as the press dug up an old story from
@@ -441,9 +434,7 @@ leads Perry's critics to repeatedly point out that under his
 leadership, Texas set the unfortunate record of having the highest
 percentage of uninsured citizens at 26%.
 
-<pic images/michelle-bachman-flickr-6254644721.ps The second Sarah
-Palin: Michele Bachmann. Photo: flickr[Gage
-Skidmore|gageskidmore/6254644721]>
+<pic images/michelle-bachman-flickr-6254644721.ps The second Sarah Palin: Michele Bachmann. Photo: flickr[Gage Skidmore|gageskidmore/6254644721]>
 
 Michele Bachmann was long considered the second Sarah Palin and
 received a lot of attention from the press before Rick Perry
@@ -456,11 +447,9 @@ affiliated with the Tea Party movement and has been serving in the
 U.S. House of Representatives since 2007 as one of the
 representatives from the state of Minnesota.
 
-<pic images/ron-paul-flickr-5449859622.ps Translation: "Wants to
-abolish the US Federal Reserve: the Republican Ron Paul. Photo:
-flickr[Gage Skidmore|gageskidmore/5449859622]>
+<pic images/ron-paul-flickr-5449859622.ps Translation: "Wants to abolish the US Federal Reserve: the Republican Ron Paul. Photo: flickr[Gage Skidmore|gageskidmore/5449859622]>
 
-Ron Paul is a doctor and a Texas representative in the American House
+Ron Paul is a doctor and a Texas representative in the House
 of Representatives. He is considered a free thinker with principles
 that seem somewhat utopian. His goal is to strictly adhere to the
 principles of the nation's founding fathers. He wants to keep the
@@ -473,8 +462,10 @@ align with the movement. He has loyal followers who do not only come
 from the right-wing camp, but he is considered an outsider, as he is
 unlikely to become president with these principles, even in extreme
 America. However, the man is consistent. For example, he stubbornly
-refuses to accept the pension payments that are due to Congress
+refuses to accept the pension payments available to Congress
 members at a certain age and after years of service.
+
+TODO
 
 Jon Huntsman may be the only Republican who could also find support
 among Europeans. He is considered a moderate (at least by American
