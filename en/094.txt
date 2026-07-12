@@ -571,7 +571,7 @@ color, in high resolution. The software still has some issues
 occasionally, but I'm sure the second-tier programmers at
 Süddeutsche will get that under control as well.
 
-<pic images/ipad-sz-magazin.ps The magazine of the Süddeutsche Zeitung, available on the iPad for $0.99.>
+<pic images/ipad-sz-magazin.ps The magazine of the Süddeutsche Zeitung, available on the iPad for 0.99 Dollars>
 
 In Germany, people are still finding it difficult to take this
 development seriously. I sometimes hear excuses like "Germany is not
