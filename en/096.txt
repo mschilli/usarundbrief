@@ -33,54 +33,47 @@ enforcement officer from the "San Francisco Department of Traffic"
 entrance. If that is the case, a tow truck is called to tow the car
 away.
 
-TODO
-
-In our case, the situation was even more complicated because the Tow
-Desk informed me that Perly had been removed from private property
+In our case, the situation was even more complicated because the tow
+desk informed me that Perly had been removed from private property
 (!) by a private towing company called "Golden Gate Tow." We drove to
 their garage in the Bayview district and were allowed to take Perly
-Perlman home for a fee of 490 dollars for towing and storage. The
+Perlman home for a fee of 490 dollars to cover towing and storage. The
 contents of the glove compartment were scattered throughout the
 interior, and the ignition lock was half turned without a key.
 
-<pic images/gg-towing-window.ps For security reasons, the towing
-company only accepts the due fees behind bulletproof glass.>
+<pic images/gg-towing-window.ps For security reasons, the towing company only accepts the due fees behind bulletproof glass.>
 
-It seems that some young people from disadvantaged areas had gotten
+It seems that youth from disadvantaged areas had gotten
 into the car, used a lock pick to turn the ignition, drove around the
 area, and then parked it a kilometer away, right in the driveway in
 front of the double garage of a law-abiding citizen.
 
-My special hiding spot for the GPS, a hanging pouch in the trunk,
+My special hiding spot for the GPS unit, a hanging pouch in the trunk,
 wasn't found by the dimwits. Today's youth can't do anything right;
-they're too stupid even to break in! The towing service had checked,
+they're too stupid even to break into cars! The towing service had checked,
 as required, whether the car was reported stolen before towing it,
 but at that time, we still knew nothing about Perly Perlman's
-involuntary joyride. As required, the tow truck driver photographed
+involuntary joyride. As required, the tow truck driver had photographed
 Perly in front of the driveway and sent me the prints via email upon
-my request (Figure (#5)).
+request (Figure (#5)).
 
-<pic images/perly-stolen.ps (#5) The tow truck driver as a
-photographer: Stolen Perlman in front of someone's double garage.>
+<pic images/perly-stolen.ps (#5) The tow truck driver as a photographer: Stolen Perlman in front of someone's double garage.>
 
 At the impound lot, by the way, a big pit bull was on guard, and I
 had to pay the fee (at least they accepted credit cards) through a
 slot in a thick bulletproof glass window. For security reasons, they
 also wouldn't tell me the name of the caller, such cowards!
 
-<pic images/perly-console.ps A seemingly mentally challenged person
-removed the $65 radio.>
+<pic images/perly-console.ps A seemingly mentally challenged person removed the $65 radio.>
 
 Interestingly, just two weeks later, an apparently mentally disturbed
 person broke into Perly Perlman again and stole the radio that I had
 once bought on Amazon for 65 dollars. How crazy are the thieves in
 this city, really?
 
-@Z: The translation of "Vorwahlen 'Super Tuesday'" to English is
-"Primaries 'Super Tuesday'".
+@Z: Primaries "Super Tuesday"
 
-<pic images/santorum.ps Translation: "Surprise winner in some states:
-Rick Santorum Photo: flickr[Gage Skidmore|gageskidmore/6918187835]>
+<pic images/santorum.ps Surprise winner in some states: Rick Santorum Photo: flickr[Gage Skidmore|gageskidmore/6918187835]>
 
 <em>Angelika</em> 
 Tomorrow, on March 6th, the so-called "Super Tuesday" will take
@@ -95,7 +88,7 @@ many, as he was actually considered to have no chance due to his
 political views being deemed too extreme. For instance, he considers
 contraceptives dangerous and views public schools and universities
 with suspicion, as they supposedly feed the younger generation with
-immoral ideas. His wife and he homeschool their children. He believes
+immoral ideas. He and his wife homeschool their children. He believes
 climate change is a hoax and would like to soften the strict
 separation of church and state enshrined in the American
 Constitution. The man seems a bit like he's stuck in the 1950s. Or
@@ -127,12 +120,14 @@ her extreme party colleagues. Even in the Republican primaries, the
 moderate voter base is now staying home, allowing the extreme voters
 to take the lead. However, in a democracy, compromise is essential,
 and with extreme views alone, nothing works in the long run. While
-the Republican candidates are tearing each other apart, Obama is
+Republican candidates are tearing each other apart, Obama is
 pleased because his popularity ratings have risen since the
 Republicans have been engaging in a mudslinging contest during the
 primaries. Mitt Romney rightly points out that Santorum has no chance
 against Obama. Whether the Republican voters see it the same way will
 be revealed tomorrow.
+
+TODO
 
 @Z: Rents are skyrocketing
 
