@@ -465,8 +465,6 @@ America. However, the man is consistent. For example, he stubbornly
 refuses to accept the pension payments available to Congress
 members at a certain age and after years of service.
 
-TODO
-
 Jon Huntsman may be the only Republican who could also find support
 among Europeans. He is considered a moderate (at least by American
 standards and in comparison to the other candidates) and is the only
@@ -498,26 +496,20 @@ Mexico. A surprisingly liberal move for a Republican.
 
 There is no shortage of candidates. However, when the actual
 primaries finally begin, the wheat is quickly separated from the
-chaff, because the American election campaign is expensive, and many
-only make it to the primaries in the first states. Candidates find it
+chaff, because election campaignsare expensive, and many candidates
+only make it to the primaries in the initial states. Candidates find it
 difficult to raise campaign funds if they are not leading in the
 primaries. Two other candidates, Thaddeus McCotter and Tim Pawlenty,
 already dropped out in August and September for this reason.
 
-@Z: The translation of "Mit den Fingern zÃ¤hlen" to English is
-"Counting with fingers.
+@Z: Counting With Fingers
 
-<pic images/count-three.ps (#13) The translation of the sentence "So
-signalisiert man auf amerikanisch die Zahl Drei" to English is: "This
-is how you signal the number three in American.>
+<pic images/count-three.ps (#13) This is how you signal the number three in American.>
 
 <em>Michael</em> 
 At the latest since the Tarantino film
-<LINK>http://en.wikipedia.org/wiki/Inglourious_Basterds|Inglourious
-Basterds" is the title of a film by Quentin Tarantino and is
-intentionally misspelled. The correct English translation of the
-intended phrase would be "Inglorious Bastards.</LINK>
-In which an American spy gives himself away by ordering three beers
+<LINK>http://en.wikipedia.org/wiki/Inglourious_Basterds|"Inglourious Basterds"</LINK>
+in which an American spy gives himself away by ordering three beers
 with the wrong fingers, it should be clear that Americans and Germans
 use different finger signs.
 
@@ -537,20 +529,20 @@ their thumb and holding both firmly at the bottom (see illustration
 And what does it mean when you only raise the index finger and the
 little finger, while keeping the middle and ring fingers folded down?
 Correct, that is the signal for "Four beers for the men from the
-sawmill.
+sawmill", of course!
 
-@Z: The End of the Paper Book
+@Z: The End Of The Paper Book
 
-<pic images/kindle-sarrazin.ps On the Kindle, you can read just like
-in a book.>
+<pic images/kindle-sarrazin.ps On the Kindle, you can read just like in a book.>
 
 <em>Michael</em> 
-From the revolution of the electronic Amazon book readers of the
-"Kindle" brand, we have already...
+As an avid newsletter reader, you've already read in
 <RBLINK>20110320#5</RBLINK>
-The translation to English is: "reported. In Germany, too, they seem
-to be catching up quickly; the German Amazon shipping offers a decent
-selection of current titles.
+about the revolution of the electronic Amazon book readers of the
+"Kindle" brand.
+In Germany, too, they seem
+to be catching on quickly; the German Amazon site offers a decent
+selection of contemporary titles.
 
 In my opinion, this development heralds a rapid end to all printed
 materials and bookstores. Soon, schoolchildren will incredulously
@@ -565,7 +557,7 @@ The advantages are obvious: Not only do you no longer have to lug
 around a kilo of books on vacation. If I need a page from a 1000-page
 Unix tome, I have it with me always and everywhere. New reading
 material can be found directly on the reading device, and you can
-purchase it there without any hassle, without even having to get up
+purchase it right there without any hassle, without even having to get up
 from the deck chair on the beach or the toilet seat. The transfer is
 wireless and free via the mobile network within a few minutes.
 Magazines are no longer subscribed to by mail; Amazon automatically
@@ -577,10 +569,9 @@ available, and for $0.99, the elaborately produced print work is
 wirelessly transferred to the reading device within a few minutes. In
 color, in high resolution. The software still has some issues
 occasionally, but I'm sure the second-tier programmers at
-SÃ¼ddeutsche will get that under control as well.
+Süddeutsche will get that under control as well.
 
-<pic images/ipad-sz-magazin.ps The magazine of the SÃ¼ddeutsche
-Zeitung, available on the iPad for $0.99.>
+<pic images/ipad-sz-magazin.ps The magazine of the Süddeutsche Zeitung, available on the iPad for $0.99.>
 
 In Germany, people are still finding it difficult to take this
 development seriously. I sometimes hear excuses like "Germany is not
@@ -593,7 +584,7 @@ plastering it with advertisements.
 
 However, the hesitant ones overlook a very important difference
 compared to back then: While a free culture prevails on the internet
-and it is considered unsporting to spend money on well-processed and
+and it is considered uncool to spend money on well-processed and
 presented content, most products on the Kindle or iPad do cost money,
 albeit not much, but real money. It is normal to pay small amounts
 for music or apps. Even the hacker magazine "2600," which I admire,
@@ -607,32 +598,28 @@ this is only the case if publishers are smart enough to set fair
 prices: Who would go through the trouble of downloading a pirated
 copy if the official book costs only a few euros?
 
-<pic images/kindle-on-loan.ps (#14) If you have borrowed a Kindle
-book, it is locked on your own Kindle.>
+<pic images/kindle-on-loan.ps (#14) If you have borrowed a Kindle book, it is locked on your own Kindle.>
 
 The Kindle amusingly also models established habits of traditional
 book readers: For example, you can lend a purchased book to a friend
 who owns a Kindle for two weeks. During this period, the copy remains
 locked on the lender's Kindle (Figure (#14)). Libraries can also
 purchase a number of copies of a digital book and lend them to their
-users. The...
-<LINK>http://www.jacksonfuller.com/2011/09/21/san-francisco-public-li
-brary-and-kindle-lending-my-personal-experience|Main branch of the
-San Francisco Public Library at the Civic Center now also lends
-Kindle books | SF Public Library lends Kindle eBooks</LINK>
-However, enthusiastic readers have already cleared out the digital
+users. The
+<LINK>http://www.jacksonfuller.com/2011/09/21/san-francisco-public-library-and-kindle-lending-my-personal-experience|Main branch of the San Francisco Public Library at the Civic Center now also lends
+Kindle books</LINK>.
+However, enthusiastic library users seem to have already cleared out the digital
 shelves, the quota seems to be exhausted, and people have signed up
 for waiting lists. It's actually a bizarre situation: The edition of
 a digital book, of which one could make an infinite number of copies
 for free, is artificially limited to mimic the constraints of printed
 publications.
 
-<pic images/sfpl-civic-center.ps The venerable San Francisco Public
-Library also lends electronic Kindle books.>
+<pic images/sfpl-civic-center.ps The venerable San Francisco Public Library also lends electronic Kindle books.>
 
 Conveniently, the Kindle remembers how far you've flipped through
 each book, so you never read a page twice, even if you're juggling 20
-books at once. And even better: The Kindle apps on different devices
+books at once. And even better: The Kindle apps on different devices do
 automatically sync, so if I'm reading a Kindle book at home on the
 iPad and later turn on a Kindle device on the bus, the Kindle asks if
 it should fast forward to where I left off on the iPad. The ability
@@ -640,9 +627,6 @@ to highlight sentences and write notes in the margins, with this data
 also being available on other reading devices later, completes the
 package.
 
-The phrase translates to: "Greetings from the Obama-tired country:
+Greetings from the Obama-tired country:
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
