@@ -217,7 +217,7 @@ to try to influence Congress (lobbying, see <RBLINK>20110624#2</RBLINK>)
 so that a federal law puts an end to the eternal back and forth.
 By the way, 2012 is the next election year.
 
-@Z: A Helmet For Playing Soccer.
+@Z: Americans Are Overly Cautious
 
 <pic images/soccer-helmet.ps Even when playing soccer, Americans are now supposed to wear a helmet.>
 
@@ -232,48 +232,39 @@ and promptly drove her back to her parents and explained to the
 astonished mother that children should only ride bikes under
 supervision. Crazy.
 
-TODO
-
 Therefore, I had to laugh quite a bit when I recently saw an
 advertisement for a helmet for playing soccer in a sports catalog.
-The
-<LINK>http://www.full90.com|Full 90" in English typically refers to
-playing the entire duration of a soccer or football match, which is
-90 minutes. It can also imply giving complete effort or being fully
-engaged throughout the match.</LINK>
-The top is open and it surrounds the head, I assume, to prevent
+The <LINK>http://www.full90.com|Full 90"</LINK> helmet
+surrounds the head with an open top, to, I assume, prevent
 concussions when players collide heads.
 
 Almost every cyclist in San Francisco wears a helmet (myself
-included, of course), so I wouldn't be surprised if the football
+included, of course), so I wouldn't be surprised if the soccer
 helmet catches on. In our soccer group that plays every Tuesday in
 the Mission District, I offered a $10 reward to the first person who
 wears the helmet and endures my mockery for 90 minutes.
 Unfortunately, no one took up the challenge.
 
-<pic images/american-football.ps Referees in American football are
-now blowing the whistle for serious fouls.>
+<pic images/american-football.ps Referees in American football are now blowing the whistle for serious fouls.>
 
 Even in the rough sport of American football, where fearsome,
-steak-fed muscle men clash over an egg-shaped ball in ridiculously
+steak-fed muscle men clash over an egg-shaped ball while wearing ridiculously
 thick shoulder pads, a safety craze has set in. After doctors
 determined that constant blows to the helmeted head are not exactly
 beneficial for the brain, certain maneuvers were banned. Recently,
-<LINK>http://www.youtube.com/watch?v=skj-u0XzxX8|The mighty
-linebacker Ndamukong Suh</LINK>
-The Detroit Lions, a sort of human battering ram, knocked down the
-slender quarterback of the "Bengals," Andy Dalton, after the ball was
+<LINK>http://www.youtube.com/watch?v=skj-u0XzxX8|the mighty linebacker Ndamukong Suh</LINK>
+of the Detroit Lions, a sort of human battering ram, knocked down the
+slender quarterback of the "Bengals," Andy Dalton, after the football was
 already gone. To the indignation of the sports world, the referee
 called this "unnecessary roughness." This would have been unthinkable
-30 years ago, back then even the so-called clothesline maneuver was
+30 years ago. Back then even the so-called clothesline maneuver was
 allowed, where a player runs past another with an arm extended
 sideways, bringing him down as if he had run into a taut clothesline.
 Those were the days!
 
-<pic images/fireworks-hut.ps In these huts, non-profit groups sell
-children's fireworks.>
+<pic images/fireworks-hut.ps In these huts, non-profit groups sell children's fireworks.>
 
-Even for fireworks meant for New Year's Eve or the 4th of July, city
+Even with fireworks meant for New Year's Eve or the 4th of July, city
 administrations are imposing strict safety regulations. Law-abiding
 citizens are allowed to purchase small rockets and table fireworks
 from officially approved stands. On the black market, shady
@@ -281,39 +272,32 @@ characters offer real firecrackers, mostly of Mexican production, but
 as you can see in illustration (#1), being caught with them can
 result in fines of up to $5,000.
 
-<pic images/fireworks-warning.ps (#1) Translation: "Anyone who buys
-real firecrackers instead of the lame state-approved fireworks can be
-fined up to 5,000 dollars.>
+<pic images/fireworks-warning.ps (#1) Anyone who buys real firecrackers instead of the lame state-approved fireworks can be fined up to 5,000 dollars.>
 
 @Z: Names and Origin
 
-<pic images/sf-ethnicity-school.ps Parents often give their children
-names that reflect their heritage.>
+<pic images/sf-ethnicity-school.ps Parents often give their children names that reflect their heritage.>
 
 <em>Michael</em> 
-The population in San Francisco is diverse. As once before in the...
-<RBLINK>20050701#2</RBLINK>
-The text translates to:
-
-"As mentioned, 44% of the population here are White, 31% Asian, 14%
-Latino, and 8% Black. The map in Figure (#1) shows that members of an
+The population in San Francisco is quite diverse. As I've mentioned before in
+<RBLINK>20050701#2</RBLINK>,
+44% of the population here are white, 31% asian, 14%
+latino, and 8% black. The map in Figure (#1) shows that members of an
 'ethnicity' often concentrate in specific neighborhoods. It should
-come as no surprise that mainly Asians settle in Chinatown and that
-predominantly Whites live in affluent neighborhoods like ours in Noe
-Valley. The Latinos (mainly South Americans) mostly live in the
-Mission district and in the southern part of the city, 'South San
-Francisco,' a somewhat more affordable area where, interestingly, a
+come as no surprise that mainly asians settle in Chinatown and that
+predominantly whites live in affluent neighborhoods like ours in Noe
+Valley. The latinos (mainly South Americans) mostly live in the
+Mission district. In the southern part of the city,
+there are somewhat more affordable areas where, interestingly, a
 very balanced mix of skin colors can be found. The blue centers on
-the map with predominantly Black populations are the neighborhoods of
+the map with predominantly black populations are the neighborhoods of
 Tenderloin, Hunters Point, and Sunnydale, which are unfortunately
 partly known as social hotspots.
 
-<pic images/sf-ethnicity.ps (#1) The translation of the text is:
-"Skin colors in San Francisco: Red: White, Blue: Black, Green: Asian,
-Orange: Latino. Graphic: flickr[Eric Fischer|walkingsf/4981425631]>
+<pic images/sf-ethnicity.ps (#1) Skin colors in San Francisco: red: white, blue: black, green: asian, orange: latino. Graphic: flickr[Eric Fischer|walkingsf/4981425631]>
 
 When you meet a person for the first time and have never seen a
-picture of them, most people inevitably form a mental image: male or
+picture of them, most people inevitably have already formed a mental image: male or
 female, old or young? If the person doesn't have an exotic name, in
 Germany you wouldn't even think about their skin color, as it would
 almost certainly be white.
@@ -327,25 +311,23 @@ Venkataraman" is Indian. A "Manuel Rodriguez" typically comes from
 South America, a "Latisha Smith" is most likely an African American,
 and an "Eric Schmidt" could be a third-generation German immigrant.
 
-<pic images/freak.ps Freakonomics" by Steven D. Levitt and Stephen J.
-Dubner>
+<pic images/freak.ps "Freakonomics" by Steven D. Levitt and Stephen J. Dubner>
 
 This inevitably leads to interesting questions, for example, during
 the hiring process in a company: In the USA, resumes do not include a
-photo to prevent discrimination based on appearance. However, the
+photo to prevent discrimination based on appearance. However, a candidate's
 origin often becomes apparent through the first or last name, raising
 the question of which first names parents from disadvantaged
 communities should choose for their children to boost their
 professional careers. Should they opt for a more traditionally white
 name like "Greg" or "Britney," or follow tradition with names like
-"Rigoberto" or "Guadalupe" in the Latino community, or "Tyrone" or
-"Latisha" in the Black community?
+"Rigoberto" or "Guadalupe" in the latino community, or "Tyrone" or
+"Latisha" in the black community?
 
 The authors of the bestseller
 <LINK>http://www.amazon.com/dp/0060731338|"Freakonomics"</LINK>
-already discussed in
-<RBLINK>20050925#7</RBLINK>
-For several years now, it has been found that first names alone
+(already discussed in <RBLINK>20050925#7</RBLINK>) report that
+for several years now, it has been found that first names alone
 cannot be directly linked to success or failure in life in a causal
 way. However, it has been proven that the Tyrones and Latishas of
 this world perform worse than the Gregs and Britneys. Why is that?
@@ -362,8 +344,9 @@ because he has a date with a "Donna Chang," whom he only knows from
 the phone. He assumes she is Asian, but is later completely surprised
 when his new acquaintance turns out to be white.
 
-@Z: Wahlkampf Primaries" translates to "election campaign primaries"
-in English.
+@Z: Election Campaign Primaries
+
+TODO
 
 <em>Angelika</em> 
 We find ourselves once again in the election campaign. Although the
