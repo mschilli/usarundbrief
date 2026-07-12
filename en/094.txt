@@ -112,35 +112,27 @@ local "Whole Foods" once asked me if the leek on the conveyor belt
 was intended for immediate consumption. I vehemently denied it to
 avoid having to pay tax on the leek!
 
-TODO
-
-The different percentages are calculated from the base rate for
+The different sales tax rates are calculated from the base rate for
 California (7.25%) and the rate added by the county. For example, San
 Francisco County charges an additional 1.25%, while South San
-Francisco settles for 1%. According to the regulations, the maximum
-is
-<LINK>http://en.wikipedia.org/wiki/Sales_taxes_in_the_United_States#T
-exas|The translation to English is: "Federal State Regulations |
-Sales Tax Breakdown by State</LINK>
-For California, 9.75% is allowed. The county can therefore add a
-maximum of 2.5% to the state rate. Two counties in the Los Angeles
-area are pushing the limit: Stores in Pico Rivera and South Gate
+Francisco in San Mateo County settles for 1%. According to
+<LINK>http://en.wikipedia.org/wiki/Sales_taxes_in_the_United_States|state regulations</LINK>,
+the maximum allowed sales tax rate for California is 9.75%. The county can therefore add a
+maximum of 2.5% to the state's base rate. Two counties in the Los Angeles
+area are going to the limit: Stores in Pico Rivera and South Gate
 would charge a straight $10.95 for the $9.99 T-shirt!
 
-Jeder Bundesstaat legt" translates to "Each federal state determines"
-in English.
-<LINK>http://en.wikipedia.org/wiki/Sales_taxes_in_the_United_States#T
-exas|Different regulations|Sales tax by state|</LINK>
-For the base rate and the maximum percentage. Alaska, Delaware, New
-Hampshire, Montana, and Oregon do not impose any sales tax and also
+Each state sets individual percentages for 
+the base rate and the maximum percentage. Alaska, Delaware, New
+Hampshire, Montana, and Oregon do not impose any sales tax at all and also
 prohibit their counties from doing so. Additionally, the tax is only
-applicable if the goods are 'consumed' in the taxable state. A
+applicable if the goods are 'consumed' in a taxable state. Also, a
 customer does not have to pay sales tax on an iPod purchased in the
 state and delivered to California if they immediately send it as a
 gift to their ungrateful nephews in Germany.
 
-Well, when it comes to the previously mentioned small amounts of
-money when buying a T-shirt, hardly anyone cares, but if an LCD TV
+When it comes to the previously mentioned small amounts of
+sales tax when buying a T-shirt, hardly anyone cares, but if an LCD TV
 suddenly costs $1,097.50 instead of $1,000, the average consumer
 starts thinking and finds ways to bypass the $97.50 tax owed to the
 state of California. The easiest way: order online from Amazon.
@@ -148,27 +140,22 @@ state of California. The easiest way: order online from Amazon.
 
 @Z: How Amazon Circumvents Sales Tax
 
-<pic images/online-shopping.ps Will these two crooks end up paying
-the California sales tax on their Amazon purchases afterwards?>
+<pic images/online-shopping.ps Will these two crooks end up paying the California sales tax on their Amazon purchases afterwards?>
 
 <em>Michael</em> 
 The mega-retailer Amazon is headquartered near Seattle in the state
 of Washington, one of the few remaining sales tax havens in America.
-And since the catalog retailer based in the state of Delaware...
-<LINK>http://en.wikipedia.org/wiki/Quill_Corp._v._North_Dakota|Quill
-1992 gegen den Staat North Dakota" translates to "Quill 1992 against
-the State of North Dakota" in English.</LINK>
-The translation to English is: "took the case to the Supreme Court
-and won, it is established that companies without a branch in the
+And since the catalog retailer Quill, which is based in the state of Delaware,
+took the case
+<LINK>http://en.wikipedia.org/wiki/Quill_Corp._v._North_Dakota|Quill 1992 vs. North Dakota</LINK>
+to the Supreme Court and won, it is established that companies without a branch in the
 state cannot be forced to collect the local sales tax.
 
-<pic images/amzn-sales-tax.ps Amazon is currently (as of October
-2011) withholding sales tax for customers from the states of Kansas,
-Kentucky, New York, North Dakota, and Washington.>
+<pic images/amzn-sales-tax.ps Amazon is currently (as of October 2011) withholding sales tax for customers from the states of Kansas, Kentucky, New York, North Dakota, and Washington.>
 
-This loophole is used by Amazon shipping to avoid collecting sales
-tax from eager shoppers in California. For decades, it has therefore
-avoided establishing a physical presence in California at all costs.
+This loophole is used by Amazon to avoid collecting sales
+tax from active shoppers in California. For decades, it has therefore
+carefully avoided establishing a physical presence in California.
 Most deliveries come by truck from a warehouse near the city of Reno
 on the Nevada side of the California border. And if you google
 "amazon digital music san francisco," you will see, for example, job
@@ -178,9 +165,7 @@ iTunes clone. Amazon has deliberately given the department a
 nondescript name so that it is not considered an Amazon branch in
 California.
 
-<pic images/jerry-brown-flickr-5403438991.ps Governor Jerry Brown
-wants Amazon to collect sales tax in California and fill his state's
-coffers. Photo: flickr [Neon Tommy|neontommy/5403438991]>
+<pic images/jerry-brown-flickr-5403438991.ps Governor Jerry Brown wants Amazon to collect sales tax in California and fill his state's coffers. Photo: flickr [Neon Tommy|neontommy/5403438991]>
 
 Californians are legally required to pay the saved amounts during the
 annual tax reconciliation in April, but many "forget" to do so. Due
@@ -190,24 +175,17 @@ to collect the tax. Amazon is resisting tooth and nail and can offer
 its goods in California almost 10% cheaper than local stores like
 Best Buy or Walmart. This, of course, infuriates the latter. If
 Amazon were to run radio ads like Media Markt in Germany, the slogan
-would be: "Sales tax? I'm not stupid!
+would be: "Sales tax? I'm not stupid!"
 
-<pic images/amzn-package.ps Amazon ships the packages from a
-warehouse outside the state of California to avoid the sales tax.>
+<pic images/amzn-package.ps Amazon ships packages from a warehouse outside the state of California to avoid the sales tax.>
 
-The above-mentioned Supreme Court ruling was made in 1998 during
-President Clinton's administration through the so-called...
-<LINK>http://www.cob.sjsu.edu/nellen_a/itfa.html|The "Federal
-Internet Tax Freedom Act (F-ITFA)" is already in English. It refers
-to a U.S. law that prohibits federal, state, and local governments
-from imposing taxes on internet access and discriminatory
-internet-only taxes.</LINK>
-The translation to English is: "strengthened. It prohibits states
-from imposing additional taxes on internet purchases. However, states
-are indeed allowed to pass laws that require online stores to
-already...
-<em>bestehenden</em> 
-The translation to English is: "To comply with sales tax regulations
+The above-mentioned Supreme Court ruling was rendered in 1998 during
+President Clinton's administration through the so-called
+<LINK>http://www.cob.sjsu.edu/nellen_a/itfa.html|Federal Internet Tax Freedom Act (F-ITFA)"</LINK>.
+It prohibits states
+from imposing additional tax on internet purchases. However, states
+are allowed to pass laws requiring online stores to
+to comply with already established sales tax regulations
 for regular stores. The state of New York enforced this in June 2008,
 and since then, New Yorkers have been paying sales tax on Amazon
 online orders.
@@ -221,46 +199,40 @@ my website perlmeister.com and include an Associates ID obtained from
 Amazon, I could earn up to 3% of the purchase price if someone
 follows my link and buys the book.
 
-<pic images/bezos-flickr-153327601.ps Amazon CEO Jeff Bezos has
-nothing to do with sales tax. Photo: flickr[JD
-Lasica|jdlasica/153327601].>
+<pic images/bezos-flickr-153327601.ps Amazon CEO Jeff Bezos wants nothing to do with sales tax. Photo: flickr[JD Lasica|jdlasica/153327601].>
 
-Translate to English: If these "Associates" are Californians, Jerry
-Brown found that Amazon suddenly has a presence in the state and must
+If these "Associates" are Californians, Jerry
+Brown found that Amazon now suddenly has a presence in the state and must
 collect sales tax. Amazon immediately responded in June 2011 by
 canceling the Associates program in California. The email signed by
 Jeff Bezos even mentioned violations by the state of California
 against the federal constitution! However, after a few weeks of
 dispute, it was agreed that Amazon would collect the tax.
-<LINK>http://online.wsj.com/article/SB1000142405297020413820457659888
-3358407422.html|Only from September 2012 | Amazon will collect
-California sales tax starting in September 2012.</LINK>
-Translate to English: "eintreiben muss. In early October 2011, Amazon
+<LINK>http://online.wsj.com/article/SB10001424052970204138204576598883358407422.html|From September 2012 on</LINK>
+Amazon will collect California sales tax.
+In early October 2011, Amazon
 sent a delighted email to all terminated Associates, assuring them
-that the program would now continue. By September 2012, Amazon plans
-to try to influence Congress (lobbying, see
-<RBLINK>20110624#2</RBLINK>
-...so that a federal law puts an end to the eternal back and forth.
+that the program would now be continued. By September 2012, Amazon plans
+to try to influence Congress (lobbying, see <RBLINK>20110624#2</RBLINK>)
+so that a federal law puts an end to the eternal back and forth.
 By the way, 2012 is the next election year.
 
-@Z: The helmet for playing soccer.
+@Z: A Helmet For Playing Soccer.
 
-<pic images/soccer-helmet.ps Even when playing soccer, Americans are
-now supposed to wear a helmet.>
+<pic images/soccer-helmet.ps Even when playing soccer, Americans are now supposed to wear a helmet.>
 
 <em>Michael</em> 
 It is known in Germany that microwaves in America are sold with a
 warning that they are not suitable for drying pets. And we have often
-mentioned that American schoolchildren usually do not ride bicycles
+mentioned that American schoolchildren usually don't ride bicycles
 or walk to school, and only the less fortunate use public
 transportation. Recently, a case from the state of Tennessee even
-made headlines, in which...
-<LINK>http://bikeportland.org/2011/09/01/neglect-charges-follow-10-ye
-ar-olds-bike-ride-in-tennessee-58426|A patrol officer stopped a
-10-year-old girl on her bicycle on the way to school.</LINK>
-... she promptly drove back to her parents and explained to the
+made headlines, in which <LINK>http://bikeportland.org/2011/09/01/neglect-charges-follow-10-year-olds-bike-ride-in-tennessee-58426|a patrol officer stopped a 10-year-old girl on her bicycle on the way to school.</LINK>
+and promptly drove her back to her parents and explained to the
 astonished mother that children should only ride bikes under
 supervision. Crazy.
+
+TODO
 
 Therefore, I had to laugh quite a bit when I recently saw an
 advertisement for a helmet for playing soccer in a sports catalog.
