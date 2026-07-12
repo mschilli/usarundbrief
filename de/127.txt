@@ -83,7 +83,7 @@ kostet viel Geld und Zeit.
 
 <pic images/skyline-smog.ps Wegen der Rauchschwaden des Camp-Feuers in Butte-County hängt Rauch über der Stadt.>
 
-@Z: Toppprodukt: Luftreiniger von Levoit
+@Z: Top-Produkt: Luftreiniger von Levoit
 
 <pic images/levoit.ps Der Raumluftreiniger gegen die rauchige Außenluft.> 
 

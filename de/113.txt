@@ -28,7 +28,7 @@ Florida, Hawaii, Maine, Utah, Vermont. In San Franciscos Chinatown gehört die
 flatternde Wäsche übrigens zum Stadtbild. Seit Jahr und Tag hängt dort
 schon die Wäsche draußen, Gesetz hin oder her.
 
-@Z: Toppprodukt: Der Schlüsselfinder von Tile
+@Z: Top-Produkt: Der Schlüsselfinder von Tile
 
 <pic images/tile-1.ps Der kleine Tile-Anhänger am Schlüsselbund hilft Schusseln bei der Suche.>
 

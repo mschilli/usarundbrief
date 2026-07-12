@@ -618,7 +618,7 @@ wo Arbeiter die faulen aussortieren und anschließend spezielle Roboter die
 guten in Plastikschachteln verpacken, in denen man sie später im Supermarkt
 sieht. Aber, wie gesagt, Augen auf beim Dattelkauf!
 
-@Z: Topp-Produkt: Zugsalbe "Prid"
+@Z: Top-Produkt: Zugsalbe "Prid"
 
 <pic images/prid.ps Die Zugsalbe "Prid" gegen eingefahrene Holzsplitter.>
 
@@ -650,7 +650,7 @@ Ich trug einen Batzen der Schlotze auf die Haut an der Stelle auf, in die der
 Splitter eingefahren war, machte ein Pflaster drauf und, siehe da, am nächsten
 Morgen lag der Splitter im Polster des Pflasters. Ein Wunderwerk der Medizin!
 Seitdem habe ich immer ein Döschen Prid im Medizinschrank und auch auf unserer
-Reiseliste darf sie nicht fehlen. Topp-Produkt!
+Reiseliste darf sie nicht fehlen. Top-Produkt!
 
 @Z: Aus für die BBG zur Staatsbürgerschaft
 

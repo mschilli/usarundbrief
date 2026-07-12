@@ -407,7 +407,7 @@ edlen Bonbons produziert, kurbelt meine Fantasie noch mehr an. Ich hab schon
 zwei Packungen erworben, und es ist kein Ende in Sicht, solange Costco das
 Produkt weiterführt.
 
-@Z: Topp-Produkt: Der faltbare Dämpfeinsatz
+@Z: Top-Produkt: Der faltbare Dämpfeinsatz
 
 <pic images/steam-basket-cook.ps Hier dämpft Michael köstliche Shumai-Klopse>
 
@@ -441,9 +441,9 @@ Durchmesser. Bisserl Wasser rein und los geht's.
 
 Bleibt dann am Ende zum Beispiel etwas Haut der Klopse in den Löchern hängen,
 mache ich mir keinen Kopf, sondern gebe das Teil einfach in die Spülmaschine. Wird
-blitzsauber und rostet nicht. Topp-Produkt!
+blitzsauber und rostet nicht. Top-Produkt!
 
-@Z: Topp-Produkt: Foodsaver
+@Z: Top-Produkt: Foodsaver
 
 <pic images/food-saver-vacuum.ps Delikate Shortrib-Stücke aus der Großpackung einzeln verschweißt.>
 
@@ -488,7 +488,7 @@ nicht vollsaut.
 Ersatzbeutelrollen sind nicht so billig wie die sonst üblichen Zip-Lock-Bags,
 denn sie bestehen aus dieser Spezialfolie, die bei Hitze verklebt. In größeren
 Mengen gekauft ist der Preis aber ganz vertretbar und so eine Schrumpfpackung
-kostet anteilig vielleicht 20 Cent.  Topp-Produkt!
+kostet anteilig vielleicht 20 Cent.  Top-Produkt!
 
 @Z: TSA -- Teilweise geschlossen
 

@@ -171,7 +171,7 @@ geht. "Doctor on Demand" ist übrigens eine Firma aus San Francisco. Wir sind ab
 auch weiterhin unserem guten alten Hausarzt treu und begeben uns
 brav in seine Praxis.
 
-@Z: Toppprodukt: Faltbare Cargo-Box 
+@Z: Top-Produkt: Faltbare Cargo-Box 
 
 <pic images/clever-crate.ps Michael hat im Costco-Supermarkt die zusammenfaltbare Kiste entdeckt.>
 
@@ -358,7 +358,7 @@ vorgeschrieben rationierten!  Es kam zur Anzeige, aber Magnum einigte sich mit
 dem Wasseramt außergerichtlich und erstattete die Kosten für den Privatdetektiv
 sowie eine unbezifferte Schadensersatzsumme.
 
-@Z: Toppprodukt: Rold Gold Salzbrezeln
+@Z: Top-Produkt: Rold Gold Salzbrezeln
 
 <pic images/pretzels-2.ps Ein Klassiker: Rold Gold Salzbrezeln>
 

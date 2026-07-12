@@ -59,7 +59,7 @@ hippen Stadtkids scheinen sie zu benutzen. Sogar die
 <LINK>https://www.nytimes.com/2019/03/17/style/citizen-neighborhood-crime-app.html|besorgten Hippies bei der New York Times</LINK> echauffieren sich schon. Sehr zu
 empfehlen!
 
-@Z: Toppprodukt "Stasher": Umweltfreundliche Plastikbeutel
+@Z: Top-Produkt "Stasher": Umweltfreundliche Plastikbeutel
 
 <pic images/hawaii-plastic-trash.ps Im Tropenparadies Hawaii schwemmt der Ozean Plastikmüll an, den die Anwohner regelmäßig einsammeln.>
 
