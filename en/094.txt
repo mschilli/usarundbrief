@@ -25,8 +25,6 @@ push for universal healthcare. Many see the Tea Party movement as a
 protest from the right and the Occupy Wall Street action as the
 counter-movement from the left.
 
-TODO
-
 The glaring difference, however, is that the Tea Party supporters
 wanted to be involved in politics from the very beginning and now
 play a significant role in the American Congress. They even influence
@@ -34,14 +32,12 @@ the upcoming presidential election, while the Occupy Wall Street
 group tends to keep its distance from political parties. In my
 opinion, this is a big mistake, as I fear that the entire movement
 might eventually dissipate. Overall, they make few concrete demands.
-The common denominator seems to be opposition to the big banks, which
+The common denominator seems to be opposition to big banks, which
 is somewhat short-sighted, as the misery of the ongoing economic
 crisis is much more complex and cannot be solved by closing accounts
 at Bank of America or Wells Fargo Bank.
 
-<pic images/occupy-oakland-city-hall.ps Protesters are occupying the
-plaza in front of the Oakland City Hall with tents. Photo:
-flickr[Clay@SU|Clay@SU/6316145786]>
+<pic images/occupy-oakland-city-hall.ps Protesters are occupying the plaza in front of the Oakland City Hall with tents. Photo: flickr[Clay@SU|Clay@SU/6316145786]>
 
 Interestingly, Oakland, the city on the other side of the Bay Bridge
 that always stands somewhat in the shadow of San Francisco, has
@@ -51,74 +47,72 @@ since one of the movement's sympathizers died in a shooting, which
 was likely the result of a personal dispute. The protesters are still
 camping in tents in front of Oakland City Hall and managed to shut
 down the Port of Oakland during a large demonstration in early
-November, which catapulted them into all the TV channels. However,
+November, which catapulted them into all TV channels. However,
 the tents are supposed to disappear in the coming days, as Mayor Jean
-Quan is increasingly under pressure. After the plaza in front of City
+Quan is increasingly under pressure. After the square in front of City
 Hall was cleared by the police once before, she allowed the
 protesters to settle again in their tents on Frank Ogawa Plaza.
 
-However, the medium-sized businesses and residents around the town
-hall have had enough. They claim that no one dares to go downtown in
-Oakland anymore and their revenues have dramatically decreased. Quan
+However, the medium-sized businesses and residents around town
+hall have had enough. They claim that no one dares to come to downtown
+Oakland anymore and their business has dramatically decreased. Quan
 hoped that the protesters would voluntarily leave. However, it was
-reported this morning that the so-called "riot police" cleared the
-square.
+reported this morning that riot police had cleared the square.
 
 In general, it remains exciting to see what will become of the
 movement in the various cities. To gain sustainable influence and
-bring about change, it seems that political institutions cannot be
-avoided. I have been saying for years that the USA urgently needs a
+bring about change, it seems that protesters would need to
+get involved in the political process.
+I have been saying for years that the USA urgently needs a
 more diverse party landscape, and much of the narrow-mindedness lies
 in the currently existing two-party system.
 
-@Z: Abenteuer Verkaufssteuer" translates to "Adventure Sales Tax" in
-English.
+@Z: Crazy Sales Tax
 
-<pic images/cash-register.ps At the checkout, in addition to the sale
-price, stores also collect sales tax.>
+<pic images/cash-register.ps At the checkout, in addition to the sale price, stores also collect sales tax.>
 
 <em>Michael</em> 
-Inexperienced German tourists in the USA are often surprised when a
+Inexperienced German tourists coming to the U. S. are often surprised when a
 T-shirt priced at $9.99 suddenly costs $10.84 at the checkout. The
-difference is due to the sales tax of the respective county. Similar
+difference is due to the sales tax levied by the respective county. Similar
 to how Germany uses value-added tax (VAT), the state uses this trick
 to tax already taxed income again. And just like in Germany, the
 seller is merely an intermediary, passing the tax collected from the
-customer to the tax office without benefiting from it themselves.
+customer to the tax man without benefiting from it themselves.
 Unlike in America, it would be illegal in Germany to add VAT for end
 consumers only at the checkout; the price on the label already
 includes VAT. Americans find it normal for the checkout to add an odd
 amount.
 
-You read it correctly before, the sales tax rate varies by county. If
+You read it correctly before, the sales tax rate varies from county to county. If
 I buy a T-shirt for $9.99, it costs $10.84 at the Macy's store in
 Union Square in downtown San Francisco because the tax rate in San
-Francisco County is 8.5%. However, the Macy's in the Serramonte
+Francisco County is 8.5%. However, the Macy's at the Serramonte
 Shopping Mall in South San Francisco (20 km south) only charges
-$10.81 because South San Francisco County sets the sales tax at
-8.25%. This may seem irrelevant to you, but a man like me has to
+$10.81 because South San Francisco is in San Mateo County which sets the sales tax at
+8.25%. While this may seem irrelevant to you, a man like me has to
 count every penny.
 
-<pic images/ca-sales-tax-target.ps (#2) 8.25% sales tax, but only on
-the sunscreen, not on the spices.>
+<pic images/ca-sales-tax-target.ps (#2) 8.25% sales tax, but only on the sunscreen, not on the spices.>
 
 In Figure (#2), you can see that I bought two spices and two bottles
 of sunscreen at the supermarket "Target." Spices are tax-free,
 whereas sunscreen is taxed at the usual rate of 8.25% in South San
-Francisco. And that's not all, if you look into the...
-<LINK>https://www.cdtfa.ca.gov/lawguides/vol1/sutr/sales-and-use-tax-
-regulations.html|Translation: "Legal regulations on sales tax | What
-is subject to sales tax and what is not.</LINK>
-The typical American bureaucracy madness comes to light, which people
+Francisco. And that's not all, if you look into the
+<LINK>https://www.cdtfa.ca.gov/lawguides/vol1/sutr/sales-and-use-tax-regulations.html|regulations on sales tax</LINK> which define what items are
+subject to sales tax and which are not,
+the typical American bureaucracy madness comes to light, which people
 in Germany know nothing about.
 
 In California, sales tax is typically not charged on groceries.
 However, if a supermarket or bakery sells hot food and the customer
 consumes it on a wooden bench in front of the store, the store must
 charge and remit taxes as if it were a restaurant. The cashier at our
-local "Whole Foods" even asked me if the leek on the conveyor belt
+local "Whole Foods" once asked me if the leek on the conveyor belt
 was intended for immediate consumption. I vehemently denied it to
 avoid having to pay tax on the leek!
+
+TODO
 
 The different percentages are calculated from the base rate for
 California (7.25%) and the rate added by the county. For example, San
