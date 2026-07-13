@@ -13,13 +13,11 @@ have already written extensively about him this year, and that's
 exactly what our esteemed President wants. So it's best to give him
 as little attention as possible.
 
-TODO
-
 The Christmas celebration in the traditional sense should always
 invite a bit of reflection and pause, and that's why I want to
 introduce you to a podcast produced by inmates at the notorious San
 Quentin Prison, which reports on life in a California prison. San
-Quentin is located 12 miles north of us on the San Francisco Bay and
+Quentin is located 12 miles north of us, next to the San Francisco Bay and
 is one of the oldest and largest prisons in California. Over 3,700
 men are incarcerated in San Quentin. The prison also has a unit where
 inmates sentenced to death are held. San Quentin is the only prison
@@ -32,7 +30,7 @@ initiatives through referendums to abolish the death penalty, but so
 far none have garnered a majority.
 
 Many believe that San Quentin is a maximum-security prison because it
-has death row. However, this does not apply to the other inmates.
+has a death row. However, this does not apply to the other inmates.
 California prisons follow a numerical categorization into four
 different security levels. In security level 1, inmates are housed in
 dormitories similar to youth hostels with bunk beds and only minimal
@@ -49,14 +47,15 @@ Those with 36 to 59 points are placed in a level 3 prison. And at
 level 4, the inmate has more than 59 points. The point system takes
 into account age, type of crime, gang membership, and so on.
 
-You might be wondering now how I know all of this, but that...
-<LINK>http://www.cdcr.ca.gov/Ombuds/Entering_a_Prison_FAQs.html|Calif
-ornia Department of Corrections and Rehabilitation</LINK>
-The system explains this in detail on its website. Many inmates want
+You might be wondering now how I know all of this, but I simply read
+the info page of the
+<LINK>http://www.cdcr.ca.gov/Ombuds/Entering_a_Prison_FAQs.html|California Department of Corrections and Rehabilitation</LINK>.
+The website explains the system in detail.
+Many inmates want
 to be transferred to San Quentin because the prison offers a variety
 of programs, such as gardening, yoga, a bicycle repair workshop,
 courses to manage aggression, and even the opportunity to earn a
-university degree. Additionally, the inmates publish a newspaper.
+university degree. Additionally, inmates publish a newspaper there.
 Most of these programs are maintained by external volunteers. For
 example, one of my colleagues is one of these helpers. Every
 Thursday, she goes to San Quentin and assists inmates who are about
@@ -65,7 +64,7 @@ driver's license after their release. Incidentally, another former
 colleague had her father incarcerated in San Quentin for drug
 offenses and often talked to me about San Quentin.
 
-But I actually wanted to talk about "Ear Hustle." The podcast is
+But I actually wanted to talk about "Ear Hustle." This podcast is
 produced by inmates in San Quentin, with the help of artist and
 photographer Nigel Poor from San Francisco, who has been volunteering
 in San Quentin for years. What makes it special is that the show is
@@ -103,9 +102,9 @@ in prison, solitary confinement, or "three-strikes" candidates who
 will likely not leave prison alive due to long sentences. How does
 one not despair in such situations? In one episode, inmate Curtis
 Roberts speaks, who received 50 years to life for three non-violent
-robberies. He starts writing a diary in prison because he no longer
+robberies. He started writing a diary in prison because he no longer
 has contact with his only daughter and uses these diaries to write
-letters to her to keep from losing his mind. For me, the podcast "Ear
+letters to her to help prevent losing his mind. For me, the podcast "Ear
 Hustle" has an almost poetic quality (despite the sometimes quite
 colorful language), as the inmates are not portrayed as tough guys
 but as people trying to cope with an impossible situation. Just tune
@@ -117,6 +116,4 @@ while listening.
 In this spirit, we wish you a Merry Christmas and an interesting New
 Year.
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
