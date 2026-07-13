@@ -411,13 +411,11 @@ This tent is absolutely amazing.
 
 <pic images/laptop-tent.ps The harsh working conditions in the newsletter editorial office.>
 
-TODO
-
 To set it up, you simply need to take it out of its approximately
 1.5-meter-long nylon bag with a 25cm diameter and pull on two
-strings, then it snaps open. The expert fills the sandbags peeking
-out from the bottom edge with sand, sticks a few plastic pegs into
-the ground, and it stands stable, even on the sometimes quite breezy
+strings, then it snaps open. Experts fill the sandbags peeking
+out from the bottom edge with sand, stick a few plastic pegs into
+the ground, and the tent stands stable, even on the sometimes quite breezy
 beach of Pacifica. It provides shade and blocks the wind, and you can
 comfortably lie underneath with our folding chairs, which I bought
 many years ago at the outdoor store REI. And guess who is currently
@@ -429,17 +427,18 @@ To complete my happiness, I still need a handcart with balloon tires,
 which can be used to easily pull all the equipment over soft sand.
 The "Magna Carta" cart on the left edge in illustration (#1) with its
 thin tires is indeed ideal for carting around crates of drinks on
-paved ground, but it sinks into the soft sand and has to be carried.
-The company
-<LINK>http://wheeleez.com|wheeleez.com</LINK>
-Offers a corresponding lunar vehicle at the moon price of $249
+paved ground, but it sinks into the soft sand, and has to be laboriously
+carried.
+The company <LINK>http://wheeleez.com|wheeleez.com</LINK>
+offers a corresponding lunar vehicle at the moon price of $249
 (illustration (#2)), but who has room for such a monster in their
 trunk?
 
-@Z: The 2-dollar banknote
+@Z: The 2-Dollar Bill
 
-<pic images/2-dollar-bill.ps Translation: "It actually exists: The
-2-dollar bill.>
+<pic images/2-dollar-bill.ps Translation: "It actually exists: The 2-dollar bill.>
+
+TODO
 
 <em>Michael</em> 
 When I recently received a 2-dollar bill as change at the checkout in
