@@ -326,18 +326,15 @@ the phone company AT&T had annoyed me for years by charging $10 just
 to tell me the calling number (Caller ID), I was practically waiting
 to get back at the sluggish monopoly.
 
-TODO
-
 A while ago, a company called Sonic.net from the North Bay entered
-the market, leasing the telephone lines from AT&T on the "last mile"
-and offering telephone and internet services at a bargain price. If
+the market, leasing telephone lines from AT&T on the "last mile"
+and offering telephone and internet services at bargain prices. If
 there's a problem, instead of script-reading AT&T drones from India,
 you get real Californians on the line at Sonic.net's customer
 service, who don't talk nonsense but provide technically
 knowledgeable answers.
 
-<pic images/att-cancel.ps The old telephone company AT&T confirms the
-termination of the telephone and internet connection.>
+<pic images/att-cancel.ps The old telephone company AT&T confirms the termination of the telephone and internet connection.>
 
 Instead of shelling out $80 a month for a landline with 1.5Mbit
 internet and paying absurd dollar amounts (!) per minute for calls to
@@ -351,31 +348,27 @@ At the agreed-upon date, the Sonic people switched the connection
 almost seamlessly, and after a few minor issues that customer service
 easily resolved, we are now surfing the internet almost ten times
 faster and saving $30 a month. Highly recommended, these Sonic
-people. And according to a recently published newspaper article, they
-are even testing...
-<LINK>http://arstechnica.com/tech-policy/news/2012/02/gigabit-interne
-t-for-80-the-unlikely-success-of-californias-sonicnet.ars|hundred
-times faster internet connections</LINK>
-The translation to English is: "If only they don't overreach with it,
-my connection is completely sufficient for me!
+folks. And according to a recently published newspaper article, they
+are even testing <LINK>http://arstechnica.com/tech-policy/news/2012/02/gigabit-internet-for-80-the-unlikely-success-of-californias-sonicnet.ars|one hundred times faster internet connections</LINK>.
+If only they don't overreach with it, my connection speed is completely
+sufficient for me!
 
-@Z: How Supermarkets Spy on Customers
+@Z: How Supermarkets Spy On Customers
 
-<pic images/target.ps Analyzes and systematically promotes to
-customers: The department store chain Target.>
+<pic images/target.ps Analyzes and systematically promotes to customers: The department store chain Target.>
 
 <em>Michael</em> 
 In the newspaper "New York Times," there was recently an interesting
-article.
-<LINK>http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html
-|Article about customer research at the department store chain
-Target</LINK>
+article on
+<LINK>http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html|customer research at the department store chain Target</LINK>.
 Since Americans often pay with credit cards, Target knows which
-products customers purchase over long periods and can draw
+products customers purchase over long periods of time and can draw
 conclusions about their living conditions. For example, if a woman
 suddenly buys a lot more unscented lotion and cotton balls, according
 to the mathematicians at Target, there is an 80% chance that she is
 pregnant.
+
+TODO
 
 To encourage the customer to buy more baby products at Target and
 less from competitors, the company sends her coupon booklets in this
