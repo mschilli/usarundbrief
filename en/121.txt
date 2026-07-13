@@ -411,69 +411,58 @@ The food was top-notch. I had a Mediterranean-inspired dish, the
 "Medi Bowl," and I'm still raving about the beet hummus, while
 Michael enjoyed a Portobello mushroom burger.
 
-TODO
-
 But we don't just go to
 Hawaii to eat. The Pacific Ocean and the beaches are the highlight of
-a Hawaii vacation. And Waimanalo boasts one of the best beaches on
-the island. It is bay-like and 9 km long. The sand is white and
+every Hawaii vacation. And Waimanalo boasts one of the best beaches on
+the island. It is bay-like and 9 kms long. The sand is white and
 powder-fine, and the water is turquoise with great waves for beginner
 boogie boarding. The beach is almost deserted, especially on
 weekdays. At the far end of Waimanalo Beach is the military base
-"Bellows Air Force." The "Bellows Beach Park" on the military base is
+Bellows Air Force. "Bellows Beach Park" on the military base is
 only accessible to the general public on weekends. This is quite
 unusual in Hawaii, as Hawaii does not allow the privatization of
 beaches. Every beach must be publicly accessible. However, since the
 beach in Waimanalo is so vast, we weren't drawn to the area near the
 military base anyway. In any case, Waimanalo is a hidden gem.
 
-@Z: Metzgerei Lucca" translates to "Lucca Butchery" in English.
+@Z: Lucca Ravioli
 
-<pic images/lucca-4.ps The butcher shop "Lucca" in our neighborhood
-is one of the last specialty stores.>
+<pic images/lucca-4.ps The butcher shop "Lucca" in our neighborhood is one of the last specialty stores.>
 
-<em>Angelika</em> 
+<em>Angelika</em>
 In a city changing at a crazy speed, it's reassuring when not
 everything falls victim to the excavator's tooth or the craze for
-chains. In our neighborhood, at the corner of Valencia and 22nd
-Street, there is an Italian delicatessen.
-The text "Lucca Ravioli Co." is already in English. It refers to a
-company named Lucca Ravioli Co., and the URL provided is likely the
-website for this company.
-...where delicious Italian sausages and groceries have been available
-for purchase since 1925.
+national chain stores. In our neighborhood, at the corner of Valencia and 22nd
+Street, there is an Italian delicatessen
+called "Lucca Ravioli Co." where delicious Italian sausages and groceries
+have been available for purchase since 1925.
 
-<pic images/lucca-1.ps The store advertises its specialties in a
-truly authentic Italian way on hand-painted signs.>
+<pic images/lucca-1.ps The store advertises its specialties in a truly authentic Italian way on hand-painted signs.>
 
-<pic images/lucca-anchovies.ps The anchovies are stored in one of the
-rustiest cans in America.>
+<pic images/lucca-anchovies.ps The anchovies are stored in one of the rustiest cans in America.>
 
 The shop is small, but it has a long sausage and cheese counter that
 stretches throughout the entire store. Behind the counter stand
-salespeople in white coats and white caps on their heads, who still
+salespeople in white coats and white hats on their heads, who still
 understand their craft. Fans of Italian delicacies will get their
 money's worth here: salami, ham, cheese, homemade pasta, olive oil,
-grappa, everything your heart desires. We recently bought a super
+grappa, everything your Italian heart desires. We recently bought a super
 delicious tongue sausage there, which immediately delighted the
 salesperson, as the majority of Americans apparently feel queasy at
 the mere thought of tongue sausage.
 
-<pic images/lucca-2.ps On Saturday afternoon, there is a lot of
-activity.>
+<pic images/lucca-2.ps On Saturday afternoon, there is a lot of activity.>
 
-We ate them right away on the good bread from Josey Baker, super
-delicious! Like Michael in
-<RBLINK>20140914#4</RBLINK>
-As previously reported, Josey Baker is a trendy baker in San
-Francisco, and his last name is actually "Baker," which means baker.
+We ate the sausage right away on the good bread from Josey Baker, super
+delicious! Like Michael previously reported in
+<RBLINK>20140914#4</RBLINK>,
+Josey Baker is a trendy baker in San
+Francisco, and his last name is actually "Baker,"
 He bakes really good bread, like the kind we know from Germany. Such
 businesses are reminiscent of the old San Francisco from twenty years
 ago, which is now threatened with extinction. I hope that butcher
-Lucca will remain with us for a long time. Greetings from the city in
-transition:
+Lucca will remain with us for a long time.
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
+Greetings from the city in transition:
 
+Angelika & Michael
