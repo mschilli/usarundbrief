@@ -195,9 +195,7 @@ back to their hometowns for the occasion.
 
 <pic images/i5-harris-sign.ps Stopover from the long drive to Los Angeles at the Harris Ranch.>
 
-TODO
-
-Most employees not only have Thursday off but also Friday, which can
+On Thanksgiving, most employees not only have Thursday off but also Friday, which can
 be combined into a 4-day weekend. A pure luxury in the USA, where
 paid vacation is rather scarce. Tim Cook, the CEO of Apple, usually
 announces a few weeks before Thanksgiving that the entire
@@ -210,52 +208,47 @@ Tim Cook will give the whole week off, but we always take a bit of a
 gamble and book something for the week before the announcement comes,
 especially since I love to travel.
 
-<pic images/i5-harris-steak.ps Prime Rib Medium Rare: A small snack
-for exhausted drivers.>
+<pic images/i5-harris-steak.ps Prime Rib Medium Rare: A small snack for exhausted drivers.>
 
 This year, we drove our small Honda Fit, nicknamed "Brummi" by
 Michael, on the I-5 freeway for six hours south to Los Angeles.
 Although the I-5 freeway is the fastest route, it is also one of the
 most boring roads in California. It goes straight through the flat
-areas of California, where fruits and vegetables for the entire USA
+areas of central California, where fruits and vegetables for the entire USA
 are grown. Drivers whizzing by also see large herds of cattle. The
 landscape is flat, the ground is bone-dry, and for years there has
 been a dispute in this area over who gets how much water, because
 water is needed for the fruits and vegetables to grow, and water is
 scarce in California. Farmers in this region often feel cheated by
-the politicians in Sacramento. Due to the long drought period in
+politicians in Sacramento. Due to the long drought period in
 California, they receive less water for irrigating their fields or
 have to pay more for water, which has led to fallow agricultural
 land. As you drive along the I-5, you frequently encounter signs with
-slogans like "Food Grows Where Water Flows.
+anti rationing slogans like "Food Grows Where Water Flows."
 
-<pic images/i5-water-sign.ps Farmers are upset about California's
-water rationing.>
+<pic images/i5-water-sign.ps Farmers are upset about California's water rationing.>
 
-<pic images/i5-harris-cattle.ps Thousands of cattle at Harris Ranch
-on the edge of Interstate 5.>
+<pic images/i5-harris-cattle.ps Thousands of cattle at Harris Ranch on the edge of Interstate 5.>
 
 As a driver, you fight against fatigue on this route. That's why we
-always stop at the...
-<LINK>https://www.harrisranch.com/home|Harris Ranch" is a proper
-noun, so it does not need to be translated into English. It refers to
-a specific place or entity, such as a ranch or business, and proper
-nouns typically remain the same across languages.</LINK>
+always stop at
+<LINK>https://www.harrisranch.com/home|Harris Ranch</LINK>.
 The location is 300 kilometers south of San Francisco on the I-5 in
-Coalinga. There are only fields for miles around, and suddenly, out
+the town of Coalinga. There are only fields for miles around, and suddenly, out
 of nowhere, the ranch with a restaurant, hotel, Tesla charging
 station, and souvenir shop appears. The restaurant is huge and has
 three different areas: a bar, a steakhouse, and another restaurant
 where families with children usually gather because they are not
-allowed in the bar. We usually go to the bar because you can get a
+allowed at the bar. We usually go to the bar because you can get a
 table faster there. However, the restaurant is not for vegetarians,
 as it offers juicy steaks in all varieties, which is naturally due to
 the fact that Harris Ranch is one of the largest beef traders and
 producers in California. It has been family-owned since 1937, making
 it a true Californian institution.
 
-<pic images/manhattan-beach.ps Even at the end of November, you could
-still go swimming in L.A. this year.>
+<pic images/manhattan-beach.ps Even at the end of November, you could still go swimming in L.A. this year.>
+
+TODO
 
 After his stomach is full, it takes another three hours to get to Los
 Angeles, provided there is no traffic. However, traffic jams are a
