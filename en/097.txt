@@ -438,81 +438,67 @@ trunk?
 
 <pic images/2-dollar-bill.ps Translation: "It actually exists: The 2-dollar bill.>
 
-TODO
-
 <em>Michael</em> 
 When I recently received a 2-dollar bill as change at the checkout in
 a Target supermarket, I initially thought the cashier was trying to
-fool me. However, as I found out shortly afterward on Wikipedia, the
+play a prank on me. However, as I found out shortly afterward on Wikipedia, the
 bill is indeed a valid form of currency, although very rarely seen,
 comparable to the dollar coins, which are also cursed by cashiers and
 dispensed as change by some postal machines.
 
-<pic images/dollar-coin.ps One of the most redundant forms of
-currency in the world: The dollar coin.>
+<pic images/dollar-coin.ps One of the most redundant forms of currency in the world: The dollar coin.>
 
 Whoever receives such rarities tries to quickly pass them on, because
 the dollar coins tear holes in pockets and the rare bills are only
 reluctantly accepted, as there are no suitable compartments for them
 in cash drawers.
 
-However, anyone who
-<LINK>http://en.wikipedia.org/wiki/Fake_denominations_of_United_State
-s_currency#.243|3-Dollar-Note</LINK>
-The translation to English is: "receives, is definitely falling for a
+However, anyone who receives a
+<LINK>http://en.wikipedia.org/wiki/Fake_denominations_of_United_States_currency#.243|3-Dollar-Note</LINK>, is definitely falling for a
 fake. It is well known that there are no real banknotes of this
 denomination, and that is why advertisers or organizers of political
 campaigns sometimes print 3-dollar bills for public amusement. And
 the musician Beck writes in the song
 <LINK>http://www.youtube.com/watch?v=zfO9IKmOav4|Sissyneck</LINK>
-The phrase translates to: "with 'I'm writing my will on a 3 dollar
-bill' even writing his will on an obviously fake 3-dollar note.
+"I'm writing my will on a 3 dollar bill" that he's making his testament
+on the paper of fake currency.
 
-@Z: The translation to English is: "Bicycle markings on the 'Wiggle'
+@Z: Bicycle Markings On The 'Wiggle'
 
-<pic images/wiggle-sign.ps The "Wiggle" is the name of a bike route
-through San Francisco.>
+<pic images/wiggle-sign.ps The "Wiggle" is the name of a bike route through San Francisco.>
 
 <em>Michael</em> 
 San Francisco does a lot for its cyclists, almost absurdly much by
-American standards. Do you still remember the time when...
-<RBLINK>19990808#10</RBLINK>
-The German word "erwÃ¤hnten" translates to "mentioned" in English.
-<LINK>http://en.wikipedia.org/wiki/The_Wiggle|Wiggle</LINK>
-The translation of "Das ist eine von der" to English is "This is one
-of the".
-<LINK>http://en.wikipedia.org/wiki/San_Francisco_Bicycle_Coalition|Th
-e translation of "Bicycle Coalition" to English is "Bicycle
-Coalition." It appears that the term is already in English. If you
-meant to translate it from another language, please provide the
-original language.</LINK>
-The phrase translates to: "a Wiggle route through San Francisco,
-promoted by a club of radical cyclists.
+American standards. You might remember
+the old issue (<RBLINK>19990808#10</RBLINK>)
+where I mentioned the
+<LINK>http://en.wikipedia.org/wiki/The_Wiggle|Wiggle</LINK>,
+a wiggly bike route through San Francisco, promoted by a
+<LINK>http://en.wikipedia.org/wiki/San_Francisco_Bicycle_Coalition|club of radical cyclists</LINK>.
 
-<pic images/wiggle.ps The "Wiggle" winds its way from Market Street
-to Golden Gate Park.>
+<pic images/wiggle.ps The "Wiggle" winds its way from Market Street to Golden Gate Park.>
 
 As you know, in our city, there are sometimes steep hills that get in
-the way when you want to cycle from one neighborhood to another. The
-route winds slowly in a zigzag pattern from Market Street through the
+the way when you want to ride your bicycle from one neighborhood to another. The
+Wiggle route winds slowly in a zigzag pattern from Market Street through the
 "Lower Haight" and "Panhandle" neighborhoods to Golden Gate Park. It
 manages the feat of never demanding more than a 6% incline from
 cyclists. Anyone who knows that we have streets with up to a 30%
 incline, and who may have tried to cycle up them in first gear and
 feared tipping over, will appreciate the Wiggle.
 
-<pic images/bike-marks.ps Conspicuous markings show cyclists the most
-efficient route through the city.>
+<pic images/bike-marks.ps Conspicuous markings show cyclists the most efficient route through the city.>
 
-Recently, I noticed that the city administration has had huge signs
-painted on the asphalt at the turning points. This way, even
+Recently, I noticed that the city administration now painted huge markers
+on the asphalt at the turning points. This way, even
 inexperienced cyclists immediately know how to follow the twists and
 turns of the Wiggle.
 
-@Z: Crazy Starbucks card collectors
+@Z: Crazy Starbucks Card Collectors
 
-<pic images/schwag.ps Typical conference and trade show frills: the
-so-called "swag.>
+<pic images/schwag.ps Typical conference and trade show frills: the so-called "swag.>
+
+TODO
 
 <em>Michael</em> 
 From time to time, invisible company fairies at Yahoo place small
