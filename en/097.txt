@@ -498,21 +498,17 @@ turns of the Wiggle.
 
 <pic images/schwag.ps Typical conference and trade show frills: the so-called "swag.>
 
-TODO
-
 <em>Michael</em> 
 From time to time, invisible company fairies at Yahoo place small
 gifts on the desks of hard-working engineers. A few tickets for a
 baseball game here, a sweet treat there, and rows of so-called "swag"
 (or "schwag"), the technical term for the trinkets you get handed at
 conferences and trade shows. Another word for these promotional gifts
-is...
-<LINK>http://en.wikipedia.org/wiki/Tchotchke|Tchotchke</LINK>
-The phrase translates to: "a term originating from Yiddish, which has
+is <LINK>http://en.wikipedia.org/wiki/Tchotchke|Tchotchke</LINK>,
+a term originating from Yiddish, which has
 its roots in the Slavic word for 'toy'.
 
-<pic images/starbucks.ps For this ridiculous Starbucks card with a $5
-balance, a crazy person is paying $65 on eBay.>
+<pic images/starbucks.ps For this ridiculous Starbucks card with a $5 balance, a crazy person is paying $65 on eBay.>
 
 One morning, I found a Starbucks card with a Yahoo logo worth 5
 dollars on my keyboard, which I happily put in my wallet and
@@ -522,18 +518,13 @@ for such cards on eBay. Word got around that the Yahoo-Starbucks
 cards, printed in limited editions, sometimes fetched up to 100
 dollars at auctions.
 
-<pic images/starbucks-ebay.ps Some 5-dollar cards are still fetching
-40 dollars on eBay towards the end of the gold rush.>
+<pic images/starbucks-ebay.ps Some 5-dollar cards are still fetching 40 dollars on eBay towards the end of the gold rush.>
 
 A kind of gold rush set in, dozens of the cards appeared on eBay, and
 the market slowly collapsed. I finally got rid of mine, including the
 one with the envelope fished out of the trash can, for $65. Surely,
-the collector is happy about the new showpiece in her album.
+the collector is happy about the new showpiece in their album.
 
-The translation from German to English is: "Greetings from the crazy
-country:
+Greetings from the crazy country:
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
