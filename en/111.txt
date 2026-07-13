@@ -35,26 +35,23 @@ provided garbage bins.
 
 <pic images/dp-pee.ps Nearby neighbors have been complaining about people publically urinating in Dolores park.>
 
-TODO
-
 The city workers assigned to tend to the greenery in the park are instead
-occupied all Monday to collect the strewed out trash. Nearby neighbors in
-their expensive houses are getting upset and have been pressuring 
-the city to maintain
-law and order. As of recently, park violations are actually being ticketed 
-by the park officials. I'm not sure if that's going to help, though. It'd
-probably more effective if violators would instead be convicted 
-to join a community service clean-up task force. But who's listening to me!
-One directly related problem is definitely that due to the recent boom 
-in building ugly multi-story appartment buildings in the nearby 
-neighborhoods, the park gets filled up beyond capacity on the weekends, 
-because those newly moved in residents want to enjoy the greenery.
+occupied all day every Monday to collect the strewed out trash. Nearby
+neighbors in their expensive houses are getting upset and have been pressuring
+the city to maintain law and order. As of recently, park rule violatiors are
+actually being ticketed by park officials. I'm not sure if that's going to
+help, though. It'd probably more effective if violators would instead be
+sentenced to join a community service clean-up task force. But who's listening
+to me!  One directly related problem is definitely that due to the recent boom
+in building ugly multi-story appartment buildings in the nearby neighborhoods,
+the park gets filled up beyond capacity on the weekends, because those newly
+moved in residents want to enjoy the greenery.
 
 <pic images/dp-sign.ps Park rules no one cares about.>
 
 What makes things worse is that one half of the park is currently closed
 for a big renovation project. And California is in a drought, so during
-the winter we've had much sunnier weather than usual, which is when
+the winter months we've had much sunnier weather than usual, which is when
 people frequent nearby parks more often. 
 Some old-timers claim that we're in this pickle because of droves of 
 nouveau-riche Silicon Valley workers, cashing in big down south and living
@@ -70,7 +67,7 @@ other and the park stays here for a long time to come.
 
 @Z: Overpriced Mickey Mouse Beers
 
-<pic images/beer-rogue.ps Twelve Dollars for 4 pints of beer? Only in America.>
+<pic images/beer-rogue.ps Twelve Dollars for 4 bottles of beer? Only in America.>
 
 <em>Michael</em>
 The history of beer brewing in the United States can be divided up into three
@@ -90,11 +87,12 @@ their enthusiastic followers.
 Nowadays, every truck stop sells microbrew beer, and in San Francisco, 
 you'd be hard pressed to order Budweiser without being pointed and 
 laughed at, except maybe in sports bars. The fight's been fought now,
-and the microbrews won, but it has been dragging on for several decades 
+and the microbrews won, but it had been dragging on for several decades 
 to get to this point. One of the major obstacles is the alcohol distribution
 system in the United States, which has been strictly regulated by the
 government since prohibition times. Until today, it's pretty tough for 
 small breweries to get their brews on supermarket shelves. Why? 
+
 Distributing alcohol at a wholesale level in the U.S. requires a state license
 only granted to big distributors, who of course
 scoff at small mom and pop brewers
@@ -127,7 +125,7 @@ bottles for the next tenant at the vacation home.
 
 <pic images/beer-new-belgium.ps Craft beer on sale for 6.89 Dollars per bottle.>
 
-As you might know, German vintners love to belittle the products of 
+As you might know, German wine makers love to belittle the products of 
 American wineries, calling
 them <LINK>http://www.stern.de/wirtschaft/news/handel-winzer-fuerchten-coca-cola-weine-550941.html|"Coca Cola Wines"</LINK>, because they're produced under
 less strict food and drink regulations than in Germany, giving American
@@ -142,7 +140,7 @@ by trendy American breweries.
 Those beers create such a complex taste sensation
 that I guess their primary purpose is not to
 wash down food, but maybe are meant to be sampled
-like at a wine tasting, with 
+in a setting similar to a wine tasting, with
 cheese and crackers on the side? What's worse is that a liter bottle of
 these Mickey Mouse Beers often costs 10 Dollars or more. Predictably,
 lots of fancy restaurants in the Bay Area got that greedy look 
@@ -222,8 +220,8 @@ exquisit selection of fine confectionery and chocolate.
 Around the corner is a hip butcher shop, 
 <LINK>http://www.oliviersbutchery.com|"Olivier’s Butchery"</LINK>,
 which is a rarity in the U.S, because most people buy their meat 
-shrinkwrapped at the supermarket. 
-Another interesting venture is 
+shrinkwrapped at the supermarket.
+Another interesting venture is
 <LINK>http://workshopresidence.com|"The Workshop Residence"</LINK>,
 where artists get the opportunity to collaborate with local companies
 to create and sell unique products.
@@ -233,13 +231,13 @@ to create and sell unique products.
 <pic images/dogpatch-crane.ps Some of the abandoned buildings look like they're from the movie "Plant of the Apes".>
 
 If you're interested in getting a whiff of how the Dogpatch was like
-in the olden days, go to the 
+in the olden days, go to the
 <LINK>http://dogpatchsaloon.com|Dogpatch Saloon</LINK>
 which has been serving as the local watering hole all the way back
 since 1912. And don't miss out on the adjacent truly unique Pier 70 
 area, where abandoned factory buildings hint on how this area looked like
 100 years ago. It's a treasure trove for every photographer and history buff,
-and I love to stroll through the streets and imagine what life was like
+and I like to stroll through the streets and imagine what life was like
 back then.
 
 <pic images/dogpatch-model-solo.ps Professional photographers like to place their models in front of scruffy abandoned factory buildings.>
@@ -259,13 +257,14 @@ boring and architecturally uninspired these days.
 <pic images/eggs-rainbow.ps Half a dozen eggs from happy hens cost a whopping five Dollars.>
 
 <em>Michael</em>
-Americans only know about fried eggs for breakfast, it's not widely known 
-to simply scoop egg yolk out a soft-boiled egg directly from the shell. 
+Americans prefer fried eggs for breakfast, it's not widely known 
+to simply scoop egg yolk out a soft-boiled egg directly from the shell,
+like Germans do.
 One of the reasons for that is that
 the major U.S. chicken farms have been struggling for decades 
 with salmonella bacteria contamination, to the point where they've 
 actually given up on battling it. That's why Americans get nervous
-immediately when they eye chicken products not cooked to the point
+immediately when they encounter chicken or egg products not cooked to the point
 where no live organism could potentially have survived.
 
 If they find even a tiny bit of chicken meat that's slightly undercooked,
@@ -280,7 +279,7 @@ very brave consume dishes requiring raw eggs, like the Italian dessert
 <pic images/eggs-trader-joes.ps This allegedly organic dozen of eggs is only three Dollars, but occasionally tastes of chicken coop.>
 
 I don't know if we have extraordinarily resilient stomachs or were
-lucky enough to never be exposed to a virus, but we've never had any
+lucky enough to never be exposed to the bacteria, but we've never had any
 issues with undercooked eggs although we enjoy all kinds of food 
 containing them. And we love Tiramisu of course! But what is definitely 
 noticable is the egg quality if breakfast eggs are boiled in the shell
@@ -296,7 +295,7 @@ around the corner, carries a selection of eggs from free range hens at
 an exorbitant price, but they consistently meet my expectations.
 At about 5 Dollars per half-dozen, they cost about three times as much as
 other alleged organic products, but since we only eat eggs for
-breakfast maybe twice a week, so price isn't the driving factor here.
+breakfast maybe twice a week, the price isn't a driving factor here.
 The half-dozen "Rainbow" egg pack (as far as I know they're not related
 to the great "Rainbow Groceries" market) also represents typical 
 San Francisco diversity: All eggs are slightly different in color,
@@ -318,6 +317,8 @@ the same lame Google nerds and their Yoga girls.
 @Z: Top Product: Luggage Scale
 
 <pic images/luggage-scale.ps (#1) Clever luggage scale with suitcase-hoisting belt.>
+
+TODO
 
 <em>Michael</em>
 You might have noticed that airlines nowadays seem to keep inventing
