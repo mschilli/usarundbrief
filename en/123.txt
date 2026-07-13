@@ -339,10 +339,8 @@ Sugarfish rice, I could shovel into myself endlessly.
 
 <pic images/east-side-sushi.ps Interesting movie on the topic of "Sushi".>
 
-TODO
-
 Then, of course, the fish must be freshly caught and is not simply
-cut open unprepared for preparation, but only after it has been
+cut open unmodified for preparation, but only after it has been
 massaged in all possible ways, slowly gently warmed, and subjected to
 various secret rituals. It is served at room temperature,
 incomparable to supermarket sushi from the refrigerated shelf.
@@ -357,10 +355,8 @@ Japanese chefs. However, I believe he is (still) not allowed to make
 sushi rolls. Furthermore, there are virtually no female sushi chefs
 because the Japanese believe that women have a higher body
 temperature than men and supposedly ruin the raw fish by touching it.
-No kidding, they really believe that! I got it from the film.
-<LINK>http://www.imdb.com/title/tt2340650|East Side Sushi" is already
-in English. It refers to a location or establishment, likely a sushi
-restaurant, on the east side of a city or area.</LINK>
+No kidding, they really believe that! I got it from the film
+<LINK>http://www.imdb.com/title/tt2340650|"East Side Sushi"</LINK>.
 The story is about a South American cook who desperately tries to
 find a job in a Japanese restaurant and is constantly rejected until
 she finally succeeds through immense perseverance.
@@ -374,8 +370,7 @@ experts who order fish roe in various forms (Tobiko, Ikura), as well
 as monkfish liver (Ankimo), and finally the queen of expert sushi,
 made from the gonads of sea urchins, called Uni (Figure #1).
 
-<pic images/sugarfish-uni.ps (#1) Sushi for advanced: Gonads of a sea
-urchin, called 'Uni'.>
+<pic images/sugarfish-uni.ps (#1) Sushi for advanced: Gonads of a sea urchin, called 'Uni'.>
 
 Uni tastes very unusual, somewhat earthy like the mud on the shores
 of the San Francisco Bay at low tide, a bit like an oyster but very
@@ -388,8 +383,7 @@ alternatively with lukewarm or cold sake.
 
 @Z: Koreatown
 
-<pic images/k-town-sign.ps In the Koreatown district, Los Angeles
-offers old facades and spicy grilled meat.>
+<pic images/k-town-sign.ps In the Koreatown district, Los Angeles offers old facades and spicy grilled meat.>
 
 <em>Michael</em> 
 In San Francisco, we go to Japantown to eat so often that I always
@@ -401,18 +395,17 @@ many Korean immigrants in the 1960s, who opened shops in the old Art
 Deco buildings there. To this day, you can still find these
 relatively well-preserved houses from the 1920s in Koreatown.
 
-<pic images/k-town-grill.ps In a restaurant that serves "Korean BBQ,"
-a chef fires up the grill at the table.>
+<pic images/k-town-grill.ps In a restaurant that serves "Korean BBQ," a chef fires up the grill at the table.>
 
 In Korean cuisine, aside from the spicy pickled cabbage "Kimchi,"
 grilled meat is particularly popular. Typically, at a Korean BBQ, a
 small gas grill is built into the restaurant table, which the waiter
-lights up after taking the order and bringing the ordered raw grilled
-meat. In the better restaurants, the waiter also takes care of the
+lights up after taking the order and bringing the ordered raw
+meat for grilling. In the better restaurants, the waiter also takes care of the
 grilling, turning the meat on the grill while moving from table to
 table. Koreans especially appreciate beef marbled with fine fat
 veins, but also enjoy chicken, pork, and specialties like heart or
-tongue. According to Korean sources, there isn't a single place in
+tongue. According to my Korean sources, there isn't a single place in
 San Francisco or the wider Bay Area that serves even remotely
 authentic food; instead, people are directed to Los Angeles.
 
@@ -426,7 +419,7 @@ minutes for a table; in the evening, according to Yelp, the wait time
 is several hours. The food was very delicious; we ordered the
 beginner's combo of beef and pork, and about 10 small pots with
 appetizers like kimchi or pickled cucumbers were on the table. The
-lunch cost about $100 with drinks, which is roughly the price level
+lunch cost about $100 for two with drinks, which is roughly the price level
 of San Francisco. In the evening, the place is said to be bustling,
 with young people strengthening themselves with grilled meat before
 or after visiting nearby clubs, chatting so loudly that you can't
@@ -434,7 +427,4 @@ hear your own word. I believe that without verification!
 
 Greetings from La-La-Land
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
