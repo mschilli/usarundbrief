@@ -318,8 +318,6 @@ the same lame Google nerds and their Yoga girls.
 
 <pic images/luggage-scale.ps (#1) Clever luggage scale with suitcase-hoisting belt.>
 
-TODO
-
 <em>Michael</em>
 You might have noticed that airlines nowadays seem to keep inventing
 new sketchy schemes to get their hands on your hard-earned dollars.
@@ -434,7 +432,7 @@ California. They're widely ignored by many dog owners, who consider it
 ridiculous government overreach that can safely be ignored. Who in their
 right mind would deprive little Fido of chasing after some endangered birds?
 In the rare case that a park ranger shows up and points out the various
-signs requiring dogs to be on leash, it always seems to help them 
+signs requiring dogs to be on leash, it always seems to help dog owners 
 to sheepishly claim to somehow not having caught a glimpse of any of them.
 
 Or if you're driving your car through the streets of San Francisco at night and
@@ -447,7 +445,7 @@ me, however, you've correctly guessed that I think entirely differently
 about this matter! 
 
 This couldnt-care-less attitude varies widely between regions in the U.S., and
-some of the most extreme proponents are the Hawaiians, who often have no idea
+some of the most extreme proponents are Hawaiians, who often have no idea
 what their car's horn even sounds like. If you make the mistake of sounding the
 horn for any reason whatsoever anywhere on Hawaii, the natives will look at you
 in complete disdain. I've also found that in most parts of the States, people
@@ -457,7 +455,9 @@ hand gestures, sometimes even followed by a lethal shootout. But someone has to
 take a stand, and I keep honking as I deem appropriate. Except when I'm on
 vacation on Hawaii, of course.
 
-@Z: San Franciscos New Area Code
+@Z: San Francisco's New Area Code
+
+TODO
 
 <pic images/415-site.ps At 415clothing.com, lovers of the old 415 area code can order items from their favorite clothing line.>
 
