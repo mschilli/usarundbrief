@@ -71,38 +71,35 @@ made from vinegar and onions, very delicious!
 
 <pic images/la-fire.ps Good firefighters are needed for large fires like the recent one in Los Angeles. Photo: flickr[lafd|lafd/37978238785]>
 
-TODO
-
 <em>Angelika</em> 
 In California, we're currently wondering a bit if the end is near, as
-devastating wildfires are raging once again. This time, it's hit
+devastating wildfires are raging once again. This time, it has hit
 Southern California, in the areas of Los Angeles, Santa Barbara, and
 San Diego. The Santa Ana winds keep fanning the flames, and
 firefighters are working around the clock. When we were in Los
 Angeles over Thanksgiving, we couldn't believe how warm it was there
 at the end of November. People were sunbathing in bikinis on the
-beach. We felt like we were in Hawaii. The fantastic weather was nice
+beach. We felt like we were on Hawaii. The fantastic weather was nice
 for us, but almost a bit eerie, because although it's usually warmer
 in Los Angeles than in San Francisco, we had never experienced such
-temperatures there in the winter months. The consequences followed
+temperatures there in the winter months.
+
+The consequences followed
 swiftly, as just a week later, it was ablaze. Jerry Brown, our
 governor, remarked that California would have to prepare for seasonal
 fires extending well into December, due to climate change. Normally,
 there are no wildfires in December.
 
-<pic images/san-quentin.ps The state prison in San Quentin, north of
-the Golden Gate Bridge. Photo:
-flickr[stevekocino|stevekocino/4138471061]>
+<pic images/san-quentin.ps The state prison in San Quentin, north of the Golden Gate Bridge. Photo: flickr[stevekocino|stevekocino/4138471061]>
 
-In fires of this magnitude, not only do firefighters from the
+In case of fires of this magnitude, not only do firefighters from the
 immediate area respond, but forces from all over California are
 mobilized, with some even coming from neighboring states. However,
 it's not just professional firefighters who battle the flames;
-inmates also join the effort. In California, there has been a program
-since 1940 that involves inmates in firefighting.
-<LINK>http://www.cdcr.ca.gov/Conservation_Camps|Conservation
-Camps</LINK>
-The prison inmates volunteer for it, receive a short training, and
+even prison inmates join the effort. In California, there has been a program
+since 1940 that involves inmates in firefighting:
+<LINK>http://www.cdcr.ca.gov/Conservation_Camps|Conservation Camps</LINK>.
+Prison inmates volunteer for it, receive a short training, and
 are then immediately put to work.
 
 However, they only receive the assignment if they behave well in
@@ -119,12 +116,9 @@ completely overcrowded, and the state of California has since
 released non-violent inmates early multiple times to reduce
 overcrowding.
 
-@Z: David Sedaris is a name, so it doesn't require translation. David
-Sedaris is an American humorist, comedian, and author known for his
-essays and books.
+@Z: David Sedaris
 
-<pic images/david-sedaris.ps Author David Sedaris is giving a reading
-in San Francisco.>
+<pic images/david-sedaris.ps Author David Sedaris is giving a reading in San Francisco.>
 
 <em>Angelika</em> 
 Michael is very difficult to buy gifts for because he always buys
@@ -138,12 +132,11 @@ The event took place at the San Francisco Opera House, which
 initially surprised me because the opera house has almost 3,150
 seats. Would an author who writes humorous essays fill such a large
 venue for a reading? And, lo and behold, the house was sold out.
-<LINK>http://www.davidsedarisbooks.com/bio.html|David Sedaris is a
-name, so it doesn't require translation. David Sedaris is an American
-humorist, comedian, and author known for his essays and books.</LINK>
-I discovered him many years ago because a colleague mentioned him as
+I discovered
+<LINK>http://www.davidsedarisbooks.com/bio.html|David Sedaris</LINK>
+many years ago because a colleague mentioned him as
 her favorite author. He also frequently writes short stories for the
-weekly magazine "The New Yorker," which I have subscribed to for many
+weekly magazine "The New Yorker," which I've been subscribed to for many
 years. However, I prefer listening to him.
 
 He narrates his own books when they are released as audiobooks. He
@@ -152,7 +145,7 @@ so humorously that I have often laughed to the point of tears while
 listening. His stories incorporate a lot of autobiographical
 elements: his childhood in Raleigh, South Carolina, where he grew up
 with five siblings in an American-Greek family; his homosexuality,
-his drug use, his many crazy jobs he took on to make ends meet before
+his drug use, the many crazy jobs he took on to make ends meet before
 he became well-known. I could listen to the short stories about his
 experiences in various airports and airplanes or at the dentist in
 Paris over and over again.
@@ -166,14 +159,12 @@ portal StubHub. The tickets were issued in the name of the original
 buyer and were sent via email. On-site, the printouts were scanned
 and accepted without any issues, although I was a bit nervous.
 
-<pic images/stubhub-warriors.ps The ticket online platform "Stubhub>
+<pic images/stubhub-warriors.ps The ticket online platform "Stubhub">
 
-The German word "auf" translates to "on" or "onto" in English,
-depending on the context.
-<LINK>https://en.wikipedia.org/wiki/StubHub|Stubhub</LINK>
+What's <LINK>https://en.wikipedia.org/wiki/StubHub|Stubhub</LINK>?
 People who bought tickets from the official organizer sell them
 auction-style to the highest bidder on a platform (an eBay company).
-The ticket stub that remains with the viewer after the ticket taker
+The ticket remainder that remains with the viewer after the ticket taker
 removes a part is called a "stub," and a "hub" in this context is the
 platform where the tickets are traded. Selling concert tickets in
 this manner is called "scalping" in the USA and is officially
@@ -189,13 +180,13 @@ this way, and businesspeople who buy tickets on a large scale make a
 profit at the expense of concertgoers. In 2016, the Obama
 administration passed a law called the "Better Online Ticket Sales"
 (BOTS) Act, which stipulates that only individuals are allowed to buy
-tickets online and prohibits operators from using machines (so-called
-"bots").
+tickets online and prohibits operators from using software bots.
 
 @Z: Thanksgiving in Venice Beach
 
-<pic images/venice-arnie.ps On the trail of Arnold Schwarzenegger in
-Venice Beach.>
+<pic images/venice-arnie.ps On the trail of Arnold Schwarzenegger in Venice Beach.>
+
+TODO
 
 <em>Angelika</em> 
 Thanksgiving is known as the most sacred of all holidays in the USA.
