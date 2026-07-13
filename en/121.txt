@@ -15,8 +15,6 @@ funny people in embarrassing situations.
 
 <pic images/ford-go-bikes-station.ps Some parking spaces are always empty so that arriving customers can park their bicycles.>
 
-TODO
-
 The GoBike program was familiar to me from San Francisco's financial
 district, where a dozen basket-equipped granny bikes stood here and
 there in front of locking stations similar to the luggage cart
@@ -32,15 +30,13 @@ behold: A large advertising board was promoting something called
 "Bike Sharing," and half a dozen bicycles were already available for
 immediate use.
 
-<pic images/ford-go-bikes-app.ps With the smartphone app, the
-customer pays and unlocks their rental bike.>
+<pic images/ford-go-bikes-app.ps With the smartphone app, the customer pays and unlocks their rental bike.>
 
 The bike trailer is, no kidding, 10 meters away from our front door
 and is taking up three parking spaces, which the neighbors are
-discussing on the neighborhood forum "Nextdoor".
-<RBLINK>20140914#5</RBLINK>
-..completely freaked out, probably because the city had quietly and
-secretly handled the deal with the rental company "Motivate LLC,"
+discussing on the neighborhood forum "Nextdoor" (<RBLINK>20140914#5</RBLINK>),
+completely freaked out, probably because the city had quietly and
+secretly struck a deal with the rental company "Motivate LLC,"
 sponsored by the car manufacturer "Ford," and presented the citizens
 with a fait accompli. No matter, our two cars are in the garage, and
 I thought to myself, I have to try out this newfangled thing right
@@ -53,17 +49,17 @@ popped out. I zipped around for about 20 minutes, down to the Mission
 district and then wheezed back up the hill. All in all, a successful
 start.
 
-<pic images/ford-go-bikes-lock.ps At the bike dock, the customer must
-enter the code to unlock the bike. (#2)>
+<pic images/ford-go-bikes-lock.ps At the bike dock, the customer must enter the code to unlock the bike. (#2)>
 
-Overall, "Ford GoBike" will install 2,000 bicycles in the city of San
+Overall, "Ford GoBike" will be installing 2,000 bicycles in the city of San
 Francisco in the coming months and another 1,500 in the East Bay. A
-single ride from one station to the next may last no more than 30
+single ride between two stations may take no more than 30
 minutes, costing $3. If the rider keeps the bike longer, each
 additional quarter (!) hour costs another $3. The trick that allows
 the company to (likely) remain profitable despite low prices is that
 the bicycles are never on the street for more than 30 minutes;
-afterward, they are back at a station and available to new customers.
+afterward, they are back at a station and available to the
+next customer.
 
 A day pass costs 10 dollars, and a 3-day pass costs 20 dollars, but
 both only allow for an unlimited number of 30-minute short rides.
@@ -73,7 +69,7 @@ can't just go into a museum or a store to shop because you can't
 secure the bike, and locking it with a personal lock is explicitly
 not allowed in the terms of use. The program is therefore only
 helpful for people who want to quickly bike 1 or 2 kilometers from A
-to B, with a bike station near both A and B. Since you can also pay
+to B, with bike stations near both A and B. Since you can also pay
 149 dollars annually, this might be suitable for commuters who take
 public transportation to a stop with a bike station, unlock a bike
 there, and ride to a bike station a block away from their
@@ -82,11 +78,11 @@ there, because as a cyclist in San Francisco, you have to be
 extremely careful not to get run over or hit by the swinging door of
 a parked car. So: bring a helmet and wear it!
 
-@Z: Obamacare survives
+@Z: Obamacare Survives
 
-<pic images/trumpcare-3.ps US citizens protest against the planned
-repeal of Obamacare (Photo:
-flickr[stephenmelkisethian|stephenmelkisethian/36213128315]).>
+<pic images/trumpcare-3.ps US citizens protest against the planned repeal of Obamacare (Photo: flickr[stephenmelkisethian|stephenmelkisethian/36213128315]).>
+
+TODO
 
 <em>Angelika</em> 
 Every day we receive new bad news from the White House. It feels like
