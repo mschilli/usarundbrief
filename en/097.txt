@@ -318,8 +318,6 @@ phenomenon.
 
 <pic images/golden-gate-bridge.ps Celebrated its 75th anniversary: the Golden Gate Bridge.>
 
-TODO
-
 <em>Angelika</em> 
 In May of this year, all of San Francisco celebrated the 75th
 birthday of the Golden Gate Bridge. Everyone knows and admires the
@@ -327,9 +325,9 @@ world-famous bridge, which has not lost its charm even after 75 years
 and spans the entrance to the Golden Gate to connect San Francisco
 with Marin County to the north. There is nothing more beautiful than
 driving over the reddish shimmering bridge on a sunny day and
-enjoying the views of San Francisco and the boats in the bay. Or when
+enjoying the views of San Francisco and the boats in the Bay. Or when
 the typical San Francisco fog magically envelops the bridge, leaving
-only the tops of the upper bridge towers visible. And back in the
+only the tops of the upper bridge towers visible. And back during the
 construction year of 1933, hardly anyone thought it possible to build
 a bridge exposed to such strong winds, currents, saltwater, fog, and
 earthquakes.
@@ -353,17 +351,16 @@ bridge builder Joseph Strauss realized his dream and built what was
 then the longest suspension bridge in the world in four years for a
 modest 35 million dollars. However, the man was not very concerned
 with design, and the bridge would have become a rather clunky steel
-block according to his ideas. Thanks to Charles Ellis, who relied on
-the theories of the famous suspension bridge builder Leo Moisseff, he
-prevailed with his bridge design, as he was convinced that a more
+block according to his ideas. Thankfully, structural engineer Charles Ellis
+modified Strauss' origininal bridge design, relying on
+theories of the famous suspension bridge builder Leo Moisseff,
+as he was convinced that a more
 delicate architectural bridge would also withstand the weather
 conditions. Unfortunately, Strauss sidelined him because of this, and
 Ellis only gained late fame as one of the fathers of the Golden Gate
 Bridge.
 
-<pic images/golden-gate-bridge-75.ps How often in the fog: The Golden
-Gate Bridge photographed from Crissy Fields with a sign for the 75th
-anniversary.>
+<pic images/golden-gate-bridge-75.ps How often in the fog: The Golden Gate Bridge photographed from Crissy Fields with a sign for the 75th anniversary.>
 
 The bridge was also supposed to be painted in black and yellow
 stripes according to the wishes of the Navy, but thankfully the
@@ -372,10 +369,10 @@ prevailed. There would probably be tumultuous uprisings in San
 Francisco if someone wanted to paint the bridge in a different color.
 However, the bridge constantly provides topics for conversation. It
 has been proposed to install nets under the bridge railing to prevent
-suicides from jumping to their deaths from the bridge. Just as the
+suicides by people jumping to their deaths from the bridge. Just as the
 beauty of the bridge magically attracts tourists, unfortunately,
 those battered by life also feel drawn to the allure of the bridge.
-It leads the sad statistics as the place with the most suicides.
+It leads the sad statistics, as the bridge being the place with the most suicides.
 About 1,500 people are said to have jumped from the Golden Gate
 Bridge. Although the nets that could prevent jumping have now been
 decided upon, there is a lack of 45 million dollars to install them.
@@ -389,22 +386,21 @@ climb up the bridge pillars as part of a tour to look down from the
 bridge. That is not true, because otherwise, we would have done it
 long ago! However, we often drive over it; by the way, the bridge
 toll is now 6 dollars, and with the toll transponder "Fastrak" (
-<RBLINK>20060421#1</RBLINK>
-Translation: "5 dollars. It is only collected in one direction,
+<RBLINK>20060421#1</RBLINK>) it's
+5 dollars. The toll is only collected in one direction,
 namely when entering the city from the north. Pedestrians and
 cyclists can cross for free. At night, the bridge is closed to
 pedestrians. Cyclists are only allowed to ride on the side footpaths
 over the bridge (not on the road), but they can do so 24 hours a day.
-<LINK>http://goldengatebridge.org/bikesbridge/bikes.php|Website with
-the bridge rules</LINK>
-The translation to English is: "provides further details, such as
+The
+<LINK>http://goldengatebridge.org/bikesbridge/bikes.php|Website with the bridge rules</LINK>
+provides further details, such as
 that, for example, no dogs, skateboards, roller blades, or e-bikes in
 power-on mode are allowed on the sidewalks.
 
-@Z: Modern technology for the beach visit
+@Z: Modern Technology For Beach Visits
 
-<pic images/costco-tent.ps (#1) Our beach equipment: handcart,
-folding crate, Costco tent, folding chairs.>
+<pic images/costco-tent.ps (#1) Our beach equipment: handcart, folding crate, Costco tent, folding chairs.>
 
 <em>Michael</em> 
 If it's sunny on the weekend, we often drive the 15 minutes to the
@@ -413,8 +409,9 @@ folding chairs ready in the trunk, and for the past few weeks, a
 beach tent that we bought at Costco for the bargain price of $40.
 This tent is absolutely amazing.
 
-<pic images/laptop-tent.ps The harsh working conditions in the
-newsletter editorial office.>
+<pic images/laptop-tent.ps The harsh working conditions in the newsletter editorial office.>
+
+TODO
 
 To set it up, you simply need to take it out of its approximately
 1.5-meter-long nylon bag with a 25cm diameter and pull on two
@@ -426,8 +423,7 @@ comfortably lie underneath with our folding chairs, which I bought
 many years ago at the outdoor store REI. And guess who is currently
 typing away on their laptop and writing these lines?
 
-<pic images/wheeleez-cart.ps (#2) The lunar vehicle from
-Wheeleez.com>
+<pic images/wheeleez-cart.ps (#2) The lunar vehicle from Wheeleez.com>
 
 To complete my happiness, I still need a handcart with balloon tires,
 which can be used to easily pull all the equipment over soft sand.
