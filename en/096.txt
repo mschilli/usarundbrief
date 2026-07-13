@@ -282,31 +282,20 @@ The Ministry of Parking Tickets if a resident complains.
 
 <pic images/rei-towing.ps The outdoor store REI is threatening to tow the car if one goes to another store.>
 
-TODO
-
-Or did you know that a supermarket only
-<em>Nach einer Stunde" translates to "after an hour" in English.</em> 
-The translation of the given German text to English is: "is allowed
-to call the tow truck if someone is illegally parked in the private
-parking space? According to
-<LINK>http://sf-police.org/index.aspx?page=1576#but_i_was|It seems
-like "Parkparagraph 22953" might be a specific term or code that
-doesn't have a direct translation into English. If "Parkparagraph"
-refers to a legal term or a specific section of a document, it would
-be helpful to know the context or the language it originates from to
-provide a more accurate translation or explanation. Could you provide
-more details or clarify the context?</LINK>
-According to the "California Vehicle Code" (CVC), the supermarket
-parking lot attendant must wait for one hour, even if he is bursting
+Or did you know that a supermarket only is allowed to call the tow truck if
+someone is parked illegally on their private lot after an hour has
+passed? According to
+<LINK>http://sf-police.org/index.aspx?page=1576#but_i_was|"California Vehicle Code" (CVC)</LINK>, the supermarket
+parking lot attendant must wait for one full hour, even if he is bursting
 with anger. This rule opens up completely new possibilities for the
 so-called "walk-off," an urban technique where you park in front of a
 store and then sneak off to shop somewhere else. However, you are not
 allowed to park in a disabled parking space or block a fire hydrant,
 otherwise the tow truck will come immediately.
 
-<pic images/bryant-tow.ps In the underground parking garage of the
-shopping center on 17th Street, so-called "walk-offs" are also
-prohibited.>
+<pic images/bryant-tow.ps In the underground parking garage of the shopping center on 17th Street, so-called "walk-offs" are also prohibited.>
+
+TODO
 
 The book also explains the white, yellow, green, and red curb colors,
 which even locals in San Francisco often do not understand, and
