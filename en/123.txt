@@ -248,55 +248,48 @@ it a true Californian institution.
 
 <pic images/manhattan-beach.ps Even at the end of November, you could still go swimming in L.A. this year.>
 
-TODO
-
 After his stomach is full, it takes another three hours to get to Los
 Angeles, provided there is no traffic. However, traffic jams are a
-part of everyday life in Los Angeles. We were then drawn back to
-Venice Beach.
-<RBLINK>20130921#5</RBLINK>
-.. a district of Los Angeles that is located right by the ocean and
+part of everyday life in Los Angeles. This year, we wanted to
+return Venice Beach (<RBLINK>20130921#5</RBLINK>),
+a district of Los Angeles that is located right by the ocean and
 is characterized by bohemians, sun worshippers, surfers, old hippies,
 good restaurants, the Venice Beach Boardwalk, Muscle Beach, where
 Arnold Schwarzenegger once honed his muscles, and a large number of
 homeless people.
 
-<pic images/beach-bike.ps In Los Angeles, you can definitely ride a
-bicycle.>
+<pic images/beach-bike.ps In Los Angeles, you can definitely ride a bicycle.>
 
 Venice Beach was independent until 1926, but now it belongs to Los
 Angeles. This time, we stayed in a beautiful vacation apartment that
-we found through...
-<LINK>http://vrbo.com|The translation to English is "Vacation Rental
-By Owner.</LINK>
-..we had rented. It was only 100 meters from the beach. The vacation
+we found through
+<LINK>http://vrbo.com|Vacation Rental By Owner (vrbo)</LINK>.
+It was only 100 meters from the beach. The vacation
 apartment resembled a loft, and the bed was only accessible via a
 ladder. We knew this, of course, when we booked the apartment, but at
 night the climbing was a bit annoying, and so we often lay in bed and
 thought twice before going down to the bathroom. The owner of the
-apartment is an architect by profession and has her house at the back
+apartment was an architect by profession and had her house at the back
 of the property. The vacation apartment was furnished like something
-out of an issue of "SchÃ¶ner Wohnen" (Beautiful Living). There was
+out of an issue of the German interior decor magazine "Schöner Wohnen"
+(Beautiful Living). There was
 also a rooftop terrace exclusively for us, and since the sun was
 shining brightly, we often sat above the rooftops of Venice Beach and
 enjoyed the view.
 
-<pic images/venice-studio.ps A nice holiday apartment almost directly
-on the beach.>
+<pic images/venice-studio.ps A nice vacation home almost directly on the beach.>
 
-<pic images/venice-studio-ladder.ps The bed, however, is only
-accessible by a ladder.>
+<pic images/venice-studio-ladder.ps The bed, however, is only accessible via a ladder.>
 
 Our vacation apartment also offered two bicycles that we were allowed
 to borrow. Los Angeles is considered a total car city, which is true,
 but we are always amazed at how many bike paths there are now,
-especially in the neighborhoods or small towns that are directly on
+especially in the neighborhoods or small towns that are directly at
 the Pacific Ocean. And it's not just tourists on the bikes, but a
 colorful mix of families with children, road cyclists, and casual
 Sunday riders.
 
-<pic images/la-bike-angelika.ps Even when using a rental bike,
-Angelika is required to wear a helmet.>
+<pic images/la-bike-angelika.ps Even when using a rental bike, Angelika insists on wearing a helmet.>
 
 The Marvin Braude Bike Trail, also known as "The Strand," runs 22
 miles (about 35 kilometers) almost always parallel to the beach and
@@ -306,18 +299,18 @@ Torrance Beach. Only a small section leaves the beach, and cyclists
 have to weave through side streets in Marina Del Rey, but even here,
 there is a bike lane separated from the road for most of the route.
 
-<pic images/la-hb-surf.ps Probably one of the best surfers at the
-beach of Manhattan Beach.>
+<pic images/la-hb-surf.ps Probably one of the best surfers at the beach of Manhattan Beach.>
 
 We cycled the path both north and south and discovered the charming
 coastal town of Manhattan Beach. To Michael's delight, the ocean
 there was very suitable for surfing, so we drove there twice more by
 car. Michael put on his wetsuit, which he had brought from San
 Francisco, rented a surfboard at the beach, and surfed the waves with
-the locals. @Z: Sushi for Advanced Learners
+the locals.
 
-<pic images/sugarfish-sushi.ps Always good: A visit to "Sugarfish" in
-Santa Monica.>
+@Z: Sushi for Advanced Learners
+
+<pic images/sugarfish-sushi.ps Always exciting: A visit to "Sugarfish" in Santa Monica.>
 
 <em>Michael</em> 
 If you're visiting Los Angeles, you must not miss the chance to visit
@@ -331,9 +324,9 @@ We routinely park in the municipal garage 100 meters away for the
 bargain price of two dollars (beware, the parking garage right next
 to it is private and more expensive).
 
-Good sushi includes, as already mentioned...
-<RBLINK>20130921#5</RBLINK>
-Once executed, it's far more than just placing pieces of fish on
+Good sushi is, as already mentioned in
+<RBLINK>20130921#5</RBLINK>,
+far more than just placing pieces of fish on
 lumps of rice. First of all, cooking rice is not that simple.
 Japanese sushi chefs spend their entire first year of training just
 learning how to cook rice. The master only lets them handle the fish
@@ -344,8 +337,9 @@ tastes quite extraordinary. I usually don't like rice that much, but
 sushi rice (which is seasoned with vinegar) and especially the
 Sugarfish rice, I could shovel into myself endlessly.
 
-<pic images/east-side-sushi.ps Interesting movie on the topic of
-"Sushi".>
+<pic images/east-side-sushi.ps Interesting movie on the topic of "Sushi".>
+
+TODO
 
 Then, of course, the fish must be freshly caught and is not simply
 cut open unprepared for preparation, but only after it has been
