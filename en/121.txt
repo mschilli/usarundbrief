@@ -312,25 +312,22 @@ the public eye, for the first time.
 
 <pic images/californiacation.ps The opening sequence of the series "Californication" shows a few skateboarders near the beach.>
 
-TODO
-
 In the meantime, I have even slightly improved; when I dash to the
-factory bus stop in the morning or to the supermarket a few streets
+factory bus stop in the morning or to the supermarket a few blocks
 away in the evening, I can already ride up and down the lowered
 curbs. I still need to practice the ollie, but I'll get there.
 
-@Z: Millions, billions, and trillions.
+@Z: Millions, Billions, and Trillions.
 
-<pic images/billion.ps When an American says "billion," he means
-"milliarde.>
+<pic images/billion.ps When an American says "billion," he means "milliarde.">
 
 <em>Michael</em> 
 What are 1,000 million? In Germany, that's a "Milliarde." Americans,
 who are generally more inclined towards exaggeration, say "a
 billion." For example, a few years ago, Facebook paid 17 billion
-dollars for WhatsApp, and American newspapers wrote "17 billion
-dollars." So far, so good--just another word for "Milliarde"--if it
-weren't for the German word "Billion.
+dollars for WhatsApp, and German newspapers wrote "17 Milliarden".
+So far, so good -- Billion is just the English word for the German
+"Milliarde" -- if it weren't for the German word "Billion."
 
 If a "Milliarde" in German is called a "billion" in American English,
 then what is a German "Billion" in American English? A German
@@ -351,8 +348,7 @@ Facebook will be the first to reach the "billion-dollar wall,"
 Americans might be puzzled, as these companies are already worth
 about "600 billions" in their terminology.
 
-<pic images/spiegel-billion.ps (#1) Which company will be the first
-to reach the 1,000 billion mark?>
+<pic images/spiegel-billion.ps (#1) Which company will be the first to reach the 1,000 billion mark?>
 
 You might be wondering why I referred to the numbers as
 America-specific and didn't just point out a language difference
@@ -360,21 +356,21 @@ between German and English: Our special friends on the other side of
 the English Channel, the quirky Brits, also claim a special exception
 in the numbers market. Their "billions" and "trillions" follow the
 German standards, not the American ones. A British "billion" is
-therefore a thousand times higher than an American "billion.
+therefore a thousand times higher than an American "billion."
 
-<pic images/rebillionize.ps Russ Hanneman from "Silicon Valley" hates
-the doors of his millionaire BMW and demands billionaire-worthy
-Lamborghini scissor doors.>
+<pic images/rebillionize.ps Russ Hanneman from "Silicon Valley" hates the doors of his millionaire BMW and demands billionaire-worthy Lamborghini scissor doors.>
 
 Back to everyday life: The "billionaires" so despised by toxic social
-critics like Bernie Sanders are merely measly billionaires. In the
+critics like Bernie Sanders are merely measly "milliardaires." In the
 HBO comedy series "Silicon Valley," there is even talk of
 "rebillionizing": A venture capitalist plagued by setbacks has fallen
 from billionaire status to an ordinary millionaire in the show. His
 luxury BMW disgusts him because he would prefer to stylishly emerge
 from a Lamborghini with gull-wing doors. He is determined to climb
 back into the ranks of billionaires and is feverishly working on his
-plan to "remilliardize.
+plan to "remilliardize."
+
+TODO
 
 @Z: Waimanalo
 
