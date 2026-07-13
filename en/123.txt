@@ -184,9 +184,7 @@ tickets online and prohibits operators from using software bots.
 
 @Z: Thanksgiving in Venice Beach
 
-<pic images/venice-arnie.ps On the trail of Arnold Schwarzenegger in Venice Beach.>
-
-TODO
+<pic images/venice-arnie.ps Retracing Arnold Schwarzenegger's steps in Venice Beach.>
 
 <em>Angelika</em> 
 Thanksgiving is known as the most sacred of all holidays in the USA.
@@ -195,8 +193,9 @@ to eat turkey, and since American families like to move and often
 live scattered across the country, everyone and their brother travels
 back to their hometowns for the occasion.
 
-<pic images/i5-harris-sign.ps Stopover from the long drive to Los
-Angeles at the Harris Ranch.>
+<pic images/i5-harris-sign.ps Stopover from the long drive to Los Angeles at the Harris Ranch.>
+
+TODO
 
 Most employees not only have Thursday off but also Friday, which can
 be combined into a 4-day weekend. A pure luxury in the USA, where
