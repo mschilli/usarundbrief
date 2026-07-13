@@ -368,22 +368,18 @@ suddenly buys a lot more unscented lotion and cotton balls, according
 to the mathematicians at Target, there is an 80% chance that she is
 pregnant.
 
-TODO
-
 To encourage the customer to buy more baby products at Target and
-less from competitors, the company sends her coupon booklets in this
+less from competitors, the company then sends her coupon booklets in this
 case, promoting discounted baby products. The marketing strategists
 admitted that the original strategy of filling personalized
 advertising booklets for each household with baby products for
-pregnant women disturbed customers concerned about their privacy.
+pregnant women disturbed customers, who were concerned about their privacy.
 Nowadays, they intentionally add some unrelated products like wine
 glasses or lawnmowers so that the recipients do not feel spied upon.
 
-<pic images/target-nyt.ps In the article "How Companies Learn Your
-Secrets" in the New York Times, Charles Duhigg examines what
-supermarkets do with customer data.>
+<pic images/target-nyt.ps In the article "How Companies Learn Your Secrets" in the New York Times, Charles Duhigg examines what supermarkets do with customer data.>
 
-It goes even further: When Target combines its customers' personal
+It goes even further: When Target combines their customers' personal
 purchase data with externally purchased information such as age,
 estimated income, or marital status, entirely new conclusions can be
 drawn, allowing for targeted advertising and driving store traffic.
@@ -394,62 +390,47 @@ an understanding of the dangers of data misuse, and therefore, there
 is no significant lobby for data protection that could push through
 relevant regulations by law.
 
-@Z: The shot detector "Shot-Spotter
+@Z: The Gunshot Detector "Shot-Spotter"
 
-<pic images/shot-spotter-news.ps The ShotSpotter system knows where
-shots are fired.>
+<pic images/shot-spotter-news.ps The ShotSpotter system knows where shots are fired.>
 
 <em>Michael</em> 
 The custom seems to originate from the time of the Wild West, where
-people would, out of exuberance, during festive occasions...
-<LINK>http://www.mercurynews.com/top-stories/ci_19635202|The
-translation to English is: "Firing gunshots into the air |
-Overzealous people fire firearms into the air on New Year's.</LINK>
+people would, out of exuberance, during festive occasions
+<LINK>http://www.mercurynews.com/top-stories/ci_19635202|be firing gunshots into the air</LINK>.
 However, this is now prohibited, at least in California, because the
 fired bullets come back down and have already caused injuries and
 fatalities.
 
-<pic images/shot-spotter-display.ps Anyone who fires into the air on
-New Year's will be detected by ShotSpotter.>
+<pic images/shot-spotter-display.ps Anyone who fires into the air on New Year's will be detected by ShotSpotter.>
 
-In a
-<LINK>http://mythbustersresults.com/episode50|The translation to
-English is: "Episode of the TV show 'Mythbusters'</LINK>
-The two laboratory technicians demonstrated, however, that vertically
+In one
+<LINK>http://mythbustersresults.com/episode50|episode of the TV show 'Mythbusters'</LINK>,
+the two laboratory technicians demonstrated, however, that vertically
 falling bullets do not pose a danger due to their low falling speed.
 Because of air resistance, the projectile only reaches a
-<LINK>http://en.wikipedia.org/wiki/Terminal_velocity|Endgeschwindigke
-it</LINK>
-The translation to English is: "of 320 km/h, which is usually not
+<LINK>http://en.wikipedia.org/wiki/Terminal_velocity|terminal velocity</LINK>
+of 320 km/h, which is usually not
 enough to penetrate the skin of potential impact victims. For
 comparison: A 9mm caliber revolver bullet travels at about 1,100
 km/h, which is more than three times as fast out of the barrel.
 
-<pic images/shot-spotter-diagram.ps Sensors detect gunfire, report it
-to the control center, which determines the location of the
-shooting.>
+<pic images/shot-spotter-diagram.ps Sensors detect gunfire, report it to the control center, which determines the location of the shooting.>
 
 Unfortunately, many overzealous individuals do not fire exactly
 vertically into the air, but deviate up to 45 degrees, which gives
 the bullet a horizontal component that can still have a deadly effect
 over some distance. To catch these reckless cowboys, the city of
 Redwood City in Silicon Valley has implemented a system since last
-year called
-<LINK>http://en.wikipedia.org/wiki/Shot_spotter|Shot Spotter" is
-already in English. It refers to a technology or system used to
-detect and locate gunfire or gunshots in an area using acoustic
-sensors.</LINK>
-The system is installed to detect gunshots citywide and determine the
+year called <LINK>http://en.wikipedia.org/wiki/Shot_spotter|Shot Spotter</LINK>
+to detect gunshots citywide and determine the
 exact location of the firing using a sophisticated process. So if
 someone fires a gun into the air in Redwood City, the police will be
 on the scene within minutes, ready with handcuffs.
 
-@Z: Nacktscanner am Flughafen" translates to "naked scanner at the
-airport" in English.
+@Z: Naked Scanner At The Airport
 
-<pic images/body-scanner.ps American passengers go through the body
-scanner without complaining. Photo: flickr[David
-Prasad|33671002@N00/5782904251]>
+<pic images/body-scanner.ps American passengers go through the body scanner without complaining. Photo: flickr[David Prasad|33671002@N00/5782904251]>
 
 <em>Angelika</em> 
 Every time we fly somewhere from San Francisco, the following ritual
@@ -457,7 +438,7 @@ takes place at the security check: After we've placed our backpacks
 and similar items on the conveyor belt, emptied everything from our
 pockets, and taken off our shoes, the TSA (Transportation Security
 Administration) officers want to scan us with the full-body scanner,
-commonly known as the "naked scanner" or "body scanner.
+commonly known as the "naked scanner" or "body scanner."
 
 We stubbornly refuse it every time. It is completely legal, and you
 are then guided around the scanner and directed to the end of the
@@ -472,14 +453,12 @@ only be searched by female officers and men only by male officers.
 This is, of course, quite absurd in San Francisco, but rules are
 rules.
 
-<pic images/airport-lines.ps The lines at the airport are getting
-longer and longer. Photo: flickr[Wayan
-Vota|dcmetroblogger/6057828009/]>
+<pic images/airport-lines.ps The lines at the airport are getting longer and longer. Photo: flickr[Wayan Vota|dcmetroblogger/6057828009/]>
 
 Wordy explanations are common practice in the USA for legal reasons.
 You might be familiar with this from American TV shows. During every
 arrest, the so-called Miranda Rights are recited, informing those
-taken into police custody about their rights.
+taken into police custody about their legal rights.
 
 The TSA officers have always been slightly annoyed when we refuse the
 scanner, and when we dutifully respond to the question of why we are
@@ -505,23 +484,19 @@ regard.
 
 At our SFO airport, there is now a full-body scanner at almost every
 security checkpoint. A notable exception is Terminal 3, from where
-most domestic flights with United Airlines depart, as there is no
+most domestic flights with United Airlines depart, as there is not enough
 space for the scanners in the security area.
 
 @Z: Top product: Kona Red
 
-<pic images/kona-red.ps New fruit juice drink made from coffee beans:
-Kona Red.>
+<pic images/kona-red.ps New fruit juice drink made from coffee beans: Kona Red.>
 
 <em>Angelika</em> 
 Recently, we spent another 10 days on the Hawaiian island of Oahu to
 relax in the wonderful tropical climate. While we were stocking up on
 sunscreen and the like at Costco (yes, there is a Costco in Hawaii
 too), we discovered a sales stand offering a reddish fruit juice
-drink called...
-<LINK>http://www.konared.com|Kona Red" is already in English. It is a
-brand name, often associated with coffee products made from coffee
-beans grown in the Kona region of Hawaii.</LINK>
+drink called <LINK>http://www.konared.com|Kona Red</LINK>.
 When the friendly saleswoman, who looked as if she had just emerged
 from the waves with her surfboard, informed us that the juice is
 extracted from the fruit of the coffee plant, there was no stopping
@@ -530,10 +505,13 @@ love the one brewed from 100% Kona beans, which seems to taste three
 times better when you're on vacation in Hawaii. However, Kona coffee
 doesn't come directly from Oahu but from the island of Big Island
 (also called Hawaii). Just as the wine "Bordeaux" can only be called
-Bordeaux if it comes from the French region, real Kona coffee only
+Bordeaux if it comes from the French region with the same name,
+real Kona coffee only
 comes from the Kona region of the Big Island. Due to the volcanic,
 fertile soil and the mild climate there, coffee plants thrive
 particularly well in this region.
+
+TODO
 
 The fruit juice drink "Kona Red" is now made from the red fruit that
 surrounds and protects the future coffee bean. The drink consists of
