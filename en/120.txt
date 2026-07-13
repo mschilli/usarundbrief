@@ -267,15 +267,13 @@ did we do before the invention of the internet?
 
 <pic images/automatic-3.ps The automatic adapter for the car records the car's current location.>
 
-TODO
-
 <em>Michael</em> 
 We are known for not driving luxury cars but rather aging vehicles of
 the lower working class (now even *with* airbags!). However, when my
 colleagues show off their new Teslas, which they can remotely control
 out of a parking space via a smartphone app, I can't just stand by
 idly. The company "Automatic" manufactures an adapter that you plug
-into the diagnostic port under the dashboard, which connects to the
+into the diagnostic port under your car's dashboard. The device then connects to the
 owner's smartphone to send all sorts of interesting data about the
 vehicle's current location, speed, and whether the driver is
 accelerating like a maniac or slamming on the brakes.
@@ -286,14 +284,13 @@ The Pro version of the adapter costs about 120 dollars and provides
 mobile network data traffic for five years. The previous version,
 which I, as an early adopter par excellence, of course, already
 owned, did not yet have a wireless or GPS module and connected to a
-carried mobile phone when the engine was started, which did the heavy
+carried mobile phone when the engine was started, and the smartphone did the heavy
 lifting. However, this only worked in 20% of cases due to sloppy
 programming and would have been completely useless if the car had
-been stolen, as the car thief would hardly have set their phone to
+been stolen, as the car thief would hardly have their phone connected to
 the plug.
 
-<pic images/automatic-4.ps In 16 minutes, Michael drove to the beach
-in Pacifica to surf.>
+<pic images/automatic-4.ps In 16 minutes, Michael drove to the beach in Pacifica to surf.>
 
 Because the app continuously collects data, I know exactly where
 Angelika is currently driving with the car, where I parked, or how
@@ -306,31 +303,29 @@ Hint: Not long.
 <pic images/automatic-5.ps Statistics on distances traveled by car.>
 
 Since we drive two cars with plugs, I can see exactly which one
-consumes more fuel. Since each of us usually drives "our" car, a
+consumes more fuel. Since each of us usually drives "their" car, a
 direct driver comparison is even possible. In the event of an
 accident, a message is supposed to pop up on the phone, but
 fortunately, that hasn't happened yet. However, if the engine acts up
 and a warning light comes on, the plug reads the error code, and the
-app provides tips on what needs to be fixed.
+app provides tips on what needs to be fixed. Very useful!
 
-@Z: Vandals in the engine compartment
+@Z: Vandals In The Engine Compartment
 
-<pic images/honda-mouse-repair.ps Expensive fun: 350 dollars in
-damage to the car.>
+<pic images/honda-mouse-repair.ps Expensive fun: 350 dollars in damage to the car.>
 
 <em>Michael</em> 
 Recently, Angelika texted me during work hours, excitedly reporting
 that our (relatively) new car, a 2011 Honda Fit called "Brummi," was
 acting up and the automatic transmission was suddenly shifting gears
-very ungracefully. On my "Automatic" app on my phone, I could see
+very ungracefully. On the "Automatic" app on my phone, I could see
 that the automatic transmission was reporting an error, so I called
 my mechanic to schedule an appointment at his workshop. But he waved
 it off, saying he usually stays away from transmissions, and referred
 me to a transmission specialist in the Outer Mission district. Oh
 dear, I thought, this is going to be expensive.
 
-<pic images/outer-mission.ps In the Outer Mission, the world is still
-like it was 20 years ago, before all the techie lemmings came.>
+<pic images/outer-mission.ps In the Outer Mission, the world is still like it was 20 years ago, before all the techie lemmings came.>
 
 I got an appointment right away and dropped off Brummi. A few hours
 later, the transmission guy called me back and cheerfully told me he
@@ -344,20 +339,20 @@ and takes the car to the nearest workshop.
 
 <pic images/honda-tape.ps The supposedly rat-proof Honda tape.>
 
-For the cost of $350 for the electrical diagnosis and the replacement
+To the tune of $350 for the electrical diagnosis and the replacement
 of a few cables, I got Brummi back and thought about how it could
-have come to this. Well, in our underground garage, Brummi is parked
-right next to the compost bin, so the rats have their parties there
-at night, that's clear. And in January, it was unusually cold for a
-few days (almost zero degrees!), and since Angelika drives the car
+have come to this. Well, in our ground level garage, Brummi is parked
+right next to the compost bin, so rats celebrate their parties there
+at night, that seems obvious. And in January, it was unusually cold for a
+few days (almost zero degrees Celsius!), and since Angelika drives the car
 daily, it stayed nice and warm for an hour after being parked, likely
 attracting shivering rodents who also wanted a little snack.
 
 Rumors are circulating on the internet that car manufacturers have
 recently started making the insulation of cables in the engine
-compartment out of rodent-friendly material made from soy for
+compartment out of rodent-friendly material derived from soy for
 environmental reasons. The good old PVC coatings from the 90s are
-said to be more deterrent, according to the internet. In fact, our
+said to be more of a deterrent, according to the internet. In fact, our
 1991 Acura Integra, the legendary Perly Perlman, was parked in the
 same spot for at least five years without any cable-chewing rodents
 causing damage.
@@ -370,7 +365,7 @@ if it helps.
 
 @Z: Curious Tax Facts
 
-<pic images/turbo-tax.ps The miracle software "Turbo Tax>
+<pic images/turbo-tax.ps The miracle software "Turbo Tax">
 
 <em>Angelika</em> 
 The German press is now reporting so much about Trump that I hardly
@@ -383,9 +378,8 @@ his tax returns are off-limits.
 
 Although the demonstrations took place on April 15, the actual
 deadline this year was on Tuesday, April 18. This is because if April
-15 falls on a Saturday or Sunday, the taxes are not due until the
-following Monday.
-<RBLINK>20140615#4</RBLINK>
+15 falls on a Saturday or Sunday, taxes are not due until the
+following Monday (<RBLINK>20140615#4</RBLINK>).
 And this year, the people who procrastinate on filing their tax
 returns were doubly lucky because in the District of Columbia (i.e.,
 Washington D.C.), Monday, April 17th was a holiday ("Emancipation
@@ -408,13 +402,12 @@ Admittedly, postal items also get lost or end up in the wrong hands,
 because nothing is truly secure. The tax office also does not publish
 any data on how it actually scans the submitted forms, as it
 naturally wants all taxpayers to choose the electronic route to save
-costs. In the past, post offices had longer opening hours on tax
+expenses. In the past, post offices had longer opening hours on tax
 submission day. However, since the number of people sending their tax
 returns by mail has significantly decreased, the post office no
 longer does this.
 
-<pic images/post-office.ps This post office in San Francisco opens at
-7 a.m.>
+<pic images/post-office.ps This post office in San Francisco opens at 7 a.m.>
 
 But there is actually a post office in San Francisco that opens at
 seven o'clock in the morning from Monday to Friday. An absolute
@@ -427,9 +420,9 @@ his tax returns.
 
 What I actually wanted to say is that even people who don't have
 papers, meaning those who are in the USA illegally, file tax returns.
-How does that work? Since you can't get a Social Security number in
-the USA without official papers (although some undocumented
-individuals obtain one on the black market), and since this number
+How does that work? Since no one can get a Social Security number in
+the USA without official documents (although some undocumented
+individuals allegedly obtain them on the black market), and since this number
 also serves as a tax number, the American tax office issues tax
 numbers ("Individual Taxpayer Identification Number," or ITIN for
 short) for people without Social Security numbers. Even people who
@@ -449,10 +442,8 @@ The number belongs to a legitimate citizen who is unaware of this.
 When the undocumented immigrant files a tax return with their ITIN
 number, they include the earnings statement with the false Social
 Security number. The IRS notices this, of course,
-<LINK>http://bit.ly/2pivwKe|The translation to English is: "but
-operates special software | Tax office accepts tax returns of illegal
-immigrants.</LINK>
-... which firstly ignores the discrepancy and secondly ensures that
+<LINK>http://bit.ly/2pivwKe|but operates special software</LINK>
+which firstly ignores the discrepancy and secondly ensures that
 the rightful owner of the social security number is spared and does
 not have to pay taxes on the income of the illegal person.
 
@@ -468,13 +459,9 @@ the first time, there has been a decline in tax returns filed with an
 ITIN. The tax office is not allowed to share the gathered details
 with other authorities.
 
-@Z: The phrase "Pfennigfuchsen mit Benzin" can be translated to
-English as "penny-pinching with gasoline." "Pfennigfuchsen" is a
-German term that refers to being very frugal or stingy, often
-focusing on saving small amounts of money.
+@Z: Penny-Pinching When Buying Gas
 
-<pic images/divis-gas-shell.ps With a car wash, the gasoline is
-cheaper, but still more expensive than around the corner.>
+<pic images/divis-gas-shell.ps With a car wash, the gasoline is cheaper, but still more expensive than around the corner.>
 
 <em>Michael</em> 
 Anyone who is used to the fact that gasoline in Germany might cost 10
@@ -487,14 +474,12 @@ right on the border of our upscale neighborhood Noe Valley, a gallon
 of regular gasoline costs $3.74, and just a kilometer away, at the
 corner of Castro and Market, it's only $2.55.
 
-<pic images/gasbuddy.ps (#1) In our neighborhood, regular gasoline
-costs 3.74 dollars per gallon, but just a kilometer away it costs
-only 2.55 dollars.>
+<pic images/gasbuddy.ps (#1) In our neighborhood, regular gasoline costs 3.74 dollars per gallon, but just a kilometer away it costs only 2.55 dollars.>
 
 Call me a stick-in-the-mud or a (Bavarian) Swabian, but I would
 rather drive 10 kilometers than pay even 10 cents more for gas.
 Angelika can tell horror stories about how, during our last vacation
-in Germany, I drove off the highway to reach a farm gas station that
+in Germany, I drove off the highway to reach a rural gas station that
 promised cheap fuel according to an app, but then, surprisingly, it
 was closed on Sunday, and we almost ran out of gas in the middle of
 the desolate North German Plain!
@@ -510,17 +495,16 @@ accept cash and not credit cards, or they charge an additional fee
 for card payments. Instead of cash, you can also pay at these
 discount gas stations with debit cards and a PIN, but I never do that
 for security reasons. If someone skims the PIN and empties the
-account, the bank shifts the responsibility onto the customer,
-whereas the credit card company assumes full liability. Additionally,
+bank account, the bank shifts responsibility onto the customer,
+whereas credit card companies assume full liability. Additionally,
 customers with a good credit score receive credit cards that offer
-cash back when used for payments. I'm not talking about some bonus
+cash back when they use them for payments. I'm not talking about some bonus
 miles that some people use to book time-consuming, uncomfortable
-flights, but actual so-called cash back, where the card company
+flights, but actual cash back, where the card company
 refunds the customer an impressive 4% of the gas price, in cash, also
-known as "money," "mula," or in Bavarian, "Diri-Dari.
+known as "money," "mula," or in Bavarian, "Diri-Dari."
 
-<pic images/divis-gas-arco.ps Arco only accepts cash or ATM cards, so
-the penny-pincher misses out on the credit card discount.>
+<pic images/divis-gas-arco.ps Arco only accepts cash or ATM cards, so the penny-pincher misses out on the credit card discount.>
 
 Chains like "Arco" or "Rotten Robbie" don't accept credit cards, so
 the penny-pincher has to weigh the options: If the gas station across
@@ -535,14 +519,13 @@ behind the last Valley lemming with too much free time and wait 20
 minutes; instead, I pay 10 cents more elsewhere, because time is
 money.
 
-<pic images/gas-costco.ps At the mega-discount store Costco, the
-gasoline costs 10 cents less, but it is only recommended at night.>
+<pic images/gas-costco.ps At the mega-discount store Costco, the gasoline costs 10 cents less, but it is only recommended at night.>
 
 By the way, diesel is generally more expensive than regular gasoline
 in America. Often, it is not even listed on the large price boards,
 and some gas stations in remote areas do not carry it at all. This is
-further proof that demand dictates the price, not the production
-costs. Gas stations typically offer gasoline in three different
+further proof that demand dictates price, not production
+cost. Gas stations typically offer gasoline in three different
 octane ratings: Regular (87), Mid-Grade (89), and Premium (92-93).
 Our small but feisty Honda Fit is satisfied with "Regular," while our
 Acura "Rocket" Integra guzzles an inordinate amount of "Premium"
@@ -555,9 +538,6 @@ only 9 cents more for "Premium," probably to avoid crossing the
 4-dollar mark, because even the dumbest hipster would notice they are
 being ripped off.
 
-The translation from German to English is: "Greetings from the center
-of the capital:
+Greetings from the center of the capital:
 
-The translation of "Angelika und Michael" to English is "Angelika and
-Michael.
-
+Angelika und Michael
