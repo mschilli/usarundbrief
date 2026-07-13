@@ -238,21 +238,17 @@ occasionally wrong! Trump now communicates almost exclusively through
 this channel with the unwashed masses. And many companies even handle
 their customer service through it.
 
-TODO
-
 If a website or a purchased product doesn't work, I no longer call
 the hotline, but instead, I send out a so-called "tweet" in which I
 mention the company with
-<em>@firma</em> 
-Translate to English: "mention. Both my 'followers' and the company
-will read it, and soon there will be hectic activity there, so that a
-hopefully satisfactory answer can be announced a few minutes later to
-the potentially hundreds of thousands of the company's followers:
-Yes, yes, the error is known, and the engineers are working on it, or
-have even already fixed it!
+<em>@company_name</em>. Both my 'followers' and the company
+will read it, and soon there will be hectic activity there, so that
+company representatives will hopefully respond
+few minutes, visible to to
+potentially hundreds of thousands of the company's followers:
+"Yes, yes, the error is known, and the engineers are working on it!"
 
-<pic images/manning-twitter.ps (#5) The translation to English is:
-"Customer complains on Twitter, heads roll.>
+<pic images/manning-twitter.ps (#5) Customer complains on Twitter, heads start rolling>
 
 A win-win for everyone involved: The dissatisfied customer feels
 taken seriously, and the company demonstrates, in a PR-effective
@@ -267,10 +263,11 @@ purchase worked thanks to an overnight fix. As a customer, I felt
 like a king, and my previous day's frustration was forgotten. What
 did we do before the invention of the internet?
 
-@Z: Smart Car with automatic plug
+@Z: Smart Car With Automatic Plug
 
-<pic images/automatic-3.ps The automatic adapter for the car records
-the car's current location.>
+<pic images/automatic-3.ps The automatic adapter for the car records the car's current location.>
+
+TODO
 
 <em>Michael</em> 
 We are known for not driving luxury cars but rather aging vehicles of
