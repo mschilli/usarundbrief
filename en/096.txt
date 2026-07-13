@@ -511,8 +511,6 @@ comes from the Kona region of the Big Island. Due to the volcanic,
 fertile soil and the mild climate there, coffee plants thrive
 particularly well in this region.
 
-TODO
-
 The fruit juice drink "Kona Red" is now made from the red fruit that
 surrounds and protects the future coffee bean. The drink consists of
 100% fruit juice with no added sugar and tastes very refreshing. It
@@ -525,22 +523,24 @@ water.
 
 @Z: Small scratches on the rental car
 
-<pic images/alamo.ps The car rental company Alamo requires the driver
-to report only scratches that are larger than this circle.>
+<pic images/alamo.ps The car rental company Alamo requires the driver to report only scratches that are larger than this circle.>
 
 <em>Angelika</em> 
-We have reported on car rentals in the USA quite a few times. There
+We have written about car rentals in the USA quite a few times. There
 are several things to consider, and it can often be confusing for
 foreign tourists because, in my opinion, car rental companies all
 operate somewhat unscrupulously and often rip off customers. But I
-digress. When you pick up the car, most car rental companies here
+digress.
+
+When you pick up the car, most car rental companies here
 usually give you a sheet of paper with a picture of a car, and the
-customer is supposed to mark scratches, dents, and the like on the
+customer is supposed to mark pre-existing scratches, dents, and the like on the
 illustration to record any existing minor damages, so there are no
 misunderstandings later on. Every time, Michael and I wonder what
 actually counts as a dent or scratch. Rental cars in the USA
 typically have minor scratches, especially on the trunk, where
 luggage is constantly being loaded and unloaded, or on the bumpers.
+
 Americans generally handle their cars a bit more casually, and no one
 really cares if the front or rear bumper makes contact with another
 car while parking. We also keep noticing that different car rental
@@ -548,6 +548,7 @@ companies have different standards. So we were pleased when, in
 Hawaii, the Alamo car rental agent handed us another sheet of paper,
 which, in addition to the obligatory car diagram for marking damages,
 included a guide explaining what should be marked and what shouldn't.
+
 A cut-out circle with a diameter of 5 cm served as a guideline: all
 scratches that fit within the circle were excluded. There was no need
 to worry about scratches on the bumpers at all. We have no idea if
@@ -558,8 +559,7 @@ patience for it.
 
 @Z: Red Plastic Cup
 
-<pic images/red-plast-cup.ps In the video "Red Plastic Cup" by "NO
-I.D.," the young adults are enjoying drinks from red plastic cups.>
+<pic images/red-plast-cup.ps In the video "Red Plastic Cup" by "NO I.D.," the young adults are enjoying drinks from red plastic cups.>
 
 <em>Michael</em> 
 When invited to a party in America, you are almost certain to drink
@@ -569,31 +569,19 @@ bad from them as they do from white plastic cups, but of course, no
 educated European would subject their guests to such proletarian
 vessels.
 
-<pic images/red-cup-costco.ps At Costco, 240 red plastic cups cost
-only $9.99.>
+<pic images/red-cup-costco.ps At Costco, 240 red plastic cups cost only $9.99.>
 
-The translation of the German phrase "Dass die Plastikbecher nicht
-gerade umweltfreundlich sind nimmt der" to English is: "The fact that
-the plastic cups are not exactly environmentally friendly is taken by
-the". However, the sentence seems incomplete, so the full context or
-continuation would be needed for a complete translation.
-<LINK>http://www.youtube.com/watch?v=BKZqGJONH68|The translation to
-English is: "Prolo singer Toby Keith in the video 'Red Solo
-Cup'</LINK>
-The line "cheap and disposable, in 14 years they are decomposable"
-("billige Wegwerfware, und verrotten in 14 Jahren") is being mocked.
+The fact that
+the plastic cups are not exactly environmentally friendly is taken on by
+the <LINK>http://www.youtube.com/watch?v=BKZqGJONH68|redneck singer Toby Keith in the video 'Red Solo Cup'</LINK>
+by the line "cheap and disposable, in 14 years they are decomposable".
 And even young, trendy adults are singing about the drinking cups,
-such as the...
-<LINK>http://www.youtube.com/watch?v=oRS4h5Ax8zw|Student rapper
-"No-ID" in the video "Red Plastic Cup</LINK>
+such as the
+<LINK>http://www.youtube.com/watch?v=oRS4h5Ax8zw|Student rapper "No-ID" in the video "Red Plastic Cup</LINK>.
 In our home, of course, only glass glasses are placed on the table,
 after all, we come from the old world and never tire of emphasizing
 this.
 
-The translation of "GrÃ¼Ãe aus der neuen Welt" to English is
-"Greetings from the New World.
+Greetings from the New World!
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
