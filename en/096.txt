@@ -180,27 +180,14 @@ conditions to America. Under the freedom of speech that applies in
 the USA, anyone is allowed to say such things, and most people simply
 ignored the booth with a smirk.
 
-TODO
-
-<LINK>http://www.mediaite.com/tv/whos-behind-the-obama-as-hitler-post
-ers|In the Internet|Who is behind the Obama-as-Hitler posters?</LINK>
+<LINK>http://www.mediaite.com/tv/whos-behind-the-obama-as-hitler-posters|On the Internet</LINK>
 I found out that the campaign is funded by a right-wing nut named
 Lyndon LaRouche, who claims that in a state health system, there
 would inevitably be bureaucrats from the health insurance companies
 deciding who could receive which medical services and who could not.
-Consequently, the...
-<LINK>http://www.larouchepac.com|The translation of "LaRouche
-Political Action Committee" to English is the same, as it is a proper
-noun.</LINK>
-The translation of the German phrase "sei das nichts anderes als die
-sogenannte" to English is "be nothing other than the so-called.
-<LINK>http://de.wikipedia.org/wiki/Aktion_T4|Aktion T4, or Action T4
-in English, was a program implemented by Nazi Germany that aimed at
-the systematic involuntary euthanasia of individuals deemed "unworthy
-of life" due to severe disabilities or illnesses. This program was
-part of the broader eugenics policies of the Nazi regime and resulted
-in the deaths of an estimated 70,000 to 300,000 people.</LINK>
-Translation: "with which the Nazis exterminated so-called 'life
+That, the <LINK>http://www.larouchepac.com|LaRouche Political Action Committee"</LINK> argues, be no different than the so-called
+<LINK>http://de.wikipedia.org/wiki/Aktion_T4|Aktion T4</LINK>
+with which the Nazis exterminated so-called 'life
 unworthy of life' starting in 1940. Of course, this is a bold
 argument, because in any health insurance system, someone always
 decides over life and death, and the current healthcare system in the
@@ -210,38 +197,27 @@ allowed to talk nonsense, and I have nothing against that.
 German politicians, by comparison, seem relatively sensitive and
 immediately call for the help of "Papa Prosecutor" if someone steps
 on their toes in an offensive manner. The ousted German President
-Wulff, for example, has...
-<LINK>http://www.faz.net/aktuell/feuilleton/staatsschutzkammer-verhan
-delt-gegen-blogger-bundespraesident-wulff-klagt-11585574.html|The
-translation to English is: "filed a lawsuit against an unknown
-blogger | Wulff files a lawsuit against blogger.</LINK>
-...because he made a biting comment on a photo showing Mrs. Wulff
+Wulff, for example, has <LINK>http://www.faz.net/aktuell/feuilleton/staatsschutzkammer-verhandelt-gegen-blogger-bundespraesident-wulff-klagt-11585574.html|filed a lawsuit against an unknown blogger</LINK>
+because he made a biting comment on a photo showing Mrs. Wulff
 with her right arm raised. At that time, it was not yet known that
-Wulff, in a lordly manner, even tried to manipulate the tabloid
-press.
+Wulff, in a lordly manner, <LINK>https://en.wikipedia.org/wiki/Causa_Wulff|even tried to manipulate the tabloid press</LINK>.
 
-@Z: SehschÃ¤rfe: 20/20 Vision
+@Z: 20/20 Vision
 
-<pic images/visual-acuity.ps Anyone who can still read the line above
-the red bar on the eye chart from 6 meters away has eagle eyes.>
+<pic images/visual-acuity.ps Anyone who can still read the line above the red bar on the eye chart from 6 meters away has eagle eyes.>
 
 <em>Michael</em> 
 In the USA, if someone sees sharply like an eagle even without
-glasses, they are said to have...
-<LINK>http://en.wikipedia.org/wiki/20/20_vision|The term "20/20
-Vision" is already in English. It refers to normal visual acuity,
-which means the clarity or sharpness of vision, measured at a
-distance of 20 feet. If you have 20/20 vision, you can see clearly at
-20 feet what should normally be seen at that distance.</LINK>
+glasses, they are said to have <LINK>http://en.wikipedia.org/wiki/20/20_vision|20/20 vision</LINK>.
 The first "twenty" in the vision test indicates the distance of the
 person from the eye chart in feet. "20" therefore stands for 20 feet,
 which is approximately 6 meters. The second "twenty" indicates the
 distance from the eye chart at which a person with normal vision can
 still read the letters of the respective line (whose size varies).
-For the scientists among you, this is the distance at which the line
+For the scientists among you, this is the distance at which the letter
 height corresponds exactly to one arcminute.
 
-If someone standing 20 feet away from the eye chart also sees only a
+If someone standing 20 feet away from the eye chart sees only a
 blur, they might only be able to read letters that are twice as
 large, which a person with normal vision could recognize from 40 feet
 away. In that case, the visual acuity is not 20/20, but 20/40. A
@@ -261,8 +237,7 @@ without errors. If not, you must get glasses and retake the test with
 them. The DMV officer will then note on your license that you are
 only allowed to drive with glasses.
 
-<pic images/dmv.ps The vision test at the DMV follows a predictable
-pattern.>
+<pic images/dmv.ps The vision test at the DMV follows a predictable pattern.>
 
 When I took the test recently, I noticed that the letters of all the
 lines and all the boards follow an easily memorable pattern. It is
@@ -270,13 +245,12 @@ always the same sequence, but it is rotated. So, in one line, it
 might say "Z F T P A G K" and in the next "P A G K Z F T". Anyone
 scoring over 100 on intelligence tests will surely quickly figure out
 the pattern. The DMV probably does this for efficiency reasons, so
-that the employees only have to remember one sequence and can easily
+that the employees only have to memorize one sequence and can easily
 verify what is said without turning around to look at the board.
 
-@Z: Parking tricks for advanced users
+@Z: Parking Tricks For Advanced Users
 
-<pic images/tow-truck.ps The tow truck is taking away a wrongly
-parked car.>
+<pic images/tow-truck.ps The tow truck is taking away a wrongly parked car.>
 
 <em>Michael</em> 
 We live in a city where there is a relentless battle for parking
@@ -286,19 +260,16 @@ strolling along but is actually heading towards a parked car. You
 slam on the brakes with tires screeching, possibly make a quick
 U-turn, and immediately position yourself with the turn signal on
 until the other person leaves and you can maneuver into the parking
-spot. I park in the tightest spaces, on streets with up to 30%
+spot. I can park in the tightest spaces, on streets with up to 30%
 inclines, on the left side of one-way streets, and if necessary, even
 directly in front of sleeping homeless people or a social housing
 project in a troubled area. Whenever we're on vacation driving a
 rental car in a city where the competition is less fierce, I almost
 feel sorry for the other parking seekers when they lose out because I
 employ my big-city repertoire. I only have respect for New Yorkers
-since I...
-<LINK>http://gawker.com/5866401/this-man-is-a-parallel-parking-god|Th
-e translation of "Video eines Superparkers" to English is "Video of a
-Super Parker.</LINK>
-The translation of "gesehen habe" from German to English is "have
-seen.
+since I saw the <LINK>http://gawker.com/5866401/this-man-is-a-parallel-parking-god|video of a super parker</LINK>.
+
+TODO
 
 Back to the aforementioned parking booklet: The author also describes
 the most bizarre parking tricks, such as the one where you can park
