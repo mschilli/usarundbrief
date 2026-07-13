@@ -86,25 +86,18 @@ sushi fabric from "Mendel's." The store has been around since the
 
 <pic images/zeitgeist-door.ps Behind the entrance door of the Zeitgeist, the bouncer checks the IDs of baby-faced individuals.>
 
-TODO
-
 <em>Angelika</em> 
-You have surely already read here that ugly, characterless,
+You have surely already read here that ugly, bland,
 overpriced residential high-rises are increasingly dominating the
-cityscape of San Francisco, displacing beloved and traditional
-places. However, sometimes the long-established residents of this
-city also win, in this case the pub.
-<LINK>http://www.zeitgeistsf.com|The word "Zeitgeist" translates to
-"spirit of the time" or "spirit of the age" in English. The phrase
-"Kneipe 'Zeitgeist'" would translate to "Pub 'Zeitgeist'" or "Bar
-'Zeitgeist'".</LINK>
-.
+cityscape of San Francisco, displacing beloved and traditionally
+designed places. However, occasionally, there's a win for the long-established residents
+of this, in this case it's pub named
+<LINK>http://www.zeitgeistsf.com|Zeitgeist</LINK>.
 
-<pic images/zeitgeist-bar.ps At Zeitgeist Bar, there's already
-something happening on Saturday afternoons.>
+<pic images/zeitgeist-bar.ps The Zeitgeist bar is busy even on Saturday afternoons.>
 
-Behind the German-sounding name lies a legendary hangout bar with a
-beer garden, which has been providing refreshment for thirsty throats
+Behind the German-sounding name lies a legendary dive bar with a
+beer garden, which has been providing refreshments for thirsty throats
 on Valencia Street in San Francisco since 1977, initially under the
 name "Rainbow Cattle Company." The owner, Horst Hans Grahlmann, a
 German who ended up in San Francisco, renamed the bar "Zeitgeist" in
@@ -116,34 +109,30 @@ almost deprived of sunlight by a hipster apartment block.>
 Grahlmann was a flamboyant figure in the bar scene; he owned several
 bars in San Francisco and the surrounding area and was murdered under
 mysterious circumstances in 1998 at his home on the Russian River
-near Guerneville. The "Zeitgeist" has changed owners several times
+near Guerneville. The "Zeitgeist" bar has changed owners several times
 since then, is somewhat dimly lit and slightly disreputable inside,
-and was probably more popular with the biker underworld in the past.
+and was more popular with the biker underworld in the past.
 But nowadays, the pub and beer garden attract a diverse crowd. Not
 only is there good draft beer, but supposedly also the best "Bloody
 Marys" in San Francisco.
 
-<pic images/zeitgeist-garten-2.ps Even with only two hours of
-sunshine a day, the beer garden is packed.>
+<pic images/zeitgeist-garten-2.ps Even with only two hours of sunshine a day, the beer garden is packed.>
 
 The beer garden idyll was recently threatened, as the oil change
-workshop "Oil Changer" directly across from "Zeitgeist" was to be
+location "Oil Changer" directly across from "Zeitgeist" was to be
 demolished and replaced with a new, ugly residential block. However,
-the height of the residential block would have taken away the
+the new, extremely tall residential building would have taken away the
 afternoon sunlight from the Zeitgeist beer garden. The planning
 commission in San Francisco discussed the issue, promptly intervened,
 and decided that the planned residential building must be reduced in
 height by 1.5 meters (5 feet) so that the beer garden tables would
 not be shaded.
 
-<pic images/zeitgeist-oil-changer.ps Where the oil change workshop is
-now, the monstrous hipster apartment block is supposed to go.>
+<pic images/zeitgeist-oil-changer.ps Where the oil change workshop is now, the monstrous hipster apartment block is supposed to go.>
 
-San Francisco has actually had a ... since 1984.
-<LINK>http://bit.ly/2p9cVFe|The term "Sonnenlichtverordnung"
-translates to "Sunlight Ordinance" in English. Therefore,
-"Sonnenlichtverordnung San Francisco" would be "Sunlight Ordinance
-San Francisco.</LINK>
+San Francisco has actually has had a
+<LINK>http://bit.ly/2p9cVFe|"Sunlight Ordinance"</LINK>
+since 1984.
 The regulation stipulates that architects of new buildings must
 conduct a shadow analysis if the new building exceeds 12 meters in
 height. The construction must not literally cast public parks into
@@ -155,34 +144,31 @@ can only sit outside under heaters.
 
 @Z: Clean Power San Francisco
 
-<pic images/pge-flyer-title.ps The colorful stream of happy
-electricity cows.>
+<pic images/pge-flyer-title.ps The colorful stream of happy electricity cows.>
 
 <em>Michael</em> 
 We get our electricity and gas here on the northern Pacific coast
 from the local energy provider "Pacific Gas and Electricity" (PG&E).
 Since we have an (admittedly: idiotic) electric heating system, our
-electricity bill fluctuates significantly between the summer and
+electricity bill fluctuates significantly between summer and
 winter months, ranging from about 70 to 120 dollars per month. As you
 can see in Figure (#2), we consumed exactly 692 kilowatts of
 electricity in the brutally cold December 2016, according to the
-meter reader, who doesn't come exactly every 30 days but rather at
+meter reader, who swings by roughly every 30 days, subject to
 their discretion.
 
-<pic images/pge-2017-01.ps Our electricity bill for December is quite
-steep.>
+<pic images/pge-2017-01.ps Our electricity bill for December is quite steep.>
 
 The first 432 kilowatts cost approximately 18 cents each, while the
 cost for the remaining 260 kilowatts increases by about 33% to 24
 cents. Power producers charge proportionally more for above-average
-consumption because power surges are expensive, for example, on
+consumption because power surges are expensive to manage, for example, on
 extremely hot summer days when everyone in Silicon Valley turns on
 their air conditioning.
 
-<pic images/pge-tiers.ps (#2) The electricity price per kilowatt
-depends on the total consumption.>
+<pic images/pge-tiers.ps (#2) The electricity price per kilowatt depends on the total consumption.>
 
-Some time ago, a colorful brochure arrived at the house, announcing
+Some time ago, a colorful brochure arrived at our house, announcing
 that starting in December 2016, electricity generation and delivery
 would be billed separately. PG&E would no longer be responsible for
 generation; instead, a new company called "CleanPowerSF" would take
@@ -191,21 +177,20 @@ nuclear and other power plants, and only 29.5% from renewable
 energies, but with the "Green" plan, it would generate 40%
 environmentally friendly electricity. Those who wanted to be
 proactive and were willing to pay more could order "Supergreen,"
-which used 100% renewable energies. Those who were more conservative
+which uses 100% renewable energies. Those who were more conservative
 and disdained being green could opt out and continue to receive the
 good old PG&E electricity. Naturally, we did nothing and, like most
 lethargic people, were forcibly greened.
 
-<pic images/pge-announce.ps Customers have the choice between Green,
-Supergreen, and Opt-out.>
+<pic images/pge-announce.ps Customers have the choice between Green, Supergreen, and Opt-out.>
 
 <pic images/pge-chart.ps Allegedly, green is as expensive as before.>
 
-As soon as the December bill fluttered into households, the wailing
+However, as soon as the December bill fluttered into households, the wailing
 and gnashing of teeth began on the neighborhood complaint site
-Nextdoor.
-<RBLINK>20140914#5</RBLINK>
-A homeowner had to pay 450 dollars! It turned out that the increased
+Nextdoor (<RBLINK>20140914#5</RBLINK>).
+A homeowner in the neighborhood reportedly
+had to pay 450 dollars! It turned out that the increased
 bill amount was due to four different reasons. Firstly, we had an
 unusually cold winter, and when temperatures are near freezing,
 Californians shiver like aspen leaves and turn up the heating.
@@ -218,24 +203,21 @@ December amounted to $142.38 ($91.89 for the provider CleanPowerSF
 and $50.49 to PG&E for delivery), but in the following months, it
 normalized again.
 
-<pic images/pge-flyer.ps The power producer is trying to explain the
-new bill.>
+<pic images/pge-flyer.ps The power producer is trying to explain the new bill.>
 
 However, the discussion was already in full swing, and most people
 were blaming the new green energy producer, even though it was only
-partially at fault. Additionally, everyone here deeply hates the
+partially at fault. Additionally, everyone around here deeply hates the
 company PG&E because about seven years ago in San Bruno, a suburb of
 San Francisco,
-a gas pipeline exploded due to maintenance negligence
-... triggered a huge fire in which eight people died, and had to pay
-approximately 1.6 billion dollars in damages.
+a gas pipeline exploded due to maintenance negligence,
+triggered a huge fire in which eight people died, and PG&E
+had to pay approximately 1.6 billion dollars in damages.
 
-<pic images/pge-increase.ps (#3) To fool the solar installers,
-Pacific Gas and Electricity is raising prices for low-consumption
-users.>
+<pic images/pge-increase.ps (#3) To fool the solar installers, Pacific Gas and Electricity is raising prices for low-consumption users.>
 
 And now the criminal company has pulled off another coup: Many
-homeowners are now installing solar panels on their roofs and
+homeowners are installing solar panels on their roofs and
 generating most of their electricity themselves. Only at night do
 they sometimes need to add a few drops of PG&E electricity, and what
 does PG&E do? Naturally, the gang of crooks wasn't thrilled about the
@@ -244,18 +226,19 @@ new competition and raised the prices for low-consumption users up to
 enthusiasts, who are now, of course, up in arms. Let's see how this
 continues; the last word has not yet been spoken.
 
-@Z: Customer complaints on Twitter
+@Z: Customer Complaints On Twitter
 
-<pic images/twitter.ps One of the most underrated Twitter accounts in
-the world.>
+<pic images/twitter.ps One of the most underrated Twitter accounts in the world.>
 
 <em>Michael</em> 
-When Twitter came out back in 2006 with the concept of sending short
+When Twitter first came out, back in 2006, with the concept of sending short
 messages with a maximum of 140 characters, I thought, "I'll give that
-silly club a year before the investors pull the plug," but even I am
+silly club a year before investors pull the plug," but even I am
 occasionally wrong! Trump now communicates almost exclusively through
 this channel with the unwashed masses. And many companies even handle
 their customer service through it.
+
+TODO
 
 If a website or a purchased product doesn't work, I no longer call
 the hotline, but instead, I send out a so-called "tweet" in which I
