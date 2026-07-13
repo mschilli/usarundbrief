@@ -295,17 +295,13 @@ otherwise the tow truck will come immediately.
 
 <pic images/bryant-tow.ps In the underground parking garage of the shopping center on 17th Street, so-called "walk-offs" are also prohibited.>
 
-TODO
-
 The book also explains the white, yellow, green, and red curb colors,
 which even locals in San Francisco often do not understand, and
 therefore sometimes pass up free parking spots in otherwise
-completely parked-up hipster neighborhoods! If the curb is red, you
-are not allowed to park there.
+completely parked-up hipster neighborhoods! Starting with the obvious,
+if the curb is red, you are not allowed to park there.
 
-<pic images/curb-green.ps (#3) The green curb marks a zone in front
-of a store where parking is only allowed for 10 minutes between 9 AM
-and 6 PM.>
+<pic images/curb-green.ps (#3) The green curb marks a zone in front of a store where parking is only allowed for 10 minutes between 9 AM and 6 PM.>
 
 If it is yellow, it indicates a loading zone, and a label specifies
 the times during which the parking space is reserved for goods
@@ -315,14 +311,13 @@ short-term parking zones, for example, in front of a small
 convenience store, where vehicles are allowed to park quickly for 10
 minutes to run errands, according to the yellow label (see
 illustration (#3)). White-painted curbs reserve a parking space for
-dropping off people, for example, in front of nightclubs. They also
+dropping off passengers, for example, in front of nightclubs. They also
 have a label indicating the duration of the restriction; in front of
 nightclubs, you can often park wonderfully in the afternoons!
 
-@Z: We are terminating our contract with the telephone company AT&T.
+@Z: We Are Terminating Our Contract With The Telephone Company AT&T.
 
-<pic images/sonic-net.ps The company Sonic.net offers better and
-cheaper internet than the telephone company AT&T.>
+<pic images/sonic-net.ps The company Sonic.net offers better and cheaper internet than the telephone company AT&T.>
 
 <em>Michael</em> 
 Switching your internet provider is risky because being without
@@ -330,6 +325,8 @@ internet even for a few days is not feasible nowadays. However, after
 the phone company AT&T had annoyed me for years by charging $10 just
 to tell me the calling number (Caller ID), I was practically waiting
 to get back at the sluggish monopoly.
+
+TODO
 
 A while ago, a company called Sonic.net from the North Bay entered
 the market, leasing the telephone lines from AT&T on the "last mile"
