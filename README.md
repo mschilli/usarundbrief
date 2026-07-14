@@ -1,4 +1,4 @@
-=head1 USArundbrief.com - Two Germans in San Francisco and their view of the world
+## USArundbrief.com - Two Germans in San Francisco and their view of the world
 
 This website is a non-commercial publication by Michael and Angelika
 Schilli. It is dubbed "USA Rundbrief", "Rundbrief" being the German
@@ -18,7 +18,7 @@ cheap, too stupid, or too embarrassing.
 New editions of this publication usually are released every other month
 (give or take a month, depending on how busy/lazy the authors are). To
 get notified by email when a new release is ready, subscribe to the
-<a href="https://groups.google.com/g/usarundbrief">USArundbrief.com Google Group list</a>.
+[USArundbrief.com Google Group list](https://groups.google.com/g/usarundbrief)
 The list is used exclusively for announcements of new editions, so
 traffic is limited to one email every two months. Also, we guarantee to
 keep your email private.
@@ -27,7 +27,7 @@ Enjoy, and let us know if you like it.
 
 Mike & Angelika
 
-=head2 License
+## License
 
 Unless stated otherwise, you may use this site's content, even commercially, under the
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+[Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License)
