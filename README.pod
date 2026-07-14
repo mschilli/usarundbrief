@@ -1,83 +1,33 @@
-=head1 USArundbrief.com Looking for Translators
+=head1 USArundbrief.com - Two Germans in San Francisco and their view of the world
 
-The content on usarundbrief.com is produced in German, but we also have
-English-speaking readers, which is why we translate the original articles
-after they've been published. 
+This website is a non-commercial publication by Michael and Angelika
+Schilli. It is dubbed "USA Rundbrief", "Rundbrief" being the German
+word for "circulated newsletter".
 
-If you find that an article hasn't been translated yet, you can help
-us out by submitting a translation, even if it's just a small part of
-an article! The steps below outline how to get the source in German and
-go about translating it to English. If your translation looks good 
-(don't stress out, but please no machine translations) we'll give you 
-credit on the translated page. You can find our email here: 
-http://usarundbrief.com/home/impressum-en.html
+Both authors were born, raised, and schooled in Germany, and after
+having worked six years for German companies, in 1996, they felt an
+adventurous itch and decided to move to the United States. They had planned
+for a year, but they happened to fall in love with the city of San
+Francisco and stayed there.
 
-We really appreciate all submissions!
+Topics covered here are typical struggles of European immigrants, and
+everyday American occurrences which sometimes sound absurd or hilarious
+when examined by open-minded Europeans. No topic is considered to be too
+cheap, too stupid, or too embarrassing.
 
-This Github project contains the raw text content of 
-http://usarundbrief.com, 
-a site of two Germans living in San Francisco and blogging their 
-experiences in a foreign country.
+New editions of this publication usually are released every other month
+(give or take a month, depending on how busy/lazy the authors are). To
+get notified by email when a new release is ready, subscribe to the
+<a href="https://groups.google.com/g/usarundbrief">USArundbrief.com Google Group list</a>.
+The list is used exclusively for announcements of new editions, so
+traffic is limited to one email every two months. Also, we guarantee to
+keep your email private.
 
-This repo helps the authors and translators of the site to collaborate. 
-In the "de" subdirectory, you'll find the source of the German originals,
-in the "en" subdirectory, the English translations completed so far.
+Enjoy, and let us know if you like it.
 
-The files are named "000.txt", "001.txt", and so forth, reflecting the
-corresponding newsletter editions.
+Mike & Angelika
 
-=head2 Formatting
+=head2 License
 
-The content files use a specific markup language. There's only
-a few tags to remember, if you volunteer to translate a specific 
-edition, please keep those tags intact, so that the automatic formatter
-can render the translation appropriately.
-
-Also, please keep the paragraphs intact and use short lines, not 
-exceeding 50 characters. This makes sure we can fix typos and get
-easy-to-read "diff" files.
-
-=head3 The Pic Tag
-
-Fotos embedded in the content are referenced by the C<pic> tag:
-
-    <pic images/diego.ps German Text>
-
-If you translate such a tag, please keep the image name and just
-translate the caption:
-
-    <pic images/diego.ps This is the English caption text.>
-
-Also, as an exception to the 50-char limit on lines, please keep 
-the tag and caption in a single line.
-
-=head3 Emphasized Content
-
-Content to be displayed in italics is marked up with the C<em> tag:
-
-    <em>Angelika</em>
-    Nun will ich ...
-
-This is used often to indicate who wrote a specific paragraph.
-
-=head3 Headlines
-
-Headlines start with the character sequence C<@Z:> and should be
-kept intact:
-
-    @Z: Erdbeben
-
-=head3 HTMLONLY and other tags
-
-Occasionally, there's other tags being used for more obscure formatting,
-please keep those intact as well and keep corresponding tags (e.g.
-C<E<lt>RBLINKE<gt>...E<lt>/RBLINKE<gt>>) on I<one> line, another
-exception to the 50-char limit rule above.
-
-=head2 Finally ...
-
-That's about it, thanks for your contributions and send us an email if 
-you want to contribute. Email addresses are listed in the "Impressum"
-section of the site!
-
-Mike and Angelika
+Unless stated otherwise, you may use this site's content, even commercially, under the
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
