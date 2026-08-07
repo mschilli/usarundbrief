@@ -368,7 +368,7 @@ heutzutage wieder voll en vogue. Jede gute Videothek leiht die DVDs
 aus. Schwelgt einfach mal für einen lustigen Abend in der Vergangenheit,
 und seht zu, wie zwei fesche Cops streitbares langhaariges Gesindel jagen!
 
-@Z: PG\&E SmartMeter
+@Z: PG&E SmartMeter
 
 <pic images/smartmeter.ps Ist das SmartMeter der Elektrizitätswerke wirklich so schlau?>
 
@@ -384,10 +384,10 @@ Francisco sondern in ganz Kalifornien sogenannte
 
 Die neuen
 digitalen Zähler messen den Strom- und Gasverbrauch, und die Daten werden
-dann drahtlos an die Gas- und Elektrizitätswerke (PG\&E in San Francisco)
+dann drahtlos an die Gas- und Elektrizitätswerke (PG&E in San Francisco)
 übermittelt. Der Kunde kann dann jederzeit am Computer verfolgen,
 wieviel Strom er gerade verbraucht, denn der Strom wird stündlich
-abgelesen. PG\&E hofft, auf lange Sicht durch eine variable, 
+abgelesen. PG&E hofft, auf lange Sicht durch eine variable, 
 tageszeitabhängige Preisgestaltung, Kunden dazu zu bewegen, den
 eigenen Verbrauch dementsprechend anzupassen.
 
@@ -395,7 +395,7 @@ Lustigerweise scheinen die "SmartMeter" aber doch nicht so schlau zu
 sein, wie ihr Name suggeriert. 
 Manche Kunden, die bereits einen neuen digitalen Zähler haben, beklagen,
 dass ihre Strom- und Gasrechnung plötzlich dramatisch (bei einigen
-Kunden einige Hundert Dollar) angestiegen ist. PG\&E behauptet aber, es
+Kunden einige Hundert Dollar) angestiegen ist. PG&E behauptet aber, es
 liege nicht an den Zählern, sondern vielleicht doch an der mangelnden
 Intelligenz der Kunden, denn beim Überprüfen der hohen Rechnungen
 stellte sich teilweise heraus, dass einige Kunden den neuen
