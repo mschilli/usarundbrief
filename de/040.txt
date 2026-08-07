@@ -120,9 +120,9 @@ japanisch ausgehängt. Und selbst wenn man wie wir recht
 fließend Hiragana und Katakana lesen kann und viele 
 japanische Gerichte beim japanischen Namen kennt, hilft das 
 meist nichts, denn die Karten sparen nicht mit 
-Kanjii-Zeichen, von denen man etwa 3000 können muss, um 
+Kanji-Zeichen, von denen man etwa 3000 können muss, um
 einigermaßen Zeitung lesen zu können. Wir können etwa 80 
-Kanjii -- und das reicht bei weitem nicht, um auch nur die 
+Kanji -- und das reicht bei weitem nicht, um auch nur die
 Speisekarte einer Sushi-Spelunke zu verstehen.
 
 <pic images/sushi.ps Nudel-Bar>
@@ -156,7 +156,7 @@ San Francisco sind wir schon sehr daran gewöhnt, dass
 immer eine bunte Mischung aus Leuten herumlungert, in Japan 
 ist uns gleich am ersten Tag aufgegangen, dass wir weit 
 und breit die einzigen Westler waren. Japan besteht zu 
-fast 100% aus Japanern. Als wir die Bude betraten, hangen 
+fast 100% aus Japanern. Als wir die Bude betraten, hingen
 nur Japaner in Anzügen rum, die nach Feierabend (typisch: 
 nur Männer und im Anzug) gern essen und zur Entspannung 
 nach einem harten Arbeitstag mit den Kollegen einen heben 
@@ -363,7 +363,7 @@ von links oben nach rechts unten:
 
 Chinese Tea von Coca Cola (1): Unfermentierter chinesischer 
 Tee, nicht ganz so hart im Nachgeschmack wie seine 
-orginalen grünen Kollegen. Etwas freundlicher für den 
+originalen grünen Kollegen. Etwas freundlicher für den
 westlichen Gaumen. Kirin Fire (2) und Kirin Super Fire (3): 
 Kühler Kaffee mit Milch und Zucker, schön 
 rund im Geschmack, langer, feiner Abgang.
@@ -383,7 +383,7 @@ Gras als der grüne.
 Calpis Cool Soda (8): Wie Chabeso schmeckende Zitronenlimo.
 Suntory Green Tee (9): Kalter grüner Tee. Gewöhnungsbedürftig,
 aber sehr erfrischend. Suntory Gokuri (10): Ein leckerer Grapefruit-Drink, 
-außergewöhlich reiner, frischer Geschmack, angenehme, 
+außergewöhnlich reiner, frischer Geschmack, angenehme,
 ausbalancierte Süße, nicht so übersüßt wie der 
 amerikanische Kram. Ich vermute stark, das wird ein 
 Exportschlager, im Rundbrief lest ihr es -- wie immer -- 
@@ -476,8 +476,8 @@ gewöhnt, so eine Art schlampigen California-Hacker-Look
 zu tragen: Kurze Surfer-Hosen bis kurz über's Knie mit 
 geräumigen Seitentaschen (meist von Billabong, DKNY oder 
 Quicksilver), tausendmal gewaschene T-Shirts (auch 
-Surfer-Marken, aber auch Nike, Addidas und einige aus dem 
-Costco-Supermarkt auf Mauii/Hawaii) und seit Jahren nicht 
+Surfer-Marken, aber auch Nike, Adidas und einige aus dem
+Costco-Supermarkt auf Maui/Hawaii) und seit Jahren nicht
 geputzte, nur halb zugeschnürte Turnschuhe (Mizuno Wave 
 Rider) sind das meistens -- meine Vorstellung eines 
 Crossovers zwischen Beach Boys und Public Enemy. 
@@ -516,13 +516,13 @@ ausgerichtet vor die Tatami-Matte gestellt.
 
 <em>(Michael)</em>
 Verbrecher gibt's glaube ich nicht in Japan. (Allerdings habe ich
-gehört, dass es eine Art japanischer Mafia, genannt "Jakuza" gibt, 
+gehört, dass es eine Art japanischer Mafia, genannt "Yakuza" gibt,
 die das "r" rollen und Ganzkörpertätowierungen haben, sodass sie
 in öffentlichen Bädern nicht zugelassen sind).
 Man kann bedenkenlos hunderttausende von Yen in bar mit sich 
 herumschleppen (muss man auch, weil kaum einer Kreditkarten 
 nimmt, sogar manche Hotels nicht) und zu jeder Tages- und 
-Nachzeit damit herummarschieren. Auch fällt auf, wie 
+Nachtzeit damit herummarschieren. Auch fällt auf, wie
 sauber die Städte sind. Kein Graffiti, kein Müll. 
 Obdachlose sieht man nur ganz versteckt in Parks, da muss 
 man aber schon ganz genau hinsehen. Keiner haut einen um 
@@ -683,7 +683,7 @@ japanischen Berufsleben anscheinend ein Dauerzustand. Die
 Verkäufer gschafteln wild, rennen (wirklich!) von einem 
 Ort zum anderen und verwirren den aufgeschreckten 
 Touristen mit wilden Wortschwällen, die japanische Kunden 
-übrigens kommentarlos an sich apprallen lassen. Auch wenn 
+übrigens kommentarlos an sich abprallen lassen. Auch wenn
 man einige Fetzen Japanisch kann, wie wir durch unseren 
 Kurs, verwirrt das Stakkato der Verkäufer und Bedienungen 
 jedoch so, dass man kaum etwas versteht und auch 

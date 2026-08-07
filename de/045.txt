@@ -74,7 +74,7 @@ wenn etwas nicht genau stimmt, sondern im Zweifelsfall vorher einen
 juristischen Blutsauger eurer Wahl anheuern und um Rat fragen.
 
 Kalifornien unterscheidet zwei Waffenvorschriften: Eine bestimmt, wann
-man eine Waffe versteckt (Conceiled Gun Law, CGL) führen darf und die
+man eine Waffe versteckt (Concealed Gun Law, CGL) führen darf und die
 andere bezieht sich auf geladene Waffen (Loaded Gun Law, LGL). Beide
 Gesetze wenden die Gerichte streng getrennt an: Wer zum Beispiel
 mit einem geladenen Revolver im Mantel in ein Regierungsgebäude
@@ -93,7 +93,7 @@ unter der Kleidung verborgenen Waffe herumspazieren -- nicht einmal,
 wenn sie nicht geladen ist. Wer damit erwischt wird (und nicht unter
 die nachfolgend beschriebenen Ausnahmen fällt), begeht eine Straftat,
 die mit Geldstrafe oder Gefängnis geahndet wird. Ausnahme: Eine
-so genannte CCW-(Carry Conceiled Weapons)-Genehmigung, die der Sheriff
+so genannte CCW-(Carry Concealed Weapons)-Genehmigung, die der Sheriff
 des jeweiligen Landkreises nur ausstellt, wenn jemand nachweist, dass
 er die Waffe beruflich braucht (zum Beispiel ein Bounty-Hunter, der
 ausgebüchsten Verbrechern nachjagt) oder sonstwie ernstlich bedroht
@@ -104,7 +104,7 @@ Weitere Ausnahme: Im eigenen Heim darf jeder Normalbürger eine
 geladene Schusswaffe verstecken. Dies gilt aber 
 nicht für Vorbestrafte, illegale
 Einwanderer, unehrenhaft aus dem Militär entlassene und dergleichen.
-Als "Heim" gilt übrigens auch der eigene Garten, ein angemietes
+Als "Heim" gilt übrigens auch der eigene Garten, ein angemietetes
 Motelzimmer oder ein Campingplatz. Auch Ladeneigentümer (nur die
 Eigentümer, nicht die Angestellten) dürfen in ihrem Geschäft eine
 geladene Waffe liegen haben. Als kleine juristische Eigenheit darf man
@@ -129,7 +129,7 @@ mitnehmen, muss er das Magazin mit den Patronen rausnehmen und die
 Pistole in ein tragbares, verschließbares Kästchen
 legen und zusperren. Trägt er beides zum Auto, muss er
 das Magazin mit den Patronen entweder offen tragen (andernfalls wäre
-das ein Verstoß gegen das "Conceiled Gun Law", denn das Magazin ist
+das ein Verstoß gegen das "Concealed Gun Law", denn das Magazin ist
 Teil der Waffe) oder die Patronen rausnehmen und das Magazin auch im
 Kasten einschließen. Daheim angekommen,
 darf der Ladenbesitzer die Knarre aus dem Auto in die Wohnung nehmen
@@ -388,7 +388,7 @@ Jahreseinkommen versteuert werden.
 
 Üblicherweise braucht man als Greis weniger Geld, deswegen ist die
 Steuerrate dann niedriger als während des Arbeitslebens. Geht man zu
-einem Finanzberater, rechnet der einem üblicherweise aus, wieviel Geld
+einem Finanzberater, rechnet der einem üblicherweise aus, wie viel Geld
 man monatlich einzahlen muss, und wann man aufhören darf zu arbeiten,
 damit das Geld dann bei einer positiven Aktienentwicklung, sagen wir
 10% im Jahr, bis zur durchschnittlichen Lebenserwartung reicht. Wird
@@ -549,7 +549,7 @@ Nun brennt ihr aber sicherlich darauf, zu wissen, wie die
 amerikanische Schule strukturiert ist. Die Mädels und 
 Jungs gehen in der Regel 12 Jahre zur Schule, egal ob zur 
 öffentlichen oder privaten Schule, oder auch bei Mama und 
-Papa zu Hause im "Home Schooling". Die Schulpflicht variert 
+Papa zu Hause im "Home Schooling". Die Schulpflicht variiert
 etwas in den einzelnen Bundesstaaten: So endet die 
 Schulpflicht für die Jugendlichen in 30 Staaten mit 16 Jahren, 
 mit 17 Jahren in neun Bundesstaaten und mit 18 Jahren in den restlichen 11 
@@ -606,7 +606,7 @@ verwechseln dürft.
 
 Verlässt ein Schüler allerdings die 
 Schule, bevor er die zwölfte Klasse beendet, weil er die 
-Schulplicht erfüllt hat, bekommt er gar nichts und gilt 
+Schulpflicht erfüllt hat, bekommt er gar nichts und gilt
 als Schulabbrecher. Es besteht zwar die Möglichkeit, 
 später im Erwachsenenleben den Abschluss nachzuholen, aber 
 Highschool-Abbrecher stehen nicht gerade oben auf der 
@@ -666,7 +666,7 @@ unterschiedlichen Lehrern (je nach Fach) unterrichtet und
 ziehen dazu von Klassenraum zu Klassenraum, denn in Amerika 
 zieht nicht der Lehrer von Klasse zu Klasse, sondern bleibt 
 in seinem Klassenzimmer. Das liegt auch daran, dass Lehrer 
-häufig ihre gesammten Unterrichtsmaterialien in der Schule 
+häufig ihre gesamten Unterrichtsmaterialien in der Schule
 aufbewahren. Der Lehrer gestaltet deshalb sein eigenes 
 Klassenzimmer. 
 
@@ -674,7 +674,7 @@ In der "High School" (in der Regel ab der 9.
 Klasse) trifft der amerikanische Schüler dann auf das 
 reine Kurssystem mit einem sehr breit angelegten 
 Fächerangebot. Auch in den USA hält die Diskussion an, 
-wieviel Freiheit dem einzelnen Schüler bei der Fächerwahl 
+wie viel Freiheit dem einzelnen Schüler bei der Fächerwahl
 zusteht. Allgemein muss jeder Schüler aber bestimmte 
 Pflichtkurse absolvieren, die durch Wahlfächer zu 
 ergänzen sind. Das Kurssystem der USA legt den Schüler 
@@ -749,7 +749,7 @@ tatsächlich zunächst Geld in die Schulen investiert wird.
 Die Philosophie des Firmengründers Chris Whittle besteht 
 darin, dass die Gelder, die traditionelle öffentliche 
 Schulen erhalten, durch die bestehende Bürokratie 
-aufgefressen wird und er dies durch vernünftiges 
+aufgefressen werden und er dies durch vernünftiges
 Management an seinen Schulen nicht nur verhindern kann,
 sondern auch noch in Gewinn umwandeln wird. 
 
@@ -788,7 +788,7 @@ meisten amerikanischen Städten gab es bis dato nur die Möglichkeit,
 mit dem Taxi, dem eigenen Auto oder dem so genannten
 "Door-to-Door-Shuttle" ("von-Tür-zu-Tür") zum Flughafen zu gelangen.
 
-Bis vor kurzem griffen wir immer auf das letztere zurück, denn der
+Bis vor kurzem griffen wir immer auf das letztere zurück, denn das
 "Door-to-Door-Shuttle" holt einen, wie der Name schon sagt, vor der
 eigenen Haustür ab. Besonders praktisch, wenn man mit viel Gepäck
 reist. Bei dem "Door-to-Door-Shuttle" handelt es sich um einen

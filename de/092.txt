@@ -35,7 +35,7 @@ Rettungskräfte aus allen Teilen der USA reisten dazu an, sondern auch
 führende kalifornische Politiker. Auch alle lokalen Fernsehsender übertrugen
 die Trauerandacht.
 
-<pic images/firefighter-funeral-procession.ps Nach der Gedenkfeier fährt eine scheinbar endlose Autokolonne zum Friefhof nach Colma. Foto: flickr[Lulu Vision|lulutoo/5821368858]>
+<pic images/firefighter-funeral-procession.ps Nach der Gedenkfeier fährt eine scheinbar endlose Autokolonne zum Friedhof nach Colma. Foto: flickr[Lulu Vision|lulutoo/5821368858]>
 
 Wie im <RBLINK>20060215#1</RBLINK> schon einmal berichtet, 
 liegen alle Friedhöfe San Franciscos vor den Toren der Stadt. So 
@@ -43,7 +43,7 @@ mussten die Särge
 von der Innenstadt nach Colma (etwa 20 Kilometer südlich) zum Friedhof
 "Holy Cross" einschließlich aller Trauergäste transportiert werden.
 Die Prozession bestand aus einer scheinbar endlosen Autokolonne. 
-Die Verantwortlichen der Stadtverwaltung sperrten kurzer Hand 
+Die Verantwortlichen der Stadtverwaltung sperrten kurzerhand
 diverse Straßen in San Francisco und legten einige
 Buslinien am Tag der Trauerfeier um. Auch der Freeway 280, eine der
 Hauptautobahnen im Süden San Franciscos, wurde für mehrere
@@ -59,7 +59,7 @@ verloren.
 <pic images/sauspiel.ps Schafkopf spielen mit anderen Leuten im Internet: sauspiel.de>
 
 <em>Michael</em>
-Dass es schon ewig keinen neuen Rundbrief mehr gegeben hat liegt zum 
+Dass es schon ewig keinen neuen Rundbrief mehr gegeben hat, liegt zum
 Teil daran, dass ich ein neues Hobby entdeckt habe: Online auf 
 <LINK>http://sauspiel.de|sauspiel.de</LINK> mit anderen Leuten
 im Internet Schafkopf zu spielen. 
@@ -93,11 +93,11 @@ Bayern auf der Liste der vom Aussterben bedrohten Freizeitbeschäftigungen.
 Das Online-Spiel wirkt dem Verfall der Tradition wirksam
 entgegen, denn die Mischung aus Social Networking und Schafkopf dort zieht
 unweigerlich neue Spieler an. Außerdem führt die Seite Statistiken darüber,
-wieviele Spiele man schon absolviert hat, wie oft man gewinnt und zeichnet
+wie viele Spiele man schon absolviert hat, wie oft man gewinnt und zeichnet
 auch jedes Spiel auf, sodass man es später nochmal ablaufen lassen kann. Eine
 iPhone-App bieten die Sauspieler ebenfalls an, 
 sodass man auch die paar Minuten an der Supermarktkasse
-sinnvoll nutzen kann. Laut Sauspiel-Statistik habe ich in binnen anderthalb 
+sinnvoll nutzen kann. Laut Sauspiel-Statistik habe ich binnen anderthalb
 Monaten schon 2.581 Spiele durchgezogen, und wenn wir 2 Minuten pro 
 Spiel annehmen, habe ich 86 Stunden dort verplempert. Kein Wunder, dass 
 kein Rundbrief zustande kam!
@@ -109,7 +109,7 @@ kein Rundbrief zustande kam!
 <em>Michael</em>
 In den USA erhalten politische Parteien kein Geld vom Staat, sondern
 finanzieren ihre Wahlkämpfe komplett mit Spenden von Parteifreunden. 
-Um zu verhindern, das mächtige Industriemagnaten die parlamentarischen
+Um zu verhindern, dass mächtige Industriemagnaten die parlamentarischen
 Abgeordneten direkt bestechen,
 beschränkt das Parteispendengesetz Zuwendungen von Einzelpersonen an einzelne
 Abgeordnete auf $2.500 (die <LINK>http://www.fec.gov/pages/brochures/contriblimits.shtml|Höchstbeträge für Parteispenden</LINK> variieren je nach Spenderorganisation und Zuwendungsart).
@@ -149,9 +149,9 @@ zweite Phase, die
 Über persönliche Beziehungen zu den abstimmenden Gremienmitgliedern 
 gelang es der Lobbyfirma, die Zuwendung so umzumodeln, dass die Gelder nicht
 dem ursprünglich vorgesehenen Empfänger, sondern einem Kunden der Lobbyfirma, 
-der privaten Universität "Tuft", zuflossen.
+der privaten Universität "Tufts", zuflossen.
 
-<pic images/lobby-earmark.ps Wie die Ohrenmarkierungen bei Kühen bezeichnet man die an verabschiedete Gesetze geknüpfte (meist finanziellen) Bedingungen als "Earmarks". >
+<pic images/lobby-earmark.ps Wie die Ohrenmarkierungen bei Kühen bezeichnet man die an verabschiedete Gesetze geknüpften (meist finanziellen) Bedingungen als "Earmarks". >
 
 Heutzutage ist dieser Kniff unter der Bezeichnung "Earmark" kaum mehr 
 aus der Gesetzesgebung wegzudenken. In der ersten Phase der Abstimmung,
@@ -159,7 +159,7 @@ in der es um die Sache an sich geht, mauscheln die Abgeordneten deshalb
 nun schon
 auf Teufel-komm-raus, darüber, wer denn, falls der Vorschlag genehmigt wird,
 dann tatsächlich die Gelder aus dem Staatssäckel bekommt. Diese Vorbedingung
-heftet dann dem Antrag als Earmark (Ohrenmarkierung) an. Ein Abgeordneter
+haftet dem Antrag dann als Earmark (Ohrenmarkierung) an. Ein Abgeordneter
 signalisiert in den Vorverhandlungen, dass er dafür stimmt, falls 
 zum Beispiel eine Institution aus seinem Bundesstaat einen Teil der
 Gelder in der zweiten Phase zugesichert bekommt. Abgeordnete im Senat 
@@ -197,7 +197,7 @@ einfachsten durch Spenden von Interessengruppen herein, denen er,
 einmal im Amt, mitsamt den vermittelnden Lobbyfirmen dann den ein oder 
 anderen Gefallen schuldet.
 
-<pic images/lobby-obama-campaign.ps Teurer Werbespot: Auch Obama mobi\-lisierte Millionen von Dollars, um die Wahl zu gewinnen.>
+<pic images/lobby-obama-campaign.ps Teurer Werbespot: Auch Obama mobi\-lisierte Millionen von Dollar, um die Wahl zu gewinnen.>
 
 So entsteht in der amerikanischen Politik ein florierender 
 Wirt\-schafts\-kreislauf:
@@ -227,11 +227,11 @@ Wiederwahl weit wichtiger als das Land ordnungsgemäß zu regieren.
 Michael ließ es sich auch dieses Jahr nicht nehmen, an einem der ältesten und
 berühmtesten Straßenläufe in San Francisco teilzunehmen. Der Bay-to-Breakers
 fand wie jedes Jahr am dritten Sonntag im Mai statt und dieses Jahr zum
-hundersten Mal. Wir haben ja schon des öfteren berichtet
+hundersten Mal. Wir haben ja schon des Öfteren berichtet
 (<RBLINK>990603#6</RBLINK>, <RBLINK>000801#2</RBLINK>), dass
 der Stadtlauf seinen ehrwürdigen Namen durch die Streckenführung erhielt, die
 sich in all den Jahren nur geringfügig verändert hat. Der Lauf geht nämlich
-von der San Francisco Bucht (Bay) in der Nähe des Embacadero quer durch die
+von der San Francisco Bucht (Bay) in der Nähe des Embarcadero quer durch die
 Stadt zum Pazifischen Ozean. Der zweite Teil des Namens, "Breakers", 
 bezieht sich auf die sich dort bekanntlich brechenden Wellen.
 
@@ -242,7 +242,7 @@ Möchtegern-Sportler die Puste ausgeht, sondern auch wegen der kostümierten
 Teilnehmer, die den Lauf eher als eine Mischung aus Karnevalsumzug und großer
 Freiluftparty betrachten. Kein Mensch weiß so genau, warum der Trend zur
 Kostümierung anfing, aber angeblich soll schon 1940 der erste Läufer als
-"Kapitän Kidd" verkleidet gewesen sein. Da der Lauf ürsprünglich ins
+"Kapitän Kidd" verkleidet gewesen sein. Da der Lauf ursprünglich ins
 Leben gerufen wurde, um die verheerenden Folgen des Erdbebens von
 1906 zu vergessen,
 passt die ausgelassene Stimmung zur Bay-to-Breakers-Idee.
@@ -262,15 +262,15 @@ den Mai und erst seit 1971 laufen Frauen offiziell mit, obwohl schon 1940 eine
 Frau an dem Lauf teilnahm, nämlich Barbara Burke. Sie hatte sich einfach als
 "Bobby" angemeldet.
 
-<pic images/b2b-michael.ps Bay-To-Breakers Veteran und Medai\-llen\-träger Michael.>
+<pic images/b2b-michael.ps Bay-To-Breakers-Veteran und Medai\-llen\-träger Michael.>
 
 Im Schnitt nehmen mittlerweile jedes Jahr 60-80.000 Menschen an
 dem Stadtlauf teil, dabei sind etwa die Hälfte nicht registriert, haben also
 auch die Teilnahmegebühr nicht bezahlt. Sie mischen sich einfach unter den
 Pulk der Läufer. Im Jahr 1986 gab es über 110.000 Teilnehmer, was dem
-Bay-to-Breakers einen Eintrag ins Guiness-Buch der Rekorde bescherte. Michael
+Bay-to-Breakers einen Eintrag ins Guinness-Buch der Rekorde bescherte. Michael
 verwirklichte heuer leider nicht seinen Traum, unter einer Stunde zu
-laufen, aber er kam nah dran, denn er brauchte für die Stecke 1 Stunde und 4
+laufen, aber er kam nah dran, denn er brauchte für die Strecke 1 Stunde und 4
 Minuten.
 
 <pic images/b2b-fundamentalists.ps Bay to Breakers: Religiöse Funda\-menta\-listen sind auch jedes Jahr mit dabei. Foto: flickr[Kanaka Menehune|kanaka/4623182408]>
@@ -301,9 +301,9 @@ vergleichen. Leider wohnen in San Francisco mittlerweile ein paar
 Spielverderber, die seit einigen Jahren versuchen, den Lauf in ein
 Nullachtfünfzehn-Ereignis für Herrn und Frau Saubermann umzufunktionieren. Wie
 immer bei großen Menschenaufläufen schlagen einige wenige über die Stränge
-und trinken zuviel Alkohol oder benehmen sich daneben. Ein besonderers
+und trinken zu viel Alkohol oder benehmen sich daneben. Ein besonderes
 Ärgernis für viele Anwohner, die in Häusern an der Strecke wohnen, ist, dass
-betrunkene Teilnehmer manchmal die Vorgärten als Urinal mißbrauchen. 
+betrunkene Teilnehmer manchmal die Vorgärten als Urinal missbrauchen.
 Nun kann ich
 verstehen, dass das nervig ist, auf der anderen Seite findet der Bay-to-Breakers
 nur einmal im Jahr statt und da sollte man vielleicht auch einmal ein Auge
@@ -312,17 +312,17 @@ die Organisatoren, strengere Vorschriften durchzudrücken, mit mehr oder weniger
 Erfolg. Alkohol während des Laufs mitzuführen und zu trinken ist offiziell
 seit zwei Jahren verboten, bloß hielt sich bis dato keiner daran. Zunächst
 führte der Veranstalter eine Gebühr für die sogenannten "Floats" ein, kleine
-geschmückte Handwagen, auf der sich in der Regel ein Fass Bier befand. Dieses
+geschmückte Handwagen, auf denen sich in der Regel ein Fass Bier befand. Dieses
 Jahr verbot man sie gleich ganz und konfiszierte Alkohol generell. Der Sponsor
 hatte dafür extra neben der Polizei private Sicherheitskräfte eingestellt.
-Auch standen Ausnüchterumgszelte an der Strecke. Außerdem fing das Rennen 
+Auch standen Ausnüchterungszelte an der Strecke. Außerdem fing das Rennen
 nicht wie sonst immer um 8 Uhr morgens an, sondern schon um 7 Uhr. 
 Die zugrundeliegende Strategie war
 wohl, dass Partyliebhaber nicht gerne früh aufstehen. Es ging dieses Jahr
 tatsächlich gesitteter zu, doch auf Kosten des besonderen Flairs der 
 Veranstaltung.
 
-@Z: San Francisco Ansichten: Clement Street
+@Z: San-Francisco-Ansichten: Clement Street
 
 <pic images/clement-10.ps Leckere gebratene Enten im Schaufenster auf der Clement Street.>
 
@@ -341,7 +341,7 @@ Chinatown gilt.
 
 Die Clement Street liegt im Viertel "Inner Richmond" und da sich hierhin nur
 wenige Touristen verlaufen, stehen dort auch keine kitschigen Andenkenläden mit
-billigen San-Francisco-T-Shirts oder Cable-Car-Memoribilia. Es geht allgemein
+billigen San-Francisco-T-Shirts oder Cable-Car-Memorabilia. Es geht allgemein
 weniger hektisch zu und die Straße ist zwar oft vom berühmt-berüchtigten
 San-Francisco-Nebel umwoben, bietet dafür aber zwischen Arguello und Park
 Presidio Boulevard eine Vielzahl von Restaurants, kleine Lebensmittelgeschäfte,
@@ -351,10 +351,10 @@ Lederprodukte herstellt und verkauft.
 
 <pic images/clement-3.ps Vietnamesische Rinderbrühe mit Fleischeinlage und Sprossen.>
 
-Obwohl chinesisiche Einflüsse dominieren, ist das Viertel
-viel\-schich\-tiger als das Chinatown in der Innnenstadt. Auch hier hängen
+Obwohl chinesische Einflüsse dominieren, ist das Viertel
+viel\-schich\-tiger als das Chinatown in der Innenstadt. Auch hier hängen
 gebra\-tene Enten in den Schaufenstern, und Gemüse und Obst liegt 
-gestapelt auf zusammen geschusterten Holzregalen vor den Läden.
+gestapelt auf zusammengeschusterten Holzregalen vor den Läden.
 Auch Restaurants aus benachbarten asiatischen Ländern findet man hier.
 Unser Lieblingsrestaurant auf der Clement Street ist zum Beispiel ein 
 vietnamesisches Restaurant mit dem schönen Namen 
@@ -369,7 +369,7 @@ in süß-saure Soße tunkt.
 <LINK>http://www.schuberts-bakery.com/index2.php|"Schubert's"</LINK>,
 eine Konditorei auf der Clement Street, die von einem Deutschen gegründet 
 wurde und noch immer von einem deutschen Besitzer geführt wird, bäckt seit 
-1911 leckere Kuchen und Kekse und verkauft sie in einem Cafe.
+1911 leckere Kuchen und Kekse und verkauft sie in einem Café.
 Ihre Produkte haben nichts mit dem süßen Pappzeug gemein, das
 amerikanische Supermärkte unter der Bezeichnung "Kuchen" verkaufen, sondern
 orientieren sich eher nach europäischen Standards.
@@ -377,7 +377,7 @@ orientieren sich eher nach europäischen Standards.
 hat selbstgemachtes leckeres Hummus und
 türkische Delikatessen, sowie holländische Produkte im Sortiment. Ich fand in
 dem Laden doch tatsächlich meine holländischen Lieblingskekse, die ich immer
-als Kind während unseren Hollandurlaube verspeist habe. Ich konnte mein Glück 
+als Kind während unserer Hollandurlaube verspeist habe. Ich konnte mein Glück
 kaum fassen. Selbst die holländischen Schokoladenstreusel, die man 
 in Holland wie Nutella aufs Butterbrot schmiert, führt der Laden.
 
@@ -434,14 +434,14 @@ Mund getroffen").
 <pic images/english-cowboy.ps Dieser gereizte Herr verstün\-de sicher kei\-nen Spaß, wenn jemand sein falsches Englisch korrigierte.>
 
 <em>Michael</em>
-Amerikaner sprechen manchmal bewußt falsches Englisch, um entweder 
+Amerikaner sprechen manchmal bewusst falsches Englisch, um entweder
 zu scherzen oder jugendlich und cool zu erscheinen. Dabei handelt es sich
 nicht um das von den Nutznießern des sozialen Wohnungsbaus oft
 zur Schau gestellte Gangster-Englisch. Wer "He do" sagt, outet sich 
 sofort als Außenseiter ohne Hauptschulabschluss, was eigentlich nur bei
 hoffnungslosen Jugendlichen als cool gilt.
 
-Die auch im Bayrischen übliche doppelte Verneinung ("I hab koa Goid ned")
+Die auch im Bayerischen übliche doppelte Verneinung ("I hab koa Goid ned")
 trifft man hingegen auch im saloppen Ober\-klassen\-amerikanisch. Im Titel 
 <LINK>http://www.youtube.com/watch?v=yM9N30V4wnQ|"Money" von Dr. Teeth</LINK>
 aus der Muppet-Show heißt es zum Beispiel: "Don't need no loving', 
@@ -450,12 +450,12 @@ keine Liebe, keine Küsse und kein Mädel, das mich 'Honey' nennt").
 
 Die schlimmste Verballhornung der englischen Sprache ist wohl 
 "Get your hair did" für "Geh zum Friseur". Der Ausdruck ist im
-Gangstermillieu zu finden (in einem Song von Missie Elliot taucht er zum
+Gangstermilieu zu finden (in einem Song von Missy Elliott taucht er zum
 Beispiel auf), in gebildeten Kreisen sagt man so etwas allerdings nur
 zum Scherz.
 
 In geschriebenem Text stolpern viele Amerikaner über den Unter\-schied
-zwischen "who's" und "whose", sowie "it's" und "its". Das ist mir genauso
+zwischen "who's" und "whose" sowie "it's" und "its". Das ist mir genauso
 unverständlich wie wenn jemand im Deutschen "dass" und "das" nicht
 auseinanderhalten kann, aber selbst Schlussredakteure ange\-sehener
 Zeitschriften haben's nicht immer drauf. Ich markiere derartige 
@@ -508,7 +508,7 @@ sich mit irgendwelchen nervigen Auto\-vermie\-tungs\-bedien\-steten
 über den Erwerb zusätzlicher Versicherungspakete zu streiten.
 
 Die Anmeldung erfolgt in der Regel über das Internet. Man tippt ein, wann
-und für wielange man das Auto will und wo man es abholt. Der
+und für wie lange man das Auto will und wo man es abholt. Der
 Fuhrpark verfügt üblicherweise nur über eine begrenzte Auswahl an 
 Autotypen. In San Francisco
 scheinen hybride Autos zu dominieren. Bei uns in San Francisco haben sich die
@@ -532,7 +532,7 @@ nämlich eine Broschüre von <LINK>http://relayrides.com|"Relay Rides"</LINK>
 ins Haus.
 Diese schlauen Füchse dachten sich: Nicht jeder fährt sein Auto 24 Stunden am
 Tag, warum nicht einen Service anbieten, der Nachbarn darin unterstützt,
-sich gegenseitig ihr Autos auszuleihen?
+sich gegenseitig ihre Autos auszuleihen?
 "Relay Rides" bringt Verleiher und Ausleiher
 zusammen und stellt die Versicherung für beide
 Seiten zur Verfügung sowie eine Technologie, damit die nervige
@@ -541,7 +541,7 @@ Schlüsselübergabe wegfällt.
 <pic images/carshare-borrow.ps Die neue Car-Sharing-Idee: "Borrow my Car">
 
 Derjenige, der sein Auto verleihen möchte,
-meldet sich bei "Relay Rides" an und bestimmt, wieviel es kostet, sein Auto
+meldet sich bei "Relay Rides" an und bestimmt, wie viel es kostet, sein Auto
 auszuleihen. Je älter das zu verleihende Auto ist, desto
 weniger darf der Autobesitzer verlangen. "Relay Rides" behält dann 15% der
 Summe ein plus eine weitere Gebühr für die Versicherung. Benzin sowie

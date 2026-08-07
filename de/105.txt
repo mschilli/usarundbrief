@@ -6,7 +6,7 @@ San Francisco, den 24.12.2013
 
 <em>Angelika</em>
 Weihnachten und der Jahreswechsel stehen vor der Tür. Das Jahr
-2013 ist nur so an uns vorbei geflogen. Zur Weihnachtstzeit begleiten einen
+2013 ist nur so an uns vorbeigeflogen. Zur Weihnachtszeit begleiten einen
 gute Wünsche für Zufriedenheit und Gesundheit. 
 
 2014 können viele
@@ -21,7 +21,7 @@ kaufen kann, ein schlecht funktionierendes Flickwerk ist.
 Aber irgendwann
 wird jeder begreifen, dass krankenversichert zu sein ein Grundrecht ist.
 Und damit ihr ein bisschen mehr hinter die Kulissen des sicherlich noch
-stark nachzuverbesserenden Gesetzes schauen könnt, hier ein kleines Quiz.
+stark nachzubessernden Gesetzes schauen könnt, hier ein kleines Quiz.
 
 In diesem Sinne wünschen wir euch frohe Weihnachten sowie ein gesundes und
 erfüllendes Jahr 2014.
@@ -43,7 +43,7 @@ c) Healthy America and Affordable Care Act
 
 <sp>
 
-<em>2. Wieviel Strafe kostet es mindestens pro Jahr, wenn man sich ab 2014
+<em>2. Wie viel Strafe kostet es mindestens pro Jahr, wenn man sich ab 2014
 nicht in einer Krankenkasse versichert?</em>
 
 a) $250 in 2014; $950 in 2015, $3250 in 2016
@@ -86,11 +86,11 @@ b) Falsch
 standardmäßig in ihrem Katalog anbieten und mindestens 60% der Kosten
 tragen?</em>
 
-a) Arzt-und Laborbesuche
+a) Arzt- und Laborbesuche
 
 b) Krankenhausaufenthalte
 
-c) Rezeptplichtige Medikamente
+c) Rezeptpflichtige Medikamente
 
 d) Schwangerschaft und Geburt
 
@@ -144,7 +144,7 @@ c) Solche Begrenzungen sind nicht mehr erlaubt
 
 <sp>
 
-<em>10. Krankenkassen müssen nach dem neuen Gesetz wieviel Prozent der Prämie
+<em>10. Krankenkassen müssen nach dem neuen Gesetz wie viel Prozent der Prämie
 für medizinische Leistungen verwenden?</em>
 
 a) 100%

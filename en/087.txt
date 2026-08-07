@@ -287,230 +287,191 @@ rolls stacks of coins and takes them back to the bank, the employees
 measure the length of the wrapped rolls with a ruler and can
 precisely determine if a coin is missing.
 
-TODO
-
 Constantly carrying small change in your pocket is really annoying,
 but it accumulates involuntarily when you pay small amounts in cash
 and don't want to spend minutes at the checkout rummaging through
-your wallet. As mentioned once before in the...
-<RBLINK>20051208#4</RBLINK>
-The translation to English is: "mentioned, the underground Muni
-stations in the city center are pretty much the only way to pay with
-a bag of penny coins without attracting unwanted attention.
+your wallet. As mentioned once before in <RBLINK>20051208#4</RBLINK>,
+using the underground Muni
+stations near city center are pretty much the only way to pay with
+a bag of pennies without attracting unwanted attention.
 
-<pic images/quarter-rolls.ps 40 dollars in quarters in coin rolls
-from the bank.>
+<pic images/quarter-rolls.ps 40 dollars in quarters in coin rolls from the bank.>
 
-Many Americans seem to have coins burning holes in their pockets,
-because the company...
-<LINK>http://coinstar.com|Coinstar</LINK>
-The sentence translates to: "has even developed a business model
-around the problem and professionalized the switching process.
+Now, many Americans seem to have coins burning holes in their pockets,
+because the company <LINK>http://coinstar.com|Coinstar</LINK>
+has developed a business model
+around the problem and professionalized the coin exchange process.
 
-<pic images/cstar.ps A Coinstar machine in a supermarket.>
+<pic images/cstar.ps A Coinstar machine at a supermarket.>
 
-The service-oriented American empties their bag of coins into the
+Service-oriented Americans empty their sack of coins into the
 collection funnel of a Coinstar machine, which is sometimes located
 at the exit of busy supermarkets like Safeway. Coinstar keeps 9.8
 cents per dollar as a fee and returns 90.2% of the money in exchange.
 In supermarkets, however, the machine only dispenses a voucher, which
-can be redeemed at the checkout. For odd amounts, however, you end up
-receiving coins again.
+can be redeemed at the checkout. If you then pay for your groceries later,
+for odd amounts, however, you end up receiving coins again.
 
-@Z: Top product: The wring mop
+@Z: Top product: The Wringer Mop
 
-<pic images/wring-mop-wash.ps Simply dip the wring mop ...>
+<pic images/wring-mop-wash.ps Simply dip the wringer mop ...>
 
 <em>Michael</em> 
-Cleaning is notoriously exhausting, and any relief provided by
-high-tech tools is warmly welcomed. This is especially true in the
-bathroom with its countless nooks and crannies, where the
-so-called...
-The link you provided appears to be a YouTube video, and the text
-"Smart Mop aus der TV-Werbung" translates to "Smart Mop from the TV
-commercial" in English.
-The German word "unschlagbar" translates to "unbeatable" in English.
+House cleaning is notoriously exhausting, and any relief provided by
+high-tech tools you can sign me up for. This is especially true during
+bathroom cleaning, while wiping countless nooks and crannies, where the
+so-called 
+<LINK>http://www.youtube.com/watch?v=Rr6qaG8RlUk|"Smart Mop" from a TV commercial</LINK>
+is unbeatable.
 
-<pic images/wring-mop-wring.ps The German word "auswringen"
-translates to "wring out" in English.>
+<pic images/wring-mop-wring.ps Wring it!>
 
 Professional cleaning crews do wring out mops using bucket presses,
-at least that's how it was back when I used to polish the floors at
+at least that's how it was during a previous career, back when I used to polish the floors at
 the MAN company in Augsburg during my school days to earn some extra
-pocket money. However, such equipment is obviously out of the
+money. However, such equipment is obviously out of the
 question due to lack of space in our apartment, so one day, on a
-whim, I bought a mop at Target.
+whim, I bought the mop at Target.
 
-<pic images/wring-mop-wipe.ps ... and the dirt in the corner is going
-to get it.>
+<pic images/wring-mop-wipe.ps ... and the dirt in the corner is going to get it.>
 
-Certainly! The translation of the German text to English is:
+Although I haven't yet mastered the art of swinging a mop as elegantly as
+pitchman Anthony Sullivan (<RBLINK>20090529#8</RBLINK>) cleaning the bathroom
+is notably quicker. Allegedly, you can simply put the dirty mop head in the
+washing machine for cleaning.  The only downside: Even when wrung out, it takes
+forever for the mop strands to be completely dry. Nevertheless, I'm calling it
+a Rundbrief Top Product!
 
-"Although I do not yet master the art of swinging a mop as elegantly
-as pitchman Anthony Sullivan,"
+@Z: How To Register a Car?
 
-If you have more text or need further assistance, feel free to let me
-know!
-<RBLINK>20090529#8</RBLINK>
-), but cleaning the bathroom is really quicker. Allegedly, you can
-simply put the dirty mop head in the washing machine for cleaning.
-The only downside: Even when wrung out, it takes forever for the mop
-strands to be completely dry. Nevertheless, it's a top product!
-
-@Z: The translation of "Wie meldet man ein Auto an?" to English is
-"How do you register a car?
-
-<pic images/dmv-california.ps Who would want to drive around without
-a California license plate?>
+<pic images/dmv-california.ps Who would want to drive around without a California license plate?>
 
 <em>Michael</em> 
 What hardly anyone knows: Newcomers from other states must register a
 car they bring with them at the Department of Motor Vehicles in
 California within two weeks and exchange the license plate for one
-with the pretty red inscription "California.
+with the pretty red inscription "California."
 
-Just as an aside: The total of seven letters and numbers on the
-license plate do not provide any indication of the city where the car
-is registered. This is different in Germany, and I always get annoyed
+It usually comes with seven letters and numbers
+which do not provide any indication of the city where the car
+was registered. This is different in Germany, and I always get annoyed
 when I have to drive around Munich in a rental car with an "HH-"
 license plate and no one lets me merge. In the USA, many people mount
 their license plates on plastic or chrome frames, which either
-indicate the dealer ("Peter Pan BMW San Mateo") or a company
+indicate the car dealer ("Peter Pan BMW San Mateo") or place of work
 ("Yahoo!"). Some states do not require a front license plate, but in
 California, the authorities issue two plates, and Section 5200 of the
-Traffic Code states that one must be mounted on the front and the
+Traffic Code states that one plate must be mounted on the front and the
 other on the rear of the car. Although many people drive around with
 only one plate, this just gives the police an opportunity to stop the
 car, snoop around, and potentially find other issues.
 
-<pic images/illinois-in-sf.ps License plates from the state of
-Illinois in San Francisco: For newcomers, only allowed for up to 14
-days.>
+<pic images/illinois-in-sf.ps License plates from the state of Illinois in San Francisco: For newcomers, this is only allowed for up to 14 days.>
 
-If someone moves from, let's say, Idaho to California, they must
+If someone moves to California, from, let's say, Idaho, they must
 exchange their Idaho license plate for a California one and pay the
 required registration fee. Because many people don't do this out of
 laziness or cunning, causing the state of California to lose millions
-of dollars in fees, the California Highway Patrol (CHP) offers a
-<LINK>https://www.chp.ca.gov/notify-chp/cheaters-out-of-state-(out-of
--state-registration-violators)|Parking spot for unregistered
-vehicles</LINK>
-Here's the translation to English:
-
-"on the internet. There, the vigilant block warden properly records
+of dollars in fees, the California Highway Patrol (CHP) is running a
+<LINK>https://www.chp.ca.gov/notify-chp/cheaters-out-of-state-(out-of -state-registration-violators)|snitching website</LINK>
+on the internet. There, the vigilant block warden can properly report
 the license plate and the location of the fee offender, and then
-presumably a mobile task force with sledgehammers moves in to make a
+presumably a mobile task force with sledgehammers will appear, to make a
 statement for financially-strapped California. It's all in good fun.
 
-<pic images/dmv-licenses-sign.ps At the DMV, one applies for a
-California driver's license.>
+<pic images/dmv-licenses-sign.ps At the DMV, one applies for a California driver's license.>
 
-In addition to the California license plate, newcomers need a
+In addition to the California license plate, newcomers need to obtain a
 California driver's license after no more than 14 days if they are
-settling permanently in the Sunshine State. The vehicle registration
-office is called the "DMV" (Department of Motor Vehicles) in America
-and is operated by the respective state. For a small fee ($31), it
-administers the theoretical and practical driving tests and issues
-brand new driver's licenses and license plates after rather
+settling permanently in our sunny state. The vehicle registration
+office "DMV" (Department of Motor Vehicles)
+is operated by the respective state. For a small fee ($31), it will
+administer the written and practical driving tests, and issue
+a brand new driver's license and license plates after rather
 generously allotted processing times.
 
-<pic images/dmv-driving-test.ps The California driver's license is
-only given to newcomers after passing a driving test with an
-examiner.>
+<pic images/dmv-driving-test.ps The California driver's license is only given to newcomers after passing a driving test with an instructor.>
 
 A newcomer in San Francisco might, of course, get the idea to apply
-for their driver's license at the city's only DMV branch, located on
+for their driver's license at the city's only DMV location, located on
 Fell Street. Fatal beginner's mistake! As every local knows, the most
 demotivated state employees in all of California work there, and if
-you don't want to get pointlessly upset for hours, I strongly advise
+you don't want to age prematurely, I strongly advise
 against entering this branch. Also, never call there! If you don't
 give up in the automated phone maze and finally manage to get one of
 the few clerks on the line after endless waiting times, you can
-expect them to either monotonously recite phrases like a robot or
-hang up the phone immediately.
+expect them to either monotonously be reciting phrases like a robot, or
+hang up the phone unexpectedly.
 
-<pic images/dmv-fell.ps At the motor vehicle registration office in
-San Francisco on Fell St., the most unmotivated civil servants in
-California work.>
+<pic images/dmv-fell.ps The motor vehicle registration office in San Francisco on Fell St. employs the most unmotivated civil servants in all of California.>
 
-The translation of "Das bestÃ¤tigen die beinahe durchgehend" to
-English is "This is confirmed by the almost consistently.
-<LINK>http://maps.google.com/maps/place?cid=8001119095521166525|Catas
-trophic reviews on Google Maps</LINK>
-The range includes everything from "pathetic" to "disgraceful."
+This is confirmed by the almost consistently
+<LINK>http://maps.google.com/maps/place?cid=8001119095521166525|catastrophic reviews on Google Maps</LINK>, where
+the ratings range from "pathetic" to "disgraceful."
 However, this doesn't seem to concern the authorities in Sacramento,
-even though people have been complaining about the shoddy operations
+even though people have been complaining about this shoddy operation
 for more than ten years. The acute financial problem has worsened the
-situation, and throughout California, the DMV now doesn't open its
-doors on three out of four Fridays each month to cut costs. It used
+situation, and throughout California, the DMV now won't open its
+doors on three out of four Fridays each month, to cut costs. It used
 to be open even on Saturdays!
 
-<pic images/dmv-hours.ps Due to the California budget crisis, the
-Department of Motor Vehicles is closed on three out of four Fridays
-each month.>
+<pic images/dmv-hours.ps Due to the California budget crisis, the Department of Motor Vehicles is closed on three out of four Fridays each month.>
 
-I'm speculating that the DMV in San Francisco is the gathering place
-for the vehicle registration office's employees who have been
-forcibly transferred and whom they want to force to resign. Also, the
-recommendation page...
-<LINK>http://www.yelp.com/biz/department-of-motor-vehicles-san-franci
-sco|Yelp confirms the terrible conditions at the DMV in San
-Francisco.</LINK>
-..but it highlights what locals have long known: You simply drive to
-suburban San Mateo, located 20 kilometers to the south, or 10
-kilometers over to the East Bay side, to the otherwise not
+I'm speculating here that the DMV location in the city of San Francisco is the gathering place
+for their worst employees, who have been
+forcibly transferred there and whom they want to force to resign. Also, the
+recommendation page <LINK>http://www.yelp.com/biz/department-of-motor-vehicles-san-francisco|on Yelp</LINK>
+highlights what locals have long known: If you value your time, you simply drive to
+suburban San Mateo, located 15 miles to the south, or 7 miles
+over to the East Bay side, to the otherwise not
 particularly exemplary city of Oakland, and suddenly the bureaucratic
-stuff works like a charm. Personally, I took my driving test in San
-Jose back then, handle any new vehicle paperwork in Santa Clara (also
-a very well-organized DMV), and the annual vehicle registration
-renewal now works perfectly online. I actually only pass by the DMV
+process works like a charm. Personally, I took my driving test in San
+Jose back then, and handle any new vehicle paperwork in Santa Clara (also
+a very well-organized DMV). The annual vehicle registration
+renewal is working perfectly online. I actually only pass by the DMV
 in San Francisco during the Bay-to-Breakers city run, whose route
-runs along Fell Street for a while.
+runs along a stretch of Fell Street, and otherwise avoid this location.
 
-@Z: The translation of "Lustige Werbung: Raisin Brahms" to English is
-"Funny Advertisement: Raisin Brahms.
+@Z: Funny Advertisement: Raisin Brahms
 
-<pic images/raisin-brahms.ps Johannes Brahms as an advertising figure
-for breakfast cereals?>
+<pic images/raisin-brahms.ps Johannes Brahms as an advertising figure for breakfast cereal?>
 
 <em>Michael</em> 
-While channel surfing the other day, I noticed the...
-<LINK>http://www.youtube.com/watch?v=kKgBdrsqvjs|The translation to
-English is: "Advertisement for Raisin Brahms.</LINK>
+While TV channel surfing the other day, I noticed the
+<LINK>http://www.youtube.com/watch?v=kKgBdrsqvjs|Advertisement for Raisin Brahms</LINK>
 where the German composer Johannes Brahms drives a piano like a
-bulldozer through the wall of a house to the breakfast table of an
+bulldozer through the wall of a house, stops at the breakfast table of an
 average American family, shouts 'Good morning!' and praises the
-benefits of muesli with a pronounced German accent. I wonder who
-comes up with such ideas and under the influence of which drugs. Upon
+benefits of muesli, speaking with a pronounced German accent. I wonder who
+comes up with such ideas and under the influence of which drugs! Upon
 closer inspection, however, the commercial is not financed by the
-muesli manufacturer Kellogg's, but by the organization...
-<LINK>http://www.americansforthearts.org/public_awareness/the_ads/001
-.asp|Americans for the Arts</LINK>
-... a non-profit organization for the promotion of the arts. Anyway,
+muesli manufacturer Kellogg's, but by the organization
+<LINK>http://www.americansforthearts.org/public_awareness/the_ads/001.asp|Americans for the Arts</LINK>,
+a non-profit organization for the promotion of the arts. Anyway,
 it's funny, and another milestone on our research journey on the
 topic 'This is how Americans see Germans!'
 
-@Z: The translation of "Donner Lake" to English is "Donner Lake." The
-name is a proper noun and does not change when translated to English.
+@Z: Donner Lake
 
 <pic images/donner-lake.ps On the beach of Donner Lake.>
 
 <em>Angelika</em> 
-On July 4th, Americans celebrate their Independence Day, and we
+On July 4th, Americans celebrate Independence Day, and we
 always use the long weekend for a short trip. Although the date fell
 on a Sunday this year, thanks to a brilliant rule in America, Monday
-is a day off if a holiday falls on a weekend.
+is a day off if a holiday falls on a weekend!
 
 We went with our friends Conny and Roland to the popular vacation
-area at Lake Tahoe. In the winter, half of the Bay Area goes skiing
-there, and in the summer, the 500-meter deep lake invites you to swim
-or go boating. However, swimming requires some courage even in the
+area at Lake Tahoe. In the winter time, half of the Bay Area goes skiing
+there, and in the summer, the 500-meter deep lake invites swimmers and boaters.
+However, swimming requires some courage, even in the
 summer, as the water temperature fluctuates between only 13-17
 degrees Celsius even in the warm months.
 
-Now Tahoe is so popular that insiders in San Francisco and the
-surrounding area always talk about the obligatory Tahoe weekend
-traffic jam, which practically starts in San Francisco before the Bay
+Nowadays, Tahoe is so popular that insiders in San Francisco and the
+surrounding Bay Area are well aware of the obligatory Tahoe weekend
+traffic jam, which practically starts in San Francisco shortly before highway 80
+enters the Bay
 Bridge. A skilled driver can cover the 349 kilometers in four hours,
 but only on the night of Totensonntag at two in the morning. On an
 average Friday afternoon, you can easily spend 12 hours on the I-80
@@ -525,101 +486,85 @@ pleasant water temperature than Lake Tahoe.
 <pic images/sf-tahoe.ps The Long Road to Tahoe.>
 
 The lake owes its name to the Donner Party, a group of pioneers who
-sought their fortune in California but failed miserably due to the
+sought their fortune in California, but failed miserably due to the
 winter conditions and the Sierra Nevada mountains. The trek began in
 April 1846 in Springfield, Illinois, and chose a shortcut that was
-not actually a shortcut. As a result, the group took much longer than
-expected and only reached the area around Donner Lake in November
+not actually a shortcut. As a result, the journey took much longer than
+expected and the group only reached the area around Donner Lake in November
 1846, when the first snow had already fallen. The pioneers were
 forced to spend the winter near Donner Lake, but they only had
 provisions for one month. A small group attempted to seek help but
 failed miserably, and it was not until the end of February that a
 rescue party reached the trek and found a scene of horror: only 47 of
 the 89 pioneers had survived, and there were signs of cannibalism
-everywhere. The survivors had eaten human corpses.
+everywhere. The survivors had eaten human corpses of the deceased.
 
 Today, little is felt of the cruel history, although tiny gold
 particles in the water remind us of the wild California Gold Rush
-era. However, the most beautiful thing is that at the...
-<LINK>http://www.tdrpd.com/west_end_beach.htm|West End Beach" is
-already in English.</LINK>
-A cozy, almost nostalgic-looking beach bath is located at Donner
+era. However, the most beautiful part is
+<LINK>http://www.tdrpd.com/west_end_beach.htm|West End Beach</LINK>,
+where a cozy, almost nostalgic-looking beach bath is located at Donner
 Lake. It has everything you need: a lifeguard, a swimming area in the
 lake, mowed lawns, a playground, and a kiosk where you can buy
-delicious ice cream, as well as pedal boats. The daily admission is 3
+delicious ice cream, as well as rent pedal boats. The daily admission is 3
 dollars per person (children up to 17 pay 2 dollars). Unbeatably
 beautiful!
 
 @Z: Twitter and Food Trucks
 
-<pic images/taco-truck.ps Pioneer of the food truck industry: The
-taco truck.>
+<pic images/taco-truck.ps Pioneer of the food truck industry: The taco truck.>
 
 <em>Michael</em> 
 Who would have thought that the internet would revolutionize the
 American equivalent of the mobile currywurst stand, the so-called
 "food truck"? Until a few years ago, street vendors with their carts
-and delivery vans always stood at specific locations, street corners
+and delivery vans were waiting at specific locations, street corners
 that they had sometimes fought for generations ago and had since been
-firmly in their hands. The very well-made film:
-<LINK>http://www.imdb.com/title/tt0464105|Man Push Cart" translates
-to "Hombre empuja carrito" in English. However, if you are referring
-to the title of the 2005 film "Man Push Cart," it is already in
-English.</LINK>
-It provides insight into the little-noticed but fascinating world of
-the "Karrenfritzen.
+firmly in their hands. The very well-made movie
+<LINK>http://www.imdb.com/title/tt0464105|Man Push Cart</LINK>
+provides valuable insights into the little-noticed but fascinating world of
+street cart vendors.
 
-Young upstarts with new business ideas have a hard time because the
+Young upstarts with new business ideas have a hard time in this field
+because the
 unwritten law of the urban jungle forbids them from snatching the
 established spots from the old-timers. But if no one knows about a
 new cart and the delicacies offered there, how is the business ever
-supposed to thrive?
+supposed to be thriving?
 
-Since Twitter has existed, the food cart world has been turned upside
-down. Now, the cart operator simply stops anywhere, fires up the
+Ever since Twitter has been around, the food cart world has been turned upside
+down. Now, the cart operators simply stop at a random location, fires up the
 grill, and sends out a tweet. People who follow the Twitter feed on
-their phones know when the sausage stand is nearby and spontaneously
-drop by to grab an exotic treat for lunch instead of the boring
-cafeteria food.
+their phones now know when the sausage stand is nearby and spontaneously
+drop by to grab an exotic treat for lunch instead of boring
+company cafeteria food.
 
-<pic images/twitter-kalbi.ps On Twitter, the Korean grill cart
-announces where it will be located at lunchtime.>
+<pic images/twitter-kalbi.ps On Twitter, the Korean grill cart announces where it will be located at lunchtime.>
 
-The Korean
-<LINK>http://twitter.com/BBQKALBI|Kalbi-Truck</LINK>
-Here's the translation:
-
-"is such an example. Operated by resourceful immigrants who have
+The Korean <LINK>http://twitter.com/BBQKALBI|Kalbi-Truck</LINK>
+is such an example. Operated by resourceful immigrants who have
 recognized the taste of the adventurous software hipster scene, it
 occasionally stops near the Yahoo buildings in Silicon Valley, and
 people flock there in droves. Even the conservative Wall Street
-Journal recently published a
-<LINK>http://online.wsj.com/article/SB1000142405297020445660457420193
-4018170554.html|Article about the upheaval in the cart
-industry</LINK>
-The translation of the provided text from German to English is:
-"published. Next to the Mexican taco truck (
-<RBLINK>20070820#8</RBLINK>
-...), the veteran of the Californian food truck industry, nowadays
-even offers the French dessert CrÃ¨me BrÃ»lÃ©e, which I also
-appreciate, thanks to dedicated young entrepreneurs.
+Journal recently published an
+<LINK>http://online.wsj.com/article/SB10001424052970204456604574201934018170554.html|article about the upheaval in the food cart industry</LINK>
+Next to the Mexican taco truck (<RBLINK>20070820#8</RBLINK>),
+the veteran of the Californian food truck industry, nowadays there's
+newcomers offering the French dessert Creme Brulee, which I also
+appreciate. Thank you, dedicated young entrepreneurs!
 
-<pic images/mealdonkey.ps The "Mealdonkey" service delivers
-sandwiches ordered online from local restaurants.>
+<pic images/mealdonkey.ps The "Mealdonkey" service delivers sandwiches ordered online from local restaurants.>
 
-Recently, a truck even showed up at Yahoo, delivering sandwiches from
+Recently, another truck showed up at Yahoo, delivering sandwiches from
 nearby restaurants. This service is also operated by young
 entrepreneurs.
-<LINK>http://www.mealdonkey.com|"Mealdonkey"-Service</LINK>
-Mahlzeitenesel" operates a website where hungry individuals can order
-their lunch sandwich from nearby restaurants and pick it up at noon
+The <LINK>http://www.mealdonkey.com|"Mealdonkey"-Service</LINK>
+operates a website where hungry individuals can order
+their lunch sandwich from nearby restaurants, and then pick it up at noon
 from a delivery van parked around the corner. People come up with the
 most interesting ideas! Undoubtedly, just another milestone on the
 long journey from dishwasher to millionaire.
 
 Greetings from the land of unlimited possibilities:
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael

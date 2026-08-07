@@ -7,11 +7,11 @@ San Francisco, den 29.11.2025
 <em>Angelika</em>
 Ich bin ja ein großer Fan unseres neuen Bürgermeisters Daniel Lurie. Wie
 aufmerksame Rundbriefleser wissen, gewann er als Außenseiter im November
-überrraschenderweise die Stadtwahl (<RBLINK>20241031#2</RBLINK>),
+überraschenderweise die Stadtwahl (<RBLINK>20241031#2</RBLINK>),
 und ist nun schon fast ein Jahr im Amt.
 Mittlerweile hat man ja kaum noch Erwartungen an Politiker, aber ich muss
 sagen, der Mann macht das bis jetzt richtig gut. Mit seiner ruhigen, besonnenen
-und pragmatischen Art findet er oft einen vernünftigen Mittelweg. Nach neusten
+und pragmatischen Art findet er oft einen vernünftigen Mittelweg. Nach neuesten
 Umfragen stimmen 71% der Bürger mir zu und sagen, dass sie zufrieden mit seiner
 Arbeit sind. Eine erstaunlich hohe Zustimmungsrate in einer Stadt, in der jeder
 gerne endlos diskutiert und viele überzeugt sind, alles besser zu wissen.
@@ -33,7 +33,7 @@ in die U-Bahn-Station an der 24ten Straße einstieg, so blitzte es dort auf dem
 Vorplatz. Und der typische Pissgestank, der einem dort normalerweise entgegen
 weht, fehlte ganz.
 
-<pic images/cc-powell.ps Die Powell-Street an der Cabel-Car-Linie wurde blitzblank geputzt.>
+<pic images/cc-powell.ps Die Powell-Street an der Cable-Car-Linie wurde blitzblank geputzt.>
 
 Lurie hat sich außerdem vorgenommen, den bürokratischen Wahnsinn zu
 entschlacken, damit Dinge schneller umgesetzt werden können, etwa, dass mehr
@@ -46,14 +46,14 @@ der Innenstadt. Auch hier versucht Lurie gegenzusteuern und vor allem kleineren
 Betrieben mit Bürokratie- und Gebührenabbau zu helfen. Es heißt, dass Lurie
 jeden Tag in der Stadt unterwegs ist, um mit den Bewohnern ins Gespräch zu
 kommen, sich Sorgen und Vorschläge anzuhören. Ich warte darauf, dass er mal bei
-uns in Noe Valley vorbei schaut, denn mit ihm würde ich auch gern einmal ein
+uns in Noe Valley vorbeischaut, denn mit ihm würde ich auch gern einmal ein
 Pläuschen halten.
 
 <pic images/b-bayview.ps Viele Obdachlose sind aus der Innenstadt abgewandert.>
 
 San Francisco ist von jeher eine Stadt, die sich immer wieder neu erfindet und
 erfinden muss. Das fing schon mit den Goldgräbern an und setzte sich nach zwei
-schweren Erdbeben 1906 und 1989 fort, über die Aidskrise, dem Platzen der
+schweren Erdbeben 1906 und 1989 fort, über die Aidskrise, das Platzen der
 Dotcomblase und schließlich die Pandemie. Im Moment fühlt es sich fast so
 an, als erlebe die Stadt eine kleine Renaissance. Selbstfahrende Taxis flitzen
 zukunftsfröhlich durch die Straßen, neue Ideen entstehen, und viele Bewohner
@@ -179,7 +179,7 @@ Diese Zuschüsse laufen offiziell zum neuen Jahr aus, was für viele Bürger, di
 sich über Obamacare krankenversichern, deutlich höhere Beiträge
 bedeuten wird.
 
-<pic images/budget-discussion.ps Die Abgeorneten im Kongress konnten sich nicht auf ein Budget einigen.>
+<pic images/budget-discussion.ps Die Abgeordneten im Kongress konnten sich nicht auf ein Budget einigen.>
 
 Das führt mich gleich wieder zu meiner Themenreihe "Was ist schwierig im
 amerikanischen politischen System und sollte dringend geändert werden?" In
@@ -239,13 +239,13 @@ Januar 2026 in Kraft und dann muss schon wieder abgestimmt werden.
 in San Francisco gegeben hat wie die im Jahr 2000 um den damals neuen Ikea im
 nahen Emeryville (<RBLINK>20000801#1</RBLINK>), dann war das der Hype um die
 Zweigstelle des koreanischen Lebensmittelgiganten "H Mart", der 2024 im
-Stadteil Ingleside am Alemany Boulevard seine Tore öffnete.
+Stadtteil Ingleside am Alemany Boulevard seine Tore öffnete.
 
 <pic images/hm-shelf.ps Reiche Auswahl an koreanischen Spezialitäten.>
 
 Nun gibt es schon diverse und sehr gute Supermärkte für asiatische
 Lebensmittel in unserer an internationalen Feinschmeckern nicht gerade armen
-Stadt, aber die Kette "H Mart" ist so eine Art KDW für Koreaner, und da
+Stadt, aber die Kette "H Mart" ist so eine Art KaDeWe für Koreaner, und da
 stecken oft Kindheitserinnerungen drin, wie in dem Buch
 <LINK>https://www.amazon.com/Crying-Mart-Memoir-Michelle-Zauner-ebook/dp/B08DMXF7ZZ|Crying In H Mart</LINK>
 beschrieben, das ich zwar gelesen und für okay befunden
@@ -256,7 +256,7 @@ habe, aber hier nicht vor einem Millionenpublikum hochjubeln möchte.
 Nun ist H Mart koreanisch und dementsprechend führt der Laden ungefähr 47
 verschiedene Arten von Kimchi (scharfes koreanisches Sauerkraut) und sonstige
 Leckereien wie Bulgogi (dünn geschnittenes Rindfleisch in pikanter Soße) oder
-in Barbeque-Soße marinierte Hühnerzehen.
+in Barbecue-Soße marinierte Hühnerzehen.
 
 <pic images/hm-chicken-feet.ps Spezialität beim H Mart: Eingelegte Hühnerzehen.>
 
@@ -316,7 +316,7 @@ Knopfdruck hüpfen können.
 
 Die meist von Liebhabern jenseits der 50 liebevoll gepflegten und in
 Automobilclubs gehegten Modelle klassischer amerikanischer Marken dürfen
-während der sogeannten "Low Rider Parade" vom Publikum am Straßenrand bestaunt
+während der sogenannten "Low Rider Parade" vom Publikum am Straßenrand bestaunt
 werden, wenn ihre Eigentümer mit stolzgeschwellter Brust langsam die "Mission
 Street" herunterfahren.
 
@@ -363,7 +363,7 @@ Rauchmelder. Wir hatten zwar vorher auch schon welche, aber deutlich weniger.
 Nun müssen wir allerdings höllisch aufpassen, dass nicht schon harmlose
 Dampfentwicklung beim Kochen oder wenn ich eine Batterie Kerzen auspuste, den
 Alarm auslöst. Dann verlegten eines Tages fleißige Handwerker neue
-Verbindungsrohre mit Meldekästchen in unsere eingebauten Kleiderschränke , die
+Verbindungsrohre mit Meldekästchen in unsere eingebauten Kleiderschränke, die
 mit den Feuermeldesystemen in den gemeinschaftlichen Bereichen wie den
 Treppenhäusern verbunden sind. Es ist nämlich Vorschrift, dass man den
 Feueralarm im Treppenhaus auch in jedem Raum der Wohnung hören muss.
@@ -421,12 +421,12 @@ spannend geschrieben. Es erstaunt mich sehr, dass es noch nicht ins Deutsche
 
 Die genaue Ursache, wie es zu Autismus kommt, ist trotz intensivster Forschung,
 noch ein gewisses Mysterium, obwohl man sich mittlerweile einig ist, dass es
-sich um eine komplexe Entwicklungstörung mit stark genetischer Komponente
+sich um eine komplexe Entwicklungsstörung mit stark genetischer Komponente
 handelt. Etwas vereinfacht gesagt, erbt man die Veranlagung und dann müssen
 aber weitere Faktoren hinzukommen, um Autismus auszulösen. Es gibt also nicht
 ein Gen oder eine Genmutation, die Autismus auslösen, sondern wahrscheinlich
 eine Vielzahl von Genen, die dann durch ein komplexes Zusammenspiel mit
-diversen anderen Umweltfaktoren (z.B., Infektionen während der Schwangerschaft,
+diversen anderen Umweltfaktoren (z. B. Infektionen während der Schwangerschaft,
 Komplikationen bei der Geburt, ältere Eltern) zum Autismus führen.
 
 Leider gab
@@ -453,7 +453,7 @@ Dazu fällt mir echt nichts
 mehr ein. Nicht nur, dass dies Eltern total verunsichert, sondern es besteht
 auch die Gefahr, dass die Autismusforschung wieder in die falsche Richtung
 gelenkt wird. Ganz zu schweigen davon, dass wir jetzt schon verstärkt
-Masernausbrüche in den USA haben, weil Eltern ihre Kindern nicht mehr impfen
+Masernausbrüche in den USA haben, weil Eltern ihre Kinder nicht mehr impfen
 lassen. Ich hatte als Kind Masern, weil es bei uns die Impfung noch nicht gab,
 und ich kann nur sagen, dass Masern kein Zuckerschlecken sind und ich gern
 darauf verzichtet hätte.
@@ -463,7 +463,7 @@ darauf verzichtet hätte.
 <pic images/vbl-ssec.ps Mal was anderes: Ein Fahrradweg in der Straßenmitte.>
 
 <em>Michael</em> Nachdem ich vor einiger Zeit über das teuerste Klo Amerikas
-bei uns im Stadteil Noe Valley berichten durfte (<RBLINK>20241031#3</RBLINK>),
+bei uns im Stadtteil Noe Valley berichten durfte (<RBLINK>20241031#3</RBLINK>),
 fahre ich in dieser Ausgabe mit dem absurdesten Fahrradweg fort. Dazu muss ich
 erklären, dass durch unseren Nachbarstadtteil "Mission" die "Valencia Street"
 läuft. Die war bis vor ein paar Jahren vierspurig, mit auf beiden Seiten
@@ -480,7 +480,7 @@ gefüllt für irrsinnige Projekte ist, wurde flugs erstmal eine gigantische
 Straßenbaustelle errichtet und das Projekt nahm langsam Gestalt an.
 
 <pic images/vbl-amados.ps Der Kneipenwirt behauptet, dass er nun zusperren kann.>
-<pic images/vbl-puerto.ps Auch das mexikanische Restaurant denkt, dass die Kunden wegen des Mittelradweges dem Etablissement fernleiben.>
+<pic images/vbl-puerto.ps Auch das mexikanische Restaurant denkt, dass die Kunden wegen des Mittelradweges dem Etablissement fernbleiben.>
 
 Nach der anfänglichen Freude über die neue luxuriöse "Center Bike Lane" stellte
 sich aber bald Ernüchterung ein. Wie biegt man denn als Fahrradfahrer rechts in
@@ -517,11 +517,11 @@ eine Dauerbaustelle zu verwandeln, um wieder normale Radwege links und rechts
 am Fahrbahnrand zu installieren. Da dort aber mittlerweile alle 50 Meter
 irgendeine Kneipe ein sogenanntes Parklet stehen hat, überdachte Holzkonstrukte
 mit Tischen und Stühlen für die Außengastronomie, muss man als Radler nun
-ständig im Zickzack fahren, den der Radweg schlängelt sich auf völlig irre
+ständig im Zickzack fahren, denn der Radweg schlängelt sich auf völlig irre
 Weise an den Hüttlein vorbei.
 
 <pic images/vbl-snake.ps Der restaurierte alte Radweg geht jetzt im Zickzack am Fahrbahnrand entlang.>
-<pic images/vbl-ramp.ps Teilweise für der neue Radweg sogar über Sprungrampen.>
+<pic images/vbl-ramp.ps Teilweise führt der neue Radweg sogar über Sprungrampen.>
 
 Unterm Strich verläuft jetzt der alte Radweg wieder am Fahrbahnrand, zwar mit
 gewaltigen Rissen im Asphalt und sogar Schlaglöchern. Die Straße bietet

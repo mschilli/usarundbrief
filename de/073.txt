@@ -14,8 +14,8 @@ Beispiel <LINK>http://www.jacksonarms.com|"Jackson Arms"</LINK> in
 South San Francisco, unweit des Supermarkts "Costco".
 
 Der Kollege besitzt eine Pistole der Marke
-<LINK>http://en.wikipedia.org/wiki/Springfield_Armory_XD|Springfield Amory XD-9</LINK> 
-und wir luden sie vorschriftsmässig in einem mit einem 
+<LINK>http://en.wikipedia.org/wiki/Springfield_Armory_XD|Springfield Armory XD-9</LINK>
+und wir luden sie vorschriftsmäßig in einem mit einem
 Vorhängeschloss versehenen Kästchen in den 
 Kofferraum unseres Autos und brausten damit 10 Minuten auf der Autobahn 
 gen Süden.
@@ -73,7 +73,7 @@ $14 plus $7 für jeden weiteren Schützen, Ohrenschützer und
 Schutzbrillen gibt's für $1.50 -- also alles gar nicht teuer! 
 Ab zwei Personen kann man sogar eine Pistole mieten, das 
 kostet $12 - $20 pro Stunde.
-Und Montags ist dort "Ladies Night", halber Bahnpreis für die Damenwelt!
+Und montags ist dort "Ladies Night", halber Bahnpreis für die Damenwelt!
 
 @Z: Primaries - Wer wird der nächste Präsident?
 
@@ -92,7 +92,7 @@ alles anders aus.
 
 Das liegt zum einen daran, dass es bisher weder bei den
 Republikanern noch bei den Demokraten einen klaren Favoriten gibt. 
-Bei den Demokarten liefern sich Hillary Clinton und Barack Obama ein 
+Bei den Demokraten liefern sich Hillary Clinton und Barack Obama ein
 spannendes Rennen. Obwohl sich
 die beiden in ihren politischen Konzepten gar nicht so sehr unterscheiden,
 fragen sich viele demokratische Wähler, wem sie ihre Stimme geben sollen.
@@ -110,19 +110,19 @@ vielen Wählern wichtig: Zum ersten Mal hat in der Geschichte der USA
 entweder eine Frau oder ein Schwarzer eine Chance auf das höchste Amt
 im Land. Und viele sehen in Barack Obama bereits die Reinkarnation von John
 F. Kennedy, so begeistert er die Massen, unabhängig von Hautfarbe,
-Alters, und Einkommen, wie es zumindest in San Francisco scheint.
+Alter und Einkommen, wie es zumindest in San Francisco scheint.
 
 <pic images/hillary3.ps Ein überzeugter Anhänger von Hillary Clinton>
 
 Bei den Republikanern liegen der ehemalige Vietnam-Veteran
 und langjährige Senator von Arizona, John McCain, und der
 millionenschwere Geschäftsmann und ehemalige Gouverneur von
-Massachusetts, Mitt Romney, vorn. Wochenlang debatierte dabei das Land,
+Massachusetts, Mitt Romney, vorn. Wochenlang debattierte dabei das Land,
 ob der Mormone Romney wegen seiner Religionszugehörigkeit überhaupt
 wählbar ist. Besonders die religiöse Rechte, die hauptsächlich
 republikanisch wählt, stößt sich an Romneys Mormonenstatus. 
-Auch der ehemalige Bapitistenpfarrer und
-frühere Gouverneuer von Arkansas, Mike Huckabee, schlägt sich noch
+Auch der ehemalige Baptistenpfarrer und
+frühere Gouverneur von Arkansas, Mike Huckabee, schlägt sich noch
 tapfer, denn  besonders die konservativ-religiöse Basis schätzt ihn. 
 Bislang fanden Vorwahlen in 7 Bundesstaaten statt, aber
 alles wartet nun gespannt auf den 5. Februar, den sogenannten
@@ -138,14 +138,14 @@ Präsidentschaftskandidaten bestimmen.
 
 Manche Wahlzettel führen
 deshalb auch gar nicht die Kandidaten auf, sondern nur
-die Delegierten. Wieviele Delegierte ein Bundesstaat zu den Parteitagen
+die Delegierten. Wie viele Delegierte ein Bundesstaat zu den Parteitagen
 entsenden darf, richtet sich nach der Bevölkerungsdichte im
 jeweiligen Bundesstaat. Es gibt unterschiedliche Methoden, wie die
 Anzahl der abgegebenen Stimmen in Delegierte umgerechnet wird. 
 
 Die demokratische Partei
 geht strikt nach der proportionalen Methode vor, d.h. wenn die
-demokratische Partei aus Bundsstaat X z.B. 100 Delegierte auf den
+demokratische Partei aus Bundesstaat X z.B. 100 Delegierte auf den
 Parteitag schicken darf und Kandidat A ergattert 70 Prozent der
 Stimmen, entfallen auf Kandidat A 70 Delegierte. Die republikanische
 Partei überlässt es den einzelnen Bundesstaaten, ob nach der
@@ -159,7 +159,7 @@ nach jetzigem Stand, da Floridas und Michigans Stimmen zur Zeit bei
 den Demokraten nicht mitzählen, denn die demokratische Partei entzog
 beiden Bundesstaaten für ihre unerlaubt vorgezogenen Wahlen die
 Delegierten.
-Hillary Clinton möchte die Strafaktion gerne rückgäng
+Hillary Clinton möchte die Strafaktion gerne rückgängig
 machen, denn sie gewann in Florida und Michigan. Um dann auf dem
 Parteitag nominiert zu werden, braucht der republikanische Kandidat
 die Stimmen von 1191 (von 2380) Delegierten, der demokratische 2025
@@ -184,7 +184,7 @@ zwischen Obama und Clinton weiterhin Kopf an Kopf bleibt.
 
 <pic images/obama3.ps Ganz San Francisco ist heiß auf Obama.>
 
-Interessant ist auch
+Interessant ist auch,
 ob die einzelnen Bundesstaaten "Primaries" oder "Caucuses"
 durchführen. Primaries müsst ihr euch wie ganz normale Wahlen
 vorstellen. Die Wähler gehen zu ihrem Wahllokal und geben an einem
@@ -228,7 +228,7 @@ Bundesstaaten führen "Caucuses" durch.
 
 Etwas merkwürdig an dem Vorwahlsystem ist, dass die Vorwahlen nicht
 alle am gleichen Tag stattfinden, sondern gestaffelt zwischen Januar
-und Juli. New Hampshire and Iowa wählen traditionell zuerst, denn New
+und Juli. New Hampshire und Iowa wählen traditionell zuerst, denn New
 Hampshires Gesetze besagen, dass ihre Primary eine Woche vor jeder
 anderen Primary stattzufinden hat. Das führt dazu, dass kleinere
 Bundesstaaten mit relativ geringer und homogener (in Iowa zum Beispiel
@@ -257,7 +257,7 @@ Edwards (Demokrat) oder Dennis Kucinich (Demokrat) oder auch Rudy
 Giuliani (Republikaner) in Kalifornien durchaus Stimmen bekommen. Ich
 kenne viele, die am Dienstag für John Edwards oder auch Kucinich (der linkeste
 Kandidat) wählen wollten und dies jetzt nicht mehr
-können. Das geht sogar soweit, dass einige Kalifornier, die schon per
+können. Das geht sogar so weit, dass einige Kalifornier, die schon per
 Briefwahl gewählt haben und zum Beispiel Edwards ihre Stimme gaben,
 nun in die Röhre gucken, weil ihre Stimme nicht mehr zählt, da
 Edwards nicht mehr im Rennen ist.
@@ -274,7 +274,7 @@ ist ein ehemaliger Vietnam-Veteran und überlebte Gefangenschaft und
 Folter in Vietnam und spricht sich auch deshalb vehement gegen Folter
 aus. Und obwohl er für den Irakkrieg stimmte und Bush diesbezüglich
 unterstützte, sehen viele seine Erfahrungen in Vietnam und seine
-lange militärische Laufbahn als Plus an, den Schlammasssel im
+lange militärische Laufbahn als Plus an, den Schlamassel im
 Irak zu lösen. 
 
 Auch gilt er als pragmatisch, redet Klartext und ist
@@ -285,13 +285,13 @@ illegalen Einwanderer im Land ein und versuchte mit dem Erzdemokraten
 Ted Kennedy, einen Gesetzesentwurf diesbezüglich durch den Kongress
 und Senat zu bringen, was allerdings scheiterte. 
 
-<HTMLONLY><pic images/obamacampaign.ps Eine Postkarte mit der Barack Obamas Kampagne.></HTMLONLY>
+<HTMLONLY><pic images/obamacampaign.ps Eine Postkarte mit Barack Obamas Kampagne.></HTMLONLY>
 
 Auf der anderen Seite ist er schon erzkonservativ.
-Er ist gegen Abtreibung und will die Steuervergünstigen, die Bush ins Leben
+Er ist gegen Abtreibung und will die Steuervergünstigungen, die Bush ins Leben
 rief, permanent machen. Wer auf einen demokratischen Präsidenten
 hofft, sollte die Daumen drücken, dass Mitt Romney bei den
-Repubikanern die Nominierung gewinnt, denn Umfragen zufolge erhöhen
+Republikanern die Nominierung gewinnt, denn Umfragen zufolge erhöhen
 sich die Chancen für den demokratischen Kandidaten, wenn der
 Gegenkandidat Romney und nicht McCain heißt. Nur schade, dass wir
 nicht mitwählen dürfen, denn meine Stimme hätte Obama.
@@ -329,16 +329,16 @@ seinen 170 PS. Und den PERLMAN haben wir schließlich auch gekauft, als
 er 7 war und ihn 10 Jahre lang ohne nennenswerte Probleme gefahren!
 
 Zunächst einmal muss man mit dem Verkäufer einen Preis aushandeln. 
-Den gängigen Wert für einen Gebrauchtwagen listet das "Kelly Blue Book",
+Den gängigen Wert für einen Gebrauchtwagen listet das "Kelley Blue Book",
 das auf dem Web unter kbb.com kostenlos verfügbar ist. Man gibt dort
 die Marke, das Modell und den Jahrgang ein und fügt außerdem Extras
 wie Schiebedach oder Klimaanlage hinzu. In Amerika fährt man zu 90% 
 Automatik, Gangschaltung ist weniger gefragt.
-Jeder der richtig Auto fahren kann, also nur etwa 10% der Amerikaner, 
+Jeder, der richtig Auto fahren kann, also nur etwa 10% der Amerikaner,
 fährt allerdings Autos mit Gangschaltung.
 
 Der Zustand des Fahrzeugs ist
-entweder "Excellent", "Good", "Fair" oder "Poor", je nach dem, wie
+entweder "Excellent", "Good", "Fair" oder "Poor", je nachdem, wie
 verbeult der Karren dasteht und welche Macken er hat.
 Man unterscheidet weiterhin zwischen "Trade-in Value" (was der Händler
 herausrückt, wenn man den alten Wagen in Zahlung gibt), dem "Private Party
@@ -372,7 +372,7 @@ Der Käufer bezahlt dann. Aber wie? Ein paar tausend Dollar trägt man
 nicht einfach so in der Tasche rum, außerdem hat jeder Angst vor 
 Falschgeld, weil Dollarscheine nur wenig Sicherheitsmerkmale führen.
 Außerdem hinterlässt Bargeld keine nachweisbaren Spuren
-im Bankgewerbe und der Nachweis, wieviel Geld tatsächlich den Besitzer
+im Bankgewerbe und der Nachweis, wie viel Geld tatsächlich den Besitzer
 gewechselt hat, ist hinterher fast unmöglich, sollte es zu Streitereien
 kommen.
 
@@ -401,7 +401,7 @@ bei seiner Bank einzahlt. Verlieren sollte man den Scheck
 nicht, er lässt sich nicht so einfach sperren. Es gab auch 
 schon Betrugsfälle mit gefälschten Cashier's 
 Checks, sodass der Verkäufer den Käufer manchmal bittet, mit ihm zur 
-Bank zu gehen um den Scheck einzuzahlen. So flöge ein etwaiger Schmuh 
+Bank zu gehen, um den Scheck einzuzahlen. So flöge ein etwaiger Schmuh
 gleich auf.
 
 Damit ein Auto rechtlich den Besitzer wechselt, muss der Verkäufer 
@@ -418,7 +418,7 @@ Der "Certificate of Title" war früher rosa und wurde
 auf rosa Papier gedruckt wurde. "To get the pink slip"
 bedeutet in Amerika "entlassen werden". Aber ich schweife ab.
 
-Später war auf dem KFZ-Schein eine zeitlang ein buntes Farbengemisch 
+Später war auf dem KFZ-Schein eine Zeit lang ein buntes Farbengemisch
 zu sehen und man nannte ihn "Rainbow Title". Heutzutage ist er wieder
 rosa mit blauem Rand, meist sagt man nur "Title" dazu.
 Ganz unten ist nochmal ein Unterschriftsfeld für einen "Lienholder",
@@ -457,13 +457,13 @@ Zaster sehen will, treibt der DMV diesen ein. Das läppert sich: Bei
 einem Verkaufspreis von $5.000 zahlt man so $425 an die KFZ-Behörde,
 das schmerzt im Geldbeutel! Die Höhe des Verkaufspreises erfragen die
 DMV-Angestellten übrigens vom Käufer, schwindelt dieser und der
-Preis ist ganz und gar unangemessen, wird der im "Kellys's Blue Book"
+Preis ist ganz und gar unangemessen, wird der im "Kelley Blue Book"
 festgesetzte Wert des Autos herangezogen.
     
 Der Verkäufer sollte übrigens darauf bestehen, dass der Käufer das
-Auto baldmöglichst anmeldet. Strafzettel gehen solange nämlich immer
+Auto baldmöglichst anmeldet. Strafzettel gehen nämlich so lange immer
 noch zum Verkäufer. Dieser haftet zwar nicht, muss aber dem DMV
-jedesmal umständlich erklären, dass der Wagen schon verkauft wurde
+jedes Mal umständlich erklären, dass der Wagen schon verkauft wurde
 und das oben erwähnte vom Verkäufer 
 eingeschickte Formular ist ein wasserdichter Beweis. Der
 Käufer ist verpflichtet, das Auto innerhalb von 10 Tagen
@@ -499,7 +499,7 @@ er es verkaufen!
 <em>Michael</em>
 In unserer Reihe "San Francisco Ansichten" besuchen wir heute das 
 gefürchtete Doppelviertel "Bayview"/"Hunters Point". Es liegt so weit 
-im Süden, dass sich dort nie ein Tourist hin verirrt, und das ist auch gut so.
+im Süden, dass sich dort nie ein Tourist hinverirrt, und das ist auch gut so.
 Alteingesessene Einwohner von San Francisco zucken zusammen, wenn sie nur den 
 Namen des Viertels hören, würden dort unter keinen Umständen hineinfahren
 und raten jedem Neuankömmling dringend davon ab, sich der Gegend auch
@@ -522,7 +522,7 @@ größtenteils schwarzen Werftangestellten entließ man und brachte sie
 im Viertel in kasernenähnlichen Gebäuden des sozialen Wohnungsbaus 
 unter. Über die Jahre verschlimmerten sich
 die Zustände dramatisch, und in den siebziger Jahren hatte sich ein
-regelrechtes Slum entwickelt, in dem rivalisierende Straßengangs ihr 
+regelrechter Slum entwickelt, in dem rivalisierende Straßengangs ihr
 Unwesen trieben.
 
 <HTMLONLY><pic images/sohptitle.ps Der Film "Straight out of Hunters Point"></HTMLONLY>
@@ -548,12 +548,12 @@ Schießereien in Hunters Point in die Nachrichten kommen, kann man dort als
 Normalbürger praktisch nicht herumfahren. Der als Gefahrensucher bekannte
 Rundbriefreporter wagte sich natürlich dennoch mit Auto, Kamera und GPS 
 hinein -- an einem Sonntagmorgen, an dem die schlimmsten Gauner ja 
-bekanntlich noch schlafen. Einige waren dennoch da und schauten etwas verduzt.
+bekanntlich noch schlafen. Einige waren dennoch da und schauten etwas verdutzt.
 Ein Auto mit zwei finster dreinschauenden Gestalten drehte sogar um und folgte
 dem Reporterwagen, der aber seine Fotos schon gemacht hatte und mit
 Vollgas davonbrauste.
 
-<pic images/poproj1.ps Das "Project" in Portrero Hill>
+<pic images/poproj1.ps Das "Project" in Potrero Hill>
 
 Das Phänomen total heruntergekommener Viertel hängt in den USA meist mit den
 sogenannten "Projects" zusammen. Bei diesem sozialen Wohnungsbau wurden früher
@@ -566,9 +566,9 @@ hofften, dass sich die Neuankömmlinge integrieren würden, stellten aber
 fest, dass die Häuser nach einigen Jahren total verkamen und die 
 Kriminalitätsrate im Viertel steil nach oben ging.
 
-<HTMLONLY><pic images/poproj2.ps Grüne und orangene Häuser im "Project" in Portrero Hill></HTMLONLY>
+<HTMLONLY><pic images/poproj2.ps Grüne und orangene Häuser im "Project" in Potrero Hill></HTMLONLY>
 
-Auch im Viertel "Portrero Hill" in San Francisco gibt es ein
+Auch im Viertel "Potrero Hill" in San Francisco gibt es ein
 solches "Project", auch dort geht es noch heute ziemlich ab. Wer mit
 dem 48er Bus, dem von mir so getauften "Erlebnisbus" von der Caltrain-Station 
 an der 22. Straße nach Noe Valley fährt, erlebt besonders abends das ein
@@ -604,8 +604,8 @@ Prinzip dieser sogenannten Propositions haben wir schon mal in
 <RBLINK>20040826#4</RBLINK> durchgenommen, das sind öffentliche
 Abstimmungen zu allerlei kommunalpolitischem Firlefanz. Es gibt sie
 allerdings auch auf Bundesstaatsebene, und die aktuellen 
-Propositions 94, 95, 96 und 97, von denen Arnie in seinem 
-original steirischen Akzent redet, drehen sich 
+Propositions 94, 95, 96 und 97, von denen Arnie mit
+original steirischem Akzent redet, drehen sich
 darum, dass der Staat Kalifornien mit den Indianern ausgekartelt hat, 
 dass diese mit ihren gut laufenden Spielcasinos mehr Abgaben als bisher 
 zahlen.
@@ -613,7 +613,7 @@ zahlen.
 "Indianer? Casinos? Was?", werdet ihr jetzt fragen, und ich denke, da muss
 ich etwas weiter ausholen. Vor gar nicht so langer Zeit 
 lebten ja auf dem
-amerikanische Kontinent die Ureinwohner, die Indianer. 
+amerikanischen Kontinent die Ureinwohner, die Indianer.
 Dann kamen erst die Spanier (<RBLINK>20000526#1</RBLINK>)
 und später allerlei anderes Volk und ließ sich einfach auf dem Land
 der Indianer nieder. Diese wehrten sich teilweise vehement, aber unterlagen
@@ -626,7 +626,7 @@ so-la-la, ihre Hütten sind recht ärmlich, die Leute hängen auf der
 Straße rum, so eine 'Kein Bock/No Future'-Gesellschaft halt. 
 Weil sie von den paar Perlenkettchen und Strohbottichen, die
 sie produzieren, auch nicht den großen Reibach machen, fehlt 
-ihnen das Geld, um Schulen zu bauen und ihren Kinder eine bessere Zukunft
+ihnen das Geld, um Schulen zu bauen und ihren Kindern eine bessere Zukunft
 zu ermöglichen.
 
 So dachte sich der amerikanische Kongress im Jahre 1988 ein Verfahren
@@ -648,8 +648,8 @@ erwirtschaften!
 Es entstand ein jahrelanges
 Heckmeck, mit dem Ergebnis, dass die Steuerschraube für die Indianer
 stufenweise angezogen wurde. Kalifornien hat vor kurzem
-sogar einen Deal ausgekartelt, nach dem die Indianer künftig dreimal 
-soviel Steuern zahlen wie bisher.
+sogar einen Deal ausgekartelt, nach dem die Indianer künftig dreimal
+so viel Steuern zahlen wie bisher.
 
 <PRINTONLY><pic images/firefighter.ps Der markige Feuerwehrmann findet den Deal mit den Indianern nicht gerecht.></PRINTONLY><HTMLONLY><VIDEO>7BMjNRMon0Y|Werbespots zu den Propositions 94, 95, 96 und 97 zur besten Fernsehzeit</VIDEO></HTMLONLY>
 
@@ -700,7 +700,7 @@ auch, also besannen wir uns und deckten uns mit Winterjacken und
 -schuhen ein. Eine weise Entscheidung, denn an Silvester schneite es
 prompt und kalt war es auch in Chicago.
 
-<pic images/chicpuffball.ps Angelika, dick eingemümmelt in ihren Puffball-Anorak an einer U-Bahnstation in Chicago.>
+<pic images/chicpuffball.ps Angelika, dick eingemümmelt in ihren Puffball-Anorak an einer U-Bahn-Station in Chicago.>
 
 Trotzdem gefiel uns die Stadt sehr. Nicht nur, dass es
 ein super U-Bahn-System gibt (keine Selbstverständlichkeit in Amerika),

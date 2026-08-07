@@ -7,7 +7,7 @@ Eure unermüdlichen Abenteurer Angelika und Michael haben wieder
 fleißig Geschichten aus dem amerikanischen Alltag gesammelt
 -- viel Spaß beim Lesen!
 
-<pic images/aol.ps Das Hauptquartier von AOL -- in Dullas, Virginia>
+<pic images/aol.ps Das Hauptquartier von AOL -- in Dulles, Virginia>
 
 @Z: Deutsches Essen in den USA
 
@@ -196,7 +196,7 @@ durchzukommen. Als wir schließlich an einer Art Oase mit Palmen
 anlangten, wo auch ein kleines Bächlein floss und wir ein paar Felsen 
 erklommen, vernahmen wir ein verdächtiges Rascheln im Gebüsch und 
 kurz darauf ein lautes Platsch!, so als ob ein mittelgroßes Tier ins 
-Wasser gesprungen wäre. Das war uns entschieden zuviel und wir traten 
+Wasser gesprungen wäre. Das war uns entschieden zu viel und wir traten
 den beschleunigten Rückzug an, und nachdem wir wegen der Eile die 
 Dornenzweige nur sehr nachlässig zurückbogen, bekamen wir einige 
 leichte Schrammen ab, aber schließlich erreichten wir offenes Gelände 
@@ -225,7 +225,7 @@ für die ich arbeite, und dementsprechend kenne ich den
 "You've got Mail!"-Ausspruch von der täglichen Arbeit, das sagt der 
 Computer nämlich, wenn man ihn einschaltet und elektronische Post da ist,
 und nachdem ich am Tag ungefähr
-50 Emails kriege, höre ich das ziemlich häufig. Egal, der Film ist
+50 E-Mails kriege, höre ich das ziemlich häufig. Egal, der Film ist
 ganz lustig, und wenn ihr technologie-verachtende Yetis seid,
 die noch Kugelschreiber, Schreibmaschinen und anderes antikes 
 Gerät verwenden, müsst
@@ -243,7 +243,7 @@ Erzeugnissen bombardieren -- und so kam es mir sehr gelegen, von der
 Niederlassung des Verlags Addison-Wesley in
 England zu hören, dass sie Interesse daran hätten, mein deutsches Buch
 ins Englische zu übersetzen und auf den Weltmarkt zu werfen.
-Gesagt, getan: Eine Übersetzerin erhielt per Email das Buch zugeschickt, 
+Gesagt, getan: Eine Übersetzerin erhielt per E-Mail das Buch zugeschickt,
 werkelte einen Monat daran herum und schickte schließlich das Ergebnis
 zurück. Ich sah es durch, korrigierte hier und da, schickte es zurück
 und nach ein paar Durchgängen lag schließlich das Ergebnis vor: Ende
@@ -315,7 +315,7 @@ bereit ... aber es ging alles gut.
 
 <em>(Michael)</em>
 Angelika mischt ja mittlerweile auch kräftig im Internet herum -- schreibt
-Emails, braust im Web herum und sendet mir "Instant Messages" ins Büro.
+E-Mails, braust im Web herum und sendet mir "Instant Messages" ins Büro.
 Nur gut, dass uns der Zugang weder Telefongebüren noch Mitgliedsbeiträge
 kostet, sonst wären wir längst im Armenhaus. Hier in Amerika zahlt man
 ja für Ortsgespräche keinen Pfennig, die sind alle in der sogenannten
@@ -482,7 +482,7 @@ die nicht müde geworden sind, uns zu schreiben, anzurufen und den
 Kontakt trotz der Entfernung zu halten. Auch viele neue E-Mail-Adressen 
 konnte ich über\-tragen und mehr und mehr amerikanische Adressen füllen 
 meinen Kalender, ein Zeichen dafür, dass wir doch schon länger hier 
-wohnen und losere Bekanntschaften zu Feundschaften geworden sind. 
+wohnen und losere Bekanntschaften zu Freundschaften geworden sind.
 Traurig hat mich der Anblick all jener Adressen gemacht, die ich zwar 
 noch in meinem Adressbuch habe, und an die noch so mancher Rundbrief 
 oder Geburtstagsgruß geschickt wurde, von denen aber das ganze Jahr 

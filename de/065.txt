@@ -23,13 +23,13 @@ die Fußball-EM in England. Die Olympischen Spiele finden in der
 US-Metropole Atlanta statt und werden von einem Bombenattentat
 überschattet. Im Juli wird die deutsche Rechtschreibreform in Wien
 verabschiedet. Auf den Einmarsch irakischer Truppen in die
-Kurdenschutzzone antworten die USA mit einem Millitärschlag im
+Kurdenschutzzone antworten die USA mit einem Militärschlag im
 September. Im November wird Bill Clinton für weitere vier Jahre zum
 US-Präsidenten gewählt. Ein neues Ladenschutzgesetz tritt in
 Deutschland in Kraft: Geschäfte können von Montag bis Freitag bis 20
 Uhr und am Samstag bis 16 Uhr ihre Türen für Kunden öffnen. Die
 Deutsche Telekom AG geht an die Börse. Im August heiraten wir. Michaels
-Buch "Effektives Prgrammieren mit Perl 5" wird gedruckt. Michael fliegt
+Buch "Effektives Programmieren mit Perl 5" wird gedruckt. Michael fliegt
 am 9. November nach San Francisco und fängt als Softwareentwickler bei
 der Startup-Firma "Black Sun Interactive" an. Angelika organisiert den
 Umzug. Am 9.12. wird die Holzkiste für den Container nach Amerika
@@ -44,7 +44,7 @@ Francisco.
 <pic images/lm.ps Michaels Kolumne "Perl-Snapshot" im Linuxmagazin geht ins zehnte Jahr: Die Ausgaben 10/1997 und 01/2007.>
  
 Im Februar öffnet die umstrittene Ausstellung zu Verbrechen der
-Wehrmacht ihre Tore. Im Mai wird in Bremen ein Teil des berümten
+Wehrmacht ihre Tore. Im Mai wird in Bremen ein Teil des berühmten
 Bernsteinzimmers gefunden. Der Sommer bringt dem deutschen Radprofi Jan
 Ullrich den Tour-de-France-Sieg. Der Münchener Schauspieler Helmut
 Fischer ("Monaco Franze") stirbt im Alter von 70 Jahren in München. Der
@@ -68,10 +68,10 @@ heute monatlich laufenden Kolumne im Linux-Magazin.
  
 <pic images/kohl.ps Und tschüss: Der Kanzler, den sie "Birne" nannten.>
 
-Im US-Bundestaat Texas wird zum ersten Mal seit über 100 Jahren wieder
+Im US-Bundesstaat Texas wird zum ersten Mal seit über 100 Jahren wieder
 eine Frau, Karla Faye Tucker, hingerichtet. Im Juni ereignet sich ein
 schweres Zugunglück in Deutschland. Der ICE "Wilhelm Conrad Röntgen"
-entgleist auf der Stecke von München nach Hamburg bei Eschede. Mehr als
+entgleist auf der Strecke von München nach Hamburg bei Eschede. Mehr als
 100 Menschen sterben. In Kenia und Tanzania werden im August Terrorakte
 auf amerikanische Botschaften verübt, denen Hunderte zum Opfer fallen.
 Während Helmut Kohl die Wahl zum Bundeskanzler im Herbst gegen Gerhard
@@ -79,7 +79,7 @@ Schröder verliert, entschuldigt sich Präsident Bill Clinton öffentlich
 für seine Affäre mit der ehemaligen Praktikantin
 Monica Lewinsky. Trotzdem wird im Oktober das
 Amtsenthebungsverfahren ("impeachment") gegen ihn eingeleitet. Die Wahlen
-im November bescheren der demokratische Partei Clintons dennoch leichte
+im November bescheren der demokratischen Partei Clintons dennoch leichte
 Stimmengewinne im Repräsentantenhaus, es reicht aber nicht zur Mehrheit.
 Vor Ausklang des Jahres ordnet Clinton Luftangriffe auf
 Schlüsselstellungen im Irak an, um Saddam Husseins Möglichkeiten zum
@@ -118,13 +118,13 @@ fängt als Helferin in der Dunkelkammer der UC Berkeley Extension an.
 Anfang des Jahres läuft die CDU-Spendenaffäre um Helmut Kohl und die
 verdeckten Konten auf Hochtouren. Im Februar stirbt der "Snoopy"- und
 "Peanuts"-Erfinder Charles M. Schulz in Kalifornien. Amerikanische
-Forscher entschüsseln das Erbgut des Menschen vollständig. Im Mai
+Forscher entschlüsseln das Erbgut des Menschen vollständig. Im Mai
 öffnet die Weltausstellung "Mensch-Natur-Technik - eine neue Welt
 entsteht" in Hannover ihre Tore. Im Sommer kommt es zur Unterzeichnung
 der Verträge zur Entschädigung von NS-Zwangsarbeitern. Von nun an gibt
 es eine deutsche Greencard.  Der November beschert der Welt einen noch
 nicht da gewesenen US-Wahlkrimi. Erst nach über einem Monat und einigem
-gerichtlichen Hickhack, welche Stimmen wann, wie und wieoft gezählt
+gerichtlichen Hickhack, welche Stimmen wann, wie und wie oft gezählt
 werden dürfen, steht der neue amerikanische Präsident fest: George W.
 Bush "schlägt" den Demokraten Al Gore. Friedrich Merz streitet hingegen
 um die deutsche Leitkultur. Die erste Kuh testet auf deutschem Boden
@@ -165,7 +165,7 @@ läuft den San-Francisco-Marathon.
  
 Zu Beginn des Jahres löst der Euro die vertraute D-Mark als Bargeld ab.
 In Kuba errichten die USA ein Gefangenenlager namens Guantanamo Bay für
-Taliban- und Al-Quaida-Kämpfer ein. Salt Lake City im US-Bundesstaat
+Taliban- und Al-Qaida-Kämpfer ein. Salt Lake City im US-Bundesstaat
 Utah begrüßt im Februar Athleten aus aller Welt zu den Olympischen
 Winterspielen und versucht, sein Image als konservative Mormonenstadt
 abzuschütteln. Im April tötet ein 19-jähriger ehemaliger Schüler des
@@ -234,7 +234,7 @@ Dreizimmerwohnung. Michael kündigt am 1.9.2004 bei AOL und fängt am
 <pic images/canada.ps 2005: Angelika presst an einem kanadischen Briefkasten Sonnenmilch aus der Flasche.>
 
 Das neue Jahr bringt Deutschland die Arbeitsmarktreform Hartz IV und ein
-neues Zuwanderungsgestz. Gleichzeitig übersteigt die Zahl der
+neues Zuwanderungsgesetz. Gleichzeitig übersteigt die Zahl der
 Arbeitslosen die 5-Millionen-Grenze. Der Modemacher Rudolph Moshammer
 wird in München heimtückisch ermordet. Im März dominiert die
 amerikanische Komapatientin Terri Schiavo die Presse, denn ihr Ehemann
@@ -243,18 +243,18 @@ ihre Magensonde entfernt wird. Sie stirbt daraufhin, nachdem sie
 15 Jahre im Koma gelegen hat. 
 Nach dem Tod von Johannes Paul II wählt das Konklave in Rom den
 deutschen Kardinal Joseph Ratzinger zum neuen Papst. Im Mai eröffnet das
-Holocaustmahnmal in Berlin. Im Sommer löst Bundespräsient Horst
+Holocaustmahnmal in Berlin. Im Sommer löst Bundespräsident Horst
 Köhler den Bundestag vorzeitig auf. Die deutsche Rechtschreibreform
 tritt verbindlich in Kraft. Der Amerikaner Lance Armstrong gewinnt zum siebten
 Mal die Tour de France. Hurrikan Katrina treibt sein Unwesen und verwüstet 
-weite Landstriche der Bundesstaaten Mississippi und Lousiana, sowie die 
+weite Landstriche der Bundesstaaten Mississippi und Louisiana sowie die
 Stadt New Orleans. Tagelang warten verzweifelte
 Menschen vergeblich auf staatliche Hilfe. Bei den vorgezogenen
 Bundestagswahlen in Deutschland im September erzielen weder 
 Rot-Grün noch Schwarz-Gelb
 eine Mehrheit. Der November bringt den Deutschen den neuen Pass mit
 eingespeicherten biometrischen Daten und die erste weibliche
-Bundeskanzlerin: Angela Merkel steht von nun an der großen Koaltion vor.
+Bundeskanzlerin: Angela Merkel steht von nun an der großen Koalition vor.
 Wir reisen zum ersten Mal in das Nachbarland Kanada und fahren zum 8. Mal
 nach Hawaii.
  

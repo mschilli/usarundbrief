@@ -13,7 +13,7 @@ Ringen um die Gesundheitsreform weiter.
 
 Die alles entscheidende Frage
 ist, ob es der Senat vor den Weih\-nachtsferien noch schafft, über den
-Gesetzesentwurf abzu\-stim\-men und uns alle dadurch einer nationalen
+Gesetzentwurf abzu\-stim\-men und uns alle dadurch einer nationalen
 Krankenkasse ein Stück näher zu bringen. Denn auch wenn es im Senat zur
 Abstimmung kommt und die Herren und Damen Senatoren die Reform
 beschließen, ist der histo\-ri\-sche Schritt einer Krankenkasse für alle
@@ -24,7 +24,7 @@ Reform abgestimmt werden.
 Die Mühlen mahlen langsam. Dabei bräuchten wir
 die Reform wirklich dringend, denn das Gesundheitssystem der USA 
 kränkelt schwer. Damit ihr prüfen könnt, ob ihr die Fakten kennt,
-habe ich für euch unten ein kleines Quiz zusammen gestellt.
+habe ich für euch unten ein kleines Quiz zusammengestellt.
 
 In diesem Sinne wünschen wir unseren treuen Rundbrieflesern fröh\-liche
 Weihnachten und ein gesundes neues Jahr!
@@ -49,7 +49,7 @@ b) Barack Obama, Präsident der Vereinigten Staaten von Amerika
 c) Richard Shelby, Senator von Alabama
 
 <sp>
-<em>2. Wieviele Amerikaner haben keinen Krankenversicherungsschutz?</em>
+<em>2. Wie viele Amerikaner haben keinen Krankenversicherungsschutz?</em>
 
 a) Circa 36 Millionen
 
@@ -58,7 +58,7 @@ b) Circa 46 Millionen
 c) Circa 56 Millionen
 
 <sp>
-<em>3. Wieviele Amerikaner pro Jahr sterben frühzeitig, weil sie
+<em>3. Wie viele Amerikaner pro Jahr sterben frühzeitig, weil sie
 keine oder eine unzureichende Krankenversicherung haben?</em>
 
 a) 45.000
@@ -79,8 +79,8 @@ b) Platz 17
 c) Platz 41
 
 <sp>
-<em>5. Auf welchem Platz liegen die USA laut neuster Statistik der
-Welgesundheitsorganisation in Bezug auf
+<em>5. Auf welchem Platz liegen die USA laut neuester Statistik der
+Weltgesundheitsorganisation in Bezug auf
 Müttersterblichkeit bei der Geburt?</em>
 
 a) Platz 4
@@ -90,8 +90,8 @@ b) Platz 24
 c) Platz 34
 
 <sp>
-<em>6. Auf welchem Platz liegen die USA laut neuster Statistk der
-Weltgesundheitsorganisation in Bezug auf die Lebenserwartung ?</em>
+<em>6. Auf welchem Platz liegen die USA laut neuester Statistik der
+Weltgesundheitsorganisation in Bezug auf die Lebenserwartung?</em>
 
 a) Platz 15
 
@@ -108,7 +108,7 @@ a) George Washington
 
 b) Theodore Roosevelt
 
-c) Henry Truman
+c) Harry Truman
 
 d) Richard Nixon
 

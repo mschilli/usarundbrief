@@ -25,8 +25,6 @@ push for universal healthcare. Many see the Tea Party movement as a
 protest from the right and the Occupy Wall Street action as the
 counter-movement from the left.
 
-TODO
-
 The glaring difference, however, is that the Tea Party supporters
 wanted to be involved in politics from the very beginning and now
 play a significant role in the American Congress. They even influence
@@ -34,14 +32,12 @@ the upcoming presidential election, while the Occupy Wall Street
 group tends to keep its distance from political parties. In my
 opinion, this is a big mistake, as I fear that the entire movement
 might eventually dissipate. Overall, they make few concrete demands.
-The common denominator seems to be opposition to the big banks, which
+The common denominator seems to be opposition to big banks, which
 is somewhat short-sighted, as the misery of the ongoing economic
 crisis is much more complex and cannot be solved by closing accounts
 at Bank of America or Wells Fargo Bank.
 
-<pic images/occupy-oakland-city-hall.ps Protesters are occupying the
-plaza in front of the Oakland City Hall with tents. Photo:
-flickr[Clay@SU|Clay@SU/6316145786]>
+<pic images/occupy-oakland-city-hall.ps Protesters are occupying the plaza in front of the Oakland City Hall with tents. Photo: flickr[Clay@SU|Clay@SU/6316145786]>
 
 Interestingly, Oakland, the city on the other side of the Bay Bridge
 that always stands somewhat in the shadow of San Francisco, has
@@ -51,102 +47,92 @@ since one of the movement's sympathizers died in a shooting, which
 was likely the result of a personal dispute. The protesters are still
 camping in tents in front of Oakland City Hall and managed to shut
 down the Port of Oakland during a large demonstration in early
-November, which catapulted them into all the TV channels. However,
+November, which catapulted them into all TV channels. However,
 the tents are supposed to disappear in the coming days, as Mayor Jean
-Quan is increasingly under pressure. After the plaza in front of City
+Quan is increasingly under pressure. After the square in front of City
 Hall was cleared by the police once before, she allowed the
 protesters to settle again in their tents on Frank Ogawa Plaza.
 
-However, the medium-sized businesses and residents around the town
-hall have had enough. They claim that no one dares to go downtown in
-Oakland anymore and their revenues have dramatically decreased. Quan
+However, the medium-sized businesses and residents around town
+hall have had enough. They claim that no one dares to come to downtown
+Oakland anymore and their business has dramatically decreased. Quan
 hoped that the protesters would voluntarily leave. However, it was
-reported this morning that the so-called "riot police" cleared the
-square.
+reported this morning that riot police had cleared the square.
 
 In general, it remains exciting to see what will become of the
 movement in the various cities. To gain sustainable influence and
-bring about change, it seems that political institutions cannot be
-avoided. I have been saying for years that the USA urgently needs a
+bring about change, it seems that protesters would need to
+get involved in the political process.
+I have been saying for years that the USA urgently needs a
 more diverse party landscape, and much of the narrow-mindedness lies
 in the currently existing two-party system.
 
-@Z: Abenteuer Verkaufssteuer" translates to "Adventure Sales Tax" in
-English.
+@Z: Crazy Sales Tax
 
-<pic images/cash-register.ps At the checkout, in addition to the sale
-price, stores also collect sales tax.>
+<pic images/cash-register.ps At the checkout, in addition to the sale price, stores also collect sales tax.>
 
 <em>Michael</em> 
-Inexperienced German tourists in the USA are often surprised when a
+Inexperienced German tourists coming to the U. S. are often surprised when a
 T-shirt priced at $9.99 suddenly costs $10.84 at the checkout. The
-difference is due to the sales tax of the respective county. Similar
+difference is due to the sales tax levied by the respective county. Similar
 to how Germany uses value-added tax (VAT), the state uses this trick
 to tax already taxed income again. And just like in Germany, the
 seller is merely an intermediary, passing the tax collected from the
-customer to the tax office without benefiting from it themselves.
+customer to the tax man without benefiting from it themselves.
 Unlike in America, it would be illegal in Germany to add VAT for end
 consumers only at the checkout; the price on the label already
 includes VAT. Americans find it normal for the checkout to add an odd
 amount.
 
-You read it correctly before, the sales tax rate varies by county. If
+You read it correctly before, the sales tax rate varies from county to county. If
 I buy a T-shirt for $9.99, it costs $10.84 at the Macy's store in
 Union Square in downtown San Francisco because the tax rate in San
-Francisco County is 8.5%. However, the Macy's in the Serramonte
+Francisco County is 8.5%. However, the Macy's at the Serramonte
 Shopping Mall in South San Francisco (20 km south) only charges
-$10.81 because South San Francisco County sets the sales tax at
-8.25%. This may seem irrelevant to you, but a man like me has to
+$10.81 because South San Francisco is in San Mateo County which sets the sales tax at
+8.25%. While this may seem irrelevant to you, a man like me has to
 count every penny.
 
-<pic images/ca-sales-tax-target.ps (#2) 8.25% sales tax, but only on
-the sunscreen, not on the spices.>
+<pic images/ca-sales-tax-target.ps (#2) 8.25% sales tax, but only on the sunscreen, not on the spices.>
 
 In Figure (#2), you can see that I bought two spices and two bottles
 of sunscreen at the supermarket "Target." Spices are tax-free,
 whereas sunscreen is taxed at the usual rate of 8.25% in South San
-Francisco. And that's not all, if you look into the...
-<LINK>https://www.cdtfa.ca.gov/lawguides/vol1/sutr/sales-and-use-tax-
-regulations.html|Translation: "Legal regulations on sales tax | What
-is subject to sales tax and what is not.</LINK>
-The typical American bureaucracy madness comes to light, which people
+Francisco. And that's not all, if you look into the
+<LINK>https://www.cdtfa.ca.gov/lawguides/vol1/sutr/sales-and-use-tax-regulations.html|regulations on sales tax</LINK> which define what items are
+subject to sales tax and which are not,
+the typical American bureaucracy madness comes to light, which people
 in Germany know nothing about.
 
 In California, sales tax is typically not charged on groceries.
 However, if a supermarket or bakery sells hot food and the customer
 consumes it on a wooden bench in front of the store, the store must
 charge and remit taxes as if it were a restaurant. The cashier at our
-local "Whole Foods" even asked me if the leek on the conveyor belt
+local "Whole Foods" once asked me if the leek on the conveyor belt
 was intended for immediate consumption. I vehemently denied it to
 avoid having to pay tax on the leek!
 
-The different percentages are calculated from the base rate for
+The different sales tax rates are calculated from the base rate for
 California (7.25%) and the rate added by the county. For example, San
 Francisco County charges an additional 1.25%, while South San
-Francisco settles for 1%. According to the regulations, the maximum
-is
-<LINK>http://en.wikipedia.org/wiki/Sales_taxes_in_the_United_States#T
-exas|The translation to English is: "Federal State Regulations |
-Sales Tax Breakdown by State</LINK>
-For California, 9.75% is allowed. The county can therefore add a
-maximum of 2.5% to the state rate. Two counties in the Los Angeles
-area are pushing the limit: Stores in Pico Rivera and South Gate
+Francisco in San Mateo County settles for 1%. According to
+<LINK>http://en.wikipedia.org/wiki/Sales_taxes_in_the_United_States|state regulations</LINK>,
+the maximum allowed sales tax rate for California is 9.75%. The county can therefore add a
+maximum of 2.5% to the state's base rate. Two counties in the Los Angeles
+area are going to the limit: Stores in Pico Rivera and South Gate
 would charge a straight $10.95 for the $9.99 T-shirt!
 
-Jeder Bundesstaat legt" translates to "Each federal state determines"
-in English.
-<LINK>http://en.wikipedia.org/wiki/Sales_taxes_in_the_United_States#T
-exas|Different regulations|Sales tax by state|</LINK>
-For the base rate and the maximum percentage. Alaska, Delaware, New
-Hampshire, Montana, and Oregon do not impose any sales tax and also
+Each state sets individual percentages for 
+the base rate and the maximum percentage. Alaska, Delaware, New
+Hampshire, Montana, and Oregon do not impose any sales tax at all and also
 prohibit their counties from doing so. Additionally, the tax is only
-applicable if the goods are 'consumed' in the taxable state. A
+applicable if the goods are 'consumed' in a taxable state. Also, a
 customer does not have to pay sales tax on an iPod purchased in the
 state and delivered to California if they immediately send it as a
 gift to their ungrateful nephews in Germany.
 
-Well, when it comes to the previously mentioned small amounts of
-money when buying a T-shirt, hardly anyone cares, but if an LCD TV
+When it comes to the previously mentioned small amounts of
+sales tax when buying a T-shirt, hardly anyone cares, but if an LCD TV
 suddenly costs $1,097.50 instead of $1,000, the average consumer
 starts thinking and finds ways to bypass the $97.50 tax owed to the
 state of California. The easiest way: order online from Amazon.
@@ -154,27 +140,22 @@ state of California. The easiest way: order online from Amazon.
 
 @Z: How Amazon Circumvents Sales Tax
 
-<pic images/online-shopping.ps Will these two crooks end up paying
-the California sales tax on their Amazon purchases afterwards?>
+<pic images/online-shopping.ps Will these two crooks end up paying the California sales tax on their Amazon purchases afterwards?>
 
 <em>Michael</em> 
 The mega-retailer Amazon is headquartered near Seattle in the state
 of Washington, one of the few remaining sales tax havens in America.
-And since the catalog retailer based in the state of Delaware...
-<LINK>http://en.wikipedia.org/wiki/Quill_Corp._v._North_Dakota|Quill
-1992 gegen den Staat North Dakota" translates to "Quill 1992 against
-the State of North Dakota" in English.</LINK>
-The translation to English is: "took the case to the Supreme Court
-and won, it is established that companies without a branch in the
+And since the catalog retailer Quill, which is based in the state of Delaware,
+took the case
+<LINK>http://en.wikipedia.org/wiki/Quill_Corp._v._North_Dakota|Quill 1992 vs. North Dakota</LINK>
+to the Supreme Court and won, it is established that companies without a branch in the
 state cannot be forced to collect the local sales tax.
 
-<pic images/amzn-sales-tax.ps Amazon is currently (as of October
-2011) withholding sales tax for customers from the states of Kansas,
-Kentucky, New York, North Dakota, and Washington.>
+<pic images/amzn-sales-tax.ps Amazon is currently (as of October 2011) withholding sales tax for customers from the states of Kansas, Kentucky, New York, North Dakota, and Washington.>
 
-This loophole is used by Amazon shipping to avoid collecting sales
-tax from eager shoppers in California. For decades, it has therefore
-avoided establishing a physical presence in California at all costs.
+This loophole is used by Amazon to avoid collecting sales
+tax from active shoppers in California. For decades, it has therefore
+carefully avoided establishing a physical presence in California.
 Most deliveries come by truck from a warehouse near the city of Reno
 on the Nevada side of the California border. And if you google
 "amazon digital music san francisco," you will see, for example, job
@@ -184,9 +165,7 @@ iTunes clone. Amazon has deliberately given the department a
 nondescript name so that it is not considered an Amazon branch in
 California.
 
-<pic images/jerry-brown-flickr-5403438991.ps Governor Jerry Brown
-wants Amazon to collect sales tax in California and fill his state's
-coffers. Photo: flickr [Neon Tommy|neontommy/5403438991]>
+<pic images/jerry-brown-flickr-5403438991.ps Governor Jerry Brown wants Amazon to collect sales tax in California and fill his state's coffers. Photo: flickr [Neon Tommy|neontommy/5403438991]>
 
 Californians are legally required to pay the saved amounts during the
 annual tax reconciliation in April, but many "forget" to do so. Due
@@ -196,24 +175,17 @@ to collect the tax. Amazon is resisting tooth and nail and can offer
 its goods in California almost 10% cheaper than local stores like
 Best Buy or Walmart. This, of course, infuriates the latter. If
 Amazon were to run radio ads like Media Markt in Germany, the slogan
-would be: "Sales tax? I'm not stupid!
+would be: "Sales tax? I'm not stupid!"
 
-<pic images/amzn-package.ps Amazon ships the packages from a
-warehouse outside the state of California to avoid the sales tax.>
+<pic images/amzn-package.ps Amazon ships packages from a warehouse outside the state of California to avoid the sales tax.>
 
-The above-mentioned Supreme Court ruling was made in 1998 during
-President Clinton's administration through the so-called...
-<LINK>http://www.cob.sjsu.edu/nellen_a/itfa.html|The "Federal
-Internet Tax Freedom Act (F-ITFA)" is already in English. It refers
-to a U.S. law that prohibits federal, state, and local governments
-from imposing taxes on internet access and discriminatory
-internet-only taxes.</LINK>
-The translation to English is: "strengthened. It prohibits states
-from imposing additional taxes on internet purchases. However, states
-are indeed allowed to pass laws that require online stores to
-already...
-<em>bestehenden</em> 
-The translation to English is: "To comply with sales tax regulations
+The above-mentioned Supreme Court ruling was rendered in 1998 during
+President Clinton's administration through the so-called
+<LINK>http://www.cob.sjsu.edu/nellen_a/itfa.html|Federal Internet Tax Freedom Act (F-ITFA)"</LINK>.
+It prohibits states
+from imposing additional tax on internet purchases. However, states
+are allowed to pass laws requiring online stores to
+to comply with already established sales tax regulations
 for regular stores. The state of New York enforced this in June 2008,
 and since then, New Yorkers have been paying sales tax on Amazon
 online orders.
@@ -227,87 +199,72 @@ my website perlmeister.com and include an Associates ID obtained from
 Amazon, I could earn up to 3% of the purchase price if someone
 follows my link and buys the book.
 
-<pic images/bezos-flickr-153327601.ps Amazon CEO Jeff Bezos has
-nothing to do with sales tax. Photo: flickr[JD
-Lasica|jdlasica/153327601].>
+<pic images/bezos-flickr-153327601.ps Amazon CEO Jeff Bezos wants nothing to do with sales tax. Photo: flickr[JD Lasica|jdlasica/153327601].>
 
-Translate to English: If these "Associates" are Californians, Jerry
-Brown found that Amazon suddenly has a presence in the state and must
+If these "Associates" are Californians, Jerry
+Brown found that Amazon now suddenly has a presence in the state and must
 collect sales tax. Amazon immediately responded in June 2011 by
 canceling the Associates program in California. The email signed by
 Jeff Bezos even mentioned violations by the state of California
 against the federal constitution! However, after a few weeks of
 dispute, it was agreed that Amazon would collect the tax.
-<LINK>http://online.wsj.com/article/SB1000142405297020413820457659888
-3358407422.html|Only from September 2012 | Amazon will collect
-California sales tax starting in September 2012.</LINK>
-Translate to English: "eintreiben muss. In early October 2011, Amazon
+<LINK>http://online.wsj.com/article/SB10001424052970204138204576598883358407422.html|From September 2012 on</LINK>
+Amazon will collect California sales tax.
+In early October 2011, Amazon
 sent a delighted email to all terminated Associates, assuring them
-that the program would now continue. By September 2012, Amazon plans
-to try to influence Congress (lobbying, see
-<RBLINK>20110624#2</RBLINK>
-...so that a federal law puts an end to the eternal back and forth.
+that the program would now be continued. By September 2012, Amazon plans
+to try to influence Congress (lobbying, see <RBLINK>20110624#2</RBLINK>)
+so that a federal law puts an end to the eternal back and forth.
 By the way, 2012 is the next election year.
 
-@Z: The helmet for playing soccer.
+@Z: Americans Are Overly Cautious
 
-<pic images/soccer-helmet.ps Even when playing soccer, Americans are
-now supposed to wear a helmet.>
+<pic images/soccer-helmet.ps Even when playing soccer, Americans are now supposed to wear a helmet.>
 
 <em>Michael</em> 
 It is known in Germany that microwaves in America are sold with a
 warning that they are not suitable for drying pets. And we have often
-mentioned that American schoolchildren usually do not ride bicycles
+mentioned that American schoolchildren usually don't ride bicycles
 or walk to school, and only the less fortunate use public
 transportation. Recently, a case from the state of Tennessee even
-made headlines, in which...
-<LINK>http://bikeportland.org/2011/09/01/neglect-charges-follow-10-ye
-ar-olds-bike-ride-in-tennessee-58426|A patrol officer stopped a
-10-year-old girl on her bicycle on the way to school.</LINK>
-... she promptly drove back to her parents and explained to the
+made headlines, in which <LINK>http://bikeportland.org/2011/09/01/neglect-charges-follow-10-year-olds-bike-ride-in-tennessee-58426|a patrol officer stopped a 10-year-old girl on her bicycle on the way to school.</LINK>
+and promptly drove her back to her parents and explained to the
 astonished mother that children should only ride bikes under
 supervision. Crazy.
 
 Therefore, I had to laugh quite a bit when I recently saw an
 advertisement for a helmet for playing soccer in a sports catalog.
-The
-<LINK>http://www.full90.com|Full 90" in English typically refers to
-playing the entire duration of a soccer or football match, which is
-90 minutes. It can also imply giving complete effort or being fully
-engaged throughout the match.</LINK>
-The top is open and it surrounds the head, I assume, to prevent
+The <LINK>http://www.full90.com|Full 90"</LINK> helmet
+surrounds the head with an open top, to, I assume, prevent
 concussions when players collide heads.
 
 Almost every cyclist in San Francisco wears a helmet (myself
-included, of course), so I wouldn't be surprised if the football
+included, of course), so I wouldn't be surprised if the soccer
 helmet catches on. In our soccer group that plays every Tuesday in
 the Mission District, I offered a $10 reward to the first person who
 wears the helmet and endures my mockery for 90 minutes.
 Unfortunately, no one took up the challenge.
 
-<pic images/american-football.ps Referees in American football are
-now blowing the whistle for serious fouls.>
+<pic images/american-football.ps Referees in American football are now blowing the whistle for serious fouls.>
 
 Even in the rough sport of American football, where fearsome,
-steak-fed muscle men clash over an egg-shaped ball in ridiculously
+steak-fed muscle men clash over an egg-shaped ball while wearing ridiculously
 thick shoulder pads, a safety craze has set in. After doctors
 determined that constant blows to the helmeted head are not exactly
 beneficial for the brain, certain maneuvers were banned. Recently,
-<LINK>http://www.youtube.com/watch?v=skj-u0XzxX8|The mighty
-linebacker Ndamukong Suh</LINK>
-The Detroit Lions, a sort of human battering ram, knocked down the
-slender quarterback of the "Bengals," Andy Dalton, after the ball was
+<LINK>http://www.youtube.com/watch?v=skj-u0XzxX8|the mighty linebacker Ndamukong Suh</LINK>
+of the Detroit Lions, a sort of human battering ram, knocked down the
+slender quarterback of the "Bengals," Andy Dalton, after the football was
 already gone. To the indignation of the sports world, the referee
 called this "unnecessary roughness." This would have been unthinkable
-30 years ago, back then even the so-called clothesline maneuver was
+30 years ago. Back then even the so-called clothesline maneuver was
 allowed, where a player runs past another with an arm extended
 sideways, bringing him down as if he had run into a taut clothesline.
 Those were the days!
 
-<pic images/fireworks-hut.ps In these huts, non-profit groups sell
-children's fireworks.>
+<pic images/fireworks-hut.ps In these huts, non-profit groups sell children's fireworks.>
 
-Even for fireworks meant for New Year's Eve or the 4th of July, city
+Even with fireworks meant for New Year's Eve or the 4th of July, city
 administrations are imposing strict safety regulations. Law-abiding
 citizens are allowed to purchase small rockets and table fireworks
 from officially approved stands. On the black market, shady
@@ -315,39 +272,32 @@ characters offer real firecrackers, mostly of Mexican production, but
 as you can see in illustration (#1), being caught with them can
 result in fines of up to $5,000.
 
-<pic images/fireworks-warning.ps (#1) Translation: "Anyone who buys
-real firecrackers instead of the lame state-approved fireworks can be
-fined up to 5,000 dollars.>
+<pic images/fireworks-warning.ps (#1) Anyone who buys real firecrackers instead of the lame state-approved fireworks can be fined up to 5,000 dollars.>
 
 @Z: Names and Origin
 
-<pic images/sf-ethnicity-school.ps Parents often give their children
-names that reflect their heritage.>
+<pic images/sf-ethnicity-school.ps Parents often give their children names that reflect their heritage.>
 
 <em>Michael</em> 
-The population in San Francisco is diverse. As once before in the...
-<RBLINK>20050701#2</RBLINK>
-The text translates to:
-
-"As mentioned, 44% of the population here are White, 31% Asian, 14%
-Latino, and 8% Black. The map in Figure (#1) shows that members of an
+The population in San Francisco is quite diverse. As I've mentioned before in
+<RBLINK>20050701#2</RBLINK>,
+44% of the population here are white, 31% asian, 14%
+latino, and 8% black. The map in Figure (#1) shows that members of an
 'ethnicity' often concentrate in specific neighborhoods. It should
-come as no surprise that mainly Asians settle in Chinatown and that
-predominantly Whites live in affluent neighborhoods like ours in Noe
-Valley. The Latinos (mainly South Americans) mostly live in the
-Mission district and in the southern part of the city, 'South San
-Francisco,' a somewhat more affordable area where, interestingly, a
+come as no surprise that mainly asians settle in Chinatown and that
+predominantly whites live in affluent neighborhoods like ours in Noe
+Valley. The latinos (mainly South Americans) mostly live in the
+Mission district. In the southern part of the city,
+there are somewhat more affordable areas where, interestingly, a
 very balanced mix of skin colors can be found. The blue centers on
-the map with predominantly Black populations are the neighborhoods of
+the map with predominantly black populations are the neighborhoods of
 Tenderloin, Hunters Point, and Sunnydale, which are unfortunately
 partly known as social hotspots.
 
-<pic images/sf-ethnicity.ps (#1) The translation of the text is:
-"Skin colors in San Francisco: Red: White, Blue: Black, Green: Asian,
-Orange: Latino. Graphic: flickr[Eric Fischer|walkingsf/4981425631]>
+<pic images/sf-ethnicity.ps (#1) Skin colors in San Francisco: red: white, blue: black, green: asian, orange: latino. Graphic: flickr[Eric Fischer|walkingsf/4981425631]>
 
 When you meet a person for the first time and have never seen a
-picture of them, most people inevitably form a mental image: male or
+picture of them, most people inevitably have already formed a mental image: male or
 female, old or young? If the person doesn't have an exotic name, in
 Germany you wouldn't even think about their skin color, as it would
 almost certainly be white.
@@ -361,25 +311,23 @@ Venkataraman" is Indian. A "Manuel Rodriguez" typically comes from
 South America, a "Latisha Smith" is most likely an African American,
 and an "Eric Schmidt" could be a third-generation German immigrant.
 
-<pic images/freak.ps Freakonomics" by Steven D. Levitt and Stephen J.
-Dubner>
+<pic images/freak.ps "Freakonomics" by Steven D. Levitt and Stephen J. Dubner>
 
 This inevitably leads to interesting questions, for example, during
 the hiring process in a company: In the USA, resumes do not include a
-photo to prevent discrimination based on appearance. However, the
+photo to prevent discrimination based on appearance. However, a candidate's
 origin often becomes apparent through the first or last name, raising
 the question of which first names parents from disadvantaged
 communities should choose for their children to boost their
 professional careers. Should they opt for a more traditionally white
 name like "Greg" or "Britney," or follow tradition with names like
-"Rigoberto" or "Guadalupe" in the Latino community, or "Tyrone" or
-"Latisha" in the Black community?
+"Rigoberto" or "Guadalupe" in the latino community, or "Tyrone" or
+"Latisha" in the black community?
 
 The authors of the bestseller
 <LINK>http://www.amazon.com/dp/0060731338|"Freakonomics"</LINK>
-already discussed in
-<RBLINK>20050925#7</RBLINK>
-For several years now, it has been found that first names alone
+(already discussed in <RBLINK>20050925#7</RBLINK>) report that
+for several years now, it has been found that first names alone
 cannot be directly linked to success or failure in life in a causal
 way. However, it has been proven that the Tyrones and Latishas of
 this world perform worse than the Gregs and Britneys. Why is that?
@@ -396,27 +344,23 @@ because he has a date with a "Donna Chang," whom he only knows from
 the phone. He assumes she is Asian, but is later completely surprised
 when his new acquaintance turns out to be white.
 
-@Z: Wahlkampf Primaries" translates to "election campaign primaries"
-in English.
+@Z: Election Campaign Primaries
 
 <em>Angelika</em> 
-We find ourselves once again in the election campaign. Although the
+We find ourselves once again in the middle of an election campaign. Although
 presidential elections are not until November 2012, the American
-system of primaries ("Primaries")
-<RBLINK>20080203#2</RBLINK>
-..has kicked off the election campaign. In the primaries, party
+system of primaries (<RBLINK>20080203#2</RBLINK>)
+has kicked off their election campaign. In the primaries, party
 members themselves decide who will be sent into the presidential race
 for their party. The first primaries will take place at the beginning
-of 2012. Since everything is already clear with the Democrats, as
+of 2012. Since everything is already set with the Democrats, as
 only Obama is running and his nomination is just a formality, all the
 focus is on the Republican candidates. The Republican base is
 concerned with only one thing: Who can succeed in defeating Obama?
 
-<pic images/mitt-romney-flickr-6149221622.ps The most promising
-Republican candidate, Mitt Romney. Photo: flickr [Gage
-Skidmore|gageskidmore/6149221622]>
+<pic images/mitt-romney-flickr-6149221622.ps The most promising Republican candidate, Mitt Romney. Photo: flickr [Gage Skidmore|gageskidmore/6149221622]>
 
-Mitt Romney is considered the candidate with the best chances, at
+Mitt Romney is considered to be the candidate with the best chances, at
 least when it comes to the general presidential election and not the
 primaries. Of course, this prediction is of no use to him if he
 doesn't win the primaries. Herein lies the dilemma: To reach the
@@ -430,14 +374,14 @@ slogans. However, to win the Republican primaries, Romney must also
 appeal to the more extreme elements within his party in today's
 climate, such as the religious right and the Tea Party movement.
 
-However, he held the office of Governor of Massachusetts from 2002 to
+Romney held the office of Governor of Massachusetts from 2002 to
 2007 and helped introduce universal health insurance in his state.
 The model in Massachusetts is very similar to the Obama model. But
 since almost all Republican candidates are strictly against the
 health reform initiated by Obama and even want to roll it back,
 Romney is now under pressure to explain himself. He also quickly
 adapted his previously moderate views on abortion and the equality of
-homosexuals, which were too moderate for some Republicans, to improve
+homosexuals, opinions too moderate for some Republicans, to improve
 his chances of winning. Many now accuse him of always changing his
 stance with the prevailing winds. On the plus side, many see that
 Romney was a successful businessman before he showed political
@@ -449,9 +393,7 @@ repeatedly bring up the fact that Romney is a Mormon. However, this
 seems to carry less weight than it did in 2008, when Romney ran
 before but McCain emerged as the winner in the primaries.
 
-<pic images/herman-cain-flickr-6256703238.ps For only 9 percent
-income tax: The Republican Herman Cain. Photo: flickr [Gage
-Skidmore|gageskidmore/6256703238]>
+<pic images/herman-cain-flickr-6256703238.ps For only 9 percent income tax: The Republican Herman Cain. Photo: flickr [Gage Skidmore|gageskidmore/6256703238]>
 
 Another dazzling personality is Herman Cain, who initially was not
 given any chances by anyone, but is now performing relatively well in
@@ -464,7 +406,7 @@ unfeasible, is nevertheless appealing to many, because Americans hate
 the complicated, convoluted tax laws with their associated
 exceptions.
 <LINK>http://www.hermancain.com/999plan|Herman Cain's Plan</LINK>
-The proposal only includes a flat tax rate of 9%, hence the name.
+includes a flat tax rate of only 9%, hence the name.
 Everyone pays 9% income tax, a national sales tax of 9% is
 introduced, and businesses are also taxed at 9%. However, Cain
 currently has other problems, as the press dug up an old story from
@@ -492,9 +434,7 @@ leads Perry's critics to repeatedly point out that under his
 leadership, Texas set the unfortunate record of having the highest
 percentage of uninsured citizens at 26%.
 
-<pic images/michelle-bachman-flickr-6254644721.ps The second Sarah
-Palin: Michele Bachmann. Photo: flickr[Gage
-Skidmore|gageskidmore/6254644721]>
+<pic images/michelle-bachman-flickr-6254644721.ps The second Sarah Palin: Michele Bachmann. Photo: flickr[Gage Skidmore|gageskidmore/6254644721]>
 
 Michele Bachmann was long considered the second Sarah Palin and
 received a lot of attention from the press before Rick Perry
@@ -507,11 +447,9 @@ affiliated with the Tea Party movement and has been serving in the
 U.S. House of Representatives since 2007 as one of the
 representatives from the state of Minnesota.
 
-<pic images/ron-paul-flickr-5449859622.ps Translation: "Wants to
-abolish the US Federal Reserve: the Republican Ron Paul. Photo:
-flickr[Gage Skidmore|gageskidmore/5449859622]>
+<pic images/ron-paul-flickr-5449859622.ps Translation: "Wants to abolish the US Federal Reserve: the Republican Ron Paul. Photo: flickr[Gage Skidmore|gageskidmore/5449859622]>
 
-Ron Paul is a doctor and a Texas representative in the American House
+Ron Paul is a doctor and a Texas representative in the House
 of Representatives. He is considered a free thinker with principles
 that seem somewhat utopian. His goal is to strictly adhere to the
 principles of the nation's founding fathers. He wants to keep the
@@ -524,7 +462,7 @@ align with the movement. He has loyal followers who do not only come
 from the right-wing camp, but he is considered an outsider, as he is
 unlikely to become president with these principles, even in extreme
 America. However, the man is consistent. For example, he stubbornly
-refuses to accept the pension payments that are due to Congress
+refuses to accept the pension payments available to Congress
 members at a certain age and after years of service.
 
 Jon Huntsman may be the only Republican who could also find support
@@ -558,26 +496,20 @@ Mexico. A surprisingly liberal move for a Republican.
 
 There is no shortage of candidates. However, when the actual
 primaries finally begin, the wheat is quickly separated from the
-chaff, because the American election campaign is expensive, and many
-only make it to the primaries in the first states. Candidates find it
+chaff, because election campaignsare expensive, and many candidates
+only make it to the primaries in the initial states. Candidates find it
 difficult to raise campaign funds if they are not leading in the
 primaries. Two other candidates, Thaddeus McCotter and Tim Pawlenty,
 already dropped out in August and September for this reason.
 
-@Z: The translation of "Mit den Fingern zÃ¤hlen" to English is
-"Counting with fingers.
+@Z: Counting With Fingers
 
-<pic images/count-three.ps (#13) The translation of the sentence "So
-signalisiert man auf amerikanisch die Zahl Drei" to English is: "This
-is how you signal the number three in American.>
+<pic images/count-three.ps (#13) This is how you signal the number three in American.>
 
 <em>Michael</em> 
 At the latest since the Tarantino film
-<LINK>http://en.wikipedia.org/wiki/Inglourious_Basterds|Inglourious
-Basterds" is the title of a film by Quentin Tarantino and is
-intentionally misspelled. The correct English translation of the
-intended phrase would be "Inglorious Bastards.</LINK>
-In which an American spy gives himself away by ordering three beers
+<LINK>http://en.wikipedia.org/wiki/Inglourious_Basterds|"Inglourious Basterds"</LINK>
+in which an American spy gives himself away by ordering three beers
 with the wrong fingers, it should be clear that Americans and Germans
 use different finger signs.
 
@@ -597,20 +529,20 @@ their thumb and holding both firmly at the bottom (see illustration
 And what does it mean when you only raise the index finger and the
 little finger, while keeping the middle and ring fingers folded down?
 Correct, that is the signal for "Four beers for the men from the
-sawmill.
+sawmill", of course!
 
-@Z: The End of the Paper Book
+@Z: The End Of The Paper Book
 
-<pic images/kindle-sarrazin.ps On the Kindle, you can read just like
-in a book.>
+<pic images/kindle-sarrazin.ps On the Kindle, you can read just like in a book.>
 
 <em>Michael</em> 
-From the revolution of the electronic Amazon book readers of the
-"Kindle" brand, we have already...
+As an avid newsletter reader, you've already read in
 <RBLINK>20110320#5</RBLINK>
-The translation to English is: "reported. In Germany, too, they seem
-to be catching up quickly; the German Amazon shipping offers a decent
-selection of current titles.
+about the revolution of the electronic Amazon book readers of the
+"Kindle" brand.
+In Germany, too, they seem
+to be catching on quickly; the German Amazon site offers a decent
+selection of contemporary titles.
 
 In my opinion, this development heralds a rapid end to all printed
 materials and bookstores. Soon, schoolchildren will incredulously
@@ -625,7 +557,7 @@ The advantages are obvious: Not only do you no longer have to lug
 around a kilo of books on vacation. If I need a page from a 1000-page
 Unix tome, I have it with me always and everywhere. New reading
 material can be found directly on the reading device, and you can
-purchase it there without any hassle, without even having to get up
+purchase it right there without any hassle, without even having to get up
 from the deck chair on the beach or the toilet seat. The transfer is
 wireless and free via the mobile network within a few minutes.
 Magazines are no longer subscribed to by mail; Amazon automatically
@@ -637,10 +569,9 @@ available, and for $0.99, the elaborately produced print work is
 wirelessly transferred to the reading device within a few minutes. In
 color, in high resolution. The software still has some issues
 occasionally, but I'm sure the second-tier programmers at
-SÃ¼ddeutsche will get that under control as well.
+Süddeutsche will get that under control as well.
 
-<pic images/ipad-sz-magazin.ps The magazine of the SÃ¼ddeutsche
-Zeitung, available on the iPad for $0.99.>
+<pic images/ipad-sz-magazin.ps The magazine of the Süddeutsche Zeitung, available on the iPad for 0.99 Dollars>
 
 In Germany, people are still finding it difficult to take this
 development seriously. I sometimes hear excuses like "Germany is not
@@ -653,7 +584,7 @@ plastering it with advertisements.
 
 However, the hesitant ones overlook a very important difference
 compared to back then: While a free culture prevails on the internet
-and it is considered unsporting to spend money on well-processed and
+and it is considered uncool to spend money on well-processed and
 presented content, most products on the Kindle or iPad do cost money,
 albeit not much, but real money. It is normal to pay small amounts
 for music or apps. Even the hacker magazine "2600," which I admire,
@@ -667,32 +598,28 @@ this is only the case if publishers are smart enough to set fair
 prices: Who would go through the trouble of downloading a pirated
 copy if the official book costs only a few euros?
 
-<pic images/kindle-on-loan.ps (#14) If you have borrowed a Kindle
-book, it is locked on your own Kindle.>
+<pic images/kindle-on-loan.ps (#14) If you have borrowed a Kindle book, it is locked on your own Kindle.>
 
 The Kindle amusingly also models established habits of traditional
 book readers: For example, you can lend a purchased book to a friend
 who owns a Kindle for two weeks. During this period, the copy remains
 locked on the lender's Kindle (Figure (#14)). Libraries can also
 purchase a number of copies of a digital book and lend them to their
-users. The...
-<LINK>http://www.jacksonfuller.com/2011/09/21/san-francisco-public-li
-brary-and-kindle-lending-my-personal-experience|Main branch of the
-San Francisco Public Library at the Civic Center now also lends
-Kindle books | SF Public Library lends Kindle eBooks</LINK>
-However, enthusiastic readers have already cleared out the digital
+users. The
+<LINK>http://www.jacksonfuller.com/2011/09/21/san-francisco-public-library-and-kindle-lending-my-personal-experience|Main branch of the San Francisco Public Library at the Civic Center now also lends
+Kindle books</LINK>.
+However, enthusiastic library users seem to have already cleared out the digital
 shelves, the quota seems to be exhausted, and people have signed up
 for waiting lists. It's actually a bizarre situation: The edition of
 a digital book, of which one could make an infinite number of copies
 for free, is artificially limited to mimic the constraints of printed
 publications.
 
-<pic images/sfpl-civic-center.ps The venerable San Francisco Public
-Library also lends electronic Kindle books.>
+<pic images/sfpl-civic-center.ps The venerable San Francisco Public Library also lends electronic Kindle books.>
 
 Conveniently, the Kindle remembers how far you've flipped through
 each book, so you never read a page twice, even if you're juggling 20
-books at once. And even better: The Kindle apps on different devices
+books at once. And even better: The Kindle apps on different devices do
 automatically sync, so if I'm reading a Kindle book at home on the
 iPad and later turn on a Kindle device on the bus, the Kindle asks if
 it should fast forward to where I left off on the iPad. The ability
@@ -700,9 +627,6 @@ to highlight sentences and write notes in the margins, with this data
 also being available on other reading devices later, completes the
 package.
 
-The phrase translates to: "Greetings from the Obama-tired country:
+Greetings from the Obama-tired country:
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael

@@ -62,7 +62,7 @@ gehörte ja damals noch zu Mexiko, erst 1848 schnappten sich die USA
 im Mexiko-Krieg das Land und gaben es nimmer her. Deswegen gibt es
 hier auch heute noch haufenweise Straßen mit spanischen Namen, zum
 Beispiel die "Alameda de las Pulgas",
-was soviel wie "Straße der Fliegen" heißt, wo die Kühe und Schafe und, 
+was so viel wie "Straße der Fliegen" heißt, wo die Kühe und Schafe und,
 was des Viehzeugs mehr war, getrieben wurden.
 In der Tat befuhr ich diese Straße täglich mit meinem
 Fahrrad in San Mateo, als ich noch nicht bei Netscape in Mountain View war.
@@ -213,11 +213,11 @@ so viele junge Betriebe im Internetsektor pleite).
 <em>(Michael)</em>
 Und eine Volkszählung gab's neulich: Dem Amerikaner ist ja das
 Einwohnermeldeamt fremd wie dem Deutschen das Freundlichsein.
-Deswegen hat zum Beispiel die Stadt San Francisco keine Ahnung, wieviele
+Deswegen hat zum Beispiel die Stadt San Francisco keine Ahnung, wie viele
 Leute gerade in ihr wohnen. Zieht man um, meldet man sich nirgendwo an
 oder um -- man zieht einfach um, woher und wohin, das geht niemanden etwas an.
-Nun will die Stadt natürlich wissen, wieviele Schulen sie bauen muss
-und welche Straßenbahnlinien und wieviel Geld deshalb in die 
+Nun will die Stadt natürlich wissen, wie viele Schulen sie bauen muss
+und welche Straßenbahnlinien und wie viel Geld deshalb in die
 einzelnen Stadtteile fließen muss -- und hierzu ist sie auf 
 Bevölkerungsdaten angewiesen. Deshalb verteilt die Regierung alle 10 Jahre
 Fragebögen, die man ausfüllen muss, und nicht nur in San Francisco: Bis zu
@@ -231,7 +231,7 @@ maßlos auf -- aber gegen diese hier war die damals direkt harmlos.
 Zwar werden die Daten so anonymisiert, also so statistisch aufbereitet, dass 
 kein Rückschluss mehr auf den betroffenen Einzelhaushalt möglich ist,
 aber die Fragen waren für uns recht schockierend:
-Da musste man nicht nur ankreuzen, wieviele Personen im Haushalt 
+Da musste man nicht nur ankreuzen, wie viele Personen im Haushalt
 wohnen, sondern auch ihre ethnische Abstammung angeben: Schwarze
 oder weiße Hautfarbe, Latino, Asiate oder Indianer. Das ist deswegen
 ungewöhnlich, weil sonst großen Wert auf "politisch korrekten" 
@@ -249,7 +249,7 @@ der Kandidat kommt, das wäre illegal.
 Angelika füllte jedenfalls den Bogen ohne Murren aus und schickte ihn
 zurück. Wenn man das nämlich nicht täte, so drohte das Begleitschreiben,
 würde einem eine Mahnung zugeschickt und
-ein Beauftrager käme vorbei, den dann hoffentlich ausgefüllten Bogen 
+ein Beauftragter käme vorbei, den dann hoffentlich ausgefüllten Bogen
 abzuholen. Wer auch
 das nicht täte, bei dem kreuzte nach Ablauf einer Frist ein
 Beauftragter auf, der einem beim Ausfüllen "unterstützte".
@@ -400,7 +400,7 @@ sagt man "That's a doozy!" (sprich: "Duhsie").
 Das Wort soll übrigens von "Duesenberg" 
 abstammen, einem Luxusauto aus den 20er und 30er Jahren. Ein Wort, das
 ich persönlich superwitzig finde, ist "Geezer" (sprich: "Gieser"). 
-Das heißt soviel wie "komischer alter Kauz".
+Das heißt so viel wie "komischer alter Kauz".
 Wenn ich am Tisch mit Leuten sitze, die alle 30 oder jünger sind,
 sage ich "Looks like I'm the geezer here!". Und Nummer drei: 
 "I got ripped off! I got screwed!" steht für: Man hat mich über's
@@ -1082,13 +1082,13 @@ Wartezeiten bis zu sechs Jahren rechnen. Da die meisten ausländischen
 Computerexperten in den USA auf einem so genannten H-1B-Visum arbeiten, 
 das hochqualifizierten Arbeitskräften für maximal sechs Jahre eine Arbeits- 
 und Aufenthaltsgenehmigung gewährt, ist man praktisch auf verlorenem Feld:
-Das Visum läuft aus, bevor die Einwanderngsbehörde den
+Das Visum läuft aus, bevor die Einwanderungsbehörde den
 Antrag auf die Green Card fertig bearbeitet hat -- selbst wenn gleich der 
 Antrag gestellt wird, sobald man seinen Fuß auf 
 amerikanischen Boden setzt. Hinzu kommt, dass die Firmen nicht in jedem Fall 
 bereit sind, gleich die Green Card zu beantragen, wollen sie doch erst 
 sicherstellen, dass der ausländische Arbeitnehmer auch gute Dienste leistet. 
-Darüber hinaus hat das H-1B-Visum einen entscheidenen Vorteil für den 
+Darüber hinaus hat das H-1B-Visum einen entscheidenden Vorteil für den
 Arbeitgeber: Die Arbeitsgenehmigung gilt nur für eine ganz 
 bestimmte Firma -- ein Jobwechsel setzt die gewaltige 
 bürokratische Mühle wieder in Gang.
@@ -1098,7 +1098,7 @@ so die Visumsbindung des Arbeitnehmers, aber
 bedingt durch den extremen Mangel an
 Computerspezialisten scheuen die meisten Firmen diesen Schritt nicht
 mehr.  Egal wie, sie wollen qualifizierte Mitarbeiter. Selbst der zur Zeit 
-stattfindene amerikanische Wahlkampf zum Präsidentenamt hat dieses Thema 
+stattfindende amerikanische Wahlkampf zum Präsidentenamt hat dieses Thema
 aufgegriffen. Eine Verkürzung des Green-Card-Prozesses
 für Computerexperten ist noch nicht im Gespräch, aber die verschiedenen 
 Kandidaten brüsten 

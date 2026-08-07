@@ -11,13 +11,11 @@ in the world. Everyone immediately wonders if the next one will hit
 us and what it would look like here after an earthquake with a
 magnitude of 8.9, like the recent one in Japan.
 
-TODO
-
 The number is dizzyingly high. Since we have already experienced
 several earthquakes of magnitude 5 here, which usually last 10-15
-seconds, we can only imagine how it must feel when the earth shakes
+seconds, we can only imagine how it must feel when the earth keeps shaking
 for 2 1/2 minutes and much more violently at that. San Francisco is
-located on the Pacific Ocean, and after severe earthquakes in the
+located right by the Pacific Ocean, and after severe earthquakes in the
 Pacific region, tsunamis threaten the Hawaiian Islands and the West
 Coast of the USA.
 
@@ -32,8 +30,7 @@ homes and move to higher ground. In San Francisco, as a precaution,
 no one was allowed on Ocean Beach anymore. The road that runs along
 Ocean Beach, the so-called Great Highway, was also closed to traffic.
 
-<pic images/tsunami-display.ps In Pacifica, the warning signs lit up
-and called for an evacuation.>
+<pic images/tsunami-display.ps In Pacifica, the warning signs lit up and called for an evacuation.>
 
 Now everything turned out well, as the anticipated superwave did not
 occur after all. In Santa Cruz (about 115 kilometers south of San
@@ -43,7 +40,7 @@ had the brilliant idea to photograph the natural spectacle up close.
 One person is still missing, while the others escaped with a fright.
 
 Now the next catastrophe is already looming. Everyone is anxiously
-following the situation in Japan's nuclear power plants, and we are
+following the situation at Japan's nuclear power plants, and we are
 wondering whether there will be a second Chernobyl or if it has
 already happened. And when radioactive radiation will reach
 California. There are also nuclear power plants in California.
@@ -51,13 +48,12 @@ Perhaps nuclear power plants should generally not be connected to the
 grid in earthquake-prone areas. I think I'll get my "Nuclear Power --
 No Thanks" sticker out of the box again.
 
-@Z: Homeless support worker in the city library
+@Z: Homeless Support Worker At The City's Public Library
 
-<pic images/sfpl-civic-center.ps The main branch of the San Francisco
-Public Library is located very close to the Civic Center.>
+<pic images/sfpl-civic-center.ps The main branch of the San Francisco Public Library is located very close to Civic Center.>
 
 <em>Angelika</em> 
-Tourists in San Francisco often notice that there are relatively many
+Tourists in San Francisco often notice that there are a lot of
 homeless people in this city. There are various reasons for this.
 First of all, rents are very high and housing is scarce. The
 relatively mild climate and a reasonable range of social programs for
@@ -75,10 +71,9 @@ not only offers public restrooms but also chairs for resting, access
 to computers and the internet, and magazines to read. In a way, it's
 an ideal substitute home for those without a permanent residence.
 
-<pic images/sfpl-inside.ps On six floors, there is not only plenty of
-space for books but also for 300 computer terminals.>
+<pic images/sfpl-inside.ps On six floors, there is not only plenty of space for books but also for 300 computer terminals.>
 
-The employees at the main library, however, felt somewhat overwhelmed
+Employees at the main library, however, felt somewhat overwhelmed
 by the task of attending to the large number of homeless individuals,
 as many struggle with alcoholism, drug addiction, or mental health
 issues. Library visitors had also complained when homeless
@@ -93,13 +88,12 @@ reintegration program have the opportunity to be employed by the
 library, for example, to monitor the restrooms. Only in San
 Francisco.
 
-@Z: Lindy in the Park
+@Z: Lindy In The Park
 
-<pic images/lindy-in-the-park.ps Every Sunday from 11 to 2 in Golden
-Gate Park: Public dance event "Lindy in the Park".>
+<pic images/lindy-in-the-park.ps Every Sunday from 11 to 2 in Golden Gate Park: Public dance event "Lindy in the Park".>
 
 <em>Angelika</em> 
-The Golden Gate Park in San Francisco is surely familiar to many of
+Golden Gate Park in San Francisco is surely familiar to many of
 you. This green oasis in the heart of the city stretches almost from
 the city center to the ocean and rivals Central Park in New York in
 terms of fame. Although there are plenty of homeless people and
@@ -120,29 +114,23 @@ Drive and dance their hearts out. The event is free, and everyone is
 welcome to join. There is even a small dance lesson for beginners
 from 11 AM to 12 PM.
 
-Since 1996, there has been...
-Lindy in the Park
+Since 1996, there has been an event called "Lindy in the Park".
 The event takes place regularly in Golden Gate Park. Lindy Hobbers
 (hence the name), Chad Kubo, and Ken Watanabe initiated it. If you,
 like me, live with someone who is an absolute dance grouch, that's
 not a problem. You don't need a partner to participate in swing
 dancing. Everyone dances with everyone, so be brave, dear tourists!
 
-And here's a little insider tip: In the...
-<LINK>http://deyoung.famsf.org|The De Young Museum is already in
-English. It is the name of a fine arts museum located in San
-Francisco, California.</LINK>
-Around the corner, anyone can go up to the observation tower without
+And here's a little insider tip: In the
+<LINK>http://deyoung.famsf.org|The De Young Museum</LINK>
+around the corner, anyone can go up to the observation tower without
 paying admission to the museum. Clear days reward you with fantastic
 views of Golden Gate Park, the city, the ocean, and the Golden Gate
 Bridge.
 
-@Z: Tagesschau aus der Ferne" translates to "Tagesschau from afar" in
-English. "Tagesschau" is a well-known German news program, so the
-phrase could imply watching or receiving news from a distance.
+@Z: Tagesschau From a Distance
 
-<pic images/tagesschau.ps Even on the other side of the world, a
-pleasure: The Tagesschau.>
+<pic images/tagesschau.ps Even on the other side of the world, a pleasure: The Tagesschau.>
 
 <em>Michael</em> 
 American news broadcasts often report only on local events, and there
@@ -165,26 +153,24 @@ this service, after 15 years of absence, we probably wouldn't be able
 to name the German Interior Minister or know the amount of the Hartz
 IV standard rate. Thank you, public broadcasters!
 
-Current update: For owners of a Roku box (
-<RBLINK>20101219#3</RBLINK>
-The phrase translates to English as: ") is recently under
-https://owner.roku.com/add/tagesschau
-A dedicated channel is available where you can sign up for free.
+Current update: For owners of a Roku box (<RBLINK>20101219#3</RBLINK>),
+the Tagesschau is available under
+<LINK>https://owner.roku.com/add/tagesschau</LINK>, which is
+a dedicated channel  you can sign up for, for free.
 Then, the latest edition of Tagesschau and several other ARD news
 programs will be available in the Roku channel menu.
 
-@Z: Borders is bankrupt.
+@Z: Borders Is Bankrupt
 
-<pic images/borders.ps The Borders store in downtown San Francisco.
-Photo: flickr[Chris Devers|cdevers/2590654879]>
+<pic images/borders.ps The Borders store in downtown San Francisco. Photo: flickr[Chris Devers|cdevers/2590654879]>
 
-<em>Angelika</em> 
+<em>Angelika</em>
 Certain things seem unstoppable; like the vinyl record, CDs will
 eventually disappear. Traditional bookstores are also increasingly
 vanishing in the USA. This is partly because there is no fixed book
 price agreement in the USA, leading to ruthless competition.
 Additionally, many people now order their books online from Amazon,
-which often sells books at up to 40% cheaper.
+which often sells books up to 40% cheaper.
 
 Initially, this development broke the back of small independent
 bookstores, as they can only purchase small quantities and thus have
@@ -192,14 +178,12 @@ little negotiating power when it comes to pricing with publishers. It
 was only recently that the bookstore "Cover to Cover" in our
 neighborhood closed for good, after a community initiative had
 temporarily saved it from bankruptcy in the summer of 2003 with
-generous loans.
-<RBLINK>20050701#7</RBLINK>
+generous loans (<RBLINK>20050701#7</RBLINK>).
 Smaller independent bookstores really only have a chance if they
 specialize, for example by stocking rare books that are not easily
 found elsewhere.
 
-<pic images/borders-closed.ps Today: The once bustling Borders store
-has closed its doors.>
+<pic images/borders-closed.ps Today: The once bustling Borders store has closed its doors.>
 
 However, even the large bookstore chains, which emerged as megastores
 in American shopping malls in the 1970s, are increasingly facing
@@ -214,8 +198,7 @@ management failed to recognize the rise of online business. Until
 handled internet orders through Amazon, essentially through its
 competitor.
 
-<pic images/kindle-kaspar.ps On the Amazon Kindle, it reads like a
-book, except that 3,500 of them fit into the small device.>
+<pic images/kindle-kaspar.ps The Amazon Kindle reads like a book, except that 3,500 of them fit into the small device.>
 
 Borders also missed the trend that digital books are becoming
 increasingly popular in the USA. Many readers are now forgoing paper
@@ -228,9 +211,9 @@ which arrive seconds later. The special feature of the Kindle is that
 it allows for fatigue-free reading because it displays black letters
 in a matte finish, similar to how they appear on paper, rather than
 glossy like on a computer screen, such as the iPad.
-<LINK>http://www.wired.com/gadgetlab/2010/09/new-amazon-ad-shows-kind
-le-as-sexy-competitor|Funny Kindle commercial video</LINK>
-Clearly highlights the differences. Michael received a Kindle from me
+A
+<LINK>http://www.wired.com/gadgetlab/2010/09/new-amazon-ad-shows-kindle-as-sexy-competitor|Funny Kindle commercial video</LINK>
+clearly highlights the differences. Michael received a Kindle from me
 for Christmas and has been going around with that thing ever since.
 
 Borders completely missed this trend towards eBooks, while the other
@@ -249,17 +232,16 @@ and elegantly integrated on the Kindle/iPad. Any newspaper or
 magazine that does not want to disappear into oblivion in the coming
 years should switch to the new format.
 
-@Z: Long lines at the Costco gas station
+@Z: Long Lines At The Costco Gas Station
 
-<pic images/costco-tanke.ps (#2) The higher the gas price, the longer
-the line at the Costco gas station.>
+<pic images/costco-tanke.ps (#2) The higher the gas price, the longer the line at the Costco gas station.>
 
 <em>Michael</em> 
 Due to the Libya crisis, fuel prices recently skyrocketed here. The
 premium gasoline that our rocket eagerly guzzles now costs almost
 four dollars per gallon ($0.77 per liter)! However, this affects us
 only peripherally at most, as we hardly drive and spend maybe $50 per
-month on gasoline. But the SUV-driving suburbanite is desperately
+month on gasoline. But SUV-driving suburbanites are desperately
 tearing their hair out.
 
 The gas station at the mega-supermarket Costco in South San Francisco
@@ -279,10 +261,9 @@ but instead went to the Shell gas station around the corner, paid an
 exorbitant $3.97 per gallon instead of $3.88, and was served
 immediately.
 
-@Z: Computer beats human in quiz show
+@Z: Computer Beats Human In Quiz Show
 
-<pic images/jeopardy-computer.ps The candidate in the middle this
-time is the computer "Watson," and it knows the answer.>
+<pic images/jeopardy-computer.ps The candidate in the middle this time is the computer "Watson," and it knows the answer.>
 
 <em>Michael</em> 
 The great American quiz show "Jeopardy!", in which three contestants
@@ -294,12 +275,11 @@ since.
 
 From a blue "wall" with questions valued from 200 to 2000 dollars,
 the contestant whose turn it is selects one, similar to the old days
-on the show "Der GroÃe Preis" with Wim Thoelke. The host reads the
+on the German show "Der Große Preis" with Wim Thoelke. The host reads the
 question aloud, and then the contestant who presses their red button
 first is allowed to answer.
 
-<pic images/jeopardy-question.ps A typical Jeopardy question: The
-correct answer is the Beatles song "Lady Madonna".>
+<pic images/jeopardy-question.ps A typical Jeopardy question: The correct answer is the Beatles song "Lady Madonna".>
 
 The correct answer earns the specified dollar amount for the
 contestant. However, a wrong answer causes the respondent's account
@@ -316,9 +296,7 @@ searched for the answer without internet access, and presented the
 three most likely answers, each with a percentage indicating the
 confidence level.
 
-<pic images/jeopardy-watson-eggheads.ps The eggheads at IBM are
-almost beside themselves with laughter as their protÃ©gÃ© Watson
-gives an utterly absurd wrong answer.>
+<pic images/jeopardy-watson-eggheads.ps The eggheads at IBM are almost beside themselves with laughter as their protegee Watson gives an utterly absurd wrong answer.>
 
 The result: The computer completely crushed the other two human
 participants, who were the most successful Jeopardy winners to date.
@@ -336,63 +314,48 @@ likely calculated through statistical analysis. A likable android!
 
 @Z: Top product: Handy Caddy
 
-<pic images/handy-caddy-pack.ps Handy Caddy", the mobile base for
-coffee machines.>
+<pic images/handy-caddy-pack.ps Handy Caddy", the mobile base for coffee makers.>
 
 <em>Michael</em> 
-Who needs something like that!" was my first thought when the online
-clearance site woot.com
-<RBLINK>20050319#4</RBLINK>
-Recently, as part of their weekly "Two for Tuesday" promotion, they
-offered the coffee machine slider "Handy Caddy" in a convenient
+"Who needs something like that!" was my first thought when the online
+clearance site woot.com (<RBLINK>20050319#4</RBLINK>),
+as part of their weekly "Two for Tuesday" promotion, recently
+offered the coffee maker slider "Handy Caddy" in a convenient
 two-pack.
 
-<pic images/handy-caddy-out.ps To fill, pull out the coffee machine
-...>
+<pic images/handy-caddy-out.ps To fill, pull out the coffee maker ...>
 
-Nach dem Studium des dazugehÃ¶rigen" translates to "After studying
-the associated" in English.
-<LINK>http://www.youtube.com/watch?v=HXmJvoeG7wU|Youtube-Infomercials
-</LINK>
-However, it suddenly became clear to me that our household also
-urgently needed a "Handy Caddy": Our coffee machine is located at the
+After studying the corresponding
+<LINK>http://www.youtube.com/watch?v=HXmJvoeG7wU|Youtube-Infomercials</LINK>,
+however, it suddenly became clear to me that our household also
+urgently needed a "Handy Caddy": Our coffee maker is located at the
 back of the countertop. To fill it with water from above, you have to
 pull it out first because of the kitchen cabinets hanging above it.
 In the dark ages before the invention of the Handy Caddy, you had to
-laboriously lift the coffee machine, but with the new plastic base,
+laboriously lift the coffee maker, but with the new plastic base,
 it now elegantly rolls out 30 cm with just one hand. A clever idea,
 and not expensive at all -- a top product!
 
-<pic images/handy-caddy-in.ps ... and after the work is done, back
-into the niche.>
+<pic images/handy-caddy-in.ps ... and after the work is done, back into the niche.>
 
 If you look closely, you might notice the small white box in the
 outlet. Our Japanese coffee maker from the brand Zojirushi brews far
-better coffee than the Cuisinart machines otherwise available in
+better coffee than the Cuisinart makers otherwise available in
 America, but it lacks any technical features like an automatic
 shut-off. And since we coffee snobs don't drink coffee that has been
-sitting on the hot plate for more than half an hour, the...
-<LINK>http://www.amazon.com/gp/product/B003P2UMS0|The phrase "Belkin
-Conserve Socket F7C009q" appears to be a product name and model
-number, specifically for a device made by Belkin. Product names and
-model numbers typically do not require translation as they are proper
-nouns. However, if you are looking for a description or explanation
-of the product, the Belkin Conserve Socket is an energy-saving outlet
-that can help reduce power consumption by automatically shutting off
-power to devices after a set period.</LINK>
-After exactly 30 minutes, simply cut the power to the coffee machine.
+sitting on the hot plate for more than half an hour, the
+<LINK>http://www.amazon.com/gp/product/B003P2UMS0|Belkin Conserve Socket F7C009q"</LINK>
+simply cuts the power to the coffee maker after exactly 30 minutes.
 This way, we save energy and can go on vacation with peace of mind.
 
-@Z: American Queueing" or "American Standing in Line It refers to the
-way people in the United States typically form lines or queues.
+@Z: American Standing In Line
 
-<pic images/line-j-church.ps The passengers line up obediently at the
-tram stop.>
+<pic images/line-j-church.ps Passengers line up obediently at the tram stop.>
 
 <em>Michael</em> 
-In a supermarket, when a new checkout lane opens in Germany, people
+At the grocery store, when a new checkout lane opens in Germany, people
 at the back of the line start running to be the first to reach the
-conveyor belt. In the USA, the new cashier doesn't start working
+newly opened conveyor belt. In the USA, the new cashier doesn't start working
 immediately but instead invites the customer who is furthest ahead in
 the next line to come to the new empty checkout, and those behind can
 follow if they wish. This way, the person who has waited the longest
@@ -401,38 +364,38 @@ position by running and elbowing others aside.
 
 Even at bus and tram stops, people do not swarm like a cluster
 towards the first door that opens. Instead, they have lined up in a
-single-file queue long beforehand, so that they can board the public
-transport one by one, in the same order in which they arrived at the
+single-file queue long beforehand, so that they can board public
+transportation one by one, in the same order in which they arrived at the
 platform.
 
 It is very rare for someone to not adhere to the nationwide customs
-and brazenly cut in line. When this happens, locals tend to look
+and brazenly cuts in line. When this happens, locals tend to look
 these rude individuals up and down questioningly -- and often realize
 that they are German tourists.
 
-@Z: The translation of "Meilensteine amerikanischen Humors" to
-English is "Milestones of American Humor.
+@Z: Milestones Of American Humor
 
-<pic images/whos-on-first.ps The classic American sketch "Who's on
-First?>
+<pic images/whos-on-first.ps The classic American sketch "Who's on First?>
 
 <em>Michael</em> 
 In a discussion, if there are funny mix-ups, it might happen that an
 American exclaims "Who's on first?" and everyone laughs. This refers
 to a classic sketch by the comedy team "Abbott and Costello" from
 1936, in which Abbott plays the coach of a baseball team whose
-players have confusing names like "Who," "What," and "I don't know.
+players have confusing names like "Who," "What," and "I don't know."
 
-Costello keeps asking, "Who's on first?
+Costello keeps asking, "Who's on first?" ("Who plays first base?"), but Abbott
+interprets Costello's question as a statement and answers "Yes," because the
+player named "Who" is indeed the first baseman ("'Who' is on first.”).
 
-The text "VW_qa6swnOM|Abbott and Costello 'Who's On First'" appears
-to be a reference to a video or a piece of content related to the
-famous comedy routine "Who's on First?" by Abbott and Costello. This
-classic sketch involves a humorous exchange about baseball player
-names, where the names sound like questions and answers, leading to a
-comedic misunderstanding. If you are looking for a translation of the
-routine itself, it is already in English. If you need more specific
-information or a summary, please let me know!
+Growing increasingly confused, Costello eventually asks, "What's the guy's name
+on first?" But Abbott immediately corrects him: "No, What's the guy on second,”
+because the player named "What" plays not on first base, as Abbott interprets
+Costello's question to suggest, but on second. Costello, however, again
+understands this sentence as a question ("What's the guy on second?") and
+complains that Abbott should stop answering his questions with other questions.
+
+<VIDEO>VW_qa6swnOM|Abbott and Costello "Who''s On First"</VIDEO>
 
 The humor in the language arises from the fact that Costello, as is
 commonly done in colloquial speech, does not raise the pitch of his
@@ -444,11 +407,9 @@ confusing names appearing, while the audience is in stitches. A
 milestone in the development of American humor! In the next
 newsletter: The Knock-Knock Joke.
 
-@Z: Bowling in Pacifica" is already in English. If you need further
-assistance or context, please let me know!
+@Z: Bowling in Pacifica
 
-<pic images/bowling-lane.ps At the "Sea Bowl" bowling alley in the
-suburb of Pacifica.>
+<pic images/bowling-lane.ps At the "Sea Bowl" bowling alley in the suburb of Pacifica.>
 
 <em>Angelika</em> 
 After being surrounded by nothing but alarming news lately and
@@ -463,23 +424,18 @@ the bowling alley, and bowling is a harmless leisure activity for a
 first date when both would-be lovebirds are not quite sure where
 things are headed.
 
-<pic images/bowling-balls.ps Bowling balls in different sizes and
-with different hole spacings.>
+<pic images/bowling-balls.ps Bowling balls in different sizes and with different hole spacings.>
 
-The bowling centers have a considerable number of lanes. They are
+Bowling centers have a considerable number of lanes. Those are
 rented by the hour, and up to six players can enjoy themselves on one
-lane. As you all surely know, in the widely popular...
-<LINK>http://en.wikipedia.org/wiki/Ten-pin_bowling|Ten Pin Bowling"
-is already in English. It refers to a type of bowling game where
-players aim to knock down ten pins arranged in a triangular formation
-using a bowling ball.</LINK>
-Ten pins (called "bowling pins" here) are arranged in a triangular
+lane. As you all surely know, in the widely popular
+<LINK>http://en.wikipedia.org/wiki/Ten-pin_bowling|"Ten Pin Bowling"</LINK>,
+ten pins (called "bowling pins" here) are arranged in a triangular
 formation at the end of the lane. Each player tries to knock down as
 many pins as possible with a relatively large ball that looks more
-like a ball. Each fallen pin scores one point.
+like a globe. Each fallen pin scores one point.
 
-<pic images/bowling-michael.ps Michael at the bowling alley "Sea
-Bowl" in Pacifica.>
+<pic images/bowling-michael.ps Michael at the bowling alley "Sea Bowl" in Pacifica.>
 
 In each round, every player tries to knock down the maximum number of
 pins with two consecutive throws. After the tenth round, the player
@@ -493,13 +449,12 @@ bore you with that. As a beginner, I'm already thrilled when the ball
 rolls straight down the wooden lane and hits the pins, instead of
 falling into the gutter and rolling past the pins on the side.
 
-<pic images/bowling-board.ps The complicated scoreboard with the
-points of the individual players.>
+<pic images/bowling-board.ps The complicated scoreboard with the points of the individual players.>
 
 The balls have three holes for the thumb, middle finger, and ring
 finger. At first, I wasn't clear about using the middle finger and
 always used my index finger, but this technique worked just as well.
-The center offers balls of varying weights with different hole
+The bowling center offers balls of varying weights with different hole
 spacings, allowing players to choose a ball that fits the size of
 their hand. Finding the right ball is a science in itself.
 
@@ -512,17 +467,14 @@ of "King of the Hill," for example, Peggy Hill finds herself in a
 predicament at the bowling center because she has such large feet and
 has to request bowling shoes in an absurd size.
 
-<pic images/bowling-sideout.ps Sometimes the bowling ball falls into
-the gutter and then rolls past the pins in the front.>
+<pic images/bowling-sideout.ps Sometimes the bowling ball falls into the gutter and then rolls past the pins in the front.>
 
 I have definitely discovered bowling for myself and, contrary to
 expectations, I didn't do too badly at it.
 
-@Z: The translation of "Alle wollen Perly Perlman" to English is
-"Everyone wants Perly Perlman.
+@Z: Everyone Wants Perly Perlman
 
-<pic images/would-like-to-buy-your-car.ps (#13) Someone wants to buy
-our old car.>
+<pic images/would-like-to-buy-your-car.ps (#13) Someone wants to buy our old car.>
 
 <em>Michael</em> 
 Our old car "Perly Perlman" is celebrating its 20th birthday this
@@ -531,7 +483,7 @@ damage to the paint, it still runs reliably like an old racehorse. We
 park it on the street because our other car, the Rocket, occupies our
 only garage space.
 
-Recently, I found a note on my windshield wiper, written by a
+Recently, I found a note under my windshield wiper, written by a
 gentleman named "Sonny," who apparently wasn't very proficient in
 English. He offered to buy Perly Perlman (see illustration #13). This
 had happened a few months ago as well, and I proudly showed it to
@@ -547,62 +499,56 @@ Italian-sounding name was also planning to establish a foothold in
 the alternative used car sector.
 
 The two rascals probably suspect that the nouveau riche in our
-neighborhood are getting rid of their second cars at bargain prices.
-If we ever want to sell Perly Perlman, at least I know Sonny's phone
+neighborhood are getting rid of their second cars at bargain prices!
+Well, if we ever want to sell Perly Perlman, at least I know Sonny's phone
 number.
 
-@Z: Verboten" translates to "forbidden" or "prohibited" in English,
-and "Total Verboten" translates to "totally forbidden" or "completely
-prohibited.
+@Z: Prohibited And Completely Prohibited
 
-<pic images/verboten-total.ps (#1) Smoking in the hotel room is not
-only prohibited here, but completely forbidden.>
+<pic images/verboten-total.ps (#1) Smoking in the hotel room is not only prohibited here, but completely forbidden.>
 
 <em>Michael</em> 
 If something is prohibited in America, Americans tend to handle it
 pragmatically if the prohibition seems pointless to them. This has
 deep roots, as they are not a nation of order-takers, often using
-German history as a cautionary example. Parking in the second row?
-You can do that if there's no parking space available. Pedestrian
-light is red, but no car is coming? People routinely cross anyway.
+German history as a cautionary example. Double parking?
+Fine if there's no parking space available. Pedestrian
+traffic light is red, but no car is coming? People routinely cross anyway.
 Dogs must be on a leash at the beach? Oh, let the cute little Fifi
 run free. And smoking marijuana joints is so ubiquitous in San
 Francisco that one might think it's legal. The rule here is: If it
 doesn't bother anyone, you can do it.
 
 It is also legally prohibited in California to consume alcoholic
-beverages on the street. This is generally adhered to, and the beer
-bottle is concealed with a brown paper bag if necessary. However,
+beverages on the street. This is generally adhered to, and alcoholic drinks
+are concealed with a brown paper bag if necessary. However,
 when the police chief announced on television last year that there
 would be "zero tolerance" towards alcohol offenders at the Castro
 Halloween event, it was clear that the ban would be enforced on this
 occasion.
 
 In illustration (#1), you can see the no-smoking sign in a hotel room
-in San Diego, which indicates that polluting the room with cigarette
-smoke will indeed be penalized and not just left with a warning. The
+in San Diego, which indicates that you pollute the room with cigarette
+smoke, you will indeed be penalized and not just left with a warning. The
 expression "Totally 100%" reflects such a helpless attempt by a
-childish mind to be taken seriously that I had to laugh quite a bit.
-In fact, the reception withheld a deposit from the credit card to
+childish mind to be taken seriously that I had to laugh quite a bit when
+I read it.
+In fact, the reception of this hotel withheld a deposit from the credit card to
 enforce this if necessary, as apparently some guests believed it was
 just a well-intentioned suggestion.
 
-In the meantime, I also interpret silly regulations pragmatically.
+After years of living here, I have also learned interpret silly regulations pragmatically.
 For example, it's not allowed to carry a six-pack of beer without
 packaging, but for the hundred meters from the liquor store to our
 apartment, I don't bother getting a plastic bag, even though our
 neighborhood is swarming with police officers ("Happy Donuts" shop on
 the corner). And in the morning, I can only make it to the Yahoo
 shuttle bus at the intersection of 27th and Valencia in ten minutes
-if I cross the four-lane Guerrero Street between the traffic lights.
-<RBLINK>20100509#3|"Jaywalking"</RBLINK>
-We don't double park, though; there's no need to participate in every
+if I cross the four-lane Guerrero Street between the traffic lights
+(<RBLINK>20100509#3|"Jaywalking"</RBLINK>).
+We never double park, though; there's no need to participate in every
 bit of nonsense.
 
-The translation from German to English is: "Greetings from the Valley
-of the Outlaws:
+Greetings from the Valley of the Outlaws:
 
-The translation of "Angelika & Michael" to English is "Angelika &
-Michael," as these are proper names and typically do not change when
-translated between languages.
-
+Angelika & Michael
