@@ -169,6 +169,8 @@ offices, California uses a system known as a "Top-Two Open Primary," which,
 amusingly, is also often referred to as a "jungle primary." California uses a
 different system only for presidential elections.
 
+<pic images/election-gov-primary.ps Governor primary election results: Only the top two candidates advance.>
+
 So what exactly is behind this "top-two system"? The name gives some of it
 away. For the gubernatorial election, seats in the US Congress, and elections
 to the California State Legislature, all candidates appear on a single ballot,
