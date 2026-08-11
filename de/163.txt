@@ -187,6 +187,8 @@ die meisten wichtigen Ämter ein sogenanntes "Top-Two Open Primary"-System,
 lustigerweise oft auch als "Dschungel-Vorwahl" (Jungle Primary) bezeichnet. Nur
 bei Präsidentschaftswahlen gilt in Kalifornien ein anderes System.
 
+<pic images/election-gov-primary.ps Ergebnis der Gouverneurs-Vorwahlen: Nur zwei Kandidaten kommen in die Endrunde.>
+
 Was versteckt sich nun hinter diesem "Top-Two-System"? Der Name verrät es schon
 ein bisschen. Für die Gouverneurswahl, für die Sitze im US-Kongress und für die
 Wahlen zum kalifornischen Parlament kommen alle Kandidaten, unabhängig von
