@@ -1,8 +1,8 @@
 San Francisco, den 01.06.2000
 
-<pic images/gcfinal.ps Die begehrte amerikanische Greencard>
-
 @Z: Warten auf die Green Card
+
+<pic images/gcfinal.ps Die begehrte amerikanische Greencard>
 
 <em>(Angelika)</em>
 Die amerikanische Green Card ist im Gespräch, seit Bundeskanzler 
@@ -145,7 +145,7 @@ Kalifornien.
 
 <B>Buchempfehlung zum Thema:</B>
 <p>
-<COMMENT><pic images/immi.jpg foo></COMMENT>
+<COMMENT><pic images/immi.ps Buchempfehlung zum Thema Einwanderung></COMMENT>
 <A HREF="http://www.amazon.de/exec/obidos/ASIN/0873378997/perlmeistercom04"><IMG SRC="images/immi.jpg"></A>
 
 US Immigration Made Easy -- Ein wirklich gutes Buch, das alle wichtigen
