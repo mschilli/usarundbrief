@@ -15,7 +15,7 @@ Während eines darauf folgenden dreiwöchigen Urlaubs auf Hawaii
 habe ich dann die Strände auf der Insel Oahu, hauptsächlich um Waikiki herum,
 surftechnisch erkundet.
 
-<HTMLONLY><pic images/surf-waves.jpg Michael paddelt wie ein Wilder, damit er die Welle bekommt.></HTMLONLY>
+<HTMLONLY><pic images/surf-waves.ps Michael paddelt wie ein Wilder, damit er die Welle bekommt.></HTMLONLY>
 
 Mittlerweile klappt's ganz gut mit dem Surfen, ich kann zwar noch keine
 Monsterwellen fahren, aber nehme schon die ein oder andere Welle mit
@@ -112,7 +112,7 @@ paddelt der höfliche Fremdling erst mal im Bogen auf die lauernden Surfer zu
 und nähert sich ihnen seitlich. Der Grund: Kommt die nächste Welle angerollt
 und die Locals paddeln los, sollte man nicht im Weg stehen.
 
-<HTMLONLY><pic images/surf-beaches.jpg Auf Oahu ist ein Surfstrand am nächsten.></HTMLONLY>
+<HTMLONLY><pic images/surf-beaches.ps Auf Oahu ist ein Surfstrand am nächsten.></HTMLONLY>
 
 Es gilt: Vorfahrt hat, wer als erstes auf der Welle ist. Da hat derjenige, der
 weiter draußen lauert, einen Vorteil, wenn die Welle auf seiner Position schon
