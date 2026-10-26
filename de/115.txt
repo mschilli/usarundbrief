@@ -88,7 +88,7 @@ zurückkehren werden.
 
 @Z: Perly Perlmans letzte Ruhestätte
 
-<pic images/dismantler-4.ps Perly Perlman steht nun beim Schrotthändler.>
+<pic images/perlman-rear.ps Unser altes Auto, Perly Perlman>
 
 <em>Michael</em> Im letzten Rundbrief hatte ich noch scherzhaft rumgetönt, dass
 ich wohl bald live aus der Schrottpresse berichten würde
@@ -99,7 +99,11 @@ der Straße zu nehmen. Damals hatte ich freilich noch keine Ahnung davon, dass
 es so schnell gehen würde! Aber als Angelika neulich berichtete, dass ihr das
 Kupplungspedal unseres Zweitautos im Stau auf der Bay-Bridge steckengeblieben
 war und sie es von Hand wieder hochziehen musste, handelte ich schnell und
-kaufte ihr ein neues Pendler-Muli, einen Honda Fit Sport Baujahr 2011. Der
+kaufte ihr ein neues Pendler-Muli, einen Honda Fit Sport Baujahr 2011.
+
+<pic images/dismantler-4.ps Perly Perlman steht nun beim Schrotthändler.>
+
+Der
 Trend zum Drittauto ist zwar in Amerika heutzutage unaufhaltbar, aber da wir
 nur zwei Stellplätze in der Garage haben, auf der Straße laufend Autos
 gestohlen werden oder in sie eingebrochen wird, und die laufende Umparkerei
