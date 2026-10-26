@@ -93,7 +93,7 @@ great increase in sidewalk tents again soon.
 
 @Z: Perly Perlman's last resting place
 
-<pic images/dismantler-4.ps Perly Perlman: Last seen at the junkyard.>
+<pic images/perlman-rear.ps Our old car, the venerable Perly Perlman>
 
 <em>Michael</em> In the previous installment of this publication, I had
 reported that a program run by the state of California had offered me
@@ -105,6 +105,9 @@ Angelika had told me that our backup car started acting up while
 she was driving across the Bay Bridge, and reportedly had to stop and pull
 a stuck clutch pedal back up by hand, so I acted quickly and purchased
 a new commuter mule for her: a 2011 Honda Fit.
+
+<pic images/dismantler-4.ps Perly Perlman: Last seen at the junkyard.>
+
 There's a hard to ignore trend to three car households in the U.S., but 
 we only have two garage spots available, and parking on city streets means
 dealing with frequent break-ins and car theft, let alone the constant
