@@ -563,6 +563,8 @@ Geschwindigkeit des Fahrzeugs auf den legalen Wert drosselt. Der Kunde kann
 aber anschließend selbst den Schalter umlegen und mit doppelter Geschwindigkeit
 herumsausen. Freilich illegal, aber unsere Polizei prüft so etwas (noch) nicht.
 
+<GIF>images/ssm-bayshore.gif|Mit 50km/h auf dem Fahrradweg rasen.</GIF>
+
 Grüße aus dem verrückten Land!
 
 Michael und Angelika
