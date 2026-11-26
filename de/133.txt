@@ -323,7 +323,7 @@ schreit.
 
 @Z: Hunde im Lebensmittelladen
 
-<pic images/trader-dog.ps Dieses Kalb von Hund hat eigentlich im Lebensmittelladen "Trader Joe's" nichts zu suchen.>
+<pic images/rainbow-dog.ps Der Lebensmittelladen Rainbow Grocery in San Francisco dürfte eigentlich keine Hunde reinlassen.>
 
 <em>Michael</em> Eigentlich legt Kalifornien im
 <LINK>https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC\&sectionNum=114259.5|Kapitel 8 des "Health und Safety Code"</LINK>
@@ -332,7 +332,7 @@ Essen verkaufen, also Restaurants oder Lebensmittelgeschäfte, keine Hunde rein
 dürfen. Allerdings sind Kalifornier geradezu vernarrt in ihre Hunde und nehmen
 es mit Gesetzen nicht so genau.
 
-<pic images/rainbow-dog.ps Der Lebensmittelladen Rainbow Grocery in San Francisco dürfte eigentlich keine Hunde reinlassen.>
+<pic images/trader-dog.ps Dieses Kalb von Hund hat eigentlich im Lebensmittelladen "Trader Joe's" nichts zu suchen.>
 
 In letzter Zeit fällt mir immer öfter auf, dass
 sich Hundebesitzer nicht an die Vorschrift des Gesundheitsamtes halten, und das
