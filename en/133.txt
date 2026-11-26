@@ -296,7 +296,7 @@ developed yet. Tip from the expert: It usually pays off to plan carefully and
 consider side effects before robotically always siding with the one who shouts
 the loudest.
 
-@Z: Dogs in the grocery store
+@Z: Dogs In the Grocery Store
 
 <pic images/rainbow-dog.ps Rainbow Grocery in San Francisco sells groceries and shouldn't allow customers to bring their dogs inside.>
 
