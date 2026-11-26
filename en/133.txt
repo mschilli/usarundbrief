@@ -298,13 +298,13 @@ the loudest.
 
 @Z: Dogs in the grocery store
 
-<pic images/trader-dog.ps This calf of a dog really has no business being in the grocery store "Trader Joe's.>
+<pic images/rainbow-dog.ps Rainbow Grocery in San Francisco sells groceries and shouldn't allow customers to bring their dogs inside.>
 
 <em>Michael</em> California regulates in <LINK>https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=HSC\&sectionNum=114259.5|Chapter 8 of the "Health and Safety Code</LINK> that no dogs are allowed inside establishments that sell food, such as restaurants or grocery stores. However, Californians are
 absolutely infatuated with their dogs and don't take
 laws very seriously.
 
-<pic images/rainbow-dog.ps Rainbow Grocery in San Francisco sells groceries and shouldn't allow customers to bring their dogs inside.>
+<pic images/trader-dog.ps This calf of a dog really has no business being in the grocery store "Trader Joe's.>
 
 Lately, I've been noticing more and more that dog owners
 are simply ignoring the health department's regulations, and the present store
