@@ -10,7 +10,7 @@ Ich hatte es ja schon im letzten Rundbrief angekündigt. Die sogenannten
 Midterms standen an.  Außerdem wählten wir in Kalifornien einen neuen
 Gouverneur, was im deutschen System in etwa dem Amt eines Ministerpräsidenten
 entspricht. Und wie üblich wurden dem Wahlzettel (Abbildung (#6)) noch lokale
-Wahlen wie der des Stadtrats unseres Viertels, einiger Richter, des
+Wahlen wie die des Stadtrats unseres Viertels, einiger Richter, des
 Generalstaatsanwalts von Kalifornien, des Stadtkämmerers,
 des Schulrats, sowie zwei Dutzend Bürgerentscheide beigepackt.
 Insgesamt mussten wir 34 (!) verschiedene Kreuzchen machen.
@@ -59,7 +59,7 @@ Die Wahl war ganz offensichtlich eine Protestwahl gegen Trumps Politik und die
 vielen Versprechen, die aus Sicht vieler Wähler nicht eingelöst wurden. Immer
 wieder wurden die anhaltend hohen Lebenshaltungskosten als Grund für die
 Unzufriedenheit genannt. Inflation, Zölle und nicht zuletzt der Irankrieg, der
-sich besonders deutlich auf die Benzinpreise hier auswirkt hat, haben vielen
+sich besonders deutlich auf die Benzinpreise hier ausgewirkt hat, haben vielen
 Menschen finanziell zugesetzt. Auch Bauern in der Mitte des Landes, die in der
 Regel treue republikanische Wähler sind, wählten demokratisch, denn sie
 ächzten besonders unter den Zöllen und den hohen Dieselpreisen für ihre
@@ -155,7 +155,7 @@ Technikhunger mitbringen, sonst ist's vielleicht nicht so interessant.
 
 @Z: Milliardärssteuer und lokales Gezänke
 
-<pic images/prop40-illu.ps Proposition 40 wollte eine Vermögenssteuer für Milliaräre einführen.>
+<pic images/prop40-illu.ps Proposition 40 wollte eine Vermögenssteuer für Milliardäre einführen.>
 
 <em>Angelika</em> Gleichzeitig mit der Bundeswahl wurde am 3. November auch über einige wichtige
 kalifornische Kandidaten und Gesetzesvorlagen abgestimmt.  Nicht zuletzt
@@ -264,12 +264,12 @@ Zugeständnisse zugunsten seiner Gewerkschaft. Dazu sollen unter anderem
 Gewerkschaftsverträge mit bestimmten Krankenhäusern und Kliniken gehört haben.
 Die Mafia lässt grüßen.
 
-Unser zur Zeit noch amtierender Gouverneur Gavin Newsom sprach sich nämlich gegen die
+Unser zurzeit noch amtierender Gouverneur Gavin Newsom sprach sich nämlich gegen die
 "Billionaire Tax" aus. Er befürchtete, dass die Steuer dem Wirtschaftsstandort
 Kalifornien mehr schaden als nutzen würde, unter anderem durch die Wohn- und
 Firmensitzverlegung einiger der betroffenen Milliardäre. Denn bekanntlich gibt
 es ja noch keine Mauer um Kalifornien herum, und jeder darf kommen und
-gehen, und auch in einen anderen Bundesstaat umzuziehen. Google-Mitgründer
+gehen, und auch in einen anderen Bundesstaat umziehen. Google-Mitgründer
 Sergey Brin zum Beispiel verlegte kurzerhand seinen Wohnsitz nach Nevada. Auch
 war sehr undurchsichtig, wie der Vermögenswert überhaupt festgelegt werden
 sollte. Das hatte sich keiner so genau überlegt. Am Ende stimmten
@@ -351,20 +351,20 @@ Namensänderung daher, weil es unzählige Witze über Ungarns englischen Namen
 "Hungary" gibt, der auf Amerikanisch praktisch wie "hungry" (hungrig) klingt? Wo soll
 das alles nur enden?
 
-@Z: Roboter ersetzt Cafe-Barista
+@Z: Roboter ersetzt Café-Barista
 
 <pic images/robo-coffee.ps Am Flughafen SFO steht ein Roboter, der Kaffee zubereitet.>
 
-<em>Michael</em>In Amerika ist in den letzen Jahren der
+<em>Michael</em> In Amerika ist in den letzten Jahren der
 Niedriglohnsektor verschwunden.  Der staatlich festgesetzte Mindestlohn bei uns in
-Kalifornien beträgt zur Zeit $16.90, in San Francisco sogar $19.61.  Das freut
+Kalifornien beträgt zurzeit $16.90, in San Francisco sogar $19.61.  Das freut
 die Angestellten, die nun nicht mehr für 5 Dollar die Stunde arbeiten müssen,
 hat aber den Nebeneffekt, dass Produkte mit Serviceleistung nun stark im Preis
 angezogen haben.
 
 <pic images/sandwiches-airport.ps (#7) Diese belegten Brötchen am Flughafen sind so teuer, dass der Ladeninhaber die Preise verheimlicht.>
 
-Zum Beispiel kostet bei uns zur Zeit (2026) ein Expresso-Getränk im Cafe sechs Dollar aufwärts, und
+Zum Beispiel kostet bei uns zurzeit (2026) ein Espresso-Getränk im Café sechs Dollar aufwärts, und
 überkandidelte Kreationen werden wohl bald die 10-Dollar-Marke überschreiten.
 Da stöhnt der Kunde, und die Betreiber von Restaurationsbetrieben, nicht auf
 den Kopf gefallen, schreiben neuerdings nicht mehr den vollen Preis auf die Speisekarten,
@@ -383,11 +383,11 @@ Ende *mehr* als 20% zu geben (<RBLINK>20210726#8</RBLINK>).
 <pic images/no-price-tags.ps Auch diese Backwaren sind so teuer, dass der Laden keine Preise ausweist.>
 
 Dann kommen neuerdings noch Fantasieaufschläge hinzu, wie eine
-"Employee-Surchage" (Angestellten-Zulage), die dem überraschten Kunden
+"Employee-Surcharge" (Angestellten-Zulage), die dem überraschten Kunden
 grundlos zusätzlich abgeknöpft wird (zum Beispiel 5% in Abbildung (#8)). Die hatte wohl
 ihren Ursprung in einer auf Kunden umgewälzten Krankenversicherung für die
 Angestellten im Restaurant (<RBLINK>20080502#4</RBLINK>), ist aber mittlerweile
-zur totalen Willkühr verkommen. Weiter legen viele Betriebe mittlerweile die
+zur totalen Willkür verkommen. Weiter legen viele Betriebe mittlerweile die
 Kartengebühren auf den Kunden um, falls der mit Karte zahlt
 (<RBLINK>20260810#8</RBLINK>). 
 
@@ -397,7 +397,7 @@ Außerdem sind Waren mittlerweile teilweise so teuer geworden, dass manche
 Betriebe sie überhaupt nicht mehr mit Preisschildern versehen, und als Kunde
 kann man nur beten, dass an der Kasse später ein vertretbarer Betrag
 hochschnellen wird. Was die belegten Brötchen in Abbildung (#7) wohl kosten?
-Sicher über 10 Dollar, oder der Preis wäre ausgeschildert.  Nun bin ich bin ja
+Sicher über 10 Dollar, oder der Preis wäre ausgeschildert.  Nun bin ich ja
 kein Freund von staatlichen Eingriffen in einen funktionierenden Markt, aber
 diesem Nepp sollten Gesetzeshüter ein Ende bereiten.  In Deutschland muss ein
 Laden ja auch die Preise inklusive der Mehrwertsteuer nennen und nicht später
@@ -414,17 +414,17 @@ den Kaffee zubereitete, sondern ein Roboter.  Nachdem ich die Bestellung am iPad
 des Kiosks eingetippt und mit Kreditkarte bezahlt hatte (gebührenfrei), fing
 hinter einer dicken Glasscheibe ein Industrieroboter an zu rödeln.
 Er griff sich nacheinander zwei Pappbecher, stellte
-sie jeweils unter einen Kaffeeautomaten, worauf Letzerer langsam einen Latte
-Machiato und einen Capuchino in die Becher tröpfeln ließ.
+sie jeweils unter einen Kaffeeautomaten, worauf Letzterer langsam einen Latte
+Macchiato und einen Cappuccino in die Becher tröpfeln ließ.
 
 <GIF>images/coffee-robot-2.gif|Die Roboter-Barista stellt die fertigen Kaffeegetränke ins Ausgabefach.</GIF>
 
-Die Qualtität der Kaffees war etwa so gut wie aus einen Vollautomaten, also
+Die Qualität der Kaffees war etwa so gut wie aus einem Vollautomaten, also
 nicht vergleichbar mit einem professionell zubereiteten Espresso-Drink, aber
 okay, das ist wohl nur eine Frage der Zeit, bis der Roboter auch diese simplen
 Handgriffe beherrscht. Die fertig gefüllten Kaffeebecher schnappte sich der
 Roboterarm anschließend, und stellte sie im Ausgabefach ab. Nachdem ich auf
-einen weiteren iPad meinen vorher angegebenen Namen angetippt hatte, glitt eine
+einem weiteren iPad meinen vorher angegebenen Namen angetippt hatte, glitt eine
 Glasscheibe zur Seite und ich konnte zwei Kaffee entgegennehmen.  Die zwei
 Becher kosteten jeweils sieben Dollar, und lagen damit etwa im Rahmen der am
 Flughafen leider üblichen Mondpreise.  Naturgemäß verlangte der Roboter
@@ -458,7 +458,7 @@ Häuser und Infrastruktur.
 
 <pic images/kauai-sand.ps Hawaii-Bürger werden aufgefordert, eimerweise Sand auf den leergeblasenen Strand zu kippen.>
 
-Und im September 2026, zog ein neuer Hurrikan namens Lowell westlich an der sehr
+Und im September 2026 zog ein neuer Hurrikan namens Lowell westlich an der sehr
 abgeschiedenen Insel Niihau vorbei und brachte erneut starke Winde, heftige
 Regenfälle und gefährlich hohe Wellen nach Kauai. Besonders schwere Schäden gab
 es an den südlichen und westlichen Küsten, während es im Norden zu
@@ -529,7 +529,7 @@ Sand fest. Umso erstaunlicher war es, dass die Menschen schon wieder fröhlich
 im Wasser badeten, während im Hintergrund die Handwerker kaputte Scheiben in
 den Häusern austauschten.
 
-<pic images/poipu-turtles.ps Die Riesenschildkröten am Strand von Poipu zeigten sich unbeindruckt.>
+<pic images/poipu-turtles.ps Die Riesenschildkröten am Strand von Poipu zeigten sich unbeeindruckt.>
 
 Und die berühmten Schildkröten von Poipu? Die lagen ebenfalls schon
 wieder am Strand und sonnten sich, als hätten sie sich von dem ganzen Trubel
@@ -562,7 +562,7 @@ Sauerampfer.
 
 Grocery Outlet ist nun eine Art "Rudis Reste-Rampe" der
 Lebensmittelsupermärkte.  Nichts dort kostet einen "normalen" Preis, sondern
-soundso viel, aber "anderswo mehr".  So steht auf dem Preischild vor der
+soundso viel, aber "anderswo mehr".  So steht auf dem Preisschild vor der
 Plastikflasche mit einem Quart (Viertelgallone, etwa ein Liter) Milch "$2.99, elsewhere
 $3.99". Ob das immer so genau stimmt, wage ich zu bezweifeln, aber das ist
 das Konzept. Ob zum Beispiel die deutsche Milka-Schokolade "sonstwo $3.49"
@@ -574,7 +574,7 @@ in Kalifornien nirgendwo sonst deutsche Milka zu kaufen gibt, außer vielleicht 
 
 Besonders in der Weinabteilung spare ich so Unsummen, denn Grocery Outlet kauft
 Restposten bekannter Napa-Valley-Weinberge auf, die sonst ihre guten Tropfen zu
-Mondpreisen verkaufen. Dass letzteres der Fall ist, kann man sehr leicht
+Mondpreisen verkaufen. Dass Letzteres der Fall ist, kann man sehr leicht
 nachprüfen, indem man ins Napa Valley fährt, eine Weinprobe macht und sich
 dort die Haare darüber rauft, dass eine recht normale Flasche Rotwein bei
 Oberklasse-Winzern wie "Chateau St Jean" $50 kostet.
@@ -666,7 +666,7 @@ Muskelgedächtnis.
 
 Ein Bagger-Instruktor wies mich kurz ein, legte dann einen Hebel um, rief "Jetzt ist
 der Bagger scharf!" und ich fing ganz vorsichtig an, die Schaufel zu bewegen.
-Das sah wohl etwas tolpatschig aus, und der Instruktor zeigte mir noch einen Trick:
+Das sah wohl etwas tollpatschig aus, und der Instruktor zeigte mir noch einen Trick:
 Um ein Erdloch auszuheben, stellt man die Baggerschaufel erst senkrecht nach
 unten (rechter Hebel je nach Schaufelstellung nach rechts oder links), senkt
 dann den Arm (rechter Hebel nach vorne), damit sich die Schaufel senkrecht in
